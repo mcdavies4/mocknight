@@ -1,0 +1,117 @@
+# Mock Night
+
+JAMB & WAEC prep on Telegram:
+
+- **Daily drill**: questions in the student's subjects at the time they choose. Questions are sent as native Telegram quiz polls, or as A–D buttons when a question is too long for a poll. Wrong answers go into a review box and come back after 1, 2, 4, 8 and 16 days until mastered.
+- **Practice CBT**: a Telegram Mini App that works like the exam hall, with a timer, subject tabs, a question map, a calculator and A–D/N/P keyboard shortcuts. Answers autosave and resume after a dropped connection. It ends with a score per subject, a JAMB-style score out of 400 and a review of every question.
+- **Mock Night** runs every Sunday at 8pm WAT. Every student gets the same questions, with 60 minutes to answer. Students get their national and state rank on Monday at 8am, and tutors' linked Telegram groups get their own leaderboard.
+- **Tutors and tutorial centres**: create a group, share one join link, buy Premium seats for students, use a web dashboard to see who's practising, and get weekly results posted in their Telegram group.
+- **Paystack**: student Premium (30 days or until the exam) and per-seat billing for tutors.
+
+Stack: Next.js 15 (App Router) · grammY · Supabase (Postgres) · Paystack · Vercel.
+
+---
+
+## Setup (about 20 minutes)
+
+### 1. Telegram bot
+1. In @BotFather, use `/newbot` to get the token and choose a username.
+2. Use `/mybots → Bot Settings → Allow Groups`: turn it **on**, so tutors can add the bot to their groups.
+3. Use `/setprivacy`: set it to **Enabled** (the default). The bot only needs commands in groups.
+
+### 2. Supabase
+1. Create a project.
+2. In the SQL Editor, paste and run `supabase/migrations/0001_init.sql`.
+3. Copy the Project URL and the **service_role** key from Settings → API.
+
+### 3. Paystack
+1. Copy your secret key (start with `sk_test_…`).
+2. Set the webhook URL in Paystack Settings → API Keys & Webhooks to `https://YOUR_APP/api/paystack/webhook`.
+
+### 4. Deploy to Vercel
+```bash
+cp .env.example .env      # fill it in
+npm install
+git init && git add . && git commit -m "Mock Night MVP"
+# push to GitHub (mcdavies4/mocknight), import into Vercel, and add the same env vars there
+```
+
+### 5. Load questions and connect the bot
+```bash
+npm run import-questions -- data/questions.seed.json --reviewed --source=seed
+npm run set-webhook       # uses APP_URL from .env
+```
+Open your bot and press **Start**.
+
+### 6. Hourly scheduler
+`vercel.json` runs `/api/cron` every hour. **Vercel's Hobby plan only allows daily crons.** On Hobby, use a free external scheduler instead:
+- [cron-job.org](https://cron-job.org): every hour at minute 0, call
+  `GET https://YOUR_APP/api/cron?secret=YOUR_CRON_SECRET`
+
+The hourly run sends daily drill reminders, creates Mock Night on Sunday at 6pm, sends the 6pm reminder and the 8pm "live" message, and posts results on Monday at 8am.
+
+---
+
+## Questions
+
+The seed file has 56 original questions across English, Maths, Physics, Chemistry, Biology, Economics and Government. Have a teacher check them before launch. You'll need **at least 300 per subject** before going public.
+
+**Drafting more with AI (a teacher must check every batch):**
+```bash
+npm run generate-questions -- CHM "Electrolysis" 20
+# teacher checks data/generated/CHM-Electrolysis-....json, then:
+npm run import-questions -- data/generated/CHM-Electrolysis-....json --reviewed --source=ai+teacher
+```
+Only questions marked `reviewed = true` are ever shown to students.
+
+**Adding a subject:** add its code to `OFFERED_SUBJECTS` in `lib/subjects.ts` once it has questions.
+
+**Copyright:** don't scrape explanations from MySchool, Passnownow or other commercial sites. Write original questions or use ones you have rights to.
+
+---
+
+## Pricing (edit `lib/pricing.ts`)
+| | Free | Premium |
+|---|---|---|
+| Daily drill | 10 questions | 20 questions |
+| Practice CBT | 1 a week | Unlimited |
+| Mock Night | ✅ | ✅ |
+
+- Student: ₦1,500 for 30 days, or ₦4,000 for 120 days ("till exam")
+- Tutor seats: ₦800 per student per 30 days. Seats go to the earliest-joined students first.
+
+---
+
+## Bot commands
+**Students:** `/start`, `/drill`, `/cbt`, `/mocknight`, `/leaderboard`, `/stats`, `/premium`, `/settings`, `/time`, `/join CODE`
+
+**Tutors:** `/newgroup Name`, `/mygroups`, `/seats N [CODE]`, `/dashboard`, `/linkgroup CODE` (send this inside their Telegram group)
+
+---
+
+## How things fit
+```
+app/api/telegram        ← Telegram webhook (grammY)
+app/api/cron            ← hourly jobs (drill prompts, Mock Night, results)
+app/api/mini/*          ← Mini App API (initData-verified): start / save / submit
+app/api/paystack/webhook← payment confirmation (HMAC-SHA512 verified, idempotent)
+app/mock                ← CBT Mini App
+app/dashboard           ← tutor dashboard (magic link from /dashboard in the bot)
+bot/                    ← all bot handlers and keyboards
+lib/drill.ts            ← drill building, review box, quiz polls
+lib/mock.ts             ← practice + weekly mocks, grading
+lib/jobs.ts             ← scheduled jobs
+supabase/migrations     ← schema + SQL functions
+```
+
+## Notes and limits
+- **Paystack email:** Telegram gives no email address, so checkout uses `tg<id>@users.mocknight.app` as a placeholder. Collect a parent's email later if you want receipts to arrive.
+- **Broadcasts** send about 25 messages per second. One cron run handles roughly 1,000–1,500 students inside Vercel's 60-second limit. Past that, move broadcasts to a queue such as Supabase Edge Functions or QStash.
+- **Under-18s:** most WAEC candidates are minors. The app stores only a first name, school, state and scores. Keep it that way, and point payment messages at parents.
+
+## Next: Post-UTME
+The engine already supports it:
+1. Add a `university` column to `questions`, and `target_university` to `students`.
+2. Add a "Post-UTME" exam option in onboarding with a university picker.
+3. Filter `pick_new_questions` / `pick_random_questions` by university.
+4. Add per-university practice mocks (most use 50 questions in 30–60 minutes).
