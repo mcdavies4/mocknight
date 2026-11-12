@@ -19,6 +19,7 @@ type Phase =
 export default function Cbt() {
   const params = useSearchParams();
   const mockId = params.get("mock");
+  const variant = params.get("variant");
 
   const [phase, setPhase] = useState<Phase>({ name: "loading" });
   const [data, setData] = useState<MockPayload | null>(null);
@@ -40,7 +41,7 @@ export default function Cbt() {
     const w = tg();
     w?.ready();
     w?.expand();
-    api<MockPayload>("/api/mini/start", { mockId })
+    api<MockPayload>("/api/mini/start", { mockId, variant })
       .then((p) => {
         setData(p);
         setAnswers(p.answers ?? {});
@@ -55,7 +56,7 @@ export default function Cbt() {
         }
       })
       .catch((e) => setPhase({ name: "error", code: e.message, startsAt: e.data?.startsAt }));
-  }, [mockId]);
+  }, [mockId, variant]);
 
   // ---- Questions for current subject ---------------------------------------
   const bySubject = useMemo(() => {

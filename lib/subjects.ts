@@ -14,6 +14,9 @@ export const SUBJECTS: Record<string, string> = {
   ACC: "Accounting",
   AGR: "Agric Science",
   LUK: "Life in the UK",
+  FIR: "Fire Safety",
+  NMN: "Numeracy (Part A)",
+  NMC: "Clinical (Part B)",
 };
 
 /** School subjects with questions. Add codes here once you have questions for them. */

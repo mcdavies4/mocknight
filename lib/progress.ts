@@ -1,5 +1,5 @@
 import { db, must } from "./supabase";
-import { getTrack } from "./tracks";
+import { getTrack, mockConfig } from "./tracks";
 import { streakDays } from "./drill";
 import type { Student } from "./types";
 
@@ -24,7 +24,7 @@ export async function getProgress(student: Student): Promise<Progress> {
     streakDays(student.id),
     db()
       .from("mock_attempts")
-      .select("raw_score, total, scaled_score, submitted_at, mocks!inner(kind, track)")
+      .select("raw_score, total, scaled_score, submitted_at, mocks!inner(kind, track, variant)")
       .eq("student_id", student.id)
       .eq("mocks.kind", "practice")
       .not("submitted_at", "is", null)
@@ -58,15 +58,21 @@ export async function getProgress(student: Student): Promise<Progress> {
   const scores = tests.map((t) => Math.round(Number(t.scaled_score)));
   let passesInARow: number | null = null;
   let readiness: number | null = null;
+  const passOf = (t: any) => {
+    const m = Array.isArray(t.mocks) ? t.mocks[0] : t.mocks;
+    return mockConfig(track, m?.variant).passPct;
+  };
   if (track.mock.passPct && tests.length) {
     passesInARow = 0;
     for (const t of tests) {
-      if (t.raw_score >= Math.ceil((t.total * track.mock.passPct) / 100)) passesInARow++;
+      const pp = passOf(t) ?? track.mock.passPct;
+      if (t.raw_score >= Math.ceil((t.total * pp) / 100)) passesInARow++;
       else break;
     }
-    const last5 = scores.slice(0, 5);
-    const avg = last5.reduce((a, b) => a + b, 0) / last5.length;
-    readiness = Math.min(100, Math.round((avg / track.mock.passPct) * 100 * (last5.length >= 3 ? 1 : 0.8)));
+    // Readiness = average of (score ÷ pass mark) over the last 5 tests
+    const last5 = tests.slice(0, 5);
+    const ratio = last5.reduce((a, t) => a + Number(t.scaled_score) / (passOf(t) ?? track.mock.passPct!), 0) / last5.length;
+    readiness = Math.min(100, Math.round(ratio * 100 * (last5.length >= 3 ? 1 : 0.8)));
   }
 
   return {

@@ -1,0 +1,1718 @@
+[
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "What are the four themes of the NMC Code?",
+  "options": [
+   "Prioritise people, practise effectively, preserve safety, promote professionalism and trust",
+   "Care, compassion, competence, communication",
+   "Respect, dignity, safety, honesty",
+   "Assess, plan, implement, evaluate"
+  ],
+  "answer": 0,
+  "explanation": "The NMC Code (2015, updated 2018) is organised around these four themes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "How often must NMC registrants revalidate?",
+  "options": [
+   "Every year",
+   "Every three years",
+   "Only when changing jobs",
+   "Every five years"
+  ],
+  "answer": 1,
+  "explanation": "Revalidation is required every three years to stay on the register.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "How many hours of continuing professional development (CPD) are required for NMC revalidation?",
+  "options": [
+   "20 hours, all self-directed",
+   "50 hours",
+   "35 hours, including 20 hours of participatory learning",
+   "10 hours a year"
+  ],
+  "answer": 2,
+  "explanation": "Revalidation also requires 450 practice hours, 5 pieces of feedback and 5 reflective accounts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "How many practice hours are required for nurse revalidation over three years?",
+  "options": [
+   "750 hours",
+   "450 hours",
+   "150 hours",
+   "1,000 hours"
+  ],
+  "answer": 1,
+  "explanation": "Dual registrants need 900 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "How many written reflective accounts are required for NMC revalidation?",
+  "options": [
+   "Two",
+   "One",
+   "Ten",
+   "Five"
+  ],
+  "answer": 3,
+  "explanation": "You also need a reflective discussion with another NMC registrant.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "The professional duty of candour means a nurse must",
+  "options": [
+   "report colleagues only to the police",
+   "never discuss errors with patients",
+   "only tell the family if asked",
+   "be open and honest with patients when something goes wrong with their care"
+  ],
+  "answer": 3,
+  "explanation": "Apologise, explain and support the person when things go wrong.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "A nurse is asked to carry out a task they are not competent to do. What should they do?",
+  "options": [
+   "Recognise the limits of their competence and seek help or training",
+   "Ask the patient to do it",
+   "Watch a video and proceed",
+   "Do it anyway to avoid delay"
+  ],
+  "answer": 0,
+  "explanation": "The Code requires you to practise within your competence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "When delegating a task to a healthcare assistant, the nurse remains",
+  "options": [
+   "accountable only if the patient complains",
+   "free of any responsibility",
+   "responsible only for paperwork",
+   "accountable for the decision to delegate"
+  ],
+  "answer": 3,
+  "explanation": "Delegate only to people competent to do the task, and supervise appropriately.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "Which reflective model has the stages description, feelings, evaluation, analysis, conclusion and action plan?",
+  "options": [
+   "Maslow's hierarchy",
+   "Gibbs' reflective cycle",
+   "Roper-Logan-Tierney model",
+   "SBAR"
+  ],
+  "answer": 1,
+  "explanation": "Gibbs (1988) is widely used for NMC reflective accounts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "Which structured communication tool is commonly used to escalate concerns about a patient?",
+  "options": [
+   "PQRST",
+   "SBAR — Situation, Background, Assessment, Recommendation",
+   "ABCDE",
+   "SOAP only"
+  ],
+  "answer": 1,
+  "explanation": "SBAR helps hand over clear, concise information.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "Posting a photo of a patient on social media without consent is",
+  "options": [
+   "acceptable if the patient has been discharged",
+   "acceptable on a private account",
+   "acceptable if the face is hidden",
+   "a breach of confidentiality and the NMC Code"
+  ],
+  "answer": 3,
+  "explanation": "Respect privacy and confidentiality at all times, including online.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "Patient information should be shared",
+  "options": [
+   "with the patient's employer",
+   "with anyone who asks politely",
+   "only on a need-to-know basis, in line with confidentiality and data protection law",
+   "never, even with the care team"
+  ],
+  "answer": 2,
+  "explanation": "Caldicott principles guide the use of patient-identifiable information.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "What is the first step in an ABCDE assessment?",
+  "options": [
+   "Airway",
+   "Breathing",
+   "Disability",
+   "Circulation"
+  ],
+  "answer": 0,
+  "explanation": "Assess Airway, Breathing, Circulation, Disability, Exposure in order.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "In the ABCDE approach, 'D' stands for",
+  "options": [
+   "Disability (neurological status, e.g. AVPU or GCS, and blood glucose)",
+   "Drugs",
+   "Dressing",
+   "Diet"
+  ],
+  "answer": 0,
+  "explanation": "Check consciousness level, pupils and blood glucose.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "What does AVPU stand for?",
+  "options": [
+   "Alert, Voice, Pain, Unresponsive",
+   "Assess, Verify, Plan, Update",
+   "Airway, Ventilation, Pulse, Urine",
+   "Awake, Vague, Pale, Unwell"
+  ],
+  "answer": 0,
+  "explanation": "A quick assessment of consciousness. NEWS2 uses ACVPU, adding new Confusion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "What is the range of the Glasgow Coma Scale?",
+  "options": [
+   "0 to 10",
+   "3 to 15",
+   "0 to 15",
+   "1 to 20"
+  ],
+  "answer": 1,
+  "explanation": "The lowest possible score is 3; fully alert is 15.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "What are the components of the Glasgow Coma Scale?",
+  "options": [
+   "Eye opening, verbal response and motor response",
+   "Pain, mood and appetite",
+   "Pupil size, colour and reaction",
+   "Pulse, blood pressure and temperature"
+  ],
+  "answer": 0,
+  "explanation": "Eyes (1–4), Verbal (1–5), Motor (1–6).",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "Which tool is used to assess a patient's risk of developing pressure ulcers?",
+  "options": [
+   "The Waterlow score (or Braden scale)",
+   "The Bristol Stool Chart",
+   "The Glasgow Coma Scale",
+   "The MUST tool"
+  ],
+  "answer": 0,
+  "explanation": "Risk assessment should be done on admission and reviewed regularly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "A category 1 pressure ulcer is described as",
+  "options": [
+   "full-thickness tissue loss with exposed bone",
+   "an open wound with slough",
+   "intact skin with non-blanchable redness",
+   "a blister filled with blood only"
+  ],
+  "answer": 2,
+  "explanation": "Category 1 is the earliest stage; skin is unbroken.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "A pressure ulcer with full-thickness tissue loss and exposed bone, tendon or muscle is",
+  "options": [
+   "category 2",
+   "category 1",
+   "category 4",
+   "category 3"
+  ],
+  "answer": 2,
+  "explanation": "Category 4 is the most severe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "What does the MUST tool screen for?",
+  "options": [
+   "Malnutrition",
+   "Falls risk",
+   "Pressure ulcers",
+   "Depression"
+  ],
+  "answer": 0,
+  "explanation": "Malnutrition Universal Screening Tool.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "Which chart is used to classify stool consistency?",
+  "options": [
+   "The Bristol Stool Chart",
+   "The MUST chart",
+   "The NEWS2 chart",
+   "The Waterlow chart"
+  ],
+  "answer": 0,
+  "explanation": "Types 1–7, from hard lumps to entirely liquid.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "When an adult patient falls on the ward, what should the nurse do first?",
+  "options": [
+   "Leave them until a doctor arrives",
+   "Help them straight back into bed",
+   "Check the patient for injury before moving them",
+   "Complete the incident form first"
+  ],
+  "answer": 2,
+  "explanation": "Assess for injury (including head injury and fractures) before moving.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "Which of these is a 'never event'?",
+  "options": [
+   "A delayed discharge",
+   "A patient missing a meal",
+   "Administering a medicine by the wrong route, such as an oral medicine intravenously",
+   "A minor documentation error"
+  ],
+  "answer": 2,
+  "explanation": "Never events are serious, wholly preventable incidents.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "Before a blood transfusion, patient identity is checked by",
+  "options": [
+   "checking the notes only",
+   "asking the patient to state their full name and date of birth and matching it to the wristband and blood component",
+   "asking 'Are you Mrs Smith?'",
+   "reading the bed number only"
+  ],
+  "answer": 1,
+  "explanation": "Positive patient identification at the bedside is essential.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "During a blood transfusion, the patient is most at risk of a severe reaction",
+  "options": [
+   "in the first 15 minutes",
+   "after 4 hours",
+   "only at the end",
+   "the next day"
+  ],
+  "answer": 0,
+  "explanation": "Monitor closely, with observations before, at 15 minutes and after.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "Which patient group needs a VTE risk assessment on admission?",
+  "options": [
+   "Only surgical patients",
+   "Only patients over 80",
+   "All adult inpatients",
+   "Only patients with cancer"
+  ],
+  "answer": 2,
+  "explanation": "NICE recommends VTE assessment for all adults admitted to hospital.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "What is the single most important measure to prevent healthcare-associated infection?",
+  "options": [
+   "Hand hygiene",
+   "Wearing gloves at all times",
+   "Air fresheners",
+   "Antibiotics"
+  ],
+  "answer": 0,
+  "explanation": "Clean hands at the right moments, with the right technique.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "How many 'moments for hand hygiene' are described by the WHO?",
+  "options": [
+   "Seven",
+   "Four",
+   "Five",
+   "Three"
+  ],
+  "answer": 2,
+  "explanation": "Before patient contact, before aseptic task, after body fluid exposure, after patient contact, after touching surroundings.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "Which hand hygiene method should be used when caring for a patient with Clostridioides difficile?",
+  "options": [
+   "No hand hygiene if gloves were worn",
+   "Alcohol hand gel",
+   "Wet wipes",
+   "Soap and water"
+  ],
+  "answer": 3,
+  "explanation": "Alcohol gel does not kill C. difficile spores.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "In what order should PPE usually be removed?",
+  "options": [
+   "Apron, mask, gloves, eye protection",
+   "Eye protection, mask, gloves, apron",
+   "Gloves, apron, eye protection, mask",
+   "Mask, apron, gloves, eye protection"
+  ],
+  "answer": 2,
+  "explanation": "Remove the most contaminated items first, then clean hands.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "What colour bag is commonly used for infectious clinical waste in the UK?",
+  "options": [
+   "Orange",
+   "Black",
+   "Blue",
+   "Clear"
+  ],
+  "answer": 0,
+  "explanation": "Follow local policy; black is for domestic waste.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "Used needles should be",
+  "options": [
+   "disposed of immediately into a sharps bin at the point of use, without re-sheathing",
+   "re-sheathed and placed in a clinical waste bag",
+   "left on the tray for later",
+   "bent before disposal"
+  ],
+  "answer": 0,
+  "explanation": "Never re-sheath needles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "What should you do immediately after a needlestick injury?",
+  "options": [
+   "Ignore it if it looks minor",
+   "Encourage bleeding, wash with soap and running water, cover, and report",
+   "Suck the wound",
+   "Scrub the area with a brush"
+  ],
+  "answer": 1,
+  "explanation": "Report urgently for risk assessment and possible post-exposure prophylaxis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "A patient with suspected infectious diarrhoea should be",
+  "options": [
+   "sent home immediately",
+   "isolated in a single room with en-suite or dedicated toilet",
+   "placed in a bay with others",
+   "kept in the day room"
+  ],
+  "answer": 1,
+  "explanation": "Isolate promptly to prevent spread.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "MRSA stands for",
+  "options": [
+   "Multi-resistant streptococcus A",
+   "Meticillin-resistant Staphylococcus aureus",
+   "Meningitis-related staph aureus",
+   "Mild respiratory syndrome A"
+  ],
+  "answer": 1,
+  "explanation": "MRSA screening is carried out on admission for many patient groups.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "What does NEWS2 stand for?",
+  "options": [
+   "Nursing Emergency Warning System 2",
+   "National Emergency Ward Standard",
+   "New Escalation Workflow Score",
+   "National Early Warning Score 2"
+  ],
+  "answer": 3,
+  "explanation": "NEWS2 is the Royal College of Physicians' standard tool for adults.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Which parameters make up NEWS2?",
+  "options": [
+   "Pulse, pain and urine output only",
+   "Respiration rate, oxygen saturation, systolic blood pressure, pulse, level of consciousness or new confusion, and temperature",
+   "GCS and pupil size only",
+   "Blood glucose and weight"
+  ],
+  "answer": 1,
+  "explanation": "A score is also added if the patient needs supplemental oxygen.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "A NEWS2 aggregate score of 7 or more should trigger",
+  "options": [
+   "observations once a day",
+   "discharge planning",
+   "routine 12-hourly observations",
+   "an emergency response, with immediate assessment by a clinical team with critical care competencies"
+  ],
+  "answer": 3,
+  "explanation": "7+ is a high clinical risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "A NEWS2 aggregate score of 5 or more should trigger",
+  "options": [
+   "no change in care",
+   "an urgent response and review by a clinician competent in assessing acutely ill patients",
+   "immediate discharge",
+   "observations once a day"
+  ],
+  "answer": 1,
+  "explanation": "5–6 is medium clinical risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "A score of 3 in any single NEWS2 parameter should prompt",
+  "options": [
+   "observations once a week",
+   "discharge",
+   "an urgent ward-based review",
+   "no action"
+  ],
+  "answer": 2,
+  "explanation": "A single red score signals possible serious deterioration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "What is a normal adult respiratory rate?",
+  "options": [
+   "4–8 breaths per minute",
+   "40–60 breaths per minute",
+   "12–20 breaths per minute",
+   "25–35 breaths per minute"
+  ],
+  "answer": 2,
+  "explanation": "In NEWS2, 12–20 scores 0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "For most adults (NEWS2 scale 1), which oxygen saturation scores 0?",
+  "options": [
+   "88–92%",
+   "96% or above",
+   "90% or above",
+   "100% only"
+  ],
+  "answer": 1,
+  "explanation": "Scale 2 (88–92% target) is used for some patients with hypercapnic respiratory failure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "The 'Sepsis Six' includes",
+  "options": [
+   "giving oxygen, taking blood cultures, giving IV antibiotics, giving IV fluids, measuring lactate and monitoring urine output",
+   "giving paracetamol only",
+   "waiting 24 hours for results",
+   "isolating the patient only"
+  ],
+  "answer": 0,
+  "explanation": "Deliver within one hour for suspected sepsis with red flags.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "What is the first-line treatment for anaphylaxis in an adult?",
+  "options": [
+   "IV paracetamol",
+   "Nebulised salbutamol only",
+   "Intramuscular adrenaline 500 micrograms (0.5 mL of 1 in 1,000)",
+   "Oral antihistamine only"
+  ],
+  "answer": 2,
+  "explanation": "Give IM adrenaline into the anterolateral thigh; repeat after 5 minutes if needed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "For adult CPR, what is the ratio of chest compressions to rescue breaths?",
+  "options": [
+   "5:1",
+   "30:1",
+   "15:2",
+   "30:2"
+  ],
+  "answer": 3,
+  "explanation": "Resuscitation Council UK guidance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "What is the recommended depth of chest compressions in adult CPR?",
+  "options": [
+   "5–6 cm",
+   "1–2 cm",
+   "8–10 cm",
+   "3 cm"
+  ],
+  "answer": 0,
+  "explanation": "At a rate of 100–120 compressions per minute.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "What is the recommended rate of chest compressions in adult CPR?",
+  "options": [
+   "60–80 per minute",
+   "100–120 per minute",
+   "140–160 per minute",
+   "30 per minute"
+  ],
+  "answer": 1,
+  "explanation": "Allow full chest recoil between compressions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Hypoglycaemia in adults is generally defined as a blood glucose below",
+  "options": [
+   "2 mmol/L only",
+   "10 mmol/L",
+   "7 mmol/L",
+   "4 mmol/L"
+  ],
+  "answer": 3,
+  "explanation": "'Four is the floor.'",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "What is the first treatment for a conscious adult with hypoglycaemia who can swallow?",
+  "options": [
+   "A large meal immediately",
+   "15–20 g of quick-acting carbohydrate, then recheck glucose after 10–15 minutes",
+   "Insulin",
+   "Nothing until the doctor arrives"
+  ],
+  "answer": 1,
+  "explanation": "Follow with a longer-acting carbohydrate once glucose is above 4 mmol/L.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "A patient with chest pain becomes unresponsive and is not breathing normally. What should the nurse do first?",
+  "options": [
+   "Wait for the doctor",
+   "Call for help and the resuscitation team, then start CPR",
+   "Take a full set of observations",
+   "Give oral aspirin"
+  ],
+  "answer": 1,
+  "explanation": "Early CPR and defibrillation save lives.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Urine output below what level may indicate acute kidney injury in an adult?",
+  "options": [
+   "Less than 5 mL/kg/hour",
+   "Less than 0.5 mL/kg/hour",
+   "More than 1 L a day",
+   "Less than 2 mL/kg/hour"
+  ],
+  "answer": 1,
+  "explanation": "Persistently low urine output needs escalation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "Controlled drugs administered on a hospital ward should be",
+  "options": [
+   "given by any staff member without records",
+   "recorded only in the patient's notes",
+   "signed by the patient",
+   "checked and signed for by two registered professionals (per local policy) and recorded in the controlled drug register"
+  ],
+  "answer": 3,
+  "explanation": "Controlled drugs have strict storage and record-keeping requirements.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "Where should controlled drugs be stored on a ward?",
+  "options": [
+   "In an unlocked trolley",
+   "In a locked controlled drug cupboard that meets legal requirements",
+   "In the patient's bedside locker",
+   "In the ward fridge with food"
+  ],
+  "answer": 1,
+  "explanation": "Keys are held by the nurse in charge.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "Before giving a medicine, the nurse should check",
+  "options": [
+   "only the ward round notes",
+   "only the drug name",
+   "only that the patient is awake",
+   "the right patient, drug, dose, route and time, plus allergies and the prescription's validity"
+  ],
+  "answer": 3,
+  "explanation": "Follow the 'rights' of medicines administration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "A patient refuses their prescribed medicine. What should the nurse do?",
+  "options": [
+   "Respect the decision, explore the reasons, document it and inform the prescriber",
+   "Force them to take it",
+   "Give it later without telling them",
+   "Hide it in their food"
+  ],
+  "answer": 0,
+  "explanation": "Covert administration is only permitted in specific circumstances under the Mental Capacity Act with proper process.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "A nurse discovers they have given a medicine to the wrong patient. What should they do first?",
+  "options": [
+   "Check the patient's condition and inform the doctor immediately, then report the incident",
+   "Ask the patient to keep it quiet",
+   "Say nothing if the patient seems fine",
+   "Wait until the end of the shift"
+  ],
+  "answer": 0,
+  "explanation": "Patient safety first, then be open and honest (duty of candour).",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "Which route gives the fastest onset of action?",
+  "options": [
+   "Topical",
+   "Intravenous",
+   "Oral",
+   "Subcutaneous"
+  ],
+  "answer": 1,
+  "explanation": "IV medicines go directly into the bloodstream.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "A patient on warfarin needs regular monitoring of their",
+  "options": [
+   "potassium only",
+   "blood glucose",
+   "cholesterol",
+   "INR"
+  ],
+  "answer": 3,
+  "explanation": "The International Normalised Ratio measures clotting.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "What is the antidote for opioid overdose?",
+  "options": [
+   "Naloxone",
+   "Flumazenil",
+   "Atropine",
+   "Vitamin K"
+  ],
+  "answer": 0,
+  "explanation": "Naloxone reverses opioid-induced respiratory depression.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "Which vitamin is used to reverse the effect of warfarin?",
+  "options": [
+   "Vitamin K",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin B12"
+  ],
+  "answer": 0,
+  "explanation": "Vitamin K (phytomenadione) is given as directed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "Which of these is a common side effect of opioids?",
+  "options": [
+   "High blood pressure",
+   "Diarrhoea",
+   "Hyperactivity",
+   "Constipation"
+  ],
+  "answer": 3,
+  "explanation": "Laxatives are often prescribed alongside regular opioids.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "Before giving digoxin, the nurse should check the patient's",
+  "options": [
+   "blood glucose",
+   "weight only",
+   "temperature",
+   "apical pulse rate"
+  ],
+  "answer": 3,
+  "explanation": "Withhold and inform the prescriber if the pulse is below the set threshold.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "What is the first principle of the Mental Capacity Act 2005?",
+  "options": [
+   "A person must be assumed to have capacity unless it is established that they lack it",
+   "Family members always decide",
+   "Anyone over 65 lacks capacity",
+   "Doctors decide for everyone"
+  ],
+  "answer": 0,
+  "explanation": "Capacity is decision-specific and time-specific.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "Under the Mental Capacity Act, an unwise decision",
+  "options": [
+   "does not on its own mean a person lacks capacity",
+   "must be overruled by the nurse",
+   "proves the person lacks capacity",
+   "must be reported to the police"
+  ],
+  "answer": 0,
+  "explanation": "People have the right to make decisions others disagree with.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "Decisions made for a person who lacks capacity must be",
+  "options": [
+   "in their best interests and the least restrictive option",
+   "made by the most senior nurse alone",
+   "whatever is quickest for staff",
+   "whatever the family prefers"
+  ],
+  "answer": 0,
+  "explanation": "These are core MCA principles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "For consent to be valid, it must be",
+  "options": [
+   "voluntary, informed, and given by a person with capacity",
+   "given by the next of kin",
+   "given after the procedure",
+   "written in every case"
+  ],
+  "answer": 0,
+  "explanation": "Consent can be verbal, written or implied depending on the situation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "Can a patient with capacity withdraw consent during a procedure?",
+  "options": [
+   "Only with a doctor's permission",
+   "Only if it is in writing",
+   "No, once given it is final",
+   "Yes, at any time"
+  ],
+  "answer": 3,
+  "explanation": "Stop if safe and discuss with the patient.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "Which section of the Mental Health Act 1983 allows detention for assessment for up to 28 days?",
+  "options": [
+   "Section 3",
+   "Section 136",
+   "Section 2",
+   "Section 5(2)"
+  ],
+  "answer": 2,
+  "explanation": "Section 3 is for treatment and lasts up to 6 months initially.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "Section 5(4) of the Mental Health Act allows a registered mental health or learning disability nurse to hold an informal inpatient for up to",
+  "options": [
+   "28 days",
+   "6 hours",
+   "1 hour",
+   "72 hours"
+  ],
+  "answer": 1,
+  "explanation": "Doctors' holding power under Section 5(2) is up to 72 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "Which of these is a category of abuse in adult safeguarding?",
+  "options": [
+   "Loud talking",
+   "Being visited by family",
+   "Financial or material abuse",
+   "Refusing a meal once"
+  ],
+  "answer": 2,
+  "explanation": "Others include physical, sexual, psychological, neglect, discriminatory, organisational, domestic abuse, modern slavery and self-neglect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "If a patient discloses abuse to a nurse, the nurse should",
+  "options": [
+   "confront the alleged abuser",
+   "promise to keep it confidential",
+   "investigate it themselves",
+   "listen, reassure, not promise to keep it secret, and report it through safeguarding procedures"
+  ],
+  "answer": 3,
+  "explanation": "Safeguarding is everyone's responsibility.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "Which law protects patients' personal data in the UK?",
+  "options": [
+   "The Equality Act 2010",
+   "The Health and Safety at Work Act 1974",
+   "The UK GDPR and Data Protection Act 2018",
+   "The Mental Health Act 1983"
+  ],
+  "answer": 2,
+  "explanation": "Handle personal data lawfully, securely and only as needed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "A Lasting Power of Attorney for health and welfare allows",
+  "options": [
+   "nurses to override the patient",
+   "any relative to make all decisions",
+   "the GP to manage the patient's money",
+   "a named person to make health decisions for someone if they lose capacity"
+  ],
+  "answer": 3,
+  "explanation": "It must be registered with the Office of the Public Guardian.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "What is the purpose of a DNACPR decision?",
+  "options": [
+   "To prevent any medicines being given",
+   "To record that CPR should not be attempted if the patient's heart or breathing stops",
+   "To stop the patient eating",
+   "To stop all treatment"
+  ],
+  "answer": 1,
+  "explanation": "DNACPR applies only to CPR; other care continues.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "Which model of nursing is based on 12 activities of living?",
+  "options": [
+   "Maslow's hierarchy",
+   "Gibbs' cycle",
+   "Roper-Logan-Tierney",
+   "Orem's self-care model"
+  ],
+  "answer": 2,
+  "explanation": "Activities include breathing, eating and drinking, mobilising and sleeping.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "The nursing process is often summarised as",
+  "options": [
+   "Admit, Prepare, Inspect, Escort",
+   "Airway, Pulse, Intake, Exposure",
+   "Assess, Plan, Implement, Evaluate (APIE)",
+   "Ask, Prescribe, Inform, Exit"
+  ],
+  "answer": 2,
+  "explanation": "APIE is used throughout the NMC Test of Competence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "According to Maslow's hierarchy, which needs must be met first?",
+  "options": [
+   "Physiological needs such as food, water and breathing",
+   "Self-actualisation",
+   "Esteem",
+   "Belonging"
+  ],
+  "answer": 0,
+  "explanation": "Basic needs come before higher-level needs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "How often should a patient at high risk of pressure ulcers usually be repositioned?",
+  "options": [
+   "Never at night",
+   "Only when they ask",
+   "Regularly according to their risk assessment and care plan, often every 2–4 hours",
+   "Once a day"
+  ],
+  "answer": 2,
+  "explanation": "Frequency depends on risk, skin inspection and support surface.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "Before inserting a urinary catheter, the nurse must",
+  "options": [
+   "gain consent and use an aseptic technique",
+   "use a clean technique without gloves",
+   "ask the patient to self-catheterise",
+   "insert it without explanation"
+  ],
+  "answer": 0,
+  "explanation": "Catheters are a major source of healthcare-associated infection.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "Which pain assessment tool uses a scale from 0 (no pain) to 10 (worst pain)?",
+  "options": [
+   "Bristol Stool Chart",
+   "Glasgow Coma Scale",
+   "Numerical rating scale",
+   "Waterlow score"
+  ],
+  "answer": 2,
+  "explanation": "The Abbey pain scale may be used for people who cannot verbalise pain.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "Which tool helps assess pain in people with dementia who cannot verbalise it?",
+  "options": [
+   "The AVPU scale",
+   "The MUST tool",
+   "The numerical rating scale",
+   "The Abbey pain scale"
+  ],
+  "answer": 3,
+  "explanation": "It looks at expressions, behaviour and physical signs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "Before a patient with dysphagia eats, the nurse should",
+  "options": [
+   "follow the speech and language therapy plan for food and fluid textures and position them upright",
+   "give thin fluids quickly",
+   "skip the meal",
+   "lie them flat"
+  ],
+  "answer": 0,
+  "explanation": "This reduces the risk of aspiration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "Which of these is a sign of dehydration?",
+  "options": [
+   "Moist mucous membranes",
+   "Pale, plentiful urine",
+   "Weight gain",
+   "Dark, concentrated urine"
+  ],
+  "answer": 3,
+  "explanation": "Other signs include thirst, dizziness and dry mouth.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "What does 'person-centred care' mean?",
+  "options": [
+   "Care organised around the staff rota",
+   "Care led only by the doctor",
+   "Care identical for all patients",
+   "Care that is planned around the individual's needs, preferences and values"
+  ],
+  "answer": 3,
+  "explanation": "Involve people in decisions about their care.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "Which of these helps reduce delirium in older patients?",
+  "options": [
+   "Keeping lights on all night",
+   "Good hydration, orientation cues, sleep and mobility",
+   "Removing glasses and hearing aids",
+   "Frequent bed moves"
+  ],
+  "answer": 1,
+  "explanation": "Delirium is common, serious and often preventable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "What is the main purpose of a care plan?",
+  "options": [
+   "To list ward rules",
+   "To record staff breaks",
+   "To replace consent",
+   "To set out individual goals and the care needed to meet them"
+  ],
+  "answer": 3,
+  "explanation": "Care plans should be evaluated and updated regularly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "End of life & communication",
+  "body": "Which of these is a recognised principle of good end-of-life care?",
+  "options": [
+   "Withholding pain relief",
+   "Managing symptoms and respecting the person's wishes and preferred place of care",
+   "Moving the person frequently between wards",
+   "Stopping all communication with family"
+  ],
+  "answer": 1,
+  "explanation": "Advance care planning helps record preferences.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "End of life & communication",
+  "body": "A common symptom in the last days of life caused by secretions in the airway is sometimes called",
+  "options": [
+   "a 'death rattle' (noisy respiratory secretions)",
+   "Cheyne-Stokes breathing",
+   "stridor",
+   "wheeze"
+  ],
+  "answer": 0,
+  "explanation": "Repositioning and medicines may help; explain to the family.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "End of life & communication",
+  "body": "When breaking bad news, the nurse should",
+  "options": [
+   "use medical jargon",
+   "use a private space, check understanding, give information in small amounts and allow time for questions",
+   "give all the facts quickly in a corridor",
+   "avoid answering questions"
+  ],
+  "answer": 1,
+  "explanation": "Frameworks such as SPIKES can help.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "End of life & communication",
+  "body": "A patient who speaks little English needs to give consent for a procedure. What should the nurse arrange?",
+  "options": [
+   "Hand gestures only",
+   "A professional interpreter",
+   "Proceed without consent",
+   "A family member, including a child, to interpret"
+  ],
+  "answer": 1,
+  "explanation": "Professional interpreters ensure accuracy and confidentiality.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "End of life & communication",
+  "body": "Which is an example of open questioning?",
+  "options": [
+   "'Are you in pain?'",
+   "'Is your name John?'",
+   "'How have you been feeling since your operation?'",
+   "'Did you sleep well?'"
+  ],
+  "answer": 2,
+  "explanation": "Open questions invite fuller answers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "End of life & communication",
+  "body": "A patient becomes angry and shouts at the nurse. What is the best first response?",
+  "options": [
+   "Walk away without explanation",
+   "Stay calm, listen, acknowledge their feelings and keep yourself safe",
+   "Call security immediately in every case",
+   "Shout back"
+  ],
+  "answer": 1,
+  "explanation": "De-escalation techniques reduce conflict.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a respiration rate of 7 breaths/min?",
+  "options": [
+   "0",
+   "2",
+   "3",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "NEWS2 respiration: ≤8 = 3, 9–11 = 1, 12–20 = 0, 21–24 = 2, ≥25 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a respiration rate of 10 breaths/min?",
+  "options": [
+   "3",
+   "2",
+   "1",
+   "0"
+  ],
+  "answer": 2,
+  "explanation": "NEWS2 respiration: ≤8 = 3, 9–11 = 1, 12–20 = 0, 21–24 = 2, ≥25 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a respiration rate of 16 breaths/min?",
+  "options": [
+   "3",
+   "2",
+   "1",
+   "0"
+  ],
+  "answer": 3,
+  "explanation": "NEWS2 respiration: ≤8 = 3, 9–11 = 1, 12–20 = 0, 21–24 = 2, ≥25 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a respiration rate of 22 breaths/min?",
+  "options": [
+   "3",
+   "2",
+   "1",
+   "0"
+  ],
+  "answer": 1,
+  "explanation": "NEWS2 respiration: ≤8 = 3, 9–11 = 1, 12–20 = 0, 21–24 = 2, ≥25 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a respiration rate of 27 breaths/min?",
+  "options": [
+   "0",
+   "1",
+   "2",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "NEWS2 respiration: ≤8 = 3, 9–11 = 1, 12–20 = 0, 21–24 = 2, ≥25 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a pulse of 38 beats/min?",
+  "options": [
+   "2",
+   "3",
+   "0",
+   "1"
+  ],
+  "answer": 1,
+  "explanation": "NEWS2 pulse: ≤40 = 3, 41–50 = 1, 51–90 = 0, 91–110 = 1, 111–130 = 2, ≥131 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a pulse of 45 beats/min?",
+  "options": [
+   "0",
+   "3",
+   "1",
+   "2"
+  ],
+  "answer": 2,
+  "explanation": "NEWS2 pulse: ≤40 = 3, 41–50 = 1, 51–90 = 0, 91–110 = 1, 111–130 = 2, ≥131 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a pulse of 75 beats/min?",
+  "options": [
+   "2",
+   "0",
+   "3",
+   "1"
+  ],
+  "answer": 1,
+  "explanation": "NEWS2 pulse: ≤40 = 3, 41–50 = 1, 51–90 = 0, 91–110 = 1, 111–130 = 2, ≥131 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a pulse of 95 beats/min?",
+  "options": [
+   "2",
+   "3",
+   "1",
+   "0"
+  ],
+  "answer": 2,
+  "explanation": "NEWS2 pulse: ≤40 = 3, 41–50 = 1, 51–90 = 0, 91–110 = 1, 111–130 = 2, ≥131 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a pulse of 118 beats/min?",
+  "options": [
+   "2",
+   "1",
+   "3",
+   "0"
+  ],
+  "answer": 0,
+  "explanation": "NEWS2 pulse: ≤40 = 3, 41–50 = 1, 51–90 = 0, 91–110 = 1, 111–130 = 2, ≥131 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a pulse of 135 beats/min?",
+  "options": [
+   "2",
+   "0",
+   "1",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "NEWS2 pulse: ≤40 = 3, 41–50 = 1, 51–90 = 0, 91–110 = 1, 111–130 = 2, ≥131 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a systolic blood pressure of 88 mmHg?",
+  "options": [
+   "3",
+   "1",
+   "2",
+   "0"
+  ],
+  "answer": 0,
+  "explanation": "NEWS2 systolic BP: ≤90 = 3, 91–100 = 2, 101–110 = 1, 111–219 = 0, ≥220 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a systolic blood pressure of 95 mmHg?",
+  "options": [
+   "0",
+   "2",
+   "1",
+   "3"
+  ],
+  "answer": 1,
+  "explanation": "NEWS2 systolic BP: ≤90 = 3, 91–100 = 2, 101–110 = 1, 111–219 = 0, ≥220 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a systolic blood pressure of 105 mmHg?",
+  "options": [
+   "1",
+   "0",
+   "2",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "NEWS2 systolic BP: ≤90 = 3, 91–100 = 2, 101–110 = 1, 111–219 = 0, ≥220 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a systolic blood pressure of 130 mmHg?",
+  "options": [
+   "3",
+   "2",
+   "0",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "NEWS2 systolic BP: ≤90 = 3, 91–100 = 2, 101–110 = 1, 111–219 = 0, ≥220 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a systolic blood pressure of 225 mmHg?",
+  "options": [
+   "3",
+   "2",
+   "1",
+   "0"
+  ],
+  "answer": 0,
+  "explanation": "NEWS2 systolic BP: ≤90 = 3, 91–100 = 2, 101–110 = 1, 111–219 = 0, ≥220 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a temperature of 34.8 °C?",
+  "options": [
+   "0",
+   "2",
+   "3",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "NEWS2 temperature: ≤35.0 = 3, 35.1–36.0 = 1, 36.1–38.0 = 0, 38.1–39.0 = 1, ≥39.1 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a temperature of 35.5 °C?",
+  "options": [
+   "0",
+   "1",
+   "2",
+   "3"
+  ],
+  "answer": 1,
+  "explanation": "NEWS2 temperature: ≤35.0 = 3, 35.1–36.0 = 1, 36.1–38.0 = 0, 38.1–39.0 = 1, ≥39.1 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a temperature of 37 °C?",
+  "options": [
+   "2",
+   "3",
+   "0",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "NEWS2 temperature: ≤35.0 = 3, 35.1–36.0 = 1, 36.1–38.0 = 0, 38.1–39.0 = 1, ≥39.1 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a temperature of 38.5 °C?",
+  "options": [
+   "2",
+   "3",
+   "0",
+   "1"
+  ],
+  "answer": 3,
+  "explanation": "NEWS2 temperature: ≤35.0 = 3, 35.1–36.0 = 1, 36.1–38.0 = 0, 38.1–39.0 = 1, ≥39.1 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a temperature of 39.5 °C?",
+  "options": [
+   "1",
+   "3",
+   "0",
+   "2"
+  ],
+  "answer": 3,
+  "explanation": "NEWS2 temperature: ≤35.0 = 3, 35.1–36.0 = 1, 36.1–38.0 = 0, 38.1–39.0 = 1, ≥39.1 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "TRUE or FALSE? \"Alcohol hand gel is effective against Clostridioides difficile spores.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Use soap and water.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "TRUE or FALSE? \"A patient must be assumed to have capacity unless it is shown otherwise.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "First principle of the Mental Capacity Act 2005.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "TRUE or FALSE? \"Needles should be re-sheathed before disposal.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Never re-sheath; dispose at the point of use.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "TRUE or FALSE? \"NMC revalidation is required every three years.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Including practice hours, CPD, feedback and reflection.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "TRUE or FALSE? \"A NEWS2 score of 7 or more needs an emergency response.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "High clinical risk.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "TRUE or FALSE? \"An unwise decision proves a person lacks capacity.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "People can make decisions others think unwise.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "TRUE or FALSE? \"The adult CPR ratio is 15 compressions to 2 breaths.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "It is 30:2 for adults.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "TRUE or FALSE? \"A DNACPR decision means all treatment should stop.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "It applies to CPR only.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMC",
+  "topic": "End of life & communication",
+  "body": "TRUE or FALSE? \"Family members, including children, are ideal interpreters for consent discussions.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Use a professional interpreter.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "TRUE or FALSE? \"Hypoglycaemia is generally a blood glucose below 4 mmol/L.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "'Four is the floor.'",
+  "difficulty": 1
+ }
+]

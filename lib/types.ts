@@ -53,6 +53,7 @@ export interface Mock {
   id: string;
   kind: "practice" | "weekly";
   track: string | null;
+  variant: string | null;
   title: string;
   owner_student_id: string | null;
   starts_at: string;

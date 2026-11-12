@@ -10,7 +10,9 @@ export async function POST(req: Request) {
   if (!student) return unauthorized();
   if (student.onboarding_step !== "done") return NextResponse.json({ error: "ONBOARDING" }, { status: 400 });
   try {
-    return NextResponse.json(await startMock(student, typeof body.mockId === "string" ? body.mockId : null));
+    return NextResponse.json(
+      await startMock(student, typeof body.mockId === "string" ? body.mockId : null, typeof body.variant === "string" ? body.variant : null),
+    );
   } catch (e) {
     return errorResponse(e);
   }

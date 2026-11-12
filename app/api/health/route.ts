@@ -31,9 +31,10 @@ export async function GET(req: Request) {
     await probe("0002 tracks/web columns", () => db().from("students").select("track, email, auth_user_id").limit(1));
     await probe("0003 growth/courses", () => db().from("certificates").select("id").limit(1));
     await probe("0003 referral columns", () => db().from("students").select("ref_code, parent_email, link_code").limit(1));
+    await probe("0004 NMC test variants", () => db().from("mocks").select("variant").limit(1));
     out.migrations = checks;
 
-    const subjects = ["ENG", "MTH", "PHY", "CHM", "BIO", "ECO", "GOV", "LUK", "FIR"];
+    const subjects = ["ENG", "MTH", "PHY", "CHM", "BIO", "ECO", "GOV", "LUK", "FIR", "NMN", "NMC"];
     const counts: Record<string, string> = {};
     for (const s of subjects) {
       const [{ count: reviewed }, { count: all }] = await Promise.all([

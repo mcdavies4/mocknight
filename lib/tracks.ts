@@ -2,8 +2,19 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "LUK" | "FIRE";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "LUK" | "FIRE" | "NMC";
 export type ScoreStyle = "jamb400" | "percent" | "passfail";
+
+export interface MockVariant {
+  key: string;
+  label: string;
+  short: string;
+  subjects: string[];
+  total: number;
+  minutes: number;
+  passPct?: number;
+  note?: string;
+}
 
 export interface Track {
   code: TrackCode;
@@ -33,6 +44,10 @@ export interface Track {
   course?: { certificateDays: number; certificateTitle: string };
   /** Hours are UK time for UK tracks, WAT otherwise */
   timeZone: "Africa/Lagos" | "Europe/London";
+  /** Tracks whose real test has separate parts (e.g. NMC Part A / Part B) */
+  mockVariants?: MockVariant[];
+  /** Who the AI tutor is talking to */
+  audience?: string;
 }
 
 const SCHOOL_SUBJECTS = ["ENG", "MTH", "PHY", "CHM", "BIO", "ECO", "GOV"];
@@ -83,6 +98,20 @@ export const TRACKS: Record<TrackCode, Track> = {
     tagline: "8 short modules, a final assessment and a certificate valid for 12 months", timeZone: "Europe/London",
     course: { certificateDays: 365, certificateTitle: "Fire Marshal / Fire Warden Training" },
   },
+  NMC: {
+    code: "NMC", name: "NMC CBT (nursing)", short: "NMC CBT", emoji: "🩺", kind: "professional", region: "UK", currency: "GBP",
+    subjectMode: "single", subjects: ["NMN", "NMC"], compulsory: ["NMN", "NMC"], minSubjects: 2, maxSubjects: 2, subjectNote: "",
+    // Default/headline mock = Part B (clinical). Variants below are offered as separate practice tests.
+    mock: { total: 100, minutes: 150, passPct: 65, scoreStyle: "passfail", maxSubjects: 1 },
+    mockVariants: [
+      { key: "A", label: "Part A — Numeracy", short: "Part A", subjects: ["NMN"], total: 15, minutes: 30, passPct: 87, note: "15 questions · 30 min · 13 to pass" },
+      { key: "B", label: "Part B — Clinical", short: "Part B", subjects: ["NMC"], total: 100, minutes: 150, passPct: 65, note: "100 questions · 2 h 30 min · practice pass mark 65%" },
+      { key: "B50", label: "Part B — Quick 50", short: "Quick 50", subjects: ["NMC"], total: 50, minutes: 75, passPct: 65, note: "50 questions · 75 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["nmc_pass"], tagline: "Part A numeracy and Part B clinical practice tests for the NMC CBT", timeZone: "Europe/London",
+    audience: "an internationally educated nurse preparing for the UK NMC CBT (Test of Competence Part 1)",
+  },
 };
 
 export const TRACK_LIST = Object.values(TRACKS);
@@ -100,4 +129,15 @@ export function regionsFor(t: Track) {
 /** Questions per subject in a practice mock. */
 export function mockPerSubject(t: Track) {
   return t.subjectMode === "single" ? t.mock.total! : t.mock.perSubject!;
+}
+
+/** Mock settings for a track, or one of its variants (NMC Part A / Part B). */
+export function mockConfig(t: Track, variantKey?: string | null) {
+  const v = variantKey ? t.mockVariants?.find((x) => x.key === variantKey) : undefined;
+  if (v) return { variant: v.key, label: v.label, subjects: v.subjects, perSubject: v.total, minutes: v.minutes, passPct: v.passPct, scoreStyle: t.mock.scoreStyle };
+  if (t.mockVariants?.length) {
+    const d = t.mockVariants.find((x) => x.key === "B") ?? t.mockVariants[0];
+    return { variant: d.key, label: d.label, subjects: d.subjects, perSubject: d.total, minutes: d.minutes, passPct: d.passPct, scoreStyle: t.mock.scoreStyle };
+  }
+  return { variant: null, label: null, subjects: null as string[] | null, perSubject: mockPerSubject(t), minutes: t.mock.minutes, passPct: t.mock.passPct, scoreStyle: t.mock.scoreStyle };
 }

@@ -1,5 +1,5 @@
 import { db } from "./supabase";
-import { getTrack } from "./tracks";
+import { getTrack, mockConfig } from "./tracks";
 import { env } from "./env";
 
 export interface ShareData {
@@ -20,11 +20,11 @@ export async function getShareData(attemptId: string): Promise<ShareData | null>
   if (!/^[0-9a-f-]{36}$/.test(attemptId)) return null;
   const { data: a } = await db()
     .from("mock_attempts")
-    .select("id, mock_id, student_id, raw_score, total, scaled_score, submitted_at, mocks(kind, track, title, results_posted), students(first_name, track, ref_code)")
+    .select("id, mock_id, student_id, raw_score, total, scaled_score, submitted_at, mocks(kind, track, variant, title, results_posted), students(first_name, track, ref_code)")
     .eq("id", attemptId)
     .maybeSingle();
   if (!a || !a.submitted_at) return null;
-  const mock = (Array.isArray(a.mocks) ? a.mocks[0] : a.mocks) as { kind: string; track: string | null; title: string; results_posted: boolean };
+  const mock = (Array.isArray(a.mocks) ? a.mocks[0] : a.mocks) as { kind: string; track: string | null; variant: string | null; title: string; results_posted: boolean };
   const st = (Array.isArray(a.students) ? a.students[0] : a.students) as { first_name: string | null; track: string | null; ref_code: string | null };
   const track = getTrack(mock.kind === "weekly" ? st.track : mock.track ?? st.track);
   const scaled = Number(a.scaled_score ?? 0);
@@ -32,8 +32,9 @@ export async function getShareData(attemptId: string): Promise<ShareData | null>
   let headline = `${Math.round(scaled)}%`;
   let sub = `${a.raw_score}/${a.total} correct`;
   let passed: boolean | null = null;
-  if (track.mock.passPct) {
-    const needed = Math.ceil(((a.total ?? 0) * track.mock.passPct) / 100);
+  const cfg = mockConfig(track, mock.variant);
+  if (cfg.passPct) {
+    const needed = Math.ceil(((a.total ?? 0) * cfg.passPct) / 100);
     passed = (a.raw_score ?? 0) >= needed;
     headline = passed ? "PASSED" : `${a.raw_score}/${a.total}`;
     sub = `${a.raw_score}/${a.total} correct · ${needed} needed to pass`;
@@ -56,7 +57,7 @@ export async function getShareData(attemptId: string): Promise<ShareData | null>
     trackEmoji: track.emoji,
     headline,
     sub,
-    kindLabel: mock.kind === "weekly" ? mock.title : track.subjectMode === "single" ? "Practice test" : "Practice CBT",
+    kindLabel: mock.kind === "weekly" ? mock.title : cfg.label ?? (track.subjectMode === "single" ? "Practice test" : "Practice CBT"),
     rank,
     refCode: st.ref_code,
     passed,

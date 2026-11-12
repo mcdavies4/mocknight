@@ -40240,5 +40240,3905 @@
   "answer": 0,
   "explanation": "Powder reduces visibility and can be inhaled.",
   "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 80 mg of furosemide. Tablets are available as 40 mg. How many tablets should be given?",
+  "options": [
+   "0.5 tablets",
+   "2 tablets",
+   "1 tablet",
+   "4 tablets"
+  ],
+  "answer": 1,
+  "explanation": "What you want ÷ what you've got = 80 ÷ 40 = 2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 1500 mg of amlodipine. Tablets are available as 500 mg. How many tablets should be given?",
+  "options": [
+   "1.5 tablets",
+   "3 tablets",
+   "4 tablets",
+   "6 tablets"
+  ],
+  "answer": 1,
+  "explanation": "What you want ÷ what you've got = 1500 ÷ 500 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 20 mg of furosemide. Tablets are available as 5 mg. How many tablets should be given?",
+  "options": [
+   "8 tablets",
+   "4 tablets",
+   "2 tablets",
+   "0.25 tablets"
+  ],
+  "answer": 1,
+  "explanation": "What you want ÷ what you've got = 20 ÷ 5 = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 50 mg of prednisolone. Tablets are available as 50 mg. How many tablets should be given?",
+  "options": [
+   "0.5 tablets",
+   "0 tablets",
+   "1 tablet",
+   "2 tablets"
+  ],
+  "answer": 2,
+  "explanation": "What you want ÷ what you've got = 50 ÷ 50 = 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 400 mg of metformin. Tablets are available as 100 mg. How many tablets should be given?",
+  "options": [
+   "0.25 tablets",
+   "2 tablets",
+   "4 tablets",
+   "8 tablets"
+  ],
+  "answer": 2,
+  "explanation": "What you want ÷ what you've got = 400 ÷ 100 = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 15 mg of amlodipine. Tablets are available as 5 mg. How many tablets should be given?",
+  "options": [
+   "4 tablets",
+   "1.5 tablets",
+   "3 tablets",
+   "6 tablets"
+  ],
+  "answer": 2,
+  "explanation": "What you want ÷ what you've got = 15 ÷ 5 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 15 mg of paracetamol. Tablets are available as 5 mg. How many tablets should be given?",
+  "options": [
+   "4 tablets",
+   "3 tablets",
+   "6 tablets",
+   "1.5 tablets"
+  ],
+  "answer": 1,
+  "explanation": "What you want ÷ what you've got = 15 ÷ 5 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 125 mg of furosemide. Tablets are available as 250 mg. How many tablets should be given?",
+  "options": [
+   "0.5 tablets",
+   "1 tablet",
+   "2 tablets",
+   "0.25 tablets"
+  ],
+  "answer": 0,
+  "explanation": "What you want ÷ what you've got = 125 ÷ 250 = 0.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 2.5 mg of amlodipine. Tablets are available as 5 mg. How many tablets should be given?",
+  "options": [
+   "1 tablet",
+   "2 tablets",
+   "0.5 tablets",
+   "0.25 tablets"
+  ],
+  "answer": 2,
+  "explanation": "What you want ÷ what you've got = 2.5 ÷ 5 = 0.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 500 mg of atenolol. Tablets are available as 125 mg. How many tablets should be given?",
+  "options": [
+   "2 tablets",
+   "8 tablets",
+   "0.25 tablets",
+   "4 tablets"
+  ],
+  "answer": 3,
+  "explanation": "What you want ÷ what you've got = 500 ÷ 125 = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 6.25 mg of paracetamol. Tablets are available as 12.5 mg. How many tablets should be given?",
+  "options": [
+   "0.5 tablets",
+   "1 tablet",
+   "2 tablets",
+   "0.25 tablets"
+  ],
+  "answer": 0,
+  "explanation": "What you want ÷ what you've got = 6.25 ÷ 12.5 = 0.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 125 mg of prednisolone. Tablets are available as 125 mg. How many tablets should be given?",
+  "options": [
+   "2 tablets",
+   "1 tablet",
+   "0 tablets",
+   "0.5 tablets"
+  ],
+  "answer": 1,
+  "explanation": "What you want ÷ what you've got = 125 ÷ 125 = 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 100 mg of warfarin. Tablets are available as 25 mg. How many tablets should be given?",
+  "options": [
+   "2 tablets",
+   "4 tablets",
+   "0.25 tablets",
+   "8 tablets"
+  ],
+  "answer": 1,
+  "explanation": "What you want ÷ what you've got = 100 ÷ 25 = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 5 mg of furosemide. Tablets are available as 5 mg. How many tablets should be given?",
+  "options": [
+   "1 tablet",
+   "0.5 tablets",
+   "2 tablets",
+   "0 tablets"
+  ],
+  "answer": 0,
+  "explanation": "What you want ÷ what you've got = 5 ÷ 5 = 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 20 mg of atenolol. Tablets are available as 40 mg. How many tablets should be given?",
+  "options": [
+   "1 tablet",
+   "0.25 tablets",
+   "0.5 tablets",
+   "2 tablets"
+  ],
+  "answer": 2,
+  "explanation": "What you want ÷ what you've got = 20 ÷ 40 = 0.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 250 mg of atenolol. Tablets are available as 125 mg. How many tablets should be given?",
+  "options": [
+   "0.5 tablets",
+   "1 tablet",
+   "2 tablets",
+   "4 tablets"
+  ],
+  "answer": 2,
+  "explanation": "What you want ÷ what you've got = 250 ÷ 125 = 2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 125 mg of paracetamol. Tablets are available as 50 mg. How many tablets should be given?",
+  "options": [
+   "1.25 tablets",
+   "2.5 tablets",
+   "0.4 tablets",
+   "5 tablets"
+  ],
+  "answer": 1,
+  "explanation": "What you want ÷ what you've got = 125 ÷ 50 = 2.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 37.5 mg of amoxicillin. Tablets are available as 12.5 mg. How many tablets should be given?",
+  "options": [
+   "6 tablets",
+   "3 tablets",
+   "4 tablets",
+   "1.5 tablets"
+  ],
+  "answer": 1,
+  "explanation": "What you want ÷ what you've got = 37.5 ÷ 12.5 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 10 mg of warfarin. Tablets are available as 5 mg. How many tablets should be given?",
+  "options": [
+   "2 tablets",
+   "1 tablet",
+   "4 tablets",
+   "0.5 tablets"
+  ],
+  "answer": 0,
+  "explanation": "What you want ÷ what you've got = 10 ÷ 5 = 2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 5 mg of atenolol. Tablets are available as 10 mg. How many tablets should be given?",
+  "options": [
+   "1 tablet",
+   "2 tablets",
+   "0.25 tablets",
+   "0.5 tablets"
+  ],
+  "answer": 3,
+  "explanation": "What you want ÷ what you've got = 5 ÷ 10 = 0.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 120 mg of furosemide. Tablets are available as 40 mg. How many tablets should be given?",
+  "options": [
+   "3 tablets",
+   "6 tablets",
+   "4 tablets",
+   "1.5 tablets"
+  ],
+  "answer": 0,
+  "explanation": "What you want ÷ what you've got = 120 ÷ 40 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 75 mg of prednisolone. Tablets are available as 25 mg. How many tablets should be given?",
+  "options": [
+   "3 tablets",
+   "6 tablets",
+   "4 tablets",
+   "1.5 tablets"
+  ],
+  "answer": 0,
+  "explanation": "What you want ÷ what you've got = 75 ÷ 25 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 96 mg. Stock oral suspension: 120 mg in 5 mL. What volume should be given?",
+  "options": [
+   "4 mL",
+   "40 mL",
+   "0.8 mL",
+   "6.25 mL"
+  ],
+  "answer": 0,
+  "explanation": "(What you want ÷ what you've got) × volume = (96 ÷ 120) × 5 = 4 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 62.5 mg. Stock oral suspension: 125 mg in 5 mL. What volume should be given?",
+  "options": [
+   "10 mL",
+   "0.5 mL",
+   "25 mL",
+   "2.5 mL"
+  ],
+  "answer": 3,
+  "explanation": "(What you want ÷ what you've got) × volume = (62.5 ÷ 125) × 5 = 2.5 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 48 mg. Stock injection: 40 mg in 1 mL. What volume should be given?",
+  "options": [
+   "1.2 mL",
+   "2.2 mL",
+   "12 mL",
+   "0.12 mL"
+  ],
+  "answer": 0,
+  "explanation": "(What you want ÷ what you've got) × volume = (48 ÷ 40) × 1 = 1.2 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 60 mg. Stock oral suspension: 50 mg in 5 mL. What volume should be given?",
+  "options": [
+   "1.2 mL",
+   "6 mL",
+   "60 mL",
+   "0.6 mL"
+  ],
+  "answer": 1,
+  "explanation": "(What you want ÷ what you've got) × volume = (60 ÷ 50) × 5 = 6 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 750 mg. Stock oral suspension: 500 mg in 10 mL. What volume should be given?",
+  "options": [
+   "150 mL",
+   "15 mL",
+   "25 mL",
+   "1.5 mL"
+  ],
+  "answer": 1,
+  "explanation": "(What you want ÷ what you've got) × volume = (750 ÷ 500) × 10 = 15 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 16 mg. Stock injection: 40 mg in 1 mL. What volume should be given?",
+  "options": [
+   "2.5 mL",
+   "0.4 mL",
+   "0.04 mL",
+   "4 mL"
+  ],
+  "answer": 1,
+  "explanation": "(What you want ÷ what you've got) × volume = (16 ÷ 40) × 1 = 0.4 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 80 mg. Stock oral suspension: 200 mg in 5 mL. What volume should be given?",
+  "options": [
+   "20 mL",
+   "2 mL",
+   "12.5 mL",
+   "0.4 mL"
+  ],
+  "answer": 1,
+  "explanation": "(What you want ÷ what you've got) × volume = (80 ÷ 200) × 5 = 2 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 20 mg. Stock injection: 40 mg in 1 mL. What volume should be given?",
+  "options": [
+   "0.05 mL",
+   "5 mL",
+   "0.5 mL",
+   "2 mL"
+  ],
+  "answer": 2,
+  "explanation": "(What you want ÷ what you've got) × volume = (20 ÷ 40) × 1 = 0.5 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 187.5 mg. Stock oral suspension: 125 mg in 5 mL. What volume should be given?",
+  "options": [
+   "7.5 mL",
+   "75 mL",
+   "1.5 mL",
+   "0.75 mL"
+  ],
+  "answer": 0,
+  "explanation": "(What you want ÷ what you've got) × volume = (187.5 ÷ 125) × 5 = 7.5 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 150 mg. Stock oral suspension: 125 mg in 5 mL. What volume should be given?",
+  "options": [
+   "6 mL",
+   "0.6 mL",
+   "1.2 mL",
+   "60 mL"
+  ],
+  "answer": 0,
+  "explanation": "(What you want ÷ what you've got) × volume = (150 ÷ 125) × 5 = 6 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 160 mg. Stock oral suspension: 200 mg in 5 mL. What volume should be given?",
+  "options": [
+   "6.25 mL",
+   "0.8 mL",
+   "4 mL",
+   "40 mL"
+  ],
+  "answer": 2,
+  "explanation": "(What you want ÷ what you've got) × volume = (160 ÷ 200) × 5 = 4 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 7.5 mg. Stock injection: 10 mg in 1 mL. What volume should be given?",
+  "options": [
+   "1.75 mL",
+   "7.5 mL",
+   "1.5 mL",
+   "0.75 mL"
+  ],
+  "answer": 3,
+  "explanation": "(What you want ÷ what you've got) × volume = (7.5 ÷ 10) × 1 = 0.75 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 60 mg. Stock injection: 40 mg in 1 mL. What volume should be given?",
+  "options": [
+   "0.15 mL",
+   "15 mL",
+   "2.5 mL",
+   "1.5 mL"
+  ],
+  "answer": 3,
+  "explanation": "(What you want ÷ what you've got) × volume = (60 ÷ 40) × 1 = 1.5 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 180 mg. Stock oral suspension: 120 mg in 5 mL. What volume should be given?",
+  "options": [
+   "75 mL",
+   "1.5 mL",
+   "7.5 mL",
+   "0.75 mL"
+  ],
+  "answer": 2,
+  "explanation": "(What you want ÷ what you've got) × volume = (180 ÷ 120) × 5 = 7.5 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 18.75 mg. Stock injection: 25 mg in 1 mL. What volume should be given?",
+  "options": [
+   "0.75 mL",
+   "7.5 mL",
+   "1.5 mL",
+   "1.75 mL"
+  ],
+  "answer": 0,
+  "explanation": "(What you want ÷ what you've got) × volume = (18.75 ÷ 25) × 1 = 0.75 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 250 mg. Stock oral suspension: 100 mg in 5 mL. What volume should be given?",
+  "options": [
+   "12.5 mL",
+   "125 mL",
+   "2 mL",
+   "2.5 mL"
+  ],
+  "answer": 0,
+  "explanation": "(What you want ÷ what you've got) × volume = (250 ÷ 100) × 5 = 12.5 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 312.5 mg. Stock oral suspension: 125 mg in 5 mL. What volume should be given?",
+  "options": [
+   "125 mL",
+   "2 mL",
+   "2.5 mL",
+   "12.5 mL"
+  ],
+  "answer": 3,
+  "explanation": "(What you want ÷ what you've got) × volume = (312.5 ÷ 125) × 5 = 12.5 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 80 mg. Stock oral suspension: 100 mg in 5 mL. What volume should be given?",
+  "options": [
+   "4 mL",
+   "40 mL",
+   "0.8 mL",
+   "6.25 mL"
+  ],
+  "answer": 0,
+  "explanation": "(What you want ÷ what you've got) × volume = (80 ÷ 100) × 5 = 4 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 30 mg. Stock injection: 25 mg in 1 mL. What volume should be given?",
+  "options": [
+   "1.2 mL",
+   "0.12 mL",
+   "12 mL",
+   "2.2 mL"
+  ],
+  "answer": 0,
+  "explanation": "(What you want ÷ what you've got) × volume = (30 ÷ 25) × 1 = 1.2 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 300 mg. Stock oral suspension: 120 mg in 5 mL. What volume should be given?",
+  "options": [
+   "2.5 mL",
+   "2 mL",
+   "125 mL",
+   "12.5 mL"
+  ],
+  "answer": 3,
+  "explanation": "(What you want ÷ what you've got) × volume = (300 ÷ 120) × 5 = 12.5 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 48 mg. Stock oral suspension: 120 mg in 5 mL. What volume should be given?",
+  "options": [
+   "2 mL",
+   "0.4 mL",
+   "12.5 mL",
+   "20 mL"
+  ],
+  "answer": 0,
+  "explanation": "(What you want ÷ what you've got) × volume = (48 ÷ 120) × 5 = 2 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 500 mg. Stock oral suspension: 250 mg in 5 mL. What volume should be given?",
+  "options": [
+   "100 mL",
+   "2 mL",
+   "2.5 mL",
+   "10 mL"
+  ],
+  "answer": 3,
+  "explanation": "(What you want ÷ what you've got) × volume = (500 ÷ 250) × 5 = 10 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 0.6 mg to micrograms.",
+  "options": [
+   "600 micrograms",
+   "60 micrograms",
+   "6000 micrograms",
+   "60,000 micrograms"
+  ],
+  "answer": 0,
+  "explanation": "1 mg = 1,000 micrograms. 0.6 mg = 600 micrograms.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 2500 mg to g.",
+  "options": [
+   "2,500,000 g",
+   "0.25 g",
+   "2.5 g",
+   "25 g"
+  ],
+  "answer": 2,
+  "explanation": "1 g = 1,000 mg. 2500 mg = 2.5 g.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 750 micrograms to mg.",
+  "options": [
+   "7.5 mg",
+   "75 mg",
+   "750,000 mg",
+   "0.75 mg"
+  ],
+  "answer": 3,
+  "explanation": "1 mg = 1,000 micrograms. 750 micrograms = 0.75 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 0.25 L to mL.",
+  "options": [
+   "25,000 mL",
+   "25 mL",
+   "2500 mL",
+   "250 mL"
+  ],
+  "answer": 3,
+  "explanation": "1 L = 1,000 mL. 0.25 L = 250 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 1500 mg to g.",
+  "options": [
+   "1.5 g",
+   "1,500,000 g",
+   "0.15 g",
+   "15 g"
+  ],
+  "answer": 0,
+  "explanation": "1 g = 1,000 mg. 1500 mg = 1.5 g.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 0.125 g to mg.",
+  "options": [
+   "12,500 mg",
+   "125 mg",
+   "1250 mg",
+   "12.5 mg"
+  ],
+  "answer": 1,
+  "explanation": "1 g = 1,000 mg. 0.125 g = 125 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 0.6 g to mg.",
+  "options": [
+   "60 mg",
+   "60,000 mg",
+   "600 mg",
+   "6000 mg"
+  ],
+  "answer": 2,
+  "explanation": "1 g = 1,000 mg. 0.6 g = 600 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 500 micrograms to mg.",
+  "options": [
+   "500,000 mg",
+   "0.05 mg",
+   "0.5 mg",
+   "5 mg"
+  ],
+  "answer": 2,
+  "explanation": "1 mg = 1,000 micrograms. 500 micrograms = 0.5 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 750 mL to L.",
+  "options": [
+   "750,000 L",
+   "0.75 L",
+   "75 L",
+   "7.5 L"
+  ],
+  "answer": 1,
+  "explanation": "1 L = 1,000 mL. 750 mL = 0.75 L.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 250 mL to L.",
+  "options": [
+   "25 L",
+   "250,000 L",
+   "0.25 L",
+   "2.5 L"
+  ],
+  "answer": 2,
+  "explanation": "1 L = 1,000 mL. 250 mL = 0.25 L.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 0.075 mg to micrograms.",
+  "options": [
+   "75 micrograms",
+   "750 micrograms",
+   "7500 micrograms",
+   "7.5 micrograms"
+  ],
+  "answer": 0,
+  "explanation": "1 mg = 1,000 micrograms. 0.075 mg = 75 micrograms.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 1.5 L to mL.",
+  "options": [
+   "150 mL",
+   "1500 mL",
+   "150,000 mL",
+   "15,000 mL"
+  ],
+  "answer": 1,
+  "explanation": "1 L = 1,000 mL. 1.5 L = 1500 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 125 mL to L.",
+  "options": [
+   "0.125 L",
+   "12.5 L",
+   "125,000 L",
+   "1.25 L"
+  ],
+  "answer": 0,
+  "explanation": "1 L = 1,000 mL. 125 mL = 0.125 L.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 1.5 g to mg.",
+  "options": [
+   "15,000 mg",
+   "150,000 mg",
+   "150 mg",
+   "1500 mg"
+  ],
+  "answer": 3,
+  "explanation": "1 g = 1,000 mg. 1.5 g = 1500 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 1.5 mg to micrograms.",
+  "options": [
+   "150,000 micrograms",
+   "15,000 micrograms",
+   "150 micrograms",
+   "1500 micrograms"
+  ],
+  "answer": 3,
+  "explanation": "1 mg = 1,000 micrograms. 1.5 mg = 1500 micrograms.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 0.5 L to mL.",
+  "options": [
+   "500 mL",
+   "5000 mL",
+   "50,000 mL",
+   "50 mL"
+  ],
+  "answer": 0,
+  "explanation": "1 L = 1,000 mL. 0.5 L = 500 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "500 mL of sodium chloride 0.9% is to be given over 30 minutes by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "500 mL/hour",
+   "1 mL/hour",
+   "250 mL/hour",
+   "1000 mL/hour"
+  ],
+  "answer": 3,
+  "explanation": "Rate = volume ÷ time = 500 ÷ 0.5 = 1000 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "1000 mL of sodium chloride 0.9% is to be given over 2 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "2000 mL/hour",
+   "2 mL/hour",
+   "500 mL/hour",
+   "250 mL/hour"
+  ],
+  "answer": 2,
+  "explanation": "Rate = volume ÷ time = 1000 ÷ 2 = 500 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "1000 mL of sodium chloride 0.9% is to be given over 5 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "5 mL/hour",
+   "200 mL/hour",
+   "100 mL/hour",
+   "5000 mL/hour"
+  ],
+  "answer": 1,
+  "explanation": "Rate = volume ÷ time = 1000 ÷ 5 = 200 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "500 mL of sodium chloride 0.9% is to be given over 10 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "5000 mL/hour",
+   "50 mL/hour",
+   "25 mL/hour",
+   "20 mL/hour"
+  ],
+  "answer": 1,
+  "explanation": "Rate = volume ÷ time = 500 ÷ 10 = 50 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "250 mL of sodium chloride 0.9% is to be given over 30 minutes by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "500 mL/hour",
+   "250 mL/hour",
+   "2 mL/hour",
+   "125 mL/hour"
+  ],
+  "answer": 0,
+  "explanation": "Rate = volume ÷ time = 250 ÷ 0.5 = 500 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "500 mL of sodium chloride 0.9% is to be given over 12 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "20.85 mL/hour",
+   "6000 mL/hour",
+   "41.7 mL/hour",
+   "24 mL/hour"
+  ],
+  "answer": 2,
+  "explanation": "Rate = volume ÷ time = 500 ÷ 12 = 41.7 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "100 mL of sodium chloride 0.9% is to be given over 4 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "25 mL/hour",
+   "40 mL/hour",
+   "12.5 mL/hour",
+   "400 mL/hour"
+  ],
+  "answer": 0,
+  "explanation": "Rate = volume ÷ time = 100 ÷ 4 = 25 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "100 mL of sodium chloride 0.9% is to be given over 2 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "20 mL/hour",
+   "200 mL/hour",
+   "50 mL/hour",
+   "25 mL/hour"
+  ],
+  "answer": 2,
+  "explanation": "Rate = volume ÷ time = 100 ÷ 2 = 50 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "250 mL of sodium chloride 0.9% is to be given over 4 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "16 mL/hour",
+   "31.25 mL/hour",
+   "1000 mL/hour",
+   "62.5 mL/hour"
+  ],
+  "answer": 3,
+  "explanation": "Rate = volume ÷ time = 250 ÷ 4 = 62.5 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "100 mL of sodium chloride 0.9% is to be given over 30 minutes by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "200 mL/hour",
+   "100 mL/hour",
+   "50 mL/hour",
+   "5 mL/hour"
+  ],
+  "answer": 0,
+  "explanation": "Rate = volume ÷ time = 100 ÷ 0.5 = 200 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "250 mL of sodium chloride 0.9% is to be given over 8 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "15.65 mL/hour",
+   "2000 mL/hour",
+   "31.3 mL/hour",
+   "32 mL/hour"
+  ],
+  "answer": 2,
+  "explanation": "Rate = volume ÷ time = 250 ÷ 8 = 31.3 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "500 mL of sodium chloride 0.9% is to be given over 2 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "4 mL/hour",
+   "1000 mL/hour",
+   "125 mL/hour",
+   "250 mL/hour"
+  ],
+  "answer": 3,
+  "explanation": "Rate = volume ÷ time = 500 ÷ 2 = 250 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "100 mL of sodium chloride 0.9% is to be given over 10 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "10 mL/hour",
+   "5 mL/hour",
+   "1000 mL/hour",
+   "100 mL/hour"
+  ],
+  "answer": 0,
+  "explanation": "Rate = volume ÷ time = 100 ÷ 10 = 10 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "1000 mL of sodium chloride 0.9% is to be given over 10 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "50 mL/hour",
+   "100 mL/hour",
+   "10 mL/hour",
+   "10,000 mL/hour"
+  ],
+  "answer": 1,
+  "explanation": "Rate = volume ÷ time = 1000 ÷ 10 = 100 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "500 mL of sodium chloride 0.9% is to be given over 8 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "16 mL/hour",
+   "62.5 mL/hour",
+   "31.25 mL/hour",
+   "4000 mL/hour"
+  ],
+  "answer": 1,
+  "explanation": "Rate = volume ÷ time = 500 ÷ 8 = 62.5 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "250 mL of sodium chloride 0.9% is to be given over 2 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "125 mL/hour",
+   "8 mL/hour",
+   "62.5 mL/hour",
+   "500 mL/hour"
+  ],
+  "answer": 0,
+  "explanation": "Rate = volume ÷ time = 250 ÷ 2 = 125 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "1000 mL of fluid is to be given over 12 hours using a giving set with a drop factor of 60 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "83 drops/min",
+   "5000 drops/min",
+   "167 drops/min",
+   "1 drops/min"
+  ],
+  "answer": 0,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (1000 × 60) ÷ (12 × 60) = 83.33 → 83.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "1000 mL of fluid is to be given over 10 hours using a giving set with a drop factor of 60 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "2 drops/min",
+   "6000 drops/min",
+   "100 drops/min",
+   "200 drops/min"
+  ],
+  "answer": 2,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (1000 × 60) ÷ (10 × 60) = 100 → 100.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "500 mL of fluid is to be given over 6 hours using a giving set with a drop factor of 20 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "1 drops/min",
+   "1667 drops/min",
+   "28 drops/min",
+   "56 drops/min"
+  ],
+  "answer": 2,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (500 × 20) ÷ (6 × 60) = 27.78 → 28.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "500 mL of fluid is to be given over 12 hours using a giving set with a drop factor of 15 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "625 drops/min",
+   "10 drops/min",
+   "21 drops/min",
+   "1 drops/min"
+  ],
+  "answer": 1,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (500 × 15) ÷ (12 × 60) = 10.42 → 10.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "500 mL of fluid is to be given over 4 hours using a giving set with a drop factor of 15 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "1875 drops/min",
+   "2 drops/min",
+   "63 drops/min",
+   "31 drops/min"
+  ],
+  "answer": 3,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (500 × 15) ÷ (4 × 60) = 31.25 → 31.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "1000 mL of fluid is to be given over 6 hours using a giving set with a drop factor of 60 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "167 drops/min",
+   "10,000 drops/min",
+   "333 drops/min",
+   "3 drops/min"
+  ],
+  "answer": 0,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (1000 × 60) ÷ (6 × 60) = 166.67 → 167.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "500 mL of fluid is to be given over 4 hours using a giving set with a drop factor of 20 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "2 drops/min",
+   "42 drops/min",
+   "83 drops/min",
+   "2500 drops/min"
+  ],
+  "answer": 1,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (500 × 20) ÷ (4 × 60) = 41.67 → 42.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "1000 mL of fluid is to be given over 4 hours using a giving set with a drop factor of 20 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "167 drops/min",
+   "83 drops/min",
+   "5000 drops/min",
+   "4 drops/min"
+  ],
+  "answer": 1,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (1000 × 20) ÷ (4 × 60) = 83.33 → 83.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "250 mL of fluid is to be given over 6 hours using a giving set with a drop factor of 20 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "14 drops/min",
+   "833 drops/min",
+   "28 drops/min",
+   "1 drops/min"
+  ],
+  "answer": 0,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (250 × 20) ÷ (6 × 60) = 13.89 → 14.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "250 mL of fluid is to be given over 6 hours using a giving set with a drop factor of 60 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "42 drops/min",
+   "1 drops/min",
+   "83 drops/min",
+   "2500 drops/min"
+  ],
+  "answer": 0,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (250 × 60) ÷ (6 × 60) = 41.67 → 42.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "250 mL of fluid is to be given over 12 hours using a giving set with a drop factor of 15 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "10 drops/min",
+   "0 drops/min",
+   "313 drops/min",
+   "5 drops/min"
+  ],
+  "answer": 3,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (250 × 15) ÷ (12 × 60) = 5.21 → 5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "1000 mL of fluid is to be given over 8 hours using a giving set with a drop factor of 15 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "63 drops/min",
+   "2 drops/min",
+   "31 drops/min",
+   "1875 drops/min"
+  ],
+  "answer": 2,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (1000 × 15) ÷ (8 × 60) = 31.25 → 31.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "1000 mL of fluid is to be given over 10 hours using a giving set with a drop factor of 15 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "2 drops/min",
+   "50 drops/min",
+   "1500 drops/min",
+   "25 drops/min"
+  ],
+  "answer": 3,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (1000 × 15) ÷ (10 × 60) = 25 → 25.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "250 mL of fluid is to be given over 2 hours using a giving set with a drop factor of 15 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "1875 drops/min",
+   "63 drops/min",
+   "2 drops/min",
+   "31 drops/min"
+  ],
+  "answer": 3,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (250 × 15) ÷ (2 × 60) = 31.25 → 31.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "250 mL of fluid is to be given over 4 hours using a giving set with a drop factor of 15 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "1 drops/min",
+   "938 drops/min",
+   "31 drops/min",
+   "16 drops/min"
+  ],
+  "answer": 3,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (250 × 15) ÷ (4 × 60) = 15.63 → 16.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "250 mL of fluid is to be given over 8 hours using a giving set with a drop factor of 60 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "1875 drops/min",
+   "63 drops/min",
+   "1 drops/min",
+   "31 drops/min"
+  ],
+  "answer": 3,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (250 × 60) ÷ (8 × 60) = 31.25 → 31.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 5 mg/kg/day in 2 equal divided doses. The patient weighs 62 kg. How much is each dose?",
+  "options": [
+   "620 mg",
+   "12.4 mg",
+   "310 mg",
+   "155 mg"
+  ],
+  "answer": 3,
+  "explanation": "Daily dose = 5 × 62 = 310 mg. Each dose = 310 ÷ 2 = 155 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 15 mg/kg/day in 3 equal divided doses. The patient weighs 63 kg. How much is each dose?",
+  "options": [
+   "2835 mg",
+   "630 mg",
+   "945 mg",
+   "315 mg"
+  ],
+  "answer": 3,
+  "explanation": "Daily dose = 15 × 63 = 945 mg. Each dose = 945 ÷ 3 = 315 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 15 mg/kg/day in 2 equal divided doses. The patient weighs 45 kg. How much is each dose?",
+  "options": [
+   "1350 mg",
+   "337.5 mg",
+   "3 mg",
+   "675 mg"
+  ],
+  "answer": 1,
+  "explanation": "Daily dose = 15 × 45 = 675 mg. Each dose = 675 ÷ 2 = 337.5 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 1.5 mg/kg/day in 4 equal divided doses. The patient weighs 17 kg. How much is each dose?",
+  "options": [
+   "25.5 mg",
+   "6.38 mg",
+   "12.76 mg",
+   "102 mg"
+  ],
+  "answer": 1,
+  "explanation": "Daily dose = 1.5 × 17 = 25.5 mg. Each dose = 25.5 ÷ 4 = 6.38 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 5 mg/kg/day in 3 equal divided doses. The patient weighs 56 kg. How much is each dose?",
+  "options": [
+   "840 mg",
+   "93.33 mg",
+   "280 mg",
+   "186.66 mg"
+  ],
+  "answer": 1,
+  "explanation": "Daily dose = 5 × 56 = 280 mg. Each dose = 280 ÷ 3 = 93.33 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 5 mg/kg. The patient weighs 64 kg. What dose should be given?",
+  "options": [
+   "12.8 mg",
+   "320 mg",
+   "160 mg",
+   "3200 mg"
+  ],
+  "answer": 1,
+  "explanation": "5 mg × 64 kg = 320 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 15 mg/kg. The patient weighs 61 kg. What dose should be given?",
+  "options": [
+   "76 mg",
+   "9150 mg",
+   "457.5 mg",
+   "915 mg"
+  ],
+  "answer": 3,
+  "explanation": "15 mg × 61 kg = 915 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 5 mg/kg/day in 3 equal divided doses. The patient weighs 83 kg. How much is each dose?",
+  "options": [
+   "1245 mg",
+   "276.66 mg",
+   "415 mg",
+   "138.33 mg"
+  ],
+  "answer": 3,
+  "explanation": "Daily dose = 5 × 83 = 415 mg. Each dose = 415 ÷ 3 = 138.33 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 0.5 mg/kg/day in 3 equal divided doses. The patient weighs 40 kg. How much is each dose?",
+  "options": [
+   "60 mg",
+   "6.67 mg",
+   "13.34 mg",
+   "20 mg"
+  ],
+  "answer": 1,
+  "explanation": "Daily dose = 0.5 × 40 = 20 mg. Each dose = 20 ÷ 3 = 6.67 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 7.5 mg/kg/day in 2 equal divided doses. The patient weighs 93 kg. How much is each dose?",
+  "options": [
+   "12.4 mg",
+   "1395 mg",
+   "697.5 mg",
+   "348.75 mg"
+  ],
+  "answer": 3,
+  "explanation": "Daily dose = 7.5 × 93 = 697.5 mg. Each dose = 697.5 ÷ 2 = 348.75 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 15 mg/kg/day in 4 equal divided doses. The patient weighs 32 kg. How much is each dose?",
+  "options": [
+   "1920 mg",
+   "120 mg",
+   "480 mg",
+   "240 mg"
+  ],
+  "answer": 1,
+  "explanation": "Daily dose = 15 × 32 = 480 mg. Each dose = 480 ÷ 4 = 120 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 5 mg/kg/day in 4 equal divided doses. The patient weighs 17 kg. How much is each dose?",
+  "options": [
+   "340 mg",
+   "42.5 mg",
+   "85 mg",
+   "21.25 mg"
+  ],
+  "answer": 3,
+  "explanation": "Daily dose = 5 × 17 = 85 mg. Each dose = 85 ÷ 4 = 21.25 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 7.5 mg/kg/day in 4 equal divided doses. The patient weighs 83 kg. How much is each dose?",
+  "options": [
+   "622.5 mg",
+   "2490 mg",
+   "155.63 mg",
+   "311.26 mg"
+  ],
+  "answer": 2,
+  "explanation": "Daily dose = 7.5 × 83 = 622.5 mg. Each dose = 622.5 ÷ 4 = 155.63 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 20 mg/kg/day in 2 equal divided doses. The patient weighs 29 kg. How much is each dose?",
+  "options": [
+   "580 mg",
+   "290 mg",
+   "1160 mg",
+   "1.45 mg"
+  ],
+  "answer": 1,
+  "explanation": "Daily dose = 20 × 29 = 580 mg. Each dose = 580 ÷ 2 = 290 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 15 mg/kg/day in 4 equal divided doses. The patient weighs 65 kg. How much is each dose?",
+  "options": [
+   "243.75 mg",
+   "975 mg",
+   "487.5 mg",
+   "3900 mg"
+  ],
+  "answer": 0,
+  "explanation": "Daily dose = 15 × 65 = 975 mg. Each dose = 975 ÷ 4 = 243.75 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 15 mg/kg/day in 2 equal divided doses. The patient weighs 85 kg. How much is each dose?",
+  "options": [
+   "1275 mg",
+   "701.5 mg",
+   "2550 mg",
+   "637.5 mg"
+  ],
+  "answer": 3,
+  "explanation": "Daily dose = 15 × 85 = 1275 mg. Each dose = 1275 ÷ 2 = 637.5 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 350 mL of tea, 100 mL of water and receives 300 mL IV fluid. Output is 650 mL urine and 200 mL vomit. What is the fluid balance?",
+  "options": [
+   "+100 mL",
+   "+1600 mL",
+   "-200 mL",
+   "-100 mL"
+  ],
+  "answer": 3,
+  "explanation": "Input 750 mL − output 850 mL = -100 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 200 mL of tea, 250 mL of water and receives 600 mL IV fluid. Output is 700 mL urine and 100 mL vomit. What is the fluid balance?",
+  "options": [
+   "+1850 mL",
+   "+350 mL",
+   "+250 mL",
+   "-250 mL"
+  ],
+  "answer": 2,
+  "explanation": "Input 1050 mL − output 800 mL = +250 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 150 mL of tea, 300 mL of water and receives 500 mL IV fluid. Output is 650 mL urine and 150 mL vomit. What is the fluid balance?",
+  "options": [
+   "+1750 mL",
+   "+300 mL",
+   "+150 mL",
+   "-150 mL"
+  ],
+  "answer": 2,
+  "explanation": "Input 950 mL − output 800 mL = +150 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 200 mL of tea, 250 mL of water and receives 400 mL IV fluid. Output is 750 mL urine and 50 mL vomit. What is the fluid balance?",
+  "options": [
+   "+1650 mL",
+   "-50 mL",
+   "+100 mL",
+   "+50 mL"
+  ],
+  "answer": 3,
+  "explanation": "Input 850 mL − output 800 mL = +50 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 100 mL of tea, 150 mL of water and receives 200 mL IV fluid. Output is 800 mL urine and 200 mL vomit. What is the fluid balance?",
+  "options": [
+   "+550 mL",
+   "-550 mL",
+   "+1450 mL",
+   "-350 mL"
+  ],
+  "answer": 1,
+  "explanation": "Input 450 mL − output 1000 mL = -550 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 150 mL of tea, 300 mL of water and receives 700 mL IV fluid. Output is 500 mL urine and 50 mL vomit. What is the fluid balance?",
+  "options": [
+   "+600 mL",
+   "+650 mL",
+   "-600 mL",
+   "+1700 mL"
+  ],
+  "answer": 0,
+  "explanation": "Input 1150 mL − output 550 mL = +600 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 350 mL of tea, 250 mL of water and receives 600 mL IV fluid. Output is 700 mL urine and 50 mL vomit. What is the fluid balance?",
+  "options": [
+   "+500 mL",
+   "-450 mL",
+   "+1950 mL",
+   "+450 mL"
+  ],
+  "answer": 3,
+  "explanation": "Input 1200 mL − output 750 mL = +450 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 150 mL of tea, 50 mL of water and receives 500 mL IV fluid. Output is 250 mL urine and 50 mL vomit. What is the fluid balance?",
+  "options": [
+   "-400 mL",
+   "+450 mL",
+   "+400 mL",
+   "+1000 mL"
+  ],
+  "answer": 2,
+  "explanation": "Input 700 mL − output 300 mL = +400 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 150 mL of tea, 250 mL of water and receives 800 mL IV fluid. Output is 550 mL urine and 150 mL vomit. What is the fluid balance?",
+  "options": [
+   "+1900 mL",
+   "-500 mL",
+   "+500 mL",
+   "+650 mL"
+  ],
+  "answer": 2,
+  "explanation": "Input 1200 mL − output 700 mL = +500 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 300 mL of tea, 200 mL of water and receives 200 mL IV fluid. Output is 750 mL urine and 50 mL vomit. What is the fluid balance?",
+  "options": [
+   "-100 mL",
+   "+100 mL",
+   "-50 mL",
+   "+1500 mL"
+  ],
+  "answer": 0,
+  "explanation": "Input 700 mL − output 800 mL = -100 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 350 mL of tea, 250 mL of water and receives 900 mL IV fluid. Output is 500 mL urine and 100 mL vomit. What is the fluid balance?",
+  "options": [
+   "+900 mL",
+   "+2100 mL",
+   "+1000 mL",
+   "-900 mL"
+  ],
+  "answer": 0,
+  "explanation": "Input 1500 mL − output 600 mL = +900 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 200 mL of tea, 100 mL of water and receives 1000 mL IV fluid. Output is 400 mL urine and 50 mL vomit. What is the fluid balance?",
+  "options": [
+   "+1750 mL",
+   "+900 mL",
+   "-850 mL",
+   "+850 mL"
+  ],
+  "answer": 3,
+  "explanation": "Input 1300 mL − output 450 mL = +850 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 250 mL of tea, 50 mL of water and receives 400 mL IV fluid. Output is 700 mL urine and 50 mL vomit. What is the fluid balance?",
+  "options": [
+   "+50 mL",
+   "0 mL",
+   "+1450 mL",
+   "-50 mL"
+  ],
+  "answer": 3,
+  "explanation": "Input 700 mL − output 750 mL = -50 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 300 mL of tea, 200 mL of water and receives 900 mL IV fluid. Output is 700 mL urine and 200 mL vomit. What is the fluid balance?",
+  "options": [
+   "+2300 mL",
+   "+500 mL",
+   "+700 mL",
+   "-500 mL"
+  ],
+  "answer": 1,
+  "explanation": "Input 1400 mL − output 900 mL = +500 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 100 mL of tea, 50 mL of water and receives 800 mL IV fluid. Output is 500 mL urine and 200 mL vomit. What is the fluid balance?",
+  "options": [
+   "-250 mL",
+   "+250 mL",
+   "+1650 mL",
+   "+450 mL"
+  ],
+  "answer": 1,
+  "explanation": "Input 950 mL − output 700 mL = +250 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 100 mL of tea, 100 mL of water and receives 1000 mL IV fluid. Output is 650 mL urine and 50 mL vomit. What is the fluid balance?",
+  "options": [
+   "-500 mL",
+   "+500 mL",
+   "+1900 mL",
+   "+550 mL"
+  ],
+  "answer": 1,
+  "explanation": "Input 1200 mL − output 700 mL = +500 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 500 mL is running at 100 mL/hour. How long will it take?",
+  "options": [
+   "4 hours 30 minutes",
+   "6 hours",
+   "5 hours",
+   "5 hours 30 minutes"
+  ],
+  "answer": 2,
+  "explanation": "Time = volume ÷ rate = 500 ÷ 100 = 5 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 500 mL is running at 62.5 mL/hour. How long will it take?",
+  "options": [
+   "7 hours 30 minutes",
+   "8 hours 30 minutes",
+   "8 hours",
+   "9 hours"
+  ],
+  "answer": 2,
+  "explanation": "Time = volume ÷ rate = 500 ÷ 62.5 = 8 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 250 mL is running at 50 mL/hour. How long will it take?",
+  "options": [
+   "5 hours",
+   "6 hours",
+   "4 hours 30 minutes",
+   "5 hours 30 minutes"
+  ],
+  "answer": 0,
+  "explanation": "Time = volume ÷ rate = 250 ÷ 50 = 5 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 1000 mL is running at 200 mL/hour. How long will it take?",
+  "options": [
+   "5 hours 30 minutes",
+   "6 hours",
+   "5 hours",
+   "4 hours 30 minutes"
+  ],
+  "answer": 2,
+  "explanation": "Time = volume ÷ rate = 1000 ÷ 200 = 5 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 250 mL is running at 25 mL/hour. How long will it take?",
+  "options": [
+   "10 hours",
+   "9 hours 30 minutes",
+   "11 hours",
+   "10 hours 30 minutes"
+  ],
+  "answer": 0,
+  "explanation": "Time = volume ÷ rate = 250 ÷ 25 = 10 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 100 mL is running at 50 mL/hour. How long will it take?",
+  "options": [
+   "3 hours",
+   "1 hour 30 minutes",
+   "2 hours 30 minutes",
+   "2 hours"
+  ],
+  "answer": 3,
+  "explanation": "Time = volume ÷ rate = 100 ÷ 50 = 2 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 500 mL is running at 200 mL/hour. How long will it take?",
+  "options": [
+   "1 hour 30 minutes",
+   "2 hours",
+   "2 hours 30 minutes",
+   "3 hours 30 minutes"
+  ],
+  "answer": 2,
+  "explanation": "Time = volume ÷ rate = 500 ÷ 200 = 2.5 hours = 2 hours 30 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 1000 mL is running at 125 mL/hour. How long will it take?",
+  "options": [
+   "8 hours 30 minutes",
+   "8 hours",
+   "7 hours 30 minutes",
+   "9 hours"
+  ],
+  "answer": 1,
+  "explanation": "Time = volume ÷ rate = 1000 ÷ 125 = 8 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 1000 mL is running at 100 mL/hour. How long will it take?",
+  "options": [
+   "9 hours 30 minutes",
+   "10 hours",
+   "11 hours",
+   "10 hours 30 minutes"
+  ],
+  "answer": 1,
+  "explanation": "Time = volume ÷ rate = 1000 ÷ 100 = 10 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 250 mL is running at 200 mL/hour. How long will it take?",
+  "options": [
+   "1 hour 30 minutes",
+   "0 hours 15 minutes",
+   "2 hours 15 minutes",
+   "1 hour 15 minutes"
+  ],
+  "answer": 3,
+  "explanation": "Time = volume ÷ rate = 250 ÷ 200 = 1.25 hours = 1 hour 15 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 500 mL is running at 125 mL/hour. How long will it take?",
+  "options": [
+   "4 hours",
+   "4 hours 30 minutes",
+   "5 hours",
+   "3 hours 30 minutes"
+  ],
+  "answer": 0,
+  "explanation": "Time = volume ÷ rate = 500 ÷ 125 = 4 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 250 mL is running at 62.5 mL/hour. How long will it take?",
+  "options": [
+   "3 hours 30 minutes",
+   "4 hours",
+   "4 hours 30 minutes",
+   "5 hours"
+  ],
+  "answer": 1,
+  "explanation": "Time = volume ÷ rate = 250 ÷ 62.5 = 4 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Percentage solutions",
+  "body": "How many grams of glucose are in 500 mL of glucose 50% w/v?",
+  "options": [
+   "25 g",
+   "25,000 g",
+   "250 g",
+   "2500 g"
+  ],
+  "answer": 2,
+  "explanation": "50% w/v = 50 g per 100 mL. 500 mL contains 50 × 5 = 250 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Percentage solutions",
+  "body": "How many grams of glucose are in 250 mL of glucose 50% w/v?",
+  "options": [
+   "12,500 g",
+   "1250 g",
+   "125 g",
+   "12.5 g"
+  ],
+  "answer": 2,
+  "explanation": "50% w/v = 50 g per 100 mL. 250 mL contains 50 × 2.5 = 125 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Percentage solutions",
+  "body": "How many grams of glucose are in 100 mL of glucose 50% w/v?",
+  "options": [
+   "500 g",
+   "5 g",
+   "50 g",
+   "5000 g"
+  ],
+  "answer": 2,
+  "explanation": "50% w/v = 50 g per 100 mL. 100 mL contains 50 × 1 = 50 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Percentage solutions",
+  "body": "How many grams of glucose are in 250 mL of glucose 20% w/v?",
+  "options": [
+   "5000 g",
+   "50 g",
+   "5 g",
+   "500 g"
+  ],
+  "answer": 1,
+  "explanation": "20% w/v = 20 g per 100 mL. 250 mL contains 20 × 2.5 = 50 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Percentage solutions",
+  "body": "How many grams of sodium chloride are in 250 mL of sodium chloride 0.9% w/v?",
+  "options": [
+   "225 g",
+   "2.25 g",
+   "22.5 g",
+   "0.9 g"
+  ],
+  "answer": 1,
+  "explanation": "0.9% w/v = 0.9 g per 100 mL. 250 mL contains 0.9 × 2.5 = 2.25 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Percentage solutions",
+  "body": "How many grams of glucose are in 1000 mL of glucose 50% w/v?",
+  "options": [
+   "500 g",
+   "50,000 g",
+   "5000 g",
+   "50 g"
+  ],
+  "answer": 0,
+  "explanation": "50% w/v = 50 g per 100 mL. 1000 mL contains 50 × 10 = 500 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Percentage solutions",
+  "body": "How many grams of glucose are in 100 mL of glucose 5% w/v?",
+  "options": [
+   "50 g",
+   "0.5 g",
+   "500 g",
+   "5 g"
+  ],
+  "answer": 3,
+  "explanation": "5% w/v = 5 g per 100 mL. 100 mL contains 5 × 1 = 5 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Percentage solutions",
+  "body": "How many grams of glucose are in 100 mL of glucose 10% w/v?",
+  "options": [
+   "100 g",
+   "10 g",
+   "1000 g",
+   "1 g"
+  ],
+  "answer": 1,
+  "explanation": "10% w/v = 10 g per 100 mL. 100 mL contains 10 × 1 = 10 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Percentage solutions",
+  "body": "How many grams of glucose are in 100 mL of glucose 20% w/v?",
+  "options": [
+   "20 g",
+   "200 g",
+   "2 g",
+   "2000 g"
+  ],
+  "answer": 0,
+  "explanation": "20% w/v = 20 g per 100 mL. 100 mL contains 20 × 1 = 20 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Percentage solutions",
+  "body": "How many grams of sodium chloride are in 500 mL of sodium chloride 0.9% w/v?",
+  "options": [
+   "4.5 g",
+   "45 g",
+   "450 g",
+   "0.45 g"
+  ],
+  "answer": 0,
+  "explanation": "0.9% w/v = 0.9 g per 100 mL. 500 mL contains 0.9 × 5 = 4.5 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "BMI",
+  "body": "Calculate the BMI of a patient weighing 49 kg who is 1.55 m tall. (Round to 1 decimal place)",
+  "options": [
+   "63.2",
+   "31.6",
+   "20.4",
+   "22.4"
+  ],
+  "answer": 2,
+  "explanation": "BMI = kg ÷ m² = 49 ÷ (1.55 × 1.55) = 20.4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "BMI",
+  "body": "Calculate the BMI of a patient weighing 96 kg who is 1.85 m tall. (Round to 1 decimal place)",
+  "options": [
+   "103.8",
+   "51.9",
+   "30",
+   "28"
+  ],
+  "answer": 3,
+  "explanation": "BMI = kg ÷ m² = 96 ÷ (1.85 × 1.85) = 28.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "BMI",
+  "body": "Calculate the BMI of a patient weighing 114 kg who is 1.6 m tall. (Round to 1 decimal place)",
+  "options": [
+   "71.3",
+   "44.5",
+   "46.5",
+   "142.5"
+  ],
+  "answer": 1,
+  "explanation": "BMI = kg ÷ m² = 114 ÷ (1.6 × 1.6) = 44.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "BMI",
+  "body": "Calculate the BMI of a patient weighing 75 kg who is 1.55 m tall. (Round to 1 decimal place)",
+  "options": [
+   "96.8",
+   "33.2",
+   "48.4",
+   "31.2"
+  ],
+  "answer": 3,
+  "explanation": "BMI = kg ÷ m² = 75 ÷ (1.55 × 1.55) = 31.2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "BMI",
+  "body": "Calculate the BMI of a patient weighing 76 kg who is 1.5 m tall. (Round to 1 decimal place)",
+  "options": [
+   "35.8",
+   "50.7",
+   "101.3",
+   "33.8"
+  ],
+  "answer": 3,
+  "explanation": "BMI = kg ÷ m² = 76 ÷ (1.5 × 1.5) = 33.8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "BMI",
+  "body": "Calculate the BMI of a patient weighing 66 kg who is 1.5 m tall. (Round to 1 decimal place)",
+  "options": [
+   "88",
+   "29.3",
+   "44",
+   "31.3"
+  ],
+  "answer": 1,
+  "explanation": "BMI = kg ÷ m² = 66 ÷ (1.5 × 1.5) = 29.3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "BMI",
+  "body": "Calculate the BMI of a patient weighing 81 kg who is 1.6 m tall. (Round to 1 decimal place)",
+  "options": [
+   "33.6",
+   "50.6",
+   "31.6",
+   "101.3"
+  ],
+  "answer": 2,
+  "explanation": "BMI = kg ÷ m² = 81 ÷ (1.6 × 1.6) = 31.6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "BMI",
+  "body": "Calculate the BMI of a patient weighing 91 kg who is 1.85 m tall. (Round to 1 decimal place)",
+  "options": [
+   "98.4",
+   "26.6",
+   "28.6",
+   "49.2"
+  ],
+  "answer": 1,
+  "explanation": "BMI = kg ÷ m² = 91 ÷ (1.85 × 1.85) = 26.6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "BMI",
+  "body": "Calculate the BMI of a patient weighing 113 kg who is 1.6 m tall. (Round to 1 decimal place)",
+  "options": [
+   "70.6",
+   "46.1",
+   "141.3",
+   "44.1"
+  ],
+  "answer": 3,
+  "explanation": "BMI = kg ÷ m² = 113 ÷ (1.6 × 1.6) = 44.1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "BMI",
+  "body": "Calculate the BMI of a patient weighing 88 kg who is 1.65 m tall. (Round to 1 decimal place)",
+  "options": [
+   "106.7",
+   "34.3",
+   "53.3",
+   "32.3"
+  ],
+  "answer": 3,
+  "explanation": "BMI = kg ÷ m² = 88 ÷ (1.65 × 1.65) = 32.3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "What are the four themes of the NMC Code?",
+  "options": [
+   "Prioritise people, practise effectively, preserve safety, promote professionalism and trust",
+   "Care, compassion, competence, communication",
+   "Respect, dignity, safety, honesty",
+   "Assess, plan, implement, evaluate"
+  ],
+  "answer": 0,
+  "explanation": "The NMC Code (2015, updated 2018) is organised around these four themes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "How often must NMC registrants revalidate?",
+  "options": [
+   "Every year",
+   "Every three years",
+   "Only when changing jobs",
+   "Every five years"
+  ],
+  "answer": 1,
+  "explanation": "Revalidation is required every three years to stay on the register.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "How many hours of continuing professional development (CPD) are required for NMC revalidation?",
+  "options": [
+   "20 hours, all self-directed",
+   "50 hours",
+   "35 hours, including 20 hours of participatory learning",
+   "10 hours a year"
+  ],
+  "answer": 2,
+  "explanation": "Revalidation also requires 450 practice hours, 5 pieces of feedback and 5 reflective accounts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "How many practice hours are required for nurse revalidation over three years?",
+  "options": [
+   "750 hours",
+   "450 hours",
+   "150 hours",
+   "1,000 hours"
+  ],
+  "answer": 1,
+  "explanation": "Dual registrants need 900 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "How many written reflective accounts are required for NMC revalidation?",
+  "options": [
+   "Two",
+   "One",
+   "Ten",
+   "Five"
+  ],
+  "answer": 3,
+  "explanation": "You also need a reflective discussion with another NMC registrant.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "The professional duty of candour means a nurse must",
+  "options": [
+   "report colleagues only to the police",
+   "never discuss errors with patients",
+   "only tell the family if asked",
+   "be open and honest with patients when something goes wrong with their care"
+  ],
+  "answer": 3,
+  "explanation": "Apologise, explain and support the person when things go wrong.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "A nurse is asked to carry out a task they are not competent to do. What should they do?",
+  "options": [
+   "Recognise the limits of their competence and seek help or training",
+   "Ask the patient to do it",
+   "Watch a video and proceed",
+   "Do it anyway to avoid delay"
+  ],
+  "answer": 0,
+  "explanation": "The Code requires you to practise within your competence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "When delegating a task to a healthcare assistant, the nurse remains",
+  "options": [
+   "accountable only if the patient complains",
+   "free of any responsibility",
+   "responsible only for paperwork",
+   "accountable for the decision to delegate"
+  ],
+  "answer": 3,
+  "explanation": "Delegate only to people competent to do the task, and supervise appropriately.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "Which reflective model has the stages description, feelings, evaluation, analysis, conclusion and action plan?",
+  "options": [
+   "Maslow's hierarchy",
+   "Gibbs' reflective cycle",
+   "Roper-Logan-Tierney model",
+   "SBAR"
+  ],
+  "answer": 1,
+  "explanation": "Gibbs (1988) is widely used for NMC reflective accounts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "Which structured communication tool is commonly used to escalate concerns about a patient?",
+  "options": [
+   "PQRST",
+   "SBAR — Situation, Background, Assessment, Recommendation",
+   "ABCDE",
+   "SOAP only"
+  ],
+  "answer": 1,
+  "explanation": "SBAR helps hand over clear, concise information.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "Posting a photo of a patient on social media without consent is",
+  "options": [
+   "acceptable if the patient has been discharged",
+   "acceptable on a private account",
+   "acceptable if the face is hidden",
+   "a breach of confidentiality and the NMC Code"
+  ],
+  "answer": 3,
+  "explanation": "Respect privacy and confidentiality at all times, including online.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "Patient information should be shared",
+  "options": [
+   "with the patient's employer",
+   "with anyone who asks politely",
+   "only on a need-to-know basis, in line with confidentiality and data protection law",
+   "never, even with the care team"
+  ],
+  "answer": 2,
+  "explanation": "Caldicott principles guide the use of patient-identifiable information.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "What is the first step in an ABCDE assessment?",
+  "options": [
+   "Airway",
+   "Breathing",
+   "Disability",
+   "Circulation"
+  ],
+  "answer": 0,
+  "explanation": "Assess Airway, Breathing, Circulation, Disability, Exposure in order.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "In the ABCDE approach, 'D' stands for",
+  "options": [
+   "Disability (neurological status, e.g. AVPU or GCS, and blood glucose)",
+   "Drugs",
+   "Dressing",
+   "Diet"
+  ],
+  "answer": 0,
+  "explanation": "Check consciousness level, pupils and blood glucose.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "What does AVPU stand for?",
+  "options": [
+   "Alert, Voice, Pain, Unresponsive",
+   "Assess, Verify, Plan, Update",
+   "Airway, Ventilation, Pulse, Urine",
+   "Awake, Vague, Pale, Unwell"
+  ],
+  "answer": 0,
+  "explanation": "A quick assessment of consciousness. NEWS2 uses ACVPU, adding new Confusion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "What is the range of the Glasgow Coma Scale?",
+  "options": [
+   "0 to 10",
+   "3 to 15",
+   "0 to 15",
+   "1 to 20"
+  ],
+  "answer": 1,
+  "explanation": "The lowest possible score is 3; fully alert is 15.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "What are the components of the Glasgow Coma Scale?",
+  "options": [
+   "Eye opening, verbal response and motor response",
+   "Pain, mood and appetite",
+   "Pupil size, colour and reaction",
+   "Pulse, blood pressure and temperature"
+  ],
+  "answer": 0,
+  "explanation": "Eyes (1–4), Verbal (1–5), Motor (1–6).",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "Which tool is used to assess a patient's risk of developing pressure ulcers?",
+  "options": [
+   "The Waterlow score (or Braden scale)",
+   "The Bristol Stool Chart",
+   "The Glasgow Coma Scale",
+   "The MUST tool"
+  ],
+  "answer": 0,
+  "explanation": "Risk assessment should be done on admission and reviewed regularly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "A category 1 pressure ulcer is described as",
+  "options": [
+   "full-thickness tissue loss with exposed bone",
+   "an open wound with slough",
+   "intact skin with non-blanchable redness",
+   "a blister filled with blood only"
+  ],
+  "answer": 2,
+  "explanation": "Category 1 is the earliest stage; skin is unbroken.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "A pressure ulcer with full-thickness tissue loss and exposed bone, tendon or muscle is",
+  "options": [
+   "category 2",
+   "category 1",
+   "category 4",
+   "category 3"
+  ],
+  "answer": 2,
+  "explanation": "Category 4 is the most severe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "What does the MUST tool screen for?",
+  "options": [
+   "Malnutrition",
+   "Falls risk",
+   "Pressure ulcers",
+   "Depression"
+  ],
+  "answer": 0,
+  "explanation": "Malnutrition Universal Screening Tool.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "Which chart is used to classify stool consistency?",
+  "options": [
+   "The Bristol Stool Chart",
+   "The MUST chart",
+   "The NEWS2 chart",
+   "The Waterlow chart"
+  ],
+  "answer": 0,
+  "explanation": "Types 1–7, from hard lumps to entirely liquid.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "When an adult patient falls on the ward, what should the nurse do first?",
+  "options": [
+   "Leave them until a doctor arrives",
+   "Help them straight back into bed",
+   "Check the patient for injury before moving them",
+   "Complete the incident form first"
+  ],
+  "answer": 2,
+  "explanation": "Assess for injury (including head injury and fractures) before moving.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "Which of these is a 'never event'?",
+  "options": [
+   "A delayed discharge",
+   "A patient missing a meal",
+   "Administering a medicine by the wrong route, such as an oral medicine intravenously",
+   "A minor documentation error"
+  ],
+  "answer": 2,
+  "explanation": "Never events are serious, wholly preventable incidents.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "Before a blood transfusion, patient identity is checked by",
+  "options": [
+   "checking the notes only",
+   "asking the patient to state their full name and date of birth and matching it to the wristband and blood component",
+   "asking 'Are you Mrs Smith?'",
+   "reading the bed number only"
+  ],
+  "answer": 1,
+  "explanation": "Positive patient identification at the bedside is essential.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "During a blood transfusion, the patient is most at risk of a severe reaction",
+  "options": [
+   "in the first 15 minutes",
+   "after 4 hours",
+   "only at the end",
+   "the next day"
+  ],
+  "answer": 0,
+  "explanation": "Monitor closely, with observations before, at 15 minutes and after.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Patient safety",
+  "body": "Which patient group needs a VTE risk assessment on admission?",
+  "options": [
+   "Only surgical patients",
+   "Only patients over 80",
+   "All adult inpatients",
+   "Only patients with cancer"
+  ],
+  "answer": 2,
+  "explanation": "NICE recommends VTE assessment for all adults admitted to hospital.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "What is the single most important measure to prevent healthcare-associated infection?",
+  "options": [
+   "Hand hygiene",
+   "Wearing gloves at all times",
+   "Air fresheners",
+   "Antibiotics"
+  ],
+  "answer": 0,
+  "explanation": "Clean hands at the right moments, with the right technique.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "How many 'moments for hand hygiene' are described by the WHO?",
+  "options": [
+   "Seven",
+   "Four",
+   "Five",
+   "Three"
+  ],
+  "answer": 2,
+  "explanation": "Before patient contact, before aseptic task, after body fluid exposure, after patient contact, after touching surroundings.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "Which hand hygiene method should be used when caring for a patient with Clostridioides difficile?",
+  "options": [
+   "No hand hygiene if gloves were worn",
+   "Alcohol hand gel",
+   "Wet wipes",
+   "Soap and water"
+  ],
+  "answer": 3,
+  "explanation": "Alcohol gel does not kill C. difficile spores.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "In what order should PPE usually be removed?",
+  "options": [
+   "Apron, mask, gloves, eye protection",
+   "Eye protection, mask, gloves, apron",
+   "Gloves, apron, eye protection, mask",
+   "Mask, apron, gloves, eye protection"
+  ],
+  "answer": 2,
+  "explanation": "Remove the most contaminated items first, then clean hands.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "What colour bag is commonly used for infectious clinical waste in the UK?",
+  "options": [
+   "Orange",
+   "Black",
+   "Blue",
+   "Clear"
+  ],
+  "answer": 0,
+  "explanation": "Follow local policy; black is for domestic waste.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "Used needles should be",
+  "options": [
+   "disposed of immediately into a sharps bin at the point of use, without re-sheathing",
+   "re-sheathed and placed in a clinical waste bag",
+   "left on the tray for later",
+   "bent before disposal"
+  ],
+  "answer": 0,
+  "explanation": "Never re-sheath needles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "What should you do immediately after a needlestick injury?",
+  "options": [
+   "Ignore it if it looks minor",
+   "Encourage bleeding, wash with soap and running water, cover, and report",
+   "Suck the wound",
+   "Scrub the area with a brush"
+  ],
+  "answer": 1,
+  "explanation": "Report urgently for risk assessment and possible post-exposure prophylaxis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "A patient with suspected infectious diarrhoea should be",
+  "options": [
+   "sent home immediately",
+   "isolated in a single room with en-suite or dedicated toilet",
+   "placed in a bay with others",
+   "kept in the day room"
+  ],
+  "answer": 1,
+  "explanation": "Isolate promptly to prevent spread.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "MRSA stands for",
+  "options": [
+   "Multi-resistant streptococcus A",
+   "Meticillin-resistant Staphylococcus aureus",
+   "Meningitis-related staph aureus",
+   "Mild respiratory syndrome A"
+  ],
+  "answer": 1,
+  "explanation": "MRSA screening is carried out on admission for many patient groups.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "What does NEWS2 stand for?",
+  "options": [
+   "Nursing Emergency Warning System 2",
+   "National Emergency Ward Standard",
+   "New Escalation Workflow Score",
+   "National Early Warning Score 2"
+  ],
+  "answer": 3,
+  "explanation": "NEWS2 is the Royal College of Physicians' standard tool for adults.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Which parameters make up NEWS2?",
+  "options": [
+   "Pulse, pain and urine output only",
+   "Respiration rate, oxygen saturation, systolic blood pressure, pulse, level of consciousness or new confusion, and temperature",
+   "GCS and pupil size only",
+   "Blood glucose and weight"
+  ],
+  "answer": 1,
+  "explanation": "A score is also added if the patient needs supplemental oxygen.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "A NEWS2 aggregate score of 7 or more should trigger",
+  "options": [
+   "observations once a day",
+   "discharge planning",
+   "routine 12-hourly observations",
+   "an emergency response, with immediate assessment by a clinical team with critical care competencies"
+  ],
+  "answer": 3,
+  "explanation": "7+ is a high clinical risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "A NEWS2 aggregate score of 5 or more should trigger",
+  "options": [
+   "no change in care",
+   "an urgent response and review by a clinician competent in assessing acutely ill patients",
+   "immediate discharge",
+   "observations once a day"
+  ],
+  "answer": 1,
+  "explanation": "5–6 is medium clinical risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "A score of 3 in any single NEWS2 parameter should prompt",
+  "options": [
+   "observations once a week",
+   "discharge",
+   "an urgent ward-based review",
+   "no action"
+  ],
+  "answer": 2,
+  "explanation": "A single red score signals possible serious deterioration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "What is a normal adult respiratory rate?",
+  "options": [
+   "4–8 breaths per minute",
+   "40–60 breaths per minute",
+   "12–20 breaths per minute",
+   "25–35 breaths per minute"
+  ],
+  "answer": 2,
+  "explanation": "In NEWS2, 12–20 scores 0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "For most adults (NEWS2 scale 1), which oxygen saturation scores 0?",
+  "options": [
+   "88–92%",
+   "96% or above",
+   "90% or above",
+   "100% only"
+  ],
+  "answer": 1,
+  "explanation": "Scale 2 (88–92% target) is used for some patients with hypercapnic respiratory failure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "The 'Sepsis Six' includes",
+  "options": [
+   "giving oxygen, taking blood cultures, giving IV antibiotics, giving IV fluids, measuring lactate and monitoring urine output",
+   "giving paracetamol only",
+   "waiting 24 hours for results",
+   "isolating the patient only"
+  ],
+  "answer": 0,
+  "explanation": "Deliver within one hour for suspected sepsis with red flags.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "What is the first-line treatment for anaphylaxis in an adult?",
+  "options": [
+   "IV paracetamol",
+   "Nebulised salbutamol only",
+   "Intramuscular adrenaline 500 micrograms (0.5 mL of 1 in 1,000)",
+   "Oral antihistamine only"
+  ],
+  "answer": 2,
+  "explanation": "Give IM adrenaline into the anterolateral thigh; repeat after 5 minutes if needed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "For adult CPR, what is the ratio of chest compressions to rescue breaths?",
+  "options": [
+   "5:1",
+   "30:1",
+   "15:2",
+   "30:2"
+  ],
+  "answer": 3,
+  "explanation": "Resuscitation Council UK guidance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "What is the recommended depth of chest compressions in adult CPR?",
+  "options": [
+   "5–6 cm",
+   "1–2 cm",
+   "8–10 cm",
+   "3 cm"
+  ],
+  "answer": 0,
+  "explanation": "At a rate of 100–120 compressions per minute.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "What is the recommended rate of chest compressions in adult CPR?",
+  "options": [
+   "60–80 per minute",
+   "100–120 per minute",
+   "140–160 per minute",
+   "30 per minute"
+  ],
+  "answer": 1,
+  "explanation": "Allow full chest recoil between compressions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Hypoglycaemia in adults is generally defined as a blood glucose below",
+  "options": [
+   "2 mmol/L only",
+   "10 mmol/L",
+   "7 mmol/L",
+   "4 mmol/L"
+  ],
+  "answer": 3,
+  "explanation": "'Four is the floor.'",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "What is the first treatment for a conscious adult with hypoglycaemia who can swallow?",
+  "options": [
+   "A large meal immediately",
+   "15–20 g of quick-acting carbohydrate, then recheck glucose after 10–15 minutes",
+   "Insulin",
+   "Nothing until the doctor arrives"
+  ],
+  "answer": 1,
+  "explanation": "Follow with a longer-acting carbohydrate once glucose is above 4 mmol/L.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "A patient with chest pain becomes unresponsive and is not breathing normally. What should the nurse do first?",
+  "options": [
+   "Wait for the doctor",
+   "Call for help and the resuscitation team, then start CPR",
+   "Take a full set of observations",
+   "Give oral aspirin"
+  ],
+  "answer": 1,
+  "explanation": "Early CPR and defibrillation save lives.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Urine output below what level may indicate acute kidney injury in an adult?",
+  "options": [
+   "Less than 5 mL/kg/hour",
+   "Less than 0.5 mL/kg/hour",
+   "More than 1 L a day",
+   "Less than 2 mL/kg/hour"
+  ],
+  "answer": 1,
+  "explanation": "Persistently low urine output needs escalation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "Controlled drugs administered on a hospital ward should be",
+  "options": [
+   "given by any staff member without records",
+   "recorded only in the patient's notes",
+   "signed by the patient",
+   "checked and signed for by two registered professionals (per local policy) and recorded in the controlled drug register"
+  ],
+  "answer": 3,
+  "explanation": "Controlled drugs have strict storage and record-keeping requirements.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "Where should controlled drugs be stored on a ward?",
+  "options": [
+   "In an unlocked trolley",
+   "In a locked controlled drug cupboard that meets legal requirements",
+   "In the patient's bedside locker",
+   "In the ward fridge with food"
+  ],
+  "answer": 1,
+  "explanation": "Keys are held by the nurse in charge.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "Before giving a medicine, the nurse should check",
+  "options": [
+   "only the ward round notes",
+   "only the drug name",
+   "only that the patient is awake",
+   "the right patient, drug, dose, route and time, plus allergies and the prescription's validity"
+  ],
+  "answer": 3,
+  "explanation": "Follow the 'rights' of medicines administration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "A patient refuses their prescribed medicine. What should the nurse do?",
+  "options": [
+   "Respect the decision, explore the reasons, document it and inform the prescriber",
+   "Force them to take it",
+   "Give it later without telling them",
+   "Hide it in their food"
+  ],
+  "answer": 0,
+  "explanation": "Covert administration is only permitted in specific circumstances under the Mental Capacity Act with proper process.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "A nurse discovers they have given a medicine to the wrong patient. What should they do first?",
+  "options": [
+   "Check the patient's condition and inform the doctor immediately, then report the incident",
+   "Ask the patient to keep it quiet",
+   "Say nothing if the patient seems fine",
+   "Wait until the end of the shift"
+  ],
+  "answer": 0,
+  "explanation": "Patient safety first, then be open and honest (duty of candour).",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "Which route gives the fastest onset of action?",
+  "options": [
+   "Topical",
+   "Intravenous",
+   "Oral",
+   "Subcutaneous"
+  ],
+  "answer": 1,
+  "explanation": "IV medicines go directly into the bloodstream.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "A patient on warfarin needs regular monitoring of their",
+  "options": [
+   "potassium only",
+   "blood glucose",
+   "cholesterol",
+   "INR"
+  ],
+  "answer": 3,
+  "explanation": "The International Normalised Ratio measures clotting.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "What is the antidote for opioid overdose?",
+  "options": [
+   "Naloxone",
+   "Flumazenil",
+   "Atropine",
+   "Vitamin K"
+  ],
+  "answer": 0,
+  "explanation": "Naloxone reverses opioid-induced respiratory depression.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "Which vitamin is used to reverse the effect of warfarin?",
+  "options": [
+   "Vitamin K",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin B12"
+  ],
+  "answer": 0,
+  "explanation": "Vitamin K (phytomenadione) is given as directed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "Which of these is a common side effect of opioids?",
+  "options": [
+   "High blood pressure",
+   "Diarrhoea",
+   "Hyperactivity",
+   "Constipation"
+  ],
+  "answer": 3,
+  "explanation": "Laxatives are often prescribed alongside regular opioids.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Medicines management",
+  "body": "Before giving digoxin, the nurse should check the patient's",
+  "options": [
+   "blood glucose",
+   "weight only",
+   "temperature",
+   "apical pulse rate"
+  ],
+  "answer": 3,
+  "explanation": "Withhold and inform the prescriber if the pulse is below the set threshold.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "What is the first principle of the Mental Capacity Act 2005?",
+  "options": [
+   "A person must be assumed to have capacity unless it is established that they lack it",
+   "Family members always decide",
+   "Anyone over 65 lacks capacity",
+   "Doctors decide for everyone"
+  ],
+  "answer": 0,
+  "explanation": "Capacity is decision-specific and time-specific.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "Under the Mental Capacity Act, an unwise decision",
+  "options": [
+   "does not on its own mean a person lacks capacity",
+   "must be overruled by the nurse",
+   "proves the person lacks capacity",
+   "must be reported to the police"
+  ],
+  "answer": 0,
+  "explanation": "People have the right to make decisions others disagree with.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "Decisions made for a person who lacks capacity must be",
+  "options": [
+   "in their best interests and the least restrictive option",
+   "made by the most senior nurse alone",
+   "whatever is quickest for staff",
+   "whatever the family prefers"
+  ],
+  "answer": 0,
+  "explanation": "These are core MCA principles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "For consent to be valid, it must be",
+  "options": [
+   "voluntary, informed, and given by a person with capacity",
+   "given by the next of kin",
+   "given after the procedure",
+   "written in every case"
+  ],
+  "answer": 0,
+  "explanation": "Consent can be verbal, written or implied depending on the situation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "Can a patient with capacity withdraw consent during a procedure?",
+  "options": [
+   "Only with a doctor's permission",
+   "Only if it is in writing",
+   "No, once given it is final",
+   "Yes, at any time"
+  ],
+  "answer": 3,
+  "explanation": "Stop if safe and discuss with the patient.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "Which section of the Mental Health Act 1983 allows detention for assessment for up to 28 days?",
+  "options": [
+   "Section 3",
+   "Section 136",
+   "Section 2",
+   "Section 5(2)"
+  ],
+  "answer": 2,
+  "explanation": "Section 3 is for treatment and lasts up to 6 months initially.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "Section 5(4) of the Mental Health Act allows a registered mental health or learning disability nurse to hold an informal inpatient for up to",
+  "options": [
+   "28 days",
+   "6 hours",
+   "1 hour",
+   "72 hours"
+  ],
+  "answer": 1,
+  "explanation": "Doctors' holding power under Section 5(2) is up to 72 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "Which of these is a category of abuse in adult safeguarding?",
+  "options": [
+   "Loud talking",
+   "Being visited by family",
+   "Financial or material abuse",
+   "Refusing a meal once"
+  ],
+  "answer": 2,
+  "explanation": "Others include physical, sexual, psychological, neglect, discriminatory, organisational, domestic abuse, modern slavery and self-neglect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "If a patient discloses abuse to a nurse, the nurse should",
+  "options": [
+   "confront the alleged abuser",
+   "promise to keep it confidential",
+   "investigate it themselves",
+   "listen, reassure, not promise to keep it secret, and report it through safeguarding procedures"
+  ],
+  "answer": 3,
+  "explanation": "Safeguarding is everyone's responsibility.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "Which law protects patients' personal data in the UK?",
+  "options": [
+   "The Equality Act 2010",
+   "The Health and Safety at Work Act 1974",
+   "The UK GDPR and Data Protection Act 2018",
+   "The Mental Health Act 1983"
+  ],
+  "answer": 2,
+  "explanation": "Handle personal data lawfully, securely and only as needed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "A Lasting Power of Attorney for health and welfare allows",
+  "options": [
+   "nurses to override the patient",
+   "any relative to make all decisions",
+   "the GP to manage the patient's money",
+   "a named person to make health decisions for someone if they lose capacity"
+  ],
+  "answer": 3,
+  "explanation": "It must be registered with the Office of the Public Guardian.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "What is the purpose of a DNACPR decision?",
+  "options": [
+   "To prevent any medicines being given",
+   "To record that CPR should not be attempted if the patient's heart or breathing stops",
+   "To stop the patient eating",
+   "To stop all treatment"
+  ],
+  "answer": 1,
+  "explanation": "DNACPR applies only to CPR; other care continues.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "Which model of nursing is based on 12 activities of living?",
+  "options": [
+   "Maslow's hierarchy",
+   "Gibbs' cycle",
+   "Roper-Logan-Tierney",
+   "Orem's self-care model"
+  ],
+  "answer": 2,
+  "explanation": "Activities include breathing, eating and drinking, mobilising and sleeping.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "The nursing process is often summarised as",
+  "options": [
+   "Admit, Prepare, Inspect, Escort",
+   "Airway, Pulse, Intake, Exposure",
+   "Assess, Plan, Implement, Evaluate (APIE)",
+   "Ask, Prescribe, Inform, Exit"
+  ],
+  "answer": 2,
+  "explanation": "APIE is used throughout the NMC Test of Competence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "According to Maslow's hierarchy, which needs must be met first?",
+  "options": [
+   "Physiological needs such as food, water and breathing",
+   "Self-actualisation",
+   "Esteem",
+   "Belonging"
+  ],
+  "answer": 0,
+  "explanation": "Basic needs come before higher-level needs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "How often should a patient at high risk of pressure ulcers usually be repositioned?",
+  "options": [
+   "Never at night",
+   "Only when they ask",
+   "Regularly according to their risk assessment and care plan, often every 2–4 hours",
+   "Once a day"
+  ],
+  "answer": 2,
+  "explanation": "Frequency depends on risk, skin inspection and support surface.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "Before inserting a urinary catheter, the nurse must",
+  "options": [
+   "gain consent and use an aseptic technique",
+   "use a clean technique without gloves",
+   "ask the patient to self-catheterise",
+   "insert it without explanation"
+  ],
+  "answer": 0,
+  "explanation": "Catheters are a major source of healthcare-associated infection.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "Which pain assessment tool uses a scale from 0 (no pain) to 10 (worst pain)?",
+  "options": [
+   "Bristol Stool Chart",
+   "Glasgow Coma Scale",
+   "Numerical rating scale",
+   "Waterlow score"
+  ],
+  "answer": 2,
+  "explanation": "The Abbey pain scale may be used for people who cannot verbalise pain.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "Which tool helps assess pain in people with dementia who cannot verbalise it?",
+  "options": [
+   "The AVPU scale",
+   "The MUST tool",
+   "The numerical rating scale",
+   "The Abbey pain scale"
+  ],
+  "answer": 3,
+  "explanation": "It looks at expressions, behaviour and physical signs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "Before a patient with dysphagia eats, the nurse should",
+  "options": [
+   "follow the speech and language therapy plan for food and fluid textures and position them upright",
+   "give thin fluids quickly",
+   "skip the meal",
+   "lie them flat"
+  ],
+  "answer": 0,
+  "explanation": "This reduces the risk of aspiration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "Which of these is a sign of dehydration?",
+  "options": [
+   "Moist mucous membranes",
+   "Pale, plentiful urine",
+   "Weight gain",
+   "Dark, concentrated urine"
+  ],
+  "answer": 3,
+  "explanation": "Other signs include thirst, dizziness and dry mouth.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "What does 'person-centred care' mean?",
+  "options": [
+   "Care organised around the staff rota",
+   "Care led only by the doctor",
+   "Care identical for all patients",
+   "Care that is planned around the individual's needs, preferences and values"
+  ],
+  "answer": 3,
+  "explanation": "Involve people in decisions about their care.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "Which of these helps reduce delirium in older patients?",
+  "options": [
+   "Keeping lights on all night",
+   "Good hydration, orientation cues, sleep and mobility",
+   "Removing glasses and hearing aids",
+   "Frequent bed moves"
+  ],
+  "answer": 1,
+  "explanation": "Delirium is common, serious and often preventable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Fundamentals of care",
+  "body": "What is the main purpose of a care plan?",
+  "options": [
+   "To list ward rules",
+   "To record staff breaks",
+   "To replace consent",
+   "To set out individual goals and the care needed to meet them"
+  ],
+  "answer": 3,
+  "explanation": "Care plans should be evaluated and updated regularly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "End of life & communication",
+  "body": "Which of these is a recognised principle of good end-of-life care?",
+  "options": [
+   "Withholding pain relief",
+   "Managing symptoms and respecting the person's wishes and preferred place of care",
+   "Moving the person frequently between wards",
+   "Stopping all communication with family"
+  ],
+  "answer": 1,
+  "explanation": "Advance care planning helps record preferences.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "End of life & communication",
+  "body": "A common symptom in the last days of life caused by secretions in the airway is sometimes called",
+  "options": [
+   "a 'death rattle' (noisy respiratory secretions)",
+   "Cheyne-Stokes breathing",
+   "stridor",
+   "wheeze"
+  ],
+  "answer": 0,
+  "explanation": "Repositioning and medicines may help; explain to the family.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "End of life & communication",
+  "body": "When breaking bad news, the nurse should",
+  "options": [
+   "use medical jargon",
+   "use a private space, check understanding, give information in small amounts and allow time for questions",
+   "give all the facts quickly in a corridor",
+   "avoid answering questions"
+  ],
+  "answer": 1,
+  "explanation": "Frameworks such as SPIKES can help.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "End of life & communication",
+  "body": "A patient who speaks little English needs to give consent for a procedure. What should the nurse arrange?",
+  "options": [
+   "Hand gestures only",
+   "A professional interpreter",
+   "Proceed without consent",
+   "A family member, including a child, to interpret"
+  ],
+  "answer": 1,
+  "explanation": "Professional interpreters ensure accuracy and confidentiality.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "End of life & communication",
+  "body": "Which is an example of open questioning?",
+  "options": [
+   "'Are you in pain?'",
+   "'Is your name John?'",
+   "'How have you been feeling since your operation?'",
+   "'Did you sleep well?'"
+  ],
+  "answer": 2,
+  "explanation": "Open questions invite fuller answers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "End of life & communication",
+  "body": "A patient becomes angry and shouts at the nurse. What is the best first response?",
+  "options": [
+   "Walk away without explanation",
+   "Stay calm, listen, acknowledge their feelings and keep yourself safe",
+   "Call security immediately in every case",
+   "Shout back"
+  ],
+  "answer": 1,
+  "explanation": "De-escalation techniques reduce conflict.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a respiration rate of 7 breaths/min?",
+  "options": [
+   "0",
+   "2",
+   "3",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "NEWS2 respiration: ≤8 = 3, 9–11 = 1, 12–20 = 0, 21–24 = 2, ≥25 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a respiration rate of 10 breaths/min?",
+  "options": [
+   "3",
+   "2",
+   "1",
+   "0"
+  ],
+  "answer": 2,
+  "explanation": "NEWS2 respiration: ≤8 = 3, 9–11 = 1, 12–20 = 0, 21–24 = 2, ≥25 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a respiration rate of 16 breaths/min?",
+  "options": [
+   "3",
+   "2",
+   "1",
+   "0"
+  ],
+  "answer": 3,
+  "explanation": "NEWS2 respiration: ≤8 = 3, 9–11 = 1, 12–20 = 0, 21–24 = 2, ≥25 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a respiration rate of 22 breaths/min?",
+  "options": [
+   "3",
+   "2",
+   "1",
+   "0"
+  ],
+  "answer": 1,
+  "explanation": "NEWS2 respiration: ≤8 = 3, 9–11 = 1, 12–20 = 0, 21–24 = 2, ≥25 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a respiration rate of 27 breaths/min?",
+  "options": [
+   "0",
+   "1",
+   "2",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "NEWS2 respiration: ≤8 = 3, 9–11 = 1, 12–20 = 0, 21–24 = 2, ≥25 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a pulse of 38 beats/min?",
+  "options": [
+   "2",
+   "3",
+   "0",
+   "1"
+  ],
+  "answer": 1,
+  "explanation": "NEWS2 pulse: ≤40 = 3, 41–50 = 1, 51–90 = 0, 91–110 = 1, 111–130 = 2, ≥131 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a pulse of 45 beats/min?",
+  "options": [
+   "0",
+   "3",
+   "1",
+   "2"
+  ],
+  "answer": 2,
+  "explanation": "NEWS2 pulse: ≤40 = 3, 41–50 = 1, 51–90 = 0, 91–110 = 1, 111–130 = 2, ≥131 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a pulse of 75 beats/min?",
+  "options": [
+   "2",
+   "0",
+   "3",
+   "1"
+  ],
+  "answer": 1,
+  "explanation": "NEWS2 pulse: ≤40 = 3, 41–50 = 1, 51–90 = 0, 91–110 = 1, 111–130 = 2, ≥131 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a pulse of 95 beats/min?",
+  "options": [
+   "2",
+   "3",
+   "1",
+   "0"
+  ],
+  "answer": 2,
+  "explanation": "NEWS2 pulse: ≤40 = 3, 41–50 = 1, 51–90 = 0, 91–110 = 1, 111–130 = 2, ≥131 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a pulse of 118 beats/min?",
+  "options": [
+   "2",
+   "1",
+   "3",
+   "0"
+  ],
+  "answer": 0,
+  "explanation": "NEWS2 pulse: ≤40 = 3, 41–50 = 1, 51–90 = 0, 91–110 = 1, 111–130 = 2, ≥131 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a pulse of 135 beats/min?",
+  "options": [
+   "2",
+   "0",
+   "1",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "NEWS2 pulse: ≤40 = 3, 41–50 = 1, 51–90 = 0, 91–110 = 1, 111–130 = 2, ≥131 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a systolic blood pressure of 88 mmHg?",
+  "options": [
+   "3",
+   "1",
+   "2",
+   "0"
+  ],
+  "answer": 0,
+  "explanation": "NEWS2 systolic BP: ≤90 = 3, 91–100 = 2, 101–110 = 1, 111–219 = 0, ≥220 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a systolic blood pressure of 95 mmHg?",
+  "options": [
+   "0",
+   "2",
+   "1",
+   "3"
+  ],
+  "answer": 1,
+  "explanation": "NEWS2 systolic BP: ≤90 = 3, 91–100 = 2, 101–110 = 1, 111–219 = 0, ≥220 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a systolic blood pressure of 105 mmHg?",
+  "options": [
+   "1",
+   "0",
+   "2",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "NEWS2 systolic BP: ≤90 = 3, 91–100 = 2, 101–110 = 1, 111–219 = 0, ≥220 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a systolic blood pressure of 130 mmHg?",
+  "options": [
+   "3",
+   "2",
+   "0",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "NEWS2 systolic BP: ≤90 = 3, 91–100 = 2, 101–110 = 1, 111–219 = 0, ≥220 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a systolic blood pressure of 225 mmHg?",
+  "options": [
+   "3",
+   "2",
+   "1",
+   "0"
+  ],
+  "answer": 0,
+  "explanation": "NEWS2 systolic BP: ≤90 = 3, 91–100 = 2, 101–110 = 1, 111–219 = 0, ≥220 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a temperature of 34.8 °C?",
+  "options": [
+   "0",
+   "2",
+   "3",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "NEWS2 temperature: ≤35.0 = 3, 35.1–36.0 = 1, 36.1–38.0 = 0, 38.1–39.0 = 1, ≥39.1 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a temperature of 35.5 °C?",
+  "options": [
+   "0",
+   "1",
+   "2",
+   "3"
+  ],
+  "answer": 1,
+  "explanation": "NEWS2 temperature: ≤35.0 = 3, 35.1–36.0 = 1, 36.1–38.0 = 0, 38.1–39.0 = 1, ≥39.1 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a temperature of 37 °C?",
+  "options": [
+   "2",
+   "3",
+   "0",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "NEWS2 temperature: ≤35.0 = 3, 35.1–36.0 = 1, 36.1–38.0 = 0, 38.1–39.0 = 1, ≥39.1 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a temperature of 38.5 °C?",
+  "options": [
+   "2",
+   "3",
+   "0",
+   "1"
+  ],
+  "answer": 3,
+  "explanation": "NEWS2 temperature: ≤35.0 = 3, 35.1–36.0 = 1, 36.1–38.0 = 0, 38.1–39.0 = 1, ≥39.1 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "Using NEWS2, what score is given for a temperature of 39.5 °C?",
+  "options": [
+   "1",
+   "3",
+   "0",
+   "2"
+  ],
+  "answer": 3,
+  "explanation": "NEWS2 temperature: ≤35.0 = 3, 35.1–36.0 = 1, 36.1–38.0 = 0, 38.1–39.0 = 1, ≥39.1 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "TRUE or FALSE? \"Alcohol hand gel is effective against Clostridioides difficile spores.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Use soap and water.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "TRUE or FALSE? \"A patient must be assumed to have capacity unless it is shown otherwise.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "First principle of the Mental Capacity Act 2005.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMC",
+  "topic": "Infection prevention",
+  "body": "TRUE or FALSE? \"Needles should be re-sheathed before disposal.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Never re-sheath; dispose at the point of use.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMC",
+  "topic": "The Code & professionalism",
+  "body": "TRUE or FALSE? \"NMC revalidation is required every three years.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Including practice hours, CPD, feedback and reflection.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "TRUE or FALSE? \"A NEWS2 score of 7 or more needs an emergency response.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "High clinical risk.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "TRUE or FALSE? \"An unwise decision proves a person lacks capacity.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "People can make decisions others think unwise.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "TRUE or FALSE? \"The adult CPR ratio is 15 compressions to 2 breaths.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "It is 30:2 for adults.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMC",
+  "topic": "Law, consent & safeguarding",
+  "body": "TRUE or FALSE? \"A DNACPR decision means all treatment should stop.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "It applies to CPR only.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMC",
+  "topic": "End of life & communication",
+  "body": "TRUE or FALSE? \"Family members, including children, are ideal interpreters for consent discussions.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Use a professional interpreter.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMC",
+  "topic": "Recognising deterioration",
+  "body": "TRUE or FALSE? \"Hypoglycaemia is generally a blood glucose below 4 mmol/L.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "'Four is the floor.'",
+  "difficulty": 1
  }
 ]

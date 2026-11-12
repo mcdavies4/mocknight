@@ -110,7 +110,12 @@ export function repeat(count: number, make: () => Q | null, maxTries = count * 3
   const out: Q[] = [];
   const bodies = new Set<string>();
   for (let t = 0; t < maxTries && out.length < count; t++) {
-    const q = make();
+    let q: Q | null = null;
+    try {
+      q = make();
+    } catch {
+      q = null; // e.g. not enough distinct distractors for this random draw — try another
+    }
     if (!q || bodies.has(q.body)) continue;
     bodies.add(q.body);
     out.push(q);

@@ -46,10 +46,14 @@ export function timeKb() {
 
 export function menuKb(student: Student) {
   const track = getTrack(student.track);
-  const kb = new InlineKeyboard()
-    .text("📝 Today's drill", "drill:start")
-    .webApp(track.subjectMode === "single" ? "🧪 Practice test" : "🖥 Practice CBT", `${env.appUrl}/mock`)
-    .row();
+  const kb = new InlineKeyboard().text("📝 Today's drill", "drill:start");
+  if (track.mockVariants?.length) {
+    kb.row();
+    track.mockVariants.forEach((v) => kb.webApp(`🧪 ${v.short}`, `${env.appUrl}/mock?variant=${v.key}`));
+    kb.row();
+  } else {
+    kb.webApp(track.subjectMode === "single" ? "🧪 Practice test" : "🖥 Practice CBT", `${env.appUrl}/mock`).row();
+  }
   if (track.weeklyMock) kb.text("🏆 Mock Night", "mn:info");
   if (track.course) kb.text("📚 Lessons", "lesson:next");
   kb.text("📊 My stats", "stats").row().text("🎁 Invite friends", "invite").text("⭐ Premium", "pay:menu").row().text("⚙️ Settings", "settings");

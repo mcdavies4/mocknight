@@ -1,0 +1,2186 @@
+[
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 80 mg of furosemide. Tablets are available as 40 mg. How many tablets should be given?",
+  "options": [
+   "0.5 tablets",
+   "2 tablets",
+   "1 tablet",
+   "4 tablets"
+  ],
+  "answer": 1,
+  "explanation": "What you want ÷ what you've got = 80 ÷ 40 = 2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 1500 mg of amlodipine. Tablets are available as 500 mg. How many tablets should be given?",
+  "options": [
+   "1.5 tablets",
+   "3 tablets",
+   "4 tablets",
+   "6 tablets"
+  ],
+  "answer": 1,
+  "explanation": "What you want ÷ what you've got = 1500 ÷ 500 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 20 mg of furosemide. Tablets are available as 5 mg. How many tablets should be given?",
+  "options": [
+   "8 tablets",
+   "4 tablets",
+   "2 tablets",
+   "0.25 tablets"
+  ],
+  "answer": 1,
+  "explanation": "What you want ÷ what you've got = 20 ÷ 5 = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 50 mg of prednisolone. Tablets are available as 50 mg. How many tablets should be given?",
+  "options": [
+   "0.5 tablets",
+   "0 tablets",
+   "1 tablet",
+   "2 tablets"
+  ],
+  "answer": 2,
+  "explanation": "What you want ÷ what you've got = 50 ÷ 50 = 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 400 mg of metformin. Tablets are available as 100 mg. How many tablets should be given?",
+  "options": [
+   "0.25 tablets",
+   "2 tablets",
+   "4 tablets",
+   "8 tablets"
+  ],
+  "answer": 2,
+  "explanation": "What you want ÷ what you've got = 400 ÷ 100 = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 15 mg of amlodipine. Tablets are available as 5 mg. How many tablets should be given?",
+  "options": [
+   "4 tablets",
+   "1.5 tablets",
+   "3 tablets",
+   "6 tablets"
+  ],
+  "answer": 2,
+  "explanation": "What you want ÷ what you've got = 15 ÷ 5 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 15 mg of paracetamol. Tablets are available as 5 mg. How many tablets should be given?",
+  "options": [
+   "4 tablets",
+   "3 tablets",
+   "6 tablets",
+   "1.5 tablets"
+  ],
+  "answer": 1,
+  "explanation": "What you want ÷ what you've got = 15 ÷ 5 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 125 mg of furosemide. Tablets are available as 250 mg. How many tablets should be given?",
+  "options": [
+   "0.5 tablets",
+   "1 tablet",
+   "2 tablets",
+   "0.25 tablets"
+  ],
+  "answer": 0,
+  "explanation": "What you want ÷ what you've got = 125 ÷ 250 = 0.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 2.5 mg of amlodipine. Tablets are available as 5 mg. How many tablets should be given?",
+  "options": [
+   "1 tablet",
+   "2 tablets",
+   "0.5 tablets",
+   "0.25 tablets"
+  ],
+  "answer": 2,
+  "explanation": "What you want ÷ what you've got = 2.5 ÷ 5 = 0.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 500 mg of atenolol. Tablets are available as 125 mg. How many tablets should be given?",
+  "options": [
+   "2 tablets",
+   "8 tablets",
+   "0.25 tablets",
+   "4 tablets"
+  ],
+  "answer": 3,
+  "explanation": "What you want ÷ what you've got = 500 ÷ 125 = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 6.25 mg of paracetamol. Tablets are available as 12.5 mg. How many tablets should be given?",
+  "options": [
+   "0.5 tablets",
+   "1 tablet",
+   "2 tablets",
+   "0.25 tablets"
+  ],
+  "answer": 0,
+  "explanation": "What you want ÷ what you've got = 6.25 ÷ 12.5 = 0.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 125 mg of prednisolone. Tablets are available as 125 mg. How many tablets should be given?",
+  "options": [
+   "2 tablets",
+   "1 tablet",
+   "0 tablets",
+   "0.5 tablets"
+  ],
+  "answer": 1,
+  "explanation": "What you want ÷ what you've got = 125 ÷ 125 = 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 100 mg of warfarin. Tablets are available as 25 mg. How many tablets should be given?",
+  "options": [
+   "2 tablets",
+   "4 tablets",
+   "0.25 tablets",
+   "8 tablets"
+  ],
+  "answer": 1,
+  "explanation": "What you want ÷ what you've got = 100 ÷ 25 = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 5 mg of furosemide. Tablets are available as 5 mg. How many tablets should be given?",
+  "options": [
+   "1 tablet",
+   "0.5 tablets",
+   "2 tablets",
+   "0 tablets"
+  ],
+  "answer": 0,
+  "explanation": "What you want ÷ what you've got = 5 ÷ 5 = 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 20 mg of atenolol. Tablets are available as 40 mg. How many tablets should be given?",
+  "options": [
+   "1 tablet",
+   "0.25 tablets",
+   "0.5 tablets",
+   "2 tablets"
+  ],
+  "answer": 2,
+  "explanation": "What you want ÷ what you've got = 20 ÷ 40 = 0.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 250 mg of atenolol. Tablets are available as 125 mg. How many tablets should be given?",
+  "options": [
+   "0.5 tablets",
+   "1 tablet",
+   "2 tablets",
+   "4 tablets"
+  ],
+  "answer": 2,
+  "explanation": "What you want ÷ what you've got = 250 ÷ 125 = 2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 125 mg of paracetamol. Tablets are available as 50 mg. How many tablets should be given?",
+  "options": [
+   "1.25 tablets",
+   "2.5 tablets",
+   "0.4 tablets",
+   "5 tablets"
+  ],
+  "answer": 1,
+  "explanation": "What you want ÷ what you've got = 125 ÷ 50 = 2.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 37.5 mg of amoxicillin. Tablets are available as 12.5 mg. How many tablets should be given?",
+  "options": [
+   "6 tablets",
+   "3 tablets",
+   "4 tablets",
+   "1.5 tablets"
+  ],
+  "answer": 1,
+  "explanation": "What you want ÷ what you've got = 37.5 ÷ 12.5 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 10 mg of warfarin. Tablets are available as 5 mg. How many tablets should be given?",
+  "options": [
+   "2 tablets",
+   "1 tablet",
+   "4 tablets",
+   "0.5 tablets"
+  ],
+  "answer": 0,
+  "explanation": "What you want ÷ what you've got = 10 ÷ 5 = 2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 5 mg of atenolol. Tablets are available as 10 mg. How many tablets should be given?",
+  "options": [
+   "1 tablet",
+   "2 tablets",
+   "0.25 tablets",
+   "0.5 tablets"
+  ],
+  "answer": 3,
+  "explanation": "What you want ÷ what you've got = 5 ÷ 10 = 0.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 120 mg of furosemide. Tablets are available as 40 mg. How many tablets should be given?",
+  "options": [
+   "3 tablets",
+   "6 tablets",
+   "4 tablets",
+   "1.5 tablets"
+  ],
+  "answer": 0,
+  "explanation": "What you want ÷ what you've got = 120 ÷ 40 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Tablets",
+  "body": "A patient is prescribed 75 mg of prednisolone. Tablets are available as 25 mg. How many tablets should be given?",
+  "options": [
+   "3 tablets",
+   "6 tablets",
+   "4 tablets",
+   "1.5 tablets"
+  ],
+  "answer": 0,
+  "explanation": "What you want ÷ what you've got = 75 ÷ 25 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 96 mg. Stock oral suspension: 120 mg in 5 mL. What volume should be given?",
+  "options": [
+   "4 mL",
+   "40 mL",
+   "0.8 mL",
+   "6.25 mL"
+  ],
+  "answer": 0,
+  "explanation": "(What you want ÷ what you've got) × volume = (96 ÷ 120) × 5 = 4 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 62.5 mg. Stock oral suspension: 125 mg in 5 mL. What volume should be given?",
+  "options": [
+   "10 mL",
+   "0.5 mL",
+   "25 mL",
+   "2.5 mL"
+  ],
+  "answer": 3,
+  "explanation": "(What you want ÷ what you've got) × volume = (62.5 ÷ 125) × 5 = 2.5 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 48 mg. Stock injection: 40 mg in 1 mL. What volume should be given?",
+  "options": [
+   "1.2 mL",
+   "2.2 mL",
+   "12 mL",
+   "0.12 mL"
+  ],
+  "answer": 0,
+  "explanation": "(What you want ÷ what you've got) × volume = (48 ÷ 40) × 1 = 1.2 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 60 mg. Stock oral suspension: 50 mg in 5 mL. What volume should be given?",
+  "options": [
+   "1.2 mL",
+   "6 mL",
+   "60 mL",
+   "0.6 mL"
+  ],
+  "answer": 1,
+  "explanation": "(What you want ÷ what you've got) × volume = (60 ÷ 50) × 5 = 6 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 750 mg. Stock oral suspension: 500 mg in 10 mL. What volume should be given?",
+  "options": [
+   "150 mL",
+   "15 mL",
+   "25 mL",
+   "1.5 mL"
+  ],
+  "answer": 1,
+  "explanation": "(What you want ÷ what you've got) × volume = (750 ÷ 500) × 10 = 15 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 16 mg. Stock injection: 40 mg in 1 mL. What volume should be given?",
+  "options": [
+   "2.5 mL",
+   "0.4 mL",
+   "0.04 mL",
+   "4 mL"
+  ],
+  "answer": 1,
+  "explanation": "(What you want ÷ what you've got) × volume = (16 ÷ 40) × 1 = 0.4 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 80 mg. Stock oral suspension: 200 mg in 5 mL. What volume should be given?",
+  "options": [
+   "20 mL",
+   "2 mL",
+   "12.5 mL",
+   "0.4 mL"
+  ],
+  "answer": 1,
+  "explanation": "(What you want ÷ what you've got) × volume = (80 ÷ 200) × 5 = 2 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 20 mg. Stock injection: 40 mg in 1 mL. What volume should be given?",
+  "options": [
+   "0.05 mL",
+   "5 mL",
+   "0.5 mL",
+   "2 mL"
+  ],
+  "answer": 2,
+  "explanation": "(What you want ÷ what you've got) × volume = (20 ÷ 40) × 1 = 0.5 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 187.5 mg. Stock oral suspension: 125 mg in 5 mL. What volume should be given?",
+  "options": [
+   "7.5 mL",
+   "75 mL",
+   "1.5 mL",
+   "0.75 mL"
+  ],
+  "answer": 0,
+  "explanation": "(What you want ÷ what you've got) × volume = (187.5 ÷ 125) × 5 = 7.5 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 150 mg. Stock oral suspension: 125 mg in 5 mL. What volume should be given?",
+  "options": [
+   "6 mL",
+   "0.6 mL",
+   "1.2 mL",
+   "60 mL"
+  ],
+  "answer": 0,
+  "explanation": "(What you want ÷ what you've got) × volume = (150 ÷ 125) × 5 = 6 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 160 mg. Stock oral suspension: 200 mg in 5 mL. What volume should be given?",
+  "options": [
+   "6.25 mL",
+   "0.8 mL",
+   "4 mL",
+   "40 mL"
+  ],
+  "answer": 2,
+  "explanation": "(What you want ÷ what you've got) × volume = (160 ÷ 200) × 5 = 4 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 7.5 mg. Stock injection: 10 mg in 1 mL. What volume should be given?",
+  "options": [
+   "1.75 mL",
+   "7.5 mL",
+   "1.5 mL",
+   "0.75 mL"
+  ],
+  "answer": 3,
+  "explanation": "(What you want ÷ what you've got) × volume = (7.5 ÷ 10) × 1 = 0.75 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 60 mg. Stock injection: 40 mg in 1 mL. What volume should be given?",
+  "options": [
+   "0.15 mL",
+   "15 mL",
+   "2.5 mL",
+   "1.5 mL"
+  ],
+  "answer": 3,
+  "explanation": "(What you want ÷ what you've got) × volume = (60 ÷ 40) × 1 = 1.5 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 180 mg. Stock oral suspension: 120 mg in 5 mL. What volume should be given?",
+  "options": [
+   "75 mL",
+   "1.5 mL",
+   "7.5 mL",
+   "0.75 mL"
+  ],
+  "answer": 2,
+  "explanation": "(What you want ÷ what you've got) × volume = (180 ÷ 120) × 5 = 7.5 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 18.75 mg. Stock injection: 25 mg in 1 mL. What volume should be given?",
+  "options": [
+   "0.75 mL",
+   "7.5 mL",
+   "1.5 mL",
+   "1.75 mL"
+  ],
+  "answer": 0,
+  "explanation": "(What you want ÷ what you've got) × volume = (18.75 ÷ 25) × 1 = 0.75 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 250 mg. Stock oral suspension: 100 mg in 5 mL. What volume should be given?",
+  "options": [
+   "12.5 mL",
+   "125 mL",
+   "2 mL",
+   "2.5 mL"
+  ],
+  "answer": 0,
+  "explanation": "(What you want ÷ what you've got) × volume = (250 ÷ 100) × 5 = 12.5 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 312.5 mg. Stock oral suspension: 125 mg in 5 mL. What volume should be given?",
+  "options": [
+   "125 mL",
+   "2 mL",
+   "2.5 mL",
+   "12.5 mL"
+  ],
+  "answer": 3,
+  "explanation": "(What you want ÷ what you've got) × volume = (312.5 ÷ 125) × 5 = 12.5 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 80 mg. Stock oral suspension: 100 mg in 5 mL. What volume should be given?",
+  "options": [
+   "4 mL",
+   "40 mL",
+   "0.8 mL",
+   "6.25 mL"
+  ],
+  "answer": 0,
+  "explanation": "(What you want ÷ what you've got) × volume = (80 ÷ 100) × 5 = 4 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 30 mg. Stock injection: 25 mg in 1 mL. What volume should be given?",
+  "options": [
+   "1.2 mL",
+   "0.12 mL",
+   "12 mL",
+   "2.2 mL"
+  ],
+  "answer": 0,
+  "explanation": "(What you want ÷ what you've got) × volume = (30 ÷ 25) × 1 = 1.2 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 300 mg. Stock oral suspension: 120 mg in 5 mL. What volume should be given?",
+  "options": [
+   "2.5 mL",
+   "2 mL",
+   "125 mL",
+   "12.5 mL"
+  ],
+  "answer": 3,
+  "explanation": "(What you want ÷ what you've got) × volume = (300 ÷ 120) × 5 = 12.5 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 48 mg. Stock oral suspension: 120 mg in 5 mL. What volume should be given?",
+  "options": [
+   "2 mL",
+   "0.4 mL",
+   "12.5 mL",
+   "20 mL"
+  ],
+  "answer": 0,
+  "explanation": "(What you want ÷ what you've got) × volume = (48 ÷ 120) × 5 = 2 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Liquid medicines",
+  "body": "Prescribed: 500 mg. Stock oral suspension: 250 mg in 5 mL. What volume should be given?",
+  "options": [
+   "100 mL",
+   "2 mL",
+   "2.5 mL",
+   "10 mL"
+  ],
+  "answer": 3,
+  "explanation": "(What you want ÷ what you've got) × volume = (500 ÷ 250) × 5 = 10 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 0.6 mg to micrograms.",
+  "options": [
+   "600 micrograms",
+   "60 micrograms",
+   "6000 micrograms",
+   "60,000 micrograms"
+  ],
+  "answer": 0,
+  "explanation": "1 mg = 1,000 micrograms. 0.6 mg = 600 micrograms.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 2500 mg to g.",
+  "options": [
+   "2,500,000 g",
+   "0.25 g",
+   "2.5 g",
+   "25 g"
+  ],
+  "answer": 2,
+  "explanation": "1 g = 1,000 mg. 2500 mg = 2.5 g.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 750 micrograms to mg.",
+  "options": [
+   "7.5 mg",
+   "75 mg",
+   "750,000 mg",
+   "0.75 mg"
+  ],
+  "answer": 3,
+  "explanation": "1 mg = 1,000 micrograms. 750 micrograms = 0.75 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 0.25 L to mL.",
+  "options": [
+   "25,000 mL",
+   "25 mL",
+   "2500 mL",
+   "250 mL"
+  ],
+  "answer": 3,
+  "explanation": "1 L = 1,000 mL. 0.25 L = 250 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 1500 mg to g.",
+  "options": [
+   "1.5 g",
+   "1,500,000 g",
+   "0.15 g",
+   "15 g"
+  ],
+  "answer": 0,
+  "explanation": "1 g = 1,000 mg. 1500 mg = 1.5 g.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 0.125 g to mg.",
+  "options": [
+   "12,500 mg",
+   "125 mg",
+   "1250 mg",
+   "12.5 mg"
+  ],
+  "answer": 1,
+  "explanation": "1 g = 1,000 mg. 0.125 g = 125 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 0.6 g to mg.",
+  "options": [
+   "60 mg",
+   "60,000 mg",
+   "600 mg",
+   "6000 mg"
+  ],
+  "answer": 2,
+  "explanation": "1 g = 1,000 mg. 0.6 g = 600 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 500 micrograms to mg.",
+  "options": [
+   "500,000 mg",
+   "0.05 mg",
+   "0.5 mg",
+   "5 mg"
+  ],
+  "answer": 2,
+  "explanation": "1 mg = 1,000 micrograms. 500 micrograms = 0.5 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 750 mL to L.",
+  "options": [
+   "750,000 L",
+   "0.75 L",
+   "75 L",
+   "7.5 L"
+  ],
+  "answer": 1,
+  "explanation": "1 L = 1,000 mL. 750 mL = 0.75 L.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 250 mL to L.",
+  "options": [
+   "25 L",
+   "250,000 L",
+   "0.25 L",
+   "2.5 L"
+  ],
+  "answer": 2,
+  "explanation": "1 L = 1,000 mL. 250 mL = 0.25 L.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 0.075 mg to micrograms.",
+  "options": [
+   "75 micrograms",
+   "750 micrograms",
+   "7500 micrograms",
+   "7.5 micrograms"
+  ],
+  "answer": 0,
+  "explanation": "1 mg = 1,000 micrograms. 0.075 mg = 75 micrograms.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 1.5 L to mL.",
+  "options": [
+   "150 mL",
+   "1500 mL",
+   "150,000 mL",
+   "15,000 mL"
+  ],
+  "answer": 1,
+  "explanation": "1 L = 1,000 mL. 1.5 L = 1500 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 125 mL to L.",
+  "options": [
+   "0.125 L",
+   "12.5 L",
+   "125,000 L",
+   "1.25 L"
+  ],
+  "answer": 0,
+  "explanation": "1 L = 1,000 mL. 125 mL = 0.125 L.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 1.5 g to mg.",
+  "options": [
+   "15,000 mg",
+   "150,000 mg",
+   "150 mg",
+   "1500 mg"
+  ],
+  "answer": 3,
+  "explanation": "1 g = 1,000 mg. 1.5 g = 1500 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 1.5 mg to micrograms.",
+  "options": [
+   "150,000 micrograms",
+   "15,000 micrograms",
+   "150 micrograms",
+   "1500 micrograms"
+  ],
+  "answer": 3,
+  "explanation": "1 mg = 1,000 micrograms. 1.5 mg = 1500 micrograms.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Unit conversion",
+  "body": "Convert 0.5 L to mL.",
+  "options": [
+   "500 mL",
+   "5000 mL",
+   "50,000 mL",
+   "50 mL"
+  ],
+  "answer": 0,
+  "explanation": "1 L = 1,000 mL. 0.5 L = 500 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "500 mL of sodium chloride 0.9% is to be given over 30 minutes by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "500 mL/hour",
+   "1 mL/hour",
+   "250 mL/hour",
+   "1000 mL/hour"
+  ],
+  "answer": 3,
+  "explanation": "Rate = volume ÷ time = 500 ÷ 0.5 = 1000 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "1000 mL of sodium chloride 0.9% is to be given over 2 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "2000 mL/hour",
+   "2 mL/hour",
+   "500 mL/hour",
+   "250 mL/hour"
+  ],
+  "answer": 2,
+  "explanation": "Rate = volume ÷ time = 1000 ÷ 2 = 500 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "1000 mL of sodium chloride 0.9% is to be given over 5 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "5 mL/hour",
+   "200 mL/hour",
+   "100 mL/hour",
+   "5000 mL/hour"
+  ],
+  "answer": 1,
+  "explanation": "Rate = volume ÷ time = 1000 ÷ 5 = 200 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "500 mL of sodium chloride 0.9% is to be given over 10 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "5000 mL/hour",
+   "50 mL/hour",
+   "25 mL/hour",
+   "20 mL/hour"
+  ],
+  "answer": 1,
+  "explanation": "Rate = volume ÷ time = 500 ÷ 10 = 50 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "250 mL of sodium chloride 0.9% is to be given over 30 minutes by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "500 mL/hour",
+   "250 mL/hour",
+   "2 mL/hour",
+   "125 mL/hour"
+  ],
+  "answer": 0,
+  "explanation": "Rate = volume ÷ time = 250 ÷ 0.5 = 500 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "500 mL of sodium chloride 0.9% is to be given over 12 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "20.85 mL/hour",
+   "6000 mL/hour",
+   "41.7 mL/hour",
+   "24 mL/hour"
+  ],
+  "answer": 2,
+  "explanation": "Rate = volume ÷ time = 500 ÷ 12 = 41.7 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "100 mL of sodium chloride 0.9% is to be given over 4 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "25 mL/hour",
+   "40 mL/hour",
+   "12.5 mL/hour",
+   "400 mL/hour"
+  ],
+  "answer": 0,
+  "explanation": "Rate = volume ÷ time = 100 ÷ 4 = 25 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "100 mL of sodium chloride 0.9% is to be given over 2 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "20 mL/hour",
+   "200 mL/hour",
+   "50 mL/hour",
+   "25 mL/hour"
+  ],
+  "answer": 2,
+  "explanation": "Rate = volume ÷ time = 100 ÷ 2 = 50 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "250 mL of sodium chloride 0.9% is to be given over 4 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "16 mL/hour",
+   "31.25 mL/hour",
+   "1000 mL/hour",
+   "62.5 mL/hour"
+  ],
+  "answer": 3,
+  "explanation": "Rate = volume ÷ time = 250 ÷ 4 = 62.5 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "100 mL of sodium chloride 0.9% is to be given over 30 minutes by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "200 mL/hour",
+   "100 mL/hour",
+   "50 mL/hour",
+   "5 mL/hour"
+  ],
+  "answer": 0,
+  "explanation": "Rate = volume ÷ time = 100 ÷ 0.5 = 200 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "250 mL of sodium chloride 0.9% is to be given over 8 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "15.65 mL/hour",
+   "2000 mL/hour",
+   "31.3 mL/hour",
+   "32 mL/hour"
+  ],
+  "answer": 2,
+  "explanation": "Rate = volume ÷ time = 250 ÷ 8 = 31.3 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "500 mL of sodium chloride 0.9% is to be given over 2 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "4 mL/hour",
+   "1000 mL/hour",
+   "125 mL/hour",
+   "250 mL/hour"
+  ],
+  "answer": 3,
+  "explanation": "Rate = volume ÷ time = 500 ÷ 2 = 250 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "100 mL of sodium chloride 0.9% is to be given over 10 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "10 mL/hour",
+   "5 mL/hour",
+   "1000 mL/hour",
+   "100 mL/hour"
+  ],
+  "answer": 0,
+  "explanation": "Rate = volume ÷ time = 100 ÷ 10 = 10 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "1000 mL of sodium chloride 0.9% is to be given over 10 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "50 mL/hour",
+   "100 mL/hour",
+   "10 mL/hour",
+   "10,000 mL/hour"
+  ],
+  "answer": 1,
+  "explanation": "Rate = volume ÷ time = 1000 ÷ 10 = 100 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "500 mL of sodium chloride 0.9% is to be given over 8 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "16 mL/hour",
+   "62.5 mL/hour",
+   "31.25 mL/hour",
+   "4000 mL/hour"
+  ],
+  "answer": 1,
+  "explanation": "Rate = volume ÷ time = 500 ÷ 8 = 62.5 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "250 mL of sodium chloride 0.9% is to be given over 2 hours by volumetric pump. At what rate (mL/hour) should the pump be set?",
+  "options": [
+   "125 mL/hour",
+   "8 mL/hour",
+   "62.5 mL/hour",
+   "500 mL/hour"
+  ],
+  "answer": 0,
+  "explanation": "Rate = volume ÷ time = 250 ÷ 2 = 125 mL/hour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "1000 mL of fluid is to be given over 12 hours using a giving set with a drop factor of 60 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "83 drops/min",
+   "5000 drops/min",
+   "167 drops/min",
+   "1 drops/min"
+  ],
+  "answer": 0,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (1000 × 60) ÷ (12 × 60) = 83.33 → 83.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "1000 mL of fluid is to be given over 10 hours using a giving set with a drop factor of 60 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "2 drops/min",
+   "6000 drops/min",
+   "100 drops/min",
+   "200 drops/min"
+  ],
+  "answer": 2,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (1000 × 60) ÷ (10 × 60) = 100 → 100.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "500 mL of fluid is to be given over 6 hours using a giving set with a drop factor of 20 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "1 drops/min",
+   "1667 drops/min",
+   "28 drops/min",
+   "56 drops/min"
+  ],
+  "answer": 2,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (500 × 20) ÷ (6 × 60) = 27.78 → 28.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "500 mL of fluid is to be given over 12 hours using a giving set with a drop factor of 15 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "625 drops/min",
+   "10 drops/min",
+   "21 drops/min",
+   "1 drops/min"
+  ],
+  "answer": 1,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (500 × 15) ÷ (12 × 60) = 10.42 → 10.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "500 mL of fluid is to be given over 4 hours using a giving set with a drop factor of 15 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "1875 drops/min",
+   "2 drops/min",
+   "63 drops/min",
+   "31 drops/min"
+  ],
+  "answer": 3,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (500 × 15) ÷ (4 × 60) = 31.25 → 31.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "1000 mL of fluid is to be given over 6 hours using a giving set with a drop factor of 60 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "167 drops/min",
+   "10,000 drops/min",
+   "333 drops/min",
+   "3 drops/min"
+  ],
+  "answer": 0,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (1000 × 60) ÷ (6 × 60) = 166.67 → 167.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "500 mL of fluid is to be given over 4 hours using a giving set with a drop factor of 20 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "2 drops/min",
+   "42 drops/min",
+   "83 drops/min",
+   "2500 drops/min"
+  ],
+  "answer": 1,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (500 × 20) ÷ (4 × 60) = 41.67 → 42.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "1000 mL of fluid is to be given over 4 hours using a giving set with a drop factor of 20 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "167 drops/min",
+   "83 drops/min",
+   "5000 drops/min",
+   "4 drops/min"
+  ],
+  "answer": 1,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (1000 × 20) ÷ (4 × 60) = 83.33 → 83.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "250 mL of fluid is to be given over 6 hours using a giving set with a drop factor of 20 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "14 drops/min",
+   "833 drops/min",
+   "28 drops/min",
+   "1 drops/min"
+  ],
+  "answer": 0,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (250 × 20) ÷ (6 × 60) = 13.89 → 14.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "250 mL of fluid is to be given over 6 hours using a giving set with a drop factor of 60 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "42 drops/min",
+   "1 drops/min",
+   "83 drops/min",
+   "2500 drops/min"
+  ],
+  "answer": 0,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (250 × 60) ÷ (6 × 60) = 41.67 → 42.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "250 mL of fluid is to be given over 12 hours using a giving set with a drop factor of 15 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "10 drops/min",
+   "0 drops/min",
+   "313 drops/min",
+   "5 drops/min"
+  ],
+  "answer": 3,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (250 × 15) ÷ (12 × 60) = 5.21 → 5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "1000 mL of fluid is to be given over 8 hours using a giving set with a drop factor of 15 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "63 drops/min",
+   "2 drops/min",
+   "31 drops/min",
+   "1875 drops/min"
+  ],
+  "answer": 2,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (1000 × 15) ÷ (8 × 60) = 31.25 → 31.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "1000 mL of fluid is to be given over 10 hours using a giving set with a drop factor of 15 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "2 drops/min",
+   "50 drops/min",
+   "1500 drops/min",
+   "25 drops/min"
+  ],
+  "answer": 3,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (1000 × 15) ÷ (10 × 60) = 25 → 25.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "250 mL of fluid is to be given over 2 hours using a giving set with a drop factor of 15 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "1875 drops/min",
+   "63 drops/min",
+   "2 drops/min",
+   "31 drops/min"
+  ],
+  "answer": 3,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (250 × 15) ÷ (2 × 60) = 31.25 → 31.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "250 mL of fluid is to be given over 4 hours using a giving set with a drop factor of 15 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "1 drops/min",
+   "938 drops/min",
+   "31 drops/min",
+   "16 drops/min"
+  ],
+  "answer": 3,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (250 × 15) ÷ (4 × 60) = 15.63 → 16.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "250 mL of fluid is to be given over 8 hours using a giving set with a drop factor of 60 drops/mL. How many drops per minute? (Round to the nearest whole number)",
+  "options": [
+   "1875 drops/min",
+   "63 drops/min",
+   "1 drops/min",
+   "31 drops/min"
+  ],
+  "answer": 3,
+  "explanation": "Drops/min = (volume × drop factor) ÷ (hours × 60) = (250 × 60) ÷ (8 × 60) = 31.25 → 31.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 5 mg/kg/day in 2 equal divided doses. The patient weighs 62 kg. How much is each dose?",
+  "options": [
+   "620 mg",
+   "12.4 mg",
+   "310 mg",
+   "155 mg"
+  ],
+  "answer": 3,
+  "explanation": "Daily dose = 5 × 62 = 310 mg. Each dose = 310 ÷ 2 = 155 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 15 mg/kg/day in 3 equal divided doses. The patient weighs 63 kg. How much is each dose?",
+  "options": [
+   "2835 mg",
+   "630 mg",
+   "945 mg",
+   "315 mg"
+  ],
+  "answer": 3,
+  "explanation": "Daily dose = 15 × 63 = 945 mg. Each dose = 945 ÷ 3 = 315 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 15 mg/kg/day in 2 equal divided doses. The patient weighs 45 kg. How much is each dose?",
+  "options": [
+   "1350 mg",
+   "337.5 mg",
+   "3 mg",
+   "675 mg"
+  ],
+  "answer": 1,
+  "explanation": "Daily dose = 15 × 45 = 675 mg. Each dose = 675 ÷ 2 = 337.5 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 1.5 mg/kg/day in 4 equal divided doses. The patient weighs 17 kg. How much is each dose?",
+  "options": [
+   "25.5 mg",
+   "6.38 mg",
+   "12.76 mg",
+   "102 mg"
+  ],
+  "answer": 1,
+  "explanation": "Daily dose = 1.5 × 17 = 25.5 mg. Each dose = 25.5 ÷ 4 = 6.38 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 5 mg/kg/day in 3 equal divided doses. The patient weighs 56 kg. How much is each dose?",
+  "options": [
+   "840 mg",
+   "93.33 mg",
+   "280 mg",
+   "186.66 mg"
+  ],
+  "answer": 1,
+  "explanation": "Daily dose = 5 × 56 = 280 mg. Each dose = 280 ÷ 3 = 93.33 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 5 mg/kg. The patient weighs 64 kg. What dose should be given?",
+  "options": [
+   "12.8 mg",
+   "320 mg",
+   "160 mg",
+   "3200 mg"
+  ],
+  "answer": 1,
+  "explanation": "5 mg × 64 kg = 320 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 15 mg/kg. The patient weighs 61 kg. What dose should be given?",
+  "options": [
+   "76 mg",
+   "9150 mg",
+   "457.5 mg",
+   "915 mg"
+  ],
+  "answer": 3,
+  "explanation": "15 mg × 61 kg = 915 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 5 mg/kg/day in 3 equal divided doses. The patient weighs 83 kg. How much is each dose?",
+  "options": [
+   "1245 mg",
+   "276.66 mg",
+   "415 mg",
+   "138.33 mg"
+  ],
+  "answer": 3,
+  "explanation": "Daily dose = 5 × 83 = 415 mg. Each dose = 415 ÷ 3 = 138.33 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 0.5 mg/kg/day in 3 equal divided doses. The patient weighs 40 kg. How much is each dose?",
+  "options": [
+   "60 mg",
+   "6.67 mg",
+   "13.34 mg",
+   "20 mg"
+  ],
+  "answer": 1,
+  "explanation": "Daily dose = 0.5 × 40 = 20 mg. Each dose = 20 ÷ 3 = 6.67 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 7.5 mg/kg/day in 2 equal divided doses. The patient weighs 93 kg. How much is each dose?",
+  "options": [
+   "12.4 mg",
+   "1395 mg",
+   "697.5 mg",
+   "348.75 mg"
+  ],
+  "answer": 3,
+  "explanation": "Daily dose = 7.5 × 93 = 697.5 mg. Each dose = 697.5 ÷ 2 = 348.75 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 15 mg/kg/day in 4 equal divided doses. The patient weighs 32 kg. How much is each dose?",
+  "options": [
+   "1920 mg",
+   "120 mg",
+   "480 mg",
+   "240 mg"
+  ],
+  "answer": 1,
+  "explanation": "Daily dose = 15 × 32 = 480 mg. Each dose = 480 ÷ 4 = 120 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 5 mg/kg/day in 4 equal divided doses. The patient weighs 17 kg. How much is each dose?",
+  "options": [
+   "340 mg",
+   "42.5 mg",
+   "85 mg",
+   "21.25 mg"
+  ],
+  "answer": 3,
+  "explanation": "Daily dose = 5 × 17 = 85 mg. Each dose = 85 ÷ 4 = 21.25 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 7.5 mg/kg/day in 4 equal divided doses. The patient weighs 83 kg. How much is each dose?",
+  "options": [
+   "622.5 mg",
+   "2490 mg",
+   "155.63 mg",
+   "311.26 mg"
+  ],
+  "answer": 2,
+  "explanation": "Daily dose = 7.5 × 83 = 622.5 mg. Each dose = 622.5 ÷ 4 = 155.63 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 20 mg/kg/day in 2 equal divided doses. The patient weighs 29 kg. How much is each dose?",
+  "options": [
+   "580 mg",
+   "290 mg",
+   "1160 mg",
+   "1.45 mg"
+  ],
+  "answer": 1,
+  "explanation": "Daily dose = 20 × 29 = 580 mg. Each dose = 580 ÷ 2 = 290 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 15 mg/kg/day in 4 equal divided doses. The patient weighs 65 kg. How much is each dose?",
+  "options": [
+   "243.75 mg",
+   "975 mg",
+   "487.5 mg",
+   "3900 mg"
+  ],
+  "answer": 0,
+  "explanation": "Daily dose = 15 × 65 = 975 mg. Each dose = 975 ÷ 4 = 243.75 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Weight-based doses",
+  "body": "A drug is prescribed at 15 mg/kg/day in 2 equal divided doses. The patient weighs 85 kg. How much is each dose?",
+  "options": [
+   "1275 mg",
+   "701.5 mg",
+   "2550 mg",
+   "637.5 mg"
+  ],
+  "answer": 3,
+  "explanation": "Daily dose = 15 × 85 = 1275 mg. Each dose = 1275 ÷ 2 = 637.5 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 350 mL of tea, 100 mL of water and receives 300 mL IV fluid. Output is 650 mL urine and 200 mL vomit. What is the fluid balance?",
+  "options": [
+   "+100 mL",
+   "+1600 mL",
+   "-200 mL",
+   "-100 mL"
+  ],
+  "answer": 3,
+  "explanation": "Input 750 mL − output 850 mL = -100 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 200 mL of tea, 250 mL of water and receives 600 mL IV fluid. Output is 700 mL urine and 100 mL vomit. What is the fluid balance?",
+  "options": [
+   "+1850 mL",
+   "+350 mL",
+   "+250 mL",
+   "-250 mL"
+  ],
+  "answer": 2,
+  "explanation": "Input 1050 mL − output 800 mL = +250 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 150 mL of tea, 300 mL of water and receives 500 mL IV fluid. Output is 650 mL urine and 150 mL vomit. What is the fluid balance?",
+  "options": [
+   "+1750 mL",
+   "+300 mL",
+   "+150 mL",
+   "-150 mL"
+  ],
+  "answer": 2,
+  "explanation": "Input 950 mL − output 800 mL = +150 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 200 mL of tea, 250 mL of water and receives 400 mL IV fluid. Output is 750 mL urine and 50 mL vomit. What is the fluid balance?",
+  "options": [
+   "+1650 mL",
+   "-50 mL",
+   "+100 mL",
+   "+50 mL"
+  ],
+  "answer": 3,
+  "explanation": "Input 850 mL − output 800 mL = +50 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 100 mL of tea, 150 mL of water and receives 200 mL IV fluid. Output is 800 mL urine and 200 mL vomit. What is the fluid balance?",
+  "options": [
+   "+550 mL",
+   "-550 mL",
+   "+1450 mL",
+   "-350 mL"
+  ],
+  "answer": 1,
+  "explanation": "Input 450 mL − output 1000 mL = -550 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 150 mL of tea, 300 mL of water and receives 700 mL IV fluid. Output is 500 mL urine and 50 mL vomit. What is the fluid balance?",
+  "options": [
+   "+600 mL",
+   "+650 mL",
+   "-600 mL",
+   "+1700 mL"
+  ],
+  "answer": 0,
+  "explanation": "Input 1150 mL − output 550 mL = +600 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 350 mL of tea, 250 mL of water and receives 600 mL IV fluid. Output is 700 mL urine and 50 mL vomit. What is the fluid balance?",
+  "options": [
+   "+500 mL",
+   "-450 mL",
+   "+1950 mL",
+   "+450 mL"
+  ],
+  "answer": 3,
+  "explanation": "Input 1200 mL − output 750 mL = +450 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 150 mL of tea, 50 mL of water and receives 500 mL IV fluid. Output is 250 mL urine and 50 mL vomit. What is the fluid balance?",
+  "options": [
+   "-400 mL",
+   "+450 mL",
+   "+400 mL",
+   "+1000 mL"
+  ],
+  "answer": 2,
+  "explanation": "Input 700 mL − output 300 mL = +400 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 150 mL of tea, 250 mL of water and receives 800 mL IV fluid. Output is 550 mL urine and 150 mL vomit. What is the fluid balance?",
+  "options": [
+   "+1900 mL",
+   "-500 mL",
+   "+500 mL",
+   "+650 mL"
+  ],
+  "answer": 2,
+  "explanation": "Input 1200 mL − output 700 mL = +500 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 300 mL of tea, 200 mL of water and receives 200 mL IV fluid. Output is 750 mL urine and 50 mL vomit. What is the fluid balance?",
+  "options": [
+   "-100 mL",
+   "+100 mL",
+   "-50 mL",
+   "+1500 mL"
+  ],
+  "answer": 0,
+  "explanation": "Input 700 mL − output 800 mL = -100 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 350 mL of tea, 250 mL of water and receives 900 mL IV fluid. Output is 500 mL urine and 100 mL vomit. What is the fluid balance?",
+  "options": [
+   "+900 mL",
+   "+2100 mL",
+   "+1000 mL",
+   "-900 mL"
+  ],
+  "answer": 0,
+  "explanation": "Input 1500 mL − output 600 mL = +900 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 200 mL of tea, 100 mL of water and receives 1000 mL IV fluid. Output is 400 mL urine and 50 mL vomit. What is the fluid balance?",
+  "options": [
+   "+1750 mL",
+   "+900 mL",
+   "-850 mL",
+   "+850 mL"
+  ],
+  "answer": 3,
+  "explanation": "Input 1300 mL − output 450 mL = +850 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 250 mL of tea, 50 mL of water and receives 400 mL IV fluid. Output is 700 mL urine and 50 mL vomit. What is the fluid balance?",
+  "options": [
+   "+50 mL",
+   "0 mL",
+   "+1450 mL",
+   "-50 mL"
+  ],
+  "answer": 3,
+  "explanation": "Input 700 mL − output 750 mL = -50 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 300 mL of tea, 200 mL of water and receives 900 mL IV fluid. Output is 700 mL urine and 200 mL vomit. What is the fluid balance?",
+  "options": [
+   "+2300 mL",
+   "+500 mL",
+   "+700 mL",
+   "-500 mL"
+  ],
+  "answer": 1,
+  "explanation": "Input 1400 mL − output 900 mL = +500 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 100 mL of tea, 50 mL of water and receives 800 mL IV fluid. Output is 500 mL urine and 200 mL vomit. What is the fluid balance?",
+  "options": [
+   "-250 mL",
+   "+250 mL",
+   "+1650 mL",
+   "+450 mL"
+  ],
+  "answer": 1,
+  "explanation": "Input 950 mL − output 700 mL = +250 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "Fluid balance",
+  "body": "Over 24 hours a patient takes 100 mL of tea, 100 mL of water and receives 1000 mL IV fluid. Output is 650 mL urine and 50 mL vomit. What is the fluid balance?",
+  "options": [
+   "-500 mL",
+   "+500 mL",
+   "+1900 mL",
+   "+550 mL"
+  ],
+  "answer": 1,
+  "explanation": "Input 1200 mL − output 700 mL = +500 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 500 mL is running at 100 mL/hour. How long will it take?",
+  "options": [
+   "4 hours 30 minutes",
+   "6 hours",
+   "5 hours",
+   "5 hours 30 minutes"
+  ],
+  "answer": 2,
+  "explanation": "Time = volume ÷ rate = 500 ÷ 100 = 5 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 500 mL is running at 62.5 mL/hour. How long will it take?",
+  "options": [
+   "7 hours 30 minutes",
+   "8 hours 30 minutes",
+   "8 hours",
+   "9 hours"
+  ],
+  "answer": 2,
+  "explanation": "Time = volume ÷ rate = 500 ÷ 62.5 = 8 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 250 mL is running at 50 mL/hour. How long will it take?",
+  "options": [
+   "5 hours",
+   "6 hours",
+   "4 hours 30 minutes",
+   "5 hours 30 minutes"
+  ],
+  "answer": 0,
+  "explanation": "Time = volume ÷ rate = 250 ÷ 50 = 5 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 1000 mL is running at 200 mL/hour. How long will it take?",
+  "options": [
+   "5 hours 30 minutes",
+   "6 hours",
+   "5 hours",
+   "4 hours 30 minutes"
+  ],
+  "answer": 2,
+  "explanation": "Time = volume ÷ rate = 1000 ÷ 200 = 5 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 250 mL is running at 25 mL/hour. How long will it take?",
+  "options": [
+   "10 hours",
+   "9 hours 30 minutes",
+   "11 hours",
+   "10 hours 30 minutes"
+  ],
+  "answer": 0,
+  "explanation": "Time = volume ÷ rate = 250 ÷ 25 = 10 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 100 mL is running at 50 mL/hour. How long will it take?",
+  "options": [
+   "3 hours",
+   "1 hour 30 minutes",
+   "2 hours 30 minutes",
+   "2 hours"
+  ],
+  "answer": 3,
+  "explanation": "Time = volume ÷ rate = 100 ÷ 50 = 2 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 500 mL is running at 200 mL/hour. How long will it take?",
+  "options": [
+   "1 hour 30 minutes",
+   "2 hours",
+   "2 hours 30 minutes",
+   "3 hours 30 minutes"
+  ],
+  "answer": 2,
+  "explanation": "Time = volume ÷ rate = 500 ÷ 200 = 2.5 hours = 2 hours 30 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 1000 mL is running at 125 mL/hour. How long will it take?",
+  "options": [
+   "8 hours 30 minutes",
+   "8 hours",
+   "7 hours 30 minutes",
+   "9 hours"
+  ],
+  "answer": 1,
+  "explanation": "Time = volume ÷ rate = 1000 ÷ 125 = 8 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 1000 mL is running at 100 mL/hour. How long will it take?",
+  "options": [
+   "9 hours 30 minutes",
+   "10 hours",
+   "11 hours",
+   "10 hours 30 minutes"
+  ],
+  "answer": 1,
+  "explanation": "Time = volume ÷ rate = 1000 ÷ 100 = 10 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 250 mL is running at 200 mL/hour. How long will it take?",
+  "options": [
+   "1 hour 30 minutes",
+   "0 hours 15 minutes",
+   "2 hours 15 minutes",
+   "1 hour 15 minutes"
+  ],
+  "answer": 3,
+  "explanation": "Time = volume ÷ rate = 250 ÷ 200 = 1.25 hours = 1 hour 15 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 500 mL is running at 125 mL/hour. How long will it take?",
+  "options": [
+   "4 hours",
+   "4 hours 30 minutes",
+   "5 hours",
+   "3 hours 30 minutes"
+  ],
+  "answer": 0,
+  "explanation": "Time = volume ÷ rate = 500 ÷ 125 = 4 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "IV infusions",
+  "body": "An infusion of 250 mL is running at 62.5 mL/hour. How long will it take?",
+  "options": [
+   "3 hours 30 minutes",
+   "4 hours",
+   "4 hours 30 minutes",
+   "5 hours"
+  ],
+  "answer": 1,
+  "explanation": "Time = volume ÷ rate = 250 ÷ 62.5 = 4 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Percentage solutions",
+  "body": "How many grams of glucose are in 500 mL of glucose 50% w/v?",
+  "options": [
+   "25 g",
+   "25,000 g",
+   "250 g",
+   "2500 g"
+  ],
+  "answer": 2,
+  "explanation": "50% w/v = 50 g per 100 mL. 500 mL contains 50 × 5 = 250 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Percentage solutions",
+  "body": "How many grams of glucose are in 250 mL of glucose 50% w/v?",
+  "options": [
+   "12,500 g",
+   "1250 g",
+   "125 g",
+   "12.5 g"
+  ],
+  "answer": 2,
+  "explanation": "50% w/v = 50 g per 100 mL. 250 mL contains 50 × 2.5 = 125 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Percentage solutions",
+  "body": "How many grams of glucose are in 100 mL of glucose 50% w/v?",
+  "options": [
+   "500 g",
+   "5 g",
+   "50 g",
+   "5000 g"
+  ],
+  "answer": 2,
+  "explanation": "50% w/v = 50 g per 100 mL. 100 mL contains 50 × 1 = 50 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Percentage solutions",
+  "body": "How many grams of glucose are in 250 mL of glucose 20% w/v?",
+  "options": [
+   "5000 g",
+   "50 g",
+   "5 g",
+   "500 g"
+  ],
+  "answer": 1,
+  "explanation": "20% w/v = 20 g per 100 mL. 250 mL contains 20 × 2.5 = 50 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Percentage solutions",
+  "body": "How many grams of sodium chloride are in 250 mL of sodium chloride 0.9% w/v?",
+  "options": [
+   "225 g",
+   "2.25 g",
+   "22.5 g",
+   "0.9 g"
+  ],
+  "answer": 1,
+  "explanation": "0.9% w/v = 0.9 g per 100 mL. 250 mL contains 0.9 × 2.5 = 2.25 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Percentage solutions",
+  "body": "How many grams of glucose are in 1000 mL of glucose 50% w/v?",
+  "options": [
+   "500 g",
+   "50,000 g",
+   "5000 g",
+   "50 g"
+  ],
+  "answer": 0,
+  "explanation": "50% w/v = 50 g per 100 mL. 1000 mL contains 50 × 10 = 500 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Percentage solutions",
+  "body": "How many grams of glucose are in 100 mL of glucose 5% w/v?",
+  "options": [
+   "50 g",
+   "0.5 g",
+   "500 g",
+   "5 g"
+  ],
+  "answer": 3,
+  "explanation": "5% w/v = 5 g per 100 mL. 100 mL contains 5 × 1 = 5 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Percentage solutions",
+  "body": "How many grams of glucose are in 100 mL of glucose 10% w/v?",
+  "options": [
+   "100 g",
+   "10 g",
+   "1000 g",
+   "1 g"
+  ],
+  "answer": 1,
+  "explanation": "10% w/v = 10 g per 100 mL. 100 mL contains 10 × 1 = 10 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Percentage solutions",
+  "body": "How many grams of glucose are in 100 mL of glucose 20% w/v?",
+  "options": [
+   "20 g",
+   "200 g",
+   "2 g",
+   "2000 g"
+  ],
+  "answer": 0,
+  "explanation": "20% w/v = 20 g per 100 mL. 100 mL contains 20 × 1 = 20 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "Percentage solutions",
+  "body": "How many grams of sodium chloride are in 500 mL of sodium chloride 0.9% w/v?",
+  "options": [
+   "4.5 g",
+   "45 g",
+   "450 g",
+   "0.45 g"
+  ],
+  "answer": 0,
+  "explanation": "0.9% w/v = 0.9 g per 100 mL. 500 mL contains 0.9 × 5 = 4.5 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMN",
+  "topic": "BMI",
+  "body": "Calculate the BMI of a patient weighing 49 kg who is 1.55 m tall. (Round to 1 decimal place)",
+  "options": [
+   "63.2",
+   "31.6",
+   "20.4",
+   "22.4"
+  ],
+  "answer": 2,
+  "explanation": "BMI = kg ÷ m² = 49 ÷ (1.55 × 1.55) = 20.4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "BMI",
+  "body": "Calculate the BMI of a patient weighing 96 kg who is 1.85 m tall. (Round to 1 decimal place)",
+  "options": [
+   "103.8",
+   "51.9",
+   "30",
+   "28"
+  ],
+  "answer": 3,
+  "explanation": "BMI = kg ÷ m² = 96 ÷ (1.85 × 1.85) = 28.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "BMI",
+  "body": "Calculate the BMI of a patient weighing 114 kg who is 1.6 m tall. (Round to 1 decimal place)",
+  "options": [
+   "71.3",
+   "44.5",
+   "46.5",
+   "142.5"
+  ],
+  "answer": 1,
+  "explanation": "BMI = kg ÷ m² = 114 ÷ (1.6 × 1.6) = 44.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "BMI",
+  "body": "Calculate the BMI of a patient weighing 75 kg who is 1.55 m tall. (Round to 1 decimal place)",
+  "options": [
+   "96.8",
+   "33.2",
+   "48.4",
+   "31.2"
+  ],
+  "answer": 3,
+  "explanation": "BMI = kg ÷ m² = 75 ÷ (1.55 × 1.55) = 31.2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "BMI",
+  "body": "Calculate the BMI of a patient weighing 76 kg who is 1.5 m tall. (Round to 1 decimal place)",
+  "options": [
+   "35.8",
+   "50.7",
+   "101.3",
+   "33.8"
+  ],
+  "answer": 3,
+  "explanation": "BMI = kg ÷ m² = 76 ÷ (1.5 × 1.5) = 33.8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "BMI",
+  "body": "Calculate the BMI of a patient weighing 66 kg who is 1.5 m tall. (Round to 1 decimal place)",
+  "options": [
+   "88",
+   "29.3",
+   "44",
+   "31.3"
+  ],
+  "answer": 1,
+  "explanation": "BMI = kg ÷ m² = 66 ÷ (1.5 × 1.5) = 29.3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "BMI",
+  "body": "Calculate the BMI of a patient weighing 81 kg who is 1.6 m tall. (Round to 1 decimal place)",
+  "options": [
+   "33.6",
+   "50.6",
+   "31.6",
+   "101.3"
+  ],
+  "answer": 2,
+  "explanation": "BMI = kg ÷ m² = 81 ÷ (1.6 × 1.6) = 31.6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "BMI",
+  "body": "Calculate the BMI of a patient weighing 91 kg who is 1.85 m tall. (Round to 1 decimal place)",
+  "options": [
+   "98.4",
+   "26.6",
+   "28.6",
+   "49.2"
+  ],
+  "answer": 1,
+  "explanation": "BMI = kg ÷ m² = 91 ÷ (1.85 × 1.85) = 26.6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "BMI",
+  "body": "Calculate the BMI of a patient weighing 113 kg who is 1.6 m tall. (Round to 1 decimal place)",
+  "options": [
+   "70.6",
+   "46.1",
+   "141.3",
+   "44.1"
+  ],
+  "answer": 3,
+  "explanation": "BMI = kg ÷ m² = 113 ÷ (1.6 × 1.6) = 44.1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NMN",
+  "topic": "BMI",
+  "body": "Calculate the BMI of a patient weighing 88 kg who is 1.65 m tall. (Round to 1 decimal place)",
+  "options": [
+   "106.7",
+   "34.3",
+   "53.3",
+   "32.3"
+  ],
+  "answer": 3,
+  "explanation": "BMI = kg ÷ m² = 88 ÷ (1.65 × 1.65) = 32.3.",
+  "difficulty": 1
+ }
+]

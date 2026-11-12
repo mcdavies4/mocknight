@@ -25,6 +25,11 @@ export default function Home() {
 
       <div className="grid2" style={{ marginTop: 12 }}>
         <div className="card">
+          <h2 style={{ marginTop: 0 }}>🩺 NMC CBT for nurses</h2>
+          <p>Part A numeracy and Part B clinical practice tests for internationally educated nurses joining the UK register.</p>
+          <Link className="btn block" href="/nmc-cbt">Start practising</Link>
+        </div>
+        <div className="card">
           <h2 style={{ marginTop: 0 }}>🧯 Fire Marshal training</h2>
           <p>8 short online modules, a final assessment and a certificate valid for 12 months. Company accounts with training records.</p>
           <Link className="btn block" href="/fire-marshal">Learn more</Link>

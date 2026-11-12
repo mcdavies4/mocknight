@@ -1,7 +1,7 @@
 import { db, must } from "./supabase";
 import { isPremium } from "./students";
 import { OFFERED_SUBJECTS, subjectName } from "./subjects";
-import { getTrack, mockPerSubject, type ScoreStyle, type Track } from "./tracks";
+import { getTrack, mockConfig, type ScoreStyle } from "./tracks";
 import { FREE_PRACTICE_MOCKS_PER_WEEK } from "./pricing";
 import { watToUtc } from "./time";
 import { rewardReferral } from "./referrals";
@@ -146,10 +146,10 @@ export async function getLatestFinishedWeeklyMock(): Promise<Mock | null> {
 // Starting / resuming
 // ---------------------------------------------------------------------------
 
-export async function startMock(student: Student, mockId?: string | null): Promise<MockPayload> {
+export async function startMock(student: Student, mockId?: string | null, variant?: string | null): Promise<MockPayload> {
   const subjects = mockSubjects(student);
   if (!subjects.length) throw new MockError("NO_SUBJECTS");
-  return mockId ? startWeekly(student, mockId, subjects) : startPractice(student, subjects);
+  return mockId ? startWeekly(student, mockId, subjects) : startPractice(student, subjects, variant ?? null);
 }
 
 async function startWeekly(student: Student, mockId: string, subjects: string[]): Promise<MockPayload> {
@@ -174,18 +174,21 @@ async function startWeekly(student: Student, mockId: string, subjects: string[])
   return buildPayload(mock, attempt);
 }
 
-async function startPractice(student: Student, subjects: string[]): Promise<MockPayload> {
-  // Resume an unfinished practice mock if there is one
-  const { data: open } = await db()
+async function startPractice(student: Student, defaultSubjects: string[], variantKey: string | null): Promise<MockPayload> {
+  const track = getTrack(student.track);
+  const cfg = mockConfig(track, variantKey);
+  const subjects = cfg.subjects ?? defaultSubjects;
+
+  // Resume an unfinished practice mock of the same kind if there is one
+  let openQ = db()
     .from("mock_attempts")
-    .select("*, mocks!inner(kind)")
+    .select("*, mocks!inner(kind, variant)")
     .eq("student_id", student.id)
     .eq("mocks.kind", "practice")
     .is("submitted_at", null)
-    .gt("deadline", new Date().toISOString())
-    .order("started_at", { ascending: false })
-    .limit(1)
-    .maybeSingle();
+    .gt("deadline", new Date().toISOString());
+  openQ = cfg.variant ? openQ.eq("mocks.variant", cfg.variant) : openQ;
+  const { data: open } = await openQ.order("started_at", { ascending: false }).limit(1).maybeSingle();
   if (open) {
     const mock = (await getMock(open.mock_id))!;
     return buildPayload(mock, open as MockAttempt);
@@ -202,17 +205,17 @@ async function startPractice(student: Student, subjects: string[]): Promise<Mock
     if ((count ?? 0) >= FREE_PRACTICE_MOCKS_PER_WEEK) throw new MockError("LIMIT");
   }
 
-  const track = getTrack(student.track);
-  const perSubject = mockPerSubject(track);
+  const perSubject = cfg.perSubject;
   const mock = must(
     await db()
       .from("mocks")
       .insert({
         kind: "practice",
         track: track.code,
-        title: track.subjectMode === "single" ? `${track.short} practice test` : "Practice CBT",
+        variant: cfg.variant,
+        title: cfg.label ? `${track.short} ${cfg.label}` : track.subjectMode === "single" ? `${track.short} practice test` : "Practice CBT",
         owner_student_id: student.id,
-        duration_minutes: track.mock.minutes,
+        duration_minutes: cfg.minutes,
         per_subject: perSubject,
       })
       .select()
@@ -298,9 +301,10 @@ async function buildPayload(mock: Mock, attempt: MockAttempt): Promise<MockPaylo
   const qs = await loadQuestions(mock.id, attempt.subjects);
   const { data: st } = await db().from("students").select("track, telegram_id").eq("id", attempt.student_id).single();
   const track = getTrack(mock.kind === "weekly" ? st?.track : mock.track ?? st?.track);
+  const cfg = mockConfig(track, mock.variant);
   const payload: MockPayload = {
     trackCode: track.code,
-    scoreStyle: track.mock.scoreStyle,
+    scoreStyle: cfg.scoreStyle,
     backTo: st?.telegram_id ? "telegram" : "web",
     attemptId: attempt.id,
     mockId: mock.id,
@@ -312,7 +316,7 @@ async function buildPayload(mock: Mock, attempt: MockAttempt): Promise<MockPaylo
     questions: qs.map((q) => ({ id: q.id, subject: q.subject_code, body: q.body, options: q.options })),
     answers: attempt.answers ?? {},
   };
-  if (attempt.submitted_at) payload.result = gradeQuestions(qs, attempt.subjects, attempt.answers ?? {}, track);
+  if (attempt.submitted_at) payload.result = gradeQuestions(qs, attempt.subjects, attempt.answers ?? {}, cfg);
   return payload;
 }
 
@@ -345,7 +349,7 @@ export async function saveAnswers(attemptId: string, studentId: string, answers:
   await db().from("mock_attempts").update({ answers: clean }).eq("id", attempt.id).is("submitted_at", null);
 }
 
-function gradeQuestions(qs: Question[], subjects: string[], answers: Record<string, number>, track: Track): MockResult {
+function gradeQuestions(qs: Question[], subjects: string[], answers: Record<string, number>, cfg: { passPct?: number; scoreStyle: ScoreStyle }): MockResult {
   const per = new Map(subjects.map((s) => [s, { correct: 0, total: 0 }]));
   let raw = 0;
   const review: ReviewQuestion[] = [];
@@ -373,10 +377,10 @@ function gradeQuestions(qs: Question[], subjects: string[], answers: Record<stri
     return { code, name: subjectName(code), ...p, pct: p.total ? Math.round((p.correct / p.total) * 100) : 0 };
   });
   const scaled = perSubject.length ? perSubject.reduce((s, p) => s + p.pct, 0) / perSubject.length : 0;
-  const passPct = track.mock.passPct;
+  const passPct = cfg.passPct;
   const needed = passPct ? Math.ceil((qs.length * passPct) / 100) : 0;
   return {
-    scoreStyle: track.mock.scoreStyle,
+    scoreStyle: cfg.scoreStyle,
     pass: passPct ? { needed, passed: raw >= needed } : undefined,
     rawScore: raw,
     total: qs.length,
@@ -394,13 +398,14 @@ export async function submitAttempt(attemptId: string, studentId: string, answer
   const mock = (await getMock(attempt.mock_id))!;
   const { data: st } = await db().from("students").select("track").eq("id", studentId).single();
   const track = getTrack(mock.kind === "weekly" ? st?.track : mock.track ?? st?.track);
+  const cfg = mockConfig(track, mock.variant);
 
-  if (attempt.submitted_at) return gradeQuestions(qs, attempt.subjects, attempt.answers ?? {}, track);
+  if (attempt.submitted_at) return gradeQuestions(qs, attempt.subjects, attempt.answers ?? {}, cfg);
 
   // Late: ignore what the client sent and grade what was saved before the deadline
   const late = Date.now() > new Date(attempt.deadline).getTime() + GRACE_MS;
   const final = late && !force ? cleanAnswers(attempt.answers, validIds) : cleanAnswers(answers, validIds);
-  const result = gradeQuestions(qs, attempt.subjects, final, track);
+  const result = gradeQuestions(qs, attempt.subjects, final, cfg);
 
   const submittedAt = late ? new Date(attempt.deadline) : new Date();
   const duration = Math.max(0, Math.round((submittedAt.getTime() - new Date(attempt.started_at).getTime()) / 1000));
