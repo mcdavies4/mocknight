@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 import { authRequest, errorResponse, unauthorized } from "@/lib/request-auth";
-import { isPremium } from "@/lib/students";
+import { accessKind, trialDaysLeft } from "@/lib/students";
 import { getProgress } from "@/lib/progress";
 import { getTodaySession } from "@/lib/drill";
 import { getTrack, regionsFor, TRACK_LIST } from "@/lib/tracks";
@@ -19,8 +19,8 @@ export async function POST(req: Request) {
   try {
     const track = student.track ? getTrack(student.track) : null;
     const onboarded = student.onboarding_step === "done";
-    const [premium, progress, today, refs, course] = await Promise.all([
-      isPremium(student),
+    const [access, progress, today, refs, course] = await Promise.all([
+      accessKind(student),
       onboarded ? getProgress(student) : Promise.resolve(null),
       onboarded ? getTodaySession(student) : Promise.resolve(null),
       referralCount(student.id),
@@ -42,13 +42,15 @@ export async function POST(req: Request) {
       },
       referral: { ...refLinks(student), ...refs, days: REFERRAL_DAYS },
       course,
-      premium,
-      dailyQuestions: premium ? PREMIUM_DAILY_QUESTIONS : FREE_DAILY_QUESTIONS,
+      premium: access !== "free",
+      access,
+      trialDaysLeft: access === "trial" ? trialDaysLeft(student) : 0,
+      dailyQuestions: access !== "free" ? PREMIUM_DAILY_QUESTIONS : FREE_DAILY_QUESTIONS,
       progress,
       today: today ? { position: today.position, total: today.question_ids.length, correct: today.correct, finished: !!today.finished_at } : null,
       track: track && {
         code: track.code, name: track.name, short: track.short, emoji: track.emoji, subjectMode: track.subjectMode,
-        mock: track.mock, weeklyMock: track.weeklyMock, kind: track.kind, hasCourse: !!track.course,
+        mock: track.mock, weeklyMock: track.weeklyMock, kind: track.kind, hasCourse: !!track.course, mockVariants: track.mockVariants ?? [],
       },
       plans: (track?.plans ?? []).map((c) => ({ code: c, label: PLANS[c].label, price: money(PLANS[c].amount, PLANS[c].currency) })),
       // for onboarding

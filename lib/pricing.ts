@@ -14,6 +14,7 @@ export const PLANS: Record<string, Plan> = {
   student_month: { code: "student_month", label: "Premium — 30 days", amount: 1_500_00, currency: "NGN", days: 30, provider: "paystack" },
   student_season: { code: "student_season", label: "Premium — till exam (120 days)", amount: 4_000_00, currency: "NGN", days: 120, provider: "paystack" },
   luk_pass: { code: "luk_pass", label: "Life in the UK — full access, 90 days", amount: 7_99, currency: "GBP", days: 90, provider: "stripe" },
+  nmc_pass: { code: "nmc_pass", label: "NMC CBT — full access, 90 days", amount: 19_99, currency: "GBP", days: 90, provider: "stripe" },
   fire_individual: { code: "fire_individual", label: "Fire Marshal course + certificate (12 months)", amount: 14_99, currency: "GBP", days: 365, provider: "stripe" },
 };
 
@@ -25,6 +26,12 @@ export const SEATS: Record<Currency, { amount: number; days: number; provider: "
 /** @deprecated use SEATS.NGN */
 export const SEAT_PRICE_KOBO = SEATS.NGN.amount;
 export const SEAT_DAYS = SEATS.NGN.days;
+
+/** Every new account gets full access for this many days after joining (override with TRIAL_DAYS env, 0 = off) */
+export const TRIAL_DAYS = Number(process.env.TRIAL_DAYS ?? 14);
+/** Whether the free trial also unlocks paid certificates (Fire Marshal). Off by default. */
+export const TRIAL_INCLUDES_CERTIFICATES = process.env.TRIAL_INCLUDES_CERTIFICATES === "true";
+export const FOUNDER_AI_PER_DAY = 1000;
 
 /** AI explanations per day */
 export const AI_FREE_PER_DAY = 3;

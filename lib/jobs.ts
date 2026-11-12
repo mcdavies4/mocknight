@@ -85,6 +85,11 @@ export async function runHourly(api: Api) {
     log.certReminders = await sendCertificateReminders();
   }
 
+  // 2d. Daily at 10am WAT: "your free trial ends in 2 days" (each account gets this once)
+  if (hour === 10) {
+    log.trialReminders = await sendTrialReminders(api);
+  }
+
   // 3. Monday morning: results
   if (weekday === 1 && hour >= 8) {
     log.results = await postWeeklyResults(api);
@@ -164,4 +169,18 @@ export async function postWeeklyResults(api: Api) {
 
 function ukHourNow() {
   return Number(new Date().toLocaleString("en-GB", { timeZone: "Europe/London", hour: "2-digit", hour12: false }));
+}
+
+async function sendTrialReminders(api: Api) {
+  const { TRIAL_DAYS } = await import("./pricing");
+  if (!TRIAL_DAYS || TRIAL_DAYS < 3) return 0;
+  const from = new Date(Date.now() - (TRIAL_DAYS - 2) * 86400_000).toISOString();
+  const to = new Date(Date.now() - (TRIAL_DAYS - 3) * 86400_000).toISOString();
+  const rows = await activeStudents((q) => q.gte("created_at", from).lt("created_at", to).is("premium_until", null));
+  return broadcast(api, rows, (api, s) =>
+    api.sendMessage(
+      s.telegram_id,
+      `⏳ ${s.first_name ?? "Hi"}, your free trial ends in 2 days. After that you'll be on the free plan (10 daily questions, 1 practice test a week). Keep full access → /premium`,
+    ),
+  );
 }

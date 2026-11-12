@@ -3,7 +3,8 @@ import fire from "@/data/courses/FIRE.json";
 import { db, must } from "./supabase";
 import { getTrack } from "./tracks";
 import { notifyTelegram, sendEmail } from "./notify";
-import { isPremium } from "./students";
+import { hasPaidAccess, isPremium } from "./students";
+import { TRIAL_INCLUDES_CERTIFICATES } from "./pricing";
 import { env } from "./env";
 import type { Student } from "./types";
 
@@ -108,7 +109,8 @@ export async function issueCertificate(student: Student, fullNameRaw: string | n
   if (status?.certificate?.valid) return { ok: true, certificate: status.certificate };
   if (!status?.eligible || !status.bestPass) return { ok: false, error: "NOT_ELIGIBLE" };
   // Certificates need the paid course (individual plan or an employer seat)
-  if (track.plans.length && !(await isPremium(student))) return { ok: false, error: "NOT_PAID" };
+  const allowed = TRIAL_INCLUDES_CERTIFICATES ? await isPremium(student) : await hasPaidAccess(student);
+  if (track.plans.length && !allowed) return { ok: false, error: "NOT_PAID" };
 
   const fullName = (fullNameRaw ?? student.full_name ?? "").replace(/\s+/g, " ").trim().slice(0, 80);
   if (fullName.length < 3 || !/\s/.test(fullName)) return { ok: false, error: "BAD_NAME" };

@@ -25,6 +25,8 @@ interface Me {
     certificate: null | { cert_no: string; full_name: string; expires_at: string; valid: boolean; url: string };
   };
   premium: boolean;
+  access: "founder" | "paid" | "seat" | "trial" | "free";
+  trialDaysLeft: number;
   dailyQuestions: number;
   progress: null | {
     streak: number; answeredAllTime: number; reviewBox: number;
@@ -32,7 +34,11 @@ interface Me {
     practice: { taken: number; lastScores: number[]; passesInARow: number | null; readiness: number | null };
   };
   today: null | { position: number; total: number; correct: number; finished: boolean };
-  track: null | { code: string; name: string; short: string; emoji: string; subjectMode: string; kind: string; hasCourse: boolean; mock: { total?: number; perSubject?: number; minutes: number; passPct?: number } };
+  track: null | {
+    code: string; name: string; short: string; emoji: string; subjectMode: string; kind: string; hasCourse: boolean;
+    mock: { total?: number; perSubject?: number; minutes: number; passPct?: number };
+    mockVariants: { key: string; label: string; short: string; note?: string }[];
+  };
   plans: { code: string; label: string; price: string }[];
   tracks: TrackOpt[];
 }
@@ -270,6 +276,16 @@ function Home({ me, reload, onDrill, onSettings, onLesson }: { me: Me; reload: (
         <button className="btn secondary" style={{ minHeight: 36, padding: "6px 12px" }} onClick={onSettings}>⚙️ Settings</button>
       </div>
 
+      {me.access === "trial" && (
+        <div className="card" style={{ marginTop: 16, background: "var(--accent)", color: "var(--accent-text)" }}>
+          <b>🎁 Free trial — everything unlocked</b>
+          <div className="small" style={{ opacity: 0.9, marginTop: 4 }}>
+            {me.trialDaysLeft} day{me.trialDaysLeft === 1 ? "" : "s"} left of unlimited practice tests, 20 daily questions and AI explanations.
+          </div>
+        </div>
+      )}
+      {me.access === "founder" && <p className="muted small" style={{ marginTop: 12 }}>👑 Founder access — everything unlocked.</p>}
+
       {passFail && p && (
         <div className="card" style={{ marginTop: 16 }}>
           <div className="row"><b>Readiness</b><span className="muted small">pass mark {t.mock.passPct}%</span></div>
@@ -291,6 +307,18 @@ function Home({ me, reload, onDrill, onSettings, onLesson }: { me: Me; reload: (
         <button className="btn block" onClick={onDrill} disabled={me.today?.finished}>{todayLabel}</button>
       </div>
 
+      {t.mockVariants.length > 0 ? (
+        <div className="card">
+          <b>🧪 Practice tests</b>
+          <p className="muted small" style={{ margin: "4px 0 10px" }}>Timed like the real thing. Pass marks here are practice targets.</p>
+          {t.mockVariants.map((v) => (
+            <a key={v.key} className="btn block" style={{ marginBottom: 8, flexDirection: "column", alignItems: "center" }} href={`/mock?variant=${v.key}`}>
+              <span>{v.label}</span>
+              {v.note && <span style={{ fontSize: 12, fontWeight: 400, opacity: 0.85 }}>{v.note}</span>}
+            </a>
+          ))}
+        </div>
+      ) : (
       <div className="card">
         <b>{me.track?.hasCourse ? "🧪 Final assessment" : passFail ? "🧪 Full practice test" : "🖥 Practice CBT"}</b>
         <p className="muted small" style={{ margin: "4px 0 10px" }}>
@@ -298,6 +326,7 @@ function Home({ me, reload, onDrill, onSettings, onLesson }: { me: Me; reload: (
         </p>
         <a className="btn block" href="/mock">Start a test</a>
       </div>
+      )}
 
       {p && (
         <div className="stats">
@@ -308,9 +337,9 @@ function Home({ me, reload, onDrill, onSettings, onLesson }: { me: Me; reload: (
         </div>
       )}
 
-      {!me.premium && me.plans.length > 0 && (
+      {(me.access === "free" || me.access === "trial") && me.plans.length > 0 && (
         <div className="card">
-          <b>⭐ Unlock full access</b>
+          <b>{me.access === "trial" ? "⭐ Keep full access after your trial" : "⭐ Unlock full access"}</b>
           <p className="muted small" style={{ margin: "4px 0 10px" }}>Unlimited practice tests (free: 1 a week) and 20 daily questions (free: 10).</p>
           {me.plans.map((pl) => (
             <button key={pl.code} className="btn block" style={{ marginBottom: 8 }} disabled={!!paying} onClick={() => pay(pl.code)}>
@@ -319,7 +348,7 @@ function Home({ me, reload, onDrill, onSettings, onLesson }: { me: Me; reload: (
           ))}
         </div>
       )}
-      {me.premium && me.student.premiumUntil && (
+      {me.access === "paid" && me.student.premiumUntil && (
         <p className="muted small">⭐ Full access until {new Date(me.student.premiumUntil).toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" })}</p>
       )}
 

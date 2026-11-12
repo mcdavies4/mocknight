@@ -1,7 +1,7 @@
 import { Bot, Context, InlineKeyboard, type Api } from "grammy";
 import { env } from "@/lib/env";
 import { db, must } from "@/lib/supabase";
-import { getStudentByTelegram, isPremium, updateStudent, upsertStudent } from "@/lib/students";
+import { accessKind, getStudentByTelegram, isPremium, trialDaysLeft, updateStudent, upsertStudent } from "@/lib/students";
 import { subjectName } from "@/lib/subjects";
 import { getTrack, regionsFor, TRACKS, UK_TIME_TRACKS, type TrackCode } from "@/lib/tracks";
 import { getProgress } from "@/lib/progress";
@@ -63,9 +63,21 @@ function subjectsText(s: Student) {
 
 async function welcome(api: Api, s: Student) {
   const premium = await isPremium(s);
+  const trial = (await accessKind(s)) === "trial" ? trialDaysLeft(s) : 0;
   const t = getTrack(s.track);
   const n = premium ? PREMIUM_DAILY_QUESTIONS : FREE_DAILY_QUESTIONS;
-  const lines = t.course
+  const lines = t.mockVariants?.length
+    ? [
+        `Welcome, ${s.first_name ?? "there"} 🩺`,
+        "",
+        `📝 *Daily practice* at ${formatHour(s.drill_hour)} (UK time): numeracy and clinical questions. Anything you miss comes back until you get it right.`,
+        ...t.mockVariants.map((v) => `🧪 *${v.label}*: ${v.note ?? ""}`),
+        `📈 *Readiness score*: book your £83 CBT once you're passing consistently.`,
+        `🤖 Get any wrong answer explained step by step — great for drug calculations.`,
+        "",
+        "Start with today's practice?",
+      ]
+    : t.course
     ? [
         `Welcome, ${s.first_name ?? "there"} 🧯`,
         "",
@@ -95,6 +107,7 @@ async function welcome(api: Api, s: Student) {
           "",
           "Want to do your first drill now?",
         ];
+  if (trial) lines.splice(1, 0, `🎁 *Everything is free for your first ${trial} days* — unlimited tests, 20 daily questions and AI explanations.`, "");
   return api.sendMessage(s.telegram_id!, lines.join("\n"), {
     parse_mode: "Markdown",
     reply_markup: t.course ? new InlineKeyboard().text("📚 Start module 1", "lesson:next").row().text("Menu", "menu") : menuKb(s),
@@ -172,7 +185,9 @@ async function sendStats(api: Api, s: Student) {
       p.lastMockNight !== null ? `🏆 Last Mock Night: ${p.lastMockNight.toFixed(0)}% (≈${Math.round((p.lastMockNight / 100) * 400)}/400)` : "🏆 Mock Night: not taken yet",
     );
   }
-  lines.push(`⭐ Plan: ${premium ? "Premium" : "Free"}`, "");
+  const kind = await accessKind(s);
+  const planLabel = { founder: "👑 Founder (unlimited)", paid: "Premium", seat: "Premium (via your group)", trial: `🎁 Free trial — ${trialDaysLeft(s)} day(s) left`, free: "Free" }[kind];
+  lines.push(`⭐ Plan: ${planLabel}`, "");
   lines.push(subjectLines.length ? "*Last 7 days* (weakest first)\n```\n" + subjectLines.join("\n") + "\n```" : "_No answers in the last 7 days yet._");
   return api.sendMessage(s.telegram_id!, lines.join("\n"), { parse_mode: "Markdown", reply_markup: menuKb(s) });
 }
@@ -229,7 +244,9 @@ async function sendLeaderboard(api: Api, chatId: number, s?: Student, groupId?: 
 const medal = (rank: number) => (rank === 1 ? "🥇" : rank === 2 ? "🥈" : rank === 3 ? "🥉" : `${rank}.`);
 
 async function sendPremium(api: Api, s: Student) {
-  const premium = await isPremium(s);
+  const kind = await accessKind(s);
+  if (kind === "founder") return api.sendMessage(s.telegram_id!, "👑 You have founder access — everything is unlocked, permanently.");
+  const premium = kind === "paid" || kind === "seat";
   const t = getTrack(s.track);
   if (!t.plans.length) {
     return api.sendMessage(s.telegram_id!, `🎉 ${t.short} is completely free right now — unlimited drills and practice tests. Tell your friends: /invite`, { reply_markup: menuKb(s) });
@@ -242,7 +259,12 @@ async function sendPremium(api: Api, s: Student) {
       : [`• ${PREMIUM_DAILY_QUESTIONS} drill questions a day (free: ${FREE_DAILY_QUESTIONS})`, "• Unlimited practice CBT mocks (free: 1 a week)", "• Mock Night stays free for everyone", "", "Pay with card, transfer or USSD via Paystack. A parent can pay — just forward them the link."];
   return api.sendMessage(
     s.telegram_id!,
-    [premium && s.premium_until ? `⭐ You're Premium until ${formatWat(s.premium_until)}.\n` : "", "*Premium*", ...perks].join("\n"),
+    [
+      premium && s.premium_until ? `⭐ You're Premium until ${formatWat(s.premium_until)}.\n` : "",
+      kind === "trial" ? `🎁 You're on a free trial with everything unlocked — ${trialDaysLeft(s)} day(s) left. Upgrade any time to keep full access afterwards.\n` : "",
+      "*Premium*",
+      ...perks,
+    ].join("\n"),
     { parse_mode: "Markdown", reply_markup: kb },
   );
 }
@@ -351,6 +373,10 @@ function register(bot: Bot<Ctx>) {
     await updateStudent(ctx.student!.id, { parent_email: email.toLowerCase() });
     return ctx.reply(`✅ Weekly progress reports will go to ${email} every Sunday evening.`);
   });
+  bot.command("whoami", (ctx) =>
+    ctx.reply(`Your Telegram ID: \`${ctx.from?.id}\``, { parse_mode: "Markdown" }),
+  );
+
   bot.command("help", (ctx) =>
     ctx.reply(
       [
@@ -385,13 +411,15 @@ function register(bot: Bot<Ctx>) {
   bot.command("stats", (ctx) => (isPrivate(ctx) ? sendStats(ctx.api, ctx.student!) : undefined));
   bot.command("premium", (ctx) => (isPrivate(ctx) ? sendPremium(ctx.api, ctx.student!) : undefined));
   bot.command("mocknight", (ctx) => (isPrivate(ctx) ? sendMockNightInfo(ctx.api, ctx.student!) : undefined));
-  bot.command("cbt", (ctx) =>
-    isPrivate(ctx)
-      ? ctx.reply("Open a full timed practice test 👇", {
-          reply_markup: new InlineKeyboard().webApp("▶️ Start practice test", `${env.appUrl}/mock`),
-        })
-      : undefined,
-  );
+  bot.command("cbt", (ctx) => {
+    if (!isPrivate(ctx)) return;
+    const t = getTrack(ctx.student!.track);
+    const kb = new InlineKeyboard();
+    if (t.mockVariants?.length) t.mockVariants.forEach((v) => kb.webApp(`▶️ ${v.label}`, `${env.appUrl}/mock?variant=${v.key}`).row());
+    else kb.webApp("▶️ Start practice test", `${env.appUrl}/mock`);
+    const lines = t.mockVariants?.length ? ["Choose a practice test 👇", ...t.mockVariants.map((v) => `• *${v.label}* — ${v.note ?? ""}`)] : ["Open a full timed practice test 👇"];
+    return ctx.reply(lines.join("\n"), { parse_mode: "Markdown", reply_markup: kb });
+  });
 
   bot.command("leaderboard", async (ctx) => {
     if (isPrivate(ctx)) return sendLeaderboard(ctx.api, ctx.chat.id, ctx.student);

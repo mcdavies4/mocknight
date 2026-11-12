@@ -1,8 +1,8 @@
 import { db } from "./supabase";
-import { isPremium } from "./students";
+import { isFounder, isPremium } from "./students";
 import { getTrack } from "./tracks";
 import { subjectName } from "./subjects";
-import { AI_FREE_PER_DAY, AI_PREMIUM_PER_DAY } from "./pricing";
+import { AI_FREE_PER_DAY, AI_PREMIUM_PER_DAY, FOUNDER_AI_PER_DAY } from "./pricing";
 import type { Question, Student } from "./types";
 
 const LETTERS = ["A", "B", "C", "D", "E"];
@@ -34,7 +34,7 @@ export async function explain(student: Student, questionId: string): Promise<Exp
 
   if (!process.env.ANTHROPIC_API_KEY) return { ok: false, error: "DISABLED" };
 
-  const limit = (await isPremium(student)) ? AI_PREMIUM_PER_DAY : AI_FREE_PER_DAY;
+  const limit = isFounder(student) ? FOUNDER_AI_PER_DAY : (await isPremium(student)) ? AI_PREMIUM_PER_DAY : AI_FREE_PER_DAY;
   const since = new Date();
   since.setUTCHours(0, 0, 0, 0);
   const { count } = await db()
@@ -56,12 +56,12 @@ export async function explain(student: Student, questionId: string): Promise<Exp
 
 async function callModel(q: Question, chosen: number, student: Student): Promise<string | null> {
   const track = getTrack(student.track);
-  const audience =
-    track.kind === "school"
+  const audience = track.audience ??
+    (track.kind === "school"
       ? "a West African secondary school student preparing for JAMB/WAEC-style exams"
       : track.code === "LUK"
         ? "an adult preparing for the UK 'Life in the UK' citizenship test"
-        : "an adult worker learning workplace fire safety in the UK";
+        : "an adult worker learning workplace fire safety in the UK");
   const opts = q.options.map((o, i) => `${LETTERS[i]}. ${o}`).join("\n");
   const prompt = `You are a patient, encouraging tutor for ${audience}.
 
