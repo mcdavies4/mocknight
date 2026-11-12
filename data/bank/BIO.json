@@ -1,0 +1,4342 @@
+[
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "The main function of the mitochondrion is",
+  "options": [
+   "giving the plant cell shape and support",
+   "transporting materials within the cell",
+   "storing cell sap and keeping the cell turgid",
+   "release of energy by aerobic respiration"
+  ],
+  "answer": 3,
+  "explanation": "Mitochondrion: release of energy by aerobic respiration.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "The main function of the chloroplast is",
+  "options": [
+   "forming spindle fibres during animal cell division",
+   "photosynthesis",
+   "digesting worn-out parts with enzymes",
+   "packaging and secreting substances"
+  ],
+  "answer": 1,
+  "explanation": "Chloroplast: photosynthesis.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "The main function of the ribosome is",
+  "options": [
+   "protein synthesis",
+   "storing cell sap and keeping the cell turgid",
+   "transporting materials within the cell",
+   "digesting worn-out parts with enzymes"
+  ],
+  "answer": 0,
+  "explanation": "Ribosome: protein synthesis.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "The main function of the nucleus is",
+  "options": [
+   "removing excess water in Amoeba",
+   "controlling what enters and leaves the cell",
+   "storing cell sap and keeping the cell turgid",
+   "controlling the activities of the cell"
+  ],
+  "answer": 3,
+  "explanation": "Nucleus: controlling the activities of the cell.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "The main function of the cell membrane is",
+  "options": [
+   "forming spindle fibres during animal cell division",
+   "controlling what enters and leaves the cell",
+   "packaging and secreting substances",
+   "protein synthesis"
+  ],
+  "answer": 1,
+  "explanation": "Cell membrane: controlling what enters and leaves the cell.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "The main function of the cell wall is",
+  "options": [
+   "giving the plant cell shape and support",
+   "release of energy by aerobic respiration",
+   "removing excess water in Amoeba",
+   "controlling what enters and leaves the cell"
+  ],
+  "answer": 0,
+  "explanation": "Cell wall: giving the plant cell shape and support.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "The main function of the vacuole is",
+  "options": [
+   "giving the plant cell shape and support",
+   "forming spindle fibres during animal cell division",
+   "photosynthesis",
+   "storing cell sap and keeping the cell turgid"
+  ],
+  "answer": 3,
+  "explanation": "Vacuole: storing cell sap and keeping the cell turgid.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "The main function of the Golgi body is",
+  "options": [
+   "protein synthesis",
+   "packaging and secreting substances",
+   "digesting worn-out parts with enzymes",
+   "storing cell sap and keeping the cell turgid"
+  ],
+  "answer": 1,
+  "explanation": "Golgi body: packaging and secreting substances.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "The main function of the lysosome is",
+  "options": [
+   "photosynthesis",
+   "protein synthesis",
+   "digesting worn-out parts with enzymes",
+   "removing excess water in Amoeba"
+  ],
+  "answer": 2,
+  "explanation": "Lysosome: digesting worn-out parts with enzymes.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "The main function of the centriole is",
+  "options": [
+   "controlling what enters and leaves the cell",
+   "storing cell sap and keeping the cell turgid",
+   "forming spindle fibres during animal cell division",
+   "giving the plant cell shape and support"
+  ],
+  "answer": 2,
+  "explanation": "Centriole: forming spindle fibres during animal cell division.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "The main function of the endoplasmic reticulum is",
+  "options": [
+   "packaging and secreting substances",
+   "transporting materials within the cell",
+   "photosynthesis",
+   "forming spindle fibres during animal cell division"
+  ],
+  "answer": 1,
+  "explanation": "Endoplasmic reticulum: transporting materials within the cell.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "The main function of the contractile vacuole is",
+  "options": [
+   "photosynthesis",
+   "giving the plant cell shape and support",
+   "removing excess water in Amoeba",
+   "release of energy by aerobic respiration"
+  ],
+  "answer": 2,
+  "explanation": "Contractile vacuole: removing excess water in Amoeba.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "Which cell structure is responsible for release of energy by aerobic respiration?",
+  "options": [
+   "Chloroplast",
+   "Cell membrane",
+   "Mitochondrion",
+   "Centriole"
+  ],
+  "answer": 2,
+  "explanation": "Mitochondrion: release of energy by aerobic respiration.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "Which cell structure is responsible for photosynthesis?",
+  "options": [
+   "Golgi body",
+   "Chloroplast",
+   "Ribosome",
+   "Centriole"
+  ],
+  "answer": 1,
+  "explanation": "Chloroplast: photosynthesis.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "Which cell structure is responsible for protein synthesis?",
+  "options": [
+   "Ribosome",
+   "Golgi body",
+   "Mitochondrion",
+   "Lysosome"
+  ],
+  "answer": 0,
+  "explanation": "Ribosome: protein synthesis.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "Which cell structure is responsible for controlling the activities of the cell?",
+  "options": [
+   "Lysosome",
+   "Nucleus",
+   "Ribosome",
+   "Cell membrane"
+  ],
+  "answer": 1,
+  "explanation": "Nucleus: controlling the activities of the cell.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "Which cell structure is responsible for controlling what enters and leaves the cell?",
+  "options": [
+   "Ribosome",
+   "Lysosome",
+   "Chloroplast",
+   "Cell membrane"
+  ],
+  "answer": 3,
+  "explanation": "Cell membrane: controlling what enters and leaves the cell.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "Which cell structure is responsible for giving the plant cell shape and support?",
+  "options": [
+   "Cell wall",
+   "Mitochondrion",
+   "Endoplasmic reticulum",
+   "Cell membrane"
+  ],
+  "answer": 0,
+  "explanation": "Cell wall: giving the plant cell shape and support.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "Which cell structure is responsible for storing cell sap and keeping the cell turgid?",
+  "options": [
+   "Golgi body",
+   "Vacuole",
+   "Contractile vacuole",
+   "Cell wall"
+  ],
+  "answer": 1,
+  "explanation": "Vacuole: storing cell sap and keeping the cell turgid.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "Which cell structure is responsible for packaging and secreting substances?",
+  "options": [
+   "Lysosome",
+   "Contractile vacuole",
+   "Cell wall",
+   "Golgi body"
+  ],
+  "answer": 3,
+  "explanation": "Golgi body: packaging and secreting substances.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "Which cell structure is responsible for digesting worn-out parts with enzymes?",
+  "options": [
+   "Lysosome",
+   "Contractile vacuole",
+   "Cell membrane",
+   "Ribosome"
+  ],
+  "answer": 0,
+  "explanation": "Lysosome: digesting worn-out parts with enzymes.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "Which cell structure is responsible for forming spindle fibres during animal cell division?",
+  "options": [
+   "Endoplasmic reticulum",
+   "Centriole",
+   "Mitochondrion",
+   "Contractile vacuole"
+  ],
+  "answer": 1,
+  "explanation": "Centriole: forming spindle fibres during animal cell division.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "Which cell structure is responsible for transporting materials within the cell?",
+  "options": [
+   "Endoplasmic reticulum",
+   "Golgi body",
+   "Nucleus",
+   "Chloroplast"
+  ],
+  "answer": 0,
+  "explanation": "Endoplasmic reticulum: transporting materials within the cell.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Cell biology",
+  "body": "Which cell structure is responsible for removing excess water in Amoeba?",
+  "options": [
+   "Ribosome",
+   "Golgi body",
+   "Chloroplast",
+   "Contractile vacuole"
+  ],
+  "answer": 3,
+  "explanation": "Contractile vacuole: removing excess water in Amoeba.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Nutrition",
+  "body": "Deficiency of vitamin A in the diet causes",
+  "options": [
+   "rickets",
+   "anaemia",
+   "pernicious anaemia",
+   "night blindness"
+  ],
+  "answer": 3,
+  "explanation": "Lack of vitamin A → night blindness.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Nutrition",
+  "body": "Deficiency of vitamin B1 (thiamine) in the diet causes",
+  "options": [
+   "kwashiorkor",
+   "beriberi",
+   "poor blood clotting",
+   "night blindness"
+  ],
+  "answer": 1,
+  "explanation": "Lack of vitamin B1 (thiamine) → beriberi.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Nutrition",
+  "body": "Deficiency of vitamin B3 (niacin) in the diet causes",
+  "options": [
+   "scurvy",
+   "pellagra",
+   "poor blood clotting",
+   "pernicious anaemia"
+  ],
+  "answer": 1,
+  "explanation": "Lack of vitamin B3 (niacin) → pellagra.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Nutrition",
+  "body": "Deficiency of vitamin C in the diet causes",
+  "options": [
+   "pellagra",
+   "scurvy",
+   "pernicious anaemia",
+   "beriberi"
+  ],
+  "answer": 1,
+  "explanation": "Lack of vitamin C → scurvy.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Nutrition",
+  "body": "Deficiency of vitamin D in the diet causes",
+  "options": [
+   "pernicious anaemia",
+   "rickets",
+   "pellagra",
+   "scurvy"
+  ],
+  "answer": 1,
+  "explanation": "Lack of vitamin D → rickets.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Nutrition",
+  "body": "Deficiency of vitamin K in the diet causes",
+  "options": [
+   "poor blood clotting",
+   "goitre",
+   "pellagra",
+   "beriberi"
+  ],
+  "answer": 0,
+  "explanation": "Lack of vitamin K → poor blood clotting.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Nutrition",
+  "body": "Deficiency of vitamin B12 in the diet causes",
+  "options": [
+   "beriberi",
+   "pernicious anaemia",
+   "anaemia",
+   "pellagra"
+  ],
+  "answer": 1,
+  "explanation": "Lack of vitamin B12 → pernicious anaemia.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Nutrition",
+  "body": "Deficiency of iron in the diet causes",
+  "options": [
+   "poor blood clotting",
+   "anaemia",
+   "goitre",
+   "pernicious anaemia"
+  ],
+  "answer": 1,
+  "explanation": "Lack of iron → anaemia.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Nutrition",
+  "body": "Deficiency of iodine in the diet causes",
+  "options": [
+   "scurvy",
+   "poor blood clotting",
+   "kwashiorkor",
+   "goitre"
+  ],
+  "answer": 3,
+  "explanation": "Lack of iodine → goitre.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Nutrition",
+  "body": "Deficiency of protein in the diet causes",
+  "options": [
+   "kwashiorkor",
+   "scurvy",
+   "pernicious anaemia",
+   "night blindness"
+  ],
+  "answer": 0,
+  "explanation": "Lack of protein → kwashiorkor.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Nutrition",
+  "body": "Night blindness is caused by a deficiency of",
+  "options": [
+   "iron",
+   "vitamin B12",
+   "vitamin C",
+   "vitamin A"
+  ],
+  "answer": 3,
+  "explanation": "Night blindness results from lack of vitamin A.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Nutrition",
+  "body": "Beriberi is caused by a deficiency of",
+  "options": [
+   "protein",
+   "vitamin B1 (thiamine)",
+   "vitamin B12",
+   "vitamin K"
+  ],
+  "answer": 1,
+  "explanation": "Beriberi results from lack of vitamin B1 (thiamine).",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Nutrition",
+  "body": "Pellagra is caused by a deficiency of",
+  "options": [
+   "vitamin A",
+   "vitamin C",
+   "vitamin B3 (niacin)",
+   "vitamin D"
+  ],
+  "answer": 2,
+  "explanation": "Pellagra results from lack of vitamin B3 (niacin).",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Nutrition",
+  "body": "Scurvy is caused by a deficiency of",
+  "options": [
+   "vitamin C",
+   "iron",
+   "protein",
+   "vitamin K"
+  ],
+  "answer": 0,
+  "explanation": "Scurvy results from lack of vitamin C.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Nutrition",
+  "body": "Rickets is caused by a deficiency of",
+  "options": [
+   "vitamin D",
+   "vitamin B3 (niacin)",
+   "iodine",
+   "vitamin B12"
+  ],
+  "answer": 0,
+  "explanation": "Rickets results from lack of vitamin D.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Nutrition",
+  "body": "Poor blood clotting is caused by a deficiency of",
+  "options": [
+   "vitamin B12",
+   "vitamin K",
+   "protein",
+   "vitamin B1 (thiamine)"
+  ],
+  "answer": 1,
+  "explanation": "Poor blood clotting results from lack of vitamin K.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Nutrition",
+  "body": "Pernicious anaemia is caused by a deficiency of",
+  "options": [
+   "vitamin B3 (niacin)",
+   "vitamin D",
+   "vitamin B12",
+   "iodine"
+  ],
+  "answer": 2,
+  "explanation": "Pernicious anaemia results from lack of vitamin B12.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Nutrition",
+  "body": "Anaemia is caused by a deficiency of",
+  "options": [
+   "vitamin D",
+   "vitamin B12",
+   "iron",
+   "vitamin B1 (thiamine)"
+  ],
+  "answer": 2,
+  "explanation": "Anaemia results from lack of iron.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Nutrition",
+  "body": "Goitre is caused by a deficiency of",
+  "options": [
+   "vitamin K",
+   "vitamin B3 (niacin)",
+   "vitamin C",
+   "iodine"
+  ],
+  "answer": 3,
+  "explanation": "Goitre results from lack of iodine.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Nutrition",
+  "body": "Kwashiorkor is caused by a deficiency of",
+  "options": [
+   "vitamin D",
+   "protein",
+   "vitamin B3 (niacin)",
+   "iron"
+  ],
+  "answer": 1,
+  "explanation": "Kwashiorkor results from lack of protein.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Hormones",
+  "body": "Insulin is secreted by the",
+  "options": [
+   "ovary",
+   "pancreas",
+   "pituitary gland",
+   "adrenal gland"
+  ],
+  "answer": 1,
+  "explanation": "Insulin comes from the pancreas.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Hormones",
+  "body": "Glucagon is secreted by the",
+  "options": [
+   "ovary (corpus luteum)",
+   "ovary",
+   "pancreas",
+   "adrenal gland"
+  ],
+  "answer": 2,
+  "explanation": "Glucagon comes from the pancreas.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Hormones",
+  "body": "Adrenaline is secreted by the",
+  "options": [
+   "thyroid gland",
+   "ovary",
+   "adrenal gland",
+   "testis"
+  ],
+  "answer": 2,
+  "explanation": "Adrenaline comes from the adrenal gland.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Hormones",
+  "body": "Thyroxine is secreted by the",
+  "options": [
+   "thyroid gland",
+   "pancreas",
+   "pituitary gland",
+   "ovary (corpus luteum)"
+  ],
+  "answer": 0,
+  "explanation": "Thyroxine comes from the thyroid gland.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Hormones",
+  "body": "Antidiuretic hormone (ADH) is secreted by the",
+  "options": [
+   "adrenal gland",
+   "pancreas",
+   "ovary",
+   "pituitary gland"
+  ],
+  "answer": 3,
+  "explanation": "Antidiuretic hormone (ADH) comes from the pituitary gland.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Hormones",
+  "body": "Growth hormone is secreted by the",
+  "options": [
+   "pituitary gland",
+   "adrenal gland",
+   "ovary (corpus luteum)",
+   "pancreas"
+  ],
+  "answer": 0,
+  "explanation": "Growth hormone comes from the pituitary gland.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Hormones",
+  "body": "Oestrogen is secreted by the",
+  "options": [
+   "ovary",
+   "testis",
+   "adrenal gland",
+   "thyroid gland"
+  ],
+  "answer": 0,
+  "explanation": "Oestrogen comes from the ovary.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Hormones",
+  "body": "Testosterone is secreted by the",
+  "options": [
+   "ovary (corpus luteum)",
+   "testis",
+   "pancreas",
+   "ovary"
+  ],
+  "answer": 1,
+  "explanation": "Testosterone comes from the testis.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Hormones",
+  "body": "Progesterone is secreted by the",
+  "options": [
+   "ovary (corpus luteum)",
+   "thyroid gland",
+   "adrenal gland",
+   "pancreas"
+  ],
+  "answer": 0,
+  "explanation": "Progesterone comes from the ovary (corpus luteum).",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Hormones",
+  "body": "Follicle-stimulating hormone (FSH) is secreted by the",
+  "options": [
+   "pituitary gland",
+   "ovary (corpus luteum)",
+   "pancreas",
+   "testis"
+  ],
+  "answer": 0,
+  "explanation": "Follicle-stimulating hormone (FSH) comes from the pituitary gland.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Hormones",
+  "body": "The function of insulin is that it",
+  "options": [
+   "increases water reabsorption in the kidney",
+   "stimulates the development of follicles in the ovary",
+   "lowers blood glucose level",
+   "controls the rate of metabolism"
+  ],
+  "answer": 2,
+  "explanation": "Insulin lowers blood glucose level.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Hormones",
+  "body": "The function of glucagon is that it",
+  "options": [
+   "lowers blood glucose level",
+   "promotes growth of the body",
+   "raises blood glucose level",
+   "prepares the body for 'fight or flight'"
+  ],
+  "answer": 2,
+  "explanation": "Glucagon raises blood glucose level.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Hormones",
+  "body": "The function of adrenaline is that it",
+  "options": [
+   "maintains the lining of the uterus during pregnancy",
+   "develops female secondary sexual characteristics",
+   "develops male secondary sexual characteristics",
+   "prepares the body for 'fight or flight'"
+  ],
+  "answer": 3,
+  "explanation": "Adrenaline prepares the body for 'fight or flight'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Hormones",
+  "body": "The function of thyroxine is that it",
+  "options": [
+   "develops female secondary sexual characteristics",
+   "prepares the body for 'fight or flight'",
+   "increases water reabsorption in the kidney",
+   "controls the rate of metabolism"
+  ],
+  "answer": 3,
+  "explanation": "Thyroxine controls the rate of metabolism.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Hormones",
+  "body": "The function of antidiuretic hormone (ADH) is that it",
+  "options": [
+   "increases water reabsorption in the kidney",
+   "stimulates the development of follicles in the ovary",
+   "controls the rate of metabolism",
+   "develops female secondary sexual characteristics"
+  ],
+  "answer": 0,
+  "explanation": "Antidiuretic hormone (ADH) increases water reabsorption in the kidney.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Hormones",
+  "body": "The function of growth hormone is that it",
+  "options": [
+   "develops male secondary sexual characteristics",
+   "promotes growth of the body",
+   "develops female secondary sexual characteristics",
+   "increases water reabsorption in the kidney"
+  ],
+  "answer": 1,
+  "explanation": "Growth hormone promotes growth of the body.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Hormones",
+  "body": "The function of oestrogen is that it",
+  "options": [
+   "lowers blood glucose level",
+   "develops female secondary sexual characteristics",
+   "raises blood glucose level",
+   "develops male secondary sexual characteristics"
+  ],
+  "answer": 1,
+  "explanation": "Oestrogen develops female secondary sexual characteristics.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Hormones",
+  "body": "The function of testosterone is that it",
+  "options": [
+   "lowers blood glucose level",
+   "develops male secondary sexual characteristics",
+   "raises blood glucose level",
+   "controls the rate of metabolism"
+  ],
+  "answer": 1,
+  "explanation": "Testosterone develops male secondary sexual characteristics.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Hormones",
+  "body": "The function of progesterone is that it",
+  "options": [
+   "maintains the lining of the uterus during pregnancy",
+   "develops female secondary sexual characteristics",
+   "increases water reabsorption in the kidney",
+   "controls the rate of metabolism"
+  ],
+  "answer": 0,
+  "explanation": "Progesterone maintains the lining of the uterus during pregnancy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Hormones",
+  "body": "The function of follicle-stimulating hormone (FSH) is that it",
+  "options": [
+   "controls the rate of metabolism",
+   "stimulates the development of follicles in the ovary",
+   "maintains the lining of the uterus during pregnancy",
+   "raises blood glucose level"
+  ],
+  "answer": 1,
+  "explanation": "Follicle-stimulating hormone (FSH) stimulates the development of follicles in the ovary.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "Malaria is caused by a",
+  "options": [
+   "protozoan",
+   "bacterium",
+   "virus",
+   "fungus"
+  ],
+  "answer": 0,
+  "explanation": "Malaria is caused by Plasmodium, a protozoan.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "Cholera is caused by a",
+  "options": [
+   "bacterium",
+   "protozoan",
+   "fungus",
+   "virus"
+  ],
+  "answer": 0,
+  "explanation": "Cholera is caused by Vibrio cholerae, a bacterium.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "Tuberculosis is caused by a",
+  "options": [
+   "protozoan",
+   "bacterium",
+   "virus",
+   "fungus"
+  ],
+  "answer": 1,
+  "explanation": "Tuberculosis is caused by Mycobacterium tuberculosis, a bacterium.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "Typhoid fever is caused by a",
+  "options": [
+   "virus",
+   "protozoan",
+   "fungus",
+   "bacterium"
+  ],
+  "answer": 3,
+  "explanation": "Typhoid fever is caused by Salmonella typhi, a bacterium.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "Gonorrhoea is caused by a",
+  "options": [
+   "fungus",
+   "virus",
+   "protozoan",
+   "bacterium"
+  ],
+  "answer": 3,
+  "explanation": "Gonorrhoea is caused by Neisseria gonorrhoeae, a bacterium.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "Syphilis is caused by a",
+  "options": [
+   "fungus",
+   "protozoan",
+   "bacterium",
+   "virus"
+  ],
+  "answer": 2,
+  "explanation": "Syphilis is caused by Treponema pallidum, a bacterium.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "AIDS is caused by a",
+  "options": [
+   "bacterium",
+   "virus",
+   "protozoan",
+   "fungus"
+  ],
+  "answer": 1,
+  "explanation": "AIDS is caused by HIV, a virus.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "Measles is caused by a",
+  "options": [
+   "virus",
+   "protozoan",
+   "fungus",
+   "bacterium"
+  ],
+  "answer": 0,
+  "explanation": "Measles is caused by measles virus, a virus.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "Poliomyelitis is caused by a",
+  "options": [
+   "virus",
+   "fungus",
+   "protozoan",
+   "bacterium"
+  ],
+  "answer": 0,
+  "explanation": "Poliomyelitis is caused by poliovirus, a virus.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "Yellow fever is caused by a",
+  "options": [
+   "fungus",
+   "bacterium",
+   "virus",
+   "protozoan"
+  ],
+  "answer": 2,
+  "explanation": "Yellow fever is caused by yellow fever virus, a virus.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "Ringworm is caused by a",
+  "options": [
+   "protozoan",
+   "fungus",
+   "bacterium",
+   "virus"
+  ],
+  "answer": 1,
+  "explanation": "Ringworm is caused by Trichophyton, a fungus.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "Sleeping sickness is caused by a",
+  "options": [
+   "bacterium",
+   "virus",
+   "fungus",
+   "protozoan"
+  ],
+  "answer": 3,
+  "explanation": "Sleeping sickness is caused by Trypanosoma, a protozoan.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "River blindness is caused by a",
+  "options": [
+   "protozoan",
+   "virus",
+   "bacterium",
+   "nematode (roundworm)"
+  ],
+  "answer": 3,
+  "explanation": "River blindness is caused by Onchocerca volvulus, a nematode (roundworm).",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "Elephantiasis is caused by a",
+  "options": [
+   "protozoan",
+   "bacterium",
+   "nematode (roundworm)",
+   "virus"
+  ],
+  "answer": 2,
+  "explanation": "Elephantiasis is caused by Wuchereria bancrofti, a nematode (roundworm).",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "Amoebic dysentery is caused by a",
+  "options": [
+   "protozoan",
+   "fungus",
+   "virus",
+   "bacterium"
+  ],
+  "answer": 0,
+  "explanation": "Amoebic dysentery is caused by Entamoeba histolytica, a protozoan.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "Lassa fever is caused by a",
+  "options": [
+   "virus",
+   "protozoan",
+   "bacterium",
+   "fungus"
+  ],
+  "answer": 0,
+  "explanation": "Lassa fever is caused by Lassa virus, a virus.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "Tetanus is caused by a",
+  "options": [
+   "fungus",
+   "bacterium",
+   "protozoan",
+   "virus"
+  ],
+  "answer": 1,
+  "explanation": "Tetanus is caused by Clostridium tetani, a bacterium.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The causative organism of malaria is",
+  "options": [
+   "Plasmodium",
+   "yellow fever virus",
+   "Neisseria gonorrhoeae",
+   "HIV"
+  ],
+  "answer": 0,
+  "explanation": "Malaria is caused by Plasmodium.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The causative organism of cholera is",
+  "options": [
+   "Onchocerca volvulus",
+   "yellow fever virus",
+   "Trypanosoma",
+   "Vibrio cholerae"
+  ],
+  "answer": 3,
+  "explanation": "Cholera is caused by Vibrio cholerae.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The causative organism of tuberculosis is",
+  "options": [
+   "Mycobacterium tuberculosis",
+   "HIV",
+   "Neisseria gonorrhoeae",
+   "Plasmodium"
+  ],
+  "answer": 0,
+  "explanation": "Tuberculosis is caused by Mycobacterium tuberculosis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The causative organism of typhoid fever is",
+  "options": [
+   "Plasmodium",
+   "Salmonella typhi",
+   "Mycobacterium tuberculosis",
+   "Clostridium tetani"
+  ],
+  "answer": 1,
+  "explanation": "Typhoid fever is caused by Salmonella typhi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The causative organism of gonorrhoea is",
+  "options": [
+   "Lassa virus",
+   "Mycobacterium tuberculosis",
+   "Neisseria gonorrhoeae",
+   "Clostridium tetani"
+  ],
+  "answer": 2,
+  "explanation": "Gonorrhoea is caused by Neisseria gonorrhoeae.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The causative organism of syphilis is",
+  "options": [
+   "Lassa virus",
+   "Trypanosoma",
+   "Treponema pallidum",
+   "Clostridium tetani"
+  ],
+  "answer": 2,
+  "explanation": "Syphilis is caused by Treponema pallidum.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The causative organism of AIDS is",
+  "options": [
+   "HIV",
+   "yellow fever virus",
+   "Neisseria gonorrhoeae",
+   "Onchocerca volvulus"
+  ],
+  "answer": 0,
+  "explanation": "AIDS is caused by HIV.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The causative organism of measles is",
+  "options": [
+   "poliovirus",
+   "measles virus",
+   "Mycobacterium tuberculosis",
+   "Wuchereria bancrofti"
+  ],
+  "answer": 1,
+  "explanation": "Measles is caused by measles virus.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The causative organism of poliomyelitis is",
+  "options": [
+   "poliovirus",
+   "Vibrio cholerae",
+   "Lassa virus",
+   "Onchocerca volvulus"
+  ],
+  "answer": 0,
+  "explanation": "Poliomyelitis is caused by poliovirus.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The causative organism of yellow fever is",
+  "options": [
+   "poliovirus",
+   "yellow fever virus",
+   "Vibrio cholerae",
+   "Salmonella typhi"
+  ],
+  "answer": 1,
+  "explanation": "Yellow fever is caused by yellow fever virus.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The causative organism of ringworm is",
+  "options": [
+   "Mycobacterium tuberculosis",
+   "Wuchereria bancrofti",
+   "Trypanosoma",
+   "Trichophyton"
+  ],
+  "answer": 3,
+  "explanation": "Ringworm is caused by Trichophyton.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The causative organism of sleeping sickness is",
+  "options": [
+   "yellow fever virus",
+   "Clostridium tetani",
+   "Trichophyton",
+   "Trypanosoma"
+  ],
+  "answer": 3,
+  "explanation": "Sleeping sickness is caused by Trypanosoma.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The causative organism of river blindness is",
+  "options": [
+   "Trichophyton",
+   "Onchocerca volvulus",
+   "Plasmodium",
+   "Mycobacterium tuberculosis"
+  ],
+  "answer": 1,
+  "explanation": "River blindness is caused by Onchocerca volvulus.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The causative organism of elephantiasis is",
+  "options": [
+   "Salmonella typhi",
+   "measles virus",
+   "Wuchereria bancrofti",
+   "HIV"
+  ],
+  "answer": 2,
+  "explanation": "Elephantiasis is caused by Wuchereria bancrofti.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The causative organism of amoebic dysentery is",
+  "options": [
+   "Mycobacterium tuberculosis",
+   "Onchocerca volvulus",
+   "measles virus",
+   "Entamoeba histolytica"
+  ],
+  "answer": 3,
+  "explanation": "Amoebic dysentery is caused by Entamoeba histolytica.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The causative organism of Lassa fever is",
+  "options": [
+   "Mycobacterium tuberculosis",
+   "Treponema pallidum",
+   "Lassa virus",
+   "Clostridium tetani"
+  ],
+  "answer": 2,
+  "explanation": "Lassa fever is caused by Lassa virus.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The causative organism of tetanus is",
+  "options": [
+   "poliovirus",
+   "Clostridium tetani",
+   "Wuchereria bancrofti",
+   "measles virus"
+  ],
+  "answer": 1,
+  "explanation": "Tetanus is caused by Clostridium tetani.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The vector of malaria is the",
+  "options": [
+   "Aedes mosquito",
+   "female Anopheles mosquito",
+   "blackfly (Simulium)",
+   "tsetse fly"
+  ],
+  "answer": 1,
+  "explanation": "Malaria is transmitted by the female Anopheles mosquito.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The vector of yellow fever is the",
+  "options": [
+   "Aedes mosquito",
+   "female Anopheles mosquito",
+   "blackfly (Simulium)",
+   "tsetse fly"
+  ],
+  "answer": 0,
+  "explanation": "Yellow fever is transmitted by the Aedes mosquito.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The vector of sleeping sickness is the",
+  "options": [
+   "female Anopheles mosquito",
+   "blackfly (Simulium)",
+   "Aedes mosquito",
+   "tsetse fly"
+  ],
+  "answer": 3,
+  "explanation": "Sleeping sickness is transmitted by the tsetse fly.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The vector of river blindness is the",
+  "options": [
+   "Aedes mosquito",
+   "female Anopheles mosquito",
+   "blackfly (Simulium)",
+   "tsetse fly"
+  ],
+  "answer": 2,
+  "explanation": "River blindness is transmitted by the blackfly (Simulium).",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Diseases",
+  "body": "The vector of elephantiasis is the",
+  "options": [
+   "female Anopheles mosquito",
+   "Aedes mosquito",
+   "tsetse fly",
+   "Culex mosquito"
+  ],
+  "answer": 3,
+  "explanation": "Elephantiasis is transmitted by the Culex mosquito.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A frog belongs to the class",
+  "options": [
+   "Reptilia",
+   "Pisces (fish)",
+   "Amphibia",
+   "Mammalia"
+  ],
+  "answer": 2,
+  "explanation": "The frog is in Amphibia.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A toad belongs to the class",
+  "options": [
+   "Mammalia",
+   "Amphibia",
+   "Reptilia",
+   "Pisces (fish)"
+  ],
+  "answer": 1,
+  "explanation": "The toad is in Amphibia.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A lizard belongs to the class",
+  "options": [
+   "Amphibia",
+   "Pisces (fish)",
+   "Reptilia",
+   "Mammalia"
+  ],
+  "answer": 2,
+  "explanation": "The lizard is in Reptilia.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A snake belongs to the class",
+  "options": [
+   "Mammalia",
+   "Pisces (fish)",
+   "Amphibia",
+   "Reptilia"
+  ],
+  "answer": 3,
+  "explanation": "The snake is in Reptilia.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A crocodile belongs to the class",
+  "options": [
+   "Reptilia",
+   "Mammalia",
+   "Amphibia",
+   "Pisces (fish)"
+  ],
+  "answer": 0,
+  "explanation": "The crocodile is in Reptilia.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A tortoise belongs to the class",
+  "options": [
+   "Amphibia",
+   "Pisces (fish)",
+   "Mammalia",
+   "Reptilia"
+  ],
+  "answer": 3,
+  "explanation": "The tortoise is in Reptilia.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A bat belongs to the class",
+  "options": [
+   "Amphibia",
+   "Mammalia",
+   "Pisces (fish)",
+   "Reptilia"
+  ],
+  "answer": 1,
+  "explanation": "The bat is in Mammalia.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A whale belongs to the class",
+  "options": [
+   "Reptilia",
+   "Pisces (fish)",
+   "Mammalia",
+   "Amphibia"
+  ],
+  "answer": 2,
+  "explanation": "The whale is in Mammalia.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A dolphin belongs to the class",
+  "options": [
+   "Mammalia",
+   "Amphibia",
+   "Pisces (fish)",
+   "Reptilia"
+  ],
+  "answer": 0,
+  "explanation": "The dolphin is in Mammalia.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A rabbit belongs to the class",
+  "options": [
+   "Amphibia",
+   "Pisces (fish)",
+   "Reptilia",
+   "Mammalia"
+  ],
+  "answer": 3,
+  "explanation": "The rabbit is in Mammalia.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A shark belongs to the class",
+  "options": [
+   "Mammalia",
+   "Pisces (fish)",
+   "Amphibia",
+   "Reptilia"
+  ],
+  "answer": 1,
+  "explanation": "The shark is in Pisces (fish).",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A tilapia belongs to the class",
+  "options": [
+   "Amphibia",
+   "Mammalia",
+   "Pisces (fish)",
+   "Reptilia"
+  ],
+  "answer": 2,
+  "explanation": "The tilapia is in Pisces (fish).",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A catfish belongs to the class",
+  "options": [
+   "Reptilia",
+   "Amphibia",
+   "Pisces (fish)",
+   "Mammalia"
+  ],
+  "answer": 2,
+  "explanation": "The catfish is in Pisces (fish).",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A penguin belongs to the class",
+  "options": [
+   "Amphibia",
+   "Aves (birds)",
+   "Reptilia",
+   "Mammalia"
+  ],
+  "answer": 1,
+  "explanation": "The penguin is in Aves (birds).",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "An ostrich belongs to the class",
+  "options": [
+   "Reptilia",
+   "Amphibia",
+   "Mammalia",
+   "Aves (birds)"
+  ],
+  "answer": 3,
+  "explanation": "The ostrich is in Aves (birds).",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "An eagle belongs to the class",
+  "options": [
+   "Reptilia",
+   "Amphibia",
+   "Aves (birds)",
+   "Mammalia"
+  ],
+  "answer": 2,
+  "explanation": "The eagle is in Aves (birds).",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A housefly belongs to the class",
+  "options": [
+   "Amphibia",
+   "Insecta",
+   "Reptilia",
+   "Mammalia"
+  ],
+  "answer": 1,
+  "explanation": "The housefly is in Insecta.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A grasshopper belongs to the class",
+  "options": [
+   "Reptilia",
+   "Insecta",
+   "Mammalia",
+   "Amphibia"
+  ],
+  "answer": 1,
+  "explanation": "The grasshopper is in Insecta.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A butterfly belongs to the class",
+  "options": [
+   "Amphibia",
+   "Reptilia",
+   "Mammalia",
+   "Insecta"
+  ],
+  "answer": 3,
+  "explanation": "The butterfly is in Insecta.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A cockroach belongs to the class",
+  "options": [
+   "Mammalia",
+   "Amphibia",
+   "Insecta",
+   "Reptilia"
+  ],
+  "answer": 2,
+  "explanation": "The cockroach is in Insecta.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A spider belongs to the class",
+  "options": [
+   "Amphibia",
+   "Reptilia",
+   "Arachnida",
+   "Mammalia"
+  ],
+  "answer": 2,
+  "explanation": "The spider is in Arachnida.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A scorpion belongs to the class",
+  "options": [
+   "Reptilia",
+   "Arachnida",
+   "Mammalia",
+   "Amphibia"
+  ],
+  "answer": 1,
+  "explanation": "The scorpion is in Arachnida.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A tick belongs to the class",
+  "options": [
+   "Amphibia",
+   "Mammalia",
+   "Reptilia",
+   "Arachnida"
+  ],
+  "answer": 3,
+  "explanation": "The tick is in Arachnida.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A crab belongs to the class",
+  "options": [
+   "Reptilia",
+   "Mammalia",
+   "Amphibia",
+   "Crustacea"
+  ],
+  "answer": 3,
+  "explanation": "The crab is in Crustacea.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "A prawn belongs to the class",
+  "options": [
+   "Reptilia",
+   "Crustacea",
+   "Mammalia",
+   "Amphibia"
+  ],
+  "answer": 1,
+  "explanation": "The prawn is in Crustacea.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "The maize plant is a",
+  "options": [
+   "dicotyledon",
+   "pteridophyte",
+   "gymnosperm",
+   "monocotyledon"
+  ],
+  "answer": 3,
+  "explanation": "Maize has one seed leaf, parallel veins and fibrous roots.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "The rice plant is a",
+  "options": [
+   "dicotyledon",
+   "gymnosperm",
+   "pteridophyte",
+   "monocotyledon"
+  ],
+  "answer": 3,
+  "explanation": "Rice has one seed leaf, parallel veins and fibrous roots.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "The millet plant is a",
+  "options": [
+   "pteridophyte",
+   "dicotyledon",
+   "monocotyledon",
+   "gymnosperm"
+  ],
+  "answer": 2,
+  "explanation": "Millet has one seed leaf, parallel veins and fibrous roots.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "The sorghum plant is a",
+  "options": [
+   "gymnosperm",
+   "dicotyledon",
+   "monocotyledon",
+   "pteridophyte"
+  ],
+  "answer": 2,
+  "explanation": "Sorghum has one seed leaf, parallel veins and fibrous roots.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "The oil palm plant is a",
+  "options": [
+   "pteridophyte",
+   "monocotyledon",
+   "gymnosperm",
+   "dicotyledon"
+  ],
+  "answer": 1,
+  "explanation": "Oil palm has one seed leaf, parallel veins and fibrous roots.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "The onion plant is a",
+  "options": [
+   "dicotyledon",
+   "gymnosperm",
+   "pteridophyte",
+   "monocotyledon"
+  ],
+  "answer": 3,
+  "explanation": "Onion has one seed leaf, parallel veins and fibrous roots.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "The sugar cane plant is a",
+  "options": [
+   "monocotyledon",
+   "gymnosperm",
+   "pteridophyte",
+   "dicotyledon"
+  ],
+  "answer": 0,
+  "explanation": "Sugar cane has one seed leaf, parallel veins and fibrous roots.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "The coconut palm plant is a",
+  "options": [
+   "gymnosperm",
+   "dicotyledon",
+   "pteridophyte",
+   "monocotyledon"
+  ],
+  "answer": 3,
+  "explanation": "Coconut palm has one seed leaf, parallel veins and fibrous roots.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "The bean plant is a",
+  "options": [
+   "monocotyledon",
+   "dicotyledon",
+   "gymnosperm",
+   "bryophyte"
+  ],
+  "answer": 1,
+  "explanation": "Bean has two seed leaves and net (reticulate) veins.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "The cowpea plant is a",
+  "options": [
+   "dicotyledon",
+   "bryophyte",
+   "gymnosperm",
+   "monocotyledon"
+  ],
+  "answer": 0,
+  "explanation": "Cowpea has two seed leaves and net (reticulate) veins.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "The groundnut plant is a",
+  "options": [
+   "bryophyte",
+   "gymnosperm",
+   "dicotyledon",
+   "monocotyledon"
+  ],
+  "answer": 2,
+  "explanation": "Groundnut has two seed leaves and net (reticulate) veins.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "The hibiscus plant is a",
+  "options": [
+   "dicotyledon",
+   "gymnosperm",
+   "monocotyledon",
+   "bryophyte"
+  ],
+  "answer": 0,
+  "explanation": "Hibiscus has two seed leaves and net (reticulate) veins.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "The mango plant is a",
+  "options": [
+   "dicotyledon",
+   "gymnosperm",
+   "bryophyte",
+   "monocotyledon"
+  ],
+  "answer": 0,
+  "explanation": "Mango has two seed leaves and net (reticulate) veins.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "The orange plant is a",
+  "options": [
+   "monocotyledon",
+   "gymnosperm",
+   "dicotyledon",
+   "bryophyte"
+  ],
+  "answer": 2,
+  "explanation": "Orange has two seed leaves and net (reticulate) veins.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "The cassava plant is a",
+  "options": [
+   "bryophyte",
+   "gymnosperm",
+   "dicotyledon",
+   "monocotyledon"
+  ],
+  "answer": 2,
+  "explanation": "Cassava has two seed leaves and net (reticulate) veins.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Classification",
+  "body": "The pawpaw plant is a",
+  "options": [
+   "gymnosperm",
+   "bryophyte",
+   "dicotyledon",
+   "monocotyledon"
+  ],
+  "answer": 2,
+  "explanation": "Pawpaw has two seed leaves and net (reticulate) veins.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Digestion",
+  "body": "The enzyme salivary amylase (ptyalin) acts on",
+  "options": [
+   "milk protein (caseinogen)",
+   "starch",
+   "maltose",
+   "proteins"
+  ],
+  "answer": 1,
+  "explanation": "Salivary amylase (ptyalin) breaks down starch into maltose in the mouth.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Digestion",
+  "body": "The enzyme pepsin acts on",
+  "options": [
+   "proteins",
+   "fats and oils",
+   "lactose",
+   "maltose"
+  ],
+  "answer": 0,
+  "explanation": "Pepsin breaks down proteins into peptides (polypeptides) in the stomach.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Digestion",
+  "body": "The enzyme rennin acts on",
+  "options": [
+   "milk protein (caseinogen)",
+   "sucrose",
+   "fats and oils",
+   "starch"
+  ],
+  "answer": 0,
+  "explanation": "Rennin breaks down milk protein (caseinogen) into curdled milk (casein) in the stomach.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Digestion",
+  "body": "The enzyme trypsin acts on",
+  "options": [
+   "lactose",
+   "maltose",
+   "proteins",
+   "milk protein (caseinogen)"
+  ],
+  "answer": 2,
+  "explanation": "Trypsin breaks down proteins into peptides in the duodenum (from pancreas).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Digestion",
+  "body": "The enzyme lipase acts on",
+  "options": [
+   "fats and oils",
+   "sucrose",
+   "maltose",
+   "proteins"
+  ],
+  "answer": 0,
+  "explanation": "Lipase breaks down fats and oils into fatty acids and glycerol in the duodenum (from pancreas).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Digestion",
+  "body": "The enzyme maltase acts on",
+  "options": [
+   "sucrose",
+   "proteins",
+   "maltose",
+   "fats and oils"
+  ],
+  "answer": 2,
+  "explanation": "Maltase breaks down maltose into glucose in the ileum.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Digestion",
+  "body": "The enzyme sucrase acts on",
+  "options": [
+   "maltose",
+   "sucrose",
+   "proteins",
+   "starch"
+  ],
+  "answer": 1,
+  "explanation": "Sucrase breaks down sucrose into glucose and fructose in the ileum.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Digestion",
+  "body": "The enzyme lactase acts on",
+  "options": [
+   "milk protein (caseinogen)",
+   "lactose",
+   "proteins",
+   "starch"
+  ],
+  "answer": 1,
+  "explanation": "Lactase breaks down lactose into glucose and galactose in the ileum.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Digestion",
+  "body": "The product of the action of salivary amylase (ptyalin) on starch is",
+  "options": [
+   "glucose and galactose",
+   "maltose",
+   "peptides",
+   "fatty acids and glycerol"
+  ],
+  "answer": 1,
+  "explanation": "Salivary amylase (ptyalin): starch → maltose.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Digestion",
+  "body": "The product of the action of pepsin on proteins is",
+  "options": [
+   "fatty acids and glycerol",
+   "peptides (polypeptides)",
+   "glucose and fructose",
+   "glucose and galactose"
+  ],
+  "answer": 1,
+  "explanation": "Pepsin: proteins → peptides (polypeptides).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Digestion",
+  "body": "The product of the action of rennin on milk protein (caseinogen) is",
+  "options": [
+   "glucose and fructose",
+   "glucose",
+   "curdled milk (casein)",
+   "glucose and galactose"
+  ],
+  "answer": 2,
+  "explanation": "Rennin: milk protein (caseinogen) → curdled milk (casein).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Digestion",
+  "body": "The product of the action of trypsin on proteins is",
+  "options": [
+   "peptides",
+   "curdled milk (casein)",
+   "maltose",
+   "glucose"
+  ],
+  "answer": 0,
+  "explanation": "Trypsin: proteins → peptides.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Digestion",
+  "body": "The product of the action of lipase on fats and oils is",
+  "options": [
+   "peptides",
+   "fatty acids and glycerol",
+   "glucose",
+   "curdled milk (casein)"
+  ],
+  "answer": 1,
+  "explanation": "Lipase: fats and oils → fatty acids and glycerol.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Digestion",
+  "body": "The product of the action of maltase on maltose is",
+  "options": [
+   "fatty acids and glycerol",
+   "glucose and galactose",
+   "maltose",
+   "glucose"
+  ],
+  "answer": 3,
+  "explanation": "Maltase: maltose → glucose.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Digestion",
+  "body": "The product of the action of sucrase on sucrose is",
+  "options": [
+   "curdled milk (casein)",
+   "peptides",
+   "glucose and fructose",
+   "maltose"
+  ],
+  "answer": 2,
+  "explanation": "Sucrase: sucrose → glucose and fructose.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Digestion",
+  "body": "The product of the action of lactase on lactose is",
+  "options": [
+   "maltose",
+   "glucose and fructose",
+   "glucose and galactose",
+   "curdled milk (casein)"
+  ],
+  "answer": 2,
+  "explanation": "Lactase: lactose → glucose and galactose.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Food tests",
+  "body": "Which reagent is used to test for starch?",
+  "options": [
+   "Biuret test (sodium hydroxide + copper(II) tetraoxosulphate(VI))",
+   "iodine solution",
+   "Sudan III",
+   "Benedict's (or Fehling's) solution, heated"
+  ],
+  "answer": 1,
+  "explanation": "Starch: iodine solution → blue-black colour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Food tests",
+  "body": "Which reagent is used to test for reducing sugar?",
+  "options": [
+   "Benedict's (or Fehling's) solution, heated",
+   "Sudan III",
+   "Biuret test (sodium hydroxide + copper(II) tetraoxosulphate(VI))",
+   "iodine solution"
+  ],
+  "answer": 0,
+  "explanation": "Reducing sugar: Benedict's (or Fehling's) solution, heated → brick-red precipitate.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Food tests",
+  "body": "Which reagent is used to test for protein?",
+  "options": [
+   "Sudan III",
+   "Biuret test (sodium hydroxide + copper(II) tetraoxosulphate(VI))",
+   "Benedict's (or Fehling's) solution, heated",
+   "iodine solution"
+  ],
+  "answer": 1,
+  "explanation": "Protein: Biuret test (sodium hydroxide + copper(II) tetraoxosulphate(VI)) → purple (violet) colour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Food tests",
+  "body": "Which reagent is used to test for fats and oils?",
+  "options": [
+   "Benedict's (or Fehling's) solution, heated",
+   "iodine solution",
+   "Sudan III",
+   "Biuret test (sodium hydroxide + copper(II) tetraoxosulphate(VI))"
+  ],
+  "answer": 2,
+  "explanation": "Fats and oils: Sudan III → red-stained layer.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Food tests",
+  "body": "A positive test for starch gives",
+  "options": [
+   "blue-black colour",
+   "red-stained layer",
+   "purple (violet) colour",
+   "brick-red precipitate"
+  ],
+  "answer": 0,
+  "explanation": "Starch: iodine solution → blue-black colour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Food tests",
+  "body": "A positive test for reducing sugar gives",
+  "options": [
+   "red-stained layer",
+   "brick-red precipitate",
+   "purple (violet) colour",
+   "blue-black colour"
+  ],
+  "answer": 1,
+  "explanation": "Reducing sugar: Benedict's (or Fehling's) solution, heated → brick-red precipitate.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Food tests",
+  "body": "A positive test for protein gives",
+  "options": [
+   "purple (violet) colour",
+   "blue-black colour",
+   "red-stained layer",
+   "brick-red precipitate"
+  ],
+  "answer": 0,
+  "explanation": "Protein: Biuret test (sodium hydroxide + copper(II) tetraoxosulphate(VI)) → purple (violet) colour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Food tests",
+  "body": "A positive test for fats and oils gives",
+  "options": [
+   "red-stained layer",
+   "purple (violet) colour",
+   "blue-black colour",
+   "brick-red precipitate"
+  ],
+  "answer": 0,
+  "explanation": "Fats and oils: Sudan III → red-stained layer.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "A producer is best described as",
+  "options": [
+   "an instrument for measuring wind speed",
+   "an organism that makes its own food by photosynthesis",
+   "an instrument for measuring the turbidity of water",
+   "the gradual change in species composition of a community over time"
+  ],
+  "answer": 1,
+  "explanation": "A producer: an organism that makes its own food by photosynthesis.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "A decomposer is best described as",
+  "options": [
+   "a frame used to estimate the population of plants in an area",
+   "an organism that breaks down dead matter and returns nutrients to the soil",
+   "an association in which one benefits and the other is unaffected",
+   "interconnected food chains in an ecosystem"
+  ],
+  "answer": 1,
+  "explanation": "A decomposer: an organism that breaks down dead matter and returns nutrients to the soil.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "A habitat is best described as",
+  "options": [
+   "the non-living components of an environment",
+   "an organism that makes its own food by photosynthesis",
+   "an instrument for measuring wind speed",
+   "the place where an organism lives"
+  ],
+  "answer": 3,
+  "explanation": "A habitat: the place where an organism lives.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "A niche is best described as",
+  "options": [
+   "an instrument for measuring rainfall",
+   "an organism that feeds on dead organic matter",
+   "an instrument for measuring wind speed",
+   "the role an organism plays in its habitat"
+  ],
+  "answer": 3,
+  "explanation": "A niche: the role an organism plays in its habitat.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "A population is best described as",
+  "options": [
+   "an association in which one organism benefits and the other is harmed",
+   "all the organisms of one species in an area",
+   "an instrument for measuring the turbidity of water",
+   "one organism killing and eating another"
+  ],
+  "answer": 1,
+  "explanation": "A population: all the organisms of one species in an area.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "A community is best described as",
+  "options": [
+   "all the populations of different species living in an area",
+   "a community of organisms interacting with their non-living environment",
+   "an apparatus for extracting small organisms from soil or leaf litter",
+   "an instrument for measuring wind speed"
+  ],
+  "answer": 0,
+  "explanation": "A community: all the populations of different species living in an area.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "An ecosystem is best described as",
+  "options": [
+   "all the populations of different species living in an area",
+   "an organism that breaks down dead matter and returns nutrients to the soil",
+   "the place where an organism lives",
+   "a community of organisms interacting with their non-living environment"
+  ],
+  "answer": 3,
+  "explanation": "An ecosystem: a community of organisms interacting with their non-living environment.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "A food web is best described as",
+  "options": [
+   "a device for collecting small insects",
+   "interconnected food chains in an ecosystem",
+   "an organism that feeds on dead organic matter",
+   "a community of organisms interacting with their non-living environment"
+  ],
+  "answer": 1,
+  "explanation": "A food web: interconnected food chains in an ecosystem.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "Mutualism is best described as",
+  "options": [
+   "an organism that feeds on dead organic matter",
+   "the place where an organism lives",
+   "the non-living components of an environment",
+   "an association in which both organisms benefit"
+  ],
+  "answer": 3,
+  "explanation": "Mutualism: an association in which both organisms benefit.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "Parasitism is best described as",
+  "options": [
+   "a community of organisms interacting with their non-living environment",
+   "an apparatus for extracting small organisms from soil or leaf litter",
+   "an association in which one organism benefits and the other is harmed",
+   "an organism that makes its own food by photosynthesis"
+  ],
+  "answer": 2,
+  "explanation": "Parasitism: an association in which one organism benefits and the other is harmed.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "Commensalism is best described as",
+  "options": [
+   "the non-living components of an environment",
+   "the place where an organism lives",
+   "an instrument for showing wind direction",
+   "an association in which one benefits and the other is unaffected"
+  ],
+  "answer": 3,
+  "explanation": "Commensalism: an association in which one benefits and the other is unaffected.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "Predation is best described as",
+  "options": [
+   "all the organisms of one species in an area",
+   "the role an organism plays in its habitat",
+   "an instrument for measuring the turbidity of water",
+   "one organism killing and eating another"
+  ],
+  "answer": 3,
+  "explanation": "Predation: one organism killing and eating another.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "A saprophyte is best described as",
+  "options": [
+   "an organism that feeds on dead organic matter",
+   "a community of organisms interacting with their non-living environment",
+   "an association in which one organism benefits and the other is harmed",
+   "all the populations of different species living in an area"
+  ],
+  "answer": 0,
+  "explanation": "A saprophyte: an organism that feeds on dead organic matter.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "Ecological succession is best described as",
+  "options": [
+   "the non-living components of an environment",
+   "a frame used to estimate the population of plants in an area",
+   "the gradual change in species composition of a community over time",
+   "an instrument for showing wind direction"
+  ],
+  "answer": 2,
+  "explanation": "Ecological succession: the gradual change in species composition of a community over time.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "Biotic factors is best described as",
+  "options": [
+   "the living components of an environment",
+   "a device for collecting small insects",
+   "an organism that makes its own food by photosynthesis",
+   "an instrument for measuring the turbidity of water"
+  ],
+  "answer": 0,
+  "explanation": "Biotic factors: the living components of an environment.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "Abiotic factors is best described as",
+  "options": [
+   "the place where an organism lives",
+   "the non-living components of an environment",
+   "an instrument for measuring rainfall",
+   "a frame used to estimate the population of plants in an area"
+  ],
+  "answer": 1,
+  "explanation": "Abiotic factors: the non-living components of an environment.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "A quadrat is best described as",
+  "options": [
+   "an association in which one organism benefits and the other is harmed",
+   "a frame used to estimate the population of plants in an area",
+   "an instrument for measuring relative humidity",
+   "interconnected food chains in an ecosystem"
+  ],
+  "answer": 1,
+  "explanation": "A quadrat: a frame used to estimate the population of plants in an area.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "A Tullgren funnel is best described as",
+  "options": [
+   "one organism killing and eating another",
+   "a community of organisms interacting with their non-living environment",
+   "the living components of an environment",
+   "an apparatus for extracting small organisms from soil or leaf litter"
+  ],
+  "answer": 3,
+  "explanation": "A Tullgren funnel: an apparatus for extracting small organisms from soil or leaf litter.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "A pooter is best described as",
+  "options": [
+   "a community of organisms interacting with their non-living environment",
+   "an instrument for measuring relative humidity",
+   "an organism that breaks down dead matter and returns nutrients to the soil",
+   "a device for collecting small insects"
+  ],
+  "answer": 3,
+  "explanation": "A pooter: a device for collecting small insects.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "A Secchi disc is best described as",
+  "options": [
+   "an organism that makes its own food by photosynthesis",
+   "an instrument for measuring the turbidity of water",
+   "an instrument for measuring rainfall",
+   "a frame used to estimate the population of plants in an area"
+  ],
+  "answer": 1,
+  "explanation": "A Secchi disc: an instrument for measuring the turbidity of water.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "An anemometer is best described as",
+  "options": [
+   "the role an organism plays in its habitat",
+   "an instrument for measuring wind speed",
+   "a frame used to estimate the population of plants in an area",
+   "an association in which one organism benefits and the other is harmed"
+  ],
+  "answer": 1,
+  "explanation": "An anemometer: an instrument for measuring wind speed.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "A hygrometer is best described as",
+  "options": [
+   "an instrument for measuring relative humidity",
+   "an organism that makes its own food by photosynthesis",
+   "an instrument for measuring the turbidity of water",
+   "an instrument for showing wind direction"
+  ],
+  "answer": 0,
+  "explanation": "A hygrometer: an instrument for measuring relative humidity.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "A rain gauge is best described as",
+  "options": [
+   "one organism killing and eating another",
+   "an instrument for measuring rainfall",
+   "the place where an organism lives",
+   "an association in which one benefits and the other is unaffected"
+  ],
+  "answer": 1,
+  "explanation": "A rain gauge: an instrument for measuring rainfall.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "A wind vane is best described as",
+  "options": [
+   "all the populations of different species living in an area",
+   "the place where an organism lives",
+   "an instrument for showing wind direction",
+   "an association in which one organism benefits and the other is harmed"
+  ],
+  "answer": 2,
+  "explanation": "A wind vane: an instrument for showing wind direction.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for an organism that makes its own food by photosynthesis?",
+  "options": [
+   "Secchi disc",
+   "Hygrometer",
+   "Ecological succession",
+   "Producer"
+  ],
+  "answer": 3,
+  "explanation": "A producer: an organism that makes its own food by photosynthesis.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for an organism that breaks down dead matter and returns nutrients to the soil?",
+  "options": [
+   "Producer",
+   "Decomposer",
+   "Predation",
+   "Population"
+  ],
+  "answer": 1,
+  "explanation": "A decomposer: an organism that breaks down dead matter and returns nutrients to the soil.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for the place where an organism lives?",
+  "options": [
+   "Tullgren funnel",
+   "Wind vane",
+   "Quadrat",
+   "Habitat"
+  ],
+  "answer": 3,
+  "explanation": "A habitat: the place where an organism lives.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for the role an organism plays in its habitat?",
+  "options": [
+   "Rain gauge",
+   "Predation",
+   "Niche",
+   "Decomposer"
+  ],
+  "answer": 2,
+  "explanation": "A niche: the role an organism plays in its habitat.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for all the organisms of one species in an area?",
+  "options": [
+   "Abiotic factors",
+   "Tullgren funnel",
+   "Population",
+   "Ecosystem"
+  ],
+  "answer": 2,
+  "explanation": "A population: all the organisms of one species in an area.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for all the populations of different species living in an area?",
+  "options": [
+   "Abiotic factors",
+   "Community",
+   "Niche",
+   "Rain gauge"
+  ],
+  "answer": 1,
+  "explanation": "A community: all the populations of different species living in an area.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for a community of organisms interacting with their non-living environment?",
+  "options": [
+   "Mutualism",
+   "Commensalism",
+   "Ecosystem",
+   "Anemometer"
+  ],
+  "answer": 2,
+  "explanation": "An ecosystem: a community of organisms interacting with their non-living environment.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for interconnected food chains in an ecosystem?",
+  "options": [
+   "Biotic factors",
+   "Food web",
+   "Decomposer",
+   "Abiotic factors"
+  ],
+  "answer": 1,
+  "explanation": "A food web: interconnected food chains in an ecosystem.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for an association in which both organisms benefit?",
+  "options": [
+   "Niche",
+   "Abiotic factors",
+   "Food web",
+   "Mutualism"
+  ],
+  "answer": 3,
+  "explanation": "Mutualism: an association in which both organisms benefit.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for an association in which one organism benefits and the other is harmed?",
+  "options": [
+   "Quadrat",
+   "Secchi disc",
+   "Parasitism",
+   "Anemometer"
+  ],
+  "answer": 2,
+  "explanation": "Parasitism: an association in which one organism benefits and the other is harmed.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for an association in which one benefits and the other is unaffected?",
+  "options": [
+   "Saprophyte",
+   "Commensalism",
+   "Food web",
+   "Producer"
+  ],
+  "answer": 1,
+  "explanation": "Commensalism: an association in which one benefits and the other is unaffected.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for one organism killing and eating another?",
+  "options": [
+   "Producer",
+   "Predation",
+   "Secchi disc",
+   "Abiotic factors"
+  ],
+  "answer": 1,
+  "explanation": "Predation: one organism killing and eating another.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for an organism that feeds on dead organic matter?",
+  "options": [
+   "Commensalism",
+   "Parasitism",
+   "Decomposer",
+   "Saprophyte"
+  ],
+  "answer": 3,
+  "explanation": "A saprophyte: an organism that feeds on dead organic matter.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for the gradual change in species composition of a community over time?",
+  "options": [
+   "Ecological succession",
+   "Community",
+   "Hygrometer",
+   "Quadrat"
+  ],
+  "answer": 0,
+  "explanation": "Ecological succession: the gradual change in species composition of a community over time.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for the living components of an environment?",
+  "options": [
+   "Ecological succession",
+   "Biotic factors",
+   "Quadrat",
+   "Habitat"
+  ],
+  "answer": 1,
+  "explanation": "Biotic factors: the living components of an environment.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for the non-living components of an environment?",
+  "options": [
+   "Niche",
+   "Hygrometer",
+   "Community",
+   "Abiotic factors"
+  ],
+  "answer": 3,
+  "explanation": "Abiotic factors: the non-living components of an environment.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for a frame used to estimate the population of plants in an area?",
+  "options": [
+   "Quadrat",
+   "Decomposer",
+   "Predation",
+   "Abiotic factors"
+  ],
+  "answer": 0,
+  "explanation": "A quadrat: a frame used to estimate the population of plants in an area.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for an apparatus for extracting small organisms from soil or leaf litter?",
+  "options": [
+   "Saprophyte",
+   "Tullgren funnel",
+   "Commensalism",
+   "Ecological succession"
+  ],
+  "answer": 1,
+  "explanation": "A Tullgren funnel: an apparatus for extracting small organisms from soil or leaf litter.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for a device for collecting small insects?",
+  "options": [
+   "Secchi disc",
+   "Tullgren funnel",
+   "Pooter",
+   "Abiotic factors"
+  ],
+  "answer": 2,
+  "explanation": "A pooter: a device for collecting small insects.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for an instrument for measuring the turbidity of water?",
+  "options": [
+   "Secchi disc",
+   "Niche",
+   "Tullgren funnel",
+   "Hygrometer"
+  ],
+  "answer": 0,
+  "explanation": "A Secchi disc: an instrument for measuring the turbidity of water.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for an instrument for measuring wind speed?",
+  "options": [
+   "Anemometer",
+   "Rain gauge",
+   "Hygrometer",
+   "Population"
+  ],
+  "answer": 0,
+  "explanation": "An anemometer: an instrument for measuring wind speed.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for an instrument for measuring relative humidity?",
+  "options": [
+   "Biotic factors",
+   "Wind vane",
+   "Hygrometer",
+   "Commensalism"
+  ],
+  "answer": 2,
+  "explanation": "A hygrometer: an instrument for measuring relative humidity.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for an instrument for measuring rainfall?",
+  "options": [
+   "Ecological succession",
+   "Predation",
+   "Rain gauge",
+   "Niche"
+  ],
+  "answer": 2,
+  "explanation": "A rain gauge: an instrument for measuring rainfall.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Ecology",
+  "body": "What is the term for an instrument for showing wind direction?",
+  "options": [
+   "Wind vane",
+   "Hygrometer",
+   "Abiotic factors",
+   "Ecological succession"
+  ],
+  "answer": 0,
+  "explanation": "A wind vane: an instrument for showing wind direction.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The functional unit of the kidney is the",
+  "options": [
+   "villus",
+   "nephron",
+   "neuron",
+   "alveolus"
+  ],
+  "answer": 1,
+  "explanation": "Each kidney has about a million nephrons that filter blood.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Gaseous exchange in the lungs takes place in the",
+  "options": [
+   "alveoli",
+   "larynx",
+   "bronchi",
+   "trachea"
+  ],
+  "answer": 0,
+  "explanation": "Alveoli have thin, moist walls and a rich blood supply.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Digested food is absorbed mainly through the",
+  "options": [
+   "colon",
+   "villi of the ileum",
+   "walls of the stomach",
+   "oesophagus"
+  ],
+  "answer": 1,
+  "explanation": "Villi greatly increase the surface area for absorption.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Bile is produced by the",
+  "options": [
+   "liver",
+   "gall bladder",
+   "duodenum",
+   "pancreas"
+  ],
+  "answer": 0,
+  "explanation": "Bile is made in the liver and stored in the gall bladder.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Bile is stored in the",
+  "options": [
+   "liver",
+   "stomach",
+   "pancreas",
+   "gall bladder"
+  ],
+  "answer": 3,
+  "explanation": "The gall bladder stores bile until it is needed in the duodenum.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The largest gland in the human body is the",
+  "options": [
+   "liver",
+   "thyroid",
+   "pituitary",
+   "pancreas"
+  ],
+  "answer": 0,
+  "explanation": "The liver is the largest internal organ and gland.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The human heart has",
+  "options": [
+   "four chambers",
+   "two chambers",
+   "five chambers",
+   "three chambers"
+  ],
+  "answer": 0,
+  "explanation": "Two atria and two ventricles.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The pigment that carries oxygen in red blood cells is",
+  "options": [
+   "haemoglobin",
+   "chlorophyll",
+   "keratin",
+   "melanin"
+  ],
+  "answer": 0,
+  "explanation": "Haemoglobin combines with oxygen to form oxyhaemoglobin.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The blood cells that fight infection are the",
+  "options": [
+   "platelets",
+   "plasma cells only",
+   "red blood cells",
+   "white blood cells"
+  ],
+  "answer": 3,
+  "explanation": "White blood cells engulf germs and make antibodies.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Blood clotting is mainly helped by",
+  "options": [
+   "white blood cells",
+   "plasma proteins only",
+   "red blood cells",
+   "platelets"
+  ],
+  "answer": 3,
+  "explanation": "Platelets start the clotting process.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The universal blood donor is blood group",
+  "options": [
+   "AB",
+   "B",
+   "O",
+   "A"
+  ],
+  "answer": 2,
+  "explanation": "Group O has no A or B antigens on its red cells.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The universal blood recipient is blood group",
+  "options": [
+   "A",
+   "B",
+   "O",
+   "AB"
+  ],
+  "answer": 3,
+  "explanation": "Group AB has no anti-A or anti-B antibodies in its plasma.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The part of the brain that controls balance and coordination is the",
+  "options": [
+   "cerebellum",
+   "medulla oblongata",
+   "cerebrum",
+   "hypothalamus"
+  ],
+  "answer": 0,
+  "explanation": "The cerebellum coordinates movement and balance.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The part of the brain responsible for thinking and memory is the",
+  "options": [
+   "pons",
+   "cerebrum",
+   "cerebellum",
+   "medulla oblongata"
+  ],
+  "answer": 1,
+  "explanation": "The cerebrum handles intelligence, memory and voluntary actions.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Breathing and heartbeat are controlled by the",
+  "options": [
+   "medulla oblongata",
+   "spinal cord only",
+   "cerebellum",
+   "cerebrum"
+  ],
+  "answer": 0,
+  "explanation": "The medulla controls involuntary actions.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The light-sensitive layer of the eye is the",
+  "options": [
+   "iris",
+   "retina",
+   "lens",
+   "cornea"
+  ],
+  "answer": 1,
+  "explanation": "The retina contains rods and cones.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The size of the pupil is controlled by the",
+  "options": [
+   "ciliary body only",
+   "retina",
+   "iris",
+   "cornea"
+  ],
+  "answer": 2,
+  "explanation": "Muscles in the iris widen or narrow the pupil.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The part of the ear concerned with hearing is the",
+  "options": [
+   "Eustachian tube",
+   "ear drum only",
+   "cochlea",
+   "semicircular canals"
+  ],
+  "answer": 2,
+  "explanation": "The cochlea converts vibrations into nerve impulses.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Balance in the ear is maintained by the",
+  "options": [
+   "ossicles",
+   "semicircular canals",
+   "cochlea",
+   "pinna"
+  ],
+  "answer": 1,
+  "explanation": "Fluid movement in the semicircular canals detects head movement.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Water is transported in plants by the",
+  "options": [
+   "cambium",
+   "phloem",
+   "cortex",
+   "xylem"
+  ],
+  "answer": 3,
+  "explanation": "Xylem carries water and mineral salts up from the roots.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Manufactured food is transported in plants by the",
+  "options": [
+   "epidermis",
+   "phloem",
+   "pith",
+   "xylem"
+  ],
+  "answer": 1,
+  "explanation": "Phloem carries sugars (translocation).",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Gaseous exchange in leaves takes place through the",
+  "options": [
+   "veins",
+   "palisade cells",
+   "stomata",
+   "cuticle"
+  ],
+  "answer": 2,
+  "explanation": "Stomata are pores controlled by guard cells.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The loss of water vapour from the leaves of a plant is called",
+  "options": [
+   "transpiration",
+   "guttation",
+   "respiration",
+   "osmosis"
+  ],
+  "answer": 0,
+  "explanation": "Transpiration mostly happens through stomata.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The products of photosynthesis are",
+  "options": [
+   "glucose and carbon(IV) oxide",
+   "oxygen and water",
+   "carbon(IV) oxide and water",
+   "glucose and oxygen"
+  ],
+  "answer": 3,
+  "explanation": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ in light with chlorophyll.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Anaerobic respiration in yeast produces",
+  "options": [
+   "glucose",
+   "lactic acid",
+   "ethanol and carbon(IV) oxide",
+   "oxygen and water"
+  ],
+  "answer": 2,
+  "explanation": "This is fermentation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Anaerobic respiration in human muscles produces",
+  "options": [
+   "carbon(IV) oxide and ethanol",
+   "oxygen",
+   "ethanol",
+   "lactic acid"
+  ],
+  "answer": 3,
+  "explanation": "Lactic acid build-up causes muscle fatigue.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The movement of water molecules from a dilute to a concentrated solution through a selectively permeable membrane is",
+  "options": [
+   "diffusion",
+   "osmosis",
+   "plasmolysis",
+   "active transport"
+  ],
+  "answer": 1,
+  "explanation": "Osmosis is a special case of diffusion of water.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The movement of molecules from a region of high concentration to low concentration is",
+  "options": [
+   "osmosis",
+   "transpiration",
+   "active transport",
+   "diffusion"
+  ],
+  "answer": 3,
+  "explanation": "Diffusion needs no energy.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The transfer of pollen from the anther to the stigma is",
+  "options": [
+   "pollination",
+   "dispersal",
+   "fertilisation",
+   "germination"
+  ],
+  "answer": 0,
+  "explanation": "Pollination comes before fertilisation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The father of genetics is",
+  "options": [
+   "Robert Hooke",
+   "Gregor Mendel",
+   "Jean Lamarck",
+   "Charles Darwin"
+  ],
+  "answer": 1,
+  "explanation": "Mendel worked out the laws of inheritance using pea plants.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The theory of evolution by natural selection was proposed by",
+  "options": [
+   "Jean Lamarck",
+   "Gregor Mendel",
+   "Charles Darwin",
+   "Louis Pasteur"
+  ],
+  "answer": 2,
+  "explanation": "Darwin published 'On the Origin of Species' in 1859.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The theory of 'use and disuse' in evolution is associated with",
+  "options": [
+   "Alexander Fleming",
+   "Jean Lamarck",
+   "Gregor Mendel",
+   "Charles Darwin"
+  ],
+  "answer": 1,
+  "explanation": "Lamarck proposed inheritance of acquired characteristics.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The number of chromosomes in a normal human body cell is",
+  "options": [
+   "23",
+   "44",
+   "46",
+   "48"
+  ],
+  "answer": 2,
+  "explanation": "23 pairs: 22 pairs of autosomes and 1 pair of sex chromosomes.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Cell division that halves the chromosome number is",
+  "options": [
+   "budding",
+   "mitosis",
+   "binary fission",
+   "meiosis"
+  ],
+  "answer": 3,
+  "explanation": "Meiosis produces haploid gametes.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Cell division that produces two identical daughter cells is",
+  "options": [
+   "mitosis",
+   "conjugation",
+   "fertilisation",
+   "meiosis"
+  ],
+  "answer": 0,
+  "explanation": "Mitosis is used for growth and repair.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "In humans, the sex chromosomes of a male are",
+  "options": [
+   "YY",
+   "XO",
+   "XX",
+   "XY"
+  ],
+  "answer": 3,
+  "explanation": "Females are XX; the father determines the sex of the child.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The double-helix structure of DNA was described by",
+  "options": [
+   "Hooke and Brown",
+   "Mendel and Darwin",
+   "Pasteur and Koch",
+   "Watson and Crick"
+  ],
+  "answer": 3,
+  "explanation": "Watson and Crick, 1953.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The cell was first described by",
+  "options": [
+   "Anton van Leeuwenhoek",
+   "Robert Brown",
+   "Robert Hooke",
+   "Gregor Mendel"
+  ],
+  "answer": 2,
+  "explanation": "Hooke observed cork cells in 1665.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Seeds of which plant group are enclosed in a fruit?",
+  "options": [
+   "Ferns",
+   "Gymnosperms",
+   "Mosses",
+   "Angiosperms"
+  ],
+  "answer": 3,
+  "explanation": "Angiosperms are flowering plants; their seeds develop inside an ovary.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The male reproductive part of a flower is the",
+  "options": [
+   "petal",
+   "carpel",
+   "sepal",
+   "stamen"
+  ],
+  "answer": 3,
+  "explanation": "The stamen = anther + filament.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The female reproductive part of a flower is the",
+  "options": [
+   "stamen",
+   "receptacle",
+   "carpel (pistil)",
+   "sepal"
+  ],
+  "answer": 2,
+  "explanation": "The carpel = stigma + style + ovary.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The organism that causes the bread mould is",
+  "options": [
+   "Spirogyra",
+   "Amoeba",
+   "Rhizopus",
+   "Euglena"
+  ],
+  "answer": 2,
+  "explanation": "Rhizopus is a common fungus on stale bread.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Which organism shows both plant and animal characteristics?",
+  "options": [
+   "Hydra",
+   "Euglena",
+   "Paramecium",
+   "Amoeba"
+  ],
+  "answer": 1,
+  "explanation": "Euglena has chloroplasts but also moves with a flagellum.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The organ of locomotion in Paramecium is the",
+  "options": [
+   "tentacles",
+   "cilia",
+   "pseudopodia",
+   "flagellum"
+  ],
+  "answer": 1,
+  "explanation": "Paramecium moves by beating its cilia.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Amoeba moves by means of",
+  "options": [
+   "setae",
+   "flagellum",
+   "cilia",
+   "pseudopodia"
+  ],
+  "answer": 3,
+  "explanation": "Amoeba pushes out 'false feet'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The breathing organs of fish are",
+  "options": [
+   "lungs",
+   "tracheae",
+   "skin only",
+   "gills"
+  ],
+  "answer": 3,
+  "explanation": "Gills extract dissolved oxygen from water.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Insects breathe through",
+  "options": [
+   "spiracles and tracheae",
+   "lungs",
+   "gills",
+   "skin only"
+  ],
+  "answer": 0,
+  "explanation": "Air enters through spiracles into the tracheal system.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Nitrogen-fixing bacteria are found in the root nodules of",
+  "options": [
+   "cacti",
+   "leguminous plants",
+   "grasses",
+   "mosses"
+  ],
+  "answer": 1,
+  "explanation": "Rhizobium lives in nodules of beans, groundnut etc.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The process by which green plants make food is",
+  "options": [
+   "digestion",
+   "respiration",
+   "photosynthesis",
+   "transpiration"
+  ],
+  "answer": 2,
+  "explanation": "Plants use light energy to make glucose.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The part of the alimentary canal where most digestion is completed is the",
+  "options": [
+   "oesophagus",
+   "large intestine",
+   "small intestine",
+   "stomach"
+  ],
+  "answer": 2,
+  "explanation": "Enzymes from the pancreas and intestinal wall complete digestion in the small intestine.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Water is mainly reabsorbed from undigested food in the",
+  "options": [
+   "duodenum",
+   "oesophagus",
+   "stomach",
+   "colon (large intestine)"
+  ],
+  "answer": 3,
+  "explanation": "The colon reabsorbs water, forming faeces.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The wave-like muscular contractions that move food along the gut are called",
+  "options": [
+   "peristalsis",
+   "assimilation",
+   "egestion",
+   "ingestion"
+  ],
+  "answer": 0,
+  "explanation": "Circular and longitudinal muscles contract alternately.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The blood vessel that carries blood from the heart to the lungs is the",
+  "options": [
+   "pulmonary artery",
+   "aorta",
+   "pulmonary vein",
+   "vena cava"
+  ],
+  "answer": 0,
+  "explanation": "It carries deoxygenated blood — the only artery to do so.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The largest artery in the body is the",
+  "options": [
+   "pulmonary artery",
+   "aorta",
+   "carotid artery",
+   "vena cava"
+  ],
+  "answer": 1,
+  "explanation": "The aorta carries oxygenated blood from the left ventricle.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Blood returns to the heart from the body through the",
+  "options": [
+   "pulmonary artery",
+   "pulmonary vein",
+   "vena cava",
+   "aorta"
+  ],
+  "answer": 2,
+  "explanation": "The venae cavae empty into the right atrium.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The fluid part of the blood is called",
+  "options": [
+   "serum only",
+   "plasma",
+   "haemoglobin",
+   "lymph"
+  ],
+  "answer": 1,
+  "explanation": "Plasma carries dissolved food, hormones, CO₂ and urea.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "Urea is formed in the",
+  "options": [
+   "bladder",
+   "liver",
+   "pancreas",
+   "kidney"
+  ],
+  "answer": 1,
+  "explanation": "Excess amino acids are deaminated in the liver to form urea.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The main nitrogenous waste excreted by mammals is",
+  "options": [
+   "carbon(IV) oxide",
+   "ammonia",
+   "uric acid",
+   "urea"
+  ],
+  "answer": 3,
+  "explanation": "Mammals excrete urea in urine.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The process by which a seed begins to grow is",
+  "options": [
+   "pollination",
+   "fertilisation",
+   "germination",
+   "dormancy"
+  ],
+  "answer": 2,
+  "explanation": "Germination needs water, oxygen and a suitable temperature.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "A plant hormone that promotes cell elongation is",
+  "options": [
+   "ethylene only",
+   "thyroxine",
+   "insulin",
+   "auxin"
+  ],
+  "answer": 3,
+  "explanation": "Auxins cause phototropism and geotropism.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "The growth response of a plant towards light is",
+  "options": [
+   "phototropism",
+   "hydrotropism",
+   "thigmotropism",
+   "geotropism"
+  ],
+  "answer": 0,
+  "explanation": "Shoots are positively phototropic.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "General biology",
+  "body": "A condition in which the body is unable to control blood glucose because of lack of insulin is",
+  "options": [
+   "goitre",
+   "diabetes mellitus",
+   "rickets",
+   "anaemia"
+  ],
+  "answer": 1,
+  "explanation": "Insulin lowers blood glucose.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, tall (T) is dominant over short (t). In a cross Tt × Tt, what proportion of the offspring will show tall?",
+  "options": [
+   "3/4 (75%)",
+   "1/2 (50%)",
+   "all (100%)",
+   "1/4 (25%)"
+  ],
+  "answer": 0,
+  "explanation": "Draw the Punnett square for Tt × Tt: offspring with at least one T show tall, giving 3/4 (75%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, tall (T) is dominant over short (t). In a cross Tt × Tt, what proportion of the offspring will show short?",
+  "options": [
+   "1/2 (50%)",
+   "3/4 (75%)",
+   "1/4 (25%)",
+   "all (100%)"
+  ],
+  "answer": 2,
+  "explanation": "Only tt offspring show short. For Tt × Tt that is 1/4 (25%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, tall (T) is dominant over short (t). In a cross Tt × tt, what proportion of the offspring will show tall?",
+  "options": [
+   "1/2 (50%)",
+   "3/4 (75%)",
+   "all (100%)",
+   "1/4 (25%)"
+  ],
+  "answer": 0,
+  "explanation": "Draw the Punnett square for Tt × tt: offspring with at least one T show tall, giving 1/2 (50%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, tall (T) is dominant over short (t). In a cross Tt × tt, what proportion of the offspring will show short?",
+  "options": [
+   "3/4 (75%)",
+   "1/2 (50%)",
+   "all (100%)",
+   "1/4 (25%)"
+  ],
+  "answer": 1,
+  "explanation": "Only tt offspring show short. For Tt × tt that is 1/2 (50%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, tall (T) is dominant over short (t). In a cross TT × tt, what proportion of the offspring will show tall?",
+  "options": [
+   "3/4 (75%)",
+   "all (100%)",
+   "1/2 (50%)",
+   "1/4 (25%)"
+  ],
+  "answer": 1,
+  "explanation": "Draw the Punnett square for TT × tt: offspring with at least one T show tall, giving all (100%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, tall (T) is dominant over short (t). In a cross TT × tt, what proportion of the offspring will show short?",
+  "options": [
+   "none (0%)",
+   "all (100%)",
+   "1/2 (50%)",
+   "3/4 (75%)"
+  ],
+  "answer": 0,
+  "explanation": "Only tt offspring show short. For TT × tt that is none (0%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, tall (T) is dominant over short (t). In a cross TT × Tt, what proportion of the offspring will show tall?",
+  "options": [
+   "1/2 (50%)",
+   "1/4 (25%)",
+   "3/4 (75%)",
+   "all (100%)"
+  ],
+  "answer": 3,
+  "explanation": "Draw the Punnett square for TT × Tt: offspring with at least one T show tall, giving all (100%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, tall (T) is dominant over short (t). In a cross TT × Tt, what proportion of the offspring will show short?",
+  "options": [
+   "all (100%)",
+   "1/2 (50%)",
+   "none (0%)",
+   "3/4 (75%)"
+  ],
+  "answer": 2,
+  "explanation": "Only tt offspring show short. For TT × Tt that is none (0%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In guinea pigs, black coat (B) is dominant over white coat (b). In a cross Bb × Bb, what proportion of the offspring will show black coat?",
+  "options": [
+   "1/4 (25%)",
+   "3/4 (75%)",
+   "all (100%)",
+   "1/2 (50%)"
+  ],
+  "answer": 1,
+  "explanation": "Draw the Punnett square for Bb × Bb: offspring with at least one B show black coat, giving 3/4 (75%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In guinea pigs, black coat (B) is dominant over white coat (b). In a cross Bb × Bb, what proportion of the offspring will show white coat?",
+  "options": [
+   "all (100%)",
+   "1/2 (50%)",
+   "3/4 (75%)",
+   "1/4 (25%)"
+  ],
+  "answer": 3,
+  "explanation": "Only bb offspring show white coat. For Bb × Bb that is 1/4 (25%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In guinea pigs, black coat (B) is dominant over white coat (b). In a cross Bb × bb, what proportion of the offspring will show black coat?",
+  "options": [
+   "1/4 (25%)",
+   "3/4 (75%)",
+   "1/2 (50%)",
+   "all (100%)"
+  ],
+  "answer": 2,
+  "explanation": "Draw the Punnett square for Bb × bb: offspring with at least one B show black coat, giving 1/2 (50%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In guinea pigs, black coat (B) is dominant over white coat (b). In a cross Bb × bb, what proportion of the offspring will show white coat?",
+  "options": [
+   "all (100%)",
+   "1/4 (25%)",
+   "3/4 (75%)",
+   "1/2 (50%)"
+  ],
+  "answer": 3,
+  "explanation": "Only bb offspring show white coat. For Bb × bb that is 1/2 (50%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In guinea pigs, black coat (B) is dominant over white coat (b). In a cross BB × bb, what proportion of the offspring will show black coat?",
+  "options": [
+   "1/2 (50%)",
+   "3/4 (75%)",
+   "all (100%)",
+   "1/4 (25%)"
+  ],
+  "answer": 2,
+  "explanation": "Draw the Punnett square for BB × bb: offspring with at least one B show black coat, giving all (100%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In guinea pigs, black coat (B) is dominant over white coat (b). In a cross BB × bb, what proportion of the offspring will show white coat?",
+  "options": [
+   "1/2 (50%)",
+   "all (100%)",
+   "3/4 (75%)",
+   "none (0%)"
+  ],
+  "answer": 3,
+  "explanation": "Only bb offspring show white coat. For BB × bb that is none (0%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In guinea pigs, black coat (B) is dominant over white coat (b). In a cross BB × Bb, what proportion of the offspring will show black coat?",
+  "options": [
+   "3/4 (75%)",
+   "all (100%)",
+   "1/4 (25%)",
+   "1/2 (50%)"
+  ],
+  "answer": 1,
+  "explanation": "Draw the Punnett square for BB × Bb: offspring with at least one B show black coat, giving all (100%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In guinea pigs, black coat (B) is dominant over white coat (b). In a cross BB × Bb, what proportion of the offspring will show white coat?",
+  "options": [
+   "none (0%)",
+   "3/4 (75%)",
+   "1/2 (50%)",
+   "all (100%)"
+  ],
+  "answer": 0,
+  "explanation": "Only bb offspring show white coat. For BB × Bb that is none (0%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, round seeds (R) is dominant over wrinkled seeds (r). In a cross Rr × Rr, what proportion of the offspring will show round seeds?",
+  "options": [
+   "1/2 (50%)",
+   "1/4 (25%)",
+   "3/4 (75%)",
+   "all (100%)"
+  ],
+  "answer": 2,
+  "explanation": "Draw the Punnett square for Rr × Rr: offspring with at least one R show round seeds, giving 3/4 (75%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, round seeds (R) is dominant over wrinkled seeds (r). In a cross Rr × Rr, what proportion of the offspring will show wrinkled seeds?",
+  "options": [
+   "1/4 (25%)",
+   "1/2 (50%)",
+   "all (100%)",
+   "3/4 (75%)"
+  ],
+  "answer": 0,
+  "explanation": "Only rr offspring show wrinkled seeds. For Rr × Rr that is 1/4 (25%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, round seeds (R) is dominant over wrinkled seeds (r). In a cross Rr × rr, what proportion of the offspring will show round seeds?",
+  "options": [
+   "1/2 (50%)",
+   "all (100%)",
+   "1/4 (25%)",
+   "3/4 (75%)"
+  ],
+  "answer": 0,
+  "explanation": "Draw the Punnett square for Rr × rr: offspring with at least one R show round seeds, giving 1/2 (50%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, round seeds (R) is dominant over wrinkled seeds (r). In a cross Rr × rr, what proportion of the offspring will show wrinkled seeds?",
+  "options": [
+   "1/4 (25%)",
+   "all (100%)",
+   "3/4 (75%)",
+   "1/2 (50%)"
+  ],
+  "answer": 3,
+  "explanation": "Only rr offspring show wrinkled seeds. For Rr × rr that is 1/2 (50%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, round seeds (R) is dominant over wrinkled seeds (r). In a cross RR × rr, what proportion of the offspring will show round seeds?",
+  "options": [
+   "1/2 (50%)",
+   "1/4 (25%)",
+   "all (100%)",
+   "3/4 (75%)"
+  ],
+  "answer": 2,
+  "explanation": "Draw the Punnett square for RR × rr: offspring with at least one R show round seeds, giving all (100%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, round seeds (R) is dominant over wrinkled seeds (r). In a cross RR × rr, what proportion of the offspring will show wrinkled seeds?",
+  "options": [
+   "1/2 (50%)",
+   "3/4 (75%)",
+   "all (100%)",
+   "none (0%)"
+  ],
+  "answer": 3,
+  "explanation": "Only rr offspring show wrinkled seeds. For RR × rr that is none (0%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, round seeds (R) is dominant over wrinkled seeds (r). In a cross RR × Rr, what proportion of the offspring will show round seeds?",
+  "options": [
+   "3/4 (75%)",
+   "all (100%)",
+   "1/4 (25%)",
+   "1/2 (50%)"
+  ],
+  "answer": 1,
+  "explanation": "Draw the Punnett square for RR × Rr: offspring with at least one R show round seeds, giving all (100%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, round seeds (R) is dominant over wrinkled seeds (r). In a cross RR × Rr, what proportion of the offspring will show wrinkled seeds?",
+  "options": [
+   "none (0%)",
+   "3/4 (75%)",
+   "all (100%)",
+   "1/2 (50%)"
+  ],
+  "answer": 0,
+  "explanation": "Only rr offspring show wrinkled seeds. For RR × Rr that is none (0%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, purple flowers (P) is dominant over white flowers (p). In a cross Pp × Pp, what proportion of the offspring will show purple flowers?",
+  "options": [
+   "3/4 (75%)",
+   "all (100%)",
+   "1/2 (50%)",
+   "1/4 (25%)"
+  ],
+  "answer": 0,
+  "explanation": "Draw the Punnett square for Pp × Pp: offspring with at least one P show purple flowers, giving 3/4 (75%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, purple flowers (P) is dominant over white flowers (p). In a cross Pp × Pp, what proportion of the offspring will show white flowers?",
+  "options": [
+   "1/2 (50%)",
+   "all (100%)",
+   "3/4 (75%)",
+   "1/4 (25%)"
+  ],
+  "answer": 3,
+  "explanation": "Only pp offspring show white flowers. For Pp × Pp that is 1/4 (25%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, purple flowers (P) is dominant over white flowers (p). In a cross Pp × pp, what proportion of the offspring will show purple flowers?",
+  "options": [
+   "1/2 (50%)",
+   "3/4 (75%)",
+   "1/4 (25%)",
+   "all (100%)"
+  ],
+  "answer": 0,
+  "explanation": "Draw the Punnett square for Pp × pp: offspring with at least one P show purple flowers, giving 1/2 (50%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, purple flowers (P) is dominant over white flowers (p). In a cross Pp × pp, what proportion of the offspring will show white flowers?",
+  "options": [
+   "3/4 (75%)",
+   "1/4 (25%)",
+   "all (100%)",
+   "1/2 (50%)"
+  ],
+  "answer": 3,
+  "explanation": "Only pp offspring show white flowers. For Pp × pp that is 1/2 (50%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, purple flowers (P) is dominant over white flowers (p). In a cross PP × pp, what proportion of the offspring will show purple flowers?",
+  "options": [
+   "3/4 (75%)",
+   "1/4 (25%)",
+   "1/2 (50%)",
+   "all (100%)"
+  ],
+  "answer": 3,
+  "explanation": "Draw the Punnett square for PP × pp: offspring with at least one P show purple flowers, giving all (100%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, purple flowers (P) is dominant over white flowers (p). In a cross PP × pp, what proportion of the offspring will show white flowers?",
+  "options": [
+   "3/4 (75%)",
+   "none (0%)",
+   "1/2 (50%)",
+   "all (100%)"
+  ],
+  "answer": 1,
+  "explanation": "Only pp offspring show white flowers. For PP × pp that is none (0%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, purple flowers (P) is dominant over white flowers (p). In a cross PP × Pp, what proportion of the offspring will show purple flowers?",
+  "options": [
+   "1/4 (25%)",
+   "all (100%)",
+   "3/4 (75%)",
+   "1/2 (50%)"
+  ],
+  "answer": 1,
+  "explanation": "Draw the Punnett square for PP × Pp: offspring with at least one P show purple flowers, giving all (100%).",
+  "difficulty": 2
+ },
+ {
+  "subject": "BIO",
+  "topic": "Genetics",
+  "body": "In pea plants, purple flowers (P) is dominant over white flowers (p). In a cross PP × Pp, what proportion of the offspring will show white flowers?",
+  "options": [
+   "all (100%)",
+   "3/4 (75%)",
+   "none (0%)",
+   "1/2 (50%)"
+  ],
+  "answer": 2,
+  "explanation": "Only pp offspring show white flowers. For PP × Pp that is none (0%).",
+  "difficulty": 2
+ }
+]

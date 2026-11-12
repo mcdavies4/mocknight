@@ -44,27 +44,38 @@ if (problems.length) {
   process.exit(1);
 }
 
+const toRow = (r: Row) => ({
+  subject_code: r.subject.toUpperCase(),
+  topic: r.topic ?? null,
+  body: r.body.trim(),
+  options: r.options.map((o) => o.trim()),
+  answer_index: r.answer,
+  explanation: r.explanation ?? null,
+  difficulty: r.difficulty ?? 2,
+  exams: r.exams ?? ["JAMB", "WAEC"],
+  reviewed,
+  source,
+});
+
 let inserted = 0;
 let skipped = 0;
-for (const r of rows) {
-  const { error } = await sb.from("questions").insert({
-    subject_code: r.subject.toUpperCase(),
-    topic: r.topic ?? null,
-    body: r.body.trim(),
-    options: r.options.map((o) => o.trim()),
-    answer_index: r.answer,
-    explanation: r.explanation ?? null,
-    difficulty: r.difficulty ?? 2,
-    exams: r.exams ?? ["JAMB", "WAEC"],
-    reviewed,
-    source,
-  });
-  if (error) {
-    if (error.code === "23505") skipped++; // duplicate body in same subject
-    else {
-      console.error(r.body.slice(0, 60), "→", error.message);
-      skipped++;
+const BATCH = 200;
+for (let i = 0; i < rows.length; i += BATCH) {
+  const chunk = rows.slice(i, i + BATCH);
+  const { error } = await sb.from("questions").insert(chunk.map(toRow));
+  if (!error) {
+    inserted += chunk.length;
+  } else {
+    // A duplicate in the batch: fall back to one-by-one for this batch
+    for (const r of chunk) {
+      const { error: e } = await sb.from("questions").insert(toRow(r));
+      if (!e) inserted++;
+      else {
+        skipped++;
+        if (e.code !== "23505") console.error(r.body.slice(0, 60), "→", e.message);
+      }
     }
-  } else inserted++;
+  }
+  process.stdout.write(`\r${Math.min(i + BATCH, rows.length)}/${rows.length}`);
 }
-console.log(`Inserted ${inserted}, skipped ${skipped} (duplicates/errors). reviewed=${reviewed}`);
+console.log(`\nInserted ${inserted}, skipped ${skipped} (duplicates/errors). reviewed=${reviewed}`);

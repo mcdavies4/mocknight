@@ -1,0 +1,4342 @@
+[
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of H₂O. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "18",
+   "34",
+   "17",
+   "36"
+  ],
+  "answer": 0,
+  "explanation": "H: 2 × 1, O: 1 × 16 → total 18.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of CO₂. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "28",
+   "60",
+   "43",
+   "44"
+  ],
+  "answer": 3,
+  "explanation": "C: 1 × 12, O: 2 × 16 → total 44.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of NaCl. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "74.5",
+   "117",
+   "58.5",
+   "57.5"
+  ],
+  "answer": 2,
+  "explanation": "Na: 1 × 23, Cl: 1 × 35.5 → total 58.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of NaOH. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "39",
+   "56",
+   "40",
+   "80"
+  ],
+  "answer": 2,
+  "explanation": "Na: 1 × 23, O: 1 × 16, H: 1 × 1 → total 40.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of HCl. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "36.5",
+   "52.5",
+   "73",
+   "35.5"
+  ],
+  "answer": 0,
+  "explanation": "H: 1 × 1, Cl: 1 × 35.5 → total 36.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of H₂SO₄. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "49",
+   "114",
+   "98",
+   "97"
+  ],
+  "answer": 2,
+  "explanation": "H: 2 × 1, S: 1 × 32, O: 4 × 16 → total 98.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of CaCO₃. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "116",
+   "99",
+   "100",
+   "68"
+  ],
+  "answer": 2,
+  "explanation": "Ca: 1 × 40, C: 1 × 12, O: 3 × 16 → total 100.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of NH₃. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "15",
+   "16",
+   "33",
+   "17"
+  ],
+  "answer": 3,
+  "explanation": "N: 1 × 14, H: 3 × 1 → total 17.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of CH₄. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "16",
+   "15",
+   "13",
+   "32"
+  ],
+  "answer": 0,
+  "explanation": "C: 1 × 12, H: 4 × 1 → total 16.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of C₂H₆. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "29",
+   "13",
+   "30",
+   "46"
+  ],
+  "answer": 2,
+  "explanation": "C: 2 × 12, H: 6 × 1 → total 30.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of C₂H₅OH. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "62",
+   "29",
+   "46",
+   "45"
+  ],
+  "answer": 2,
+  "explanation": "C: 2 × 12, H: 6 × 1, O: 1 × 16 → total 46.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of C₆H₁₂O₆. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "179",
+   "180",
+   "196",
+   "29"
+  ],
+  "answer": 1,
+  "explanation": "C: 6 × 12, H: 12 × 1, O: 6 × 16 → total 180.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of MgO. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "80",
+   "40",
+   "56",
+   "39"
+  ],
+  "answer": 1,
+  "explanation": "Mg: 1 × 24, O: 1 × 16 → total 40.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of CuO. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "79",
+   "160",
+   "80",
+   "96"
+  ],
+  "answer": 2,
+  "explanation": "Cu: 1 × 64, O: 1 × 16 → total 80.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of KOH. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "56",
+   "72",
+   "55",
+   "112"
+  ],
+  "answer": 0,
+  "explanation": "K: 1 × 39, O: 1 × 16, H: 1 × 1 → total 56.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of HNO₃. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "79",
+   "63",
+   "62",
+   "31"
+  ],
+  "answer": 1,
+  "explanation": "H: 1 × 1, N: 1 × 14, O: 3 × 16 → total 63.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of Na₂CO₃. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "122",
+   "105",
+   "106",
+   "51"
+  ],
+  "answer": 2,
+  "explanation": "Na: 2 × 23, C: 1 × 12, O: 3 × 16 → total 106.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of CaO. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "112",
+   "56",
+   "72",
+   "55"
+  ],
+  "answer": 1,
+  "explanation": "Ca: 1 × 40, O: 1 × 16 → total 56.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of Al₂O₃. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "101",
+   "102",
+   "43",
+   "118"
+  ],
+  "answer": 1,
+  "explanation": "Al: 2 × 27, O: 3 × 16 → total 102.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of Fe₂O₃. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "160",
+   "176",
+   "159",
+   "72"
+  ],
+  "answer": 0,
+  "explanation": "Fe: 2 × 56, O: 3 × 16 → total 160.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of CuSO₄. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "160",
+   "176",
+   "112",
+   "159"
+  ],
+  "answer": 0,
+  "explanation": "Cu: 1 × 64, S: 1 × 32, O: 4 × 16 → total 160.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of ZnO. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "80",
+   "81",
+   "162",
+   "97"
+  ],
+  "answer": 1,
+  "explanation": "Zn: 1 × 65, O: 1 × 16 → total 81.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of SO₂. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "63",
+   "48",
+   "64",
+   "80"
+  ],
+  "answer": 2,
+  "explanation": "S: 1 × 32, O: 2 × 16 → total 64.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of NO₂. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "46",
+   "45",
+   "62",
+   "30"
+  ],
+  "answer": 0,
+  "explanation": "N: 1 × 14, O: 2 × 16 → total 46.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of MgCl₂. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "95",
+   "59.5",
+   "111",
+   "94"
+  ],
+  "answer": 0,
+  "explanation": "Mg: 1 × 24, Cl: 2 × 35.5 → total 95.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of CaCl₂. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "110",
+   "75.5",
+   "127",
+   "111"
+  ],
+  "answer": 3,
+  "explanation": "Ca: 1 × 40, Cl: 2 × 35.5 → total 111.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of KCl. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "90.5",
+   "73.5",
+   "74.5",
+   "149"
+  ],
+  "answer": 2,
+  "explanation": "K: 1 × 39, Cl: 1 × 35.5 → total 74.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of NaHCO₃. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "83",
+   "100",
+   "52",
+   "84"
+  ],
+  "answer": 3,
+  "explanation": "Na: 1 × 23, H: 1 × 1, C: 1 × 12, O: 3 × 16 → total 84.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of Ca(OH)₂. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "57",
+   "73",
+   "74",
+   "90"
+  ],
+  "answer": 2,
+  "explanation": "Ca: 1 × 40, O: 2 × 16, H: 2 × 1 → total 74.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of O₂. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "31",
+   "32",
+   "48",
+   "16"
+  ],
+  "answer": 1,
+  "explanation": "O: 2 × 16 → total 32.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of N₂. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "28",
+   "14",
+   "44",
+   "27"
+  ],
+  "answer": 0,
+  "explanation": "N: 2 × 14 → total 28.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Calculate the relative molecular mass of Cl₂. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "35.5",
+   "87",
+   "71",
+   "70"
+  ],
+  "answer": 2,
+  "explanation": "Cl: 2 × 35.5 → total 71.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 140 g of CaO? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "5",
+   "0.4",
+   "7840",
+   "2.5"
+  ],
+  "answer": 3,
+  "explanation": "Molar mass of CaO = 56 g/mol. n = mass ÷ M = 140 ÷ 56 = 2.5 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 160 g of NaOH? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "8",
+   "6400",
+   "0.25",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": "Molar mass of NaOH = 40 g/mol. n = mass ÷ M = 160 ÷ 40 = 4 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 80 g of O₂? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "2560",
+   "5",
+   "0.4",
+   "2.5"
+  ],
+  "answer": 3,
+  "explanation": "Molar mass of O₂ = 32 g/mol. n = mass ÷ M = 80 ÷ 32 = 2.5 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 245 g of H₂SO₄? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "2.5",
+   "0.4",
+   "5",
+   "24,010"
+  ],
+  "answer": 0,
+  "explanation": "Molar mass of H₂SO₄ = 98 g/mol. n = mass ÷ M = 245 ÷ 98 = 2.5 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 177.5 g of Cl₂? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "12602.5",
+   "2.5",
+   "5",
+   "0.4"
+  ],
+  "answer": 1,
+  "explanation": "Molar mass of Cl₂ = 71 g/mol. n = mass ÷ M = 177.5 ÷ 71 = 2.5 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 250 g of CaCO₃? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "5",
+   "25,000",
+   "0.4",
+   "2.5"
+  ],
+  "answer": 3,
+  "explanation": "Molar mass of CaCO₃ = 100 g/mol. n = mass ÷ M = 250 ÷ 100 = 2.5 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 88 g of CO₂? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "2",
+   "4",
+   "3872",
+   "0.5"
+  ],
+  "answer": 0,
+  "explanation": "Molar mass of CO₂ = 44 g/mol. n = mass ÷ M = 88 ÷ 44 = 2 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 14.8 g of Ca(OH)₂? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "5",
+   "0.2",
+   "0.4",
+   "1095.2"
+  ],
+  "answer": 1,
+  "explanation": "Molar mass of Ca(OH)₂ = 74 g/mol. n = mass ÷ M = 14.8 ÷ 74 = 0.2 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 63 g of HNO₃? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "3969",
+   "2",
+   "1",
+   "0.5"
+  ],
+  "answer": 2,
+  "explanation": "Molar mass of HNO₃ = 63 g/mol. n = mass ÷ M = 63 ÷ 63 = 1 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 408 g of Al₂O₃? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "4",
+   "8",
+   "0.25",
+   "41,616"
+  ],
+  "answer": 0,
+  "explanation": "Molar mass of Al₂O₃ = 102 g/mol. n = mass ÷ M = 408 ÷ 102 = 4 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 100 g of NaOH? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "4000",
+   "2.5",
+   "0.4",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": "Molar mass of NaOH = 40 g/mol. n = mass ÷ M = 100 ÷ 40 = 2.5 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 222 g of CaCl₂? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "24,642",
+   "0.5",
+   "2",
+   "4"
+  ],
+  "answer": 2,
+  "explanation": "Molar mass of CaCl₂ = 111 g/mol. n = mass ÷ M = 222 ÷ 111 = 2 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 7.45 g of KCl? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "10",
+   "0.2",
+   "0.1",
+   "0.05"
+  ],
+  "answer": 2,
+  "explanation": "Molar mass of KCl = 74.5 g/mol. n = mass ÷ M = 7.45 ÷ 74.5 = 0.1 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 40 g of CH₄? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "2.5",
+   "640",
+   "5",
+   "0.4"
+  ],
+  "answer": 0,
+  "explanation": "Molar mass of CH₄ = 16 g/mol. n = mass ÷ M = 40 ÷ 16 = 2.5 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 160 g of CuO? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "2",
+   "12,800",
+   "4",
+   "0.5"
+  ],
+  "answer": 0,
+  "explanation": "Molar mass of CuO = 80 g/mol. n = mass ÷ M = 160 ÷ 80 = 2 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 37.25 g of KCl? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "0.25",
+   "0.5",
+   "1",
+   "2"
+  ],
+  "answer": 1,
+  "explanation": "Molar mass of KCl = 74.5 g/mol. n = mass ÷ M = 37.25 ÷ 74.5 = 0.5 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 184 g of NO₂? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "8",
+   "0.25",
+   "4",
+   "8464"
+  ],
+  "answer": 2,
+  "explanation": "Molar mass of NO₂ = 46 g/mol. n = mass ÷ M = 184 ÷ 46 = 4 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 36 g of C₆H₁₂O₆? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "0.4",
+   "5",
+   "0.2",
+   "6480"
+  ],
+  "answer": 2,
+  "explanation": "Molar mass of C₆H₁₂O₆ = 180 g/mol. n = mass ÷ M = 36 ÷ 180 = 0.2 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 11.5 g of NO₂? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "4",
+   "0.25",
+   "0.5",
+   "529"
+  ],
+  "answer": 1,
+  "explanation": "Molar mass of NO₂ = 46 g/mol. n = mass ÷ M = 11.5 ÷ 46 = 0.25 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 40 g of CuSO₄? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "0.5",
+   "0.25",
+   "4",
+   "6400"
+  ],
+  "answer": 1,
+  "explanation": "Molar mass of CuSO₄ = 160 g/mol. n = mass ÷ M = 40 ÷ 160 = 0.25 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 120 g of CuO? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "3",
+   "9600",
+   "1.5",
+   "0.75"
+  ],
+  "answer": 2,
+  "explanation": "Molar mass of CuO = 80 g/mol. n = mass ÷ M = 120 ÷ 80 = 1.5 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 5.85 g of NaCl? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "0.1",
+   "10",
+   "0.05",
+   "0.2"
+  ],
+  "answer": 0,
+  "explanation": "Molar mass of NaCl = 58.5 g/mol. n = mass ÷ M = 5.85 ÷ 58.5 = 0.1 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 64 g of CH₄? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "4",
+   "1024",
+   "0.25",
+   "8"
+  ],
+  "answer": 0,
+  "explanation": "Molar mass of CH₄ = 16 g/mol. n = mass ÷ M = 64 ÷ 16 = 4 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 16 g of CuSO₄? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "10",
+   "0.1",
+   "0.2",
+   "2560"
+  ],
+  "answer": 1,
+  "explanation": "Molar mass of CuSO₄ = 160 g/mol. n = mass ÷ M = 16 ÷ 160 = 0.1 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many moles are in 140 g of KOH? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "7840",
+   "0.4",
+   "2.5",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "Molar mass of KOH = 56 g/mol. n = mass ÷ M = 140 ÷ 56 = 2.5 mol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the mass of 0.1 mol of NaCl. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "11.7 g",
+   "5.85 g",
+   "58.5 g",
+   "585 g"
+  ],
+  "answer": 1,
+  "explanation": "mass = n × M = 0.1 × 58.5 = 5.85 g.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the mass of 0.2 mol of NaHCO₃. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "84 g",
+   "16.8 g",
+   "420 g",
+   "33.6 g"
+  ],
+  "answer": 1,
+  "explanation": "mass = n × M = 0.2 × 84 = 16.8 g.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the mass of 5 mol of H₂SO₄. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "490 g",
+   "980 g",
+   "98 g",
+   "19.6 g"
+  ],
+  "answer": 0,
+  "explanation": "mass = n × M = 5 × 98 = 490 g.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the mass of 5 mol of CaCO₃. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "500 g",
+   "20 g",
+   "100 g",
+   "1000 g"
+  ],
+  "answer": 0,
+  "explanation": "mass = n × M = 5 × 100 = 500 g.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the mass of 0.1 mol of NaOH. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "8 g",
+   "40 g",
+   "4 g",
+   "400 g"
+  ],
+  "answer": 2,
+  "explanation": "mass = n × M = 0.1 × 40 = 4 g.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the mass of 2 mol of NH₃. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "68 g",
+   "8.5 g",
+   "34 g",
+   "17 g"
+  ],
+  "answer": 2,
+  "explanation": "mass = n × M = 2 × 17 = 34 g.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the mass of 5 mol of C₆H₁₂O₆. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "1800 g",
+   "180 g",
+   "900 g",
+   "36 g"
+  ],
+  "answer": 2,
+  "explanation": "mass = n × M = 5 × 180 = 900 g.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the mass of 0.2 mol of ZnO. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "32.4 g",
+   "405 g",
+   "81 g",
+   "16.2 g"
+  ],
+  "answer": 3,
+  "explanation": "mass = n × M = 0.2 × 81 = 16.2 g.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the mass of 0.1 mol of ZnO. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "16.2 g",
+   "810 g",
+   "81 g",
+   "8.1 g"
+  ],
+  "answer": 3,
+  "explanation": "mass = n × M = 0.1 × 81 = 8.1 g.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the mass of 0.2 mol of CaCl₂. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "44.4 g",
+   "111 g",
+   "555 g",
+   "22.2 g"
+  ],
+  "answer": 3,
+  "explanation": "mass = n × M = 0.2 × 111 = 22.2 g.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the mass of 5 mol of NaHCO₃. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "84 g",
+   "840 g",
+   "16.8 g",
+   "420 g"
+  ],
+  "answer": 3,
+  "explanation": "mass = n × M = 5 × 84 = 420 g.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the mass of 5 mol of NO₂. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "9.2 g",
+   "460 g",
+   "46 g",
+   "230 g"
+  ],
+  "answer": 3,
+  "explanation": "mass = n × M = 5 × 46 = 230 g.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the mass of 0.1 mol of Ca(OH)₂. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "740 g",
+   "7.4 g",
+   "74 g",
+   "14.8 g"
+  ],
+  "answer": 1,
+  "explanation": "mass = n × M = 0.1 × 74 = 7.4 g.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the mass of 0.5 mol of KOH. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "56 g",
+   "56.5 g",
+   "112 g",
+   "28 g"
+  ],
+  "answer": 3,
+  "explanation": "mass = n × M = 0.5 × 56 = 28 g.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the mass of 0.5 mol of NaOH. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "80 g",
+   "20 g",
+   "40.5 g",
+   "40 g"
+  ],
+  "answer": 1,
+  "explanation": "mass = n × M = 0.5 × 40 = 20 g.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many molecules are in 0.1 mol of a gas? (Avogadro's constant = 6.02 × 10²³)",
+  "options": [
+   "6.02 × 10²¹",
+   "6.02 × 10²²",
+   "6.02 × 10²⁴",
+   "6.02 × 10²³"
+  ],
+  "answer": 1,
+  "explanation": "Number of particles = n × L = 0.1 × 6.02 × 10²³ = 6.02 × 10²².",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many molecules are in 0.2 mol of a gas? (Avogadro's constant = 6.02 × 10²³)",
+  "options": [
+   "1.204 × 10²²",
+   "1.204 × 10²³",
+   "1.204 × 10²⁴",
+   "3.01 × 10²⁴"
+  ],
+  "answer": 1,
+  "explanation": "Number of particles = n × L = 0.2 × 6.02 × 10²³ = 1.204 × 10²³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many molecules are in 0.5 mol of a gas? (Avogadro's constant = 6.02 × 10²³)",
+  "options": [
+   "3.01 × 10²³",
+   "3.01 × 10²⁴",
+   "3.01 × 10²²",
+   "1.204 × 10²⁴"
+  ],
+  "answer": 0,
+  "explanation": "Number of particles = n × L = 0.5 × 6.02 × 10²³ = 3.01 × 10²³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many molecules are in 1.5 mol of a gas? (Avogadro's constant = 6.02 × 10²³)",
+  "options": [
+   "4.013 × 10²³",
+   "9.03 × 10²⁴",
+   "9.03 × 10²²",
+   "9.03 × 10²³"
+  ],
+  "answer": 3,
+  "explanation": "Number of particles = n × L = 1.5 × 6.02 × 10²³ = 9.03 × 10²³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many molecules are in 2 mol of a gas? (Avogadro's constant = 6.02 × 10²³)",
+  "options": [
+   "1.204 × 10²⁴",
+   "1.204 × 10²³",
+   "1.204 × 10²⁵",
+   "3.01 × 10²³"
+  ],
+  "answer": 0,
+  "explanation": "Number of particles = n × L = 2 × 6.02 × 10²³ = 1.204 × 10²⁴.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many molecules are in 2.5 mol of a gas? (Avogadro's constant = 6.02 × 10²³)",
+  "options": [
+   "1.505 × 10²³",
+   "1.505 × 10²⁴",
+   "2.408 × 10²³",
+   "1.505 × 10²⁵"
+  ],
+  "answer": 1,
+  "explanation": "Number of particles = n × L = 2.5 × 6.02 × 10²³ = 1.505 × 10²⁴.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many molecules are in 3 mol of a gas? (Avogadro's constant = 6.02 × 10²³)",
+  "options": [
+   "2.007 × 10²³",
+   "1.806 × 10²⁵",
+   "1.806 × 10²⁴",
+   "1.806 × 10²³"
+  ],
+  "answer": 2,
+  "explanation": "Number of particles = n × L = 3 × 6.02 × 10²³ = 1.806 × 10²⁴.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many molecules are in 4 mol of a gas? (Avogadro's constant = 6.02 × 10²³)",
+  "options": [
+   "2.408 × 10²⁴",
+   "2.408 × 10²⁵",
+   "1.505 × 10²³",
+   "2.408 × 10²³"
+  ],
+  "answer": 0,
+  "explanation": "Number of particles = n × L = 4 × 6.02 × 10²³ = 2.408 × 10²⁴.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many molecules are in 5 mol of a gas? (Avogadro's constant = 6.02 × 10²³)",
+  "options": [
+   "3.01 × 10²⁴",
+   "1.204 × 10²³",
+   "3.01 × 10²³",
+   "3.01 × 10²⁵"
+  ],
+  "answer": 0,
+  "explanation": "Number of particles = n × L = 5 × 6.02 × 10²³ = 3.01 × 10²⁴.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "How many molecules are in 0.25 mol of a gas? (Avogadro's constant = 6.02 × 10²³)",
+  "options": [
+   "1.505 × 10²³",
+   "1.505 × 10²²",
+   "1.505 × 10²⁴",
+   "2.408 × 10²⁴"
+  ],
+  "answer": 0,
+  "explanation": "Number of particles = n × L = 0.25 × 6.02 × 10²³ = 1.505 × 10²³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "0.5 mol of a solute is dissolved in water to make 200 cm³ of solution. Find the concentration in mol/dm³.",
+  "options": [
+   "2.5 mol/dm³",
+   "25 mol/dm³",
+   "0.25 mol/dm³",
+   "100 mol/dm³"
+  ],
+  "answer": 0,
+  "explanation": "c = n/V = 0.5 ÷ 0.2 dm³ = 2.5 mol/dm³. (1000 cm³ = 1 dm³)",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "1 mol of a solute is dissolved in water to make 100 cm³ of solution. Find the concentration in mol/dm³.",
+  "options": [
+   "0.01 mol/dm³",
+   "10 mol/dm³",
+   "1 mol/dm³",
+   "100 mol/dm³"
+  ],
+  "answer": 1,
+  "explanation": "c = n/V = 1 ÷ 0.1 dm³ = 10 mol/dm³. (1000 cm³ = 1 dm³)",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "1 mol of a solute is dissolved in water to make 200 cm³ of solution. Find the concentration in mol/dm³.",
+  "options": [
+   "5 mol/dm³",
+   "200 mol/dm³",
+   "0.5 mol/dm³",
+   "50 mol/dm³"
+  ],
+  "answer": 0,
+  "explanation": "c = n/V = 1 ÷ 0.2 dm³ = 5 mol/dm³. (1000 cm³ = 1 dm³)",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "0.05 mol of a solute is dissolved in water to make 100 cm³ of solution. Find the concentration in mol/dm³.",
+  "options": [
+   "5 mol/dm³",
+   "0.5 mol/dm³",
+   "1.5 mol/dm³",
+   "0.05 mol/dm³"
+  ],
+  "answer": 1,
+  "explanation": "c = n/V = 0.05 ÷ 0.1 dm³ = 0.5 mol/dm³. (1000 cm³ = 1 dm³)",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "0.1 mol of a solute is dissolved in water to make 200 cm³ of solution. Find the concentration in mol/dm³.",
+  "options": [
+   "0.5 mol/dm³",
+   "20 mol/dm³",
+   "0.05 mol/dm³",
+   "5 mol/dm³"
+  ],
+  "answer": 0,
+  "explanation": "c = n/V = 0.1 ÷ 0.2 dm³ = 0.5 mol/dm³. (1000 cm³ = 1 dm³)",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "0.2 mol of a solute is dissolved in water to make 1000 cm³ of solution. Find the concentration in mol/dm³.",
+  "options": [
+   "0.2 mol/dm³",
+   "200 mol/dm³",
+   "2 mol/dm³",
+   "0.02 mol/dm³"
+  ],
+  "answer": 0,
+  "explanation": "c = n/V = 0.2 ÷ 1 dm³ = 0.2 mol/dm³. (1000 cm³ = 1 dm³)",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "0.4 mol of a solute is dissolved in water to make 200 cm³ of solution. Find the concentration in mol/dm³.",
+  "options": [
+   "2 mol/dm³",
+   "20 mol/dm³",
+   "80 mol/dm³",
+   "0.2 mol/dm³"
+  ],
+  "answer": 0,
+  "explanation": "c = n/V = 0.4 ÷ 0.2 dm³ = 2 mol/dm³. (1000 cm³ = 1 dm³)",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "0.4 mol of a solute is dissolved in water to make 500 cm³ of solution. Find the concentration in mol/dm³.",
+  "options": [
+   "0.08 mol/dm³",
+   "200 mol/dm³",
+   "0.8 mol/dm³",
+   "8 mol/dm³"
+  ],
+  "answer": 2,
+  "explanation": "c = n/V = 0.4 ÷ 0.5 dm³ = 0.8 mol/dm³. (1000 cm³ = 1 dm³)",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "0.05 mol of a solute is dissolved in water to make 1000 cm³ of solution. Find the concentration in mol/dm³.",
+  "options": [
+   "50 mol/dm³",
+   "0.5 mol/dm³",
+   "0.05 mol/dm³",
+   "1.05 mol/dm³"
+  ],
+  "answer": 2,
+  "explanation": "c = n/V = 0.05 ÷ 1 dm³ = 0.05 mol/dm³. (1000 cm³ = 1 dm³)",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "0.25 mol of a solute is dissolved in water to make 200 cm³ of solution. Find the concentration in mol/dm³.",
+  "options": [
+   "0.05 mol/dm³",
+   "50 mol/dm³",
+   "12.5 mol/dm³",
+   "1.25 mol/dm³"
+  ],
+  "answer": 3,
+  "explanation": "c = n/V = 0.25 ÷ 0.2 dm³ = 1.25 mol/dm³. (1000 cm³ = 1 dm³)",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "0.05 mol of a solute is dissolved in water to make 250 cm³ of solution. Find the concentration in mol/dm³.",
+  "options": [
+   "0.02 mol/dm³",
+   "0.2 mol/dm³",
+   "2 mol/dm³",
+   "12.5 mol/dm³"
+  ],
+  "answer": 1,
+  "explanation": "c = n/V = 0.05 ÷ 0.25 dm³ = 0.2 mol/dm³. (1000 cm³ = 1 dm³)",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "0.05 mol of a solute is dissolved in water to make 200 cm³ of solution. Find the concentration in mol/dm³.",
+  "options": [
+   "2.5 mol/dm³",
+   "0.25 mol/dm³",
+   "10 mol/dm³",
+   "0.01 mol/dm³"
+  ],
+  "answer": 1,
+  "explanation": "c = n/V = 0.05 ÷ 0.2 dm³ = 0.25 mol/dm³. (1000 cm³ = 1 dm³)",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "0.4 mol of a solute is dissolved in water to make 250 cm³ of solution. Find the concentration in mol/dm³.",
+  "options": [
+   "100 mol/dm³",
+   "0.16 mol/dm³",
+   "16 mol/dm³",
+   "1.6 mol/dm³"
+  ],
+  "answer": 3,
+  "explanation": "c = n/V = 0.4 ÷ 0.25 dm³ = 1.6 mol/dm³. (1000 cm³ = 1 dm³)",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "0.2 mol of a solute is dissolved in water to make 250 cm³ of solution. Find the concentration in mol/dm³.",
+  "options": [
+   "8 mol/dm³",
+   "50 mol/dm³",
+   "0.08 mol/dm³",
+   "0.8 mol/dm³"
+  ],
+  "answer": 3,
+  "explanation": "c = n/V = 0.2 ÷ 0.25 dm³ = 0.8 mol/dm³. (1000 cm³ = 1 dm³)",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "0.2 mol of a solute is dissolved in water to make 200 cm³ of solution. Find the concentration in mol/dm³.",
+  "options": [
+   "0.1 mol/dm³",
+   "40 mol/dm³",
+   "1 mol/dm³",
+   "10 mol/dm³"
+  ],
+  "answer": 2,
+  "explanation": "c = n/V = 0.2 ÷ 0.2 dm³ = 1 mol/dm³. (1000 cm³ = 1 dm³)",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "What mass of Na₂CO₃ is needed to make 1 dm³ of a 0.5 mol/dm³ solution? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "212 g",
+   "106 g",
+   "530 g",
+   "53 g"
+  ],
+  "answer": 3,
+  "explanation": "mass = c × V × M = 0.5 × 1 × 106 = 53 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "What mass of CuSO₄ is needed to make 1 dm³ of a 0.5 mol/dm³ solution? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "320 g",
+   "800 g",
+   "160 g",
+   "80 g"
+  ],
+  "answer": 3,
+  "explanation": "mass = c × V × M = 0.5 × 1 × 160 = 80 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "What mass of HCl is needed to make 1 dm³ of a 0.2 mol/dm³ solution? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "7.3 g",
+   "36.5 g",
+   "73 g",
+   "182.5 g"
+  ],
+  "answer": 0,
+  "explanation": "mass = c × V × M = 0.2 × 1 × 36.5 = 7.3 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "What mass of KOH is needed to make 1 dm³ of a 0.2 mol/dm³ solution? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "112 g",
+   "11.2 g",
+   "280 g",
+   "56 g"
+  ],
+  "answer": 1,
+  "explanation": "mass = c × V × M = 0.2 × 1 × 56 = 11.2 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "What mass of KOH is needed to make 1 dm³ of a 0.1 mol/dm³ solution? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "0.1 g",
+   "56 g",
+   "560 g",
+   "5.6 g"
+  ],
+  "answer": 3,
+  "explanation": "mass = c × V × M = 0.1 × 1 × 56 = 5.6 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "What mass of HCl is needed to make 1 dm³ of a 0.5 mol/dm³ solution? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "182.5 g",
+   "73 g",
+   "36.5 g",
+   "18.25 g"
+  ],
+  "answer": 3,
+  "explanation": "mass = c × V × M = 0.5 × 1 × 36.5 = 18.25 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "What mass of NaOH is needed to make 1 dm³ of a 1 mol/dm³ solution? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "1 g",
+   "400 g",
+   "40 g",
+   "44 g"
+  ],
+  "answer": 2,
+  "explanation": "mass = c × V × M = 1 × 1 × 40 = 40 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "What mass of Na₂CO₃ is needed to make 1 dm³ of a 0.1 mol/dm³ solution? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "0.1 g",
+   "1060 g",
+   "10.6 g",
+   "106 g"
+  ],
+  "answer": 2,
+  "explanation": "mass = c × V × M = 0.1 × 1 × 106 = 10.6 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "What mass of KCl is needed to make 1 dm³ of a 0.1 mol/dm³ solution? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "0.1 g",
+   "7.45 g",
+   "745 g",
+   "74.5 g"
+  ],
+  "answer": 1,
+  "explanation": "mass = c × V × M = 0.1 × 1 × 74.5 = 7.45 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Solutions",
+  "body": "What mass of Na₂CO₃ is needed to make 1 dm³ of a 1 mol/dm³ solution? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "117 g",
+   "1060 g",
+   "106 g",
+   "1 g"
+  ],
+  "answer": 2,
+  "explanation": "mass = c × V × M = 1 × 1 × 106 = 106 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "What volume does 0.1 mol of a gas occupy at s.t.p.? (Molar volume = 22.4 dm³)",
+  "options": [
+   "22.5 dm³",
+   "2.24 dm³",
+   "2.4 dm³",
+   "224 dm³"
+  ],
+  "answer": 1,
+  "explanation": "V = n × 22.4 = 0.1 × 22.4 = 2.24 dm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "What volume does 0.25 mol of a gas occupy at s.t.p.? (Molar volume = 22.4 dm³)",
+  "options": [
+   "6 dm³",
+   "0.56 dm³",
+   "89.6 dm³",
+   "5.6 dm³"
+  ],
+  "answer": 3,
+  "explanation": "V = n × 22.4 = 0.25 × 22.4 = 5.6 dm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "What volume does 0.5 mol of a gas occupy at s.t.p.? (Molar volume = 22.4 dm³)",
+  "options": [
+   "12 dm³",
+   "11.2 dm³",
+   "1.12 dm³",
+   "44.8 dm³"
+  ],
+  "answer": 1,
+  "explanation": "V = n × 22.4 = 0.5 × 22.4 = 11.2 dm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "What volume does 1 mol of a gas occupy at s.t.p.? (Molar volume = 22.4 dm³)",
+  "options": [
+   "2.24 dm³",
+   "24 dm³",
+   "22.4 dm³",
+   "23.4 dm³"
+  ],
+  "answer": 2,
+  "explanation": "V = n × 22.4 = 1 × 22.4 = 22.4 dm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "What volume does 1.5 mol of a gas occupy at s.t.p.? (Molar volume = 22.4 dm³)",
+  "options": [
+   "23.9 dm³",
+   "36 dm³",
+   "3.36 dm³",
+   "33.6 dm³"
+  ],
+  "answer": 3,
+  "explanation": "V = n × 22.4 = 1.5 × 22.4 = 33.6 dm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "What volume does 2 mol of a gas occupy at s.t.p.? (Molar volume = 22.4 dm³)",
+  "options": [
+   "4.48 dm³",
+   "11.2 dm³",
+   "44.8 dm³",
+   "48 dm³"
+  ],
+  "answer": 2,
+  "explanation": "V = n × 22.4 = 2 × 22.4 = 44.8 dm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "What volume does 2.5 mol of a gas occupy at s.t.p.? (Molar volume = 22.4 dm³)",
+  "options": [
+   "56 dm³",
+   "8.96 dm³",
+   "5.6 dm³",
+   "60 dm³"
+  ],
+  "answer": 0,
+  "explanation": "V = n × 22.4 = 2.5 × 22.4 = 56 dm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "What volume does 3 mol of a gas occupy at s.t.p.? (Molar volume = 22.4 dm³)",
+  "options": [
+   "25.4 dm³",
+   "72 dm³",
+   "6.72 dm³",
+   "67.2 dm³"
+  ],
+  "answer": 3,
+  "explanation": "V = n × 22.4 = 3 × 22.4 = 67.2 dm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "What volume does 4 mol of a gas occupy at s.t.p.? (Molar volume = 22.4 dm³)",
+  "options": [
+   "5.6 dm³",
+   "96 dm³",
+   "8.96 dm³",
+   "89.6 dm³"
+  ],
+  "answer": 3,
+  "explanation": "V = n × 22.4 = 4 × 22.4 = 89.6 dm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "What volume does 5 mol of a gas occupy at s.t.p.? (Molar volume = 22.4 dm³)",
+  "options": [
+   "11.2 dm³",
+   "4.48 dm³",
+   "120 dm³",
+   "112 dm³"
+  ],
+  "answer": 3,
+  "explanation": "V = n × 22.4 = 5 × 22.4 = 112 dm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas occupies 20 cm³ at 300 kPa. Find its volume at 50 kPa, temperature remaining constant.",
+  "options": [
+   "20 cm³",
+   "240 cm³",
+   "120 cm³",
+   "132 cm³"
+  ],
+  "answer": 2,
+  "explanation": "Boyle's law: P₁V₁ = P₂V₂ ⇒ V₂ = 300 × 20 ÷ 50 = 120 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas occupies 40 cm³ at 150 kPa. Find its volume at 300 kPa, temperature remaining constant.",
+  "options": [
+   "20 cm³",
+   "80 cm³",
+   "190 cm³",
+   "40 cm³"
+  ],
+  "answer": 0,
+  "explanation": "Boyle's law: P₁V₁ = P₂V₂ ⇒ V₂ = 150 × 40 ÷ 300 = 20 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas occupies 40 cm³ at 300 kPa. Find its volume at 240 kPa, temperature remaining constant.",
+  "options": [
+   "40 cm³",
+   "32 cm³",
+   "100 cm³",
+   "50 cm³"
+  ],
+  "answer": 3,
+  "explanation": "Boyle's law: P₁V₁ = P₂V₂ ⇒ V₂ = 300 × 40 ÷ 240 = 50 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas occupies 30 cm³ at 400 kPa. Find its volume at 50 kPa, temperature remaining constant.",
+  "options": [
+   "3.75 cm³",
+   "240 cm³",
+   "30 cm³",
+   "480 cm³"
+  ],
+  "answer": 1,
+  "explanation": "Boyle's law: P₁V₁ = P₂V₂ ⇒ V₂ = 400 × 30 ÷ 50 = 240 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas occupies 40 cm³ at 200 kPa. Find its volume at 100 kPa, temperature remaining constant.",
+  "options": [
+   "20 cm³",
+   "80 cm³",
+   "40 cm³",
+   "160 cm³"
+  ],
+  "answer": 1,
+  "explanation": "Boyle's law: P₁V₁ = P₂V₂ ⇒ V₂ = 200 × 40 ÷ 100 = 80 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas occupies 30 cm³ at 100 kPa. Find its volume at 600 kPa, temperature remaining constant.",
+  "options": [
+   "180 cm³",
+   "30 cm³",
+   "5 cm³",
+   "10 cm³"
+  ],
+  "answer": 2,
+  "explanation": "Boyle's law: P₁V₁ = P₂V₂ ⇒ V₂ = 100 × 30 ÷ 600 = 5 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas occupies 120 cm³ at 100 kPa. Find its volume at 240 kPa, temperature remaining constant.",
+  "options": [
+   "100 cm³",
+   "50 cm³",
+   "288 cm³",
+   "120 cm³"
+  ],
+  "answer": 1,
+  "explanation": "Boyle's law: P₁V₁ = P₂V₂ ⇒ V₂ = 100 × 120 ÷ 240 = 50 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas occupies 40 cm³ at 150 kPa. Find its volume at 240 kPa, temperature remaining constant.",
+  "options": [
+   "25 cm³",
+   "50 cm³",
+   "64 cm³",
+   "40 cm³"
+  ],
+  "answer": 0,
+  "explanation": "Boyle's law: P₁V₁ = P₂V₂ ⇒ V₂ = 150 × 40 ÷ 240 = 25 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas occupies 30 cm³ at 150 kPa. Find its volume at 50 kPa, temperature remaining constant.",
+  "options": [
+   "180 cm³",
+   "30 cm³",
+   "10 cm³",
+   "90 cm³"
+  ],
+  "answer": 3,
+  "explanation": "Boyle's law: P₁V₁ = P₂V₂ ⇒ V₂ = 150 × 30 ÷ 50 = 90 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas occupies 20 cm³ at 300 kPa. Find its volume at 200 kPa, temperature remaining constant.",
+  "options": [
+   "60 cm³",
+   "33 cm³",
+   "30 cm³",
+   "20 cm³"
+  ],
+  "answer": 2,
+  "explanation": "Boyle's law: P₁V₁ = P₂V₂ ⇒ V₂ = 300 × 20 ÷ 200 = 30 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas occupies 120 cm³ at 200 kPa. Find its volume at 240 kPa, temperature remaining constant.",
+  "options": [
+   "120 cm³",
+   "100 cm³",
+   "200 cm³",
+   "144 cm³"
+  ],
+  "answer": 1,
+  "explanation": "Boyle's law: P₁V₁ = P₂V₂ ⇒ V₂ = 200 × 120 ÷ 240 = 100 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas occupies 60 cm³ at 300 kPa. Find its volume at 200 kPa, temperature remaining constant.",
+  "options": [
+   "90 cm³",
+   "60 cm³",
+   "40 cm³",
+   "180 cm³"
+  ],
+  "answer": 0,
+  "explanation": "Boyle's law: P₁V₁ = P₂V₂ ⇒ V₂ = 300 × 60 ÷ 200 = 90 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas has a volume of 600 cm³ at 127 °C. Find its volume at 177 °C at constant pressure.",
+  "options": [
+   "743 cm³",
+   "675 cm³",
+   "600 cm³",
+   "725 cm³"
+  ],
+  "answer": 1,
+  "explanation": "Charles's law: V₁/T₁ = V₂/T₂ (in kelvin). V₂ = 600 × 450 ÷ 400 = 675 cm³.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas has a volume of 400 cm³ at 47 °C. Find its volume at 27 °C at constant pressure.",
+  "options": [
+   "400 cm³",
+   "425 cm³",
+   "413 cm³",
+   "375 cm³"
+  ],
+  "answer": 3,
+  "explanation": "Charles's law: V₁/T₁ = V₂/T₂ (in kelvin). V₂ = 400 × 300 ÷ 320 = 375 cm³.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas has a volume of 300 cm³ at -73 °C. Find its volume at 227 °C at constant pressure.",
+  "options": [
+   "300 cm³",
+   "750 cm³",
+   "800 cm³",
+   "120 cm³"
+  ],
+  "answer": 1,
+  "explanation": "Charles's law: V₁/T₁ = V₂/T₂ (in kelvin). V₂ = 300 × 500 ÷ 200 = 750 cm³.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas has a volume of 100 cm³ at 127 °C. Find its volume at 327 °C at constant pressure.",
+  "options": [
+   "150 cm³",
+   "165 cm³",
+   "100 cm³",
+   "200 cm³"
+  ],
+  "answer": 0,
+  "explanation": "Charles's law: V₁/T₁ = V₂/T₂ (in kelvin). V₂ = 100 × 600 ÷ 400 = 150 cm³.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas has a volume of 600 cm³ at 27 °C. Find its volume at 177 °C at constant pressure.",
+  "options": [
+   "900 cm³",
+   "600 cm³",
+   "400 cm³",
+   "950 cm³"
+  ],
+  "answer": 0,
+  "explanation": "Charles's law: V₁/T₁ = V₂/T₂ (in kelvin). V₂ = 600 × 450 ÷ 300 = 900 cm³.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas has a volume of 200 cm³ at 47 °C. Find its volume at 327 °C at constant pressure.",
+  "options": [
+   "375 cm³",
+   "425 cm³",
+   "200 cm³",
+   "413 cm³"
+  ],
+  "answer": 0,
+  "explanation": "Charles's law: V₁/T₁ = V₂/T₂ (in kelvin). V₂ = 200 × 600 ÷ 320 = 375 cm³.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas has a volume of 400 cm³ at 27 °C. Find its volume at 177 °C at constant pressure.",
+  "options": [
+   "650 cm³",
+   "400 cm³",
+   "600 cm³",
+   "660 cm³"
+  ],
+  "answer": 2,
+  "explanation": "Charles's law: V₁/T₁ = V₂/T₂ (in kelvin). V₂ = 400 × 450 ÷ 300 = 600 cm³.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas has a volume of 300 cm³ at -73 °C. Find its volume at 327 °C at constant pressure.",
+  "options": [
+   "100 cm³",
+   "950 cm³",
+   "300 cm³",
+   "900 cm³"
+  ],
+  "answer": 3,
+  "explanation": "Charles's law: V₁/T₁ = V₂/T₂ (in kelvin). V₂ = 300 × 600 ÷ 200 = 900 cm³.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas has a volume of 600 cm³ at 127 °C. Find its volume at 227 °C at constant pressure.",
+  "options": [
+   "800 cm³",
+   "600 cm³",
+   "750 cm³",
+   "480 cm³"
+  ],
+  "answer": 2,
+  "explanation": "Charles's law: V₁/T₁ = V₂/T₂ (in kelvin). V₂ = 600 × 500 ÷ 400 = 750 cm³.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CHM",
+  "topic": "Gas laws",
+  "body": "A gas has a volume of 100 cm³ at -73 °C. Find its volume at 77 °C at constant pressure.",
+  "options": [
+   "193 cm³",
+   "175 cm³",
+   "225 cm³",
+   "100 cm³"
+  ],
+  "answer": 1,
+  "explanation": "Charles's law: V₁/T₁ = V₂/T₂ (in kelvin). V₂ = 100 × 350 ÷ 200 = 175 cm³.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of S in H₂SO₄?",
+  "options": [
+   "+4",
+   "+5",
+   "+6",
+   "+7"
+  ],
+  "answer": 2,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives S = +6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of N in HNO₃?",
+  "options": [
+   "+5",
+   "+4",
+   "+6",
+   "+7"
+  ],
+  "answer": 0,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives N = +5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of Mn in KMnO₄?",
+  "options": [
+   "+5",
+   "+6",
+   "+7",
+   "+4"
+  ],
+  "answer": 2,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives Mn = +7.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of Cr in K₂Cr₂O₇?",
+  "options": [
+   "+7",
+   "+4",
+   "+6",
+   "+5"
+  ],
+  "answer": 2,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives Cr = +6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of C in CO₂?",
+  "options": [
+   "+5",
+   "+4",
+   "+6",
+   "+3"
+  ],
+  "answer": 1,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives C = +4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of S in SO₂?",
+  "options": [
+   "+4",
+   "+5",
+   "+6",
+   "+3"
+  ],
+  "answer": 0,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives S = +4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of N in NH₃?",
+  "options": [
+   "−1",
+   "−3",
+   "−2",
+   "−4"
+  ],
+  "answer": 1,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives N = −3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of Cl in NaClO₃?",
+  "options": [
+   "+7",
+   "+5",
+   "+4",
+   "+6"
+  ],
+  "answer": 1,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives Cl = +5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of Cl in HCl?",
+  "options": [
+   "+1",
+   "0",
+   "−1",
+   "−2"
+  ],
+  "answer": 2,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives Cl = −1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of Fe in Fe₂O₃?",
+  "options": [
+   "+5",
+   "+4",
+   "+2",
+   "+3"
+  ],
+  "answer": 3,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives Fe = +3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of Cu in CuO?",
+  "options": [
+   "+4",
+   "+3",
+   "+2",
+   "+1"
+  ],
+  "answer": 2,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives Cu = +2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of Cu in Cu₂O?",
+  "options": [
+   "+2",
+   "+1",
+   "0",
+   "+3"
+  ],
+  "answer": 1,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives Cu = +1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of P in H₃PO₄?",
+  "options": [
+   "+5",
+   "+7",
+   "+6",
+   "+4"
+  ],
+  "answer": 0,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives P = +5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of N in NO₂?",
+  "options": [
+   "+4",
+   "+5",
+   "+6",
+   "+3"
+  ],
+  "answer": 0,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives N = +4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of S in H₂S?",
+  "options": [
+   "−3",
+   "−1",
+   "0",
+   "−2"
+  ],
+  "answer": 3,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives S = −2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of C in CH₄?",
+  "options": [
+   "−1",
+   "−3",
+   "−4",
+   "−2"
+  ],
+  "answer": 2,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives C = −4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of Mn in MnO₂?",
+  "options": [
+   "+5",
+   "+6",
+   "+4",
+   "+3"
+  ],
+  "answer": 2,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives Mn = +4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of O in H₂O₂?",
+  "options": [
+   "+1",
+   "−1",
+   "0",
+   "−2"
+  ],
+  "answer": 1,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives O = −1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of N in N₂?",
+  "options": [
+   "0",
+   "−1",
+   "+1",
+   "+2"
+  ],
+  "answer": 0,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives N = 0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of Cl in NaOCl?",
+  "options": [
+   "0",
+   "+1",
+   "+2",
+   "+3"
+  ],
+  "answer": 1,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives Cl = +1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of S in Na₂S₂O₃?",
+  "options": [
+   "+2",
+   "+3",
+   "+4",
+   "+1"
+  ],
+  "answer": 0,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives S = +2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of N in NaNO₂?",
+  "options": [
+   "+5",
+   "+4",
+   "+2",
+   "+3"
+  ],
+  "answer": 3,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives N = +3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of C in CO?",
+  "options": [
+   "+1",
+   "+2",
+   "+3",
+   "+4"
+  ],
+  "answer": 1,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives C = +2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Redox",
+  "body": "What is the oxidation number of Fe in FeSO₄?",
+  "options": [
+   "+1",
+   "+2",
+   "+3",
+   "+4"
+  ],
+  "answer": 1,
+  "explanation": "Sum of oxidation numbers in a neutral compound is 0 (H = +1, O = −2 except in peroxides). Solving gives Fe = +2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the percentage by mass of O in CuO. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "80%",
+   "20%",
+   "16%",
+   "24%"
+  ],
+  "answer": 1,
+  "explanation": "% O = (1 × 16) / 80 × 100 = 20%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the percentage by mass of O in HNO₃. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "23.8%",
+   "91.4%",
+   "76.2%",
+   "25.4%"
+  ],
+  "answer": 2,
+  "explanation": "% O = (3 × 16) / 63 × 100 = 76.2%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the percentage by mass of O in Fe₂O₃. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "10%",
+   "70%",
+   "30%",
+   "36%"
+  ],
+  "answer": 2,
+  "explanation": "% O = (3 × 16) / 160 × 100 = 30%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the percentage by mass of O in Al₂O₃. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "47.1%",
+   "56.5%",
+   "52.9%",
+   "15.7%"
+  ],
+  "answer": 0,
+  "explanation": "% O = (3 × 16) / 102 × 100 = 47.1%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the percentage by mass of Ca in CaO. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "28.6%",
+   "71.4%",
+   "57.1%",
+   "85.7%"
+  ],
+  "answer": 1,
+  "explanation": "% Ca = (1 × 40) / 56 × 100 = 71.4%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the percentage by mass of Na in NaCl. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "47.2%",
+   "39.3%",
+   "31.4%",
+   "60.7%"
+  ],
+  "answer": 1,
+  "explanation": "% Na = (1 × 23) / 58.5 × 100 = 39.3%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the percentage by mass of O in NaHCO₃. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "68.5%",
+   "57.1%",
+   "19%",
+   "42.9%"
+  ],
+  "answer": 1,
+  "explanation": "% O = (3 × 16) / 84 × 100 = 57.1%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the percentage by mass of O in KOH. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "34.3%",
+   "22.9%",
+   "28.6%",
+   "71.4%"
+  ],
+  "answer": 2,
+  "explanation": "% O = (1 × 16) / 56 × 100 = 28.6%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the percentage by mass of Cl in HCl. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "2.7%",
+   "77.8%",
+   "116.8%",
+   "97.3%"
+  ],
+  "answer": 3,
+  "explanation": "% Cl = (1 × 35.5) / 36.5 × 100 = 97.3%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the percentage by mass of O in Na₂CO₃. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "45.3%",
+   "54.7%",
+   "54.4%",
+   "15.1%"
+  ],
+  "answer": 0,
+  "explanation": "% O = (3 × 16) / 106 × 100 = 45.3%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the percentage by mass of C in CH₄. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "25%",
+   "75%",
+   "90%",
+   "60%"
+  ],
+  "answer": 1,
+  "explanation": "% C = (1 × 12) / 16 × 100 = 75%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the percentage by mass of N in NH₃. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "65.9%",
+   "82.4%",
+   "17.6%",
+   "98.9%"
+  ],
+  "answer": 1,
+  "explanation": "% N = (1 × 14) / 17 × 100 = 82.4%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the percentage by mass of S in H₂SO₄. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "32.7%",
+   "67.3%",
+   "39.2%",
+   "26.2%"
+  ],
+  "answer": 0,
+  "explanation": "% S = (1 × 32) / 98 × 100 = 32.7%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the percentage by mass of O in CaCO₃. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "16%",
+   "48%",
+   "52%",
+   "57.6%"
+  ],
+  "answer": 1,
+  "explanation": "% O = (3 × 16) / 100 × 100 = 48%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the percentage by mass of Ca in CaCl₂. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "28.8%",
+   "36%",
+   "64%",
+   "43.2%"
+  ],
+  "answer": 1,
+  "explanation": "% Ca = (1 × 40) / 111 × 100 = 36%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the percentage by mass of O in C₆H₁₂O₆. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "53.3%",
+   "8.9%",
+   "64%",
+   "46.7%"
+  ],
+  "answer": 0,
+  "explanation": "% O = (6 × 16) / 180 × 100 = 53.3%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the percentage by mass of Cl in KCl. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "38.2%",
+   "47.7%",
+   "52.3%",
+   "57.2%"
+  ],
+  "answer": 1,
+  "explanation": "% Cl = (1 × 35.5) / 74.5 × 100 = 47.7%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Mole concept",
+  "body": "Find the percentage by mass of O in C₂H₅OH. (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35.5, K = 39, Ca = 40, Fe = 56, Cu = 64, Zn = 65)",
+  "options": [
+   "65.2%",
+   "34.8%",
+   "41.8%",
+   "27.8%"
+  ],
+  "answer": 1,
+  "explanation": "% O = (1 × 16) / 46 × 100 = 34.8%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "What is the electron configuration of lithium (atomic number 3)?",
+  "options": [
+   "2,1",
+   "2,8,8,1",
+   "2,4",
+   "2,8,6"
+  ],
+  "answer": 0,
+  "explanation": "Lithium has 3 electrons arranged as 2,1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "What is the electron configuration of beryllium (atomic number 4)?",
+  "options": [
+   "2,4",
+   "2,8",
+   "2,8,8",
+   "2,2"
+  ],
+  "answer": 3,
+  "explanation": "Beryllium has 4 electrons arranged as 2,2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "What is the electron configuration of boron (atomic number 5)?",
+  "options": [
+   "2,3",
+   "2,8,8,2",
+   "2,8,4",
+   "2,8,6"
+  ],
+  "answer": 0,
+  "explanation": "Boron has 5 electrons arranged as 2,3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "What is the electron configuration of carbon (atomic number 6)?",
+  "options": [
+   "2,8,5",
+   "2,7",
+   "2,4",
+   "2,2"
+  ],
+  "answer": 2,
+  "explanation": "Carbon has 6 electrons arranged as 2,4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "What is the electron configuration of nitrogen (atomic number 7)?",
+  "options": [
+   "2,8,8,1",
+   "2,8,6",
+   "2,5",
+   "2,8"
+  ],
+  "answer": 2,
+  "explanation": "Nitrogen has 7 electrons arranged as 2,5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "What is the electron configuration of oxygen (atomic number 8)?",
+  "options": [
+   "2,6",
+   "2,8,2",
+   "2,2",
+   "2,8,8,2"
+  ],
+  "answer": 0,
+  "explanation": "Oxygen has 8 electrons arranged as 2,6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "What is the electron configuration of fluorine (atomic number 9)?",
+  "options": [
+   "2,5",
+   "2,7",
+   "2,8,8,2",
+   "2"
+  ],
+  "answer": 1,
+  "explanation": "Fluorine has 9 electrons arranged as 2,7.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "What is the electron configuration of neon (atomic number 10)?",
+  "options": [
+   "2,8,1",
+   "2,8,2",
+   "2,8,8,2",
+   "2,8"
+  ],
+  "answer": 3,
+  "explanation": "Neon has 10 electrons arranged as 2,8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "What is the electron configuration of sodium (atomic number 11)?",
+  "options": [
+   "2,8,1",
+   "2,8,8,2",
+   "2",
+   "2,4"
+  ],
+  "answer": 0,
+  "explanation": "Sodium has 11 electrons arranged as 2,8,1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "What is the electron configuration of magnesium (atomic number 12)?",
+  "options": [
+   "2,8,2",
+   "2,7",
+   "2,8,1",
+   "2,1"
+  ],
+  "answer": 0,
+  "explanation": "Magnesium has 12 electrons arranged as 2,8,2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "What is the electron configuration of aluminium (atomic number 13)?",
+  "options": [
+   "2,8,7",
+   "2,8",
+   "2,3",
+   "2,8,3"
+  ],
+  "answer": 3,
+  "explanation": "Aluminium has 13 electrons arranged as 2,8,3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "What is the electron configuration of silicon (atomic number 14)?",
+  "options": [
+   "2,8,4",
+   "1",
+   "2",
+   "2,8,8"
+  ],
+  "answer": 0,
+  "explanation": "Silicon has 14 electrons arranged as 2,8,4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "What is the electron configuration of phosphorus (atomic number 15)?",
+  "options": [
+   "2,8,5",
+   "2,1",
+   "2,8,2",
+   "2,4"
+  ],
+  "answer": 0,
+  "explanation": "Phosphorus has 15 electrons arranged as 2,8,5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "What is the electron configuration of sulphur (atomic number 16)?",
+  "options": [
+   "2,8,4",
+   "2,8,6",
+   "2,4",
+   "2,7"
+  ],
+  "answer": 1,
+  "explanation": "Sulphur has 16 electrons arranged as 2,8,6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "What is the electron configuration of chlorine (atomic number 17)?",
+  "options": [
+   "2,8,6",
+   "2,8,7",
+   "2,1",
+   "2,5"
+  ],
+  "answer": 1,
+  "explanation": "Chlorine has 17 electrons arranged as 2,8,7.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "What is the electron configuration of argon (atomic number 18)?",
+  "options": [
+   "2,8,2",
+   "2,6",
+   "2,8,8",
+   "2,8,6"
+  ],
+  "answer": 2,
+  "explanation": "Argon has 18 electrons arranged as 2,8,8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "What is the electron configuration of potassium (atomic number 19)?",
+  "options": [
+   "2,8,8,1",
+   "2,6",
+   "2,8,5",
+   "1"
+  ],
+  "answer": 0,
+  "explanation": "Potassium has 19 electrons arranged as 2,8,8,1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "What is the electron configuration of calcium (atomic number 20)?",
+  "options": [
+   "2,8,8,2",
+   "2,8,8",
+   "1",
+   "2,1"
+  ],
+  "answer": 0,
+  "explanation": "Calcium has 20 electrons arranged as 2,8,8,2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "What is the chemical symbol for hydrogen?",
+  "options": [
+   "H",
+   "He",
+   "O",
+   "B"
+  ],
+  "answer": 0,
+  "explanation": "The symbol for hydrogen is H.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "What is the chemical symbol for helium?",
+  "options": [
+   "Na",
+   "He",
+   "P",
+   "K"
+  ],
+  "answer": 1,
+  "explanation": "The symbol for helium is He.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "What is the chemical symbol for lithium?",
+  "options": [
+   "Mg",
+   "O",
+   "Li",
+   "Ca"
+  ],
+  "answer": 2,
+  "explanation": "The symbol for lithium is Li.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "What is the chemical symbol for beryllium?",
+  "options": [
+   "Be",
+   "He",
+   "Ar",
+   "O"
+  ],
+  "answer": 0,
+  "explanation": "The symbol for beryllium is Be.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "What is the chemical symbol for boron?",
+  "options": [
+   "B",
+   "C",
+   "P",
+   "N"
+  ],
+  "answer": 0,
+  "explanation": "The symbol for boron is B.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "What is the chemical symbol for carbon?",
+  "options": [
+   "C",
+   "He",
+   "H",
+   "N"
+  ],
+  "answer": 0,
+  "explanation": "The symbol for carbon is C.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "What is the chemical symbol for nitrogen?",
+  "options": [
+   "Li",
+   "K",
+   "N",
+   "Na"
+  ],
+  "answer": 2,
+  "explanation": "The symbol for nitrogen is N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "What is the chemical symbol for oxygen?",
+  "options": [
+   "Al",
+   "O",
+   "S",
+   "Si"
+  ],
+  "answer": 1,
+  "explanation": "The symbol for oxygen is O.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "What is the chemical symbol for fluorine?",
+  "options": [
+   "F",
+   "Cl",
+   "Ne",
+   "Na"
+  ],
+  "answer": 0,
+  "explanation": "The symbol for fluorine is F.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "What is the chemical symbol for neon?",
+  "options": [
+   "Si",
+   "O",
+   "Na",
+   "Ne"
+  ],
+  "answer": 3,
+  "explanation": "The symbol for neon is Ne.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "What is the chemical symbol for sodium?",
+  "options": [
+   "B",
+   "Na",
+   "N",
+   "H"
+  ],
+  "answer": 1,
+  "explanation": "The symbol for sodium is Na.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "What is the chemical symbol for magnesium?",
+  "options": [
+   "Be",
+   "He",
+   "Mg",
+   "H"
+  ],
+  "answer": 2,
+  "explanation": "The symbol for magnesium is Mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "What is the chemical symbol for aluminium?",
+  "options": [
+   "B",
+   "Mg",
+   "Ne",
+   "Al"
+  ],
+  "answer": 3,
+  "explanation": "The symbol for aluminium is Al.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "What is the chemical symbol for silicon?",
+  "options": [
+   "N",
+   "F",
+   "K",
+   "Si"
+  ],
+  "answer": 3,
+  "explanation": "The symbol for silicon is Si.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "What is the chemical symbol for phosphorus?",
+  "options": [
+   "S",
+   "N",
+   "Be",
+   "P"
+  ],
+  "answer": 3,
+  "explanation": "The symbol for phosphorus is P.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "What is the chemical symbol for sulphur?",
+  "options": [
+   "Be",
+   "Li",
+   "S",
+   "H"
+  ],
+  "answer": 2,
+  "explanation": "The symbol for sulphur is S.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "What is the chemical symbol for chlorine?",
+  "options": [
+   "B",
+   "Ne",
+   "Cl",
+   "Li"
+  ],
+  "answer": 2,
+  "explanation": "The symbol for chlorine is Cl.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "What is the chemical symbol for argon?",
+  "options": [
+   "Li",
+   "Ar",
+   "Ca",
+   "C"
+  ],
+  "answer": 1,
+  "explanation": "The symbol for argon is Ar.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "What is the chemical symbol for potassium?",
+  "options": [
+   "H",
+   "K",
+   "Na",
+   "Ar"
+  ],
+  "answer": 1,
+  "explanation": "The symbol for potassium is K.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "What is the chemical symbol for calcium?",
+  "options": [
+   "Ca",
+   "Cl",
+   "Si",
+   "S"
+  ],
+  "answer": 0,
+  "explanation": "The symbol for calcium is Ca.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "An element has the electron configuration 2,1. To which group and period does it belong?",
+  "options": [
+   "Group 2, Period 2",
+   "Group 1, Period 2",
+   "Group 2, Period 1",
+   "Group 1, Period 3"
+  ],
+  "answer": 1,
+  "explanation": "The number of shells gives the period (2); electrons in the outermost shell give the group (1).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "An element has the electron configuration 2,2. To which group and period does it belong?",
+  "options": [
+   "Group 2, Period 2",
+   "Group 2, Period 3",
+   "Group 1, Period 2",
+   "Group 3, Period 2"
+  ],
+  "answer": 0,
+  "explanation": "The number of shells gives the period (2); electrons in the outermost shell give the group (2).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "An element has the electron configuration 2,3. To which group and period does it belong?",
+  "options": [
+   "Group 2, Period 3",
+   "Group 3, Period 3",
+   "Group 4, Period 2",
+   "Group 3, Period 2"
+  ],
+  "answer": 3,
+  "explanation": "The number of shells gives the period (2); electrons in the outermost shell give the group (3).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "An element has the electron configuration 2,4. To which group and period does it belong?",
+  "options": [
+   "Group 4, Period 3",
+   "Group 2, Period 4",
+   "Group 4, Period 2",
+   "Group 5, Period 2"
+  ],
+  "answer": 2,
+  "explanation": "The number of shells gives the period (2); electrons in the outermost shell give the group (4).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "An element has the electron configuration 2,5. To which group and period does it belong?",
+  "options": [
+   "Group 5, Period 2",
+   "Group 2, Period 5",
+   "Group 5, Period 3",
+   "Group 6, Period 2"
+  ],
+  "answer": 0,
+  "explanation": "The number of shells gives the period (2); electrons in the outermost shell give the group (5).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "An element has the electron configuration 2,6. To which group and period does it belong?",
+  "options": [
+   "Group 6, Period 3",
+   "Group 6, Period 2",
+   "Group 7, Period 2",
+   "Group 2, Period 6"
+  ],
+  "answer": 1,
+  "explanation": "The number of shells gives the period (2); electrons in the outermost shell give the group (6).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "An element has the electron configuration 2,7. To which group and period does it belong?",
+  "options": [
+   "Group 7, Period 3",
+   "Group 0 (18), Period 2",
+   "Group 2, Period 7",
+   "Group 7, Period 2"
+  ],
+  "answer": 3,
+  "explanation": "The number of shells gives the period (2); electrons in the outermost shell give the group (7).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "An element has the electron configuration 2,8. To which group and period does it belong?",
+  "options": [
+   "Group 0 (18), Period 3",
+   "Group 1, Period 2",
+   "Group 0 (18), Period 2",
+   "Group 2, Period 8"
+  ],
+  "answer": 2,
+  "explanation": "The number of shells gives the period (2); electrons in the outermost shell give the group (full shell = Group 0).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "An element has the electron configuration 2,8,1. To which group and period does it belong?",
+  "options": [
+   "Group 1, Period 4",
+   "Group 3, Period 1",
+   "Group 2, Period 3",
+   "Group 1, Period 3"
+  ],
+  "answer": 3,
+  "explanation": "The number of shells gives the period (3); electrons in the outermost shell give the group (1).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "An element has the electron configuration 2,8,2. To which group and period does it belong?",
+  "options": [
+   "Group 2, Period 4",
+   "Group 3, Period 3",
+   "Group 2, Period 3",
+   "Group 3, Period 2"
+  ],
+  "answer": 2,
+  "explanation": "The number of shells gives the period (3); electrons in the outermost shell give the group (2).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "An element has the electron configuration 2,8,3. To which group and period does it belong?",
+  "options": [
+   "Group 2, Period 3",
+   "Group 4, Period 3",
+   "Group 3, Period 3",
+   "Group 3, Period 4"
+  ],
+  "answer": 2,
+  "explanation": "The number of shells gives the period (3); electrons in the outermost shell give the group (3).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "An element has the electron configuration 2,8,4. To which group and period does it belong?",
+  "options": [
+   "Group 4, Period 4",
+   "Group 5, Period 3",
+   "Group 3, Period 4",
+   "Group 4, Period 3"
+  ],
+  "answer": 3,
+  "explanation": "The number of shells gives the period (3); electrons in the outermost shell give the group (4).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "An element has the electron configuration 2,8,5. To which group and period does it belong?",
+  "options": [
+   "Group 3, Period 5",
+   "Group 5, Period 3",
+   "Group 6, Period 3",
+   "Group 5, Period 4"
+  ],
+  "answer": 1,
+  "explanation": "The number of shells gives the period (3); electrons in the outermost shell give the group (5).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "An element has the electron configuration 2,8,6. To which group and period does it belong?",
+  "options": [
+   "Group 7, Period 3",
+   "Group 6, Period 3",
+   "Group 6, Period 4",
+   "Group 3, Period 6"
+  ],
+  "answer": 1,
+  "explanation": "The number of shells gives the period (3); electrons in the outermost shell give the group (6).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "An element has the electron configuration 2,8,7. To which group and period does it belong?",
+  "options": [
+   "Group 7, Period 4",
+   "Group 0 (18), Period 3",
+   "Group 7, Period 3",
+   "Group 3, Period 7"
+  ],
+  "answer": 2,
+  "explanation": "The number of shells gives the period (3); electrons in the outermost shell give the group (7).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "An element has the electron configuration 2,8,8. To which group and period does it belong?",
+  "options": [
+   "Group 0 (18), Period 3",
+   "Group 3, Period 8",
+   "Group 1, Period 3",
+   "Group 0 (18), Period 4"
+  ],
+  "answer": 0,
+  "explanation": "The number of shells gives the period (3); electrons in the outermost shell give the group (full shell = Group 0).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "An element has the electron configuration 2,8,8,1. To which group and period does it belong?",
+  "options": [
+   "Group 2, Period 4",
+   "Group 1, Period 5",
+   "Group 1, Period 4",
+   "Group 4, Period 1"
+  ],
+  "answer": 2,
+  "explanation": "The number of shells gives the period (4); electrons in the outermost shell give the group (1).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Periodic table",
+  "body": "An element has the electron configuration 2,8,8,2. To which group and period does it belong?",
+  "options": [
+   "Group 3, Period 4",
+   "Group 4, Period 2",
+   "Group 2, Period 4",
+   "Group 2, Period 5"
+  ],
+  "answer": 2,
+  "explanation": "The number of shells gives the period (4); electrons in the outermost shell give the group (2).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "How many neutrons are in an atom of ²³Na? (atomic number 11)",
+  "options": [
+   "34",
+   "11",
+   "23",
+   "12"
+  ],
+  "answer": 3,
+  "explanation": "Neutrons = mass number − atomic number = 23 − 11 = 12.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "How many neutrons are in an atom of ³⁵Cl? (atomic number 17)",
+  "options": [
+   "18",
+   "35",
+   "17",
+   "52"
+  ],
+  "answer": 0,
+  "explanation": "Neutrons = mass number − atomic number = 35 − 17 = 18.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "How many neutrons are in an atom of ³⁷Cl? (atomic number 17)",
+  "options": [
+   "17",
+   "37",
+   "54",
+   "20"
+  ],
+  "answer": 3,
+  "explanation": "Neutrons = mass number − atomic number = 37 − 17 = 20.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "How many neutrons are in an atom of ¹²C? (atomic number 6)",
+  "options": [
+   "7",
+   "18",
+   "12",
+   "6"
+  ],
+  "answer": 3,
+  "explanation": "Neutrons = mass number − atomic number = 12 − 6 = 6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "How many neutrons are in an atom of ¹⁴C? (atomic number 6)",
+  "options": [
+   "20",
+   "14",
+   "8",
+   "6"
+  ],
+  "answer": 2,
+  "explanation": "Neutrons = mass number − atomic number = 14 − 6 = 8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "How many neutrons are in an atom of ¹⁶O? (atomic number 8)",
+  "options": [
+   "8",
+   "16",
+   "9",
+   "24"
+  ],
+  "answer": 0,
+  "explanation": "Neutrons = mass number − atomic number = 16 − 8 = 8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "How many neutrons are in an atom of ²⁴Mg? (atomic number 12)",
+  "options": [
+   "24",
+   "12",
+   "13",
+   "36"
+  ],
+  "answer": 1,
+  "explanation": "Neutrons = mass number − atomic number = 24 − 12 = 12.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "How many neutrons are in an atom of ²⁷Al? (atomic number 13)",
+  "options": [
+   "40",
+   "13",
+   "14",
+   "27"
+  ],
+  "answer": 2,
+  "explanation": "Neutrons = mass number − atomic number = 27 − 13 = 14.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "How many neutrons are in an atom of ³⁹K? (atomic number 19)",
+  "options": [
+   "58",
+   "20",
+   "39",
+   "19"
+  ],
+  "answer": 1,
+  "explanation": "Neutrons = mass number − atomic number = 39 − 19 = 20.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "How many neutrons are in an atom of ⁴⁰Ca? (atomic number 20)",
+  "options": [
+   "21",
+   "60",
+   "20",
+   "40"
+  ],
+  "answer": 2,
+  "explanation": "Neutrons = mass number − atomic number = 40 − 20 = 20.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "How many neutrons are in an atom of ⁵⁶Fe? (atomic number 26)",
+  "options": [
+   "26",
+   "56",
+   "82",
+   "30"
+  ],
+  "answer": 3,
+  "explanation": "Neutrons = mass number − atomic number = 56 − 26 = 30.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "How many neutrons are in an atom of ³²S? (atomic number 16)",
+  "options": [
+   "17",
+   "48",
+   "16",
+   "32"
+  ],
+  "answer": 2,
+  "explanation": "Neutrons = mass number − atomic number = 32 − 16 = 16.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "How many neutrons are in an atom of ⁶⁴Cu? (atomic number 29)",
+  "options": [
+   "64",
+   "93",
+   "29",
+   "35"
+  ],
+  "answer": 3,
+  "explanation": "Neutrons = mass number − atomic number = 64 − 29 = 35.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Atomic structure",
+  "body": "How many neutrons are in an atom of ²³⁵U? (atomic number 92)",
+  "options": [
+   "143",
+   "235",
+   "327",
+   "92"
+  ],
+  "answer": 0,
+  "explanation": "Neutrons = mass number − atomic number = 235 − 92 = 143.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Organic chemistry",
+  "body": "What is the molecular formula of methane?",
+  "options": [
+   "CH₄",
+   "C₂H₆",
+   "CH₂",
+   "C₂H₄"
+  ],
+  "answer": 0,
+  "explanation": "Alkanes have the general formula CₙH₂ₙ₊₂. For n = 1: CH₄.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Organic chemistry",
+  "body": "What is the molecular formula of ethane?",
+  "options": [
+   "C₂H₆",
+   "C₃H₆",
+   "C₃H₈",
+   "CH₄"
+  ],
+  "answer": 0,
+  "explanation": "Alkanes have the general formula CₙH₂ₙ₊₂. For n = 2: C₂H₆.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Organic chemistry",
+  "body": "What is the molecular formula of propane?",
+  "options": [
+   "C₃H₈",
+   "C₄H₈",
+   "C₄H₁₀",
+   "C₂H₆"
+  ],
+  "answer": 0,
+  "explanation": "Alkanes have the general formula CₙH₂ₙ₊₂. For n = 3: C₃H₈.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Organic chemistry",
+  "body": "What is the molecular formula of butane?",
+  "options": [
+   "C₃H₈",
+   "C₄H₁₀",
+   "C₅H₁₂",
+   "C₅H₁₀"
+  ],
+  "answer": 1,
+  "explanation": "Alkanes have the general formula CₙH₂ₙ₊₂. For n = 4: C₄H₁₀.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Organic chemistry",
+  "body": "What is the molecular formula of pentane?",
+  "options": [
+   "C₄H₁₀",
+   "C₅H₁₂",
+   "C₆H₁₄",
+   "C₆H₁₂"
+  ],
+  "answer": 1,
+  "explanation": "Alkanes have the general formula CₙH₂ₙ₊₂. For n = 5: C₅H₁₂.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Organic chemistry",
+  "body": "What is the molecular formula of hexane?",
+  "options": [
+   "C₇H₁₄",
+   "C₅H₁₂",
+   "C₆H₁₄",
+   "C₇H₁₆"
+  ],
+  "answer": 2,
+  "explanation": "Alkanes have the general formula CₙH₂ₙ₊₂. For n = 6: C₆H₁₄.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Organic chemistry",
+  "body": "What is the molecular formula of heptane?",
+  "options": [
+   "C₈H₁₆",
+   "C₈H₁₈",
+   "C₆H₁₄",
+   "C₇H₁₆"
+  ],
+  "answer": 3,
+  "explanation": "Alkanes have the general formula CₙH₂ₙ₊₂. For n = 7: C₇H₁₆.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Organic chemistry",
+  "body": "What is the molecular formula of octane?",
+  "options": [
+   "C₇H₁₆",
+   "C₈H₁₈",
+   "C₉H₁₈",
+   "C₉H₂₀"
+  ],
+  "answer": 1,
+  "explanation": "Alkanes have the general formula CₙH₂ₙ₊₂. For n = 8: C₈H₁₈.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Organic chemistry",
+  "body": "What is the molecular formula of ethene?",
+  "options": [
+   "C₃H₆",
+   "C₂H₂",
+   "C₂H₄",
+   "C₂H₆"
+  ],
+  "answer": 2,
+  "explanation": "Alkenes have the general formula CₙH₂ₙ. For n = 2: C₂H₄.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Organic chemistry",
+  "body": "What is the molecular formula of propene?",
+  "options": [
+   "C₃H₈",
+   "C₃H₄",
+   "C₃H₆",
+   "C₄H₈"
+  ],
+  "answer": 2,
+  "explanation": "Alkenes have the general formula CₙH₂ₙ. For n = 3: C₃H₆.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Organic chemistry",
+  "body": "What is the molecular formula of butene?",
+  "options": [
+   "C₄H₆",
+   "C₄H₁₀",
+   "C₄H₈",
+   "C₅H₁₀"
+  ],
+  "answer": 2,
+  "explanation": "Alkenes have the general formula CₙH₂ₙ. For n = 4: C₄H₈.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Organic chemistry",
+  "body": "What is the molecular formula of pentene?",
+  "options": [
+   "C₅H₁₂",
+   "C₆H₁₂",
+   "C₅H₈",
+   "C₅H₁₀"
+  ],
+  "answer": 3,
+  "explanation": "Alkenes have the general formula CₙH₂ₙ. For n = 5: C₅H₁₀.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Organic chemistry",
+  "body": "What is the molecular formula of hexene?",
+  "options": [
+   "C₆H₁₄",
+   "C₆H₁₂",
+   "C₇H₁₄",
+   "C₆H₁₀"
+  ],
+  "answer": 1,
+  "explanation": "Alkenes have the general formula CₙH₂ₙ. For n = 6: C₆H₁₂.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Organic chemistry",
+  "body": "Name the alkane with the formula CH₄.",
+  "options": [
+   "butane",
+   "methane",
+   "propane",
+   "ethane"
+  ],
+  "answer": 1,
+  "explanation": "CH₄ has 1 carbon atom: methane.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Organic chemistry",
+  "body": "Name the alkane with the formula C₂H₆.",
+  "options": [
+   "propane",
+   "butane",
+   "ethane",
+   "methane"
+  ],
+  "answer": 2,
+  "explanation": "C₂H₆ has 2 carbon atoms: ethane.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Organic chemistry",
+  "body": "Name the alkane with the formula C₃H₈.",
+  "options": [
+   "methane",
+   "ethane",
+   "butane",
+   "propane"
+  ],
+  "answer": 3,
+  "explanation": "C₃H₈ has 3 carbon atoms: propane.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Organic chemistry",
+  "body": "Name the alkane with the formula C₄H₁₀.",
+  "options": [
+   "ethane",
+   "methane",
+   "butane",
+   "propane"
+  ],
+  "answer": 2,
+  "explanation": "C₄H₁₀ has 4 carbon atoms: butane.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Organic chemistry",
+  "body": "Name the alkane with the formula C₅H₁₂.",
+  "options": [
+   "pentane",
+   "methane",
+   "ethane",
+   "propane"
+  ],
+  "answer": 0,
+  "explanation": "C₅H₁₂ has 5 carbon atoms: pentane.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "Organic chemistry",
+  "body": "Name the alkane with the formula C₆H₁₄.",
+  "options": [
+   "methane",
+   "hexane",
+   "propane",
+   "ethane"
+  ],
+  "answer": 1,
+  "explanation": "C₆H₁₄ has 6 carbon atoms: hexane.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Which gas gives a 'pop' sound with a lighted splint?",
+  "options": [
+   "Oxygen",
+   "Carbon(IV) oxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "answer": 3,
+  "explanation": "Hydrogen burns with a squeaky pop.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Which gas relights a glowing splint?",
+  "options": [
+   "Oxygen",
+   "Hydrogen",
+   "Nitrogen",
+   "Carbon(IV) oxide"
+  ],
+  "answer": 0,
+  "explanation": "Oxygen supports combustion, so a glowing splint bursts into flame.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Which gas turns damp red litmus paper blue?",
+  "options": [
+   "Hydrogen chloride",
+   "Chlorine",
+   "Sulphur(IV) oxide",
+   "Ammonia"
+  ],
+  "answer": 3,
+  "explanation": "Ammonia is the common alkaline gas.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Which gas bleaches damp litmus paper?",
+  "options": [
+   "Chlorine",
+   "Ammonia",
+   "Hydrogen",
+   "Oxygen"
+  ],
+  "answer": 0,
+  "explanation": "Chlorine is a bleaching agent in the presence of moisture.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Ammonia and hydrogen chloride gas meet to form dense white fumes of",
+  "options": [
+   "ammonium nitrate",
+   "chlorine",
+   "sodium chloride",
+   "ammonium chloride"
+  ],
+  "answer": 3,
+  "explanation": "NH₃ + HCl → NH₄Cl (white fumes).",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Which gas turns orange acidified potassium heptaoxodichromate(VI) green?",
+  "options": [
+   "Carbon(IV) oxide",
+   "Sulphur(IV) oxide",
+   "Nitrogen",
+   "Oxygen"
+  ],
+  "answer": 1,
+  "explanation": "SO₂ is a reducing agent: it reduces Cr₂O₇²⁻ (orange) to Cr³⁺ (green).",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "The industrial preparation of ammonia is called the",
+  "options": [
+   "Contact process",
+   "Solvay process",
+   "Ostwald process",
+   "Haber process"
+  ],
+  "answer": 3,
+  "explanation": "Haber process: N₂ + 3H₂ ⇌ 2NH₃ over an iron catalyst.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Tetraoxosulphate(VI) acid is manufactured by the",
+  "options": [
+   "Solvay process",
+   "Contact process",
+   "Haber process",
+   "Bayer process"
+  ],
+  "answer": 1,
+  "explanation": "Contact process: SO₂ is oxidised to SO₃ over vanadium(V) oxide.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "The catalyst used in the Contact process is",
+  "options": [
+   "platinum–rhodium gauze",
+   "nickel",
+   "finely divided iron",
+   "vanadium(V) oxide"
+  ],
+  "answer": 3,
+  "explanation": "V₂O₅ catalyses 2SO₂ + O₂ ⇌ 2SO₃.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "The catalyst used in the Haber process is",
+  "options": [
+   "finely divided iron",
+   "nickel",
+   "vanadium(V) oxide",
+   "manganese(IV) oxide"
+  ],
+  "answer": 0,
+  "explanation": "Iron speeds up N₂ + 3H₂ ⇌ 2NH₃.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Sodium trioxocarbonate(IV) is manufactured by the",
+  "options": [
+   "Contact process",
+   "Ostwald process",
+   "Haber process",
+   "Solvay process"
+  ],
+  "answer": 3,
+  "explanation": "The Solvay (ammonia-soda) process makes Na₂CO₃.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Atoms of the same element with different numbers of neutrons are called",
+  "options": [
+   "isotopes",
+   "isomers",
+   "isobars",
+   "allotropes"
+  ],
+  "answer": 0,
+  "explanation": "Isotopes have the same atomic number but different mass numbers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Different forms of the same element in the same physical state are called",
+  "options": [
+   "allotropes",
+   "polymers",
+   "isotopes",
+   "isomers"
+  ],
+  "answer": 0,
+  "explanation": "Diamond and graphite are allotropes of carbon.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "A substance that speeds up a chemical reaction without being used up is a",
+  "options": [
+   "catalyst",
+   "reducing agent",
+   "reactant",
+   "inhibitor"
+  ],
+  "answer": 0,
+  "explanation": "Catalysts lower the activation energy and are recovered unchanged.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "During electrolysis, the electrode connected to the positive terminal is the",
+  "options": [
+   "cathode",
+   "anode",
+   "salt bridge",
+   "electrolyte"
+  ],
+  "answer": 1,
+  "explanation": "Anode = positive; oxidation happens there.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Oxidation is defined as",
+  "options": [
+   "gain of electrons",
+   "loss of oxygen",
+   "gain of hydrogen",
+   "loss of electrons"
+  ],
+  "answer": 3,
+  "explanation": "OIL RIG: Oxidation Is Loss, Reduction Is Gain (of electrons).",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Temporary hardness of water is caused by dissolved",
+  "options": [
+   "magnesium chloride",
+   "sodium chloride",
+   "calcium hydrogentrioxocarbonate(IV)",
+   "calcium tetraoxosulphate(VI)"
+  ],
+  "answer": 2,
+  "explanation": "Ca(HCO₃)₂ decomposes on boiling, so this hardness is removed by boiling.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "The functional group of alkanols is",
+  "options": [
+   "C=C",
+   "–CHO",
+   "–COOH",
+   "–OH"
+  ],
+  "answer": 3,
+  "explanation": "Alkanols (alcohols) contain the hydroxyl group –OH.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "The functional group of alkanoic acids is",
+  "options": [
+   "C=C",
+   "–NH₂",
+   "–COOH",
+   "–OH"
+  ],
+  "answer": 2,
+  "explanation": "Alkanoic acids contain the carboxyl group –COOH.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Alkenes decolourise bromine water because they are",
+  "options": [
+   "aromatic",
+   "saturated",
+   "unsaturated",
+   "ionic"
+  ],
+  "answer": 2,
+  "explanation": "The C=C double bond undergoes addition with bromine.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "The reaction between an acid and a base to form salt and water is called",
+  "options": [
+   "neutralisation",
+   "hydrolysis",
+   "saponification",
+   "esterification"
+  ],
+  "answer": 0,
+  "explanation": "Acid + base → salt + water.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "The reaction of an alkanoic acid with an alkanol produces an",
+  "options": [
+   "ether",
+   "alkene",
+   "aldehyde",
+   "ester"
+  ],
+  "answer": 3,
+  "explanation": "Esterification: acid + alcohol ⇌ ester + water.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Soap is made by boiling fats or oils with",
+  "options": [
+   "hydrochloric acid",
+   "ethanol",
+   "calcium oxide",
+   "sodium hydroxide"
+  ],
+  "answer": 3,
+  "explanation": "This is saponification.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "The most abundant gas in air is",
+  "options": [
+   "argon",
+   "carbon(IV) oxide",
+   "oxygen",
+   "nitrogen"
+  ],
+  "answer": 3,
+  "explanation": "Air is about 78% nitrogen and 21% oxygen.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Rusting of iron requires",
+  "options": [
+   "oxygen and water",
+   "water only",
+   "carbon(IV) oxide and water",
+   "oxygen only"
+  ],
+  "answer": 0,
+  "explanation": "Iron rusts only when both air (oxygen) and water are present.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Which of these is a noble gas?",
+  "options": [
+   "Nitrogen",
+   "Argon",
+   "Fluorine",
+   "Chlorine"
+  ],
+  "answer": 1,
+  "explanation": "Argon is in Group 0 with He, Ne, Kr, Xe and Rn.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Which of these is an alkali metal?",
+  "options": [
+   "Calcium",
+   "Aluminium",
+   "Magnesium",
+   "Potassium"
+  ],
+  "answer": 3,
+  "explanation": "Group 1 metals (Li, Na, K…) are the alkali metals.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "The halogens are found in",
+  "options": [
+   "Group 0",
+   "Group 1",
+   "Group 7",
+   "Group 2"
+  ],
+  "answer": 2,
+  "explanation": "F, Cl, Br and I are in Group 7 (17).",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Brass is an alloy of",
+  "options": [
+   "copper and tin",
+   "lead and tin",
+   "iron and carbon",
+   "copper and zinc"
+  ],
+  "answer": 3,
+  "explanation": "Brass = Cu + Zn. Bronze = Cu + Sn. Steel = Fe + C.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Steel is an alloy of",
+  "options": [
+   "copper and tin",
+   "iron and carbon",
+   "copper and zinc",
+   "aluminium and magnesium"
+  ],
+  "answer": 1,
+  "explanation": "Steel is mainly iron with a small amount of carbon.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Bronze is an alloy of",
+  "options": [
+   "copper and tin",
+   "copper and zinc",
+   "iron and carbon",
+   "lead and tin"
+  ],
+  "answer": 0,
+  "explanation": "Bronze = copper + tin.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Fractional distillation of crude oil separates components by their",
+  "options": [
+   "densities",
+   "colours",
+   "solubilities in water",
+   "boiling points"
+  ],
+  "answer": 3,
+  "explanation": "Fractions with different boiling points condense at different heights.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Chromatography separates substances based on differences in their",
+  "options": [
+   "densities",
+   "boiling points",
+   "rates of movement through a medium",
+   "magnetic properties"
+  ],
+  "answer": 2,
+  "explanation": "Components travel at different rates on paper or a column.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "The pH of a neutral solution at 25 °C is",
+  "options": [
+   "0",
+   "1",
+   "14",
+   "7"
+  ],
+  "answer": 3,
+  "explanation": "pH 7 is neutral; below is acidic, above is alkaline.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "A solution with pH 1 is",
+  "options": [
+   "neutral",
+   "strongly acidic",
+   "strongly alkaline",
+   "weakly acidic"
+  ],
+  "answer": 1,
+  "explanation": "The lower the pH, the more acidic.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "A solution with pH 13 is",
+  "options": [
+   "weakly alkaline",
+   "strongly alkaline",
+   "neutral",
+   "strongly acidic"
+  ],
+  "answer": 1,
+  "explanation": "The higher the pH above 7, the more alkaline.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "A solution with pH 5 is",
+  "options": [
+   "weakly acidic",
+   "neutral",
+   "weakly alkaline",
+   "strongly acidic"
+  ],
+  "answer": 0,
+  "explanation": "pH 5 is below 7 but not far from it.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Methyl orange in an acid turns",
+  "options": [
+   "red",
+   "blue",
+   "yellow",
+   "pink"
+  ],
+  "answer": 0,
+  "explanation": "Methyl orange is red in acid and yellow in alkali.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "Phenolphthalein in an alkali turns",
+  "options": [
+   "pink",
+   "colourless",
+   "red",
+   "yellow"
+  ],
+  "answer": 0,
+  "explanation": "Phenolphthalein is colourless in acid and pink in alkali.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CHM",
+  "topic": "General chemistry",
+  "body": "The bond formed by sharing a pair of electrons is",
+  "options": [
+   "ionic",
+   "metallic",
+   "hydrogen",
+   "covalent"
+  ],
+  "answer": 3,
+  "explanation": "Covalent bonds involve shared electron pairs.",
+  "difficulty": 1
+ }
+]

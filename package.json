@@ -9,7 +9,8 @@
     "typecheck": "tsc --noEmit",
     "set-webhook": "tsx scripts/set-webhook.ts",
     "import-questions": "tsx scripts/import-questions.ts",
-    "generate-questions": "tsx scripts/generate-questions.ts"
+    "generate-questions": "tsx scripts/generate-questions.ts",
+    "build-bank": "tsx scripts/build-bank.ts"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.119.0",

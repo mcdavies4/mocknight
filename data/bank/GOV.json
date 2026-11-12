@@ -1,0 +1,4244 @@
+[
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Democracy can best be described as",
+  "options": [
+   "a parliament in which no party has an overall majority",
+   "the process by which people acquire political values and beliefs",
+   "government of the people, by the people, for the people",
+   "government by religious leaders"
+  ],
+  "answer": 2,
+  "explanation": "Democracy: government of the people, by the people, for the people.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Sovereignty can best be described as",
+  "options": [
+   "the power of the executive to reject a bill",
+   "a system in which the state controls every aspect of life",
+   "the supreme power of a state to make and enforce laws",
+   "an election to choose a party's candidate"
+  ],
+  "answer": 2,
+  "explanation": "Sovereignty: the supreme power of a state to make and enforce laws.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Legitimacy can best be described as",
+  "options": [
+   "the acceptance of a government's right to rule by the people",
+   "the people qualified to vote in an election",
+   "the attitudes, beliefs and values of a society towards politics",
+   "a legislature with one chamber"
+  ],
+  "answer": 0,
+  "explanation": "Legitimacy: the acceptance of a government's right to rule by the people.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Power can best be described as",
+  "options": [
+   "the ability to make others act in a desired way, backed by sanctions",
+   "the desire of a people for self-government and independence",
+   "the supremacy of law and equality of all before the law",
+   "the principle that government power is limited by a constitution"
+  ],
+  "answer": 0,
+  "explanation": "Power: the ability to make others act in a desired way, backed by sanctions.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Authority can best be described as",
+  "options": [
+   "the legal right to exercise power",
+   "government by religious leaders",
+   "the right to vote",
+   "the removal of an elected representative by the voters before the end of his term"
+  ],
+  "answer": 0,
+  "explanation": "Authority: the legal right to exercise power.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "The rule of law can best be described as",
+  "options": [
+   "the British system of governing through traditional rulers",
+   "the formal ending of a parliament before fresh elections",
+   "government by elders",
+   "the supremacy of law and equality of all before the law"
+  ],
+  "answer": 3,
+  "explanation": "The rule of law: the supremacy of law and equality of all before the law.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Separation of powers can best be described as",
+  "options": [
+   "a system in which the state controls every aspect of life",
+   "the division of government functions among the legislature, executive and judiciary",
+   "a group of people bound by common history, culture and language",
+   "an administrative system with a hierarchy of officials following fixed rules"
+  ],
+  "answer": 1,
+  "explanation": "Separation of powers: the division of government functions among the legislature, executive and judiciary.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Checks and balances can best be described as",
+  "options": [
+   "the supreme power of a state to make and enforce laws",
+   "the control of each arm of government by the others to prevent abuse of power",
+   "the principle that ministers share responsibility for cabinet decisions",
+   "a legislature with two chambers"
+  ],
+  "answer": 1,
+  "explanation": "Checks and balances: the control of each arm of government by the others to prevent abuse of power.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Federalism can best be described as",
+  "options": [
+   "a government formed by two or more parties",
+   "a system in which power is shared between a central government and component units",
+   "the attitudes, beliefs and values of a society towards politics",
+   "an organised group that seeks to gain control of government"
+  ],
+  "answer": 1,
+  "explanation": "Federalism: a system in which power is shared between a central government and component units.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "A unitary system can best be described as",
+  "options": [
+   "the legal right to exercise power",
+   "a system in which power is concentrated in the central government",
+   "government by a few for their own interest",
+   "a party official who ensures members attend and vote as the party directs"
+  ],
+  "answer": 1,
+  "explanation": "A unitary system: a system in which power is concentrated in the central government.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "A confederation can best be described as",
+  "options": [
+   "the British system of governing through traditional rulers",
+   "an official who investigates complaints against public officials",
+   "a union of sovereign states with a weak central authority",
+   "the attitudes, beliefs and values of a society towards politics"
+  ],
+  "answer": 2,
+  "explanation": "A confederation: a union of sovereign states with a weak central authority.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "A rigid constitution can best be described as",
+  "options": [
+   "citizenship acquired by a foreigner after meeting residency and other conditions",
+   "the process of removing a president or governor from office by the legislature",
+   "a group of people bound by common history, culture and language",
+   "a constitution that requires a special procedure to amend"
+  ],
+  "answer": 3,
+  "explanation": "A rigid constitution: a constitution that requires a special procedure to amend.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "A flexible constitution can best be described as",
+  "options": [
+   "a legislature with one chamber",
+   "a legislature with two chambers",
+   "the manipulation of constituency boundaries to favour a party",
+   "a constitution that can be amended like an ordinary law"
+  ],
+  "answer": 3,
+  "explanation": "A flexible constitution: a constitution that can be amended like an ordinary law.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "An unwritten constitution can best be described as",
+  "options": [
+   "the French colonial policy of turning Africans into French citizens",
+   "the attitudes, beliefs and values of a society towards politics",
+   "a constitution not contained in a single document",
+   "a draft of a proposed law"
+  ],
+  "answer": 2,
+  "explanation": "An unwritten constitution: a constitution not contained in a single document.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "The presidential system can best be described as",
+  "options": [
+   "government of the people, by the people, for the people",
+   "the acceptance of a government's right to rule by the people",
+   "a constitution that can be amended like an ordinary law",
+   "a system in which the president is both head of state and head of government"
+  ],
+  "answer": 3,
+  "explanation": "The presidential system: a system in which the president is both head of state and head of government.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "The parliamentary system can best be described as",
+  "options": [
+   "a system in which the executive is drawn from and responsible to the legislature",
+   "an organised group that seeks to influence government policy without seeking power",
+   "government by a few for their own interest",
+   "a draft of a proposed law"
+  ],
+  "answer": 0,
+  "explanation": "The parliamentary system: a system in which the executive is drawn from and responsible to the legislature.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Franchise can best be described as",
+  "options": [
+   "the principle that government power is limited by a constitution",
+   "the French colonial policy of turning Africans into French citizens",
+   "a group of people bound by common history, culture and language",
+   "the right to vote"
+  ],
+  "answer": 3,
+  "explanation": "Franchise: the right to vote.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Universal adult suffrage can best be described as",
+  "options": [
+   "the process by which people acquire political values and beliefs",
+   "the right of all qualified adults to vote",
+   "a parliament in which no party has an overall majority",
+   "the acceptance of a government's right to rule by the people"
+  ],
+  "answer": 1,
+  "explanation": "Universal adult suffrage: the right of all qualified adults to vote.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Proportional representation can best be described as",
+  "options": [
+   "an area that elects a representative to the legislature",
+   "the body of permanent officials who implement government policies",
+   "the attitudes, beliefs and values of a society towards politics",
+   "an electoral system in which parties win seats in proportion to their votes"
+  ],
+  "answer": 3,
+  "explanation": "Proportional representation: an electoral system in which parties win seats in proportion to their votes.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Gerrymandering can best be described as",
+  "options": [
+   "the legal right to exercise power",
+   "the manipulation of constituency boundaries to favour a party",
+   "the French colonial policy of turning Africans into French citizens",
+   "the British system of governing through traditional rulers"
+  ],
+  "answer": 1,
+  "explanation": "Gerrymandering: the manipulation of constituency boundaries to favour a party.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "A referendum can best be described as",
+  "options": [
+   "the right of all qualified adults to vote",
+   "the principle that ministers share responsibility for cabinet decisions",
+   "the desire of a people for self-government and independence",
+   "a direct vote by the people on a specific issue"
+  ],
+  "answer": 3,
+  "explanation": "A referendum: a direct vote by the people on a specific issue.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Recall can best be described as",
+  "options": [
+   "the removal of an elected representative by the voters before the end of his term",
+   "a party official who ensures members attend and vote as the party directs",
+   "a group of people bound by common history, culture and language",
+   "the desire of a people for self-government and independence"
+  ],
+  "answer": 0,
+  "explanation": "Recall: the removal of an elected representative by the voters before the end of his term.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Bicameral legislature can best be described as",
+  "options": [
+   "a legislature with two chambers",
+   "the right of all qualified adults to vote",
+   "an electoral system in which parties win seats in proportion to their votes",
+   "an authoritarian ultranationalist system that suppresses opposition"
+  ],
+  "answer": 0,
+  "explanation": "Bicameral legislature: a legislature with two chambers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Unicameral legislature can best be described as",
+  "options": [
+   "the process by which people acquire political values and beliefs",
+   "the legal right to exercise power",
+   "a legislature with one chamber",
+   "a system in which power is shared between a central government and component units"
+  ],
+  "answer": 2,
+  "explanation": "Unicameral legislature: a legislature with one chamber.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "A political party can best be described as",
+  "options": [
+   "a system in which the president is both head of state and head of government",
+   "an organised group that seeks to gain control of government",
+   "the desire of a people for self-government and independence",
+   "an election to choose a party's candidate"
+  ],
+  "answer": 1,
+  "explanation": "A political party: an organised group that seeks to gain control of government.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "A pressure group can best be described as",
+  "options": [
+   "an organised group that seeks to influence government policy without seeking power",
+   "the attitudes, beliefs and values of a society towards politics",
+   "a system based on land ownership and obligations between lords and vassals",
+   "the ability to make others act in a desired way, backed by sanctions"
+  ],
+  "answer": 0,
+  "explanation": "A pressure group: an organised group that seeks to influence government policy without seeking power.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Public opinion can best be described as",
+  "options": [
+   "an organised group that seeks to gain control of government",
+   "the views of the majority of citizens on public issues",
+   "government headed by a hereditary ruler",
+   "the manipulation of constituency boundaries to favour a party"
+  ],
+  "answer": 1,
+  "explanation": "Public opinion: the views of the majority of citizens on public issues.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "The civil service can best be described as",
+  "options": [
+   "a population living in a defined territory under a sovereign government",
+   "the body of permanent officials who implement government policies",
+   "a document setting out a party's programmes and policies",
+   "the division of government functions among the legislature, executive and judiciary"
+  ],
+  "answer": 1,
+  "explanation": "The civil service: the body of permanent officials who implement government policies.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "The ombudsman can best be described as",
+  "options": [
+   "an official who investigates complaints against public officials",
+   "a government formed by two or more parties",
+   "government of the people, by the people, for the people",
+   "the principle that government power is limited by a constitution"
+  ],
+  "answer": 0,
+  "explanation": "The ombudsman: an official who investigates complaints against public officials.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Delegated legislation can best be described as",
+  "options": [
+   "laws made by bodies other than the legislature under its authority",
+   "government by a privileged few regarded as the best",
+   "a system in which power is concentrated in the central government",
+   "an economic system based on private ownership of the means of production"
+  ],
+  "answer": 0,
+  "explanation": "Delegated legislation: laws made by bodies other than the legislature under its authority.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Judicial review can best be described as",
+  "options": [
+   "the power of the courts to declare laws or actions unconstitutional",
+   "government by a privileged few regarded as the best",
+   "the views of the majority of citizens on public issues",
+   "the body of permanent officials who implement government policies"
+  ],
+  "answer": 0,
+  "explanation": "Judicial review: the power of the courts to declare laws or actions unconstitutional.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Impeachment can best be described as",
+  "options": [
+   "the process of removing a president or governor from office by the legislature",
+   "a constitution that can be amended like an ordinary law",
+   "a motion showing the legislature no longer supports the government",
+   "the legal right to exercise power"
+  ],
+  "answer": 0,
+  "explanation": "Impeachment: the process of removing a president or governor from office by the legislature.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "A bill can best be described as",
+  "options": [
+   "a draft of a proposed law",
+   "a constitution not contained in a single document",
+   "a system in which power is shared between a central government and component units",
+   "government headed by a hereditary ruler"
+  ],
+  "answer": 0,
+  "explanation": "A bill: a draft of a proposed law.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Veto can best be described as",
+  "options": [
+   "the power of the executive to reject a bill",
+   "a constitution that can be amended like an ordinary law",
+   "a legislature with two chambers",
+   "a government formed by two or more parties"
+  ],
+  "answer": 0,
+  "explanation": "Veto: the power of the executive to reject a bill.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Quorum can best be described as",
+  "options": [
+   "the minimum number of members required to hold a valid meeting",
+   "the British system of governing through traditional rulers",
+   "an organised group that seeks to influence government policy without seeking power",
+   "a constitution that requires a special procedure to amend"
+  ],
+  "answer": 0,
+  "explanation": "Quorum: the minimum number of members required to hold a valid meeting.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Citizenship by naturalisation can best be described as",
+  "options": [
+   "a population living in a defined territory under a sovereign government",
+   "citizenship acquired by a foreigner after meeting residency and other conditions",
+   "an authoritarian ultranationalist system that suppresses opposition",
+   "a system in which the state owns the major means of production"
+  ],
+  "answer": 1,
+  "explanation": "Citizenship by naturalisation: citizenship acquired by a foreigner after meeting residency and other conditions.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Capitalism can best be described as",
+  "options": [
+   "a government formed by two or more parties",
+   "a system in which the state owns the major means of production",
+   "a system in which the executive is drawn from and responsible to the legislature",
+   "an economic system based on private ownership of the means of production"
+  ],
+  "answer": 3,
+  "explanation": "Capitalism: an economic system based on private ownership of the means of production.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Socialism can best be described as",
+  "options": [
+   "an organised group that seeks to influence government policy without seeking power",
+   "a system in which the state owns the major means of production",
+   "an administrative system with a hierarchy of officials following fixed rules",
+   "the desire of a people for self-government and independence"
+  ],
+  "answer": 1,
+  "explanation": "Socialism: a system in which the state owns the major means of production.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Communism can best be described as",
+  "options": [
+   "a classless society in which property is commonly owned",
+   "a system in which the state owns the major means of production",
+   "an economic system based on private ownership of the means of production",
+   "the ability to make others act in a desired way, backed by sanctions"
+  ],
+  "answer": 0,
+  "explanation": "Communism: a classless society in which property is commonly owned.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Fascism can best be described as",
+  "options": [
+   "the acceptance of a government's right to rule by the people",
+   "a system in which the state owns the major means of production",
+   "an authoritarian ultranationalist system that suppresses opposition",
+   "a system based on land ownership and obligations between lords and vassals"
+  ],
+  "answer": 2,
+  "explanation": "Fascism: an authoritarian ultranationalist system that suppresses opposition.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Totalitarianism can best be described as",
+  "options": [
+   "the principle that ministers share responsibility for cabinet decisions",
+   "a legislature with two chambers",
+   "a system in which the state controls every aspect of life",
+   "government headed by a hereditary ruler"
+  ],
+  "answer": 2,
+  "explanation": "Totalitarianism: a system in which the state controls every aspect of life.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Oligarchy can best be described as",
+  "options": [
+   "a document setting out a party's programmes and policies",
+   "government by a few for their own interest",
+   "the minimum number of members required to hold a valid meeting",
+   "a constitution that requires a special procedure to amend"
+  ],
+  "answer": 1,
+  "explanation": "Oligarchy: government by a few for their own interest.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Aristocracy can best be described as",
+  "options": [
+   "government by a privileged few regarded as the best",
+   "a system in which the state controls every aspect of life",
+   "the supreme power of a state to make and enforce laws",
+   "government by elders"
+  ],
+  "answer": 0,
+  "explanation": "Aristocracy: government by a privileged few regarded as the best.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Monarchy can best be described as",
+  "options": [
+   "the power of the executive to reject a bill",
+   "the supreme power of a state to make and enforce laws",
+   "a government formed by two or more parties",
+   "government headed by a hereditary ruler"
+  ],
+  "answer": 3,
+  "explanation": "Monarchy: government headed by a hereditary ruler.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Theocracy can best be described as",
+  "options": [
+   "the removal of an elected representative by the voters before the end of his term",
+   "an economic system based on private ownership of the means of production",
+   "a draft of a proposed law",
+   "government by religious leaders"
+  ],
+  "answer": 3,
+  "explanation": "Theocracy: government by religious leaders.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Gerontocracy can best be described as",
+  "options": [
+   "government by elders",
+   "a constitution that requires a special procedure to amend",
+   "a legislature with two chambers",
+   "the supremacy of law and equality of all before the law"
+  ],
+  "answer": 0,
+  "explanation": "Gerontocracy: government by elders.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Feudalism can best be described as",
+  "options": [
+   "a system based on land ownership and obligations between lords and vassals",
+   "the body of permanent officials who implement government policies",
+   "the formal ending of a parliament before fresh elections",
+   "a motion showing the legislature no longer supports the government"
+  ],
+  "answer": 0,
+  "explanation": "Feudalism: a system based on land ownership and obligations between lords and vassals.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Decentralisation can best be described as",
+  "options": [
+   "laws made by bodies other than the legislature under its authority",
+   "the transfer of power from the central government to lower levels",
+   "an administrative system with a hierarchy of officials following fixed rules",
+   "an official who investigates complaints against public officials"
+  ],
+  "answer": 1,
+  "explanation": "Decentralisation: the transfer of power from the central government to lower levels.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Nationalism can best be described as",
+  "options": [
+   "the power of the courts to declare laws or actions unconstitutional",
+   "the desire of a people for self-government and independence",
+   "a motion showing the legislature no longer supports the government",
+   "a government formed by two or more parties"
+  ],
+  "answer": 1,
+  "explanation": "Nationalism: the desire of a people for self-government and independence.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Indirect rule can best be described as",
+  "options": [
+   "the British system of governing through traditional rulers",
+   "a system based on land ownership and obligations between lords and vassals",
+   "government of the people, by the people, for the people",
+   "the views of the majority of citizens on public issues"
+  ],
+  "answer": 0,
+  "explanation": "Indirect rule: the British system of governing through traditional rulers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "The policy of assimilation can best be described as",
+  "options": [
+   "the French colonial policy of turning Africans into French citizens",
+   "the people qualified to vote in an election",
+   "the ability to make others act in a desired way, backed by sanctions",
+   "a group of people bound by common history, culture and language"
+  ],
+  "answer": 0,
+  "explanation": "The policy of assimilation: the French colonial policy of turning Africans into French citizens.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "A coalition government can best be described as",
+  "options": [
+   "a draft of a proposed law",
+   "the desire of a people for self-government and independence",
+   "a system in which the executive is drawn from and responsible to the legislature",
+   "a government formed by two or more parties"
+  ],
+  "answer": 3,
+  "explanation": "A coalition government: a government formed by two or more parties.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "A manifesto can best be described as",
+  "options": [
+   "the British system of governing through traditional rulers",
+   "a document setting out a party's programmes and policies",
+   "the right of all qualified adults to vote",
+   "a system in which the state controls every aspect of life"
+  ],
+  "answer": 1,
+  "explanation": "A manifesto: a document setting out a party's programmes and policies.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "A constituency can best be described as",
+  "options": [
+   "an area that elects a representative to the legislature",
+   "the acceptance of a government's right to rule by the people",
+   "a legislature with one chamber",
+   "government of the people, by the people, for the people"
+  ],
+  "answer": 0,
+  "explanation": "A constituency: an area that elects a representative to the legislature.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "The electorate can best be described as",
+  "options": [
+   "a system in which the executive is drawn from and responsible to the legislature",
+   "the people qualified to vote in an election",
+   "the attitudes, beliefs and values of a society towards politics",
+   "a population living in a defined territory under a sovereign government"
+  ],
+  "answer": 1,
+  "explanation": "The electorate: the people qualified to vote in an election.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "A nation can best be described as",
+  "options": [
+   "a system based on land ownership and obligations between lords and vassals",
+   "the British system of governing through traditional rulers",
+   "a group of people bound by common history, culture and language",
+   "a document setting out a party's programmes and policies"
+  ],
+  "answer": 2,
+  "explanation": "A nation: a group of people bound by common history, culture and language.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "A state can best be described as",
+  "options": [
+   "a population living in a defined territory under a sovereign government",
+   "the principle that government power is limited by a constitution",
+   "the transfer of power from the central government to lower levels",
+   "an electoral system in which parties win seats in proportion to their votes"
+  ],
+  "answer": 0,
+  "explanation": "A state: a population living in a defined territory under a sovereign government.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Political culture can best be described as",
+  "options": [
+   "a body of electors chosen to elect a leader",
+   "the desire of a people for self-government and independence",
+   "the attitudes, beliefs and values of a society towards politics",
+   "government by religious leaders"
+  ],
+  "answer": 2,
+  "explanation": "Political culture: the attitudes, beliefs and values of a society towards politics.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Political socialisation can best be described as",
+  "options": [
+   "the process by which people acquire political values and beliefs",
+   "a legislature with one chamber",
+   "the body of permanent officials who implement government policies",
+   "government headed by a hereditary ruler"
+  ],
+  "answer": 0,
+  "explanation": "Political socialisation: the process by which people acquire political values and beliefs.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Bureaucracy can best be described as",
+  "options": [
+   "the process of removing a president or governor from office by the legislature",
+   "government of the people, by the people, for the people",
+   "a system in which the state controls every aspect of life",
+   "an administrative system with a hierarchy of officials following fixed rules"
+  ],
+  "answer": 3,
+  "explanation": "Bureaucracy: an administrative system with a hierarchy of officials following fixed rules.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Constitutionalism can best be described as",
+  "options": [
+   "a group of people bound by common history, culture and language",
+   "a population living in a defined territory under a sovereign government",
+   "the principle that government power is limited by a constitution",
+   "the power of the executive to reject a bill"
+  ],
+  "answer": 2,
+  "explanation": "Constitutionalism: the principle that government power is limited by a constitution.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "A secular state can best be described as",
+  "options": [
+   "the British system of governing through traditional rulers",
+   "a state with no official religion",
+   "government by elders",
+   "a government formed by two or more parties"
+  ],
+  "answer": 1,
+  "explanation": "A secular state: a state with no official religion.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "An electoral college can best be described as",
+  "options": [
+   "a draft of a proposed law",
+   "the views of the majority of citizens on public issues",
+   "the manipulation of constituency boundaries to favour a party",
+   "a body of electors chosen to elect a leader"
+  ],
+  "answer": 3,
+  "explanation": "An electoral college: a body of electors chosen to elect a leader.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "A by-election can best be described as",
+  "options": [
+   "the formal ending of a parliament before fresh elections",
+   "the attitudes, beliefs and values of a society towards politics",
+   "a classless society in which property is commonly owned",
+   "an election held to fill a vacant seat"
+  ],
+  "answer": 3,
+  "explanation": "A by-election: an election held to fill a vacant seat.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "A primary election can best be described as",
+  "options": [
+   "government by a few for their own interest",
+   "the supreme power of a state to make and enforce laws",
+   "an election to choose a party's candidate",
+   "a government formed by two or more parties"
+  ],
+  "answer": 2,
+  "explanation": "A primary election: an election to choose a party's candidate.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "The opposition can best be described as",
+  "options": [
+   "an administrative system with a hierarchy of officials following fixed rules",
+   "the parties in the legislature that are not in government",
+   "a legislature with two chambers",
+   "a constitution not contained in a single document"
+  ],
+  "answer": 1,
+  "explanation": "The opposition: the parties in the legislature that are not in government.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "The whip can best be described as",
+  "options": [
+   "a union of sovereign states with a weak central authority",
+   "a party official who ensures members attend and vote as the party directs",
+   "the process by which people acquire political values and beliefs",
+   "government by a few for their own interest"
+  ],
+  "answer": 1,
+  "explanation": "The whip: a party official who ensures members attend and vote as the party directs.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "A hung parliament can best be described as",
+  "options": [
+   "government by a privileged few regarded as the best",
+   "a parliament in which no party has an overall majority",
+   "a system in which power is shared between a central government and component units",
+   "an election held to fill a vacant seat"
+  ],
+  "answer": 1,
+  "explanation": "A hung parliament: a parliament in which no party has an overall majority.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Collective responsibility can best be described as",
+  "options": [
+   "the principle that ministers share responsibility for cabinet decisions",
+   "the transfer of power from the central government to lower levels",
+   "the attitudes, beliefs and values of a society towards politics",
+   "a system in which power is shared between a central government and component units"
+  ],
+  "answer": 0,
+  "explanation": "Collective responsibility: the principle that ministers share responsibility for cabinet decisions.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "A vote of no confidence can best be described as",
+  "options": [
+   "an economic system based on private ownership of the means of production",
+   "a motion showing the legislature no longer supports the government",
+   "laws made by bodies other than the legislature under its authority",
+   "the desire of a people for self-government and independence"
+  ],
+  "answer": 1,
+  "explanation": "A vote of no confidence: a motion showing the legislature no longer supports the government.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "Dissolution can best be described as",
+  "options": [
+   "a direct vote by the people on a specific issue",
+   "the minimum number of members required to hold a valid meeting",
+   "an electoral system in which parties win seats in proportion to their votes",
+   "the formal ending of a parliament before fresh elections"
+  ],
+  "answer": 3,
+  "explanation": "Dissolution: the formal ending of a parliament before fresh elections.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes government of the people, by the people, for the people?",
+  "options": [
+   "Democracy",
+   "Proportional representation",
+   "Recall",
+   "Gerrymandering"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of democracy.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the supreme power of a state to make and enforce laws?",
+  "options": [
+   "Sovereignty",
+   "Manifesto",
+   "Referendum",
+   "Fascism"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of sovereignty.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the acceptance of a government's right to rule by the people?",
+  "options": [
+   "Citizenship by naturalisation",
+   "Legitimacy",
+   "Ombudsman",
+   "Theocracy"
+  ],
+  "answer": 1,
+  "explanation": "This is the meaning of legitimacy.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the ability to make others act in a desired way, backed by sanctions?",
+  "options": [
+   "Recall",
+   "By-election",
+   "Power",
+   "Confederation"
+  ],
+  "answer": 2,
+  "explanation": "This is the meaning of power.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the legal right to exercise power?",
+  "options": [
+   "Authority",
+   "Democracy",
+   "Public opinion",
+   "Federalism"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of authority.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the supremacy of law and equality of all before the law?",
+  "options": [
+   "Political party",
+   "Primary election",
+   "Citizenship by naturalisation",
+   "Rule of law"
+  ],
+  "answer": 3,
+  "explanation": "This is the meaning of rule of law.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the division of government functions among the legislature, executive and judiciary?",
+  "options": [
+   "Nation",
+   "Power",
+   "Separation of powers",
+   "Veto"
+  ],
+  "answer": 2,
+  "explanation": "This is the meaning of separation of powers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the control of each arm of government by the others to prevent abuse of power?",
+  "options": [
+   "Recall",
+   "Checks and balances",
+   "Whip",
+   "Totalitarianism"
+  ],
+  "answer": 1,
+  "explanation": "This is the meaning of checks and balances.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a system in which power is shared between a central government and component units?",
+  "options": [
+   "Presidential system",
+   "Civil service",
+   "Federalism",
+   "Quorum"
+  ],
+  "answer": 2,
+  "explanation": "This is the meaning of federalism.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a system in which power is concentrated in the central government?",
+  "options": [
+   "Constitutionalism",
+   "Unitary system",
+   "Parliamentary system",
+   "Rigid constitution"
+  ],
+  "answer": 1,
+  "explanation": "This is the meaning of unitary system.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a union of sovereign states with a weak central authority?",
+  "options": [
+   "Federalism",
+   "Legitimacy",
+   "Authority",
+   "Confederation"
+  ],
+  "answer": 3,
+  "explanation": "This is the meaning of confederation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a constitution that requires a special procedure to amend?",
+  "options": [
+   "Policy of assimilation",
+   "Rule of law",
+   "Rigid constitution",
+   "State"
+  ],
+  "answer": 2,
+  "explanation": "This is the meaning of rigid constitution.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a constitution that can be amended like an ordinary law?",
+  "options": [
+   "Monarchy",
+   "Unitary system",
+   "Hung parliament",
+   "Flexible constitution"
+  ],
+  "answer": 3,
+  "explanation": "This is the meaning of flexible constitution.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a constitution not contained in a single document?",
+  "options": [
+   "Unwritten constitution",
+   "Secular state",
+   "Flexible constitution",
+   "Theocracy"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of unwritten constitution.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a system in which the president is both head of state and head of government?",
+  "options": [
+   "Rule of law",
+   "Universal adult suffrage",
+   "Presidential system",
+   "Vote of no confidence"
+  ],
+  "answer": 2,
+  "explanation": "This is the meaning of presidential system.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a system in which the executive is drawn from and responsible to the legislature?",
+  "options": [
+   "Parliamentary system",
+   "Communism",
+   "Authority",
+   "Checks and balances"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of parliamentary system.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the right to vote?",
+  "options": [
+   "Indirect rule",
+   "Franchise",
+   "Proportional representation",
+   "Theocracy"
+  ],
+  "answer": 1,
+  "explanation": "This is the meaning of franchise.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the right of all qualified adults to vote?",
+  "options": [
+   "State",
+   "Rule of law",
+   "Universal adult suffrage",
+   "Bill"
+  ],
+  "answer": 2,
+  "explanation": "This is the meaning of universal adult suffrage.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes an electoral system in which parties win seats in proportion to their votes?",
+  "options": [
+   "Proportional representation",
+   "Electorate",
+   "Fascism",
+   "Civil service"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of proportional representation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the manipulation of constituency boundaries to favour a party?",
+  "options": [
+   "Civil service",
+   "Monarchy",
+   "Gerrymandering",
+   "Electoral college"
+  ],
+  "answer": 2,
+  "explanation": "This is the meaning of gerrymandering.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a direct vote by the people on a specific issue?",
+  "options": [
+   "Gerrymandering",
+   "Referendum",
+   "Checks and balances",
+   "Pressure group"
+  ],
+  "answer": 1,
+  "explanation": "This is the meaning of referendum.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the removal of an elected representative by the voters before the end of his term?",
+  "options": [
+   "Recall",
+   "Civil service",
+   "Judicial review",
+   "Theocracy"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of recall.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a legislature with two chambers?",
+  "options": [
+   "Rigid constitution",
+   "Dissolution",
+   "Unicameral legislature",
+   "Bicameral legislature"
+  ],
+  "answer": 3,
+  "explanation": "This is the meaning of bicameral legislature.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a legislature with one chamber?",
+  "options": [
+   "Legitimacy",
+   "Oligarchy",
+   "Unicameral legislature",
+   "Monarchy"
+  ],
+  "answer": 2,
+  "explanation": "This is the meaning of unicameral legislature.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes an organised group that seeks to gain control of government?",
+  "options": [
+   "Political party",
+   "Bill",
+   "Citizenship by naturalisation",
+   "Policy of assimilation"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of political party.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes an organised group that seeks to influence government policy without seeking power?",
+  "options": [
+   "Pressure group",
+   "Opposition",
+   "Capitalism",
+   "Ombudsman"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of pressure group.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the views of the majority of citizens on public issues?",
+  "options": [
+   "Nationalism",
+   "Public opinion",
+   "Hung parliament",
+   "Presidential system"
+  ],
+  "answer": 1,
+  "explanation": "This is the meaning of public opinion.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the body of permanent officials who implement government policies?",
+  "options": [
+   "Ombudsman",
+   "Unwritten constitution",
+   "Civil service",
+   "Electoral college"
+  ],
+  "answer": 2,
+  "explanation": "This is the meaning of civil service.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes an official who investigates complaints against public officials?",
+  "options": [
+   "Ombudsman",
+   "Franchise",
+   "Rule of law",
+   "Delegated legislation"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of ombudsman.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes laws made by bodies other than the legislature under its authority?",
+  "options": [
+   "Communism",
+   "Coalition government",
+   "Fascism",
+   "Delegated legislation"
+  ],
+  "answer": 3,
+  "explanation": "This is the meaning of delegated legislation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the power of the courts to declare laws or actions unconstitutional?",
+  "options": [
+   "Proportional representation",
+   "Gerrymandering",
+   "Rule of law",
+   "Judicial review"
+  ],
+  "answer": 3,
+  "explanation": "This is the meaning of judicial review.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the process of removing a president or governor from office by the legislature?",
+  "options": [
+   "Separation of powers",
+   "Impeachment",
+   "Hung parliament",
+   "Unitary system"
+  ],
+  "answer": 1,
+  "explanation": "This is the meaning of impeachment.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a draft of a proposed law?",
+  "options": [
+   "Rigid constitution",
+   "Impeachment",
+   "Bill",
+   "Decentralisation"
+  ],
+  "answer": 2,
+  "explanation": "This is the meaning of bill.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the power of the executive to reject a bill?",
+  "options": [
+   "Opposition",
+   "Legitimacy",
+   "Collective responsibility",
+   "Veto"
+  ],
+  "answer": 3,
+  "explanation": "This is the meaning of veto.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the minimum number of members required to hold a valid meeting?",
+  "options": [
+   "Legitimacy",
+   "Flexible constitution",
+   "By-election",
+   "Quorum"
+  ],
+  "answer": 3,
+  "explanation": "This is the meaning of quorum.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes citizenship acquired by a foreigner after meeting residency and other conditions?",
+  "options": [
+   "Citizenship by naturalisation",
+   "Nation",
+   "Whip",
+   "Communism"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of citizenship by naturalisation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes an economic system based on private ownership of the means of production?",
+  "options": [
+   "Unwritten constitution",
+   "Checks and balances",
+   "Capitalism",
+   "Opposition"
+  ],
+  "answer": 2,
+  "explanation": "This is the meaning of capitalism.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a system in which the state owns the major means of production?",
+  "options": [
+   "By-election",
+   "Theocracy",
+   "Socialism",
+   "Separation of powers"
+  ],
+  "answer": 2,
+  "explanation": "This is the meaning of socialism.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a classless society in which property is commonly owned?",
+  "options": [
+   "Communism",
+   "Public opinion",
+   "Unicameral legislature",
+   "Unitary system"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of communism.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes an authoritarian ultranationalist system that suppresses opposition?",
+  "options": [
+   "Fascism",
+   "Legitimacy",
+   "Communism",
+   "State"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of fascism.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a system in which the state controls every aspect of life?",
+  "options": [
+   "Delegated legislation",
+   "Totalitarianism",
+   "Veto",
+   "Rule of law"
+  ],
+  "answer": 1,
+  "explanation": "This is the meaning of totalitarianism.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes government by a few for their own interest?",
+  "options": [
+   "Constitutionalism",
+   "Aristocracy",
+   "Oligarchy",
+   "Authority"
+  ],
+  "answer": 2,
+  "explanation": "This is the meaning of oligarchy.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes government by a privileged few regarded as the best?",
+  "options": [
+   "Aristocracy",
+   "Confederation",
+   "Socialism",
+   "Unwritten constitution"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of aristocracy.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes government headed by a hereditary ruler?",
+  "options": [
+   "Political culture",
+   "Impeachment",
+   "Monarchy",
+   "Oligarchy"
+  ],
+  "answer": 2,
+  "explanation": "This is the meaning of monarchy.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes government by religious leaders?",
+  "options": [
+   "Theocracy",
+   "Decentralisation",
+   "Democracy",
+   "Dissolution"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of theocracy.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes government by elders?",
+  "options": [
+   "Gerontocracy",
+   "By-election",
+   "Proportional representation",
+   "Dissolution"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of gerontocracy.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a system based on land ownership and obligations between lords and vassals?",
+  "options": [
+   "Vote of no confidence",
+   "Feudalism",
+   "Public opinion",
+   "Proportional representation"
+  ],
+  "answer": 1,
+  "explanation": "This is the meaning of feudalism.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the transfer of power from the central government to lower levels?",
+  "options": [
+   "Gerontocracy",
+   "Decentralisation",
+   "Checks and balances",
+   "Democracy"
+  ],
+  "answer": 1,
+  "explanation": "This is the meaning of decentralisation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the desire of a people for self-government and independence?",
+  "options": [
+   "Flexible constitution",
+   "Manifesto",
+   "Policy of assimilation",
+   "Nationalism"
+  ],
+  "answer": 3,
+  "explanation": "This is the meaning of nationalism.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the British system of governing through traditional rulers?",
+  "options": [
+   "Parliamentary system",
+   "Political culture",
+   "Indirect rule",
+   "Constituency"
+  ],
+  "answer": 2,
+  "explanation": "This is the meaning of indirect rule.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the French colonial policy of turning Africans into French citizens?",
+  "options": [
+   "Power",
+   "Policy of assimilation",
+   "Collective responsibility",
+   "Constituency"
+  ],
+  "answer": 1,
+  "explanation": "This is the meaning of policy of assimilation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a government formed by two or more parties?",
+  "options": [
+   "Universal adult suffrage",
+   "Oligarchy",
+   "Confederation",
+   "Coalition government"
+  ],
+  "answer": 3,
+  "explanation": "This is the meaning of coalition government.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a document setting out a party's programmes and policies?",
+  "options": [
+   "Rule of law",
+   "Federalism",
+   "Public opinion",
+   "Manifesto"
+  ],
+  "answer": 3,
+  "explanation": "This is the meaning of manifesto.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes an area that elects a representative to the legislature?",
+  "options": [
+   "Constituency",
+   "State",
+   "Universal adult suffrage",
+   "Oligarchy"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of constituency.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the people qualified to vote in an election?",
+  "options": [
+   "Electorate",
+   "Gerontocracy",
+   "Sovereignty",
+   "Universal adult suffrage"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of electorate.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a group of people bound by common history, culture and language?",
+  "options": [
+   "Legitimacy",
+   "Aristocracy",
+   "Nation",
+   "Authority"
+  ],
+  "answer": 2,
+  "explanation": "This is the meaning of nation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a population living in a defined territory under a sovereign government?",
+  "options": [
+   "Sovereignty",
+   "State",
+   "Communism",
+   "Unicameral legislature"
+  ],
+  "answer": 1,
+  "explanation": "This is the meaning of state.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the attitudes, beliefs and values of a society towards politics?",
+  "options": [
+   "State",
+   "Political culture",
+   "Confederation",
+   "Judicial review"
+  ],
+  "answer": 1,
+  "explanation": "This is the meaning of political culture.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the process by which people acquire political values and beliefs?",
+  "options": [
+   "Judicial review",
+   "Political socialisation",
+   "Electoral college",
+   "Whip"
+  ],
+  "answer": 1,
+  "explanation": "This is the meaning of political socialisation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes an administrative system with a hierarchy of officials following fixed rules?",
+  "options": [
+   "Franchise",
+   "Bureaucracy",
+   "Bill",
+   "Veto"
+  ],
+  "answer": 1,
+  "explanation": "This is the meaning of bureaucracy.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the principle that government power is limited by a constitution?",
+  "options": [
+   "Authority",
+   "Constitutionalism",
+   "Electoral college",
+   "Theocracy"
+  ],
+  "answer": 1,
+  "explanation": "This is the meaning of constitutionalism.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a state with no official religion?",
+  "options": [
+   "Sovereignty",
+   "Vote of no confidence",
+   "Quorum",
+   "Secular state"
+  ],
+  "answer": 3,
+  "explanation": "This is the meaning of secular state.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a body of electors chosen to elect a leader?",
+  "options": [
+   "Gerrymandering",
+   "Electoral college",
+   "Democracy",
+   "Electorate"
+  ],
+  "answer": 1,
+  "explanation": "This is the meaning of electoral college.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes an election held to fill a vacant seat?",
+  "options": [
+   "Recall",
+   "Parliamentary system",
+   "By-election",
+   "Whip"
+  ],
+  "answer": 2,
+  "explanation": "This is the meaning of by-election.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes an election to choose a party's candidate?",
+  "options": [
+   "Primary election",
+   "Parliamentary system",
+   "Gerontocracy",
+   "Unitary system"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of primary election.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the parties in the legislature that are not in government?",
+  "options": [
+   "Opposition",
+   "Constitutionalism",
+   "Manifesto",
+   "Whip"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of opposition.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a party official who ensures members attend and vote as the party directs?",
+  "options": [
+   "Proportional representation",
+   "State",
+   "Whip",
+   "Rule of law"
+  ],
+  "answer": 2,
+  "explanation": "This is the meaning of whip.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a parliament in which no party has an overall majority?",
+  "options": [
+   "Hung parliament",
+   "Manifesto",
+   "Authority",
+   "Franchise"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of hung parliament.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the principle that ministers share responsibility for cabinet decisions?",
+  "options": [
+   "Collective responsibility",
+   "Rigid constitution",
+   "Gerrymandering",
+   "Recall"
+  ],
+  "answer": 0,
+  "explanation": "This is the meaning of collective responsibility.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes a motion showing the legislature no longer supports the government?",
+  "options": [
+   "Proportional representation",
+   "Pressure group",
+   "Vote of no confidence",
+   "Dissolution"
+  ],
+  "answer": 2,
+  "explanation": "This is the meaning of vote of no confidence.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Concepts",
+  "body": "What term describes the formal ending of a parliament before fresh elections?",
+  "options": [
+   "Recall",
+   "Ombudsman",
+   "Hung parliament",
+   "Dissolution"
+  ],
+  "answer": 3,
+  "explanation": "This is the meaning of dissolution.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Baron de Montesquieu is best known for",
+  "options": [
+   "Leviathan",
+   "the classification of authority into traditional, charismatic and legal-rational",
+   "the definition of democracy as government 'of the people, by the people, for the people'",
+   "the theory of separation of powers"
+  ],
+  "answer": 3,
+  "explanation": "Baron de Montesquieu is associated with the theory of separation of powers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "A. V. Dicey is best known for",
+  "options": [
+   "The Prince",
+   "the concept of the general will",
+   "a classic definition of federal government",
+   "the concept of the rule of law"
+  ],
+  "answer": 3,
+  "explanation": "A. V. Dicey is associated with the concept of the rule of law.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Karl Marx is best known for",
+  "options": [
+   "the theory of separation of powers",
+   "the classification of authority into traditional, charismatic and legal-rational",
+   "indirect rule in Northern Nigeria",
+   "scientific socialism (The Communist Manifesto)"
+  ],
+  "answer": 3,
+  "explanation": "Karl Marx is associated with scientific socialism (The Communist Manifesto).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Thomas Hobbes is best known for",
+  "options": [
+   "the classification of authority into traditional, charismatic and legal-rational",
+   "Leviathan",
+   "a classic definition of federal government",
+   "the concept of the rule of law"
+  ],
+  "answer": 1,
+  "explanation": "Thomas Hobbes is associated with Leviathan.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Jean-Jacques Rousseau is best known for",
+  "options": [
+   "Leviathan",
+   "the concept of the rule of law",
+   "the concept of the general will",
+   "a classic definition of federal government"
+  ],
+  "answer": 2,
+  "explanation": "Jean-Jacques Rousseau is associated with the concept of the general will.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Niccolò Machiavelli is best known for",
+  "options": [
+   "the idea that 'man is by nature a political animal'",
+   "The Prince",
+   "Leviathan",
+   "a classic definition of federal government"
+  ],
+  "answer": 1,
+  "explanation": "Niccolò Machiavelli is associated with The Prince.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Plato is best known for",
+  "options": [
+   "the definition of democracy as government 'of the people, by the people, for the people'",
+   "the concept of the general will",
+   "the concept of the rule of law",
+   "The Republic"
+  ],
+  "answer": 3,
+  "explanation": "Plato is associated with The Republic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Aristotle is best known for",
+  "options": [
+   "the definition of democracy as government 'of the people, by the people, for the people'",
+   "the idea that 'man is by nature a political animal'",
+   "The Prince",
+   "scientific socialism (The Communist Manifesto)"
+  ],
+  "answer": 1,
+  "explanation": "Aristotle is associated with the idea that 'man is by nature a political animal'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "K. C. Wheare is best known for",
+  "options": [
+   "the concept of the rule of law",
+   "a classic definition of federal government",
+   "The Republic",
+   "the idea that 'man is by nature a political animal'"
+  ],
+  "answer": 1,
+  "explanation": "K. C. Wheare is associated with a classic definition of federal government.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Abraham Lincoln is best known for",
+  "options": [
+   "the definition of democracy as government 'of the people, by the people, for the people'",
+   "the concept of the rule of law",
+   "the theory of separation of powers",
+   "Leviathan"
+  ],
+  "answer": 0,
+  "explanation": "Abraham Lincoln is associated with the definition of democracy as government 'of the people, by the people, for the people'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Max Weber is best known for",
+  "options": [
+   "indirect rule in Northern Nigeria",
+   "the concept of the rule of law",
+   "Leviathan",
+   "the classification of authority into traditional, charismatic and legal-rational"
+  ],
+  "answer": 3,
+  "explanation": "Max Weber is associated with the classification of authority into traditional, charismatic and legal-rational.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Lord Lugard is best known for",
+  "options": [
+   "The Prince",
+   "scientific socialism (The Communist Manifesto)",
+   "indirect rule in Northern Nigeria",
+   "the classification of authority into traditional, charismatic and legal-rational"
+  ],
+  "answer": 2,
+  "explanation": "Lord Lugard is associated with indirect rule in Northern Nigeria.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Which thinker is associated with the theory of separation of powers?",
+  "options": [
+   "Baron de Montesquieu",
+   "Max Weber",
+   "Jean-Jacques Rousseau",
+   "A. V. Dicey"
+  ],
+  "answer": 0,
+  "explanation": "The theory of separation of powers is associated with Baron de Montesquieu.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Which thinker is associated with the concept of the rule of law?",
+  "options": [
+   "Baron de Montesquieu",
+   "A. V. Dicey",
+   "Plato",
+   "Abraham Lincoln"
+  ],
+  "answer": 1,
+  "explanation": "The concept of the rule of law is associated with A. V. Dicey.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Which thinker is associated with scientific socialism (The Communist Manifesto)?",
+  "options": [
+   "Lord Lugard",
+   "Karl Marx",
+   "Abraham Lincoln",
+   "Plato"
+  ],
+  "answer": 1,
+  "explanation": "Scientific socialism (The Communist Manifesto) is associated with Karl Marx.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Which thinker is associated with Leviathan?",
+  "options": [
+   "Baron de Montesquieu",
+   "Plato",
+   "Thomas Hobbes",
+   "K. C. Wheare"
+  ],
+  "answer": 2,
+  "explanation": "Leviathan is associated with Thomas Hobbes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Which thinker is associated with the concept of the general will?",
+  "options": [
+   "Lord Lugard",
+   "Plato",
+   "Jean-Jacques Rousseau",
+   "Aristotle"
+  ],
+  "answer": 2,
+  "explanation": "The concept of the general will is associated with Jean-Jacques Rousseau.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Which thinker is associated with The Prince?",
+  "options": [
+   "Lord Lugard",
+   "Niccolò Machiavelli",
+   "Aristotle",
+   "Thomas Hobbes"
+  ],
+  "answer": 1,
+  "explanation": "The Prince is associated with Niccolò Machiavelli.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Which thinker is associated with The Republic?",
+  "options": [
+   "Jean-Jacques Rousseau",
+   "Baron de Montesquieu",
+   "Plato",
+   "Niccolò Machiavelli"
+  ],
+  "answer": 2,
+  "explanation": "The Republic is associated with Plato.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Which thinker is associated with the idea that 'man is by nature a political animal'?",
+  "options": [
+   "Aristotle",
+   "Baron de Montesquieu",
+   "Niccolò Machiavelli",
+   "K. C. Wheare"
+  ],
+  "answer": 0,
+  "explanation": "The idea that 'man is by nature a political animal' is associated with Aristotle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Which thinker is associated with a classic definition of federal government?",
+  "options": [
+   "Plato",
+   "Aristotle",
+   "K. C. Wheare",
+   "A. V. Dicey"
+  ],
+  "answer": 2,
+  "explanation": "A classic definition of federal government is associated with K. C. Wheare.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Which thinker is associated with the definition of democracy as government 'of the people, by the people, for the people'?",
+  "options": [
+   "Abraham Lincoln",
+   "Aristotle",
+   "Niccolò Machiavelli",
+   "Max Weber"
+  ],
+  "answer": 0,
+  "explanation": "The definition of democracy as government 'of the people, by the people, for the people' is associated with Abraham Lincoln.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Which thinker is associated with the classification of authority into traditional, charismatic and legal-rational?",
+  "options": [
+   "Baron de Montesquieu",
+   "Thomas Hobbes",
+   "Max Weber",
+   "A. V. Dicey"
+  ],
+  "answer": 2,
+  "explanation": "The classification of authority into traditional, charismatic and legal-rational is associated with Max Weber.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Political thinkers",
+  "body": "Which thinker is associated with indirect rule in Northern Nigeria?",
+  "options": [
+   "Plato",
+   "Lord Lugard",
+   "Abraham Lincoln",
+   "A. V. Dicey"
+  ],
+  "answer": 1,
+  "explanation": "Indirect rule in Northern Nigeria is associated with Lord Lugard.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The amalgamation of Northern and Southern Nigeria took place in",
+  "options": [
+   "1914",
+   "1900",
+   "1922",
+   "1960"
+  ],
+  "answer": 0,
+  "explanation": "Lord Lugard amalgamated the North and South in 1914.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The amalgamation of 1914 was carried out by",
+  "options": [
+   "Sir Hugh Clifford",
+   "Sir John Macpherson",
+   "Lord Lugard",
+   "Sir Arthur Richards"
+  ],
+  "answer": 2,
+  "explanation": "Frederick Lugard became the first Governor-General.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Nigeria gained independence on",
+  "options": [
+   "29 May 1999",
+   "1 October 1963",
+   "1 October 1960",
+   "15 January 1966"
+  ],
+  "answer": 2,
+  "explanation": "Nigeria became independent from Britain on 1 October 1960.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Nigeria became a republic in",
+  "options": [
+   "1960",
+   "1963",
+   "1966",
+   "1979"
+  ],
+  "answer": 1,
+  "explanation": "The Republican Constitution took effect on 1 October 1963.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The elective principle was first introduced in Nigeria by the",
+  "options": [
+   "Lyttleton Constitution of 1954",
+   "Clifford Constitution of 1922",
+   "Macpherson Constitution of 1951",
+   "Richards Constitution of 1946"
+  ],
+  "answer": 1,
+  "explanation": "It allowed elected members for Lagos and Calabar.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Regionalism was introduced in Nigeria by the",
+  "options": [
+   "Lyttleton Constitution of 1954",
+   "Clifford Constitution of 1922",
+   "Independence Constitution of 1960",
+   "Richards Constitution of 1946"
+  ],
+  "answer": 3,
+  "explanation": "It created Northern, Western and Eastern regions.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Nigeria became a federation under the",
+  "options": [
+   "Republican Constitution of 1963",
+   "Richards Constitution of 1946",
+   "Macpherson Constitution of 1951",
+   "Lyttleton Constitution of 1954"
+  ],
+  "answer": 3,
+  "explanation": "The 1954 constitution established a true federal structure.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The presidential system of government was introduced in Nigeria by the",
+  "options": [
+   "1963 Constitution",
+   "1960 Constitution",
+   "1954 Constitution",
+   "1979 Constitution"
+  ],
+  "answer": 3,
+  "explanation": "The Second Republic (1979–1983) adopted the presidential system.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The first Prime Minister of Nigeria was",
+  "options": [
+   "Chief Obafemi Awolowo",
+   "Sir Ahmadu Bello",
+   "Sir Abubakar Tafawa Balewa",
+   "Dr Nnamdi Azikiwe"
+  ],
+  "answer": 2,
+  "explanation": "He led the federal government from 1957 (Prime Minister of the federation) to 1966.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The first President of Nigeria was",
+  "options": [
+   "Sir Abubakar Tafawa Balewa",
+   "Chief Obafemi Awolowo",
+   "Alhaji Shehu Shagari",
+   "Dr Nnamdi Azikiwe"
+  ],
+  "answer": 3,
+  "explanation": "Azikiwe became ceremonial President when Nigeria became a republic in 1963.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The first executive President of Nigeria was",
+  "options": [
+   "Chief Ernest Shonekan",
+   "Dr Nnamdi Azikiwe",
+   "Alhaji Shehu Shagari",
+   "General Olusegun Obasanjo"
+  ],
+  "answer": 2,
+  "explanation": "Shagari was elected in 1979 under the presidential system.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Nigeria's first military coup took place on",
+  "options": [
+   "1 October 1960",
+   "31 December 1983",
+   "15 January 1966",
+   "29 July 1966"
+  ],
+  "answer": 2,
+  "explanation": "Balewa was killed and Aguiyi-Ironsi became Head of State.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The first military Head of State of Nigeria was",
+  "options": [
+   "Major-General J. T. U. Aguiyi-Ironsi",
+   "General Olusegun Obasanjo",
+   "General Murtala Mohammed",
+   "General Yakubu Gowon"
+  ],
+  "answer": 0,
+  "explanation": "He took over after the January 1966 coup.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The Nigerian Civil War lasted from",
+  "options": [
+   "1967 to 1970",
+   "1966 to 1967",
+   "1960 to 1963",
+   "1970 to 1975"
+  ],
+  "answer": 0,
+  "explanation": "The war ended in January 1970.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Nigeria was divided into 12 states in",
+  "options": [
+   "1967",
+   "1987",
+   "1963",
+   "1976"
+  ],
+  "answer": 0,
+  "explanation": "General Gowon created 12 states in May 1967.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Nigeria's 19-state structure was created in",
+  "options": [
+   "1967",
+   "1976",
+   "1991",
+   "1987"
+  ],
+  "answer": 1,
+  "explanation": "General Murtala Mohammed's regime created 19 states.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Nigeria's 36-state structure was created in",
+  "options": [
+   "1996",
+   "1999",
+   "1987",
+   "1991"
+  ],
+  "answer": 0,
+  "explanation": "General Sani Abacha created six new states in 1996.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The seat of the Federal Government moved from Lagos to Abuja in",
+  "options": [
+   "1976",
+   "1999",
+   "1983",
+   "1991"
+  ],
+  "answer": 3,
+  "explanation": "The official move happened on 12 December 1991.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Nigeria returned to civilian rule on",
+  "options": [
+   "27 August 1993",
+   "1 October 1979",
+   "12 June 1993",
+   "29 May 1999"
+  ],
+  "answer": 3,
+  "explanation": "General Abdulsalami Abubakar handed over to President Olusegun Obasanjo.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The military head of state who handed over power to a civilian government in 1979 was",
+  "options": [
+   "General Murtala Mohammed",
+   "General Muhammadu Buhari",
+   "General Olusegun Obasanjo",
+   "General Yakubu Gowon"
+  ],
+  "answer": 2,
+  "explanation": "Obasanjo handed over to Shehu Shagari on 1 October 1979.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The military head of state who handed over power to a civilian government in 1999 was",
+  "options": [
+   "General Abdulsalami Abubakar",
+   "General Ibrahim Babangida",
+   "Chief Ernest Shonekan",
+   "General Sani Abacha"
+  ],
+  "answer": 0,
+  "explanation": "He handed over on 29 May 1999.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The presidential election of 12 June 1993 was annulled by",
+  "options": [
+   "Chief Ernest Shonekan",
+   "General Abdulsalami Abubakar",
+   "General Ibrahim Babangida",
+   "General Sani Abacha"
+  ],
+  "answer": 2,
+  "explanation": "The election, believed won by M. K. O. Abiola, was annulled.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The head of the Interim National Government of 1993 was",
+  "options": [
+   "General Sani Abacha",
+   "Alhaji Shehu Shagari",
+   "Chief Ernest Shonekan",
+   "Chief M. K. O. Abiola"
+  ],
+  "answer": 2,
+  "explanation": "The ING lasted from August to November 1993.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The National Youth Service Corps was established in",
+  "options": [
+   "1973",
+   "1979",
+   "1967",
+   "1960"
+  ],
+  "answer": 0,
+  "explanation": "NYSC was created to promote national unity after the civil war.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The NCNC was led by",
+  "options": [
+   "Sir Ahmadu Bello",
+   "Chief Obafemi Awolowo",
+   "Aminu Kano",
+   "Dr Nnamdi Azikiwe"
+  ],
+  "answer": 3,
+  "explanation": "The NCNC was founded in 1944 with Herbert Macaulay as first president; Azikiwe later led it.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The Action Group was founded by",
+  "options": [
+   "Sir Ahmadu Bello",
+   "Chief Obafemi Awolowo",
+   "Dr Nnamdi Azikiwe",
+   "Herbert Macaulay"
+  ],
+  "answer": 1,
+  "explanation": "The Action Group was formed in 1951.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The Northern People's Congress was led by",
+  "options": [
+   "Chief Obafemi Awolowo",
+   "Sir Ahmadu Bello",
+   "Aminu Kano",
+   "Dr Nnamdi Azikiwe"
+  ],
+  "answer": 1,
+  "explanation": "The Sardauna of Sokoto led the NPC.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The Nigerian National Democratic Party (1923) was founded by",
+  "options": [
+   "Herbert Macaulay",
+   "Chief Obafemi Awolowo",
+   "Sir Ahmadu Bello",
+   "Dr Nnamdi Azikiwe"
+  ],
+  "answer": 0,
+  "explanation": "Macaulay is often called the father of Nigerian nationalism.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The number of states in Nigeria is",
+  "options": [
+   "36",
+   "37",
+   "19",
+   "30"
+  ],
+  "answer": 0,
+  "explanation": "Nigeria has 36 states and the Federal Capital Territory.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The number of local government areas recognised in Nigeria's 1999 Constitution is",
+  "options": [
+   "36",
+   "774",
+   "768",
+   "6"
+  ],
+  "answer": 1,
+  "explanation": "The 1999 Constitution lists 774 LGAs.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Nigeria has how many geopolitical zones?",
+  "options": [
+   "7",
+   "4",
+   "5",
+   "6"
+  ],
+  "answer": 3,
+  "explanation": "North-Central, North-East, North-West, South-East, South-South and South-West.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The Nigerian Senate has",
+  "options": [
+   "360 members",
+   "36 members",
+   "109 members",
+   "120 members"
+  ],
+  "answer": 2,
+  "explanation": "Three senators per state plus one for the FCT.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The Nigerian House of Representatives has",
+  "options": [
+   "469 members",
+   "109 members",
+   "300 members",
+   "360 members"
+  ],
+  "answer": 3,
+  "explanation": "Seats are allocated by population.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The federal legislature in Nigeria is called the",
+  "options": [
+   "Federal Executive Council",
+   "House of Assembly",
+   "Council of State",
+   "National Assembly"
+  ],
+  "answer": 3,
+  "explanation": "It has the Senate and the House of Representatives.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The body that conducts federal elections in Nigeria is",
+  "options": [
+   "EFCC",
+   "NYSC",
+   "NDLEA",
+   "INEC"
+  ],
+  "answer": 3,
+  "explanation": "The Independent National Electoral Commission.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Under the 1999 Constitution, the President's term of office is",
+  "options": [
+   "five years",
+   "four years",
+   "six years",
+   "seven years"
+  ],
+  "answer": 1,
+  "explanation": "The President can serve a maximum of two four-year terms.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The head of the Nigerian judiciary is the",
+  "options": [
+   "President of the Court of Appeal",
+   "Senate President",
+   "Chief Justice of Nigeria",
+   "Attorney-General of the Federation"
+  ],
+  "answer": 2,
+  "explanation": "The CJN heads the Supreme Court.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The highest court in Nigeria is the",
+  "options": [
+   "Customary Court of Appeal",
+   "Federal High Court",
+   "Court of Appeal",
+   "Supreme Court"
+  ],
+  "answer": 3,
+  "explanation": "Its decisions are final.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The presiding officer of the Nigerian Senate is the",
+  "options": [
+   "Speaker",
+   "Clerk of the National Assembly",
+   "Chief Justice",
+   "Senate President"
+  ],
+  "answer": 3,
+  "explanation": "The Speaker presides over the House of Representatives.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The presiding officer of the Nigerian House of Representatives is the",
+  "options": [
+   "Senate President",
+   "Majority Leader",
+   "Chief Whip",
+   "Speaker"
+  ],
+  "answer": 3,
+  "explanation": "The Speaker is elected from among the members.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "International organisations",
+  "body": "The United Nations Organisation was founded in",
+  "options": [
+   "1945",
+   "1975",
+   "1963",
+   "1919"
+  ],
+  "answer": 0,
+  "explanation": "The UN Charter came into force on 24 October 1945.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "International organisations",
+  "body": "The headquarters of the United Nations is in",
+  "options": [
+   "London",
+   "Paris",
+   "New York",
+   "Geneva"
+  ],
+  "answer": 2,
+  "explanation": "UN headquarters is in New York, USA.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "International organisations",
+  "body": "The League of Nations had its headquarters in",
+  "options": [
+   "New York",
+   "Geneva",
+   "The Hague",
+   "Paris"
+  ],
+  "answer": 1,
+  "explanation": "The League was based in Geneva, Switzerland.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "International organisations",
+  "body": "The number of permanent members of the UN Security Council is",
+  "options": [
+   "5",
+   "15",
+   "7",
+   "10"
+  ],
+  "answer": 0,
+  "explanation": "USA, UK, France, Russia and China.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "International organisations",
+  "body": "The number of non-permanent members of the UN Security Council is",
+  "options": [
+   "5",
+   "10",
+   "6",
+   "15"
+  ],
+  "answer": 1,
+  "explanation": "They are elected for two-year terms.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "International organisations",
+  "body": "The first Secretary-General of the United Nations was",
+  "options": [
+   "Kofi Annan",
+   "Trygve Lie",
+   "Dag Hammarskjöld",
+   "U Thant"
+  ],
+  "answer": 1,
+  "explanation": "Trygve Lie of Norway served from 1946 to 1952.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "International organisations",
+  "body": "The International Court of Justice sits at",
+  "options": [
+   "Geneva",
+   "The Hague",
+   "New York",
+   "Addis Ababa"
+  ],
+  "answer": 1,
+  "explanation": "The ICJ is in The Hague, Netherlands.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "International organisations",
+  "body": "The Organisation of African Unity was formed in",
+  "options": [
+   "2002",
+   "1975",
+   "1963",
+   "1960"
+  ],
+  "answer": 2,
+  "explanation": "The OAU was founded in Addis Ababa on 25 May 1963.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "International organisations",
+  "body": "The OAU was replaced by the African Union in",
+  "options": [
+   "2010",
+   "1963",
+   "2002",
+   "1999"
+  ],
+  "answer": 2,
+  "explanation": "The AU was launched in Durban in 2002.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "International organisations",
+  "body": "The headquarters of the African Union is in",
+  "options": [
+   "Nairobi",
+   "Addis Ababa",
+   "Accra",
+   "Abuja"
+  ],
+  "answer": 1,
+  "explanation": "Addis Ababa, Ethiopia.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "International organisations",
+  "body": "ECOWAS was established in",
+  "options": [
+   "1980",
+   "1960",
+   "1975",
+   "1963"
+  ],
+  "answer": 2,
+  "explanation": "The Treaty of Lagos was signed on 28 May 1975.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "International organisations",
+  "body": "The headquarters of ECOWAS is in",
+  "options": [
+   "Abuja",
+   "Lagos",
+   "Accra",
+   "Dakar"
+  ],
+  "answer": 0,
+  "explanation": "The ECOWAS Commission is based in Abuja.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "International organisations",
+  "body": "The headquarters of OPEC is in",
+  "options": [
+   "Vienna",
+   "Abuja",
+   "Riyadh",
+   "Geneva"
+  ],
+  "answer": 0,
+  "explanation": "OPEC is based in Vienna, Austria.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "International organisations",
+  "body": "Nigeria joined OPEC in",
+  "options": [
+   "1971",
+   "1965",
+   "1980",
+   "1960"
+  ],
+  "answer": 0,
+  "explanation": "Nigeria became a member in July 1971.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "International organisations",
+  "body": "The Commonwealth of Nations is made up mainly of",
+  "options": [
+   "West African states only",
+   "oil-producing countries",
+   "former French colonies",
+   "former British colonies"
+  ],
+  "answer": 3,
+  "explanation": "Its secretariat is in London.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "International organisations",
+  "body": "The headquarters of the Commonwealth Secretariat is in",
+  "options": [
+   "Ottawa",
+   "New York",
+   "Abuja",
+   "London"
+  ],
+  "answer": 3,
+  "explanation": "Marlborough House, London.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "International organisations",
+  "body": "The UN agency responsible for education, science and culture is",
+  "options": [
+   "UNICEF",
+   "FAO",
+   "WHO",
+   "UNESCO"
+  ],
+  "answer": 3,
+  "explanation": "UNESCO is based in Paris.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "International organisations",
+  "body": "The UN agency responsible for children's welfare is",
+  "options": [
+   "ILO",
+   "UNESCO",
+   "UNICEF",
+   "WHO"
+  ],
+  "answer": 2,
+  "explanation": "The United Nations Children's Fund.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "International organisations",
+  "body": "The UN agency responsible for international public health is",
+  "options": [
+   "WHO",
+   "ILO",
+   "FAO",
+   "UNICEF"
+  ],
+  "answer": 0,
+  "explanation": "The World Health Organization is based in Geneva.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "International organisations",
+  "body": "The UN agency responsible for food and agriculture is",
+  "options": [
+   "WHO",
+   "UNESCO",
+   "IMF",
+   "FAO"
+  ],
+  "answer": 3,
+  "explanation": "The Food and Agriculture Organization is based in Rome.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "In the pre-colonial Hausa-Fulani system, the Waziri was the",
+  "options": [
+   "treasurer",
+   "commander of the army",
+   "judge",
+   "Emir's chief adviser"
+  ],
+  "answer": 3,
+  "explanation": "The Waziri headed the Emir's officials.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "In the pre-colonial Hausa-Fulani system, the Madawaki was the",
+  "options": [
+   "treasurer",
+   "judge",
+   "commander of the army",
+   "Emir's chief adviser"
+  ],
+  "answer": 2,
+  "explanation": "The Madawaki commanded the army.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "In the pre-colonial Hausa-Fulani system, the Ma'aji was the",
+  "options": [
+   "judge",
+   "commander of the army",
+   "treasurer",
+   "administrator of the capital"
+  ],
+  "answer": 2,
+  "explanation": "The Ma'aji kept the treasury.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "In the pre-colonial Hausa-Fulani system, the Alkali was the",
+  "options": [
+   "treasurer",
+   "judge",
+   "Emir's chief adviser",
+   "commander of the army"
+  ],
+  "answer": 1,
+  "explanation": "The Alkali administered Sharia law.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "In the Old Oyo Empire, the Alaafin was the",
+  "options": [
+   "head of the army",
+   "head of the Oyo Mesi",
+   "political head of the empire",
+   "chief priest"
+  ],
+  "answer": 2,
+  "explanation": "The Alaafin was the king of Oyo.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "In the Old Oyo Empire, the Bashorun was the",
+  "options": [
+   "head of the Ogboni",
+   "king of Oyo",
+   "head of the Oyo Mesi",
+   "head of the army"
+  ],
+  "answer": 2,
+  "explanation": "The Bashorun led the kingmakers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "In the Old Oyo Empire, the Are-Ona-Kakanfo was the",
+  "options": [
+   "head of the Oyo Mesi",
+   "chief judge",
+   "head of the army",
+   "king of Oyo"
+  ],
+  "answer": 2,
+  "explanation": "The Are-Ona-Kakanfo led the army.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The colonial policy that aimed to turn Africans into French citizens was",
+  "options": [
+   "indirect rule",
+   "association",
+   "assimilation",
+   "apartheid"
+  ],
+  "answer": 2,
+  "explanation": "France used assimilation in Senegal's communes.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Indirect rule was least successful in",
+  "options": [
+   "Eastern Nigeria",
+   "Lagos",
+   "Western Nigeria",
+   "Northern Nigeria"
+  ],
+  "answer": 0,
+  "explanation": "The Igbo had no centralised traditional rulers to work through.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The British appointed warrant chiefs mainly in",
+  "options": [
+   "Western Nigeria",
+   "Eastern Nigeria",
+   "Northern Nigeria",
+   "Lagos Colony"
+  ],
+  "answer": 1,
+  "explanation": "Warrant chiefs were imposed where there were no kings.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The Aba Women's Riot took place in",
+  "options": [
+   "1929",
+   "1945",
+   "1914",
+   "1956"
+  ],
+  "answer": 0,
+  "explanation": "Women protested against taxation and warrant chiefs.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Nigeria's 1999 Constitution provides for how many tiers of government?",
+  "options": [
+   "Three",
+   "Two",
+   "Four",
+   "Six"
+  ],
+  "answer": 0,
+  "explanation": "Federal, state and local government.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The Federal Executive Council of Nigeria is presided over by the",
+  "options": [
+   "President",
+   "Senate President",
+   "Chief Justice of Nigeria",
+   "Vice-President"
+  ],
+  "answer": 0,
+  "explanation": "The FEC is the President, Vice-President and ministers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The Nigerian Civil War ended in",
+  "options": [
+   "1970",
+   "1966",
+   "1967",
+   "1975"
+  ],
+  "answer": 0,
+  "explanation": "The war ended in January 1970.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The capital of Nigeria before Abuja was",
+  "options": [
+   "Ibadan",
+   "Enugu",
+   "Lagos",
+   "Kaduna"
+  ],
+  "answer": 2,
+  "explanation": "Lagos was the capital until December 1991.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The headquarters of the Northern Region before 1967 was",
+  "options": [
+   "Sokoto",
+   "Kano",
+   "Kaduna",
+   "Zaria"
+  ],
+  "answer": 2,
+  "explanation": "Kaduna was the regional capital.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The political head of a Hausa-Fulani emirate was the",
+  "options": [
+   "Waziri",
+   "Oba",
+   "Obi",
+   "Emir"
+  ],
+  "answer": 3,
+  "explanation": "The Emir combined political and religious authority.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "In the Hausa-Fulani system, the Emir's chief adviser (prime minister) was the",
+  "options": [
+   "Waziri",
+   "Alkali",
+   "Madawaki",
+   "Galadima"
+  ],
+  "answer": 0,
+  "explanation": "The Waziri was the head of the Emir's officials.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "In the Hausa-Fulani system, the commander of the army was the",
+  "options": [
+   "Ma'aji",
+   "Waziri",
+   "Madawaki",
+   "Galadima"
+  ],
+  "answer": 2,
+  "explanation": "The Madawaki commanded the army.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "In the Hausa-Fulani system, the administrator of the capital city was the",
+  "options": [
+   "Alkali",
+   "Madawaki",
+   "Galadima",
+   "Ma'aji"
+  ],
+  "answer": 2,
+  "explanation": "The Galadima administered the capital.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "In the Hausa-Fulani system, the treasurer was the",
+  "options": [
+   "Ma'aji",
+   "Madawaki",
+   "Waziri",
+   "Galadima"
+  ],
+  "answer": 0,
+  "explanation": "The Ma'aji was in charge of the treasury.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Judicial matters in the pre-colonial Hausa-Fulani system were handled by the",
+  "options": [
+   "Madawaki",
+   "Waziri",
+   "Alkali",
+   "Galadima"
+  ],
+  "answer": 2,
+  "explanation": "Alkali courts applied Sharia law.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The jihad of 1804 that led to the Sokoto Caliphate was led by",
+  "options": [
+   "Ahmadu Bello",
+   "Muhammad Bello",
+   "Lord Lugard",
+   "Usman dan Fodio"
+  ],
+  "answer": 3,
+  "explanation": "The jihad created the Sokoto Caliphate.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The political head of the Old Oyo Empire was the",
+  "options": [
+   "Bashorun",
+   "Alaafin",
+   "Ooni",
+   "Are-Ona-Kakanfo"
+  ],
+  "answer": 1,
+  "explanation": "The Alaafin ruled Oyo, checked by the Oyo Mesi.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The council of kingmakers in the Old Oyo Empire was the",
+  "options": [
+   "Oyo Mesi",
+   "Ogboni",
+   "Eso",
+   "Ilari"
+  ],
+  "answer": 0,
+  "explanation": "The Oyo Mesi chose the Alaafin and could ask him to commit suicide.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The head of the Oyo Mesi was the",
+  "options": [
+   "Bashorun",
+   "Are-Ona-Kakanfo",
+   "Alaafin",
+   "Aremo"
+  ],
+  "answer": 0,
+  "explanation": "The Bashorun led the Oyo Mesi.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The head of the army in the Old Oyo Empire was the",
+  "options": [
+   "Are-Ona-Kakanfo",
+   "Bashorun",
+   "Oyo Mesi",
+   "Alaafin"
+  ],
+  "answer": 0,
+  "explanation": "The Are-Ona-Kakanfo commanded the army.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "In the Old Oyo Empire, the body that checked the powers of the Oyo Mesi was the",
+  "options": [
+   "Eso",
+   "Aremo",
+   "Ilari",
+   "Ogboni"
+  ],
+  "answer": 3,
+  "explanation": "The Ogboni cult was a check on the Oyo Mesi.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The pre-colonial Igbo political system is best described as",
+  "options": [
+   "centralised",
+   "theocratic",
+   "feudal",
+   "acephalous (decentralised)"
+  ],
+  "answer": 3,
+  "explanation": "The Igbo had no single central ruler.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Lagos was annexed by Britain in",
+  "options": [
+   "1861",
+   "1914",
+   "1851",
+   "1900"
+  ],
+  "answer": 0,
+  "explanation": "Lagos became a British colony in 1861.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The charter of the Royal Niger Company was revoked in",
+  "options": [
+   "1914",
+   "1861",
+   "1886",
+   "1900"
+  ],
+  "answer": 3,
+  "explanation": "The British government took over its territories in 1900.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The father of Nigerian nationalism is generally regarded as",
+  "options": [
+   "Nnamdi Azikiwe",
+   "Herbert Macaulay",
+   "Obafemi Awolowo",
+   "Ahmadu Bello"
+  ],
+  "answer": 1,
+  "explanation": "Macaulay founded the NNDP in 1923.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The West African Students' Union (WASU) was founded in London in 1925 by",
+  "options": [
+   "Nnamdi Azikiwe",
+   "Ladipo Solanke",
+   "Herbert Macaulay",
+   "Kwame Nkrumah"
+  ],
+  "answer": 1,
+  "explanation": "WASU promoted nationalism among West African students.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Ghana gained independence in",
+  "options": [
+   "1960",
+   "1963",
+   "1957",
+   "1956"
+  ],
+  "answer": 2,
+  "explanation": "Ghana became independent on 6 March 1957.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The first Prime Minister and President of Ghana was",
+  "options": [
+   "Kwame Nkrumah",
+   "Jerry Rawlings",
+   "Jomo Kenyatta",
+   "Kofi Busia"
+  ],
+  "answer": 0,
+  "explanation": "Nkrumah led Ghana to independence in 1957.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The first President of Kenya was",
+  "options": [
+   "Kenneth Kaunda",
+   "Kwame Nkrumah",
+   "Julius Nyerere",
+   "Jomo Kenyatta"
+  ],
+  "answer": 3,
+  "explanation": "Kenyatta led Kenya from independence.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The first President of Tanzania was",
+  "options": [
+   "Milton Obote",
+   "Julius Nyerere",
+   "Kenneth Kaunda",
+   "Jomo Kenyatta"
+  ],
+  "answer": 1,
+  "explanation": "Nyerere was known for Ujamaa socialism.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The first black President of South Africa was",
+  "options": [
+   "Desmond Tutu",
+   "Thabo Mbeki",
+   "Nelson Mandela",
+   "Jacob Zuma"
+  ],
+  "answer": 2,
+  "explanation": "Mandela became President in 1994 after apartheid ended.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Which of these is NOT a principal organ of the United Nations?",
+  "options": [
+   "World Health Organization",
+   "International Court of Justice",
+   "General Assembly",
+   "Security Council"
+  ],
+  "answer": 0,
+  "explanation": "WHO is a specialised agency, not a principal organ.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Defence and foreign affairs are on which legislative list in Nigeria?",
+  "options": [
+   "Concurrent list",
+   "Exclusive list",
+   "Residual list",
+   "Local list"
+  ],
+  "answer": 1,
+  "explanation": "Only the federal government can legislate on exclusive-list matters.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Matters on which both federal and state governments can legislate are on the",
+  "options": [
+   "concurrent list",
+   "supplementary list",
+   "exclusive list",
+   "residual list"
+  ],
+  "answer": 0,
+  "explanation": "Both levels share the concurrent list.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Matters on which only state governments can legislate are",
+  "options": [
+   "federal matters",
+   "concurrent matters",
+   "exclusive matters",
+   "residual matters"
+  ],
+  "answer": 3,
+  "explanation": "Residual matters are left to the states.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "In Nigeria, the President's veto can be overridden by",
+  "options": [
+   "the Supreme Court",
+   "a simple majority of the Senate",
+   "the Council of State",
+   "a two-thirds majority of each house of the National Assembly"
+  ],
+  "answer": 3,
+  "explanation": "Section 58(5) of the 1999 Constitution.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The minimum voting age in Nigeria is",
+  "options": [
+   "18 years",
+   "25 years",
+   "16 years",
+   "21 years"
+  ],
+  "answer": 0,
+  "explanation": "Citizens aged 18 and above can register to vote.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The legislature of a state in Nigeria is called the",
+  "options": [
+   "House of Assembly",
+   "National Assembly",
+   "Senate",
+   "State Council"
+  ],
+  "answer": 0,
+  "explanation": "Each state has a unicameral House of Assembly.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The chief executive of a local government council in Nigeria is the",
+  "options": [
+   "secretary",
+   "chairman",
+   "governor",
+   "councillor"
+  ],
+  "answer": 1,
+  "explanation": "The chairman heads the local government executive.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The body that ensures public officers declare their assets in Nigeria is the",
+  "options": [
+   "Public Complaints Commission",
+   "INEC",
+   "EFCC",
+   "Code of Conduct Bureau"
+  ],
+  "answer": 3,
+  "explanation": "Public officers must declare assets to the CCB.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Nigeria's ombudsman is the",
+  "options": [
+   "EFCC",
+   "Code of Conduct Bureau",
+   "Public Complaints Commission",
+   "National Human Rights Commission"
+  ],
+  "answer": 2,
+  "explanation": "The PCC investigates complaints against officials.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The body that ensures fair representation of all parts of Nigeria in federal appointments is the",
+  "options": [
+   "INEC",
+   "Federal Character Commission",
+   "Code of Conduct Bureau",
+   "RMAFC"
+  ],
+  "answer": 1,
+  "explanation": "It enforces the federal character principle.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The body responsible for revenue allocation formulae in Nigeria is the",
+  "options": [
+   "Central Bank of Nigeria",
+   "Federal Character Commission",
+   "Revenue Mobilisation Allocation and Fiscal Commission",
+   "Federal Inland Revenue Service"
+  ],
+  "answer": 2,
+  "explanation": "RMAFC reviews the revenue allocation formula.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The head of the Nigeria Police Force is the",
+  "options": [
+   "Minister of Interior",
+   "Commissioner of Police",
+   "Inspector-General of Police",
+   "Chief of Defence Staff"
+  ],
+  "answer": 2,
+  "explanation": "The IGP commands the police.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "An election held to fill a vacant seat in the legislature is a",
+  "options": [
+   "general election",
+   "primary election",
+   "run-off election",
+   "by-election"
+  ],
+  "answer": 3,
+  "explanation": "By-elections fill vacancies between general elections.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Nigeria operates a",
+  "options": [
+   "one-party system",
+   "two-party system",
+   "no-party system",
+   "multi-party system"
+  ],
+  "answer": 3,
+  "explanation": "Several registered parties contest elections.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The USA is a good example of a",
+  "options": [
+   "one-party system",
+   "two-party system",
+   "no-party system",
+   "multi-party system"
+  ],
+  "answer": 1,
+  "explanation": "Democrats and Republicans dominate US politics.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Direct democracy was practised in the ancient Greek city-state of",
+  "options": [
+   "Sparta",
+   "Carthage",
+   "Athens",
+   "Rome"
+  ],
+  "answer": 2,
+  "explanation": "Athenian citizens voted directly in the assembly.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Voting in which no one knows how an individual voted is called",
+  "options": [
+   "electoral college",
+   "secret ballot",
+   "open ballot",
+   "proxy voting"
+  ],
+  "answer": 1,
+  "explanation": "The secret ballot protects voters from intimidation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "An electoral system in which the candidate with the most votes wins is",
+  "options": [
+   "proportional representation",
+   "second ballot",
+   "absolute majority",
+   "simple majority (first-past-the-post)"
+  ],
+  "answer": 3,
+  "explanation": "The highest number of votes wins, even if under 50%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "An absolute majority means",
+  "options": [
+   "more than half of the total votes cast",
+   "the highest number of votes",
+   "all the votes cast",
+   "two-thirds of votes cast"
+  ],
+  "answer": 0,
+  "explanation": "Absolute majority = over 50%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Which of these is an agent of political socialisation?",
+  "options": [
+   "The judiciary",
+   "The electoral commission",
+   "The armed forces only",
+   "The family"
+  ],
+  "answer": 3,
+  "explanation": "Family, school, peers, religious bodies and the media shape political values.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "Fundamental human rights may be restricted during",
+  "options": [
+   "a budget session",
+   "a by-election",
+   "a general election",
+   "a state of emergency"
+  ],
+  "answer": 3,
+  "explanation": "The constitution allows limits in a declared emergency.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "The right to vote and be voted for is a",
+  "options": [
+   "political right",
+   "social right",
+   "economic right",
+   "civil right only"
+  ],
+  "answer": 0,
+  "explanation": "Political rights relate to participation in government.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Nigerian government and history",
+  "body": "A Nigerian citizen by birth may also hold another country's citizenship. This is called",
+  "options": [
+   "registration",
+   "naturalisation",
+   "dual citizenship",
+   "statelessness"
+  ],
+  "answer": 2,
+  "explanation": "The 1999 Constitution allows dual citizenship for citizens by birth.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Arms of government",
+  "body": "The arm of government that makes laws is the",
+  "options": [
+   "legislature",
+   "judiciary",
+   "executive",
+   "civil service"
+  ],
+  "answer": 0,
+  "explanation": "Legislature makes, executive implements, judiciary interprets.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Arms of government",
+  "body": "The arm of government that implements laws is the",
+  "options": [
+   "press",
+   "legislature",
+   "judiciary",
+   "executive"
+  ],
+  "answer": 3,
+  "explanation": "Legislature makes, executive implements, judiciary interprets.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Arms of government",
+  "body": "The arm of government that interprets laws is the",
+  "options": [
+   "executive",
+   "police",
+   "legislature",
+   "judiciary"
+  ],
+  "answer": 3,
+  "explanation": "Legislature makes, executive implements, judiciary interprets.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Arms of government",
+  "body": "The fourth estate of the realm is the",
+  "options": [
+   "military",
+   "press",
+   "judiciary",
+   "civil service"
+  ],
+  "answer": 1,
+  "explanation": "The mass media are called the fourth estate.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Arms of government",
+  "body": "Fundamental human rights are contained in which chapter of the 1999 Constitution?",
+  "options": [
+   "Chapter II",
+   "Chapter VI",
+   "Chapter I",
+   "Chapter IV"
+  ],
+  "answer": 3,
+  "explanation": "Chapter IV covers the right to life, dignity, liberty, fair hearing and more.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Arms of government",
+  "body": "The Fundamental Objectives and Directive Principles of State Policy are in which chapter of the 1999 Constitution?",
+  "options": [
+   "Chapter IV",
+   "Chapter VII",
+   "Chapter II",
+   "Chapter III"
+  ],
+  "answer": 2,
+  "explanation": "Chapter II sets out the goals of the state.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Arms of government",
+  "body": "Local government in Nigeria was reformed and recognised as a third tier of government in",
+  "options": [
+   "1976",
+   "1999",
+   "1979",
+   "1967"
+  ],
+  "answer": 0,
+  "explanation": "The 1976 Local Government Reform created a uniform system.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Arms of government",
+  "body": "A government in which power is held by the military is a",
+  "options": [
+   "monarchy",
+   "democracy",
+   "military regime",
+   "theocracy"
+  ],
+  "answer": 2,
+  "explanation": "Military regimes rule by decree.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Arms of government",
+  "body": "Laws made by a military government are called",
+  "options": [
+   "bye-laws",
+   "acts",
+   "bills",
+   "decrees"
+  ],
+  "answer": 3,
+  "explanation": "Military governments legislate by decrees and edicts.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Arms of government",
+  "body": "Laws made by a local government council are called",
+  "options": [
+   "edicts",
+   "decrees",
+   "acts",
+   "bye-laws"
+  ],
+  "answer": 3,
+  "explanation": "Local councils make bye-laws.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Arms of government",
+  "body": "Laws passed by the National Assembly are called",
+  "options": [
+   "acts",
+   "bye-laws",
+   "edicts",
+   "decrees"
+  ],
+  "answer": 0,
+  "explanation": "A bill that receives assent becomes an Act.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Arms of government",
+  "body": "Under military rule, laws made by state governments were called",
+  "options": [
+   "edicts",
+   "acts",
+   "bye-laws",
+   "decrees"
+  ],
+  "answer": 0,
+  "explanation": "Federal military laws were decrees; state ones were edicts.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Arms of government",
+  "body": "The principle that judges should be free from interference is called",
+  "options": [
+   "rule of law",
+   "judicial review",
+   "separation of powers",
+   "independence of the judiciary"
+  ],
+  "answer": 3,
+  "explanation": "Security of tenure and fixed salaries support judicial independence.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Arms of government",
+  "body": "The writ that requires a detained person to be brought before a court is",
+  "options": [
+   "injunction",
+   "mandamus",
+   "certiorari",
+   "habeas corpus"
+  ],
+  "answer": 3,
+  "explanation": "Habeas corpus protects against unlawful detention.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GOV",
+  "topic": "Arms of government",
+  "body": "A court order compelling a public official to perform a duty is",
+  "options": [
+   "prohibition",
+   "habeas corpus",
+   "mandamus",
+   "certiorari"
+  ],
+  "answer": 2,
+  "explanation": "Mandamus means 'we command'.",
+  "difficulty": 1
+ }
+]

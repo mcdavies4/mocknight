@@ -1,0 +1,5700 @@
+[
+ {
+  "subject": "MTH",
+  "topic": "Indices",
+  "body": "Simplify 3³ × 3⁵ ÷ 3⁶",
+  "options": [
+   "3",
+   "9",
+   "27",
+   "19,683"
+  ],
+  "answer": 1,
+  "explanation": "Add indices when multiplying, subtract when dividing: 3^(3+5−6) = 3^2 = 9.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Indices",
+  "body": "Simplify 2⁴ × 2² ÷ 2⁴",
+  "options": [
+   "16",
+   "8",
+   "4",
+   "2"
+  ],
+  "answer": 2,
+  "explanation": "Add indices when multiplying, subtract when dividing: 2^(4+2−4) = 2^2 = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Indices",
+  "body": "Simplify 3⁴ × 3² ÷ 3⁴",
+  "options": [
+   "3",
+   "27",
+   "9",
+   "81"
+  ],
+  "answer": 2,
+  "explanation": "Add indices when multiplying, subtract when dividing: 3^(4+2−4) = 3^2 = 9.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Indices",
+  "body": "Simplify 3² × 3² ÷ 3³",
+  "options": [
+   "1",
+   "4",
+   "9",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "Add indices when multiplying, subtract when dividing: 3^(2+2−3) = 3^1 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Indices",
+  "body": "Simplify 5⁴ × 5⁵ ÷ 5⁷",
+  "options": [
+   "5",
+   "1,220,703,125",
+   "25",
+   "125"
+  ],
+  "answer": 2,
+  "explanation": "Add indices when multiplying, subtract when dividing: 5^(4+5−7) = 5^2 = 25.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Indices",
+  "body": "Simplify 3³ × 3⁴ ÷ 3³",
+  "options": [
+   "81",
+   "243",
+   "19,683",
+   "27"
+  ],
+  "answer": 0,
+  "explanation": "Add indices when multiplying, subtract when dividing: 3^(3+4−3) = 3^4 = 81.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Indices",
+  "body": "Simplify 3³ × 3² ÷ 3⁴",
+  "options": [
+   "9",
+   "4",
+   "3",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "Add indices when multiplying, subtract when dividing: 3^(3+2−4) = 3^1 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Indices",
+  "body": "Simplify 2² × 2⁵ ÷ 2⁵",
+  "options": [
+   "32",
+   "8",
+   "4",
+   "2"
+  ],
+  "answer": 2,
+  "explanation": "Add indices when multiplying, subtract when dividing: 2^(2+5−5) = 2^2 = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Indices",
+  "body": "Simplify 2² × 2³ ÷ 2³",
+  "options": [
+   "5",
+   "4",
+   "8",
+   "2"
+  ],
+  "answer": 1,
+  "explanation": "Add indices when multiplying, subtract when dividing: 2^(2+3−3) = 2^2 = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Indices",
+  "body": "Simplify 5² × 5⁵ ÷ 5²",
+  "options": [
+   "390,625",
+   "15,625",
+   "625",
+   "3125"
+  ],
+  "answer": 3,
+  "explanation": "Add indices when multiplying, subtract when dividing: 5^(2+5−2) = 5^5 = 3125.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Indices",
+  "body": "Simplify 3⁵ × 3⁶ ÷ 3⁸",
+  "options": [
+   "81",
+   "9",
+   "31,381,059,609",
+   "27"
+  ],
+  "answer": 3,
+  "explanation": "Add indices when multiplying, subtract when dividing: 3^(5+6−8) = 3^3 = 27.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Indices",
+  "body": "Simplify 5⁶ × 5³ ÷ 5⁶",
+  "options": [
+   "25",
+   "625",
+   "125",
+   "244,140,625"
+  ],
+  "answer": 2,
+  "explanation": "Add indices when multiplying, subtract when dividing: 5^(6+3−6) = 5^3 = 125.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Indices",
+  "body": "Simplify 5² × 5² ÷ 5²",
+  "options": [
+   "5",
+   "125",
+   "10",
+   "25"
+  ],
+  "answer": 3,
+  "explanation": "Add indices when multiplying, subtract when dividing: 5^(2+2−2) = 5^2 = 25.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Indices",
+  "body": "Simplify 3³ × 3³ ÷ 3²",
+  "options": [
+   "27",
+   "243",
+   "2187",
+   "81"
+  ],
+  "answer": 3,
+  "explanation": "Add indices when multiplying, subtract when dividing: 3^(3+3−2) = 3^4 = 81.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Linear equations",
+  "body": "Solve for x: 8x + 4 = -44",
+  "options": [
+   "-48",
+   "-5",
+   "-6",
+   "6"
+  ],
+  "answer": 2,
+  "explanation": "8x = -44 − 4 = -48, so x = -48 ÷ 8 = -6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Linear equations",
+  "body": "Solve for x: 9x + 15 = 51",
+  "options": [
+   "4",
+   "36",
+   "5",
+   "-4"
+  ],
+  "answer": 0,
+  "explanation": "9x = 51 − 15 = 36, so x = 36 ÷ 9 = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Linear equations",
+  "body": "Solve for x: 2x − 2 = 18",
+  "options": [
+   "20",
+   "11",
+   "8",
+   "10"
+  ],
+  "answer": 3,
+  "explanation": "2x = 18 + 2 = 20, so x = 20 ÷ 2 = 10.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Linear equations",
+  "body": "Solve for x: 4x − 15 = -31",
+  "options": [
+   "-16",
+   "-3",
+   "4",
+   "-4"
+  ],
+  "answer": 3,
+  "explanation": "4x = -31 + 15 = -16, so x = -16 ÷ 4 = -4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Linear equations",
+  "body": "Solve for x: 3x + 10 = 28",
+  "options": [
+   "-6",
+   "7",
+   "6",
+   "18"
+  ],
+  "answer": 2,
+  "explanation": "3x = 28 − 10 = 18, so x = 18 ÷ 3 = 6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Linear equations",
+  "body": "Solve for x: 6x + 1 = 19",
+  "options": [
+   "3",
+   "-3",
+   "4",
+   "18"
+  ],
+  "answer": 0,
+  "explanation": "6x = 19 − 1 = 18, so x = 18 ÷ 6 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Linear equations",
+  "body": "Solve for x: 6x − 1 = 65",
+  "options": [
+   "12",
+   "-11",
+   "66",
+   "11"
+  ],
+  "answer": 3,
+  "explanation": "6x = 65 + 1 = 66, so x = 66 ÷ 6 = 11.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Linear equations",
+  "body": "Solve for x: 9x + 3 = 30",
+  "options": [
+   "4",
+   "-3",
+   "27",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "9x = 30 − 3 = 27, so x = 27 ÷ 9 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Linear equations",
+  "body": "Solve for x: 7x − 14 = 21",
+  "options": [
+   "35",
+   "1",
+   "5",
+   "6"
+  ],
+  "answer": 2,
+  "explanation": "7x = 21 + 14 = 35, so x = 35 ÷ 7 = 5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Linear equations",
+  "body": "Solve for x: 5x + 7 = -3",
+  "options": [
+   "2",
+   "-10",
+   "-2",
+   "-1"
+  ],
+  "answer": 2,
+  "explanation": "5x = -3 − 7 = -10, so x = -10 ÷ 5 = -2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Linear equations",
+  "body": "Solve for x: 9x + 4 = -5",
+  "options": [
+   "0",
+   "1",
+   "-9",
+   "-1"
+  ],
+  "answer": 3,
+  "explanation": "9x = -5 − 4 = -9, so x = -9 ÷ 9 = -1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Linear equations",
+  "body": "Solve for x: 2x + 18 = 42",
+  "options": [
+   "24",
+   "30",
+   "13",
+   "12"
+  ],
+  "answer": 3,
+  "explanation": "2x = 42 − 18 = 24, so x = 24 ÷ 2 = 12.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Linear equations",
+  "body": "Solve for x: 9x + 19 = -8",
+  "options": [
+   "-27",
+   "-2",
+   "3",
+   "-3"
+  ],
+  "answer": 3,
+  "explanation": "9x = -8 − 19 = -27, so x = -27 ÷ 9 = -3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Linear equations",
+  "body": "Solve for x: 5x + 15 = 15",
+  "options": [
+   "6",
+   "0",
+   "1",
+   "-1"
+  ],
+  "answer": 1,
+  "explanation": "5x = 15 − 15 = 0, so x = 0 ÷ 5 = 0.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Linear equations",
+  "body": "Solve for x: 3x + 14 = 35",
+  "options": [
+   "7",
+   "8",
+   "21",
+   "-7"
+  ],
+  "answer": 0,
+  "explanation": "3x = 35 − 14 = 21, so x = 21 ÷ 3 = 7.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simultaneous equations",
+  "body": "Solve: x + y = 16 and y − x = 6. Find x.",
+  "options": [
+   "11",
+   "6",
+   "16",
+   "5"
+  ],
+  "answer": 3,
+  "explanation": "Adding/subtracting the equations: 2x = 16 + -6 = 10, so x = 5 (and y = 11).",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simultaneous equations",
+  "body": "Solve: x + y = 4 and x − y = 2. Find x.",
+  "options": [
+   "4",
+   "2",
+   "1",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "Adding/subtracting the equations: 2x = 4 + 2 = 6, so x = 3 (and y = 1).",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simultaneous equations",
+  "body": "Solve: x + y = 21 and y − x = 1. Find x.",
+  "options": [
+   "11",
+   "10",
+   "1",
+   "21"
+  ],
+  "answer": 1,
+  "explanation": "Adding/subtracting the equations: 2x = 21 + -1 = 20, so x = 10 (and y = 11).",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simultaneous equations",
+  "body": "Solve: x + y = 15 and y − x = 5. Find x.",
+  "options": [
+   "6",
+   "15",
+   "5",
+   "10"
+  ],
+  "answer": 2,
+  "explanation": "Adding/subtracting the equations: 2x = 15 + -5 = 10, so x = 5 (and y = 10).",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simultaneous equations",
+  "body": "Solve: x + y = 7 and x − y = 3. Find x.",
+  "options": [
+   "3",
+   "7",
+   "2",
+   "5"
+  ],
+  "answer": 3,
+  "explanation": "Adding/subtracting the equations: 2x = 7 + 3 = 10, so x = 5 (and y = 2).",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simultaneous equations",
+  "body": "Solve: x + y = 15 and y − x = 7. Find x.",
+  "options": [
+   "7",
+   "11",
+   "15",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": "Adding/subtracting the equations: 2x = 15 + -7 = 8, so x = 4 (and y = 11).",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simultaneous equations",
+  "body": "Solve: x + y = 11 and x − y = 9. Find x.",
+  "options": [
+   "10",
+   "11",
+   "9",
+   "1"
+  ],
+  "answer": 0,
+  "explanation": "Adding/subtracting the equations: 2x = 11 + 9 = 20, so x = 10 (and y = 1).",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simultaneous equations",
+  "body": "Solve: x + y = 21 and x − y = 5. Find x.",
+  "options": [
+   "21",
+   "13",
+   "8",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": "Adding/subtracting the equations: 2x = 21 + 5 = 26, so x = 13 (and y = 8).",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simultaneous equations",
+  "body": "Solve: x + y = 16 and x − y = 4. Find x.",
+  "options": [
+   "16",
+   "6",
+   "10",
+   "4"
+  ],
+  "answer": 2,
+  "explanation": "Adding/subtracting the equations: 2x = 16 + 4 = 20, so x = 10 (and y = 6).",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simultaneous equations",
+  "body": "Solve: x + y = 20 and y − x = 4. Find x.",
+  "options": [
+   "12",
+   "8",
+   "4",
+   "20"
+  ],
+  "answer": 1,
+  "explanation": "Adding/subtracting the equations: 2x = 20 + -4 = 16, so x = 8 (and y = 12).",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simultaneous equations",
+  "body": "Solve: x + y = 10 and x − y = 4. Find x.",
+  "options": [
+   "7",
+   "3",
+   "10",
+   "4"
+  ],
+  "answer": 0,
+  "explanation": "Adding/subtracting the equations: 2x = 10 + 4 = 14, so x = 7 (and y = 3).",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simultaneous equations",
+  "body": "Solve: x + y = 14 and y − x = 6. Find x.",
+  "options": [
+   "10",
+   "6",
+   "4",
+   "14"
+  ],
+  "answer": 2,
+  "explanation": "Adding/subtracting the equations: 2x = 14 + -6 = 8, so x = 4 (and y = 10).",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Quadratic equations",
+  "body": "Solve x² − 5x − 6 = 0",
+  "options": [
+   "x = -1 or x = 6",
+   "x = -6 or x = 1",
+   "x = 1 or x = 6",
+   "x = -1 or x = -6"
+  ],
+  "answer": 0,
+  "explanation": "Factorise: (x + 1)(x − 6) = 0, so x = -1 or x = 6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Quadratic equations",
+  "body": "Solve x² − 9x + 14 = 0",
+  "options": [
+   "x = 2 or x = -7",
+   "x = -7 or x = -2",
+   "x = 2 or x = 7",
+   "x = -2 or x = 7"
+  ],
+  "answer": 2,
+  "explanation": "Factorise: (x − 7)(x − 2) = 0, so x = 7 or x = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Quadratic equations",
+  "body": "Solve x² + 2x − 35 = 0",
+  "options": [
+   "x = -7 or x = 5",
+   "x = -5 or x = 7",
+   "x = -7 or x = -5",
+   "x = 7 or x = 5"
+  ],
+  "answer": 0,
+  "explanation": "Factorise: (x − 5)(x + 7) = 0, so x = 5 or x = -7.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Quadratic equations",
+  "body": "Solve x² + x − 2 = 0",
+  "options": [
+   "x = 2 or x = 1",
+   "x = -1 or x = 2",
+   "x = -2 or x = 1",
+   "x = -2 or x = -1"
+  ],
+  "answer": 2,
+  "explanation": "Factorise: (x + 2)(x − 1) = 0, so x = -2 or x = 1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Quadratic equations",
+  "body": "Solve x² − 8x − 9 = 0",
+  "options": [
+   "x = -9 or x = 1",
+   "x = -1 or x = 9",
+   "x = 1 or x = 9",
+   "x = -1 or x = -9"
+  ],
+  "answer": 1,
+  "explanation": "Factorise: (x − 9)(x + 1) = 0, so x = 9 or x = -1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Quadratic equations",
+  "body": "Solve x² − 13x + 36 = 0",
+  "options": [
+   "x = -9 or x = -4",
+   "x = -4 or x = 9",
+   "x = 4 or x = 9",
+   "x = 4 or x = -9"
+  ],
+  "answer": 2,
+  "explanation": "Factorise: (x − 4)(x − 9) = 0, so x = 4 or x = 9.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Quadratic equations",
+  "body": "Solve x² + 2x − 15 = 0",
+  "options": [
+   "x = 5 or x = 3",
+   "x = -5 or x = -3",
+   "x = -5 or x = 3",
+   "x = -3 or x = 5"
+  ],
+  "answer": 2,
+  "explanation": "Factorise: (x − 3)(x + 5) = 0, so x = 3 or x = -5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Quadratic equations",
+  "body": "Solve x² − 3x − 10 = 0",
+  "options": [
+   "x = 2 or x = 5",
+   "x = -2 or x = 5",
+   "x = -5 or x = 2",
+   "x = -2 or x = -5"
+  ],
+  "answer": 1,
+  "explanation": "Factorise: (x − 5)(x + 2) = 0, so x = 5 or x = -2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Quadratic equations",
+  "body": "Solve x² + 9x + 20 = 0",
+  "options": [
+   "x = -5 or x = 4",
+   "x = -5 or x = -4",
+   "x = 5 or x = -4",
+   "x = 4 or x = 5"
+  ],
+  "answer": 1,
+  "explanation": "Factorise: (x + 4)(x + 5) = 0, so x = -4 or x = -5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Quadratic equations",
+  "body": "Solve x² − 4x − 12 = 0",
+  "options": [
+   "x = -2 or x = 6",
+   "x = -6 or x = 2",
+   "x = -2 or x = -6",
+   "x = 2 or x = 6"
+  ],
+  "answer": 0,
+  "explanation": "Factorise: (x + 2)(x − 6) = 0, so x = -2 or x = 6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Quadratic equations",
+  "body": "Solve x² − 3x + 2 = 0",
+  "options": [
+   "x = 1 or x = 2",
+   "x = -1 or x = 2",
+   "x = 1 or x = -2",
+   "x = -2 or x = -1"
+  ],
+  "answer": 0,
+  "explanation": "Factorise: (x − 1)(x − 2) = 0, so x = 1 or x = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Quadratic equations",
+  "body": "Solve x² + 10x + 24 = 0",
+  "options": [
+   "x = 6 or x = -4",
+   "x = 4 or x = 6",
+   "x = -6 or x = 4",
+   "x = -6 or x = -4"
+  ],
+  "answer": 3,
+  "explanation": "Factorise: (x + 6)(x + 4) = 0, so x = -6 or x = -4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Quadratic equations",
+  "body": "Solve x² − 3x − 40 = 0",
+  "options": [
+   "x = -5 or x = 8",
+   "x = -5 or x = -8",
+   "x = 5 or x = 8",
+   "x = -8 or x = 5"
+  ],
+  "answer": 0,
+  "explanation": "Factorise: (x + 5)(x − 8) = 0, so x = -5 or x = 8.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Quadratic equations",
+  "body": "Solve x² − 10x + 24 = 0",
+  "options": [
+   "x = 4 or x = 6",
+   "x = -6 or x = -4",
+   "x = 4 or x = -6",
+   "x = -4 or x = 6"
+  ],
+  "answer": 0,
+  "explanation": "Factorise: (x − 6)(x − 4) = 0, so x = 6 or x = 4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Quadratic equations",
+  "body": "Solve x² − x − 56 = 0",
+  "options": [
+   "x = -7 or x = -8",
+   "x = -8 or x = 7",
+   "x = 7 or x = 8",
+   "x = -7 or x = 8"
+  ],
+  "answer": 3,
+  "explanation": "Factorise: (x − 8)(x + 7) = 0, so x = 8 or x = -7.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 14th term of the arithmetic progression 11, 14, 17, …",
+  "options": [
+   "53",
+   "42",
+   "47",
+   "50"
+  ],
+  "answer": 3,
+  "explanation": "Tₙ = a + (n − 1)d = 11 + 13 × 3 = 50.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 9th term of the arithmetic progression 4, 11, 18, …",
+  "options": [
+   "53",
+   "63",
+   "67",
+   "60"
+  ],
+  "answer": 3,
+  "explanation": "Tₙ = a + (n − 1)d = 4 + 8 × 7 = 60.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 7th term of the arithmetic progression 6, 13, 20, …",
+  "options": [
+   "48",
+   "49",
+   "41",
+   "55"
+  ],
+  "answer": 0,
+  "explanation": "Tₙ = a + (n − 1)d = 6 + 6 × 7 = 48.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 16th term of the arithmetic progression 9, 13, 17, …",
+  "options": [
+   "69",
+   "65",
+   "64",
+   "73"
+  ],
+  "answer": 0,
+  "explanation": "Tₙ = a + (n − 1)d = 9 + 15 × 4 = 69.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 10th term of the arithmetic progression -4, -2, 0, …",
+  "options": [
+   "16",
+   "20",
+   "14",
+   "12"
+  ],
+  "answer": 2,
+  "explanation": "Tₙ = a + (n − 1)d = -4 + 9 × 2 = 14.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 9th term of the arithmetic progression 0, 3, 6, …",
+  "options": [
+   "21",
+   "27",
+   "24",
+   "0"
+  ],
+  "answer": 2,
+  "explanation": "Tₙ = a + (n − 1)d = 0 + 8 × 3 = 24.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 11th term of the arithmetic progression 7, 13, 19, …",
+  "options": [
+   "67",
+   "61",
+   "66",
+   "73"
+  ],
+  "answer": 0,
+  "explanation": "Tₙ = a + (n − 1)d = 7 + 10 × 6 = 67.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 7th term of the arithmetic progression -2, 0, 2, …",
+  "options": [
+   "8",
+   "12",
+   "14",
+   "10"
+  ],
+  "answer": 3,
+  "explanation": "Tₙ = a + (n − 1)d = -2 + 6 × 2 = 10.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 14th term of the arithmetic progression 12, 16, 20, …",
+  "options": [
+   "68",
+   "60",
+   "64",
+   "56"
+  ],
+  "answer": 2,
+  "explanation": "Tₙ = a + (n − 1)d = 12 + 13 × 4 = 64.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 15th term of the arithmetic progression -4, 0, 4, …",
+  "options": [
+   "56",
+   "52",
+   "48",
+   "60"
+  ],
+  "answer": 1,
+  "explanation": "Tₙ = a + (n − 1)d = -4 + 14 × 4 = 52.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 13th term of the arithmetic progression -1, 5, 11, …",
+  "options": [
+   "77",
+   "71",
+   "78",
+   "65"
+  ],
+  "answer": 1,
+  "explanation": "Tₙ = a + (n − 1)d = -1 + 12 × 6 = 71.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 12th term of the arithmetic progression -2, 4, 10, …",
+  "options": [
+   "72",
+   "58",
+   "64",
+   "70"
+  ],
+  "answer": 2,
+  "explanation": "Tₙ = a + (n − 1)d = -2 + 11 × 6 = 64.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 18th term of the arithmetic progression 4, 7, 10, …",
+  "options": [
+   "55",
+   "52",
+   "54",
+   "58"
+  ],
+  "answer": 0,
+  "explanation": "Tₙ = a + (n − 1)d = 4 + 17 × 3 = 55.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 13th term of the arithmetic progression 2, 4, 6, …",
+  "options": [
+   "24",
+   "26",
+   "29",
+   "28"
+  ],
+  "answer": 1,
+  "explanation": "Tₙ = a + (n − 1)d = 2 + 12 × 2 = 26.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the sum of the first 7 terms of the AP 6, 9, 12, …",
+  "options": [
+   "168",
+   "105",
+   "24",
+   "115.5"
+  ],
+  "answer": 1,
+  "explanation": "Sₙ = n/2 [2a + (n − 1)d] = 7/2 × [12 + 18] = 105.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the sum of the first 15 terms of the AP 8, 12, 16, …",
+  "options": [
+   "570",
+   "64",
+   "960",
+   "540"
+  ],
+  "answer": 3,
+  "explanation": "Sₙ = n/2 [2a + (n − 1)d] = 15/2 × [16 + 56] = 540.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the sum of the first 12 terms of the AP 7, 9, 11, …",
+  "options": [
+   "228",
+   "29",
+   "348",
+   "216"
+  ],
+  "answer": 3,
+  "explanation": "Sₙ = n/2 [2a + (n − 1)d] = 12/2 × [14 + 22] = 216.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the sum of the first 10 terms of the AP 2, 7, 12, …",
+  "options": [
+   "270",
+   "245",
+   "470",
+   "47"
+  ],
+  "answer": 1,
+  "explanation": "Sₙ = n/2 [2a + (n − 1)d] = 10/2 × [4 + 45] = 245.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the sum of the first 10 terms of the AP 3, 5, 7, …",
+  "options": [
+   "120",
+   "21",
+   "210",
+   "130"
+  ],
+  "answer": 0,
+  "explanation": "Sₙ = n/2 [2a + (n − 1)d] = 10/2 × [6 + 18] = 120.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the sum of the first 14 terms of the AP 1, 4, 7, …",
+  "options": [
+   "308",
+   "40",
+   "287",
+   "560"
+  ],
+  "answer": 2,
+  "explanation": "Sₙ = n/2 [2a + (n − 1)d] = 14/2 × [2 + 39] = 287.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the sum of the first 14 terms of the AP 3, 4, 5, …",
+  "options": [
+   "224",
+   "16",
+   "140",
+   "133"
+  ],
+  "answer": 3,
+  "explanation": "Sₙ = n/2 [2a + (n − 1)d] = 14/2 × [6 + 13] = 133.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the sum of the first 13 terms of the AP 5, 9, 13, …",
+  "options": [
+   "403",
+   "689",
+   "377",
+   "53"
+  ],
+  "answer": 2,
+  "explanation": "Sₙ = n/2 [2a + (n − 1)d] = 13/2 × [10 + 48] = 377.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the sum of the first 10 terms of the AP 5, 8, 11, …",
+  "options": [
+   "320",
+   "32",
+   "185",
+   "200"
+  ],
+  "answer": 2,
+  "explanation": "Sₙ = n/2 [2a + (n − 1)d] = 10/2 × [10 + 27] = 185.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the sum of the first 7 terms of the AP 2, 4, 6, …",
+  "options": [
+   "98",
+   "56",
+   "63",
+   "14"
+  ],
+  "answer": 1,
+  "explanation": "Sₙ = n/2 [2a + (n − 1)d] = 7/2 × [4 + 12] = 56.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the sum of the first 14 terms of the AP 9, 10, 11, …",
+  "options": [
+   "22",
+   "308",
+   "224",
+   "217"
+  ],
+  "answer": 3,
+  "explanation": "Sₙ = n/2 [2a + (n − 1)d] = 14/2 × [18 + 13] = 217.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the sum of the first 9 terms of the AP 7, 9, 11, …",
+  "options": [
+   "144",
+   "135",
+   "23",
+   "207"
+  ],
+  "answer": 1,
+  "explanation": "Sₙ = n/2 [2a + (n − 1)d] = 9/2 × [14 + 16] = 135.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 4th term of the geometric progression 5, 10, 20, …",
+  "options": [
+   "20",
+   "45",
+   "40",
+   "80"
+  ],
+  "answer": 2,
+  "explanation": "Tₙ = arⁿ⁻¹ = 5 × 2^3 = 40.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 6th term of the geometric progression 5, 15, 45, …",
+  "options": [
+   "1215",
+   "90",
+   "405",
+   "3645"
+  ],
+  "answer": 0,
+  "explanation": "Tₙ = arⁿ⁻¹ = 5 × 3^5 = 1215.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 5th term of the geometric progression 4, 12, 36, …",
+  "options": [
+   "60",
+   "108",
+   "972",
+   "324"
+  ],
+  "answer": 3,
+  "explanation": "Tₙ = arⁿ⁻¹ = 4 × 3^4 = 324.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 7th term of the geometric progression 5, 10, 20, …",
+  "options": [
+   "160",
+   "320",
+   "70",
+   "640"
+  ],
+  "answer": 1,
+  "explanation": "Tₙ = arⁿ⁻¹ = 5 × 2^6 = 320.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 7th term of the geometric progression 2, 4, 8, …",
+  "options": [
+   "128",
+   "256",
+   "64",
+   "28"
+  ],
+  "answer": 0,
+  "explanation": "Tₙ = arⁿ⁻¹ = 2 × 2^6 = 128.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 6th term of the geometric progression 4, 12, 36, …",
+  "options": [
+   "72",
+   "2916",
+   "324",
+   "972"
+  ],
+  "answer": 3,
+  "explanation": "Tₙ = arⁿ⁻¹ = 4 × 3^5 = 972.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 6th term of the geometric progression 1, 3, 9, …",
+  "options": [
+   "243",
+   "729",
+   "81",
+   "18"
+  ],
+  "answer": 0,
+  "explanation": "Tₙ = arⁿ⁻¹ = 1 × 3^5 = 243.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 7th term of the geometric progression 1, 3, 9, …",
+  "options": [
+   "243",
+   "21",
+   "729",
+   "2187"
+  ],
+  "answer": 2,
+  "explanation": "Tₙ = arⁿ⁻¹ = 1 × 3^6 = 729.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 5th term of the geometric progression 2, 6, 18, …",
+  "options": [
+   "54",
+   "486",
+   "162",
+   "30"
+  ],
+  "answer": 2,
+  "explanation": "Tₙ = arⁿ⁻¹ = 2 × 3^4 = 162.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 5th term of the geometric progression 3, 9, 27, …",
+  "options": [
+   "729",
+   "81",
+   "45",
+   "243"
+  ],
+  "answer": 3,
+  "explanation": "Tₙ = arⁿ⁻¹ = 3 × 3^4 = 243.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 6th term of the geometric progression 3, 6, 12, …",
+  "options": [
+   "48",
+   "36",
+   "192",
+   "96"
+  ],
+  "answer": 3,
+  "explanation": "Tₙ = arⁿ⁻¹ = 3 × 2^5 = 96.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sequences",
+  "body": "Find the 5th term of the geometric progression 3, 6, 12, …",
+  "options": [
+   "96",
+   "48",
+   "24",
+   "30"
+  ],
+  "answer": 1,
+  "explanation": "Tₙ = arⁿ⁻¹ = 3 × 2^4 = 48.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 101001₂ to base ten.",
+  "options": [
+   "40",
+   "41",
+   "42",
+   "37"
+  ],
+  "answer": 1,
+  "explanation": "Multiply each digit by its power of 2 and add: 1×32 + 0×16 + 1×8 + 0×4 + 0×2 + 1×1 = 41.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 100001₂ to base ten.",
+  "options": [
+   "32",
+   "33",
+   "35",
+   "34"
+  ],
+  "answer": 1,
+  "explanation": "Multiply each digit by its power of 2 and add: 1×32 + 0×16 + 0×8 + 0×4 + 0×2 + 1×1 = 33.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 111001₂ to base ten.",
+  "options": [
+   "57",
+   "39",
+   "58",
+   "56"
+  ],
+  "answer": 0,
+  "explanation": "Multiply each digit by its power of 2 and add: 1×32 + 1×16 + 1×8 + 0×4 + 0×2 + 1×1 = 57.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 10110₂ to base ten.",
+  "options": [
+   "13",
+   "23",
+   "22",
+   "21"
+  ],
+  "answer": 2,
+  "explanation": "Multiply each digit by its power of 2 and add: 1×16 + 0×8 + 1×4 + 1×2 + 0×1 = 22.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 101110₂ to base ten.",
+  "options": [
+   "46",
+   "29",
+   "45",
+   "47"
+  ],
+  "answer": 0,
+  "explanation": "Multiply each digit by its power of 2 and add: 1×32 + 0×16 + 1×8 + 1×4 + 1×2 + 0×1 = 46.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 111110₂ to base ten.",
+  "options": [
+   "63",
+   "62",
+   "61",
+   "31"
+  ],
+  "answer": 1,
+  "explanation": "Multiply each digit by its power of 2 and add: 1×32 + 1×16 + 1×8 + 1×4 + 1×2 + 0×1 = 62.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 101101₂ to base ten.",
+  "options": [
+   "46",
+   "45",
+   "47",
+   "44"
+  ],
+  "answer": 1,
+  "explanation": "Multiply each digit by its power of 2 and add: 1×32 + 0×16 + 1×8 + 1×4 + 0×2 + 1×1 = 45.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 100010₂ to base ten.",
+  "options": [
+   "34",
+   "33",
+   "35",
+   "17"
+  ],
+  "answer": 0,
+  "explanation": "Multiply each digit by its power of 2 and add: 1×32 + 0×16 + 0×8 + 0×4 + 1×2 + 0×1 = 34.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 10000₂ to base ten.",
+  "options": [
+   "17",
+   "1",
+   "15",
+   "16"
+  ],
+  "answer": 3,
+  "explanation": "Multiply each digit by its power of 2 and add: 1×16 + 0×8 + 0×4 + 0×2 + 0×1 = 16.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 101100₂ to base ten.",
+  "options": [
+   "13",
+   "44",
+   "43",
+   "45"
+  ],
+  "answer": 1,
+  "explanation": "Multiply each digit by its power of 2 and add: 1×32 + 0×16 + 1×8 + 1×4 + 0×2 + 0×1 = 44.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 100111₂ to base ten.",
+  "options": [
+   "57",
+   "39",
+   "40",
+   "38"
+  ],
+  "answer": 1,
+  "explanation": "Multiply each digit by its power of 2 and add: 1×32 + 0×16 + 0×8 + 1×4 + 1×2 + 1×1 = 39.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 11110₂ to base ten.",
+  "options": [
+   "29",
+   "30",
+   "31",
+   "15"
+  ],
+  "answer": 1,
+  "explanation": "Multiply each digit by its power of 2 and add: 1×16 + 1×8 + 1×4 + 1×2 + 0×1 = 30.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Express 19 in base two.",
+  "options": [
+   "10100₂",
+   "10101₂",
+   "10010₂",
+   "10011₂"
+  ],
+  "answer": 3,
+  "explanation": "Divide repeatedly by 2 and read the remainders upwards: 19 = 10011₂.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Express 24 in base two.",
+  "options": [
+   "11000₂",
+   "11001₂",
+   "11010₂",
+   "10111₂"
+  ],
+  "answer": 0,
+  "explanation": "Divide repeatedly by 2 and read the remainders upwards: 24 = 11000₂.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Express 59 in base two.",
+  "options": [
+   "111011₂",
+   "111100₂",
+   "111101₂",
+   "111010₂"
+  ],
+  "answer": 0,
+  "explanation": "Divide repeatedly by 2 and read the remainders upwards: 59 = 111011₂.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Express 58 in base two.",
+  "options": [
+   "111001₂",
+   "111100₂",
+   "111010₂",
+   "111011₂"
+  ],
+  "answer": 2,
+  "explanation": "Divide repeatedly by 2 and read the remainders upwards: 58 = 111010₂.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Express 29 in base two.",
+  "options": [
+   "11111₂",
+   "11101₂",
+   "11100₂",
+   "11110₂"
+  ],
+  "answer": 1,
+  "explanation": "Divide repeatedly by 2 and read the remainders upwards: 29 = 11101₂.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Express 21 in base two.",
+  "options": [
+   "10101₂",
+   "10111₂",
+   "10100₂",
+   "10110₂"
+  ],
+  "answer": 0,
+  "explanation": "Divide repeatedly by 2 and read the remainders upwards: 21 = 10101₂.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Express 15 in base two.",
+  "options": [
+   "10001₂",
+   "1111₂",
+   "10000₂",
+   "1110₂"
+  ],
+  "answer": 1,
+  "explanation": "Divide repeatedly by 2 and read the remainders upwards: 15 = 1111₂.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Express 54 in base two.",
+  "options": [
+   "110101₂",
+   "110110₂",
+   "111000₂",
+   "110111₂"
+  ],
+  "answer": 1,
+  "explanation": "Divide repeatedly by 2 and read the remainders upwards: 54 = 110110₂.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Express 11 in base two.",
+  "options": [
+   "1011₂",
+   "1101₂",
+   "1010₂",
+   "1100₂"
+  ],
+  "answer": 0,
+  "explanation": "Divide repeatedly by 2 and read the remainders upwards: 11 = 1011₂.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Express 20 in base two.",
+  "options": [
+   "10100₂",
+   "10011₂",
+   "10110₂",
+   "10101₂"
+  ],
+  "answer": 0,
+  "explanation": "Divide repeatedly by 2 and read the remainders upwards: 20 = 10100₂.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 420₅ to base ten.",
+  "options": [
+   "420",
+   "115",
+   "110",
+   "105"
+  ],
+  "answer": 2,
+  "explanation": "Use powers of 5: 4×25 + 2×5 + 0×1 = 110.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 243₅ to base ten.",
+  "options": [
+   "243",
+   "73",
+   "78",
+   "68"
+  ],
+  "answer": 1,
+  "explanation": "Use powers of 5: 2×25 + 4×5 + 3×1 = 73.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 40₅ to base ten.",
+  "options": [
+   "20",
+   "15",
+   "25",
+   "40"
+  ],
+  "answer": 0,
+  "explanation": "Use powers of 5: 4×5 + 0×1 = 20.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 342₅ to base ten.",
+  "options": [
+   "342",
+   "102",
+   "92",
+   "97"
+  ],
+  "answer": 3,
+  "explanation": "Use powers of 5: 3×25 + 4×5 + 2×1 = 97.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 302₅ to base ten.",
+  "options": [
+   "302",
+   "72",
+   "77",
+   "82"
+  ],
+  "answer": 2,
+  "explanation": "Use powers of 5: 3×25 + 0×5 + 2×1 = 77.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 402₅ to base ten.",
+  "options": [
+   "402",
+   "102",
+   "97",
+   "107"
+  ],
+  "answer": 1,
+  "explanation": "Use powers of 5: 4×25 + 0×5 + 2×1 = 102.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 212₅ to base ten.",
+  "options": [
+   "57",
+   "212",
+   "62",
+   "52"
+  ],
+  "answer": 0,
+  "explanation": "Use powers of 5: 2×25 + 1×5 + 2×1 = 57.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 222₅ to base ten.",
+  "options": [
+   "222",
+   "57",
+   "67",
+   "62"
+  ],
+  "answer": 3,
+  "explanation": "Use powers of 5: 2×25 + 2×5 + 2×1 = 62.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 343₅ to base ten.",
+  "options": [
+   "93",
+   "98",
+   "103",
+   "343"
+  ],
+  "answer": 1,
+  "explanation": "Use powers of 5: 3×25 + 4×5 + 3×1 = 98.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Number bases",
+  "body": "Convert 344₅ to base ten.",
+  "options": [
+   "99",
+   "104",
+   "94",
+   "344"
+  ],
+  "answer": 0,
+  "explanation": "Use powers of 5: 3×25 + 4×5 + 4×1 = 99.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "Find 60% of ₦600.",
+  "options": [
+   "₦240",
+   "₦360",
+   "₦66",
+   "₦3600"
+  ],
+  "answer": 1,
+  "explanation": "60% of 600 = 60/100 × 600 = 360.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "Find 40% of ₦260.",
+  "options": [
+   "₦42.6",
+   "₦1040",
+   "₦156",
+   "₦104"
+  ],
+  "answer": 3,
+  "explanation": "40% of 260 = 40/100 × 260 = 104.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "Find 10% of ₦380.",
+  "options": [
+   "₦13.8",
+   "₦38",
+   "₦342",
+   "₦380"
+  ],
+  "answer": 1,
+  "explanation": "10% of 380 = 10/100 × 380 = 38.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "Find 40% of ₦740.",
+  "options": [
+   "₦2960",
+   "₦47.4",
+   "₦444",
+   "₦296"
+  ],
+  "answer": 3,
+  "explanation": "40% of 740 = 40/100 × 740 = 296.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "Find 60% of ₦760.",
+  "options": [
+   "₦304",
+   "₦4560",
+   "₦67.6",
+   "₦456"
+  ],
+  "answer": 3,
+  "explanation": "60% of 760 = 60/100 × 760 = 456.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "Find 10% of ₦580.",
+  "options": [
+   "₦15.8",
+   "₦58",
+   "₦522",
+   "₦580"
+  ],
+  "answer": 1,
+  "explanation": "10% of 580 = 10/100 × 580 = 58.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "Find 10% of ₦600.",
+  "options": [
+   "₦16",
+   "₦60",
+   "₦540",
+   "₦600"
+  ],
+  "answer": 1,
+  "explanation": "10% of 600 = 10/100 × 600 = 60.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "Find 20% of ₦700.",
+  "options": [
+   "₦27",
+   "₦140",
+   "₦560",
+   "₦1400"
+  ],
+  "answer": 1,
+  "explanation": "20% of 700 = 20/100 × 700 = 140.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "Find 45% of ₦760.",
+  "options": [
+   "₦342",
+   "₦52.6",
+   "₦3420",
+   "₦418"
+  ],
+  "answer": 0,
+  "explanation": "45% of 760 = 45/100 × 760 = 342.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "Find 25% of ₦340.",
+  "options": [
+   "₦28.4",
+   "₦850",
+   "₦255",
+   "₦85"
+  ],
+  "answer": 3,
+  "explanation": "25% of 340 = 25/100 × 340 = 85.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "Find 12% of ₦300.",
+  "options": [
+   "₦36",
+   "₦360",
+   "₦264",
+   "₦15"
+  ],
+  "answer": 0,
+  "explanation": "12% of 300 = 12/100 × 300 = 36.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "Find 20% of ₦740.",
+  "options": [
+   "₦1480",
+   "₦592",
+   "₦148",
+   "₦27.4"
+  ],
+  "answer": 2,
+  "explanation": "20% of 740 = 20/100 × 740 = 148.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "The price of a bag of rice rose from ₦450 to ₦540. Find the percentage increase.",
+  "options": [
+   "20%",
+   "10%",
+   "30%",
+   "16.7%"
+  ],
+  "answer": 0,
+  "explanation": "Increase = 90. % increase = 90/450 × 100 = 20%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "The price of a bag of rice rose from ₦950 to ₦1,520. Find the percentage increase.",
+  "options": [
+   "37.5%",
+   "70%",
+   "60%",
+   "30%"
+  ],
+  "answer": 2,
+  "explanation": "Increase = 570. % increase = 570/950 × 100 = 60%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "The price of a bag of rice rose from ₦300 to ₦375. Find the percentage increase.",
+  "options": [
+   "12.5%",
+   "35%",
+   "20%",
+   "25%"
+  ],
+  "answer": 3,
+  "explanation": "Increase = 75. % increase = 75/300 × 100 = 25%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "The price of a bag of rice rose from ₦600 to ₦660. Find the percentage increase.",
+  "options": [
+   "10%",
+   "5%",
+   "9.1%",
+   "20%"
+  ],
+  "answer": 0,
+  "explanation": "Increase = 60. % increase = 60/600 × 100 = 10%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "The price of a bag of rice rose from ₦450 to ₦720. Find the percentage increase.",
+  "options": [
+   "37.5%",
+   "70%",
+   "30%",
+   "60%"
+  ],
+  "answer": 3,
+  "explanation": "Increase = 270. % increase = 270/450 × 100 = 60%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "The price of a bag of rice rose from ₦250 to ₦300. Find the percentage increase.",
+  "options": [
+   "20%",
+   "16.7%",
+   "10%",
+   "30%"
+  ],
+  "answer": 0,
+  "explanation": "Increase = 50. % increase = 50/250 × 100 = 20%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "The price of a bag of rice rose from ₦800 to ₦1,200. Find the percentage increase.",
+  "options": [
+   "33.3%",
+   "60%",
+   "50%",
+   "25%"
+  ],
+  "answer": 2,
+  "explanation": "Increase = 400. % increase = 400/800 × 100 = 50%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "The price of a bag of rice rose from ₦450 to ₦562.5. Find the percentage increase.",
+  "options": [
+   "35%",
+   "20%",
+   "12.5%",
+   "25%"
+  ],
+  "answer": 3,
+  "explanation": "Increase = 112.5. % increase = 112.5/450 × 100 = 25%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "The price of a bag of rice rose from ₦750 to ₦900. Find the percentage increase.",
+  "options": [
+   "16.7%",
+   "10%",
+   "20%",
+   "30%"
+  ],
+  "answer": 2,
+  "explanation": "Increase = 150. % increase = 150/750 × 100 = 20%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Percentages",
+  "body": "The price of a bag of rice rose from ₦1,000 to ₦1,100. Find the percentage increase.",
+  "options": [
+   "20%",
+   "5%",
+   "9.1%",
+   "10%"
+  ],
+  "answer": 3,
+  "explanation": "Increase = 100. % increase = 100/1000 × 100 = 10%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simple interest",
+  "body": "Find the simple interest on ₦23,000 at 15% per annum for 4 years.",
+  "options": [
+   "₦3450",
+   "₦17,250",
+   "₦36,800",
+   "₦13,800"
+  ],
+  "answer": 3,
+  "explanation": "I = PRT/100 = 23000 × 15 × 4 / 100 = ₦13,800.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simple interest",
+  "body": "Find the simple interest on ₦28,000 at 12% per annum for 6 years.",
+  "options": [
+   "₦23,520",
+   "₦3360",
+   "₦48,160",
+   "₦20,160"
+  ],
+  "answer": 3,
+  "explanation": "I = PRT/100 = 28000 × 12 × 6 / 100 = ₦20,160.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simple interest",
+  "body": "Find the simple interest on ₦22,000 at 6% per annum for 5 years.",
+  "options": [
+   "₦1320",
+   "₦28,600",
+   "₦6600",
+   "₦7920"
+  ],
+  "answer": 2,
+  "explanation": "I = PRT/100 = 22000 × 6 × 5 / 100 = ₦6600.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simple interest",
+  "body": "Find the simple interest on ₦21,000 at 4% per annum for 2 years.",
+  "options": [
+   "₦22,680",
+   "₦2520",
+   "₦840",
+   "₦1680"
+  ],
+  "answer": 3,
+  "explanation": "I = PRT/100 = 21000 × 4 × 2 / 100 = ₦1680.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simple interest",
+  "body": "Find the simple interest on ₦6,000 at 12% per annum for 3 years.",
+  "options": [
+   "₦8160",
+   "₦2160",
+   "₦2880",
+   "₦720"
+  ],
+  "answer": 1,
+  "explanation": "I = PRT/100 = 6000 × 12 × 3 / 100 = ₦2160.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simple interest",
+  "body": "Find the simple interest on ₦6,000 at 12% per annum for 5 years.",
+  "options": [
+   "₦720",
+   "₦9600",
+   "₦3600",
+   "₦4320"
+  ],
+  "answer": 2,
+  "explanation": "I = PRT/100 = 6000 × 12 × 5 / 100 = ₦3600.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simple interest",
+  "body": "Find the simple interest on ₦8,000 at 10% per annum for 6 years.",
+  "options": [
+   "₦800",
+   "₦5600",
+   "₦12,800",
+   "₦4800"
+  ],
+  "answer": 3,
+  "explanation": "I = PRT/100 = 8000 × 10 × 6 / 100 = ₦4800.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simple interest",
+  "body": "Find the simple interest on ₦27,000 at 15% per annum for 3 years.",
+  "options": [
+   "₦4050",
+   "₦16,200",
+   "₦39,150",
+   "₦12,150"
+  ],
+  "answer": 3,
+  "explanation": "I = PRT/100 = 27000 × 15 × 3 / 100 = ₦12,150.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simple interest",
+  "body": "Find the simple interest on ₦24,000 at 6% per annum for 5 years.",
+  "options": [
+   "₦7200",
+   "₦1440",
+   "₦8640",
+   "₦31,200"
+  ],
+  "answer": 0,
+  "explanation": "I = PRT/100 = 24000 × 6 × 5 / 100 = ₦7200.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simple interest",
+  "body": "Find the simple interest on ₦16,000 at 2% per annum for 2 years.",
+  "options": [
+   "₦960",
+   "₦640",
+   "₦16,640",
+   "₦320"
+  ],
+  "answer": 1,
+  "explanation": "I = PRT/100 = 16000 × 2 × 2 / 100 = ₦640.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simple interest",
+  "body": "Find the simple interest on ₦26,000 at 5% per annum for 6 years.",
+  "options": [
+   "₦33,800",
+   "₦1300",
+   "₦9100",
+   "₦7800"
+  ],
+  "answer": 3,
+  "explanation": "I = PRT/100 = 26000 × 5 × 6 / 100 = ₦7800.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Simple interest",
+  "body": "Find the simple interest on ₦15,000 at 10% per annum for 6 years.",
+  "options": [
+   "₦1500",
+   "₦9000",
+   "₦10,500",
+   "₦24,000"
+  ],
+  "answer": 1,
+  "explanation": "I = PRT/100 = 15000 × 10 × 6 / 100 = ₦9000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Ratio",
+  "body": "₦2,900 is shared between Ada and Bayo in the ratio 1 : 9. How much does the one with the larger share get?",
+  "options": [
+   "₦290",
+   "₦13,050",
+   "₦1450",
+   "₦2610"
+  ],
+  "answer": 3,
+  "explanation": "Total parts = 10. One part = 2900/10 = 290. Larger share = 9 × 290 = 2610.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Ratio",
+  "body": "₦1,890 is shared between Ada and Bayo in the ratio 5 : 4. How much does the one with the larger share get?",
+  "options": [
+   "₦945",
+   "₦1050",
+   "₦1181.25",
+   "₦840"
+  ],
+  "answer": 1,
+  "explanation": "Total parts = 9. One part = 1890/9 = 210. Larger share = 5 × 210 = 1050.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Ratio",
+  "body": "₦1,690 is shared between Ada and Bayo in the ratio 6 : 7. How much does the one with the larger share get?",
+  "options": [
+   "₦910",
+   "₦1040",
+   "₦780",
+   "₦845"
+  ],
+  "answer": 0,
+  "explanation": "Total parts = 13. One part = 1690/13 = 130. Larger share = 7 × 130 = 910.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Ratio",
+  "body": "₦630 is shared between Ada and Bayo in the ratio 3 : 4. How much does the one with the larger share get?",
+  "options": [
+   "₦270",
+   "₦420",
+   "₦315",
+   "₦360"
+  ],
+  "answer": 3,
+  "explanation": "Total parts = 7. One part = 630/7 = 90. Larger share = 4 × 90 = 360.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Ratio",
+  "body": "₦180 is shared between Ada and Bayo in the ratio 5 : 4. How much does the one with the larger share get?",
+  "options": [
+   "₦90",
+   "₦100",
+   "₦80",
+   "₦112.5"
+  ],
+  "answer": 1,
+  "explanation": "Total parts = 9. One part = 180/9 = 20. Larger share = 5 × 20 = 100.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Ratio",
+  "body": "₦2,700 is shared between Ada and Bayo in the ratio 1 : 8. How much does the one with the larger share get?",
+  "options": [
+   "₦1350",
+   "₦300",
+   "₦2400",
+   "₦10,800"
+  ],
+  "answer": 2,
+  "explanation": "Total parts = 9. One part = 2700/9 = 300. Larger share = 8 × 300 = 2400.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Ratio",
+  "body": "₦1,120 is shared between Ada and Bayo in the ratio 3 : 5. How much does the one with the larger share get?",
+  "options": [
+   "₦560",
+   "₦420",
+   "₦840",
+   "₦700"
+  ],
+  "answer": 3,
+  "explanation": "Total parts = 8. One part = 1120/8 = 140. Larger share = 5 × 140 = 700.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Ratio",
+  "body": "₦1,050 is shared between Ada and Bayo in the ratio 1 : 4. How much does the one with the larger share get?",
+  "options": [
+   "₦840",
+   "₦2100",
+   "₦525",
+   "₦210"
+  ],
+  "answer": 0,
+  "explanation": "Total parts = 5. One part = 1050/5 = 210. Larger share = 4 × 210 = 840.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Ratio",
+  "body": "₦1,620 is shared between Ada and Bayo in the ratio 2 : 7. How much does the one with the larger share get?",
+  "options": [
+   "₦2835",
+   "₦360",
+   "₦810",
+   "₦1260"
+  ],
+  "answer": 3,
+  "explanation": "Total parts = 9. One part = 1620/9 = 180. Larger share = 7 × 180 = 1260.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Ratio",
+  "body": "₦450 is shared between Ada and Bayo in the ratio 5 : 4. How much does the one with the larger share get?",
+  "options": [
+   "₦225",
+   "₦250",
+   "₦200",
+   "₦281.25"
+  ],
+  "answer": 1,
+  "explanation": "Total parts = 9. One part = 450/9 = 50. Larger share = 5 × 50 = 250.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Ratio",
+  "body": "₦120 is shared between Ada and Bayo in the ratio 1 : 3. How much does the one with the larger share get?",
+  "options": [
+   "₦30",
+   "₦60",
+   "₦90",
+   "₦180"
+  ],
+  "answer": 2,
+  "explanation": "Total parts = 4. One part = 120/4 = 30. Larger share = 3 × 30 = 90.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Ratio",
+  "body": "₦220 is shared between Ada and Bayo in the ratio 3 : 8. How much does the one with the larger share get?",
+  "options": [
+   "₦110",
+   "₦180",
+   "₦60",
+   "₦160"
+  ],
+  "answer": 3,
+  "explanation": "Total parts = 11. One part = 220/11 = 20. Larger share = 8 × 20 = 160.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mean of 17, 20, 25, 15, 3.",
+  "options": [
+   "14",
+   "16",
+   "80",
+   "18"
+  ],
+  "answer": 1,
+  "explanation": "Mean = sum ÷ number = 80 ÷ 5 = 16.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mean of 6, 3, 20, 27, 4.",
+  "options": [
+   "60",
+   "14",
+   "10",
+   "12"
+  ],
+  "answer": 3,
+  "explanation": "Mean = sum ÷ number = 60 ÷ 5 = 12.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mean of 30, 4, 14, 12, 15.",
+  "options": [
+   "17",
+   "75",
+   "15",
+   "13"
+  ],
+  "answer": 2,
+  "explanation": "Mean = sum ÷ number = 75 ÷ 5 = 15.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mean of 25, 4, 27, 30, 14.",
+  "options": [
+   "20",
+   "18",
+   "22",
+   "100"
+  ],
+  "answer": 0,
+  "explanation": "Mean = sum ÷ number = 100 ÷ 5 = 20.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mean of 12, 8, 7, 4, 4.",
+  "options": [
+   "9",
+   "5",
+   "7",
+   "35"
+  ],
+  "answer": 2,
+  "explanation": "Mean = sum ÷ number = 35 ÷ 5 = 7.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mean of 23, 22, 5, 7, 13.",
+  "options": [
+   "70",
+   "12",
+   "14",
+   "16"
+  ],
+  "answer": 2,
+  "explanation": "Mean = sum ÷ number = 70 ÷ 5 = 14.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mean of 26, 23, 18, 10, 3.",
+  "options": [
+   "16",
+   "14",
+   "18",
+   "80"
+  ],
+  "answer": 0,
+  "explanation": "Mean = sum ÷ number = 80 ÷ 5 = 16.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mean of 8, 14, 19, 22, 17.",
+  "options": [
+   "14",
+   "80",
+   "18",
+   "16"
+  ],
+  "answer": 3,
+  "explanation": "Mean = sum ÷ number = 80 ÷ 5 = 16.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mean of 21, 8, 12, 30, 9.",
+  "options": [
+   "18",
+   "16",
+   "14",
+   "80"
+  ],
+  "answer": 1,
+  "explanation": "Mean = sum ÷ number = 80 ÷ 5 = 16.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mean of 24, 3, 16, 8, 24.",
+  "options": [
+   "15",
+   "17",
+   "13",
+   "75"
+  ],
+  "answer": 0,
+  "explanation": "Mean = sum ÷ number = 75 ÷ 5 = 15.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mean of 28, 6, 25, 6, 25.",
+  "options": [
+   "18",
+   "90",
+   "20",
+   "16"
+  ],
+  "answer": 0,
+  "explanation": "Mean = sum ÷ number = 90 ÷ 5 = 18.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mean of 16, 19, 4, 26, 5.",
+  "options": [
+   "14",
+   "12",
+   "70",
+   "16"
+  ],
+  "answer": 0,
+  "explanation": "Mean = sum ÷ number = 70 ÷ 5 = 14.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mean of 17, 23, 22, 3, 25.",
+  "options": [
+   "20",
+   "18",
+   "16",
+   "90"
+  ],
+  "answer": 1,
+  "explanation": "Mean = sum ÷ number = 90 ÷ 5 = 18.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mean of 23, 2, 12, 29, 14.",
+  "options": [
+   "80",
+   "14",
+   "18",
+   "16"
+  ],
+  "answer": 3,
+  "explanation": "Mean = sum ÷ number = 80 ÷ 5 = 16.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mean of 23, 14, 3, 10, 25.",
+  "options": [
+   "13",
+   "75",
+   "15",
+   "17"
+  ],
+  "answer": 2,
+  "explanation": "Mean = sum ÷ number = 75 ÷ 5 = 15.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the median of 14, 3, 10, 36, 12, 32, 22.",
+  "options": [
+   "22",
+   "12",
+   "36",
+   "14"
+  ],
+  "answer": 3,
+  "explanation": "Arrange in order: 3, 10, 12, 14, 22, 32, 36. The middle (4th) value is 14.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the median of 36, 35, 20, 24, 16, 3, 18.",
+  "options": [
+   "18",
+   "22",
+   "20",
+   "24"
+  ],
+  "answer": 2,
+  "explanation": "Arrange in order: 3, 16, 18, 20, 24, 35, 36. The middle (4th) value is 20.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the median of 35, 24, 28, 8, 2, 3, 1.",
+  "options": [
+   "24",
+   "8",
+   "3",
+   "14"
+  ],
+  "answer": 1,
+  "explanation": "Arrange in order: 1, 2, 3, 8, 24, 28, 35. The middle (4th) value is 8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the median of 18, 28, 6, 20, 29, 36, 9.",
+  "options": [
+   "20",
+   "21",
+   "28",
+   "18"
+  ],
+  "answer": 0,
+  "explanation": "Arrange in order: 6, 9, 18, 20, 28, 29, 36. The middle (4th) value is 20.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the median of 3, 22, 13, 2, 14, 27, 26.",
+  "options": [
+   "13",
+   "2",
+   "14",
+   "22"
+  ],
+  "answer": 2,
+  "explanation": "Arrange in order: 2, 3, 13, 14, 22, 26, 27. The middle (4th) value is 14.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the median of 18, 24, 8, 7, 36, 31, 27.",
+  "options": [
+   "7",
+   "24",
+   "18",
+   "27"
+  ],
+  "answer": 1,
+  "explanation": "Arrange in order: 7, 8, 18, 24, 27, 31, 36. The middle (4th) value is 24.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the median of 27, 8, 19, 37, 40, 31, 6.",
+  "options": [
+   "27",
+   "37",
+   "31",
+   "19"
+  ],
+  "answer": 0,
+  "explanation": "Arrange in order: 6, 8, 19, 27, 31, 37, 40. The middle (4th) value is 27.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the median of 36, 35, 13, 11, 7, 25, 19.",
+  "options": [
+   "25",
+   "13",
+   "11",
+   "19"
+  ],
+  "answer": 3,
+  "explanation": "Arrange in order: 7, 11, 13, 19, 25, 35, 36. The middle (4th) value is 19.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the median of 1, 10, 35, 24, 5, 28, 32.",
+  "options": [
+   "24",
+   "10",
+   "28",
+   "19"
+  ],
+  "answer": 0,
+  "explanation": "Arrange in order: 1, 5, 10, 24, 28, 32, 35. The middle (4th) value is 24.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the median of 34, 11, 30, 14, 36, 13, 19.",
+  "options": [
+   "22",
+   "14",
+   "30",
+   "19"
+  ],
+  "answer": 3,
+  "explanation": "Arrange in order: 11, 13, 14, 19, 30, 34, 36. The middle (4th) value is 19.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the range of 18, 20, 18, 9, 23, 19, 27, 19.",
+  "options": [
+   "36",
+   "18",
+   "27",
+   "9"
+  ],
+  "answer": 1,
+  "explanation": "Range = highest − lowest = 27 − 9 = 18.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the range of 16, 6, 28, 15, 29, 25, 6, 16.",
+  "options": [
+   "29",
+   "6",
+   "23",
+   "35"
+  ],
+  "answer": 2,
+  "explanation": "Range = highest − lowest = 29 − 6 = 23.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the range of 8, 2, 26, 17, 3, 29, 26, 27.",
+  "options": [
+   "29",
+   "27",
+   "2",
+   "31"
+  ],
+  "answer": 1,
+  "explanation": "Range = highest − lowest = 29 − 2 = 27.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the range of 10, 2, 6, 15, 3, 11, 22, 24.",
+  "options": [
+   "24",
+   "26",
+   "22",
+   "2"
+  ],
+  "answer": 2,
+  "explanation": "Range = highest − lowest = 24 − 2 = 22.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the range of 11, 10, 2, 13, 23, 4, 3, 21.",
+  "options": [
+   "25",
+   "23",
+   "21",
+   "2"
+  ],
+  "answer": 2,
+  "explanation": "Range = highest − lowest = 23 − 2 = 21.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the range of 14, 9, 8, 1, 18, 26, 21, 14.",
+  "options": [
+   "27",
+   "1",
+   "26",
+   "25"
+  ],
+  "answer": 3,
+  "explanation": "Range = highest − lowest = 26 − 1 = 25.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the range of 11, 4, 14, 15, 22, 30, 4, 7.",
+  "options": [
+   "34",
+   "26",
+   "30",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "Range = highest − lowest = 30 − 4 = 26.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the range of 10, 25, 20, 11, 3, 27, 24, 7.",
+  "options": [
+   "24",
+   "30",
+   "3",
+   "27"
+  ],
+  "answer": 0,
+  "explanation": "Range = highest − lowest = 27 − 3 = 24.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mode of 10, 23, 17, 23, 10, 20, 10, 8.",
+  "options": [
+   "17",
+   "8",
+   "23",
+   "10"
+  ],
+  "answer": 3,
+  "explanation": "The mode is the value that occurs most often: 10 appears 3 times.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mode of 3, 12, 19, 2, 12, 1, 3, 3.",
+  "options": [
+   "2",
+   "3",
+   "12",
+   "19"
+  ],
+  "answer": 1,
+  "explanation": "The mode is the value that occurs most often: 3 appears 3 times.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mode of 2, 4, 8, 8, 18, 2, 8, 11.",
+  "options": [
+   "11",
+   "2",
+   "8",
+   "4"
+  ],
+  "answer": 2,
+  "explanation": "The mode is the value that occurs most often: 8 appears 3 times.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mode of 2, 8, 15, 8, 25, 25, 9, 8.",
+  "options": [
+   "25",
+   "2",
+   "9",
+   "8"
+  ],
+  "answer": 3,
+  "explanation": "The mode is the value that occurs most often: 8 appears 3 times.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mode of 12, 12, 22, 22, 16, 12, 11, 10.",
+  "options": [
+   "10",
+   "16",
+   "12",
+   "22"
+  ],
+  "answer": 2,
+  "explanation": "The mode is the value that occurs most often: 12 appears 3 times.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mode of 7, 10, 7, 22, 10, 10, 18, 6.",
+  "options": [
+   "7",
+   "22",
+   "6",
+   "10"
+  ],
+  "answer": 3,
+  "explanation": "The mode is the value that occurs most often: 10 appears 3 times.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mode of 4, 17, 5, 7, 17, 7, 23, 7.",
+  "options": [
+   "17",
+   "7",
+   "5",
+   "23"
+  ],
+  "answer": 1,
+  "explanation": "The mode is the value that occurs most often: 7 appears 3 times.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Statistics",
+  "body": "Find the mode of 13, 23, 13, 14, 13, 14, 19, 7.",
+  "options": [
+   "13",
+   "7",
+   "19",
+   "14"
+  ],
+  "answer": 0,
+  "explanation": "The mode is the value that occurs most often: 13 appears 3 times.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "A bag contains 5 red, 4 blue and 6 green balls. One ball is picked at random. Find the probability that it is blue.",
+  "options": [
+   "1/3",
+   "4/11",
+   "4/15",
+   "11/15"
+  ],
+  "answer": 2,
+  "explanation": "P(blue) = number of blue ÷ total = 4/15.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "A bag contains 8 red, 9 blue and 3 green balls. One ball is picked at random. Find the probability that it is blue.",
+  "options": [
+   "1/3",
+   "9/11",
+   "9/20",
+   "11/20"
+  ],
+  "answer": 2,
+  "explanation": "P(blue) = number of blue ÷ total = 9/20.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "A bag contains 6 red, 4 blue and 3 green balls. One ball is picked at random. Find the probability that it is blue.",
+  "options": [
+   "4/13",
+   "1/3",
+   "9/13",
+   "4/9"
+  ],
+  "answer": 0,
+  "explanation": "P(blue) = number of blue ÷ total = 4/13.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "A bag contains 4 red, 9 blue and 6 green balls. One ball is picked at random. Find the probability that it is red.",
+  "options": [
+   "4/19",
+   "1/3",
+   "15/19",
+   "4/15"
+  ],
+  "answer": 0,
+  "explanation": "P(red) = number of red ÷ total = 4/19.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "A bag contains 5 red, 3 blue and 5 green balls. One ball is picked at random. Find the probability that it is red.",
+  "options": [
+   "5/13",
+   "8/13",
+   "1/3",
+   "5/8"
+  ],
+  "answer": 0,
+  "explanation": "P(red) = number of red ÷ total = 5/13.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "A bag contains 4 red, 2 blue and 3 green balls. One ball is picked at random. Find the probability that it is blue.",
+  "options": [
+   "7/9",
+   "2/7",
+   "1/3",
+   "2/9"
+  ],
+  "answer": 3,
+  "explanation": "P(blue) = number of blue ÷ total = 2/9.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "A bag contains 4 red, 7 blue and 1 green balls. One ball is picked at random. Find the probability that it is red.",
+  "options": [
+   "4/13",
+   "1/3",
+   "2/3",
+   "1/2"
+  ],
+  "answer": 1,
+  "explanation": "P(red) = number of red ÷ total = 4/12 = 1/3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "A bag contains 5 red, 5 blue and 2 green balls. One ball is picked at random. Find the probability that it is blue.",
+  "options": [
+   "5/12",
+   "7/12",
+   "5/7",
+   "1/3"
+  ],
+  "answer": 0,
+  "explanation": "P(blue) = number of blue ÷ total = 5/12.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "A bag contains 9 red, 9 blue and 5 green balls. One ball is picked at random. Find the probability that it is green.",
+  "options": [
+   "1/3",
+   "18/23",
+   "5/23",
+   "5/18"
+  ],
+  "answer": 2,
+  "explanation": "P(green) = number of green ÷ total = 5/23.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "A bag contains 8 red, 3 blue and 6 green balls. One ball is picked at random. Find the probability that it is red.",
+  "options": [
+   "8/9",
+   "9/17",
+   "1/3",
+   "8/17"
+  ],
+  "answer": 3,
+  "explanation": "P(red) = number of red ÷ total = 8/17.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "A bag contains 5 red, 8 blue and 3 green balls. One ball is picked at random. Find the probability that it is red.",
+  "options": [
+   "1/3",
+   "5/16",
+   "5/11",
+   "11/16"
+  ],
+  "answer": 1,
+  "explanation": "P(red) = number of red ÷ total = 5/16.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "A bag contains 2 red, 8 blue and 4 green balls. One ball is picked at random. Find the probability that it is green.",
+  "options": [
+   "1/3",
+   "2/5",
+   "2/7",
+   "5/7"
+  ],
+  "answer": 2,
+  "explanation": "P(green) = number of green ÷ total = 4/14 = 2/7.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "Two fair dice are thrown. What is the probability that the sum of the scores is 2?",
+  "options": [
+   "1/6",
+   "1/18",
+   "1/36",
+   "1/12"
+  ],
+  "answer": 2,
+  "explanation": "There are 36 equally likely outcomes; 1 give a sum of 2. P = 1/36.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "Two fair dice are thrown. What is the probability that the sum of the scores is 3?",
+  "options": [
+   "1/11",
+   "1/6",
+   "1/12",
+   "1/18"
+  ],
+  "answer": 3,
+  "explanation": "There are 36 equally likely outcomes; 2 give a sum of 3. P = 2/36 = 1/18.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "Two fair dice are thrown. What is the probability that the sum of the scores is 4?",
+  "options": [
+   "1/11",
+   "1/12",
+   "1/6",
+   "1/9"
+  ],
+  "answer": 1,
+  "explanation": "There are 36 equally likely outcomes; 3 give a sum of 4. P = 3/36 = 1/12.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "Two fair dice are thrown. What is the probability that the sum of the scores is 5?",
+  "options": [
+   "5/36",
+   "1/12",
+   "1/6",
+   "1/9"
+  ],
+  "answer": 3,
+  "explanation": "There are 36 equally likely outcomes; 4 give a sum of 5. P = 4/36 = 1/9.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "Two fair dice are thrown. What is the probability that the sum of the scores is 6?",
+  "options": [
+   "1/12",
+   "5/36",
+   "1/6",
+   "1/11"
+  ],
+  "answer": 1,
+  "explanation": "There are 36 equally likely outcomes; 5 give a sum of 6. P = 5/36.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "Two fair dice are thrown. What is the probability that the sum of the scores is 7?",
+  "options": [
+   "1/6",
+   "1/12",
+   "7/36",
+   "1/11"
+  ],
+  "answer": 0,
+  "explanation": "There are 36 equally likely outcomes; 6 give a sum of 7. P = 6/36 = 1/6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "Two fair dice are thrown. What is the probability that the sum of the scores is 8?",
+  "options": [
+   "1/6",
+   "1/11",
+   "5/36",
+   "1/12"
+  ],
+  "answer": 2,
+  "explanation": "There are 36 equally likely outcomes; 5 give a sum of 8. P = 5/36.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "Two fair dice are thrown. What is the probability that the sum of the scores is 9?",
+  "options": [
+   "1/12",
+   "1/9",
+   "5/36",
+   "1/6"
+  ],
+  "answer": 1,
+  "explanation": "There are 36 equally likely outcomes; 4 give a sum of 9. P = 4/36 = 1/9.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "Two fair dice are thrown. What is the probability that the sum of the scores is 10?",
+  "options": [
+   "1/6",
+   "1/9",
+   "1/11",
+   "1/12"
+  ],
+  "answer": 3,
+  "explanation": "There are 36 equally likely outcomes; 3 give a sum of 10. P = 3/36 = 1/12.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "Two fair dice are thrown. What is the probability that the sum of the scores is 11?",
+  "options": [
+   "1/18",
+   "1/11",
+   "1/6",
+   "1/12"
+  ],
+  "answer": 0,
+  "explanation": "There are 36 equally likely outcomes; 2 give a sum of 11. P = 2/36 = 1/18.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Probability",
+  "body": "Two fair dice are thrown. What is the probability that the sum of the scores is 12?",
+  "options": [
+   "1/36",
+   "1/18",
+   "1/12",
+   "1/6"
+  ],
+  "answer": 0,
+  "explanation": "There are 36 equally likely outcomes; 1 give a sum of 12. P = 1/36.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the area of a circle of radius 3.5 cm. (Take π = 22/7)",
+  "options": [
+   "38.5 cm²",
+   "11 cm²",
+   "22 cm²",
+   "77 cm²"
+  ],
+  "answer": 0,
+  "explanation": "Area = πr² = 22/7 × 3.5 × 3.5 = 38.5 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the area of a circle of radius 7 cm. (Take π = 22/7)",
+  "options": [
+   "154 cm²",
+   "22 cm²",
+   "44 cm²",
+   "308 cm²"
+  ],
+  "answer": 0,
+  "explanation": "Area = πr² = 22/7 × 7 × 7 = 154 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the area of a circle of radius 14 cm. (Take π = 22/7)",
+  "options": [
+   "44 cm²",
+   "1232 cm²",
+   "88 cm²",
+   "616 cm²"
+  ],
+  "answer": 3,
+  "explanation": "Area = πr² = 22/7 × 14 × 14 = 616 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the area of a circle of radius 28 cm. (Take π = 22/7)",
+  "options": [
+   "88 cm²",
+   "4928 cm²",
+   "2464 cm²",
+   "176 cm²"
+  ],
+  "answer": 2,
+  "explanation": "Area = πr² = 22/7 × 28 × 28 = 2464 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the area of a circle of radius 21 cm. (Take π = 22/7)",
+  "options": [
+   "132 cm²",
+   "2772 cm²",
+   "1386 cm²",
+   "66 cm²"
+  ],
+  "answer": 2,
+  "explanation": "Area = πr² = 22/7 × 21 × 21 = 1386 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the circumference of a circle of radius 14 cm. (Take π = 22/7)",
+  "options": [
+   "616 cm",
+   "176 cm",
+   "44 cm",
+   "88 cm"
+  ],
+  "answer": 3,
+  "explanation": "C = 2πr = 2 × 22/7 × 14 = 88 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the circumference of a circle of radius 35 cm. (Take π = 22/7)",
+  "options": [
+   "440 cm",
+   "110 cm",
+   "3850 cm",
+   "220 cm"
+  ],
+  "answer": 3,
+  "explanation": "C = 2πr = 2 × 22/7 × 35 = 220 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the circumference of a circle of radius 21 cm. (Take π = 22/7)",
+  "options": [
+   "264 cm",
+   "66 cm",
+   "1386 cm",
+   "132 cm"
+  ],
+  "answer": 3,
+  "explanation": "C = 2πr = 2 × 22/7 × 21 = 132 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the circumference of a circle of radius 3.5 cm. (Take π = 22/7)",
+  "options": [
+   "38.5 cm",
+   "22 cm",
+   "44 cm",
+   "11 cm"
+  ],
+  "answer": 1,
+  "explanation": "C = 2πr = 2 × 22/7 × 3.5 = 22 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the circumference of a circle of radius 7 cm. (Take π = 22/7)",
+  "options": [
+   "154 cm",
+   "44 cm",
+   "22 cm",
+   "88 cm"
+  ],
+  "answer": 1,
+  "explanation": "C = 2πr = 2 × 22/7 × 7 = 44 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the area of a triangle with base 7 cm and height 6 cm.",
+  "options": [
+   "42 cm²",
+   "28 cm²",
+   "13 cm²",
+   "21 cm²"
+  ],
+  "answer": 3,
+  "explanation": "Area = ½ × base × height = ½ × 7 × 6 = 21 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the area of a triangle with base 16 cm and height 6 cm.",
+  "options": [
+   "64 cm²",
+   "96 cm²",
+   "22 cm²",
+   "48 cm²"
+  ],
+  "answer": 3,
+  "explanation": "Area = ½ × base × height = ½ × 16 × 6 = 48 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the area of a triangle with base 6 cm and height 15 cm.",
+  "options": [
+   "45 cm²",
+   "21 cm²",
+   "51 cm²",
+   "90 cm²"
+  ],
+  "answer": 0,
+  "explanation": "Area = ½ × base × height = ½ × 6 × 15 = 45 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the area of a triangle with base 17 cm and height 9 cm.",
+  "options": [
+   "76.5 cm²",
+   "153 cm²",
+   "26 cm²",
+   "93.5 cm²"
+  ],
+  "answer": 0,
+  "explanation": "Area = ½ × base × height = ½ × 17 × 9 = 76.5 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the area of a triangle with base 14 cm and height 14 cm.",
+  "options": [
+   "196 cm²",
+   "112 cm²",
+   "98 cm²",
+   "28 cm²"
+  ],
+  "answer": 2,
+  "explanation": "Area = ½ × base × height = ½ × 14 × 14 = 98 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the area of a triangle with base 17 cm and height 14 cm.",
+  "options": [
+   "31 cm²",
+   "136 cm²",
+   "238 cm²",
+   "119 cm²"
+  ],
+  "answer": 3,
+  "explanation": "Area = ½ × base × height = ½ × 17 × 14 = 119 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the area of a triangle with base 5 cm and height 14 cm.",
+  "options": [
+   "40 cm²",
+   "19 cm²",
+   "70 cm²",
+   "35 cm²"
+  ],
+  "answer": 3,
+  "explanation": "Area = ½ × base × height = ½ × 5 × 14 = 35 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the area of a triangle with base 10 cm and height 10 cm.",
+  "options": [
+   "50 cm²",
+   "60 cm²",
+   "20 cm²",
+   "100 cm²"
+  ],
+  "answer": 0,
+  "explanation": "Area = ½ × base × height = ½ × 10 × 10 = 50 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cuboid 4 cm long, 4 cm wide and 5 cm high.",
+  "options": [
+   "80 cm³",
+   "112 cm³",
+   "13 cm³",
+   "16 cm³"
+  ],
+  "answer": 0,
+  "explanation": "V = l × b × h = 4 × 4 × 5 = 80 cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cuboid 12 cm long, 10 cm wide and 9 cm high.",
+  "options": [
+   "636 cm³",
+   "31 cm³",
+   "120 cm³",
+   "1080 cm³"
+  ],
+  "answer": 3,
+  "explanation": "V = l × b × h = 12 × 10 × 9 = 1080 cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cuboid 10 cm long, 7 cm wide and 4 cm high.",
+  "options": [
+   "70 cm³",
+   "276 cm³",
+   "280 cm³",
+   "21 cm³"
+  ],
+  "answer": 2,
+  "explanation": "V = l × b × h = 10 × 7 × 4 = 280 cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cuboid 15 cm long, 3 cm wide and 10 cm high.",
+  "options": [
+   "450 cm³",
+   "900 cm³",
+   "28 cm³",
+   "45 cm³"
+  ],
+  "answer": 0,
+  "explanation": "V = l × b × h = 15 × 3 × 10 = 450 cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cuboid 9 cm long, 8 cm wide and 6 cm high.",
+  "options": [
+   "432 cm³",
+   "72 cm³",
+   "23 cm³",
+   "348 cm³"
+  ],
+  "answer": 0,
+  "explanation": "V = l × b × h = 9 × 8 × 6 = 432 cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cuboid 7 cm long, 7 cm wide and 5 cm high.",
+  "options": [
+   "238 cm³",
+   "49 cm³",
+   "245 cm³",
+   "19 cm³"
+  ],
+  "answer": 2,
+  "explanation": "V = l × b × h = 7 × 7 × 5 = 245 cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cuboid 13 cm long, 9 cm wide and 9 cm high.",
+  "options": [
+   "630 cm³",
+   "1053 cm³",
+   "31 cm³",
+   "117 cm³"
+  ],
+  "answer": 1,
+  "explanation": "V = l × b × h = 13 × 9 × 9 = 1053 cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cuboid 10 cm long, 10 cm wide and 9 cm high.",
+  "options": [
+   "100 cm³",
+   "900 cm³",
+   "29 cm³",
+   "560 cm³"
+  ],
+  "answer": 1,
+  "explanation": "V = l × b × h = 10 × 10 × 9 = 900 cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cylinder of radius 14 cm and height 12 cm. (Take π = 22/7)",
+  "options": [
+   "4928 cm³",
+   "7392 cm³",
+   "1056 cm³",
+   "528 cm³"
+  ],
+  "answer": 1,
+  "explanation": "V = πr²h = 22/7 × 14² × 12 = 7392 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cylinder of radius 3.5 cm and height 2 cm. (Take π = 22/7)",
+  "options": [
+   "22 cm³",
+   "85 cm³",
+   "44 cm³",
+   "77 cm³"
+  ],
+  "answer": 3,
+  "explanation": "V = πr²h = 22/7 × 3.5² × 2 = 77 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cylinder of radius 14 cm and height 9 cm. (Take π = 22/7)",
+  "options": [
+   "5544 cm³",
+   "396 cm³",
+   "3696 cm³",
+   "792 cm³"
+  ],
+  "answer": 0,
+  "explanation": "V = πr²h = 22/7 × 14² × 9 = 5544 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cylinder of radius 14 cm and height 3 cm. (Take π = 22/7)",
+  "options": [
+   "132 cm³",
+   "1848 cm³",
+   "264 cm³",
+   "1232 cm³"
+  ],
+  "answer": 1,
+  "explanation": "V = πr²h = 22/7 × 14² × 3 = 1848 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cylinder of radius 3.5 cm and height 5 cm. (Take π = 22/7)",
+  "options": [
+   "110 cm³",
+   "55 cm³",
+   "192.5 cm³",
+   "211.5 cm³"
+  ],
+  "answer": 2,
+  "explanation": "V = πr²h = 22/7 × 3.5² × 5 = 192.5 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cylinder of radius 3.5 cm and height 4 cm. (Take π = 22/7)",
+  "options": [
+   "88 cm³",
+   "169 cm³",
+   "154 cm³",
+   "44 cm³"
+  ],
+  "answer": 2,
+  "explanation": "V = πr²h = 22/7 × 3.5² × 4 = 154 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cylinder of radius 7 cm and height 5 cm. (Take π = 22/7)",
+  "options": [
+   "220 cm³",
+   "770 cm³",
+   "110 cm³",
+   "847 cm³"
+  ],
+  "answer": 1,
+  "explanation": "V = πr²h = 22/7 × 7² × 5 = 770 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cylinder of radius 3.5 cm and height 6 cm. (Take π = 22/7)",
+  "options": [
+   "154 cm³",
+   "231 cm³",
+   "66 cm³",
+   "132 cm³"
+  ],
+  "answer": 1,
+  "explanation": "V = πr²h = 22/7 × 3.5² × 6 = 231 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Find the sum of the interior angles of a polygon with 5 sides.",
+  "options": [
+   "900°",
+   "360°",
+   "540°",
+   "720°"
+  ],
+  "answer": 2,
+  "explanation": "Sum of interior angles = (n − 2) × 180° = 3 × 180° = 540°.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Find the sum of the interior angles of a polygon with 6 sides.",
+  "options": [
+   "720°",
+   "540°",
+   "900°",
+   "1080°"
+  ],
+  "answer": 0,
+  "explanation": "Sum of interior angles = (n − 2) × 180° = 4 × 180° = 720°.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Find the sum of the interior angles of a polygon with 7 sides.",
+  "options": [
+   "720°",
+   "1260°",
+   "900°",
+   "1080°"
+  ],
+  "answer": 2,
+  "explanation": "Sum of interior angles = (n − 2) × 180° = 5 × 180° = 900°.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Find the sum of the interior angles of a polygon with 8 sides.",
+  "options": [
+   "1260°",
+   "1080°",
+   "900°",
+   "1440°"
+  ],
+  "answer": 1,
+  "explanation": "Sum of interior angles = (n − 2) × 180° = 6 × 180° = 1080°.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Find the sum of the interior angles of a polygon with 9 sides.",
+  "options": [
+   "1260°",
+   "1620°",
+   "1440°",
+   "1080°"
+  ],
+  "answer": 0,
+  "explanation": "Sum of interior angles = (n − 2) × 180° = 7 × 180° = 1260°.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Find the sum of the interior angles of a polygon with 10 sides.",
+  "options": [
+   "1260°",
+   "1800°",
+   "1440°",
+   "1620°"
+  ],
+  "answer": 2,
+  "explanation": "Sum of interior angles = (n − 2) × 180° = 8 × 180° = 1440°.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Find the sum of the interior angles of a polygon with 12 sides.",
+  "options": [
+   "1800°",
+   "1980°",
+   "2160°",
+   "1620°"
+  ],
+  "answer": 0,
+  "explanation": "Sum of interior angles = (n − 2) × 180° = 10 × 180° = 1800°.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Find the sum of the interior angles of a polygon with 15 sides.",
+  "options": [
+   "2520°",
+   "2340°",
+   "2700°",
+   "2160°"
+  ],
+  "answer": 1,
+  "explanation": "Sum of interior angles = (n − 2) × 180° = 13 × 180° = 2340°.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Find the sum of the interior angles of a polygon with 18 sides.",
+  "options": [
+   "3060°",
+   "2700°",
+   "3240°",
+   "2880°"
+  ],
+  "answer": 3,
+  "explanation": "Sum of interior angles = (n − 2) × 180° = 16 × 180° = 2880°.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Find the sum of the interior angles of a polygon with 20 sides.",
+  "options": [
+   "3060°",
+   "3420°",
+   "3240°",
+   "3600°"
+  ],
+  "answer": 2,
+  "explanation": "Sum of interior angles = (n − 2) × 180° = 18 × 180° = 3240°.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Each exterior angle of a regular polygon is 72°. How many sides does it have?",
+  "options": [
+   "5",
+   "6",
+   "10",
+   "4"
+  ],
+  "answer": 0,
+  "explanation": "Number of sides = 360° ÷ exterior angle = 360 ÷ 72 = 5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Each exterior angle of a regular polygon is 60°. How many sides does it have?",
+  "options": [
+   "6",
+   "5",
+   "7",
+   "12"
+  ],
+  "answer": 0,
+  "explanation": "Number of sides = 360° ÷ exterior angle = 360 ÷ 60 = 6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Each exterior angle of a regular polygon is 45°. How many sides does it have?",
+  "options": [
+   "7",
+   "8",
+   "9",
+   "16"
+  ],
+  "answer": 1,
+  "explanation": "Number of sides = 360° ÷ exterior angle = 360 ÷ 45 = 8.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Each exterior angle of a regular polygon is 40°. How many sides does it have?",
+  "options": [
+   "18",
+   "10",
+   "9",
+   "8"
+  ],
+  "answer": 2,
+  "explanation": "Number of sides = 360° ÷ exterior angle = 360 ÷ 40 = 9.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Each exterior angle of a regular polygon is 36°. How many sides does it have?",
+  "options": [
+   "11",
+   "10",
+   "20",
+   "9"
+  ],
+  "answer": 1,
+  "explanation": "Number of sides = 360° ÷ exterior angle = 360 ÷ 36 = 10.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Each exterior angle of a regular polygon is 30°. How many sides does it have?",
+  "options": [
+   "13",
+   "24",
+   "11",
+   "12"
+  ],
+  "answer": 3,
+  "explanation": "Number of sides = 360° ÷ exterior angle = 360 ÷ 30 = 12.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Each exterior angle of a regular polygon is 24°. How many sides does it have?",
+  "options": [
+   "14",
+   "30",
+   "15",
+   "16"
+  ],
+  "answer": 2,
+  "explanation": "Number of sides = 360° ÷ exterior angle = 360 ÷ 24 = 15.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Each exterior angle of a regular polygon is 20°. How many sides does it have?",
+  "options": [
+   "19",
+   "36",
+   "18",
+   "17"
+  ],
+  "answer": 2,
+  "explanation": "Number of sides = 360° ÷ exterior angle = 360 ÷ 20 = 18.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Each exterior angle of a regular polygon is 18°. How many sides does it have?",
+  "options": [
+   "21",
+   "19",
+   "40",
+   "20"
+  ],
+  "answer": 3,
+  "explanation": "Number of sides = 360° ÷ exterior angle = 360 ÷ 18 = 20.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Each exterior angle of a regular polygon is 15°. How many sides does it have?",
+  "options": [
+   "24",
+   "48",
+   "25",
+   "23"
+  ],
+  "answer": 0,
+  "explanation": "Number of sides = 360° ÷ exterior angle = 360 ÷ 15 = 24.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Each exterior angle of a regular polygon is 10°. How many sides does it have?",
+  "options": [
+   "72",
+   "37",
+   "35",
+   "36"
+  ],
+  "answer": 3,
+  "explanation": "Number of sides = 360° ÷ exterior angle = 360 ÷ 10 = 36.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Find each interior angle of a regular polygon with 5 sides.",
+  "options": [
+   "72°",
+   "540°",
+   "108°",
+   "118°"
+  ],
+  "answer": 2,
+  "explanation": "Exterior angle = 360/5 = 72°, so interior = 180° − 72° = 108°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Find each interior angle of a regular polygon with 6 sides.",
+  "options": [
+   "720°",
+   "60°",
+   "130°",
+   "120°"
+  ],
+  "answer": 3,
+  "explanation": "Exterior angle = 360/6 = 60°, so interior = 180° − 60° = 120°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Find each interior angle of a regular polygon with 8 sides.",
+  "options": [
+   "145°",
+   "135°",
+   "1080°",
+   "45°"
+  ],
+  "answer": 1,
+  "explanation": "Exterior angle = 360/8 = 45°, so interior = 180° − 45° = 135°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Find each interior angle of a regular polygon with 9 sides.",
+  "options": [
+   "1260°",
+   "140°",
+   "150°",
+   "40°"
+  ],
+  "answer": 1,
+  "explanation": "Exterior angle = 360/9 = 40°, so interior = 180° − 40° = 140°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Find each interior angle of a regular polygon with 10 sides.",
+  "options": [
+   "154°",
+   "36°",
+   "1440°",
+   "144°"
+  ],
+  "answer": 3,
+  "explanation": "Exterior angle = 360/10 = 36°, so interior = 180° − 36° = 144°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Find each interior angle of a regular polygon with 12 sides.",
+  "options": [
+   "1800°",
+   "30°",
+   "150°",
+   "160°"
+  ],
+  "answer": 2,
+  "explanation": "Exterior angle = 360/12 = 30°, so interior = 180° − 30° = 150°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Find each interior angle of a regular polygon with 18 sides.",
+  "options": [
+   "20°",
+   "160°",
+   "170°",
+   "2880°"
+  ],
+  "answer": 1,
+  "explanation": "Exterior angle = 360/18 = 20°, so interior = 180° − 20° = 160°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Polygons",
+  "body": "Find each interior angle of a regular polygon with 20 sides.",
+  "options": [
+   "3240°",
+   "162°",
+   "18°",
+   "172°"
+  ],
+  "answer": 1,
+  "explanation": "Exterior angle = 360/20 = 18°, so interior = 180° − 18° = 162°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Pythagoras",
+  "body": "The two shorter sides of a right-angled triangle are 8 cm and 15 cm. Find the hypotenuse.",
+  "options": [
+   "17 cm",
+   "18 cm",
+   "7 cm",
+   "23 cm"
+  ],
+  "answer": 0,
+  "explanation": "c² = 8² + 15² = 289, so c = 17 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Pythagoras",
+  "body": "The two shorter sides of a right-angled triangle are 24 cm and 45 cm. Find the hypotenuse.",
+  "options": [
+   "69 cm",
+   "21 cm",
+   "51 cm",
+   "52 cm"
+  ],
+  "answer": 2,
+  "explanation": "c² = 24² + 45² = 2601, so c = 51 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Pythagoras",
+  "body": "The two shorter sides of a right-angled triangle are 20 cm and 48 cm. Find the hypotenuse.",
+  "options": [
+   "28 cm",
+   "52 cm",
+   "68 cm",
+   "53 cm"
+  ],
+  "answer": 1,
+  "explanation": "c² = 20² + 48² = 2704, so c = 52 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Pythagoras",
+  "body": "The two shorter sides of a right-angled triangle are 6 cm and 8 cm. Find the hypotenuse.",
+  "options": [
+   "11 cm",
+   "10 cm",
+   "14 cm",
+   "2 cm"
+  ],
+  "answer": 1,
+  "explanation": "c² = 6² + 8² = 100, so c = 10 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Pythagoras",
+  "body": "The two shorter sides of a right-angled triangle are 5 cm and 12 cm. Find the hypotenuse.",
+  "options": [
+   "14 cm",
+   "13 cm",
+   "17 cm",
+   "7 cm"
+  ],
+  "answer": 1,
+  "explanation": "c² = 5² + 12² = 169, so c = 13 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Pythagoras",
+  "body": "The two shorter sides of a right-angled triangle are 16 cm and 30 cm. Find the hypotenuse.",
+  "options": [
+   "35 cm",
+   "14 cm",
+   "34 cm",
+   "46 cm"
+  ],
+  "answer": 2,
+  "explanation": "c² = 16² + 30² = 1156, so c = 34 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Pythagoras",
+  "body": "The two shorter sides of a right-angled triangle are 9 cm and 12 cm. Find the hypotenuse.",
+  "options": [
+   "15 cm",
+   "21 cm",
+   "16 cm",
+   "3 cm"
+  ],
+  "answer": 0,
+  "explanation": "c² = 9² + 12² = 225, so c = 15 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Pythagoras",
+  "body": "The two shorter sides of a right-angled triangle are 10 cm and 24 cm. Find the hypotenuse.",
+  "options": [
+   "26 cm",
+   "14 cm",
+   "34 cm",
+   "27 cm"
+  ],
+  "answer": 0,
+  "explanation": "c² = 10² + 24² = 676, so c = 26 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Pythagoras",
+  "body": "The two shorter sides of a right-angled triangle are 14 cm and 48 cm. Find the hypotenuse.",
+  "options": [
+   "50 cm",
+   "51 cm",
+   "62 cm",
+   "34 cm"
+  ],
+  "answer": 0,
+  "explanation": "c² = 14² + 48² = 2500, so c = 50 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Pythagoras",
+  "body": "The two shorter sides of a right-angled triangle are 7 cm and 24 cm. Find the hypotenuse.",
+  "options": [
+   "17 cm",
+   "31 cm",
+   "26 cm",
+   "25 cm"
+  ],
+  "answer": 3,
+  "explanation": "c² = 7² + 24² = 625, so c = 25 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Pythagoras",
+  "body": "The two shorter sides of a right-angled triangle are 12 cm and 16 cm. Find the hypotenuse.",
+  "options": [
+   "4 cm",
+   "21 cm",
+   "20 cm",
+   "28 cm"
+  ],
+  "answer": 2,
+  "explanation": "c² = 12² + 16² = 400, so c = 20 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Pythagoras",
+  "body": "The two shorter sides of a right-angled triangle are 15 cm and 36 cm. Find the hypotenuse.",
+  "options": [
+   "40 cm",
+   "21 cm",
+   "39 cm",
+   "51 cm"
+  ],
+  "answer": 2,
+  "explanation": "c² = 15² + 36² = 1521, so c = 39 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Logarithms",
+  "body": "Evaluate log₅ 625.",
+  "options": [
+   "5",
+   "125",
+   "3",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": "5^4 = 625, so log₅ 625 = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Logarithms",
+  "body": "Evaluate log₁₀ 100.",
+  "options": [
+   "10",
+   "2",
+   "3",
+   "1"
+  ],
+  "answer": 1,
+  "explanation": "10^2 = 100, so log₁₀ 100 = 2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Logarithms",
+  "body": "Evaluate log₁₀ 1,000.",
+  "options": [
+   "3",
+   "2",
+   "4",
+   "100"
+  ],
+  "answer": 0,
+  "explanation": "10^3 = 1000, so log₁₀ 1000 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Logarithms",
+  "body": "Evaluate log₂ 4.",
+  "options": [
+   "4",
+   "1",
+   "3",
+   "2"
+  ],
+  "answer": 3,
+  "explanation": "2^2 = 4, so log₂ 4 = 2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Logarithms",
+  "body": "Evaluate log₂ 64.",
+  "options": [
+   "5",
+   "6",
+   "7",
+   "32"
+  ],
+  "answer": 1,
+  "explanation": "2^6 = 64, so log₂ 64 = 6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Logarithms",
+  "body": "Evaluate log₃ 27.",
+  "options": [
+   "2",
+   "4",
+   "3",
+   "9"
+  ],
+  "answer": 2,
+  "explanation": "3^3 = 27, so log₃ 27 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Logarithms",
+  "body": "Evaluate log₃ 81.",
+  "options": [
+   "27",
+   "5",
+   "3",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": "3^4 = 81, so log₃ 81 = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Logarithms",
+  "body": "Evaluate log₂ 128.",
+  "options": [
+   "7",
+   "6",
+   "8",
+   "64"
+  ],
+  "answer": 0,
+  "explanation": "2^7 = 128, so log₂ 128 = 7.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Logarithms",
+  "body": "Evaluate log₁₀ 10,000.",
+  "options": [
+   "5",
+   "4",
+   "1000",
+   "3"
+  ],
+  "answer": 1,
+  "explanation": "10^4 = 10000, so log₁₀ 10000 = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Logarithms",
+  "body": "Evaluate log₅ 25.",
+  "options": [
+   "2",
+   "3",
+   "5",
+   "1"
+  ],
+  "answer": 0,
+  "explanation": "5^2 = 25, so log₅ 25 = 2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Logarithms",
+  "body": "Evaluate log₂ 32.",
+  "options": [
+   "4",
+   "16",
+   "5",
+   "6"
+  ],
+  "answer": 2,
+  "explanation": "2^5 = 32, so log₂ 32 = 5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Logarithms",
+  "body": "Evaluate log₅ 125.",
+  "options": [
+   "4",
+   "3",
+   "2",
+   "25"
+  ],
+  "answer": 1,
+  "explanation": "5^3 = 125, so log₅ 125 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Logarithms",
+  "body": "Evaluate log₂ 16.",
+  "options": [
+   "4",
+   "3",
+   "8",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "2^4 = 16, so log₂ 16 = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Logarithms",
+  "body": "Evaluate log₁₀ 100,000.",
+  "options": [
+   "4",
+   "10,000",
+   "5",
+   "6"
+  ],
+  "answer": 2,
+  "explanation": "10^5 = 100000, so log₁₀ 100000 = 5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sets",
+  "body": "In a class, 32 students study Physics, 22 study Chemistry and 9 study both. How many study at least one of the two subjects?",
+  "options": [
+   "45",
+   "36",
+   "54",
+   "63"
+  ],
+  "answer": 0,
+  "explanation": "n(P ∪ C) = n(P) + n(C) − n(P ∩ C) = 32 + 22 − 9 = 45.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sets",
+  "body": "In a class, 29 students study Physics, 22 study Chemistry and 15 study both. How many study at least one of the two subjects?",
+  "options": [
+   "21",
+   "66",
+   "51",
+   "36"
+  ],
+  "answer": 3,
+  "explanation": "n(P ∪ C) = n(P) + n(C) − n(P ∩ C) = 29 + 22 − 15 = 36.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sets",
+  "body": "In a class, 34 students study Physics, 38 study Chemistry and 14 study both. How many study at least one of the two subjects?",
+  "options": [
+   "44",
+   "86",
+   "72",
+   "58"
+  ],
+  "answer": 3,
+  "explanation": "n(P ∪ C) = n(P) + n(C) − n(P ∩ C) = 34 + 38 − 14 = 58.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sets",
+  "body": "In a class, 31 students study Physics, 18 study Chemistry and 11 study both. How many study at least one of the two subjects?",
+  "options": [
+   "49",
+   "60",
+   "27",
+   "38"
+  ],
+  "answer": 3,
+  "explanation": "n(P ∪ C) = n(P) + n(C) − n(P ∩ C) = 31 + 18 − 11 = 38.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sets",
+  "body": "In a class, 25 students study Physics, 20 study Chemistry and 7 study both. How many study at least one of the two subjects?",
+  "options": [
+   "31",
+   "45",
+   "52",
+   "38"
+  ],
+  "answer": 3,
+  "explanation": "n(P ∪ C) = n(P) + n(C) − n(P ∩ C) = 25 + 20 − 7 = 38.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sets",
+  "body": "In a class, 20 students study Physics, 31 study Chemistry and 6 study both. How many study at least one of the two subjects?",
+  "options": [
+   "39",
+   "45",
+   "51",
+   "57"
+  ],
+  "answer": 1,
+  "explanation": "n(P ∪ C) = n(P) + n(C) − n(P ∩ C) = 20 + 31 − 6 = 45.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sets",
+  "body": "In a class, 32 students study Physics, 34 study Chemistry and 9 study both. How many study at least one of the two subjects?",
+  "options": [
+   "48",
+   "66",
+   "57",
+   "75"
+  ],
+  "answer": 2,
+  "explanation": "n(P ∪ C) = n(P) + n(C) − n(P ∩ C) = 32 + 34 − 9 = 57.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sets",
+  "body": "In a class, 17 students study Physics, 30 study Chemistry and 9 study both. How many study at least one of the two subjects?",
+  "options": [
+   "29",
+   "56",
+   "38",
+   "47"
+  ],
+  "answer": 2,
+  "explanation": "n(P ∪ C) = n(P) + n(C) − n(P ∩ C) = 17 + 30 − 9 = 38.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sets",
+  "body": "In a class, 18 students study Physics, 35 study Chemistry and 10 study both. How many study at least one of the two subjects?",
+  "options": [
+   "53",
+   "33",
+   "43",
+   "63"
+  ],
+  "answer": 2,
+  "explanation": "n(P ∪ C) = n(P) + n(C) − n(P ∩ C) = 18 + 35 − 10 = 43.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sets",
+  "body": "In a class, 23 students study Physics, 32 study Chemistry and 12 study both. How many study at least one of the two subjects?",
+  "options": [
+   "67",
+   "55",
+   "31",
+   "43"
+  ],
+  "answer": 3,
+  "explanation": "n(P ∪ C) = n(P) + n(C) − n(P ∩ C) = 23 + 32 − 12 = 43.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sets",
+  "body": "In a class, 24 students study Physics, 27 study Chemistry and 8 study both. How many study at least one of the two subjects?",
+  "options": [
+   "43",
+   "51",
+   "35",
+   "59"
+  ],
+  "answer": 0,
+  "explanation": "n(P ∪ C) = n(P) + n(C) − n(P ∩ C) = 24 + 27 − 8 = 43.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Sets",
+  "body": "In a class, 11 students study Physics, 18 study Chemistry and 3 study both. How many study at least one of the two subjects?",
+  "options": [
+   "29",
+   "32",
+   "23",
+   "26"
+  ],
+  "answer": 3,
+  "explanation": "n(P ∪ C) = n(P) + n(C) − n(P ∩ C) = 11 + 18 − 3 = 26.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Variation",
+  "body": "y varies directly as x. If y = 21 when x = 7, find y when x = 6.",
+  "options": [
+   "24.5",
+   "27",
+   "21",
+   "18"
+  ],
+  "answer": 3,
+  "explanation": "y = kx; k = 21/7 = 3. When x = 6, y = 3 × 6 = 18.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Variation",
+  "body": "y varies directly as x. If y = 63 when x = 7, find y when x = 6.",
+  "options": [
+   "63",
+   "73.5",
+   "54",
+   "69"
+  ],
+  "answer": 2,
+  "explanation": "y = kx; k = 63/7 = 9. When x = 6, y = 9 × 6 = 54.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Variation",
+  "body": "y varies directly as x. If y = 12 when x = 2, find y when x = 10.",
+  "options": [
+   "2.4",
+   "22",
+   "66",
+   "60"
+  ],
+  "answer": 3,
+  "explanation": "y = kx; k = 12/2 = 6. When x = 10, y = 6 × 10 = 60.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Variation",
+  "body": "y varies directly as x. If y = 14 when x = 2, find y when x = 7.",
+  "options": [
+   "21",
+   "49",
+   "56",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "y = kx; k = 14/2 = 7. When x = 7, y = 7 × 7 = 49.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Variation",
+  "body": "y varies directly as x. If y = 24 when x = 4, find y when x = 6.",
+  "options": [
+   "42",
+   "30",
+   "36",
+   "16"
+  ],
+  "answer": 2,
+  "explanation": "y = kx; k = 24/4 = 6. When x = 6, y = 6 × 6 = 36.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Variation",
+  "body": "y varies directly as x. If y = 6 when x = 3, find y when x = 12.",
+  "options": [
+   "18",
+   "1.5",
+   "24",
+   "26"
+  ],
+  "answer": 2,
+  "explanation": "y = kx; k = 6/3 = 2. When x = 12, y = 2 × 12 = 24.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Variation",
+  "body": "y varies directly as x. If y = 42 when x = 6, find y when x = 5.",
+  "options": [
+   "35",
+   "42",
+   "50.4",
+   "47"
+  ],
+  "answer": 0,
+  "explanation": "y = kx; k = 42/6 = 7. When x = 5, y = 7 × 5 = 35.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Variation",
+  "body": "y varies directly as x. If y = 18 when x = 3, find y when x = 8.",
+  "options": [
+   "6.75",
+   "48",
+   "54",
+   "26"
+  ],
+  "answer": 1,
+  "explanation": "y = kx; k = 18/3 = 6. When x = 8, y = 6 × 8 = 48.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Variation",
+  "body": "y varies directly as x. If y = 18 when x = 6, find y when x = 3.",
+  "options": [
+   "21",
+   "12",
+   "36",
+   "9"
+  ],
+  "answer": 3,
+  "explanation": "y = kx; k = 18/6 = 3. When x = 3, y = 3 × 3 = 9.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Variation",
+  "body": "y varies directly as x. If y = 35 when x = 5, find y when x = 3.",
+  "options": [
+   "15",
+   "38",
+   "21",
+   "28"
+  ],
+  "answer": 2,
+  "explanation": "y = kx; k = 35/5 = 7. When x = 3, y = 7 × 3 = 21.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Variation",
+  "body": "y varies inversely as x. If y = 10 when x = 6, find y when x = 4.",
+  "options": [
+   "240",
+   "8",
+   "60",
+   "15"
+  ],
+  "answer": 3,
+  "explanation": "y = k/x; k = 10 × 6 = 60. When x = 4, y = 60/4 = 15.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Variation",
+  "body": "y varies inversely as x. If y = 9 when x = 4, find y when x = 12.",
+  "options": [
+   "36",
+   "432",
+   "27",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "y = k/x; k = 9 × 4 = 36. When x = 12, y = 36/12 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Variation",
+  "body": "y varies inversely as x. If y = 6 when x = 4, find y when x = 8.",
+  "options": [
+   "3",
+   "192",
+   "12",
+   "24"
+  ],
+  "answer": 0,
+  "explanation": "y = k/x; k = 6 × 4 = 24. When x = 8, y = 24/8 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Variation",
+  "body": "y varies inversely as x. If y = 9 when x = 6, find y when x = 3.",
+  "options": [
+   "54",
+   "162",
+   "4.5",
+   "18"
+  ],
+  "answer": 3,
+  "explanation": "y = k/x; k = 9 × 6 = 54. When x = 3, y = 54/3 = 18.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Variation",
+  "body": "y varies inversely as x. If y = 5 when x = 6, find y when x = 2.",
+  "options": [
+   "15",
+   "1",
+   "60",
+   "30"
+  ],
+  "answer": 0,
+  "explanation": "y = k/x; k = 5 × 6 = 30. When x = 2, y = 30/2 = 15.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Variation",
+  "body": "y varies inversely as x. If y = 6 when x = 2, find y when x = 6.",
+  "options": [
+   "72",
+   "12",
+   "2",
+   "18"
+  ],
+  "answer": 2,
+  "explanation": "y = k/x; k = 6 × 2 = 12. When x = 6, y = 12/6 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Variation",
+  "body": "y varies inversely as x. If y = 6 when x = 2, find y when x = 12.",
+  "options": [
+   "12",
+   "144",
+   "1",
+   "36"
+  ],
+  "answer": 2,
+  "explanation": "y = k/x; k = 6 × 2 = 12. When x = 12, y = 12/12 = 1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Variation",
+  "body": "y varies inversely as x. If y = 6 when x = 6, find y when x = 3.",
+  "options": [
+   "12",
+   "36",
+   "108",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "y = k/x; k = 6 × 6 = 36. When x = 3, y = 36/3 = 12.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MTH",
+  "topic": "Fractions",
+  "body": "Simplify 3/9 + 4/6",
+  "options": [
+   "2/9",
+   "7/15",
+   "1",
+   "18/5"
+  ],
+  "answer": 2,
+  "explanation": "LCM method: (3×6 + 4×9)/(9×6) = 54/54 = 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Fractions",
+  "body": "Simplify 2/3 + 1/5",
+  "options": [
+   "3/8",
+   "13/8",
+   "13/15",
+   "2/15"
+  ],
+  "answer": 2,
+  "explanation": "LCM method: (2×5 + 1×3)/(3×5) = 13/15 = 13/15.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Fractions",
+  "body": "Simplify 1/2 + 2/4",
+  "options": [
+   "1/4",
+   "1/2",
+   "4/3",
+   "1"
+  ],
+  "answer": 3,
+  "explanation": "LCM method: (1×4 + 2×2)/(2×4) = 8/8 = 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Fractions",
+  "body": "Simplify 3/4 + 2/3",
+  "options": [
+   "17/7",
+   "5/7",
+   "17/12",
+   "1/2"
+  ],
+  "answer": 2,
+  "explanation": "LCM method: (3×3 + 2×4)/(4×3) = 17/12 = 17/12.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Fractions",
+  "body": "Simplify 1/2 + 2/8",
+  "options": [
+   "3/4",
+   "3/10",
+   "6/5",
+   "1/8"
+  ],
+  "answer": 0,
+  "explanation": "LCM method: (1×8 + 2×2)/(2×8) = 12/16 = 3/4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Fractions",
+  "body": "Simplify 1/8 + 3/4",
+  "options": [
+   "3/32",
+   "7/3",
+   "1/3",
+   "7/8"
+  ],
+  "answer": 3,
+  "explanation": "LCM method: (1×4 + 3×8)/(8×4) = 28/32 = 7/8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Fractions",
+  "body": "Simplify 1/3 + 5/7",
+  "options": [
+   "3/5",
+   "11/5",
+   "5/21",
+   "22/21"
+  ],
+  "answer": 3,
+  "explanation": "LCM method: (1×7 + 5×3)/(3×7) = 22/21 = 22/21.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Fractions",
+  "body": "Simplify 1/2 + 2/9",
+  "options": [
+   "13/11",
+   "1/9",
+   "13/18",
+   "3/11"
+  ],
+  "answer": 2,
+  "explanation": "LCM method: (1×9 + 2×2)/(2×9) = 13/18 = 13/18.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Fractions",
+  "body": "Simplify 3/5 + 1/2",
+  "options": [
+   "3/10",
+   "11/10",
+   "11/7",
+   "4/7"
+  ],
+  "answer": 1,
+  "explanation": "LCM method: (3×2 + 1×5)/(5×2) = 11/10 = 11/10.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Fractions",
+  "body": "Simplify 8/9 + 2/8",
+  "options": [
+   "2/9",
+   "10/17",
+   "41/36",
+   "82/17"
+  ],
+  "answer": 2,
+  "explanation": "LCM method: (8×8 + 2×9)/(9×8) = 82/72 = 41/36.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Fractions",
+  "body": "Simplify 3/4 + 5/7",
+  "options": [
+   "41/28",
+   "15/28",
+   "41/11",
+   "8/11"
+  ],
+  "answer": 0,
+  "explanation": "LCM method: (3×7 + 5×4)/(4×7) = 41/28 = 41/28.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Fractions",
+  "body": "Simplify 6/8 + 2/3",
+  "options": [
+   "17/12",
+   "8/11",
+   "1/2",
+   "34/11"
+  ],
+  "answer": 0,
+  "explanation": "LCM method: (6×3 + 2×8)/(8×3) = 34/24 = 17/12.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Standard form",
+  "body": "Express 5,600 in standard form.",
+  "options": [
+   "56 × 10³",
+   "5.6 × 10²",
+   "5.6 × 10⁴",
+   "5.6 × 10³"
+  ],
+  "answer": 3,
+  "explanation": "Move the decimal point 3 places: 5600 = 5.6 × 10^3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Standard form",
+  "body": "Express 16,000 in standard form.",
+  "options": [
+   "1.6 × 10⁵",
+   "1.6 × 10⁴",
+   "1.6 × 10³",
+   "16 × 10⁴"
+  ],
+  "answer": 1,
+  "explanation": "Move the decimal point 4 places: 16000 = 1.6 × 10^4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Standard form",
+  "body": "Express 6,700,000 in standard form.",
+  "options": [
+   "6.7 × 10⁵",
+   "6.7 × 10⁶",
+   "67 × 10⁶",
+   "6.7 × 10⁷"
+  ],
+  "answer": 1,
+  "explanation": "Move the decimal point 6 places: 6700000 = 6.7 × 10^6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Standard form",
+  "body": "Express 70,000 in standard form.",
+  "options": [
+   "7 × 10⁴",
+   "7 × 10⁵",
+   "70 × 10⁴",
+   "7 × 10³"
+  ],
+  "answer": 0,
+  "explanation": "Move the decimal point 4 places: 70000 = 7 × 10^4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Standard form",
+  "body": "Express 170,000 in standard form.",
+  "options": [
+   "17 × 10⁵",
+   "1.7 × 10⁵",
+   "1.7 × 10⁶",
+   "1.7 × 10⁴"
+  ],
+  "answer": 1,
+  "explanation": "Move the decimal point 5 places: 170000 = 1.7 × 10^5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Standard form",
+  "body": "Express 73,000,000 in standard form.",
+  "options": [
+   "7.3 × 10⁸",
+   "73 × 10⁷",
+   "7.3 × 10⁶",
+   "7.3 × 10⁷"
+  ],
+  "answer": 3,
+  "explanation": "Move the decimal point 7 places: 73000000 = 7.3 × 10^7.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Standard form",
+  "body": "Express 630,000 in standard form.",
+  "options": [
+   "6.3 × 10⁶",
+   "63 × 10⁵",
+   "6.3 × 10⁴",
+   "6.3 × 10⁵"
+  ],
+  "answer": 3,
+  "explanation": "Move the decimal point 5 places: 630000 = 6.3 × 10^5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Standard form",
+  "body": "Express 32,000 in standard form.",
+  "options": [
+   "3.2 × 10⁴",
+   "3.2 × 10³",
+   "32 × 10⁴",
+   "3.2 × 10⁵"
+  ],
+  "answer": 0,
+  "explanation": "Move the decimal point 4 places: 32000 = 3.2 × 10^4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Speed, distance and time",
+  "body": "A bus travels 240 km in 3 hours. Find its average speed.",
+  "options": [
+   "90 km/h",
+   "720 km/h",
+   "80 km/h",
+   "60 km/h"
+  ],
+  "answer": 2,
+  "explanation": "Speed = distance ÷ time = 240 ÷ 3 = 80 km/h.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Speed, distance and time",
+  "body": "A bus travels 150 km in 3 hours. Find its average speed.",
+  "options": [
+   "37.5 km/h",
+   "50 km/h",
+   "60 km/h",
+   "450 km/h"
+  ],
+  "answer": 1,
+  "explanation": "Speed = distance ÷ time = 150 ÷ 3 = 50 km/h.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Speed, distance and time",
+  "body": "A bus travels 150 km in 1.5 hours. Find its average speed.",
+  "options": [
+   "225 km/h",
+   "100 km/h",
+   "110 km/h",
+   "60 km/h"
+  ],
+  "answer": 1,
+  "explanation": "Speed = distance ÷ time = 150 ÷ 1.5 = 100 km/h.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Speed, distance and time",
+  "body": "A bus travels 180 km in 2 hours. Find its average speed.",
+  "options": [
+   "100 km/h",
+   "90 km/h",
+   "360 km/h",
+   "60 km/h"
+  ],
+  "answer": 1,
+  "explanation": "Speed = distance ÷ time = 180 ÷ 2 = 90 km/h.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Speed, distance and time",
+  "body": "A bus travels 20 km in 0.5 hours. Find its average speed.",
+  "options": [
+   "30 km/h",
+   "40 km/h",
+   "10 km/h",
+   "50 km/h"
+  ],
+  "answer": 1,
+  "explanation": "Speed = distance ÷ time = 20 ÷ 0.5 = 40 km/h.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Speed, distance and time",
+  "body": "A bus travels 300 km in 3 hours. Find its average speed.",
+  "options": [
+   "110 km/h",
+   "100 km/h",
+   "75 km/h",
+   "900 km/h"
+  ],
+  "answer": 1,
+  "explanation": "Speed = distance ÷ time = 300 ÷ 3 = 100 km/h.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Speed, distance and time",
+  "body": "A bus travels 180 km in 3 hours. Find its average speed.",
+  "options": [
+   "60 km/h",
+   "540 km/h",
+   "70 km/h",
+   "45 km/h"
+  ],
+  "answer": 0,
+  "explanation": "Speed = distance ÷ time = 180 ÷ 3 = 60 km/h.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Speed, distance and time",
+  "body": "A bus travels 210 km in 3 hours. Find its average speed.",
+  "options": [
+   "630 km/h",
+   "70 km/h",
+   "80 km/h",
+   "52.5 km/h"
+  ],
+  "answer": 1,
+  "explanation": "Speed = distance ÷ time = 210 ÷ 3 = 70 km/h.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Speed, distance and time",
+  "body": "A bus travels 480 km in 4 hours. Find its average speed.",
+  "options": [
+   "120 km/h",
+   "130 km/h",
+   "96 km/h",
+   "1920 km/h"
+  ],
+  "answer": 0,
+  "explanation": "Speed = distance ÷ time = 480 ÷ 4 = 120 km/h.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Speed, distance and time",
+  "body": "A bus travels 240 km in 2 hours. Find its average speed.",
+  "options": [
+   "480 km/h",
+   "80 km/h",
+   "120 km/h",
+   "130 km/h"
+  ],
+  "answer": 2,
+  "explanation": "Speed = distance ÷ time = 240 ÷ 2 = 120 km/h.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Algebra",
+  "body": "Expand (x − 1)(x + 6). What is the coefficient of x?",
+  "options": [
+   "-7",
+   "7",
+   "5",
+   "-6"
+  ],
+  "answer": 2,
+  "explanation": "(x − 1)(x + 6) = x² + (-1 + 6)x + -6. Coefficient of x = 5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Algebra",
+  "body": "Expand (x + 3)(x + 6). What is the coefficient of x?",
+  "options": [
+   "18",
+   "-3",
+   "9",
+   "3"
+  ],
+  "answer": 2,
+  "explanation": "(x + 3)(x + 6) = x² + (3 + 6)x + 18. Coefficient of x = 9.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Algebra",
+  "body": "Expand (x − 6)(x − 4). What is the coefficient of x?",
+  "options": [
+   "-2",
+   "24",
+   "-10",
+   "2"
+  ],
+  "answer": 2,
+  "explanation": "(x − 6)(x − 4) = x² + (-6 + -4)x + 24. Coefficient of x = -10.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Algebra",
+  "body": "Expand (x − 2)(x + 3). What is the coefficient of x?",
+  "options": [
+   "-6",
+   "1",
+   "5",
+   "-5"
+  ],
+  "answer": 1,
+  "explanation": "(x − 2)(x + 3) = x² + (-2 + 3)x + -6. Coefficient of x = 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Algebra",
+  "body": "Expand (x + 7)(x − 5). What is the coefficient of x?",
+  "options": [
+   "12",
+   "-12",
+   "2",
+   "-35"
+  ],
+  "answer": 2,
+  "explanation": "(x + 7)(x − 5) = x² + (7 + -5)x + -35. Coefficient of x = 2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Algebra",
+  "body": "Expand (x + 5)(x + 9). What is the coefficient of x?",
+  "options": [
+   "4",
+   "-4",
+   "45",
+   "14"
+  ],
+  "answer": 3,
+  "explanation": "(x + 5)(x + 9) = x² + (5 + 9)x + 45. Coefficient of x = 14.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Algebra",
+  "body": "Expand (x + 4)(x − 6). What is the coefficient of x?",
+  "options": [
+   "-2",
+   "-10",
+   "-24",
+   "10"
+  ],
+  "answer": 0,
+  "explanation": "(x + 4)(x − 6) = x² + (4 + -6)x + -24. Coefficient of x = -2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Algebra",
+  "body": "Expand (x − 3)(x + 5). What is the coefficient of x?",
+  "options": [
+   "-15",
+   "8",
+   "2",
+   "-8"
+  ],
+  "answer": 2,
+  "explanation": "(x − 3)(x + 5) = x² + (-3 + 5)x + -15. Coefficient of x = 2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Square roots",
+  "body": "Find √144.",
+  "options": [
+   "12",
+   "11",
+   "72",
+   "13"
+  ],
+  "answer": 0,
+  "explanation": "12 × 12 = 144, so √144 = 12.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Square roots",
+  "body": "Find √169.",
+  "options": [
+   "84.5",
+   "13",
+   "14",
+   "12"
+  ],
+  "answer": 1,
+  "explanation": "13 × 13 = 169, so √169 = 13.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Square roots",
+  "body": "Find √196.",
+  "options": [
+   "15",
+   "14",
+   "13",
+   "98"
+  ],
+  "answer": 1,
+  "explanation": "14 × 14 = 196, so √196 = 14.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Square roots",
+  "body": "Find √225.",
+  "options": [
+   "16",
+   "14",
+   "112.5",
+   "15"
+  ],
+  "answer": 3,
+  "explanation": "15 × 15 = 225, so √225 = 15.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Square roots",
+  "body": "Find √256.",
+  "options": [
+   "15",
+   "128",
+   "16",
+   "17"
+  ],
+  "answer": 2,
+  "explanation": "16 × 16 = 256, so √256 = 16.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Square roots",
+  "body": "Find √289.",
+  "options": [
+   "17",
+   "144.5",
+   "16",
+   "18"
+  ],
+  "answer": 0,
+  "explanation": "17 × 17 = 289, so √289 = 17.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Square roots",
+  "body": "Find √324.",
+  "options": [
+   "162",
+   "19",
+   "18",
+   "17"
+  ],
+  "answer": 2,
+  "explanation": "18 × 18 = 324, so √324 = 18.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Square roots",
+  "body": "Find √361.",
+  "options": [
+   "20",
+   "19",
+   "180.5",
+   "18"
+  ],
+  "answer": 1,
+  "explanation": "19 × 19 = 361, so √361 = 19.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Square roots",
+  "body": "Find √400.",
+  "options": [
+   "20",
+   "19",
+   "200",
+   "21"
+  ],
+  "answer": 0,
+  "explanation": "20 × 20 = 400, so √400 = 20.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Square roots",
+  "body": "Find √441.",
+  "options": [
+   "220.5",
+   "22",
+   "21",
+   "20"
+  ],
+  "answer": 2,
+  "explanation": "21 × 21 = 441, so √441 = 21.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Square roots",
+  "body": "Find √484.",
+  "options": [
+   "22",
+   "242",
+   "21",
+   "23"
+  ],
+  "answer": 0,
+  "explanation": "22 × 22 = 484, so √484 = 22.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Square roots",
+  "body": "Find √529.",
+  "options": [
+   "264.5",
+   "23",
+   "24",
+   "22"
+  ],
+  "answer": 1,
+  "explanation": "23 × 23 = 529, so √529 = 23.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Square roots",
+  "body": "Find √576.",
+  "options": [
+   "288",
+   "25",
+   "23",
+   "24"
+  ],
+  "answer": 3,
+  "explanation": "24 × 24 = 576, so √576 = 24.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MTH",
+  "topic": "Square roots",
+  "body": "Find √625.",
+  "options": [
+   "312.5",
+   "26",
+   "24",
+   "25"
+  ],
+  "answer": 3,
+  "explanation": "25 × 25 = 625, so √625 = 25.",
+  "difficulty": 1
+ }
+]

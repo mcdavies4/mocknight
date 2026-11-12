@@ -1,0 +1,4902 @@
+[
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A car accelerates uniformly from rest to 12 m/s in 3 s. Find its acceleration.",
+  "options": [
+   "36 m/s²",
+   "6 m/s²",
+   "0.25 m/s²",
+   "4 m/s²"
+  ],
+  "answer": 3,
+  "explanation": "a = (v − u)/t = (12 − 0)/3 = 4 m/s².",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A car accelerates uniformly from 2 m/s to 20 m/s in 9 s. Find its acceleration.",
+  "options": [
+   "3 m/s²",
+   "2 m/s²",
+   "0.45 m/s²",
+   "180 m/s²"
+  ],
+  "answer": 1,
+  "explanation": "a = (v − u)/t = (20 − 2)/9 = 2 m/s².",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A car accelerates uniformly from rest to 30 m/s in 6 s. Find its acceleration.",
+  "options": [
+   "0.2 m/s²",
+   "7 m/s²",
+   "180 m/s²",
+   "5 m/s²"
+  ],
+  "answer": 3,
+  "explanation": "a = (v − u)/t = (30 − 0)/6 = 5 m/s².",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A car accelerates uniformly from rest to 10 m/s in 10 s. Find its acceleration.",
+  "options": [
+   "3 m/s²",
+   "2 m/s²",
+   "100 m/s²",
+   "1 m/s²"
+  ],
+  "answer": 3,
+  "explanation": "a = (v − u)/t = (10 − 0)/10 = 1 m/s².",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A car accelerates uniformly from 5 m/s to 15 m/s in 10 s. Find its acceleration.",
+  "options": [
+   "2.5 m/s²",
+   "1 m/s²",
+   "150 m/s²",
+   "2 m/s²"
+  ],
+  "answer": 1,
+  "explanation": "a = (v − u)/t = (15 − 5)/10 = 1 m/s².",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A car accelerates uniformly from 4 m/s to 22 m/s in 9 s. Find its acceleration.",
+  "options": [
+   "1 m/s²",
+   "3 m/s²",
+   "198 m/s²",
+   "2 m/s²"
+  ],
+  "answer": 3,
+  "explanation": "a = (v − u)/t = (22 − 4)/9 = 2 m/s².",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A car accelerates uniformly from rest to 2 m/s in 2 s. Find its acceleration.",
+  "options": [
+   "3 m/s²",
+   "2 m/s²",
+   "4 m/s²",
+   "1 m/s²"
+  ],
+  "answer": 3,
+  "explanation": "a = (v − u)/t = (2 − 0)/2 = 1 m/s².",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A car accelerates uniformly from rest to 6 m/s in 3 s. Find its acceleration.",
+  "options": [
+   "2 m/s²",
+   "4 m/s²",
+   "0.5 m/s²",
+   "18 m/s²"
+  ],
+  "answer": 0,
+  "explanation": "a = (v − u)/t = (6 − 0)/3 = 2 m/s².",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A car accelerates uniformly from 10 m/s to 42 m/s in 8 s. Find its acceleration.",
+  "options": [
+   "6.5 m/s²",
+   "336 m/s²",
+   "6.25 m/s²",
+   "4 m/s²"
+  ],
+  "answer": 3,
+  "explanation": "a = (v − u)/t = (42 − 10)/8 = 4 m/s².",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A car accelerates uniformly from 4 m/s to 20 m/s in 8 s. Find its acceleration.",
+  "options": [
+   "3.5 m/s²",
+   "160 m/s²",
+   "3 m/s²",
+   "2 m/s²"
+  ],
+  "answer": 3,
+  "explanation": "a = (v − u)/t = (20 − 4)/8 = 2 m/s².",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A car accelerates uniformly from 2 m/s to 10 m/s in 2 s. Find its acceleration.",
+  "options": [
+   "0.2 m/s²",
+   "6 m/s²",
+   "4 m/s²",
+   "20 m/s²"
+  ],
+  "answer": 2,
+  "explanation": "a = (v − u)/t = (10 − 2)/2 = 4 m/s².",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A car accelerates uniformly from 5 m/s to 11 m/s in 2 s. Find its acceleration.",
+  "options": [
+   "6.5 m/s²",
+   "3 m/s²",
+   "22 m/s²",
+   "8 m/s²"
+  ],
+  "answer": 1,
+  "explanation": "a = (v − u)/t = (11 − 5)/2 = 3 m/s².",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A car accelerates uniformly from 2 m/s to 20 m/s in 3 s. Find its acceleration.",
+  "options": [
+   "0.15 m/s²",
+   "7 m/s²",
+   "6 m/s²",
+   "60 m/s²"
+  ],
+  "answer": 2,
+  "explanation": "a = (v − u)/t = (20 − 2)/3 = 6 m/s².",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A car accelerates uniformly from rest to 32 m/s in 8 s. Find its acceleration.",
+  "options": [
+   "0.25 m/s²",
+   "256 m/s²",
+   "4 m/s²",
+   "6 m/s²"
+  ],
+  "answer": 2,
+  "explanation": "a = (v − u)/t = (32 − 0)/8 = 4 m/s².",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body with initial velocity 1 m/s accelerates at 2 m/s² for 5 s. Find its final velocity.",
+  "options": [
+   "10 m/s",
+   "13 m/s",
+   "8 m/s",
+   "11 m/s"
+  ],
+  "answer": 3,
+  "explanation": "v = u + at = 1 + 2 × 5 = 11 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body with initial velocity 7 m/s accelerates at 3 m/s² for 7 s. Find its final velocity.",
+  "options": [
+   "28 m/s",
+   "21 m/s",
+   "17 m/s",
+   "147 m/s"
+  ],
+  "answer": 0,
+  "explanation": "v = u + at = 7 + 3 × 7 = 28 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body with initial velocity 10 m/s accelerates at 5 m/s² for 2 s. Find its final velocity.",
+  "options": [
+   "10 m/s",
+   "20 m/s",
+   "17 m/s",
+   "100 m/s"
+  ],
+  "answer": 1,
+  "explanation": "v = u + at = 10 + 5 × 2 = 20 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body with initial velocity 9 m/s accelerates at 2 m/s² for 5 s. Find its final velocity.",
+  "options": [
+   "90 m/s",
+   "19 m/s",
+   "16 m/s",
+   "10 m/s"
+  ],
+  "answer": 1,
+  "explanation": "v = u + at = 9 + 2 × 5 = 19 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body with initial velocity 6 m/s accelerates at 1 m/s² for 5 s. Find its final velocity.",
+  "options": [
+   "30 m/s",
+   "11 m/s",
+   "12 m/s",
+   "5 m/s"
+  ],
+  "answer": 1,
+  "explanation": "v = u + at = 6 + 1 × 5 = 11 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body with initial velocity 8 m/s accelerates at 4 m/s² for 8 s. Find its final velocity.",
+  "options": [
+   "256 m/s",
+   "40 m/s",
+   "32 m/s",
+   "20 m/s"
+  ],
+  "answer": 1,
+  "explanation": "v = u + at = 8 + 4 × 8 = 40 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body with initial velocity 8 m/s accelerates at 2 m/s² for 7 s. Find its final velocity.",
+  "options": [
+   "112 m/s",
+   "14 m/s",
+   "22 m/s",
+   "17 m/s"
+  ],
+  "answer": 2,
+  "explanation": "v = u + at = 8 + 2 × 7 = 22 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body with initial velocity 0 m/s accelerates at 5 m/s² for 8 s. Find its final velocity.",
+  "options": [
+   "40 m/s",
+   "45 m/s",
+   "0 m/s",
+   "13 m/s"
+  ],
+  "answer": 0,
+  "explanation": "v = u + at = 0 + 5 × 8 = 40 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body with initial velocity 9 m/s accelerates at 2 m/s² for 3 s. Find its final velocity.",
+  "options": [
+   "6 m/s",
+   "15 m/s",
+   "54 m/s",
+   "14 m/s"
+  ],
+  "answer": 1,
+  "explanation": "v = u + at = 9 + 2 × 3 = 15 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body with initial velocity 1 m/s accelerates at 1 m/s² for 4 s. Find its final velocity.",
+  "options": [
+   "5 m/s",
+   "6 m/s",
+   "4 m/s",
+   "10 m/s"
+  ],
+  "answer": 0,
+  "explanation": "v = u + at = 1 + 1 × 4 = 5 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body with initial velocity 5 m/s accelerates at 3 m/s² for 7 s. Find its final velocity.",
+  "options": [
+   "21 m/s",
+   "15 m/s",
+   "105 m/s",
+   "26 m/s"
+  ],
+  "answer": 3,
+  "explanation": "v = u + at = 5 + 3 × 7 = 26 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body with initial velocity 3 m/s accelerates at 5 m/s² for 4 s. Find its final velocity.",
+  "options": [
+   "60 m/s",
+   "12 m/s",
+   "23 m/s",
+   "20 m/s"
+  ],
+  "answer": 2,
+  "explanation": "v = u + at = 3 + 5 × 4 = 23 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body starts with velocity 5 m/s and accelerates uniformly at 6 m/s² for 2 s. Find the distance covered.",
+  "options": [
+   "34 m",
+   "22 m",
+   "44 m",
+   "6 m"
+  ],
+  "answer": 1,
+  "explanation": "s = ut + ½at² = 5×2 + ½×6×2² = 22 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body starts with velocity 2 m/s and accelerates uniformly at 6 m/s² for 3 s. Find the distance covered.",
+  "options": [
+   "33 m",
+   "60 m",
+   "9 m",
+   "24 m"
+  ],
+  "answer": 0,
+  "explanation": "s = ut + ½at² = 2×3 + ½×6×3² = 33 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body starts with velocity 5 m/s and accelerates uniformly at 6 m/s² for 5 s. Find the distance covered.",
+  "options": [
+   "100 m",
+   "55 m",
+   "15 m",
+   "175 m"
+  ],
+  "answer": 0,
+  "explanation": "s = ut + ½at² = 5×5 + ½×6×5² = 100 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body starts with velocity 2 m/s and accelerates uniformly at 4 m/s² for 4 s. Find the distance covered.",
+  "options": [
+   "8 m",
+   "24 m",
+   "40 m",
+   "72 m"
+  ],
+  "answer": 2,
+  "explanation": "s = ut + ½at² = 2×4 + ½×4×4² = 40 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body starts with velocity 4 m/s and accelerates uniformly at 4 m/s² for 5 s. Find the distance covered.",
+  "options": [
+   "70 m",
+   "120 m",
+   "10 m",
+   "40 m"
+  ],
+  "answer": 0,
+  "explanation": "s = ut + ½at² = 4×5 + ½×4×5² = 70 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body starts with velocity 0 m/s and accelerates uniformly at 6 m/s² for 5 s. Find the distance covered.",
+  "options": [
+   "150 m",
+   "30 m",
+   "75 m",
+   "15 m"
+  ],
+  "answer": 2,
+  "explanation": "s = ut + ½at² = 0×5 + ½×6×5² = 75 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body starts with velocity 5 m/s and accelerates uniformly at 4 m/s² for 4 s. Find the distance covered.",
+  "options": [
+   "52 m",
+   "8 m",
+   "84 m",
+   "36 m"
+  ],
+  "answer": 0,
+  "explanation": "s = ut + ½at² = 5×4 + ½×4×4² = 52 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body starts with velocity 5 m/s and accelerates uniformly at 6 m/s² for 3 s. Find the distance covered.",
+  "options": [
+   "9 m",
+   "42 m",
+   "69 m",
+   "33 m"
+  ],
+  "answer": 1,
+  "explanation": "s = ut + ½at² = 5×3 + ½×6×3² = 42 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body starts with velocity 0 m/s and accelerates uniformly at 4 m/s² for 2 s. Find the distance covered.",
+  "options": [
+   "8 m",
+   "4 m",
+   "16 m",
+   "9 m"
+  ],
+  "answer": 0,
+  "explanation": "s = ut + ½at² = 0×2 + ½×4×2² = 8 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body starts with velocity 4 m/s and accelerates uniformly at 2 m/s² for 5 s. Find the distance covered.",
+  "options": [
+   "5 m",
+   "30 m",
+   "45 m",
+   "70 m"
+  ],
+  "answer": 2,
+  "explanation": "s = ut + ½at² = 4×5 + ½×2×5² = 45 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body starts with velocity 2 m/s and accelerates uniformly at 2 m/s² for 5 s. Find the distance covered.",
+  "options": [
+   "20 m",
+   "5 m",
+   "60 m",
+   "35 m"
+  ],
+  "answer": 3,
+  "explanation": "s = ut + ½at² = 2×5 + ½×2×5² = 35 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Motion",
+  "body": "A body starts with velocity 2 m/s and accelerates uniformly at 6 m/s² for 6 s. Find the distance covered.",
+  "options": [
+   "48 m",
+   "228 m",
+   "18 m",
+   "120 m"
+  ],
+  "answer": 3,
+  "explanation": "s = ut + ½at² = 2×6 + ½×6×6² = 120 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the force needed to give a 38 kg mass an acceleration of 3 m/s².",
+  "options": [
+   "1140 N",
+   "57 N",
+   "114 N",
+   "41 N"
+  ],
+  "answer": 2,
+  "explanation": "F = ma = 38 × 3 = 114 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the force needed to give a 4 kg mass an acceleration of 4 m/s².",
+  "options": [
+   "8 N",
+   "1 N",
+   "16 N",
+   "160 N"
+  ],
+  "answer": 2,
+  "explanation": "F = ma = 4 × 4 = 16 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the force needed to give a 38 kg mass an acceleration of 2 m/s².",
+  "options": [
+   "19 N",
+   "40 N",
+   "76 N",
+   "760 N"
+  ],
+  "answer": 2,
+  "explanation": "F = ma = 38 × 2 = 76 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the force needed to give a 23 kg mass an acceleration of 3 m/s².",
+  "options": [
+   "26 N",
+   "690 N",
+   "34.5 N",
+   "69 N"
+  ],
+  "answer": 3,
+  "explanation": "F = ma = 23 × 3 = 69 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the force needed to give a 17 kg mass an acceleration of 3 m/s².",
+  "options": [
+   "510 N",
+   "20 N",
+   "51 N",
+   "25.5 N"
+  ],
+  "answer": 2,
+  "explanation": "F = ma = 17 × 3 = 51 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the force needed to give a 16 kg mass an acceleration of 7 m/s².",
+  "options": [
+   "56 N",
+   "23 N",
+   "1120 N",
+   "112 N"
+  ],
+  "answer": 3,
+  "explanation": "F = ma = 16 × 7 = 112 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the force needed to give a 36 kg mass an acceleration of 12 m/s².",
+  "options": [
+   "432 N",
+   "48 N",
+   "3 N",
+   "4320 N"
+  ],
+  "answer": 0,
+  "explanation": "F = ma = 36 × 12 = 432 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the force needed to give a 20 kg mass an acceleration of 8 m/s².",
+  "options": [
+   "28 N",
+   "1600 N",
+   "2.5 N",
+   "160 N"
+  ],
+  "answer": 3,
+  "explanation": "F = ma = 20 × 8 = 160 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the force needed to give a 3 kg mass an acceleration of 12 m/s².",
+  "options": [
+   "360 N",
+   "0.25 N",
+   "15 N",
+   "36 N"
+  ],
+  "answer": 3,
+  "explanation": "F = ma = 3 × 12 = 36 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the force needed to give a 42 kg mass an acceleration of 2 m/s².",
+  "options": [
+   "84 N",
+   "21 N",
+   "840 N",
+   "44 N"
+  ],
+  "answer": 0,
+  "explanation": "F = ma = 42 × 2 = 84 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the force needed to give a 24 kg mass an acceleration of 9 m/s².",
+  "options": [
+   "2160 N",
+   "108 N",
+   "216 N",
+   "33 N"
+  ],
+  "answer": 2,
+  "explanation": "F = ma = 24 × 9 = 216 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the force needed to give a 13 kg mass an acceleration of 10 m/s².",
+  "options": [
+   "1.3 N",
+   "23 N",
+   "1300 N",
+   "130 N"
+  ],
+  "answer": 3,
+  "explanation": "F = ma = 13 × 10 = 130 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the force needed to give a 9 kg mass an acceleration of 12 m/s².",
+  "options": [
+   "108 N",
+   "1080 N",
+   "21 N",
+   "0.75 N"
+  ],
+  "answer": 0,
+  "explanation": "F = ma = 9 × 12 = 108 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the force needed to give a 7 kg mass an acceleration of 12 m/s².",
+  "options": [
+   "19 N",
+   "84 N",
+   "840 N",
+   "42 N"
+  ],
+  "answer": 1,
+  "explanation": "F = ma = 7 × 12 = 84 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the weight of a 64 kg body. (g = 10 m/s²)",
+  "options": [
+   "64 N",
+   "6.4 N",
+   "640 N",
+   "627.2 N"
+  ],
+  "answer": 2,
+  "explanation": "W = mg = 64 × 10 = 640 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the weight of a 8 kg body. (g = 10 m/s²)",
+  "options": [
+   "8 N",
+   "80 N",
+   "0.8 N",
+   "78.4 N"
+  ],
+  "answer": 1,
+  "explanation": "W = mg = 8 × 10 = 80 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the weight of a 9 kg body. (g = 10 m/s²)",
+  "options": [
+   "90 N",
+   "0.9 N",
+   "88.2 N",
+   "9 N"
+  ],
+  "answer": 0,
+  "explanation": "W = mg = 9 × 10 = 90 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the weight of a 63 kg body. (g = 10 m/s²)",
+  "options": [
+   "617.4 N",
+   "63 N",
+   "630 N",
+   "6.3 N"
+  ],
+  "answer": 2,
+  "explanation": "W = mg = 63 × 10 = 630 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the weight of a 118 kg body. (g = 10 m/s²)",
+  "options": [
+   "1156.4 N",
+   "118 N",
+   "1180 N",
+   "11.8 N"
+  ],
+  "answer": 2,
+  "explanation": "W = mg = 118 × 10 = 1180 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the weight of a 67 kg body. (g = 10 m/s²)",
+  "options": [
+   "6.7 N",
+   "656.6 N",
+   "67 N",
+   "670 N"
+  ],
+  "answer": 3,
+  "explanation": "W = mg = 67 × 10 = 670 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the weight of a 36 kg body. (g = 10 m/s²)",
+  "options": [
+   "3.6 N",
+   "352.8 N",
+   "36 N",
+   "360 N"
+  ],
+  "answer": 3,
+  "explanation": "W = mg = 36 × 10 = 360 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the weight of a 104 kg body. (g = 10 m/s²)",
+  "options": [
+   "1019.2 N",
+   "104 N",
+   "1040 N",
+   "10.4 N"
+  ],
+  "answer": 2,
+  "explanation": "W = mg = 104 × 10 = 1040 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the weight of a 75 kg body. (g = 10 m/s²)",
+  "options": [
+   "75 N",
+   "735 N",
+   "750 N",
+   "7.5 N"
+  ],
+  "answer": 2,
+  "explanation": "W = mg = 75 × 10 = 750 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Newton's laws",
+  "body": "Find the weight of a 31 kg body. (g = 10 m/s²)",
+  "options": [
+   "310 N",
+   "303.8 N",
+   "31 N",
+   "3.1 N"
+  ],
+  "answer": 0,
+  "explanation": "W = mg = 31 × 10 = 310 N.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Momentum",
+  "body": "Find the momentum of a 14 kg body moving at 6 m/s.",
+  "options": [
+   "168 kg m/s",
+   "252 kg m/s",
+   "20 kg m/s",
+   "84 kg m/s"
+  ],
+  "answer": 3,
+  "explanation": "p = mv = 14 × 6 = 84 kg m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Momentum",
+  "body": "Find the momentum of a 32 kg body moving at 30 m/s.",
+  "options": [
+   "1920 kg m/s",
+   "62 kg m/s",
+   "960 kg m/s",
+   "14,400 kg m/s"
+  ],
+  "answer": 2,
+  "explanation": "p = mv = 32 × 30 = 960 kg m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Momentum",
+  "body": "Find the momentum of a 53 kg body moving at 6 m/s.",
+  "options": [
+   "59 kg m/s",
+   "954 kg m/s",
+   "318 kg m/s",
+   "636 kg m/s"
+  ],
+  "answer": 2,
+  "explanation": "p = mv = 53 × 6 = 318 kg m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Momentum",
+  "body": "Find the momentum of a 15 kg body moving at 10 m/s.",
+  "options": [
+   "25 kg m/s",
+   "750 kg m/s",
+   "150 kg m/s",
+   "300 kg m/s"
+  ],
+  "answer": 2,
+  "explanation": "p = mv = 15 × 10 = 150 kg m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Momentum",
+  "body": "Find the momentum of a 25 kg body moving at 25 m/s.",
+  "options": [
+   "1250 kg m/s",
+   "7812.5 kg m/s",
+   "50 kg m/s",
+   "625 kg m/s"
+  ],
+  "answer": 3,
+  "explanation": "p = mv = 25 × 25 = 625 kg m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Momentum",
+  "body": "Find the momentum of a 64 kg body moving at 28 m/s.",
+  "options": [
+   "1792 kg m/s",
+   "25,088 kg m/s",
+   "92 kg m/s",
+   "3584 kg m/s"
+  ],
+  "answer": 0,
+  "explanation": "p = mv = 64 × 28 = 1792 kg m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Momentum",
+  "body": "Find the momentum of a 18 kg body moving at 22 m/s.",
+  "options": [
+   "396 kg m/s",
+   "4356 kg m/s",
+   "40 kg m/s",
+   "792 kg m/s"
+  ],
+  "answer": 0,
+  "explanation": "p = mv = 18 × 22 = 396 kg m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Momentum",
+  "body": "Find the momentum of a 12 kg body moving at 2 m/s.",
+  "options": [
+   "6 kg m/s",
+   "14 kg m/s",
+   "48 kg m/s",
+   "24 kg m/s"
+  ],
+  "answer": 3,
+  "explanation": "p = mv = 12 × 2 = 24 kg m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Momentum",
+  "body": "Find the momentum of a 2 kg body moving at 16 m/s.",
+  "options": [
+   "18 kg m/s",
+   "64 kg m/s",
+   "32 kg m/s",
+   "256 kg m/s"
+  ],
+  "answer": 2,
+  "explanation": "p = mv = 2 × 16 = 32 kg m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Momentum",
+  "body": "Find the momentum of a 7 kg body moving at 27 m/s.",
+  "options": [
+   "189 kg m/s",
+   "378 kg m/s",
+   "34 kg m/s",
+   "2551.5 kg m/s"
+  ],
+  "answer": 0,
+  "explanation": "p = mv = 7 × 27 = 189 kg m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the kinetic energy of a 22 kg body moving at 6 m/s.",
+  "options": [
+   "396 J",
+   "132 J",
+   "66 J",
+   "792 J"
+  ],
+  "answer": 0,
+  "explanation": "KE = ½mv² = ½ × 22 × 6² = 396 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the kinetic energy of a 30 kg body moving at 6 m/s.",
+  "options": [
+   "540 J",
+   "90 J",
+   "180 J",
+   "1080 J"
+  ],
+  "answer": 0,
+  "explanation": "KE = ½mv² = ½ × 30 × 6² = 540 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the kinetic energy of a 4 kg body moving at 11 m/s.",
+  "options": [
+   "44 J",
+   "484 J",
+   "22 J",
+   "242 J"
+  ],
+  "answer": 3,
+  "explanation": "KE = ½mv² = ½ × 4 × 11² = 242 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the kinetic energy of a 4 kg body moving at 14 m/s.",
+  "options": [
+   "392 J",
+   "784 J",
+   "28 J",
+   "56 J"
+  ],
+  "answer": 0,
+  "explanation": "KE = ½mv² = ½ × 4 × 14² = 392 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the kinetic energy of a 34 kg body moving at 8 m/s.",
+  "options": [
+   "272 J",
+   "136 J",
+   "1088 J",
+   "2176 J"
+  ],
+  "answer": 2,
+  "explanation": "KE = ½mv² = ½ × 34 × 8² = 1088 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the kinetic energy of a 30 kg body moving at 3 m/s.",
+  "options": [
+   "90 J",
+   "270 J",
+   "45 J",
+   "135 J"
+  ],
+  "answer": 3,
+  "explanation": "KE = ½mv² = ½ × 30 × 3² = 135 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the kinetic energy of a 20 kg body moving at 9 m/s.",
+  "options": [
+   "810 J",
+   "180 J",
+   "1620 J",
+   "90 J"
+  ],
+  "answer": 0,
+  "explanation": "KE = ½mv² = ½ × 20 × 9² = 810 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the kinetic energy of a 26 kg body moving at 2 m/s.",
+  "options": [
+   "52 J",
+   "104 J",
+   "26 J",
+   "57 J"
+  ],
+  "answer": 0,
+  "explanation": "KE = ½mv² = ½ × 26 × 2² = 52 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the kinetic energy of a 8 kg body moving at 5 m/s.",
+  "options": [
+   "200 J",
+   "40 J",
+   "100 J",
+   "20 J"
+  ],
+  "answer": 2,
+  "explanation": "KE = ½mv² = ½ × 8 × 5² = 100 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the kinetic energy of a 20 kg body moving at 8 m/s.",
+  "options": [
+   "1280 J",
+   "160 J",
+   "80 J",
+   "640 J"
+  ],
+  "answer": 3,
+  "explanation": "KE = ½mv² = ½ × 20 × 8² = 640 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the kinetic energy of a 26 kg body moving at 8 m/s.",
+  "options": [
+   "208 J",
+   "104 J",
+   "1664 J",
+   "832 J"
+  ],
+  "answer": 3,
+  "explanation": "KE = ½mv² = ½ × 26 × 8² = 832 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the kinetic energy of a 38 kg body moving at 13 m/s.",
+  "options": [
+   "247 J",
+   "494 J",
+   "3211 J",
+   "6422 J"
+  ],
+  "answer": 2,
+  "explanation": "KE = ½mv² = ½ × 38 × 13² = 3211 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the kinetic energy of a 14 kg body moving at 12 m/s.",
+  "options": [
+   "84 J",
+   "1008 J",
+   "168 J",
+   "2016 J"
+  ],
+  "answer": 1,
+  "explanation": "KE = ½mv² = ½ × 14 × 12² = 1008 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the kinetic energy of a 30 kg body moving at 7 m/s.",
+  "options": [
+   "210 J",
+   "1470 J",
+   "105 J",
+   "735 J"
+  ],
+  "answer": 3,
+  "explanation": "KE = ½mv² = ½ × 30 × 7² = 735 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the potential energy of a 15 kg object raised 31 m above the ground. (g = 10 m/s²)",
+  "options": [
+   "4650 J",
+   "181 J",
+   "2325 J",
+   "465 J"
+  ],
+  "answer": 0,
+  "explanation": "PE = mgh = 15 × 10 × 31 = 4650 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the potential energy of a 55 kg object raised 14 m above the ground. (g = 10 m/s²)",
+  "options": [
+   "7700 J",
+   "770 J",
+   "3850 J",
+   "564 J"
+  ],
+  "answer": 0,
+  "explanation": "PE = mgh = 55 × 10 × 14 = 7700 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the potential energy of a 12 kg object raised 17 m above the ground. (g = 10 m/s²)",
+  "options": [
+   "204 J",
+   "137 J",
+   "1020 J",
+   "2040 J"
+  ],
+  "answer": 3,
+  "explanation": "PE = mgh = 12 × 10 × 17 = 2040 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the potential energy of a 7 kg object raised 4 m above the ground. (g = 10 m/s²)",
+  "options": [
+   "140 J",
+   "28 J",
+   "74 J",
+   "280 J"
+  ],
+  "answer": 3,
+  "explanation": "PE = mgh = 7 × 10 × 4 = 280 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the potential energy of a 28 kg object raised 6 m above the ground. (g = 10 m/s²)",
+  "options": [
+   "1680 J",
+   "840 J",
+   "286 J",
+   "168 J"
+  ],
+  "answer": 0,
+  "explanation": "PE = mgh = 28 × 10 × 6 = 1680 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the potential energy of a 28 kg object raised 34 m above the ground. (g = 10 m/s²)",
+  "options": [
+   "952 J",
+   "9520 J",
+   "314 J",
+   "4760 J"
+  ],
+  "answer": 1,
+  "explanation": "PE = mgh = 28 × 10 × 34 = 9520 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the potential energy of a 45 kg object raised 12 m above the ground. (g = 10 m/s²)",
+  "options": [
+   "5400 J",
+   "540 J",
+   "462 J",
+   "2700 J"
+  ],
+  "answer": 0,
+  "explanation": "PE = mgh = 45 × 10 × 12 = 5400 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the potential energy of a 15 kg object raised 12 m above the ground. (g = 10 m/s²)",
+  "options": [
+   "900 J",
+   "162 J",
+   "180 J",
+   "1800 J"
+  ],
+  "answer": 3,
+  "explanation": "PE = mgh = 15 × 10 × 12 = 1800 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the potential energy of a 39 kg object raised 39 m above the ground. (g = 10 m/s²)",
+  "options": [
+   "1521 J",
+   "429 J",
+   "15,210 J",
+   "7605 J"
+  ],
+  "answer": 2,
+  "explanation": "PE = mgh = 39 × 10 × 39 = 15210 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the potential energy of a 48 kg object raised 8 m above the ground. (g = 10 m/s²)",
+  "options": [
+   "3840 J",
+   "384 J",
+   "1920 J",
+   "488 J"
+  ],
+  "answer": 0,
+  "explanation": "PE = mgh = 48 × 10 × 8 = 3840 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the potential energy of a 29 kg object raised 30 m above the ground. (g = 10 m/s²)",
+  "options": [
+   "8700 J",
+   "4350 J",
+   "870 J",
+   "320 J"
+  ],
+  "answer": 0,
+  "explanation": "PE = mgh = 29 × 10 × 30 = 8700 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the potential energy of a 36 kg object raised 39 m above the ground. (g = 10 m/s²)",
+  "options": [
+   "399 J",
+   "14,040 J",
+   "7020 J",
+   "1404 J"
+  ],
+  "answer": 1,
+  "explanation": "PE = mgh = 36 × 10 × 39 = 14040 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the potential energy of a 10 kg object raised 17 m above the ground. (g = 10 m/s²)",
+  "options": [
+   "117 J",
+   "170 J",
+   "850 J",
+   "1700 J"
+  ],
+  "answer": 3,
+  "explanation": "PE = mgh = 10 × 10 × 17 = 1700 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "Find the potential energy of a 37 kg object raised 37 m above the ground. (g = 10 m/s²)",
+  "options": [
+   "13,690 J",
+   "6845 J",
+   "407 J",
+   "1369 J"
+  ],
+  "answer": 0,
+  "explanation": "PE = mgh = 37 × 10 × 37 = 13690 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "A force of 20 N moves a load through 4 m in the direction of the force. Find the work done.",
+  "options": [
+   "80 J",
+   "160 J",
+   "5 J",
+   "24 J"
+  ],
+  "answer": 0,
+  "explanation": "W = F × d = 20 × 4 = 80 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "A force of 46 N moves a load through 14 m in the direction of the force. Find the work done.",
+  "options": [
+   "1288 J",
+   "60 J",
+   "644 J",
+   "64.4 J"
+  ],
+  "answer": 2,
+  "explanation": "W = F × d = 46 × 14 = 644 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "A force of 79 N moves a load through 15 m in the direction of the force. Find the work done.",
+  "options": [
+   "2370 J",
+   "118.5 J",
+   "1185 J",
+   "94 J"
+  ],
+  "answer": 2,
+  "explanation": "W = F × d = 79 × 15 = 1185 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "A force of 20 N moves a load through 24 m in the direction of the force. Find the work done.",
+  "options": [
+   "480 J",
+   "48 J",
+   "44 J",
+   "960 J"
+  ],
+  "answer": 0,
+  "explanation": "W = F × d = 20 × 24 = 480 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "A force of 73 N moves a load through 4 m in the direction of the force. Find the work done.",
+  "options": [
+   "18.25 J",
+   "584 J",
+   "77 J",
+   "292 J"
+  ],
+  "answer": 3,
+  "explanation": "W = F × d = 73 × 4 = 292 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "A force of 31 N moves a load through 6 m in the direction of the force. Find the work done.",
+  "options": [
+   "37 J",
+   "372 J",
+   "186 J",
+   "18.6 J"
+  ],
+  "answer": 2,
+  "explanation": "W = F × d = 31 × 6 = 186 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "A force of 6 N moves a load through 24 m in the direction of the force. Find the work done.",
+  "options": [
+   "144 J",
+   "0.25 J",
+   "30 J",
+   "288 J"
+  ],
+  "answer": 0,
+  "explanation": "W = F × d = 6 × 24 = 144 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "A force of 24 N moves a load through 21 m in the direction of the force. Find the work done.",
+  "options": [
+   "50.4 J",
+   "1008 J",
+   "504 J",
+   "45 J"
+  ],
+  "answer": 2,
+  "explanation": "W = F × d = 24 × 21 = 504 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "A force of 25 N moves a load through 3 m in the direction of the force. Find the work done.",
+  "options": [
+   "150 J",
+   "75 J",
+   "28 J",
+   "7.5 J"
+  ],
+  "answer": 1,
+  "explanation": "W = F × d = 25 × 3 = 75 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Energy",
+  "body": "A force of 34 N moves a load through 22 m in the direction of the force. Find the work done.",
+  "options": [
+   "56 J",
+   "1496 J",
+   "74.8 J",
+   "748 J"
+  ],
+  "answer": 3,
+  "explanation": "W = F × d = 34 × 22 = 748 J.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Power",
+  "body": "A machine does 27,000 J of work in 3 minutes. Find its power.",
+  "options": [
+   "150 W",
+   "300 W",
+   "450 W",
+   "9000 W"
+  ],
+  "answer": 0,
+  "explanation": "P = W/t = 27000 ÷ 180 s = 150 W. Convert minutes to seconds first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Power",
+  "body": "A machine does 36,000 J of work in 3 minutes. Find its power.",
+  "options": [
+   "12,000 W",
+   "200 W",
+   "400 W",
+   "600 W"
+  ],
+  "answer": 1,
+  "explanation": "P = W/t = 36000 ÷ 180 s = 200 W. Convert minutes to seconds first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Power",
+  "body": "A machine does 51,000 J of work in 5 minutes. Find its power.",
+  "options": [
+   "170 W",
+   "340 W",
+   "10,200 W",
+   "850 W"
+  ],
+  "answer": 0,
+  "explanation": "P = W/t = 51000 ÷ 300 s = 170 W. Convert minutes to seconds first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Power",
+  "body": "A machine does 4,500 J of work in 5 minutes. Find its power.",
+  "options": [
+   "15 W",
+   "30 W",
+   "75 W",
+   "900 W"
+  ],
+  "answer": 0,
+  "explanation": "P = W/t = 4500 ÷ 300 s = 15 W. Convert minutes to seconds first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Power",
+  "body": "A machine does 35,100 J of work in 3 minutes. Find its power.",
+  "options": [
+   "390 W",
+   "195 W",
+   "585 W",
+   "11,700 W"
+  ],
+  "answer": 1,
+  "explanation": "P = W/t = 35100 ÷ 180 s = 195 W. Convert minutes to seconds first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Power",
+  "body": "A machine does 11,700 J of work in 1 minute. Find its power.",
+  "options": [
+   "11,700 W",
+   "195 W",
+   "390 W",
+   "215 W"
+  ],
+  "answer": 1,
+  "explanation": "P = W/t = 11700 ÷ 60 s = 195 W. Convert minutes to seconds first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Power",
+  "body": "A machine does 29,700 J of work in 3 minutes. Find its power.",
+  "options": [
+   "9900 W",
+   "165 W",
+   "495 W",
+   "330 W"
+  ],
+  "answer": 1,
+  "explanation": "P = W/t = 29700 ÷ 180 s = 165 W. Convert minutes to seconds first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Power",
+  "body": "A machine does 25,800 J of work in 2 minutes. Find its power.",
+  "options": [
+   "215 W",
+   "430 W",
+   "12,900 W",
+   "237 W"
+  ],
+  "answer": 0,
+  "explanation": "P = W/t = 25800 ÷ 120 s = 215 W. Convert minutes to seconds first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Power",
+  "body": "A machine does 37,200 J of work in 4 minutes. Find its power.",
+  "options": [
+   "310 W",
+   "155 W",
+   "620 W",
+   "9300 W"
+  ],
+  "answer": 1,
+  "explanation": "P = W/t = 37200 ÷ 240 s = 155 W. Convert minutes to seconds first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Power",
+  "body": "A machine does 8,400 J of work in 1 minute. Find its power.",
+  "options": [
+   "280 W",
+   "140 W",
+   "8400 W",
+   "154 W"
+  ],
+  "answer": 1,
+  "explanation": "P = W/t = 8400 ÷ 60 s = 140 W. Convert minutes to seconds first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Power",
+  "body": "A machine does 38,400 J of work in 4 minutes. Find its power.",
+  "options": [
+   "9600 W",
+   "640 W",
+   "160 W",
+   "320 W"
+  ],
+  "answer": 2,
+  "explanation": "P = W/t = 38400 ÷ 240 s = 160 W. Convert minutes to seconds first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Power",
+  "body": "A machine does 10,200 J of work in 2 minutes. Find its power.",
+  "options": [
+   "170 W",
+   "94 W",
+   "85 W",
+   "5100 W"
+  ],
+  "answer": 2,
+  "explanation": "P = W/t = 10200 ÷ 120 s = 85 W. Convert minutes to seconds first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Machines",
+  "body": "A machine uses 1000 J of energy and does 500 J of useful work. Find its efficiency.",
+  "options": [
+   "60%",
+   "25%",
+   "200%",
+   "50%"
+  ],
+  "answer": 3,
+  "explanation": "Efficiency = output/input × 100% = 500/1000 × 100% = 50%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Machines",
+  "body": "A machine uses 1100 J of energy and does 990 J of useful work. Find its efficiency.",
+  "options": [
+   "100%",
+   "90%",
+   "111%",
+   "10%"
+  ],
+  "answer": 1,
+  "explanation": "Efficiency = output/input × 100% = 990/1100 × 100% = 90%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Machines",
+  "body": "A machine uses 700 J of energy and does 560 J of useful work. Find its efficiency.",
+  "options": [
+   "20%",
+   "125%",
+   "80%",
+   "90%"
+  ],
+  "answer": 2,
+  "explanation": "Efficiency = output/input × 100% = 560/700 × 100% = 80%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Machines",
+  "body": "A machine uses 1900 J of energy and does 1425 J of useful work. Find its efficiency.",
+  "options": [
+   "133%",
+   "75%",
+   "85%",
+   "25%"
+  ],
+  "answer": 1,
+  "explanation": "Efficiency = output/input × 100% = 1425/1900 × 100% = 75%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Machines",
+  "body": "A machine uses 500 J of energy and does 200 J of useful work. Find its efficiency.",
+  "options": [
+   "250%",
+   "50%",
+   "40%",
+   "60%"
+  ],
+  "answer": 2,
+  "explanation": "Efficiency = output/input × 100% = 200/500 × 100% = 40%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Machines",
+  "body": "A machine uses 1300 J of energy and does 780 J of useful work. Find its efficiency.",
+  "options": [
+   "70%",
+   "40%",
+   "167%",
+   "60%"
+  ],
+  "answer": 3,
+  "explanation": "Efficiency = output/input × 100% = 780/1300 × 100% = 60%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Machines",
+  "body": "A machine uses 1300 J of energy and does 520 J of useful work. Find its efficiency.",
+  "options": [
+   "250%",
+   "60%",
+   "40%",
+   "50%"
+  ],
+  "answer": 2,
+  "explanation": "Efficiency = output/input × 100% = 520/1300 × 100% = 40%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Machines",
+  "body": "A machine uses 1100 J of energy and does 825 J of useful work. Find its efficiency.",
+  "options": [
+   "25%",
+   "85%",
+   "75%",
+   "133%"
+  ],
+  "answer": 2,
+  "explanation": "Efficiency = output/input × 100% = 825/1100 × 100% = 75%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Moments",
+  "body": "A force of 16 N acts at a perpendicular distance of 0.7 m from a pivot. Find its moment.",
+  "options": [
+   "22.4 N m",
+   "16.7 N m",
+   "11.2 N m",
+   "112 N m"
+  ],
+  "answer": 2,
+  "explanation": "Moment = F × d = 16 × 0.7 = 11.2 N m.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Moments",
+  "body": "A force of 8 N acts at a perpendicular distance of 1 m from a pivot. Find its moment.",
+  "options": [
+   "16 N m",
+   "9 N m",
+   "80 N m",
+   "8 N m"
+  ],
+  "answer": 3,
+  "explanation": "Moment = F × d = 8 × 1 = 8 N m.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Moments",
+  "body": "A force of 56 N acts at a perpendicular distance of 1 m from a pivot. Find its moment.",
+  "options": [
+   "56 N m",
+   "560 N m",
+   "57 N m",
+   "112 N m"
+  ],
+  "answer": 0,
+  "explanation": "Moment = F × d = 56 × 1 = 56 N m.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Moments",
+  "body": "A force of 10 N acts at a perpendicular distance of 0.7 m from a pivot. Find its moment.",
+  "options": [
+   "70 N m",
+   "14 N m",
+   "10.7 N m",
+   "7 N m"
+  ],
+  "answer": 3,
+  "explanation": "Moment = F × d = 10 × 0.7 = 7 N m.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Moments",
+  "body": "A force of 23 N acts at a perpendicular distance of 0.6 m from a pivot. Find its moment.",
+  "options": [
+   "27.6 N m",
+   "13.8 N m",
+   "138 N m",
+   "23.6 N m"
+  ],
+  "answer": 1,
+  "explanation": "Moment = F × d = 23 × 0.6 = 13.8 N m.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Moments",
+  "body": "A force of 52 N acts at a perpendicular distance of 0.8 m from a pivot. Find its moment.",
+  "options": [
+   "65 N m",
+   "52.8 N m",
+   "41.6 N m",
+   "416 N m"
+  ],
+  "answer": 2,
+  "explanation": "Moment = F × d = 52 × 0.8 = 41.6 N m.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Moments",
+  "body": "A force of 47 N acts at a perpendicular distance of 0.7 m from a pivot. Find its moment.",
+  "options": [
+   "47.7 N m",
+   "65.8 N m",
+   "32.9 N m",
+   "329 N m"
+  ],
+  "answer": 2,
+  "explanation": "Moment = F × d = 47 × 0.7 = 32.9 N m.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Moments",
+  "body": "A force of 15 N acts at a perpendicular distance of 1.1 m from a pivot. Find its moment.",
+  "options": [
+   "16.5 N m",
+   "165 N m",
+   "16.1 N m",
+   "33 N m"
+  ],
+  "answer": 0,
+  "explanation": "Moment = F × d = 15 × 1.1 = 16.5 N m.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Elasticity",
+  "body": "A spring of force constant 170 N/m is stretched by 9 cm. Find the force applied. (Assume Hooke's law)",
+  "options": [
+   "170.09 N",
+   "1530 N",
+   "15.3 N",
+   "30.6 N"
+  ],
+  "answer": 2,
+  "explanation": "F = ke = 170 × 0.09 m = 15.3 N. Convert cm to m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Elasticity",
+  "body": "A spring of force constant 130 N/m is stretched by 6 cm. Find the force applied. (Assume Hooke's law)",
+  "options": [
+   "7.8 N",
+   "130.06 N",
+   "780 N",
+   "15.6 N"
+  ],
+  "answer": 0,
+  "explanation": "F = ke = 130 × 0.06 m = 7.8 N. Convert cm to m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Elasticity",
+  "body": "A spring of force constant 30 N/m is stretched by 2 cm. Find the force applied. (Assume Hooke's law)",
+  "options": [
+   "60 N",
+   "1.2 N",
+   "0.6 N",
+   "1500 N"
+  ],
+  "answer": 2,
+  "explanation": "F = ke = 30 × 0.02 m = 0.6 N. Convert cm to m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Elasticity",
+  "body": "A spring of force constant 30 N/m is stretched by 7.000000000000001 cm. Find the force applied. (Assume Hooke's law)",
+  "options": [
+   "210 N",
+   "4.2 N",
+   "30.07 N",
+   "2.1 N"
+  ],
+  "answer": 3,
+  "explanation": "F = ke = 30 × 0.07 m = 2.1 N. Convert cm to m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Elasticity",
+  "body": "A spring of force constant 80 N/m is stretched by 2 cm. Find the force applied. (Assume Hooke's law)",
+  "options": [
+   "4000 N",
+   "1.6 N",
+   "3.2 N",
+   "160 N"
+  ],
+  "answer": 1,
+  "explanation": "F = ke = 80 × 0.02 m = 1.6 N. Convert cm to m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Elasticity",
+  "body": "A spring of force constant 120 N/m is stretched by 10 cm. Find the force applied. (Assume Hooke's law)",
+  "options": [
+   "12 N",
+   "24 N",
+   "120.1 N",
+   "1200 N"
+  ],
+  "answer": 0,
+  "explanation": "F = ke = 120 × 0.1 m = 12 N. Convert cm to m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Elasticity",
+  "body": "A spring of force constant 190 N/m is stretched by 8 cm. Find the force applied. (Assume Hooke's law)",
+  "options": [
+   "15.2 N",
+   "2375 N",
+   "1520 N",
+   "30.4 N"
+  ],
+  "answer": 0,
+  "explanation": "F = ke = 190 × 0.08 m = 15.2 N. Convert cm to m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Elasticity",
+  "body": "A spring of force constant 190 N/m is stretched by 3 cm. Find the force applied. (Assume Hooke's law)",
+  "options": [
+   "11.4 N",
+   "5.7 N",
+   "570 N",
+   "190.03 N"
+  ],
+  "answer": 1,
+  "explanation": "F = ke = 190 × 0.03 m = 5.7 N. Convert cm to m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Elasticity",
+  "body": "A spring of force constant 200 N/m is stretched by 2 cm. Find the force applied. (Assume Hooke's law)",
+  "options": [
+   "10,000 N",
+   "400 N",
+   "8 N",
+   "4 N"
+  ],
+  "answer": 3,
+  "explanation": "F = ke = 200 × 0.02 m = 4 N. Convert cm to m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Elasticity",
+  "body": "A spring of force constant 190 N/m is stretched by 1 cm. Find the force applied. (Assume Hooke's law)",
+  "options": [
+   "19,000 N",
+   "190 N",
+   "1.9 N",
+   "3.8 N"
+  ],
+  "answer": 2,
+  "explanation": "F = ke = 190 × 0.01 m = 1.9 N. Convert cm to m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Density",
+  "body": "A block of volume 0.005 m³ has a mass of 39 kg. Find its density.",
+  "options": [
+   "8580 kg/m³",
+   "780 kg/m³",
+   "78,000 kg/m³",
+   "7800 kg/m³"
+  ],
+  "answer": 3,
+  "explanation": "ρ = m/V = 39 ÷ 0.005 = 7800 kg/m³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Density",
+  "body": "A block of volume 0.002 m³ has a mass of 2 kg. Find its density.",
+  "options": [
+   "1000 kg/m³",
+   "1100 kg/m³",
+   "100 kg/m³",
+   "10,000 kg/m³"
+  ],
+  "answer": 0,
+  "explanation": "ρ = m/V = 2 ÷ 0.002 = 1000 kg/m³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Density",
+  "body": "A block of volume 0.5 m³ has a mass of 4450 kg. Find its density.",
+  "options": [
+   "2225 kg/m³",
+   "890 kg/m³",
+   "89,000 kg/m³",
+   "8900 kg/m³"
+  ],
+  "answer": 3,
+  "explanation": "ρ = m/V = 4450 ÷ 0.5 = 8900 kg/m³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Density",
+  "body": "A block of volume 0.02 m³ has a mass of 156 kg. Find its density.",
+  "options": [
+   "780 kg/m³",
+   "78,000 kg/m³",
+   "3.12 kg/m³",
+   "7800 kg/m³"
+  ],
+  "answer": 3,
+  "explanation": "ρ = m/V = 156 ÷ 0.02 = 7800 kg/m³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Density",
+  "body": "A block of volume 0.01 m³ has a mass of 27 kg. Find its density.",
+  "options": [
+   "2700 kg/m³",
+   "270 kg/m³",
+   "27,000 kg/m³",
+   "0.27 kg/m³"
+  ],
+  "answer": 0,
+  "explanation": "ρ = m/V = 27 ÷ 0.01 = 2700 kg/m³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Density",
+  "body": "A block of volume 0.005 m³ has a mass of 4 kg. Find its density.",
+  "options": [
+   "80 kg/m³",
+   "0.02 kg/m³",
+   "800 kg/m³",
+   "8000 kg/m³"
+  ],
+  "answer": 2,
+  "explanation": "ρ = m/V = 4 ÷ 0.005 = 800 kg/m³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Density",
+  "body": "A block of volume 0.5 m³ has a mass of 250 kg. Find its density.",
+  "options": [
+   "125 kg/m³",
+   "50 kg/m³",
+   "500 kg/m³",
+   "5000 kg/m³"
+  ],
+  "answer": 2,
+  "explanation": "ρ = m/V = 250 ÷ 0.5 = 500 kg/m³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Density",
+  "body": "A block of volume 0.002 m³ has a mass of 5 kg. Find its density.",
+  "options": [
+   "25,000 kg/m³",
+   "250 kg/m³",
+   "2500 kg/m³",
+   "0.01 kg/m³"
+  ],
+  "answer": 2,
+  "explanation": "ρ = m/V = 5 ÷ 0.002 = 2500 kg/m³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Density",
+  "body": "A block of volume 0.02 m³ has a mass of 178 kg. Find its density.",
+  "options": [
+   "89,000 kg/m³",
+   "890 kg/m³",
+   "3.56 kg/m³",
+   "8900 kg/m³"
+  ],
+  "answer": 3,
+  "explanation": "ρ = m/V = 178 ÷ 0.02 = 8900 kg/m³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Density",
+  "body": "A block of volume 0.005 m³ has a mass of 44.5 kg. Find its density.",
+  "options": [
+   "89,000 kg/m³",
+   "9790 kg/m³",
+   "890 kg/m³",
+   "8900 kg/m³"
+  ],
+  "answer": 3,
+  "explanation": "ρ = m/V = 44.5 ÷ 0.005 = 8900 kg/m³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Density",
+  "body": "A block of volume 0.5 m³ has a mass of 400 kg. Find its density.",
+  "options": [
+   "800 kg/m³",
+   "200 kg/m³",
+   "8000 kg/m³",
+   "80 kg/m³"
+  ],
+  "answer": 0,
+  "explanation": "ρ = m/V = 400 ÷ 0.5 = 800 kg/m³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Density",
+  "body": "A block of volume 0.002 m³ has a mass of 17.8 kg. Find its density.",
+  "options": [
+   "9790 kg/m³",
+   "890 kg/m³",
+   "89,000 kg/m³",
+   "8900 kg/m³"
+  ],
+  "answer": 3,
+  "explanation": "ρ = m/V = 17.8 ÷ 0.002 = 8900 kg/m³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Pressure",
+  "body": "A force of 100 N acts on an area of 4 m². Find the pressure.",
+  "options": [
+   "400 Pa",
+   "25 Pa",
+   "0.04 Pa",
+   "2.5 Pa"
+  ],
+  "answer": 1,
+  "explanation": "P = F/A = 100 ÷ 4 = 25 Pa.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Pressure",
+  "body": "A force of 290 N acts on an area of 4 m². Find the pressure.",
+  "options": [
+   "72.5 Pa",
+   "1160 Pa",
+   "290 Pa",
+   "7.25 Pa"
+  ],
+  "answer": 0,
+  "explanation": "P = F/A = 290 ÷ 4 = 72.5 Pa.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Pressure",
+  "body": "A force of 220 N acts on an area of 0.25 m². Find the pressure.",
+  "options": [
+   "220 Pa",
+   "88 Pa",
+   "55 Pa",
+   "880 Pa"
+  ],
+  "answer": 3,
+  "explanation": "P = F/A = 220 ÷ 0.25 = 880 Pa.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Pressure",
+  "body": "A force of 370 N acts on an area of 0.2 m². Find the pressure.",
+  "options": [
+   "1850 Pa",
+   "370 Pa",
+   "185 Pa",
+   "74 Pa"
+  ],
+  "answer": 0,
+  "explanation": "P = F/A = 370 ÷ 0.2 = 1850 Pa.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Pressure",
+  "body": "A force of 280 N acts on an area of 0.1 m². Find the pressure.",
+  "options": [
+   "2800 Pa",
+   "280 Pa",
+   "28 Pa",
+   "3080 Pa"
+  ],
+  "answer": 0,
+  "explanation": "P = F/A = 280 ÷ 0.1 = 2800 Pa.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Pressure",
+  "body": "A force of 140 N acts on an area of 0.1 m². Find the pressure.",
+  "options": [
+   "140 Pa",
+   "1540 Pa",
+   "1400 Pa",
+   "14 Pa"
+  ],
+  "answer": 2,
+  "explanation": "P = F/A = 140 ÷ 0.1 = 1400 Pa.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Pressure",
+  "body": "A force of 20 N acts on an area of 0.25 m². Find the pressure.",
+  "options": [
+   "8 Pa",
+   "20 Pa",
+   "80 Pa",
+   "5 Pa"
+  ],
+  "answer": 2,
+  "explanation": "P = F/A = 20 ÷ 0.25 = 80 Pa.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Pressure",
+  "body": "A force of 270 N acts on an area of 5 m². Find the pressure.",
+  "options": [
+   "1350 Pa",
+   "54 Pa",
+   "270 Pa",
+   "5.4 Pa"
+  ],
+  "answer": 1,
+  "explanation": "P = F/A = 270 ÷ 5 = 54 Pa.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Pressure",
+  "body": "A force of 450 N acts on an area of 0.1 m². Find the pressure.",
+  "options": [
+   "45 Pa",
+   "450 Pa",
+   "4950 Pa",
+   "4500 Pa"
+  ],
+  "answer": 3,
+  "explanation": "P = F/A = 450 ÷ 0.1 = 4500 Pa.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Pressure",
+  "body": "A force of 20 N acts on an area of 4 m². Find the pressure.",
+  "options": [
+   "0.5 Pa",
+   "5 Pa",
+   "80 Pa",
+   "0.2 Pa"
+  ],
+  "answer": 1,
+  "explanation": "P = F/A = 20 ÷ 4 = 5 Pa.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Pressure",
+  "body": "Find the pressure due to water at a depth of 15 m. (Density of water = 1000 kg/m³, g = 10 m/s²)",
+  "options": [
+   "1,500,000 Pa",
+   "15,000 Pa",
+   "150 Pa",
+   "150,000 Pa"
+  ],
+  "answer": 3,
+  "explanation": "P = hρg = 15 × 1000 × 10 = 150,000 Pa.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Pressure",
+  "body": "Find the pressure due to water at a depth of 10 m. (Density of water = 1000 kg/m³, g = 10 m/s²)",
+  "options": [
+   "100,000 Pa",
+   "10,000 Pa",
+   "1,000,000 Pa",
+   "100 Pa"
+  ],
+  "answer": 0,
+  "explanation": "P = hρg = 10 × 1000 × 10 = 100,000 Pa.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Pressure",
+  "body": "Find the pressure due to water at a depth of 27 m. (Density of water = 1000 kg/m³, g = 10 m/s²)",
+  "options": [
+   "2,700,000 Pa",
+   "27,000 Pa",
+   "270,000 Pa",
+   "270 Pa"
+  ],
+  "answer": 2,
+  "explanation": "P = hρg = 27 × 1000 × 10 = 270,000 Pa.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Pressure",
+  "body": "Find the pressure due to water at a depth of 4 m. (Density of water = 1000 kg/m³, g = 10 m/s²)",
+  "options": [
+   "400,000 Pa",
+   "4000 Pa",
+   "40 Pa",
+   "40,000 Pa"
+  ],
+  "answer": 3,
+  "explanation": "P = hρg = 4 × 1000 × 10 = 40,000 Pa.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Pressure",
+  "body": "Find the pressure due to water at a depth of 14 m. (Density of water = 1000 kg/m³, g = 10 m/s²)",
+  "options": [
+   "140 Pa",
+   "14,000 Pa",
+   "1,400,000 Pa",
+   "140,000 Pa"
+  ],
+  "answer": 3,
+  "explanation": "P = hρg = 14 × 1000 × 10 = 140,000 Pa.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Pressure",
+  "body": "Find the pressure due to water at a depth of 25 m. (Density of water = 1000 kg/m³, g = 10 m/s²)",
+  "options": [
+   "250,000 Pa",
+   "250 Pa",
+   "25,000 Pa",
+   "2,500,000 Pa"
+  ],
+  "answer": 0,
+  "explanation": "P = hρg = 25 × 1000 × 10 = 250,000 Pa.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Pressure",
+  "body": "Find the pressure due to water at a depth of 21 m. (Density of water = 1000 kg/m³, g = 10 m/s²)",
+  "options": [
+   "2,100,000 Pa",
+   "21,000 Pa",
+   "210 Pa",
+   "210,000 Pa"
+  ],
+  "answer": 3,
+  "explanation": "P = hρg = 21 × 1000 × 10 = 210,000 Pa.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Pressure",
+  "body": "Find the pressure due to water at a depth of 12 m. (Density of water = 1000 kg/m³, g = 10 m/s²)",
+  "options": [
+   "1,200,000 Pa",
+   "12,000 Pa",
+   "120 Pa",
+   "120,000 Pa"
+  ],
+  "answer": 3,
+  "explanation": "P = hρg = 12 × 1000 × 10 = 120,000 Pa.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A current of 2 A flows through a 21 Ω resistor. Find the p.d. across it.",
+  "options": [
+   "42 V",
+   "23 V",
+   "10.5 V",
+   "84 V"
+  ],
+  "answer": 0,
+  "explanation": "V = IR = 2 × 21 = 42 V.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A current of 2 A flows through a 2 Ω resistor. Find the p.d. across it.",
+  "options": [
+   "1 V",
+   "2 V",
+   "4 V",
+   "8 V"
+  ],
+  "answer": 2,
+  "explanation": "V = IR = 2 × 2 = 4 V.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A current of 9 A flows through a 22 Ω resistor. Find the p.d. across it.",
+  "options": [
+   "99 V",
+   "198 V",
+   "396 V",
+   "31 V"
+  ],
+  "answer": 1,
+  "explanation": "V = IR = 9 × 22 = 198 V.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A current of 6 A flows through a 14 Ω resistor. Find the p.d. across it.",
+  "options": [
+   "168 V",
+   "42 V",
+   "84 V",
+   "20 V"
+  ],
+  "answer": 2,
+  "explanation": "V = IR = 6 × 14 = 84 V.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A current of 5 A flows through a 4 Ω resistor. Find the p.d. across it.",
+  "options": [
+   "40 V",
+   "20 V",
+   "9 V",
+   "0.8 V"
+  ],
+  "answer": 1,
+  "explanation": "V = IR = 5 × 4 = 20 V.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A current of 9 A flows through a 6 Ω resistor. Find the p.d. across it.",
+  "options": [
+   "27 V",
+   "54 V",
+   "15 V",
+   "108 V"
+  ],
+  "answer": 1,
+  "explanation": "V = IR = 9 × 6 = 54 V.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A current of 4 A flows through a 23 Ω resistor. Find the p.d. across it.",
+  "options": [
+   "27 V",
+   "184 V",
+   "92 V",
+   "5.75 V"
+  ],
+  "answer": 2,
+  "explanation": "V = IR = 4 × 23 = 92 V.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A current of 8 A flows through a 14 Ω resistor. Find the p.d. across it.",
+  "options": [
+   "1.75 V",
+   "112 V",
+   "224 V",
+   "22 V"
+  ],
+  "answer": 1,
+  "explanation": "V = IR = 8 × 14 = 112 V.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A p.d. of 6 V is applied across a 6 Ω resistor. Find the current.",
+  "options": [
+   "1 A",
+   "6 A",
+   "2 A",
+   "36 A"
+  ],
+  "answer": 0,
+  "explanation": "I = V/R = 6 ÷ 6 = 1 A.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A p.d. of 51 V is applied across a 17 Ω resistor. Find the current.",
+  "options": [
+   "4 A",
+   "3 A",
+   "51 A",
+   "867 A"
+  ],
+  "answer": 1,
+  "explanation": "I = V/R = 51 ÷ 17 = 3 A.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A p.d. of 80 V is applied across a 20 Ω resistor. Find the current.",
+  "options": [
+   "4 A",
+   "1600 A",
+   "0.25 A",
+   "5 A"
+  ],
+  "answer": 0,
+  "explanation": "I = V/R = 80 ÷ 20 = 4 A.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A p.d. of 60 V is applied across a 10 Ω resistor. Find the current.",
+  "options": [
+   "60 A",
+   "600 A",
+   "6 A",
+   "7 A"
+  ],
+  "answer": 2,
+  "explanation": "I = V/R = 60 ÷ 10 = 6 A.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A p.d. of 91 V is applied across a 13 Ω resistor. Find the current.",
+  "options": [
+   "1183 A",
+   "8 A",
+   "7 A",
+   "91 A"
+  ],
+  "answer": 2,
+  "explanation": "I = V/R = 91 ÷ 13 = 7 A.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A p.d. of 40 V is applied across a 8 Ω resistor. Find the current.",
+  "options": [
+   "6 A",
+   "5 A",
+   "320 A",
+   "0.2 A"
+  ],
+  "answer": 1,
+  "explanation": "I = V/R = 40 ÷ 8 = 5 A.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A p.d. of 192 V is applied across a 24 Ω resistor. Find the current.",
+  "options": [
+   "8 A",
+   "4608 A",
+   "9 A",
+   "192 A"
+  ],
+  "answer": 0,
+  "explanation": "I = V/R = 192 ÷ 24 = 8 A.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A p.d. of 46 V is applied across a 23 Ω resistor. Find the current.",
+  "options": [
+   "2 A",
+   "1058 A",
+   "0.5 A",
+   "3 A"
+  ],
+  "answer": 0,
+  "explanation": "I = V/R = 46 ÷ 23 = 2 A.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A current of 4 A flows when 36 V is applied across a conductor. Find its resistance.",
+  "options": [
+   "144 Ω",
+   "36 Ω",
+   "9 Ω",
+   "13 Ω"
+  ],
+  "answer": 2,
+  "explanation": "R = V/I = 36 ÷ 4 = 9 Ω.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A current of 3 A flows when 33 V is applied across a conductor. Find its resistance.",
+  "options": [
+   "14 Ω",
+   "99 Ω",
+   "11 Ω",
+   "33 Ω"
+  ],
+  "answer": 2,
+  "explanation": "R = V/I = 33 ÷ 3 = 11 Ω.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A current of 2 A flows when 26 V is applied across a conductor. Find its resistance.",
+  "options": [
+   "26 Ω",
+   "13 Ω",
+   "15 Ω",
+   "52 Ω"
+  ],
+  "answer": 1,
+  "explanation": "R = V/I = 26 ÷ 2 = 13 Ω.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A current of 6 A flows when 48 V is applied across a conductor. Find its resistance.",
+  "options": [
+   "288 Ω",
+   "48 Ω",
+   "14 Ω",
+   "8 Ω"
+  ],
+  "answer": 3,
+  "explanation": "R = V/I = 48 ÷ 6 = 8 Ω.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A current of 2 A flows when 10 V is applied across a conductor. Find its resistance.",
+  "options": [
+   "20 Ω",
+   "7 Ω",
+   "0.2 Ω",
+   "5 Ω"
+  ],
+  "answer": 3,
+  "explanation": "R = V/I = 10 ÷ 2 = 5 Ω.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "A current of 5 A flows when 40 V is applied across a conductor. Find its resistance.",
+  "options": [
+   "8 Ω",
+   "13 Ω",
+   "40 Ω",
+   "200 Ω"
+  ],
+  "answer": 0,
+  "explanation": "R = V/I = 40 ÷ 5 = 8 Ω.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Resistors of 2 Ω, 9 Ω, 11 Ω are connected in series. Find the total resistance.",
+  "options": [
+   "11 Ω",
+   "1.4 Ω",
+   "44 Ω",
+   "22 Ω"
+  ],
+  "answer": 3,
+  "explanation": "In series, R = 2 + 9 + 11 = 22 Ω.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Resistors of 10 Ω, 5 Ω, 6 Ω are connected in series. Find the total resistance.",
+  "options": [
+   "42 Ω",
+   "21 Ω",
+   "15 Ω",
+   "2.1 Ω"
+  ],
+  "answer": 1,
+  "explanation": "In series, R = 10 + 5 + 6 = 21 Ω.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Resistors of 16 Ω, 3 Ω, 14 Ω are connected in series. Find the total resistance.",
+  "options": [
+   "33 Ω",
+   "2.1 Ω",
+   "66 Ω",
+   "19 Ω"
+  ],
+  "answer": 0,
+  "explanation": "In series, R = 16 + 3 + 14 = 33 Ω.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Resistors of 3 Ω, 9 Ω, 14 Ω are connected in series. Find the total resistance.",
+  "options": [
+   "1.9 Ω",
+   "26 Ω",
+   "12 Ω",
+   "52 Ω"
+  ],
+  "answer": 1,
+  "explanation": "In series, R = 3 + 9 + 14 = 26 Ω.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Resistors of 16 Ω, 15 Ω, 15 Ω are connected in series. Find the total resistance.",
+  "options": [
+   "31 Ω",
+   "5.1 Ω",
+   "46 Ω",
+   "92 Ω"
+  ],
+  "answer": 2,
+  "explanation": "In series, R = 16 + 15 + 15 = 46 Ω.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Resistors of 2 Ω, 17 Ω, 2 Ω are connected in series. Find the total resistance.",
+  "options": [
+   "21 Ω",
+   "19 Ω",
+   "42 Ω",
+   "0.9 Ω"
+  ],
+  "answer": 0,
+  "explanation": "In series, R = 2 + 17 + 2 = 21 Ω.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Resistors of 5 Ω, 6 Ω, 2 Ω are connected in series. Find the total resistance.",
+  "options": [
+   "26 Ω",
+   "11 Ω",
+   "13 Ω",
+   "1.2 Ω"
+  ],
+  "answer": 2,
+  "explanation": "In series, R = 5 + 6 + 2 = 13 Ω.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Resistors of 11 Ω, 11 Ω, 1 Ω are connected in series. Find the total resistance.",
+  "options": [
+   "23 Ω",
+   "0.8 Ω",
+   "22 Ω",
+   "46 Ω"
+  ],
+  "answer": 0,
+  "explanation": "In series, R = 11 + 11 + 1 = 23 Ω.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Resistors of 5 Ω, 3 Ω, 7 Ω are connected in series. Find the total resistance.",
+  "options": [
+   "1.5 Ω",
+   "8 Ω",
+   "15 Ω",
+   "30 Ω"
+  ],
+  "answer": 2,
+  "explanation": "In series, R = 5 + 3 + 7 = 15 Ω.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Resistors of 16 Ω, 19 Ω, 7 Ω are connected in series. Find the total resistance.",
+  "options": [
+   "35 Ω",
+   "84 Ω",
+   "3.9 Ω",
+   "42 Ω"
+  ],
+  "answer": 3,
+  "explanation": "In series, R = 16 + 19 + 7 = 42 Ω.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Two resistors of 2 Ω and 2 Ω are connected in parallel. Find the effective resistance.",
+  "options": [
+   "4 Ω",
+   "0 Ω",
+   "1 Ω",
+   "2 Ω"
+  ],
+  "answer": 2,
+  "explanation": "1/R = 1/2 + 1/2 ⇒ R = (2 × 2)/(2 + 2) = 1 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Two resistors of 3 Ω and 6 Ω are connected in parallel. Find the effective resistance.",
+  "options": [
+   "18 Ω",
+   "9 Ω",
+   "4.5 Ω",
+   "2 Ω"
+  ],
+  "answer": 3,
+  "explanation": "1/R = 1/3 + 1/6 ⇒ R = (3 × 6)/(3 + 6) = 2 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Two resistors of 4 Ω and 4 Ω are connected in parallel. Find the effective resistance.",
+  "options": [
+   "4 Ω",
+   "16 Ω",
+   "8 Ω",
+   "2 Ω"
+  ],
+  "answer": 3,
+  "explanation": "1/R = 1/4 + 1/4 ⇒ R = (4 × 4)/(4 + 4) = 2 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Two resistors of 6 Ω and 12 Ω are connected in parallel. Find the effective resistance.",
+  "options": [
+   "9 Ω",
+   "18 Ω",
+   "72 Ω",
+   "4 Ω"
+  ],
+  "answer": 3,
+  "explanation": "1/R = 1/6 + 1/12 ⇒ R = (6 × 12)/(6 + 12) = 4 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Two resistors of 4 Ω and 12 Ω are connected in parallel. Find the effective resistance.",
+  "options": [
+   "8 Ω",
+   "3 Ω",
+   "48 Ω",
+   "16 Ω"
+  ],
+  "answer": 1,
+  "explanation": "1/R = 1/4 + 1/12 ⇒ R = (4 × 12)/(4 + 12) = 3 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Two resistors of 10 Ω and 15 Ω are connected in parallel. Find the effective resistance.",
+  "options": [
+   "12.5 Ω",
+   "6 Ω",
+   "150 Ω",
+   "25 Ω"
+  ],
+  "answer": 1,
+  "explanation": "1/R = 1/10 + 1/15 ⇒ R = (10 × 15)/(10 + 15) = 6 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Two resistors of 20 Ω and 30 Ω are connected in parallel. Find the effective resistance.",
+  "options": [
+   "50 Ω",
+   "12 Ω",
+   "25 Ω",
+   "600 Ω"
+  ],
+  "answer": 1,
+  "explanation": "1/R = 1/20 + 1/30 ⇒ R = (20 × 30)/(20 + 30) = 12 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Two resistors of 8 Ω and 8 Ω are connected in parallel. Find the effective resistance.",
+  "options": [
+   "16 Ω",
+   "4 Ω",
+   "64 Ω",
+   "8 Ω"
+  ],
+  "answer": 1,
+  "explanation": "1/R = 1/8 + 1/8 ⇒ R = (8 × 8)/(8 + 8) = 4 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Two resistors of 10 Ω and 10 Ω are connected in parallel. Find the effective resistance.",
+  "options": [
+   "20 Ω",
+   "5 Ω",
+   "100 Ω",
+   "10 Ω"
+  ],
+  "answer": 1,
+  "explanation": "1/R = 1/10 + 1/10 ⇒ R = (10 × 10)/(10 + 10) = 5 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Two resistors of 5 Ω and 20 Ω are connected in parallel. Find the effective resistance.",
+  "options": [
+   "100 Ω",
+   "4 Ω",
+   "25 Ω",
+   "12.5 Ω"
+  ],
+  "answer": 1,
+  "explanation": "1/R = 1/5 + 1/20 ⇒ R = (5 × 20)/(5 + 20) = 4 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Two resistors of 9 Ω and 18 Ω are connected in parallel. Find the effective resistance.",
+  "options": [
+   "162 Ω",
+   "6 Ω",
+   "27 Ω",
+   "13.5 Ω"
+  ],
+  "answer": 1,
+  "explanation": "1/R = 1/9 + 1/18 ⇒ R = (9 × 18)/(9 + 18) = 6 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Two resistors of 12 Ω and 24 Ω are connected in parallel. Find the effective resistance.",
+  "options": [
+   "18 Ω",
+   "36 Ω",
+   "288 Ω",
+   "8 Ω"
+  ],
+  "answer": 3,
+  "explanation": "1/R = 1/12 + 1/24 ⇒ R = (12 × 24)/(12 + 24) = 8 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Two resistors of 6 Ω and 3 Ω are connected in parallel. Find the effective resistance.",
+  "options": [
+   "18 Ω",
+   "2 Ω",
+   "4.5 Ω",
+   "9 Ω"
+  ],
+  "answer": 1,
+  "explanation": "1/R = 1/6 + 1/3 ⇒ R = (6 × 3)/(6 + 3) = 2 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Current electricity",
+  "body": "Two resistors of 30 Ω and 60 Ω are connected in parallel. Find the effective resistance.",
+  "options": [
+   "1800 Ω",
+   "45 Ω",
+   "90 Ω",
+   "20 Ω"
+  ],
+  "answer": 3,
+  "explanation": "1/R = 1/30 + 1/60 ⇒ R = (30 × 60)/(30 + 60) = 20 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "An appliance draws 10 A from a 220 V supply. Find its power.",
+  "options": [
+   "22 W",
+   "230 W",
+   "22,000 W",
+   "2200 W"
+  ],
+  "answer": 3,
+  "explanation": "P = VI = 220 × 10 = 2200 W.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "An appliance draws 5 A from a 6 V supply. Find its power.",
+  "options": [
+   "30 W",
+   "1.2 W",
+   "150 W",
+   "11 W"
+  ],
+  "answer": 0,
+  "explanation": "P = VI = 6 × 5 = 30 W.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "An appliance draws 10 A from a 240 V supply. Find its power.",
+  "options": [
+   "2400 W",
+   "24,000 W",
+   "24 W",
+   "250 W"
+  ],
+  "answer": 0,
+  "explanation": "P = VI = 240 × 10 = 2400 W.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "An appliance draws 9 A from a 220 V supply. Find its power.",
+  "options": [
+   "990 W",
+   "17,820 W",
+   "229 W",
+   "1980 W"
+  ],
+  "answer": 3,
+  "explanation": "P = VI = 220 × 9 = 1980 W.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "An appliance draws 1 A from a 6 V supply. Find its power.",
+  "options": [
+   "5 W",
+   "3 W",
+   "7 W",
+   "6 W"
+  ],
+  "answer": 3,
+  "explanation": "P = VI = 6 × 1 = 6 W.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "An appliance draws 1 A from a 110 V supply. Find its power.",
+  "options": [
+   "110 W",
+   "55 W",
+   "121 W",
+   "111 W"
+  ],
+  "answer": 0,
+  "explanation": "P = VI = 110 × 1 = 110 W.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "An appliance draws 4 A from a 12 V supply. Find its power.",
+  "options": [
+   "48 W",
+   "192 W",
+   "3 W",
+   "16 W"
+  ],
+  "answer": 0,
+  "explanation": "P = VI = 12 × 4 = 48 W.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "An appliance draws 10 A from a 110 V supply. Find its power.",
+  "options": [
+   "11,000 W",
+   "120 W",
+   "11 W",
+   "1100 W"
+  ],
+  "answer": 3,
+  "explanation": "P = VI = 110 × 10 = 1100 W.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "An appliance draws 6 A from a 12 V supply. Find its power.",
+  "options": [
+   "432 W",
+   "72 W",
+   "18 W",
+   "2 W"
+  ],
+  "answer": 1,
+  "explanation": "P = VI = 12 × 6 = 72 W.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "An appliance draws 5 A from a 220 V supply. Find its power.",
+  "options": [
+   "5500 W",
+   "44 W",
+   "225 W",
+   "1100 W"
+  ],
+  "answer": 3,
+  "explanation": "P = VI = 220 × 5 = 1100 W.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "An appliance draws 7 A from a 240 V supply. Find its power.",
+  "options": [
+   "247 W",
+   "1680 W",
+   "840 W",
+   "11,760 W"
+  ],
+  "answer": 1,
+  "explanation": "P = VI = 240 × 7 = 1680 W.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "An appliance draws 3 A from a 12 V supply. Find its power.",
+  "options": [
+   "36 W",
+   "4 W",
+   "15 W",
+   "108 W"
+  ],
+  "answer": 0,
+  "explanation": "P = VI = 12 × 3 = 36 W.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "A 2000 W pressing iron is used for 6 hours. If electricity costs ₦100 per kWh, find the cost.",
+  "options": [
+   "₦1,200,000",
+   "₦12,000",
+   "₦1200",
+   "₦12"
+  ],
+  "answer": 2,
+  "explanation": "Energy = 2000 × 6 / 1000 = 12 kWh. Cost = 12 × ₦100 = ₦1200.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "A 500 W pressing iron is used for 2 hours. If electricity costs ₦100 per kWh, find the cost.",
+  "options": [
+   "₦100",
+   "₦1",
+   "₦1000",
+   "₦100,000"
+  ],
+  "answer": 0,
+  "explanation": "Energy = 500 × 2 / 1000 = 1 kWh. Cost = 1 × ₦100 = ₦100.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "A 100 W pressing iron is used for 9 hours. If electricity costs ₦68 per kWh, find the cost.",
+  "options": [
+   "₦61.2",
+   "₦61,200",
+   "₦0.9",
+   "₦612"
+  ],
+  "answer": 0,
+  "explanation": "Energy = 100 × 9 / 1000 = 0.9 kWh. Cost = 0.9 × ₦68 = ₦61.2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "A 500 W pressing iron is used for 5 hours. If electricity costs ₦100 per kWh, find the cost.",
+  "options": [
+   "₦250,000",
+   "₦250",
+   "₦2500",
+   "₦2.5"
+  ],
+  "answer": 1,
+  "explanation": "Energy = 500 × 5 / 1000 = 2.5 kWh. Cost = 2.5 × ₦100 = ₦250.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "A 1500 W pressing iron is used for 10 hours. If electricity costs ₦50 per kWh, find the cost.",
+  "options": [
+   "₦15",
+   "₦750",
+   "₦750,000",
+   "₦7500"
+  ],
+  "answer": 1,
+  "explanation": "Energy = 1500 × 10 / 1000 = 15 kWh. Cost = 15 × ₦50 = ₦750.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "A 500 W pressing iron is used for 8 hours. If electricity costs ₦50 per kWh, find the cost.",
+  "options": [
+   "₦200",
+   "₦2000",
+   "₦4",
+   "₦200,000"
+  ],
+  "answer": 0,
+  "explanation": "Energy = 500 × 8 / 1000 = 4 kWh. Cost = 4 × ₦50 = ₦200.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "A 2000 W pressing iron is used for 6 hours. If electricity costs ₦68 per kWh, find the cost.",
+  "options": [
+   "₦12",
+   "₦816",
+   "₦8160",
+   "₦816,000"
+  ],
+  "answer": 1,
+  "explanation": "Energy = 2000 × 6 / 1000 = 12 kWh. Cost = 12 × ₦68 = ₦816.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "A 1500 W pressing iron is used for 6 hours. If electricity costs ₦100 per kWh, find the cost.",
+  "options": [
+   "₦900,000",
+   "₦9000",
+   "₦9",
+   "₦900"
+  ],
+  "answer": 3,
+  "explanation": "Energy = 1500 × 6 / 1000 = 9 kWh. Cost = 9 × ₦100 = ₦900.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "A 1000 W pressing iron is used for 9 hours. If electricity costs ₦25 per kWh, find the cost.",
+  "options": [
+   "₦9",
+   "₦225,000",
+   "₦225",
+   "₦2250"
+  ],
+  "answer": 2,
+  "explanation": "Energy = 1000 × 9 / 1000 = 9 kWh. Cost = 9 × ₦25 = ₦225.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Electrical power",
+  "body": "A 2500 W pressing iron is used for 9 hours. If electricity costs ₦68 per kWh, find the cost.",
+  "options": [
+   "₦1530",
+   "₦15,300",
+   "₦1,530,000",
+   "₦22.5"
+  ],
+  "answer": 0,
+  "explanation": "Energy = 2500 × 9 / 1000 = 22.5 kWh. Cost = 22.5 × ₦68 = ₦1530.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "A wave has a frequency of 1000 Hz and a wavelength of 2 m. Find its speed.",
+  "options": [
+   "1002 m/s",
+   "4000 m/s",
+   "500 m/s",
+   "2000 m/s"
+  ],
+  "answer": 3,
+  "explanation": "v = fλ = 1000 × 2 = 2000 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "A wave has a frequency of 100 Hz and a wavelength of 1.5 m. Find its speed.",
+  "options": [
+   "101.5 m/s",
+   "300 m/s",
+   "165 m/s",
+   "150 m/s"
+  ],
+  "answer": 3,
+  "explanation": "v = fλ = 100 × 1.5 = 150 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "A wave has a frequency of 20 Hz and a wavelength of 0.2 m. Find its speed.",
+  "options": [
+   "20.2 m/s",
+   "4 m/s",
+   "100 m/s",
+   "0.01 m/s"
+  ],
+  "answer": 1,
+  "explanation": "v = fλ = 20 × 0.2 = 4 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "A wave has a frequency of 200 Hz and a wavelength of 4 m. Find its speed.",
+  "options": [
+   "0.02 m/s",
+   "800 m/s",
+   "204 m/s",
+   "50 m/s"
+  ],
+  "answer": 1,
+  "explanation": "v = fλ = 200 × 4 = 800 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "A wave has a frequency of 400 Hz and a wavelength of 2 m. Find its speed.",
+  "options": [
+   "800 m/s",
+   "402 m/s",
+   "200 m/s",
+   "1600 m/s"
+  ],
+  "answer": 0,
+  "explanation": "v = fλ = 400 × 2 = 800 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "A wave has a frequency of 500 Hz and a wavelength of 0.5 m. Find its speed.",
+  "options": [
+   "500.5 m/s",
+   "1000 m/s",
+   "250 m/s",
+   "500 m/s"
+  ],
+  "answer": 2,
+  "explanation": "v = fλ = 500 × 0.5 = 250 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "A wave has a frequency of 1000 Hz and a wavelength of 1 m. Find its speed.",
+  "options": [
+   "1000 m/s",
+   "1001 m/s",
+   "1100 m/s",
+   "2000 m/s"
+  ],
+  "answer": 0,
+  "explanation": "v = fλ = 1000 × 1 = 1000 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "A wave has a frequency of 50 Hz and a wavelength of 1.5 m. Find its speed.",
+  "options": [
+   "75 m/s",
+   "0.03 m/s",
+   "51.5 m/s",
+   "150 m/s"
+  ],
+  "answer": 0,
+  "explanation": "v = fλ = 50 × 1.5 = 75 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "A wave has a frequency of 1000 Hz and a wavelength of 1.5 m. Find its speed.",
+  "options": [
+   "3000 m/s",
+   "1500 m/s",
+   "1650 m/s",
+   "1001.5 m/s"
+  ],
+  "answer": 1,
+  "explanation": "v = fλ = 1000 × 1.5 = 1500 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "A wave has a frequency of 250 Hz and a wavelength of 0.2 m. Find its speed.",
+  "options": [
+   "1250 m/s",
+   "50 m/s",
+   "250.2 m/s",
+   "100 m/s"
+  ],
+  "answer": 1,
+  "explanation": "v = fλ = 250 × 0.2 = 50 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "A wave has a frequency of 1000 Hz and a wavelength of 0.5 m. Find its speed.",
+  "options": [
+   "1000 m/s",
+   "1000.5 m/s",
+   "500 m/s",
+   "2000 m/s"
+  ],
+  "answer": 2,
+  "explanation": "v = fλ = 1000 × 0.5 = 500 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "A wave has a frequency of 50 Hz and a wavelength of 0.2 m. Find its speed.",
+  "options": [
+   "10 m/s",
+   "20 m/s",
+   "250 m/s",
+   "50.2 m/s"
+  ],
+  "answer": 0,
+  "explanation": "v = fλ = 50 × 0.2 = 10 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "A wave has a frequency of 100 Hz and a wavelength of 0.5 m. Find its speed.",
+  "options": [
+   "50 m/s",
+   "200 m/s",
+   "100 m/s",
+   "100.5 m/s"
+  ],
+  "answer": 0,
+  "explanation": "v = fλ = 100 × 0.5 = 50 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "A wave has a frequency of 100 Hz and a wavelength of 4 m. Find its speed.",
+  "options": [
+   "400 m/s",
+   "0.04 m/s",
+   "25 m/s",
+   "104 m/s"
+  ],
+  "answer": 0,
+  "explanation": "v = fλ = 100 × 4 = 400 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "Sound travels at 340 m/s in a medium. Find the wavelength of a 20 Hz note in it.",
+  "options": [
+   "6800 m",
+   "34 m",
+   "8.5 m",
+   "17 m"
+  ],
+  "answer": 3,
+  "explanation": "λ = v/f = 340 ÷ 20 = 17 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "Sound travels at 330 m/s in a medium. Find the wavelength of a 200 Hz note in it.",
+  "options": [
+   "3.3 m",
+   "2.65 m",
+   "1.65 m",
+   "66,000 m"
+  ],
+  "answer": 2,
+  "explanation": "λ = v/f = 330 ÷ 200 = 1.65 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "Sound travels at 1500 m/s in a medium. Find the wavelength of a 10 Hz note in it.",
+  "options": [
+   "150 m",
+   "300 m",
+   "15,000 m",
+   "75 m"
+  ],
+  "answer": 0,
+  "explanation": "λ = v/f = 1500 ÷ 10 = 150 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "Sound travels at 1500 m/s in a medium. Find the wavelength of a 50 Hz note in it.",
+  "options": [
+   "30 m",
+   "60 m",
+   "75,000 m",
+   "15 m"
+  ],
+  "answer": 0,
+  "explanation": "λ = v/f = 1500 ÷ 50 = 30 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "Sound travels at 1500 m/s in a medium. Find the wavelength of a 100 Hz note in it.",
+  "options": [
+   "15 m",
+   "150,000 m",
+   "7.5 m",
+   "30 m"
+  ],
+  "answer": 0,
+  "explanation": "λ = v/f = 1500 ÷ 100 = 15 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "Sound travels at 1500 m/s in a medium. Find the wavelength of a 500 Hz note in it.",
+  "options": [
+   "1.5 m",
+   "6 m",
+   "3 m",
+   "750,000 m"
+  ],
+  "answer": 2,
+  "explanation": "λ = v/f = 1500 ÷ 500 = 3 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "Sound travels at 330 m/s in a medium. Find the wavelength of a 50 Hz note in it.",
+  "options": [
+   "6.6 m",
+   "3.3 m",
+   "13.2 m",
+   "16,500 m"
+  ],
+  "answer": 0,
+  "explanation": "λ = v/f = 330 ÷ 50 = 6.6 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "Sound travels at 330 m/s in a medium. Find the wavelength of a 100 Hz note in it.",
+  "options": [
+   "6.6 m",
+   "1.65 m",
+   "33,000 m",
+   "3.3 m"
+  ],
+  "answer": 3,
+  "explanation": "λ = v/f = 330 ÷ 100 = 3.3 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "Find the period of a wave of frequency 5 Hz.",
+  "options": [
+   "0.4 s",
+   "0.2 s",
+   "0.1 s",
+   "5 s"
+  ],
+  "answer": 1,
+  "explanation": "T = 1/f = 1/5 = 0.2 s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "Find the period of a wave of frequency 4 Hz.",
+  "options": [
+   "0.5 s",
+   "0.4 s",
+   "0.25 s",
+   "4 s"
+  ],
+  "answer": 2,
+  "explanation": "T = 1/f = 1/4 = 0.25 s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "Find the period of a wave of frequency 20 Hz.",
+  "options": [
+   "0.1 s",
+   "0.05 s",
+   "2 s",
+   "20 s"
+  ],
+  "answer": 1,
+  "explanation": "T = 1/f = 1/20 = 0.05 s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "Find the period of a wave of frequency 50 Hz.",
+  "options": [
+   "0.01 s",
+   "0.02 s",
+   "50 s",
+   "0.04 s"
+  ],
+  "answer": 1,
+  "explanation": "T = 1/f = 1/50 = 0.02 s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "Find the period of a wave of frequency 10 Hz.",
+  "options": [
+   "0.05 s",
+   "0.2 s",
+   "10 s",
+   "0.1 s"
+  ],
+  "answer": 3,
+  "explanation": "T = 1/f = 1/10 = 0.1 s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Waves",
+  "body": "Find the period of a wave of frequency 2 Hz.",
+  "options": [
+   "1 s",
+   "0.25 s",
+   "2 s",
+   "0.5 s"
+  ],
+  "answer": 3,
+  "explanation": "T = 1/f = 1/2 = 0.5 s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Heat",
+  "body": "How much heat is needed to raise the temperature of 3 kg of water by 20 °C? (c = 4200 J/kg K)",
+  "options": [
+   "252,000 J",
+   "84,000 J",
+   "12,600 J",
+   "25,200 J"
+  ],
+  "answer": 0,
+  "explanation": "Q = mcΔθ = 3 × 4200 × 20 = 252,000 J.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Heat",
+  "body": "How much heat is needed to raise the temperature of 5 kg of water by 20 °C? (c = 4200 J/kg K)",
+  "options": [
+   "420,000 J",
+   "21,000 J",
+   "42,000 J",
+   "84,000 J"
+  ],
+  "answer": 0,
+  "explanation": "Q = mcΔθ = 5 × 4200 × 20 = 420,000 J.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Heat",
+  "body": "How much heat is needed to raise the temperature of 1 kg of water by 30 °C? (c = 4200 J/kg K)",
+  "options": [
+   "4200 J",
+   "252,000 J",
+   "12,600 J",
+   "126,000 J"
+  ],
+  "answer": 3,
+  "explanation": "Q = mcΔθ = 1 × 4200 × 30 = 126,000 J.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Heat",
+  "body": "How much heat is needed to raise the temperature of 1 kg of water by 20 °C? (c = 4200 J/kg K)",
+  "options": [
+   "8400 J",
+   "168,000 J",
+   "84,000 J",
+   "4200 J"
+  ],
+  "answer": 2,
+  "explanation": "Q = mcΔθ = 1 × 4200 × 20 = 84,000 J.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Heat",
+  "body": "How much heat is needed to raise the temperature of 2 kg of water by 30 °C? (c = 4200 J/kg K)",
+  "options": [
+   "126,000 J",
+   "8400 J",
+   "252,000 J",
+   "25,200 J"
+  ],
+  "answer": 2,
+  "explanation": "Q = mcΔθ = 2 × 4200 × 30 = 252,000 J.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Heat",
+  "body": "How much heat is needed to raise the temperature of 5 kg of water by 35 °C? (c = 4200 J/kg K)",
+  "options": [
+   "73,500 J",
+   "735,000 J",
+   "147,000 J",
+   "21,000 J"
+  ],
+  "answer": 1,
+  "explanation": "Q = mcΔθ = 5 × 4200 × 35 = 735,000 J.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Heat",
+  "body": "How much heat is needed to raise the temperature of 3 kg of water by 30 °C? (c = 4200 J/kg K)",
+  "options": [
+   "126,000 J",
+   "12,600 J",
+   "37,800 J",
+   "378,000 J"
+  ],
+  "answer": 3,
+  "explanation": "Q = mcΔθ = 3 × 4200 × 30 = 378,000 J.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Heat",
+  "body": "How much heat is needed to raise the temperature of 5 kg of water by 30 °C? (c = 4200 J/kg K)",
+  "options": [
+   "21,000 J",
+   "63,000 J",
+   "630,000 J",
+   "126,000 J"
+  ],
+  "answer": 2,
+  "explanation": "Q = mcΔθ = 5 × 4200 × 30 = 630,000 J.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Heat",
+  "body": "How much heat is needed to raise the temperature of 3 kg of water by 35 °C? (c = 4200 J/kg K)",
+  "options": [
+   "44,100 J",
+   "441,000 J",
+   "147,000 J",
+   "12,600 J"
+  ],
+  "answer": 1,
+  "explanation": "Q = mcΔθ = 3 × 4200 × 35 = 441,000 J.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Heat",
+  "body": "How much heat is needed to raise the temperature of 2 kg of water by 25 °C? (c = 4200 J/kg K)",
+  "options": [
+   "210,000 J",
+   "8400 J",
+   "105,000 J",
+   "21,000 J"
+  ],
+  "answer": 0,
+  "explanation": "Q = mcΔθ = 2 × 4200 × 25 = 210,000 J.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Heat",
+  "body": "Convert 74 °C to kelvin.",
+  "options": [
+   "199 K",
+   "447 K",
+   "174 K",
+   "347 K"
+  ],
+  "answer": 3,
+  "explanation": "T(K) = θ(°C) + 273 = 74 + 273 = 347 K.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Heat",
+  "body": "Convert 129 °C to kelvin.",
+  "options": [
+   "229 K",
+   "502 K",
+   "144 K",
+   "402 K"
+  ],
+  "answer": 3,
+  "explanation": "T(K) = θ(°C) + 273 = 129 + 273 = 402 K.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Heat",
+  "body": "Convert 132 °C to kelvin.",
+  "options": [
+   "505 K",
+   "405 K",
+   "141 K",
+   "232 K"
+  ],
+  "answer": 1,
+  "explanation": "T(K) = θ(°C) + 273 = 132 + 273 = 405 K.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Heat",
+  "body": "Convert 105 °C to kelvin.",
+  "options": [
+   "378 K",
+   "478 K",
+   "168 K",
+   "205 K"
+  ],
+  "answer": 0,
+  "explanation": "T(K) = θ(°C) + 273 = 105 + 273 = 378 K.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Heat",
+  "body": "Convert 47 °C to kelvin.",
+  "options": [
+   "420 K",
+   "147 K",
+   "320 K",
+   "226 K"
+  ],
+  "answer": 2,
+  "explanation": "T(K) = θ(°C) + 273 = 47 + 273 = 320 K.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Heat",
+  "body": "Convert -21 °C to kelvin.",
+  "options": [
+   "294 K",
+   "252 K",
+   "79 K",
+   "352 K"
+  ],
+  "answer": 1,
+  "explanation": "T(K) = θ(°C) + 273 = -21 + 273 = 252 K.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Heat",
+  "body": "Convert 43 °C to kelvin.",
+  "options": [
+   "316 K",
+   "416 K",
+   "230 K",
+   "143 K"
+  ],
+  "answer": 0,
+  "explanation": "T(K) = θ(°C) + 273 = 43 + 273 = 316 K.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Heat",
+  "body": "Convert -5 °C to kelvin.",
+  "options": [
+   "278 K",
+   "368 K",
+   "95 K",
+   "268 K"
+  ],
+  "answer": 3,
+  "explanation": "T(K) = θ(°C) + 273 = -5 + 273 = 268 K.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Optics",
+  "body": "An object is 10 cm from a lens and its image is 20 cm from the lens. Find the magnification.",
+  "options": [
+   "0.5",
+   "30",
+   "3",
+   "2"
+  ],
+  "answer": 3,
+  "explanation": "m = v/u = 20/10 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Optics",
+  "body": "An object is 10 cm from a lens and its image is 5 cm from the lens. Find the magnification.",
+  "options": [
+   "1.5",
+   "2",
+   "0.5",
+   "15"
+  ],
+  "answer": 2,
+  "explanation": "m = v/u = 5/10 = 0.5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Optics",
+  "body": "An object is 45 cm from a lens and its image is 90 cm from the lens. Find the magnification.",
+  "options": [
+   "0.5",
+   "2",
+   "3",
+   "135"
+  ],
+  "answer": 1,
+  "explanation": "m = v/u = 90/45 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Optics",
+  "body": "An object is 15 cm from a lens and its image is 60 cm from the lens. Find the magnification.",
+  "options": [
+   "4",
+   "0.25",
+   "75",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "m = v/u = 60/15 = 4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Optics",
+  "body": "An object is 20 cm from a lens and its image is 40 cm from the lens. Find the magnification.",
+  "options": [
+   "2",
+   "3",
+   "0.5",
+   "60"
+  ],
+  "answer": 0,
+  "explanation": "m = v/u = 40/20 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Optics",
+  "body": "An object is 25 cm from a lens and its image is 50 cm from the lens. Find the magnification.",
+  "options": [
+   "3",
+   "2",
+   "75",
+   "0.5"
+  ],
+  "answer": 1,
+  "explanation": "m = v/u = 50/25 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Optics",
+  "body": "An object is 35 cm from a lens and its image is 70 cm from the lens. Find the magnification.",
+  "options": [
+   "3",
+   "105",
+   "2",
+   "0.5"
+  ],
+  "answer": 2,
+  "explanation": "m = v/u = 70/35 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Optics",
+  "body": "An object is 45 cm from a lens and its image is 180 cm from the lens. Find the magnification.",
+  "options": [
+   "5",
+   "0.25",
+   "225",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": "m = v/u = 180/45 = 4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Radioactivity",
+  "body": "A radioactive sample of mass 80 g has a half-life of 12 days. What mass remains after 24 days?",
+  "options": [
+   "40 g",
+   "10 g",
+   "20 g",
+   "60 g"
+  ],
+  "answer": 2,
+  "explanation": "24 days = 2 half-lives. Remaining = 80 × (½)^2 = 20 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Radioactivity",
+  "body": "A radioactive sample of mass 64 g has a half-life of 12 days. What mass remains after 36 days?",
+  "options": [
+   "56 g",
+   "9 g",
+   "4 g",
+   "8 g"
+  ],
+  "answer": 3,
+  "explanation": "36 days = 3 half-lives. Remaining = 64 × (½)^3 = 8 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Radioactivity",
+  "body": "A radioactive sample of mass 200 g has a half-life of 24 days. What mass remains after 48 days?",
+  "options": [
+   "150 g",
+   "100 g",
+   "50 g",
+   "25 g"
+  ],
+  "answer": 2,
+  "explanation": "48 days = 2 half-lives. Remaining = 200 × (½)^2 = 50 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Radioactivity",
+  "body": "A radioactive sample of mass 64 g has a half-life of 12 days. What mass remains after 12 days?",
+  "options": [
+   "64 g",
+   "32 g",
+   "35 g",
+   "16 g"
+  ],
+  "answer": 1,
+  "explanation": "12 days = 1 half-lives. Remaining = 64 × (½)^1 = 32 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Radioactivity",
+  "body": "A radioactive sample of mass 64 g has a half-life of 2 days. What mass remains after 2 days?",
+  "options": [
+   "64 g",
+   "16 g",
+   "35 g",
+   "32 g"
+  ],
+  "answer": 3,
+  "explanation": "2 days = 1 half-lives. Remaining = 64 × (½)^1 = 32 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Radioactivity",
+  "body": "A radioactive sample of mass 128 g has a half-life of 2 days. What mass remains after 2 days?",
+  "options": [
+   "32 g",
+   "64 g",
+   "70 g",
+   "128 g"
+  ],
+  "answer": 1,
+  "explanation": "2 days = 1 half-lives. Remaining = 128 × (½)^1 = 64 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Radioactivity",
+  "body": "A radioactive sample of mass 64 g has a half-life of 3 days. What mass remains after 9 days?",
+  "options": [
+   "8 g",
+   "56 g",
+   "4 g",
+   "9 g"
+  ],
+  "answer": 0,
+  "explanation": "9 days = 3 half-lives. Remaining = 64 × (½)^3 = 8 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Radioactivity",
+  "body": "A radioactive sample of mass 16 g has a half-life of 2 days. What mass remains after 2 days?",
+  "options": [
+   "4 g",
+   "9 g",
+   "8 g",
+   "16 g"
+  ],
+  "answer": 2,
+  "explanation": "2 days = 1 half-lives. Remaining = 16 × (½)^1 = 8 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Radioactivity",
+  "body": "A radioactive sample of mass 128 g has a half-life of 2 days. What mass remains after 6 days?",
+  "options": [
+   "18 g",
+   "112 g",
+   "16 g",
+   "8 g"
+  ],
+  "answer": 2,
+  "explanation": "6 days = 3 half-lives. Remaining = 128 × (½)^3 = 16 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Radioactivity",
+  "body": "A radioactive sample of mass 200 g has a half-life of 3 days. What mass remains after 9 days?",
+  "options": [
+   "28 g",
+   "25 g",
+   "12.5 g",
+   "175 g"
+  ],
+  "answer": 1,
+  "explanation": "9 days = 3 half-lives. Remaining = 200 × (½)^3 = 25 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of force?",
+  "options": [
+   "candela (cd)",
+   "joule per kilogram kelvin (J/kg K)",
+   "coulomb (C)",
+   "newton (N)"
+  ],
+  "answer": 3,
+  "explanation": "The SI unit of force is the newton (N).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of work?",
+  "options": [
+   "pascal (Pa)",
+   "joule (J)",
+   "metre per second squared (m/s²)",
+   "watt (W)"
+  ],
+  "answer": 1,
+  "explanation": "The SI unit of work is the joule (J).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of power?",
+  "options": [
+   "joule (J)",
+   "joule per kilogram kelvin (J/kg K)",
+   "watt (W)",
+   "hertz (Hz)"
+  ],
+  "answer": 2,
+  "explanation": "The SI unit of power is the watt (W).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of pressure?",
+  "options": [
+   "joule (J)",
+   "ampere (A)",
+   "pascal (Pa)",
+   "kilogram (kg)"
+  ],
+  "answer": 2,
+  "explanation": "The SI unit of pressure is the pascal (Pa).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of electric charge?",
+  "options": [
+   "coulomb (C)",
+   "kilogram per cubic metre (kg/m³)",
+   "kelvin (K)",
+   "metre per second squared (m/s²)"
+  ],
+  "answer": 0,
+  "explanation": "The SI unit of electric charge is the coulomb (C).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of electric current?",
+  "options": [
+   "ampere (A)",
+   "pascal (Pa)",
+   "coulomb (C)",
+   "henry (H)"
+  ],
+  "answer": 0,
+  "explanation": "The SI unit of electric current is the ampere (A).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of potential difference?",
+  "options": [
+   "volt (V)",
+   "watt (W)",
+   "kilogram metre per second (kg m/s)",
+   "ohm (Ω)"
+  ],
+  "answer": 0,
+  "explanation": "The SI unit of potential difference is the volt (V).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of resistance?",
+  "options": [
+   "newton second (N s)",
+   "kilogram per cubic metre (kg/m³)",
+   "joule per kilogram kelvin (J/kg K)",
+   "ohm (Ω)"
+  ],
+  "answer": 3,
+  "explanation": "The SI unit of resistance is the ohm (Ω).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of frequency?",
+  "options": [
+   "hertz (Hz)",
+   "weber (Wb)",
+   "joule per kilogram kelvin (J/kg K)",
+   "coulomb (C)"
+  ],
+  "answer": 0,
+  "explanation": "The SI unit of frequency is the hertz (Hz).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of mass?",
+  "options": [
+   "hertz (Hz)",
+   "joule per kilogram kelvin (J/kg K)",
+   "joule (J)",
+   "kilogram (kg)"
+  ],
+  "answer": 3,
+  "explanation": "The SI unit of mass is the kilogram (kg).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of thermodynamic temperature?",
+  "options": [
+   "kilogram (kg)",
+   "kelvin (K)",
+   "kilogram per cubic metre (kg/m³)",
+   "watt (W)"
+  ],
+  "answer": 1,
+  "explanation": "The SI unit of thermodynamic temperature is the kelvin (K).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of amount of substance?",
+  "options": [
+   "kilogram (kg)",
+   "hertz (Hz)",
+   "mole (mol)",
+   "watt (W)"
+  ],
+  "answer": 2,
+  "explanation": "The SI unit of amount of substance is the mole (mol).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of luminous intensity?",
+  "options": [
+   "candela (cd)",
+   "farad (F)",
+   "joule (J)",
+   "ampere (A)"
+  ],
+  "answer": 0,
+  "explanation": "The SI unit of luminous intensity is the candela (cd).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of magnetic flux?",
+  "options": [
+   "weber (Wb)",
+   "ohm (Ω)",
+   "candela (cd)",
+   "ampere (A)"
+  ],
+  "answer": 0,
+  "explanation": "The SI unit of magnetic flux is the weber (Wb).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of magnetic flux density?",
+  "options": [
+   "tesla (T)",
+   "weber (Wb)",
+   "metre per second squared (m/s²)",
+   "henry (H)"
+  ],
+  "answer": 0,
+  "explanation": "The SI unit of magnetic flux density is the tesla (T).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of capacitance?",
+  "options": [
+   "farad (F)",
+   "mole (mol)",
+   "watt (W)",
+   "hertz (Hz)"
+  ],
+  "answer": 0,
+  "explanation": "The SI unit of capacitance is the farad (F).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of inductance?",
+  "options": [
+   "henry (H)",
+   "hertz (Hz)",
+   "kilogram (kg)",
+   "pascal (Pa)"
+  ],
+  "answer": 0,
+  "explanation": "The SI unit of inductance is the henry (H).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of momentum?",
+  "options": [
+   "tesla (T)",
+   "kilogram metre per second (kg m/s)",
+   "newton second (N s)",
+   "kelvin (K)"
+  ],
+  "answer": 1,
+  "explanation": "The SI unit of momentum is the kilogram metre per second (kg m/s).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of acceleration?",
+  "options": [
+   "newton (N)",
+   "metre per second squared (m/s²)",
+   "ampere (A)",
+   "volt (V)"
+  ],
+  "answer": 1,
+  "explanation": "The SI unit of acceleration is the metre per second squared (m/s²).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of density?",
+  "options": [
+   "tesla (T)",
+   "kilogram per cubic metre (kg/m³)",
+   "ohm (Ω)",
+   "volt (V)"
+  ],
+  "answer": 1,
+  "explanation": "The SI unit of density is the kilogram per cubic metre (kg/m³).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of specific heat capacity?",
+  "options": [
+   "joule per kilogram kelvin (J/kg K)",
+   "ampere (A)",
+   "candela (cd)",
+   "volt (V)"
+  ],
+  "answer": 0,
+  "explanation": "The SI unit of specific heat capacity is the joule per kilogram kelvin (J/kg K).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Units",
+  "body": "What is the SI unit of impulse?",
+  "options": [
+   "newton second (N s)",
+   "joule (J)",
+   "hertz (Hz)",
+   "kelvin (K)"
+  ],
+  "answer": 0,
+  "explanation": "The SI unit of impulse is the newton second (N s).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Scalars and vectors",
+  "body": "Velocity is best described as",
+  "options": [
+   "a vector — it has magnitude and direction",
+   "a vector — it has magnitude only",
+   "a scalar — it has magnitude only",
+   "a scalar — it has magnitude and direction"
+  ],
+  "answer": 0,
+  "explanation": "Velocity has both size and direction, so it is a vector.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Scalars and vectors",
+  "body": "Acceleration is best described as",
+  "options": [
+   "a vector — it has magnitude and direction",
+   "a vector — it has magnitude only",
+   "a scalar — it has magnitude and direction",
+   "a scalar — it has magnitude only"
+  ],
+  "answer": 0,
+  "explanation": "Acceleration has both size and direction, so it is a vector.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Scalars and vectors",
+  "body": "Force is best described as",
+  "options": [
+   "a scalar — it has magnitude only",
+   "a scalar — it has magnitude and direction",
+   "a vector — it has magnitude only",
+   "a vector — it has magnitude and direction"
+  ],
+  "answer": 3,
+  "explanation": "Force has both size and direction, so it is a vector.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Scalars and vectors",
+  "body": "Displacement is best described as",
+  "options": [
+   "a scalar — it has magnitude and direction",
+   "a vector — it has magnitude only",
+   "a scalar — it has magnitude only",
+   "a vector — it has magnitude and direction"
+  ],
+  "answer": 3,
+  "explanation": "Displacement has both size and direction, so it is a vector.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Scalars and vectors",
+  "body": "Momentum is best described as",
+  "options": [
+   "a vector — it has magnitude and direction",
+   "a vector — it has magnitude only",
+   "a scalar — it has magnitude and direction",
+   "a scalar — it has magnitude only"
+  ],
+  "answer": 0,
+  "explanation": "Momentum has both size and direction, so it is a vector.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Scalars and vectors",
+  "body": "Weight is best described as",
+  "options": [
+   "a scalar — it has magnitude and direction",
+   "a vector — it has magnitude and direction",
+   "a vector — it has magnitude only",
+   "a scalar — it has magnitude only"
+  ],
+  "answer": 1,
+  "explanation": "Weight has both size and direction, so it is a vector.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Scalars and vectors",
+  "body": "Electric field strength is best described as",
+  "options": [
+   "a scalar — it has magnitude and direction",
+   "a vector — it has magnitude only",
+   "a scalar — it has magnitude only",
+   "a vector — it has magnitude and direction"
+  ],
+  "answer": 3,
+  "explanation": "Electric field strength has both size and direction, so it is a vector.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Scalars and vectors",
+  "body": "Impulse is best described as",
+  "options": [
+   "a vector — it has magnitude only",
+   "a scalar — it has magnitude only",
+   "a vector — it has magnitude and direction",
+   "a scalar — it has magnitude and direction"
+  ],
+  "answer": 2,
+  "explanation": "Impulse has both size and direction, so it is a vector.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Scalars and vectors",
+  "body": "Speed is best described as",
+  "options": [
+   "a vector — it has magnitude only",
+   "a scalar — it has magnitude only",
+   "a vector — it has magnitude and direction",
+   "a scalar — it has magnitude and direction"
+  ],
+  "answer": 1,
+  "explanation": "Speed has size only, no direction, so it is a scalar.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Scalars and vectors",
+  "body": "Mass is best described as",
+  "options": [
+   "a vector — it has magnitude only",
+   "a scalar — it has magnitude and direction",
+   "a scalar — it has magnitude only",
+   "a vector — it has magnitude and direction"
+  ],
+  "answer": 2,
+  "explanation": "Mass has size only, no direction, so it is a scalar.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Scalars and vectors",
+  "body": "Energy is best described as",
+  "options": [
+   "a vector — it has magnitude and direction",
+   "a scalar — it has magnitude and direction",
+   "a vector — it has magnitude only",
+   "a scalar — it has magnitude only"
+  ],
+  "answer": 3,
+  "explanation": "Energy has size only, no direction, so it is a scalar.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Scalars and vectors",
+  "body": "Distance is best described as",
+  "options": [
+   "a vector — it has magnitude and direction",
+   "a scalar — it has magnitude and direction",
+   "a vector — it has magnitude only",
+   "a scalar — it has magnitude only"
+  ],
+  "answer": 3,
+  "explanation": "Distance has size only, no direction, so it is a scalar.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Scalars and vectors",
+  "body": "Time is best described as",
+  "options": [
+   "a scalar — it has magnitude only",
+   "a vector — it has magnitude only",
+   "a vector — it has magnitude and direction",
+   "a scalar — it has magnitude and direction"
+  ],
+  "answer": 0,
+  "explanation": "Time has size only, no direction, so it is a scalar.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Scalars and vectors",
+  "body": "Temperature is best described as",
+  "options": [
+   "a vector — it has magnitude and direction",
+   "a scalar — it has magnitude and direction",
+   "a vector — it has magnitude only",
+   "a scalar — it has magnitude only"
+  ],
+  "answer": 3,
+  "explanation": "Temperature has size only, no direction, so it is a scalar.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Scalars and vectors",
+  "body": "Work is best described as",
+  "options": [
+   "a vector — it has magnitude only",
+   "a scalar — it has magnitude and direction",
+   "a vector — it has magnitude and direction",
+   "a scalar — it has magnitude only"
+  ],
+  "answer": 3,
+  "explanation": "Work has size only, no direction, so it is a scalar.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Scalars and vectors",
+  "body": "Power is best described as",
+  "options": [
+   "a scalar — it has magnitude only",
+   "a scalar — it has magnitude and direction",
+   "a vector — it has magnitude and direction",
+   "a vector — it has magnitude only"
+  ],
+  "answer": 0,
+  "explanation": "Power has size only, no direction, so it is a scalar.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Scalars and vectors",
+  "body": "Density is best described as",
+  "options": [
+   "a scalar — it has magnitude and direction",
+   "a scalar — it has magnitude only",
+   "a vector — it has magnitude and direction",
+   "a vector — it has magnitude only"
+  ],
+  "answer": 1,
+  "explanation": "Density has size only, no direction, so it is a scalar.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHY",
+  "topic": "Scalars and vectors",
+  "body": "Volume is best described as",
+  "options": [
+   "a vector — it has magnitude and direction",
+   "a scalar — it has magnitude only",
+   "a vector — it has magnitude only",
+   "a scalar — it has magnitude and direction"
+  ],
+  "answer": 1,
+  "explanation": "Volume has size only, no direction, so it is a scalar.",
+  "difficulty": 1
+ }
+]

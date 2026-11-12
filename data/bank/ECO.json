@@ -1,0 +1,4370 @@
+[
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "When the price of a good rises by 40%, quantity demanded falls by 60%. Find the price elasticity of demand (ignore the sign).",
+  "options": [
+   "100",
+   "15",
+   "20",
+   "1.5"
+  ],
+  "answer": 3,
+  "explanation": "PED = % change in Qd ÷ % change in P = 60 ÷ 40 = 1.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "When the price of a good rises by 25%, quantity demanded falls by 62.5%. Find the price elasticity of demand (ignore the sign).",
+  "options": [
+   "0.4",
+   "2.5",
+   "87.5",
+   "37.5"
+  ],
+  "answer": 1,
+  "explanation": "PED = % change in Qd ÷ % change in P = 62.5 ÷ 25 = 2.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "When the price of a good rises by 20%, quantity demanded falls by 30%. Find the price elasticity of demand (ignore the sign).",
+  "options": [
+   "10",
+   "50",
+   "15",
+   "1.5"
+  ],
+  "answer": 3,
+  "explanation": "PED = % change in Qd ÷ % change in P = 30 ÷ 20 = 1.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "When the price of a good rises by 10%, quantity demanded falls by 10%. Find the price elasticity of demand (ignore the sign).",
+  "options": [
+   "10",
+   "20",
+   "0",
+   "1"
+  ],
+  "answer": 3,
+  "explanation": "PED = % change in Qd ÷ % change in P = 10 ÷ 10 = 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "When the price of a good rises by 25%, quantity demanded falls by 37.5%. Find the price elasticity of demand (ignore the sign).",
+  "options": [
+   "1.5",
+   "62.5",
+   "15",
+   "12.5"
+  ],
+  "answer": 0,
+  "explanation": "PED = % change in Qd ÷ % change in P = 37.5 ÷ 25 = 1.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "When the price of a good rises by 10%, quantity demanded falls by 20%. Find the price elasticity of demand (ignore the sign).",
+  "options": [
+   "10",
+   "0.5",
+   "30",
+   "2"
+  ],
+  "answer": 3,
+  "explanation": "PED = % change in Qd ÷ % change in P = 20 ÷ 10 = 2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "When the price of a good rises by 40%, quantity demanded falls by 32%. Find the price elasticity of demand (ignore the sign).",
+  "options": [
+   "72",
+   "0.8",
+   "1.25",
+   "8"
+  ],
+  "answer": 1,
+  "explanation": "PED = % change in Qd ÷ % change in P = 32 ÷ 40 = 0.8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "When the price of a good rises by 40%, quantity demanded falls by 100%. Find the price elasticity of demand (ignore the sign).",
+  "options": [
+   "0.4",
+   "140",
+   "60",
+   "2.5"
+  ],
+  "answer": 3,
+  "explanation": "PED = % change in Qd ÷ % change in P = 100 ÷ 40 = 2.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "When the price of a good rises by 25%, quantity demanded falls by 50%. Find the price elasticity of demand (ignore the sign).",
+  "options": [
+   "75",
+   "0.5",
+   "25",
+   "2"
+  ],
+  "answer": 3,
+  "explanation": "PED = % change in Qd ÷ % change in P = 50 ÷ 25 = 2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "When the price of a good rises by 5%, quantity demanded falls by 10%. Find the price elasticity of demand (ignore the sign).",
+  "options": [
+   "0.5",
+   "5",
+   "2",
+   "15"
+  ],
+  "answer": 2,
+  "explanation": "PED = % change in Qd ÷ % change in P = 10 ÷ 5 = 2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "When the price of a good rises by 10%, quantity demanded falls by 4%. Find the price elasticity of demand (ignore the sign).",
+  "options": [
+   "2.5",
+   "14",
+   "4",
+   "0.4"
+  ],
+  "answer": 3,
+  "explanation": "PED = % change in Qd ÷ % change in P = 4 ÷ 10 = 0.4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "When the price of a good rises by 5%, quantity demanded falls by 2%. Find the price elasticity of demand (ignore the sign).",
+  "options": [
+   "7",
+   "2.5",
+   "4",
+   "0.4"
+  ],
+  "answer": 3,
+  "explanation": "PED = % change in Qd ÷ % change in P = 2 ÷ 5 = 0.4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "When the price of a good rises by 10%, quantity demanded falls by 2%. Find the price elasticity of demand (ignore the sign).",
+  "options": [
+   "12",
+   "2",
+   "5",
+   "0.2"
+  ],
+  "answer": 3,
+  "explanation": "PED = % change in Qd ÷ % change in P = 2 ÷ 10 = 0.2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "When the price of a good rises by 50%, quantity demanded falls by 25%. Find the price elasticity of demand (ignore the sign).",
+  "options": [
+   "5",
+   "2",
+   "0.5",
+   "75"
+  ],
+  "answer": 2,
+  "explanation": "PED = % change in Qd ÷ % change in P = 25 ÷ 50 = 0.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "When the price of a good rises by 10%, quantity demanded falls by 15%. Find the price elasticity of demand (ignore the sign).",
+  "options": [
+   "1.5",
+   "15",
+   "25",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "PED = % change in Qd ÷ % change in P = 15 ÷ 10 = 1.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "Demand for a good has a price elasticity of 0. Demand is",
+  "options": [
+   "perfectly inelastic",
+   "elastic",
+   "inelastic",
+   "unitary elastic"
+  ],
+  "answer": 0,
+  "explanation": "PED = 0: perfectly inelastic; < 1: inelastic; = 1: unitary; > 1: elastic.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "Demand for a good has a price elasticity of 0.3. Demand is",
+  "options": [
+   "perfectly inelastic",
+   "elastic",
+   "unitary elastic",
+   "inelastic"
+  ],
+  "answer": 3,
+  "explanation": "PED = 0: perfectly inelastic; < 1: inelastic; = 1: unitary; > 1: elastic.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "Demand for a good has a price elasticity of 0.5. Demand is",
+  "options": [
+   "unitary elastic",
+   "elastic",
+   "perfectly inelastic",
+   "inelastic"
+  ],
+  "answer": 3,
+  "explanation": "PED = 0: perfectly inelastic; < 1: inelastic; = 1: unitary; > 1: elastic.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "Demand for a good has a price elasticity of 0.8. Demand is",
+  "options": [
+   "inelastic",
+   "unitary elastic",
+   "perfectly inelastic",
+   "elastic"
+  ],
+  "answer": 0,
+  "explanation": "PED = 0: perfectly inelastic; < 1: inelastic; = 1: unitary; > 1: elastic.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "Demand for a good has a price elasticity of 1. Demand is",
+  "options": [
+   "elastic",
+   "inelastic",
+   "unitary elastic",
+   "perfectly inelastic"
+  ],
+  "answer": 2,
+  "explanation": "PED = 0: perfectly inelastic; < 1: inelastic; = 1: unitary; > 1: elastic.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "Demand for a good has a price elasticity of 1.6. Demand is",
+  "options": [
+   "perfectly inelastic",
+   "unitary elastic",
+   "inelastic",
+   "elastic"
+  ],
+  "answer": 3,
+  "explanation": "PED = 0: perfectly inelastic; < 1: inelastic; = 1: unitary; > 1: elastic.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "Demand for a good has a price elasticity of 2. Demand is",
+  "options": [
+   "elastic",
+   "unitary elastic",
+   "inelastic",
+   "perfectly inelastic"
+  ],
+  "answer": 0,
+  "explanation": "PED = 0: perfectly inelastic; < 1: inelastic; = 1: unitary; > 1: elastic.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "Demand for a good has a price elasticity of 3.5. Demand is",
+  "options": [
+   "elastic",
+   "inelastic",
+   "perfectly inelastic",
+   "unitary elastic"
+  ],
+  "answer": 0,
+  "explanation": "PED = 0: perfectly inelastic; < 1: inelastic; = 1: unitary; > 1: elastic.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Elasticity",
+  "body": "Demand for a good has a price elasticity of 4. Demand is",
+  "options": [
+   "elastic",
+   "unitary elastic",
+   "inelastic",
+   "perfectly inelastic"
+  ],
+  "answer": 0,
+  "explanation": "PED = 0: perfectly inelastic; < 1: inelastic; = 1: unitary; > 1: elastic.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "A firm sells 12 units at ₦200 each. Find its total revenue.",
+  "options": [
+   "₦212",
+   "₦4800",
+   "₦2400",
+   "₦2200"
+  ],
+  "answer": 2,
+  "explanation": "TR = P × Q = 200 × 12 = ₦2400.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "A firm sells 5 units at ₦300 each. Find its total revenue.",
+  "options": [
+   "₦305",
+   "₦3000",
+   "₦60",
+   "₦1500"
+  ],
+  "answer": 3,
+  "explanation": "TR = P × Q = 300 × 5 = ₦1500.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "A firm sells 56 units at ₦700 each. Find its total revenue.",
+  "options": [
+   "₦756",
+   "₦39,200",
+   "₦12.5",
+   "₦78,400"
+  ],
+  "answer": 1,
+  "explanation": "TR = P × Q = 700 × 56 = ₦39,200.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "A firm sells 34 units at ₦250 each. Find its total revenue.",
+  "options": [
+   "₦8500",
+   "₦8250",
+   "₦17,000",
+   "₦284"
+  ],
+  "answer": 0,
+  "explanation": "TR = P × Q = 250 × 34 = ₦8500.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "A firm sells 27 units at ₦1900 each. Find its total revenue.",
+  "options": [
+   "₦49,400",
+   "₦102,600",
+   "₦51,300",
+   "₦1927"
+  ],
+  "answer": 2,
+  "explanation": "TR = P × Q = 1900 × 27 = ₦51,300.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "A firm sells 14 units at ₦450 each. Find its total revenue.",
+  "options": [
+   "₦12,600",
+   "₦464",
+   "₦5850",
+   "₦6300"
+  ],
+  "answer": 3,
+  "explanation": "TR = P × Q = 450 × 14 = ₦6300.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "A firm sells 5 units at ₦1750 each. Find its total revenue.",
+  "options": [
+   "₦1755",
+   "₦17,500",
+   "₦8750",
+   "₦350"
+  ],
+  "answer": 2,
+  "explanation": "TR = P × Q = 1750 × 5 = ₦8750.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "A firm sells 39 units at ₦1050 each. Find its total revenue.",
+  "options": [
+   "₦39,900",
+   "₦40,950",
+   "₦1089",
+   "₦81,900"
+  ],
+  "answer": 1,
+  "explanation": "TR = P × Q = 1050 × 39 = ₦40,950.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "A firm sells 10 units at ₦300 each. Find its total revenue.",
+  "options": [
+   "₦30",
+   "₦3000",
+   "₦310",
+   "₦6000"
+  ],
+  "answer": 1,
+  "explanation": "TR = P × Q = 300 × 10 = ₦3000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "A firm sells 37 units at ₦1750 each. Find its total revenue.",
+  "options": [
+   "₦63,000",
+   "₦1787",
+   "₦129,500",
+   "₦64,750"
+  ],
+  "answer": 3,
+  "explanation": "TR = P × Q = 1750 × 37 = ₦64,750.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "The total cost of producing 22 units is ₦880. Find the average cost.",
+  "options": [
+   "₦858",
+   "₦40",
+   "₦19,360",
+   "₦60"
+  ],
+  "answer": 1,
+  "explanation": "AC = TC ÷ Q = 880 ÷ 22 = ₦40.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "The total cost of producing 32 units is ₦1920. Find the average cost.",
+  "options": [
+   "₦61,440",
+   "₦80",
+   "₦60",
+   "₦1888"
+  ],
+  "answer": 2,
+  "explanation": "AC = TC ÷ Q = 1920 ÷ 32 = ₦60.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "The total cost of producing 31 units is ₦10,540. Find the average cost.",
+  "options": [
+   "₦360",
+   "₦340",
+   "₦326,740",
+   "₦10,509"
+  ],
+  "answer": 1,
+  "explanation": "AC = TC ÷ Q = 10540 ÷ 31 = ₦340.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "The total cost of producing 42 units is ₦15,120. Find the average cost.",
+  "options": [
+   "₦15,078",
+   "₦380",
+   "₦635,040",
+   "₦360"
+  ],
+  "answer": 3,
+  "explanation": "AC = TC ÷ Q = 15120 ÷ 42 = ₦360.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "The total cost of producing 50 units is ₦20,000. Find the average cost.",
+  "options": [
+   "₦19,950",
+   "₦1,000,000",
+   "₦400",
+   "₦420"
+  ],
+  "answer": 2,
+  "explanation": "AC = TC ÷ Q = 20000 ÷ 50 = ₦400.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "The total cost of producing 32 units is ₦17,920. Find the average cost.",
+  "options": [
+   "₦17,888",
+   "₦560",
+   "₦580",
+   "₦573,440"
+  ],
+  "answer": 1,
+  "explanation": "AC = TC ÷ Q = 17920 ÷ 32 = ₦560.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "The total cost of producing 16 units is ₦6080. Find the average cost.",
+  "options": [
+   "₦400",
+   "₦6064",
+   "₦380",
+   "₦97,280"
+  ],
+  "answer": 2,
+  "explanation": "AC = TC ÷ Q = 6080 ÷ 16 = ₦380.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "The total cost of producing 47 units is ₦28,200. Find the average cost.",
+  "options": [
+   "₦620",
+   "₦28,153",
+   "₦600",
+   "₦1,325,400"
+  ],
+  "answer": 2,
+  "explanation": "AC = TC ÷ Q = 28200 ÷ 47 = ₦600.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "The total cost of producing 7 units is ₦280. Find the average cost.",
+  "options": [
+   "₦1960",
+   "₦40",
+   "₦273",
+   "₦60"
+  ],
+  "answer": 1,
+  "explanation": "AC = TC ÷ Q = 280 ÷ 7 = ₦40.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "The total cost of producing 36 units is ₦18,720. Find the average cost.",
+  "options": [
+   "₦673,920",
+   "₦520",
+   "₦540",
+   "₦18,684"
+  ],
+  "answer": 1,
+  "explanation": "AC = TC ÷ Q = 18720 ÷ 36 = ₦520.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "Total cost rises from ₦2820 at 18 units to ₦3050 at 19 units. Find the marginal cost of the 19th unit.",
+  "options": [
+   "₦253",
+   "₦460",
+   "₦3050",
+   "₦230"
+  ],
+  "answer": 3,
+  "explanation": "MC = change in TC = 3050 − 2820 = ₦230.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "Total cost rises from ₦3990 at 7 units to ₦4070 at 8 units. Find the marginal cost of the 8th unit.",
+  "options": [
+   "₦80",
+   "₦4070",
+   "₦570",
+   "₦508.75"
+  ],
+  "answer": 0,
+  "explanation": "MC = change in TC = 4070 − 3990 = ₦80.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "Total cost rises from ₦3190 at 11 units to ₦3420 at 12 units. Find the marginal cost of the 12th unit.",
+  "options": [
+   "₦290",
+   "₦285",
+   "₦230",
+   "₦3420"
+  ],
+  "answer": 2,
+  "explanation": "MC = change in TC = 3420 − 3190 = ₦230.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "Total cost rises from ₦2500 at 39 units to ₦2890 at 40 units. Find the marginal cost of the 40th unit.",
+  "options": [
+   "₦2890",
+   "₦390",
+   "₦780",
+   "₦72.25"
+  ],
+  "answer": 1,
+  "explanation": "MC = change in TC = 2890 − 2500 = ₦390.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "Total cost rises from ₦3590 at 15 units to ₦3800 at 16 units. Find the marginal cost of the 16th unit.",
+  "options": [
+   "₦237.5",
+   "₦210",
+   "₦3800",
+   "₦420"
+  ],
+  "answer": 1,
+  "explanation": "MC = change in TC = 3800 − 3590 = ₦210.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "Total cost rises from ₦3190 at 17 units to ₦3530 at 18 units. Find the marginal cost of the 18th unit.",
+  "options": [
+   "₦374",
+   "₦3530",
+   "₦340",
+   "₦680"
+  ],
+  "answer": 2,
+  "explanation": "MC = change in TC = 3530 − 3190 = ₦340.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "Total cost rises from ₦1140 at 15 units to ₦1230 at 16 units. Find the marginal cost of the 16th unit.",
+  "options": [
+   "₦1230",
+   "₦180",
+   "₦76",
+   "₦90"
+  ],
+  "answer": 3,
+  "explanation": "MC = change in TC = 1230 − 1140 = ₦90.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "Total cost rises from ₦1850 at 10 units to ₦2190 at 11 units. Find the marginal cost of the 11th unit.",
+  "options": [
+   "₦680",
+   "₦185",
+   "₦340",
+   "₦2190"
+  ],
+  "answer": 2,
+  "explanation": "MC = change in TC = 2190 − 1850 = ₦340.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "Total cost rises from ₦660 at 31 units to ₦920 at 32 units. Find the marginal cost of the 32th unit.",
+  "options": [
+   "₦520",
+   "₦260",
+   "₦920",
+   "₦28.75"
+  ],
+  "answer": 1,
+  "explanation": "MC = change in TC = 920 − 660 = ₦260.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "Total cost rises from ₦2820 at 25 units to ₦3210 at 26 units. Find the marginal cost of the 26th unit.",
+  "options": [
+   "₦780",
+   "₦112.8",
+   "₦390",
+   "₦3210"
+  ],
+  "answer": 2,
+  "explanation": "MC = change in TC = 3210 − 2820 = ₦390.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "A firm's total revenue is ₦5000 and its total cost is ₦4300. The firm makes a",
+  "options": [
+   "loss of ₦700",
+   "profit of ₦700",
+   "profit of ₦1400",
+   "profit of ₦9300"
+  ],
+  "answer": 1,
+  "explanation": "Profit = TR − TC = 5000 − 4300 = 700.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "A firm's total revenue is ₦5500 and its total cost is ₦4200. The firm makes a",
+  "options": [
+   "profit of ₦2600",
+   "profit of ₦1300",
+   "profit of ₦9700",
+   "loss of ₦1300"
+  ],
+  "answer": 1,
+  "explanation": "Profit = TR − TC = 5500 − 4200 = 1300.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "A firm's total revenue is ₦2700 and its total cost is ₦800. The firm makes a",
+  "options": [
+   "loss of ₦1900",
+   "profit of ₦1900",
+   "profit of ₦3500",
+   "profit of ₦3800"
+  ],
+  "answer": 1,
+  "explanation": "Profit = TR − TC = 2700 − 800 = 1900.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "A firm's total revenue is ₦12,600 and its total cost is ₦10,400. The firm makes a",
+  "options": [
+   "loss of ₦2200",
+   "profit of ₦2200",
+   "profit of ₦23,000",
+   "profit of ₦4400"
+  ],
+  "answer": 1,
+  "explanation": "Profit = TR − TC = 12600 − 10400 = 2200.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "A firm's total revenue is ₦6500 and its total cost is ₦2500. The firm makes a",
+  "options": [
+   "profit of ₦9000",
+   "loss of ₦4000",
+   "profit of ₦4000",
+   "profit of ₦8000"
+  ],
+  "answer": 2,
+  "explanation": "Profit = TR − TC = 6500 − 2500 = 4000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "A firm's total revenue is ₦12,500 and its total cost is ₦12,200. The firm makes a",
+  "options": [
+   "profit of ₦300",
+   "loss of ₦300",
+   "profit of ₦600",
+   "profit of ₦24,700"
+  ],
+  "answer": 0,
+  "explanation": "Profit = TR − TC = 12500 − 12200 = 300.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "A firm's total revenue is ₦13,400 and its total cost is ₦12,900. The firm makes a",
+  "options": [
+   "profit of ₦1000",
+   "profit of ₦26,300",
+   "loss of ₦500",
+   "profit of ₦500"
+  ],
+  "answer": 3,
+  "explanation": "Profit = TR − TC = 13400 − 12900 = 500.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "A firm's total revenue is ₦11,200 and its total cost is ₦9100. The firm makes a",
+  "options": [
+   "loss of ₦2100",
+   "profit of ₦4200",
+   "profit of ₦2100",
+   "profit of ₦20,300"
+  ],
+  "answer": 2,
+  "explanation": "Profit = TR − TC = 11200 − 9100 = 2100.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "A firm's total revenue is ₦17,600 and its total cost is ₦18,200. The firm makes a",
+  "options": [
+   "loss of ₦600",
+   "profit of ₦600",
+   "profit of ₦1200",
+   "profit of ₦35,800"
+  ],
+  "answer": 0,
+  "explanation": "Profit = TR − TC = 17600 − 18200 = -600.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Theory of the firm",
+  "body": "A firm's total revenue is ₦19,100 and its total cost is ₦13,700. The firm makes a",
+  "options": [
+   "profit of ₦10,800",
+   "loss of ₦5400",
+   "profit of ₦32,800",
+   "profit of ₦5400"
+  ],
+  "answer": 3,
+  "explanation": "Profit = TR − TC = 19100 − 13700 = 5400.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Production",
+  "body": "2 workers produce a total of 36 units. Find the average product of labour.",
+  "options": [
+   "34 units",
+   "19 units",
+   "18 units",
+   "72 units"
+  ],
+  "answer": 2,
+  "explanation": "AP = TP ÷ L = 36 ÷ 2 = 18.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Production",
+  "body": "2 workers produce a total of 28 units. Find the average product of labour.",
+  "options": [
+   "15 units",
+   "56 units",
+   "14 units",
+   "26 units"
+  ],
+  "answer": 2,
+  "explanation": "AP = TP ÷ L = 28 ÷ 2 = 14.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Production",
+  "body": "11 workers produce a total of 66 units. Find the average product of labour.",
+  "options": [
+   "7 units",
+   "6 units",
+   "55 units",
+   "726 units"
+  ],
+  "answer": 1,
+  "explanation": "AP = TP ÷ L = 66 ÷ 11 = 6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Production",
+  "body": "3 workers produce a total of 63 units. Find the average product of labour.",
+  "options": [
+   "189 units",
+   "22 units",
+   "60 units",
+   "21 units"
+  ],
+  "answer": 3,
+  "explanation": "AP = TP ÷ L = 63 ÷ 3 = 21.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Production",
+  "body": "5 workers produce a total of 45 units. Find the average product of labour.",
+  "options": [
+   "9 units",
+   "10 units",
+   "40 units",
+   "225 units"
+  ],
+  "answer": 0,
+  "explanation": "AP = TP ÷ L = 45 ÷ 5 = 9.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Production",
+  "body": "5 workers produce a total of 60 units. Find the average product of labour.",
+  "options": [
+   "12 units",
+   "300 units",
+   "13 units",
+   "55 units"
+  ],
+  "answer": 0,
+  "explanation": "AP = TP ÷ L = 60 ÷ 5 = 12.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Production",
+  "body": "11 workers produce a total of 110 units. Find the average product of labour.",
+  "options": [
+   "10 units",
+   "1210 units",
+   "11 units",
+   "99 units"
+  ],
+  "answer": 0,
+  "explanation": "AP = TP ÷ L = 110 ÷ 11 = 10.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Production",
+  "body": "9 workers produce a total of 144 units. Find the average product of labour.",
+  "options": [
+   "1296 units",
+   "17 units",
+   "135 units",
+   "16 units"
+  ],
+  "answer": 3,
+  "explanation": "AP = TP ÷ L = 144 ÷ 9 = 16.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Production",
+  "body": "6 workers produce a total of 78 units. Find the average product of labour.",
+  "options": [
+   "13 units",
+   "14 units",
+   "468 units",
+   "72 units"
+  ],
+  "answer": 0,
+  "explanation": "AP = TP ÷ L = 78 ÷ 6 = 13.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Production",
+  "body": "7 workers produce a total of 77 units. Find the average product of labour.",
+  "options": [
+   "11 units",
+   "70 units",
+   "12 units",
+   "539 units"
+  ],
+  "answer": 0,
+  "explanation": "AP = TP ÷ L = 77 ÷ 7 = 11.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Production",
+  "body": "Total product rises from 79 to 88 units when the number of workers increases from 4 to 5. Find the marginal product of the last worker.",
+  "options": [
+   "9 units",
+   "17.6 units",
+   "19.75 units",
+   "88 units"
+  ],
+  "answer": 0,
+  "explanation": "MP = change in TP ÷ change in L = 9 ÷ 1 = 9.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Production",
+  "body": "Total product rises from 37 to 51 units when the number of workers increases from 9 to 10. Find the marginal product of the last worker.",
+  "options": [
+   "5.1 units",
+   "15 units",
+   "51 units",
+   "14 units"
+  ],
+  "answer": 3,
+  "explanation": "MP = change in TP ÷ change in L = 14 ÷ 1 = 14.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Production",
+  "body": "Total product rises from 48 to 62 units when the number of workers increases from 3 to 4. Find the marginal product of the last worker.",
+  "options": [
+   "15.5 units",
+   "16 units",
+   "14 units",
+   "62 units"
+  ],
+  "answer": 2,
+  "explanation": "MP = change in TP ÷ change in L = 14 ÷ 1 = 14.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Production",
+  "body": "Total product rises from 29 to 40 units when the number of workers increases from 7 to 8. Find the marginal product of the last worker.",
+  "options": [
+   "12 units",
+   "5 units",
+   "40 units",
+   "11 units"
+  ],
+  "answer": 3,
+  "explanation": "MP = change in TP ÷ change in L = 11 ÷ 1 = 11.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Production",
+  "body": "Total product rises from 65 to 79 units when the number of workers increases from 4 to 5. Find the marginal product of the last worker.",
+  "options": [
+   "15.8 units",
+   "16.25 units",
+   "14 units",
+   "79 units"
+  ],
+  "answer": 2,
+  "explanation": "MP = change in TP ÷ change in L = 14 ÷ 1 = 14.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Production",
+  "body": "Total product rises from 50 to 63 units when the number of workers increases from 6 to 7. Find the marginal product of the last worker.",
+  "options": [
+   "63 units",
+   "13 units",
+   "9 units",
+   "14 units"
+  ],
+  "answer": 1,
+  "explanation": "MP = change in TP ÷ change in L = 13 ÷ 1 = 13.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Production",
+  "body": "Total product rises from 30 to 32 units when the number of workers increases from 3 to 4. Find the marginal product of the last worker.",
+  "options": [
+   "8 units",
+   "32 units",
+   "2 units",
+   "10 units"
+  ],
+  "answer": 2,
+  "explanation": "MP = change in TP ÷ change in L = 2 ÷ 1 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Production",
+  "body": "Total product rises from 75 to 79 units when the number of workers increases from 6 to 7. Find the marginal product of the last worker.",
+  "options": [
+   "5 units",
+   "79 units",
+   "12.5 units",
+   "4 units"
+  ],
+  "answer": 3,
+  "explanation": "MP = change in TP ÷ change in L = 4 ÷ 1 = 4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Price index",
+  "body": "A basket of goods cost ₦600 in the base year and ₦720 in the current year. Find the price index for the current year.",
+  "options": [
+   "130",
+   "132",
+   "20",
+   "120"
+  ],
+  "answer": 3,
+  "explanation": "Price index = (current ÷ base) × 100 = (720 ÷ 600) × 100 = 120.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Price index",
+  "body": "A basket of goods cost ₦950 in the base year and ₦1520 in the current year. Find the price index for the current year.",
+  "options": [
+   "62.5",
+   "170",
+   "160",
+   "60"
+  ],
+  "answer": 2,
+  "explanation": "Price index = (current ÷ base) × 100 = (1520 ÷ 950) × 100 = 160.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Price index",
+  "body": "A basket of goods cost ₦1000 in the base year and ₦1250 in the current year. Find the price index for the current year.",
+  "options": [
+   "125",
+   "25",
+   "135",
+   "80"
+  ],
+  "answer": 0,
+  "explanation": "Price index = (current ÷ base) × 100 = (1250 ÷ 1000) × 100 = 125.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Price index",
+  "body": "A basket of goods cost ₦250 in the base year and ₦400 in the current year. Find the price index for the current year.",
+  "options": [
+   "160",
+   "60",
+   "170",
+   "62.5"
+  ],
+  "answer": 0,
+  "explanation": "Price index = (current ÷ base) × 100 = (400 ÷ 250) × 100 = 160.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Price index",
+  "body": "A basket of goods cost ₦950 in the base year and ₦1235 in the current year. Find the price index for the current year.",
+  "options": [
+   "30",
+   "140",
+   "285",
+   "130"
+  ],
+  "answer": 3,
+  "explanation": "Price index = (current ÷ base) × 100 = (1235 ÷ 950) × 100 = 130.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Price index",
+  "body": "A basket of goods cost ₦800 in the base year and ₦1440 in the current year. Find the price index for the current year.",
+  "options": [
+   "640",
+   "180",
+   "80",
+   "190"
+  ],
+  "answer": 1,
+  "explanation": "Price index = (current ÷ base) × 100 = (1440 ÷ 800) × 100 = 180.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Price index",
+  "body": "A basket of goods cost ₦500 in the base year and ₦650 in the current year. Find the price index for the current year.",
+  "options": [
+   "30",
+   "140",
+   "150",
+   "130"
+  ],
+  "answer": 3,
+  "explanation": "Price index = (current ÷ base) × 100 = (650 ÷ 500) × 100 = 130.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Price index",
+  "body": "A basket of goods cost ₦350 in the base year and ₦455 in the current year. Find the price index for the current year.",
+  "options": [
+   "130",
+   "105",
+   "140",
+   "30"
+  ],
+  "answer": 0,
+  "explanation": "Price index = (current ÷ base) × 100 = (455 ÷ 350) × 100 = 130.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Price index",
+  "body": "A basket of goods cost ₦800 in the base year and ₦960 in the current year. Find the price index for the current year.",
+  "options": [
+   "130",
+   "20",
+   "160",
+   "120"
+  ],
+  "answer": 3,
+  "explanation": "Price index = (current ÷ base) × 100 = (960 ÷ 800) × 100 = 120.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Price index",
+  "body": "A basket of goods cost ₦750 in the base year and ₦1125 in the current year. Find the price index for the current year.",
+  "options": [
+   "50",
+   "150",
+   "160",
+   "375"
+  ],
+  "answer": 1,
+  "explanation": "Price index = (current ÷ base) × 100 = (1125 ÷ 750) × 100 = 150.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Inflation",
+  "body": "The consumer price index rose from 240 to 276. Find the rate of inflation.",
+  "options": [
+   "15%",
+   "13%",
+   "30%",
+   "36%"
+  ],
+  "answer": 0,
+  "explanation": "Inflation = (276 − 240) ÷ 240 × 100 = 15%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Inflation",
+  "body": "The consumer price index rose from 140 to 147. Find the rate of inflation.",
+  "options": [
+   "10%",
+   "5%",
+   "7%",
+   "4.8%"
+  ],
+  "answer": 1,
+  "explanation": "Inflation = (147 − 140) ÷ 140 × 100 = 5%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Inflation",
+  "body": "The consumer price index rose from 290 to 348. Find the rate of inflation.",
+  "options": [
+   "20%",
+   "16.7%",
+   "58%",
+   "40%"
+  ],
+  "answer": 0,
+  "explanation": "Inflation = (348 − 290) ÷ 290 × 100 = 20%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Inflation",
+  "body": "The consumer price index rose from 210 to 252. Find the rate of inflation.",
+  "options": [
+   "42%",
+   "40%",
+   "16.7%",
+   "20%"
+  ],
+  "answer": 3,
+  "explanation": "Inflation = (252 − 210) ÷ 210 × 100 = 20%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Inflation",
+  "body": "The consumer price index rose from 220 to 264. Find the rate of inflation.",
+  "options": [
+   "20%",
+   "44%",
+   "16.7%",
+   "40%"
+  ],
+  "answer": 0,
+  "explanation": "Inflation = (264 − 220) ÷ 220 × 100 = 20%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Inflation",
+  "body": "The consumer price index rose from 140 to 161. Find the rate of inflation.",
+  "options": [
+   "13%",
+   "15%",
+   "21%",
+   "30%"
+  ],
+  "answer": 1,
+  "explanation": "Inflation = (161 − 140) ÷ 140 × 100 = 15%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Inflation",
+  "body": "The consumer price index rose from 130 to 143. Find the rate of inflation.",
+  "options": [
+   "9.1%",
+   "10%",
+   "20%",
+   "13%"
+  ],
+  "answer": 1,
+  "explanation": "Inflation = (143 − 130) ÷ 130 × 100 = 10%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "Inflation",
+  "body": "The consumer price index rose from 260 to 286. Find the rate of inflation.",
+  "options": [
+   "10%",
+   "20%",
+   "26%",
+   "9.1%"
+  ],
+  "answer": 0,
+  "explanation": "Inflation = (286 − 260) ÷ 260 × 100 = 10%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "If the marginal propensity to consume is 0.5, find the value of the multiplier.",
+  "options": [
+   "5",
+   "3",
+   "0.5",
+   "2"
+  ],
+  "answer": 3,
+  "explanation": "k = 1/(1 − MPC) = 1/0.5 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "If the marginal propensity to consume is 0.6, find the value of the multiplier.",
+  "options": [
+   "0.4",
+   "3.5",
+   "6",
+   "2.5"
+  ],
+  "answer": 3,
+  "explanation": "k = 1/(1 − MPC) = 1/0.4 = 2.5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "If the marginal propensity to consume is 0.75, find the value of the multiplier.",
+  "options": [
+   "0.25",
+   "5",
+   "4",
+   "7.5"
+  ],
+  "answer": 2,
+  "explanation": "k = 1/(1 − MPC) = 1/0.25 = 4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "If the marginal propensity to consume is 0.8, find the value of the multiplier.",
+  "options": [
+   "8",
+   "5",
+   "1.25",
+   "0.2"
+  ],
+  "answer": 1,
+  "explanation": "k = 1/(1 − MPC) = 1/0.2 = 5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "If the marginal propensity to consume is 0.9, find the value of the multiplier.",
+  "options": [
+   "0.1",
+   "11",
+   "9",
+   "10"
+  ],
+  "answer": 3,
+  "explanation": "k = 1/(1 − MPC) = 1/0.1 = 10.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "If the marginal propensity to consume is 0.95, find the value of the multiplier.",
+  "options": [
+   "0.05",
+   "20",
+   "9.5",
+   "21"
+  ],
+  "answer": 1,
+  "explanation": "k = 1/(1 − MPC) = 1/0.05 = 20.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "If the marginal propensity to consume is 0.2, find the value of the multiplier.",
+  "options": [
+   "0.8",
+   "5",
+   "1.25",
+   "2"
+  ],
+  "answer": 2,
+  "explanation": "k = 1/(1 − MPC) = 1/0.8 = 1.25.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "If the marginal propensity to consume is 0.875, find the value of the multiplier.",
+  "options": [
+   "8",
+   "9",
+   "8.75",
+   "7"
+  ],
+  "answer": 0,
+  "explanation": "k = 1/(1 − MPC) = 1/0.125 = 8.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "If the marginal propensity to save is 0.5, the multiplier is",
+  "options": [
+   "5",
+   "3",
+   "2",
+   "0.5"
+  ],
+  "answer": 2,
+  "explanation": "k = 1/MPS = 1/0.5 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "If the marginal propensity to save is 0.25, the multiplier is",
+  "options": [
+   "4",
+   "0.75",
+   "5",
+   "2.5"
+  ],
+  "answer": 0,
+  "explanation": "k = 1/MPS = 1/0.25 = 4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "If the marginal propensity to save is 0.2, the multiplier is",
+  "options": [
+   "1.25",
+   "2",
+   "0.8",
+   "5"
+  ],
+  "answer": 3,
+  "explanation": "k = 1/MPS = 1/0.2 = 5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "If the marginal propensity to save is 0.1, the multiplier is",
+  "options": [
+   "11",
+   "1",
+   "0.9",
+   "10"
+  ],
+  "answer": 3,
+  "explanation": "k = 1/MPS = 1/0.1 = 10.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "A country has a national income of ₦4400000 million and a population of 11 million. Find the income per head.",
+  "options": [
+   "₦400,000",
+   "₦440,000",
+   "₦800,000",
+   "₦48,400,000"
+  ],
+  "answer": 0,
+  "explanation": "Per capita income = national income ÷ population = ₦4400000m ÷ 11m = ₦400,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "A country has a national income of ₦450000 million and a population of 3 million. Find the income per head.",
+  "options": [
+   "₦1,350,000",
+   "₦150,000",
+   "₦300,000",
+   "₦45,000"
+  ],
+  "answer": 1,
+  "explanation": "Per capita income = national income ÷ population = ₦450000m ÷ 3m = ₦150,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "A country has a national income of ₦7600000 million and a population of 19 million. Find the income per head.",
+  "options": [
+   "₦800,000",
+   "₦144,400,000",
+   "₦760,000",
+   "₦400,000"
+  ],
+  "answer": 3,
+  "explanation": "Per capita income = national income ÷ population = ₦7600000m ÷ 19m = ₦400,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "A country has a national income of ₦4900000 million and a population of 14 million. Find the income per head.",
+  "options": [
+   "₦700,000",
+   "₦68,600,000",
+   "₦490,000",
+   "₦350,000"
+  ],
+  "answer": 3,
+  "explanation": "Per capita income = national income ÷ population = ₦4900000m ÷ 14m = ₦350,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "A country has a national income of ₦1800000 million and a population of 9 million. Find the income per head.",
+  "options": [
+   "₦180,000",
+   "₦200,000",
+   "₦16,200,000",
+   "₦400,000"
+  ],
+  "answer": 1,
+  "explanation": "Per capita income = national income ÷ population = ₦1800000m ÷ 9m = ₦200,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "A country has a national income of ₦900000 million and a population of 18 million. Find the income per head.",
+  "options": [
+   "₦90,000",
+   "₦100,000",
+   "₦16,200,000",
+   "₦50,000"
+  ],
+  "answer": 3,
+  "explanation": "Per capita income = national income ÷ population = ₦900000m ÷ 18m = ₦50,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "A country has a national income of ₦700000 million and a population of 2 million. Find the income per head.",
+  "options": [
+   "₦350,000",
+   "₦700,000",
+   "₦70,000",
+   "₦1,400,000"
+  ],
+  "answer": 0,
+  "explanation": "Per capita income = national income ÷ population = ₦700000m ÷ 2m = ₦350,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "A country has a national income of ₦4250000 million and a population of 17 million. Find the income per head.",
+  "options": [
+   "₦250,000",
+   "₦500,000",
+   "₦72,250,000",
+   "₦425,000"
+  ],
+  "answer": 0,
+  "explanation": "Per capita income = national income ÷ population = ₦4250000m ÷ 17m = ₦250,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "If GNP is ₦1890 billion and depreciation is ₦170 billion, find NNP.",
+  "options": [
+   "₦1890 billion",
+   "₦170 billion",
+   "₦2060 billion",
+   "₦1720 billion"
+  ],
+  "answer": 3,
+  "explanation": "NNP = GNP − depreciation = 1890 − 170 = ₦1720 billion.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "If GNP is ₦3150 billion and depreciation is ₦710 billion, find NNP.",
+  "options": [
+   "₦2440 billion",
+   "₦3150 billion",
+   "₦3860 billion",
+   "₦710 billion"
+  ],
+  "answer": 0,
+  "explanation": "NNP = GNP − depreciation = 3150 − 710 = ₦2440 billion.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "If GNP is ₦3580 billion and depreciation is ₦640 billion, find NNP.",
+  "options": [
+   "₦2940 billion",
+   "₦640 billion",
+   "₦4220 billion",
+   "₦3580 billion"
+  ],
+  "answer": 0,
+  "explanation": "NNP = GNP − depreciation = 3580 − 640 = ₦2940 billion.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "If GNP is ₦4020 billion and depreciation is ₦780 billion, find NNP.",
+  "options": [
+   "₦4800 billion",
+   "₦780 billion",
+   "₦3240 billion",
+   "₦4020 billion"
+  ],
+  "answer": 2,
+  "explanation": "NNP = GNP − depreciation = 4020 − 780 = ₦3240 billion.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "If GNP is ₦7710 billion and depreciation is ₦50 billion, find NNP.",
+  "options": [
+   "₦50 billion",
+   "₦7710 billion",
+   "₦7760 billion",
+   "₦7660 billion"
+  ],
+  "answer": 3,
+  "explanation": "NNP = GNP − depreciation = 7710 − 50 = ₦7660 billion.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "If GNP is ₦1140 billion and depreciation is ₦160 billion, find NNP.",
+  "options": [
+   "₦160 billion",
+   "₦1140 billion",
+   "₦980 billion",
+   "₦1300 billion"
+  ],
+  "answer": 2,
+  "explanation": "NNP = GNP − depreciation = 1140 − 160 = ₦980 billion.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "If GNP is ₦1490 billion and depreciation is ₦160 billion, find NNP.",
+  "options": [
+   "₦1650 billion",
+   "₦160 billion",
+   "₦1490 billion",
+   "₦1330 billion"
+  ],
+  "answer": 3,
+  "explanation": "NNP = GNP − depreciation = 1490 − 160 = ₦1330 billion.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "If GNP is ₦2160 billion and depreciation is ₦320 billion, find NNP.",
+  "options": [
+   "₦320 billion",
+   "₦2160 billion",
+   "₦2480 billion",
+   "₦1840 billion"
+  ],
+  "answer": 3,
+  "explanation": "NNP = GNP − depreciation = 2160 − 320 = ₦1840 billion.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Labour market",
+  "body": "A town has a labour force of 2,800 people, of whom 336 are unemployed. Find the unemployment rate.",
+  "options": [
+   "13.6%",
+   "88%",
+   "24%",
+   "12%"
+  ],
+  "answer": 3,
+  "explanation": "Rate = unemployed ÷ labour force × 100 = 336 ÷ 2800 × 100 = 12%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Labour market",
+  "body": "A town has a labour force of 5,200 people, of whom 1300 are unemployed. Find the unemployment rate.",
+  "options": [
+   "75%",
+   "33.3%",
+   "50%",
+   "25%"
+  ],
+  "answer": 3,
+  "explanation": "Rate = unemployed ÷ labour force × 100 = 1300 ÷ 5200 × 100 = 25%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Labour market",
+  "body": "A town has a labour force of 4,300 people, of whom 172 are unemployed. Find the unemployment rate.",
+  "options": [
+   "4.2%",
+   "96%",
+   "8%",
+   "4%"
+  ],
+  "answer": 3,
+  "explanation": "Rate = unemployed ÷ labour force × 100 = 172 ÷ 4300 × 100 = 4%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Labour market",
+  "body": "A town has a labour force of 4,900 people, of whom 245 are unemployed. Find the unemployment rate.",
+  "options": [
+   "10%",
+   "5%",
+   "95%",
+   "5.3%"
+  ],
+  "answer": 1,
+  "explanation": "Rate = unemployed ÷ labour force × 100 = 245 ÷ 4900 × 100 = 5%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Labour market",
+  "body": "A town has a labour force of 8,400 people, of whom 1260 are unemployed. Find the unemployment rate.",
+  "options": [
+   "30%",
+   "17.6%",
+   "85%",
+   "15%"
+  ],
+  "answer": 3,
+  "explanation": "Rate = unemployed ÷ labour force × 100 = 1260 ÷ 8400 × 100 = 15%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Labour market",
+  "body": "A town has a labour force of 5,800 people, of whom 1160 are unemployed. Find the unemployment rate.",
+  "options": [
+   "25%",
+   "80%",
+   "40%",
+   "20%"
+  ],
+  "answer": 3,
+  "explanation": "Rate = unemployed ÷ labour force × 100 = 1160 ÷ 5800 × 100 = 20%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Labour market",
+  "body": "A town has a labour force of 7,900 people, of whom 1975 are unemployed. Find the unemployment rate.",
+  "options": [
+   "75%",
+   "50%",
+   "33.3%",
+   "25%"
+  ],
+  "answer": 3,
+  "explanation": "Rate = unemployed ÷ labour force × 100 = 1975 ÷ 7900 × 100 = 25%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Labour market",
+  "body": "A town has a labour force of 5,600 people, of whom 560 are unemployed. Find the unemployment rate.",
+  "options": [
+   "11.1%",
+   "90%",
+   "20%",
+   "10%"
+  ],
+  "answer": 3,
+  "explanation": "Rate = unemployed ÷ labour force × 100 = 560 ÷ 5600 × 100 = 10%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Labour market",
+  "body": "A town has a labour force of 3,000 people, of whom 150 are unemployed. Find the unemployment rate.",
+  "options": [
+   "10%",
+   "5%",
+   "95%",
+   "5.3%"
+  ],
+  "answer": 1,
+  "explanation": "Rate = unemployed ÷ labour force × 100 = 150 ÷ 3000 × 100 = 5%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Labour market",
+  "body": "A town has a labour force of 7,300 people, of whom 292 are unemployed. Find the unemployment rate.",
+  "options": [
+   "4%",
+   "4.2%",
+   "96%",
+   "8%"
+  ],
+  "answer": 0,
+  "explanation": "Rate = unemployed ÷ labour force × 100 = 292 ÷ 7300 × 100 = 4%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "A household with an income of ₦26,000 spends ₦23,400 on consumption. Find its average propensity to consume.",
+  "options": [
+   "0.1",
+   "1",
+   "0.45",
+   "0.9"
+  ],
+  "answer": 3,
+  "explanation": "APC = C ÷ Y = 23400 ÷ 26000 = 0.9.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "A household with an income of ₦21,000 spends ₦18,900 on consumption. Find its average propensity to consume.",
+  "options": [
+   "0.1",
+   "0.45",
+   "1",
+   "0.9"
+  ],
+  "answer": 3,
+  "explanation": "APC = C ÷ Y = 18900 ÷ 21000 = 0.9.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "A household with an income of ₦6000 spends ₦4500 on consumption. Find its average propensity to consume.",
+  "options": [
+   "0.75",
+   "0.25",
+   "1.75",
+   "0.85"
+  ],
+  "answer": 0,
+  "explanation": "APC = C ÷ Y = 4500 ÷ 6000 = 0.75.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "A household with an income of ₦35,000 spends ₦21,000 on consumption. Find its average propensity to consume.",
+  "options": [
+   "0.7",
+   "0.3",
+   "0.4",
+   "0.6"
+  ],
+  "answer": 3,
+  "explanation": "APC = C ÷ Y = 21000 ÷ 35000 = 0.6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "A household with an income of ₦23,000 spends ₦20,700 on consumption. Find its average propensity to consume.",
+  "options": [
+   "0.1",
+   "0.9",
+   "1",
+   "0.45"
+  ],
+  "answer": 1,
+  "explanation": "APC = C ÷ Y = 20700 ÷ 23000 = 0.9.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "A household with an income of ₦38,000 spends ₦34,200 on consumption. Find its average propensity to consume.",
+  "options": [
+   "0.45",
+   "0.1",
+   "1",
+   "0.9"
+  ],
+  "answer": 3,
+  "explanation": "APC = C ÷ Y = 34200 ÷ 38000 = 0.9.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "A household with an income of ₦29,000 spends ₦23,200 on consumption. Find its average propensity to consume.",
+  "options": [
+   "0.9",
+   "1.25",
+   "0.8",
+   "0.2"
+  ],
+  "answer": 2,
+  "explanation": "APC = C ÷ Y = 23200 ÷ 29000 = 0.8.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "National income",
+  "body": "A household with an income of ₦28,000 spends ₦25,200 on consumption. Find its average propensity to consume.",
+  "options": [
+   "0.45",
+   "0.9",
+   "1",
+   "0.1"
+  ],
+  "answer": 1,
+  "explanation": "APC = C ÷ Y = 25200 ÷ 28000 = 0.9.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ECO",
+  "topic": "International trade",
+  "body": "A country's visible exports are worth ₦360 billion and its visible imports ₦1020 billion. Its balance of trade shows",
+  "options": [
+   "a surplus of ₦660 billion",
+   "a surplus of ₦1380 billion",
+   "a deficit of ₦1380 billion",
+   "a deficit of ₦660 billion"
+  ],
+  "answer": 3,
+  "explanation": "Balance of trade = exports − imports = 360 − 1020 = -660.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "International trade",
+  "body": "A country's visible exports are worth ₦850 billion and its visible imports ₦250 billion. Its balance of trade shows",
+  "options": [
+   "a surplus of ₦600 billion",
+   "a surplus of ₦1100 billion",
+   "a deficit of ₦1100 billion",
+   "a deficit of ₦600 billion"
+  ],
+  "answer": 0,
+  "explanation": "Balance of trade = exports − imports = 850 − 250 = 600.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "International trade",
+  "body": "A country's visible exports are worth ₦260 billion and its visible imports ₦790 billion. Its balance of trade shows",
+  "options": [
+   "a deficit of ₦1050 billion",
+   "a deficit of ₦530 billion",
+   "a surplus of ₦530 billion",
+   "a surplus of ₦1050 billion"
+  ],
+  "answer": 1,
+  "explanation": "Balance of trade = exports − imports = 260 − 790 = -530.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "International trade",
+  "body": "A country's visible exports are worth ₦900 billion and its visible imports ₦390 billion. Its balance of trade shows",
+  "options": [
+   "a surplus of ₦510 billion",
+   "a surplus of ₦1290 billion",
+   "a deficit of ₦1290 billion",
+   "a deficit of ₦510 billion"
+  ],
+  "answer": 0,
+  "explanation": "Balance of trade = exports − imports = 900 − 390 = 510.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "International trade",
+  "body": "A country's visible exports are worth ₦870 billion and its visible imports ₦1120 billion. Its balance of trade shows",
+  "options": [
+   "a deficit of ₦250 billion",
+   "a surplus of ₦250 billion",
+   "a deficit of ₦1990 billion",
+   "a surplus of ₦1990 billion"
+  ],
+  "answer": 0,
+  "explanation": "Balance of trade = exports − imports = 870 − 1120 = -250.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "International trade",
+  "body": "A country's visible exports are worth ₦960 billion and its visible imports ₦990 billion. Its balance of trade shows",
+  "options": [
+   "a deficit of ₦1950 billion",
+   "a surplus of ₦30 billion",
+   "a surplus of ₦1950 billion",
+   "a deficit of ₦30 billion"
+  ],
+  "answer": 3,
+  "explanation": "Balance of trade = exports − imports = 960 − 990 = -30.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "International trade",
+  "body": "A country's visible exports are worth ₦460 billion and its visible imports ₦470 billion. Its balance of trade shows",
+  "options": [
+   "a deficit of ₦10 billion",
+   "a surplus of ₦930 billion",
+   "a surplus of ₦10 billion",
+   "a deficit of ₦930 billion"
+  ],
+  "answer": 0,
+  "explanation": "Balance of trade = exports − imports = 460 − 470 = -10.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "International trade",
+  "body": "A country's visible exports are worth ₦720 billion and its visible imports ₦230 billion. Its balance of trade shows",
+  "options": [
+   "a deficit of ₦490 billion",
+   "a surplus of ₦490 billion",
+   "a surplus of ₦950 billion",
+   "a deficit of ₦950 billion"
+  ],
+  "answer": 1,
+  "explanation": "Balance of trade = exports − imports = 720 − 230 = 490.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "International trade",
+  "body": "A country's visible exports are worth ₦840 billion and its visible imports ₦1030 billion. Its balance of trade shows",
+  "options": [
+   "a deficit of ₦190 billion",
+   "a surplus of ₦1870 billion",
+   "a surplus of ₦190 billion",
+   "a deficit of ₦1870 billion"
+  ],
+  "answer": 0,
+  "explanation": "Balance of trade = exports − imports = 840 − 1030 = -190.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "International trade",
+  "body": "A country's visible exports are worth ₦290 billion and its visible imports ₦950 billion. Its balance of trade shows",
+  "options": [
+   "a deficit of ₦660 billion",
+   "a surplus of ₦660 billion",
+   "a deficit of ₦1240 billion",
+   "a surplus of ₦1240 billion"
+  ],
+  "answer": 0,
+  "explanation": "Balance of trade = exports − imports = 290 − 950 = -660.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "International trade",
+  "body": "If the exchange rate is ₦750 to $1, how much is $80 in naira?",
+  "options": [
+   "₦60,000",
+   "₦830",
+   "₦120,000",
+   "₦6,000"
+  ],
+  "answer": 0,
+  "explanation": "80 × ₦750 = ₦60,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "International trade",
+  "body": "If the exchange rate is ₦1,500 to $1, how much is $210 in naira?",
+  "options": [
+   "₦315,000",
+   "₦630,000",
+   "₦1,710",
+   "₦31,500"
+  ],
+  "answer": 0,
+  "explanation": "210 × ₦1500 = ₦315,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "International trade",
+  "body": "If the exchange rate is ₦1,500 to $1, how much is $450 in naira?",
+  "options": [
+   "₦67,500",
+   "₦675,000",
+   "₦1,950",
+   "₦1,350,000"
+  ],
+  "answer": 1,
+  "explanation": "450 × ₦1500 = ₦675,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "International trade",
+  "body": "If the exchange rate is ₦1,600 to $1, how much is $50 in naira?",
+  "options": [
+   "₦1,650",
+   "₦80,000",
+   "₦160,000",
+   "₦8,000"
+  ],
+  "answer": 1,
+  "explanation": "50 × ₦1600 = ₦80,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "International trade",
+  "body": "If the exchange rate is ₦750 to $1, how much is $500 in naira?",
+  "options": [
+   "₦37,500",
+   "₦1,250",
+   "₦375,000",
+   "₦750,000"
+  ],
+  "answer": 2,
+  "explanation": "500 × ₦750 = ₦375,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "International trade",
+  "body": "If the exchange rate is ₦1,450 to $1, how much is $270 in naira?",
+  "options": [
+   "₦391,500",
+   "₦783,000",
+   "₦1,720",
+   "₦39,150"
+  ],
+  "answer": 0,
+  "explanation": "270 × ₦1450 = ₦391,500.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "International trade",
+  "body": "If the exchange rate is ₦750 to $1, how much is $310 in naira?",
+  "options": [
+   "₦232,500",
+   "₦465,000",
+   "₦23,250",
+   "₦1,060"
+  ],
+  "answer": 0,
+  "explanation": "310 × ₦750 = ₦232,500.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "International trade",
+  "body": "If the exchange rate is ₦900 to $1, how much is $40 in naira?",
+  "options": [
+   "₦3,600",
+   "₦36,000",
+   "₦72,000",
+   "₦940"
+  ],
+  "answer": 1,
+  "explanation": "40 × ₦900 = ₦36,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Scarcity can best be described as",
+  "options": [
+   "a tax paid directly to government by the person on whom it is imposed",
+   "short-term unemployment of people moving between jobs",
+   "limited resources relative to unlimited wants",
+   "man-made resources used in further production"
+  ],
+  "answer": 2,
+  "explanation": "Scarcity: limited resources relative to unlimited wants.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Opportunity cost can best be described as",
+  "options": [
+   "inflation caused by rising costs of production",
+   "an economy where both private and public sectors own and control resources",
+   "the next best alternative forgone",
+   "producing a good at a lower opportunity cost than another country"
+  ],
+  "answer": 2,
+  "explanation": "Opportunity cost: the next best alternative forgone.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Scale of preference can best be described as",
+  "options": [
+   "a list of wants arranged in order of importance",
+   "a maximum price fixed by government",
+   "the need for each party in a trade to want what the other has",
+   "a market with a single seller of a product with no close substitutes"
+  ],
+  "answer": 0,
+  "explanation": "Scale of preference: a list of wants arranged in order of importance.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Effective demand can best be described as",
+  "options": [
+   "desire backed by the ability and willingness to pay",
+   "the buying and selling of government securities by the central bank",
+   "the price at which quantity demanded equals quantity supplied",
+   "a tax that takes a larger share of income from the poor than the rich"
+  ],
+  "answer": 0,
+  "explanation": "Effective demand: desire backed by the ability and willingness to pay.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Complementary goods can best be described as",
+  "options": [
+   "a market with a single seller of a product with no close substitutes",
+   "an inferior good whose demand rises as its price rises",
+   "goods that are used together, such as cars and petrol",
+   "the population size that gives the highest income per head"
+  ],
+  "answer": 2,
+  "explanation": "Complementary goods: goods that are used together, such as cars and petrol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Substitute goods can best be described as",
+  "options": [
+   "the responsiveness of quantity supplied to a change in price",
+   "goods that can be used in place of each other, such as tea and coffee",
+   "the direct exchange of goods for goods",
+   "falling average cost as the scale of production increases"
+  ],
+  "answer": 1,
+  "explanation": "Substitute goods: goods that can be used in place of each other, such as tea and coffee.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "An inferior good can best be described as",
+  "options": [
+   "man-made resources used in further production",
+   "limited resources relative to unlimited wants",
+   "a tax on imported goods",
+   "a good whose demand falls as income rises"
+  ],
+  "answer": 3,
+  "explanation": "An inferior good: a good whose demand falls as income rises.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "A Giffen good can best be described as",
+  "options": [
+   "the total value of goods and services produced within a country in a year",
+   "the population size that gives the highest income per head",
+   "the difference between what a consumer is willing to pay and what they actually pay",
+   "an inferior good whose demand rises as its price rises"
+  ],
+  "answer": 3,
+  "explanation": "A Giffen good: an inferior good whose demand rises as its price rises.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Equilibrium price can best be described as",
+  "options": [
+   "a tax on goods and services, paid through prices",
+   "the price at which quantity demanded equals quantity supplied",
+   "a list of wants arranged in order of importance",
+   "the quantity producers are willing and able to offer for sale at a given price"
+  ],
+  "answer": 1,
+  "explanation": "Equilibrium price: the price at which quantity demanded equals quantity supplied.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "A price ceiling can best be described as",
+  "options": [
+   "a tax on goods and services, paid through prices",
+   "high inflation combined with high unemployment and slow growth",
+   "a maximum price fixed by government",
+   "a tax whose rate rises as income rises"
+  ],
+  "answer": 2,
+  "explanation": "A price ceiling: a maximum price fixed by government.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "A price floor can best be described as",
+  "options": [
+   "concentrating on producing a limited range of goods or tasks",
+   "a minimum price fixed by government",
+   "the price at which quantity demanded equals quantity supplied",
+   "high inflation combined with high unemployment and slow growth"
+  ],
+  "answer": 1,
+  "explanation": "A price floor: a minimum price fixed by government.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Consumer surplus can best be described as",
+  "options": [
+   "the difference between what a consumer is willing to pay and what they actually pay",
+   "the ease with which an asset can be turned into cash",
+   "an economy where the state makes the key decisions on production",
+   "the buying and selling of government securities by the central bank"
+  ],
+  "answer": 0,
+  "explanation": "Consumer surplus: the difference between what a consumer is willing to pay and what they actually pay.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Marginal utility can best be described as",
+  "options": [
+   "the direct exchange of goods for goods",
+   "the ratio of export prices to import prices",
+   "the extra satisfaction from consuming one more unit",
+   "high inflation combined with high unemployment and slow growth"
+  ],
+  "answer": 2,
+  "explanation": "Marginal utility: the extra satisfaction from consuming one more unit.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Division of labour can best be described as",
+  "options": [
+   "the responsiveness of quantity supplied to a change in price",
+   "a tax on imported goods",
+   "a deliberate reduction in the official value of a currency",
+   "breaking production into separate tasks done by different workers"
+  ],
+  "answer": 3,
+  "explanation": "Division of labour: breaking production into separate tasks done by different workers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Economies of scale can best be described as",
+  "options": [
+   "falling average cost as the scale of production increases",
+   "limited resources relative to unlimited wants",
+   "goods that are used together, such as cars and petrol",
+   "a tax whose rate rises as income rises"
+  ],
+  "answer": 0,
+  "explanation": "Economies of scale: falling average cost as the scale of production increases.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Fixed cost can best be described as",
+  "options": [
+   "unemployment caused by a downturn in the trade cycle",
+   "inflation caused by too much money chasing too few goods",
+   "a tax paid directly to government by the person on whom it is imposed",
+   "cost that does not change with the level of output"
+  ],
+  "answer": 3,
+  "explanation": "Fixed cost: cost that does not change with the level of output.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Variable cost can best be described as",
+  "options": [
+   "a tax paid directly to government by the person on whom it is imposed",
+   "a limit on the quantity of a good that can be imported",
+   "cost that changes with the level of output",
+   "man-made resources used in further production"
+  ],
+  "answer": 2,
+  "explanation": "Variable cost: cost that changes with the level of output.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Monopoly can best be described as",
+  "options": [
+   "the total value of goods and services produced within a country in a year",
+   "desire backed by the ability and willingness to pay",
+   "unemployment caused by a downturn in the trade cycle",
+   "a market with a single seller of a product with no close substitutes"
+  ],
+  "answer": 3,
+  "explanation": "Monopoly: a market with a single seller of a product with no close substitutes.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Oligopoly can best be described as",
+  "options": [
+   "the transfer of government-owned enterprises to private owners",
+   "an inferior good whose demand rises as its price rises",
+   "a market dominated by a few large sellers",
+   "concentrating on producing a limited range of goods or tasks"
+  ],
+  "answer": 2,
+  "explanation": "Oligopoly: a market dominated by a few large sellers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Perfect competition can best be described as",
+  "options": [
+   "a market with many buyers and sellers of an identical product",
+   "a record of a country's transactions with the rest of the world",
+   "an economy where the state makes the key decisions on production",
+   "a market with a single seller of a product with no close substitutes"
+  ],
+  "answer": 0,
+  "explanation": "Perfect competition: a market with many buyers and sellers of an identical product.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "A cartel can best be described as",
+  "options": [
+   "cost that does not change with the level of output",
+   "producing a good at a lower opportunity cost than another country",
+   "a group of firms that agree to fix prices or output",
+   "a maximum price fixed by government"
+  ],
+  "answer": 2,
+  "explanation": "A cartel: a group of firms that agree to fix prices or output.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Inflation can best be described as",
+  "options": [
+   "a minimum price fixed by government",
+   "a maximum price fixed by government",
+   "a persistent rise in the general price level",
+   "the ratio of export prices to import prices"
+  ],
+  "answer": 2,
+  "explanation": "Inflation: a persistent rise in the general price level.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Deflation can best be described as",
+  "options": [
+   "a tax on imported goods",
+   "a list of wants arranged in order of importance",
+   "a persistent fall in the general price level",
+   "a good whose demand falls as income rises"
+  ],
+  "answer": 2,
+  "explanation": "Deflation: a persistent fall in the general price level.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Stagflation can best be described as",
+  "options": [
+   "high inflation combined with high unemployment and slow growth",
+   "a tax on goods and services, paid through prices",
+   "an extremely rapid and out-of-control rise in prices",
+   "a business owned and controlled by one person"
+  ],
+  "answer": 0,
+  "explanation": "Stagflation: high inflation combined with high unemployment and slow growth.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Devaluation can best be described as",
+  "options": [
+   "the direct exchange of goods for goods",
+   "limited resources relative to unlimited wants",
+   "a deliberate reduction in the official value of a currency",
+   "a tax paid directly to government by the person on whom it is imposed"
+  ],
+  "answer": 2,
+  "explanation": "Devaluation: a deliberate reduction in the official value of a currency.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Gross Domestic Product can best be described as",
+  "options": [
+   "the total value of goods and services produced within a country in a year",
+   "inflation caused by too much money chasing too few goods",
+   "an extremely rapid and out-of-control rise in prices",
+   "man-made resources used in further production"
+  ],
+  "answer": 0,
+  "explanation": "Gross Domestic Product: the total value of goods and services produced within a country in a year.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Barter can best be described as",
+  "options": [
+   "a complete ban on trade with a country or in a product",
+   "desire backed by the ability and willingness to pay",
+   "unemployment caused by a downturn in the trade cycle",
+   "the direct exchange of goods for goods"
+  ],
+  "answer": 3,
+  "explanation": "Barter: the direct exchange of goods for goods.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Double coincidence of wants can best be described as",
+  "options": [
+   "a tax paid directly to government by the person on whom it is imposed",
+   "the need for each party in a trade to want what the other has",
+   "a deliberate reduction in the official value of a currency",
+   "a tax that takes the same percentage from all incomes"
+  ],
+  "answer": 1,
+  "explanation": "Double coincidence of wants: the need for each party in a trade to want what the other has.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Liquidity can best be described as",
+  "options": [
+   "the ease with which an asset can be turned into cash",
+   "producing a good at a lower opportunity cost than another country",
+   "unemployment caused by a downturn in the trade cycle",
+   "inflation caused by rising costs of production"
+  ],
+  "answer": 0,
+  "explanation": "Liquidity: the ease with which an asset can be turned into cash.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Open market operations can best be described as",
+  "options": [
+   "a business owned and controlled by one person",
+   "a persistent rise in the general price level",
+   "a tax on goods and services, paid through prices",
+   "the buying and selling of government securities by the central bank"
+  ],
+  "answer": 3,
+  "explanation": "Open market operations: the buying and selling of government securities by the central bank.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "A direct tax can best be described as",
+  "options": [
+   "a tax paid directly to government by the person on whom it is imposed",
+   "the ratio of export prices to import prices",
+   "producing a good at a lower opportunity cost than another country",
+   "a market dominated by a few large sellers"
+  ],
+  "answer": 0,
+  "explanation": "A direct tax: a tax paid directly to government by the person on whom it is imposed.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "An indirect tax can best be described as",
+  "options": [
+   "a group of firms that agree to fix prices or output",
+   "a tax on goods and services, paid through prices",
+   "producing a good at a lower opportunity cost than another country",
+   "a tax on goods produced within the country"
+  ],
+  "answer": 1,
+  "explanation": "An indirect tax: a tax on goods and services, paid through prices.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "A progressive tax can best be described as",
+  "options": [
+   "concentrating on producing a limited range of goods or tasks",
+   "the transfer of government-owned enterprises to private owners",
+   "a market with a single seller of a product with no close substitutes",
+   "a tax whose rate rises as income rises"
+  ],
+  "answer": 3,
+  "explanation": "A progressive tax: a tax whose rate rises as income rises.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "A regressive tax can best be described as",
+  "options": [
+   "a minimum price fixed by government",
+   "the next best alternative forgone",
+   "a complete ban on trade with a country or in a product",
+   "a tax that takes a larger share of income from the poor than the rich"
+  ],
+  "answer": 3,
+  "explanation": "A regressive tax: a tax that takes a larger share of income from the poor than the rich.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "A proportional tax can best be described as",
+  "options": [
+   "the extra satisfaction from consuming one more unit",
+   "a tax that takes the same percentage from all incomes",
+   "a limit on the quantity of a good that can be imported",
+   "a list of wants arranged in order of importance"
+  ],
+  "answer": 1,
+  "explanation": "A proportional tax: a tax that takes the same percentage from all incomes.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "A budget deficit can best be described as",
+  "options": [
+   "the direct exchange of goods for goods",
+   "when government expenditure exceeds revenue",
+   "inflation caused by too much money chasing too few goods",
+   "a persistent rise in the general price level"
+  ],
+  "answer": 1,
+  "explanation": "A budget deficit: when government expenditure exceeds revenue.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Balance of payments can best be described as",
+  "options": [
+   "a record of a country's transactions with the rest of the world",
+   "unemployment caused by long-term changes in the structure of industries",
+   "a tax that takes a larger share of income from the poor than the rich",
+   "a business owned and run by its members for their mutual benefit"
+  ],
+  "answer": 0,
+  "explanation": "Balance of payments: a record of a country's transactions with the rest of the world.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Terms of trade can best be described as",
+  "options": [
+   "an inferior good whose demand rises as its price rises",
+   "inflation caused by too much money chasing too few goods",
+   "the need for each party in a trade to want what the other has",
+   "the ratio of export prices to import prices"
+  ],
+  "answer": 3,
+  "explanation": "Terms of trade: the ratio of export prices to import prices.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "A tariff can best be described as",
+  "options": [
+   "a tax on imported goods",
+   "the total value of goods and services produced within a country in a year",
+   "the factor that organises the other factors and bears the risk",
+   "desire backed by the ability and willingness to pay"
+  ],
+  "answer": 0,
+  "explanation": "A tariff: a tax on imported goods.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "A quota can best be described as",
+  "options": [
+   "a limit on the quantity of a good that can be imported",
+   "a record of a country's transactions with the rest of the world",
+   "a market dominated by a few large sellers",
+   "short-term unemployment of people moving between jobs"
+  ],
+  "answer": 0,
+  "explanation": "A quota: a limit on the quantity of a good that can be imported.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "An embargo can best be described as",
+  "options": [
+   "unemployment caused by seasonal changes in demand or weather",
+   "producing a good at a lower opportunity cost than another country",
+   "the next best alternative forgone",
+   "a complete ban on trade with a country or in a product"
+  ],
+  "answer": 3,
+  "explanation": "An embargo: a complete ban on trade with a country or in a product.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Dumping can best be described as",
+  "options": [
+   "an economy where the state makes the key decisions on production",
+   "selling goods abroad below their cost of production",
+   "the extra satisfaction from consuming one more unit",
+   "cost that does not change with the level of output"
+  ],
+  "answer": 1,
+  "explanation": "Dumping: selling goods abroad below their cost of production.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Comparative advantage can best be described as",
+  "options": [
+   "cost that does not change with the level of output",
+   "a tax on imported goods",
+   "a tax that takes the same percentage from all incomes",
+   "producing a good at a lower opportunity cost than another country"
+  ],
+  "answer": 3,
+  "explanation": "Comparative advantage: producing a good at a lower opportunity cost than another country.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Optimum population can best be described as",
+  "options": [
+   "unemployment caused by a downturn in the trade cycle",
+   "the population size that gives the highest income per head",
+   "a maximum price fixed by government",
+   "a minimum price fixed by government"
+  ],
+  "answer": 1,
+  "explanation": "Optimum population: the population size that gives the highest income per head.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Privatisation can best be described as",
+  "options": [
+   "the population size that gives the highest income per head",
+   "a record of a country's transactions with the rest of the world",
+   "the transfer of government-owned enterprises to private owners",
+   "goods that are used together, such as cars and petrol"
+  ],
+  "answer": 2,
+  "explanation": "Privatisation: the transfer of government-owned enterprises to private owners.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "A cooperative society can best be described as",
+  "options": [
+   "a business owned and run by its members for their mutual benefit",
+   "selling goods abroad below their cost of production",
+   "the population size that gives the highest income per head",
+   "a tax that takes a larger share of income from the poor than the rich"
+  ],
+  "answer": 0,
+  "explanation": "A cooperative society: a business owned and run by its members for their mutual benefit.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "A sole proprietorship can best be described as",
+  "options": [
+   "a business owned and controlled by one person",
+   "inflation caused by too much money chasing too few goods",
+   "the direct exchange of goods for goods",
+   "a market with a single seller of a product with no close substitutes"
+  ],
+  "answer": 0,
+  "explanation": "A sole proprietorship: a business owned and controlled by one person.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "A public corporation can best be described as",
+  "options": [
+   "a maximum price fixed by government",
+   "a business owned and controlled by one person",
+   "the population size that gives the highest income per head",
+   "a business owned and controlled by government"
+  ],
+  "answer": 3,
+  "explanation": "A public corporation: a business owned and controlled by government.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Specialisation can best be described as",
+  "options": [
+   "the ratio of export prices to import prices",
+   "a minimum price fixed by government",
+   "unemployment caused by long-term changes in the structure of industries",
+   "concentrating on producing a limited range of goods or tasks"
+  ],
+  "answer": 3,
+  "explanation": "Specialisation: concentrating on producing a limited range of goods or tasks.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Elasticity of supply can best be described as",
+  "options": [
+   "concentrating on producing a limited range of goods or tasks",
+   "man-made resources used in further production",
+   "the quantity producers are willing and able to offer for sale at a given price",
+   "the responsiveness of quantity supplied to a change in price"
+  ],
+  "answer": 3,
+  "explanation": "Elasticity of supply: the responsiveness of quantity supplied to a change in price.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Capital can best be described as",
+  "options": [
+   "goods that can be used in place of each other, such as tea and coffee",
+   "the responsiveness of quantity supplied to a change in price",
+   "a market dominated by a few large sellers",
+   "man-made resources used in further production"
+  ],
+  "answer": 3,
+  "explanation": "Capital: man-made resources used in further production.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "The entrepreneur can best be described as",
+  "options": [
+   "the factor that organises the other factors and bears the risk",
+   "an inferior good whose demand rises as its price rises",
+   "cost that does not change with the level of output",
+   "the price at which quantity demanded equals quantity supplied"
+  ],
+  "answer": 0,
+  "explanation": "The entrepreneur: the factor that organises the other factors and bears the risk.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Frictional unemployment can best be described as",
+  "options": [
+   "high inflation combined with high unemployment and slow growth",
+   "a minimum price fixed by government",
+   "short-term unemployment of people moving between jobs",
+   "goods that can be used in place of each other, such as tea and coffee"
+  ],
+  "answer": 2,
+  "explanation": "Frictional unemployment: short-term unemployment of people moving between jobs.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Structural unemployment can best be described as",
+  "options": [
+   "unemployment caused by long-term changes in the structure of industries",
+   "cost that does not change with the level of output",
+   "a tax on goods and services, paid through prices",
+   "an economy where both private and public sectors own and control resources"
+  ],
+  "answer": 0,
+  "explanation": "Structural unemployment: unemployment caused by long-term changes in the structure of industries.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Seasonal unemployment can best be described as",
+  "options": [
+   "a limit on the quantity of a good that can be imported",
+   "unemployment caused by seasonal changes in demand or weather",
+   "a maximum price fixed by government",
+   "a market with many buyers and sellers of an identical product"
+  ],
+  "answer": 1,
+  "explanation": "Seasonal unemployment: unemployment caused by seasonal changes in demand or weather.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Cyclical unemployment can best be described as",
+  "options": [
+   "unemployment caused by a downturn in the trade cycle",
+   "the direct exchange of goods for goods",
+   "goods that are used together, such as cars and petrol",
+   "a tax whose rate rises as income rises"
+  ],
+  "answer": 0,
+  "explanation": "Cyclical unemployment: unemployment caused by a downturn in the trade cycle.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Demand-pull inflation can best be described as",
+  "options": [
+   "falling average cost as the scale of production increases",
+   "the factor that organises the other factors and bears the risk",
+   "a tax on goods and services, paid through prices",
+   "inflation caused by too much money chasing too few goods"
+  ],
+  "answer": 3,
+  "explanation": "Demand-pull inflation: inflation caused by too much money chasing too few goods.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Cost-push inflation can best be described as",
+  "options": [
+   "the satisfaction derived from consuming a good or service",
+   "unemployment caused by seasonal changes in demand or weather",
+   "man-made resources used in further production",
+   "inflation caused by rising costs of production"
+  ],
+  "answer": 3,
+  "explanation": "Cost-push inflation: inflation caused by rising costs of production.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Hyperinflation can best be described as",
+  "options": [
+   "limited resources relative to unlimited wants",
+   "an economy where both private and public sectors own and control resources",
+   "an extremely rapid and out-of-control rise in prices",
+   "a market dominated by a few large sellers"
+  ],
+  "answer": 2,
+  "explanation": "Hyperinflation: an extremely rapid and out-of-control rise in prices.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Utility can best be described as",
+  "options": [
+   "man-made resources used in further production",
+   "the satisfaction derived from consuming a good or service",
+   "a maximum price fixed by government",
+   "an economy where the state makes the key decisions on production"
+  ],
+  "answer": 1,
+  "explanation": "Utility: the satisfaction derived from consuming a good or service.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Supply can best be described as",
+  "options": [
+   "a good whose demand falls as income rises",
+   "unemployment caused by long-term changes in the structure of industries",
+   "cost that changes with the level of output",
+   "the quantity producers are willing and able to offer for sale at a given price"
+  ],
+  "answer": 3,
+  "explanation": "Supply: the quantity producers are willing and able to offer for sale at a given price.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Excise duty can best be described as",
+  "options": [
+   "a list of wants arranged in order of importance",
+   "a market dominated by a few large sellers",
+   "a tax on goods produced within the country",
+   "a market with many buyers and sellers of an identical product"
+  ],
+  "answer": 2,
+  "explanation": "Excise duty: a tax on goods produced within the country.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "An ad valorem tax can best be described as",
+  "options": [
+   "the price at which quantity demanded equals quantity supplied",
+   "falling average cost as the scale of production increases",
+   "a market dominated by a few large sellers",
+   "a tax charged as a percentage of the value of a good"
+  ],
+  "answer": 3,
+  "explanation": "An ad valorem tax: a tax charged as a percentage of the value of a good.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Mixed economy can best be described as",
+  "options": [
+   "a tax that takes a larger share of income from the poor than the rich",
+   "the extra satisfaction from consuming one more unit",
+   "a minimum price fixed by government",
+   "an economy where both private and public sectors own and control resources"
+  ],
+  "answer": 3,
+  "explanation": "Mixed economy: an economy where both private and public sectors own and control resources.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "Command economy can best be described as",
+  "options": [
+   "an economy where the state makes the key decisions on production",
+   "the transfer of government-owned enterprises to private owners",
+   "a tax paid directly to government by the person on whom it is imposed",
+   "goods that can be used in place of each other, such as tea and coffee"
+  ],
+  "answer": 0,
+  "explanation": "Command economy: an economy where the state makes the key decisions on production.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes limited resources relative to unlimited wants?",
+  "options": [
+   "Opportunity cost",
+   "Terms of trade",
+   "Scarcity",
+   "Proportional tax"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of scarcity.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes the next best alternative forgone?",
+  "options": [
+   "Progressive tax",
+   "Cyclical unemployment",
+   "Opportunity cost",
+   "Embargo"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of opportunity cost.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a list of wants arranged in order of importance?",
+  "options": [
+   "Scale of preference",
+   "Division of labour",
+   "Regressive tax",
+   "Comparative advantage"
+  ],
+  "answer": 0,
+  "explanation": "This is the definition of scale of preference.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes desire backed by the ability and willingness to pay?",
+  "options": [
+   "Double coincidence of wants",
+   "Excise duty",
+   "Effective demand",
+   "Equilibrium price"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of effective demand.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes goods that are used together, such as cars and petrol?",
+  "options": [
+   "Complementary goods",
+   "Budget deficit",
+   "Double coincidence of wants",
+   "Gross Domestic Product"
+  ],
+  "answer": 0,
+  "explanation": "This is the definition of complementary goods.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes goods that can be used in place of each other, such as tea and coffee?",
+  "options": [
+   "Substitute goods",
+   "Marginal utility",
+   "Scarcity",
+   "Privatisation"
+  ],
+  "answer": 0,
+  "explanation": "This is the definition of substitute goods.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a good whose demand falls as income rises?",
+  "options": [
+   "Price floor",
+   "Fixed cost",
+   "Consumer surplus",
+   "Inferior good"
+  ],
+  "answer": 3,
+  "explanation": "This is the definition of inferior good.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes an inferior good whose demand rises as its price rises?",
+  "options": [
+   "Effective demand",
+   "Giffen good",
+   "Mixed economy",
+   "Supply"
+  ],
+  "answer": 1,
+  "explanation": "This is the definition of giffen good.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes the price at which quantity demanded equals quantity supplied?",
+  "options": [
+   "Budget deficit",
+   "Division of labour",
+   "Equilibrium price",
+   "Structural unemployment"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of equilibrium price.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a maximum price fixed by government?",
+  "options": [
+   "Entrepreneur",
+   "Demand-pull inflation",
+   "Hyperinflation",
+   "Price ceiling"
+  ],
+  "answer": 3,
+  "explanation": "This is the definition of price ceiling.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a minimum price fixed by government?",
+  "options": [
+   "Price floor",
+   "Progressive tax",
+   "Stagflation",
+   "Complementary goods"
+  ],
+  "answer": 0,
+  "explanation": "This is the definition of price floor.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes the difference between what a consumer is willing to pay and what they actually pay?",
+  "options": [
+   "Embargo",
+   "Scale of preference",
+   "Consumer surplus",
+   "Optimum population"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of consumer surplus.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes the extra satisfaction from consuming one more unit?",
+  "options": [
+   "Entrepreneur",
+   "Marginal utility",
+   "Dumping",
+   "Elasticity of supply"
+  ],
+  "answer": 1,
+  "explanation": "This is the definition of marginal utility.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes breaking production into separate tasks done by different workers?",
+  "options": [
+   "Division of labour",
+   "Ad valorem tax",
+   "Dumping",
+   "Mixed economy"
+  ],
+  "answer": 0,
+  "explanation": "This is the definition of division of labour.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes falling average cost as the scale of production increases?",
+  "options": [
+   "Economies of scale",
+   "Elasticity of supply",
+   "Seasonal unemployment",
+   "Price floor"
+  ],
+  "answer": 0,
+  "explanation": "This is the definition of economies of scale.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes cost that does not change with the level of output?",
+  "options": [
+   "Capital",
+   "Fixed cost",
+   "Gross Domestic Product",
+   "Substitute goods"
+  ],
+  "answer": 1,
+  "explanation": "This is the definition of fixed cost.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes cost that changes with the level of output?",
+  "options": [
+   "Elasticity of supply",
+   "Dumping",
+   "Oligopoly",
+   "Variable cost"
+  ],
+  "answer": 3,
+  "explanation": "This is the definition of variable cost.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a market with a single seller of a product with no close substitutes?",
+  "options": [
+   "Monopoly",
+   "Liquidity",
+   "Division of labour",
+   "Price ceiling"
+  ],
+  "answer": 0,
+  "explanation": "This is the definition of monopoly.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a market dominated by a few large sellers?",
+  "options": [
+   "Proportional tax",
+   "Inflation",
+   "Oligopoly",
+   "Economies of scale"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of oligopoly.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a market with many buyers and sellers of an identical product?",
+  "options": [
+   "Opportunity cost",
+   "Hyperinflation",
+   "Perfect competition",
+   "Mixed economy"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of perfect competition.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a group of firms that agree to fix prices or output?",
+  "options": [
+   "Cartel",
+   "Division of labour",
+   "Indirect tax",
+   "Scarcity"
+  ],
+  "answer": 0,
+  "explanation": "This is the definition of cartel.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a persistent rise in the general price level?",
+  "options": [
+   "Gross Domestic Product",
+   "Inflation",
+   "Demand-pull inflation",
+   "Elasticity of supply"
+  ],
+  "answer": 1,
+  "explanation": "This is the definition of inflation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a persistent fall in the general price level?",
+  "options": [
+   "Excise duty",
+   "Consumer surplus",
+   "Deflation",
+   "Price ceiling"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of deflation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes high inflation combined with high unemployment and slow growth?",
+  "options": [
+   "Cyclical unemployment",
+   "Dumping",
+   "Inflation",
+   "Stagflation"
+  ],
+  "answer": 3,
+  "explanation": "This is the definition of stagflation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a deliberate reduction in the official value of a currency?",
+  "options": [
+   "Devaluation",
+   "Liquidity",
+   "Tariff",
+   "Ad valorem tax"
+  ],
+  "answer": 0,
+  "explanation": "This is the definition of devaluation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes the total value of goods and services produced within a country in a year?",
+  "options": [
+   "Gross Domestic Product",
+   "Demand-pull inflation",
+   "Scale of preference",
+   "Economies of scale"
+  ],
+  "answer": 0,
+  "explanation": "This is the definition of gross domestic product.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes the direct exchange of goods for goods?",
+  "options": [
+   "Ad valorem tax",
+   "Indirect tax",
+   "Price ceiling",
+   "Barter"
+  ],
+  "answer": 3,
+  "explanation": "This is the definition of barter.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes the need for each party in a trade to want what the other has?",
+  "options": [
+   "Double coincidence of wants",
+   "Privatisation",
+   "Proportional tax",
+   "Oligopoly"
+  ],
+  "answer": 0,
+  "explanation": "This is the definition of double coincidence of wants.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes the ease with which an asset can be turned into cash?",
+  "options": [
+   "Scarcity",
+   "Liquidity",
+   "Mixed economy",
+   "Devaluation"
+  ],
+  "answer": 1,
+  "explanation": "This is the definition of liquidity.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes the buying and selling of government securities by the central bank?",
+  "options": [
+   "Hyperinflation",
+   "Cartel",
+   "Open market operations",
+   "Devaluation"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of open market operations.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a tax paid directly to government by the person on whom it is imposed?",
+  "options": [
+   "Gross Domestic Product",
+   "Liquidity",
+   "Variable cost",
+   "Direct tax"
+  ],
+  "answer": 3,
+  "explanation": "This is the definition of direct tax.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a tax on goods and services, paid through prices?",
+  "options": [
+   "Gross Domestic Product",
+   "Indirect tax",
+   "Oligopoly",
+   "Sole proprietorship"
+  ],
+  "answer": 1,
+  "explanation": "This is the definition of indirect tax.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a tax whose rate rises as income rises?",
+  "options": [
+   "Excise duty",
+   "Elasticity of supply",
+   "Progressive tax",
+   "Specialisation"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of progressive tax.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a tax that takes a larger share of income from the poor than the rich?",
+  "options": [
+   "Optimum population",
+   "Economies of scale",
+   "Regressive tax",
+   "Command economy"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of regressive tax.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a tax that takes the same percentage from all incomes?",
+  "options": [
+   "Equilibrium price",
+   "Barter",
+   "Demand-pull inflation",
+   "Proportional tax"
+  ],
+  "answer": 3,
+  "explanation": "This is the definition of proportional tax.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes when government expenditure exceeds revenue?",
+  "options": [
+   "Stagflation",
+   "Budget deficit",
+   "Inferior good",
+   "Mixed economy"
+  ],
+  "answer": 1,
+  "explanation": "This is the definition of budget deficit.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a record of a country's transactions with the rest of the world?",
+  "options": [
+   "Balance of payments",
+   "Optimum population",
+   "Entrepreneur",
+   "Liquidity"
+  ],
+  "answer": 0,
+  "explanation": "This is the definition of balance of payments.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes the ratio of export prices to import prices?",
+  "options": [
+   "Privatisation",
+   "Terms of trade",
+   "Cost-push inflation",
+   "Cartel"
+  ],
+  "answer": 1,
+  "explanation": "This is the definition of terms of trade.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a tax on imported goods?",
+  "options": [
+   "Price floor",
+   "Regressive tax",
+   "Tariff",
+   "Scarcity"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of tariff.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a limit on the quantity of a good that can be imported?",
+  "options": [
+   "Comparative advantage",
+   "Inflation",
+   "Division of labour",
+   "Quota"
+  ],
+  "answer": 3,
+  "explanation": "This is the definition of quota.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a complete ban on trade with a country or in a product?",
+  "options": [
+   "Specialisation",
+   "Privatisation",
+   "Embargo",
+   "Comparative advantage"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of embargo.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes selling goods abroad below their cost of production?",
+  "options": [
+   "Budget deficit",
+   "Progressive tax",
+   "Dumping",
+   "Frictional unemployment"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of dumping.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes producing a good at a lower opportunity cost than another country?",
+  "options": [
+   "Comparative advantage",
+   "Privatisation",
+   "Elasticity of supply",
+   "Regressive tax"
+  ],
+  "answer": 0,
+  "explanation": "This is the definition of comparative advantage.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes the population size that gives the highest income per head?",
+  "options": [
+   "Command economy",
+   "Optimum population",
+   "Price floor",
+   "Effective demand"
+  ],
+  "answer": 1,
+  "explanation": "This is the definition of optimum population.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes the transfer of government-owned enterprises to private owners?",
+  "options": [
+   "Perfect competition",
+   "Frictional unemployment",
+   "Privatisation",
+   "Hyperinflation"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of privatisation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a business owned and run by its members for their mutual benefit?",
+  "options": [
+   "Proportional tax",
+   "Direct tax",
+   "Cooperative society",
+   "Scale of preference"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of cooperative society.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a business owned and controlled by one person?",
+  "options": [
+   "Sole proprietorship",
+   "Indirect tax",
+   "Double coincidence of wants",
+   "Terms of trade"
+  ],
+  "answer": 0,
+  "explanation": "This is the definition of sole proprietorship.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a business owned and controlled by government?",
+  "options": [
+   "Public corporation",
+   "Sole proprietorship",
+   "Mixed economy",
+   "Command economy"
+  ],
+  "answer": 0,
+  "explanation": "This is the definition of public corporation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes concentrating on producing a limited range of goods or tasks?",
+  "options": [
+   "Price ceiling",
+   "Monopoly",
+   "Embargo",
+   "Specialisation"
+  ],
+  "answer": 3,
+  "explanation": "This is the definition of specialisation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes the responsiveness of quantity supplied to a change in price?",
+  "options": [
+   "Progressive tax",
+   "Elasticity of supply",
+   "Effective demand",
+   "Quota"
+  ],
+  "answer": 1,
+  "explanation": "This is the definition of elasticity of supply.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes man-made resources used in further production?",
+  "options": [
+   "Capital",
+   "Optimum population",
+   "Demand-pull inflation",
+   "Marginal utility"
+  ],
+  "answer": 0,
+  "explanation": "This is the definition of capital.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes the factor that organises the other factors and bears the risk?",
+  "options": [
+   "Complementary goods",
+   "Entrepreneur",
+   "Equilibrium price",
+   "Liquidity"
+  ],
+  "answer": 1,
+  "explanation": "This is the definition of entrepreneur.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes short-term unemployment of people moving between jobs?",
+  "options": [
+   "Frictional unemployment",
+   "Price ceiling",
+   "Substitute goods",
+   "Entrepreneur"
+  ],
+  "answer": 0,
+  "explanation": "This is the definition of frictional unemployment.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes unemployment caused by long-term changes in the structure of industries?",
+  "options": [
+   "Devaluation",
+   "Structural unemployment",
+   "Balance of payments",
+   "Privatisation"
+  ],
+  "answer": 1,
+  "explanation": "This is the definition of structural unemployment.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes unemployment caused by seasonal changes in demand or weather?",
+  "options": [
+   "Opportunity cost",
+   "Progressive tax",
+   "Direct tax",
+   "Seasonal unemployment"
+  ],
+  "answer": 3,
+  "explanation": "This is the definition of seasonal unemployment.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes unemployment caused by a downturn in the trade cycle?",
+  "options": [
+   "Optimum population",
+   "Indirect tax",
+   "Cyclical unemployment",
+   "Cartel"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of cyclical unemployment.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes inflation caused by too much money chasing too few goods?",
+  "options": [
+   "Optimum population",
+   "Demand-pull inflation",
+   "Embargo",
+   "Fixed cost"
+  ],
+  "answer": 1,
+  "explanation": "This is the definition of demand-pull inflation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes inflation caused by rising costs of production?",
+  "options": [
+   "Cartel",
+   "Cost-push inflation",
+   "Supply",
+   "Embargo"
+  ],
+  "answer": 1,
+  "explanation": "This is the definition of cost-push inflation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes an extremely rapid and out-of-control rise in prices?",
+  "options": [
+   "Comparative advantage",
+   "Hyperinflation",
+   "Mixed economy",
+   "Budget deficit"
+  ],
+  "answer": 1,
+  "explanation": "This is the definition of hyperinflation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes the satisfaction derived from consuming a good or service?",
+  "options": [
+   "Dumping",
+   "Inferior good",
+   "Utility",
+   "Proportional tax"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of utility.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes the quantity producers are willing and able to offer for sale at a given price?",
+  "options": [
+   "Privatisation",
+   "Budget deficit",
+   "Supply",
+   "Stagflation"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of supply.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a tax on goods produced within the country?",
+  "options": [
+   "Optimum population",
+   "Fixed cost",
+   "Excise duty",
+   "Specialisation"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of excise duty.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes a tax charged as a percentage of the value of a good?",
+  "options": [
+   "Ad valorem tax",
+   "Oligopoly",
+   "Supply",
+   "Excise duty"
+  ],
+  "answer": 0,
+  "explanation": "This is the definition of ad valorem tax.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes an economy where both private and public sectors own and control resources?",
+  "options": [
+   "Balance of payments",
+   "Privatisation",
+   "Mixed economy",
+   "Quota"
+  ],
+  "answer": 2,
+  "explanation": "This is the definition of mixed economy.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Basic concepts",
+  "body": "What term describes an economy where the state makes the key decisions on production?",
+  "options": [
+   "Seasonal unemployment",
+   "Command economy",
+   "Fixed cost",
+   "Monopoly"
+  ],
+  "answer": 1,
+  "explanation": "This is the definition of command economy.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Factors of production",
+  "body": "The reward for land as a factor of production is",
+  "options": [
+   "wages",
+   "profit",
+   "rent",
+   "interest"
+  ],
+  "answer": 2,
+  "explanation": "Land → rent, labour → wages, capital → interest, entrepreneur → profit.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Factors of production",
+  "body": "The reward for labour as a factor of production is",
+  "options": [
+   "interest",
+   "wages",
+   "profit",
+   "rent"
+  ],
+  "answer": 1,
+  "explanation": "Land → rent, labour → wages, capital → interest, entrepreneur → profit.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Factors of production",
+  "body": "The reward for capital as a factor of production is",
+  "options": [
+   "wages",
+   "interest",
+   "rent",
+   "profit"
+  ],
+  "answer": 1,
+  "explanation": "Land → rent, labour → wages, capital → interest, entrepreneur → profit.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Factors of production",
+  "body": "The reward for entrepreneurship as a factor of production is",
+  "options": [
+   "interest",
+   "profit",
+   "wages",
+   "rent"
+  ],
+  "answer": 1,
+  "explanation": "Land → rent, labour → wages, capital → interest, entrepreneur → profit.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Factors of production",
+  "body": "Rent is the reward for which factor of production?",
+  "options": [
+   "Capital",
+   "Entrepreneurship",
+   "Labour",
+   "Land"
+  ],
+  "answer": 3,
+  "explanation": "Land → rent, labour → wages, capital → interest, entrepreneur → profit.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Factors of production",
+  "body": "Wages is the reward for which factor of production?",
+  "options": [
+   "Capital",
+   "Labour",
+   "Entrepreneurship",
+   "Land"
+  ],
+  "answer": 1,
+  "explanation": "Land → rent, labour → wages, capital → interest, entrepreneur → profit.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Factors of production",
+  "body": "Interest is the reward for which factor of production?",
+  "options": [
+   "Land",
+   "Capital",
+   "Entrepreneurship",
+   "Labour"
+  ],
+  "answer": 1,
+  "explanation": "Land → rent, labour → wages, capital → interest, entrepreneur → profit.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Factors of production",
+  "body": "Profit is the reward for which factor of production?",
+  "options": [
+   "Labour",
+   "Entrepreneurship",
+   "Capital",
+   "Land"
+  ],
+  "answer": 1,
+  "explanation": "Land → rent, labour → wages, capital → interest, entrepreneur → profit.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Institutions",
+  "body": "Which body issues the naira and controls money supply in Nigeria?",
+  "options": [
+   "Nigeria Deposit Insurance Corporation",
+   "Nigerian Exchange Group",
+   "Federal Ministry of Finance",
+   "Central Bank of Nigeria"
+  ],
+  "answer": 3,
+  "explanation": "The correct answer is: Central Bank of Nigeria.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Institutions",
+  "body": "The organisation of oil-exporting countries that Nigeria joined in 1971 is",
+  "options": [
+   "OPEC",
+   "WTO",
+   "OECD",
+   "ECOWAS"
+  ],
+  "answer": 0,
+  "explanation": "The correct answer is: OPEC.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Institutions",
+  "body": "ECOWAS was established in",
+  "options": [
+   "1963",
+   "1975",
+   "1999",
+   "1960"
+  ],
+  "answer": 1,
+  "explanation": "The correct answer is: 1975.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Institutions",
+  "body": "The 'lender of last resort' to commercial banks is the",
+  "options": [
+   "insurance company",
+   "stock exchange",
+   "development bank",
+   "central bank"
+  ],
+  "answer": 3,
+  "explanation": "The correct answer is: central bank.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Institutions",
+  "body": "A market for long-term funds and securities is the",
+  "options": [
+   "money market",
+   "foreign exchange market",
+   "commodity market",
+   "capital market"
+  ],
+  "answer": 3,
+  "explanation": "The correct answer is: capital market.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Institutions",
+  "body": "A market for short-term funds is the",
+  "options": [
+   "money market",
+   "capital market",
+   "labour market",
+   "stock market"
+  ],
+  "answer": 0,
+  "explanation": "The correct answer is: money market.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Institutions",
+  "body": "Shares in a public limited company are bought and sold on the",
+  "options": [
+   "central bank",
+   "stock exchange",
+   "money market",
+   "commodity board"
+  ],
+  "answer": 1,
+  "explanation": "The correct answer is: stock exchange.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Institutions",
+  "body": "The agency that protects bank depositors in Nigeria is the",
+  "options": [
+   "Securities and Exchange Commission",
+   "Corporate Affairs Commission",
+   "Nigeria Deposit Insurance Corporation",
+   "Central Bank of Nigeria"
+  ],
+  "answer": 2,
+  "explanation": "The correct answer is: Nigeria Deposit Insurance Corporation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Institutions",
+  "body": "The Securities and Exchange Commission regulates the",
+  "options": [
+   "commodity market",
+   "capital market",
+   "money market",
+   "labour market"
+  ],
+  "answer": 1,
+  "explanation": "The correct answer is: capital market.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ECO",
+  "topic": "Institutions",
+  "body": "Businesses in Nigeria are registered with the",
+  "options": [
+   "Corporate Affairs Commission",
+   "Federal Inland Revenue Service",
+   "Central Bank of Nigeria",
+   "Nigerian Customs Service"
+  ],
+  "answer": 0,
+  "explanation": "The correct answer is: Corporate Affairs Commission.",
+  "difficulty": 1
+ }
+]
