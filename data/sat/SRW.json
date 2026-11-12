@@ -1,0 +1,461 @@
+[
+  {
+    "subject": "SRW",
+    "topic": "Information and Ideas",
+    "body": "A city report states that the number of cyclists using a new protected lane rose from 420 in April to 610 in June. The report also notes that car traffic on the adjacent street remained nearly unchanged. Which conclusion is best supported?",
+    "options": [
+      "Most new cyclists previously drove cars",
+      "The lane was associated with an increase in cycling",
+      "The lane reduced traffic across the entire city",
+      "The lane caused a decrease in car traffic"
+    ],
+    "answer": 1,
+    "explanation": "The figures show more cyclists used the lane, but they do not establish why they changed or what happened citywide.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Information and Ideas",
+    "body": "A researcher compared two groups of seedlings. One group received eight hours of light daily; the other received twelve. After three weeks, the second group was taller on average. Which statement most accurately describes the result?",
+    "options": [
+      "The first group received too little light to survive",
+      "All plants grow taller when exposed to more than eight hours of light",
+      "In this experiment, seedlings receiving twelve hours of light grew taller on average",
+      "Light duration is the only factor that affects seedling height"
+    ],
+    "answer": 2,
+    "explanation": "The result applies to the seedlings and conditions in this experiment; it does not prove a universal rule.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Information and Ideas",
+    "body": "The passage says that a historian used shipping records to estimate how much grain entered a port. The records omit small private vessels. Which limitation follows most directly?",
+    "options": [
+      "The historian cannot compare imports across years",
+      "The estimate must include more grain than was imported",
+      "The records reveal the exact destination of every shipment",
+      "The estimate may undercount the total grain imported"
+    ],
+    "answer": 3,
+    "explanation": "Because some vessels are missing from the records, the total may be lower than the true amount.",
+    "difficulty": 2,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Information and Ideas",
+    "body": "A survey of 800 residents found that 64% supported extending library hours. The survey was sent only to people with active library cards. Which concern is most relevant?",
+    "options": [
+      "The percentage cannot be calculated from survey responses",
+      "The sample may not represent residents who do not use the library",
+      "The sample is too large to produce useful results",
+      "Library-card holders were necessarily opposed to the proposal"
+    ],
+    "answer": 1,
+    "explanation": "Restricting the survey to library-card holders may exclude residents whose views differ.",
+    "difficulty": 2,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Information and Ideas",
+    "body": "A scientist observes that a metal rod expands when heated and contracts when cooled. Which additional observation would best strengthen the claim that the change is reversible?",
+    "options": [
+      "A second rod has a different mass",
+      "The rod becomes brighter while heating",
+      "The rod returns to its original length after cooling",
+      "The rod is stored in a dry room"
+    ],
+    "answer": 2,
+    "explanation": "Returning to the original length after cooling directly supports reversibility.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Craft and Structure",
+    "body": "In the passage, the word “tentative” most nearly means “The committee offered a tentative schedule, explaining that dates might change after the venue inspection.”",
+    "options": [
+      "provisional",
+      "careless",
+      "final",
+      "detailed"
+    ],
+    "answer": 0,
+    "explanation": "The possibility of later changes shows that the schedule is provisional.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Craft and Structure",
+    "body": "Why does the author mention the failed prototype in a passage about the development of a low-cost water filter?",
+    "options": [
+      "To show how an early design problem informed later improvements",
+      "To argue that the project should be abandoned",
+      "To suggest that the filter was more expensive than expected",
+      "To introduce an unrelated research question"
+    ],
+    "answer": 0,
+    "explanation": "The failed prototype provides context for the design changes that followed.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Craft and Structure",
+    "body": "Which choice best describes the function of the final sentence? “The trial involved only one school. Further studies across different regions will be needed before the approach can be widely recommended.”",
+    "options": [
+      "It introduces evidence that contradicts the trial",
+      "It restates the research question",
+      "It qualifies the scope of the preceding findings",
+      "It gives a detailed description of the school"
+    ],
+    "answer": 2,
+    "explanation": "The sentence limits how broadly the results should be applied.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Craft and Structure",
+    "body": "In context, the phrase “a narrow window” refers to “Because the migratory birds stop at the wetland for only a few days, researchers have a narrow window in which to collect samples.”",
+    "options": [
+      "a small opening in a building",
+      "a limited number of research tools",
+      "a restricted geographical area",
+      "a short period of opportunity"
+    ],
+    "answer": 3,
+    "explanation": "The birds' brief stay creates a short period for collecting samples.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Craft and Structure",
+    "body": "Which statement best captures the main purpose of the passage? “Several towns have restored neglected canals. The projects have reduced local flooding in some areas and created walking routes. Their success, however, depends on regular maintenance.”",
+    "options": [
+      "To describe the history of water transport",
+      "To explain benefits of canal restoration while noting a condition for success",
+      "To compare the cost of canals in different towns",
+      "To argue that canals should replace roads"
+    ],
+    "answer": 1,
+    "explanation": "The passage presents benefits and then emphasizes the need for maintenance.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Expression of Ideas",
+    "body": "A student wants to emphasize that a new archive is useful to researchers because it makes rare letters searchable online. Which sentence best achieves this goal?",
+    "options": [
+      "By digitizing rare letters and making them searchable, the archive gives researchers easier access to primary sources",
+      "The archive contains letters, some of which are rare",
+      "Researchers have used archives for many years",
+      "The letters were written before the archive was created"
+    ],
+    "answer": 0,
+    "explanation": "This choice directly connects the searchable digital collection to its research value.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Expression of Ideas",
+    "body": "Notes: • Composer A wrote the score in 1912. • The first performance took place in 1915. • The work later became widely performed. Which choice best combines the notes to emphasize chronology?",
+    "options": [
+      "Composer A wrote the score in 1912, and it premiered three years later, in 1915, before becoming widely performed",
+      "Composer A wrote many scores, including one that was performed",
+      "The work became widely performed, and Composer A wrote it in 1912",
+      "The first performance was in 1915, although the composer is unknown"
+    ],
+    "answer": 0,
+    "explanation": "The sentence preserves the dates and places the events in chronological order.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Expression of Ideas",
+    "body": "A student is revising a paragraph about urban trees. Which transition best signals a contrast? “Trees can lower street temperatures during heat waves. _____, young trees require years of care before providing substantial shade.”",
+    "options": [
+      "However",
+      "For example",
+      "Similarly",
+      "Therefore"
+    ],
+    "answer": 0,
+    "explanation": "“However” introduces a contrast between an immediate benefit and a delayed one.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Expression of Ideas",
+    "body": "Notes: • A telescope opened in 2020. • It is located on a high-altitude plateau. • The location reduces atmospheric interference. Which choice most effectively explains why the location matters?",
+    "options": [
+      "High-altitude plateaus are found in several countries",
+      "The telescope is used to observe distant objects",
+      "Opened in 2020, the telescope sits on a high-altitude plateau, where thinner air reduces atmospheric interference",
+      "The telescope opened in 2020 on a plateau"
+    ],
+    "answer": 2,
+    "explanation": "This choice connects the location directly to its scientific advantage.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Expression of Ideas",
+    "body": "Which choice most logically completes the text? “The first survey recorded residents’ preferred transport options. A second survey, conducted six months later, asked the same questions. _____”",
+    "options": [
+      "Residents were not asked about transport",
+      "The second survey used a different set of questions",
+      "Researchers could therefore compare whether preferences had changed over time",
+      "The first survey was distributed after the second"
+    ],
+    "answer": 2,
+    "explanation": "Repeating the same questions allows comparison over time.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Standard English Conventions",
+    "body": "Neither the director nor the actors _____ available for the afternoon rehearsal.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has been"
+    ],
+    "answer": 1,
+    "explanation": "With “neither…nor,” the verb agrees with the nearer subject, “actors,” which is plural.",
+    "difficulty": 2,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Standard English Conventions",
+    "body": "The collection of maps, including several rare coastal charts, _____ stored in the climate-controlled room.",
+    "options": [
+      "were",
+      "have been",
+      "are",
+      "is"
+    ],
+    "answer": 3,
+    "explanation": "The subject is the singular noun “collection,” not the plural “maps.”",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Standard English Conventions",
+    "body": "Which choice completes the sentence according to standard English conventions? “After reviewing the evidence, _____.”",
+    "options": [
+      "the recommendation was revised by the committee",
+      "the committee revised its recommendation",
+      "the evidence led to a revision",
+      "a revised recommendation was issued"
+    ],
+    "answer": 1,
+    "explanation": "The introductory modifier must describe the subject that follows; the committee reviewed the evidence.",
+    "difficulty": 2,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Standard English Conventions",
+    "body": "The researcher labelled each sample carefully, _____ the labels were checked by a second technician.",
+    "options": [
+      "but",
+      "and",
+      "or",
+      "for"
+    ],
+    "answer": 1,
+    "explanation": "“And” correctly joins two related independent clauses.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Standard English Conventions",
+    "body": "Which choice uses the apostrophe correctly?",
+    "options": [
+      "The student’s projects were displayed in the hall",
+      "The students projects’ were displayed in the hall",
+      "The students’s projects were displayed in the hall",
+      "The students’ projects were displayed in the hall"
+    ],
+    "answer": 3,
+    "explanation": "The plural noun “students” takes an apostrophe after the s to show shared possession.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Standard English Conventions",
+    "body": "The novel, along with two short stories, _____ included in the course syllabus.",
+    "options": [
+      "have been",
+      "are",
+      "were",
+      "is"
+    ],
+    "answer": 3,
+    "explanation": "The singular subject “novel” determines the verb; the intervening phrase does not change agreement.",
+    "difficulty": 2,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Standard English Conventions",
+    "body": "Which choice completes the sentence? “The museum acquired the painting in 1984; _____, it was not displayed until the gallery reopened in 1991.”",
+    "options": [
+      "similarly",
+      "for example",
+      "therefore",
+      "however"
+    ],
+    "answer": 3,
+    "explanation": "The second clause contrasts with the acquisition date, so “however” is appropriate.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Standard English Conventions",
+    "body": "The committee considered three proposals, _____ each addressed a different aspect of the problem.",
+    "options": [
+      "each of which",
+      "each",
+      "each of them",
+      "which each"
+    ],
+    "answer": 0,
+    "explanation": "“Each of which” correctly introduces a relative clause modifying “proposals.”",
+    "difficulty": 2,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Information and Ideas",
+    "body": "A study found that a particular bee species visited 18 plant species in a forest fragment and 11 in a nearby field. Researchers caution that they observed the bees for twice as long in the forest. What is the main limitation?",
+    "options": [
+      "The forest fragment is necessarily healthier",
+      "The field must contain fewer plant species overall",
+      "The longer observation period may explain some of the difference",
+      "The bees cannot visit more than 11 plant species"
+    ],
+    "answer": 2,
+    "explanation": "Unequal observation time makes the raw counts difficult to compare.",
+    "difficulty": 2,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Craft and Structure",
+    "body": "In context, “sustain” most nearly means “The evidence is not sufficient to sustain the claim that the new policy caused the increase.”",
+    "options": [
+      "support",
+      "delay",
+      "repeat",
+      "weaken"
+    ],
+    "answer": 0,
+    "explanation": "Evidence that sustains a claim supports it.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Expression of Ideas",
+    "body": "A student wants to introduce an example that illustrates a general claim about public parks. Which transition is most appropriate?",
+    "options": [
+      "As a result",
+      "For instance",
+      "Nevertheless",
+      "In contrast"
+    ],
+    "answer": 1,
+    "explanation": "“For instance” introduces a specific example.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SRW",
+    "topic": "Standard English Conventions",
+    "body": "By the time the guests arrived, the musicians _____ their instruments.",
+    "options": [
+      "has tuned",
+      "tunes",
+      "had tuned",
+      "will tune"
+    ],
+    "answer": 2,
+    "explanation": "The past perfect describes an action completed before another past event.",
+    "difficulty": 2,
+    "exams": [
+      "SAT"
+    ]
+  }
+]

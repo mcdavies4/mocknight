@@ -4,7 +4,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Mock Night — exam practice that sticks",
-  description: "Daily practice, real timed tests and certificates: JAMB, WAEC, Post-UTME, WASSCE Ghana, the Life in the UK test and Fire Marshal training.",
+  description: "Daily practice, real timed tests and certificates: JAMB, WAEC, Post-UTME, WASSCE Ghana, the Life in the UK test, Digital SAT practice and Fire Marshal training.",
 };
 
 export const viewport: Viewport = {

@@ -1,6 +1,6 @@
 # Mock Night
 
-Exam practice for **JAMB, WAEC and the Life in the UK Test**, on Telegram and on the web. Each "track" (`lib/tracks.ts`) defines its subjects, mock format, pass mark and pricing.
+Exam practice for **JAMB, WAEC, Digital SAT and the Life in the UK Test**, on Telegram and on the web. Each "track" (`lib/tracks.ts`) defines its subjects, mock format, pass mark and pricing.
 
 | Track | Where | Mock format | Payments |
 |---|---|---|---|
@@ -10,6 +10,7 @@ Exam practice for **JAMB, WAEC and the Life in the UK Test**, on Telegram and on
 | Post-UTME | Telegram + web | 12 per subject, 40 min | Paystack (₦) |
 | WASSCE Ghana | Telegram + web | 15 per subject, 30 min; Mock Night (by region) | Free |
 | Fire Marshal | Web + Telegram | 8 lesson modules + 20-question final (80%), PDF certificate 12 months | Stripe (£), company seats |
+| Digital SAT | Telegram first | Reading and Writing Module 1: 27 questions / 32 min; Math Module 1: 22 questions / 35 min | No SAT-specific plan configured yet |
 
 **Growth & learning features**
 - Shareable result cards (`/api/card/[attemptId]`, share page `/r/[attemptId]`) with the sharer's invite link
@@ -19,9 +20,9 @@ Exam practice for **JAMB, WAEC and the Life in the UK Test**, on Telegram and on
 - Connect Telegram to a web account (one shared account and progress)
 - Courses: lessons in `data/courses/<TRACK>.json`, certificates (`/api/cert/[no]`, verify at `/verify/[no]`), 30-day expiry reminders, company dashboard with training records CSV
 
-To add a track: add it to `lib/tracks.ts`, its plan to `lib/pricing.ts`, write a generator in `scripts/bank/`, then run `npm run build-bank` and import.
+To add a track: add it to `lib/tracks.ts`, its plan to `lib/pricing.ts`, write a generator in `scripts/bank/`, then run `npm run build-bank` and import. Digital SAT is an initial Telegram-first pathway with original one-module practice banks in `data/sat/`; see `DIGITAL-SAT-README.md` for import steps and scope limits.
 
-JAMB & WAEC prep on Telegram:
+JAMB, WAEC and Digital SAT prep on Telegram:
 
 - **Daily drill**: questions in the student's subjects at the time they choose. Questions are sent as native Telegram quiz polls, or as A–D buttons when a question is too long for a poll. Wrong answers go into a review box and come back after 1, 2, 4, 8 and 16 days until mastered.
 - **Practice CBT**: a Telegram Mini App that works like the exam hall, with a timer, subject tabs, a question map, a calculator and A–D/N/P keyboard shortcuts. Answers autosave and resume after a dropped connection. It ends with a score per subject, a JAMB-style score out of 400 and a review of every question.

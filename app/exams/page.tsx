@@ -18,13 +18,14 @@ const PATHS: Record<TrackCode, string> = {
   PM: "/project-management",
   ETH: "/ethiopia",
   SSC: "/ssc",
+  SAT: "/digital-sat",
 };
 
 const GROUPS: { title: string; description: string; codes: TrackCode[] }[] = [
   {
     title: "Academic & admissions exams",
     description: "Prepare for school-leaving, university-entry and national examinations.",
-    codes: ["JAMB", "WAEC", "PUTME", "WASSCE_GH", "ETH"],
+    codes: ["JAMB", "WAEC", "PUTME", "WASSCE_GH", "ETH", "SAT"],
   },
   {
     title: "Professional & career exams",

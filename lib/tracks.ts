@@ -2,9 +2,9 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "LUK" | "FIRE" | "NMC" | "PM" | "ETH" | "SSC";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "LUK" | "FIRE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
-export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata";
+export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
 export interface Marking { correct: number; wrong: number }
 
@@ -152,6 +152,19 @@ export const TRACKS: Record<TrackCode, Track> = {
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["ssc_quarter", "ssc_year"], tagline: "SSC CGL Tier 1 mocks with negative marking, daily questions and sectionals", timeZone: "Asia/Kolkata", timeLabel: "India (IST)",
     audience: "an Indian candidate preparing for SSC CGL/CHSL and similar government job exams (reasoning, quantitative aptitude, English, general awareness)",
+  },
+  SAT: {
+    code: "SAT", name: "Digital SAT", short: "Digital SAT", emoji: "🌐", kind: "school", region: "GLOBAL", currency: "GBP",
+    subjectMode: "single", subjects: ["SRW", "SMT"], compulsory: ["SRW", "SMT"], minSubjects: 2, maxSubjects: 2,
+    subjectNote: "Both Reading and Writing and Math are included",
+    mock: { total: 27, minutes: 32, scoreStyle: "percent", maxSubjects: 1 },
+    mockVariants: [
+      { key: "RW", label: "Reading and Writing — Module 1 practice", short: "Reading & Writing", subjects: ["SRW"], total: 27, minutes: 32, note: "27 original questions · 32 minutes · Module 1 practice" },
+      { key: "MATH", label: "Math — Module 1 practice", short: "Math", subjects: ["SMT"], total: 22, minutes: 35, note: "22 original questions · 35 minutes · Module 1 practice" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: [], tagline: "Original Digital SAT-style daily drills and timed section practice", timeZone: "UTC", timeLabel: "UTC",
+    audience: "a global student preparing for the College Board Digital SAT, with original practice questions rather than copied official test items",
   },
 };
 
