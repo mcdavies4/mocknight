@@ -1,0 +1,1906 @@
+[
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "On which date did the Constitution of India come into force?",
+  "options": [
+   "26 January 1950",
+   "26 November 1949",
+   "2 October 1950",
+   "15 August 1947"
+  ],
+  "answer": 0,
+  "explanation": "It was adopted on 26 November 1949 and came into force on 26 January 1950 (Republic Day).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "On which date was the Constitution of India adopted by the Constituent Assembly?",
+  "options": [
+   "9 December 1946",
+   "15 August 1947",
+   "26 January 1950",
+   "26 November 1949"
+  ],
+  "answer": 3,
+  "explanation": "26 November is observed as Constitution Day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "Who was the Chairman of the Drafting Committee of the Indian Constitution?",
+  "options": [
+   "Jawaharlal Nehru",
+   "Dr B. R. Ambedkar",
+   "Sardar Vallabhbhai Patel",
+   "Dr Rajendra Prasad"
+  ],
+  "answer": 1,
+  "explanation": "Dr Rajendra Prasad was President of the Constituent Assembly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "Who was the President of the Constituent Assembly of India?",
+  "options": [
+   "Maulana Abul Kalam Azad",
+   "Dr B. R. Ambedkar",
+   "Dr Rajendra Prasad",
+   "C. Rajagopalachari"
+  ],
+  "answer": 2,
+  "explanation": "He later became India's first President.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "Fundamental Rights are contained in which Part of the Constitution?",
+  "options": [
+   "Part III",
+   "Part IV",
+   "Part IVA",
+   "Part II"
+  ],
+  "answer": 0,
+  "explanation": "Articles 12–35.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "Directive Principles of State Policy are in which Part of the Constitution?",
+  "options": [
+   "Part IVA",
+   "Part V",
+   "Part III",
+   "Part IV"
+  ],
+  "answer": 3,
+  "explanation": "Articles 36–51.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "Fundamental Duties were added by which Constitutional Amendment?",
+  "options": [
+   "44th Amendment",
+   "61st Amendment",
+   "73rd Amendment",
+   "42nd Amendment (1976)"
+  ],
+  "answer": 3,
+  "explanation": "They are in Part IVA, Article 51A.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "Which Article guarantees the right to life and personal liberty?",
+  "options": [
+   "Article 19",
+   "Article 14",
+   "Article 32",
+   "Article 21"
+  ],
+  "answer": 3,
+  "explanation": "Article 21 has been interpreted widely by the courts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "Which Article provides the right to constitutional remedies?",
+  "options": [
+   "Article 32",
+   "Article 21",
+   "Article 226",
+   "Article 14"
+  ],
+  "answer": 0,
+  "explanation": "Dr Ambedkar called it the 'heart and soul' of the Constitution.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "Which Article provides for equality before the law?",
+  "options": [
+   "Article 19",
+   "Article 17",
+   "Article 21",
+   "Article 14"
+  ],
+  "answer": 3,
+  "explanation": "Equality before law and equal protection of laws.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "Which Article abolishes untouchability?",
+  "options": [
+   "Article 15",
+   "Article 23",
+   "Article 14",
+   "Article 17"
+  ],
+  "answer": 3,
+  "explanation": "Its practice in any form is forbidden.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "Which Article deals with a National Emergency?",
+  "options": [
+   "Article 352",
+   "Article 370",
+   "Article 356",
+   "Article 360"
+  ],
+  "answer": 0,
+  "explanation": "Article 356 is President's Rule; 360 is Financial Emergency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "President's Rule in a state is imposed under which Article?",
+  "options": [
+   "Article 365",
+   "Article 360",
+   "Article 352",
+   "Article 356"
+  ],
+  "answer": 3,
+  "explanation": "Used when constitutional machinery in a state fails.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "Which Article deals with a Financial Emergency?",
+  "options": [
+   "Article 280",
+   "Article 356",
+   "Article 352",
+   "Article 360"
+  ],
+  "answer": 3,
+  "explanation": "It has never been declared.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "The Election Commission of India is provided for under which Article?",
+  "options": [
+   "Article 324",
+   "Article 315",
+   "Article 280",
+   "Article 148"
+  ],
+  "answer": 0,
+  "explanation": "It supervises elections to Parliament, state legislatures and the offices of President and Vice-President.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "The Comptroller and Auditor General of India is provided for under which Article?",
+  "options": [
+   "Article 324",
+   "Article 76",
+   "Article 280",
+   "Article 148"
+  ],
+  "answer": 3,
+  "explanation": "Article 76 is the Attorney General; 280 the Finance Commission.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "Who is the ex officio Chairman of the Rajya Sabha?",
+  "options": [
+   "The Speaker",
+   "The Vice-President of India",
+   "The President of India",
+   "The Prime Minister"
+  ],
+  "answer": 1,
+  "explanation": "The Speaker presides over the Lok Sabha.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "What is the minimum age to become President of India?",
+  "options": [
+   "25 years",
+   "40 years",
+   "35 years",
+   "30 years"
+  ],
+  "answer": 2,
+  "explanation": "Minimum age for Lok Sabha is 25 and Rajya Sabha 30.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "What is the minimum age to be a member of the Lok Sabha?",
+  "options": [
+   "35 years",
+   "30 years",
+   "25 years",
+   "18 years"
+  ],
+  "answer": 2,
+  "explanation": "Rajya Sabha members must be at least 30.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "A Money Bill can be introduced only in",
+  "options": [
+   "the Rajya Sabha",
+   "a joint sitting",
+   "either House",
+   "the Lok Sabha"
+  ],
+  "answer": 3,
+  "explanation": "Article 110 defines a Money Bill.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "Which Amendment lowered the voting age from 21 to 18?",
+  "options": [
+   "73rd Amendment",
+   "52nd Amendment",
+   "61st Amendment",
+   "42nd Amendment"
+  ],
+  "answer": 2,
+  "explanation": "It came into effect in 1989.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "Which Amendment gave constitutional status to Panchayati Raj?",
+  "options": [
+   "86th Amendment",
+   "73rd Amendment",
+   "42nd Amendment",
+   "74th Amendment"
+  ],
+  "answer": 1,
+  "explanation": "The 74th Amendment covers urban local bodies (municipalities).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "The right to education (Article 21A) was inserted by which Amendment?",
+  "options": [
+   "42nd Amendment",
+   "91st Amendment",
+   "86th Amendment",
+   "73rd Amendment"
+  ],
+  "answer": 2,
+  "explanation": "Free and compulsory education for children aged 6–14.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "The anti-defection law is in which Schedule of the Constitution?",
+  "options": [
+   "Ninth Schedule",
+   "Seventh Schedule",
+   "Tenth Schedule",
+   "Eighth Schedule"
+  ],
+  "answer": 2,
+  "explanation": "Added by the 52nd Amendment (1985).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "The languages recognised by the Constitution are listed in which Schedule?",
+  "options": [
+   "Tenth Schedule",
+   "Eighth Schedule",
+   "Sixth Schedule",
+   "Seventh Schedule"
+  ],
+  "answer": 1,
+  "explanation": "It currently lists 22 languages.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "The Union, State and Concurrent Lists are in which Schedule?",
+  "options": [
+   "Fourth Schedule",
+   "Eighth Schedule",
+   "Seventh Schedule",
+   "First Schedule"
+  ],
+  "answer": 2,
+  "explanation": "They divide law-making powers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "What is the maximum strength of the Rajya Sabha?",
+  "options": [
+   "552",
+   "245",
+   "250",
+   "238"
+  ],
+  "answer": 2,
+  "explanation": "Up to 238 elected and 12 nominated members.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "How many members can the President nominate to the Rajya Sabha?",
+  "options": [
+   "10",
+   "12",
+   "2",
+   "15"
+  ],
+  "answer": 1,
+  "explanation": "People with special knowledge of literature, science, art and social service.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "The idea of the Preamble was borrowed largely from the Constitution of",
+  "options": [
+   "Ireland",
+   "the USA",
+   "the UK",
+   "Canada"
+  ],
+  "answer": 1,
+  "explanation": "Directive Principles were inspired by Ireland; parliamentary government by the UK.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Polity",
+  "body": "Directive Principles of State Policy were inspired by the Constitution of",
+  "options": [
+   "Japan",
+   "Australia",
+   "Ireland",
+   "the USA"
+  ],
+  "answer": 2,
+  "explanation": "Fundamental Rights were inspired by the US Bill of Rights.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "In which year did the Revolt of 1857 (First War of Independence) begin?",
+  "options": [
+   "1757",
+   "1885",
+   "1905",
+   "1857"
+  ],
+  "answer": 3,
+  "explanation": "It began at Meerut in May 1857.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "In which year was the Indian National Congress founded?",
+  "options": [
+   "1857",
+   "1885",
+   "1905",
+   "1906"
+  ],
+  "answer": 1,
+  "explanation": "It was founded with the help of A. O. Hume; the first session was in Bombay.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "Who founded the Indian National Congress (with Indian leaders) in 1885?",
+  "options": [
+   "A. O. Hume",
+   "Lord Curzon",
+   "Dadabhai Naoroji alone",
+   "Bal Gangadhar Tilak"
+  ],
+  "answer": 0,
+  "explanation": "W. C. Bonnerjee presided over the first session.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "Bengal was partitioned in 1905 under which Viceroy?",
+  "options": [
+   "Lord Mountbatten",
+   "Lord Ripon",
+   "Lord Dalhousie",
+   "Lord Curzon"
+  ],
+  "answer": 3,
+  "explanation": "The partition was reversed in 1911.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "The Jallianwala Bagh massacre took place in 1919 in which city?",
+  "options": [
+   "Amritsar",
+   "Lahore",
+   "Lucknow",
+   "Delhi"
+  ],
+  "answer": 0,
+  "explanation": "Troops under General Dyer fired on a peaceful gathering.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "The Dandi March (Salt Satyagraha) began in",
+  "options": [
+   "1919",
+   "1920",
+   "1930",
+   "1942"
+  ],
+  "answer": 2,
+  "explanation": "Gandhi marched from Sabarmati Ashram to Dandi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "The Quit India Movement was launched in",
+  "options": [
+   "1930",
+   "1947",
+   "1942",
+   "1920"
+  ],
+  "answer": 2,
+  "explanation": "Gandhi gave the call 'Do or Die'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "The Non-Cooperation Movement was launched in",
+  "options": [
+   "1905",
+   "1930",
+   "1920",
+   "1942"
+  ],
+  "answer": 2,
+  "explanation": "It was called off after the Chauri Chaura incident in 1922.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "Gandhi's first satyagraha in India (1917) was at",
+  "options": [
+   "Kheda",
+   "Champaran",
+   "Bardoli",
+   "Dandi"
+  ],
+  "answer": 1,
+  "explanation": "It supported indigo farmers in Bihar.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "The Battle of Plassey (1757) was fought between the British and",
+  "options": [
+   "Hyder Ali",
+   "Shah Alam II",
+   "Tipu Sultan",
+   "Siraj-ud-Daulah"
+  ],
+  "answer": 3,
+  "explanation": "It established British power in Bengal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "The First Battle of Panipat (1526) established the rule of",
+  "options": [
+   "Akbar",
+   "Sher Shah Suri",
+   "Ibrahim Lodi",
+   "Babur (the Mughals)"
+  ],
+  "answer": 3,
+  "explanation": "Babur defeated Ibrahim Lodi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "The Battle of Buxar was fought in",
+  "options": [
+   "1857",
+   "1757",
+   "1764",
+   "1526"
+  ],
+  "answer": 2,
+  "explanation": "The British defeated the combined forces of Mir Qasim, Shuja-ud-Daula and Shah Alam II.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "The Lahore session of Congress (1929) adopted the resolution of",
+  "options": [
+   "Partition",
+   "Purna Swaraj (complete independence)",
+   "Dominion status",
+   "Quit India"
+  ],
+  "answer": 1,
+  "explanation": "It was presided over by Jawaharlal Nehru.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "The Simon Commission arrived in India in",
+  "options": [
+   "1935",
+   "1928",
+   "1942",
+   "1919"
+  ],
+  "answer": 1,
+  "explanation": "It was boycotted because it had no Indian members.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "Who built the Taj Mahal?",
+  "options": [
+   "Jahangir",
+   "Shah Jahan",
+   "Aurangzeb",
+   "Akbar"
+  ],
+  "answer": 1,
+  "explanation": "In memory of Mumtaz Mahal, at Agra.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "Which Mauryan emperor embraced Buddhism after the Kalinga War?",
+  "options": [
+   "Samudragupta",
+   "Ashoka",
+   "Chandragupta Maurya",
+   "Bindusara"
+  ],
+  "answer": 1,
+  "explanation": "The Kalinga War was fought around 261 BCE.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "Where did Gautama Buddha deliver his first sermon?",
+  "options": [
+   "Lumbini",
+   "Sarnath",
+   "Bodh Gaya",
+   "Kushinagar"
+  ],
+  "answer": 1,
+  "explanation": "He attained enlightenment at Bodh Gaya.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "Which Harappan site is known for its dockyard?",
+  "options": [
+   "Lothal",
+   "Mohenjo-daro",
+   "Harappa",
+   "Kalibangan"
+  ],
+  "answer": 0,
+  "explanation": "Lothal is in Gujarat.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "Who was the 24th Tirthankara of Jainism?",
+  "options": [
+   "Parshvanatha",
+   "Rishabhanatha",
+   "Gautama",
+   "Mahavira"
+  ],
+  "answer": 3,
+  "explanation": "Rishabhanatha was the first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "Shivaji was crowned Chhatrapati in",
+  "options": [
+   "1674",
+   "1761",
+   "1707",
+   "1627"
+  ],
+  "answer": 0,
+  "explanation": "At Raigad.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "Gandhi returned to India from South Africa in",
+  "options": [
+   "1909",
+   "1893",
+   "1920",
+   "1915"
+  ],
+  "answer": 3,
+  "explanation": "He returned on 9 January 1915 (now Pravasi Bharatiya Divas).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "History",
+  "body": "India became independent on",
+  "options": [
+   "26 January 1930",
+   "26 January 1950",
+   "2 October 1947",
+   "15 August 1947"
+  ],
+  "answer": 3,
+  "explanation": "The Indian Independence Act 1947 was passed by the British Parliament.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "Which is the largest state of India by area?",
+  "options": [
+   "Maharashtra",
+   "Rajasthan",
+   "Madhya Pradesh",
+   "Uttar Pradesh"
+  ],
+  "answer": 1,
+  "explanation": "Uttar Pradesh is the most populous.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "Which is the smallest state of India by area?",
+  "options": [
+   "Tripura",
+   "Goa",
+   "Mizoram",
+   "Sikkim"
+  ],
+  "answer": 1,
+  "explanation": "Sikkim is the least populous state.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "India's Standard Meridian is",
+  "options": [
+   "0° longitude",
+   "90° E longitude",
+   "77° E longitude",
+   "82.5° E longitude"
+  ],
+  "answer": 3,
+  "explanation": "IST is 5 hours 30 minutes ahead of GMT.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "The southernmost point of India is",
+  "options": [
+   "Kanyakumari",
+   "Rameswaram",
+   "Indira Point",
+   "Lakshadweep"
+  ],
+  "answer": 2,
+  "explanation": "Indira Point is in the Andaman & Nicobar Islands; Kanyakumari is the southern tip of the mainland.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "The largest brackish water lagoon in India is",
+  "options": [
+   "Wular Lake",
+   "Chilika Lake",
+   "Pulicat Lake",
+   "Dal Lake"
+  ],
+  "answer": 1,
+  "explanation": "Chilika is in Odisha.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "The largest freshwater lake in India is",
+  "options": [
+   "Wular Lake",
+   "Loktak Lake",
+   "Dal Lake",
+   "Chilika Lake"
+  ],
+  "answer": 0,
+  "explanation": "Wular is in Jammu & Kashmir.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "Which strait separates India from Sri Lanka?",
+  "options": [
+   "Ten Degree Channel",
+   "Strait of Malacca",
+   "Palk Strait",
+   "Bab-el-Mandeb"
+  ],
+  "answer": 2,
+  "explanation": "The Ten Degree Channel separates the Andaman and Nicobar Islands.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "Which two major rivers of peninsular India flow west into the Arabian Sea?",
+  "options": [
+   "Mahanadi and Kaveri",
+   "Godavari and Krishna",
+   "Ganga and Yamuna",
+   "Narmada and Tapi"
+  ],
+  "answer": 3,
+  "explanation": "Most peninsular rivers flow east into the Bay of Bengal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "Black soil is best suited for growing",
+  "options": [
+   "rubber",
+   "tea",
+   "rice",
+   "cotton"
+  ],
+  "answer": 3,
+  "explanation": "It is also called regur soil.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "Kaziranga National Park is famous for the",
+  "options": [
+   "Bengal tiger only",
+   "one-horned rhinoceros",
+   "Asiatic lion",
+   "snow leopard"
+  ],
+  "answer": 1,
+  "explanation": "It is in Assam.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "Gir National Park is the home of the",
+  "options": [
+   "red panda",
+   "one-horned rhinoceros",
+   "Asiatic lion",
+   "Nilgiri tahr"
+  ],
+  "answer": 2,
+  "explanation": "It is in Gujarat.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "The Sundarbans, the largest mangrove forest, are in",
+  "options": [
+   "Gujarat",
+   "Kerala",
+   "West Bengal (and Bangladesh)",
+   "Odisha"
+  ],
+  "answer": 2,
+  "explanation": "They are home to the Royal Bengal tiger.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "The Western Ghats are also known as the",
+  "options": [
+   "Satpura",
+   "Vindhya",
+   "Sahyadri",
+   "Aravalli"
+  ],
+  "answer": 2,
+  "explanation": "They run along India's west coast.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "The oldest fold mountains in India are the",
+  "options": [
+   "Satpura Range",
+   "Western Ghats",
+   "Aravalli Range",
+   "Himalayas"
+  ],
+  "answer": 2,
+  "explanation": "They run through Rajasthan.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "The Tropic of Cancer passes through how many Indian states?",
+  "options": [
+   "8",
+   "10",
+   "6",
+   "7"
+  ],
+  "answer": 0,
+  "explanation": "Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "The longest river flowing entirely within India is the",
+  "options": [
+   "Godavari",
+   "Indus",
+   "Ganga",
+   "Brahmaputra"
+  ],
+  "answer": 2,
+  "explanation": "The Godavari is the longest peninsular river.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Science",
+  "body": "Deficiency of vitamin C causes",
+  "options": [
+   "night blindness",
+   "scurvy",
+   "rickets",
+   "beriberi"
+  ],
+  "answer": 1,
+  "explanation": "Vitamin D deficiency causes rickets; vitamin A night blindness; B1 beriberi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Science",
+  "body": "Deficiency of vitamin D causes",
+  "options": [
+   "rickets",
+   "anaemia",
+   "goitre",
+   "scurvy"
+  ],
+  "answer": 0,
+  "explanation": "Vitamin D helps the body absorb calcium.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Science",
+  "body": "Night blindness is caused by deficiency of",
+  "options": [
+   "vitamin C",
+   "vitamin B12",
+   "vitamin A",
+   "vitamin K"
+  ],
+  "answer": 2,
+  "explanation": "Carrots and leafy greens are good sources.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Science",
+  "body": "Goitre is caused by deficiency of",
+  "options": [
+   "iron",
+   "iodine",
+   "zinc",
+   "calcium"
+  ],
+  "answer": 1,
+  "explanation": "Iodised salt helps prevent it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Science",
+  "body": "The SI unit of force is the",
+  "options": [
+   "newton",
+   "watt",
+   "joule",
+   "pascal"
+  ],
+  "answer": 0,
+  "explanation": "1 N = 1 kg·m/s².",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Science",
+  "body": "The chemical formula of common salt is",
+  "options": [
+   "NaHCO₃",
+   "KCl",
+   "NaCl",
+   "CaCO₃"
+  ],
+  "answer": 2,
+  "explanation": "Sodium chloride.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Science",
+  "body": "Laughing gas is",
+  "options": [
+   "carbon monoxide",
+   "nitrogen dioxide",
+   "nitrous oxide (N₂O)",
+   "ammonia"
+  ],
+  "answer": 2,
+  "explanation": "It is used as a mild anaesthetic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Science",
+  "body": "Which is called the powerhouse of the cell?",
+  "options": [
+   "Nucleus",
+   "Golgi body",
+   "Ribosome",
+   "Mitochondria"
+  ],
+  "answer": 3,
+  "explanation": "Mitochondria release energy through respiration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Science",
+  "body": "The largest gland in the human body is the",
+  "options": [
+   "thyroid",
+   "pancreas",
+   "pituitary",
+   "liver"
+  ],
+  "answer": 3,
+  "explanation": "The pituitary is called the master gland.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Science",
+  "body": "Insulin is produced by the",
+  "options": [
+   "kidney",
+   "liver",
+   "pancreas",
+   "thyroid"
+  ],
+  "answer": 2,
+  "explanation": "It controls blood sugar.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Science",
+  "body": "Red blood cells are formed mainly in the",
+  "options": [
+   "bone marrow",
+   "liver",
+   "spleen",
+   "heart"
+  ],
+  "answer": 0,
+  "explanation": "In adults, mainly in flat bones and the ends of long bones.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Science",
+  "body": "The pH of pure water at 25 °C is",
+  "options": [
+   "7",
+   "0",
+   "14",
+   "1"
+  ],
+  "answer": 0,
+  "explanation": "Below 7 is acidic; above 7 is basic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Science",
+  "body": "The hardest natural substance is",
+  "options": [
+   "quartz",
+   "iron",
+   "diamond",
+   "graphite"
+  ],
+  "answer": 2,
+  "explanation": "Both diamond and graphite are forms of carbon.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Science",
+  "body": "Approximately what is the speed of light in a vacuum?",
+  "options": [
+   "3 × 10⁸ m/s",
+   "3 × 10⁵ m/s",
+   "340 m/s",
+   "3 × 10⁶ km/s"
+  ],
+  "answer": 0,
+  "explanation": "About 300,000 km per second.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Science",
+  "body": "Which gas do plants mainly absorb for photosynthesis?",
+  "options": [
+   "Carbon dioxide",
+   "Oxygen",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "answer": 0,
+  "explanation": "They release oxygen.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Economy",
+  "body": "In which year was the Reserve Bank of India established?",
+  "options": [
+   "1969",
+   "1947",
+   "1935",
+   "1949"
+  ],
+  "answer": 2,
+  "explanation": "It was nationalised in 1949.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Economy",
+  "body": "Where is the headquarters of the Reserve Bank of India?",
+  "options": [
+   "Mumbai",
+   "Chennai",
+   "New Delhi",
+   "Kolkata"
+  ],
+  "answer": 0,
+  "explanation": "It moved from Kolkata to Mumbai in 1937.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Economy",
+  "body": "NITI Aayog replaced the Planning Commission in",
+  "options": [
+   "2010",
+   "2014",
+   "2015",
+   "2017"
+  ],
+  "answer": 2,
+  "explanation": "It was set up on 1 January 2015.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Economy",
+  "body": "The Goods and Services Tax (GST) was introduced in India on",
+  "options": [
+   "1 July 2017",
+   "1 April 2016",
+   "1 January 2018",
+   "8 November 2016"
+  ],
+  "answer": 0,
+  "explanation": "It replaced many indirect taxes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Economy",
+  "body": "India's financial year runs from",
+  "options": [
+   "1 January to 31 December",
+   "1 April to 31 March",
+   "1 October to 30 September",
+   "1 July to 30 June"
+  ],
+  "answer": 1,
+  "explanation": "The Union Budget is for this year.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Economy",
+  "body": "The First Five-Year Plan began in",
+  "options": [
+   "1951",
+   "1947",
+   "1961",
+   "1956"
+  ],
+  "answer": 0,
+  "explanation": "It focused on agriculture.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Economy",
+  "body": "Who is known as the father of the Green Revolution in India?",
+  "options": [
+   "Verghese Kurien",
+   "M. S. Swaminathan",
+   "Homi Bhabha",
+   "C. V. Raman"
+  ],
+  "answer": 1,
+  "explanation": "Verghese Kurien led the White Revolution (Operation Flood).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Economy",
+  "body": "The White Revolution in India is associated with",
+  "options": [
+   "eggs",
+   "milk production",
+   "oilseeds",
+   "fish"
+  ],
+  "answer": 1,
+  "explanation": "Operation Flood, led by Verghese Kurien.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Economy",
+  "body": "The rupee symbol (₹) was adopted in",
+  "options": [
+   "2000",
+   "2005",
+   "2014",
+   "2010"
+  ],
+  "answer": 3,
+  "explanation": "It was designed by D. Udaya Kumar.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "India's national animal is the",
+  "options": [
+   "lion",
+   "peacock",
+   "tiger",
+   "elephant"
+  ],
+  "answer": 2,
+  "explanation": "The national bird is the peacock.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "India's national aquatic animal is the",
+  "options": [
+   "Ganges river dolphin",
+   "turtle",
+   "blue whale",
+   "crocodile"
+  ],
+  "answer": 0,
+  "explanation": "It was declared in 2009.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "Who wrote India's national anthem, Jana Gana Mana?",
+  "options": [
+   "Muhammad Iqbal",
+   "Sarojini Naidu",
+   "Bankim Chandra Chatterjee",
+   "Rabindranath Tagore"
+  ],
+  "answer": 3,
+  "explanation": "Bankim Chandra wrote the national song, Vande Mataram.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "Who wrote the national song Vande Mataram?",
+  "options": [
+   "Subramania Bharati",
+   "Rabindranath Tagore",
+   "Sarojini Naidu",
+   "Bankim Chandra Chatterjee"
+  ],
+  "answer": 3,
+  "explanation": "It appears in his novel Anandamath.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "The first Indian to win a Nobel Prize was",
+  "options": [
+   "Mother Teresa",
+   "Amartya Sen",
+   "C. V. Raman",
+   "Rabindranath Tagore (1913)"
+  ],
+  "answer": 3,
+  "explanation": "He won the Nobel Prize in Literature.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "National Sports Day in India (29 August) marks the birthday of",
+  "options": [
+   "P. T. Usha",
+   "Milkha Singh",
+   "Major Dhyan Chand",
+   "Sachin Tendulkar"
+  ],
+  "answer": 2,
+  "explanation": "The hockey legend.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "The Ranji Trophy is associated with",
+  "options": [
+   "badminton",
+   "hockey",
+   "football",
+   "cricket"
+  ],
+  "answer": 3,
+  "explanation": "The Durand Cup is football.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "The Durand Cup is associated with",
+  "options": [
+   "tennis",
+   "hockey",
+   "football",
+   "cricket"
+  ],
+  "answer": 2,
+  "explanation": "It is one of the oldest football tournaments in Asia.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "The dance form Bharatanatyam is mainly associated with which state?",
+  "options": [
+   "Kerala",
+   "Manipur",
+   "Assam",
+   "Tamil Nadu"
+  ],
+  "answer": 3,
+  "explanation": "Bharatanatyam — Tamil Nadu.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "The dance form Kathakali is mainly associated with which state?",
+  "options": [
+   "Assam",
+   "Kerala",
+   "Odisha",
+   "Manipur"
+  ],
+  "answer": 1,
+  "explanation": "Kathakali — Kerala.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "The dance form Kuchipudi is mainly associated with which state?",
+  "options": [
+   "Andhra Pradesh",
+   "Kerala",
+   "Gujarat",
+   "Punjab"
+  ],
+  "answer": 0,
+  "explanation": "Kuchipudi — Andhra Pradesh.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "The dance form Odissi is mainly associated with which state?",
+  "options": [
+   "Assam",
+   "Kerala",
+   "Tamil Nadu",
+   "Odisha"
+  ],
+  "answer": 3,
+  "explanation": "Odissi — Odisha.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "The dance form Manipuri is mainly associated with which state?",
+  "options": [
+   "Punjab",
+   "Odisha",
+   "Manipur",
+   "Assam"
+  ],
+  "answer": 2,
+  "explanation": "Manipuri — Manipur.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "The dance form Sattriya is mainly associated with which state?",
+  "options": [
+   "Kerala",
+   "Tamil Nadu",
+   "Manipur",
+   "Assam"
+  ],
+  "answer": 3,
+  "explanation": "Sattriya — Assam.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "The dance form Mohiniyattam is mainly associated with which state?",
+  "options": [
+   "Tamil Nadu",
+   "Manipur",
+   "Gujarat",
+   "Kerala"
+  ],
+  "answer": 3,
+  "explanation": "Mohiniyattam — Kerala.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "The dance form Bihu is mainly associated with which state?",
+  "options": [
+   "Tamil Nadu",
+   "Kerala",
+   "Odisha",
+   "Assam"
+  ],
+  "answer": 3,
+  "explanation": "Bihu — Assam.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "The dance form Garba is mainly associated with which state?",
+  "options": [
+   "Punjab",
+   "Gujarat",
+   "Manipur",
+   "Kerala"
+  ],
+  "answer": 1,
+  "explanation": "Garba — Gujarat.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "The dance form Bhangra is mainly associated with which state?",
+  "options": [
+   "Gujarat",
+   "Assam",
+   "Tamil Nadu",
+   "Punjab"
+  ],
+  "answer": 3,
+  "explanation": "Bhangra — Punjab.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "The festival Onam is mainly celebrated in",
+  "options": [
+   "Kerala",
+   "Nagaland",
+   "Punjab",
+   "Assam"
+  ],
+  "answer": 0,
+  "explanation": "Onam — Kerala.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "The festival Pongal is mainly celebrated in",
+  "options": [
+   "Kerala",
+   "Nagaland",
+   "Tamil Nadu",
+   "Punjab"
+  ],
+  "answer": 2,
+  "explanation": "Pongal — Tamil Nadu.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "The festival Bihu is mainly celebrated in",
+  "options": [
+   "Assam",
+   "Nagaland",
+   "Bihar",
+   "Punjab"
+  ],
+  "answer": 0,
+  "explanation": "Bihu — Assam.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "The festival Lohri is mainly celebrated in",
+  "options": [
+   "Tamil Nadu",
+   "Bihar",
+   "Kerala",
+   "Punjab"
+  ],
+  "answer": 3,
+  "explanation": "Lohri — Punjab.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "The festival Chhath is mainly celebrated in",
+  "options": [
+   "Assam",
+   "Punjab",
+   "Tamil Nadu",
+   "Bihar"
+  ],
+  "answer": 3,
+  "explanation": "Chhath — Bihar.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Culture & sports",
+  "body": "The festival Hornbill Festival is mainly celebrated in",
+  "options": [
+   "Punjab",
+   "Tamil Nadu",
+   "Nagaland",
+   "Bihar"
+  ],
+  "answer": 2,
+  "explanation": "Hornbill Festival — Nagaland.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "What is the capital of Rajasthan?",
+  "options": [
+   "Gangtok",
+   "Shillong",
+   "Jaipur",
+   "Bengaluru"
+  ],
+  "answer": 2,
+  "explanation": "Jaipur is the capital of Rajasthan.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "What is the capital of Maharashtra?",
+  "options": [
+   "Mumbai",
+   "Bengaluru",
+   "Chennai",
+   "Hyderabad"
+  ],
+  "answer": 0,
+  "explanation": "Mumbai is the capital of Maharashtra.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "What is the capital of Karnataka?",
+  "options": [
+   "Ranchi",
+   "Raipur",
+   "Mumbai",
+   "Bengaluru"
+  ],
+  "answer": 3,
+  "explanation": "Bengaluru is the capital of Karnataka.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "What is the capital of Tamil Nadu?",
+  "options": [
+   "Gandhinagar",
+   "Chennai",
+   "Bhubaneswar",
+   "Shimla"
+  ],
+  "answer": 1,
+  "explanation": "Chennai is the capital of Tamil Nadu.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "What is the capital of West Bengal?",
+  "options": [
+   "Mumbai",
+   "Bhubaneswar",
+   "Kolkata",
+   "Lucknow"
+  ],
+  "answer": 2,
+  "explanation": "Kolkata is the capital of West Bengal.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "What is the capital of Gujarat?",
+  "options": [
+   "Ranchi",
+   "Raipur",
+   "Gandhinagar",
+   "Dispur"
+  ],
+  "answer": 2,
+  "explanation": "Gandhinagar is the capital of Gujarat.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "What is the capital of Kerala?",
+  "options": [
+   "Thiruvananthapuram",
+   "Hyderabad",
+   "Mumbai",
+   "Gangtok"
+  ],
+  "answer": 0,
+  "explanation": "Thiruvananthapuram is the capital of Kerala.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "What is the capital of Odisha?",
+  "options": [
+   "Bhubaneswar",
+   "Gandhinagar",
+   "Thiruvananthapuram",
+   "Lucknow"
+  ],
+  "answer": 0,
+  "explanation": "Bhubaneswar is the capital of Odisha.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "What is the capital of Assam?",
+  "options": [
+   "Bhopal",
+   "Hyderabad",
+   "Ranchi",
+   "Dispur"
+  ],
+  "answer": 3,
+  "explanation": "Dispur is the capital of Assam.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "What is the capital of Bihar?",
+  "options": [
+   "Bhubaneswar",
+   "Imphal",
+   "Mumbai",
+   "Patna"
+  ],
+  "answer": 3,
+  "explanation": "Patna is the capital of Bihar.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "What is the capital of Madhya Pradesh?",
+  "options": [
+   "Bhopal",
+   "Kolkata",
+   "Dispur",
+   "Bengaluru"
+  ],
+  "answer": 0,
+  "explanation": "Bhopal is the capital of Madhya Pradesh.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "What is the capital of Uttar Pradesh?",
+  "options": [
+   "Lucknow",
+   "Imphal",
+   "Patna",
+   "Raipur"
+  ],
+  "answer": 0,
+  "explanation": "Lucknow is the capital of Uttar Pradesh.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "What is the capital of Telangana?",
+  "options": [
+   "Hyderabad",
+   "Jaipur",
+   "Patna",
+   "Gandhinagar"
+  ],
+  "answer": 0,
+  "explanation": "Hyderabad is the capital of Telangana.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "What is the capital of Jharkhand?",
+  "options": [
+   "Raipur",
+   "Imphal",
+   "Ranchi",
+   "Shimla"
+  ],
+  "answer": 2,
+  "explanation": "Ranchi is the capital of Jharkhand.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "What is the capital of Chhattisgarh?",
+  "options": [
+   "Raipur",
+   "Kolkata",
+   "Imphal",
+   "Bhopal"
+  ],
+  "answer": 0,
+  "explanation": "Raipur is the capital of Chhattisgarh.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "What is the capital of Uttarakhand?",
+  "options": [
+   "Bhubaneswar",
+   "Dehradun",
+   "Jaipur",
+   "Patna"
+  ],
+  "answer": 1,
+  "explanation": "Dehradun is the capital of Uttarakhand.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "What is the capital of Himachal Pradesh?",
+  "options": [
+   "Gandhinagar",
+   "Mumbai",
+   "Shimla",
+   "Dehradun"
+  ],
+  "answer": 2,
+  "explanation": "Shimla is the capital of Himachal Pradesh.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "What is the capital of Meghalaya?",
+  "options": [
+   "Imphal",
+   "Dispur",
+   "Shillong",
+   "Mumbai"
+  ],
+  "answer": 2,
+  "explanation": "Shillong is the capital of Meghalaya.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "What is the capital of Manipur?",
+  "options": [
+   "Chennai",
+   "Dehradun",
+   "Imphal",
+   "Patna"
+  ],
+  "answer": 2,
+  "explanation": "Imphal is the capital of Manipur.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GAI",
+  "topic": "Geography",
+  "body": "What is the capital of Sikkim?",
+  "options": [
+   "Chennai",
+   "Bhopal",
+   "Gandhinagar",
+   "Gangtok"
+  ],
+  "answer": 3,
+  "explanation": "Gangtok is the capital of Sikkim.",
+  "difficulty": 1
+ }
+]

@@ -1,0 +1,1654 @@
+[
+ {
+  "subject": "HIS",
+  "topic": "Ancient Ethiopia",
+  "body": "Which ancient kingdom had its capital at Aksum?",
+  "options": [
+   "The Aksumite Kingdom",
+   "The Zagwe Kingdom",
+   "The Adal Sultanate",
+   "The Kingdom of Kush"
+  ],
+  "answer": 0,
+  "explanation": "Aksum was a major trading power linking Africa, Arabia and the Mediterranean.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Ancient Ethiopia",
+  "body": "Which Aksumite king adopted Christianity in the 4th century AD?",
+  "options": [
+   "Lalibela",
+   "Kaleb",
+   "Ezana",
+   "Zara Yaqob"
+  ],
+  "answer": 2,
+  "explanation": "Christianity became the state religion under King Ezana.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Ancient Ethiopia",
+  "body": "Aksum is famous for its tall carved stone monuments called",
+  "options": [
+   "stelae (obelisks)",
+   "ziggurats",
+   "pyramids",
+   "rock-hewn churches"
+  ],
+  "answer": 0,
+  "explanation": "The stelae marked royal tombs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Ancient Ethiopia",
+  "body": "The Aksumites developed a written script called",
+  "options": [
+   "Ge'ez",
+   "Cuneiform",
+   "Hieroglyphics",
+   "Tifinagh"
+  ],
+  "answer": 0,
+  "explanation": "Ge'ez is still the liturgical language of the Ethiopian Orthodox Church.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Ancient Ethiopia",
+  "body": "Which Red Sea port was important to the trade of Aksum?",
+  "options": [
+   "Mombasa",
+   "Zeila",
+   "Adulis",
+   "Massawa only from 1900"
+  ],
+  "answer": 2,
+  "explanation": "Adulis connected Aksum to Red Sea and Indian Ocean trade.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Medieval Ethiopia",
+  "body": "The rock-hewn churches of Lalibela were built under which dynasty?",
+  "options": [
+   "The Zagwe dynasty",
+   "The Aksumite dynasty",
+   "The Solomonic dynasty",
+   "The Gondarine dynasty"
+  ],
+  "answer": 0,
+  "explanation": "They are named after King Lalibela.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Medieval Ethiopia",
+  "body": "In 1270 the 'Solomonic' dynasty was restored by",
+  "options": [
+   "Yekuno Amlak",
+   "Lalibela",
+   "Ezana",
+   "Tewodros II"
+  ],
+  "answer": 0,
+  "explanation": "He replaced the Zagwe dynasty.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Medieval Ethiopia",
+  "body": "Which leader of the Adal Sultanate invaded the Christian highlands in the 16th century?",
+  "options": [
+   "Ras Alula",
+   "Yohannes IV",
+   "Ahmad ibn Ibrahim al-Ghazi (Ahmad Gragn)",
+   "Menelik I"
+  ],
+  "answer": 2,
+  "explanation": "He won the Battle of Shimbra Kure in 1529.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Medieval Ethiopia",
+  "body": "Ahmad Gragn was killed in 1543 at the Battle of",
+  "options": [
+   "Adwa",
+   "Wayna Daga",
+   "Shimbra Kure",
+   "Metemma"
+  ],
+  "answer": 1,
+  "explanation": "Emperor Gelawdewos was helped by Portuguese soldiers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Medieval Ethiopia",
+  "body": "Which European country sent soldiers to help Ethiopia against Adal in the 1540s?",
+  "options": [
+   "Portugal",
+   "France",
+   "Italy",
+   "Britain"
+  ],
+  "answer": 0,
+  "explanation": "The force was led by Cristóvão da Gama.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Medieval Ethiopia",
+  "body": "Which emperor made Gondar the capital in the 1630s?",
+  "options": [
+   "Tewodros II",
+   "Zara Yaqob",
+   "Menelik II",
+   "Fasilides"
+  ],
+  "answer": 3,
+  "explanation": "Gondar's royal castles (Fasil Ghebbi) are a UNESCO site.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Medieval Ethiopia",
+  "body": "The period of weak emperors and rival regional lords from 1769 to 1855 is called",
+  "options": [
+   "the Italian occupation",
+   "the Derg era",
+   "Zemene Mesafint (the Era of the Princes)",
+   "the Aksumite period"
+  ],
+  "answer": 2,
+  "explanation": "It ended when Tewodros II was crowned.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "Who was crowned emperor in 1855 and began reunifying Ethiopia?",
+  "options": [
+   "Tewodros II",
+   "Menelik II",
+   "Yohannes IV",
+   "Haile Selassie"
+  ],
+  "answer": 0,
+  "explanation": "He tried to centralise power and modernise the army.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "Tewodros II died in 1868 at",
+  "options": [
+   "Metemma",
+   "Adwa",
+   "Magdala (Meqdela)",
+   "Gondar"
+  ],
+  "answer": 2,
+  "explanation": "He took his own life as a British expedition stormed his fortress.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "Emperor Yohannes IV was killed in 1889 at the Battle of Metemma fighting the",
+  "options": [
+   "Mahdists of Sudan",
+   "British",
+   "Italians",
+   "Egyptians"
+  ],
+  "answer": 0,
+  "explanation": "He had earlier defeated Egypt at Gundet (1875) and Gura (1876).",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "Ethiopia defeated Egyptian invaders in 1875–76 under",
+  "options": [
+   "Lij Iyasu",
+   "Menelik II",
+   "Tewodros II",
+   "Yohannes IV"
+  ],
+  "answer": 3,
+  "explanation": "The battles of Gundet and Gura.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "Which treaty did Menelik II sign with Italy in 1889 that led to war?",
+  "options": [
+   "The Algiers Agreement",
+   "The Treaty of Versailles",
+   "The Treaty of Wuchale",
+   "The Treaty of Addis Ababa"
+  ],
+  "answer": 2,
+  "explanation": "The Italian text of Article 17 claimed Ethiopia as a protectorate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "Which article of the Treaty of Wuchale was disputed?",
+  "options": [
+   "Article 1",
+   "Article 21",
+   "Article 17",
+   "Article 10"
+  ],
+  "answer": 2,
+  "explanation": "The Amharic and Italian versions said different things.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "In which year did Ethiopia defeat Italy at the Battle of Adwa?",
+  "options": [
+   "1941",
+   "1889",
+   "1896",
+   "1935"
+  ],
+  "answer": 2,
+  "explanation": "Fought on 1 March 1896.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "Which emperor led Ethiopia to victory at Adwa?",
+  "options": [
+   "Yohannes IV",
+   "Haile Selassie",
+   "Menelik II",
+   "Tewodros II"
+  ],
+  "answer": 2,
+  "explanation": "With Empress Taytu Betul and leaders such as Ras Alula and Ras Makonnen.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "Which empress played a major role at Adwa and in founding Addis Ababa?",
+  "options": [
+   "Taytu Betul",
+   "Mentewab",
+   "Zewditu",
+   "Menen Asfaw"
+  ],
+  "answer": 0,
+  "explanation": "She was Menelik II's wife.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "After Adwa, Italy recognised Ethiopia's independence in the",
+  "options": [
+   "Treaty of Versailles",
+   "Treaty of Addis Ababa (1896)",
+   "Algiers Agreement",
+   "Treaty of Wuchale"
+  ],
+  "answer": 1,
+  "explanation": "It annulled the Treaty of Wuchale.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "Addis Ababa was founded in the 1880s by",
+  "options": [
+   "Fasilides",
+   "Haile Selassie",
+   "Tewodros II",
+   "Menelik II and Taytu Betul"
+  ],
+  "answer": 3,
+  "explanation": "Its name means 'new flower'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "The Ethio-Djibouti railway reached Addis Ababa in",
+  "options": [
+   "1896",
+   "1935",
+   "1917",
+   "1960"
+  ],
+  "answer": 2,
+  "explanation": "It linked the capital to the sea at Djibouti.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "Ethiopia joined the League of Nations in",
+  "options": [
+   "1935",
+   "1945",
+   "1923",
+   "1919"
+  ],
+  "answer": 2,
+  "explanation": "It was one of very few African members.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "Ras Tafari Makonnen was crowned Emperor Haile Selassie I in",
+  "options": [
+   "1955",
+   "1916",
+   "1930",
+   "1941"
+  ],
+  "answer": 2,
+  "explanation": "He ruled until 1974.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "Ethiopia's first written constitution was issued in",
+  "options": [
+   "1955",
+   "1995",
+   "1931",
+   "1896"
+  ],
+  "answer": 2,
+  "explanation": "A revised constitution followed in 1955.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "Fascist Italy under Mussolini invaded Ethiopia in",
+  "options": [
+   "1935",
+   "1896",
+   "1923",
+   "1941"
+  ],
+  "answer": 0,
+  "explanation": "Italy occupied the country from 1936 to 1941.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "The Italian occupation of Ethiopia ended in",
+  "options": [
+   "1941",
+   "1945",
+   "1952",
+   "1936"
+  ],
+  "answer": 0,
+  "explanation": "Ethiopian patriots and British forces drove Italy out; Haile Selassie returned.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "In 1936 Haile Selassie appealed for help against Italy at the",
+  "options": [
+   "United Nations in New York",
+   "OAU in Addis Ababa",
+   "British Parliament",
+   "League of Nations in Geneva"
+  ],
+  "answer": 3,
+  "explanation": "The League failed to act effectively.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "Eritrea was federated with Ethiopia in 1952 and annexed in",
+  "options": [
+   "1941",
+   "1974",
+   "1991",
+   "1962"
+  ],
+  "answer": 3,
+  "explanation": "This fuelled a 30-year armed struggle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "The Organisation of African Unity (OAU) was founded in Addis Ababa in",
+  "options": [
+   "2002",
+   "1957",
+   "1960",
+   "1963"
+  ],
+  "answer": 3,
+  "explanation": "It was replaced by the African Union in 2002.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "The African Union replaced the OAU in",
+  "options": [
+   "1991",
+   "1999",
+   "1963",
+   "2002"
+  ],
+  "answer": 3,
+  "explanation": "Its headquarters are in Addis Ababa.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "Haile Selassie was overthrown in 1974 by a military committee known as the",
+  "options": [
+   "Mahdists",
+   "TPLF",
+   "Derg",
+   "EPRDF"
+  ],
+  "answer": 2,
+  "explanation": "The Derg was led by Mengistu Haile Mariam.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "Who led the Derg regime?",
+  "options": [
+   "Mengistu Haile Mariam",
+   "Ras Mekonnen",
+   "Meles Zenawi",
+   "Lij Iyasu"
+  ],
+  "answer": 0,
+  "explanation": "He ruled until 1991.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "The Derg's 1975 land reform is remembered by the slogan",
+  "options": [
+   "'Land to the tiller'",
+   "'Land and freedom'",
+   "'Ethiopia first'",
+   "'Africa for Africans'"
+  ],
+  "answer": 0,
+  "explanation": "Rural land was nationalised.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "The Ogaden War of 1977–78 was fought between Ethiopia and",
+  "options": [
+   "Kenya",
+   "Somalia",
+   "Eritrea",
+   "Sudan"
+  ],
+  "answer": 1,
+  "explanation": "Ethiopia, supported by the USSR and Cuba, regained the Ogaden.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "The Derg government fell in 1991 to the",
+  "options": [
+   "EPRDF",
+   "Mahdists",
+   "Italian army",
+   "OAU"
+  ],
+  "answer": 0,
+  "explanation": "The Ethiopian People's Revolutionary Democratic Front.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "Eritrea became formally independent after a referendum in",
+  "options": [
+   "1991",
+   "1962",
+   "2000",
+   "1993"
+  ],
+  "answer": 3,
+  "explanation": "Ethiopia became landlocked.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "The current Constitution of the Federal Democratic Republic of Ethiopia was adopted in",
+  "options": [
+   "1931",
+   "1955",
+   "1995",
+   "1987"
+  ],
+  "answer": 2,
+  "explanation": "It created a federal system of regional states.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "The Ethiopia–Eritrea border war was fought from",
+  "options": [
+   "1961 to 1991",
+   "1935 to 1941",
+   "1998 to 2000",
+   "1977 to 1978"
+  ],
+  "answer": 2,
+  "explanation": "It ended with the Algiers Agreement (2000).",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "Which Ethiopian Prime Minister won the Nobel Peace Prize in 2019?",
+  "options": [
+   "Mengistu Haile Mariam",
+   "Abiy Ahmed",
+   "Hailemariam Desalegn",
+   "Meles Zenawi"
+  ],
+  "answer": 1,
+  "explanation": "For his initiative to end the border conflict with Eritrea.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Modern Ethiopia",
+  "body": "Ethiopia and Liberia are often described as the African countries that were",
+  "options": [
+   "the first to join the EU",
+   "never colonised (Ethiopia was only briefly occupied 1936–41)",
+   "British protectorates",
+   "French colonies"
+  ],
+  "answer": 1,
+  "explanation": "Adwa preserved Ethiopian independence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "World history",
+  "body": "The Berlin Conference that divided Africa among European powers took place in",
+  "options": [
+   "1914",
+   "1945",
+   "1884–85",
+   "1896"
+  ],
+  "answer": 2,
+  "explanation": "It formalised the 'Scramble for Africa'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "World history",
+  "body": "Which was the first sub-Saharan African colony to gain independence (1957)?",
+  "options": [
+   "Nigeria",
+   "Kenya",
+   "Sudan",
+   "Ghana"
+  ],
+  "answer": 3,
+  "explanation": "Led by Kwame Nkrumah.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "World history",
+  "body": "Who led Ghana to independence and championed Pan-Africanism?",
+  "options": [
+   "Julius Nyerere",
+   "Kwame Nkrumah",
+   "Jomo Kenyatta",
+   "Nelson Mandela"
+  ],
+  "answer": 1,
+  "explanation": "Ghana became independent in 1957.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "World history",
+  "body": "World War I lasted from",
+  "options": [
+   "1914 to 1918",
+   "1905 to 1910",
+   "1939 to 1945",
+   "1917 to 1923"
+  ],
+  "answer": 0,
+  "explanation": "It was triggered by the assassination of Archduke Franz Ferdinand.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "World history",
+  "body": "The immediate trigger of World War I was the assassination of",
+  "options": [
+   "Tsar Nicholas II",
+   "Otto von Bismarck",
+   "Archduke Franz Ferdinand",
+   "Abraham Lincoln"
+  ],
+  "answer": 2,
+  "explanation": "In Sarajevo, June 1914.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "World history",
+  "body": "The treaty that ended World War I with Germany was the",
+  "options": [
+   "Treaty of Wuchale",
+   "Treaty of Paris (1783)",
+   "Treaty of Westphalia",
+   "Treaty of Versailles (1919)"
+  ],
+  "answer": 3,
+  "explanation": "It imposed heavy reparations on Germany.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "World history",
+  "body": "World War II lasted from",
+  "options": [
+   "1939 to 1945",
+   "1941 to 1949",
+   "1935 to 1941",
+   "1914 to 1918"
+  ],
+  "answer": 0,
+  "explanation": "It began with Germany's invasion of Poland.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "World history",
+  "body": "The United Nations was founded in",
+  "options": [
+   "1963",
+   "1919",
+   "1939",
+   "1945"
+  ],
+  "answer": 3,
+  "explanation": "It replaced the League of Nations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "World history",
+  "body": "The French Revolution began in",
+  "options": [
+   "1789",
+   "1776",
+   "1815",
+   "1848"
+  ],
+  "answer": 0,
+  "explanation": "It promoted liberty, equality and fraternity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "World history",
+  "body": "The Industrial Revolution began in",
+  "options": [
+   "the USA",
+   "Britain",
+   "Ethiopia",
+   "France"
+  ],
+  "answer": 1,
+  "explanation": "In the late 18th century.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "World history",
+  "body": "The American Declaration of Independence was signed in",
+  "options": [
+   "1789",
+   "1776",
+   "1865",
+   "1607"
+  ],
+  "answer": 1,
+  "explanation": "The 13 colonies broke from Britain.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "World history",
+  "body": "The Russian Revolution that brought the Bolsheviks to power took place in",
+  "options": [
+   "1905",
+   "1945",
+   "1789",
+   "1917"
+  ],
+  "answer": 3,
+  "explanation": "Led by Lenin.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "World history",
+  "body": "Apartheid ended in South Africa with democratic elections in",
+  "options": [
+   "1980",
+   "1994",
+   "1960",
+   "2000"
+  ],
+  "answer": 1,
+  "explanation": "Nelson Mandela became president.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "World history",
+  "body": "Ancient Mesopotamia developed between which two rivers?",
+  "options": [
+   "Indus and Ganges",
+   "Blue Nile and White Nile",
+   "Nile and Congo",
+   "Tigris and Euphrates"
+  ],
+  "answer": 3,
+  "explanation": "In present-day Iraq.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "World history",
+  "body": "The fascist leader of Italy who ordered the invasion of Ethiopia was",
+  "options": [
+   "Adolf Hitler",
+   "Francisco Franco",
+   "Victor Emmanuel II",
+   "Benito Mussolini"
+  ],
+  "answer": 3,
+  "explanation": "Italy invaded in October 1935.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "World history",
+  "body": "The period of tension between the USA and the USSR after 1945 is called the",
+  "options": [
+   "Scramble for Africa",
+   "Great Depression",
+   "Cold War",
+   "Hundred Years' War"
+  ],
+  "answer": 2,
+  "explanation": "It ended around 1991.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "World history",
+  "body": "The Renaissance began in",
+  "options": [
+   "Italy",
+   "Russia",
+   "England",
+   "Egypt"
+  ],
+  "answer": 0,
+  "explanation": "In the 14th–15th centuries.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "World history",
+  "body": "Christopher Columbus reached the Americas in",
+  "options": [
+   "1415",
+   "1492",
+   "1520",
+   "1607"
+  ],
+  "answer": 1,
+  "explanation": "Sailing for Spain.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the Battle of Shimbra Kure take place?",
+  "options": [
+   "1868",
+   "1543",
+   "1855",
+   "1529"
+  ],
+  "answer": 3,
+  "explanation": "The Battle of Shimbra Kure: 1529.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1529?",
+  "options": [
+   "The fall of Magdala",
+   "The coronation of Tewodros II",
+   "The death of Ahmad Gragn at Wayna Daga",
+   "The Battle of Shimbra Kure"
+  ],
+  "answer": 3,
+  "explanation": "1529: the Battle of Shimbra Kure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the death of Ahmad Gragn at Wayna Daga take place?",
+  "options": [
+   "1868",
+   "1855",
+   "1529",
+   "1543"
+  ],
+  "answer": 3,
+  "explanation": "The death of Ahmad Gragn at Wayna Daga: 1543.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1543?",
+  "options": [
+   "The fall of Magdala",
+   "The coronation of Tewodros II",
+   "The Battle of Shimbra Kure",
+   "The death of Ahmad Gragn at Wayna Daga"
+  ],
+  "answer": 3,
+  "explanation": "1543: the death of Ahmad Gragn at Wayna Daga.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the coronation of Tewodros II take place?",
+  "options": [
+   "1868",
+   "1875",
+   "1855",
+   "1884"
+  ],
+  "answer": 2,
+  "explanation": "The coronation of Tewodros II: 1855.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1855?",
+  "options": [
+   "The Battle of Gundet",
+   "The Berlin Conference opening",
+   "The fall of Magdala",
+   "The coronation of Tewodros II"
+  ],
+  "answer": 3,
+  "explanation": "1855: the coronation of Tewodros II.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the fall of Magdala take place?",
+  "options": [
+   "1884",
+   "1875",
+   "1868",
+   "1855"
+  ],
+  "answer": 2,
+  "explanation": "The fall of Magdala: 1868.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1868?",
+  "options": [
+   "The fall of Magdala",
+   "The Battle of Gundet",
+   "The coronation of Tewodros II",
+   "The Berlin Conference opening"
+  ],
+  "answer": 0,
+  "explanation": "1868: the fall of Magdala.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the Battle of Gundet take place?",
+  "options": [
+   "1889",
+   "1875",
+   "1884",
+   "1868"
+  ],
+  "answer": 1,
+  "explanation": "The Battle of Gundet: 1875.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1875?",
+  "options": [
+   "The fall of Magdala",
+   "The Berlin Conference opening",
+   "The Battle of Gundet",
+   "The Battle of Metemma"
+  ],
+  "answer": 2,
+  "explanation": "1875: the Battle of Gundet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the Battle of Metemma take place?",
+  "options": [
+   "1896",
+   "1884",
+   "1889",
+   "1875"
+  ],
+  "answer": 2,
+  "explanation": "The Battle of Metemma: 1889.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1889?",
+  "options": [
+   "The Battle of Gundet",
+   "The Battle of Metemma",
+   "The Battle of Adwa",
+   "The Berlin Conference opening"
+  ],
+  "answer": 1,
+  "explanation": "1889: the Battle of Metemma.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the signing of the Treaty of Wuchale take place?",
+  "options": [
+   "1875",
+   "1896",
+   "1889",
+   "1884"
+  ],
+  "answer": 2,
+  "explanation": "The signing of the Treaty of Wuchale: 1889.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the Battle of Adwa take place?",
+  "options": [
+   "1896",
+   "1884",
+   "1889",
+   "1914"
+  ],
+  "answer": 0,
+  "explanation": "The Battle of Adwa: 1896.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1896?",
+  "options": [
+   "The Battle of Adwa",
+   "The signing of the Treaty of Wuchale",
+   "The Battle of Metemma",
+   "The Berlin Conference opening"
+  ],
+  "answer": 0,
+  "explanation": "1896: the Battle of Adwa.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the railway reaching Addis Ababa from Djibouti take place?",
+  "options": [
+   "1917",
+   "1923",
+   "1930",
+   "1914"
+  ],
+  "answer": 0,
+  "explanation": "The railway reaching Addis Ababa from Djibouti: 1917.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1917?",
+  "options": [
+   "Ethiopia joining the League of Nations",
+   "The start of World War I",
+   "The coronation of Haile Selassie",
+   "The railway reaching Addis Ababa from Djibouti"
+  ],
+  "answer": 3,
+  "explanation": "1917: the railway reaching Addis Ababa from Djibouti.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did Ethiopia joining the League of Nations take place?",
+  "options": [
+   "1923",
+   "1930",
+   "1917",
+   "1931"
+  ],
+  "answer": 0,
+  "explanation": "Ethiopia joining the League of Nations: 1923.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1923?",
+  "options": [
+   "Ethiopia's first written constitution",
+   "The railway reaching Addis Ababa from Djibouti",
+   "Ethiopia joining the League of Nations",
+   "The coronation of Haile Selassie"
+  ],
+  "answer": 2,
+  "explanation": "1923: Ethiopia joining the League of Nations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the coronation of Haile Selassie take place?",
+  "options": [
+   "1935",
+   "1930",
+   "1923",
+   "1931"
+  ],
+  "answer": 1,
+  "explanation": "The coronation of Haile Selassie: 1930.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1930?",
+  "options": [
+   "The Italian invasion of Ethiopia",
+   "The coronation of Haile Selassie",
+   "Ethiopia joining the League of Nations",
+   "Ethiopia's first written constitution"
+  ],
+  "answer": 1,
+  "explanation": "1930: the coronation of Haile Selassie.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did Ethiopia's first written constitution take place?",
+  "options": [
+   "1930",
+   "1923",
+   "1935",
+   "1931"
+  ],
+  "answer": 3,
+  "explanation": "Ethiopia's first written constitution: 1931.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1931?",
+  "options": [
+   "Ethiopia's first written constitution",
+   "The Italian invasion of Ethiopia",
+   "The coronation of Haile Selassie",
+   "Ethiopia joining the League of Nations"
+  ],
+  "answer": 0,
+  "explanation": "1931: Ethiopia's first written constitution.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the Italian invasion of Ethiopia take place?",
+  "options": [
+   "1930",
+   "1935",
+   "1939",
+   "1931"
+  ],
+  "answer": 1,
+  "explanation": "The Italian invasion of Ethiopia: 1935.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1935?",
+  "options": [
+   "The Italian invasion of Ethiopia",
+   "Ethiopia's first written constitution",
+   "The start of World War II",
+   "The coronation of Haile Selassie"
+  ],
+  "answer": 0,
+  "explanation": "1935: the Italian invasion of Ethiopia.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the liberation from Italian occupation take place?",
+  "options": [
+   "1945",
+   "1935",
+   "1941",
+   "1939"
+  ],
+  "answer": 2,
+  "explanation": "The liberation from Italian occupation: 1941.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1941?",
+  "options": [
+   "The founding of the United Nations",
+   "The Italian invasion of Ethiopia",
+   "The start of World War II",
+   "The liberation from Italian occupation"
+  ],
+  "answer": 3,
+  "explanation": "1941: the liberation from Italian occupation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the federation of Eritrea with Ethiopia take place?",
+  "options": [
+   "1955",
+   "1952",
+   "1957",
+   "1945"
+  ],
+  "answer": 1,
+  "explanation": "The federation of Eritrea with Ethiopia: 1952.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1952?",
+  "options": [
+   "Ghana's independence",
+   "The federation of Eritrea with Ethiopia",
+   "The revised imperial constitution",
+   "The founding of the United Nations"
+  ],
+  "answer": 1,
+  "explanation": "1952: the federation of Eritrea with Ethiopia.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the revised imperial constitution take place?",
+  "options": [
+   "1963",
+   "1955",
+   "1952",
+   "1957"
+  ],
+  "answer": 1,
+  "explanation": "The revised imperial constitution: 1955.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1955?",
+  "options": [
+   "The revised imperial constitution",
+   "The federation of Eritrea with Ethiopia",
+   "The founding of the OAU in Addis Ababa",
+   "Ghana's independence"
+  ],
+  "answer": 0,
+  "explanation": "1955: the revised imperial constitution.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the founding of the OAU in Addis Ababa take place?",
+  "options": [
+   "1952",
+   "1963",
+   "1957",
+   "1955"
+  ],
+  "answer": 1,
+  "explanation": "The founding of the OAU in Addis Ababa: 1963.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1963?",
+  "options": [
+   "Ghana's independence",
+   "The revised imperial constitution",
+   "The federation of Eritrea with Ethiopia",
+   "The founding of the OAU in Addis Ababa"
+  ],
+  "answer": 3,
+  "explanation": "1963: the founding of the OAU in Addis Ababa.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the overthrow of Haile Selassie by the Derg take place?",
+  "options": [
+   "1977",
+   "1975",
+   "1963",
+   "1974"
+  ],
+  "answer": 3,
+  "explanation": "The overthrow of Haile Selassie by the Derg: 1974.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1974?",
+  "options": [
+   "The founding of the OAU in Addis Ababa",
+   "The overthrow of Haile Selassie by the Derg",
+   "The start of the Ogaden War",
+   "The 'Land to the tiller' proclamation"
+  ],
+  "answer": 1,
+  "explanation": "1974: the overthrow of Haile Selassie by the Derg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the 'Land to the tiller' proclamation take place?",
+  "options": [
+   "1974",
+   "1975",
+   "1963",
+   "1977"
+  ],
+  "answer": 1,
+  "explanation": "The 'Land to the tiller' proclamation: 1975.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1975?",
+  "options": [
+   "The 'Land to the tiller' proclamation",
+   "The overthrow of Haile Selassie by the Derg",
+   "The founding of the OAU in Addis Ababa",
+   "The start of the Ogaden War"
+  ],
+  "answer": 0,
+  "explanation": "1975: the 'Land to the tiller' proclamation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the start of the Ogaden War take place?",
+  "options": [
+   "1975",
+   "1963",
+   "1974",
+   "1977"
+  ],
+  "answer": 3,
+  "explanation": "The start of the Ogaden War: 1977.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1977?",
+  "options": [
+   "The founding of the OAU in Addis Ababa",
+   "The start of the Ogaden War",
+   "The overthrow of Haile Selassie by the Derg",
+   "The 'Land to the tiller' proclamation"
+  ],
+  "answer": 1,
+  "explanation": "1977: the start of the Ogaden War.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the fall of the Derg take place?",
+  "options": [
+   "1991",
+   "1993",
+   "1995",
+   "1998"
+  ],
+  "answer": 0,
+  "explanation": "The fall of the Derg: 1991.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1991?",
+  "options": [
+   "The fall of the Derg",
+   "Eritrea's formal independence",
+   "The adoption of the FDRE Constitution",
+   "The start of the Ethiopia–Eritrea border war"
+  ],
+  "answer": 0,
+  "explanation": "1991: the fall of the Derg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did Eritrea's formal independence take place?",
+  "options": [
+   "1993",
+   "1998",
+   "1995",
+   "1991"
+  ],
+  "answer": 0,
+  "explanation": "Eritrea's formal independence: 1993.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1993?",
+  "options": [
+   "The start of the Ethiopia–Eritrea border war",
+   "The fall of the Derg",
+   "The adoption of the FDRE Constitution",
+   "Eritrea's formal independence"
+  ],
+  "answer": 3,
+  "explanation": "1993: Eritrea's formal independence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the adoption of the FDRE Constitution take place?",
+  "options": [
+   "1991",
+   "1993",
+   "1998",
+   "1995"
+  ],
+  "answer": 3,
+  "explanation": "The adoption of the FDRE Constitution: 1995.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1995?",
+  "options": [
+   "The start of the Ethiopia–Eritrea border war",
+   "The fall of the Derg",
+   "Eritrea's formal independence",
+   "The adoption of the FDRE Constitution"
+  ],
+  "answer": 3,
+  "explanation": "1995: the adoption of the FDRE Constitution.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the start of the Ethiopia–Eritrea border war take place?",
+  "options": [
+   "1993",
+   "1998",
+   "1995",
+   "1991"
+  ],
+  "answer": 1,
+  "explanation": "The start of the Ethiopia–Eritrea border war: 1998.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1998?",
+  "options": [
+   "The adoption of the FDRE Constitution",
+   "The fall of the Derg",
+   "Eritrea's formal independence",
+   "The start of the Ethiopia–Eritrea border war"
+  ],
+  "answer": 3,
+  "explanation": "1998: the start of the Ethiopia–Eritrea border war.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the Berlin Conference opening take place?",
+  "options": [
+   "1884",
+   "1889",
+   "1896",
+   "1875"
+  ],
+  "answer": 0,
+  "explanation": "The Berlin Conference opening: 1884.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1884?",
+  "options": [
+   "The signing of the Treaty of Wuchale",
+   "The Battle of Gundet",
+   "The Berlin Conference opening",
+   "The Battle of Metemma"
+  ],
+  "answer": 2,
+  "explanation": "1884: the Berlin Conference opening.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did Ghana's independence take place?",
+  "options": [
+   "1963",
+   "1955",
+   "1952",
+   "1957"
+  ],
+  "answer": 3,
+  "explanation": "Ghana's independence: 1957.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1957?",
+  "options": [
+   "The founding of the OAU in Addis Ababa",
+   "Ghana's independence",
+   "The federation of Eritrea with Ethiopia",
+   "The revised imperial constitution"
+  ],
+  "answer": 1,
+  "explanation": "1957: Ghana's independence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the start of World War I take place?",
+  "options": [
+   "1923",
+   "1930",
+   "1914",
+   "1917"
+  ],
+  "answer": 2,
+  "explanation": "The start of World War I: 1914.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1914?",
+  "options": [
+   "The railway reaching Addis Ababa from Djibouti",
+   "The coronation of Haile Selassie",
+   "Ethiopia joining the League of Nations",
+   "The start of World War I"
+  ],
+  "answer": 3,
+  "explanation": "1914: the start of World War I.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the start of World War II take place?",
+  "options": [
+   "1945",
+   "1935",
+   "1939",
+   "1941"
+  ],
+  "answer": 2,
+  "explanation": "The start of World War II: 1939.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1939?",
+  "options": [
+   "The Italian invasion of Ethiopia",
+   "The founding of the United Nations",
+   "The start of World War II",
+   "The liberation from Italian occupation"
+  ],
+  "answer": 2,
+  "explanation": "1939: the start of World War II.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "In which year did the founding of the United Nations take place?",
+  "options": [
+   "1941",
+   "1945",
+   "1952",
+   "1939"
+  ],
+  "answer": 1,
+  "explanation": "The founding of the United Nations: 1945.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HIS",
+  "topic": "Chronology",
+  "body": "Which of these events happened in 1945?",
+  "options": [
+   "The start of World War II",
+   "The liberation from Italian occupation",
+   "The federation of Eritrea with Ethiopia",
+   "The founding of the United Nations"
+  ],
+  "answer": 3,
+  "explanation": "1945: the founding of the United Nations.",
+  "difficulty": 2
+ }
+]

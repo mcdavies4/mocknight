@@ -2,8 +2,11 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "LUK" | "FIRE" | "NMC" | "PM";
-export type ScoreStyle = "jamb400" | "percent" | "passfail";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "LUK" | "FIRE" | "NMC" | "PM" | "ETH" | "SSC";
+export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
+export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata";
+/** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
+export interface Marking { correct: number; wrong: number }
 
 export interface MockVariant {
   key: string;
@@ -14,6 +17,7 @@ export interface MockVariant {
   minutes: number;
   passPct?: number;
   note?: string;
+  marking?: Marking;
 }
 
 export interface Track {
@@ -22,15 +26,15 @@ export interface Track {
   short: string;
   emoji: string;
   kind: "school" | "citizenship" | "work" | "professional";
-  region: "NG" | "GH" | "WA" | "UK" | "GLOBAL";
-  currency: "NGN" | "GBP";
+  region: "NG" | "GH" | "WA" | "UK" | "GLOBAL" | "ET" | "IN";
+  currency: "NGN" | "GBP" | "ETB" | "INR";
   subjectMode: "multi" | "single";
   subjects: string[];
   compulsory: string[];
   minSubjects: number;
   maxSubjects: number;
   subjectNote: string;
-  mock: { perSubject?: number; total?: number; minutes: number; passPct?: number; scoreStyle: ScoreStyle; maxSubjects: number };
+  mock: { perSubject?: number; total?: number; minutes: number; passPct?: number; scoreStyle: ScoreStyle; maxSubjects: number; marking?: Marking };
   weeklyMock: boolean;
   askState: boolean;
   /** Region list for the state/region question (defaults to Nigerian states) */
@@ -43,7 +47,9 @@ export interface Track {
   /** Courses: lessons in data/courses/<code>.json + certificate on passing the final test */
   course?: { certificateDays: number; certificateTitle: string };
   /** Hours are UK time for UK tracks, WAT otherwise */
-  timeZone: "Africa/Lagos" | "Europe/London";
+  timeZone: TimeZone;
+  /** Label for drill times, e.g. "Ethiopia time" */
+  timeLabel?: string;
   /** Tracks whose real test has separate parts (e.g. NMC Part A / Part B) */
   mockVariants?: MockVariant[];
   /** Who the AI tutor is talking to */
@@ -125,11 +131,45 @@ export const TRACKS: Record<TrackCode, Track> = {
     plans: ["pm_pass", "pm_pass_ngn"], tagline: "PRINCE2 Foundation, Scrum PSM I and CAPM practice tests", timeZone: "Europe/London",
     audience: "a working professional preparing for project management certifications (PRINCE2 7 Foundation, Scrum.org PSM I, PMI CAPM)",
   },
+  ETH: {
+    code: "ETH", name: "Ethiopia Grade 12 National Exam", short: "Grade 12 Ethiopia", emoji: "🇪🇹", kind: "school", region: "ET", currency: "ETB",
+    subjectMode: "multi", subjects: ["ENG", "MTH", "APT", "BIO", "CHM", "PHY", "ECO", "GEO", "HIS"], compulsory: ["ENG", "MTH", "APT"], minSubjects: 6, maxSubjects: 6,
+    subjectNote: "English, Maths and Aptitude + your 3 stream subjects (Natural: Biology, Chemistry, Physics · Social: Economics, Geography, History)",
+    mock: { perSubject: 15, minutes: 90, passPct: 50, scoreStyle: "esslce", maxSubjects: 6 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["eth_month", "eth_season"], tagline: "Grade 12 national exam practice: daily questions and timed CBT tests", timeZone: "Africa/Addis_Ababa", timeLabel: "Ethiopia",
+    audience: "an Ethiopian Grade 12 student preparing for the national university entrance exam (ESSLCE), taught in English",
+  },
+  SSC: {
+    code: "SSC", name: "SSC CGL / CHSL (India)", short: "SSC CGL", emoji: "🇮🇳", kind: "professional", region: "IN", currency: "INR",
+    subjectMode: "multi", subjects: ["APT", "GAI", "QNT", "ENG"], compulsory: ["APT", "GAI", "QNT", "ENG"], minSubjects: 4, maxSubjects: 4,
+    subjectNote: "All four Tier 1 sections",
+    mock: { perSubject: 25, minutes: 60, scoreStyle: "marks", maxSubjects: 4, marking: { correct: 2, wrong: 0.5 } },
+    mockVariants: [
+      { key: "T1", label: "Tier 1 full mock", short: "Tier 1", subjects: ["APT", "GAI", "QNT", "ENG"], total: 25, minutes: 60, marking: { correct: 2, wrong: 0.5 }, note: "100 questions · 60 min · +2 / −0.5" },
+      { key: "QA", label: "Quant sectional", short: "Quant", subjects: ["QNT"], total: 25, minutes: 20, marking: { correct: 2, wrong: 0.5 }, note: "25 questions · 20 min" },
+      { key: "RS", label: "Reasoning sectional", short: "Reasoning", subjects: ["APT"], total: 25, minutes: 15, marking: { correct: 2, wrong: 0.5 }, note: "25 questions · 15 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["ssc_quarter", "ssc_year"], tagline: "SSC CGL Tier 1 mocks with negative marking, daily questions and sectionals", timeZone: "Asia/Kolkata", timeLabel: "India (IST)",
+    audience: "an Indian candidate preparing for SSC CGL/CHSL and similar government job exams (reasoning, quantitative aptitude, English, general awareness)",
+  },
 };
 
 export const TRACK_LIST = Object.values(TRACKS);
 export const SCHOOL_TRACKS = TRACK_LIST.filter((t) => t.weeklyMock).map((t) => t.code);
 export const UK_TIME_TRACKS = TRACK_LIST.filter((t) => t.timeZone === "Europe/London").map((t) => t.code);
+
+/** e.g. "UK", "Nigeria", "Ethiopia" — used in "What time should your daily practice arrive? (… time)" */
+export function timeLabelFor(t: Track) {
+  return t.timeLabel ?? (t.timeZone === "Europe/London" ? "UK" : t.region === "GH" ? "West Africa (Lagos)" : "Nigeria");
+}
+
+/** Track codes grouped by the time zone their drill hour is in */
+export function tracksByZone(): Record<string, string[]> {
+  const out: Record<string, string[]> = {};
+  for (const t of TRACK_LIST) (out[t.timeZone] ??= []).push(t.code);
+  return out;
+}
 
 export function getTrack(code: string | null | undefined): Track {
   return TRACKS[(code as TrackCode) ?? "JAMB"] ?? TRACKS.JAMB;
@@ -147,12 +187,12 @@ export function mockPerSubject(t: Track) {
 /** Mock settings for a track, or one of its variants (NMC Part A / Part B). */
 export function mockConfig(t: Track, variantKey?: string | null) {
   const v = variantKey ? t.mockVariants?.find((x) => x.key === variantKey) : undefined;
-  if (v) return { variant: v.key, label: v.label, subjects: v.subjects, perSubject: v.total, minutes: v.minutes, passPct: v.passPct, scoreStyle: t.mock.scoreStyle };
+  if (v) return { variant: v.key, label: v.label, subjects: v.subjects, perSubject: v.total, minutes: v.minutes, passPct: v.passPct, scoreStyle: t.mock.scoreStyle, marking: v.marking ?? t.mock.marking };
   if (t.mockVariants?.length) {
     const d = t.mockVariants.find((x) => x.key === "B") ?? t.mockVariants[0];
-    return { variant: d.key, label: d.label, subjects: d.subjects, perSubject: d.total, minutes: d.minutes, passPct: d.passPct, scoreStyle: t.mock.scoreStyle };
+    return { variant: d.key, label: d.label, subjects: d.subjects, perSubject: d.total, minutes: d.minutes, passPct: d.passPct, scoreStyle: t.mock.scoreStyle, marking: d.marking ?? t.mock.marking };
   }
-  return { variant: null, label: null, subjects: null as string[] | null, perSubject: mockPerSubject(t), minutes: t.mock.minutes, passPct: t.mock.passPct, scoreStyle: t.mock.scoreStyle };
+  return { variant: null, label: null, subjects: null as string[] | null, perSubject: mockPerSubject(t), minutes: t.mock.minutes, passPct: t.mock.passPct, scoreStyle: t.mock.scoreStyle, marking: t.mock.marking };
 }
 
 /** Practice-test variants relevant to this learner (multi-subject tracks only show variants for chosen subjects). */

@@ -1,0 +1,3320 @@
+[
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "What is 60% of 460?",
+  "options": [
+   "276",
+   "2760",
+   "138",
+   "184"
+  ],
+  "answer": 0,
+  "explanation": "60% of 460 = 60/100 × 460 = 276.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "What is 5% of 240?",
+  "options": [
+   "120",
+   "228",
+   "6",
+   "12"
+  ],
+  "answer": 3,
+  "explanation": "5% of 240 = 5/100 × 240 = 12.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "What is 25% of 640?",
+  "options": [
+   "160",
+   "80",
+   "1600",
+   "480"
+  ],
+  "answer": 0,
+  "explanation": "25% of 640 = 25/100 × 640 = 160.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "What is 15% of 80?",
+  "options": [
+   "68",
+   "6",
+   "120",
+   "12"
+  ],
+  "answer": 3,
+  "explanation": "15% of 80 = 15/100 × 80 = 12.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "What is 20% of 100?",
+  "options": [
+   "80",
+   "10",
+   "20",
+   "200"
+  ],
+  "answer": 2,
+  "explanation": "20% of 100 = 20/100 × 100 = 20.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "What is 75% of 340?",
+  "options": [
+   "127.5",
+   "2550",
+   "255",
+   "85"
+  ],
+  "answer": 2,
+  "explanation": "75% of 340 = 75/100 × 340 = 255.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "What is 12% of 400?",
+  "options": [
+   "480",
+   "48",
+   "24",
+   "352"
+  ],
+  "answer": 1,
+  "explanation": "12% of 400 = 12/100 × 400 = 48.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "What is 25% of 200?",
+  "options": [
+   "150",
+   "25",
+   "500",
+   "50"
+  ],
+  "answer": 3,
+  "explanation": "25% of 200 = 25/100 × 200 = 50.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "What is 12% of 140?",
+  "options": [
+   "8.4",
+   "123.2",
+   "16.8",
+   "168"
+  ],
+  "answer": 2,
+  "explanation": "12% of 140 = 12/100 × 140 = 16.8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "What is 75% of 500?",
+  "options": [
+   "125",
+   "3750",
+   "375",
+   "187.5"
+  ],
+  "answer": 2,
+  "explanation": "75% of 500 = 75/100 × 500 = 375.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "What is 25% of 280?",
+  "options": [
+   "700",
+   "35",
+   "210",
+   "70"
+  ],
+  "answer": 3,
+  "explanation": "25% of 280 = 25/100 × 280 = 70.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "What is 12% of 220?",
+  "options": [
+   "193.6",
+   "26.4",
+   "264",
+   "13.2"
+  ],
+  "answer": 1,
+  "explanation": "12% of 220 = 12/100 × 220 = 26.4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "A's salary is 25% more than B's. By what percentage is B's salary less than A's?",
+  "options": [
+   "33.33%",
+   "25%",
+   "20%",
+   "12.5%"
+  ],
+  "answer": 2,
+  "explanation": "Less by p/(100 + p) × 100 = 25/125 × 100 ≈ 20%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "A's salary is 50% more than B's. By what percentage is B's salary less than A's?",
+  "options": [
+   "100%",
+   "50%",
+   "25%",
+   "33.33%"
+  ],
+  "answer": 3,
+  "explanation": "Less by p/(100 + p) × 100 = 50/150 × 100 ≈ 33.33%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "A's salary is 100% more than B's. By what percentage is B's salary less than A's?",
+  "options": [
+   "50%",
+   "100%",
+   "55%",
+   "200%"
+  ],
+  "answer": 0,
+  "explanation": "Less by p/(100 + p) × 100 = 100/200 × 100 ≈ 50%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "A's salary is 20% more than B's. By what percentage is B's salary less than A's?",
+  "options": [
+   "10%",
+   "25%",
+   "16.67%",
+   "20%"
+  ],
+  "answer": 2,
+  "explanation": "Less by p/(100 + p) × 100 = 20/120 × 100 ≈ 16.67%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "A's salary is 60% more than B's. By what percentage is B's salary less than A's?",
+  "options": [
+   "120%",
+   "37.5%",
+   "30%",
+   "60%"
+  ],
+  "answer": 1,
+  "explanation": "Less by p/(100 + p) × 100 = 60/160 × 100 ≈ 37.5%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "A's salary is 10% more than B's. By what percentage is B's salary less than A's?",
+  "options": [
+   "9.09%",
+   "11.11%",
+   "5%",
+   "10%"
+  ],
+  "answer": 0,
+  "explanation": "Less by p/(100 + p) × 100 = 10/110 × 100 ≈ 9.09%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "The price of an item rises by 50% and then falls by 20%. What is the overall change?",
+  "options": [
+   "No change",
+   "Increase of 20%",
+   "Decrease of 20%",
+   "Increase of 30%"
+  ],
+  "answer": 1,
+  "explanation": "Net = 50 − 20 − (50×20)/100 = 20%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "The price of an item rises by 10% and then falls by 25%. What is the overall change?",
+  "options": [
+   "No change",
+   "Decrease of 15%",
+   "Decrease of 17.5%",
+   "Increase of 17.5%"
+  ],
+  "answer": 2,
+  "explanation": "Net = 10 − 25 − (10×25)/100 = -17.5%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "The price of an item rises by 10% and then falls by 20%. What is the overall change?",
+  "options": [
+   "Decrease of 10%",
+   "Decrease of 12%",
+   "No change",
+   "Increase of 12%"
+  ],
+  "answer": 1,
+  "explanation": "Net = 10 − 20 − (10×20)/100 = -12%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "The price of an item rises by 50% and then falls by 10%. What is the overall change?",
+  "options": [
+   "Increase of 35%",
+   "Decrease of 35%",
+   "Increase of 40%",
+   "No change"
+  ],
+  "answer": 0,
+  "explanation": "Net = 50 − 10 − (50×10)/100 = 35%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "The price of an item rises by 50% and then falls by 25%. What is the overall change?",
+  "options": [
+   "Increase of 12.5%",
+   "Decrease of 12.5%",
+   "Increase of 25%",
+   "No change"
+  ],
+  "answer": 0,
+  "explanation": "Net = 50 − 25 − (50×25)/100 = 12.5%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "The price of an item rises by 25% and then falls by 10%. What is the overall change?",
+  "options": [
+   "Increase of 12.5%",
+   "No change",
+   "Decrease of 12.5%",
+   "Increase of 15%"
+  ],
+  "answer": 0,
+  "explanation": "Net = 25 − 10 − (25×10)/100 = 12.5%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "The price of an item rises by 20% and then falls by 25%. What is the overall change?",
+  "options": [
+   "Increase of 10%",
+   "Decrease of 5%",
+   "Decrease of 10%",
+   "No change"
+  ],
+  "answer": 2,
+  "explanation": "Net = 20 − 25 − (20×25)/100 = -10%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Percentages",
+  "body": "The price of an item rises by 20% and then falls by 10%. What is the overall change?",
+  "options": [
+   "Increase of 8%",
+   "No change",
+   "Decrease of 8%",
+   "Increase of 10%"
+  ],
+  "answer": 0,
+  "explanation": "Net = 20 − 10 − (20×10)/100 = 8%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "An article bought for ₹875 is sold for ₹980. Find the profit percentage.",
+  "options": [
+   "12%",
+   "17%",
+   "10.71%",
+   "7%"
+  ],
+  "answer": 0,
+  "explanation": "Profit = ₹105; ÷ CP ₹875 × 100 = 12%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "An article bought for ₹950 is sold for ₹1064. Find the profit percentage.",
+  "options": [
+   "7%",
+   "10.71%",
+   "17%",
+   "12%"
+  ],
+  "answer": 3,
+  "explanation": "Profit = ₹114; ÷ CP ₹950 × 100 = 12%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "An article bought for ₹875 is sold for ₹1137.5. Find the profit percentage.",
+  "options": [
+   "30%",
+   "35%",
+   "25%",
+   "23.08%"
+  ],
+  "answer": 0,
+  "explanation": "Profit = ₹262.5; ÷ CP ₹875 × 100 = 30%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "An article bought for ₹450 is sold for ₹585. Find the profit percentage.",
+  "options": [
+   "35%",
+   "23.08%",
+   "25%",
+   "30%"
+  ],
+  "answer": 3,
+  "explanation": "Profit = ₹135; ÷ CP ₹450 × 100 = 30%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "An article bought for ₹100 is sold for ₹120. Find the profit percentage.",
+  "options": [
+   "20%",
+   "25%",
+   "16.67%",
+   "15%"
+  ],
+  "answer": 0,
+  "explanation": "Profit = ₹20; ÷ CP ₹100 × 100 = 20%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "An article bought for ₹425 is sold for ₹531.25. Find the profit percentage.",
+  "options": [
+   "25%",
+   "50%",
+   "30%",
+   "20%"
+  ],
+  "answer": 0,
+  "explanation": "Profit = ₹106.25; ÷ CP ₹425 × 100 = 25%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "An article bought for ₹700 is sold for ₹525. Find the loss percentage.",
+  "options": [
+   "30%",
+   "25%",
+   "20%",
+   "33.33%"
+  ],
+  "answer": 1,
+  "explanation": "Loss = ₹175; ÷ CP ₹700 × 100 = 25%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "An article bought for ₹675 is sold for ₹843.75. Find the profit percentage.",
+  "options": [
+   "50%",
+   "30%",
+   "25%",
+   "20%"
+  ],
+  "answer": 2,
+  "explanation": "Profit = ₹168.75; ÷ CP ₹675 × 100 = 25%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "An article bought for ₹900 is sold for ₹1125. Find the profit percentage.",
+  "options": [
+   "30%",
+   "25%",
+   "20%",
+   "50%"
+  ],
+  "answer": 1,
+  "explanation": "Profit = ₹225; ÷ CP ₹900 × 100 = 25%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "An article bought for ₹600 is sold for ₹672. Find the profit percentage.",
+  "options": [
+   "17%",
+   "7%",
+   "12%",
+   "10.71%"
+  ],
+  "answer": 2,
+  "explanation": "Profit = ₹72; ÷ CP ₹600 × 100 = 12%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "An article bought for ₹950 is sold for ₹760. Find the loss percentage.",
+  "options": [
+   "40%",
+   "20%",
+   "25%",
+   "15%"
+  ],
+  "answer": 1,
+  "explanation": "Loss = ₹190; ÷ CP ₹950 × 100 = 20%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "An article bought for ₹800 is sold for ₹1120. Find the profit percentage.",
+  "options": [
+   "28.57%",
+   "35%",
+   "45%",
+   "40%"
+  ],
+  "answer": 3,
+  "explanation": "Profit = ₹320; ÷ CP ₹800 × 100 = 40%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "The marked price of a phone is ₹1200. A discount of 15% is given. Find the selling price.",
+  "options": [
+   "₹1380",
+   "₹180",
+   "₹920",
+   "₹1020"
+  ],
+  "answer": 3,
+  "explanation": "SP = ₹1200 × (100 − 15)/100 = ₹1020.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "The marked price of a phone is ₹2200. A discount of 30% is given. Find the selling price.",
+  "options": [
+   "₹660",
+   "₹1440",
+   "₹2860",
+   "₹1540"
+  ],
+  "answer": 3,
+  "explanation": "SP = ₹2200 × (100 − 30)/100 = ₹1540.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "The marked price of a phone is ₹4600. A discount of 30% is given. Find the selling price.",
+  "options": [
+   "₹1380",
+   "₹3220",
+   "₹3120",
+   "₹5980"
+  ],
+  "answer": 1,
+  "explanation": "SP = ₹4600 × (100 − 30)/100 = ₹3220.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "The marked price of a phone is ₹4400. A discount of 10% is given. Find the selling price.",
+  "options": [
+   "₹440",
+   "₹3860",
+   "₹4840",
+   "₹3960"
+  ],
+  "answer": 3,
+  "explanation": "SP = ₹4400 × (100 − 10)/100 = ₹3960.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "The marked price of a phone is ₹1600. A discount of 40% is given. Find the selling price.",
+  "options": [
+   "₹860",
+   "₹2240",
+   "₹640",
+   "₹960"
+  ],
+  "answer": 3,
+  "explanation": "SP = ₹1600 × (100 − 40)/100 = ₹960.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "The marked price of a phone is ₹1900. A discount of 15% is given. Find the selling price.",
+  "options": [
+   "₹285",
+   "₹1515",
+   "₹2185",
+   "₹1615"
+  ],
+  "answer": 3,
+  "explanation": "SP = ₹1900 × (100 − 15)/100 = ₹1615.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "The marked price of a phone is ₹600. A discount of 20% is given. Find the selling price.",
+  "options": [
+   "₹120",
+   "₹480",
+   "₹720",
+   "₹380"
+  ],
+  "answer": 1,
+  "explanation": "SP = ₹600 × (100 − 20)/100 = ₹480.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "The marked price of a phone is ₹2900. A discount of 40% is given. Find the selling price.",
+  "options": [
+   "₹1640",
+   "₹4060",
+   "₹1160",
+   "₹1740"
+  ],
+  "answer": 3,
+  "explanation": "SP = ₹2900 × (100 − 40)/100 = ₹1740.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "The marked price of a phone is ₹4900. A discount of 20% is given. Find the selling price.",
+  "options": [
+   "₹3920",
+   "₹5880",
+   "₹3820",
+   "₹980"
+  ],
+  "answer": 0,
+  "explanation": "SP = ₹4900 × (100 − 20)/100 = ₹3920.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "The marked price of a phone is ₹3600. A discount of 15% is given. Find the selling price.",
+  "options": [
+   "₹4140",
+   "₹2960",
+   "₹540",
+   "₹3060"
+  ],
+  "answer": 3,
+  "explanation": "SP = ₹3600 × (100 − 15)/100 = ₹3060.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "Two successive discounts of 30% and 25% are equivalent to a single discount of",
+  "options": [
+   "55%",
+   "50%",
+   "49.5%",
+   "47.5%"
+  ],
+  "answer": 3,
+  "explanation": "Single discount = 30 + 25 − (30×25)/100 = 47.5%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "Two successive discounts of 10% and 20% are equivalent to a single discount of",
+  "options": [
+   "31%",
+   "25%",
+   "30%",
+   "28%"
+  ],
+  "answer": 3,
+  "explanation": "Single discount = 10 + 20 − (10×20)/100 = 28%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "Two successive discounts of 30% and 10% are equivalent to a single discount of",
+  "options": [
+   "37%",
+   "35%",
+   "39%",
+   "40%"
+  ],
+  "answer": 0,
+  "explanation": "Single discount = 30 + 10 − (30×10)/100 = 37%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "Two successive discounts of 20% and 10% are equivalent to a single discount of",
+  "options": [
+   "31%",
+   "25%",
+   "30%",
+   "28%"
+  ],
+  "answer": 3,
+  "explanation": "Single discount = 20 + 10 − (20×10)/100 = 28%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "Two successive discounts of 20% and 25% are equivalent to a single discount of",
+  "options": [
+   "45%",
+   "40%",
+   "44%",
+   "42%"
+  ],
+  "answer": 1,
+  "explanation": "Single discount = 20 + 25 − (20×25)/100 = 40%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "Two successive discounts of 10% and 25% are equivalent to a single discount of",
+  "options": [
+   "34.5%",
+   "32.5%",
+   "30%",
+   "35%"
+  ],
+  "answer": 1,
+  "explanation": "Single discount = 10 + 25 − (10×25)/100 = 32.5%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "Two successive discounts of 25% and 25% are equivalent to a single discount of",
+  "options": [
+   "43.75%",
+   "50%",
+   "45%",
+   "45.75%"
+  ],
+  "answer": 0,
+  "explanation": "Single discount = 25 + 25 − (25×25)/100 = 43.75%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Profit & loss",
+  "body": "Two successive discounts of 30% and 20% are equivalent to a single discount of",
+  "options": [
+   "46%",
+   "50%",
+   "45%",
+   "44%"
+  ],
+  "answer": 3,
+  "explanation": "Single discount = 30 + 20 − (30×20)/100 = 44%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the simple interest on ₹16,000 at 8% per annum for 2 years.",
+  "options": [
+   "₹18,560",
+   "₹2560",
+   "₹1280",
+   "₹3840"
+  ],
+  "answer": 1,
+  "explanation": "SI = PRT/100 = 16000 × 8 × 2 / 100 = ₹2560.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the simple interest on ₹1000 at 6% per annum for 2 years.",
+  "options": [
+   "₹1120",
+   "₹120",
+   "₹180",
+   "₹60"
+  ],
+  "answer": 1,
+  "explanation": "SI = PRT/100 = 1000 × 6 × 2 / 100 = ₹120.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the simple interest on ₹19,500 at 8% per annum for 6 years.",
+  "options": [
+   "₹1560",
+   "₹10,920",
+   "₹28,860",
+   "₹9360"
+  ],
+  "answer": 3,
+  "explanation": "SI = PRT/100 = 19500 × 8 × 6 / 100 = ₹9360.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the simple interest on ₹11,000 at 8% per annum for 4 years.",
+  "options": [
+   "₹880",
+   "₹14,520",
+   "₹3520",
+   "₹4400"
+  ],
+  "answer": 2,
+  "explanation": "SI = PRT/100 = 11000 × 8 × 4 / 100 = ₹3520.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the simple interest on ₹2500 at 5% per annum for 5 years.",
+  "options": [
+   "₹125",
+   "₹3125",
+   "₹750",
+   "₹625"
+  ],
+  "answer": 3,
+  "explanation": "SI = PRT/100 = 2500 × 5 × 5 / 100 = ₹625.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the simple interest on ₹5500 at 8% per annum for 5 years.",
+  "options": [
+   "₹440",
+   "₹7700",
+   "₹2640",
+   "₹2200"
+  ],
+  "answer": 3,
+  "explanation": "SI = PRT/100 = 5500 × 8 × 5 / 100 = ₹2200.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the simple interest on ₹8000 at 12% per annum for 2 years.",
+  "options": [
+   "₹960",
+   "₹9920",
+   "₹2880",
+   "₹1920"
+  ],
+  "answer": 3,
+  "explanation": "SI = PRT/100 = 8000 × 12 × 2 / 100 = ₹1920.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the simple interest on ₹13,500 at 6% per annum for 2 years.",
+  "options": [
+   "₹1620",
+   "₹810",
+   "₹2430",
+   "₹15,120"
+  ],
+  "answer": 0,
+  "explanation": "SI = PRT/100 = 13500 × 6 × 2 / 100 = ₹1620.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the simple interest on ₹8500 at 6% per annum for 6 years.",
+  "options": [
+   "₹3570",
+   "₹510",
+   "₹3060",
+   "₹11,560"
+  ],
+  "answer": 2,
+  "explanation": "SI = PRT/100 = 8500 × 6 × 6 / 100 = ₹3060.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the simple interest on ₹3500 at 5% per annum for 2 years.",
+  "options": [
+   "₹3850",
+   "₹175",
+   "₹525",
+   "₹350"
+  ],
+  "answer": 3,
+  "explanation": "SI = PRT/100 = 3500 × 5 × 2 / 100 = ₹350.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the simple interest on ₹12,500 at 10% per annum for 4 years.",
+  "options": [
+   "₹5000",
+   "₹1250",
+   "₹6250",
+   "₹17,500"
+  ],
+  "answer": 0,
+  "explanation": "SI = PRT/100 = 12500 × 10 × 4 / 100 = ₹5000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the simple interest on ₹1500 at 5% per annum for 6 years.",
+  "options": [
+   "₹450",
+   "₹1950",
+   "₹525",
+   "₹75"
+  ],
+  "answer": 0,
+  "explanation": "SI = PRT/100 = 1500 × 5 × 6 / 100 = ₹450.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the compound interest on ₹4000 at 10% per annum for 2 years, compounded annually.",
+  "options": [
+   "₹800",
+   "₹4840",
+   "₹1240",
+   "₹840"
+  ],
+  "answer": 3,
+  "explanation": "Amount = 4000 × (1 + 10/100)² = 4840; CI = ₹840.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the compound interest on ₹1000 at 20% per annum for 2 years, compounded annually.",
+  "options": [
+   "₹1440",
+   "₹440",
+   "₹640",
+   "₹400"
+  ],
+  "answer": 1,
+  "explanation": "Amount = 1000 × (1 + 20/100)² = 1440; CI = ₹440.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the compound interest on ₹4000 at 5% per annum for 2 years, compounded annually.",
+  "options": [
+   "₹4410",
+   "₹400",
+   "₹610",
+   "₹410"
+  ],
+  "answer": 3,
+  "explanation": "Amount = 4000 × (1 + 5/100)² = 4410; CI = ₹410.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the compound interest on ₹10,000 at 10% per annum for 2 years, compounded annually.",
+  "options": [
+   "₹12,100",
+   "₹2100",
+   "₹2000",
+   "₹3100"
+  ],
+  "answer": 1,
+  "explanation": "Amount = 10000 × (1 + 10/100)² = 12,100; CI = ₹2100.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the compound interest on ₹1000 at 5% per annum for 2 years, compounded annually.",
+  "options": [
+   "₹1102.5",
+   "₹102.5",
+   "₹100",
+   "₹152.5"
+  ],
+  "answer": 1,
+  "explanation": "Amount = 1000 × (1 + 5/100)² = 1102.5; CI = ₹102.5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the compound interest on ₹20,000 at 20% per annum for 2 years, compounded annually.",
+  "options": [
+   "₹8800",
+   "₹12,800",
+   "₹8000",
+   "₹28,800"
+  ],
+  "answer": 0,
+  "explanation": "Amount = 20000 × (1 + 20/100)² = 28,800; CI = ₹8800.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the compound interest on ₹2000 at 5% per annum for 2 years, compounded annually.",
+  "options": [
+   "₹200",
+   "₹205",
+   "₹305",
+   "₹2205"
+  ],
+  "answer": 1,
+  "explanation": "Amount = 2000 × (1 + 5/100)² = 2205; CI = ₹205.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the compound interest on ₹20,000 at 10% per annum for 2 years, compounded annually.",
+  "options": [
+   "₹6200",
+   "₹24,200",
+   "₹4000",
+   "₹4200"
+  ],
+  "answer": 3,
+  "explanation": "Amount = 20000 × (1 + 10/100)² = 24,200; CI = ₹4200.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the compound interest on ₹8000 at 5% per annum for 2 years, compounded annually.",
+  "options": [
+   "₹820",
+   "₹8820",
+   "₹1220",
+   "₹800"
+  ],
+  "answer": 0,
+  "explanation": "Amount = 8000 × (1 + 5/100)² = 8820; CI = ₹820.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "Find the compound interest on ₹2000 at 10% per annum for 2 years, compounded annually.",
+  "options": [
+   "₹2420",
+   "₹620",
+   "₹400",
+   "₹420"
+  ],
+  "answer": 3,
+  "explanation": "Amount = 2000 × (1 + 10/100)² = 2420; CI = ₹420.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "The difference between compound and simple interest on ₹5000 for 2 years at 20% per annum is",
+  "options": [
+   "₹200",
+   "₹1000",
+   "₹400",
+   "₹100"
+  ],
+  "answer": 0,
+  "explanation": "Difference = P(R/100)² = 5000 × (20/100)² = ₹200.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "The difference between compound and simple interest on ₹10,000 for 2 years at 20% per annum is",
+  "options": [
+   "₹2000",
+   "₹200",
+   "₹800",
+   "₹400"
+  ],
+  "answer": 3,
+  "explanation": "Difference = P(R/100)² = 10000 × (20/100)² = ₹400.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "The difference between compound and simple interest on ₹4000 for 2 years at 10% per annum is",
+  "options": [
+   "₹40",
+   "₹80",
+   "₹400",
+   "₹20"
+  ],
+  "answer": 0,
+  "explanation": "Difference = P(R/100)² = 4000 × (10/100)² = ₹40.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "The difference between compound and simple interest on ₹12,000 for 2 years at 10% per annum is",
+  "options": [
+   "₹60",
+   "₹1200",
+   "₹120",
+   "₹240"
+  ],
+  "answer": 2,
+  "explanation": "Difference = P(R/100)² = 12000 × (10/100)² = ₹120.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "The difference between compound and simple interest on ₹4000 for 2 years at 4% per annum is",
+  "options": [
+   "₹6.4",
+   "₹160",
+   "₹12.8",
+   "₹3.2"
+  ],
+  "answer": 0,
+  "explanation": "Difference = P(R/100)² = 4000 × (4/100)² = ₹6.4.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "The difference between compound and simple interest on ₹1000 for 2 years at 10% per annum is",
+  "options": [
+   "₹5",
+   "₹20",
+   "₹10",
+   "₹100"
+  ],
+  "answer": 2,
+  "explanation": "Difference = P(R/100)² = 1000 × (10/100)² = ₹10.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "The difference between compound and simple interest on ₹5000 for 2 years at 4% per annum is",
+  "options": [
+   "₹4",
+   "₹8",
+   "₹200",
+   "₹16"
+  ],
+  "answer": 1,
+  "explanation": "Difference = P(R/100)² = 5000 × (4/100)² = ₹8.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Simple & compound interest",
+  "body": "The difference between compound and simple interest on ₹10,000 for 2 years at 10% per annum is",
+  "options": [
+   "₹200",
+   "₹50",
+   "₹100",
+   "₹1000"
+  ],
+  "answer": 2,
+  "explanation": "Difference = P(R/100)² = 10000 × (10/100)² = ₹100.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Ratio & proportion",
+  "body": "Divide ₹441 between A and B in the ratio 4 : 5. What is A's share?",
+  "options": [
+   "₹110.25",
+   "₹196",
+   "₹245",
+   "₹220.5"
+  ],
+  "answer": 1,
+  "explanation": "A = 4/9 × 441 = ₹196.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Ratio & proportion",
+  "body": "Divide ₹2054 between A and B in the ratio 6 : 7. What is A's share?",
+  "options": [
+   "₹948",
+   "₹1027",
+   "₹1106",
+   "₹1043"
+  ],
+  "answer": 0,
+  "explanation": "A = 6/13 × 2054 = ₹948.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Ratio & proportion",
+  "body": "Divide ₹648 between A and B in the ratio 5 : 7. What is A's share?",
+  "options": [
+   "₹270",
+   "₹324",
+   "₹129.6",
+   "₹378"
+  ],
+  "answer": 0,
+  "explanation": "A = 5/12 × 648 = ₹270.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Ratio & proportion",
+  "body": "Divide ₹192 between A and B in the ratio 2 : 1. What is A's share?",
+  "options": [
+   "₹64",
+   "₹141",
+   "₹96",
+   "₹128"
+  ],
+  "answer": 3,
+  "explanation": "A = 2/3 × 192 = ₹128.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Ratio & proportion",
+  "body": "Divide ₹325 between A and B in the ratio 7 : 6. What is A's share?",
+  "options": [
+   "₹193",
+   "₹175",
+   "₹162.5",
+   "₹150"
+  ],
+  "answer": 1,
+  "explanation": "A = 7/13 × 325 = ₹175.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Ratio & proportion",
+  "body": "Divide ₹1288 between A and B in the ratio 3 : 5. What is A's share?",
+  "options": [
+   "₹644",
+   "₹483",
+   "₹531",
+   "₹805"
+  ],
+  "answer": 1,
+  "explanation": "A = 3/8 × 1288 = ₹483.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Ratio & proportion",
+  "body": "Divide ₹1788 between A and B in the ratio 7 : 5. What is A's share?",
+  "options": [
+   "₹894",
+   "₹1147",
+   "₹745",
+   "₹1043"
+  ],
+  "answer": 3,
+  "explanation": "A = 7/12 × 1788 = ₹1043.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Ratio & proportion",
+  "body": "Divide ₹856 between A and B in the ratio 1 : 7. What is A's share?",
+  "options": [
+   "₹749",
+   "₹107",
+   "₹428",
+   "₹856"
+  ],
+  "answer": 1,
+  "explanation": "A = 1/8 × 856 = ₹107.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Ratio & proportion",
+  "body": "Divide ₹429 between A and B in the ratio 6 : 5. What is A's share?",
+  "options": [
+   "₹214.5",
+   "₹234",
+   "₹195",
+   "₹71.5"
+  ],
+  "answer": 1,
+  "explanation": "A = 6/11 × 429 = ₹234.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Ratio & proportion",
+  "body": "Divide ₹279 between A and B in the ratio 4 : 5. What is A's share?",
+  "options": [
+   "₹139.5",
+   "₹69.75",
+   "₹155",
+   "₹124"
+  ],
+  "answer": 3,
+  "explanation": "A = 4/9 × 279 = ₹124.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Averages",
+  "body": "Find the average of 47, 11, 19, 48, 85.",
+  "options": [
+   "39",
+   "44",
+   "42",
+   "52.5"
+  ],
+  "answer": 2,
+  "explanation": "Sum = 210; 210 ÷ 5 = 42.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Averages",
+  "body": "Find the average of 28, 27, 58, 50, 39, 64, 63.",
+  "options": [
+   "47",
+   "49",
+   "44",
+   "52"
+  ],
+  "answer": 0,
+  "explanation": "Sum = 329; 329 ÷ 7 = 47.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Averages",
+  "body": "Find the average of 30, 73, 10, 71.",
+  "options": [
+   "46",
+   "43",
+   "48",
+   "51"
+  ],
+  "answer": 0,
+  "explanation": "Sum = 184; 184 ÷ 4 = 46.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Averages",
+  "body": "Find the average of 36, 21, 29, 40, 65, 62, 48.",
+  "options": [
+   "47",
+   "43",
+   "40",
+   "45"
+  ],
+  "answer": 1,
+  "explanation": "Sum = 301; 301 ÷ 7 = 43.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Averages",
+  "body": "Find the average of 55, 80, 45, 40, 50.",
+  "options": [
+   "51",
+   "54",
+   "56",
+   "67.5"
+  ],
+  "answer": 1,
+  "explanation": "Sum = 270; 270 ÷ 5 = 54.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Averages",
+  "body": "Find the average of 23, 23, 17, 30, 37.",
+  "options": [
+   "28",
+   "32.5",
+   "23",
+   "26"
+  ],
+  "answer": 3,
+  "explanation": "Sum = 130; 130 ÷ 5 = 26.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Averages",
+  "body": "Find the average of 46, 63, 82, 79, 86, 28.",
+  "options": [
+   "64",
+   "66",
+   "61",
+   "76.8"
+  ],
+  "answer": 0,
+  "explanation": "Sum = 384; 384 ÷ 6 = 64.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Averages",
+  "body": "Find the average of 26, 29, 69, 40.",
+  "options": [
+   "43",
+   "41",
+   "45",
+   "38"
+  ],
+  "answer": 1,
+  "explanation": "Sum = 164; 164 ÷ 4 = 41.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Averages",
+  "body": "Find the average of 48, 60, 58, 40, 89.",
+  "options": [
+   "61",
+   "73.75",
+   "56",
+   "59"
+  ],
+  "answer": 3,
+  "explanation": "Sum = 295; 295 ÷ 5 = 59.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Averages",
+  "body": "Find the average of 26, 14, 10, 42, 78.",
+  "options": [
+   "42.5",
+   "36",
+   "31",
+   "34"
+  ],
+  "answer": 3,
+  "explanation": "Sum = 170; 170 ÷ 5 = 34.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Averages",
+  "body": "The average age of 21 students is 60. When the teacher's age is included, the average rises by 1. What is the teacher's age?",
+  "options": [
+   "61",
+   "82",
+   "81",
+   "83"
+  ],
+  "answer": 1,
+  "explanation": "New total = 22 × 61 = 1342; old total = 1260; teacher = 82.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Averages",
+  "body": "The average age of 24 students is 38. When the teacher's age is included, the average rises by 1. What is the teacher's age?",
+  "options": [
+   "64",
+   "63",
+   "62",
+   "39"
+  ],
+  "answer": 1,
+  "explanation": "New total = 25 × 39 = 975; old total = 912; teacher = 63.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Averages",
+  "body": "The average age of 29 students is 57. When the teacher's age is included, the average rises by 1. What is the teacher's age?",
+  "options": [
+   "58",
+   "87",
+   "86",
+   "88"
+  ],
+  "answer": 1,
+  "explanation": "New total = 30 × 58 = 1740; old total = 1653; teacher = 87.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Averages",
+  "body": "The average age of 26 students is 49. When the teacher's age is included, the average rises by 1. What is the teacher's age?",
+  "options": [
+   "77",
+   "50",
+   "76",
+   "75"
+  ],
+  "answer": 2,
+  "explanation": "New total = 27 × 50 = 1350; old total = 1274; teacher = 76.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Averages",
+  "body": "The average age of 34 students is 23. When the teacher's age is included, the average rises by 1. What is the teacher's age?",
+  "options": [
+   "58",
+   "24",
+   "59",
+   "57"
+  ],
+  "answer": 0,
+  "explanation": "New total = 35 × 24 = 840; old total = 782; teacher = 58.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Averages",
+  "body": "The average age of 14 students is 57. When the teacher's age is included, the average rises by 1. What is the teacher's age?",
+  "options": [
+   "71",
+   "58",
+   "72",
+   "73"
+  ],
+  "answer": 2,
+  "explanation": "New total = 15 × 58 = 870; old total = 798; teacher = 72.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Averages",
+  "body": "The average age of 14 students is 46. When the teacher's age is included, the average rises by 1. What is the teacher's age?",
+  "options": [
+   "62",
+   "61",
+   "47",
+   "60"
+  ],
+  "answer": 1,
+  "explanation": "New total = 15 × 47 = 705; old total = 644; teacher = 61.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Averages",
+  "body": "The average age of 17 students is 20. When the teacher's age is included, the average rises by 1. What is the teacher's age?",
+  "options": [
+   "21",
+   "37",
+   "39",
+   "38"
+  ],
+  "answer": 3,
+  "explanation": "New total = 18 × 21 = 378; old total = 340; teacher = 38.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Ages",
+  "body": "The sum of the ages of a father and son is 51 years. The father is 2 times as old as the son. How old is the son?",
+  "options": [
+   "17 years",
+   "19 years",
+   "25.5 years",
+   "34 years"
+  ],
+  "answer": 0,
+  "explanation": "Son = x, father = 2x; 3x = 51 → x = 17.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Ages",
+  "body": "The sum of the ages of a father and son is 54 years. The father is 2 times as old as the son. How old is the son?",
+  "options": [
+   "27 years",
+   "20 years",
+   "18 years",
+   "36 years"
+  ],
+  "answer": 2,
+  "explanation": "Son = x, father = 2x; 3x = 54 → x = 18.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Ages",
+  "body": "The sum of the ages of a father and son is 21 years. The father is 2 times as old as the son. How old is the son?",
+  "options": [
+   "10.5 years",
+   "9 years",
+   "14 years",
+   "7 years"
+  ],
+  "answer": 3,
+  "explanation": "Son = x, father = 2x; 3x = 21 → x = 7.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Ages",
+  "body": "The sum of the ages of a father and son is 56 years. The father is 3 times as old as the son. How old is the son?",
+  "options": [
+   "42 years",
+   "14 years",
+   "15 years",
+   "16 years"
+  ],
+  "answer": 1,
+  "explanation": "Son = x, father = 3x; 4x = 56 → x = 14.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Ages",
+  "body": "The sum of the ages of a father and son is 42 years. The father is 2 times as old as the son. How old is the son?",
+  "options": [
+   "28 years",
+   "16 years",
+   "21 years",
+   "14 years"
+  ],
+  "answer": 3,
+  "explanation": "Son = x, father = 2x; 3x = 42 → x = 14.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Ages",
+  "body": "The sum of the ages of a father and son is 20 years. The father is 3 times as old as the son. How old is the son?",
+  "options": [
+   "7 years",
+   "5 years",
+   "15 years",
+   "6 years"
+  ],
+  "answer": 1,
+  "explanation": "Son = x, father = 3x; 4x = 20 → x = 5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Ages",
+  "body": "The sum of the ages of a father and son is 90 years. The father is 4 times as old as the son. How old is the son?",
+  "options": [
+   "72 years",
+   "18 years",
+   "20 years",
+   "22.5 years"
+  ],
+  "answer": 1,
+  "explanation": "Son = x, father = 4x; 5x = 90 → x = 18.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Ages",
+  "body": "The sum of the ages of a father and son is 39 years. The father is 2 times as old as the son. How old is the son?",
+  "options": [
+   "15 years",
+   "26 years",
+   "19.5 years",
+   "13 years"
+  ],
+  "answer": 3,
+  "explanation": "Son = x, father = 2x; 3x = 39 → x = 13.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Time & work",
+  "body": "A can finish a job in 10 days and B in 15 days. Working together, how many days will they take?",
+  "options": [
+   "25 days",
+   "5 days",
+   "12.5 days",
+   "6 days"
+  ],
+  "answer": 3,
+  "explanation": "Together = ab/(a + b) = 150/25 = 6 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Time & work",
+  "body": "A can finish a job in 12 days and B in 24 days. Working together, how many days will they take?",
+  "options": [
+   "8 days",
+   "12 days",
+   "18 days",
+   "36 days"
+  ],
+  "answer": 0,
+  "explanation": "Together = ab/(a + b) = 288/36 = 8 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Time & work",
+  "body": "A can finish a job in 20 days and B in 30 days. Working together, how many days will they take?",
+  "options": [
+   "50 days",
+   "12 days",
+   "10 days",
+   "25 days"
+  ],
+  "answer": 1,
+  "explanation": "Together = ab/(a + b) = 600/50 = 12 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Time & work",
+  "body": "A can finish a job in 6 days and B in 12 days. Working together, how many days will they take?",
+  "options": [
+   "9 days",
+   "18 days",
+   "4 days",
+   "6 days"
+  ],
+  "answer": 2,
+  "explanation": "Together = ab/(a + b) = 72/18 = 4 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Time & work",
+  "body": "A can finish a job in 15 days and B in 30 days. Working together, how many days will they take?",
+  "options": [
+   "10 days",
+   "22.5 days",
+   "15 days",
+   "45 days"
+  ],
+  "answer": 0,
+  "explanation": "Together = ab/(a + b) = 450/45 = 10 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Time & work",
+  "body": "A can finish a job in 10 days and B in 40 days. Working together, how many days will they take?",
+  "options": [
+   "30 days",
+   "50 days",
+   "25 days",
+   "8 days"
+  ],
+  "answer": 3,
+  "explanation": "Together = ab/(a + b) = 400/50 = 8 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Time & work",
+  "body": "A can finish a job in 12 days and B in 36 days. Working together, how many days will they take?",
+  "options": [
+   "24 days",
+   "10 days",
+   "9 days",
+   "48 days"
+  ],
+  "answer": 2,
+  "explanation": "Together = ab/(a + b) = 432/48 = 9 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Time & work",
+  "body": "A can finish a job in 18 days and B in 36 days. Working together, how many days will they take?",
+  "options": [
+   "18 days",
+   "27 days",
+   "12 days",
+   "54 days"
+  ],
+  "answer": 2,
+  "explanation": "Together = ab/(a + b) = 648/54 = 12 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Time & work",
+  "body": "A can finish a job in 20 days and B in 60 days. Working together, how many days will they take?",
+  "options": [
+   "80 days",
+   "17 days",
+   "40 days",
+   "15 days"
+  ],
+  "answer": 3,
+  "explanation": "Together = ab/(a + b) = 1200/80 = 15 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Time & work",
+  "body": "A can finish a job in 30 days and B in 60 days. Working together, how many days will they take?",
+  "options": [
+   "45 days",
+   "90 days",
+   "30 days",
+   "20 days"
+  ],
+  "answer": 3,
+  "explanation": "Together = ab/(a + b) = 1800/90 = 20 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Time & work",
+  "body": "A can finish a job in 8 days and B in 24 days. Working together, how many days will they take?",
+  "options": [
+   "32 days",
+   "6 days",
+   "16 days",
+   "7 days"
+  ],
+  "answer": 1,
+  "explanation": "Together = ab/(a + b) = 192/32 = 6 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Time & work",
+  "body": "A can finish a job in 24 days and B in 40 days. Working together, how many days will they take?",
+  "options": [
+   "64 days",
+   "32 days",
+   "15 days",
+   "16 days"
+  ],
+  "answer": 2,
+  "explanation": "Together = ab/(a + b) = 960/64 = 15 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "Convert 54 km/h to metres per second.",
+  "options": [
+   "20 m/s",
+   "5.4 m/s",
+   "194.4 m/s",
+   "15 m/s"
+  ],
+  "answer": 3,
+  "explanation": "Multiply by 5/18: 54 × 5/18 = 15 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "Convert 18 km/h to metres per second.",
+  "options": [
+   "1.8 m/s",
+   "64.8 m/s",
+   "5 m/s",
+   "10 m/s"
+  ],
+  "answer": 2,
+  "explanation": "Multiply by 5/18: 18 × 5/18 = 5 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "Convert 72 km/h to metres per second.",
+  "options": [
+   "259.2 m/s",
+   "7.2 m/s",
+   "25 m/s",
+   "20 m/s"
+  ],
+  "answer": 3,
+  "explanation": "Multiply by 5/18: 72 × 5/18 = 20 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "Convert 90 km/h to metres per second.",
+  "options": [
+   "30 m/s",
+   "324 m/s",
+   "9 m/s",
+   "25 m/s"
+  ],
+  "answer": 3,
+  "explanation": "Multiply by 5/18: 90 × 5/18 = 25 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "Convert 36 km/h to metres per second.",
+  "options": [
+   "15 m/s",
+   "129.6 m/s",
+   "3.6 m/s",
+   "10 m/s"
+  ],
+  "answer": 3,
+  "explanation": "Multiply by 5/18: 36 × 5/18 = 10 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "Convert 108 km/h to metres per second.",
+  "options": [
+   "10.8 m/s",
+   "30 m/s",
+   "388.8 m/s",
+   "35 m/s"
+  ],
+  "answer": 1,
+  "explanation": "Multiply by 5/18: 108 × 5/18 = 30 m/s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A train 300 m long passes a pole in 10 seconds. What is its speed in km/h?",
+  "options": [
+   "30 km/h",
+   "90 km/h",
+   "108 km/h",
+   "126 km/h"
+  ],
+  "answer": 2,
+  "explanation": "Speed = 300/10 = 30 m/s = 30 × 18/5 = 108 km/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A train 80 m long passes a pole in 8 seconds. What is its speed in km/h?",
+  "options": [
+   "10 km/h",
+   "18 km/h",
+   "54 km/h",
+   "36 km/h"
+  ],
+  "answer": 3,
+  "explanation": "Speed = 80/8 = 10 m/s = 10 × 18/5 = 36 km/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A train 200 m long passes a pole in 20 seconds. What is its speed in km/h?",
+  "options": [
+   "54 km/h",
+   "10 km/h",
+   "18 km/h",
+   "36 km/h"
+  ],
+  "answer": 3,
+  "explanation": "Speed = 200/20 = 10 m/s = 10 × 18/5 = 36 km/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A train 60 m long passes a pole in 6 seconds. What is its speed in km/h?",
+  "options": [
+   "54 km/h",
+   "36 km/h",
+   "18 km/h",
+   "10 km/h"
+  ],
+  "answer": 1,
+  "explanation": "Speed = 60/6 = 10 m/s = 10 × 18/5 = 36 km/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A train 225 m long passes a pole in 9 seconds. What is its speed in km/h?",
+  "options": [
+   "90 km/h",
+   "25 km/h",
+   "72 km/h",
+   "108 km/h"
+  ],
+  "answer": 0,
+  "explanation": "Speed = 225/9 = 25 m/s = 25 × 18/5 = 90 km/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A train 120 m long passes a pole in 12 seconds. What is its speed in km/h?",
+  "options": [
+   "18 km/h",
+   "54 km/h",
+   "36 km/h",
+   "10 km/h"
+  ],
+  "answer": 2,
+  "explanation": "Speed = 120/12 = 10 m/s = 10 × 18/5 = 36 km/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A train 280 m long passes a pole in 14 seconds. What is its speed in km/h?",
+  "options": [
+   "54 km/h",
+   "90 km/h",
+   "72 km/h",
+   "20 km/h"
+  ],
+  "answer": 2,
+  "explanation": "Speed = 280/14 = 20 m/s = 20 × 18/5 = 72 km/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A train 105 m long passes a pole in 7 seconds. What is its speed in km/h?",
+  "options": [
+   "36 km/h",
+   "72 km/h",
+   "15 km/h",
+   "54 km/h"
+  ],
+  "answer": 3,
+  "explanation": "Speed = 105/7 = 15 m/s = 15 × 18/5 = 54 km/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A train 150 m long passes a pole in 6 seconds. What is its speed in km/h?",
+  "options": [
+   "72 km/h",
+   "108 km/h",
+   "90 km/h",
+   "25 km/h"
+  ],
+  "answer": 2,
+  "explanation": "Speed = 150/6 = 25 m/s = 25 × 18/5 = 90 km/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A train 330 m long passes a pole in 11 seconds. What is its speed in km/h?",
+  "options": [
+   "126 km/h",
+   "30 km/h",
+   "108 km/h",
+   "90 km/h"
+  ],
+  "answer": 2,
+  "explanation": "Speed = 330/11 = 30 m/s = 30 × 18/5 = 108 km/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A train 90 m long passes a pole in 9 seconds. What is its speed in km/h?",
+  "options": [
+   "18 km/h",
+   "10 km/h",
+   "36 km/h",
+   "54 km/h"
+  ],
+  "answer": 2,
+  "explanation": "Speed = 90/9 = 10 m/s = 10 × 18/5 = 36 km/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A train 240 m long passes a pole in 8 seconds. What is its speed in km/h?",
+  "options": [
+   "126 km/h",
+   "108 km/h",
+   "90 km/h",
+   "30 km/h"
+  ],
+  "answer": 1,
+  "explanation": "Speed = 240/8 = 30 m/s = 30 × 18/5 = 108 km/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A 400 m train runs at 36 km/h. How long does it take to cross a 400 m platform?",
+  "options": [
+   "40 s",
+   "85 s",
+   "88 s",
+   "80 s"
+  ],
+  "answer": 3,
+  "explanation": "Distance = 400 + 400 = 800 m; speed = 10 m/s; time = 80 s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A 400 m train runs at 54 km/h. How long does it take to cross a 200 m platform?",
+  "options": [
+   "40 s",
+   "44 s",
+   "36 s",
+   "45 s"
+  ],
+  "answer": 0,
+  "explanation": "Distance = 400 + 200 = 600 m; speed = 15 m/s; time = 40 s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A 100 m train runs at 36 km/h. How long does it take to cross a 300 m platform?",
+  "options": [
+   "10 s",
+   "45 s",
+   "40 s",
+   "30 s"
+  ],
+  "answer": 2,
+  "explanation": "Distance = 100 + 300 = 400 m; speed = 10 m/s; time = 40 s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A 100 m train runs at 36 km/h. How long does it take to cross a 400 m platform?",
+  "options": [
+   "40 s",
+   "50 s",
+   "55 s",
+   "10 s"
+  ],
+  "answer": 1,
+  "explanation": "Distance = 100 + 400 = 500 m; speed = 10 m/s; time = 50 s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A 400 m train runs at 72 km/h. How long does it take to cross a 200 m platform?",
+  "options": [
+   "20 s",
+   "10 s",
+   "30 s",
+   "35 s"
+  ],
+  "answer": 2,
+  "explanation": "Distance = 400 + 200 = 600 m; speed = 20 m/s; time = 30 s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A 200 m train runs at 72 km/h. How long does it take to cross a 200 m platform?",
+  "options": [
+   "20 s",
+   "10 s",
+   "22 s",
+   "25 s"
+  ],
+  "answer": 0,
+  "explanation": "Distance = 200 + 200 = 400 m; speed = 20 m/s; time = 20 s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A 100 m train runs at 72 km/h. How long does it take to cross a 400 m platform?",
+  "options": [
+   "5 s",
+   "20 s",
+   "30 s",
+   "25 s"
+  ],
+  "answer": 3,
+  "explanation": "Distance = 100 + 400 = 500 m; speed = 20 m/s; time = 25 s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A 300 m train runs at 72 km/h. How long does it take to cross a 300 m platform?",
+  "options": [
+   "15 s",
+   "33 s",
+   "35 s",
+   "30 s"
+  ],
+  "answer": 3,
+  "explanation": "Distance = 300 + 300 = 600 m; speed = 20 m/s; time = 30 s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A 300 m train runs at 72 km/h. How long does it take to cross a 400 m platform?",
+  "options": [
+   "40 s",
+   "35 s",
+   "20 s",
+   "15 s"
+  ],
+  "answer": 1,
+  "explanation": "Distance = 300 + 400 = 700 m; speed = 20 m/s; time = 35 s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A 300 m train runs at 36 km/h. How long does it take to cross a 100 m platform?",
+  "options": [
+   "10 s",
+   "30 s",
+   "40 s",
+   "45 s"
+  ],
+  "answer": 2,
+  "explanation": "Distance = 300 + 100 = 400 m; speed = 10 m/s; time = 40 s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A car goes to a town at 40 km/h and returns at 60 km/h. What is the average speed for the whole journey?",
+  "options": [
+   "48 km/h",
+   "53 km/h",
+   "50 km/h",
+   "20 km/h"
+  ],
+  "answer": 0,
+  "explanation": "Average speed = 2xy/(x + y) = 4800/100 = 48 km/h.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A car goes to a town at 30 km/h and returns at 60 km/h. What is the average speed for the whole journey?",
+  "options": [
+   "45 km/h",
+   "30 km/h",
+   "44 km/h",
+   "40 km/h"
+  ],
+  "answer": 3,
+  "explanation": "Average speed = 2xy/(x + y) = 3600/90 = 40 km/h.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A car goes to a town at 20 km/h and returns at 30 km/h. What is the average speed for the whole journey?",
+  "options": [
+   "24 km/h",
+   "25 km/h",
+   "10 km/h",
+   "29 km/h"
+  ],
+  "answer": 0,
+  "explanation": "Average speed = 2xy/(x + y) = 1200/50 = 24 km/h.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A car goes to a town at 60 km/h and returns at 90 km/h. What is the average speed for the whole journey?",
+  "options": [
+   "77 km/h",
+   "72 km/h",
+   "75 km/h",
+   "30 km/h"
+  ],
+  "answer": 1,
+  "explanation": "Average speed = 2xy/(x + y) = 10800/150 = 72 km/h.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A car goes to a town at 45 km/h and returns at 90 km/h. What is the average speed for the whole journey?",
+  "options": [
+   "67.5 km/h",
+   "60 km/h",
+   "45 km/h",
+   "65 km/h"
+  ],
+  "answer": 1,
+  "explanation": "Average speed = 2xy/(x + y) = 8100/135 = 60 km/h.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A car goes to a town at 12 km/h and returns at 24 km/h. What is the average speed for the whole journey?",
+  "options": [
+   "12 km/h",
+   "21 km/h",
+   "16 km/h",
+   "18 km/h"
+  ],
+  "answer": 2,
+  "explanation": "Average speed = 2xy/(x + y) = 576/36 = 16 km/h.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A car goes to a town at 40 km/h and returns at 120 km/h. What is the average speed for the whole journey?",
+  "options": [
+   "65 km/h",
+   "60 km/h",
+   "66 km/h",
+   "80 km/h"
+  ],
+  "answer": 1,
+  "explanation": "Average speed = 2xy/(x + y) = 9600/160 = 60 km/h.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Speed, time & distance",
+  "body": "A car goes to a town at 30 km/h and returns at 70 km/h. What is the average speed for the whole journey?",
+  "options": [
+   "50 km/h",
+   "42 km/h",
+   "47 km/h",
+   "40 km/h"
+  ],
+  "answer": 1,
+  "explanation": "Average speed = 2xy/(x + y) = 4200/100 = 42 km/h.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "Find the LCM of 18 and 15.",
+  "options": [
+   "90",
+   "180",
+   "3",
+   "270"
+  ],
+  "answer": 0,
+  "explanation": "LCM = 18 × 15 ÷ HCF(3) = 90.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "Find the LCM of 8 and 4.",
+  "options": [
+   "32",
+   "4",
+   "16",
+   "8"
+  ],
+  "answer": 3,
+  "explanation": "LCM = 8 × 4 ÷ HCF(4) = 8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "Find the HCF of 18 and 48.",
+  "options": [
+   "144",
+   "6",
+   "18",
+   "12"
+  ],
+  "answer": 1,
+  "explanation": "Largest number dividing both: 6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "Find the HCF of 72 and 96.",
+  "options": [
+   "288",
+   "48",
+   "72",
+   "24"
+  ],
+  "answer": 3,
+  "explanation": "Largest number dividing both: 24.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "Find the LCM of 45 and 40.",
+  "options": [
+   "720",
+   "1800",
+   "360",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "LCM = 45 × 40 ÷ HCF(5) = 360.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "Find the LCM of 42 and 36.",
+  "options": [
+   "252",
+   "6",
+   "504",
+   "1512"
+  ],
+  "answer": 0,
+  "explanation": "LCM = 42 × 36 ÷ HCF(6) = 252.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "Find the HCF of 75 and 60.",
+  "options": [
+   "60",
+   "300",
+   "30",
+   "15"
+  ],
+  "answer": 3,
+  "explanation": "Largest number dividing both: 15.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "Find the HCF of 48 and 108.",
+  "options": [
+   "432",
+   "12",
+   "24",
+   "48"
+  ],
+  "answer": 1,
+  "explanation": "Largest number dividing both: 12.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "Find the LCM of 30 and 90.",
+  "options": [
+   "2700",
+   "180",
+   "30",
+   "90"
+  ],
+  "answer": 3,
+  "explanation": "LCM = 30 × 90 ÷ HCF(30) = 90.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "Find the LCM of 32 and 20.",
+  "options": [
+   "160",
+   "320",
+   "4",
+   "640"
+  ],
+  "answer": 0,
+  "explanation": "LCM = 32 × 20 ÷ HCF(4) = 160.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "Find the HCF of 32 and 28.",
+  "options": [
+   "28",
+   "4",
+   "224",
+   "8"
+  ],
+  "answer": 1,
+  "explanation": "Largest number dividing both: 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "Find the LCM of 24 and 36.",
+  "options": [
+   "72",
+   "864",
+   "144",
+   "12"
+  ],
+  "answer": 0,
+  "explanation": "LCM = 24 × 36 ÷ HCF(12) = 72.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "What is the unit digit of 4^30?",
+  "options": [
+   "6",
+   "0",
+   "8",
+   "4"
+  ],
+  "answer": 0,
+  "explanation": "Unit digits of powers of 4 repeat in a cycle; 4^30 ends in 6.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "What is the unit digit of 3^34?",
+  "options": [
+   "2",
+   "3",
+   "1",
+   "9"
+  ],
+  "answer": 3,
+  "explanation": "Unit digits of powers of 3 repeat in a cycle; 3^34 ends in 9.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "What is the unit digit of 4^43?",
+  "options": [
+   "4",
+   "2",
+   "8",
+   "6"
+  ],
+  "answer": 0,
+  "explanation": "Unit digits of powers of 4 repeat in a cycle; 4^43 ends in 4.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "What is the unit digit of 8^10?",
+  "options": [
+   "0",
+   "4",
+   "6",
+   "8"
+  ],
+  "answer": 1,
+  "explanation": "Unit digits of powers of 8 repeat in a cycle; 8^10 ends in 4.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "What is the unit digit of 3^25?",
+  "options": [
+   "5",
+   "7",
+   "4",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "Unit digits of powers of 3 repeat in a cycle; 3^25 ends in 3.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "What is the unit digit of 4^50?",
+  "options": [
+   "0",
+   "6",
+   "4",
+   "8"
+  ],
+  "answer": 1,
+  "explanation": "Unit digits of powers of 4 repeat in a cycle; 4^50 ends in 6.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "What is the unit digit of 6^95?",
+  "options": [
+   "7",
+   "6",
+   "0",
+   "8"
+  ],
+  "answer": 1,
+  "explanation": "Unit digits of powers of 6 repeat in a cycle; 6^95 ends in 6.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "What is the unit digit of 3^77?",
+  "options": [
+   "3",
+   "1",
+   "7",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "Unit digits of powers of 3 repeat in a cycle; 3^77 ends in 3.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "What is the unit digit of 7^84?",
+  "options": [
+   "1",
+   "5",
+   "7",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "Unit digits of powers of 7 repeat in a cycle; 7^84 ends in 1.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "What is the unit digit of 9^44?",
+  "options": [
+   "9",
+   "5",
+   "1",
+   "3"
+  ],
+  "answer": 2,
+  "explanation": "Unit digits of powers of 9 repeat in a cycle; 9^44 ends in 1.",
+  "difficulty": 3
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "What is the remainder when 651 is divided by 9?",
+  "options": [
+   "6",
+   "4",
+   "3",
+   "0"
+  ],
+  "answer": 2,
+  "explanation": "651 = 9 × 72 + 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "What is the remainder when 876 is divided by 7?",
+  "options": [
+   "0",
+   "6",
+   "1",
+   "2"
+  ],
+  "answer": 2,
+  "explanation": "876 = 7 × 125 + 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "What is the remainder when 522 is divided by 7?",
+  "options": [
+   "3",
+   "5",
+   "8",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": "522 = 7 × 74 + 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "What is the remainder when 360 is divided by 11?",
+  "options": [
+   "9",
+   "3",
+   "8",
+   "10"
+  ],
+  "answer": 2,
+  "explanation": "360 = 11 × 32 + 8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "What is the remainder when 473 is divided by 9?",
+  "options": [
+   "7",
+   "4",
+   "6",
+   "5"
+  ],
+  "answer": 3,
+  "explanation": "473 = 9 × 52 + 5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "What is the remainder when 648 is divided by 13?",
+  "options": [
+   "12",
+   "2",
+   "11",
+   "10"
+  ],
+  "answer": 2,
+  "explanation": "648 = 13 × 49 + 11.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "What is the remainder when 759 is divided by 13?",
+  "options": [
+   "4",
+   "8",
+   "6",
+   "5"
+  ],
+  "answer": 3,
+  "explanation": "759 = 13 × 58 + 5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Number system",
+  "body": "What is the remainder when 760 is divided by 7?",
+  "options": [
+   "5",
+   "8",
+   "4",
+   "3"
+  ],
+  "answer": 2,
+  "explanation": "760 = 7 × 108 + 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "Find the area of a circle of radius 21 cm (π = 22/7).",
+  "options": [
+   "132 cm²",
+   "1386 cm²",
+   "2772 cm²",
+   "693 cm²"
+  ],
+  "answer": 1,
+  "explanation": "Area = πr² = 22/7 × 21² = 1386 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "Find the area of a circle of radius 28 cm (π = 22/7).",
+  "options": [
+   "1232 cm²",
+   "2464 cm²",
+   "176 cm²",
+   "4928 cm²"
+  ],
+  "answer": 1,
+  "explanation": "Area = πr² = 22/7 × 28² = 2464 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "Find the area of a circle of radius 35 cm (π = 22/7).",
+  "options": [
+   "7700 cm²",
+   "1925 cm²",
+   "3850 cm²",
+   "220 cm²"
+  ],
+  "answer": 2,
+  "explanation": "Area = πr² = 22/7 × 35² = 3850 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "Find the area of a circle of radius 14 cm (π = 22/7).",
+  "options": [
+   "308 cm²",
+   "1232 cm²",
+   "88 cm²",
+   "616 cm²"
+  ],
+  "answer": 3,
+  "explanation": "Area = πr² = 22/7 × 14² = 616 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "Find the area of a circle of radius 7 cm (π = 22/7).",
+  "options": [
+   "154 cm²",
+   "308 cm²",
+   "77 cm²",
+   "44 cm²"
+  ],
+  "answer": 0,
+  "explanation": "Area = πr² = 22/7 × 7² = 154 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cylinder with radius 7 cm and height 9 cm (π = 22/7).",
+  "options": [
+   "1386 cm³",
+   "462 cm³",
+   "396 cm³",
+   "2772 cm³"
+  ],
+  "answer": 0,
+  "explanation": "V = πr²h = 22/7 × 7² × 9 = 1386 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cylinder with radius 14 cm and height 20 cm (π = 22/7).",
+  "options": [
+   "24,640 cm³",
+   "1760 cm³",
+   "12,320 cm³",
+   "13,552 cm³"
+  ],
+  "answer": 2,
+  "explanation": "V = πr²h = 22/7 × 14² × 20 = 12,320 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cylinder with radius 14 cm and height 17 cm (π = 22/7).",
+  "options": [
+   "10,472 cm³",
+   "11,519 cm³",
+   "20,944 cm³",
+   "1496 cm³"
+  ],
+  "answer": 0,
+  "explanation": "V = πr²h = 22/7 × 14² × 17 = 10,472 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cylinder with radius 7 cm and height 12 cm (π = 22/7).",
+  "options": [
+   "616 cm³",
+   "1848 cm³",
+   "3696 cm³",
+   "528 cm³"
+  ],
+  "answer": 1,
+  "explanation": "V = πr²h = 22/7 × 7² × 12 = 1848 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cylinder with radius 14 cm and height 9 cm (π = 22/7).",
+  "options": [
+   "792 cm³",
+   "5544 cm³",
+   "11,088 cm³",
+   "1848 cm³"
+  ],
+  "answer": 1,
+  "explanation": "V = πr²h = 22/7 × 14² × 9 = 5544 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cylinder with radius 21 cm and height 9 cm (π = 22/7).",
+  "options": [
+   "24,948 cm³",
+   "4158 cm³",
+   "1188 cm³",
+   "12,474 cm³"
+  ],
+  "answer": 3,
+  "explanation": "V = πr²h = 22/7 × 21² × 9 = 12,474 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cylinder with radius 21 cm and height 11 cm (π = 22/7).",
+  "options": [
+   "15,246 cm³",
+   "1452 cm³",
+   "5082 cm³",
+   "30,492 cm³"
+  ],
+  "answer": 0,
+  "explanation": "V = πr²h = 22/7 × 21² × 11 = 15,246 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "Find the volume of a cylinder with radius 14 cm and height 8 cm (π = 22/7).",
+  "options": [
+   "4928 cm³",
+   "5421 cm³",
+   "704 cm³",
+   "9856 cm³"
+  ],
+  "answer": 0,
+  "explanation": "V = πr²h = 22/7 × 14² × 8 = 4928 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "The total surface area of a cube is 1350 cm². Find its volume.",
+  "options": [
+   "1350 cm³",
+   "3375 cm³",
+   "225 cm³",
+   "3390 cm³"
+  ],
+  "answer": 1,
+  "explanation": "6a² = 1350 → a = 15; V = a³ = 3375 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "The total surface area of a cube is 1176 cm². Find its volume.",
+  "options": [
+   "1176 cm³",
+   "196 cm³",
+   "2758 cm³",
+   "2744 cm³"
+  ],
+  "answer": 3,
+  "explanation": "6a² = 1176 → a = 14; V = a³ = 2744 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "The total surface area of a cube is 216 cm². Find its volume.",
+  "options": [
+   "216 cm³",
+   "238 cm³",
+   "36 cm³",
+   "222 cm³"
+  ],
+  "answer": 0,
+  "explanation": "6a² = 216 → a = 6; V = a³ = 216 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "The total surface area of a cube is 150 cm². Find its volume.",
+  "options": [
+   "130 cm³",
+   "25 cm³",
+   "150 cm³",
+   "125 cm³"
+  ],
+  "answer": 3,
+  "explanation": "6a² = 150 → a = 5; V = a³ = 125 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "The total surface area of a cube is 600 cm². Find its volume.",
+  "options": [
+   "1000 cm³",
+   "1010 cm³",
+   "100 cm³",
+   "600 cm³"
+  ],
+  "answer": 0,
+  "explanation": "6a² = 600 → a = 10; V = a³ = 1000 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "The total surface area of a cube is 384 cm². Find its volume.",
+  "options": [
+   "384 cm³",
+   "520 cm³",
+   "512 cm³",
+   "64 cm³"
+  ],
+  "answer": 2,
+  "explanation": "6a² = 384 → a = 8; V = a³ = 512 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "The total surface area of a cube is 1014 cm². Find its volume.",
+  "options": [
+   "2197 cm³",
+   "1014 cm³",
+   "2210 cm³",
+   "169 cm³"
+  ],
+  "answer": 0,
+  "explanation": "6a² = 1014 → a = 13; V = a³ = 2197 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Mensuration",
+  "body": "The total surface area of a cube is 96 cm². Find its volume.",
+  "options": [
+   "68 cm³",
+   "64 cm³",
+   "16 cm³",
+   "96 cm³"
+  ],
+  "answer": 1,
+  "explanation": "6a² = 96 → a = 4; V = a³ = 64 cm³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Algebra",
+  "body": "If x + 1/x = 6, find x² + 1/x².",
+  "options": [
+   "38",
+   "36",
+   "12",
+   "34"
+  ],
+  "answer": 3,
+  "explanation": "(x + 1/x)² = x² + 2 + 1/x², so x² + 1/x² = 6² − 2 = 34.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Algebra",
+  "body": "If x + 1/x = 5, find x² + 1/x².",
+  "options": [
+   "25",
+   "27",
+   "23",
+   "10"
+  ],
+  "answer": 2,
+  "explanation": "(x + 1/x)² = x² + 2 + 1/x², so x² + 1/x² = 5² − 2 = 23.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Algebra",
+  "body": "If x + 1/x = 9, find x² + 1/x².",
+  "options": [
+   "83",
+   "79",
+   "81",
+   "18"
+  ],
+  "answer": 1,
+  "explanation": "(x + 1/x)² = x² + 2 + 1/x², so x² + 1/x² = 9² − 2 = 79.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Algebra",
+  "body": "If x + 1/x = 3, find x² + 1/x².",
+  "options": [
+   "11",
+   "7",
+   "6",
+   "9"
+  ],
+  "answer": 1,
+  "explanation": "(x + 1/x)² = x² + 2 + 1/x², so x² + 1/x² = 3² − 2 = 7.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Algebra",
+  "body": "If x + 1/x = 11, find x² + 1/x².",
+  "options": [
+   "119",
+   "22",
+   "123",
+   "121"
+  ],
+  "answer": 0,
+  "explanation": "(x + 1/x)² = x² + 2 + 1/x², so x² + 1/x² = 11² − 2 = 119.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Algebra",
+  "body": "If x + 1/x = 12, find x² + 1/x².",
+  "options": [
+   "146",
+   "142",
+   "24",
+   "144"
+  ],
+  "answer": 1,
+  "explanation": "(x + 1/x)² = x² + 2 + 1/x², so x² + 1/x² = 12² − 2 = 142.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Algebra",
+  "body": "If x + 1/x = 10, find x² + 1/x².",
+  "options": [
+   "102",
+   "98",
+   "100",
+   "20"
+  ],
+  "answer": 1,
+  "explanation": "(x + 1/x)² = x² + 2 + 1/x², so x² + 1/x² = 10² − 2 = 98.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Algebra",
+  "body": "If x + 1/x = 4, find x² + 1/x².",
+  "options": [
+   "16",
+   "8",
+   "14",
+   "18"
+  ],
+  "answer": 2,
+  "explanation": "(x + 1/x)² = x² + 2 + 1/x², so x² + 1/x² = 4² − 2 = 14.",
+  "difficulty": 2
+ },
+ {
+  "subject": "QNT",
+  "topic": "Trigonometry",
+  "body": "What is the value of sin 30°?",
+  "options": [
+   "1/2",
+   "1/√2",
+   "1",
+   "√3/2"
+  ],
+  "answer": 0,
+  "explanation": "sin 30° = 1/2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Trigonometry",
+  "body": "What is the value of cos 60°?",
+  "options": [
+   "1",
+   "0",
+   "1/2",
+   "√3/2"
+  ],
+  "answer": 2,
+  "explanation": "cos 60° = 1/2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Trigonometry",
+  "body": "What is the value of tan 45°?",
+  "options": [
+   "1/√3",
+   "√3",
+   "1",
+   "0"
+  ],
+  "answer": 2,
+  "explanation": "tan 45° = 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Trigonometry",
+  "body": "What is the value of sin 90°?",
+  "options": [
+   "0",
+   "1/2",
+   "√3/2",
+   "1"
+  ],
+  "answer": 3,
+  "explanation": "sin 90° = 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Trigonometry",
+  "body": "What is the value of cos 0°?",
+  "options": [
+   "0",
+   "−1",
+   "1/2",
+   "1"
+  ],
+  "answer": 3,
+  "explanation": "cos 0° = 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Trigonometry",
+  "body": "What is the value of tan 60°?",
+  "options": [
+   "1/√3",
+   "√3/2",
+   "1",
+   "√3"
+  ],
+  "answer": 3,
+  "explanation": "tan 60° = √3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Trigonometry",
+  "body": "What is the value of sin²θ + cos²θ?",
+  "options": [
+   "tan θ",
+   "0",
+   "2",
+   "1"
+  ],
+  "answer": 3,
+  "explanation": "sin²θ + cos²θ = 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "QNT",
+  "topic": "Trigonometry",
+  "body": "What is the value of sec²θ − tan²θ?",
+  "options": [
+   "0",
+   "1",
+   "2",
+   "sin²θ"
+  ],
+  "answer": 1,
+  "explanation": "sec²θ − tan²θ = 1.",
+  "difficulty": 1
+ }
+]

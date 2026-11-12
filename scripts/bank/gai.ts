@@ -1,0 +1,136 @@
+// General awareness (GAI) — India static GK for SSC/railway/banking style exams.
+// Only stable facts: no current affairs or present office holders.
+import { mcq, others, Q } from "./lib";
+
+const S = "GAI";
+
+const FACTS: [string, string, string, string[], string][] = [
+  // Polity
+  ["Polity", "On which date did the Constitution of India come into force?", "26 January 1950", ["15 August 1947", "26 November 1949", "2 October 1950"], "It was adopted on 26 November 1949 and came into force on 26 January 1950 (Republic Day)."],
+  ["Polity", "On which date was the Constitution of India adopted by the Constituent Assembly?", "26 November 1949", ["26 January 1950", "15 August 1947", "9 December 1946"], "26 November is observed as Constitution Day."],
+  ["Polity", "Who was the Chairman of the Drafting Committee of the Indian Constitution?", "Dr B. R. Ambedkar", ["Dr Rajendra Prasad", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel"], "Dr Rajendra Prasad was President of the Constituent Assembly."],
+  ["Polity", "Who was the President of the Constituent Assembly of India?", "Dr Rajendra Prasad", ["Dr B. R. Ambedkar", "Maulana Abul Kalam Azad", "C. Rajagopalachari"], "He later became India's first President."],
+  ["Polity", "Fundamental Rights are contained in which Part of the Constitution?", "Part III", ["Part IV", "Part IVA", "Part II"], "Articles 12–35."],
+  ["Polity", "Directive Principles of State Policy are in which Part of the Constitution?", "Part IV", ["Part III", "Part V", "Part IVA"], "Articles 36–51."],
+  ["Polity", "Fundamental Duties were added by which Constitutional Amendment?", "42nd Amendment (1976)", ["44th Amendment", "73rd Amendment", "61st Amendment"], "They are in Part IVA, Article 51A."],
+  ["Polity", "Which Article guarantees the right to life and personal liberty?", "Article 21", ["Article 14", "Article 19", "Article 32"], "Article 21 has been interpreted widely by the courts."],
+  ["Polity", "Which Article provides the right to constitutional remedies?", "Article 32", ["Article 21", "Article 226", "Article 14"], "Dr Ambedkar called it the 'heart and soul' of the Constitution."],
+  ["Polity", "Which Article provides for equality before the law?", "Article 14", ["Article 17", "Article 21", "Article 19"], "Equality before law and equal protection of laws."],
+  ["Polity", "Which Article abolishes untouchability?", "Article 17", ["Article 14", "Article 15", "Article 23"], "Its practice in any form is forbidden."],
+  ["Polity", "Which Article deals with a National Emergency?", "Article 352", ["Article 356", "Article 360", "Article 370"], "Article 356 is President's Rule; 360 is Financial Emergency."],
+  ["Polity", "President's Rule in a state is imposed under which Article?", "Article 356", ["Article 352", "Article 360", "Article 365"], "Used when constitutional machinery in a state fails."],
+  ["Polity", "Which Article deals with a Financial Emergency?", "Article 360", ["Article 352", "Article 356", "Article 280"], "It has never been declared."],
+  ["Polity", "The Election Commission of India is provided for under which Article?", "Article 324", ["Article 148", "Article 280", "Article 315"], "It supervises elections to Parliament, state legislatures and the offices of President and Vice-President."],
+  ["Polity", "The Comptroller and Auditor General of India is provided for under which Article?", "Article 148", ["Article 324", "Article 280", "Article 76"], "Article 76 is the Attorney General; 280 the Finance Commission."],
+  ["Polity", "Who is the ex officio Chairman of the Rajya Sabha?", "The Vice-President of India", ["The President of India", "The Speaker", "The Prime Minister"], "The Speaker presides over the Lok Sabha."],
+  ["Polity", "What is the minimum age to become President of India?", "35 years", ["25 years", "30 years", "40 years"], "Minimum age for Lok Sabha is 25 and Rajya Sabha 30."],
+  ["Polity", "What is the minimum age to be a member of the Lok Sabha?", "25 years", ["18 years", "30 years", "35 years"], "Rajya Sabha members must be at least 30."],
+  ["Polity", "A Money Bill can be introduced only in", "the Lok Sabha", ["the Rajya Sabha", "either House", "a joint sitting"], "Article 110 defines a Money Bill."],
+  ["Polity", "Which Amendment lowered the voting age from 21 to 18?", "61st Amendment", ["42nd Amendment", "52nd Amendment", "73rd Amendment"], "It came into effect in 1989."],
+  ["Polity", "Which Amendment gave constitutional status to Panchayati Raj?", "73rd Amendment", ["74th Amendment", "42nd Amendment", "86th Amendment"], "The 74th Amendment covers urban local bodies (municipalities)."],
+  ["Polity", "The right to education (Article 21A) was inserted by which Amendment?", "86th Amendment", ["73rd Amendment", "42nd Amendment", "91st Amendment"], "Free and compulsory education for children aged 6–14."],
+  ["Polity", "The anti-defection law is in which Schedule of the Constitution?", "Tenth Schedule", ["Eighth Schedule", "Seventh Schedule", "Ninth Schedule"], "Added by the 52nd Amendment (1985)."],
+  ["Polity", "The languages recognised by the Constitution are listed in which Schedule?", "Eighth Schedule", ["Seventh Schedule", "Tenth Schedule", "Sixth Schedule"], "It currently lists 22 languages."],
+  ["Polity", "The Union, State and Concurrent Lists are in which Schedule?", "Seventh Schedule", ["Eighth Schedule", "Fourth Schedule", "First Schedule"], "They divide law-making powers."],
+  ["Polity", "What is the maximum strength of the Rajya Sabha?", "250", ["245", "552", "238"], "Up to 238 elected and 12 nominated members."],
+  ["Polity", "How many members can the President nominate to the Rajya Sabha?", "12", ["2", "10", "15"], "People with special knowledge of literature, science, art and social service."],
+  ["Polity", "The idea of the Preamble was borrowed largely from the Constitution of", "the USA", ["the UK", "Ireland", "Canada"], "Directive Principles were inspired by Ireland; parliamentary government by the UK."],
+  ["Polity", "Directive Principles of State Policy were inspired by the Constitution of", "Ireland", ["the USA", "Australia", "Japan"], "Fundamental Rights were inspired by the US Bill of Rights."],
+  // History
+  ["History", "In which year did the Revolt of 1857 (First War of Independence) begin?", "1857", ["1757", "1885", "1905"], "It began at Meerut in May 1857."],
+  ["History", "In which year was the Indian National Congress founded?", "1885", ["1857", "1905", "1906"], "It was founded with the help of A. O. Hume; the first session was in Bombay."],
+  ["History", "Who founded the Indian National Congress (with Indian leaders) in 1885?", "A. O. Hume", ["Lord Curzon", "Dadabhai Naoroji alone", "Bal Gangadhar Tilak"], "W. C. Bonnerjee presided over the first session."],
+  ["History", "Bengal was partitioned in 1905 under which Viceroy?", "Lord Curzon", ["Lord Dalhousie", "Lord Ripon", "Lord Mountbatten"], "The partition was reversed in 1911."],
+  ["History", "The Jallianwala Bagh massacre took place in 1919 in which city?", "Amritsar", ["Lahore", "Delhi", "Lucknow"], "Troops under General Dyer fired on a peaceful gathering."],
+  ["History", "The Dandi March (Salt Satyagraha) began in", "1930", ["1920", "1942", "1919"], "Gandhi marched from Sabarmati Ashram to Dandi."],
+  ["History", "The Quit India Movement was launched in", "1942", ["1930", "1920", "1947"], "Gandhi gave the call 'Do or Die'."],
+  ["History", "The Non-Cooperation Movement was launched in", "1920", ["1905", "1930", "1942"], "It was called off after the Chauri Chaura incident in 1922."],
+  ["History", "Gandhi's first satyagraha in India (1917) was at", "Champaran", ["Kheda", "Dandi", "Bardoli"], "It supported indigo farmers in Bihar."],
+  ["History", "The Battle of Plassey (1757) was fought between the British and", "Siraj-ud-Daulah", ["Tipu Sultan", "Shah Alam II", "Hyder Ali"], "It established British power in Bengal."],
+  ["History", "The First Battle of Panipat (1526) established the rule of", "Babur (the Mughals)", ["Akbar", "Ibrahim Lodi", "Sher Shah Suri"], "Babur defeated Ibrahim Lodi."],
+  ["History", "The Battle of Buxar was fought in", "1764", ["1757", "1857", "1526"], "The British defeated the combined forces of Mir Qasim, Shuja-ud-Daula and Shah Alam II."],
+  ["History", "The Lahore session of Congress (1929) adopted the resolution of", "Purna Swaraj (complete independence)", ["Quit India", "Dominion status", "Partition"], "It was presided over by Jawaharlal Nehru."],
+  ["History", "The Simon Commission arrived in India in", "1928", ["1919", "1935", "1942"], "It was boycotted because it had no Indian members."],
+  ["History", "Who built the Taj Mahal?", "Shah Jahan", ["Akbar", "Jahangir", "Aurangzeb"], "In memory of Mumtaz Mahal, at Agra."],
+  ["History", "Which Mauryan emperor embraced Buddhism after the Kalinga War?", "Ashoka", ["Chandragupta Maurya", "Bindusara", "Samudragupta"], "The Kalinga War was fought around 261 BCE."],
+  ["History", "Where did Gautama Buddha deliver his first sermon?", "Sarnath", ["Bodh Gaya", "Kushinagar", "Lumbini"], "He attained enlightenment at Bodh Gaya."],
+  ["History", "Which Harappan site is known for its dockyard?", "Lothal", ["Mohenjo-daro", "Harappa", "Kalibangan"], "Lothal is in Gujarat."],
+  ["History", "Who was the 24th Tirthankara of Jainism?", "Mahavira", ["Rishabhanatha", "Parshvanatha", "Gautama"], "Rishabhanatha was the first."],
+  ["History", "Shivaji was crowned Chhatrapati in", "1674", ["1627", "1707", "1761"], "At Raigad."],
+  ["History", "Gandhi returned to India from South Africa in", "1915", ["1893", "1909", "1920"], "He returned on 9 January 1915 (now Pravasi Bharatiya Divas)."],
+  ["History", "India became independent on", "15 August 1947", ["26 January 1950", "26 January 1930", "2 October 1947"], "The Indian Independence Act 1947 was passed by the British Parliament."],
+  // Geography
+  ["Geography", "Which is the largest state of India by area?", "Rajasthan", ["Madhya Pradesh", "Maharashtra", "Uttar Pradesh"], "Uttar Pradesh is the most populous."],
+  ["Geography", "Which is the smallest state of India by area?", "Goa", ["Sikkim", "Tripura", "Mizoram"], "Sikkim is the least populous state."],
+  ["Geography", "India's Standard Meridian is", "82.5° E longitude", ["0° longitude", "77° E longitude", "90° E longitude"], "IST is 5 hours 30 minutes ahead of GMT."],
+  ["Geography", "The southernmost point of India is", "Indira Point", ["Kanyakumari", "Rameswaram", "Lakshadweep"], "Indira Point is in the Andaman & Nicobar Islands; Kanyakumari is the southern tip of the mainland."],
+  ["Geography", "The largest brackish water lagoon in India is", "Chilika Lake", ["Wular Lake", "Dal Lake", "Pulicat Lake"], "Chilika is in Odisha."],
+  ["Geography", "The largest freshwater lake in India is", "Wular Lake", ["Chilika Lake", "Loktak Lake", "Dal Lake"], "Wular is in Jammu & Kashmir."],
+  ["Geography", "Which strait separates India from Sri Lanka?", "Palk Strait", ["Strait of Malacca", "Ten Degree Channel", "Bab-el-Mandeb"], "The Ten Degree Channel separates the Andaman and Nicobar Islands."],
+  ["Geography", "Which two major rivers of peninsular India flow west into the Arabian Sea?", "Narmada and Tapi", ["Godavari and Krishna", "Mahanadi and Kaveri", "Ganga and Yamuna"], "Most peninsular rivers flow east into the Bay of Bengal."],
+  ["Geography", "Black soil is best suited for growing", "cotton", ["tea", "rice", "rubber"], "It is also called regur soil."],
+  ["Geography", "Kaziranga National Park is famous for the", "one-horned rhinoceros", ["Asiatic lion", "snow leopard", "Bengal tiger only"], "It is in Assam."],
+  ["Geography", "Gir National Park is the home of the", "Asiatic lion", ["one-horned rhinoceros", "red panda", "Nilgiri tahr"], "It is in Gujarat."],
+  ["Geography", "The Sundarbans, the largest mangrove forest, are in", "West Bengal (and Bangladesh)", ["Kerala", "Gujarat", "Odisha"], "They are home to the Royal Bengal tiger."],
+  ["Geography", "The Western Ghats are also known as the", "Sahyadri", ["Aravalli", "Vindhya", "Satpura"], "They run along India's west coast."],
+  ["Geography", "The oldest fold mountains in India are the", "Aravalli Range", ["Himalayas", "Western Ghats", "Satpura Range"], "They run through Rajasthan."],
+  ["Geography", "The Tropic of Cancer passes through how many Indian states?", "8", ["6", "7", "10"], "Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram."],
+  ["Geography", "The longest river flowing entirely within India is the", "Ganga", ["Godavari", "Brahmaputra", "Indus"], "The Godavari is the longest peninsular river."],
+  // Science
+  ["Science", "Deficiency of vitamin C causes", "scurvy", ["rickets", "night blindness", "beriberi"], "Vitamin D deficiency causes rickets; vitamin A night blindness; B1 beriberi."],
+  ["Science", "Deficiency of vitamin D causes", "rickets", ["scurvy", "anaemia", "goitre"], "Vitamin D helps the body absorb calcium."],
+  ["Science", "Night blindness is caused by deficiency of", "vitamin A", ["vitamin B12", "vitamin C", "vitamin K"], "Carrots and leafy greens are good sources."],
+  ["Science", "Goitre is caused by deficiency of", "iodine", ["iron", "calcium", "zinc"], "Iodised salt helps prevent it."],
+  ["Science", "The SI unit of force is the", "newton", ["joule", "watt", "pascal"], "1 N = 1 kg·m/s²."],
+  ["Science", "The chemical formula of common salt is", "NaCl", ["KCl", "NaHCO₃", "CaCO₃"], "Sodium chloride."],
+  ["Science", "Laughing gas is", "nitrous oxide (N₂O)", ["nitrogen dioxide", "carbon monoxide", "ammonia"], "It is used as a mild anaesthetic."],
+  ["Science", "Which is called the powerhouse of the cell?", "Mitochondria", ["Nucleus", "Ribosome", "Golgi body"], "Mitochondria release energy through respiration."],
+  ["Science", "The largest gland in the human body is the", "liver", ["pancreas", "thyroid", "pituitary"], "The pituitary is called the master gland."],
+  ["Science", "Insulin is produced by the", "pancreas", ["liver", "kidney", "thyroid"], "It controls blood sugar."],
+  ["Science", "Red blood cells are formed mainly in the", "bone marrow", ["liver", "spleen", "heart"], "In adults, mainly in flat bones and the ends of long bones."],
+  ["Science", "The pH of pure water at 25 °C is", "7", ["0", "1", "14"], "Below 7 is acidic; above 7 is basic."],
+  ["Science", "The hardest natural substance is", "diamond", ["iron", "quartz", "graphite"], "Both diamond and graphite are forms of carbon."],
+  ["Science", "Approximately what is the speed of light in a vacuum?", "3 × 10⁸ m/s", ["3 × 10⁵ m/s", "340 m/s", "3 × 10⁶ km/s"], "About 300,000 km per second."],
+  ["Science", "Which gas do plants mainly absorb for photosynthesis?", "Carbon dioxide", ["Oxygen", "Nitrogen", "Hydrogen"], "They release oxygen."],
+  // Economy
+  ["Economy", "In which year was the Reserve Bank of India established?", "1935", ["1947", "1949", "1969"], "It was nationalised in 1949."],
+  ["Economy", "Where is the headquarters of the Reserve Bank of India?", "Mumbai", ["New Delhi", "Kolkata", "Chennai"], "It moved from Kolkata to Mumbai in 1937."],
+  ["Economy", "NITI Aayog replaced the Planning Commission in", "2015", ["2010", "2014", "2017"], "It was set up on 1 January 2015."],
+  ["Economy", "The Goods and Services Tax (GST) was introduced in India on", "1 July 2017", ["1 April 2016", "1 January 2018", "8 November 2016"], "It replaced many indirect taxes."],
+  ["Economy", "India's financial year runs from", "1 April to 31 March", ["1 January to 31 December", "1 July to 30 June", "1 October to 30 September"], "The Union Budget is for this year."],
+  ["Economy", "The First Five-Year Plan began in", "1951", ["1947", "1956", "1961"], "It focused on agriculture."],
+  ["Economy", "Who is known as the father of the Green Revolution in India?", "M. S. Swaminathan", ["Verghese Kurien", "C. V. Raman", "Homi Bhabha"], "Verghese Kurien led the White Revolution (Operation Flood)."],
+  ["Economy", "The White Revolution in India is associated with", "milk production", ["oilseeds", "fish", "eggs"], "Operation Flood, led by Verghese Kurien."],
+  ["Economy", "The rupee symbol (₹) was adopted in", "2010", ["2000", "2005", "2014"], "It was designed by D. Udaya Kumar."],
+  // Culture & sports
+  ["Culture & sports", "India's national animal is the", "tiger", ["lion", "elephant", "peacock"], "The national bird is the peacock."],
+  ["Culture & sports", "India's national aquatic animal is the", "Ganges river dolphin", ["crocodile", "blue whale", "turtle"], "It was declared in 2009."],
+  ["Culture & sports", "Who wrote India's national anthem, Jana Gana Mana?", "Rabindranath Tagore", ["Bankim Chandra Chatterjee", "Sarojini Naidu", "Muhammad Iqbal"], "Bankim Chandra wrote the national song, Vande Mataram."],
+  ["Culture & sports", "Who wrote the national song Vande Mataram?", "Bankim Chandra Chatterjee", ["Rabindranath Tagore", "Subramania Bharati", "Sarojini Naidu"], "It appears in his novel Anandamath."],
+  ["Culture & sports", "The first Indian to win a Nobel Prize was", "Rabindranath Tagore (1913)", ["C. V. Raman", "Mother Teresa", "Amartya Sen"], "He won the Nobel Prize in Literature."],
+  ["Culture & sports", "National Sports Day in India (29 August) marks the birthday of", "Major Dhyan Chand", ["Milkha Singh", "Sachin Tendulkar", "P. T. Usha"], "The hockey legend."],
+  ["Culture & sports", "The Ranji Trophy is associated with", "cricket", ["football", "hockey", "badminton"], "The Durand Cup is football."],
+  ["Culture & sports", "The Durand Cup is associated with", "football", ["cricket", "hockey", "tennis"], "It is one of the oldest football tournaments in Asia."],
+];
+
+const DANCES: [string, string][] = [
+  ["Bharatanatyam", "Tamil Nadu"], ["Kathakali", "Kerala"], ["Kuchipudi", "Andhra Pradesh"], ["Odissi", "Odisha"],
+  ["Manipuri", "Manipur"], ["Sattriya", "Assam"], ["Mohiniyattam", "Kerala"], ["Bihu", "Assam"], ["Garba", "Gujarat"], ["Bhangra", "Punjab"],
+];
+const FESTIVALS: [string, string][] = [["Onam", "Kerala"], ["Pongal", "Tamil Nadu"], ["Bihu", "Assam"], ["Lohri", "Punjab"], ["Chhath", "Bihar"], ["Hornbill Festival", "Nagaland"]];
+const CAPITALS: [string, string][] = [
+  ["Rajasthan", "Jaipur"], ["Maharashtra", "Mumbai"], ["Karnataka", "Bengaluru"], ["Tamil Nadu", "Chennai"], ["West Bengal", "Kolkata"],
+  ["Gujarat", "Gandhinagar"], ["Kerala", "Thiruvananthapuram"], ["Odisha", "Bhubaneswar"], ["Assam", "Dispur"], ["Bihar", "Patna"],
+  ["Madhya Pradesh", "Bhopal"], ["Uttar Pradesh", "Lucknow"], ["Telangana", "Hyderabad"], ["Jharkhand", "Ranchi"], ["Chhattisgarh", "Raipur"],
+  ["Uttarakhand", "Dehradun"], ["Himachal Pradesh", "Shimla"], ["Meghalaya", "Shillong"], ["Manipur", "Imphal"], ["Sikkim", "Gangtok"],
+];
+
+export function generalAwarenessIndia(): Q[] {
+  const uniq = (xs: [string, string][]) => xs.filter((x, i) => xs.findIndex((y) => y[0] === x[0]) === i);
+  return [
+    ...FACTS.map(([t, b, c, d, e]) => mcq(S, t, b, c, d, e, 2)),
+    ...uniq(DANCES).map((x) => mcq(S, "Culture & sports", `The dance form ${x[0]} is mainly associated with which state?`, x[1], others(DANCES, x, (y) => y[1]).filter((v) => v !== x[1]), `${x[0]} — ${x[1]}.`, 1)),
+    ...FESTIVALS.map((x) => mcq(S, "Culture & sports", `The festival ${x[0]} is mainly celebrated in`, x[1], others(FESTIVALS, x, (y) => y[1]), `${x[0]} — ${x[1]}.`, 1)),
+    ...CAPITALS.map((x) => mcq(S, "Geography", `What is the capital of ${x[0]}?`, x[1], others(CAPITALS, x, (y) => y[1]), `${x[1]} is the capital of ${x[0]}.`, 1)),
+  ];
+}

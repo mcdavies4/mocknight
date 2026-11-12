@@ -29,9 +29,10 @@ export async function createCheckout(
   const plan = PLANS[planCode];
   if (!plan) throw new Error(`Unknown plan ${planCode}`);
   await recordPending(reference, student, plan.code, plan.amount, plan.currency, plan.provider);
-  return plan.provider === "stripe"
-    ? stripeInit(student, reference, plan.amount, plan.currency, plan.label, opts.returnTo ?? (student.telegram_id ? "telegram" : "web"))
-    : paystackInit(student, reference, plan.amount, { plan: plan.code });
+  const returnTo = opts.returnTo ?? (student.telegram_id ? "telegram" : "web");
+  if (plan.provider === "stripe") return stripeInit(student, reference, plan.amount, plan.currency, plan.label, returnTo);
+  if (plan.provider === "chapa") return chapaInit(student, reference, plan.amount, plan.label, returnTo);
+  return paystackInit(student, reference, plan.amount, { plan: plan.code });
 }
 
 async function recordPending(
@@ -73,7 +74,41 @@ export function verifyPaystackSignature(rawBody: string, signature: string | nul
 }
 
 // ---------------------------------------------------------------------------
-// Stripe (GBP) — plain REST, no SDK
+// Chapa (ETB — cards, Telebirr, CBE Birr, M-Pesa). We never trust the callback: always re-verify with the API.
+// ---------------------------------------------------------------------------
+async function chapaInit(student: Student, reference: string, amount: number, label: string, returnTo: "telegram" | "web") {
+  const res = await fetch("https://api.chapa.co/v1/transaction/initialize", {
+    method: "POST",
+    headers: { Authorization: `Bearer ${env.chapaSecret}`, "Content-Type": "application/json" },
+    body: JSON.stringify({
+      amount: String(amount / 100),
+      currency: "ETB",
+      email: student.email ?? undefined,
+      first_name: (student.first_name ?? "Student").slice(0, 40),
+      tx_ref: reference,
+      callback_url: `${env.appUrl}/api/chapa/webhook`,
+      return_url: `${env.appUrl}/paid?ref=${reference}&to=${returnTo}`,
+      customization: { title: "Mock Night", description: label.replace(/[^A-Za-z0-9 .\-_]/g, "").slice(0, 50) },
+    }),
+  });
+  const json = (await res.json()) as { status: string; message: unknown; data?: { checkout_url: string } };
+  if (json.status !== "success" || !json.data) throw new Error(`Chapa: ${JSON.stringify(json.message)}`);
+  return json.data.checkout_url;
+}
+
+/** Ask Chapa whether a transaction really succeeded. Returns amount in minor units. */
+export async function verifyChapa(reference: string): Promise<{ ok: boolean; amount: number; currency: string }> {
+  const res = await fetch(`https://api.chapa.co/v1/transaction/verify/${encodeURIComponent(reference)}`, {
+    headers: { Authorization: `Bearer ${env.chapaSecret}` },
+  });
+  const json = (await res.json()) as { status: string; data?: { status: string; amount: number | string; currency: string } };
+  const d = json.data;
+  if (json.status !== "success" || !d || d.status !== "success") return { ok: false, amount: 0, currency: "" };
+  return { ok: true, amount: Math.round(Number(d.amount) * 100), currency: d.currency };
+}
+
+// ---------------------------------------------------------------------------
+// Stripe (GBP, INR) — plain REST, no SDK
 // ---------------------------------------------------------------------------
 async function stripeInit(student: Student, reference: string, amount: number, currency: string, label: string, returnTo: "telegram" | "web") {
   const form = new URLSearchParams({

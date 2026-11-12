@@ -20,6 +20,10 @@ export const SUBJECTS: Record<string, string> = {
   PRN: "PRINCE2 7 Foundation",
   SCR: "Scrum (PSM I)",
   PMF: "PM fundamentals (CAPM)",
+  APT: "Aptitude & reasoning",
+  QNT: "Quantitative aptitude",
+  GAI: "General awareness",
+  HIS: "History",
 };
 
 /** School subjects with questions. Add codes here once you have questions for them. */

@@ -37,6 +37,8 @@ export interface MockResult {
   total: number;
   scaled: number; // average % across subjects
   jambScore: number; // out of 400 (4 subjects × 100)
+  /** Marks-based score: negative marking (SSC) or each subject out of 100 (Ethiopia ESSLCE) */
+  points?: { score: number; max: number; label: string };
   perSubject: { code: string; name: string; correct: number; total: number; pct: number }[];
   review: ReviewQuestion[];
 }
@@ -349,9 +351,13 @@ export async function saveAnswers(attemptId: string, studentId: string, answers:
   await db().from("mock_attempts").update({ answers: clean }).eq("id", attempt.id).is("submitted_at", null);
 }
 
-function gradeQuestions(qs: Question[], subjects: string[], answers: Record<string, number>, cfg: { passPct?: number; scoreStyle: ScoreStyle }): MockResult {
+function gradeQuestions(
+  qs: Question[], subjects: string[], answers: Record<string, number>,
+  cfg: { passPct?: number; scoreStyle: ScoreStyle; marking?: { correct: number; wrong: number } },
+): MockResult {
   const per = new Map(subjects.map((s) => [s, { correct: 0, total: 0 }]));
   let raw = 0;
+  let wrong = 0;
   const review: ReviewQuestion[] = [];
   for (const q of qs) {
     const chosen = answers[q.id] ?? null;
@@ -362,6 +368,7 @@ function gradeQuestions(qs: Question[], subjects: string[], answers: Record<stri
       if (ok) p.correct++;
     }
     if (ok) raw++;
+    else if (chosen !== null) wrong++;
     review.push({
       id: q.id,
       subject: q.subject_code,
@@ -379,7 +386,23 @@ function gradeQuestions(qs: Question[], subjects: string[], answers: Record<stri
   const scaled = perSubject.length ? perSubject.reduce((s, p) => s + p.pct, 0) / perSubject.length : 0;
   const passPct = cfg.passPct;
   const needed = passPct ? Math.ceil((qs.length * passPct) / 100) : 0;
+  let points: MockResult["points"];
+  if (cfg.marking) {
+    const m = cfg.marking;
+    points = {
+      score: Math.round((raw * m.correct - wrong * m.wrong) * 100) / 100,
+      max: qs.length * m.correct,
+      label: `+${m.correct} per correct, −${m.wrong} per wrong (${wrong} wrong, ${qs.length - raw - wrong} skipped)`,
+    };
+  } else if (cfg.scoreStyle === "esslce") {
+    points = {
+      score: perSubject.reduce((s, p) => s + p.pct, 0),
+      max: perSubject.length * 100,
+      label: `each subject out of 100 · 50% (${perSubject.length * 50}) is the pass line`,
+    };
+  }
   return {
+    points,
     scoreStyle: cfg.scoreStyle,
     pass: passPct ? { needed, passed: raw >= needed } : undefined,
     rawScore: raw,

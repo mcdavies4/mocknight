@@ -30,6 +30,16 @@ export default function Home() {
           <Link className="btn block" href="/nmc-cbt">Start practising</Link>
         </div>
         <div className="card">
+          <h2 style={{ marginTop: 0 }}>🇪🇹 Ethiopia Grade 12</h2>
+          <p>Practice for the national exam: English, Maths, Aptitude and your stream subjects, with timed online-style tests.</p>
+          <Link className="btn block" href="/ethiopia">Start practising</Link>
+        </div>
+        <div className="card">
+          <h2 style={{ marginTop: 0 }}>🇮🇳 SSC CGL / CHSL</h2>
+          <p>Tier 1 mocks with +2/−0.5 marking, quant and reasoning sectionals, and daily questions on Telegram.</p>
+          <Link className="btn block" href="/ssc">Start practising</Link>
+        </div>
+        <div className="card">
           <h2 style={{ marginTop: 0 }}>📋 Project Management</h2>
           <p>PRINCE2 7 Foundation, Scrum PSM I and CAPM-style practice tests, with daily questions on Telegram.</p>
           <Link className="btn block" href="/project-management">Start practising</Link>

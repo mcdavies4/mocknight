@@ -309,6 +309,11 @@ function ResultView({ data, result }: { data: MockPayload; result: MockResult })
               </b>{" "}
               correct · {result.pass.needed} needed to pass ({Math.round(result.scaled)}%)
             </div>
+            {result.points && (
+              <div className="sub">
+                <b>{result.points.score}/{result.points.max}</b> <span className="muted small">— {result.points.label}</span>
+              </div>
+            )}
             <p className="muted small">
               {result.pass.passed ? "Great — aim for 3 passes in a row before you book the real test." : "Review the questions below, then try another test."}
             </p>
@@ -324,6 +329,11 @@ function ResultView({ data, result }: { data: MockPayload; result: MockResult })
               )}
               {result.rawScore}/{result.total} correct
             </div>
+            {result.points && (
+              <div className="sub">
+                Score <b>{result.points.score}/{result.points.max}</b> <span className="muted small">— {result.points.label}</span>
+              </div>
+            )}
           </>
         )}
         {data.kind === "weekly" && <p className="muted small">National & state rankings arrive in Telegram on Monday at 8am.</p>}

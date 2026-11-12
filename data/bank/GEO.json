@@ -1,0 +1,1682 @@
+[
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "What is the highest mountain in Ethiopia?",
+  "options": [
+   "Mount Batu",
+   "Mount Kilimanjaro",
+   "Ras Dashen (Ras Dejen)",
+   "Mount Guna"
+  ],
+  "answer": 2,
+  "explanation": "It is in the Simien Mountains.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "Which depression in north-east Ethiopia is one of the lowest and hottest places on Earth?",
+  "options": [
+   "The Danakil Depression",
+   "The Ogaden",
+   "The Bale plateau",
+   "The Rift Valley lakes"
+  ],
+  "answer": 0,
+  "explanation": "Dallol in the Danakil is famous for its extreme heat.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "Which is the largest lake in Ethiopia?",
+  "options": [
+   "Lake Chamo",
+   "Lake Abaya",
+   "Lake Tana",
+   "Lake Ziway"
+  ],
+  "answer": 2,
+  "explanation": "It is the source of the Blue Nile.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "The Blue Nile (Abay) flows out of",
+  "options": [
+   "Lake Abaya",
+   "Lake Victoria",
+   "Lake Tana",
+   "Lake Turkana"
+  ],
+  "answer": 2,
+  "explanation": "It joins the White Nile at Khartoum.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "The Grand Ethiopian Renaissance Dam (GERD) is on the",
+  "options": [
+   "Omo River",
+   "Awash River",
+   "Wabi Shebelle",
+   "Blue Nile (Abay)"
+  ],
+  "answer": 3,
+  "explanation": "It is in Benishangul-Gumuz near the Sudan border.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "Which Ethiopian river ends inland in Lake Abbe without reaching the sea?",
+  "options": [
+   "The Abay",
+   "The Tekeze",
+   "The Awash",
+   "The Baro"
+  ],
+  "answer": 2,
+  "explanation": "The Awash basin is an inland drainage system.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "The Omo River drains into",
+  "options": [
+   "the Indian Ocean",
+   "Lake Tana",
+   "the Red Sea",
+   "Lake Turkana"
+  ],
+  "answer": 3,
+  "explanation": "Lake Turkana is shared with Kenya.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "The Wabi Shebelle River flows from the Bale highlands into",
+  "options": [
+   "Sudan",
+   "Djibouti",
+   "Somalia",
+   "Kenya"
+  ],
+  "answer": 2,
+  "explanation": "It is one of Ethiopia's longest rivers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "Which major geological feature divides the Ethiopian highlands into western and eastern parts?",
+  "options": [
+   "The Great Rift Valley",
+   "The Ogaden plateau",
+   "The Danakil Depression",
+   "The Simien Mountains"
+  ],
+  "answer": 0,
+  "explanation": "It contains a chain of lakes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "Ethiopia's main rainy season (June–September) is called",
+  "options": [
+   "Bega",
+   "Belg",
+   "Tsedey",
+   "Kiremt"
+  ],
+  "answer": 3,
+  "explanation": "Belg is the short rainy season; Bega is the dry season.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "The short rainy season in Ethiopia (roughly February–May) is called",
+  "options": [
+   "Belg",
+   "Kiremt",
+   "Meher",
+   "Bega"
+  ],
+  "answer": 0,
+  "explanation": "Kiremt is the main rainy season.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "The traditional climatic zone of very high, cold land in Ethiopia is",
+  "options": [
+   "Kolla",
+   "Bereha",
+   "Weyna Dega",
+   "Wurch"
+  ],
+  "answer": 3,
+  "explanation": "From warmest to coldest: Bereha, Kolla, Weyna Dega, Dega, Wurch.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "The hot, dry desert zone in Ethiopia's traditional climatic classification is",
+  "options": [
+   "Weyna Dega",
+   "Bereha",
+   "Wurch",
+   "Dega"
+  ],
+  "answer": 1,
+  "explanation": "It covers areas like the Danakil.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "The temperate middle-altitude zone, good for farming, is called",
+  "options": [
+   "Weyna Dega",
+   "Bereha",
+   "Kolla",
+   "Wurch"
+  ],
+  "answer": 0,
+  "explanation": "It lies between Kolla and Dega.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "Which grain, native to Ethiopia, is used to make injera?",
+  "options": [
+   "Rice",
+   "Teff",
+   "Maize",
+   "Sorghum"
+  ],
+  "answer": 1,
+  "explanation": "Teff was domesticated in the Ethiopian highlands.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "Coffee (Coffea arabica) is believed to have originated in which region of Ethiopia?",
+  "options": [
+   "Gambela",
+   "Kaffa",
+   "Afar",
+   "Tigray"
+  ],
+  "answer": 1,
+  "explanation": "Coffee is a major export.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "Since Eritrea's independence, Ethiopia has been",
+  "options": [
+   "landlocked",
+   "on the Indian Ocean coast",
+   "an island nation",
+   "bordered by the Mediterranean"
+  ],
+  "answer": 0,
+  "explanation": "Most trade passes through Djibouti.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "Which neighbouring country's port handles most of Ethiopia's foreign trade?",
+  "options": [
+   "Sudan",
+   "Egypt",
+   "Djibouti",
+   "Kenya"
+  ],
+  "answer": 2,
+  "explanation": "Linked by road and the Addis Ababa–Djibouti railway.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "The Ethiopian wolf and the gelada are examples of animals that are",
+  "options": [
+   "extinct",
+   "introduced from Asia",
+   "endemic to Ethiopia",
+   "found only in deserts"
+  ],
+  "answer": 2,
+  "explanation": "Endemic means found nowhere else naturally.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "The Simien Mountains National Park is a UNESCO World Heritage Site known for",
+  "options": [
+   "dramatic peaks and endemic wildlife like the walia ibex",
+   "salt flats only",
+   "rainforest gorillas",
+   "coral reefs"
+  ],
+  "answer": 0,
+  "explanation": "It is in the north of the country.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "Ethiopia is Africa's second most populous country after",
+  "options": [
+   "South Africa",
+   "Egypt",
+   "DR Congo",
+   "Nigeria"
+  ],
+  "answer": 3,
+  "explanation": "Its population is over 100 million.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Ethiopia",
+  "body": "The Ethiopian calendar has",
+  "options": [
+   "12 months",
+   "10 months",
+   "13 months",
+   "14 months"
+  ],
+  "answer": 2,
+  "explanation": "Twelve months of 30 days plus Pagume of 5 or 6 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Physical geography",
+  "body": "Which layer of the Earth do we live on?",
+  "options": [
+   "The mantle",
+   "The outer core",
+   "The crust",
+   "The inner core"
+  ],
+  "answer": 2,
+  "explanation": "The crust is the thin outer layer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Physical geography",
+  "body": "Rocks formed from cooled magma or lava are called",
+  "options": [
+   "metamorphic rocks",
+   "sedimentary rocks",
+   "organic rocks",
+   "igneous rocks"
+  ],
+  "answer": 3,
+  "explanation": "Basalt and granite are igneous.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Physical geography",
+  "body": "Rocks formed from layers of deposited material are called",
+  "options": [
+   "metamorphic rocks",
+   "igneous rocks",
+   "volcanic rocks",
+   "sedimentary rocks"
+  ],
+  "answer": 3,
+  "explanation": "Sandstone and limestone are sedimentary.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Physical geography",
+  "body": "Rocks changed by heat and pressure are called",
+  "options": [
+   "igneous rocks",
+   "metamorphic rocks",
+   "fossil rocks",
+   "sedimentary rocks"
+  ],
+  "answer": 1,
+  "explanation": "Marble forms from limestone.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Physical geography",
+  "body": "Lines of latitude measure distance",
+  "options": [
+   "north or south of the Equator",
+   "east or west of Greenwich",
+   "between time zones only",
+   "above sea level"
+  ],
+  "answer": 0,
+  "explanation": "The Equator is 0° latitude.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Physical geography",
+  "body": "The Prime Meridian (0° longitude) passes through",
+  "options": [
+   "Cairo",
+   "New York",
+   "Addis Ababa",
+   "Greenwich, London"
+  ],
+  "answer": 3,
+  "explanation": "Longitude is measured east or west from it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Physical geography",
+  "body": "Air temperature generally ___ as altitude increases.",
+  "options": [
+   "stays the same",
+   "increases",
+   "decreases",
+   "doubles"
+  ],
+  "answer": 2,
+  "explanation": "About 6.5 °C per 1,000 m on average.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Physical geography",
+  "body": "Rainfall caused by air rising over mountains is called",
+  "options": [
+   "frontal rainfall",
+   "acid rain",
+   "relief (orographic) rainfall",
+   "convectional rainfall"
+  ],
+  "answer": 2,
+  "explanation": "The far side of the mountain is the rain shadow.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Physical geography",
+  "body": "The longest river in Africa is the",
+  "options": [
+   "Niger",
+   "Congo",
+   "Zambezi",
+   "Nile"
+  ],
+  "answer": 3,
+  "explanation": "Formed by the White Nile and the Blue Nile.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Physical geography",
+  "body": "The largest hot desert in the world is the",
+  "options": [
+   "Gobi",
+   "Sahara",
+   "Kalahari",
+   "Namib"
+  ],
+  "answer": 1,
+  "explanation": "It covers much of North Africa.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Physical geography",
+  "body": "Which instrument measures air pressure?",
+  "options": [
+   "A barometer",
+   "A thermometer",
+   "A hygrometer",
+   "An anemometer"
+  ],
+  "answer": 0,
+  "explanation": "An anemometer measures wind speed; a hygrometer humidity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Physical geography",
+  "body": "Which instrument measures wind speed?",
+  "options": [
+   "A rain gauge",
+   "An anemometer",
+   "A barometer",
+   "A wind vane"
+  ],
+  "answer": 1,
+  "explanation": "A wind vane shows wind direction.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Human geography",
+  "body": "Population density is calculated as",
+  "options": [
+   "land area ÷ population",
+   "population ÷ land area",
+   "population × growth rate",
+   "births ÷ deaths"
+  ],
+  "answer": 1,
+  "explanation": "Usually given as people per km².",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Human geography",
+  "body": "The movement of people from rural areas to towns is called",
+  "options": [
+   "urbanisation (rural–urban migration)",
+   "deforestation",
+   "emigration",
+   "desertification"
+  ],
+  "answer": 0,
+  "explanation": "Cities like Addis Ababa grow this way.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Human geography",
+  "body": "The gradual change of fertile land into desert is called",
+  "options": [
+   "irrigation",
+   "urbanisation",
+   "afforestation",
+   "desertification"
+  ],
+  "answer": 3,
+  "explanation": "Overgrazing and deforestation contribute.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Human geography",
+  "body": "Planting trees on land that had no forest is called",
+  "options": [
+   "deforestation",
+   "reforestation",
+   "desertification",
+   "afforestation"
+  ],
+  "answer": 3,
+  "explanation": "Reforestation is replanting where forest was lost.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map with scale 1 : 25,000, two towns are 10 cm apart. What is the actual distance?",
+  "options": [
+   "0.25 km",
+   "25 km",
+   "250 km",
+   "2.5 km"
+  ],
+  "answer": 3,
+  "explanation": "10 cm × 25,000 = 250,000 cm = 2.5 km (100,000 cm = 1 km).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map with scale 1 : 100,000, two towns are 6 cm apart. What is the actual distance?",
+  "options": [
+   "60 km",
+   "6 km",
+   "0.6 km",
+   "600 km"
+  ],
+  "answer": 1,
+  "explanation": "6 cm × 100,000 = 600,000 cm = 6 km (100,000 cm = 1 km).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map with scale 1 : 25,000, two towns are 7 cm apart. What is the actual distance?",
+  "options": [
+   "1.75 km",
+   "17.5 km",
+   "175 km",
+   "2.75 km"
+  ],
+  "answer": 0,
+  "explanation": "7 cm × 25,000 = 175,000 cm = 1.75 km (100,000 cm = 1 km).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map with scale 1 : 50,000, two towns are 8 cm apart. What is the actual distance?",
+  "options": [
+   "400 km",
+   "40 km",
+   "4 km",
+   "0.4 km"
+  ],
+  "answer": 2,
+  "explanation": "8 cm × 50,000 = 400,000 cm = 4 km (100,000 cm = 1 km).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map with scale 1 : 100,000, two towns are 4 cm apart. What is the actual distance?",
+  "options": [
+   "400 km",
+   "0.4 km",
+   "40 km",
+   "4 km"
+  ],
+  "answer": 3,
+  "explanation": "4 cm × 100,000 = 400,000 cm = 4 km (100,000 cm = 1 km).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map with scale 1 : 500,000, two towns are 4 cm apart. What is the actual distance?",
+  "options": [
+   "200 km",
+   "2000 km",
+   "20 km",
+   "2 km"
+  ],
+  "answer": 2,
+  "explanation": "4 cm × 500,000 = 2,000,000 cm = 20 km (100,000 cm = 1 km).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map with scale 1 : 500,000, two towns are 2 cm apart. What is the actual distance?",
+  "options": [
+   "1000 km",
+   "100 km",
+   "10 km",
+   "1 km"
+  ],
+  "answer": 2,
+  "explanation": "2 cm × 500,000 = 1,000,000 cm = 10 km (100,000 cm = 1 km).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map with scale 1 : 500,000, two towns are 10 cm apart. What is the actual distance?",
+  "options": [
+   "5 km",
+   "5000 km",
+   "500 km",
+   "50 km"
+  ],
+  "answer": 3,
+  "explanation": "10 cm × 500,000 = 5,000,000 cm = 50 km (100,000 cm = 1 km).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map with scale 1 : 50,000, two towns are 11 cm apart. What is the actual distance?",
+  "options": [
+   "550 km",
+   "0.55 km",
+   "5.5 km",
+   "55 km"
+  ],
+  "answer": 2,
+  "explanation": "11 cm × 50,000 = 550,000 cm = 5.5 km (100,000 cm = 1 km).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map with scale 1 : 100,000, two towns are 3 cm apart. What is the actual distance?",
+  "options": [
+   "300 km",
+   "3 km",
+   "0.3 km",
+   "30 km"
+  ],
+  "answer": 1,
+  "explanation": "3 cm × 100,000 = 300,000 cm = 3 km (100,000 cm = 1 km).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map with scale 1 : 50,000, two towns are 4 cm apart. What is the actual distance?",
+  "options": [
+   "0.2 km",
+   "2 km",
+   "20 km",
+   "200 km"
+  ],
+  "answer": 1,
+  "explanation": "4 cm × 50,000 = 200,000 cm = 2 km (100,000 cm = 1 km).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map with scale 1 : 100,000, two towns are 7 cm apart. What is the actual distance?",
+  "options": [
+   "700 km",
+   "7 km",
+   "70 km",
+   "0.7 km"
+  ],
+  "answer": 1,
+  "explanation": "7 cm × 100,000 = 700,000 cm = 7 km (100,000 cm = 1 km).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map with scale 1 : 25,000, two towns are 6 cm apart. What is the actual distance?",
+  "options": [
+   "1.5 km",
+   "0.15 km",
+   "15 km",
+   "150 km"
+  ],
+  "answer": 0,
+  "explanation": "6 cm × 25,000 = 150,000 cm = 1.5 km (100,000 cm = 1 km).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map with scale 1 : 250,000, two towns are 5 cm apart. What is the actual distance?",
+  "options": [
+   "12.5 km",
+   "125 km",
+   "1.25 km",
+   "1250 km"
+  ],
+  "answer": 0,
+  "explanation": "5 cm × 250,000 = 1,250,000 cm = 12.5 km (100,000 cm = 1 km).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map with scale 1 : 500,000, two towns are 12 cm apart. What is the actual distance?",
+  "options": [
+   "600 km",
+   "6000 km",
+   "6 km",
+   "60 km"
+  ],
+  "answer": 3,
+  "explanation": "12 cm × 500,000 = 6,000,000 cm = 60 km (100,000 cm = 1 km).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map with scale 1 : 500,000, two towns are 8 cm apart. What is the actual distance?",
+  "options": [
+   "4 km",
+   "4000 km",
+   "40 km",
+   "400 km"
+  ],
+  "answer": 2,
+  "explanation": "8 cm × 500,000 = 4,000,000 cm = 40 km (100,000 cm = 1 km).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map with scale 1 : 50,000, two towns are 12 cm apart. What is the actual distance?",
+  "options": [
+   "0.6 km",
+   "600 km",
+   "6 km",
+   "60 km"
+  ],
+  "answer": 2,
+  "explanation": "12 cm × 50,000 = 600,000 cm = 6 km (100,000 cm = 1 km).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map with scale 1 : 25,000, two towns are 4 cm apart. What is the actual distance?",
+  "options": [
+   "1 km",
+   "0.1 km",
+   "10 km",
+   "100 km"
+  ],
+  "answer": 0,
+  "explanation": "4 cm × 25,000 = 100,000 cm = 1 km (100,000 cm = 1 km).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map with scale 1 : 50,000, two towns are 2 cm apart. What is the actual distance?",
+  "options": [
+   "0.1 km",
+   "1 km",
+   "10 km",
+   "100 km"
+  ],
+  "answer": 1,
+  "explanation": "2 cm × 50,000 = 100,000 cm = 1 km (100,000 cm = 1 km).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map with scale 1 : 250,000, two towns are 8 cm apart. What is the actual distance?",
+  "options": [
+   "200 km",
+   "2 km",
+   "2000 km",
+   "20 km"
+  ],
+  "answer": 3,
+  "explanation": "8 cm × 250,000 = 2,000,000 cm = 20 km (100,000 cm = 1 km).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map of scale 1 : 200,000, how long is a line representing 10 km?",
+  "options": [
+   "10 cm",
+   "50 cm",
+   "5 cm",
+   "0.5 cm"
+  ],
+  "answer": 2,
+  "explanation": "10 km = 1,000,000 cm; ÷ 200,000 = 5 cm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map of scale 1 : 100,000, how long is a line representing 5 km?",
+  "options": [
+   "50 cm",
+   "5 cm",
+   "0.5 cm",
+   "10 cm"
+  ],
+  "answer": 1,
+  "explanation": "5 km = 500,000 cm; ÷ 100,000 = 5 cm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map of scale 1 : 100,000, how long is a line representing 10 km?",
+  "options": [
+   "100 cm",
+   "1 cm",
+   "20 cm",
+   "10 cm"
+  ],
+  "answer": 3,
+  "explanation": "10 km = 1,000,000 cm; ÷ 100,000 = 10 cm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map of scale 1 : 250,000, how long is a line representing 25 km?",
+  "options": [
+   "100 cm",
+   "20 cm",
+   "1 cm",
+   "10 cm"
+  ],
+  "answer": 3,
+  "explanation": "25 km = 2,500,000 cm; ÷ 250,000 = 10 cm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map of scale 1 : 100,000, how long is a line representing 25 km?",
+  "options": [
+   "250 cm",
+   "50 cm",
+   "2.5 cm",
+   "25 cm"
+  ],
+  "answer": 3,
+  "explanation": "25 km = 2,500,000 cm; ÷ 100,000 = 25 cm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map of scale 1 : 50,000, how long is a line representing 20 km?",
+  "options": [
+   "40 cm",
+   "4 cm",
+   "80 cm",
+   "400 cm"
+  ],
+  "answer": 0,
+  "explanation": "20 km = 2,000,000 cm; ÷ 50,000 = 40 cm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map of scale 1 : 250,000, how long is a line representing 50 km?",
+  "options": [
+   "20 cm",
+   "2 cm",
+   "40 cm",
+   "200 cm"
+  ],
+  "answer": 0,
+  "explanation": "50 km = 5,000,000 cm; ÷ 250,000 = 20 cm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map of scale 1 : 50,000, how long is a line representing 5 km?",
+  "options": [
+   "1 cm",
+   "100 cm",
+   "10 cm",
+   "20 cm"
+  ],
+  "answer": 2,
+  "explanation": "5 km = 500,000 cm; ÷ 50,000 = 10 cm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map of scale 1 : 200,000, how long is a line representing 25 km?",
+  "options": [
+   "12.5 cm",
+   "25 cm",
+   "125 cm",
+   "1.25 cm"
+  ],
+  "answer": 0,
+  "explanation": "25 km = 2,500,000 cm; ÷ 200,000 = 12.5 cm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Map work",
+  "body": "On a map of scale 1 : 200,000, how long is a line representing 20 km?",
+  "options": [
+   "20 cm",
+   "1 cm",
+   "10 cm",
+   "100 cm"
+  ],
+  "answer": 2,
+  "explanation": "20 km = 2,000,000 cm; ÷ 200,000 = 10 cm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "When it is 10:00 at a place on 60° E, what is the local time at a place on 105° E?",
+  "options": [
+   "16:00",
+   "13:00",
+   "10:00",
+   "07:00"
+  ],
+  "answer": 1,
+  "explanation": "Every 15° of longitude = 1 hour; places further east are ahead. Difference = 45° = 3 h ahead.",
+  "difficulty": 3
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "When it is 07:00 at a place on 90° E, what is the local time at a place on 30° E?",
+  "options": [
+   "11:00",
+   "03:00",
+   "07:00",
+   "04:00"
+  ],
+  "answer": 1,
+  "explanation": "Every 15° of longitude = 1 hour; places further east are ahead. Difference = 60° = 4 h behind.",
+  "difficulty": 3
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "When it is 14:00 at a place on 15° E, what is the local time at a place on 105° E?",
+  "options": [
+   "26:00",
+   "14:00",
+   "08:00",
+   "20:00"
+  ],
+  "answer": 3,
+  "explanation": "Every 15° of longitude = 1 hour; places further east are ahead. Difference = 90° = 6 h ahead.",
+  "difficulty": 3
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "When it is 06:00 at a place on 30° E, what is the local time at a place on 90° E?",
+  "options": [
+   "02:00",
+   "14:00",
+   "06:00",
+   "10:00"
+  ],
+  "answer": 3,
+  "explanation": "Every 15° of longitude = 1 hour; places further east are ahead. Difference = 60° = 4 h ahead.",
+  "difficulty": 3
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "When it is 09:00 at a place on 75° E, what is the local time at a place on 30° E?",
+  "options": [
+   "06:00",
+   "09:00",
+   "12:00",
+   "03:00"
+  ],
+  "answer": 0,
+  "explanation": "Every 15° of longitude = 1 hour; places further east are ahead. Difference = 45° = 3 h behind.",
+  "difficulty": 3
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "When it is 07:00 at a place on 45° E, what is the local time at a place on 0° E?",
+  "options": [
+   "04:00",
+   "10:00",
+   "07:00",
+   "01:00"
+  ],
+  "answer": 0,
+  "explanation": "Every 15° of longitude = 1 hour; places further east are ahead. Difference = 45° = 3 h behind.",
+  "difficulty": 3
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "When it is 07:00 at a place on 60° E, what is the local time at a place on 90° E?",
+  "options": [
+   "07:00",
+   "11:00",
+   "05:00",
+   "09:00"
+  ],
+  "answer": 3,
+  "explanation": "Every 15° of longitude = 1 hour; places further east are ahead. Difference = 30° = 2 h ahead.",
+  "difficulty": 3
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "When it is 12:00 at a place on 90° E, what is the local time at a place on 30° E?",
+  "options": [
+   "04:00",
+   "12:00",
+   "08:00",
+   "16:00"
+  ],
+  "answer": 2,
+  "explanation": "Every 15° of longitude = 1 hour; places further east are ahead. Difference = 60° = 4 h behind.",
+  "difficulty": 3
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "When it is 07:00 at a place on 60° E, what is the local time at a place on 45° E?",
+  "options": [
+   "06:00",
+   "05:00",
+   "07:00",
+   "08:00"
+  ],
+  "answer": 0,
+  "explanation": "Every 15° of longitude = 1 hour; places further east are ahead. Difference = 15° = 1 h behind.",
+  "difficulty": 3
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "When it is 10:00 at a place on 30° E, what is the local time at a place on 90° E?",
+  "options": [
+   "06:00",
+   "10:00",
+   "18:00",
+   "14:00"
+  ],
+  "answer": 3,
+  "explanation": "Every 15° of longitude = 1 hour; places further east are ahead. Difference = 60° = 4 h ahead.",
+  "difficulty": 3
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "When it is 09:00 at a place on 15° E, what is the local time at a place on 75° E?",
+  "options": [
+   "17:00",
+   "13:00",
+   "05:00",
+   "09:00"
+  ],
+  "answer": 1,
+  "explanation": "Every 15° of longitude = 1 hour; places further east are ahead. Difference = 60° = 4 h ahead.",
+  "difficulty": 3
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "When it is 12:00 at a place on 15° E, what is the local time at a place on 45° E?",
+  "options": [
+   "10:00",
+   "12:00",
+   "16:00",
+   "14:00"
+  ],
+  "answer": 3,
+  "explanation": "Every 15° of longitude = 1 hour; places further east are ahead. Difference = 30° = 2 h ahead.",
+  "difficulty": 3
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "When it is 07:00 at a place on 45° E, what is the local time at a place on 120° E?",
+  "options": [
+   "07:00",
+   "17:00",
+   "12:00",
+   "02:00"
+  ],
+  "answer": 2,
+  "explanation": "Every 15° of longitude = 1 hour; places further east are ahead. Difference = 75° = 5 h ahead.",
+  "difficulty": 3
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "When it is 07:00 at a place on 0° E, what is the local time at a place on 105° E?",
+  "options": [
+   "07:00",
+   "00:00",
+   "21:00",
+   "14:00"
+  ],
+  "answer": 3,
+  "explanation": "Every 15° of longitude = 1 hour; places further east are ahead. Difference = 105° = 7 h ahead.",
+  "difficulty": 3
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "When it is 12:00 at a place on 45° E, what is the local time at a place on 105° E?",
+  "options": [
+   "16:00",
+   "08:00",
+   "20:00",
+   "12:00"
+  ],
+  "answer": 0,
+  "explanation": "Every 15° of longitude = 1 hour; places further east are ahead. Difference = 60° = 4 h ahead.",
+  "difficulty": 3
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "When it is 12:00 at a place on 60° E, what is the local time at a place on 0° E?",
+  "options": [
+   "08:00",
+   "04:00",
+   "16:00",
+   "12:00"
+  ],
+  "answer": 0,
+  "explanation": "Every 15° of longitude = 1 hour; places further east are ahead. Difference = 60° = 4 h behind.",
+  "difficulty": 3
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "Two places have a local time difference of 7 hours. What is the difference in their longitude?",
+  "options": [
+   "105°",
+   "120°",
+   "70°",
+   "28°"
+  ],
+  "answer": 0,
+  "explanation": "The Earth turns 360° in 24 h, i.e. 15° per hour: 7 × 15 = 105°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "Two places have a local time difference of 1 hour. What is the difference in their longitude?",
+  "options": [
+   "15°",
+   "10°",
+   "4°",
+   "30°"
+  ],
+  "answer": 0,
+  "explanation": "The Earth turns 360° in 24 h, i.e. 15° per hour: 1 × 15 = 15°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "Two places have a local time difference of 2 hours. What is the difference in their longitude?",
+  "options": [
+   "20°",
+   "45°",
+   "8°",
+   "30°"
+  ],
+  "answer": 3,
+  "explanation": "The Earth turns 360° in 24 h, i.e. 15° per hour: 2 × 15 = 30°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "Two places have a local time difference of 3 hours. What is the difference in their longitude?",
+  "options": [
+   "60°",
+   "12°",
+   "45°",
+   "30°"
+  ],
+  "answer": 2,
+  "explanation": "The Earth turns 360° in 24 h, i.e. 15° per hour: 3 × 15 = 45°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "Two places have a local time difference of 8 hours. What is the difference in their longitude?",
+  "options": [
+   "80°",
+   "120°",
+   "135°",
+   "32°"
+  ],
+  "answer": 1,
+  "explanation": "The Earth turns 360° in 24 h, i.e. 15° per hour: 8 × 15 = 120°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "Two places have a local time difference of 5 hours. What is the difference in their longitude?",
+  "options": [
+   "90°",
+   "75°",
+   "20°",
+   "50°"
+  ],
+  "answer": 1,
+  "explanation": "The Earth turns 360° in 24 h, i.e. 15° per hour: 5 × 15 = 75°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "Two places have a local time difference of 4 hours. What is the difference in their longitude?",
+  "options": [
+   "40°",
+   "60°",
+   "75°",
+   "16°"
+  ],
+  "answer": 1,
+  "explanation": "The Earth turns 360° in 24 h, i.e. 15° per hour: 4 × 15 = 60°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Time & longitude",
+  "body": "Two places have a local time difference of 6 hours. What is the difference in their longitude?",
+  "options": [
+   "90°",
+   "105°",
+   "24°",
+   "60°"
+  ],
+  "answer": 0,
+  "explanation": "The Earth turns 360° in 24 h, i.e. 15° per hour: 6 × 15 = 90°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Population",
+  "body": "A region of 22,000 km² has 2,156,000 people. What is its population density?",
+  "options": [
+   "49 people/km²",
+   "98 people/km²",
+   "123 people/km²",
+   "980 people/km²"
+  ],
+  "answer": 1,
+  "explanation": "Density = 2,156,000 ÷ 22,000 = 98 people per km².",
+  "difficulty": 1
+ },
+ {
+  "subject": "GEO",
+  "topic": "Population",
+  "body": "A region of 2,000 km² has 752,000 people. What is its population density?",
+  "options": [
+   "376 people/km²",
+   "401 people/km²",
+   "3760 people/km²",
+   "188 people/km²"
+  ],
+  "answer": 0,
+  "explanation": "Density = 752,000 ÷ 2,000 = 376 people per km².",
+  "difficulty": 1
+ },
+ {
+  "subject": "GEO",
+  "topic": "Population",
+  "body": "A region of 28,000 km² has 6,944,000 people. What is its population density?",
+  "options": [
+   "2480 people/km²",
+   "124 people/km²",
+   "248 people/km²",
+   "273 people/km²"
+  ],
+  "answer": 2,
+  "explanation": "Density = 6,944,000 ÷ 28,000 = 248 people per km².",
+  "difficulty": 1
+ },
+ {
+  "subject": "GEO",
+  "topic": "Population",
+  "body": "A region of 19,000 km² has 2,926,000 people. What is its population density?",
+  "options": [
+   "1540 people/km²",
+   "77 people/km²",
+   "154 people/km²",
+   "179 people/km²"
+  ],
+  "answer": 2,
+  "explanation": "Density = 2,926,000 ÷ 19,000 = 154 people per km².",
+  "difficulty": 1
+ },
+ {
+  "subject": "GEO",
+  "topic": "Population",
+  "body": "A region of 36,000 km² has 11,448,000 people. What is its population density?",
+  "options": [
+   "159 people/km²",
+   "343 people/km²",
+   "318 people/km²",
+   "3180 people/km²"
+  ],
+  "answer": 2,
+  "explanation": "Density = 11,448,000 ÷ 36,000 = 318 people per km².",
+  "difficulty": 1
+ },
+ {
+  "subject": "GEO",
+  "topic": "Population",
+  "body": "A region of 31,000 km² has 8,308,000 people. What is its population density?",
+  "options": [
+   "268 people/km²",
+   "293 people/km²",
+   "2680 people/km²",
+   "134 people/km²"
+  ],
+  "answer": 0,
+  "explanation": "Density = 8,308,000 ÷ 31,000 = 268 people per km².",
+  "difficulty": 1
+ },
+ {
+  "subject": "GEO",
+  "topic": "Population",
+  "body": "A region of 10,000 km² has 3,380,000 people. What is its population density?",
+  "options": [
+   "169 people/km²",
+   "3380 people/km²",
+   "363 people/km²",
+   "338 people/km²"
+  ],
+  "answer": 3,
+  "explanation": "Density = 3,380,000 ÷ 10,000 = 338 people per km².",
+  "difficulty": 1
+ },
+ {
+  "subject": "GEO",
+  "topic": "Population",
+  "body": "A region of 10,000 km² has 3,590,000 people. What is its population density?",
+  "options": [
+   "384 people/km²",
+   "359 people/km²",
+   "3590 people/km²",
+   "179.5 people/km²"
+  ],
+  "answer": 1,
+  "explanation": "Density = 3,590,000 ÷ 10,000 = 359 people per km².",
+  "difficulty": 1
+ },
+ {
+  "subject": "GEO",
+  "topic": "Population",
+  "body": "A region of 23,000 km² has 5,520,000 people. What is its population density?",
+  "options": [
+   "120 people/km²",
+   "265 people/km²",
+   "2400 people/km²",
+   "240 people/km²"
+  ],
+  "answer": 3,
+  "explanation": "Density = 5,520,000 ÷ 23,000 = 240 people per km².",
+  "difficulty": 1
+ },
+ {
+  "subject": "GEO",
+  "topic": "Population",
+  "body": "A region of 11,000 km² has 1,661,000 people. What is its population density?",
+  "options": [
+   "1510 people/km²",
+   "176 people/km²",
+   "151 people/km²",
+   "75.5 people/km²"
+  ],
+  "answer": 2,
+  "explanation": "Density = 1,661,000 ÷ 11,000 = 151 people per km².",
+  "difficulty": 1
+ },
+ {
+  "subject": "GEO",
+  "topic": "Climate",
+  "body": "The temperature at the foot of a mountain is 32 °C. Using a lapse rate of 6.5 °C per 1,000 m, what is the temperature 1,500 m higher?",
+  "options": [
+   "15.75 °C",
+   "22.25 °C",
+   "41.75 °C",
+   "30.5 °C"
+  ],
+  "answer": 1,
+  "explanation": "Drop = 6.5 × 1.5 = 9.75 °C; 32 − 9.75 = 22.25 °C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Climate",
+  "body": "The temperature at the foot of a mountain is 20 °C. Using a lapse rate of 6.5 °C per 1,000 m, what is the temperature 2,000 m higher?",
+  "options": [
+   "18 °C",
+   "7 °C",
+   "0.5 °C",
+   "33 °C"
+  ],
+  "answer": 1,
+  "explanation": "Drop = 6.5 × 2 = 13 °C; 20 − 13 = 7 °C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Climate",
+  "body": "The temperature at the foot of a mountain is 24 °C. Using a lapse rate of 6.5 °C per 1,000 m, what is the temperature 2,000 m higher?",
+  "options": [
+   "22 °C",
+   "37 °C",
+   "11 °C",
+   "4.5 °C"
+  ],
+  "answer": 2,
+  "explanation": "Drop = 6.5 × 2 = 13 °C; 24 − 13 = 11 °C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Climate",
+  "body": "The temperature at the foot of a mountain is 29 °C. Using a lapse rate of 6.5 °C per 1,000 m, what is the temperature 1,500 m higher?",
+  "options": [
+   "12.75 °C",
+   "38.75 °C",
+   "19.25 °C",
+   "27.5 °C"
+  ],
+  "answer": 2,
+  "explanation": "Drop = 6.5 × 1.5 = 9.75 °C; 29 − 9.75 = 19.25 °C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Climate",
+  "body": "The temperature at the foot of a mountain is 28 °C. Using a lapse rate of 6.5 °C per 1,000 m, what is the temperature 3,000 m higher?",
+  "options": [
+   "25 °C",
+   "8.5 °C",
+   "47.5 °C",
+   "2 °C"
+  ],
+  "answer": 1,
+  "explanation": "Drop = 6.5 × 3 = 19.5 °C; 28 − 19.5 = 8.5 °C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Climate",
+  "body": "The temperature at the foot of a mountain is 18 °C. Using a lapse rate of 6.5 °C per 1,000 m, what is the temperature 1,000 m higher?",
+  "options": [
+   "5 °C",
+   "11.5 °C",
+   "24.5 °C",
+   "17 °C"
+  ],
+  "answer": 1,
+  "explanation": "Drop = 6.5 × 1 = 6.5 °C; 18 − 6.5 = 11.5 °C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Climate",
+  "body": "The temperature at the foot of a mountain is 27 °C. Using a lapse rate of 6.5 °C per 1,000 m, what is the temperature 3,000 m higher?",
+  "options": [
+   "46.5 °C",
+   "24 °C",
+   "1 °C",
+   "7.5 °C"
+  ],
+  "answer": 3,
+  "explanation": "Drop = 6.5 × 3 = 19.5 °C; 27 − 19.5 = 7.5 °C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Climate",
+  "body": "The temperature at the foot of a mountain is 27 °C. Using a lapse rate of 6.5 °C per 1,000 m, what is the temperature 2,000 m higher?",
+  "options": [
+   "14 °C",
+   "40 °C",
+   "7.5 °C",
+   "25 °C"
+  ],
+  "answer": 0,
+  "explanation": "Drop = 6.5 × 2 = 13 °C; 27 − 13 = 14 °C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Climate",
+  "body": "The temperature at the foot of a mountain is 25 °C. Using a lapse rate of 6.5 °C per 1,000 m, what is the temperature 2,000 m higher?",
+  "options": [
+   "23 °C",
+   "38 °C",
+   "12 °C",
+   "5.5 °C"
+  ],
+  "answer": 2,
+  "explanation": "Drop = 6.5 × 2 = 13 °C; 25 − 13 = 12 °C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Climate",
+  "body": "The temperature at the foot of a mountain is 29 °C. Using a lapse rate of 6.5 °C per 1,000 m, what is the temperature 3,000 m higher?",
+  "options": [
+   "9.5 °C",
+   "26 °C",
+   "48.5 °C",
+   "3 °C"
+  ],
+  "answer": 0,
+  "explanation": "Drop = 6.5 × 3 = 19.5 °C; 29 − 19.5 = 9.5 °C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEO",
+  "topic": "Climate",
+  "body": "Monthly temperatures (°C) at a station are 29, 22, 10, 25. What is the temperature range?",
+  "options": [
+   "29 °C",
+   "19 °C",
+   "22 °C",
+   "21 °C"
+  ],
+  "answer": 1,
+  "explanation": "Range = highest − lowest = 29 − 10 = 19 °C.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GEO",
+  "topic": "Climate",
+  "body": "Monthly temperatures (°C) at a station are 18, 11, 21, 23. What is the temperature range?",
+  "options": [
+   "12 °C",
+   "18 °C",
+   "14 °C",
+   "23 °C"
+  ],
+  "answer": 0,
+  "explanation": "Range = highest − lowest = 23 − 11 = 12 °C.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GEO",
+  "topic": "Climate",
+  "body": "Monthly temperatures (°C) at a station are 12, 29, 22, 10. What is the temperature range?",
+  "options": [
+   "19 °C",
+   "29 °C",
+   "18 °C",
+   "21 °C"
+  ],
+  "answer": 0,
+  "explanation": "Range = highest − lowest = 29 − 10 = 19 °C.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GEO",
+  "topic": "Climate",
+  "body": "Monthly temperatures (°C) at a station are 10, 13, 30, 31. What is the temperature range?",
+  "options": [
+   "23 °C",
+   "31 °C",
+   "21 °C",
+   "19 °C"
+  ],
+  "answer": 2,
+  "explanation": "Range = highest − lowest = 31 − 10 = 21 °C.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GEO",
+  "topic": "Climate",
+  "body": "Monthly temperatures (°C) at a station are 22, 31, 21, 22. What is the temperature range?",
+  "options": [
+   "24 °C",
+   "12 °C",
+   "31 °C",
+   "10 °C"
+  ],
+  "answer": 3,
+  "explanation": "Range = highest − lowest = 31 − 21 = 10 °C.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GEO",
+  "topic": "Climate",
+  "body": "Monthly temperatures (°C) at a station are 27, 19, 34, 24. What is the temperature range?",
+  "options": [
+   "15 °C",
+   "26 °C",
+   "17 °C",
+   "34 °C"
+  ],
+  "answer": 0,
+  "explanation": "Range = highest − lowest = 34 − 19 = 15 °C.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GEO",
+  "topic": "Climate",
+  "body": "Monthly temperatures (°C) at a station are 27, 32, 25, 13. What is the temperature range?",
+  "options": [
+   "19 °C",
+   "24 °C",
+   "21 °C",
+   "32 °C"
+  ],
+  "answer": 0,
+  "explanation": "Range = highest − lowest = 32 − 13 = 19 °C.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GEO",
+  "topic": "Climate",
+  "body": "Monthly temperatures (°C) at a station are 20, 14, 26, 20. What is the temperature range?",
+  "options": [
+   "12 °C",
+   "26 °C",
+   "14 °C",
+   "20 °C"
+  ],
+  "answer": 0,
+  "explanation": "Range = highest − lowest = 26 − 14 = 12 °C.",
+  "difficulty": 1
+ }
+]

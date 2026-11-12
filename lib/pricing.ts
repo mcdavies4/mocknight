@@ -1,5 +1,6 @@
-// Amounts in minor units (kobo for NGN, pence for GBP). Change here, nowhere else.
-export type Currency = "NGN" | "GBP";
+// Amounts in minor units (kobo, pence, santim, paise). Change here, nowhere else.
+export type Currency = "NGN" | "GBP" | "ETB" | "INR";
+export type SeatCurrency = "NGN" | "GBP";
 
 export interface Plan {
   code: string;
@@ -7,7 +8,7 @@ export interface Plan {
   amount: number;
   currency: Currency;
   days: number;
-  provider: "paystack" | "stripe";
+  provider: "paystack" | "stripe" | "chapa";
 }
 
 export const PLANS: Record<string, Plan> = {
@@ -17,11 +18,15 @@ export const PLANS: Record<string, Plan> = {
   nmc_pass: { code: "nmc_pass", label: "NMC CBT — full access, 90 days", amount: 19_99, currency: "GBP", days: 90, provider: "stripe" },
   pm_pass: { code: "pm_pass", label: "Project Management — full access, 90 days", amount: 14_99, currency: "GBP", days: 90, provider: "stripe" },
   pm_pass_ngn: { code: "pm_pass_ngn", label: "Project Management — 90 days (pay in naira)", amount: 12_000_00, currency: "NGN", days: 90, provider: "paystack" },
+  eth_month: { code: "eth_month", label: "Grade 12 Premium — 30 days", amount: 150_00, currency: "ETB", days: 30, provider: "chapa" },
+  eth_season: { code: "eth_season", label: "Grade 12 Premium — till exam (120 days)", amount: 400_00, currency: "ETB", days: 120, provider: "chapa" },
+  ssc_quarter: { code: "ssc_quarter", label: "SSC Premium — 90 days", amount: 199_00, currency: "INR", days: 90, provider: "stripe" },
+  ssc_year: { code: "ssc_year", label: "SSC Premium — 12 months", amount: 499_00, currency: "INR", days: 365, provider: "stripe" },
   fire_individual: { code: "fire_individual", label: "Fire Marshal course + certificate (12 months)", amount: 14_99, currency: "GBP", days: 365, provider: "stripe" },
 };
 
 /** Seats bought by a tutor/company for their learners. NGN via Paystack, GBP via Stripe. */
-export const SEATS: Record<Currency, { amount: number; days: number; provider: "paystack" | "stripe"; per: string }> = {
+export const SEATS: Record<SeatCurrency, { amount: number; days: number; provider: "paystack" | "stripe"; per: string }> = {
   NGN: { amount: 800_00, days: 30, provider: "paystack", per: "per student / 30 days" },
   GBP: { amount: 6_00, days: 365, provider: "stripe", per: "per staff member / 12 months" },
 };
@@ -47,7 +52,11 @@ export const PREMIUM_DAILY_QUESTIONS = 20;
 export const FREE_PRACTICE_MOCKS_PER_WEEK = 1;
 
 export function money(amount: number, currency: Currency = "NGN") {
-  return currency === "GBP" ? `£${(amount / 100).toFixed(2)}` : `₦${(amount / 100).toLocaleString("en-NG")}`;
+  const v = amount / 100;
+  if (currency === "GBP") return `£${v.toFixed(2)}`;
+  if (currency === "ETB") return `${v.toLocaleString("en-US")} Birr`;
+  if (currency === "INR") return `₹${v.toLocaleString("en-IN")}`;
+  return `₦${v.toLocaleString("en-NG")}`;
 }
 /** @deprecated use money() */
 export const naira = (kobo: number) => money(kobo, "NGN");

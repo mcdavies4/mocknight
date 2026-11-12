@@ -3,7 +3,7 @@ import { env } from "@/lib/env";
 import { db, must } from "@/lib/supabase";
 import { accessKind, getStudentByTelegram, isPremium, trialDaysLeft, updateStudent, upsertStudent } from "@/lib/students";
 import { subjectName } from "@/lib/subjects";
-import { getTrack, regionsFor, TRACKS, UK_TIME_TRACKS, variantsFor, type TrackCode } from "@/lib/tracks";
+import { getTrack, regionsFor, timeLabelFor, TRACKS, variantsFor, type TrackCode } from "@/lib/tracks";
 import { getProgress } from "@/lib/progress";
 import { explain } from "@/lib/ai";
 import { completeLesson, courseStatus, getLessons, issueCertificate, nextLesson } from "@/lib/courses";
@@ -20,7 +20,7 @@ import type { Student } from "@/lib/types";
 import { menuKb, statesKb, subjectsKb, timeKb, trackKb } from "./keyboards";
 
 type Ctx = Context & { student?: Student };
-const isUkTime = (s: Student) => UK_TIME_TRACKS.includes((s.track ?? "") as TrackCode);
+const zoneLabel = (s: Student) => timeLabelFor(getTrack(s.track));
 
 const LETTERS = ["A", "B", "C", "D", "E"];
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
@@ -50,7 +50,7 @@ async function promptStep(api: Api, s: Student) {
     case "school":
       return api.sendMessage(chat, `${getTrack(s.track).schoolLabel ?? "What's the name of your school?"} Type it below, or send /skip.`);
     case "time":
-      return api.sendMessage(chat, `What time should your daily practice arrive? (${isUkTime(s) ? "UK" : "Nigeria"} time)`, { reply_markup: timeKb() });
+      return api.sendMessage(chat, `What time should your daily practice arrive? (${zoneLabel(s)} time)`, { reply_markup: timeKb() });
     default:
       return api.sendMessage(chat, "What would you like to do?", { reply_markup: menuKb(s) });
   }
@@ -321,8 +321,20 @@ function register(bot: Bot<Ctx>) {
         await ctx.reply("That group link isn't valid any more — ask your tutor for a new one.");
       }
     } else if (s.onboarding_step === "exam") {
+      // Deep links like t.me/<bot>?start=eth or ?start=ssc pre-select the exam
+      const pre = TRACKS[payload.toUpperCase() as TrackCode];
+      if (pre) {
+        await ctx.reply(`Welcome to *Mock Night* 👋\n\n${pre.emoji} *${pre.name}*: ${pre.tagline}.\n\nLet's set you up — takes 30 seconds.`, { parse_mode: "Markdown" });
+        const u = await updateStudent(s.id, {
+          track: pre.code,
+          subjects: pre.subjectMode === "single" ? pre.subjects : pre.compulsory,
+          onboarding_step: pre.subjectMode === "single" ? (pre.askSchool ? "school" : "time") : "subjects",
+        });
+        if (pre.subjectMode === "multi") return ctx.reply(subjectsText(u), { reply_markup: subjectsKb(u) });
+        return promptStep(ctx.api, u);
+      }
       await ctx.reply(
-        `Welcome to *Mock Night* 👋\n\nExam practice that lives in Telegram: daily drills, real timed practice tests and progress tracking — for JAMB, WAEC and the Life in the UK test.\n\nLet's set you up — takes 30 seconds.`,
+        `Welcome to *Mock Night* 👋\n\nExam practice that lives in Telegram: daily drills, real timed practice tests and progress tracking — for school exams, professional certifications and work courses.\n\nLet's set you up — takes 30 seconds.`,
         { parse_mode: "Markdown" },
       );
     }
@@ -437,7 +449,7 @@ function register(bot: Bot<Ctx>) {
   });
 
   bot.command("time", (ctx) =>
-    isPrivate(ctx) ? ctx.reply(`When should your daily practice arrive? (${isUkTime(ctx.student!) ? "UK" : "Nigeria"} time)`, { reply_markup: timeKb() }) : undefined,
+    isPrivate(ctx) ? ctx.reply(`When should your daily practice arrive? (${zoneLabel(ctx.student!)} time)`, { reply_markup: timeKb() }) : undefined,
   );
 
   bot.command("skip", async (ctx) => {
@@ -462,7 +474,8 @@ function register(bot: Bot<Ctx>) {
     if (!isPrivate(ctx)) return;
     const name = ctx.match?.trim();
     if (!name) return ctx.reply("Give your group a name, e.g.\n/newgroup Excel Tutorials Lugbe");
-    const cur = getTrack(ctx.student!.track).currency;
+    const tc = getTrack(ctx.student!.track).currency;
+    const cur = tc === "GBP" ? "GBP" : "NGN";
     const group = await createGroup(ctx.student!, name, cur);
     const seat = SEATS[cur];
     return ctx.reply(

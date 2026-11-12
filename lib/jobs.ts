@@ -7,7 +7,7 @@ import { sendCertificateReminders } from "./courses";
 import { watNow, formatHour } from "./time";
 import { closeExpiredAttempts, ensureWeeklyMock, WEEKLY } from "./mock";
 import type { Mock, TutorGroup } from "./types";
-import { SCHOOL_TRACKS, UK_TIME_TRACKS } from "./tracks";
+import { SCHOOL_TRACKS, tracksByZone } from "./tracks";
 
 type Recipient = { id: string; telegram_id: number; first_name: string | null };
 
@@ -29,13 +29,11 @@ export async function runHourly(api: Api) {
   const log: Record<string, unknown> = { date, hour, weekday };
 
   // 1. Daily drill prompts for students whose drill hour is now
-  // LUK users pick a UK-time hour; everyone else picks WAT. UK = WAT − 1 in winter (GMT), same in summer (BST).
-  const ukHour = ukHourNow();
+  // Each track's drill hour is in its own local time (WAT, UK, Ethiopia, India…).
+  const zoneClauses = Object.entries(tracksByZone()).map(([tz, codes]) => `and(track.in.(${codes.join(",")}),drill_hour.eq.${hourIn(tz)})`);
   const due = await activeStudents((q) =>
     q
-      .or(
-        `and(track.not.in.(${UK_TIME_TRACKS.join(",")}),drill_hour.eq.${hour}),and(track.in.(${UK_TIME_TRACKS.join(",")}),drill_hour.eq.${ukHour}),and(track.is.null,drill_hour.eq.${hour})`,
-      )
+      .or([...zoneClauses, `and(track.is.null,drill_hour.eq.${hour})`].join(","))
       .or(`last_drill_prompt.is.null,last_drill_prompt.lt.${date}`),
   );
   if (due.length) {
@@ -167,8 +165,8 @@ export async function postWeeklyResults(api: Api) {
   return sent;
 }
 
-function ukHourNow() {
-  return Number(new Date().toLocaleString("en-GB", { timeZone: "Europe/London", hour: "2-digit", hour12: false }));
+function hourIn(timeZone: string) {
+  return Number(new Date().toLocaleString("en-GB", { timeZone, hour: "2-digit", hour12: false })) % 24;
 }
 
 async function sendTrialReminders(api: Api) {

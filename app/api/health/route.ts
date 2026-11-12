@@ -15,7 +15,7 @@ export async function GET(req: Request) {
   const envNames = [
     "TELEGRAM_BOT_TOKEN", "TELEGRAM_BOT_USERNAME", "TELEGRAM_WEBHOOK_SECRET", "APP_URL", "CRON_SECRET", "DASHBOARD_SIGNING_SECRET",
     "SUPABASE_URL", "SUPABASE_SERVICE_ROLE_KEY", "NEXT_PUBLIC_SUPABASE_URL", "NEXT_PUBLIC_SUPABASE_ANON_KEY",
-    "PAYSTACK_SECRET_KEY", "STRIPE_SECRET_KEY", "STRIPE_WEBHOOK_SECRET", "ANTHROPIC_API_KEY", "RESEND_API_KEY", "EMAIL_FROM",
+    "PAYSTACK_SECRET_KEY", "STRIPE_SECRET_KEY", "STRIPE_WEBHOOK_SECRET", "CHAPA_SECRET_KEY", "ANTHROPIC_API_KEY", "RESEND_API_KEY", "EMAIL_FROM",
   ];
   const env = Object.fromEntries(envNames.map((n) => [n, !!process.env[n]]));
   const out: Record<string, unknown> = { env, appUrl: process.env.APP_URL ?? null };
@@ -33,9 +33,10 @@ export async function GET(req: Request) {
     await probe("0003 referral columns", () => db().from("students").select("ref_code, parent_email, link_code").limit(1));
     await probe("0004 NMC test variants", () => db().from("mocks").select("variant").limit(1));
     await probe("0005 project management subjects", () => db().from("subjects").select("code").eq("code", "PRN").single());
+    await probe("0006 Ethiopia & India subjects", () => db().from("subjects").select("code").eq("code", "QNT").single());
     out.migrations = checks;
 
-    const subjects = ["ENG", "MTH", "PHY", "CHM", "BIO", "ECO", "GOV", "LUK", "FIR", "NMN", "NMC", "PRN", "SCR", "PMF"];
+    const subjects = ["ENG", "MTH", "PHY", "CHM", "BIO", "ECO", "GOV", "LUK", "FIR", "NMN", "NMC", "PRN", "SCR", "PMF", "APT", "QNT", "GAI", "HIS", "GEO"];
     const counts: Record<string, string> = {};
     for (const s of subjects) {
       const [{ count: reviewed }, { count: all }] = await Promise.all([
