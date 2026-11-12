@@ -401,6 +401,7 @@ function register(bot: Bot<Ctx>) {
         "/stats — your progress",
         "/premium — upgrade",
         "/settings — exam, subjects, state",
+        "/exams — browse or change your exam pathway",
         "/time — change drill time",
         "/join CODE — join your tutor's group",
         "/invite — invite friends, earn Premium",
@@ -443,6 +444,13 @@ function register(bot: Bot<Ctx>) {
   });
 
   bot.command("settings", async (ctx) => {
+    if (!isPrivate(ctx)) return;
+    const s = await updateStudent(ctx.student!.id, { onboarding_step: "exam" });
+    return promptStep(ctx.api, s);
+  });
+
+  // Browse or switch exam pathways without creating a new Telegram account.
+  bot.command("exams", async (ctx) => {
     if (!isPrivate(ctx)) return;
     const s = await updateStudent(ctx.student!.id, { onboarding_step: "exam" });
     return promptStep(ctx.api, s);
@@ -649,6 +657,11 @@ function register(bot: Bot<Ctx>) {
     return sendLeaderboard(ctx.api, ctx.chat!.id, ctx.student);
   });
   bot.callbackQuery("settings", async (ctx) => {
+    await ctx.answerCallbackQuery();
+    const s = await updateStudent(ctx.student!.id, { onboarding_step: "exam" });
+    return promptStep(ctx.api, s);
+  });
+  bot.callbackQuery("exams", async (ctx) => {
     await ctx.answerCallbackQuery();
     const s = await updateStudent(ctx.student!.id, { onboarding_step: "exam" });
     return promptStep(ctx.api, s);

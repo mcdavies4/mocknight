@@ -5,8 +5,9 @@ export default function Home() {
   return (
     <main className="wrap" style={{ maxWidth: 880 }}>
       <section className="hero">
-        <h1>Practise a little every day. Walk into your exam ready.</h1>
-        <p className="muted">Daily questions that repeat what you get wrong, full timed practice tests, and a clear score of how ready you are.</p>
+        <h1>Prepare for the exams that move you forward.</h1>
+        <p className="muted">Mock Night brings academic exam practice and professional certification preparation together — with daily questions, timed mock exams, explanations and progress tracking on web and Telegram.</p>
+        <p><Link className="btn" href="/exams">Explore all exam pathways</Link></p>
       </section>
 
       <div className="grid2">
