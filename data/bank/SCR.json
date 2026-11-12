@@ -1,0 +1,1418 @@
+[
+ {
+  "subject": "SCR",
+  "topic": "Events",
+  "body": "Which Scrum event is a fixed-length event of one month or less that contains all the other events?",
+  "options": [
+   "Sprint Planning",
+   "Daily Scrum",
+   "Sprint Review",
+   "Sprint"
+  ],
+  "answer": 3,
+  "explanation": "The Sprint: a fixed-length event of one month or less that contains all the other events.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Events",
+  "body": "Which Scrum event is the event that lays out the work to be performed for the Sprint?",
+  "options": [
+   "Sprint Review",
+   "Sprint Planning",
+   "Daily Scrum",
+   "Sprint Retrospective"
+  ],
+  "answer": 1,
+  "explanation": "Sprint Planning: the event that lays out the work to be performed for the Sprint.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Events",
+  "body": "Which Scrum event is a 15-minute event for the Developers to inspect progress toward the Sprint Goal?",
+  "options": [
+   "Sprint",
+   "Sprint Planning",
+   "Daily Scrum",
+   "Sprint Review"
+  ],
+  "answer": 2,
+  "explanation": "The Daily Scrum: a 15-minute event for the Developers to inspect progress toward the Sprint Goal.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Events",
+  "body": "Which Scrum event is the event where the outcome of the Sprint is inspected and future adaptations determined with stakeholders?",
+  "options": [
+   "Sprint Planning",
+   "Sprint",
+   "Sprint Review",
+   "Sprint Retrospective"
+  ],
+  "answer": 2,
+  "explanation": "The Sprint Review: the event where the outcome of the Sprint is inspected and future adaptations determined with stakeholders.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Events",
+  "body": "Which Scrum event is the event to plan ways to increase quality and effectiveness?",
+  "options": [
+   "Sprint Review",
+   "Daily Scrum",
+   "Sprint Retrospective",
+   "Sprint"
+  ],
+  "answer": 2,
+  "explanation": "The Sprint Retrospective: the event to plan ways to increase quality and effectiveness.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Events",
+  "body": "What is the maximum time-box for the Sprint?",
+  "options": [
+   "8 hours for a one-month Sprint",
+   "4 hours for a one-month Sprint",
+   "15 minutes",
+   "One month or less"
+  ],
+  "answer": 3,
+  "explanation": "The Sprint is time-boxed to one month or less. Shorter Sprints usually have shorter events.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Events",
+  "body": "What is the maximum time-box for Sprint Planning?",
+  "options": [
+   "15 minutes",
+   "4 hours for a one-month Sprint",
+   "3 hours for a one-month Sprint",
+   "8 hours for a one-month Sprint"
+  ],
+  "answer": 3,
+  "explanation": "Sprint Planning is time-boxed to 8 hours for a one-month Sprint. Shorter Sprints usually have shorter events.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Events",
+  "body": "What is the maximum time-box for the Daily Scrum?",
+  "options": [
+   "3 hours for a one-month Sprint",
+   "15 minutes",
+   "One month or less",
+   "4 hours for a one-month Sprint"
+  ],
+  "answer": 1,
+  "explanation": "The Daily Scrum is time-boxed to 15 minutes. Shorter Sprints usually have shorter events.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Events",
+  "body": "What is the maximum time-box for the Sprint Review?",
+  "options": [
+   "4 hours for a one-month Sprint",
+   "15 minutes",
+   "One month or less",
+   "8 hours for a one-month Sprint"
+  ],
+  "answer": 0,
+  "explanation": "The Sprint Review is time-boxed to 4 hours for a one-month Sprint. Shorter Sprints usually have shorter events.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Events",
+  "body": "What is the maximum time-box for the Sprint Retrospective?",
+  "options": [
+   "8 hours for a one-month Sprint",
+   "One month or less",
+   "3 hours for a one-month Sprint",
+   "15 minutes"
+  ],
+  "answer": 2,
+  "explanation": "The Sprint Retrospective is time-boxed to 3 hours for a one-month Sprint. Shorter Sprints usually have shorter events.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Artifacts & commitments",
+  "body": "Which commitment belongs to the Product Backlog?",
+  "options": [
+   "Velocity",
+   "Definition of Done",
+   "Sprint Goal",
+   "Product Goal"
+  ],
+  "answer": 3,
+  "explanation": "Each artifact has a commitment: Product Backlog → Product Goal; Sprint Backlog → Sprint Goal; Increment → Definition of Done.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Artifacts & commitments",
+  "body": "Which commitment belongs to the Sprint Backlog?",
+  "options": [
+   "Velocity",
+   "Product Goal",
+   "Definition of Done",
+   "Sprint Goal"
+  ],
+  "answer": 3,
+  "explanation": "Each artifact has a commitment: Product Backlog → Product Goal; Sprint Backlog → Sprint Goal; Increment → Definition of Done.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Artifacts & commitments",
+  "body": "Which commitment belongs to the Increment?",
+  "options": [
+   "Definition of Done",
+   "Velocity",
+   "Sprint Goal",
+   "Product Goal"
+  ],
+  "answer": 0,
+  "explanation": "Each artifact has a commitment: Product Backlog → Product Goal; Sprint Backlog → Sprint Goal; Increment → Definition of Done.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Artifacts & commitments",
+  "body": "The Product Goal is the commitment for which artifact?",
+  "options": [
+   "Burndown chart",
+   "Sprint Backlog",
+   "Increment",
+   "Product Backlog"
+  ],
+  "answer": 3,
+  "explanation": "Product Backlog → Product Goal; Sprint Backlog → Sprint Goal; Increment → Definition of Done.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Artifacts & commitments",
+  "body": "The Sprint Goal is the commitment for which artifact?",
+  "options": [
+   "Increment",
+   "Product Backlog",
+   "Sprint Backlog",
+   "Burndown chart"
+  ],
+  "answer": 2,
+  "explanation": "Product Backlog → Product Goal; Sprint Backlog → Sprint Goal; Increment → Definition of Done.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Artifacts & commitments",
+  "body": "The Definition of Done is the commitment for which artifact?",
+  "options": [
+   "Product Backlog",
+   "Sprint Backlog",
+   "Increment",
+   "Burndown chart"
+  ],
+  "answer": 2,
+  "explanation": "Product Backlog → Product Goal; Sprint Backlog → Sprint Goal; Increment → Definition of Done.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "What are the three accountabilities in a Scrum Team?",
+  "options": [
+   "Sponsor, Product Owner and Developers",
+   "Scrum Master, Team Lead and Developers",
+   "Product Owner, Scrum Master and Developers",
+   "Project Manager, Product Owner and Testers"
+  ],
+  "answer": 2,
+  "explanation": "Scrum Guide 2020 defines three accountabilities.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "What are the three pillars of empiricism in Scrum?",
+  "options": [
+   "Transparency, inspection and adaptation",
+   "Planning, doing and checking",
+   "Speed, quality and cost",
+   "Commitment, focus and openness"
+  ],
+  "answer": 0,
+  "explanation": "Scrum is founded on empiricism and lean thinking.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Which of these is a Scrum value?",
+  "options": [
+   "Predictability",
+   "Courage",
+   "Speed",
+   "Hierarchy"
+  ],
+  "answer": 1,
+  "explanation": "The five values are commitment, focus, openness, respect and courage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Who is accountable for maximizing the value of the product?",
+  "options": [
+   "The Scrum Master",
+   "The Developers",
+   "The Product Owner",
+   "The stakeholders"
+  ],
+  "answer": 2,
+  "explanation": "The Product Owner is one person, not a committee.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Who is accountable for the Scrum Team's effectiveness?",
+  "options": [
+   "The Product Owner",
+   "Line management",
+   "The Scrum Master",
+   "The most senior Developer"
+  ],
+  "answer": 2,
+  "explanation": "The Scrum Master serves the Scrum Team and the organization.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Who is accountable for creating a plan for the Sprint (the Sprint Backlog)?",
+  "options": [
+   "The Developers",
+   "The Product Owner",
+   "The Scrum Master",
+   "The stakeholders"
+  ],
+  "answer": 0,
+  "explanation": "Developers instil quality and adhere to the Definition of Done.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Who can cancel a Sprint?",
+  "options": [
+   "Only the Product Owner",
+   "Any stakeholder",
+   "The Scrum Master",
+   "The Developers"
+  ],
+  "answer": 0,
+  "explanation": "A Sprint may be cancelled if the Sprint Goal becomes obsolete.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "How large is a Scrum Team typically?",
+  "options": [
+   "Exactly 7 people",
+   "No more than 3 people",
+   "At least 12 people",
+   "10 or fewer people"
+  ],
+  "answer": 3,
+  "explanation": "Smaller teams communicate better and are more productive.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Does a Scrum Team have sub-teams or hierarchies?",
+  "options": [
+   "Yes, led by a team lead",
+   "Yes, testers form a sub-team",
+   "Only for large products",
+   "No — it is a cohesive unit of professionals focused on one objective"
+  ],
+  "answer": 3,
+  "explanation": "The Scrum Team is cross-functional and self-managing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Who must attend the Daily Scrum?",
+  "options": [
+   "The stakeholders",
+   "The whole organization",
+   "The Developers",
+   "The Product Owner only"
+  ],
+  "answer": 2,
+  "explanation": "If the Product Owner or Scrum Master are working on Sprint Backlog items, they participate as Developers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "When multiple Scrum Teams work on the same product, they should have",
+  "options": [
+   "one Product Owner per team",
+   "one Product Backlog and one Product Owner",
+   "one Product Backlog per team",
+   "separate Product Goals per team"
+  ],
+  "answer": 1,
+  "explanation": "The product has a single Product Goal and Product Backlog.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "What happens to a Product Backlog item that does not meet the Definition of Done at the end of the Sprint?",
+  "options": [
+   "The Sprint is extended",
+   "It is counted as half done",
+   "It is released anyway",
+   "It cannot be released or presented at the Sprint Review; it returns to the Product Backlog"
+  ],
+  "answer": 3,
+  "explanation": "Work must meet the Definition of Done to be part of an Increment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "If the organization has a Definition of Done standard, the Scrum Team must",
+  "options": [
+   "follow it as a minimum",
+   "ignore it",
+   "replace it with their own",
+   "ask stakeholders each Sprint"
+  ],
+  "answer": 0,
+  "explanation": "If not, the Scrum Team creates one appropriate for the product.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Can an Increment be delivered to stakeholders before the end of the Sprint?",
+  "options": [
+   "Only with management approval",
+   "Yes",
+   "Only in the final Sprint",
+   "No, only at the Sprint Review"
+  ],
+  "answer": 1,
+  "explanation": "The Sprint Review should never be a gate to releasing value.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "What is Product Backlog refinement?",
+  "options": [
+   "The ongoing activity of breaking down and adding detail, such as descriptions, order and size, to Product Backlog items",
+   "Approval of the Sprint Goal",
+   "A formal event time-boxed to 2 hours",
+   "The Product Owner's monthly report"
+  ],
+  "answer": 0,
+  "explanation": "Refinement is ongoing, not a Scrum event.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Which three topics are addressed at Sprint Planning?",
+  "options": [
+   "Who, where and when",
+   "Cost, scope and schedule",
+   "Why is this Sprint valuable, what can be done, and how will the work get done",
+   "Risks, issues and dependencies"
+  ],
+  "answer": 2,
+  "explanation": "The Sprint Goal is crafted during Sprint Planning.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Can the Sprint Goal change during the Sprint?",
+  "options": [
+   "Yes, at any time",
+   "No — but the Sprint Backlog can be clarified and renegotiated with the Product Owner as more is learned",
+   "Yes, if a stakeholder asks",
+   "Only at the Daily Scrum"
+  ],
+  "answer": 1,
+  "explanation": "No changes are made that would endanger the Sprint Goal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Which event is the last in the Sprint?",
+  "options": [
+   "The Sprint Review",
+   "Sprint Planning",
+   "The Daily Scrum",
+   "The Sprint Retrospective"
+  ],
+  "answer": 3,
+  "explanation": "It concludes the Sprint.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "The Scrum Guide 2020 describes Scrum Teams as",
+  "options": [
+   "temporary",
+   "manager-led",
+   "self-managing",
+   "self-organizing only"
+  ],
+  "answer": 2,
+  "explanation": "They decide internally who does what, when and how.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Scrum is founded on empiricism and",
+  "options": [
+   "waterfall planning",
+   "lean thinking",
+   "six sigma",
+   "critical path analysis"
+  ],
+  "answer": 1,
+  "explanation": "Lean thinking reduces waste and focuses on essentials.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "What is the Product Goal?",
+  "options": [
+   "The Sprint's single objective",
+   "The long-term objective for the Scrum Team, described in the Product Backlog",
+   "A release date",
+   "A daily task list"
+  ],
+  "answer": 1,
+  "explanation": "The Scrum Team must fulfil (or abandon) one objective before taking on the next.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Who decides how many Product Backlog items to select for a Sprint?",
+  "options": [
+   "The Developers",
+   "Stakeholders",
+   "The Product Owner",
+   "The Scrum Master"
+  ],
+  "answer": 0,
+  "explanation": "The more they know about past performance and capacity, the more confident their forecast.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Is the Sprint Review a formal presentation or approval gate?",
+  "options": [
+   "Yes, it is a status meeting",
+   "Yes, the Product Owner signs off",
+   "Yes, stakeholders approve each item",
+   "No — it is a working session where the Scrum Team and stakeholders collaborate"
+  ],
+  "answer": 3,
+  "explanation": "Attendees collaborate on what to do next.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Who participates in the Sprint Retrospective?",
+  "options": [
+   "Stakeholders only",
+   "The whole organization",
+   "The Scrum Team",
+   "Only the Scrum Master"
+  ],
+  "answer": 2,
+  "explanation": "The Scrum Team discusses what went well, problems and solutions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "A new Sprint starts",
+  "options": [
+   "immediately after the conclusion of the previous Sprint",
+   "only when the Product Owner approves",
+   "after a one-week gap",
+   "at the start of each month"
+  ],
+  "answer": 0,
+  "explanation": "Sprints are continuous.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "The Daily Scrum's structure is decided by",
+  "options": [
+   "the Scrum Guide's fixed three questions",
+   "the Developers",
+   "the Product Owner",
+   "the Scrum Master"
+  ],
+  "answer": 1,
+  "explanation": "The Developers can select any structure and techniques that focus on progress toward the Sprint Goal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "What is the pass mark for Scrum.org's PSM I assessment?",
+  "options": [
+   "85%",
+   "75%",
+   "60%",
+   "70%"
+  ],
+  "answer": 0,
+  "explanation": "80 questions in 60 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: ordering product backlog items?",
+  "options": [
+   "Scrum Master",
+   "Developers",
+   "Stakeholders",
+   "Product Owner"
+  ],
+  "answer": 3,
+  "explanation": "Ordering Product Backlog items: the Product Owner.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: clearly expressing product backlog items?",
+  "options": [
+   "Developers",
+   "Product Owner",
+   "Stakeholders",
+   "Scrum Master"
+  ],
+  "answer": 1,
+  "explanation": "Clearly expressing Product Backlog items: the Product Owner.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: developing and explicitly communicating the product goal?",
+  "options": [
+   "Developers",
+   "Product Owner",
+   "Scrum Master",
+   "Stakeholders"
+  ],
+  "answer": 1,
+  "explanation": "Developing and explicitly communicating the Product Goal: the Product Owner.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: ensuring the product backlog is transparent, visible and understood?",
+  "options": [
+   "Product Owner",
+   "Developers",
+   "Stakeholders",
+   "Scrum Master"
+  ],
+  "answer": 0,
+  "explanation": "Ensuring the Product Backlog is transparent, visible and understood: the Product Owner.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: adapting the sprint backlog each day toward the sprint goal?",
+  "options": [
+   "Developers",
+   "Scrum Master",
+   "Stakeholders",
+   "Product Owner"
+  ],
+  "answer": 0,
+  "explanation": "Adapting the Sprint Backlog each day toward the Sprint Goal: the Developers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: instilling quality by adhering to the definition of done?",
+  "options": [
+   "Scrum Master",
+   "Stakeholders",
+   "Product Owner",
+   "Developers"
+  ],
+  "answer": 3,
+  "explanation": "Instilling quality by adhering to the Definition of Done: the Developers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: holding each other accountable as professionals?",
+  "options": [
+   "Product Owner",
+   "Developers",
+   "Scrum Master",
+   "Stakeholders"
+  ],
+  "answer": 1,
+  "explanation": "Holding each other accountable as professionals: the Developers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: sizing product backlog items?",
+  "options": [
+   "Stakeholders",
+   "Developers",
+   "Product Owner",
+   "Scrum Master"
+  ],
+  "answer": 1,
+  "explanation": "Sizing Product Backlog items: the Developers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: causing the removal of impediments to the scrum team's progress?",
+  "options": [
+   "Scrum Master",
+   "Product Owner",
+   "Stakeholders",
+   "Developers"
+  ],
+  "answer": 0,
+  "explanation": "Causing the removal of impediments to the Scrum Team's progress: the Scrum Master.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: coaching team members in self-management and cross-functionality?",
+  "options": [
+   "Product Owner",
+   "Scrum Master",
+   "Stakeholders",
+   "Developers"
+  ],
+  "answer": 1,
+  "explanation": "Coaching team members in self-management and cross-functionality: the Scrum Master.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: ensuring all scrum events take place and are positive, productive and kept within the time-box?",
+  "options": [
+   "Stakeholders",
+   "Scrum Master",
+   "Developers",
+   "Product Owner"
+  ],
+  "answer": 1,
+  "explanation": "Ensuring all Scrum events take place and are positive, productive and kept within the time-box: the Scrum Master.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: leading, training and coaching the organization in its scrum adoption?",
+  "options": [
+   "Developers",
+   "Scrum Master",
+   "Stakeholders",
+   "Product Owner"
+  ],
+  "answer": 1,
+  "explanation": "Leading, training and coaching the organization in its Scrum adoption: the Scrum Master.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: helping find techniques for effective product goal definition and product backlog management?",
+  "options": [
+   "Stakeholders",
+   "Scrum Master",
+   "Developers",
+   "Product Owner"
+  ],
+  "answer": 1,
+  "explanation": "Helping find techniques for effective Product Goal definition and Product Backlog management: the Scrum Master.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: facilitating stakeholder collaboration as requested or needed?",
+  "options": [
+   "Scrum Master",
+   "Stakeholders",
+   "Product Owner",
+   "Developers"
+  ],
+  "answer": 0,
+  "explanation": "Facilitating stakeholder collaboration as requested or needed: the Scrum Master.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: creating a usable increment every sprint?",
+  "options": [
+   "Product Owner",
+   "Stakeholders",
+   "Developers",
+   "Scrum Master"
+  ],
+  "answer": 2,
+  "explanation": "Creating a usable Increment every Sprint: the Developers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: deciding whether to cancel a sprint?",
+  "options": [
+   "Developers",
+   "Stakeholders",
+   "Product Owner",
+   "Scrum Master"
+  ],
+  "answer": 2,
+  "explanation": "Deciding whether to cancel a Sprint: the Product Owner.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "During the Sprint, the Developers realise they cannot finish all the selected work. What should happen?",
+  "options": [
+   "The Sprint is automatically extended",
+   "They lower the Definition of Done",
+   "The Scrum Master removes items without discussion",
+   "They collaborate with the Product Owner to renegotiate the Sprint Backlog scope without endangering the Sprint Goal"
+  ],
+  "answer": 3,
+  "explanation": "Scope may be clarified and renegotiated with the Product Owner as more is learned.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "A stakeholder asks a Developer directly to add a new feature mid-Sprint. What should the Developer do?",
+  "options": [
+   "Add it to the Sprint Backlog immediately",
+   "Ask the Scrum Master to approve it",
+   "Refer the request to the Product Owner, who manages the Product Backlog",
+   "Ignore the stakeholder"
+  ],
+  "answer": 2,
+  "explanation": "Those wanting to change the Product Backlog do so by convincing the Product Owner.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "The Sprint Goal has become obsolete because the company changed direction. What may happen?",
+  "options": [
+   "The Scrum Master cancels the Sprint",
+   "The Product Owner may cancel the Sprint",
+   "The Developers keep working until the end",
+   "The Sprint length is changed"
+  ],
+  "answer": 1,
+  "explanation": "Only the Product Owner has authority to cancel a Sprint.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "At the Daily Scrum, a long technical discussion starts. What is best?",
+  "options": [
+   "The Scrum Master decides the solution",
+   "The relevant Developers continue the discussion after the Daily Scrum",
+   "Cancel the Daily Scrum",
+   "Extend the Daily Scrum to an hour"
+  ],
+  "answer": 1,
+  "explanation": "Developers often meet immediately afterwards for detailed discussions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "Management wants a report on how the team is progressing. Which is the most transparent source?",
+  "options": [
+   "The Daily Scrum minutes",
+   "The Increment and the Sprint Review",
+   "Individual timesheets",
+   "A Gantt chart prepared by the Scrum Master"
+  ],
+  "answer": 1,
+  "explanation": "Scrum relies on transparent artifacts and inspection at the Sprint Review.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "The Product Owner is unavailable for most of the Sprint. What is the main risk?",
+  "options": [
+   "The Scrum Master must become Product Owner",
+   "The Sprint must be cancelled",
+   "The Daily Scrum can't happen",
+   "Questions about Product Backlog items go unanswered, reducing the value delivered"
+  ],
+  "answer": 3,
+  "explanation": "The Product Owner's availability supports maximizing value.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "A team keeps failing to finish Sprint Backlog items. Where should they discuss how to improve?",
+  "options": [
+   "At the Sprint Retrospective",
+   "At the Sprint Review only",
+   "At Sprint Planning only",
+   "In a meeting with line management"
+  ],
+  "answer": 0,
+  "explanation": "The Retrospective identifies the most helpful changes to improve effectiveness.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "Two Scrum Teams work on one product. How many Definitions of Done should apply to the Increment?",
+  "options": [
+   "One per team, chosen freely",
+   "One per Developer",
+   "None until the final release",
+   "One shared Definition of Done that all teams meet"
+  ],
+  "answer": 3,
+  "explanation": "Multiple Scrum Teams on a product must mutually define and comply with the same Definition of Done.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "Who must be present at Sprint Planning?",
+  "options": [
+   "The entire Scrum Team",
+   "All stakeholders",
+   "Only the Product Owner",
+   "Only the Developers"
+  ],
+  "answer": 0,
+  "explanation": "Others may be invited to provide advice.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "When is the Sprint Backlog updated?",
+  "options": [
+   "Throughout the Sprint as more is learned",
+   "Only at Sprint Planning",
+   "Only by the Scrum Master",
+   "Only at the Sprint Review"
+  ],
+  "answer": 0,
+  "explanation": "It is a highly visible, real-time picture of the Developers' work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "What is the main purpose of the Sprint Review?",
+  "options": [
+   "To assess individual performance",
+   "To approve work for release",
+   "To inspect the outcome of the Sprint and determine future adaptations",
+   "To plan the next Daily Scrum"
+  ],
+  "answer": 2,
+  "explanation": "Progress toward the Product Goal is discussed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "A Developer says they're only a tester and won't write code. According to Scrum, Developers are",
+  "options": [
+   "only programmers",
+   "managed by the Scrum Master",
+   "any members committed to creating any aspect of a usable Increment each Sprint",
+   "specialists who can't share work"
+  ],
+  "answer": 2,
+  "explanation": "Scrum recognises no titles beyond Developer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "What is the Increment?",
+  "options": [
+   "The burndown chart",
+   "The Sprint Backlog",
+   "A concrete stepping stone toward the Product Goal that is usable and meets the Definition of Done",
+   "Everything the team started in the Sprint"
+  ],
+  "answer": 2,
+  "explanation": "Each Increment is additive to all prior Increments.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "How many Increments can be created in a Sprint?",
+  "options": [
+   "One or more",
+   "None until the release",
+   "Exactly two",
+   "Exactly one"
+  ],
+  "answer": 0,
+  "explanation": "Multiple Increments may be created within a Sprint.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "Is velocity or a burndown chart required by Scrum?",
+  "options": [
+   "Yes, velocity is mandatory",
+   "Only for Sprints longer than two weeks",
+   "Yes, burndown is an artifact",
+   "No — various practices can forecast progress but they don't replace empiricism"
+  ],
+  "answer": 3,
+  "explanation": "Scrum doesn't prescribe these techniques.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "Which statement about the Scrum Master's role is correct?",
+  "options": [
+   "They are a true leader who serves the Scrum Team and the larger organization",
+   "They own the Product Backlog",
+   "They report individual performance to HR",
+   "They assign tasks to Developers"
+  ],
+  "answer": 0,
+  "explanation": "Scrum Guide 2020 wording.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "What is the purpose of the Sprint Goal?",
+  "options": [
+   "It gives the Developers a single objective for the Sprint, creating coherence and focus",
+   "It sets individual targets",
+   "It replaces the Product Goal",
+   "It lists every task in the Sprint"
+  ],
+  "answer": 0,
+  "explanation": "The Sprint Goal is created during Sprint Planning and added to the Sprint Backlog.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "Who creates the Definition of Done if the organization has none?",
+  "options": [
+   "The stakeholders",
+   "The Scrum Team",
+   "The Scrum Master alone",
+   "The Product Owner alone"
+  ],
+  "answer": 1,
+  "explanation": "It must be appropriate for the product.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "Which best describes the Product Backlog?",
+  "options": [
+   "A fixed requirements specification",
+   "The Developers' daily task list",
+   "A list of defects only",
+   "An emergent, ordered list of what is needed to improve the product"
+  ],
+  "answer": 3,
+  "explanation": "It is the single source of work undertaken by the Scrum Team.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "The Sprint Retrospective inspects",
+  "options": [
+   "individual salaries",
+   "only the product",
+   "stakeholder satisfaction surveys",
+   "individuals, interactions, processes, tools and the Definition of Done"
+  ],
+  "answer": 3,
+  "explanation": "The most impactful improvements may be added to the next Sprint Backlog.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "What should the Developers do when work during the Sprint turns out different than expected?",
+  "options": [
+   "Escalate to senior management",
+   "Stop and wait for the Sprint Review",
+   "Collaborate with the Product Owner on the Sprint Backlog while protecting the Sprint Goal",
+   "Lengthen the Sprint"
+  ],
+  "answer": 2,
+  "explanation": "Scrum is built on adaptation as soon as possible.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "Which Scrum value means the team works on difficult problems and does the right thing?",
+  "options": [
+   "Courage",
+   "Openness",
+   "Respect",
+   "Focus"
+  ],
+  "answer": 0,
+  "explanation": "Commitment, focus, openness, respect and courage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "Which Scrum value means team members and stakeholders agree to be open about the work and challenges?",
+  "options": [
+   "Courage",
+   "Openness",
+   "Commitment",
+   "Focus"
+  ],
+  "answer": 1,
+  "explanation": "Openness supports transparency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "Why are Sprints limited to one month or less?",
+  "options": [
+   "To allow monthly payroll",
+   "To keep budgets small",
+   "Because stakeholders demand it",
+   "Longer Sprints can let the Sprint Goal become invalid, increase complexity and increase risk"
+  ],
+  "answer": 3,
+  "explanation": "Shorter Sprints generate more learning cycles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "What does 'transparency' mean in Scrum?",
+  "options": [
+   "All salaries are published",
+   "The emergent process and work must be visible to those performing and receiving the work",
+   "Stakeholders attend every event",
+   "The Scrum Master records everything"
+  ],
+  "answer": 1,
+  "explanation": "Low transparency leads to decisions that diminish value and increase risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"The Product Owner can be a committee.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "The Product Owner is one person.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"The Daily Scrum is time-boxed to 15 minutes.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Regardless of Sprint length.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"The Scrum Master is the manager of the Developers.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "The Scrum Master is a true leader who serves; Scrum Teams are self-managing.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"Sprints can be longer than one month.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "Sprints are one month or less.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"Every Sprint should have a Sprint Goal.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "It is the commitment for the Sprint Backlog.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"Product Backlog refinement is a time-boxed Scrum event.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "It is an ongoing activity, not an event.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"Stakeholders are invited to the Sprint Review.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "The Scrum Team presents results to key stakeholders.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"Only the Scrum Master can add items to the Sprint Backlog.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "The Sprint Backlog is a plan by and for the Developers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"Scrum's pillars are transparency, inspection and adaptation.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "These are the three pillars of empiricism.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"The Definition of Done is the commitment for the Increment.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "It creates transparency about what 'done' means.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"The Sprint Review is the last event in the Sprint.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "The Sprint Retrospective concludes the Sprint.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"Scrum Teams are cross-functional.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Members have all the skills needed to create value each Sprint.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"The Scrum Master can change the Sprint Goal.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "No changes are made that endanger the Sprint Goal.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"The Product Backlog is never complete.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "It is an emergent, ordered list of what is needed to improve the product.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"The Daily Scrum is only for the Scrum Master to get a status update.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "It is an event for the Developers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"Quality goals should not decrease during the Sprint.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "A Sprint rule from the Scrum Guide.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"A Sprint can have no Sprint Goal if work is unrelated.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "Every Sprint has a Sprint Goal.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"Scrum is a lightweight framework.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "It helps people, teams and organizations generate value through adaptive solutions.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"Product Backlog items must be estimated in story points.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "Scrum doesn't prescribe estimation techniques.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"The Scrum Team is responsible for all product-related activities.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "Including stakeholder collaboration, verification, maintenance, operation, experimentation, R&D.",
+  "difficulty": 1
+ }
+]

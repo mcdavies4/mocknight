@@ -44140,5 +44140,5411 @@
   "answer": 1,
   "explanation": "'Four is the floor.'",
   "difficulty": 1
+ },
+ {
+  "subject": "PRN",
+  "topic": "Principles",
+  "body": "Which PRINCE2 principle means there is a justifiable reason to start the project and it remains valid throughout?",
+  "options": [
+   "Ensure continued business justification",
+   "Manage by stages",
+   "Learn from experience",
+   "Define roles, responsibilities and relationships"
+  ],
+  "answer": 0,
+  "explanation": "Ensure continued business justification: there is a justifiable reason to start the project and it remains valid throughout.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Principles",
+  "body": "Which PRINCE2 principle means lessons are sought, recorded and acted on throughout the project?",
+  "options": [
+   "Define roles, responsibilities and relationships",
+   "Focus on products",
+   "Learn from experience",
+   "Manage by exception"
+  ],
+  "answer": 2,
+  "explanation": "Learn from experience: lessons are sought, recorded and acted on throughout the project.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Principles",
+  "body": "Which PRINCE2 principle means everyone knows who is accountable for what and how they interact?",
+  "options": [
+   "Manage by exception",
+   "Learn from experience",
+   "Manage by stages",
+   "Define roles, responsibilities and relationships"
+  ],
+  "answer": 3,
+  "explanation": "Define roles, responsibilities and relationships: everyone knows who is accountable for what and how they interact.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Principles",
+  "body": "Which PRINCE2 principle means the project is planned, monitored and controlled one management stage at a time?",
+  "options": [
+   "Manage by stages",
+   "Ensure continued business justification",
+   "Define roles, responsibilities and relationships",
+   "Manage by exception"
+  ],
+  "answer": 0,
+  "explanation": "Manage by stages: the project is planned, monitored and controlled one management stage at a time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Principles",
+  "body": "Which PRINCE2 principle means tolerances are set so each level of management only escalates when they are forecast to be exceeded?",
+  "options": [
+   "Manage by stages",
+   "Learn from experience",
+   "Manage by exception",
+   "Ensure continued business justification"
+  ],
+  "answer": 2,
+  "explanation": "Manage by exception: tolerances are set so each level of management only escalates when they are forecast to be exceeded.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Principles",
+  "body": "Which PRINCE2 principle means the project concentrates on the definition and delivery of products and their quality requirements?",
+  "options": [
+   "Manage by exception",
+   "Learn from experience",
+   "Focus on products",
+   "Tailor to suit the project"
+  ],
+  "answer": 2,
+  "explanation": "Focus on products: the project concentrates on the definition and delivery of products and their quality requirements.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Principles",
+  "body": "Which PRINCE2 principle means the method is adapted to the project's size, complexity, risk and environment?",
+  "options": [
+   "Tailor to suit the project",
+   "Manage by exception",
+   "Learn from experience",
+   "Ensure continued business justification"
+  ],
+  "answer": 0,
+  "explanation": "Tailor to suit the project: the method is adapted to the project's size, complexity, risk and environment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Principles",
+  "body": "The principle 'ensure continued business justification' means",
+  "options": [
+   "there is a justifiable reason to start the project and it remains valid throughout",
+   "everyone knows who is accountable for what and how they interact",
+   "the project concentrates on the definition and delivery of products and their quality requirements",
+   "tolerances are set so each level of management only escalates when they are forecast to be exceeded"
+  ],
+  "answer": 0,
+  "explanation": "Ensure continued business justification: there is a justifiable reason to start the project and it remains valid throughout.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Principles",
+  "body": "The principle 'learn from experience' means",
+  "options": [
+   "tolerances are set so each level of management only escalates when they are forecast to be exceeded",
+   "lessons are sought, recorded and acted on throughout the project",
+   "the project is planned, monitored and controlled one management stage at a time",
+   "the method is adapted to the project's size, complexity, risk and environment"
+  ],
+  "answer": 1,
+  "explanation": "Learn from experience: lessons are sought, recorded and acted on throughout the project.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Principles",
+  "body": "The principle 'define roles, responsibilities and relationships' means",
+  "options": [
+   "everyone knows who is accountable for what and how they interact",
+   "the method is adapted to the project's size, complexity, risk and environment",
+   "lessons are sought, recorded and acted on throughout the project",
+   "tolerances are set so each level of management only escalates when they are forecast to be exceeded"
+  ],
+  "answer": 0,
+  "explanation": "Define roles, responsibilities and relationships: everyone knows who is accountable for what and how they interact.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Principles",
+  "body": "The principle 'manage by stages' means",
+  "options": [
+   "lessons are sought, recorded and acted on throughout the project",
+   "everyone knows who is accountable for what and how they interact",
+   "the project is planned, monitored and controlled one management stage at a time",
+   "tolerances are set so each level of management only escalates when they are forecast to be exceeded"
+  ],
+  "answer": 2,
+  "explanation": "Manage by stages: the project is planned, monitored and controlled one management stage at a time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Principles",
+  "body": "The principle 'manage by exception' means",
+  "options": [
+   "tolerances are set so each level of management only escalates when they are forecast to be exceeded",
+   "there is a justifiable reason to start the project and it remains valid throughout",
+   "lessons are sought, recorded and acted on throughout the project",
+   "the project concentrates on the definition and delivery of products and their quality requirements"
+  ],
+  "answer": 0,
+  "explanation": "Manage by exception: tolerances are set so each level of management only escalates when they are forecast to be exceeded.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Principles",
+  "body": "The principle 'focus on products' means",
+  "options": [
+   "everyone knows who is accountable for what and how they interact",
+   "there is a justifiable reason to start the project and it remains valid throughout",
+   "the project concentrates on the definition and delivery of products and their quality requirements",
+   "tolerances are set so each level of management only escalates when they are forecast to be exceeded"
+  ],
+  "answer": 2,
+  "explanation": "Focus on products: the project concentrates on the definition and delivery of products and their quality requirements.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Principles",
+  "body": "The principle 'tailor to suit the project' means",
+  "options": [
+   "everyone knows who is accountable for what and how they interact",
+   "the method is adapted to the project's size, complexity, risk and environment",
+   "the project concentrates on the definition and delivery of products and their quality requirements",
+   "tolerances are set so each level of management only escalates when they are forecast to be exceeded"
+  ],
+  "answer": 1,
+  "explanation": "Tailor to suit the project: the method is adapted to the project's size, complexity, risk and environment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Practices",
+  "body": "Which PRINCE2 7 practice addresses whether the project is (and remains) desirable, viable and achievable?",
+  "options": [
+   "Business case",
+   "Plans",
+   "Risk",
+   "Organizing"
+  ],
+  "answer": 0,
+  "explanation": "The business case practice: whether the project is (and remains) desirable, viable and achievable.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PRN",
+  "topic": "Practices",
+  "body": "Which PRINCE2 7 practice addresses the project's roles, responsibilities and relationships between people?",
+  "options": [
+   "Risk",
+   "Quality",
+   "Progress",
+   "Organizing"
+  ],
+  "answer": 3,
+  "explanation": "The organizing practice: the project's roles, responsibilities and relationships between people.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PRN",
+  "topic": "Practices",
+  "body": "Which PRINCE2 7 practice addresses what is to be delivered, how, by whom, when and at what cost?",
+  "options": [
+   "Business case",
+   "Issues",
+   "Plans",
+   "Progress"
+  ],
+  "answer": 2,
+  "explanation": "The plans practice: what is to be delivered, how, by whom, when and at what cost.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PRN",
+  "topic": "Practices",
+  "body": "Which PRINCE2 7 practice addresses defining and implementing the means to create and verify fit-for-purpose products?",
+  "options": [
+   "Business case",
+   "Quality",
+   "Risk",
+   "Issues"
+  ],
+  "answer": 1,
+  "explanation": "The quality practice: defining and implementing the means to create and verify fit-for-purpose products.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PRN",
+  "topic": "Practices",
+  "body": "Which PRINCE2 7 practice addresses identifying, assessing and controlling uncertainty?",
+  "options": [
+   "Plans",
+   "Business case",
+   "Risk",
+   "Quality"
+  ],
+  "answer": 2,
+  "explanation": "The risk practice: identifying, assessing and controlling uncertainty.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PRN",
+  "topic": "Practices",
+  "body": "Which PRINCE2 7 practice addresses handling unplanned events such as requests for change, off-specifications and problems?",
+  "options": [
+   "Issues",
+   "Risk",
+   "Progress",
+   "Business case"
+  ],
+  "answer": 0,
+  "explanation": "The issues practice: handling unplanned events such as requests for change, off-specifications and problems.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PRN",
+  "topic": "Practices",
+  "body": "Which PRINCE2 7 practice addresses monitoring and comparing actual achievement against plans, and controlling deviations?",
+  "options": [
+   "Quality",
+   "Progress",
+   "Issues",
+   "Organizing"
+  ],
+  "answer": 1,
+  "explanation": "The progress practice: monitoring and comparing actual achievement against plans, and controlling deviations.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PRN",
+  "topic": "Practices",
+  "body": "The purpose of the business case practice is to address",
+  "options": [
+   "whether the project is (and remains) desirable, viable and achievable",
+   "the project's roles, responsibilities and relationships between people",
+   "handling unplanned events such as requests for change, off-specifications and problems",
+   "defining and implementing the means to create and verify fit-for-purpose products"
+  ],
+  "answer": 0,
+  "explanation": "The business case practice: whether the project is (and remains) desirable, viable and achievable.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PRN",
+  "topic": "Practices",
+  "body": "The purpose of the organizing practice is to address",
+  "options": [
+   "defining and implementing the means to create and verify fit-for-purpose products",
+   "the project's roles, responsibilities and relationships between people",
+   "identifying, assessing and controlling uncertainty",
+   "handling unplanned events such as requests for change, off-specifications and problems"
+  ],
+  "answer": 1,
+  "explanation": "The organizing practice: the project's roles, responsibilities and relationships between people.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PRN",
+  "topic": "Practices",
+  "body": "The purpose of the plans practice is to address",
+  "options": [
+   "the project's roles, responsibilities and relationships between people",
+   "defining and implementing the means to create and verify fit-for-purpose products",
+   "what is to be delivered, how, by whom, when and at what cost",
+   "identifying, assessing and controlling uncertainty"
+  ],
+  "answer": 2,
+  "explanation": "The plans practice: what is to be delivered, how, by whom, when and at what cost.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PRN",
+  "topic": "Practices",
+  "body": "The purpose of the quality practice is to address",
+  "options": [
+   "monitoring and comparing actual achievement against plans, and controlling deviations",
+   "defining and implementing the means to create and verify fit-for-purpose products",
+   "what is to be delivered, how, by whom, when and at what cost",
+   "handling unplanned events such as requests for change, off-specifications and problems"
+  ],
+  "answer": 1,
+  "explanation": "The quality practice: defining and implementing the means to create and verify fit-for-purpose products.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PRN",
+  "topic": "Practices",
+  "body": "The purpose of the risk practice is to address",
+  "options": [
+   "the project's roles, responsibilities and relationships between people",
+   "handling unplanned events such as requests for change, off-specifications and problems",
+   "what is to be delivered, how, by whom, when and at what cost",
+   "identifying, assessing and controlling uncertainty"
+  ],
+  "answer": 3,
+  "explanation": "The risk practice: identifying, assessing and controlling uncertainty.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PRN",
+  "topic": "Practices",
+  "body": "The purpose of the issues practice is to address",
+  "options": [
+   "handling unplanned events such as requests for change, off-specifications and problems",
+   "identifying, assessing and controlling uncertainty",
+   "monitoring and comparing actual achievement against plans, and controlling deviations",
+   "the project's roles, responsibilities and relationships between people"
+  ],
+  "answer": 0,
+  "explanation": "The issues practice: handling unplanned events such as requests for change, off-specifications and problems.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PRN",
+  "topic": "Practices",
+  "body": "The purpose of the progress practice is to address",
+  "options": [
+   "monitoring and comparing actual achievement against plans, and controlling deviations",
+   "defining and implementing the means to create and verify fit-for-purpose products",
+   "the project's roles, responsibilities and relationships between people",
+   "identifying, assessing and controlling uncertainty"
+  ],
+  "answer": 0,
+  "explanation": "The progress practice: monitoring and comparing actual achievement against plans, and controlling deviations.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PRN",
+  "topic": "Processes",
+  "body": "Which process is concerned with ensuring prerequisites are in place and deciding whether the project is worthwhile, producing the project brief?",
+  "options": [
+   "Managing a stage boundary",
+   "Managing product delivery",
+   "Starting up a project",
+   "Closing a project"
+  ],
+  "answer": 2,
+  "explanation": "Starting up a project: ensuring prerequisites are in place and deciding whether the project is worthwhile, producing the project brief.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Processes",
+  "body": "Which process is concerned with enabling the project board to be accountable through key decisions and overall control?",
+  "options": [
+   "Closing a project",
+   "Managing product delivery",
+   "Starting up a project",
+   "Directing a project"
+  ],
+  "answer": 3,
+  "explanation": "Directing a project: enabling the project board to be accountable through key decisions and overall control.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Processes",
+  "body": "Which process is concerned with establishing solid foundations and producing the project initiation documentation (PID)?",
+  "options": [
+   "Starting up a project",
+   "Controlling a stage",
+   "Managing product delivery",
+   "Initiating a project"
+  ],
+  "answer": 3,
+  "explanation": "Initiating a project: establishing solid foundations and producing the project initiation documentation (PID).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Processes",
+  "body": "Which process is concerned with assigning work, monitoring it, dealing with issues and reporting during a stage?",
+  "options": [
+   "Controlling a stage",
+   "Starting up a project",
+   "Closing a project",
+   "Initiating a project"
+  ],
+  "answer": 0,
+  "explanation": "Controlling a stage: assigning work, monitoring it, dealing with issues and reporting during a stage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Processes",
+  "body": "Which process is concerned with controlling the link between the project manager and the team manager(s)?",
+  "options": [
+   "Managing product delivery",
+   "Initiating a project",
+   "Managing a stage boundary",
+   "Directing a project"
+  ],
+  "answer": 0,
+  "explanation": "Managing product delivery: controlling the link between the project manager and the team manager(s).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Processes",
+  "body": "Which process is concerned with reviewing the current stage, planning the next and updating the business case?",
+  "options": [
+   "Directing a project",
+   "Closing a project",
+   "Managing a stage boundary",
+   "Controlling a stage"
+  ],
+  "answer": 2,
+  "explanation": "Managing a stage boundary: reviewing the current stage, planning the next and updating the business case.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Processes",
+  "body": "Which process is concerned with confirming acceptance of the project product and providing a fixed point for project closure?",
+  "options": [
+   "Managing a stage boundary",
+   "Managing product delivery",
+   "Controlling a stage",
+   "Closing a project"
+  ],
+  "answer": 3,
+  "explanation": "Closing a project: confirming acceptance of the project product and providing a fixed point for project closure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Processes",
+  "body": "What is the purpose of 'starting up a project'?",
+  "options": [
+   "Establishing solid foundations and producing the project initiation documentation (PID)",
+   "Confirming acceptance of the project product and providing a fixed point for project closure",
+   "Assigning work, monitoring it, dealing with issues and reporting during a stage",
+   "Ensuring prerequisites are in place and deciding whether the project is worthwhile, producing the project brief"
+  ],
+  "answer": 3,
+  "explanation": "Starting up a project: ensuring prerequisites are in place and deciding whether the project is worthwhile, producing the project brief.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Processes",
+  "body": "What is the purpose of 'directing a project'?",
+  "options": [
+   "Ensuring prerequisites are in place and deciding whether the project is worthwhile, producing the project brief",
+   "Confirming acceptance of the project product and providing a fixed point for project closure",
+   "Assigning work, monitoring it, dealing with issues and reporting during a stage",
+   "Enabling the project board to be accountable through key decisions and overall control"
+  ],
+  "answer": 3,
+  "explanation": "Directing a project: enabling the project board to be accountable through key decisions and overall control.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Processes",
+  "body": "What is the purpose of 'initiating a project'?",
+  "options": [
+   "Confirming acceptance of the project product and providing a fixed point for project closure",
+   "Enabling the project board to be accountable through key decisions and overall control",
+   "Assigning work, monitoring it, dealing with issues and reporting during a stage",
+   "Establishing solid foundations and producing the project initiation documentation (PID)"
+  ],
+  "answer": 3,
+  "explanation": "Initiating a project: establishing solid foundations and producing the project initiation documentation (PID).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Processes",
+  "body": "What is the purpose of 'controlling a stage'?",
+  "options": [
+   "Assigning work, monitoring it, dealing with issues and reporting during a stage",
+   "Controlling the link between the project manager and the team manager(s)",
+   "Establishing solid foundations and producing the project initiation documentation (PID)",
+   "Confirming acceptance of the project product and providing a fixed point for project closure"
+  ],
+  "answer": 0,
+  "explanation": "Controlling a stage: assigning work, monitoring it, dealing with issues and reporting during a stage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Processes",
+  "body": "What is the purpose of 'managing product delivery'?",
+  "options": [
+   "Confirming acceptance of the project product and providing a fixed point for project closure",
+   "Establishing solid foundations and producing the project initiation documentation (PID)",
+   "Controlling the link between the project manager and the team manager(s)",
+   "Reviewing the current stage, planning the next and updating the business case"
+  ],
+  "answer": 2,
+  "explanation": "Managing product delivery: controlling the link between the project manager and the team manager(s).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Processes",
+  "body": "What is the purpose of 'managing a stage boundary'?",
+  "options": [
+   "Enabling the project board to be accountable through key decisions and overall control",
+   "Controlling the link between the project manager and the team manager(s)",
+   "Ensuring prerequisites are in place and deciding whether the project is worthwhile, producing the project brief",
+   "Reviewing the current stage, planning the next and updating the business case"
+  ],
+  "answer": 3,
+  "explanation": "Managing a stage boundary: reviewing the current stage, planning the next and updating the business case.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Processes",
+  "body": "What is the purpose of 'closing a project'?",
+  "options": [
+   "Controlling the link between the project manager and the team manager(s)",
+   "Ensuring prerequisites are in place and deciding whether the project is worthwhile, producing the project brief",
+   "Confirming acceptance of the project product and providing a fixed point for project closure",
+   "Reviewing the current stage, planning the next and updating the business case"
+  ],
+  "answer": 2,
+  "explanation": "Closing a project: confirming acceptance of the project product and providing a fixed point for project closure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "People & organizing",
+  "body": "Which role is ultimately accountable for the project and owns the business case?",
+  "options": [
+   "Executive",
+   "Project manager",
+   "Team manager",
+   "Senior supplier"
+  ],
+  "answer": 0,
+  "explanation": "The executive is ultimately accountable for the project and owns the business case.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "People & organizing",
+  "body": "Which role specifies user needs and is accountable for the benefits being realized?",
+  "options": [
+   "Executive",
+   "Project manager",
+   "Senior user",
+   "Project support"
+  ],
+  "answer": 2,
+  "explanation": "The senior user specifies user needs and is accountable for the benefits being realized.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "People & organizing",
+  "body": "Which role represents those designing, developing and delivering the products and provides resources?",
+  "options": [
+   "Change authority",
+   "Project support",
+   "Senior user",
+   "Senior supplier"
+  ],
+  "answer": 3,
+  "explanation": "The senior supplier represents those designing, developing and delivering the products and provides resources.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "People & organizing",
+  "body": "Which role manages the project day to day within the constraints set by the project board?",
+  "options": [
+   "Project manager",
+   "Senior user",
+   "Team manager",
+   "Senior supplier"
+  ],
+  "answer": 0,
+  "explanation": "The project manager manages the project day to day within the constraints set by the project board.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "People & organizing",
+  "body": "Which role ensures production of the products allocated in work packages?",
+  "options": [
+   "Change authority",
+   "Project support",
+   "Team manager",
+   "Senior supplier"
+  ],
+  "answer": 2,
+  "explanation": "The team manager ensures production of the products allocated in work packages.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "People & organizing",
+  "body": "Which role monitors the project on behalf of the project board, independently of the project manager?",
+  "options": [
+   "Change authority",
+   "Project manager",
+   "Project assurance",
+   "Executive"
+  ],
+  "answer": 2,
+  "explanation": "The project assurance monitors the project on behalf of the project board, independently of the project manager.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "People & organizing",
+  "body": "Which role provides administrative services such as configuration management?",
+  "options": [
+   "Senior supplier",
+   "Team manager",
+   "Project support",
+   "Change authority"
+  ],
+  "answer": 2,
+  "explanation": "The project support provides administrative services such as configuration management.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "People & organizing",
+  "body": "Which role is delegated by the project board to approve requests for change and off-specifications?",
+  "options": [
+   "Senior user",
+   "Change authority",
+   "Project support",
+   "Project manager"
+  ],
+  "answer": 1,
+  "explanation": "The change authority is delegated by the project board to approve requests for change and off-specifications.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "People & organizing",
+  "body": "The executive",
+  "options": [
+   "provides administrative services such as configuration management",
+   "monitors the project on behalf of the project board, independently of the project manager",
+   "is ultimately accountable for the project and owns the business case",
+   "ensures production of the products allocated in work packages"
+  ],
+  "answer": 2,
+  "explanation": "The executive is ultimately accountable for the project and owns the business case.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "People & organizing",
+  "body": "The senior user",
+  "options": [
+   "is ultimately accountable for the project and owns the business case",
+   "manages the project day to day within the constraints set by the project board",
+   "specifies user needs and is accountable for the benefits being realized",
+   "monitors the project on behalf of the project board, independently of the project manager"
+  ],
+  "answer": 2,
+  "explanation": "The senior user specifies user needs and is accountable for the benefits being realized.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "People & organizing",
+  "body": "The senior supplier",
+  "options": [
+   "provides administrative services such as configuration management",
+   "represents those designing, developing and delivering the products and provides resources",
+   "manages the project day to day within the constraints set by the project board",
+   "ensures production of the products allocated in work packages"
+  ],
+  "answer": 1,
+  "explanation": "The senior supplier represents those designing, developing and delivering the products and provides resources.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "People & organizing",
+  "body": "The project manager",
+  "options": [
+   "represents those designing, developing and delivering the products and provides resources",
+   "is ultimately accountable for the project and owns the business case",
+   "manages the project day to day within the constraints set by the project board",
+   "provides administrative services such as configuration management"
+  ],
+  "answer": 2,
+  "explanation": "The project manager manages the project day to day within the constraints set by the project board.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "People & organizing",
+  "body": "The team manager",
+  "options": [
+   "ensures production of the products allocated in work packages",
+   "provides administrative services such as configuration management",
+   "manages the project day to day within the constraints set by the project board",
+   "specifies user needs and is accountable for the benefits being realized"
+  ],
+  "answer": 0,
+  "explanation": "The team manager ensures production of the products allocated in work packages.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "People & organizing",
+  "body": "The project assurance",
+  "options": [
+   "is delegated by the project board to approve requests for change and off-specifications",
+   "provides administrative services such as configuration management",
+   "is ultimately accountable for the project and owns the business case",
+   "monitors the project on behalf of the project board, independently of the project manager"
+  ],
+  "answer": 3,
+  "explanation": "The project assurance monitors the project on behalf of the project board, independently of the project manager.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "People & organizing",
+  "body": "The project support",
+  "options": [
+   "monitors the project on behalf of the project board, independently of the project manager",
+   "provides administrative services such as configuration management",
+   "is delegated by the project board to approve requests for change and off-specifications",
+   "represents those designing, developing and delivering the products and provides resources"
+  ],
+  "answer": 1,
+  "explanation": "The project support provides administrative services such as configuration management.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "People & organizing",
+  "body": "The change authority",
+  "options": [
+   "specifies user needs and is accountable for the benefits being realized",
+   "provides administrative services such as configuration management",
+   "is delegated by the project board to approve requests for change and off-specifications",
+   "ensures production of the products allocated in work packages"
+  ],
+  "answer": 2,
+  "explanation": "The change authority is delegated by the project board to approve requests for change and off-specifications.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Management products",
+  "body": "Which report is sent by the project manager to the project board at regular intervals on stage progress?",
+  "options": [
+   "Checkpoint report",
+   "Highlight report",
+   "End stage report",
+   "Exception report"
+  ],
+  "answer": 1,
+  "explanation": "Highlight report: from the project manager to the project board at regular intervals on stage progress.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Management products",
+  "body": "Which report is sent by the team manager to the project manager on work package progress?",
+  "options": [
+   "Checkpoint report",
+   "Highlight report",
+   "End stage report",
+   "Exception report"
+  ],
+  "answer": 0,
+  "explanation": "Checkpoint report: from the team manager to the project manager on work package progress.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Management products",
+  "body": "Which report is sent by the project manager to the project board when stage tolerances are forecast to be exceeded?",
+  "options": [
+   "Exception report",
+   "End stage report",
+   "End project report",
+   "Highlight report"
+  ],
+  "answer": 0,
+  "explanation": "Exception report: from the project manager to the project board when stage tolerances are forecast to be exceeded.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Management products",
+  "body": "Which report is sent by the project manager to the project board at the end of each management stage?",
+  "options": [
+   "End stage report",
+   "Highlight report",
+   "Checkpoint report",
+   "Exception report"
+  ],
+  "answer": 0,
+  "explanation": "End stage report: from the project manager to the project board at the end of each management stage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Management products",
+  "body": "Which report is sent by the project manager to the project board when closing the project?",
+  "options": [
+   "Checkpoint report",
+   "Highlight report",
+   "End project report",
+   "End stage report"
+  ],
+  "answer": 2,
+  "explanation": "End project report: from the project manager to the project board when closing the project.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Management products",
+  "body": "A highlight report is sent from",
+  "options": [
+   "the project manager to the project board at regular intervals on stage progress",
+   "the project manager to the project board when closing the project",
+   "the project manager to the project board when stage tolerances are forecast to be exceeded",
+   "the project manager to the project board at the end of each management stage"
+  ],
+  "answer": 0,
+  "explanation": "Highlight report: from the project manager to the project board at regular intervals on stage progress.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Management products",
+  "body": "A checkpoint report is sent from",
+  "options": [
+   "the project manager to the project board at the end of each management stage",
+   "the project manager to the project board at regular intervals on stage progress",
+   "the team manager to the project manager on work package progress",
+   "the project manager to the project board when stage tolerances are forecast to be exceeded"
+  ],
+  "answer": 2,
+  "explanation": "Checkpoint report: from the team manager to the project manager on work package progress.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Management products",
+  "body": "A exception report is sent from",
+  "options": [
+   "the team manager to the project manager on work package progress",
+   "the project manager to the project board at regular intervals on stage progress",
+   "the project manager to the project board when closing the project",
+   "the project manager to the project board when stage tolerances are forecast to be exceeded"
+  ],
+  "answer": 3,
+  "explanation": "Exception report: from the project manager to the project board when stage tolerances are forecast to be exceeded.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Management products",
+  "body": "A end stage report is sent from",
+  "options": [
+   "the project manager to the project board at the end of each management stage",
+   "the project manager to the project board when stage tolerances are forecast to be exceeded",
+   "the project manager to the project board when closing the project",
+   "the team manager to the project manager on work package progress"
+  ],
+  "answer": 0,
+  "explanation": "End stage report: from the project manager to the project board at the end of each management stage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "Management products",
+  "body": "A end project report is sent from",
+  "options": [
+   "the project manager to the project board at regular intervals on stage progress",
+   "the project manager to the project board when stage tolerances are forecast to be exceeded",
+   "the project manager to the project board when closing the project",
+   "the team manager to the project manager on work package progress"
+  ],
+  "answer": 2,
+  "explanation": "End project report: from the project manager to the project board when closing the project.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "How many principles does PRINCE2 7 have?",
+  "options": [
+   "Seven",
+   "Six",
+   "Eight",
+   "Five"
+  ],
+  "answer": 0,
+  "explanation": "There are seven principles, seven practices and seven processes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "In PRINCE2 7, the seven 'themes' of earlier editions are now called",
+  "options": [
+   "principles",
+   "processes",
+   "practices",
+   "disciplines"
+  ],
+  "answer": 2,
+  "explanation": "PRINCE2 7 renamed themes to practices.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Which practice is NOT one of the seven PRINCE2 7 practices?",
+  "options": [
+   "Quality",
+   "Progress",
+   "Benefits",
+   "Risk"
+  ],
+  "answer": 2,
+  "explanation": "The practices are business case, organizing, plans, quality, risk, issues and progress.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Which are the five integrated elements of PRINCE2 7?",
+  "options": [
+   "Initiation, planning, delivery, control and closure",
+   "Plans, risks, issues, stages and reports",
+   "Principles, people, practices, processes and the project context",
+   "Time, cost, scope, quality and risk"
+  ],
+  "answer": 2,
+  "explanation": "PRINCE2 7 added 'people' and 'project context' as integrated elements.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Who owns the business case?",
+  "options": [
+   "Project support",
+   "The executive",
+   "The senior user",
+   "The project manager"
+  ],
+  "answer": 1,
+  "explanation": "The executive is accountable for the project and owns the business case.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Which role is accountable for specifying the benefits and ensuring they are realized?",
+  "options": [
+   "Senior supplier",
+   "Team manager",
+   "Senior user",
+   "Executive"
+  ],
+  "answer": 2,
+  "explanation": "The senior user represents those who will use the products.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Which three roles make up the project board?",
+  "options": [
+   "Executive, senior user and senior supplier",
+   "Project manager, team manager and project support",
+   "Sponsor, customer and supplier",
+   "Executive, project manager and team manager"
+  ],
+  "answer": 0,
+  "explanation": "The project board directs the project.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Which process is used by the project board throughout the project?",
+  "options": [
+   "Initiating a project",
+   "Directing a project",
+   "Controlling a stage",
+   "Managing product delivery"
+  ],
+  "answer": 1,
+  "explanation": "It runs from the end of starting up to project closure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Which process produces the project brief?",
+  "options": [
+   "Managing a stage boundary",
+   "Starting up a project",
+   "Directing a project",
+   "Initiating a project"
+  ],
+  "answer": 1,
+  "explanation": "Starting up a project happens before the project formally begins.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Which process produces the project initiation documentation (PID)?",
+  "options": [
+   "Closing a project",
+   "Controlling a stage",
+   "Initiating a project",
+   "Starting up a project"
+  ],
+  "answer": 2,
+  "explanation": "The PID forms the 'contract' between the project manager and project board.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Which process is mainly carried out by the team manager?",
+  "options": [
+   "Controlling a stage",
+   "Directing a project",
+   "Managing a stage boundary",
+   "Managing product delivery"
+  ],
+  "answer": 3,
+  "explanation": "The team manager accepts, executes and delivers work packages.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "What is a work package?",
+  "options": [
+   "A set of information about one or more products, agreed between the project manager and team manager",
+   "The final report on the project",
+   "The project board's approval to start the project",
+   "A list of project risks"
+  ],
+  "answer": 0,
+  "explanation": "Work packages are authorized in controlling a stage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "What is the minimum number of management stages in a PRINCE2 project?",
+  "options": [
+   "Five",
+   "One",
+   "Three",
+   "Two: an initiation stage and at least one further stage"
+  ],
+  "answer": 3,
+  "explanation": "The initiation stage is always the first management stage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Who sets project-level tolerances?",
+  "options": [
+   "Project assurance",
+   "The project manager",
+   "The business layer (corporate, programme or customer management)",
+   "The team manager"
+  ],
+  "answer": 2,
+  "explanation": "The project board sets stage tolerances; the project manager sets work package tolerances.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Who sets stage tolerances?",
+  "options": [
+   "The project board",
+   "The team manager",
+   "Project support",
+   "The business layer"
+  ],
+  "answer": 0,
+  "explanation": "The project board delegates authority to the project manager within stage tolerances.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Who sets work package tolerances?",
+  "options": [
+   "The project manager",
+   "The executive alone",
+   "The business layer",
+   "The project board"
+  ],
+  "answer": 0,
+  "explanation": "Team managers must escalate if work package tolerances are forecast to be exceeded.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "What should the project manager produce if stage tolerances are forecast to be exceeded?",
+  "options": [
+   "An exception report",
+   "A checkpoint report",
+   "A highlight report",
+   "A lessons report"
+  ],
+  "answer": 0,
+  "explanation": "The board may then request an exception plan.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Which of these is a tolerance area in PRINCE2 7?",
+  "options": [
+   "Weather",
+   "Location",
+   "Morale",
+   "Sustainability"
+  ],
+  "answer": 3,
+  "explanation": "Tolerance areas include time, cost, scope, quality, benefits, risk and sustainability.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Which risk response is appropriate only for threats?",
+  "options": [
+   "Enhance",
+   "Avoid",
+   "Exploit",
+   "Share"
+  ],
+  "answer": 1,
+  "explanation": "Exploit and enhance are opportunity responses; share applies to both.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Which risk response is appropriate only for opportunities?",
+  "options": [
+   "Reduce",
+   "Avoid",
+   "Transfer",
+   "Exploit"
+  ],
+  "answer": 3,
+  "explanation": "Avoid, reduce, fallback and transfer are threat responses.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Which response applies to both threats and opportunities?",
+  "options": [
+   "Exploit",
+   "Share",
+   "Reduce",
+   "Avoid"
+  ],
+  "answer": 1,
+  "explanation": "Share and accept/prepare contingent plans can apply to both.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Which of these is a type of issue in PRINCE2?",
+  "options": [
+   "Risk response",
+   "Stage plan",
+   "Lessons report",
+   "Request for change"
+  ],
+  "answer": 3,
+  "explanation": "Issue types: request for change, off-specification, problem/concern.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "An off-specification is",
+  "options": [
+   "something that should be provided by the project but currently is (or is forecast to be) not provided",
+   "a change requested by a user",
+   "a planned product",
+   "a positive risk"
+  ],
+  "answer": 0,
+  "explanation": "Off-specifications are a type of issue.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Which plan is optional in PRINCE2?",
+  "options": [
+   "Team plan",
+   "Project plan",
+   "None — all are mandatory",
+   "Stage plan"
+  ],
+  "answer": 0,
+  "explanation": "Team plans are produced at the team manager's discretion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Which plan replaces a stage or project plan after an exception?",
+  "options": [
+   "A benefits plan",
+   "A team plan",
+   "A daily plan",
+   "An exception plan"
+  ],
+  "answer": 3,
+  "explanation": "It shows how to recover from the effect of the deviation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "What does product-based planning start with?",
+  "options": [
+   "Allocating resources",
+   "Estimating costs",
+   "Writing the project product description",
+   "Writing the end project report"
+  ],
+  "answer": 2,
+  "explanation": "Then create the product breakdown structure, product descriptions and product flow diagram.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "What does a product flow diagram show?",
+  "options": [
+   "Who reports to whom",
+   "The project's cost breakdown",
+   "The sequence in which products are developed and their dependencies",
+   "The project's risks"
+  ],
+  "answer": 2,
+  "explanation": "It follows the product breakdown structure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "In a quality review, who is responsible for the product being reviewed?",
+  "options": [
+   "The presenter",
+   "The administrator",
+   "The reviewer",
+   "The chair"
+  ],
+  "answer": 0,
+  "explanation": "Quality review roles: chair, presenter, reviewer, administrator.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Where are the results of quality activities recorded?",
+  "options": [
+   "The quality register",
+   "The daily log",
+   "The risk register",
+   "The lessons log"
+  ],
+  "answer": 0,
+  "explanation": "It provides a record of planned and completed quality activities.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Which log is the project manager's diary for informal issues and actions?",
+  "options": [
+   "The quality register",
+   "The daily log",
+   "The issue register",
+   "The lessons log"
+  ],
+  "answer": 1,
+  "explanation": "Informal issues can be handled in the daily log.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Which document describes the purpose, composition and quality criteria of a product?",
+  "options": [
+   "A work package",
+   "A highlight report",
+   "A product description",
+   "A business case"
+  ],
+  "answer": 2,
+  "explanation": "Product descriptions are created during planning.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "The business case is first outlined in which process?",
+  "options": [
+   "Initiating a project",
+   "Starting up a project",
+   "Closing a project",
+   "Controlling a stage"
+  ],
+  "answer": 1,
+  "explanation": "It is detailed during initiating a project and updated at stage boundaries.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "What are the three tests of business justification in PRINCE2?",
+  "options": [
+   "Desirable, viable and achievable",
+   "Planned, monitored and closed",
+   "Fast, cheap and good",
+   "Specific, measurable and achievable"
+  ],
+  "answer": 0,
+  "explanation": "The project must remain desirable, viable and achievable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Benefits are usually realized",
+  "options": [
+   "before the project starts",
+   "at each checkpoint",
+   "after the project has closed",
+   "only during initiation"
+  ],
+  "answer": 2,
+  "explanation": "The benefits management approach covers post-project reviews.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Which principle is supported by setting tolerances?",
+  "options": [
+   "Tailor to suit the project",
+   "Focus on products",
+   "Learn from experience",
+   "Manage by exception"
+  ],
+  "answer": 3,
+  "explanation": "Tolerances allow delegation without constant escalation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Which principle means a project should stop if it can no longer be justified?",
+  "options": [
+   "Manage by stages",
+   "Learn from experience",
+   "Ensure continued business justification",
+   "Focus on products"
+  ],
+  "answer": 2,
+  "explanation": "If justification lapses, the project should be closed prematurely.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Which role cannot be shared or delegated?",
+  "options": [
+   "Project assurance",
+   "Project support",
+   "Senior supplier",
+   "Executive"
+  ],
+  "answer": 3,
+  "explanation": "There is only one executive, ensuring single-point accountability.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "Can the project manager and executive be the same person?",
+  "options": [
+   "Yes, always",
+   "No",
+   "Yes, on small projects",
+   "Only if the board agrees"
+  ],
+  "answer": 1,
+  "explanation": "These roles must remain separate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "What does 'tailoring' PRINCE2 mean?",
+  "options": [
+   "Adapting the method to suit the project's context",
+   "Skipping the business case",
+   "Removing the principles you don't need",
+   "Changing the processes' names"
+  ],
+  "answer": 0,
+  "explanation": "The principles must always be applied; tailoring adapts everything else.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "What is configuration management concerned with?",
+  "options": [
+   "Identifying, tracking and protecting the project's products and their versions",
+   "Calculating benefits",
+   "Managing staff performance",
+   "Setting the project budget"
+  ],
+  "answer": 0,
+  "explanation": "Configuration item records and product status accounts support it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "What happens in 'managing a stage boundary'?",
+  "options": [
+   "Work packages are executed",
+   "The current stage is reviewed, the next stage is planned and the business case is updated",
+   "The project is formally closed",
+   "The project brief is written"
+  ],
+  "answer": 1,
+  "explanation": "It provides the project board with information to authorize the next stage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "PRINCE2 7 places new emphasis on",
+  "options": [
+   "people and sustainability",
+   "eliminating stages",
+   "waterfall-only delivery",
+   "removing the business case"
+  ],
+  "answer": 0,
+  "explanation": "PRINCE2 7 added a 'people' element and sustainability as a performance target.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PRN",
+  "topic": "General",
+  "body": "How many marks are needed to pass the PRINCE2 7 Foundation exam?",
+  "options": [
+   "42 out of 60 (70%)",
+   "45 out of 60 (75%)",
+   "33 out of 60 (55%)",
+   "36 out of 60 (60%)"
+  ],
+  "answer": 3,
+  "explanation": "60 questions in 60 minutes, closed book.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Events",
+  "body": "Which Scrum event is a fixed-length event of one month or less that contains all the other events?",
+  "options": [
+   "Sprint Planning",
+   "Daily Scrum",
+   "Sprint Review",
+   "Sprint"
+  ],
+  "answer": 3,
+  "explanation": "The Sprint: a fixed-length event of one month or less that contains all the other events.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Events",
+  "body": "Which Scrum event is the event that lays out the work to be performed for the Sprint?",
+  "options": [
+   "Sprint Review",
+   "Sprint Planning",
+   "Daily Scrum",
+   "Sprint Retrospective"
+  ],
+  "answer": 1,
+  "explanation": "Sprint Planning: the event that lays out the work to be performed for the Sprint.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Events",
+  "body": "Which Scrum event is a 15-minute event for the Developers to inspect progress toward the Sprint Goal?",
+  "options": [
+   "Sprint",
+   "Sprint Planning",
+   "Daily Scrum",
+   "Sprint Review"
+  ],
+  "answer": 2,
+  "explanation": "The Daily Scrum: a 15-minute event for the Developers to inspect progress toward the Sprint Goal.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Events",
+  "body": "Which Scrum event is the event where the outcome of the Sprint is inspected and future adaptations determined with stakeholders?",
+  "options": [
+   "Sprint Planning",
+   "Sprint",
+   "Sprint Review",
+   "Sprint Retrospective"
+  ],
+  "answer": 2,
+  "explanation": "The Sprint Review: the event where the outcome of the Sprint is inspected and future adaptations determined with stakeholders.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Events",
+  "body": "Which Scrum event is the event to plan ways to increase quality and effectiveness?",
+  "options": [
+   "Sprint Review",
+   "Daily Scrum",
+   "Sprint Retrospective",
+   "Sprint"
+  ],
+  "answer": 2,
+  "explanation": "The Sprint Retrospective: the event to plan ways to increase quality and effectiveness.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Events",
+  "body": "What is the maximum time-box for the Sprint?",
+  "options": [
+   "8 hours for a one-month Sprint",
+   "4 hours for a one-month Sprint",
+   "15 minutes",
+   "One month or less"
+  ],
+  "answer": 3,
+  "explanation": "The Sprint is time-boxed to one month or less. Shorter Sprints usually have shorter events.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Events",
+  "body": "What is the maximum time-box for Sprint Planning?",
+  "options": [
+   "15 minutes",
+   "4 hours for a one-month Sprint",
+   "3 hours for a one-month Sprint",
+   "8 hours for a one-month Sprint"
+  ],
+  "answer": 3,
+  "explanation": "Sprint Planning is time-boxed to 8 hours for a one-month Sprint. Shorter Sprints usually have shorter events.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Events",
+  "body": "What is the maximum time-box for the Daily Scrum?",
+  "options": [
+   "3 hours for a one-month Sprint",
+   "15 minutes",
+   "One month or less",
+   "4 hours for a one-month Sprint"
+  ],
+  "answer": 1,
+  "explanation": "The Daily Scrum is time-boxed to 15 minutes. Shorter Sprints usually have shorter events.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Events",
+  "body": "What is the maximum time-box for the Sprint Review?",
+  "options": [
+   "4 hours for a one-month Sprint",
+   "15 minutes",
+   "One month or less",
+   "8 hours for a one-month Sprint"
+  ],
+  "answer": 0,
+  "explanation": "The Sprint Review is time-boxed to 4 hours for a one-month Sprint. Shorter Sprints usually have shorter events.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Events",
+  "body": "What is the maximum time-box for the Sprint Retrospective?",
+  "options": [
+   "8 hours for a one-month Sprint",
+   "One month or less",
+   "3 hours for a one-month Sprint",
+   "15 minutes"
+  ],
+  "answer": 2,
+  "explanation": "The Sprint Retrospective is time-boxed to 3 hours for a one-month Sprint. Shorter Sprints usually have shorter events.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Artifacts & commitments",
+  "body": "Which commitment belongs to the Product Backlog?",
+  "options": [
+   "Velocity",
+   "Definition of Done",
+   "Sprint Goal",
+   "Product Goal"
+  ],
+  "answer": 3,
+  "explanation": "Each artifact has a commitment: Product Backlog → Product Goal; Sprint Backlog → Sprint Goal; Increment → Definition of Done.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Artifacts & commitments",
+  "body": "Which commitment belongs to the Sprint Backlog?",
+  "options": [
+   "Velocity",
+   "Product Goal",
+   "Definition of Done",
+   "Sprint Goal"
+  ],
+  "answer": 3,
+  "explanation": "Each artifact has a commitment: Product Backlog → Product Goal; Sprint Backlog → Sprint Goal; Increment → Definition of Done.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Artifacts & commitments",
+  "body": "Which commitment belongs to the Increment?",
+  "options": [
+   "Definition of Done",
+   "Velocity",
+   "Sprint Goal",
+   "Product Goal"
+  ],
+  "answer": 0,
+  "explanation": "Each artifact has a commitment: Product Backlog → Product Goal; Sprint Backlog → Sprint Goal; Increment → Definition of Done.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Artifacts & commitments",
+  "body": "The Product Goal is the commitment for which artifact?",
+  "options": [
+   "Burndown chart",
+   "Sprint Backlog",
+   "Increment",
+   "Product Backlog"
+  ],
+  "answer": 3,
+  "explanation": "Product Backlog → Product Goal; Sprint Backlog → Sprint Goal; Increment → Definition of Done.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Artifacts & commitments",
+  "body": "The Sprint Goal is the commitment for which artifact?",
+  "options": [
+   "Increment",
+   "Product Backlog",
+   "Sprint Backlog",
+   "Burndown chart"
+  ],
+  "answer": 2,
+  "explanation": "Product Backlog → Product Goal; Sprint Backlog → Sprint Goal; Increment → Definition of Done.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Artifacts & commitments",
+  "body": "The Definition of Done is the commitment for which artifact?",
+  "options": [
+   "Product Backlog",
+   "Sprint Backlog",
+   "Increment",
+   "Burndown chart"
+  ],
+  "answer": 2,
+  "explanation": "Product Backlog → Product Goal; Sprint Backlog → Sprint Goal; Increment → Definition of Done.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "What are the three accountabilities in a Scrum Team?",
+  "options": [
+   "Sponsor, Product Owner and Developers",
+   "Scrum Master, Team Lead and Developers",
+   "Product Owner, Scrum Master and Developers",
+   "Project Manager, Product Owner and Testers"
+  ],
+  "answer": 2,
+  "explanation": "Scrum Guide 2020 defines three accountabilities.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "What are the three pillars of empiricism in Scrum?",
+  "options": [
+   "Transparency, inspection and adaptation",
+   "Planning, doing and checking",
+   "Speed, quality and cost",
+   "Commitment, focus and openness"
+  ],
+  "answer": 0,
+  "explanation": "Scrum is founded on empiricism and lean thinking.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Which of these is a Scrum value?",
+  "options": [
+   "Predictability",
+   "Courage",
+   "Speed",
+   "Hierarchy"
+  ],
+  "answer": 1,
+  "explanation": "The five values are commitment, focus, openness, respect and courage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Who is accountable for maximizing the value of the product?",
+  "options": [
+   "The Scrum Master",
+   "The Developers",
+   "The Product Owner",
+   "The stakeholders"
+  ],
+  "answer": 2,
+  "explanation": "The Product Owner is one person, not a committee.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Who is accountable for the Scrum Team's effectiveness?",
+  "options": [
+   "The Product Owner",
+   "Line management",
+   "The Scrum Master",
+   "The most senior Developer"
+  ],
+  "answer": 2,
+  "explanation": "The Scrum Master serves the Scrum Team and the organization.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Who is accountable for creating a plan for the Sprint (the Sprint Backlog)?",
+  "options": [
+   "The Developers",
+   "The Product Owner",
+   "The Scrum Master",
+   "The stakeholders"
+  ],
+  "answer": 0,
+  "explanation": "Developers instil quality and adhere to the Definition of Done.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Who can cancel a Sprint?",
+  "options": [
+   "Only the Product Owner",
+   "Any stakeholder",
+   "The Scrum Master",
+   "The Developers"
+  ],
+  "answer": 0,
+  "explanation": "A Sprint may be cancelled if the Sprint Goal becomes obsolete.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "How large is a Scrum Team typically?",
+  "options": [
+   "Exactly 7 people",
+   "No more than 3 people",
+   "At least 12 people",
+   "10 or fewer people"
+  ],
+  "answer": 3,
+  "explanation": "Smaller teams communicate better and are more productive.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Does a Scrum Team have sub-teams or hierarchies?",
+  "options": [
+   "Yes, led by a team lead",
+   "Yes, testers form a sub-team",
+   "Only for large products",
+   "No — it is a cohesive unit of professionals focused on one objective"
+  ],
+  "answer": 3,
+  "explanation": "The Scrum Team is cross-functional and self-managing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Who must attend the Daily Scrum?",
+  "options": [
+   "The stakeholders",
+   "The whole organization",
+   "The Developers",
+   "The Product Owner only"
+  ],
+  "answer": 2,
+  "explanation": "If the Product Owner or Scrum Master are working on Sprint Backlog items, they participate as Developers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "When multiple Scrum Teams work on the same product, they should have",
+  "options": [
+   "one Product Owner per team",
+   "one Product Backlog and one Product Owner",
+   "one Product Backlog per team",
+   "separate Product Goals per team"
+  ],
+  "answer": 1,
+  "explanation": "The product has a single Product Goal and Product Backlog.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "What happens to a Product Backlog item that does not meet the Definition of Done at the end of the Sprint?",
+  "options": [
+   "The Sprint is extended",
+   "It is counted as half done",
+   "It is released anyway",
+   "It cannot be released or presented at the Sprint Review; it returns to the Product Backlog"
+  ],
+  "answer": 3,
+  "explanation": "Work must meet the Definition of Done to be part of an Increment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "If the organization has a Definition of Done standard, the Scrum Team must",
+  "options": [
+   "follow it as a minimum",
+   "ignore it",
+   "replace it with their own",
+   "ask stakeholders each Sprint"
+  ],
+  "answer": 0,
+  "explanation": "If not, the Scrum Team creates one appropriate for the product.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Can an Increment be delivered to stakeholders before the end of the Sprint?",
+  "options": [
+   "Only with management approval",
+   "Yes",
+   "Only in the final Sprint",
+   "No, only at the Sprint Review"
+  ],
+  "answer": 1,
+  "explanation": "The Sprint Review should never be a gate to releasing value.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "What is Product Backlog refinement?",
+  "options": [
+   "The ongoing activity of breaking down and adding detail, such as descriptions, order and size, to Product Backlog items",
+   "Approval of the Sprint Goal",
+   "A formal event time-boxed to 2 hours",
+   "The Product Owner's monthly report"
+  ],
+  "answer": 0,
+  "explanation": "Refinement is ongoing, not a Scrum event.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Which three topics are addressed at Sprint Planning?",
+  "options": [
+   "Who, where and when",
+   "Cost, scope and schedule",
+   "Why is this Sprint valuable, what can be done, and how will the work get done",
+   "Risks, issues and dependencies"
+  ],
+  "answer": 2,
+  "explanation": "The Sprint Goal is crafted during Sprint Planning.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Can the Sprint Goal change during the Sprint?",
+  "options": [
+   "Yes, at any time",
+   "No — but the Sprint Backlog can be clarified and renegotiated with the Product Owner as more is learned",
+   "Yes, if a stakeholder asks",
+   "Only at the Daily Scrum"
+  ],
+  "answer": 1,
+  "explanation": "No changes are made that would endanger the Sprint Goal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Which event is the last in the Sprint?",
+  "options": [
+   "The Sprint Review",
+   "Sprint Planning",
+   "The Daily Scrum",
+   "The Sprint Retrospective"
+  ],
+  "answer": 3,
+  "explanation": "It concludes the Sprint.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "The Scrum Guide 2020 describes Scrum Teams as",
+  "options": [
+   "temporary",
+   "manager-led",
+   "self-managing",
+   "self-organizing only"
+  ],
+  "answer": 2,
+  "explanation": "They decide internally who does what, when and how.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Scrum is founded on empiricism and",
+  "options": [
+   "waterfall planning",
+   "lean thinking",
+   "six sigma",
+   "critical path analysis"
+  ],
+  "answer": 1,
+  "explanation": "Lean thinking reduces waste and focuses on essentials.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "What is the Product Goal?",
+  "options": [
+   "The Sprint's single objective",
+   "The long-term objective for the Scrum Team, described in the Product Backlog",
+   "A release date",
+   "A daily task list"
+  ],
+  "answer": 1,
+  "explanation": "The Scrum Team must fulfil (or abandon) one objective before taking on the next.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Who decides how many Product Backlog items to select for a Sprint?",
+  "options": [
+   "The Developers",
+   "Stakeholders",
+   "The Product Owner",
+   "The Scrum Master"
+  ],
+  "answer": 0,
+  "explanation": "The more they know about past performance and capacity, the more confident their forecast.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Is the Sprint Review a formal presentation or approval gate?",
+  "options": [
+   "Yes, it is a status meeting",
+   "Yes, the Product Owner signs off",
+   "Yes, stakeholders approve each item",
+   "No — it is a working session where the Scrum Team and stakeholders collaborate"
+  ],
+  "answer": 3,
+  "explanation": "Attendees collaborate on what to do next.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "Who participates in the Sprint Retrospective?",
+  "options": [
+   "Stakeholders only",
+   "The whole organization",
+   "The Scrum Team",
+   "Only the Scrum Master"
+  ],
+  "answer": 2,
+  "explanation": "The Scrum Team discusses what went well, problems and solutions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "A new Sprint starts",
+  "options": [
+   "immediately after the conclusion of the previous Sprint",
+   "only when the Product Owner approves",
+   "after a one-week gap",
+   "at the start of each month"
+  ],
+  "answer": 0,
+  "explanation": "Sprints are continuous.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "The Daily Scrum's structure is decided by",
+  "options": [
+   "the Scrum Guide's fixed three questions",
+   "the Developers",
+   "the Product Owner",
+   "the Scrum Master"
+  ],
+  "answer": 1,
+  "explanation": "The Developers can select any structure and techniques that focus on progress toward the Sprint Goal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scrum framework",
+  "body": "What is the pass mark for Scrum.org's PSM I assessment?",
+  "options": [
+   "85%",
+   "75%",
+   "60%",
+   "70%"
+  ],
+  "answer": 0,
+  "explanation": "80 questions in 60 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: ordering product backlog items?",
+  "options": [
+   "Scrum Master",
+   "Developers",
+   "Stakeholders",
+   "Product Owner"
+  ],
+  "answer": 3,
+  "explanation": "Ordering Product Backlog items: the Product Owner.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: clearly expressing product backlog items?",
+  "options": [
+   "Developers",
+   "Product Owner",
+   "Stakeholders",
+   "Scrum Master"
+  ],
+  "answer": 1,
+  "explanation": "Clearly expressing Product Backlog items: the Product Owner.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: developing and explicitly communicating the product goal?",
+  "options": [
+   "Developers",
+   "Product Owner",
+   "Scrum Master",
+   "Stakeholders"
+  ],
+  "answer": 1,
+  "explanation": "Developing and explicitly communicating the Product Goal: the Product Owner.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: ensuring the product backlog is transparent, visible and understood?",
+  "options": [
+   "Product Owner",
+   "Developers",
+   "Stakeholders",
+   "Scrum Master"
+  ],
+  "answer": 0,
+  "explanation": "Ensuring the Product Backlog is transparent, visible and understood: the Product Owner.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: adapting the sprint backlog each day toward the sprint goal?",
+  "options": [
+   "Developers",
+   "Scrum Master",
+   "Stakeholders",
+   "Product Owner"
+  ],
+  "answer": 0,
+  "explanation": "Adapting the Sprint Backlog each day toward the Sprint Goal: the Developers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: instilling quality by adhering to the definition of done?",
+  "options": [
+   "Scrum Master",
+   "Stakeholders",
+   "Product Owner",
+   "Developers"
+  ],
+  "answer": 3,
+  "explanation": "Instilling quality by adhering to the Definition of Done: the Developers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: holding each other accountable as professionals?",
+  "options": [
+   "Product Owner",
+   "Developers",
+   "Scrum Master",
+   "Stakeholders"
+  ],
+  "answer": 1,
+  "explanation": "Holding each other accountable as professionals: the Developers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: sizing product backlog items?",
+  "options": [
+   "Stakeholders",
+   "Developers",
+   "Product Owner",
+   "Scrum Master"
+  ],
+  "answer": 1,
+  "explanation": "Sizing Product Backlog items: the Developers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: causing the removal of impediments to the scrum team's progress?",
+  "options": [
+   "Scrum Master",
+   "Product Owner",
+   "Stakeholders",
+   "Developers"
+  ],
+  "answer": 0,
+  "explanation": "Causing the removal of impediments to the Scrum Team's progress: the Scrum Master.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: coaching team members in self-management and cross-functionality?",
+  "options": [
+   "Product Owner",
+   "Scrum Master",
+   "Stakeholders",
+   "Developers"
+  ],
+  "answer": 1,
+  "explanation": "Coaching team members in self-management and cross-functionality: the Scrum Master.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: ensuring all scrum events take place and are positive, productive and kept within the time-box?",
+  "options": [
+   "Stakeholders",
+   "Scrum Master",
+   "Developers",
+   "Product Owner"
+  ],
+  "answer": 1,
+  "explanation": "Ensuring all Scrum events take place and are positive, productive and kept within the time-box: the Scrum Master.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: leading, training and coaching the organization in its scrum adoption?",
+  "options": [
+   "Developers",
+   "Scrum Master",
+   "Stakeholders",
+   "Product Owner"
+  ],
+  "answer": 1,
+  "explanation": "Leading, training and coaching the organization in its Scrum adoption: the Scrum Master.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: helping find techniques for effective product goal definition and product backlog management?",
+  "options": [
+   "Stakeholders",
+   "Scrum Master",
+   "Developers",
+   "Product Owner"
+  ],
+  "answer": 1,
+  "explanation": "Helping find techniques for effective Product Goal definition and Product Backlog management: the Scrum Master.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: facilitating stakeholder collaboration as requested or needed?",
+  "options": [
+   "Scrum Master",
+   "Stakeholders",
+   "Product Owner",
+   "Developers"
+  ],
+  "answer": 0,
+  "explanation": "Facilitating stakeholder collaboration as requested or needed: the Scrum Master.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: creating a usable increment every sprint?",
+  "options": [
+   "Product Owner",
+   "Stakeholders",
+   "Developers",
+   "Scrum Master"
+  ],
+  "answer": 2,
+  "explanation": "Creating a usable Increment every Sprint: the Developers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Accountabilities",
+  "body": "In Scrum, who is accountable for: deciding whether to cancel a sprint?",
+  "options": [
+   "Developers",
+   "Stakeholders",
+   "Product Owner",
+   "Scrum Master"
+  ],
+  "answer": 2,
+  "explanation": "Deciding whether to cancel a Sprint: the Product Owner.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "During the Sprint, the Developers realise they cannot finish all the selected work. What should happen?",
+  "options": [
+   "The Sprint is automatically extended",
+   "They lower the Definition of Done",
+   "The Scrum Master removes items without discussion",
+   "They collaborate with the Product Owner to renegotiate the Sprint Backlog scope without endangering the Sprint Goal"
+  ],
+  "answer": 3,
+  "explanation": "Scope may be clarified and renegotiated with the Product Owner as more is learned.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "A stakeholder asks a Developer directly to add a new feature mid-Sprint. What should the Developer do?",
+  "options": [
+   "Add it to the Sprint Backlog immediately",
+   "Ask the Scrum Master to approve it",
+   "Refer the request to the Product Owner, who manages the Product Backlog",
+   "Ignore the stakeholder"
+  ],
+  "answer": 2,
+  "explanation": "Those wanting to change the Product Backlog do so by convincing the Product Owner.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "The Sprint Goal has become obsolete because the company changed direction. What may happen?",
+  "options": [
+   "The Scrum Master cancels the Sprint",
+   "The Product Owner may cancel the Sprint",
+   "The Developers keep working until the end",
+   "The Sprint length is changed"
+  ],
+  "answer": 1,
+  "explanation": "Only the Product Owner has authority to cancel a Sprint.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "At the Daily Scrum, a long technical discussion starts. What is best?",
+  "options": [
+   "The Scrum Master decides the solution",
+   "The relevant Developers continue the discussion after the Daily Scrum",
+   "Cancel the Daily Scrum",
+   "Extend the Daily Scrum to an hour"
+  ],
+  "answer": 1,
+  "explanation": "Developers often meet immediately afterwards for detailed discussions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "Management wants a report on how the team is progressing. Which is the most transparent source?",
+  "options": [
+   "The Daily Scrum minutes",
+   "The Increment and the Sprint Review",
+   "Individual timesheets",
+   "A Gantt chart prepared by the Scrum Master"
+  ],
+  "answer": 1,
+  "explanation": "Scrum relies on transparent artifacts and inspection at the Sprint Review.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "The Product Owner is unavailable for most of the Sprint. What is the main risk?",
+  "options": [
+   "The Scrum Master must become Product Owner",
+   "The Sprint must be cancelled",
+   "The Daily Scrum can't happen",
+   "Questions about Product Backlog items go unanswered, reducing the value delivered"
+  ],
+  "answer": 3,
+  "explanation": "The Product Owner's availability supports maximizing value.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "A team keeps failing to finish Sprint Backlog items. Where should they discuss how to improve?",
+  "options": [
+   "At the Sprint Retrospective",
+   "At the Sprint Review only",
+   "At Sprint Planning only",
+   "In a meeting with line management"
+  ],
+  "answer": 0,
+  "explanation": "The Retrospective identifies the most helpful changes to improve effectiveness.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "Two Scrum Teams work on one product. How many Definitions of Done should apply to the Increment?",
+  "options": [
+   "One per team, chosen freely",
+   "One per Developer",
+   "None until the final release",
+   "One shared Definition of Done that all teams meet"
+  ],
+  "answer": 3,
+  "explanation": "Multiple Scrum Teams on a product must mutually define and comply with the same Definition of Done.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "Who must be present at Sprint Planning?",
+  "options": [
+   "The entire Scrum Team",
+   "All stakeholders",
+   "Only the Product Owner",
+   "Only the Developers"
+  ],
+  "answer": 0,
+  "explanation": "Others may be invited to provide advice.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "When is the Sprint Backlog updated?",
+  "options": [
+   "Throughout the Sprint as more is learned",
+   "Only at Sprint Planning",
+   "Only by the Scrum Master",
+   "Only at the Sprint Review"
+  ],
+  "answer": 0,
+  "explanation": "It is a highly visible, real-time picture of the Developers' work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "What is the main purpose of the Sprint Review?",
+  "options": [
+   "To assess individual performance",
+   "To approve work for release",
+   "To inspect the outcome of the Sprint and determine future adaptations",
+   "To plan the next Daily Scrum"
+  ],
+  "answer": 2,
+  "explanation": "Progress toward the Product Goal is discussed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "A Developer says they're only a tester and won't write code. According to Scrum, Developers are",
+  "options": [
+   "only programmers",
+   "managed by the Scrum Master",
+   "any members committed to creating any aspect of a usable Increment each Sprint",
+   "specialists who can't share work"
+  ],
+  "answer": 2,
+  "explanation": "Scrum recognises no titles beyond Developer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "What is the Increment?",
+  "options": [
+   "The burndown chart",
+   "The Sprint Backlog",
+   "A concrete stepping stone toward the Product Goal that is usable and meets the Definition of Done",
+   "Everything the team started in the Sprint"
+  ],
+  "answer": 2,
+  "explanation": "Each Increment is additive to all prior Increments.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "How many Increments can be created in a Sprint?",
+  "options": [
+   "One or more",
+   "None until the release",
+   "Exactly two",
+   "Exactly one"
+  ],
+  "answer": 0,
+  "explanation": "Multiple Increments may be created within a Sprint.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "Is velocity or a burndown chart required by Scrum?",
+  "options": [
+   "Yes, velocity is mandatory",
+   "Only for Sprints longer than two weeks",
+   "Yes, burndown is an artifact",
+   "No — various practices can forecast progress but they don't replace empiricism"
+  ],
+  "answer": 3,
+  "explanation": "Scrum doesn't prescribe these techniques.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "Which statement about the Scrum Master's role is correct?",
+  "options": [
+   "They are a true leader who serves the Scrum Team and the larger organization",
+   "They own the Product Backlog",
+   "They report individual performance to HR",
+   "They assign tasks to Developers"
+  ],
+  "answer": 0,
+  "explanation": "Scrum Guide 2020 wording.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "What is the purpose of the Sprint Goal?",
+  "options": [
+   "It gives the Developers a single objective for the Sprint, creating coherence and focus",
+   "It sets individual targets",
+   "It replaces the Product Goal",
+   "It lists every task in the Sprint"
+  ],
+  "answer": 0,
+  "explanation": "The Sprint Goal is created during Sprint Planning and added to the Sprint Backlog.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "Who creates the Definition of Done if the organization has none?",
+  "options": [
+   "The stakeholders",
+   "The Scrum Team",
+   "The Scrum Master alone",
+   "The Product Owner alone"
+  ],
+  "answer": 1,
+  "explanation": "It must be appropriate for the product.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "Which best describes the Product Backlog?",
+  "options": [
+   "A fixed requirements specification",
+   "The Developers' daily task list",
+   "A list of defects only",
+   "An emergent, ordered list of what is needed to improve the product"
+  ],
+  "answer": 3,
+  "explanation": "It is the single source of work undertaken by the Scrum Team.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "The Sprint Retrospective inspects",
+  "options": [
+   "individual salaries",
+   "only the product",
+   "stakeholder satisfaction surveys",
+   "individuals, interactions, processes, tools and the Definition of Done"
+  ],
+  "answer": 3,
+  "explanation": "The most impactful improvements may be added to the next Sprint Backlog.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "What should the Developers do when work during the Sprint turns out different than expected?",
+  "options": [
+   "Escalate to senior management",
+   "Stop and wait for the Sprint Review",
+   "Collaborate with the Product Owner on the Sprint Backlog while protecting the Sprint Goal",
+   "Lengthen the Sprint"
+  ],
+  "answer": 2,
+  "explanation": "Scrum is built on adaptation as soon as possible.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "Which Scrum value means the team works on difficult problems and does the right thing?",
+  "options": [
+   "Courage",
+   "Openness",
+   "Respect",
+   "Focus"
+  ],
+  "answer": 0,
+  "explanation": "Commitment, focus, openness, respect and courage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "Which Scrum value means team members and stakeholders agree to be open about the work and challenges?",
+  "options": [
+   "Courage",
+   "Openness",
+   "Commitment",
+   "Focus"
+  ],
+  "answer": 1,
+  "explanation": "Openness supports transparency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "Why are Sprints limited to one month or less?",
+  "options": [
+   "To allow monthly payroll",
+   "To keep budgets small",
+   "Because stakeholders demand it",
+   "Longer Sprints can let the Sprint Goal become invalid, increase complexity and increase risk"
+  ],
+  "answer": 3,
+  "explanation": "Shorter Sprints generate more learning cycles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "Scenarios",
+  "body": "What does 'transparency' mean in Scrum?",
+  "options": [
+   "All salaries are published",
+   "The emergent process and work must be visible to those performing and receiving the work",
+   "Stakeholders attend every event",
+   "The Scrum Master records everything"
+  ],
+  "answer": 1,
+  "explanation": "Low transparency leads to decisions that diminish value and increase risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"The Product Owner can be a committee.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "The Product Owner is one person.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"The Daily Scrum is time-boxed to 15 minutes.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Regardless of Sprint length.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"The Scrum Master is the manager of the Developers.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "The Scrum Master is a true leader who serves; Scrum Teams are self-managing.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"Sprints can be longer than one month.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "Sprints are one month or less.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"Every Sprint should have a Sprint Goal.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "It is the commitment for the Sprint Backlog.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"Product Backlog refinement is a time-boxed Scrum event.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "It is an ongoing activity, not an event.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"Stakeholders are invited to the Sprint Review.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "The Scrum Team presents results to key stakeholders.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"Only the Scrum Master can add items to the Sprint Backlog.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "The Sprint Backlog is a plan by and for the Developers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"Scrum's pillars are transparency, inspection and adaptation.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "These are the three pillars of empiricism.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"The Definition of Done is the commitment for the Increment.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "It creates transparency about what 'done' means.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"The Sprint Review is the last event in the Sprint.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "The Sprint Retrospective concludes the Sprint.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"Scrum Teams are cross-functional.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Members have all the skills needed to create value each Sprint.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"The Scrum Master can change the Sprint Goal.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "No changes are made that endanger the Sprint Goal.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"The Product Backlog is never complete.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "It is an emergent, ordered list of what is needed to improve the product.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"The Daily Scrum is only for the Scrum Master to get a status update.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "It is an event for the Developers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"Quality goals should not decrease during the Sprint.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "A Sprint rule from the Scrum Guide.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"A Sprint can have no Sprint Goal if work is unrelated.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "Every Sprint has a Sprint Goal.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"Scrum is a lightweight framework.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "It helps people, teams and organizations generate value through adaptive solutions.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"Product Backlog items must be estimated in story points.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "Scrum doesn't prescribe estimation techniques.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SCR",
+  "topic": "True or false",
+  "body": "TRUE or FALSE? \"The Scrum Team is responsible for all product-related activities.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "Including stakeholder collaboration, verification, maintenance, operation, experimentation, R&D.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "A project is best described as",
+  "options": [
+   "a temporary endeavour undertaken to create a unique product, service or result",
+   "doing activities in parallel that would normally be done in sequence to shorten the schedule",
+   "a leadership style focused on supporting and enabling the team",
+   "uncontrolled expansion of scope without adjustments to time, cost and resources"
+  ],
+  "answer": 0,
+  "explanation": "A project: a temporary endeavour undertaken to create a unique product, service or result.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "The project charter is best described as",
+  "options": [
+   "the document that formally authorizes a project and gives the project manager authority",
+   "a document recording identified risks, their analysis and planned responses",
+   "the longest path through a schedule network, determining the shortest possible project duration",
+   "a visual tool for managing flow, often with work-in-progress limits"
+  ],
+  "answer": 0,
+  "explanation": "The project charter: the document that formally authorizes a project and gives the project manager authority.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "A work breakdown structure (WBS) is best described as",
+  "options": [
+   "a visual tool for managing flow, often with work-in-progress limits",
+   "an iterative approach where requirements evolve through frequent delivery and feedback",
+   "the amount of time an activity can be delayed without delaying the project end date",
+   "a hierarchical decomposition of the total scope of work"
+  ],
+  "answer": 3,
+  "explanation": "A work breakdown structure (WBS): a hierarchical decomposition of the total scope of work.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "A work package is best described as",
+  "options": [
+   "a prioritization technique: must have, should have, could have, won't have this time",
+   "a hierarchical decomposition of the total scope of work",
+   "the lowest level of the WBS, for which cost and duration can be estimated and managed",
+   "a plan-driven approach where scope, time and cost are defined early"
+  ],
+  "answer": 2,
+  "explanation": "A work package: the lowest level of the WBS, for which cost and duration can be estimated and managed.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "The critical path is best described as",
+  "options": [
+   "adding extra features that were not requested by the customer",
+   "a temporary endeavour undertaken to create a unique product, service or result",
+   "a chart that ranks causes by frequency to focus on the vital few (80/20)",
+   "the longest path through a schedule network, determining the shortest possible project duration"
+  ],
+  "answer": 3,
+  "explanation": "The critical path: the longest path through a schedule network, determining the shortest possible project duration.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "Float (slack) is best described as",
+  "options": [
+   "the document that formally authorizes a project and gives the project manager authority",
+   "a group responsible for reviewing and approving or rejecting changes",
+   "the amount of time an activity can be delayed without delaying the project end date",
+   "the lowest level of the WBS, for which cost and duration can be estimated and managed"
+  ],
+  "answer": 2,
+  "explanation": "Float (slack): the amount of time an activity can be delayed without delaying the project end date.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "Scope creep is best described as",
+  "options": [
+   "the lowest level of the WBS, for which cost and duration can be estimated and managed",
+   "an iterative approach where requirements evolve through frequent delivery and feedback",
+   "uncontrolled expansion of scope without adjustments to time, cost and resources",
+   "a cause-and-effect diagram used to find root causes"
+  ],
+  "answer": 2,
+  "explanation": "Scope creep: uncontrolled expansion of scope without adjustments to time, cost and resources.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "A stakeholder is best described as",
+  "options": [
+   "anyone who can affect or be affected by the project",
+   "knowledge gained during a project to improve future performance",
+   "a document recording identified risks, their analysis and planned responses",
+   "a temporary endeavour undertaken to create a unique product, service or result"
+  ],
+  "answer": 0,
+  "explanation": "A stakeholder: anyone who can affect or be affected by the project.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "A RACI chart is best described as",
+  "options": [
+   "the longest path through a schedule network, determining the shortest possible project duration",
+   "a responsibility assignment matrix showing who is responsible, accountable, consulted and informed",
+   "a temporary endeavour undertaken to create a unique product, service or result",
+   "a visual tool for managing flow, often with work-in-progress limits"
+  ],
+  "answer": 1,
+  "explanation": "A RACI chart: a responsibility assignment matrix showing who is responsible, accountable, consulted and informed.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "A risk register is best described as",
+  "options": [
+   "knowledge gained during a project to improve future performance",
+   "the document that formally authorizes a project and gives the project manager authority",
+   "the lowest level of the WBS, for which cost and duration can be estimated and managed",
+   "a document recording identified risks, their analysis and planned responses"
+  ],
+  "answer": 3,
+  "explanation": "A risk register: a document recording identified risks, their analysis and planned responses.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "The change control board is best described as",
+  "options": [
+   "a chart that ranks causes by frequency to focus on the vital few (80/20)",
+   "a group responsible for reviewing and approving or rejecting changes",
+   "the amount of work a team completes in an iteration, used for forecasting",
+   "the longest path through a schedule network, determining the shortest possible project duration"
+  ],
+  "answer": 1,
+  "explanation": "The change control board: a group responsible for reviewing and approving or rejecting changes.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "Lessons learned is best described as",
+  "options": [
+   "the longest path through a schedule network, determining the shortest possible project duration",
+   "knowledge gained during a project to improve future performance",
+   "the document that formally authorizes a project and gives the project manager authority",
+   "a plan-driven approach where scope, time and cost are defined early"
+  ],
+  "answer": 1,
+  "explanation": "Lessons learned: knowledge gained during a project to improve future performance.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "A Kanban board is best described as",
+  "options": [
+   "a visual tool for managing flow, often with work-in-progress limits",
+   "a temporary endeavour undertaken to create a unique product, service or result",
+   "a group responsible for reviewing and approving or rejecting changes",
+   "a cause-and-effect diagram used to find root causes"
+  ],
+  "answer": 0,
+  "explanation": "A Kanban board: a visual tool for managing flow, often with work-in-progress limits.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "Velocity is best described as",
+  "options": [
+   "a chart showing the work remaining over time",
+   "a responsibility assignment matrix showing who is responsible, accountable, consulted and informed",
+   "the amount of work a team completes in an iteration, used for forecasting",
+   "doing activities in parallel that would normally be done in sequence to shorten the schedule"
+  ],
+  "answer": 2,
+  "explanation": "Velocity: the amount of work a team completes in an iteration, used for forecasting.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "A burndown chart is best described as",
+  "options": [
+   "a chart showing the work remaining over time",
+   "a leadership style focused on supporting and enabling the team",
+   "a responsibility assignment matrix showing who is responsible, accountable, consulted and informed",
+   "the amount of work a team completes in an iteration, used for forecasting"
+  ],
+  "answer": 0,
+  "explanation": "A burndown chart: a chart showing the work remaining over time.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "MoSCoW is best described as",
+  "options": [
+   "knowledge gained during a project to improve future performance",
+   "a cause-and-effect diagram used to find root causes",
+   "a prioritization technique: must have, should have, could have, won't have this time",
+   "the document that formally authorizes a project and gives the project manager authority"
+  ],
+  "answer": 2,
+  "explanation": "MoSCoW: a prioritization technique: must have, should have, could have, won't have this time.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "Servant leadership is best described as",
+  "options": [
+   "a leadership style focused on supporting and enabling the team",
+   "an organizational structure that standardizes project governance and shares resources and methods",
+   "a chart showing the work remaining over time",
+   "the lowest level of the WBS, for which cost and duration can be estimated and managed"
+  ],
+  "answer": 0,
+  "explanation": "Servant leadership: a leadership style focused on supporting and enabling the team.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "A PMO is best described as",
+  "options": [
+   "the lowest level of the WBS, for which cost and duration can be estimated and managed",
+   "anyone who can affect or be affected by the project",
+   "doing activities in parallel that would normally be done in sequence to shorten the schedule",
+   "an organizational structure that standardizes project governance and shares resources and methods"
+  ],
+  "answer": 3,
+  "explanation": "A PMO: an organizational structure that standardizes project governance and shares resources and methods.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "Gold plating is best described as",
+  "options": [
+   "adding extra features that were not requested by the customer",
+   "uncontrolled expansion of scope without adjustments to time, cost and resources",
+   "a chart showing the work remaining over time",
+   "the amount of time an activity can be delayed without delaying the project end date"
+  ],
+  "answer": 0,
+  "explanation": "Gold plating: adding extra features that were not requested by the customer.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "Fast tracking is best described as",
+  "options": [
+   "a temporary endeavour undertaken to create a unique product, service or result",
+   "anyone who can affect or be affected by the project",
+   "a prioritization technique: must have, should have, could have, won't have this time",
+   "doing activities in parallel that would normally be done in sequence to shorten the schedule"
+  ],
+  "answer": 3,
+  "explanation": "Fast tracking: doing activities in parallel that would normally be done in sequence to shorten the schedule.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "Crashing is best described as",
+  "options": [
+   "a hierarchical decomposition of the total scope of work",
+   "adding resources to shorten the schedule, usually at extra cost",
+   "uncontrolled expansion of scope without adjustments to time, cost and resources",
+   "a prioritization technique: must have, should have, could have, won't have this time"
+  ],
+  "answer": 1,
+  "explanation": "Crashing: adding resources to shorten the schedule, usually at extra cost.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "A Pareto chart is best described as",
+  "options": [
+   "adding extra features that were not requested by the customer",
+   "a chart that ranks causes by frequency to focus on the vital few (80/20)",
+   "the document that formally authorizes a project and gives the project manager authority",
+   "knowledge gained during a project to improve future performance"
+  ],
+  "answer": 1,
+  "explanation": "A Pareto chart: a chart that ranks causes by frequency to focus on the vital few (80/20).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "A fishbone (Ishikawa) diagram is best described as",
+  "options": [
+   "a cause-and-effect diagram used to find root causes",
+   "a plan-driven approach where scope, time and cost are defined early",
+   "a visual tool for managing flow, often with work-in-progress limits",
+   "a temporary endeavour undertaken to create a unique product, service or result"
+  ],
+  "answer": 0,
+  "explanation": "A fishbone (Ishikawa) diagram: a cause-and-effect diagram used to find root causes.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "A predictive (waterfall) approach is best described as",
+  "options": [
+   "a plan-driven approach where scope, time and cost are defined early",
+   "the lowest level of the WBS, for which cost and duration can be estimated and managed",
+   "a group responsible for reviewing and approving or rejecting changes",
+   "knowledge gained during a project to improve future performance"
+  ],
+  "answer": 0,
+  "explanation": "A predictive (waterfall) approach: a plan-driven approach where scope, time and cost are defined early.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "An adaptive (agile) approach is best described as",
+  "options": [
+   "adding resources to shorten the schedule, usually at extra cost",
+   "the amount of work a team completes in an iteration, used for forecasting",
+   "a leadership style focused on supporting and enabling the team",
+   "an iterative approach where requirements evolve through frequent delivery and feedback"
+  ],
+  "answer": 3,
+  "explanation": "An adaptive (agile) approach: an iterative approach where requirements evolve through frequent delivery and feedback.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes a temporary endeavour undertaken to create a unique product, service or result?",
+  "options": [
+   "Crashing",
+   "Project",
+   "Float (slack)",
+   "MoSCoW"
+  ],
+  "answer": 1,
+  "explanation": "A project: a temporary endeavour undertaken to create a unique product, service or result.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes the document that formally authorizes a project and gives the project manager authority?",
+  "options": [
+   "Kanban board",
+   "Project charter",
+   "Burndown chart",
+   "Risk register"
+  ],
+  "answer": 1,
+  "explanation": "The project charter: the document that formally authorizes a project and gives the project manager authority.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes a hierarchical decomposition of the total scope of work?",
+  "options": [
+   "Work package",
+   "Burndown chart",
+   "Velocity",
+   "Work breakdown structure (WBS)"
+  ],
+  "answer": 3,
+  "explanation": "A work breakdown structure (WBS): a hierarchical decomposition of the total scope of work.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes the lowest level of the WBS, for which cost and duration can be estimated and managed?",
+  "options": [
+   "Work package",
+   "Kanban board",
+   "Risk register",
+   "Project"
+  ],
+  "answer": 0,
+  "explanation": "A work package: the lowest level of the WBS, for which cost and duration can be estimated and managed.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes the longest path through a schedule network, determining the shortest possible project duration?",
+  "options": [
+   "Float (slack)",
+   "Gold plating",
+   "Predictive (waterfall) approach",
+   "Critical path"
+  ],
+  "answer": 3,
+  "explanation": "The critical path: the longest path through a schedule network, determining the shortest possible project duration.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes the amount of time an activity can be delayed without delaying the project end date?",
+  "options": [
+   "Project charter",
+   "Fast tracking",
+   "PMO",
+   "Float (slack)"
+  ],
+  "answer": 3,
+  "explanation": "Float (slack): the amount of time an activity can be delayed without delaying the project end date.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes uncontrolled expansion of scope without adjustments to time, cost and resources?",
+  "options": [
+   "Predictive (waterfall) approach",
+   "Lessons learned",
+   "Scope creep",
+   "Project"
+  ],
+  "answer": 2,
+  "explanation": "Scope creep: uncontrolled expansion of scope without adjustments to time, cost and resources.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes anyone who can affect or be affected by the project?",
+  "options": [
+   "Servant leadership",
+   "Risk register",
+   "Stakeholder",
+   "Burndown chart"
+  ],
+  "answer": 2,
+  "explanation": "A stakeholder: anyone who can affect or be affected by the project.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes a responsibility assignment matrix showing who is responsible, accountable, consulted and informed?",
+  "options": [
+   "Float (slack)",
+   "RACI chart",
+   "Scope creep",
+   "Change control board"
+  ],
+  "answer": 1,
+  "explanation": "A RACI chart: a responsibility assignment matrix showing who is responsible, accountable, consulted and informed.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes a document recording identified risks, their analysis and planned responses?",
+  "options": [
+   "Lessons learned",
+   "Float (slack)",
+   "Risk register",
+   "Change control board"
+  ],
+  "answer": 2,
+  "explanation": "A risk register: a document recording identified risks, their analysis and planned responses.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes a group responsible for reviewing and approving or rejecting changes?",
+  "options": [
+   "Change control board",
+   "Work breakdown structure (WBS)",
+   "Pareto chart",
+   "Critical path"
+  ],
+  "answer": 0,
+  "explanation": "The change control board: a group responsible for reviewing and approving or rejecting changes.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes knowledge gained during a project to improve future performance?",
+  "options": [
+   "Lessons learned",
+   "Work breakdown structure (WBS)",
+   "RACI chart",
+   "Project charter"
+  ],
+  "answer": 0,
+  "explanation": "Lessons learned: knowledge gained during a project to improve future performance.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes a visual tool for managing flow, often with work-in-progress limits?",
+  "options": [
+   "Project charter",
+   "Scope creep",
+   "PMO",
+   "Kanban board"
+  ],
+  "answer": 3,
+  "explanation": "A Kanban board: a visual tool for managing flow, often with work-in-progress limits.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes the amount of work a team completes in an iteration, used for forecasting?",
+  "options": [
+   "Risk register",
+   "Velocity",
+   "Project",
+   "Critical path"
+  ],
+  "answer": 1,
+  "explanation": "Velocity: the amount of work a team completes in an iteration, used for forecasting.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes a chart showing the work remaining over time?",
+  "options": [
+   "Lessons learned",
+   "Predictive (waterfall) approach",
+   "Burndown chart",
+   "RACI chart"
+  ],
+  "answer": 2,
+  "explanation": "A burndown chart: a chart showing the work remaining over time.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes a prioritization technique: must have, should have, could have, won't have this time?",
+  "options": [
+   "Crashing",
+   "MoSCoW",
+   "Burndown chart",
+   "Work package"
+  ],
+  "answer": 1,
+  "explanation": "MoSCoW: a prioritization technique: must have, should have, could have, won't have this time.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes a leadership style focused on supporting and enabling the team?",
+  "options": [
+   "Gold plating",
+   "Stakeholder",
+   "Float (slack)",
+   "Servant leadership"
+  ],
+  "answer": 3,
+  "explanation": "Servant leadership: a leadership style focused on supporting and enabling the team.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes an organizational structure that standardizes project governance and shares resources and methods?",
+  "options": [
+   "Work package",
+   "Risk register",
+   "PMO",
+   "Kanban board"
+  ],
+  "answer": 2,
+  "explanation": "A PMO: an organizational structure that standardizes project governance and shares resources and methods.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes adding extra features that were not requested by the customer?",
+  "options": [
+   "Gold plating",
+   "Project",
+   "Pareto chart",
+   "Crashing"
+  ],
+  "answer": 0,
+  "explanation": "Gold plating: adding extra features that were not requested by the customer.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes doing activities in parallel that would normally be done in sequence to shorten the schedule?",
+  "options": [
+   "MoSCoW",
+   "Project charter",
+   "Kanban board",
+   "Fast tracking"
+  ],
+  "answer": 3,
+  "explanation": "Fast tracking: doing activities in parallel that would normally be done in sequence to shorten the schedule.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes adding resources to shorten the schedule, usually at extra cost?",
+  "options": [
+   "Crashing",
+   "Project charter",
+   "Gold plating",
+   "Risk register"
+  ],
+  "answer": 0,
+  "explanation": "Crashing: adding resources to shorten the schedule, usually at extra cost.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes a chart that ranks causes by frequency to focus on the vital few (80/20)?",
+  "options": [
+   "Project charter",
+   "Pareto chart",
+   "Servant leadership",
+   "Kanban board"
+  ],
+  "answer": 1,
+  "explanation": "A Pareto chart: a chart that ranks causes by frequency to focus on the vital few (80/20).",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes a cause-and-effect diagram used to find root causes?",
+  "options": [
+   "Lessons learned",
+   "Velocity",
+   "Fishbone (Ishikawa) diagram",
+   "Adaptive (agile) approach"
+  ],
+  "answer": 2,
+  "explanation": "A fishbone (Ishikawa) diagram: a cause-and-effect diagram used to find root causes.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes a plan-driven approach where scope, time and cost are defined early?",
+  "options": [
+   "Pareto chart",
+   "Fishbone (Ishikawa) diagram",
+   "Velocity",
+   "Predictive (waterfall) approach"
+  ],
+  "answer": 3,
+  "explanation": "A predictive (waterfall) approach: a plan-driven approach where scope, time and cost are defined early.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Concepts",
+  "body": "What term describes an iterative approach where requirements evolve through frequent delivery and feedback?",
+  "options": [
+   "Adaptive (agile) approach",
+   "Fast tracking",
+   "Stakeholder",
+   "RACI chart"
+  ],
+  "answer": 0,
+  "explanation": "An adaptive (agile) approach: an iterative approach where requirements evolve through frequent delivery and feedback.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PMF",
+  "topic": "Fundamentals",
+  "body": "In which organizational structure does the project manager have the MOST authority?",
+  "options": [
+   "Projectized",
+   "Functional",
+   "Balanced matrix",
+   "Weak matrix"
+  ],
+  "answer": 0,
+  "explanation": "In a functional organization the functional manager holds most authority.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Fundamentals",
+  "body": "In which organizational structure does the project manager have the LEAST authority?",
+  "options": [
+   "Functional",
+   "Balanced matrix",
+   "Strong matrix",
+   "Projectized"
+  ],
+  "answer": 0,
+  "explanation": "Functional managers control resources and budget.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Fundamentals",
+  "body": "What are Tuckman's stages of team development, in order?",
+  "options": [
+   "Forming, norming, storming, performing, adjourning",
+   "Forming, storming, norming, performing, adjourning",
+   "Storming, forming, norming, performing, adjourning",
+   "Planning, doing, checking, acting, closing"
+  ],
+  "answer": 1,
+  "explanation": "Teams typically move through these stages.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Fundamentals",
+  "body": "Which conflict resolution technique usually leads to a lasting, win-win solution?",
+  "options": [
+   "Forcing / directing",
+   "Collaborating / problem solving",
+   "Smoothing / accommodating",
+   "Withdrawing / avoiding"
+  ],
+  "answer": 1,
+  "explanation": "Collaboration incorporates multiple viewpoints and commitment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Fundamentals",
+  "body": "Which contract type places the most cost risk on the seller?",
+  "options": [
+   "Cost plus fixed fee",
+   "Time and materials",
+   "Cost plus percentage of cost",
+   "Firm fixed price"
+  ],
+  "answer": 3,
+  "explanation": "The seller must deliver for the agreed price.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Fundamentals",
+  "body": "Which contract type places the most cost risk on the buyer?",
+  "options": [
+   "Cost plus percentage of cost",
+   "Firm fixed price",
+   "Fixed price incentive fee",
+   "Fixed price with economic price adjustment"
+  ],
+  "answer": 0,
+  "explanation": "The seller's fee rises as costs rise.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Fundamentals",
+  "body": "Which is a cost of conformance in cost of quality?",
+  "options": [
+   "Rework",
+   "Training and inspections",
+   "Warranty claims",
+   "Scrap"
+  ],
+  "answer": 1,
+  "explanation": "Prevention and appraisal costs are costs of conformance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Fundamentals",
+  "body": "Which is a cost of non-conformance?",
+  "options": [
+   "Rework",
+   "Quality planning",
+   "Training",
+   "Testing equipment"
+  ],
+  "answer": 0,
+  "explanation": "Internal and external failure costs are costs of non-conformance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Fundamentals",
+  "body": "Which risk response for a threat shifts the impact to a third party, such as through insurance?",
+  "options": [
+   "Transfer",
+   "Accept",
+   "Avoid",
+   "Mitigate"
+  ],
+  "answer": 0,
+  "explanation": "Transferring doesn't remove the risk; it shifts ownership.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Fundamentals",
+  "body": "Which risk response reduces the probability or impact of a threat?",
+  "options": [
+   "Mitigate",
+   "Accept",
+   "Exploit",
+   "Transfer"
+  ],
+  "answer": 0,
+  "explanation": "For example, extra testing to reduce defects.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Fundamentals",
+  "body": "Which risk response for an opportunity ensures it definitely happens?",
+  "options": [
+   "Enhance",
+   "Share",
+   "Exploit",
+   "Accept"
+  ],
+  "answer": 2,
+  "explanation": "Enhance increases probability or impact; exploit makes it certain.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Fundamentals",
+  "body": "Who typically issues the project charter?",
+  "options": [
+   "The project team",
+   "The project sponsor or initiator",
+   "The customer's lawyer",
+   "The project manager alone"
+  ],
+  "answer": 1,
+  "explanation": "The charter authorizes the project and the project manager.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Fundamentals",
+  "body": "What is the '100% rule' for a WBS?",
+  "options": [
+   "The WBS must have 100 items",
+   "100% of the budget must be spent",
+   "Every task must be 100% complete before the next",
+   "The WBS includes all the work of the project and nothing more"
+  ],
+  "answer": 3,
+  "explanation": "Each level's children must add up to the parent.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Fundamentals",
+  "body": "What should a project manager do FIRST when a stakeholder requests a change?",
+  "options": [
+   "Implement it immediately",
+   "Ask the team to work overtime",
+   "Refuse it",
+   "Assess the impact of the change and follow the change control process"
+  ],
+  "answer": 3,
+  "explanation": "Changes are evaluated before approval.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Fundamentals",
+  "body": "Which estimating technique uses historical data from a similar project?",
+  "options": [
+   "Parametric estimating",
+   "Three-point estimating",
+   "Analogous estimating",
+   "Bottom-up estimating"
+  ],
+  "answer": 2,
+  "explanation": "It's quick but less accurate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Fundamentals",
+  "body": "Which estimating technique adds up estimates of individual work packages?",
+  "options": [
+   "Top-down estimating",
+   "Expert guessing",
+   "Analogous estimating",
+   "Bottom-up estimating"
+  ],
+  "answer": 3,
+  "explanation": "It's the most accurate but time-consuming.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Fundamentals",
+  "body": "In agile, the daily stand-up is mainly for",
+  "options": [
+   "approving changes",
+   "the team to coordinate and identify impediments",
+   "estimating the whole project",
+   "reporting status to senior managers"
+  ],
+  "answer": 1,
+  "explanation": "Keep it short and focused on progress.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Fundamentals",
+  "body": "A project is complete when",
+  "options": [
+   "the budget is spent",
+   "the sponsor leaves",
+   "the first deliverable is ready",
+   "its objectives are met, or it is terminated because they can't be met or the need no longer exists"
+  ],
+  "answer": 3,
+  "explanation": "Projects are temporary with a defined end.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £880k, EV = £480k, AC = £780k. What is the cost variance (CV)?",
+  "options": [
+   "−£300k",
+   "£100k",
+   "£300k",
+   "−£400k"
+  ],
+  "answer": 0,
+  "explanation": "CV = EV − AC = 480 − 780 = -300 (over budget).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £370k, EV = £430k, AC = £770k. What is the cost variance (CV)?",
+  "options": [
+   "£340k",
+   "−£340k",
+   "£60k",
+   "−£400k"
+  ],
+  "answer": 1,
+  "explanation": "CV = EV − AC = 430 − 770 = -340 (over budget).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £670k, EV = £300k, AC = £650k. What is the cost variance (CV)?",
+  "options": [
+   "−£370k",
+   "£350k",
+   "£20k",
+   "−£350k"
+  ],
+  "answer": 3,
+  "explanation": "CV = EV − AC = 300 − 650 = -350 (over budget).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £670k, EV = £280k, AC = £390k. What is the cost variance (CV)?",
+  "options": [
+   "−£110k",
+   "£280k",
+   "£110k",
+   "−£390k"
+  ],
+  "answer": 0,
+  "explanation": "CV = EV − AC = 280 − 390 = -110 (over budget).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £490k, EV = £380k, AC = £740k. What is the cost variance (CV)?",
+  "options": [
+   "£360k",
+   "−£110k",
+   "−£250k",
+   "−£360k"
+  ],
+  "answer": 3,
+  "explanation": "CV = EV − AC = 380 − 740 = -360 (over budget).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £850k, EV = £620k, AC = £310k. What is the cost variance (CV)?",
+  "options": [
+   "£540k",
+   "−£230k",
+   "−£310k",
+   "£310k"
+  ],
+  "answer": 3,
+  "explanation": "CV = EV − AC = 620 − 310 = 310 (under budget).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £350k, EV = £790k, AC = £190k. What is the cost variance (CV)?",
+  "options": [
+   "£440k",
+   "£600k",
+   "−£600k",
+   "£160k"
+  ],
+  "answer": 1,
+  "explanation": "CV = EV − AC = 790 − 190 = 600 (under budget).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £700k, EV = £740k, AC = £700k. What is the cost variance (CV)?",
+  "options": [
+   "−£40k",
+   "£0k",
+   "£40k",
+   "£50k"
+  ],
+  "answer": 2,
+  "explanation": "CV = EV − AC = 740 − 700 = 40 (under budget).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £330k, EV = £810k, AC = £520k. What is the cost variance (CV)?",
+  "options": [
+   "−£190k",
+   "£290k",
+   "£480k",
+   "−£290k"
+  ],
+  "answer": 1,
+  "explanation": "CV = EV − AC = 810 − 520 = 290 (under budget).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £400k, EV = £890k, AC = £250k. What is the cost variance (CV)?",
+  "options": [
+   "−£640k",
+   "£150k",
+   "£490k",
+   "£640k"
+  ],
+  "answer": 3,
+  "explanation": "CV = EV − AC = 890 − 250 = 640 (under budget).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £230k, EV = £510k, AC = £210k. What is the cost variance (CV)?",
+  "options": [
+   "£300k",
+   "£20k",
+   "£280k",
+   "−£300k"
+  ],
+  "answer": 0,
+  "explanation": "CV = EV − AC = 510 − 210 = 300 (under budget).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £750k, EV = £180k, AC = £240k. What is the cost variance (CV)?",
+  "options": [
+   "−£570k",
+   "−£60k",
+   "£510k",
+   "£60k"
+  ],
+  "answer": 1,
+  "explanation": "CV = EV − AC = 180 − 240 = -60 (over budget).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £400k, EV = £710k, AC = £640k. What is the cost variance (CV)?",
+  "options": [
+   "£70k",
+   "−£70k",
+   "£310k",
+   "−£240k"
+  ],
+  "answer": 0,
+  "explanation": "CV = EV − AC = 710 − 640 = 70 (under budget).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £320k, EV = £320k, AC = £680k. What is the cost variance (CV)?",
+  "options": [
+   "£0k",
+   "£360k",
+   "−£350k",
+   "−£360k"
+  ],
+  "answer": 3,
+  "explanation": "CV = EV − AC = 320 − 680 = -360 (over budget).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £230k, EV = £710k, AC = £260k. What is the schedule variance (SV)?",
+  "options": [
+   "−£480k",
+   "£30k",
+   "£480k",
+   "£450k"
+  ],
+  "answer": 2,
+  "explanation": "SV = EV − PV = 710 − 230 = 480 (ahead of schedule).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £470k, EV = £450k, AC = £160k. What is the schedule variance (SV)?",
+  "options": [
+   "−£310k",
+   "£290k",
+   "£20k",
+   "−£20k"
+  ],
+  "answer": 3,
+  "explanation": "SV = EV − PV = 450 − 470 = -20 (behind schedule).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £820k, EV = £690k, AC = £530k. What is the schedule variance (SV)?",
+  "options": [
+   "−£290k",
+   "£130k",
+   "−£130k",
+   "£160k"
+  ],
+  "answer": 2,
+  "explanation": "SV = EV − PV = 690 − 820 = -130 (behind schedule).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £900k, EV = £210k, AC = £520k. What is the schedule variance (SV)?",
+  "options": [
+   "−£310k",
+   "£690k",
+   "−£380k",
+   "−£690k"
+  ],
+  "answer": 3,
+  "explanation": "SV = EV − PV = 210 − 900 = -690 (behind schedule).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £430k, EV = £440k, AC = £160k. What is the schedule variance (SV)?",
+  "options": [
+   "£280k",
+   "−£270k",
+   "£10k",
+   "−£10k"
+  ],
+  "answer": 2,
+  "explanation": "SV = EV − PV = 440 − 430 = 10 (ahead of schedule).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £620k, EV = £460k, AC = £450k. What is the schedule variance (SV)?",
+  "options": [
+   "−£160k",
+   "−£170k",
+   "£160k",
+   "£10k"
+  ],
+  "answer": 0,
+  "explanation": "SV = EV − PV = 460 − 620 = -160 (behind schedule).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £800k, EV = £410k, AC = £210k. What is the schedule variance (SV)?",
+  "options": [
+   "−£590k",
+   "£200k",
+   "£390k",
+   "−£390k"
+  ],
+  "answer": 3,
+  "explanation": "SV = EV − PV = 410 − 800 = -390 (behind schedule).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £620k, EV = £570k, AC = £390k. What is the schedule variance (SV)?",
+  "options": [
+   "£180k",
+   "−£230k",
+   "£50k",
+   "−£50k"
+  ],
+  "answer": 3,
+  "explanation": "SV = EV − PV = 570 − 620 = -50 (behind schedule).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £810k, EV = £760k, AC = £470k. What is the schedule variance (SV)?",
+  "options": [
+   "−£340k",
+   "£290k",
+   "−£50k",
+   "£50k"
+  ],
+  "answer": 2,
+  "explanation": "SV = EV − PV = 760 − 810 = -50 (behind schedule).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £730k, EV = £900k, AC = £730k. What is the schedule variance (SV)?",
+  "options": [
+   "£160k",
+   "−£170k",
+   "£0k",
+   "£170k"
+  ],
+  "answer": 3,
+  "explanation": "SV = EV − PV = 900 − 730 = 170 (ahead of schedule).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £320k, EV = £590k, AC = £650k. What is the schedule variance (SV)?",
+  "options": [
+   "−£60k",
+   "£270k",
+   "−£270k",
+   "£330k"
+  ],
+  "answer": 1,
+  "explanation": "SV = EV − PV = 590 − 320 = 270 (ahead of schedule).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £360k, EV = £300k, AC = £500k. What is the schedule variance (SV)?",
+  "options": [
+   "−£60k",
+   "−£200k",
+   "£140k",
+   "£60k"
+  ],
+  "answer": 0,
+  "explanation": "SV = EV − PV = 300 − 360 = -60 (behind schedule).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £720k, EV = £250k, AC = £540k. What is the schedule variance (SV)?",
+  "options": [
+   "−£180k",
+   "−£290k",
+   "£470k",
+   "−£470k"
+  ],
+  "answer": 3,
+  "explanation": "SV = EV − PV = 250 − 720 = -470 (behind schedule).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "PV = £330k, EV = £150k, AC = £660k. What is the schedule variance (SV)?",
+  "options": [
+   "−£510k",
+   "−£180k",
+   "£330k",
+   "£180k"
+  ],
+  "answer": 1,
+  "explanation": "SV = EV − PV = 150 − 330 = -180 (behind schedule).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £90k and AC = £80k. What is the cost performance index (CPI), and what does it mean?",
+  "options": [
+   "10 — on budget",
+   "1.13 — under budget",
+   "1.13 — over budget",
+   "0.89 — over budget"
+  ],
+  "answer": 1,
+  "explanation": "CPI = EV ÷ AC = 90 ÷ 80 = 1.13. Below 1 means over budget; above 1 means under budget.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £120k and AC = £125k. What is the cost performance index (CPI), and what does it mean?",
+  "options": [
+   "0.96 — under budget",
+   "0.96 — over budget",
+   "1.04 — under budget",
+   "-5 — on budget"
+  ],
+  "answer": 1,
+  "explanation": "CPI = EV ÷ AC = 120 ÷ 125 = 0.96. Below 1 means over budget; above 1 means under budget.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £160k and AC = £200k. What is the cost performance index (CPI), and what does it mean?",
+  "options": [
+   "-40 — on budget",
+   "1.25 — under budget",
+   "0.8 — under budget",
+   "0.8 — over budget"
+  ],
+  "answer": 3,
+  "explanation": "CPI = EV ÷ AC = 160 ÷ 200 = 0.8. Below 1 means over budget; above 1 means under budget.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £160k and AC = £120k. What is the cost performance index (CPI), and what does it mean?",
+  "options": [
+   "1.33 — over budget",
+   "0.75 — over budget",
+   "40 — on budget",
+   "1.33 — under budget"
+  ],
+  "answer": 3,
+  "explanation": "CPI = EV ÷ AC = 160 ÷ 120 = 1.33. Below 1 means over budget; above 1 means under budget.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £160k and AC = £80k. What is the cost performance index (CPI), and what does it mean?",
+  "options": [
+   "2 — over budget",
+   "80 — on budget",
+   "0.5 — over budget",
+   "2 — under budget"
+  ],
+  "answer": 3,
+  "explanation": "CPI = EV ÷ AC = 160 ÷ 80 = 2. Below 1 means over budget; above 1 means under budget.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £120k and AC = £100k. What is the cost performance index (CPI), and what does it mean?",
+  "options": [
+   "0.83 — over budget",
+   "1.2 — over budget",
+   "1.2 — under budget",
+   "20 — on budget"
+  ],
+  "answer": 2,
+  "explanation": "CPI = EV ÷ AC = 120 ÷ 100 = 1.2. Below 1 means over budget; above 1 means under budget.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £90k and AC = £200k. What is the cost performance index (CPI), and what does it mean?",
+  "options": [
+   "-110 — on budget",
+   "0.45 — over budget",
+   "0.45 — under budget",
+   "2.22 — under budget"
+  ],
+  "answer": 1,
+  "explanation": "CPI = EV ÷ AC = 90 ÷ 200 = 0.45. Below 1 means over budget; above 1 means under budget.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £200k and AC = £250k. What is the cost performance index (CPI), and what does it mean?",
+  "options": [
+   "0.8 — under budget",
+   "0.8 — over budget",
+   "1.25 — under budget",
+   "-50 — on budget"
+  ],
+  "answer": 1,
+  "explanation": "CPI = EV ÷ AC = 200 ÷ 250 = 0.8. Below 1 means over budget; above 1 means under budget.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £200k and AC = £125k. What is the cost performance index (CPI), and what does it mean?",
+  "options": [
+   "75 — on budget",
+   "1.6 — over budget",
+   "1.6 — under budget",
+   "0.63 — over budget"
+  ],
+  "answer": 2,
+  "explanation": "CPI = EV ÷ AC = 200 ÷ 125 = 1.6. Below 1 means over budget; above 1 means under budget.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £160k and AC = £125k. What is the cost performance index (CPI), and what does it mean?",
+  "options": [
+   "1.28 — under budget",
+   "1.28 — over budget",
+   "35 — on budget",
+   "0.78 — over budget"
+  ],
+  "answer": 0,
+  "explanation": "CPI = EV ÷ AC = 160 ÷ 125 = 1.28. Below 1 means over budget; above 1 means under budget.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £240k and AC = £100k. What is the cost performance index (CPI), and what does it mean?",
+  "options": [
+   "0.42 — over budget",
+   "2.4 — over budget",
+   "2.4 — under budget",
+   "140 — on budget"
+  ],
+  "answer": 2,
+  "explanation": "CPI = EV ÷ AC = 240 ÷ 100 = 2.4. Below 1 means over budget; above 1 means under budget.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £100k and AC = £125k. What is the cost performance index (CPI), and what does it mean?",
+  "options": [
+   "-25 — on budget",
+   "1.25 — under budget",
+   "0.8 — under budget",
+   "0.8 — over budget"
+  ],
+  "answer": 3,
+  "explanation": "CPI = EV ÷ AC = 100 ÷ 125 = 0.8. Below 1 means over budget; above 1 means under budget.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £100k and AC = £160k. What is the cost performance index (CPI), and what does it mean?",
+  "options": [
+   "0.63 — over budget",
+   "1.6 — under budget",
+   "-60 — on budget",
+   "0.63 — under budget"
+  ],
+  "answer": 0,
+  "explanation": "CPI = EV ÷ AC = 100 ÷ 160 = 0.63. Below 1 means over budget; above 1 means under budget.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £90k and AC = £250k. What is the cost performance index (CPI), and what does it mean?",
+  "options": [
+   "0.36 — under budget",
+   "2.78 — under budget",
+   "-160 — on budget",
+   "0.36 — over budget"
+  ],
+  "answer": 3,
+  "explanation": "CPI = EV ÷ AC = 90 ÷ 250 = 0.36. Below 1 means over budget; above 1 means under budget.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £80k and PV = £150k. What is the schedule performance index (SPI)?",
+  "options": [
+   "1.88",
+   "0.53",
+   "0.63",
+   "1.53"
+  ],
+  "answer": 1,
+  "explanation": "SPI = EV ÷ PV = 80 ÷ 150 = 0.53. Below 1 = behind schedule.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £80k and PV = £120k. What is the schedule performance index (SPI)?",
+  "options": [
+   "1.67",
+   "0.67",
+   "1.5",
+   "0.77"
+  ],
+  "answer": 1,
+  "explanation": "SPI = EV ÷ PV = 80 ÷ 120 = 0.67. Below 1 = behind schedule.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £80k and PV = £200k. What is the schedule performance index (SPI)?",
+  "options": [
+   "1.4",
+   "2.5",
+   "0.4",
+   "0.5"
+  ],
+  "answer": 2,
+  "explanation": "SPI = EV ÷ PV = 80 ÷ 200 = 0.4. Below 1 = behind schedule.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £60k and PV = £120k. What is the schedule performance index (SPI)?",
+  "options": [
+   "1.5",
+   "0.5",
+   "0.6",
+   "2"
+  ],
+  "answer": 1,
+  "explanation": "SPI = EV ÷ PV = 60 ÷ 120 = 0.5. Below 1 = behind schedule.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £120k and PV = £75k. What is the schedule performance index (SPI)?",
+  "options": [
+   "1.6",
+   "45",
+   "1.7",
+   "0.63"
+  ],
+  "answer": 0,
+  "explanation": "SPI = EV ÷ PV = 120 ÷ 75 = 1.6. Below 1 = behind schedule.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £100k and PV = £150k. What is the schedule performance index (SPI)?",
+  "options": [
+   "1.67",
+   "1.5",
+   "0.77",
+   "0.67"
+  ],
+  "answer": 3,
+  "explanation": "SPI = EV ÷ PV = 100 ÷ 150 = 0.67. Below 1 = behind schedule.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £90k and PV = £100k. What is the schedule performance index (SPI)?",
+  "options": [
+   "0.9",
+   "1.11",
+   "1.9",
+   "1"
+  ],
+  "answer": 0,
+  "explanation": "SPI = EV ÷ PV = 90 ÷ 100 = 0.9. Below 1 = behind schedule.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £150k and PV = £75k. What is the schedule performance index (SPI)?",
+  "options": [
+   "2.1",
+   "0.5",
+   "2",
+   "75"
+  ],
+  "answer": 2,
+  "explanation": "SPI = EV ÷ PV = 150 ÷ 75 = 2. Below 1 = behind schedule.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £80k and PV = £100k. What is the schedule performance index (SPI)?",
+  "options": [
+   "0.9",
+   "1.8",
+   "0.8",
+   "1.25"
+  ],
+  "answer": 2,
+  "explanation": "SPI = EV ÷ PV = 80 ÷ 100 = 0.8. Below 1 = behind schedule.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £120k and PV = £100k. What is the schedule performance index (SPI)?",
+  "options": [
+   "0.83",
+   "1.3",
+   "1.2",
+   "20"
+  ],
+  "answer": 2,
+  "explanation": "SPI = EV ÷ PV = 120 ÷ 100 = 1.2. Below 1 = behind schedule.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £150k and PV = £120k. What is the schedule performance index (SPI)?",
+  "options": [
+   "1.25",
+   "0.8",
+   "1.35",
+   "30"
+  ],
+  "answer": 0,
+  "explanation": "SPI = EV ÷ PV = 150 ÷ 120 = 1.25. Below 1 = behind schedule.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "EV = £100k and PV = £120k. What is the schedule performance index (SPI)?",
+  "options": [
+   "0.83",
+   "0.93",
+   "1.83",
+   "1.2"
+  ],
+  "answer": 0,
+  "explanation": "SPI = EV ÷ PV = 100 ÷ 120 = 0.83. Below 1 = behind schedule.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "BAC = £100k and CPI = 0.625. If current performance continues, what is the estimate at completion (EAC)?",
+  "options": [
+   "£160k",
+   "£62.5k",
+   "£60k",
+   "£100k"
+  ],
+  "answer": 0,
+  "explanation": "EAC = BAC ÷ CPI = 100 ÷ 0.625 = 160.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "BAC = £400k and CPI = 0.8. If current performance continues, what is the estimate at completion (EAC)?",
+  "options": [
+   "£320k",
+   "£400k",
+   "£500k",
+   "£100k"
+  ],
+  "answer": 2,
+  "explanation": "EAC = BAC ÷ CPI = 400 ÷ 0.8 = 500.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "BAC = £1000k and CPI = 0.625. If current performance continues, what is the estimate at completion (EAC)?",
+  "options": [
+   "£600k",
+   "£1600k",
+   "£625k",
+   "£1000k"
+  ],
+  "answer": 1,
+  "explanation": "EAC = BAC ÷ CPI = 1000 ÷ 0.625 = 1600.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "BAC = £100k and CPI = 0.8. If current performance continues, what is the estimate at completion (EAC)?",
+  "options": [
+   "£25k",
+   "£80k",
+   "£100k",
+   "£125k"
+  ],
+  "answer": 3,
+  "explanation": "EAC = BAC ÷ CPI = 100 ÷ 0.8 = 125.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "BAC = £500k and CPI = 1.25. If current performance continues, what is the estimate at completion (EAC)?",
+  "options": [
+   "£500k",
+   "−£100k",
+   "£400k",
+   "£625k"
+  ],
+  "answer": 2,
+  "explanation": "EAC = BAC ÷ CPI = 500 ÷ 1.25 = 400.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "BAC = £200k and CPI = 1.6. If current performance continues, what is the estimate at completion (EAC)?",
+  "options": [
+   "£125k",
+   "£200k",
+   "£320k",
+   "−£75k"
+  ],
+  "answer": 0,
+  "explanation": "EAC = BAC ÷ CPI = 200 ÷ 1.6 = 125.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "BAC = £1000k and CPI = 0.5. If current performance continues, what is the estimate at completion (EAC)?",
+  "options": [
+   "£500k",
+   "£1000k",
+   "£2050k",
+   "£2000k"
+  ],
+  "answer": 3,
+  "explanation": "EAC = BAC ÷ CPI = 1000 ÷ 0.5 = 2000.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "BAC = £200k and CPI = 0.5. If current performance continues, what is the estimate at completion (EAC)?",
+  "options": [
+   "£200k",
+   "£100k",
+   "£400k",
+   "£450k"
+  ],
+  "answer": 2,
+  "explanation": "EAC = BAC ÷ CPI = 200 ÷ 0.5 = 400.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "BAC = £400k and CPI = 0.625. If current performance continues, what is the estimate at completion (EAC)?",
+  "options": [
+   "£240k",
+   "£250k",
+   "£640k",
+   "£400k"
+  ],
+  "answer": 2,
+  "explanation": "EAC = BAC ÷ CPI = 400 ÷ 0.625 = 640.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "BAC = £200k and CPI = 0.8. If current performance continues, what is the estimate at completion (EAC)?",
+  "options": [
+   "£160k",
+   "£200k",
+   "£250k",
+   "£50k"
+  ],
+  "answer": 2,
+  "explanation": "EAC = BAC ÷ CPI = 200 ÷ 0.8 = 250.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "BAC = £800k and CPI = 1.25. If current performance continues, what is the estimate at completion (EAC)?",
+  "options": [
+   "£640k",
+   "−£160k",
+   "£1000k",
+   "£800k"
+  ],
+  "answer": 0,
+  "explanation": "EAC = BAC ÷ CPI = 800 ÷ 1.25 = 640.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Earned value",
+  "body": "BAC = £400k and CPI = 1.25. If current performance continues, what is the estimate at completion (EAC)?",
+  "options": [
+   "£400k",
+   "£500k",
+   "−£80k",
+   "£320k"
+  ],
+  "answer": 3,
+  "explanation": "EAC = BAC ÷ CPI = 400 ÷ 1.25 = 320.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Estimating",
+  "body": "Using PERT (beta) estimating, an activity has optimistic 7 days, most likely 9 days and pessimistic 17 days. What is the expected duration?",
+  "options": [
+   "12 days",
+   "11 days",
+   "10 days",
+   "9 days"
+  ],
+  "answer": 2,
+  "explanation": "E = (O + 4M + P) ÷ 6 = (7 + 36 + 17) ÷ 6 = 10 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Estimating",
+  "body": "Using PERT (beta) estimating, an activity has optimistic 8 days, most likely 13 days and pessimistic 18 days. What is the expected duration?",
+  "options": [
+   "12 days",
+   "14 days",
+   "26 days",
+   "13 days"
+  ],
+  "answer": 3,
+  "explanation": "E = (O + 4M + P) ÷ 6 = (8 + 52 + 18) ÷ 6 = 13 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Estimating",
+  "body": "Using PERT (beta) estimating, an activity has optimistic 3 days, most likely 6 days and pessimistic 12 days. What is the expected duration?",
+  "options": [
+   "6.5 days",
+   "7 days",
+   "7.5 days",
+   "6 days"
+  ],
+  "answer": 0,
+  "explanation": "E = (O + 4M + P) ÷ 6 = (3 + 24 + 12) ÷ 6 = 6.5 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Estimating",
+  "body": "Using PERT (beta) estimating, an activity has optimistic 10 days, most likely 15 days and pessimistic 20 days. What is the expected duration?",
+  "options": [
+   "16 days",
+   "15 days",
+   "17 days",
+   "13 days"
+  ],
+  "answer": 1,
+  "explanation": "E = (O + 4M + P) ÷ 6 = (10 + 60 + 20) ÷ 6 = 15 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Estimating",
+  "body": "Using PERT (beta) estimating, an activity has optimistic 6 days, most likely 12 days and pessimistic 21 days. What is the expected duration?",
+  "options": [
+   "13 days",
+   "12 days",
+   "12.5 days",
+   "13.5 days"
+  ],
+  "answer": 2,
+  "explanation": "E = (O + 4M + P) ÷ 6 = (6 + 48 + 21) ÷ 6 = 12.5 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Estimating",
+  "body": "Using PERT (beta) estimating, an activity has optimistic 3 days, most likely 5 days and pessimistic 16 days. What is the expected duration?",
+  "options": [
+   "9.5 days",
+   "8 days",
+   "6.5 days",
+   "5 days"
+  ],
+  "answer": 2,
+  "explanation": "E = (O + 4M + P) ÷ 6 = (3 + 20 + 16) ÷ 6 = 6.5 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Estimating",
+  "body": "Using PERT (beta) estimating, an activity has optimistic 2 days, most likely 8 days and pessimistic 11 days. What is the expected duration?",
+  "options": [
+   "7.5 days",
+   "6.5 days",
+   "7 days",
+   "8 days"
+  ],
+  "answer": 0,
+  "explanation": "E = (O + 4M + P) ÷ 6 = (2 + 32 + 11) ÷ 6 = 7.5 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Estimating",
+  "body": "Using PERT (beta) estimating, an activity has optimistic 8 days, most likely 11 days and pessimistic 23 days. What is the expected duration?",
+  "options": [
+   "15.5 days",
+   "12.5 days",
+   "14 days",
+   "11 days"
+  ],
+  "answer": 1,
+  "explanation": "E = (O + 4M + P) ÷ 6 = (8 + 44 + 23) ÷ 6 = 12.5 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Estimating",
+  "body": "Using PERT (beta) estimating, an activity has optimistic 4 days, most likely 7 days and pessimistic 10 days. What is the expected duration?",
+  "options": [
+   "14 days",
+   "7 days",
+   "8 days",
+   "6 days"
+  ],
+  "answer": 1,
+  "explanation": "E = (O + 4M + P) ÷ 6 = (4 + 28 + 10) ÷ 6 = 7 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Estimating",
+  "body": "Using PERT (beta) estimating, an activity has optimistic 3 days, most likely 9 days and pessimistic 15 days. What is the expected duration?",
+  "options": [
+   "10 days",
+   "8 days",
+   "9 days",
+   "18 days"
+  ],
+  "answer": 2,
+  "explanation": "E = (O + 4M + P) ÷ 6 = (3 + 36 + 15) ÷ 6 = 9 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Estimating",
+  "body": "Using PERT (beta) estimating, an activity has optimistic 10 days, most likely 12 days and pessimistic 20 days. What is the expected duration?",
+  "options": [
+   "14 days",
+   "12 days",
+   "15 days",
+   "13 days"
+  ],
+  "answer": 3,
+  "explanation": "E = (O + 4M + P) ÷ 6 = (10 + 48 + 20) ÷ 6 = 13 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Estimating",
+  "body": "Using PERT (beta) estimating, an activity has optimistic 4 days, most likely 6 days and pessimistic 11 days. What is the expected duration?",
+  "options": [
+   "6.5 days",
+   "7 days",
+   "6 days",
+   "7.5 days"
+  ],
+  "answer": 0,
+  "explanation": "E = (O + 4M + P) ÷ 6 = (4 + 24 + 11) ÷ 6 = 6.5 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Communication",
+  "body": "A project has 20 stakeholders (including the project manager). How many communication channels are there?",
+  "options": [
+   "210",
+   "40",
+   "190",
+   "380"
+  ],
+  "answer": 2,
+  "explanation": "Channels = n(n − 1) ÷ 2 = 20 × 19 ÷ 2 = 190.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Communication",
+  "body": "A project has 24 stakeholders (including the project manager). How many communication channels are there?",
+  "options": [
+   "552",
+   "276",
+   "48",
+   "300"
+  ],
+  "answer": 1,
+  "explanation": "Channels = n(n − 1) ÷ 2 = 24 × 23 ÷ 2 = 276.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Communication",
+  "body": "A project has 6 stakeholders (including the project manager). How many communication channels are there?",
+  "options": [
+   "30",
+   "12",
+   "21",
+   "15"
+  ],
+  "answer": 3,
+  "explanation": "Channels = n(n − 1) ÷ 2 = 6 × 5 ÷ 2 = 15.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Communication",
+  "body": "A project has 14 stakeholders (including the project manager). How many communication channels are there?",
+  "options": [
+   "28",
+   "105",
+   "182",
+   "91"
+  ],
+  "answer": 3,
+  "explanation": "Channels = n(n − 1) ÷ 2 = 14 × 13 ÷ 2 = 91.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Communication",
+  "body": "A project has 15 stakeholders (including the project manager). How many communication channels are there?",
+  "options": [
+   "120",
+   "30",
+   "105",
+   "210"
+  ],
+  "answer": 2,
+  "explanation": "Channels = n(n − 1) ÷ 2 = 15 × 14 ÷ 2 = 105.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Communication",
+  "body": "A project has 22 stakeholders (including the project manager). How many communication channels are there?",
+  "options": [
+   "253",
+   "231",
+   "44",
+   "462"
+  ],
+  "answer": 1,
+  "explanation": "Channels = n(n − 1) ÷ 2 = 22 × 21 ÷ 2 = 231.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Communication",
+  "body": "A project has 25 stakeholders (including the project manager). How many communication channels are there?",
+  "options": [
+   "325",
+   "600",
+   "300",
+   "50"
+  ],
+  "answer": 2,
+  "explanation": "Channels = n(n − 1) ÷ 2 = 25 × 24 ÷ 2 = 300.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Communication",
+  "body": "A project has 12 stakeholders (including the project manager). How many communication channels are there?",
+  "options": [
+   "78",
+   "66",
+   "24",
+   "132"
+  ],
+  "answer": 1,
+  "explanation": "Channels = n(n − 1) ÷ 2 = 12 × 11 ÷ 2 = 66.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Communication",
+  "body": "A project has 7 stakeholders (including the project manager). How many communication channels are there?",
+  "options": [
+   "21",
+   "28",
+   "42",
+   "14"
+  ],
+  "answer": 0,
+  "explanation": "Channels = n(n − 1) ÷ 2 = 7 × 6 ÷ 2 = 21.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Communication",
+  "body": "A project has 10 stakeholders (including the project manager). How many communication channels are there?",
+  "options": [
+   "55",
+   "45",
+   "90",
+   "20"
+  ],
+  "answer": 1,
+  "explanation": "Channels = n(n − 1) ÷ 2 = 10 × 9 ÷ 2 = 45.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMF",
+  "topic": "Communication",
+  "body": "A team grows from 9 to 12 people. How many communication channels are added?",
+  "options": [
+   "3",
+   "30",
+   "66",
+   "102"
+  ],
+  "answer": 1,
+  "explanation": "Before: 36; after: 66; added: 30.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Communication",
+  "body": "A team grows from 10 to 13 people. How many communication channels are added?",
+  "options": [
+   "33",
+   "3",
+   "123",
+   "78"
+  ],
+  "answer": 0,
+  "explanation": "Before: 45; after: 78; added: 33.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Communication",
+  "body": "A team grows from 5 to 10 people. How many communication channels are added?",
+  "options": [
+   "55",
+   "5",
+   "45",
+   "35"
+  ],
+  "answer": 3,
+  "explanation": "Before: 10; after: 45; added: 35.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Communication",
+  "body": "A team grows from 7 to 10 people. How many communication channels are added?",
+  "options": [
+   "3",
+   "45",
+   "66",
+   "24"
+  ],
+  "answer": 3,
+  "explanation": "Before: 21; after: 45; added: 24.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Communication",
+  "body": "A team grows from 7 to 9 people. How many communication channels are added?",
+  "options": [
+   "57",
+   "36",
+   "2",
+   "15"
+  ],
+  "answer": 3,
+  "explanation": "Before: 21; after: 36; added: 15.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Communication",
+  "body": "A team grows from 6 to 11 people. How many communication channels are added?",
+  "options": [
+   "55",
+   "5",
+   "40",
+   "70"
+  ],
+  "answer": 2,
+  "explanation": "Before: 15; after: 55; added: 40.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Scheduling",
+  "body": "Activities: A (5 days) → B (2 days) → D (7 days); A → C (3 days) → D; and E (7 days) → D. All paths end with D. What is the project duration?",
+  "options": [
+   "15 days",
+   "24 days",
+   "14 days",
+   "8 days"
+  ],
+  "answer": 0,
+  "explanation": "Paths: A-B-D = 14, A-C-D = 15, E-D = 14. The critical path is the longest: 15 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Scheduling",
+  "body": "Activities: A (5 days) → B (6 days) → D (6 days); A → C (4 days) → D; and E (4 days) → D. All paths end with D. What is the project duration?",
+  "options": [
+   "25 days",
+   "17 days",
+   "15 days",
+   "10 days"
+  ],
+  "answer": 1,
+  "explanation": "Paths: A-B-D = 17, A-C-D = 15, E-D = 10. The critical path is the longest: 17 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Scheduling",
+  "body": "Activities: A (3 days) → B (7 days) → D (5 days); A → C (3 days) → D; and E (8 days) → D. All paths end with D. What is the project duration?",
+  "options": [
+   "10 days",
+   "11 days",
+   "15 days",
+   "26 days"
+  ],
+  "answer": 2,
+  "explanation": "Paths: A-B-D = 15, A-C-D = 11, E-D = 13. The critical path is the longest: 15 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Scheduling",
+  "body": "Activities: A (8 days) → B (7 days) → D (2 days); A → C (8 days) → D; and E (10 days) → D. All paths end with D. What is the project duration?",
+  "options": [
+   "18 days",
+   "17 days",
+   "35 days",
+   "12 days"
+  ],
+  "answer": 0,
+  "explanation": "Paths: A-B-D = 17, A-C-D = 18, E-D = 12. The critical path is the longest: 18 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Scheduling",
+  "body": "Activities: A (5 days) → B (3 days) → D (7 days); A → C (4 days) → D; and E (7 days) → D. All paths end with D. What is the project duration?",
+  "options": [
+   "14 days",
+   "26 days",
+   "15 days",
+   "16 days"
+  ],
+  "answer": 3,
+  "explanation": "Paths: A-B-D = 15, A-C-D = 16, E-D = 14. The critical path is the longest: 16 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Scheduling",
+  "body": "Activities: A (5 days) → B (4 days) → D (7 days); A → C (5 days) → D; and E (9 days) → D. All paths end with D. What is the project duration?",
+  "options": [
+   "30 days",
+   "10 days",
+   "16 days",
+   "17 days"
+  ],
+  "answer": 3,
+  "explanation": "Paths: A-B-D = 16, A-C-D = 17, E-D = 16. The critical path is the longest: 17 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Scheduling",
+  "body": "Activities: A (6 days) → B (5 days) → D (8 days); A → C (8 days) → D; and E (11 days) → D. All paths end with D. What is the project duration?",
+  "options": [
+   "22 days",
+   "38 days",
+   "19 days",
+   "14 days"
+  ],
+  "answer": 0,
+  "explanation": "Paths: A-B-D = 19, A-C-D = 22, E-D = 19. The critical path is the longest: 22 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Scheduling",
+  "body": "Activities: A (2 days) → B (4 days) → D (8 days); A → C (6 days) → D; and E (10 days) → D. All paths end with D. What is the project duration?",
+  "options": [
+   "30 days",
+   "14 days",
+   "12 days",
+   "18 days"
+  ],
+  "answer": 3,
+  "explanation": "Paths: A-B-D = 14, A-C-D = 16, E-D = 18. The critical path is the longest: 18 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Scheduling",
+  "body": "Activities: A (5 days) → B (3 days) → D (2 days); A → C (7 days) → D; and E (5 days) → D. All paths end with D. What is the project duration?",
+  "options": [
+   "10 days",
+   "7 days",
+   "22 days",
+   "14 days"
+  ],
+  "answer": 3,
+  "explanation": "Paths: A-B-D = 10, A-C-D = 14, E-D = 7. The critical path is the longest: 14 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Scheduling",
+  "body": "Activities: A (5 days) → B (7 days) → D (5 days); A → C (6 days) → D; and E (11 days) → D. All paths end with D. What is the project duration?",
+  "options": [
+   "17 days",
+   "12 days",
+   "16 days",
+   "34 days"
+  ],
+  "answer": 0,
+  "explanation": "Paths: A-B-D = 17, A-C-D = 16, E-D = 16. The critical path is the longest: 17 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Scheduling",
+  "body": "Activities: A (3 days) → B (7 days) → D (5 days); A → C (4 days) → D; and E (3 days) → D. All paths end with D. What is the project duration?",
+  "options": [
+   "15 days",
+   "12 days",
+   "22 days",
+   "8 days"
+  ],
+  "answer": 0,
+  "explanation": "Paths: A-B-D = 15, A-C-D = 12, E-D = 8. The critical path is the longest: 15 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PMF",
+  "topic": "Scheduling",
+  "body": "Activities: A (5 days) → B (5 days) → D (6 days); A → C (2 days) → D; and E (12 days) → D. All paths end with D. What is the project duration?",
+  "options": [
+   "18 days",
+   "11 days",
+   "30 days",
+   "13 days"
+  ],
+  "answer": 0,
+  "explanation": "Paths: A-B-D = 16, A-C-D = 13, E-D = 18. The critical path is the longest: 18 days.",
+  "difficulty": 3
  }
 ]

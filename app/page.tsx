@@ -30,6 +30,11 @@ export default function Home() {
           <Link className="btn block" href="/nmc-cbt">Start practising</Link>
         </div>
         <div className="card">
+          <h2 style={{ marginTop: 0 }}>📋 Project Management</h2>
+          <p>PRINCE2 7 Foundation, Scrum PSM I and CAPM-style practice tests, with daily questions on Telegram.</p>
+          <Link className="btn block" href="/project-management">Start practising</Link>
+        </div>
+        <div className="card">
           <h2 style={{ marginTop: 0 }}>🧯 Fire Marshal training</h2>
           <p>8 short online modules, a final assessment and a certificate valid for 12 months. Company accounts with training records.</p>
           <Link className="btn block" href="/fire-marshal">Learn more</Link>

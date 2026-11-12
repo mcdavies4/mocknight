@@ -1,7 +1,7 @@
 import { InlineKeyboard } from "grammy";
 import { subjectName } from "@/lib/subjects";
 import { formatHour } from "@/lib/time";
-import { getTrack, regionsFor, TRACK_LIST } from "@/lib/tracks";
+import { getTrack, regionsFor, TRACK_LIST, variantsFor } from "@/lib/tracks";
 import type { Student } from "@/lib/types";
 import { env } from "@/lib/env";
 
@@ -47,9 +47,10 @@ export function timeKb() {
 export function menuKb(student: Student) {
   const track = getTrack(student.track);
   const kb = new InlineKeyboard().text("📝 Today's drill", "drill:start");
-  if (track.mockVariants?.length) {
+  const variants = variantsFor(track, student.subjects);
+  if (variants.length) {
     kb.row();
-    track.mockVariants.forEach((v) => kb.webApp(`🧪 ${v.short}`, `${env.appUrl}/mock?variant=${v.key}`));
+    variants.forEach((v) => kb.webApp(`🧪 ${v.short}`, `${env.appUrl}/mock?variant=${v.key}`));
     kb.row();
   } else {
     kb.webApp(track.subjectMode === "single" ? "🧪 Practice test" : "🖥 Practice CBT", `${env.appUrl}/mock`).row();

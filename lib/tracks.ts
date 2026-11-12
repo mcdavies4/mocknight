@@ -2,7 +2,7 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "LUK" | "FIRE" | "NMC";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "LUK" | "FIRE" | "NMC" | "PM";
 export type ScoreStyle = "jamb400" | "percent" | "passfail";
 
 export interface MockVariant {
@@ -112,6 +112,19 @@ export const TRACKS: Record<TrackCode, Track> = {
     plans: ["nmc_pass"], tagline: "Part A numeracy and Part B clinical practice tests for the NMC CBT", timeZone: "Europe/London",
     audience: "an internationally educated nurse preparing for the UK NMC CBT (Test of Competence Part 1)",
   },
+  PM: {
+    code: "PM", name: "Project Management (PRINCE2, Scrum, CAPM)", short: "Project Management", emoji: "📋", kind: "professional", region: "GLOBAL", currency: "GBP",
+    subjectMode: "multi", subjects: ["PRN", "SCR", "PMF"], compulsory: [], minSubjects: 1, maxSubjects: 3, subjectNote: "Pick the certifications you're preparing for",
+    mock: { total: 60, minutes: 60, passPct: 60, scoreStyle: "passfail", maxSubjects: 1 },
+    mockVariants: [
+      { key: "PRN", label: "PRINCE2® 7 Foundation", short: "PRINCE2", subjects: ["PRN"], total: 60, minutes: 60, passPct: 60, note: "60 questions · 60 min · 36 to pass" },
+      { key: "SCR", label: "Scrum — PSM I style", short: "Scrum", subjects: ["SCR"], total: 80, minutes: 60, passPct: 85, note: "80 questions · 60 min · 85% to pass" },
+      { key: "PMF", label: "CAPM-style fundamentals", short: "CAPM", subjects: ["PMF"], total: 50, minutes: 60, passPct: 70, note: "50 questions · 60 min · practice target 70%" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["pm_pass", "pm_pass_ngn"], tagline: "PRINCE2 Foundation, Scrum PSM I and CAPM practice tests", timeZone: "Europe/London",
+    audience: "a working professional preparing for project management certifications (PRINCE2 7 Foundation, Scrum.org PSM I, PMI CAPM)",
+  },
 };
 
 export const TRACK_LIST = Object.values(TRACKS);
@@ -140,4 +153,12 @@ export function mockConfig(t: Track, variantKey?: string | null) {
     return { variant: d.key, label: d.label, subjects: d.subjects, perSubject: d.total, minutes: d.minutes, passPct: d.passPct, scoreStyle: t.mock.scoreStyle };
   }
   return { variant: null, label: null, subjects: null as string[] | null, perSubject: mockPerSubject(t), minutes: t.mock.minutes, passPct: t.mock.passPct, scoreStyle: t.mock.scoreStyle };
+}
+
+/** Practice-test variants relevant to this learner (multi-subject tracks only show variants for chosen subjects). */
+export function variantsFor(t: Track, subjects: string[]): MockVariant[] {
+  const all = t.mockVariants ?? [];
+  if (t.subjectMode !== "multi") return all;
+  const mine = all.filter((v) => v.subjects.some((s) => subjects.includes(s)));
+  return mine.length ? mine : all;
 }

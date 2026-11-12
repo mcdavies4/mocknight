@@ -17,9 +17,11 @@ import { government } from "./bank/gov";
 import { lifeInTheUK } from "./bank/luk";
 import { fireSafety } from "./bank/fire";
 import { nmcClinical, nmcNumeracy } from "./bank/nmc";
+import { projectManagement } from "./bank/pm";
+const pm = projectManagement;
 
 const builders: [string, () => Q[]][] = [
-  ["MTH", maths], ["PHY", physics], ["CHM", chemistry], ["ECO", economics], ["ENG", english], ["BIO", biology], ["GOV", government], ["LUK", lifeInTheUK], ["FIR", fireSafety], ["NMN", nmcNumeracy], ["NMC", nmcClinical],
+  ["MTH", maths], ["PHY", physics], ["CHM", chemistry], ["ECO", economics], ["ENG", english], ["BIO", biology], ["GOV", government], ["LUK", lifeInTheUK], ["FIR", fireSafety], ["NMN", nmcNumeracy], ["NMC", nmcClinical], ["PRN", () => pm().PRN], ["SCR", () => pm().SCR], ["PMF", () => pm().PMF],
 ];
 
 mkdirSync("data/bank", { recursive: true });
@@ -48,7 +50,7 @@ for (const [code, build] of builders) {
     console.error(`${code} problems:\n  ` + problems.join("\n  "));
   }
   const topics = new Set(qs.map((q) => q.topic)).size;
-  console.log(`${code}: ${qs.length} questions across ${topics} topics${qs.length < (["FIR", "NMN", "NMC"].includes(code) ? 100 : 300) ? "  ⚠ under target" : ""}`);
+  console.log(`${code}: ${qs.length} questions across ${topics} topics${qs.length < (["FIR", "NMN", "NMC", "PRN", "SCR", "PMF"].includes(code) ? 100 : 300) ? "  ⚠ under target" : ""}`);
   writeFileSync(`data/bank/${code}.json`, JSON.stringify(qs, null, 1));
   all.push(...qs);
 }

@@ -3,7 +3,7 @@ import { env } from "@/lib/env";
 import { db, must } from "@/lib/supabase";
 import { accessKind, getStudentByTelegram, isPremium, trialDaysLeft, updateStudent, upsertStudent } from "@/lib/students";
 import { subjectName } from "@/lib/subjects";
-import { getTrack, regionsFor, TRACKS, UK_TIME_TRACKS, type TrackCode } from "@/lib/tracks";
+import { getTrack, regionsFor, TRACKS, UK_TIME_TRACKS, variantsFor, type TrackCode } from "@/lib/tracks";
 import { getProgress } from "@/lib/progress";
 import { explain } from "@/lib/ai";
 import { completeLesson, courseStatus, getLessons, issueCertificate, nextLesson } from "@/lib/courses";
@@ -66,14 +66,15 @@ async function welcome(api: Api, s: Student) {
   const trial = (await accessKind(s)) === "trial" ? trialDaysLeft(s) : 0;
   const t = getTrack(s.track);
   const n = premium ? PREMIUM_DAILY_QUESTIONS : FREE_DAILY_QUESTIONS;
-  const lines = t.mockVariants?.length
+  const vs = variantsFor(t, s.subjects);
+  const lines = vs.length
     ? [
-        `Welcome, ${s.first_name ?? "there"} 🩺`,
+        `Welcome, ${s.first_name ?? "there"} ${t.emoji}`,
         "",
-        `📝 *Daily practice* at ${formatHour(s.drill_hour)} (UK time): numeracy and clinical questions. Anything you miss comes back until you get it right.`,
-        ...t.mockVariants.map((v) => `🧪 *${v.label}*: ${v.note ?? ""}`),
-        `📈 *Readiness score*: book your £83 CBT once you're passing consistently.`,
-        `🤖 Get any wrong answer explained step by step — great for drug calculations.`,
+        `📝 *Daily practice* at ${formatHour(s.drill_hour)} (UK time) in ${s.subjects.map(subjectName).join(", ")}. Anything you miss comes back until you get it right.`,
+        ...vs.map((v) => `🧪 *${v.label}*: ${v.note ?? ""}`),
+        t.code === "NMC" ? `📈 *Readiness score*: book your £83 CBT once you're passing consistently.` : `📈 *Readiness score*: book your exam once you're passing consistently.`,
+        t.code === "NMC" ? `🤖 Get any wrong answer explained step by step — great for drug calculations.` : `🤖 Get any wrong answer explained step by step.`,
         "",
         "Start with today's practice?",
       ]
@@ -415,9 +416,10 @@ function register(bot: Bot<Ctx>) {
     if (!isPrivate(ctx)) return;
     const t = getTrack(ctx.student!.track);
     const kb = new InlineKeyboard();
-    if (t.mockVariants?.length) t.mockVariants.forEach((v) => kb.webApp(`▶️ ${v.label}`, `${env.appUrl}/mock?variant=${v.key}`).row());
+    const vs = variantsFor(t, ctx.student!.subjects);
+    if (vs.length) vs.forEach((v) => kb.webApp(`▶️ ${v.label}`, `${env.appUrl}/mock?variant=${v.key}`).row());
     else kb.webApp("▶️ Start practice test", `${env.appUrl}/mock`);
-    const lines = t.mockVariants?.length ? ["Choose a practice test 👇", ...t.mockVariants.map((v) => `• *${v.label}* — ${v.note ?? ""}`)] : ["Open a full timed practice test 👇"];
+    const lines = vs.length ? ["Choose a practice test 👇", ...vs.map((v) => `• *${v.label}* — ${v.note ?? ""}`)] : ["Open a full timed practice test 👇"];
     return ctx.reply(lines.join("\n"), { parse_mode: "Markdown", reply_markup: kb });
   });
 
@@ -575,7 +577,8 @@ function register(bot: Bot<Ctx>) {
     await ctx.answerCallbackQuery();
     await ctx.editMessageText(`Subjects: ${s.subjects.map(subjectName).join(", ")} ✅`);
     // Returning users (from /settings) already have a state — skip straight to done
-    const u = await updateStudent(s.id, { onboarding_step: s.state || !t.askState ? "done" : "state" });
+    const next = t.askState ? (s.state ? "done" : "state") : t.kind === "school" ? "done" : "time";
+    const u = await updateStudent(s.id, { onboarding_step: next });
     if (u.onboarding_step === "done") return ctx.reply("Settings saved ✅", { reply_markup: menuKb(u) });
     return promptStep(ctx.api, u);
   });

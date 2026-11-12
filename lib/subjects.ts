@@ -17,6 +17,9 @@ export const SUBJECTS: Record<string, string> = {
   FIR: "Fire Safety",
   NMN: "Numeracy (Part A)",
   NMC: "Clinical (Part B)",
+  PRN: "PRINCE2 7 Foundation",
+  SCR: "Scrum (PSM I)",
+  PMF: "PM fundamentals (CAPM)",
 };
 
 /** School subjects with questions. Add codes here once you have questions for them. */

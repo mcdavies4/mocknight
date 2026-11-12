@@ -3,7 +3,7 @@ import { authRequest, errorResponse, unauthorized } from "@/lib/request-auth";
 import { accessKind, trialDaysLeft } from "@/lib/students";
 import { getProgress } from "@/lib/progress";
 import { getTodaySession } from "@/lib/drill";
-import { getTrack, regionsFor, TRACK_LIST } from "@/lib/tracks";
+import { getTrack, regionsFor, TRACK_LIST, variantsFor } from "@/lib/tracks";
 import { money, PLANS, FREE_DAILY_QUESTIONS, PREMIUM_DAILY_QUESTIONS } from "@/lib/pricing";
 import { subjectName } from "@/lib/subjects";
 import { referralCount, refLinks } from "@/lib/referrals";
@@ -50,7 +50,7 @@ export async function POST(req: Request) {
       today: today ? { position: today.position, total: today.question_ids.length, correct: today.correct, finished: !!today.finished_at } : null,
       track: track && {
         code: track.code, name: track.name, short: track.short, emoji: track.emoji, subjectMode: track.subjectMode,
-        mock: track.mock, weeklyMock: track.weeklyMock, kind: track.kind, hasCourse: !!track.course, mockVariants: track.mockVariants ?? [],
+        mock: track.mock, weeklyMock: track.weeklyMock, kind: track.kind, hasCourse: !!track.course, mockVariants: variantsFor(track, student.subjects),
       },
       plans: (track?.plans ?? []).map((c) => ({ code: c, label: PLANS[c].label, price: money(PLANS[c].amount, PLANS[c].currency) })),
       // for onboarding
