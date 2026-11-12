@@ -768,7 +768,14 @@ function register(bot: Bot<Ctx>) {
     }
   });
 
-  bot.catch((err) => {
+  bot.catch(async (err) => {
     console.error("bot error", err.error);
+    // Tell the user something went wrong instead of going silent (short reason helps debugging)
+    const reason = err.error instanceof Error ? err.error.message : String(err.error);
+    try {
+      if (err.ctx.chat?.type === "private") await err.ctx.reply(`⚠️ Sorry, something went wrong. Please try again.\n(${reason.slice(0, 140)})`);
+    } catch {
+      /* ignore */
+    }
   });
 }

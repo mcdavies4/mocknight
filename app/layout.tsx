@@ -3,8 +3,8 @@ import Script from "next/script";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Mock Night — JAMB & WAEC practice on Telegram",
-  description: "Daily JAMB and WAEC drills, real CBT practice, and a nationwide mock exam every Sunday night.",
+  title: "Mock Night — exam practice that sticks",
+  description: "Daily practice, real timed tests and certificates: JAMB, WAEC, Post-UTME, WASSCE Ghana, the Life in the UK test and Fire Marshal training.",
 };
 
 export const viewport: Viewport = {
@@ -16,10 +16,11 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <head>
+      <body>
+        {children}
+        {/* Telegram Mini App SDK — Next injects beforeInteractive scripts into <head> */}
         <Script src="https://telegram.org/js/telegram-web-app.js" strategy="beforeInteractive" />
-      </head>
-      <body>{children}</body>
+      </body>
     </html>
   );
 }

@@ -134,22 +134,27 @@ export async function sendCurrentQuestion(api: Api, student: Student, session: D
     "insert drill msg",
   ) as { id: number };
 
+  let sentAsPoll = false;
   if (fitsPoll(q, header)) {
-    const sent = await api.sendPoll(
-      chatId,
-      header + q.body,
-      q.options.map((text) => ({ text })),
-      {
+    try {
+      // Send both the classic (correct_option_id) and newer (correct_option_ids) fields — Telegram ignores the one it doesn't use.
+      const extra = {
         type: "quiz",
         is_anonymous: false,
+        correct_option_id: q.answer_index,
         correct_option_ids: [q.answer_index],
         explanation: q.explanation ? truncate(q.explanation, POLL_EXPLANATION_MAX) : undefined,
-      },
-    );
-    if (sent.poll) {
-      await db().from("drill_messages").update({ poll_id: sent.poll.id }).eq("id", msg.id);
+      } as unknown as Parameters<Api["sendPoll"]>[3];
+      const sent = await api.sendPoll(chatId, header + q.body, q.options.map((text) => ({ text })), extra);
+      if (sent.poll) {
+        await db().from("drill_messages").update({ poll_id: sent.poll.id }).eq("id", msg.id);
+        sentAsPoll = true;
+      }
+    } catch (e) {
+      console.error("sendPoll failed, falling back to buttons", e);
     }
-  } else {
+  }
+  if (!sentAsPoll) {
     // Long question: plain message + A/B/C/D buttons
     const text =
       header +
