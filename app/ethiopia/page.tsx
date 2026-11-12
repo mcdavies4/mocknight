@@ -11,7 +11,7 @@ const FAQ: [string, string][] = [
   ["Which subjects are covered?", "English, Mathematics and Scholastic Aptitude for everyone, plus Biology, Chemistry and Physics for Natural Science, or Economics, Geography and History for Social Science."],
   ["Is it like the real exam?", "The national exam is moving online, so we give you the same kind of timed computer test: choose an answer, flag questions, and get your score with each subject out of 100. 50% is the pass line."],
   ["Are these real past papers?", "No. Questions are written independently for practice, following the Grade 9–12 curriculum. Use your textbooks and the Ministry's model exams too."],
-  ["How do I pay?", "Practice is free for 14 days. After that, Premium is 150 Birr for 30 days or 400 Birr until the exam, with Telebirr, CBE Birr or card through Chapa."],
+  ["How do I pay?", "Everything is free for 14 days, and daily practice stays free after that. Premium is $2.99 for 30 days or $7.99 until the exam, paid by card — a parent or relative abroad can pay for you too."],
 ];
 
 export default function Ethiopia() {

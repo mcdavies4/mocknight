@@ -1,5 +1,5 @@
 // Amounts in minor units (kobo, pence, santim, paise). Change here, nowhere else.
-export type Currency = "NGN" | "GBP" | "ETB" | "INR";
+export type Currency = "NGN" | "GBP" | "ETB" | "INR" | "USD";
 export type SeatCurrency = "NGN" | "GBP";
 
 export interface Plan {
@@ -18,8 +18,9 @@ export const PLANS: Record<string, Plan> = {
   nmc_pass: { code: "nmc_pass", label: "NMC CBT — full access, 90 days", amount: 19_99, currency: "GBP", days: 90, provider: "stripe" },
   pm_pass: { code: "pm_pass", label: "Project Management — full access, 90 days", amount: 14_99, currency: "GBP", days: 90, provider: "stripe" },
   pm_pass_ngn: { code: "pm_pass_ngn", label: "Project Management — 90 days (pay in naira)", amount: 12_000_00, currency: "NGN", days: 90, provider: "paystack" },
-  eth_month: { code: "eth_month", label: "Grade 12 Premium — 30 days", amount: 150_00, currency: "ETB", days: 30, provider: "chapa" },
-  eth_season: { code: "eth_season", label: "Grade 12 Premium — till exam (120 days)", amount: 400_00, currency: "ETB", days: 120, provider: "chapa" },
+  // Ethiopia: card payments via Stripe in USD (Chapa needs an Ethiopian business licence — switch back to provider "chapa" + ETB if you get one)
+  eth_month: { code: "eth_month", label: "Grade 12 Premium — 30 days", amount: 2_99, currency: "USD", days: 30, provider: "stripe" },
+  eth_season: { code: "eth_season", label: "Grade 12 Premium — till exam (120 days)", amount: 7_99, currency: "USD", days: 120, provider: "stripe" },
   ssc_quarter: { code: "ssc_quarter", label: "SSC Premium — 90 days", amount: 199_00, currency: "INR", days: 90, provider: "stripe" },
   ssc_year: { code: "ssc_year", label: "SSC Premium — 12 months", amount: 499_00, currency: "INR", days: 365, provider: "stripe" },
   fire_individual: { code: "fire_individual", label: "Fire Marshal course + certificate (12 months)", amount: 14_99, currency: "GBP", days: 365, provider: "stripe" },
@@ -55,6 +56,7 @@ export function money(amount: number, currency: Currency = "NGN") {
   const v = amount / 100;
   if (currency === "GBP") return `£${v.toFixed(2)}`;
   if (currency === "ETB") return `${v.toLocaleString("en-US")} Birr`;
+  if (currency === "USD") return `$${v.toFixed(2)}`;
   if (currency === "INR") return `₹${v.toLocaleString("en-IN")}`;
   return `₦${v.toLocaleString("en-NG")}`;
 }
