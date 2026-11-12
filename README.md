@@ -7,6 +7,17 @@ Exam practice for **JAMB, WAEC and the Life in the UK Test**, on Telegram and on
 | JAMB | Telegram + web | 15 per subject, 30 min, score /400; Sunday Mock Night | Paystack (₦) |
 | WAEC | Telegram + web | 15 per subject, 30 min; Sunday Mock Night | Paystack (₦) |
 | Life in the UK | Web + Telegram | 24 questions, 45 min, 18 to pass; readiness score | Stripe (£) |
+| Post-UTME | Telegram + web | 12 per subject, 40 min | Paystack (₦) |
+| WASSCE Ghana | Telegram + web | 15 per subject, 30 min; Mock Night (by region) | Free |
+| Fire Marshal | Web + Telegram | 8 lesson modules + 20-question final (80%), PDF certificate 12 months | Stripe (£), company seats |
+
+**Growth & learning features**
+- Shareable result cards (`/api/card/[attemptId]`, share page `/r/[attemptId]`) with the sharer's invite link
+- Referrals: `/join/CODE` or `t.me/BOT?start=r_CODE`; both sides get 3 Premium days when the friend finishes their first practice
+- "Explain it to me" AI explanations (Claude Haiku), cached per question/answer, 3/day free, 40/day Premium
+- Weekly parent reports by email (Sunday 6pm WAT) via Resend — `/parent email` in the bot or the web dashboard
+- Connect Telegram to a web account (one shared account and progress)
+- Courses: lessons in `data/courses/<TRACK>.json`, certificates (`/api/cert/[no]`, verify at `/verify/[no]`), 30-day expiry reminders, company dashboard with training records CSV
 
 To add a track: add it to `lib/tracks.ts`, its plan to `lib/pricing.ts`, write a generator in `scripts/bank/`, then run `npm run build-bank` and import.
 

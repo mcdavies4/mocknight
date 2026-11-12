@@ -2,20 +2,25 @@ import { Bot, Context, InlineKeyboard, type Api } from "grammy";
 import { env } from "@/lib/env";
 import { db, must } from "@/lib/supabase";
 import { getStudentByTelegram, isPremium, updateStudent, upsertStudent } from "@/lib/students";
-import { STATES, subjectName } from "@/lib/subjects";
-import { getTrack, TRACKS, type TrackCode } from "@/lib/tracks";
+import { subjectName } from "@/lib/subjects";
+import { getTrack, regionsFor, TRACKS, UK_TIME_TRACKS, type TrackCode } from "@/lib/tracks";
 import { getProgress } from "@/lib/progress";
+import { explain } from "@/lib/ai";
+import { completeLesson, courseStatus, getLessons, issueCertificate, nextLesson } from "@/lib/courses";
 import { formatHour, formatWat, nextSundayWat, watToUtc } from "@/lib/time";
 import { getOrCreateTodaySession, recordDrillAnswer, sendCurrentQuestion, streakDays } from "@/lib/drill";
 import { getLatestFinishedWeeklyMock, getOpenWeeklyMock, WEEKLY } from "@/lib/mock";
 import { createCheckout } from "@/lib/payments";
 import { createGroup, getGroupByCode, groupsOwnedBy, joinGroup, joinLink, memberCount } from "@/lib/groups";
 import { signToken } from "@/lib/auth";
-import { money, naira, PLANS, SEAT_PRICE_KOBO, FREE_DAILY_QUESTIONS, PREMIUM_DAILY_QUESTIONS } from "@/lib/pricing";
+import { attachReferrer, redeemLinkCode, referralCount, refLinks } from "@/lib/referrals";
+import { REFERRAL_DAYS } from "@/lib/pricing";
+import { money, PLANS, SEATS, FREE_DAILY_QUESTIONS, PREMIUM_DAILY_QUESTIONS } from "@/lib/pricing";
 import type { Student } from "@/lib/types";
 import { menuKb, statesKb, subjectsKb, timeKb, trackKb } from "./keyboards";
 
 type Ctx = Context & { student?: Student };
+const isUkTime = (s: Student) => UK_TIME_TRACKS.includes((s.track ?? "") as TrackCode);
 
 const LETTERS = ["A", "B", "C", "D", "E"];
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
@@ -41,11 +46,11 @@ async function promptStep(api: Api, s: Student) {
     case "subjects":
       return api.sendMessage(chat, subjectsText(s), { reply_markup: subjectsKb(s) });
     case "state":
-      return api.sendMessage(chat, "Which state are you in? (for the state leaderboard)", { reply_markup: statesKb() });
+      return api.sendMessage(chat, `${getTrack(s.track).regionLabel ?? "Which state are you in?"} (for the leaderboard)`, { reply_markup: statesKb(s) });
     case "school":
-      return api.sendMessage(chat, "What's the name of your school? Type it below, or send /skip.");
+      return api.sendMessage(chat, `${getTrack(s.track).schoolLabel ?? "What's the name of your school?"} Type it below, or send /skip.`);
     case "time":
-      return api.sendMessage(chat, `What time should your daily practice arrive? (${s.track === "LUK" ? "UK" : "Nigeria"} time)`, { reply_markup: timeKb() });
+      return api.sendMessage(chat, `What time should your daily practice arrive? (${isUkTime(s) ? "UK" : "Nigeria"} time)`, { reply_markup: timeKb() });
     default:
       return api.sendMessage(chat, "What would you like to do?", { reply_markup: menuKb(s) });
   }
@@ -60,8 +65,18 @@ async function welcome(api: Api, s: Student) {
   const premium = await isPremium(s);
   const t = getTrack(s.track);
   const n = premium ? PREMIUM_DAILY_QUESTIONS : FREE_DAILY_QUESTIONS;
-  const lines =
-    t.code === "LUK"
+  const lines = t.course
+    ? [
+        `Welcome, ${s.first_name ?? "there"} 🧯`,
+        "",
+        `📚 *${getLessons(t.code).length} short modules* — about 30 minutes in total. Read one a day or all at once.`,
+        `📝 *Daily practice* at ${formatHour(s.drill_hour)} (UK time) to make it stick.`,
+        `🧪 *Final assessment*: ${t.mock.total} questions, ${t.mock.passPct}% to pass.`,
+        `🎓 *Certificate* valid for 12 months, with a reminder before it expires.`,
+        "",
+        "Start with module 1?",
+      ]
+    : t.code === "LUK"
       ? [
           `You're set, ${s.first_name ?? "friend"} 🇬🇧`,
           "",
@@ -75,12 +90,15 @@ async function welcome(api: Api, s: Student) {
           `You're set, ${s.first_name ?? "champ"} 🎯`,
           "",
           `📝 *Daily drill* at ${formatHour(s.drill_hour)}: ${n} questions in your subjects. Questions you miss come back until you get them right.`,
-          `🏆 *Mock Night* every Sunday ${formatHour(WEEKLY.startHour)}: everyone in Nigeria sits the same timed CBT. Leaderboard Monday morning.`,
+          `🏆 *Mock Night* every Sunday ${formatHour(WEEKLY.startHour)}: every student sits the same timed CBT. Leaderboard Monday morning.`,
           `🖥 *Practice CBT*: a real exam-style screen with timer and calculator.`,
           "",
           "Want to do your first drill now?",
         ];
-  return api.sendMessage(s.telegram_id!, lines.join("\n"), { parse_mode: "Markdown", reply_markup: menuKb(s) });
+  return api.sendMessage(s.telegram_id!, lines.join("\n"), {
+    parse_mode: "Markdown",
+    reply_markup: t.course ? new InlineKeyboard().text("📚 Start module 1", "lesson:next").row().text("Menu", "menu") : menuKb(s),
+  });
 }
 
 // ---------------------------------------------------------------------------
@@ -179,7 +197,7 @@ async function sendMockNightInfo(api: Api, s: Student) {
       `🏆 *Mock Night* — every Sunday at ${formatHour(WEEKLY.startHour)}`,
       `Next one: *${formatWat(when.toISOString())}*`,
       "",
-      `• Same questions for every student in Nigeria`,
+      `• Same questions for every student`,
       `• ${WEEKLY.minutes} minutes, CBT format, ${WEEKLY.perSubject} questions per subject`,
       `• National + state leaderboard Monday 8am`,
       `• Free for everyone`,
@@ -213,6 +231,9 @@ const medal = (rank: number) => (rank === 1 ? "🥇" : rank === 2 ? "🥈" : ran
 async function sendPremium(api: Api, s: Student) {
   const premium = await isPremium(s);
   const t = getTrack(s.track);
+  if (!t.plans.length) {
+    return api.sendMessage(s.telegram_id!, `🎉 ${t.short} is completely free right now — unlimited drills and practice tests. Tell your friends: /invite`, { reply_markup: menuKb(s) });
+  }
   const kb = new InlineKeyboard();
   for (const code of t.plans) kb.text(`${PLANS[code].label} · ${money(PLANS[code].amount, PLANS[code].currency)}`, `pay:${code}`).row();
   const perks =
@@ -241,6 +262,28 @@ function register(bot: Bot<Ctx>) {
     if (!isPrivate(ctx)) return ctx.reply(`Message me privately to start: https://t.me/${env.botUsername}`);
     const payload = ctx.match?.trim() ?? "";
 
+    if (payload.startsWith("l_")) {
+      const res = await redeemLinkCode(payload.slice(2), s);
+      const msg = {
+        linked: "✅ Telegram is now connected to your web account. Your progress is shared, and daily reminders will come here.",
+        already: "This Telegram account is already connected ✅",
+        expired: "That link has expired. Open your dashboard on the web and tap 'Connect Telegram' again.",
+        other_telegram: "That web account is already connected to a different Telegram account.",
+      }[res];
+      await ctx.reply(msg);
+      if (res === "linked") {
+        const merged = await getStudentByTelegram(ctx.from!.id);
+        if (merged) return promptStep(ctx.api, merged);
+      }
+      return;
+    }
+
+    if (payload.startsWith("r_")) {
+      if (await attachReferrer(s, payload.slice(2))) {
+        await ctx.reply(`🎁 You were invited by a friend — finish your first practice and you'll both get ${REFERRAL_DAYS} days of Premium.`);
+      }
+    }
+
     if (payload.startsWith("g_")) {
       const group = await getGroupByCode(payload.slice(2));
       if (group) {
@@ -265,6 +308,49 @@ function register(bot: Bot<Ctx>) {
     return promptStep(ctx.api, s);
   });
 
+  const sendInvite = async (api: Api, s: Student) => {
+    const links = refLinks(s);
+    const { joined, rewarded } = await referralCount(s.id);
+    return api.sendMessage(
+      s.telegram_id!,
+      [
+        "🎁 *Invite friends, get Premium*",
+        `When a friend joins with your link and finishes their first practice, you *both* get ${REFERRAL_DAYS} days of Premium.`,
+        "",
+        `Telegram link: ${links.telegram}`,
+        `Web link: ${links.web}`,
+        "",
+        `Friends joined: ${joined} · Rewards earned: ${rewarded}`,
+      ].join("\n"),
+      {
+        parse_mode: "Markdown",
+        link_preview_options: { is_disabled: true },
+        reply_markup: new InlineKeyboard().url(
+          "📤 Share my link",
+          `https://t.me/share/url?url=${encodeURIComponent(links.telegram)}&text=${encodeURIComponent("I'm practising for my exam with Mock Night — join me 👇")}`,
+        ),
+      },
+    );
+  };
+  bot.command("invite", (ctx) => (isPrivate(ctx) ? sendInvite(ctx.api, ctx.student!) : undefined));
+  bot.callbackQuery("invite", async (ctx) => {
+    await ctx.answerCallbackQuery();
+    return sendInvite(ctx.api, ctx.student!);
+  });
+
+  bot.command("parent", async (ctx) => {
+    if (!isPrivate(ctx)) return;
+    const email = (ctx.match ?? "").trim();
+    if (email.toLowerCase() === "off") {
+      await updateStudent(ctx.student!.id, { parent_email: null });
+      return ctx.reply("Weekly parent reports turned off.");
+    }
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+      return ctx.reply("Send your parent's or guardian's email like this:\n/parent mum@example.com\n\nThey'll get a short progress report every Sunday. Send /parent off to stop.");
+    }
+    await updateStudent(ctx.student!.id, { parent_email: email.toLowerCase() });
+    return ctx.reply(`✅ Weekly progress reports will go to ${email} every Sunday evening.`);
+  });
   bot.command("help", (ctx) =>
     ctx.reply(
       [
@@ -278,6 +364,11 @@ function register(bot: Bot<Ctx>) {
         "/settings — exam, subjects, state",
         "/time — change drill time",
         "/join CODE — join your tutor's group",
+        "/invite — invite friends, earn Premium",
+        "/parent email — weekly report for a parent",
+        "/explain — get the last question explained",
+        "/lesson — next course module (Fire Marshal)",
+        "/certificate — get your course certificate",
         "",
         "*Tutors & tutorial centres*",
         "/newgroup Name — create a group with a join link",
@@ -316,7 +407,7 @@ function register(bot: Bot<Ctx>) {
   });
 
   bot.command("time", (ctx) =>
-    isPrivate(ctx) ? ctx.reply(`When should your daily practice arrive? (${ctx.student!.track === "LUK" ? "UK" : "Nigeria"} time)`, { reply_markup: timeKb() }) : undefined,
+    isPrivate(ctx) ? ctx.reply(`When should your daily practice arrive? (${isUkTime(ctx.student!) ? "UK" : "Nigeria"} time)`, { reply_markup: timeKb() }) : undefined,
   );
 
   bot.command("skip", async (ctx) => {
@@ -341,7 +432,9 @@ function register(bot: Bot<Ctx>) {
     if (!isPrivate(ctx)) return;
     const name = ctx.match?.trim();
     if (!name) return ctx.reply("Give your group a name, e.g.\n/newgroup Excel Tutorials Lugbe");
-    const group = await createGroup(ctx.student!, name);
+    const cur = getTrack(ctx.student!.track).currency;
+    const group = await createGroup(ctx.student!, name, cur);
+    const seat = SEATS[cur];
     return ctx.reply(
       [
         `✅ *${group.name}* created. Code: \`${group.join_code}\``,
@@ -349,7 +442,7 @@ function register(bot: Bot<Ctx>) {
         "Share this link with your students — one tap and they're in:",
         joinLink(env.botUsername, group),
         "",
-        `• /seats N — give N students Premium (${naira(SEAT_PRICE_KOBO)} per student / 30 days)`,
+        `• /seats N — give N learners full access (${money(seat.amount, cur)} ${seat.per})`,
         "• /dashboard — see who's practising and their scores",
         `• Add me to your Telegram group and send \`/linkgroup ${group.join_code}\` there to get weekly results posted`,
       ].join("\n"),
@@ -379,10 +472,12 @@ function register(bot: Bot<Ctx>) {
     const groups = await groupsOwnedBy(ctx.student!.id);
     const group = codeRaw ? groups.find((g) => g.join_code === codeRaw.toUpperCase()) : groups[0];
     if (!group) return ctx.reply("Create a group first with /newgroup Name");
-    const url = await createCheckout(ctx.student!, "seats", { group, seats: n });
-    return ctx.reply(`${n} Premium seats for *${group.name}* — ${naira(n * SEAT_PRICE_KOBO)} for 30 days.\nSeats go to your earliest-joined students first.`, {
+    const url = await createCheckout(ctx.student!, "seats", { group, seats: n, returnTo: "telegram" });
+    const seat = SEATS[group.currency ?? "NGN"];
+    const total = money(n * seat.amount, group.currency ?? "NGN");
+    return ctx.reply(`${n} seats for *${group.name}* — ${total} (${money(seat.amount, group.currency ?? "NGN")} ${seat.per}).\nSeats go to your earliest-joined learners first.`, {
       parse_mode: "Markdown",
-      reply_markup: new InlineKeyboard().url(`Pay ${naira(n * SEAT_PRICE_KOBO)}`, url),
+      reply_markup: new InlineKeyboard().url(`Pay ${total}`, url),
     });
   });
 
@@ -417,7 +512,8 @@ function register(bot: Bot<Ctx>) {
     const s = ctx.student!;
     await ctx.answerCallbackQuery();
     if (t.subjectMode === "single") {
-      const u = await updateStudent(s.id, { track: code, subjects: t.subjects, onboarding_step: s.drill_hour && s.onboarding_step === "exam" && s.track ? "done" : "time" });
+      const returning = s.onboarding_step === "exam" && !!s.track;
+      const u = await updateStudent(s.id, { track: code, subjects: t.subjects, onboarding_step: returning ? "done" : t.askSchool ? "school" : "time" });
       await ctx.editMessageText(`${t.emoji} ${t.name} ✅`);
       return u.onboarding_step === "done" ? ctx.reply("Settings saved ✅", { reply_markup: menuKb(u) }) : promptStep(ctx.api, u);
     }
@@ -457,7 +553,7 @@ function register(bot: Bot<Ctx>) {
   });
 
   bot.callbackQuery(/^ob:st:(\d+)$/, async (ctx) => {
-    const state = STATES[Number(ctx.match[1])];
+    const state = regionsFor(getTrack(ctx.student!.track))[Number(ctx.match[1])];
     if (!state) return ctx.answerCallbackQuery();
     const u = await updateStudent(ctx.student!.id, { state, onboarding_step: getTrack(ctx.student!.track).askSchool ? "school" : "time" });
     await ctx.answerCallbackQuery();
@@ -491,6 +587,10 @@ function register(bot: Bot<Ctx>) {
   bot.callbackQuery("drill:start", async (ctx) => {
     await ctx.answerCallbackQuery();
     return startDrill(ctx.api, ctx.student!);
+  });
+  bot.callbackQuery("menu", async (ctx) => {
+    await ctx.answerCallbackQuery();
+    return ctx.reply("What would you like to do?", { reply_markup: menuKb(ctx.student!) });
   });
   bot.callbackQuery("stats", async (ctx) => {
     await ctx.answerCallbackQuery();
@@ -537,6 +637,12 @@ function register(bot: Bot<Ctx>) {
     const res = await recordDrillAnswer(s, msg.id, chosen);
     if (!res) return;
     await afterAnswer(ctx.api, s, res.question.explanation, true);
+    if (!res.correct) {
+      await ctx.api.sendMessage(s.telegram_id!, "Not quite — want it explained?", {
+        reply_markup: new InlineKeyboard().text("🤖 Explain it to me", `ex:${res.question.id}`),
+        disable_notification: true,
+      });
+    }
     await sleep(700); // let them read Telegram's explanation popup
     await sendCurrentQuestion(ctx.api, s, res.session);
   });
@@ -552,8 +658,107 @@ function register(bot: Bot<Ctx>) {
       ? `\n\n✅ Correct — ${LETTERS[q.answer_index]}`
       : `\n\n❌ You chose ${LETTERS[Number(ctx.match[2])]}. Answer: ${LETTERS[q.answer_index]}. ${q.options[q.answer_index]}`;
     const base = ctx.callbackQuery.message && "text" in ctx.callbackQuery.message ? ctx.callbackQuery.message.text ?? "" : "";
-    await ctx.editMessageText((base + verdict + (q.explanation ? `\n💡 ${q.explanation}` : "")).slice(0, 4096));
+    await ctx.editMessageText((base + verdict + (q.explanation ? `\n💡 ${q.explanation}` : "")).slice(0, 4096), {
+      reply_markup: res.correct ? undefined : new InlineKeyboard().text("🤖 Explain it to me", `ex:${q.id}`),
+    });
     await sendCurrentQuestion(ctx.api, s, res.session);
+  });
+
+  // ---- Courses (lessons + certificates) -------------------------------------
+  const sendLesson = async (api: Api, s: Student, lessonId?: string) => {
+    const lessons = getLessons(s.track);
+    if (!lessons.length) return api.sendMessage(s.telegram_id!, "Lessons are only available on course tracks (e.g. Fire Marshal). Change course in ⚙️ Settings.");
+    const lesson = lessonId ? lessons.find((l) => l.id === lessonId) : await nextLesson(s);
+    if (!lesson) {
+      const st = await courseStatus(s);
+      return api.sendMessage(
+        s.telegram_id!,
+        st?.bestPass
+          ? "✅ You've finished every module and passed the final assessment. Get your certificate with /certificate"
+          : "✅ You've finished every module! Now take the final assessment (20 questions, 80% to pass) to earn your certificate.",
+        { reply_markup: st?.bestPass ? undefined : new InlineKeyboard().webApp("🧪 Final assessment", `${env.appUrl}/mock`) },
+      );
+    }
+    const text = [`📚 *${lesson.title}*  _(${lesson.minutes} min)_`, "", ...lesson.body, "", "*Key points*", ...lesson.keyPoints.map((k) => `• ${k}`)].join("\n");
+    return api.sendMessage(s.telegram_id!, text.slice(0, 4000), {
+      parse_mode: "Markdown",
+      reply_markup: new InlineKeyboard().text("✅ Done — next module", `lesson:done:${lesson.id}`),
+    });
+  };
+  bot.command("lesson", (ctx) => (isPrivate(ctx) ? sendLesson(ctx.api, ctx.student!) : undefined));
+  bot.callbackQuery("lesson:next", async (ctx) => {
+    await ctx.answerCallbackQuery();
+    return sendLesson(ctx.api, ctx.student!);
+  });
+  bot.callbackQuery(/^lesson:done:([a-z0-9-]+)$/, async (ctx) => {
+    await completeLesson(ctx.student!, ctx.match[1]);
+    const st = await courseStatus(ctx.student!);
+    await ctx.answerCallbackQuery({ text: `Module complete (${st?.done}/${st?.total}) ✅` });
+    await ctx.editMessageReplyMarkup({ reply_markup: undefined }).catch(() => {});
+    return sendLesson(ctx.api, ctx.student!);
+  });
+
+  bot.command("name", async (ctx) => {
+    if (!isPrivate(ctx)) return;
+    const name = (ctx.match ?? "").trim();
+    if (name.split(/\s+/).length < 2) return ctx.reply("Send your full name as it should appear on your certificate, e.g.\n/name Chidinma Okafor");
+    await updateStudent(ctx.student!.id, { full_name: name.slice(0, 80) });
+    return ctx.reply(`Saved: ${name}. Now send /certificate`);
+  });
+
+  bot.command("certificate", async (ctx) => {
+    if (!isPrivate(ctx)) return;
+    const s = ctx.student!;
+    const st = await courseStatus(s);
+    if (!st) return ctx.reply("Certificates are available on course tracks such as Fire Marshal.");
+    if (!st.certificate?.valid && !st.eligible) {
+      return ctx.reply(
+        `To earn your certificate:\n${st.done === st.total ? "✅" : "▫️"} Complete all modules (${st.done}/${st.total}) — /lesson\n${st.bestPass ? "✅" : "▫️"} Pass the final assessment (80%)`,
+        { reply_markup: new InlineKeyboard().webApp("🧪 Final assessment", `${env.appUrl}/mock`) },
+      );
+    }
+    if (!st.certificate?.valid && !s.full_name) return ctx.reply("Almost there! Send your full name for the certificate, e.g.\n/name Chidinma Okafor");
+    const r = await issueCertificate(s, s.full_name);
+    if (!r.ok) {
+      if (r.error === "NOT_PAID") return sendPremium(ctx.api, s).then(() => ctx.reply("☝️ Your certificate is included with the full course (or a seat from your employer)."));
+      return ctx.reply(r.error === "BAD_NAME" ? "Please send your first and last name with /name" : "You're not eligible yet — finish all modules and pass the final assessment.");
+    }
+    const c = r.certificate;
+    return ctx.reply(
+      `🎓 Certificate ${c.cert_no}\nValid until ${new Date(c.expires_at).toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" })}.\nAnyone can verify it at ${env.appUrl}/verify/${c.cert_no}`,
+      { reply_markup: new InlineKeyboard().url("📄 Download certificate (PDF)", `${env.appUrl}/api/cert/${c.cert_no}`), link_preview_options: { is_disabled: true } },
+    );
+  });
+
+  // AI explanations
+  const sendExplanation = async (ctx: Ctx, questionId: string) => {
+    await ctx.api.sendChatAction(ctx.chat!.id, "typing").catch(() => {});
+    const r = await explain(ctx.student!, questionId);
+    if (r.ok) return ctx.reply(`🤖 ${r.text}${r.remaining !== null && r.remaining <= 2 ? `\n\n(${r.remaining} explanation${r.remaining === 1 ? "" : "s"} left today)` : ""}`);
+    const msg = {
+      LIMIT: `You've used today's ${r.limit} free explanations. Premium gets 40 a day → /premium`,
+      DISABLED: "Explanations aren't switched on yet — check back soon.",
+      NOT_ANSWERED: "Answer the question first, then I can explain it.",
+      FAILED: "Sorry, I couldn't get an explanation just now. Try again in a minute.",
+    }[r.error];
+    return ctx.reply(msg);
+  };
+  bot.callbackQuery(/^ex:([0-9a-f-]{36})$/, async (ctx) => {
+    await ctx.answerCallbackQuery();
+    return sendExplanation(ctx, ctx.match[1]);
+  });
+  bot.command("explain", async (ctx) => {
+    if (!isPrivate(ctx)) return;
+    const { data } = await db()
+      .from("attempts")
+      .select("question_id")
+      .eq("student_id", ctx.student!.id)
+      .eq("correct", false)
+      .order("created_at", { ascending: false })
+      .limit(1)
+      .maybeSingle();
+    if (!data) return ctx.reply("No wrong answers to explain yet — nice! 🎯");
+    return sendExplanation(ctx, data.question_id);
   });
 
   // Mark users who block the bot

@@ -19,6 +19,11 @@ export interface Student {
   last_drill_prompt: string | null;
   blocked: boolean;
   created_at: string;
+  ref_code: string | null;
+  referred_by: string | null;
+  referral_rewarded_at: string | null;
+  parent_email: string | null;
+  full_name: string | null;
 }
 
 export interface Question {
@@ -83,4 +88,5 @@ export interface TutorGroup {
   paid_seats: number;
   paid_until: string | null;
   telegram_chat_id: number | null;
+  currency: "NGN" | "GBP";
 }

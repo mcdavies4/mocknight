@@ -15,9 +15,10 @@ import { english } from "./bank/eng";
 import { biology } from "./bank/bio";
 import { government } from "./bank/gov";
 import { lifeInTheUK } from "./bank/luk";
+import { fireSafety } from "./bank/fire";
 
 const builders: [string, () => Q[]][] = [
-  ["MTH", maths], ["PHY", physics], ["CHM", chemistry], ["ECO", economics], ["ENG", english], ["BIO", biology], ["GOV", government], ["LUK", lifeInTheUK],
+  ["MTH", maths], ["PHY", physics], ["CHM", chemistry], ["ECO", economics], ["ENG", english], ["BIO", biology], ["GOV", government], ["LUK", lifeInTheUK], ["FIR", fireSafety],
 ];
 
 mkdirSync("data/bank", { recursive: true });
@@ -46,7 +47,7 @@ for (const [code, build] of builders) {
     console.error(`${code} problems:\n  ` + problems.join("\n  "));
   }
   const topics = new Set(qs.map((q) => q.topic)).size;
-  console.log(`${code}: ${qs.length} questions across ${topics} topics${qs.length < 300 ? "  ⚠ under 300" : ""}`);
+  console.log(`${code}: ${qs.length} questions across ${topics} topics${qs.length < (code === "FIR" ? 120 : 300) ? "  ⚠ under target" : ""}`);
   writeFileSync(`data/bank/${code}.json`, JSON.stringify(qs, null, 1));
   all.push(...qs);
 }

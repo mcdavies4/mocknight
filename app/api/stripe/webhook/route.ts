@@ -23,12 +23,13 @@ export async function POST(req: Request) {
   if (!reference) return NextResponse.json({ ok: true });
 
   const applied = await applySuccessfulPayment(reference, s.amount_total ?? 0, s.currency ?? "");
-  if (applied?.kind === "premium" && applied.student.telegram_id) {
+  if (applied?.student.telegram_id) {
+    const text =
+      applied.kind === "premium"
+        ? `⭐ Payment received — you have full access until ${formatWat(applied.until)}. Good luck! 🍀`
+        : `✅ Payment received — ${applied.seats} seats for ${applied.group.name} until ${formatWat(applied.until)}. Seats go to your earliest-joined learners.`;
     try {
-      await getBot().api.sendMessage(
-        applied.student.telegram_id,
-        `⭐ Payment received — you have full access until ${formatWat(applied.until)}. Unlimited practice tests are unlocked. Good luck! 🍀`,
-      );
+      await getBot().api.sendMessage(applied.student.telegram_id, text);
     } catch (e) {
       console.error("stripe notify failed", e);
     }

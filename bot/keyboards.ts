@@ -1,7 +1,7 @@
 import { InlineKeyboard } from "grammy";
-import { STATES, subjectName } from "@/lib/subjects";
+import { subjectName } from "@/lib/subjects";
 import { formatHour } from "@/lib/time";
-import { getTrack, TRACK_LIST } from "@/lib/tracks";
+import { getTrack, regionsFor, TRACK_LIST } from "@/lib/tracks";
 import type { Student } from "@/lib/types";
 import { env } from "@/lib/env";
 
@@ -26,9 +26,9 @@ export function subjectsKb(student: Student) {
   return kb;
 }
 
-export function statesKb() {
+export function statesKb(student: Student) {
   const kb = new InlineKeyboard();
-  STATES.forEach((s, i) => {
+  regionsFor(getTrack(student.track)).forEach((s, i) => {
     kb.text(s, `ob:st:${i}`);
     if (i % 3 === 2) kb.row();
   });
@@ -51,6 +51,7 @@ export function menuKb(student: Student) {
     .webApp(track.subjectMode === "single" ? "🧪 Practice test" : "🖥 Practice CBT", `${env.appUrl}/mock`)
     .row();
   if (track.weeklyMock) kb.text("🏆 Mock Night", "mn:info");
-  kb.text("📊 My stats", "stats").row().text("⭐ Premium", "pay:menu").text("⚙️ Settings", "settings");
+  if (track.course) kb.text("📚 Lessons", "lesson:next");
+  kb.text("📊 My stats", "stats").row().text("🎁 Invite friends", "invite").text("⭐ Premium", "pay:menu").row().text("⚙️ Settings", "settings");
   return kb;
 }

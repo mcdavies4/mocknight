@@ -21,15 +21,20 @@ await bot.api.setMyCommands([
   { command: "leaderboard", description: "Last Mock Night results" },
   { command: "stats", description: "Your progress" },
   { command: "premium", description: "Upgrade" },
-  { command: "settings", description: "Exam, subjects, state" },
+  { command: "lesson", description: "Next course module (Fire Marshal)" },
+  { command: "certificate", description: "Get your course certificate" },
+  { command: "explain", description: "Explain my last wrong answer" },
+  { command: "invite", description: "Invite friends, earn Premium" },
+  { command: "parent", description: "Weekly report for a parent" },
+  { command: "settings", description: "Course, subjects, region" },
   { command: "time", description: "Change drill time" },
   { command: "help", description: "All commands (incl. tutors)" },
 ]);
 
 await bot.api.setMyDescription(
-  "Daily JAMB & WAEC drills, a real CBT practice screen, and a nationwide Mock Night every Sunday at 8pm. Tap Start.",
+  "Exam practice and short courses: JAMB, WAEC, Post-UTME, WASSCE Ghana, the Life in the UK test and Fire Marshal training. Daily practice, real timed tests, certificates. Tap Start.",
 );
-await bot.api.setMyShortDescription("JAMB & WAEC prep: daily drills, CBT practice, Sunday Mock Night.");
+await bot.api.setMyShortDescription("JAMB, WAEC, Life in the UK & Fire Marshal: daily practice, timed tests, certificates.");
 
 await bot.api.setChatMenuButton({
   menu_button: { type: "web_app", text: "CBT", web_app: { url: `${process.env.APP_URL!.replace(/\/$/, "")}/mock` } },

@@ -4,7 +4,8 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import type { MockPayload, MockResult } from "@/lib/mock";
 
-import { api, goHome, inTelegram, tg } from "@/lib/client-api";
+import { api, goHome, inTelegram, openExternal, shareLink, tg } from "@/lib/client-api";
+import { ExplainButton } from "@/components/explain";
 
 const LETTERS = ["A", "B", "C", "D", "E"];
 
@@ -343,6 +344,27 @@ function ResultView({ data, result }: { data: MockPayload; result: MockResult })
         ))}
       </div>
 
+      <div className="nav" style={{ marginTop: 4 }}>
+        <button
+          className="btn"
+          onClick={() =>
+            shareLink(
+              `${window.location.origin}/r/${data.attemptId}`,
+              result.pass?.passed
+                ? `I just passed a ${data.title} mock (${result.rawScore}/${result.total}) ✅ Can you?`
+                : result.scoreStyle === "jamb400"
+                  ? `I scored ${result.jambScore}/400 on Mock Night 🔥 Can you beat me?`
+                  : `I scored ${Math.round(result.scaled)}% on Mock Night 🔥 Can you beat me?`,
+            )
+          }
+        >
+          📤 Share my result
+        </button>
+        <button className="btn secondary" onClick={() => openExternal(`${window.location.origin}/api/card/${data.attemptId}?format=story`)}>
+          🖼 Status image
+        </button>
+      </div>
+
       <p className="muted small">Wrong answers have been added to your review box — they'll come back in your daily drills.</p>
 
       <div className="row" style={{ margin: "18px 0 6px" }}>
@@ -372,6 +394,7 @@ function ResultView({ data, result }: { data: MockPayload; result: MockResult })
           </div>
           {r.chosen === null && <p className="muted small">Not answered</p>}
           {r.explanation && <div className="explain">💡 {r.explanation}</div>}
+          {r.chosen !== null && r.chosen !== r.answer && <ExplainButton questionId={r.id} />}
         </div>
       ))}
 
@@ -481,3 +504,4 @@ function Calculator() {
     </>
   );
 }
+

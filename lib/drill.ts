@@ -2,6 +2,7 @@ import type { Api } from "grammy";
 import { InlineKeyboard } from "grammy";
 import { db, must } from "./supabase";
 import { env } from "./env";
+import { rewardReferral } from "./referrals";
 import { isPremium } from "./students";
 import { watDateAddDays, watNow } from "./time";
 import { FREE_DAILY_QUESTIONS, PREMIUM_DAILY_QUESTIONS } from "./pricing";
@@ -279,6 +280,7 @@ export interface DrillSummary {
 export async function completeSession(student: Student, session: DrillSession): Promise<DrillSummary> {
   if (!session.finished_at) {
     await db().from("drill_sessions").update({ finished_at: new Date().toISOString() }).eq("id", session.id).is("finished_at", null);
+    await rewardReferral(student.id).catch((e) => console.error("referral reward failed", e));
   }
   const total = session.question_ids.length;
   const { count } = await db().from("review_items").select("*", { count: "exact", head: true }).eq("student_id", student.id);

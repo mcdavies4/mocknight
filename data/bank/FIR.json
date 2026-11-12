@@ -1,0 +1,1958 @@
+[
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "What colour is the band on a water extinguisher?",
+  "options": [
+   "Blue",
+   "Cream",
+   "Yellow",
+   "Red"
+  ],
+  "answer": 3,
+  "explanation": "Water = red band. It is suitable for Class A fires (paper, wood, textiles).",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "What colour is the band on a foam extinguisher?",
+  "options": [
+   "Red",
+   "Yellow",
+   "Black",
+   "Cream"
+  ],
+  "answer": 3,
+  "explanation": "Foam = cream band. It is suitable for Class A and Class B fires (solids and flammable liquids).",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "What colour is the band on a carbon dioxide (CO2) extinguisher?",
+  "options": [
+   "Black",
+   "Yellow",
+   "Cream",
+   "Blue"
+  ],
+  "answer": 0,
+  "explanation": "Carbon dioxide (CO2) = black band. It is suitable for electrical equipment fires and Class B flammable liquids.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "What colour is the band on a dry powder extinguisher?",
+  "options": [
+   "Red",
+   "Cream",
+   "Yellow",
+   "Blue"
+  ],
+  "answer": 3,
+  "explanation": "Dry powder = blue band. It is suitable for Class A, B and C fires, including flammable gases.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "What colour is the band on a wet chemical extinguisher?",
+  "options": [
+   "Yellow",
+   "Black",
+   "Blue",
+   "Red"
+  ],
+  "answer": 0,
+  "explanation": "Wet chemical = yellow band. It is suitable for Class F fires (cooking oils and fats).",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "A water extinguisher is mainly suitable for",
+  "options": [
+   "Class F fires (cooking oils and fats)",
+   "Class A, B and C fires, including flammable gases",
+   "Class A fires (paper, wood, textiles)",
+   "Class A and Class B fires (solids and flammable liquids)"
+  ],
+  "answer": 2,
+  "explanation": "Water (red band): Class A fires (paper, wood, textiles).",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "A foam extinguisher is mainly suitable for",
+  "options": [
+   "Class A fires (paper, wood, textiles)",
+   "Class A and Class B fires (solids and flammable liquids)",
+   "Class F fires (cooking oils and fats)",
+   "Class A, B and C fires, including flammable gases"
+  ],
+  "answer": 1,
+  "explanation": "Foam (cream band): Class A and Class B fires (solids and flammable liquids).",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "A carbon dioxide (CO2) extinguisher is mainly suitable for",
+  "options": [
+   "Class F fires (cooking oils and fats)",
+   "Class A and Class B fires (solids and flammable liquids)",
+   "electrical equipment fires and Class B flammable liquids",
+   "Class A fires (paper, wood, textiles)"
+  ],
+  "answer": 2,
+  "explanation": "Carbon dioxide (CO2) (black band): electrical equipment fires and Class B flammable liquids.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "A dry powder extinguisher is mainly suitable for",
+  "options": [
+   "Class A and Class B fires (solids and flammable liquids)",
+   "electrical equipment fires and Class B flammable liquids",
+   "Class A, B and C fires, including flammable gases",
+   "Class F fires (cooking oils and fats)"
+  ],
+  "answer": 2,
+  "explanation": "Dry powder (blue band): Class A, B and C fires, including flammable gases.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "A wet chemical extinguisher is mainly suitable for",
+  "options": [
+   "Class A fires (paper, wood, textiles)",
+   "electrical equipment fires and Class B flammable liquids",
+   "Class A, B and C fires, including flammable gases",
+   "Class F fires (cooking oils and fats)"
+  ],
+  "answer": 3,
+  "explanation": "Wet chemical (yellow band): Class F fires (cooking oils and fats).",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "An extinguisher with a red band contains",
+  "options": [
+   "Carbon dioxide (CO2)",
+   "Dry powder",
+   "Foam",
+   "Water"
+  ],
+  "answer": 3,
+  "explanation": "Red band = Water.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "An extinguisher with a cream band contains",
+  "options": [
+   "Foam",
+   "Water",
+   "Dry powder",
+   "Wet chemical"
+  ],
+  "answer": 0,
+  "explanation": "Cream band = Foam.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "An extinguisher with a black band contains",
+  "options": [
+   "Foam",
+   "Water",
+   "Dry powder",
+   "Carbon dioxide (CO2)"
+  ],
+  "answer": 3,
+  "explanation": "Black band = Carbon dioxide (CO2).",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "An extinguisher with a blue band contains",
+  "options": [
+   "Wet chemical",
+   "Foam",
+   "Carbon dioxide (CO2)",
+   "Dry powder"
+  ],
+  "answer": 3,
+  "explanation": "Blue band = Dry powder.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "An extinguisher with a yellow band contains",
+  "options": [
+   "Dry powder",
+   "Foam",
+   "Carbon dioxide (CO2)",
+   "Wet chemical"
+  ],
+  "answer": 3,
+  "explanation": "Yellow band = Wet chemical.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "Class A fires involve",
+  "options": [
+   "solid materials such as paper, wood and textiles",
+   "flammable gases such as propane and butane",
+   "flammable liquids such as petrol, paint and solvents",
+   "burning metals such as magnesium and aluminium swarf"
+  ],
+  "answer": 0,
+  "explanation": "Class A: solid materials such as paper, wood and textiles.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "Class B fires involve",
+  "options": [
+   "flammable gases such as propane and butane",
+   "burning metals such as magnesium and aluminium swarf",
+   "solid materials such as paper, wood and textiles",
+   "flammable liquids such as petrol, paint and solvents"
+  ],
+  "answer": 3,
+  "explanation": "Class B: flammable liquids such as petrol, paint and solvents.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "Class C fires involve",
+  "options": [
+   "cooking oils and fats, for example in a deep-fat fryer",
+   "flammable gases such as propane and butane",
+   "flammable liquids such as petrol, paint and solvents",
+   "burning metals such as magnesium and aluminium swarf"
+  ],
+  "answer": 1,
+  "explanation": "Class C: flammable gases such as propane and butane.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "Class D fires involve",
+  "options": [
+   "cooking oils and fats, for example in a deep-fat fryer",
+   "flammable liquids such as petrol, paint and solvents",
+   "burning metals such as magnesium and aluminium swarf",
+   "solid materials such as paper, wood and textiles"
+  ],
+  "answer": 2,
+  "explanation": "Class D: burning metals such as magnesium and aluminium swarf.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "Class F fires involve",
+  "options": [
+   "flammable gases such as propane and butane",
+   "cooking oils and fats, for example in a deep-fat fryer",
+   "flammable liquids such as petrol, paint and solvents",
+   "burning metals such as magnesium and aluminium swarf"
+  ],
+  "answer": 1,
+  "explanation": "Class F: cooking oils and fats, for example in a deep-fat fryer.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "A fire involving solid materials such as paper, wood and textiles is classed as",
+  "options": [
+   "Class D",
+   "Class F",
+   "Class A",
+   "Class C"
+  ],
+  "answer": 2,
+  "explanation": "Solid materials such as paper, wood and textiles → Class A.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "A fire involving flammable liquids such as petrol, paint and solvents is classed as",
+  "options": [
+   "Class B",
+   "Class D",
+   "Class F",
+   "Class C"
+  ],
+  "answer": 0,
+  "explanation": "Flammable liquids such as petrol, paint and solvents → Class B.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "A fire involving flammable gases such as propane and butane is classed as",
+  "options": [
+   "Class A",
+   "Class C",
+   "Class B",
+   "Class D"
+  ],
+  "answer": 1,
+  "explanation": "Flammable gases such as propane and butane → Class C.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "A fire involving burning metals such as magnesium and aluminium swarf is classed as",
+  "options": [
+   "Class C",
+   "Class A",
+   "Class F",
+   "Class D"
+  ],
+  "answer": 3,
+  "explanation": "Burning metals such as magnesium and aluminium swarf → Class D.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "A fire involving cooking oils and fats, for example in a deep-fat fryer is classed as",
+  "options": [
+   "Class B",
+   "Class C",
+   "Class A",
+   "Class F"
+  ],
+  "answer": 3,
+  "explanation": "Cooking oils and fats, for example in a deep-fat fryer → Class F.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Doors, routes & signs",
+  "body": "What does a green rectangular or square sign indicate?",
+  "options": [
+   "a prohibited action, such as 'Do not use lift'",
+   "a warning of a hazard",
+   "a mandatory action, such as 'Fire door keep shut'",
+   "a safe condition, such as a fire exit or escape route"
+  ],
+  "answer": 3,
+  "explanation": "A green rectangular or square sign: a safe condition, such as a fire exit or escape route.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Doors, routes & signs",
+  "body": "What does a red rectangular or square sign indicate?",
+  "options": [
+   "a safe condition, such as a fire exit or escape route",
+   "a prohibited action, such as 'Do not use lift'",
+   "the location of fire-fighting equipment",
+   "a warning of a hazard"
+  ],
+  "answer": 2,
+  "explanation": "A red rectangular or square sign: the location of fire-fighting equipment.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Doors, routes & signs",
+  "body": "What does a blue circular sign indicate?",
+  "options": [
+   "a prohibited action, such as 'Do not use lift'",
+   "a mandatory action, such as 'Fire door keep shut'",
+   "a warning of a hazard",
+   "a safe condition, such as a fire exit or escape route"
+  ],
+  "answer": 1,
+  "explanation": "A blue circular sign: a mandatory action, such as 'Fire door keep shut'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Doors, routes & signs",
+  "body": "What does a yellow triangular sign indicate?",
+  "options": [
+   "a prohibited action, such as 'Do not use lift'",
+   "a warning of a hazard",
+   "the location of fire-fighting equipment",
+   "a mandatory action, such as 'Fire door keep shut'"
+  ],
+  "answer": 1,
+  "explanation": "A yellow triangular sign: a warning of a hazard.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Doors, routes & signs",
+  "body": "What does a red circle with a diagonal line indicate?",
+  "options": [
+   "the location of fire-fighting equipment",
+   "a mandatory action, such as 'Fire door keep shut'",
+   "a prohibited action, such as 'Do not use lift'",
+   "a warning of a hazard"
+  ],
+  "answer": 2,
+  "explanation": "A red circle with a diagonal line: a prohibited action, such as 'Do not use lift'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Doors, routes & signs",
+  "body": "Which type of sign shows a safe condition, such as a fire exit or escape route?",
+  "options": [
+   "A blue circular sign",
+   "A yellow triangular sign",
+   "A red circle with a diagonal line",
+   "A green rectangular or square sign"
+  ],
+  "answer": 3,
+  "explanation": "A green rectangular or square sign: a safe condition, such as a fire exit or escape route.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Doors, routes & signs",
+  "body": "Which type of sign shows the location of fire-fighting equipment?",
+  "options": [
+   "A red rectangular or square sign",
+   "A red circle with a diagonal line",
+   "A blue circular sign",
+   "A green rectangular or square sign"
+  ],
+  "answer": 0,
+  "explanation": "A red rectangular or square sign: the location of fire-fighting equipment.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Doors, routes & signs",
+  "body": "Which type of sign shows a mandatory action, such as 'Fire door keep shut'?",
+  "options": [
+   "A red rectangular or square sign",
+   "A green rectangular or square sign",
+   "A yellow triangular sign",
+   "A blue circular sign"
+  ],
+  "answer": 3,
+  "explanation": "A blue circular sign: a mandatory action, such as 'Fire door keep shut'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Doors, routes & signs",
+  "body": "Which type of sign shows a warning of a hazard?",
+  "options": [
+   "A red circle with a diagonal line",
+   "A yellow triangular sign",
+   "A green rectangular or square sign",
+   "A red rectangular or square sign"
+  ],
+  "answer": 1,
+  "explanation": "A yellow triangular sign: a warning of a hazard.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Doors, routes & signs",
+  "body": "Which type of sign shows a prohibited action, such as 'Do not use lift'?",
+  "options": [
+   "A red circle with a diagonal line",
+   "A yellow triangular sign",
+   "A green rectangular or square sign",
+   "A blue circular sign"
+  ],
+  "answer": 0,
+  "explanation": "A red circle with a diagonal line: a prohibited action, such as 'Do not use lift'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "Which extinguisher is most suitable for a small fire in a waste-paper bin?",
+  "options": [
+   "Dry powder in a small room",
+   "Any extinguisher — they all work the same",
+   "Water",
+   "Carbon dioxide (CO2)"
+  ],
+  "answer": 2,
+  "explanation": "For a small fire in a waste-paper bin, use Water.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "Which extinguisher is most suitable for a fire in a deep-fat fryer?",
+  "options": [
+   "Wet chemical",
+   "Foam",
+   "Carbon dioxide (CO2)",
+   "Water"
+  ],
+  "answer": 0,
+  "explanation": "For a fire in a deep-fat fryer, use Wet chemical.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "Which extinguisher is most suitable for a fire in a computer that may still be plugged in?",
+  "options": [
+   "Foam",
+   "Water",
+   "Wet chemical",
+   "Carbon dioxide (CO2)"
+  ],
+  "answer": 3,
+  "explanation": "For a fire in a computer that may still be plugged in, use Carbon dioxide (CO2).",
+  "difficulty": 2
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "Which extinguisher is most suitable for a small petrol spill fire in a workshop?",
+  "options": [
+   "Foam",
+   "Any extinguisher — they all work the same",
+   "Wet chemical",
+   "Water"
+  ],
+  "answer": 0,
+  "explanation": "For a small petrol spill fire in a workshop, use Foam.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "Which extinguisher is most suitable for burning curtains in an office?",
+  "options": [
+   "Carbon dioxide (CO2)",
+   "Dry powder in a small room",
+   "Any extinguisher — they all work the same",
+   "Water"
+  ],
+  "answer": 3,
+  "explanation": "For burning curtains in an office, use Water.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "Which extinguisher is most suitable for a fire in an electrical distribution board?",
+  "options": [
+   "Foam",
+   "Carbon dioxide (CO2)",
+   "Water",
+   "Wet chemical"
+  ],
+  "answer": 1,
+  "explanation": "For a fire in an electrical distribution board, use Carbon dioxide (CO2).",
+  "difficulty": 2
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "Which extinguisher is most suitable for burning cooking oil in a restaurant kitchen?",
+  "options": [
+   "Carbon dioxide (CO2)",
+   "Wet chemical",
+   "Foam",
+   "Water"
+  ],
+  "answer": 1,
+  "explanation": "For burning cooking oil in a restaurant kitchen, use Wet chemical.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "Which extinguisher is most suitable for a small fire involving paint thinners?",
+  "options": [
+   "Foam",
+   "Wet chemical",
+   "Water",
+   "Any extinguisher — they all work the same"
+  ],
+  "answer": 0,
+  "explanation": "For a small fire involving paint thinners, use Foam.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire safety law",
+  "body": "Which law covers workplace fire safety in England and Wales?",
+  "options": [
+   "The Fire Precautions Act 1971",
+   "The Health and Safety at Work Act 1974 only",
+   "The Building Safety Act 2022 only",
+   "The Regulatory Reform (Fire Safety) Order 2005"
+  ],
+  "answer": 3,
+  "explanation": "The Fire Safety Order applies to almost all non-domestic premises in England and Wales.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire safety law",
+  "body": "Which law covers fire safety in non-domestic premises in Scotland?",
+  "options": [
+   "The Regulatory Reform (Fire Safety) Order 2005",
+   "The Fire (Scotland) Act 2005",
+   "The Fire Precautions Act 1971",
+   "The Fire Safety Regulations (Northern Ireland) 2010"
+  ],
+  "answer": 1,
+  "explanation": "Scotland has its own fire safety legislation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire safety law",
+  "body": "Under the Fire Safety Order, who is mainly responsible for fire safety in a workplace?",
+  "options": [
+   "The building's insurer",
+   "The local fire brigade",
+   "The Responsible Person, usually the employer or person in control of the premises",
+   "Every employee equally"
+  ],
+  "answer": 2,
+  "explanation": "The Responsible Person must assess risks and put fire safety measures in place.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire safety law",
+  "body": "What must the Responsible Person carry out to identify fire hazards and people at risk?",
+  "options": [
+   "A fire risk assessment",
+   "A fire certificate application",
+   "A health check",
+   "A building survey"
+  ],
+  "answer": 0,
+  "explanation": "The fire risk assessment is the foundation of workplace fire safety.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire safety law",
+  "body": "When must the significant findings of a fire risk assessment be recorded?",
+  "options": [
+   "When there are five or more employees, or a licence or alterations notice applies",
+   "Only after a fire has happened",
+   "Never — they can be kept verbally",
+   "Only when there are more than 50 employees"
+  ],
+  "answer": 0,
+  "explanation": "This is a requirement of the Fire Safety Order.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire safety law",
+  "body": "Who enforces fire safety law in most workplaces?",
+  "options": [
+   "The Health and Safety Executive only",
+   "The police",
+   "The local Fire and Rescue Authority",
+   "The local council's planning department"
+  ],
+  "answer": 2,
+  "explanation": "Fire and Rescue Authorities inspect premises and can issue notices.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire safety law",
+  "body": "What duty do employees have under fire safety law?",
+  "options": [
+   "To carry out the fire risk assessment",
+   "None — fire safety is only the employer's job",
+   "To service fire extinguishers",
+   "To take reasonable care and co-operate with the employer on fire safety"
+  ],
+  "answer": 3,
+  "explanation": "Employees must also report serious dangers they notice.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire safety law",
+  "body": "What is the main role of a fire marshal?",
+  "options": [
+   "To help prevent fires and lead the safe evacuation of their area",
+   "To replace the fire and rescue service",
+   "To investigate the cause of fires",
+   "To fight any fire, whatever its size"
+  ],
+  "answer": 0,
+  "explanation": "Fire marshals must never put themselves at risk.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire safety law",
+  "body": "Should a fire marshal put themselves at risk to fight a large fire?",
+  "options": [
+   "Only if the fire brigade is late",
+   "No — their priority is getting people out safely",
+   "Yes, if they have an extinguisher",
+   "Yes, if the building is valuable"
+  ],
+  "answer": 1,
+  "explanation": "Life safety always comes first.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire safety law",
+  "body": "The Fire Safety Act 2021 clarified that the Fire Safety Order applies to which parts of multi-occupied residential buildings?",
+  "options": [
+   "Only the gardens",
+   "The structure, external walls and flat entrance doors",
+   "Only the car parks",
+   "Only individual flat kitchens"
+  ],
+  "answer": 1,
+  "explanation": "This followed lessons from the Grenfell Tower fire.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire safety law",
+  "body": "How often should a fire risk assessment be reviewed?",
+  "options": [
+   "Every ten years",
+   "Only once, when the building opens",
+   "Regularly, and whenever there are significant changes",
+   "Only after a fire"
+  ],
+  "answer": 2,
+  "explanation": "Changes to layout, use, people or processes can introduce new risks.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire safety law",
+  "body": "Which of these could be a consequence of serious breaches of fire safety law?",
+  "options": [
+   "Loss of the building's postcode",
+   "A small fixed penalty only",
+   "Unlimited fines and possible imprisonment",
+   "A warning only, never a fine"
+  ],
+  "answer": 2,
+  "explanation": "Fire safety offences are taken very seriously.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire science",
+  "body": "What are the three sides of the fire triangle?",
+  "options": [
+   "Oxygen, water and fuel",
+   "Heat, smoke and fuel",
+   "Flame, smoke and heat",
+   "Heat, fuel and oxygen"
+  ],
+  "answer": 3,
+  "explanation": "Remove any one side and the fire goes out.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire science",
+  "body": "Removing the heat from a fire to put it out is called",
+  "options": [
+   "isolating",
+   "starving",
+   "cooling",
+   "smothering"
+  ],
+  "answer": 2,
+  "explanation": "Water extinguishers work mainly by cooling.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire science",
+  "body": "Removing the oxygen from a fire to put it out is called",
+  "options": [
+   "starving",
+   "cooling",
+   "ventilating",
+   "smothering"
+  ],
+  "answer": 3,
+  "explanation": "Fire blankets, foam and CO2 work by smothering.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire science",
+  "body": "Removing the fuel from a fire to put it out is called",
+  "options": [
+   "insulating",
+   "smothering",
+   "cooling",
+   "starving"
+  ],
+  "answer": 3,
+  "explanation": "For example, turning off the gas supply.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire science",
+  "body": "Heat travelling through a solid material such as a steel beam is called",
+  "options": [
+   "convection",
+   "conduction",
+   "radiation",
+   "direct burning"
+  ],
+  "answer": 1,
+  "explanation": "Heat can spread fire through walls and pipes this way.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire science",
+  "body": "Hot smoke and gases rising and spreading across a ceiling is called",
+  "options": [
+   "direct burning",
+   "convection",
+   "radiation",
+   "conduction"
+  ],
+  "answer": 1,
+  "explanation": "Convection spreads fire up stairwells and lift shafts.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire science",
+  "body": "Heat travelling in waves that can ignite materials across a room is called",
+  "options": [
+   "radiation",
+   "conduction",
+   "direct burning",
+   "convection"
+  ],
+  "answer": 0,
+  "explanation": "Radiated heat can ignite items without direct contact.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire science",
+  "body": "What causes most deaths in fires?",
+  "options": [
+   "Smoke and toxic gases",
+   "Burns from flames",
+   "Falling debris",
+   "Explosions"
+  ],
+  "answer": 0,
+  "explanation": "Smoke contains toxic gases such as carbon monoxide.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire science",
+  "body": "Which toxic gas in smoke is a major cause of death in fires?",
+  "options": [
+   "Carbon monoxide",
+   "Helium",
+   "Nitrogen",
+   "Oxygen"
+  ],
+  "answer": 0,
+  "explanation": "Carbon monoxide stops the blood carrying oxygen.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire science",
+  "body": "Why should you never open a door to 'check' a fire you suspect is behind it?",
+  "options": [
+   "It wastes time filling in forms",
+   "It sets off the sprinklers",
+   "Fresh air can feed the fire and smoke and flames can rush out",
+   "It is always locked"
+  ],
+  "answer": 2,
+  "explanation": "Feel the door with the back of your hand; if warm, don't open it.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire science",
+  "body": "What does the fourth side of the 'fire tetrahedron' represent?",
+  "options": [
+   "Water",
+   "The chemical chain reaction",
+   "Ash",
+   "Smoke"
+  ],
+  "answer": 1,
+  "explanation": "Some extinguishing agents, such as dry powder, interrupt the chain reaction.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Prevention",
+  "body": "Which of these is a common cause of fires in workplaces?",
+  "options": [
+   "Faulty or misused electrical equipment",
+   "Regular alarm tests",
+   "Closed fire doors",
+   "Clear escape routes"
+  ],
+  "answer": 0,
+  "explanation": "Report damaged cables and plugs straight away.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Prevention",
+  "body": "What is 'daisy-chaining'?",
+  "options": [
+   "Linking fire alarms together",
+   "Connecting sprinkler heads",
+   "Plugging extension leads into other extension leads",
+   "A type of evacuation drill"
+  ],
+  "answer": 2,
+  "explanation": "It can overload circuits and cause fires.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Prevention",
+  "body": "What is a permit-to-work system used for in fire safety?",
+  "options": [
+   "Allowing staff to smoke indoors",
+   "Controlling hot work such as welding, cutting and grinding",
+   "Booking fire drills",
+   "Letting visitors use lifts in a fire"
+  ],
+  "answer": 1,
+  "explanation": "A fire watch should continue during and after hot work.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Prevention",
+  "body": "Why should a fire watch continue after hot work has finished?",
+  "options": [
+   "It is not necessary",
+   "To check the worker's timesheet",
+   "To clean up the work area",
+   "Smouldering materials can ignite some time later"
+  ],
+  "answer": 3,
+  "explanation": "Fires can start well after the work stops.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Prevention",
+  "body": "Which is good housekeeping for fire safety?",
+  "options": [
+   "Wedging fire doors open for airflow",
+   "Storing boxes in escape corridors",
+   "Keeping waste to a minimum and away from ignition sources",
+   "Piling rubbish beside the building"
+  ],
+  "answer": 2,
+  "explanation": "Combustible waste is fuel for a fire.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Prevention",
+  "body": "Deliberate fire-setting is known as",
+  "options": [
+   "ignition",
+   "convection",
+   "arson",
+   "combustion"
+  ],
+  "answer": 2,
+  "explanation": "Arson is a major cause of fires in commercial premises. Secure waste bins away from buildings.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Prevention",
+  "body": "Where should external waste bins be kept to reduce the risk of arson?",
+  "options": [
+   "Secured and away from the building",
+   "Next to the fire exit doors",
+   "Inside escape routes",
+   "Against the building wall under windows"
+  ],
+  "answer": 0,
+  "explanation": "Bins near buildings are a common target for arsonists.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Prevention",
+  "body": "What should you do if you notice a damaged electrical cable at work?",
+  "options": [
+   "Stop using it and report it",
+   "Ignore it if it still works",
+   "Move it under a carpet",
+   "Wrap it in tape and carry on"
+  ],
+  "answer": 0,
+  "explanation": "Damaged cables can overheat and start fires.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Prevention",
+  "body": "Where should smoking be allowed at work?",
+  "options": [
+   "Anywhere outdoors near the building",
+   "Near fire exits",
+   "Only in designated areas with proper bins",
+   "In store rooms"
+  ],
+  "answer": 2,
+  "explanation": "Discarded smoking materials are a common cause of fire.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Alarms & lighting",
+  "body": "What should you do first if you discover a fire?",
+  "options": [
+   "Phone a colleague to check",
+   "Collect your belongings",
+   "Try to put it out before telling anyone",
+   "Raise the alarm by operating the nearest fire alarm call point"
+  ],
+  "answer": 3,
+  "explanation": "Raise the alarm first so everyone can get out.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Alarms & lighting",
+  "body": "What is a manual call point?",
+  "options": [
+   "A device, often 'break glass', used to raise the fire alarm",
+   "An emergency telephone",
+   "A smoke detector",
+   "A sprinkler head"
+  ],
+  "answer": 0,
+  "explanation": "Call points are usually located by exits and on escape routes.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Alarms & lighting",
+  "body": "How often should a workplace fire alarm normally be tested?",
+  "options": [
+   "Weekly",
+   "Yearly",
+   "Monthly",
+   "Every six months"
+  ],
+  "answer": 0,
+  "explanation": "Use a different call point each week on a rotation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Alarms & lighting",
+  "body": "When testing the fire alarm weekly, which call point should be used?",
+  "options": [
+   "No call point — just press the panel",
+   "Always the same call point",
+   "A different call point each time, on a rotation",
+   "Any call point by the main entrance only"
+  ],
+  "answer": 2,
+  "explanation": "This checks every call point over time.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Alarms & lighting",
+  "body": "Emergency lighting should be given a short functional ('flick') test how often?",
+  "options": [
+   "Monthly",
+   "Only after a power cut",
+   "Weekly",
+   "Every five years"
+  ],
+  "answer": 0,
+  "explanation": "A full-duration test is done once a year.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Alarms & lighting",
+  "body": "How often should emergency lighting have a full-duration test?",
+  "options": [
+   "Every ten years",
+   "Every week",
+   "Once a year",
+   "Every month"
+  ],
+  "answer": 2,
+  "explanation": "The full-duration test is usually 3 hours.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Alarms & lighting",
+  "body": "What is the usual duration of an annual emergency lighting test?",
+  "options": [
+   "24 hours",
+   "30 minutes",
+   "3 hours",
+   "10 minutes"
+  ],
+  "answer": 2,
+  "explanation": "Most emergency lighting is designed to last 3 hours.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Alarms & lighting",
+  "body": "Where are fire alarm tests, drills and training recorded?",
+  "options": [
+   "In the fire log book",
+   "On a staff noticeboard only",
+   "They do not need recording",
+   "In the accident book only"
+  ],
+  "answer": 0,
+  "explanation": "Records show the Responsible Person is meeting their duties.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Alarms & lighting",
+  "body": "What does a heat detector respond to?",
+  "options": [
+   "Smoke particles",
+   "Noise",
+   "Movement",
+   "A high temperature or a rapid rise in temperature"
+  ],
+  "answer": 3,
+  "explanation": "Heat detectors are used in kitchens where smoke detectors would give false alarms.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Alarms & lighting",
+  "body": "Why are heat detectors often used in kitchens instead of smoke detectors?",
+  "options": [
+   "Kitchens never have fires",
+   "Smoke detectors don't work indoors",
+   "To avoid false alarms from cooking fumes",
+   "They are cheaper to paint"
+  ],
+  "answer": 2,
+  "explanation": "Cooking fumes can trigger smoke detectors.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Doors, routes & signs",
+  "body": "What does 'FD30' on a fire door mean?",
+  "options": [
+   "The door must be checked every 30 days",
+   "The door is designed to resist fire for 30 minutes",
+   "The door is 30 mm thick",
+   "Only 30 people can use it"
+  ],
+  "answer": 1,
+  "explanation": "FD60 doors resist fire for 60 minutes.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Doors, routes & signs",
+  "body": "Should fire doors be wedged open?",
+  "options": [
+   "Yes, if it's busy",
+   "Yes, in hot weather",
+   "Only on weekdays",
+   "No, never"
+  ],
+  "answer": 3,
+  "explanation": "A wedged fire door can't stop fire and smoke spreading.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Doors, routes & signs",
+  "body": "What are intumescent strips on a fire door?",
+  "options": [
+   "Locks that open automatically",
+   "Handles that stay cool",
+   "Strips that glow in the dark",
+   "Seals that expand when heated to close gaps"
+  ],
+  "answer": 3,
+  "explanation": "They help stop fire and smoke passing around the door.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Doors, routes & signs",
+  "body": "When is it acceptable for a fire door to be held open?",
+  "options": [
+   "When propped with a fire extinguisher",
+   "Never under any circumstances",
+   "When a sign says 'keep open'",
+   "When fitted with an approved hold-open device that releases when the alarm sounds"
+  ],
+  "answer": 3,
+  "explanation": "Automatic release devices close the door when the alarm activates.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Doors, routes & signs",
+  "body": "What should final exit doors be like?",
+  "options": [
+   "Locked at all times",
+   "Only openable with a code",
+   "Blocked when not in use",
+   "Easy to open from the inside without a key"
+  ],
+  "answer": 3,
+  "explanation": "People must be able to escape quickly.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Doors, routes & signs",
+  "body": "Why must escape routes be kept clear?",
+  "options": [
+   "To save energy",
+   "To make cleaning easier only",
+   "Because the law bans furniture",
+   "So people can get out quickly and safely in an emergency"
+  ],
+  "answer": 3,
+  "explanation": "Obstructions slow evacuation and can add fuel.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Doors, routes & signs",
+  "body": "What does the green 'running man' sign show?",
+  "options": [
+   "The assembly point only",
+   "A no-running area",
+   "Where to find a fire extinguisher",
+   "A fire exit or escape route"
+  ],
+  "answer": 3,
+  "explanation": "Green signs show safe conditions.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "In the UK, what colour is the body of a modern fire extinguisher?",
+  "options": [
+   "The full colour of its type",
+   "Silver",
+   "Green",
+   "Red, with a coloured band showing the type"
+  ],
+  "answer": 3,
+  "explanation": "The band colour identifies the extinguishing agent.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "Which extinguisher should NEVER be used on a fire involving live electrical equipment?",
+  "options": [
+   "None — all are safe",
+   "Water",
+   "Carbon dioxide (CO2)",
+   "Dry powder"
+  ],
+  "answer": 1,
+  "explanation": "Water conducts electricity and could cause electrocution.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "Which extinguisher must never be used on a burning chip pan or deep-fat fryer?",
+  "options": [
+   "Wet chemical",
+   "Water",
+   "None",
+   "A fire blanket"
+  ],
+  "answer": 1,
+  "explanation": "Water causes burning oil to erupt violently.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "Why is dry powder not recommended for use in small enclosed spaces indoors?",
+  "options": [
+   "It reduces visibility and can be inhaled",
+   "It is explosive",
+   "It freezes the air",
+   "It is not effective on any fires"
+  ],
+  "answer": 0,
+  "explanation": "Dry powder creates a dense cloud.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "What is the safest way to deal with a flammable gas (Class C) fire?",
+  "options": [
+   "Open all windows and wait",
+   "Cover it with a wet towel",
+   "Spray it with water",
+   "Isolate the gas supply if it is safe to do so"
+  ],
+  "answer": 3,
+  "explanation": "Extinguishing gas without stopping the supply can create an explosion risk.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "What does PASS stand for when using an extinguisher?",
+  "options": [
+   "Pull, Aim, Squeeze, Sweep",
+   "Push, Activate, Spray, Stop",
+   "Pull, Activate, Shout, Sweep",
+   "Point, Alert, Spray, Save"
+  ],
+  "answer": 0,
+  "explanation": "Aim at the base of the fire, not the flames.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "Where should you aim a fire extinguisher?",
+  "options": [
+   "At the top of the flames",
+   "At the ceiling",
+   "At the smoke",
+   "At the base of the fire"
+  ],
+  "answer": 3,
+  "explanation": "The base is where the fuel is burning.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "Before tackling a small fire with an extinguisher, what must you have?",
+  "options": [
+   "Raised the alarm, training, and a clear escape route behind you",
+   "Two extinguishers of every type",
+   "Permission from your manager in writing",
+   "Protective boots only"
+  ],
+  "answer": 0,
+  "explanation": "If in doubt, get out.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "What should you do if a fire is not going out after using an extinguisher?",
+  "options": [
+   "Open the windows",
+   "Fetch another extinguisher and keep trying",
+   "Leave, close the door behind you, and evacuate",
+   "Throw water on it"
+  ],
+  "answer": 2,
+  "explanation": "Never let a fire get between you and your exit.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "How should a fire blanket be used on a small pan fire?",
+  "options": [
+   "Lift it off after a few seconds to check",
+   "Throw it at the pan from a distance",
+   "Turn off the heat if safe, place the blanket over the pan and leave it in place",
+   "Soak it in water first"
+  ],
+  "answer": 2,
+  "explanation": "Leave it to cool for at least 30 minutes.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "A fire blanket can also be used on",
+  "options": [
+   "an electrical substation",
+   "a gas leak",
+   "a burning car engine",
+   "a person whose clothing is on fire"
+  ],
+  "answer": 3,
+  "explanation": "Wrap the person and lay them on the ground (stop, drop and roll).",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "Electrical fires are",
+  "options": [
+   "not a class of their own but need extinguishers safe for electrical risks",
+   "Class A fires",
+   "Class F fires",
+   "Class E fires in the UK standard"
+  ],
+  "answer": 0,
+  "explanation": "CO2 is commonly used on electrical equipment.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "How often should fire extinguishers be serviced by a competent person?",
+  "options": [
+   "Every week",
+   "Only after use",
+   "Once a year",
+   "Every ten years"
+  ],
+  "answer": 2,
+  "explanation": "Staff should also check them visually between services.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Evacuation",
+  "body": "When the fire alarm sounds, what should you do with your belongings?",
+  "options": [
+   "Leave them and evacuate immediately",
+   "Ask a colleague to fetch them",
+   "Collect them before leaving",
+   "Wait for permission"
+  ],
+  "answer": 0,
+  "explanation": "Seconds count in a fire.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Evacuation",
+  "body": "Should you use a lift during a fire evacuation?",
+  "options": [
+   "No, unless it is a designated evacuation lift",
+   "Yes, if you are on the top floor",
+   "Yes, it is the fastest way",
+   "Only if it is empty"
+  ],
+  "answer": 0,
+  "explanation": "Ordinary lifts can fail or take you into smoke.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Evacuation",
+  "body": "During a sweep of your area, why should you close doors behind you?",
+  "options": [
+   "To lock out intruders",
+   "To show the room is empty",
+   "To slow the spread of fire and smoke",
+   "To save heating"
+  ],
+  "answer": 2,
+  "explanation": "Closed doors hold back smoke and fire.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Evacuation",
+  "body": "Which areas should a fire marshal check during a sweep?",
+  "options": [
+   "Only rooms with windows",
+   "Toilets, meeting rooms, kitchens and storerooms in their area",
+   "Only the main office",
+   "The whole building, every floor"
+  ],
+  "answer": 1,
+  "explanation": "Check places where people may not hear or notice the alarm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Evacuation",
+  "body": "What number should be called to report a fire in the UK?",
+  "options": [
+   "111",
+   "999 (or 112)",
+   "911",
+   "101"
+  ],
+  "answer": 1,
+  "explanation": "Make sure the fire service has been called, even if the alarm is linked.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Evacuation",
+  "body": "At the assembly point, who should a fire marshal report to?",
+  "options": [
+   "The fire co-ordinator or person in charge",
+   "The building's receptionist only",
+   "Nobody — they can go home",
+   "The first firefighter they see only"
+  ],
+  "answer": 0,
+  "explanation": "Confirm whether your area is clear and report anyone missing.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Evacuation",
+  "body": "When can people re-enter a building after a fire alarm?",
+  "options": [
+   "As soon as the alarm stops",
+   "When it starts to rain",
+   "Only when the Fire and Rescue Service or person in charge says it is safe",
+   "After 10 minutes"
+  ],
+  "answer": 2,
+  "explanation": "The alarm stopping doesn't mean the danger has gone.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Evacuation",
+  "body": "What is a PEEP?",
+  "options": [
+   "A Personal Emergency Evacuation Plan for someone who needs help to evacuate",
+   "A register of visitors",
+   "A type of fire alarm",
+   "A fire extinguisher inspection"
+  ],
+  "answer": 0,
+  "explanation": "PEEPs are needed for people with mobility, sensory or other needs.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Evacuation",
+  "body": "What is a refuge area?",
+  "options": [
+   "A smoking area",
+   "The car park",
+   "A protected space where people who need help can wait safely for assisted evacuation",
+   "A storage room for extinguishers"
+  ],
+  "answer": 2,
+  "explanation": "Refuges are usually in protected stairways with a communication system.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Evacuation",
+  "body": "In a 'simultaneous' evacuation strategy",
+  "options": [
+   "floors leave one after another",
+   "people stay in their flats",
+   "everyone leaves the building at the same time",
+   "people move sideways to another compartment"
+  ],
+  "answer": 2,
+  "explanation": "This is the most common strategy in workplaces.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Evacuation",
+  "body": "In a 'phased' evacuation strategy",
+  "options": [
+   "no one leaves",
+   "only managers leave",
+   "floors or zones evacuate in a planned order",
+   "everyone leaves at once"
+  ],
+  "answer": 2,
+  "explanation": "Often used in tall buildings.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Evacuation",
+  "body": "'Horizontal progressive' evacuation, moving people to another fire compartment on the same floor, is common in",
+  "options": [
+   "warehouses",
+   "shops",
+   "hospitals and care homes",
+   "offices"
+  ],
+  "answer": 2,
+  "explanation": "Moving patients down stairs is slow and risky.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Evacuation",
+  "body": "A 'stay put' strategy is usually used in",
+  "options": [
+   "schools",
+   "shopping centres",
+   "purpose-built blocks of flats designed with fire-resisting compartments",
+   "offices"
+  ],
+  "answer": 2,
+  "explanation": "Each flat is designed to contain a fire for a period of time.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Evacuation",
+  "body": "How can a fire marshal account for visitors and contractors during an evacuation?",
+  "options": [
+   "By guessing",
+   "Visitors don't need accounting for",
+   "By phoning each visitor",
+   "By using the signing-in records"
+  ],
+  "answer": 3,
+  "explanation": "Bring the visitor book or check the electronic log at the assembly point.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Evacuation",
+  "body": "If you see smoke in a corridor during an evacuation, what should you do?",
+  "options": [
+   "Open windows and continue",
+   "Use an alternative escape route",
+   "Wait in the corridor",
+   "Run through it quickly"
+  ],
+  "answer": 1,
+  "explanation": "Smoke can overcome people very quickly.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Drills & records",
+  "body": "How often should a workplace fire drill be carried out at minimum?",
+  "options": [
+   "Only when new staff join",
+   "At least once a year",
+   "Only after a real fire",
+   "Every five years"
+  ],
+  "answer": 1,
+  "explanation": "Higher-risk premises or high staff turnover may need more frequent drills.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Drills & records",
+  "body": "Why should the results of a fire drill be recorded?",
+  "options": [
+   "To show compliance and identify problems to fix",
+   "Because the alarm company requires it",
+   "To decide staff bonuses",
+   "It is not necessary"
+  ],
+  "answer": 0,
+  "explanation": "Record timings and any problems found.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Drills & records",
+  "body": "Which of these should be reviewed after a fire drill?",
+  "options": [
+   "The colour of the fire doors",
+   "How long the evacuation took and any obstacles found",
+   "The building's postcode",
+   "Staff lunch breaks"
+  ],
+  "answer": 1,
+  "explanation": "Use lessons learned to update the plan.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Drills & records",
+  "body": "Which change should trigger a review of the fire risk assessment?",
+  "options": [
+   "A new tea supplier",
+   "A change of logo",
+   "Building work or a change in layout",
+   "A staff birthday"
+  ],
+  "answer": 2,
+  "explanation": "Significant changes can create new fire risks.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Drills & records",
+  "body": "What should staff do if they find a fire extinguisher missing or discharged?",
+  "options": [
+   "Ignore it",
+   "Refill it with water",
+   "Report it so it can be replaced",
+   "Hide it"
+  ],
+  "answer": 2,
+  "explanation": "Every extinguisher must be ready for use.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Drills & records",
+  "body": "How long is a Mock Night Fire Marshal certificate valid for?",
+  "options": [
+   "1 month",
+   "12 months",
+   "5 years",
+   "For life"
+  ],
+  "answer": 1,
+  "explanation": "Refresher training keeps your knowledge current.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Doors, routes & signs",
+  "body": "TRUE or FALSE? \"Fire doors may be wedged open if it is a hot day.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "Fire doors must never be wedged open.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "TRUE or FALSE? \"You should raise the alarm before trying to tackle a fire.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Raise the alarm first so everyone can escape.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "TRUE or FALSE? \"Water extinguishers are safe on electrical fires.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Water conducts electricity.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire science",
+  "body": "TRUE or FALSE? \"Most fire deaths are caused by smoke rather than flames.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Smoke contains toxic gases.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Evacuation",
+  "body": "TRUE or FALSE? \"Lifts should normally be used to evacuate quickly during a fire.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Only designated evacuation lifts should be used.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Alarms & lighting",
+  "body": "TRUE or FALSE? \"The fire alarm should be tested weekly.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "Use a different call point each time.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire safety law",
+  "body": "TRUE or FALSE? \"Employees have no legal duties regarding fire safety.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "They must take reasonable care and co-operate.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Evacuation",
+  "body": "TRUE or FALSE? \"A fire marshal should check toilets and meeting rooms during an evacuation if it is safe.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "People may not have heard the alarm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Evacuation",
+  "body": "TRUE or FALSE? \"Once the alarm stops, everyone can go back inside.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "Wait until the fire service or person in charge says it is safe.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "TRUE or FALSE? \"A wet chemical extinguisher is designed for cooking oil fires.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Wet chemical (yellow band) is for Class F fires.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Alarms & lighting",
+  "body": "TRUE or FALSE? \"Emergency lighting only needs testing when it fails.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Monthly flick tests and an annual full-duration test.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Drills & records",
+  "body": "TRUE or FALSE? \"Fire drills should be recorded in the fire log book.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Records show compliance and lessons learned.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Prevention",
+  "body": "TRUE or FALSE? \"Daisy-chaining extension leads is a safe way to add more sockets.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "It can overload circuits and cause fires.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Fire science",
+  "body": "TRUE or FALSE? \"The fire triangle is made up of heat, fuel and oxygen.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Remove one side to put the fire out.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "TRUE or FALSE? \"A CO2 extinguisher has a black band.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "CO2 = black band.",
+  "difficulty": 1
+ },
+ {
+  "subject": "FIR",
+  "topic": "Extinguishers",
+  "body": "TRUE or FALSE? \"Dry powder extinguishers are ideal for use in small enclosed offices.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "Powder reduces visibility and can be inhaled.",
+  "difficulty": 1
+ }
+]

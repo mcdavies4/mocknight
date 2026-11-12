@@ -23,6 +23,19 @@ export default function Home() {
         </div>
       </div>
 
+      <div className="grid2" style={{ marginTop: 12 }}>
+        <div className="card">
+          <h2 style={{ marginTop: 0 }}>🧯 Fire Marshal training</h2>
+          <p>8 short online modules, a final assessment and a certificate valid for 12 months. Company accounts with training records.</p>
+          <Link className="btn block" href="/fire-marshal">Learn more</Link>
+        </div>
+        <div className="card">
+          <h2 style={{ marginTop: 0 }}>🏛️ Post-UTME & 🇬🇭 WASSCE Ghana</h2>
+          <p>Fast timed screening practice for university admission, and free WASSCE practice for students in Ghana.</p>
+          <Link className="btn secondary block" href="/app">Start practising</Link>
+        </div>
+      </div>
+
       <div className="card" style={{ marginTop: 12 }}>
         👩🏾‍🏫 <b>Tutors, schools and training providers:</b> one link for your learners, a dashboard of who&apos;s practising, and weekly results.
         {bot && <> Message <a href={`https://t.me/${bot}`}>@{bot}</a> and send <code>/newgroup</code>.</>}

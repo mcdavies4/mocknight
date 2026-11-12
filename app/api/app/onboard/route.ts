@@ -1,8 +1,8 @@
 import { NextResponse } from "next/server";
 import { authRequest, errorResponse, unauthorized } from "@/lib/request-auth";
 import { updateStudent } from "@/lib/students";
-import { STATES } from "@/lib/subjects";
-import { TRACKS, type TrackCode } from "@/lib/tracks";
+import { regionsFor, TRACKS, type TrackCode } from "@/lib/tracks";
+import { attachReferrer } from "@/lib/referrals";
 
 export const dynamic = "force-dynamic";
 
@@ -21,11 +21,12 @@ export async function POST(req: Request) {
       return NextResponse.json({ error: "BAD_SUBJECTS", note: t.subjectNote }, { status: 400 });
     }
   }
-  const state = t.askState && STATES.includes(body.state) ? body.state : student.state;
+  const state = t.askState && regionsFor(t).includes(body.state) ? body.state : student.state;
   const school = t.askSchool && typeof body.school === "string" ? body.school.trim().slice(0, 80) || null : student.school;
   const firstName = typeof body.firstName === "string" && body.firstName.trim() ? body.firstName.trim().slice(0, 40) : student.first_name;
 
   try {
+    if (typeof body.ref === "string") await attachReferrer(student, body.ref);
     await updateStudent(student.id, {
       track: t.code,
       exam: t.code === "JAMB" || t.code === "WAEC" ? t.code : null,

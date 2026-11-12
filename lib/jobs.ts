@@ -2,10 +2,12 @@ import { InlineKeyboard, type Api } from "grammy";
 import { db, must } from "./supabase";
 import { env } from "./env";
 import { broadcast } from "./broadcast";
+import { sendParentReports } from "./parent-report";
+import { sendCertificateReminders } from "./courses";
 import { watNow, formatHour } from "./time";
 import { closeExpiredAttempts, ensureWeeklyMock, WEEKLY } from "./mock";
 import type { Mock, TutorGroup } from "./types";
-import { SCHOOL_TRACKS } from "./tracks";
+import { SCHOOL_TRACKS, UK_TIME_TRACKS } from "./tracks";
 
 type Recipient = { id: string; telegram_id: number; first_name: string | null };
 
@@ -31,7 +33,9 @@ export async function runHourly(api: Api) {
   const ukHour = ukHourNow();
   const due = await activeStudents((q) =>
     q
-      .or(`and(track.neq.LUK,drill_hour.eq.${hour}),and(track.eq.LUK,drill_hour.eq.${ukHour}),and(track.is.null,drill_hour.eq.${hour})`)
+      .or(
+        `and(track.not.in.(${UK_TIME_TRACKS.join(",")}),drill_hour.eq.${hour}),and(track.in.(${UK_TIME_TRACKS.join(",")}),drill_hour.eq.${ukHour}),and(track.is.null,drill_hour.eq.${hour})`,
+      )
       .or(`last_drill_prompt.is.null,last_drill_prompt.lt.${date}`),
   );
   if (due.length) {
@@ -54,7 +58,7 @@ export async function runHourly(api: Api) {
       log.reminders = await broadcast(api, all, (api, s) =>
         api.sendMessage(
           s.telegram_id,
-          `⏰ Mock Night starts at ${formatHour(WEEKLY.startHour)} tonight. Same questions for everyone in Nigeria — ${WEEKLY.minutes} minutes, CBT format. Charge your phone and find a quiet spot.`,
+          `⏰ Mock Night starts at ${formatHour(WEEKLY.startHour)} tonight. Same questions for every student — ${WEEKLY.minutes} minutes, CBT format. Charge your phone and find a quiet spot.`,
         ),
       );
     }
@@ -69,6 +73,16 @@ export async function runHourly(api: Api) {
         }),
       );
     }
+  }
+
+  // 2b. Sunday evening: weekly reports to parents
+  if (weekday === 0 && hour === 18) {
+    log.parentReports = await sendParentReports(date);
+  }
+
+  // 2c. Daily at 9am WAT: certificate refresher reminders
+  if (hour === 9) {
+    log.certReminders = await sendCertificateReminders();
   }
 
   // 3. Monday morning: results
@@ -100,6 +114,9 @@ export async function postWeeklyResults(api: Api) {
   }[];
   if (!ranks.length) return 0;
 
+  const attemptIds = new Map(
+    ((await db().from("mock_attempts").select("id, student_id").eq("mock_id", m.id).not("submitted_at", "is", null)).data ?? []).map((r: any) => [r.student_id, r.id]),
+  );
   const top = must(await db().rpc("mock_leaderboard", { p_mock: m.id, p_limit: 5 }), "top") as any[];
   const topText = top
     .map((r) => `${r.rank}. ${r.first_name ?? "Student"}${r.state ? ` (${r.state})` : ""} — ${Number(r.scaled_score).toFixed(0)}%`)
@@ -122,6 +139,7 @@ export async function postWeeklyResults(api: Api) {
           topText,
           "",
           "Your wrong answers are now in your review box — they'll show up in your drills this week.",
+          attemptIds.get(r.student_id) ? `\n📤 Share your result card: ${env.appUrl}/r/${attemptIds.get(r.student_id)}` : "",
         ]
           .filter((l) => l !== "")
           .join("\n"),

@@ -8,11 +8,11 @@ function code(len = 6) {
   return Array.from({ length: len }, () => ALPHABET[randomInt(ALPHABET.length)]).join("");
 }
 
-export async function createGroup(owner: Student, name: string): Promise<TutorGroup> {
+export async function createGroup(owner: Student, name: string, currency: "NGN" | "GBP" = "NGN"): Promise<TutorGroup> {
   for (let i = 0; i < 5; i++) {
     const { data, error } = await db()
       .from("tutor_groups")
-      .insert({ owner_student_id: owner.id, name: name.slice(0, 80), join_code: code() })
+      .insert({ owner_student_id: owner.id, name: name.slice(0, 80), join_code: code(), currency })
       .select()
       .single();
     if (!error) return data as TutorGroup;

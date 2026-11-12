@@ -4,6 +4,7 @@ import { OFFERED_SUBJECTS, subjectName } from "./subjects";
 import { getTrack, mockPerSubject, type ScoreStyle, type Track } from "./tracks";
 import { FREE_PRACTICE_MOCKS_PER_WEEK } from "./pricing";
 import { watToUtc } from "./time";
+import { rewardReferral } from "./referrals";
 import type { Mock, MockAttempt, Question, Student } from "./types";
 
 export const WEEKLY = { perSubject: 20, minutes: 60, startHour: 20, lastStartHour: 21 };
@@ -419,6 +420,7 @@ export async function submitAttempt(attemptId: string, studentId: string, answer
     .is("submitted_at", null)
     .select("id");
   if (!updated?.length) return result; // someone else submitted in parallel
+  await rewardReferral(studentId).catch((e) => console.error("referral reward failed", e));
 
   // Learning loop: log answers and push wrong ones into the review box
   await db().from("attempts").insert(

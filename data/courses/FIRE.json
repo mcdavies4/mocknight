@@ -1,0 +1,143 @@
+[
+  {
+    "id": "m1-law",
+    "title": "1. Fire safety law and your role",
+    "minutes": 4,
+    "body": [
+      "In England and Wales, workplace fire safety is governed by the Regulatory Reform (Fire Safety) Order 2005, often called the Fire Safety Order. Scotland has the Fire (Scotland) Act 2005, and Northern Ireland has the Fire and Rescue Services (Northern Ireland) Order 2006 with the Fire Safety Regulations (Northern Ireland) 2010. The principles are very similar across the UK.",
+      "The law places duties on the 'Responsible Person' — usually the employer, or whoever controls the premises. They must carry out a fire risk assessment, put fire safety measures in place, plan for emergencies, and give staff information and training. Where there are five or more employees (or a licence or alterations notice applies), the significant findings must be recorded.",
+      "Employees also have duties: take reasonable care of themselves and others, co-operate with the employer on fire safety, and report anything they think is a serious danger.",
+      "A fire marshal (or fire warden) is a member of staff trained to help prevent fires and to lead their area during an evacuation. Fire marshals do routine checks, keep escape routes clear, help people out when the alarm sounds, and report to the person in charge at the assembly point. They are not firefighters and must never put themselves at risk.",
+      "Fire safety law is enforced by the local Fire and Rescue Authority, which can inspect premises and issue notices. Serious failures can lead to unlimited fines and even imprisonment."
+    ],
+    "keyPoints": [
+      "England & Wales: Regulatory Reform (Fire Safety) Order 2005",
+      "The Responsible Person must carry out and keep under review a fire risk assessment",
+      "Employees must take reasonable care and co-operate",
+      "Fire marshals help prevent fires and lead evacuations — they don't fight large fires"
+    ]
+  },
+  {
+    "id": "m2-science",
+    "title": "2. How fire starts and spreads",
+    "minutes": 4,
+    "body": [
+      "Fire needs three things, shown as the fire triangle: heat (an ignition source), fuel (anything that burns) and oxygen (usually from the air). Remove any one side and the fire goes out. Some models add a fourth side — the chemical chain reaction — making a 'fire tetrahedron'.",
+      "Firefighting works by removing a side: cooling removes heat (for example water), smothering removes oxygen (for example foam, a fire blanket or CO2), and starving removes fuel (for example shutting off a gas supply or moving combustible materials away).",
+      "Fire spreads in four ways. Conduction is heat travelling through solid materials such as metal beams or pipes. Convection is hot gases and smoke rising and spreading across ceilings and up stairwells. Radiation is heat travelling in waves that can ignite materials some distance away. Direct burning is flames touching other combustible materials.",
+      "Smoke is the biggest killer in fires, not flames. It contains toxic gases such as carbon monoxide, spreads very quickly, and makes it hard to see and breathe. This is why fire doors must be kept closed and why we get out early rather than investigate."
+    ],
+    "keyPoints": [
+      "Fire triangle: heat, fuel, oxygen",
+      "Cooling, smothering and starving remove a side of the triangle",
+      "Fire spreads by conduction, convection, radiation and direct burning",
+      "Most fire deaths are caused by smoke, not flames"
+    ]
+  },
+  {
+    "id": "m3-prevention",
+    "title": "3. Causes of fire and prevention",
+    "minutes": 4,
+    "body": [
+      "Common causes of fire at work include deliberate fire-setting (arson), faulty or misused electrical equipment, overloaded sockets and extension leads, cooking, smoking materials, portable heaters, hot work such as welding or grinding, and poor housekeeping that lets rubbish build up.",
+      "Good housekeeping is one of the best defences: keep waste to a minimum and store it away from buildings, keep combustible materials away from heat sources, don't block escape routes or fire exits, and keep fire doors closed.",
+      "Electrical safety matters: report damaged cables and plugs, avoid 'daisy-chaining' extension leads, switch off equipment that isn't needed, and make sure portable appliances are checked as required.",
+      "Hot work should be controlled with a permit-to-work system, with a fire watch during and after the work. Smoking should only be allowed in designated areas with proper bins.",
+      "As a fire marshal, carry out regular checks of your area and report hazards promptly."
+    ],
+    "keyPoints": [
+      "Main causes: arson, electrical faults, cooking, smoking, heaters, hot work, poor housekeeping",
+      "Keep escape routes clear and fire doors shut",
+      "Don't overload sockets or daisy-chain extension leads",
+      "Use permits for hot work and keep a fire watch afterwards"
+    ]
+  },
+  {
+    "id": "m4-alarms",
+    "title": "4. Alarms, detection and emergency lighting",
+    "minutes": 3,
+    "body": [
+      "Fire alarm systems include manual call points (break-glass points) beside exits and on escape routes, plus automatic smoke and heat detectors. Anyone who discovers a fire should operate the nearest call point immediately.",
+      "The fire alarm should be tested every week, using a different call point each time on a rotation, at about the same time so staff recognise it as a test. Results are recorded in the fire log book.",
+      "Emergency lighting comes on automatically when the normal lighting fails so people can see escape routes. It should be given a short functional ('flick') test monthly and a full-duration test once a year — usually three hours.",
+      "The fire log book records alarm tests, emergency lighting tests, fire drills, training and maintenance. Faults must be reported and fixed promptly."
+    ],
+    "keyPoints": [
+      "Raise the alarm at the nearest manual call point",
+      "Test the fire alarm weekly from a different call point each time",
+      "Emergency lighting: monthly flick test, annual full-duration test",
+      "Record tests, drills and training in the fire log book"
+    ]
+  },
+  {
+    "id": "m5-routes",
+    "title": "5. Fire doors, escape routes and signs",
+    "minutes": 4,
+    "body": [
+      "Fire doors hold back fire and smoke for a set time — for example an FD30 door is designed to resist fire for 30 minutes. They have self-closing devices and intumescent strips that expand in heat to seal the gaps.",
+      "Fire doors must be kept closed and never wedged or propped open. Some doors are fitted with approved hold-open devices that release automatically when the fire alarm sounds — these are acceptable.",
+      "Escape routes and fire exits must be kept clear at all times, and final exit doors must open easily without a key.",
+      "Safety signs use colours with set meanings. Green signs show safe conditions such as fire exits and escape routes (the 'running man'). Red signs show fire-fighting equipment and prohibitions. Blue circular signs show mandatory actions, such as 'Fire door keep shut'. Yellow triangular signs give warnings."
+    ],
+    "keyPoints": [
+      "FD30 = resists fire for 30 minutes",
+      "Never wedge fire doors open",
+      "Green = safe condition / exit, red = fire equipment or prohibition, blue = mandatory, yellow = warning",
+      "Escape routes must be clear; final exits must open without a key"
+    ]
+  },
+  {
+    "id": "m6-extinguishers",
+    "title": "6. Fire extinguishers and fire blankets",
+    "minutes": 5,
+    "body": [
+      "Fires are grouped into classes: Class A — solid materials such as paper, wood and textiles; Class B — flammable liquids such as petrol and paint; Class C — flammable gases; Class D — burning metals; Class F — cooking oils and fats. Electrical fires are not a class of their own but need special care.",
+      "In the UK extinguishers have red bodies with a coloured band showing the type: Water (red) — Class A; Foam (cream) — Class A and B; Carbon dioxide, CO2 (black) — electrical fires and Class B; Dry powder (blue) — Class A, B and C and electrical, but it reduces visibility and is not recommended indoors in small spaces; Wet chemical (yellow) — Class F cooking oil fires.",
+      "Never use water or foam on electrical equipment that may be live, and never use water on burning oil or fat. For gas fires, the safest action is to isolate the gas supply if it is safe to do so.",
+      "Only tackle a fire if you have raised the alarm, you are trained, the fire is small, and you have a clear exit behind you. Use the PASS method: Pull the pin, Aim at the base of the fire, Squeeze the handle, Sweep from side to side. If the fire doesn't go out quickly, leave and close the door.",
+      "A fire blanket can smother a small pan fire or a person's burning clothing. Turn off the heat if safe, place the blanket over the pan and leave it in place."
+    ],
+    "keyPoints": [
+      "Water = red, Foam = cream, CO2 = black, Powder = blue, Wet chemical = yellow",
+      "Class F (cooking oil) → wet chemical; never water",
+      "PASS: Pull, Aim, Squeeze, Sweep",
+      "Only fight a small fire, after raising the alarm, with an exit behind you"
+    ]
+  },
+  {
+    "id": "m7-evacuation",
+    "title": "7. Evacuation and the fire marshal's actions",
+    "minutes": 5,
+    "body": [
+      "When the alarm sounds, a fire marshal puts on their hi-vis vest if issued, makes sure the alarm has been raised and the fire service called (dial 999), and directs people to the nearest safe exit.",
+      "Sweep your area quickly, checking toilets, meeting rooms, kitchens and storerooms, closing doors behind you to slow the spread of fire and smoke. Never use lifts unless they are designated evacuation lifts. Don't stop to collect belongings.",
+      "Go to the assembly point and report to the fire co-ordinator or person in charge, confirming whether your area is clear and passing on any information about the fire or missing people. Nobody re-enters the building until the Fire and Rescue Service says it is safe.",
+      "Buildings use different evacuation strategies: simultaneous (everyone leaves at once), phased (floors leave in a planned order), horizontal progressive (people move to another fire compartment on the same floor, common in hospitals and care homes) and 'stay put' (used in some purpose-built blocks of flats designed with fire-resisting compartments).",
+      "People who need help to evacuate should have a Personal Emergency Evacuation Plan (PEEP). Refuge areas are protected spaces where they can wait safely for assisted evacuation."
+    ],
+    "keyPoints": [
+      "Ensure 999 has been called",
+      "Sweep your area, close doors, never use ordinary lifts",
+      "Report to the fire co-ordinator at the assembly point; nobody re-enters until told it's safe",
+      "PEEPs for anyone who needs help to evacuate"
+    ]
+  },
+  {
+    "id": "m8-drills",
+    "title": "8. Drills, records and continuous improvement",
+    "minutes": 3,
+    "body": [
+      "Fire drills test whether the evacuation plan works. They should be held at least once a year (more often in higher-risk premises or where staff change frequently) and the results recorded, including how long the evacuation took and any problems found.",
+      "After a drill or real incident, review what happened: Were exits blocked? Did everyone hear the alarm? Were visitors and contractors accounted for using the signing-in records? Use the lessons to update the plan and training.",
+      "Fire extinguishers should be checked visually by staff regularly and serviced annually by a competent person. Report anything missing, damaged or discharged.",
+      "The fire risk assessment must be kept up to date and reviewed regularly, and whenever there are significant changes — such as new equipment, building work, changes in layout or a change in who uses the building.",
+      "Refresher training keeps skills current. Your certificate is valid for 12 months; you'll get a reminder before it expires."
+    ],
+    "keyPoints": [
+      "Hold and record fire drills at least once a year",
+      "Review drills and incidents and update the plan",
+      "Extinguishers: regular visual checks, annual service by a competent person",
+      "Review the fire risk assessment after significant changes"
+    ]
+  }
+]

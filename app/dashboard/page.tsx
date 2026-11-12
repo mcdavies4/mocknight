@@ -5,6 +5,8 @@ import { getStudent } from "@/lib/students";
 import { groupsOwnedBy, joinLink } from "@/lib/groups";
 import { env } from "@/lib/env";
 import { formatWat } from "@/lib/time";
+import { trainingRecords } from "@/lib/training-records";
+import { getLessons } from "@/lib/courses";
 
 export const dynamic = "force-dynamic";
 export const metadata = { title: "Tutor dashboard — Mock Night" };
@@ -39,11 +41,14 @@ export default async function Dashboard() {
 
   const tutor = await getStudent(auth.sid);
   const groups = await groupsOwnedBy(auth.sid);
+  const totalModules = getLessons("FIRE").length;
   const data = await Promise.all(
-    groups.map(async (g) => ({
-      group: g,
-      members: must(await db().rpc("group_member_stats", { p_group: g.id }), "member stats") as MemberStat[],
-    })),
+    groups.map(async (g) => {
+      const members = must(await db().rpc("group_member_stats", { p_group: g.id }), "member stats") as MemberStat[];
+      const isCourse = g.currency === "GBP";
+      const records = isCourse ? await trainingRecords(members.map((m) => m.student_id)) : null;
+      return { group: g, members, records };
+    }),
   );
 
   return (
@@ -53,7 +58,7 @@ export default async function Dashboard() {
 
       {data.length === 0 && <p>No groups yet. Send <code>/newgroup Name</code> to the bot.</p>}
 
-      {data.map(({ group, members }) => {
+      {data.map(({ group, members, records }) => {
         const active = members.filter((m) => Number(m.answered_7d) > 0).length;
         const answered = members.reduce((s, m) => s + Number(m.answered_7d), 0);
         const correct = members.reduce((s, m) => s + Number(m.correct_7d), 0);
@@ -73,8 +78,16 @@ export default async function Dashboard() {
               {paid ? `${group.paid_seats} Premium seats until ${formatWat(group.paid_until!)}` : "No paid seats — send /seats N to the bot"}
             </p>
 
+            {records && (
+              <p style={{ margin: "8px 0 0" }}>
+                <a className="btn secondary" style={{ minHeight: 36, padding: "6px 12px" }} href={`/dashboard/export?group=${group.id}`}>⬇️ Download training records (CSV)</a>
+              </p>
+            )}
             <div className="stats">
-              <div className="stat"><span className="muted small">Students</span><b>{members.length}</b></div>
+              {records && (
+                <div className="stat"><span className="muted small">Certified (valid)</span><b>{[...records.values()].filter((r) => r.status === "valid" || r.status === "expiring").length}/{members.length}</b></div>
+              )}
+              <div className="stat"><span className="muted small">Learners</span><b>{members.length}</b></div>
               <div className="stat"><span className="muted small">Practised this week</span><b>{active}</b></div>
               <div className="stat"><span className="muted small">Questions answered</span><b>{answered}</b></div>
               <div className="stat"><span className="muted small">Accuracy</span><b>{answered ? Math.round((correct / answered) * 100) : 0}%</b></div>
@@ -92,6 +105,8 @@ export default async function Dashboard() {
                     <th>Accuracy</th>
                     <th>Last Mock Night</th>
                     <th>Premium</th>
+                    {records && <th>Modules</th>}
+                    {records && <th>Certificate</th>}
                   </tr>
                 </thead>
                 <tbody>
@@ -111,12 +126,23 @@ export default async function Dashboard() {
                         </td>
                         <td>{m.last_mock_score === null ? "—" : `${Math.round(Number(m.last_mock_score))}%`}</td>
                         <td>{m.has_seat ? <span className="pill ok">Seat</span> : <span className="pill no">Free</span>}</td>
+                        {records && <td>{records.get(m.student_id)?.modules ?? 0}/{totalModules}</td>}
+                        {records && (
+                          <td>
+                            {(() => {
+                              const r = records.get(m.student_id);
+                              if (!r || r.status === "none") return <span className="pill no">None</span>;
+                              const d = new Date(r.expires_at!).toLocaleDateString("en-GB");
+                              return r.status === "expired" ? <span className="pill no">Expired {d}</span> : <span className="pill ok">{r.status === "expiring" ? "⚠️ " : ""}Valid to {d}</span>;
+                            })()}
+                          </td>
+                        )}
                       </tr>
                     );
                   })}
                   {sorted.length === 0 && (
                     <tr>
-                      <td colSpan={7} className="muted">No students yet — share the join link.</td>
+                      <td colSpan={records ? 9 : 7} className="muted">No learners yet — share the join link.</td>
                     </tr>
                   )}
                 </tbody>

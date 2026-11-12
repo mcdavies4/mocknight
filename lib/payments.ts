@@ -1,7 +1,7 @@
 import { createHmac, randomBytes, timingSafeEqual } from "node:crypto";
 import { env } from "./env";
 import { db, must } from "./supabase";
-import { PLANS, SEAT_DAYS, SEAT_PRICE_KOBO } from "./pricing";
+import { PLANS, SEATS } from "./pricing";
 import type { Student, TutorGroup } from "./types";
 
 /**
@@ -17,9 +17,13 @@ export async function createCheckout(
 
   if (planCode === "seats") {
     if (!opts.group || !opts.seats || opts.seats < 1) throw new Error("seats checkout needs group + seats");
-    const amount = opts.seats * SEAT_PRICE_KOBO;
-    await recordPending(reference, student, "seats", amount, "NGN", "paystack", opts.group.id, opts.seats);
-    return paystackInit(student, reference, amount, { plan: "seats", group_id: opts.group.id, seats: opts.seats });
+    const cur = opts.group.currency ?? "NGN";
+    const seat = SEATS[cur];
+    const amount = opts.seats * seat.amount;
+    await recordPending(reference, student, "seats", amount, cur, seat.provider, opts.group.id, opts.seats);
+    return seat.provider === "stripe"
+      ? stripeInit(student, reference, amount, cur, `${opts.seats} learner seats — ${opts.group.name} (12 months)`, opts.returnTo ?? (student.telegram_id ? "telegram" : "web"))
+      : paystackInit(student, reference, amount, { plan: "seats", group_id: opts.group.id, seats: opts.seats });
   }
 
   const plan = PLANS[planCode];
@@ -140,7 +144,7 @@ export async function applySuccessfulPayment(reference: string, amountPaid: numb
 
   if (claimed.plan === "seats") {
     const group = must(await db().from("tutor_groups").select("*").eq("id", claimed.group_id).single(), "group") as TutorGroup;
-    const paidUntil = addDays(group.paid_until, SEAT_DAYS);
+    const paidUntil = addDays(group.paid_until, SEATS[group.currency ?? "NGN"].days);
     await db().from("tutor_groups").update({ paid_seats: claimed.seats, paid_until: paidUntil }).eq("id", group.id);
     await reassignSeats(group.id, claimed.seats);
     return { student, kind: "seats" as const, group, seats: claimed.seats as number, until: paidUntil };

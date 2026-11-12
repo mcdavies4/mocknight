@@ -3,17 +3,27 @@
 import { useCallback, useEffect, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import { browserDb } from "@/lib/supabase-browser";
-import { api } from "@/lib/client-api";
+import { api, shareLink } from "@/lib/client-api";
+import { ExplainButton } from "@/components/explain";
 
 const LETTERS = ["A", "B", "C", "D", "E"];
 
 interface TrackOpt {
   code: string; name: string; emoji: string; tagline: string; subjectMode: "multi" | "single";
   subjects: { code: string; name: string }[]; compulsory: string[]; minSubjects: number; maxSubjects: number;
-  subjectNote: string; askState: boolean; askSchool: boolean;
+  subjectNote: string; askState: boolean; askSchool: boolean; regions: string[]; regionLabel: string; schoolLabel: string;
 }
 interface Me {
-  student: { firstName: string | null; email: string | null; track: string | null; subjects: string[]; state: string | null; school: string | null; onboarded: boolean; premiumUntil: string | null };
+  student: {
+    firstName: string | null; email: string | null; track: string | null; subjects: string[]; state: string | null; school: string | null;
+    onboarded: boolean; premiumUntil: string | null; parentEmail: string | null; fullName: string | null; telegramLinked: boolean;
+  };
+  referral: { code: string; telegram: string; web: string; joined: number; rewarded: number; days: number };
+  course: null | {
+    lessons: { id: string; title: string; minutes: number; done: boolean }[];
+    done: number; total: number; bestPass: { score: number; at: string } | null; eligible: boolean;
+    certificate: null | { cert_no: string; full_name: string; expires_at: string; valid: boolean; url: string };
+  };
   premium: boolean;
   dailyQuestions: number;
   progress: null | {
@@ -22,10 +32,9 @@ interface Me {
     practice: { taken: number; lastScores: number[]; passesInARow: number | null; readiness: number | null };
   };
   today: null | { position: number; total: number; correct: number; finished: boolean };
-  track: null | { code: string; name: string; short: string; emoji: string; subjectMode: string; mock: { total?: number; perSubject?: number; minutes: number; passPct?: number } };
+  track: null | { code: string; name: string; short: string; emoji: string; subjectMode: string; kind: string; hasCourse: boolean; mock: { total?: number; perSubject?: number; minutes: number; passPct?: number } };
   plans: { code: string; label: string; price: string }[];
   tracks: TrackOpt[];
-  states: string[];
 }
 interface DrillQ { done: false; messageId: number; position: number; total: number; isReview: boolean; subject: string; topic: string | null; body: string; options: string[] }
 interface Summary { correct: number; total: number; pct: number; streak: number; reviewBox: number; premium: boolean }
@@ -34,7 +43,8 @@ export default function Learn() {
   const params = useSearchParams();
   const [session, setSession] = useState<"loading" | "out" | "in">("loading");
   const [me, setMe] = useState<Me | null>(null);
-  const [view, setView] = useState<"home" | "onboard" | "drill">("home");
+  const [view, setView] = useState<"home" | "onboard" | "drill" | "lesson">("home");
+  const [lessonId, setLessonId] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
 
   const load = useCallback(async () => {
@@ -47,6 +57,15 @@ export default function Learn() {
       else setError("Couldn't load your account. Check your connection and refresh.");
     }
   }, []);
+
+  useEffect(() => {
+    const ref = params.get("ref");
+    if (ref) {
+      try {
+        localStorage.setItem("mn_ref", ref);
+      } catch {}
+    }
+  }, [params]);
 
   useEffect(() => {
     const sb = browserDb();
@@ -65,7 +84,8 @@ export default function Learn() {
   if (!me) return <Center>Loading your dashboard…</Center>;
   if (view === "onboard") return <Onboard me={me} preTrack={params.get("track")} onDone={() => { setView("home"); load(); }} onCancel={me.student.onboarded ? () => setView("home") : undefined} />;
   if (view === "drill") return <Drill onExit={() => { setView("home"); load(); }} />;
-  return <Home me={me} onDrill={() => setView("drill")} onSettings={() => setView("onboard")} />;
+  if (view === "lesson" && lessonId) return <LessonView id={lessonId} course={me.course} onExit={() => { setView("home"); load(); }} onOpen={(id) => setLessonId(id)} />;
+  return <Home me={me} reload={load} onDrill={() => setView("drill")} onSettings={() => setView("onboard")} onLesson={(id) => { setLessonId(id); setView("lesson"); }} />;
 }
 
 function Center({ children }: { children: React.ReactNode }) {
@@ -138,7 +158,11 @@ function Onboard({ me, preTrack, onDone, onCancel }: { me: Me; preTrack: string 
     setBusy(true);
     setErr("");
     try {
-      await api("/api/app/onboard", { track: t.code, subjects, state, school, firstName: name });
+      let ref: string | null = null;
+      try {
+        ref = localStorage.getItem("mn_ref");
+      } catch {}
+      await api("/api/app/onboard", { track: t.code, subjects, state, school, firstName: name, ref });
       onDone();
     } catch (e: any) {
       setErr(e.data?.note ?? "Couldn't save. Try again.");
@@ -146,7 +170,7 @@ function Onboard({ me, preTrack, onDone, onCancel }: { me: Me; preTrack: string 
     }
   };
 
-  const valid = t && (t.subjectMode === "single" || (subjects.length >= t.minSubjects && subjects.length <= t.maxSubjects)) && (!t.askState || state);
+  const valid = t && (t.subjectMode === "single" || (subjects.length >= t.minSubjects && subjects.length <= t.maxSubjects)) && (!t.askState || (state && t.regions.includes(state)));
 
   return (
     <main className="wrap" style={{ paddingTop: 24 }}>
@@ -186,16 +210,16 @@ function Onboard({ me, preTrack, onDone, onCancel }: { me: Me; preTrack: string 
 
           {t.askState && (
             <>
-              <h3 style={{ marginBottom: 6 }}>State</h3>
+              <h3 style={{ marginBottom: 6 }}>{t.regionLabel}</h3>
               <select className="input" value={state} onChange={(e) => setState(e.target.value)}>
-                <option value="">Choose your state…</option>
-                {me.states.map((s) => <option key={s}>{s}</option>)}
+                <option value="">Choose…</option>
+                {t.regions.map((s) => <option key={s}>{s}</option>)}
               </select>
             </>
           )}
           {t.askSchool && (
             <>
-              <h3 style={{ marginBottom: 6 }}>School (optional)</h3>
+              <h3 style={{ marginBottom: 6 }}>{t.schoolLabel}</h3>
               <input className="input" value={school} onChange={(e) => setSchool(e.target.value)} maxLength={80} />
             </>
           )}
@@ -212,7 +236,7 @@ function Onboard({ me, preTrack, onDone, onCancel }: { me: Me; preTrack: string 
 }
 
 // ---------------------------------------------------------------------------
-function Home({ me, onDrill, onSettings }: { me: Me; onDrill: () => void; onSettings: () => void }) {
+function Home({ me, reload, onDrill, onSettings, onLesson }: { me: Me; reload: () => void; onDrill: () => void; onSettings: () => void; onLesson: (id: string) => void }) {
   const t = me.track!;
   const p = me.progress;
   const [paying, setPaying] = useState("");
@@ -259,6 +283,8 @@ function Home({ me, onDrill, onSettings }: { me: Me; onDrill: () => void; onSett
         </div>
       )}
 
+      {me.course && <CourseCard course={me.course} onLesson={onLesson} reload={reload} defaultName={me.student.fullName ?? ""} />}
+
       <div className="card">
         <b>📝 Daily practice</b>
         <p className="muted small" style={{ margin: "4px 0 10px" }}>Short, every day. Anything you miss comes back until you get it right.</p>
@@ -266,7 +292,7 @@ function Home({ me, onDrill, onSettings }: { me: Me; onDrill: () => void; onSett
       </div>
 
       <div className="card">
-        <b>{passFail ? "🧪 Full practice test" : "🖥 Practice CBT"}</b>
+        <b>{me.track?.hasCourse ? "🧪 Final assessment" : passFail ? "🧪 Full practice test" : "🖥 Practice CBT"}</b>
         <p className="muted small" style={{ margin: "4px 0 10px" }}>
           {testSize} questions · {t.mock.minutes} minutes{passFail ? ` · ${t.mock.passPct}% to pass` : ""} — just like the real thing.
         </p>
@@ -297,6 +323,10 @@ function Home({ me, onDrill, onSettings }: { me: Me; onDrill: () => void; onSett
         <p className="muted small">⭐ Full access until {new Date(me.student.premiumUntil).toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" })}</p>
       )}
 
+      <InviteCard r={me.referral} />
+      {!me.student.telegramLinked && <TelegramCard />}
+      {me.track?.kind === "school" && <ParentCard current={me.student.parentEmail} />}
+
       <p className="muted small" style={{ marginTop: 24 }}>
         Signed in as {me.student.email} ·{" "}
         <a href="#" onClick={(e) => { e.preventDefault(); browserDb().auth.signOut(); }}>Sign out</a>
@@ -310,7 +340,7 @@ function Drill({ onExit }: { onExit: () => void }) {
   const [q, setQ] = useState<DrillQ | null>(null);
   const [summary, setSummary] = useState<Summary | null>(null);
   const [chosen, setChosen] = useState<number | null>(null);
-  const [feedback, setFeedback] = useState<{ correct: boolean; answer: number; explanation: string | null } | null>(null);
+  const [feedback, setFeedback] = useState<{ correct: boolean; answer: number; explanation: string | null; questionId?: string } | null>(null);
   const [pendingSummary, setPendingSummary] = useState<Summary | null>(null);
   const [err, setErr] = useState("");
 
@@ -339,7 +369,7 @@ function Drill({ onExit }: { onExit: () => void }) {
     if (!q || chosen !== null) return;
     setChosen(i);
     try {
-      const r = await api<{ correct: boolean; answer: number; explanation: string | null; done: boolean; summary: Summary | null }>("/api/app/drill/answer", { messageId: q.messageId, chosen: i });
+      const r = await api<{ correct: boolean; questionId: string; answer: number; explanation: string | null; done: boolean; summary: Summary | null }>("/api/app/drill/answer", { messageId: q.messageId, chosen: i });
       setFeedback(r);
       if (r.done && r.summary) setPendingSummary(r.summary);
     } catch (e: any) {
@@ -391,10 +421,186 @@ function Drill({ onExit }: { onExit: () => void }) {
               <b>{feedback.correct ? "✅ Correct" : `❌ The answer is ${LETTERS[feedback.answer]}`}</b>
               {feedback.explanation && <div style={{ marginTop: 4 }}>💡 {feedback.explanation}</div>}
             </div>
+            {!feedback.correct && feedback.questionId && <ExplainButton key={feedback.questionId} questionId={feedback.questionId} />}
             <button className="btn block" style={{ marginTop: 14 }} onClick={next}>{pendingSummary ? "See results" : "Next question →"}</button>
           </>
         )}
       </div>
     </>
+  );
+}
+
+// ---------------------------------------------------------------------------
+function CourseCard({ course, onLesson, reload, defaultName }: { course: NonNullable<Me["course"]>; onLesson: (id: string) => void; reload: () => void; defaultName: string }) {
+  const [name, setName] = useState(defaultName);
+  const [busy, setBusy] = useState(false);
+  const [err, setErr] = useState("");
+  const next = course.lessons.find((l) => !l.done);
+  const cert = course.certificate;
+
+  const getCert = async () => {
+    setBusy(true);
+    setErr("");
+    try {
+      const r = await api<{ url: string }>("/api/app/certificate", { fullName: name });
+      window.open(r.url, "_blank");
+      reload();
+    } catch (e: any) {
+      setErr(
+        e.message === "BAD_NAME"
+          ? "Enter your first and last name as they should appear on the certificate."
+          : e.message === "NOT_PAID"
+            ? "Certificates come with the full course — unlock it below (or ask your employer for a seat)."
+            : "Not eligible yet — finish all modules and pass the final assessment.",
+      );
+    }
+    setBusy(false);
+  };
+
+  return (
+    <>
+      <div className="card" style={{ marginTop: 16 }}>
+        <div className="row"><b>📚 Course modules</b><span className="muted small">{course.done}/{course.total} done</span></div>
+        <div className="bar" style={{ margin: "8px 0 12px" }}><span style={{ width: `${(course.done / course.total) * 100}%` }} /></div>
+        {course.lessons.map((l) => (
+          <button key={l.id} className="opt" style={{ marginBottom: 6, padding: "10px 12px" }} onClick={() => onLesson(l.id)}>
+            <span className="letter" style={l.done ? { background: "var(--ok)", color: "#fff" } : undefined}>{l.done ? "✓" : "•"}</span>
+            <span style={{ flex: 1 }}>{l.title}</span>
+            <span className="muted small">{l.minutes} min</span>
+          </button>
+        ))}
+        {next && <button className="btn block" style={{ marginTop: 6 }} onClick={() => onLesson(next.id)}>{course.done ? "Continue" : "Start"}: {next.title}</button>}
+      </div>
+
+      <div className="card">
+        <b>🎓 Certificate</b>
+        {cert?.valid ? (
+          <>
+            <p className="muted small" style={{ margin: "4px 0 10px" }}>
+              Issued to {cert.full_name} · valid until {new Date(cert.expires_at).toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" })} · {cert.cert_no}
+            </p>
+            <a className="btn block" href={cert.url} target="_blank" rel="noreferrer">📄 Download certificate</a>
+          </>
+        ) : course.eligible ? (
+          <>
+            <p className="muted small" style={{ margin: "4px 0 6px" }}>You've earned it! Enter your full name as it should appear.</p>
+            <input className="input" value={name} onChange={(e) => setName(e.target.value)} placeholder="First and last name" maxLength={80} />
+            <button className="btn block" style={{ marginTop: 10 }} onClick={getCert} disabled={busy}>{busy ? "Creating…" : "Get my certificate"}</button>
+            {err && <p className="small" style={{ color: "var(--bad)" }}>{err}</p>}
+          </>
+        ) : (
+          <p className="muted small" style={{ margin: "4px 0 0" }}>
+            {course.done === course.total ? "✅" : "▫️"} Complete all {course.total} modules<br />
+            {course.bestPass ? "✅" : "▫️"} Pass the final assessment
+            {cert && !cert.valid ? <><br />Your previous certificate has expired — complete a refresher to renew it.</> : null}
+          </p>
+        )}
+      </div>
+    </>
+  );
+}
+
+function LessonView({ id, course, onExit, onOpen }: { id: string; course: Me["course"]; onExit: () => void; onOpen: (id: string) => void }) {
+  const [lesson, setLesson] = useState<{ id: string; title: string; minutes: number; body: string[]; keyPoints: string[] } | null>(null);
+  const [busy, setBusy] = useState(false);
+  useEffect(() => {
+    setLesson(null);
+    api<{ lesson: any }>("/api/app/lesson", { id }).then((r) => setLesson(r.lesson)).catch(() => onExit());
+    window.scrollTo(0, 0);
+  }, [id]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  const done = async () => {
+    setBusy(true);
+    const r = await api<{ status: NonNullable<Me["course"]> }>("/api/app/lesson", { id, complete: true }).catch(() => null);
+    setBusy(false);
+    const nxt = r?.status.lessons.find((l) => !l.done);
+    if (nxt) onOpen(nxt.id);
+    else onExit();
+  };
+
+  if (!lesson) return <Center>Loading lesson…</Center>;
+  const idx = course?.lessons.findIndex((l) => l.id === id) ?? 0;
+  return (
+    <>
+      <div className="topbar">
+        <button className="btn secondary" style={{ minHeight: 34, padding: "4px 10px" }} onClick={onExit}>✕</button>
+        <div className="title">Module {idx + 1} of {course?.total}</div>
+        <div className="muted small">{lesson.minutes} min</div>
+      </div>
+      <main className="wrap">
+        <h2>{lesson.title}</h2>
+        {lesson.body.map((p, i) => <p key={i} style={{ lineHeight: 1.6 }}>{p}</p>)}
+        <div className="card">
+          <b>Key points</b>
+          <ul style={{ margin: "8px 0 0", paddingLeft: 20 }}>{lesson.keyPoints.map((k) => <li key={k} style={{ marginBottom: 4 }}>{k}</li>)}</ul>
+        </div>
+        <button className="btn block" onClick={done} disabled={busy}>{busy ? "Saving…" : "✅ Mark complete and continue"}</button>
+      </main>
+    </>
+  );
+}
+
+function InviteCard({ r }: { r: Me["referral"] }) {
+  const [copied, setCopied] = useState(false);
+  const copy = async () => {
+    try {
+      await navigator.clipboard.writeText(r.web);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+    } catch {}
+  };
+  return (
+    <div className="card">
+      <b>🎁 Invite friends</b>
+      <p className="muted small" style={{ margin: "4px 0 10px" }}>
+        When a friend joins with your link and finishes their first practice, you both get {r.days} days of Premium. Joined: {r.joined} · Rewards: {r.rewarded}
+      </p>
+      <div className="nav">
+        <button className="btn" onClick={() => shareLink(r.web, "I'm practising with Mock Night — join me and we both get free Premium days 👇")}>📤 Share link</button>
+        <button className="btn secondary" onClick={copy}>{copied ? "Copied ✓" : "Copy link"}</button>
+      </div>
+    </div>
+  );
+}
+
+function TelegramCard() {
+  const [busy, setBusy] = useState(false);
+  const connect = async () => {
+    setBusy(true);
+    try {
+      const { url } = await api<{ url: string }>("/api/app/link-telegram");
+      window.location.href = url;
+    } catch {
+      setBusy(false);
+    }
+  };
+  return (
+    <div className="card">
+      <b>✈️ Get daily reminders on Telegram</b>
+      <p className="muted small" style={{ margin: "4px 0 10px" }}>Connect Telegram to get your daily practice there. Your progress stays in one account.</p>
+      <button className="btn secondary block" onClick={connect} disabled={busy}>{busy ? "Opening Telegram…" : "Connect Telegram"}</button>
+    </div>
+  );
+}
+
+function ParentCard({ current }: { current: string | null }) {
+  const [email, setEmail] = useState(current ?? "");
+  const [saved, setSaved] = useState("");
+  const save = async () => {
+    try {
+      await api("/api/app/settings", { parentEmail: email });
+      setSaved(email ? "Saved ✓ — reports go out every Sunday evening." : "Reports turned off.");
+    } catch {
+      setSaved("That email doesn't look right.");
+    }
+  };
+  return (
+    <div className="card">
+      <b>👨‍👩‍👧 Weekly report for a parent</b>
+      <p className="muted small" style={{ margin: "4px 0 6px" }}>A short summary every Sunday: days practised, scores and weakest subject.</p>
+      <input className="input" type="email" value={email} onChange={(e) => setEmail(e.target.value)} placeholder="parent@example.com" />
+      <button className="btn secondary block" style={{ marginTop: 10 }} onClick={save}>Save</button>
+      {saved && <p className="muted small">{saved}</p>}
+    </div>
   );
 }

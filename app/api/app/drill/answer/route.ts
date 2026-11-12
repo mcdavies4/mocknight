@@ -18,6 +18,7 @@ export async function POST(req: Request) {
     const done = res.session.position >= res.session.question_ids.length;
     return NextResponse.json({
       correct: res.correct,
+      questionId: res.question.id,
       answer: res.question.answer_index,
       explanation: res.question.explanation,
       done,
