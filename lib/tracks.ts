@@ -2,7 +2,7 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "LUK" | "FIRE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
 export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
@@ -54,6 +54,8 @@ export interface Track {
   mockVariants?: MockVariant[];
   /** Who the AI tutor is talking to */
   audience?: string;
+  /** Keep a track out of learner onboarding until its reviewed question bank is ready. */
+  launchStatus?: "active" | "preparing";
 }
 
 const SCHOOL_SUBJECTS = ["ENG", "MTH", "PHY", "CHM", "BIO", "ECO", "GOV"];
@@ -104,6 +106,70 @@ export const TRACKS: Record<TrackCode, Track> = {
     tagline: "8 short modules, a final assessment and a certificate valid for 12 months", timeZone: "Europe/London",
     course: { certificateDays: 365, certificateTitle: "Fire Marshal / Fire Warden Training" },
   },
+  DRIVE: {
+    code: "DRIVE", name: "GB Car Driving Theory", short: "Driving Theory",
+    emoji: "🚗", kind: "professional", region: "UK", currency: "GBP",
+    subjectMode: "single", subjects: ["DRV"], compulsory: ["DRV"],
+    minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 50, minutes: 57, passPct: 86, scoreStyle: "passfail", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["drive_pass"],
+    tagline: "Original Great Britain car theory multiple-choice practice; hazard perception is not included",
+    timeZone: "Europe/London",
+    launchStatus: "preparing",
+    audience: "Great Britain car driving theory test candidates in England, Scotland and Wales",
+  },
+
+  FSE: {
+    code: "FSE", name: "Functional Skills English (England)", short: "Functional English",
+    emoji: "📖", kind: "professional", region: "UK", currency: "GBP",
+    subjectMode: "multi", subjects: ["FSE1", "FSE2"],
+    compulsory: [], minSubjects: 1, maxSubjects: 1,
+    subjectNote: "Choose the qualification level you are studying. You can change it later.",
+    mock: { total: 20, minutes: 45, passPct: 60, scoreStyle: "percent", maxSubjects: 1 },
+    mockVariants: [
+      { key: "L1", label: "Level 1", short: "Level 1", subjects: ["FSE1"], total: 20, minutes: 45, passPct: 60, note: "20 questions · 45 minutes · practice target 60%" },
+      { key: "L2", label: "Level 2", short: "Level 2", subjects: ["FSE2"], total: 20, minutes: 45, passPct: 60, note: "20 questions · 45 minutes · practice target 60%" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["fse_pass"],
+    tagline: "Build English skills with Level 1 and Level 2 practice",
+    timeZone: "Europe/London",
+    launchStatus: "preparing",
+  },
+
+  FSM: {
+    code: "FSM", name: "Functional Skills Maths (England)", short: "Functional Maths",
+    emoji: "🔢", kind: "professional", region: "UK", currency: "GBP",
+    subjectMode: "multi", subjects: ["FSM1", "FSM2"],
+    compulsory: [], minSubjects: 1, maxSubjects: 1,
+    subjectNote: "Choose the qualification level you are studying. You can change it later.",
+    mock: { total: 20, minutes: 45, passPct: 60, scoreStyle: "percent", maxSubjects: 1 },
+    mockVariants: [
+      { key: "L1", label: "Level 1", short: "Level 1", subjects: ["FSM1"], total: 20, minutes: 45, passPct: 60, note: "20 questions · 45 minutes · practice target 60%" },
+      { key: "L2", label: "Level 2", short: "Level 2", subjects: ["FSM2"], total: 20, minutes: 45, passPct: 60, note: "20 questions · 45 minutes · practice target 60%" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["fsm_pass"],
+    tagline: "Practise essential maths skills at Level 1 and Level 2",
+    timeZone: "Europe/London",
+    launchStatus: "preparing",
+  },
+
+  CARE: {
+    code: "CARE", name: "Care Certificate Revision (England)", short: "Care Certificate",
+    emoji: "🩺", kind: "work", region: "UK", currency: "GBP",
+    subjectMode: "single", subjects: ["CAR"], compulsory: ["CAR"],
+    minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 30, minutes: 45, passPct: 70, scoreStyle: "percent", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["care_pass"],
+    tagline: "Revise the Care Certificate standards with practice questions",
+    timeZone: "Europe/London",
+    launchStatus: "preparing",
+    audience: "People undertaking Care Certificate learning and workplace assessment in England",
+  },
+
   NMC: {
     code: "NMC", name: "NMC CBT (nursing)", short: "NMC CBT", emoji: "🩺", kind: "professional", region: "UK", currency: "GBP",
     subjectMode: "single", subjects: ["NMN", "NMC"], compulsory: ["NMN", "NMC"], minSubjects: 2, maxSubjects: 2, subjectNote: "",

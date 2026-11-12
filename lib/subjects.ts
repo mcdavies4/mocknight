@@ -26,6 +26,12 @@ export const SUBJECTS: Record<string, string> = {
   HIS: "History",
   SRW: "SAT Reading and Writing",
   SMT: "SAT Math",
+  DRV: "UK Driving Theory",
+  FSE1: "Functional Skills English Level 1",
+  FSE2: "Functional Skills English Level 2",
+  FSM1: "Functional Skills Maths Level 1",
+  FSM2: "Functional Skills Maths Level 2",
+  CAR: "Care Certificate",
 };
 
 /** School subjects with questions. Add codes here once you have questions for them. */

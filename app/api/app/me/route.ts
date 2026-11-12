@@ -54,7 +54,7 @@ export async function POST(req: Request) {
       },
       plans: (track?.plans ?? []).map((c) => ({ code: c, label: PLANS[c].label, price: money(PLANS[c].amount, PLANS[c].currency) })),
       // for onboarding
-      tracks: TRACK_LIST.map((t) => ({
+      tracks: TRACK_LIST.filter((t) => t.launchStatus !== "preparing").map((t) => ({
         code: t.code, name: t.name, emoji: t.emoji, tagline: t.tagline, subjectMode: t.subjectMode,
         subjects: t.subjects.map((code) => ({ code, name: subjectName(code) })), compulsory: t.compulsory,
         minSubjects: t.minSubjects, maxSubjects: t.maxSubjects, subjectNote: t.subjectNote, askState: t.askState, askSchool: t.askSchool,

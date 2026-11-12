@@ -14,6 +14,10 @@ const PATHS: Record<TrackCode, string> = {
   WASSCE_GH: "/app",
   LUK: "/life-in-the-uk",
   FIRE: "/fire-marshal",
+  DRIVE: "/app?track=DRIVE",
+  FSE: "/app?track=FSE",
+  FSM: "/app?track=FSM",
+  CARE: "/app?track=CARE",
   NMC: "/nmc-cbt",
   PM: "/project-management",
   ETH: "/ethiopia",
@@ -30,12 +34,12 @@ const GROUPS: { title: string; description: string; codes: TrackCode[] }[] = [
   {
     title: "Professional & career exams",
     description: "Practise for professional qualifications and career progression tests.",
-    codes: ["PM", "NMC", "SSC"],
+    codes: ["PM", "NMC", "SSC", "DRIVE", "FSE", "FSM"],
   },
   {
     title: "Citizenship & workplace training",
     description: "Build confidence for a UK knowledge test or structured workplace training.",
-    codes: ["LUK", "FIRE"],
+    codes: ["LUK", "FIRE", "CARE"],
   },
 ];
 
@@ -78,9 +82,13 @@ export default function ExamsPage() {
                           ? "Citizenship test"
                           : "Academic preparation"}
                   </p>
-                  <Link className="btn block" href={PATHS[code]}>
-                    Explore pathway
-                  </Link>
+                  {track.launchStatus === "preparing" ? (
+                    <p className="muted small" style={{ marginBottom: 0 }}>Question bank in preparation</p>
+                  ) : (
+                    <Link className="btn block" href={PATHS[code]}>
+                      Explore pathway
+                    </Link>
+                  )}
                 </article>
               );
             })}

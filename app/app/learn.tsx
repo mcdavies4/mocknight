@@ -331,7 +331,10 @@ function Home({ me, reload, onDrill, onSettings, onLesson }: { me: Me; reload: (
       <div className="card">
         <b>{me.track?.hasCourse ? "🧪 Final assessment" : passFail ? "🧪 Full practice test" : "🖥 Practice CBT"}</b>
         <p className="muted small" style={{ margin: "4px 0 10px" }}>
-          {testSize} questions · {t.mock.minutes} minutes{passFail ? ` · ${t.mock.passPct}% to pass` : ""} — just like the real thing.
+          {testSize} questions · {t.mock.minutes} minutes{passFail ? ` · ${t.mock.passPct}% practice target` : ""}.
+          {t.code === "DRIVE" && " Multiple-choice practice only; hazard perception is not included."}
+          {(t.code === "FSE" || t.code === "FSM") && " Skills practice only; this is not a complete awarding-body assessment."}
+          {t.code === "CARE" && " Revision practice only; workplace assessment is completed separately."}
         </p>
         <a className="btn block" href="/mock">Start a test</a>
       </div>

@@ -9,7 +9,7 @@ export const DRILL_HOURS = [6, 7, 16, 17, 18, 19, 20, 21];
 
 export function trackKb() {
   const kb = new InlineKeyboard();
-  TRACK_LIST.forEach((t) => kb.text(`${t.emoji} ${t.name}`, `ob:track:${t.code}`).row());
+  TRACK_LIST.filter((t) => t.launchStatus !== "preparing").forEach((t) => kb.text(`${t.emoji} ${t.name}`, `ob:track:${t.code}`).row());
   return kb;
 }
 
