@@ -58,5 +58,6 @@ export function menuKb(student: Student) {
   if (track.weeklyMock) kb.text("🏆 Mock Night", "mn:info");
   if (track.course) kb.text("📚 Lessons", "lesson:next");
   kb.text("📊 My stats", "stats").row().text("🎁 Invite friends", "invite").text("⭐ Premium", "pay:menu").row().text("⚙️ Settings", "settings");
+  kb.row().text("🌍 Explore exams", "exams");
   return kb;
 }
