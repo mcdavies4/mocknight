@@ -1,0 +1,282 @@
+[
+  {
+    "subject": "AGR",
+    "topic": "Soil formation, properties and soil fertility",
+    "body": "The breakdown of rocks into smaller particles by physical and chemical agents is known as",
+    "options": [
+      "Weathering",
+      "Leaching",
+      "Erosion",
+      "Eluviation"
+    ],
+    "answer": 0,
+    "explanation": "Weathering is the physical and chemical breakdown of rocks in place. Erosion only removes and transports material, and leaching washes out dissolved nutrients.",
+    "difficulty": 1
+  },
+  {
+    "subject": "AGR",
+    "topic": "Soil formation, properties and soil fertility",
+    "body": "Which of the following soil particles has the smallest diameter?",
+    "options": [
+      "Sand",
+      "Silt",
+      "Gravel",
+      "Clay"
+    ],
+    "answer": 3,
+    "explanation": "Clay particles are smaller than 0.002 mm, which is smaller than silt (0.002–0.05 mm) and sand (0.05–2 mm).",
+    "difficulty": 1
+  },
+  {
+    "subject": "AGR",
+    "topic": "Soil formation, properties and soil fertility",
+    "body": "Which soil type is considered best for most arable crops because it drains well and also retains enough water and nutrients?",
+    "options": [
+      "Sandy soil",
+      "Loam",
+      "Heavy clay",
+      "Laterite"
+    ],
+    "answer": 1,
+    "explanation": "Loam has a balanced mixture of sand, silt and clay, so it gives good drainage, aeration and water retention.",
+    "difficulty": 1
+  },
+  {
+    "subject": "AGR",
+    "topic": "Soil formation, properties and soil fertility",
+    "body": "The weathered rock material from which a soil develops is called its",
+    "options": [
+      "Humus",
+      "Subsoil",
+      "Parent material",
+      "Soil colloid"
+    ],
+    "answer": 2,
+    "explanation": "Parent material is the weathered rock or deposit that gives rise to the mineral part of the soil.",
+    "difficulty": 1
+  },
+  {
+    "subject": "AGR",
+    "topic": "Soil formation, properties and soil fertility",
+    "body": "Which of the following is a primary macronutrient needed by crops in large quantities?",
+    "options": [
+      "Nitrogen",
+      "Zinc",
+      "Boron",
+      "Copper"
+    ],
+    "answer": 0,
+    "explanation": "Nitrogen, phosphorus and potassium are the primary macronutrients. Zinc, boron and copper are micronutrients needed in small amounts.",
+    "difficulty": 1
+  },
+  {
+    "subject": "AGR",
+    "topic": "Soil formation, properties and soil fertility",
+    "body": "A soil sample tested by a student in Enugu has a pH of 5.0. The soil is",
+    "options": [
+      "Alkaline",
+      "Neutral",
+      "Acidic",
+      "Saline"
+    ],
+    "answer": 2,
+    "explanation": "A pH below 7 means the soil is acidic. A pH of 5.0 is moderately acidic.",
+    "difficulty": 1
+  },
+  {
+    "subject": "AGR",
+    "topic": "Soil formation, properties and soil fertility",
+    "body": "The downward washing of soluble plant nutrients below the root zone by percolating water is called",
+    "options": [
+      "Capillarity",
+      "Leaching",
+      "Erosion",
+      "Volatilization"
+    ],
+    "answer": 1,
+    "explanation": "Leaching is the loss of dissolved nutrients, such as nitrates, to depths beyond the reach of roots.",
+    "difficulty": 2
+  },
+  {
+    "subject": "AGR",
+    "topic": "Soil formation, properties and soil fertility",
+    "body": "Which soil horizon is the topsoil, with the most humus and biological activity?",
+    "options": [
+      "B horizon",
+      "C horizon",
+      "R horizon",
+      "A horizon"
+    ],
+    "answer": 3,
+    "explanation": "The A horizon is the topmost layer and is rich in organic matter and living organisms, so it is the most fertile.",
+    "difficulty": 2
+  },
+  {
+    "subject": "AGR",
+    "topic": "Soil formation, properties and soil fertility",
+    "body": "Farmers apply agricultural lime to strongly acidic soils mainly in order to",
+    "options": [
+      "Lower the soil pH",
+      "Raise the soil pH",
+      "Increase the sand content",
+      "Supply nitrogen to crops"
+    ],
+    "answer": 1,
+    "explanation": "Lime contains calcium carbonate, which neutralises soil acidity and so raises the pH.",
+    "difficulty": 2
+  },
+  {
+    "subject": "AGR",
+    "topic": "Soil formation, properties and soil fertility",
+    "body": "Soil texture is determined by the",
+    "options": [
+      "Colour of the soil",
+      "Organic matter content",
+      "Relative proportions of sand, silt and clay",
+      "Arrangement of particles into aggregates"
+    ],
+    "answer": 2,
+    "explanation": "Texture depends on the relative amounts of sand, silt and clay. The arrangement of particles into aggregates is soil structure.",
+    "difficulty": 2
+  },
+  {
+    "subject": "AGR",
+    "topic": "Soil formation, properties and soil fertility",
+    "body": "After years of growing maize, Mr Bello's plot in Ogbomosho gives low yields. Which practice would cheaply restore its fertility?",
+    "options": [
+      "Burning the stubble every year",
+      "Growing maize continuously",
+      "Removing the topsoil",
+      "Planting a leguminous cover crop like Mucuna"
+    ],
+    "answer": 3,
+    "explanation": "Legumes fix atmospheric nitrogen through root nodule bacteria, and their residues add organic matter to the soil.",
+    "difficulty": 2
+  },
+  {
+    "subject": "AGR",
+    "topic": "Soil formation, properties and soil fertility",
+    "body": "In the nitrogen cycle, Nitrobacter in the soil converts",
+    "options": [
+      "Atmospheric nitrogen to ammonia",
+      "Nitrates to nitrogen gas",
+      "Nitrites to nitrates",
+      "Ammonium to nitrites"
+    ],
+    "answer": 2,
+    "explanation": "Nitrobacter oxidises nitrites to nitrates, the form plants absorb. Nitrosomonas converts ammonium to nitrites.",
+    "difficulty": 2
+  },
+  {
+    "subject": "AGR",
+    "topic": "Soil formation, properties and soil fertility",
+    "body": "Which of the following soils has the highest water-holding capacity?",
+    "options": [
+      "Clay soil",
+      "Sandy soil",
+      "Gravelly soil",
+      "Stony soil"
+    ],
+    "answer": 0,
+    "explanation": "Clay has very fine particles and many small pores, so it holds more water than sandy or gravelly soils, which drain quickly.",
+    "difficulty": 2
+  },
+  {
+    "subject": "AGR",
+    "topic": "Soil formation, properties and soil fertility",
+    "body": "A farmer applies NPK 15:15:15 at 200 kg/ha on a 2-hectare farm. How many kilograms of nitrogen are applied altogether?",
+    "options": [
+      "30 kg",
+      "45 kg",
+      "60 kg",
+      "90 kg"
+    ],
+    "answer": 2,
+    "explanation": "Nitrogen per hectare = 15% of 200 = 30 kg. For 2 ha, 30 × 2 = 60 kg.",
+    "difficulty": 2
+  },
+  {
+    "subject": "AGR",
+    "topic": "Soil formation, properties and soil fertility",
+    "body": "Urea contains 46% nitrogen. How much urea is needed to supply 60 kg of nitrogen per hectare?",
+    "options": [
+      "27.6 kg",
+      "46 kg",
+      "106 kg",
+      "130.4 kg"
+    ],
+    "answer": 3,
+    "explanation": "Urea needed = 60 ÷ 0.46 = 130.4 kg. Multiplying 60 by 0.46 gives 27.6 kg, which is a common mistake.",
+    "difficulty": 3
+  },
+  {
+    "subject": "AGR",
+    "topic": "Soil formation, properties and soil fertility",
+    "body": "A fresh soil sample weighs 120 g and weighs 100 g after oven-drying. Its moisture content on a dry-weight basis is",
+    "options": [
+      "20%",
+      "16.7%",
+      "83.3%",
+      "120%"
+    ],
+    "answer": 0,
+    "explanation": "Water lost = 120 − 100 = 20 g. Moisture content = 20 ÷ 100 × 100 = 20%. The 16.7% figure uses the wet mass wrongly.",
+    "difficulty": 2
+  },
+  {
+    "subject": "AGR",
+    "topic": "Soil formation, properties and soil fertility",
+    "body": "Which statement about cation exchange capacity (CEC) of a soil is correct?",
+    "options": [
+      "It is higher in soils rich in clay and humus",
+      "It is higher in sandy soils than in clay soils",
+      "It decreases as organic matter increases",
+      "It measures only the acidity of the soil"
+    ],
+    "answer": 0,
+    "explanation": "Clay and humus colloids carry negative charges that hold cations such as Ca²⁺ and K⁺. Sandy soils therefore have a low CEC.",
+    "difficulty": 3
+  },
+  {
+    "subject": "AGR",
+    "topic": "Soil formation, properties and soil fertility",
+    "body": "The reddish colour of many soils in southern Nigeria is mainly due to the presence of",
+    "options": [
+      "Calcium carbonate",
+      "Humus",
+      "Iron oxides",
+      "Quartz sand"
+    ],
+    "answer": 2,
+    "explanation": "Intense weathering and leaching in humid areas leave iron oxides in the soil, and these give the red colour. Humus gives a dark colour.",
+    "difficulty": 2
+  },
+  {
+    "subject": "AGR",
+    "topic": "Soil formation, properties and soil fertility",
+    "body": "A waterlogged rice field in Ebonyi State loses much of its nitrogen to the air mainly through",
+    "options": [
+      "Nitrification",
+      "Denitrification",
+      "Ammonification",
+      "Nitrogen fixation"
+    ],
+    "answer": 1,
+    "explanation": "In oxygen-poor waterlogged soil, denitrifying bacteria convert nitrates to nitrogen gas, which escapes into the air.",
+    "difficulty": 3
+  },
+  {
+    "subject": "AGR",
+    "topic": "Soil formation, properties and soil fertility",
+    "body": "In strongly acidic soils (pH about 4.5) in south-eastern Nigeria, phosphorus is poorly available to crops mainly because",
+    "options": [
+      "Excess calcium precipitates it",
+      "It is lost to the air as a gas",
+      "Clay minerals release too much of it",
+      "It is fixed by iron and aluminium compounds"
+    ],
+    "answer": 3,
+    "explanation": "At low pH, soluble iron and aluminium react with phosphate to form insoluble compounds that plants cannot absorb.",
+    "difficulty": 3
+  }
+]

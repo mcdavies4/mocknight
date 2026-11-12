@@ -1,0 +1,282 @@
+[
+  {
+    "subject": "LIT",
+    "topic": "Literary genres, figures of speech and literary appreciation",
+    "body": "Which of the following lists contains only the three major genres of literature?",
+    "options": [
+      "Prose, poetry and drama",
+      "Tragedy, comedy and satire",
+      "Novel, epic and ballad",
+      "Plot, theme and setting"
+    ],
+    "answer": 0,
+    "explanation": "Literature is broadly divided into prose, poetry and drama. The other lists contain sub-genres or elements of literature.",
+    "difficulty": 1
+  },
+  {
+    "subject": "LIT",
+    "topic": "Literary genres, figures of speech and literary appreciation",
+    "body": "\"The wind whispered through the mango trees.\" The figure of speech in this sentence is",
+    "options": [
+      "Simile",
+      "Personification",
+      "Hyperbole",
+      "Metaphor"
+    ],
+    "answer": 1,
+    "explanation": "The wind is given the human action of whispering, so it is personification.",
+    "difficulty": 1
+  },
+  {
+    "subject": "LIT",
+    "topic": "Literary genres, figures of speech and literary appreciation",
+    "body": "\"Her smile is as bright as the morning sun.\" This expression is a",
+    "options": [
+      "Metaphor",
+      "Irony",
+      "Simile",
+      "Apostrophe"
+    ],
+    "answer": 2,
+    "explanation": "It compares two unlike things directly using the word 'as', which makes it a simile.",
+    "difficulty": 1
+  },
+  {
+    "subject": "LIT",
+    "topic": "Literary genres, figures of speech and literary appreciation",
+    "body": "A play that shows the downfall of a noble hero, usually ending in disaster or death, is a",
+    "options": [
+      "Comedy",
+      "Farce",
+      "Melodrama",
+      "Tragedy"
+    ],
+    "answer": 3,
+    "explanation": "Tragedy deals with the fall of a hero, often through a flaw or fate, and ends in suffering or death.",
+    "difficulty": 1
+  },
+  {
+    "subject": "LIT",
+    "topic": "Literary genres, figures of speech and literary appreciation",
+    "body": "\"Bola is a lion on the football pitch.\" The figure of speech used is",
+    "options": [
+      "Metaphor",
+      "Simile",
+      "Personification",
+      "Litotes"
+    ],
+    "answer": 0,
+    "explanation": "Bola is directly said to be a lion without 'like' or 'as', so it is a metaphor.",
+    "difficulty": 1
+  },
+  {
+    "subject": "LIT",
+    "topic": "Literary genres, figures of speech and literary appreciation",
+    "body": "The main character around whom the plot of a story revolves is called the",
+    "options": [
+      "Antagonist",
+      "Narrator",
+      "Protagonist",
+      "Chorus"
+    ],
+    "answer": 2,
+    "explanation": "The protagonist is the central character of a literary work. The antagonist opposes the protagonist.",
+    "difficulty": 1
+  },
+  {
+    "subject": "LIT",
+    "topic": "Literary genres, figures of speech and literary appreciation",
+    "body": "\"I have told you a million times to lock the gate!\" The speaker uses",
+    "options": [
+      "Hyperbole",
+      "Understatement",
+      "Paradox",
+      "Euphemism"
+    ],
+    "answer": 0,
+    "explanation": "'A million times' is deliberate exaggeration for emphasis, which is hyperbole.",
+    "difficulty": 2
+  },
+  {
+    "subject": "LIT",
+    "topic": "Literary genres, figures of speech and literary appreciation",
+    "body": "A fire station burns down while its crew are away at a party. This outcome is an example of",
+    "options": [
+      "Simile",
+      "Irony",
+      "Alliteration",
+      "Onomatopoeia"
+    ],
+    "answer": 1,
+    "explanation": "The outcome is the opposite of what is expected, which is situational irony.",
+    "difficulty": 2
+  },
+  {
+    "subject": "LIT",
+    "topic": "Literary genres, figures of speech and literary appreciation",
+    "body": "\"The deafening silence in the hall frightened the pupils.\" The phrase 'deafening silence' is an",
+    "options": [
+      "Hyperbole",
+      "Simile",
+      "Apostrophe",
+      "Oxymoron"
+    ],
+    "answer": 3,
+    "explanation": "It joins two contradictory words, 'deafening' and 'silence', which is an oxymoron.",
+    "difficulty": 2
+  },
+  {
+    "subject": "LIT",
+    "topic": "Literary genres, figures of speech and literary appreciation",
+    "body": "\"Peter's plump pigs paraded past the palm-wine party.\" The dominant sound device is",
+    "options": [
+      "Assonance",
+      "Onomatopoeia",
+      "Alliteration",
+      "Rhyme"
+    ],
+    "answer": 2,
+    "explanation": "The repeated initial consonant sound /p/ in nearby words is alliteration.",
+    "difficulty": 2
+  },
+  {
+    "subject": "LIT",
+    "topic": "Literary genres, figures of speech and literary appreciation",
+    "body": "\"The okada went 'vroom' and the horn blared 'pom-pom'.\" The words 'vroom' and 'pom-pom' are examples of",
+    "options": [
+      "Onomatopoeia",
+      "Alliteration",
+      "Metonymy",
+      "Pun"
+    ],
+    "answer": 0,
+    "explanation": "These words imitate the sounds they describe, which is onomatopoeia.",
+    "difficulty": 2
+  },
+  {
+    "subject": "LIT",
+    "topic": "Literary genres, figures of speech and literary appreciation",
+    "body": "\"O River Niger, carry my song to the sea!\" The poet addresses the river directly. This is",
+    "options": [
+      "Personification",
+      "Apostrophe",
+      "Irony",
+      "Synecdoche"
+    ],
+    "answer": 1,
+    "explanation": "Addressing a non-human thing as if it can hear is apostrophe. Personification only gives human traits.",
+    "difficulty": 2
+  },
+  {
+    "subject": "LIT",
+    "topic": "Literary genres, figures of speech and literary appreciation",
+    "body": "\"Aso Rock has announced a new policy on school fees.\" 'Aso Rock' here stands for the Presidency. The figure is",
+    "options": [
+      "Metonymy",
+      "Simile",
+      "Hyperbole",
+      "Oxymoron"
+    ],
+    "answer": 0,
+    "explanation": "A name closely associated with something replaces it, so Aso Rock stands for the Presidency. That is metonymy.",
+    "difficulty": 2
+  },
+  {
+    "subject": "LIT",
+    "topic": "Literary genres, figures of speech and literary appreciation",
+    "body": "In drama, a speech in which a character alone on stage speaks his thoughts aloud is called a",
+    "options": [
+      "Dialogue",
+      "Aside",
+      "Prologue",
+      "Soliloquy"
+    ],
+    "answer": 3,
+    "explanation": "A soliloquy reveals a character's inner thoughts while alone. An aside is a brief remark to the audience.",
+    "difficulty": 2
+  },
+  {
+    "subject": "LIT",
+    "topic": "Literary genres, figures of speech and literary appreciation",
+    "body": "The mood of a poem refers to",
+    "options": [
+      "The poet's life story",
+      "The feeling or atmosphere created for the reader",
+      "The number of stanzas",
+      "The pattern of rhyme"
+    ],
+    "answer": 1,
+    "explanation": "Mood is the emotional atmosphere a poem creates in the reader, such as sadness or joy.",
+    "difficulty": 2
+  },
+  {
+    "subject": "LIT",
+    "topic": "Literary genres, figures of speech and literary appreciation",
+    "body": "A stanza has lines ending in the words farm, rain, harm, pain. Its rhyme scheme is",
+    "options": [
+      "aabb",
+      "abba",
+      "abab",
+      "abcd"
+    ],
+    "answer": 2,
+    "explanation": "Line 1 (farm) rhymes with line 3 (harm), and line 2 (rain) with line 4 (pain). The scheme is abab.",
+    "difficulty": 2
+  },
+  {
+    "subject": "LIT",
+    "topic": "Literary genres, figures of speech and literary appreciation",
+    "body": "In a play, the audience knows the visitor's gift to the king is poisoned, but the king does not. This is",
+    "options": [
+      "Verbal irony",
+      "Dramatic irony",
+      "Soliloquy",
+      "Paradox"
+    ],
+    "answer": 1,
+    "explanation": "Dramatic irony occurs when the audience knows something that a character does not.",
+    "difficulty": 3
+  },
+  {
+    "subject": "LIT",
+    "topic": "Literary genres, figures of speech and literary appreciation",
+    "body": "Of a brilliant Super Eagles striker, a commentator says, \"He is not a bad player at all.\" This is",
+    "options": [
+      "Litotes",
+      "Hyperbole",
+      "Euphemism",
+      "Pathos"
+    ],
+    "answer": 0,
+    "explanation": "Litotes affirms something by denying its opposite, so 'not bad' means 'very good'.",
+    "difficulty": 3
+  },
+  {
+    "subject": "LIT",
+    "topic": "Literary genres, figures of speech and literary appreciation",
+    "body": "\"Mrs Adeyemi lost her keys and her temper in the market.\" The figure of speech is",
+    "options": [
+      "Zeugma",
+      "Antithesis",
+      "Metaphor",
+      "Alliteration"
+    ],
+    "answer": 0,
+    "explanation": "One verb, 'lost', governs two unlike objects, keys and temper, in different senses. That is zeugma.",
+    "difficulty": 3
+  },
+  {
+    "subject": "LIT",
+    "topic": "Literary genres, figures of speech and literary appreciation",
+    "body": "\"The more the chief gave away, the richer he became.\" This seemingly contradictory but meaningful statement is a",
+    "options": [
+      "Oxymoron",
+      "Simile",
+      "Paradox",
+      "Pun"
+    ],
+    "answer": 2,
+    "explanation": "A paradox is a statement that seems self-contradictory but holds a truth: generosity brings respect and wealth.",
+    "difficulty": 3
+  }
+]

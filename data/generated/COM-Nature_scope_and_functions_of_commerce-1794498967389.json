@@ -1,0 +1,282 @@
+[
+  {
+    "subject": "COM",
+    "topic": "Nature, scope and functions of commerce",
+    "body": "Commerce is best defined as the",
+    "options": [
+      "activities that bring goods and services from producers to consumers",
+      "process of growing crops and rearing animals for sale",
+      "conversion of raw materials into finished goods in factories",
+      "buying of shares on the Nigerian Exchange Group only"
+    ],
+    "answer": 0,
+    "explanation": "Commerce covers trade and the aids to trade that move goods and services from producers to final consumers.",
+    "difficulty": 1
+  },
+  {
+    "subject": "COM",
+    "topic": "Nature, scope and functions of commerce",
+    "body": "Which of the following is an aid to trade?",
+    "options": [
+      "Farming",
+      "Mining",
+      "Banking",
+      "Fishing"
+    ],
+    "answer": 2,
+    "explanation": "Banking, insurance, transport, warehousing, advertising and communication are aids to trade; the others are extractive production.",
+    "difficulty": 1
+  },
+  {
+    "subject": "COM",
+    "topic": "Nature, scope and functions of commerce",
+    "body": "Insurance helps commerce mainly by removing the hindrance of",
+    "options": [
+      "place",
+      "risk",
+      "knowledge",
+      "time"
+    ],
+    "answer": 1,
+    "explanation": "Insurance compensates traders for losses from fire, theft or accidents, thus removing the hindrance of risk.",
+    "difficulty": 1
+  },
+  {
+    "subject": "COM",
+    "topic": "Nature, scope and functions of commerce",
+    "body": "Drilling crude oil in Bayelsa State is an example of which type of industry?",
+    "options": [
+      "Constructive",
+      "Manufacturing",
+      "Extractive",
+      "Commercial"
+    ],
+    "answer": 2,
+    "explanation": "Extractive industries take natural resources such as crude oil, minerals and fish from land or sea.",
+    "difficulty": 1
+  },
+  {
+    "subject": "COM",
+    "topic": "Nature, scope and functions of commerce",
+    "body": "A company that builds roads and bridges in Nigeria belongs to which industry?",
+    "options": [
+      "Extractive",
+      "Constructive",
+      "Genetic",
+      "Service"
+    ],
+    "answer": 1,
+    "explanation": "Constructive industries are engaged in building and civil engineering works such as roads, bridges and houses.",
+    "difficulty": 1
+  },
+  {
+    "subject": "COM",
+    "topic": "Nature, scope and functions of commerce",
+    "body": "Trade, as a branch of commerce, is mainly concerned with",
+    "options": [
+      "the production of raw materials",
+      "the buying and selling of goods and services",
+      "the provision of insurance cover",
+      "the storage of goods in warehouses"
+    ],
+    "answer": 1,
+    "explanation": "Trade is the actual exchange, that is buying and selling, of goods and services; the other options are aids to trade or production.",
+    "difficulty": 1
+  },
+  {
+    "subject": "COM",
+    "topic": "Nature, scope and functions of commerce",
+    "body": "A Kano trader stores bags of millet in a warehouse until the lean season, when prices rise. Warehousing here removes the hindrance of",
+    "options": [
+      "place",
+      "risk",
+      "time",
+      "knowledge"
+    ],
+    "answer": 2,
+    "explanation": "Warehousing holds goods until they are needed, bridging the gap between production time and consumption time.",
+    "difficulty": 2
+  },
+  {
+    "subject": "COM",
+    "topic": "Nature, scope and functions of commerce",
+    "body": "Tomatoes grown in Kaduna are carried by trucks to markets in Lagos. This activity removes the hindrance of",
+    "options": [
+      "time",
+      "finance",
+      "person",
+      "place"
+    ],
+    "answer": 3,
+    "explanation": "Transport moves goods from where they are produced to where they are needed, removing the hindrance of place.",
+    "difficulty": 2
+  },
+  {
+    "subject": "COM",
+    "topic": "Nature, scope and functions of commerce",
+    "body": "A new soap producer in Aba uses radio jingles to inform buyers about its product. Advertising here removes the hindrance of",
+    "options": [
+      "knowledge",
+      "risk",
+      "place",
+      "payment"
+    ],
+    "answer": 0,
+    "explanation": "Advertising informs consumers that goods exist, their uses and prices, removing the hindrance of knowledge.",
+    "difficulty": 2
+  },
+  {
+    "subject": "COM",
+    "topic": "Nature, scope and functions of commerce",
+    "body": "Commerce is wider in scope than trade because commerce",
+    "options": [
+      "deals only with foreign buying and selling",
+      "excludes retailers and wholesalers",
+      "includes aids to trade such as banking and transport",
+      "is concerned only with the production of goods"
+    ],
+    "answer": 2,
+    "explanation": "Commerce = trade plus aids to trade, so it covers more than the buying and selling that trade alone involves.",
+    "difficulty": 2
+  },
+  {
+    "subject": "COM",
+    "topic": "Nature, scope and functions of commerce",
+    "body": "Which of the following is an example of secondary production?",
+    "options": [
+      "Harvesting cocoa in Ondo State",
+      "Turning cocoa beans into chocolate",
+      "Selling chocolate in a supermarket",
+      "Insuring a cargo of chocolate"
+    ],
+    "answer": 1,
+    "explanation": "Secondary production processes raw materials into finished or semi-finished goods; harvesting is primary and selling is commerce.",
+    "difficulty": 2
+  },
+  {
+    "subject": "COM",
+    "topic": "Nature, scope and functions of commerce",
+    "body": "Which service does a wholesaler render to manufacturers?",
+    "options": [
+      "Selling goods in small units to consumers",
+      "Buying in large quantities, which reduces the manufacturer's storage burden",
+      "Giving after-sales service to final users",
+      "Setting retail prices for all shops"
+    ],
+    "answer": 1,
+    "explanation": "Wholesalers buy in bulk, relieving manufacturers of storage costs and giving them quick returns on production.",
+    "difficulty": 2
+  },
+  {
+    "subject": "COM",
+    "topic": "Nature, scope and functions of commerce",
+    "body": "Which service does a retailer provide to consumers?",
+    "options": [
+      "Producing goods in bulk",
+      "Importing goods directly from factories abroad",
+      "Selling goods in small convenient quantities near their homes",
+      "Granting loans to wholesalers"
+    ],
+    "answer": 2,
+    "explanation": "Retailers break bulk and sell small quantities conveniently to final consumers, often near where they live.",
+    "difficulty": 2
+  },
+  {
+    "subject": "COM",
+    "topic": "Nature, scope and functions of commerce",
+    "body": "Which of the following is NOT a function of commerce?",
+    "options": [
+      "Providing employment",
+      "Linking producers with consumers",
+      "Removing hindrances to the distribution of goods",
+      "Cultivating crops for the market"
+    ],
+    "answer": 3,
+    "explanation": "Cultivating crops is primary production, not commerce; commerce distributes goods and provides related services.",
+    "difficulty": 2
+  },
+  {
+    "subject": "COM",
+    "topic": "Nature, scope and functions of commerce",
+    "body": "Entrepot trade is the",
+    "options": [
+      "exchange of goods without using money",
+      "sale of goods only within one's own country",
+      "importation of goods for re-export to other countries",
+      "export of raw materials only"
+    ],
+    "answer": 2,
+    "explanation": "In entrepot trade, a country imports goods and re-exports them, usually with little or no processing.",
+    "difficulty": 2
+  },
+  {
+    "subject": "COM",
+    "topic": "Nature, scope and functions of commerce",
+    "body": "A manufacturer opens its own outlets and sells directly to consumers. The main effect on the chain of distribution is that it",
+    "options": [
+      "introduces more wholesalers",
+      "removes the middlemen",
+      "increases the number of retailers",
+      "stops advertising"
+    ],
+    "answer": 1,
+    "explanation": "Direct selling by the producer shortens the chain by cutting out wholesalers and retailers.",
+    "difficulty": 2
+  },
+  {
+    "subject": "COM",
+    "topic": "Nature, scope and functions of commerce",
+    "body": "A Lagos firm imports rice, stores it in a warehouse, insures it and sells to retailers. Which activities are aids to trade?",
+    "options": [
+      "Importing and selling",
+      "Warehousing and insuring",
+      "Selling and warehousing",
+      "Importing and insuring"
+    ],
+    "answer": 1,
+    "explanation": "Importing and selling are trade itself; warehousing and insurance only assist trade, so they are the aids.",
+    "difficulty": 3
+  },
+  {
+    "subject": "COM",
+    "topic": "Nature, scope and functions of commerce",
+    "body": "Which pairing of aid to trade and the hindrance it removes is correct?",
+    "options": [
+      "Insurance – place",
+      "Advertising – risk",
+      "Transport – knowledge",
+      "Warehousing – time"
+    ],
+    "answer": 3,
+    "explanation": "Warehousing removes time; insurance removes risk, advertising knowledge, and transport place.",
+    "difficulty": 3
+  },
+  {
+    "subject": "COM",
+    "topic": "Nature, scope and functions of commerce",
+    "body": "Which statement best distinguishes commerce from production?",
+    "options": [
+      "Commerce creates form utility while production creates place utility",
+      "Commerce adds place and time utility while production creates form utility",
+      "Both create only form utility",
+      "Production is an aid to commerce"
+    ],
+    "answer": 1,
+    "explanation": "Production changes the form of materials, while commerce moves and stores goods, adding place and time utility.",
+    "difficulty": 3
+  },
+  {
+    "subject": "COM",
+    "topic": "Nature, scope and functions of commerce",
+    "body": "A Nigerian hotel earns dollars from foreign tourists lodging there. In international trade, this is best described as",
+    "options": [
+      "a visible import",
+      "a visible export",
+      "an invisible export",
+      "an invisible import"
+    ],
+    "answer": 2,
+    "explanation": "Services sold to foreigners earn foreign exchange and are intangible, so they are invisible exports.",
+    "difficulty": 3
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "subject": "IRS",
+    "topic": "The Holy Quran, revelation and the life of Prophet Muhammad",
+    "body": "Which angel brought the Quranic revelation to Prophet Muhammad (SAW)?",
+    "options": [
+      "Mikail",
+      "Israfil",
+      "Jibril",
+      "Izrail"
+    ],
+    "answer": 2,
+    "explanation": "Jibril (Gabriel) was the angel who conveyed Allah's revelation to the Prophet. Mikail, Israfil and Izrail have other duties.",
+    "difficulty": 1
+  },
+  {
+    "subject": "IRS",
+    "topic": "The Holy Quran, revelation and the life of Prophet Muhammad",
+    "body": "The first verses revealed to Prophet Muhammad (SAW) belong to which surah?",
+    "options": [
+      "Al-Fatihah",
+      "Al-Alaq",
+      "Al-Baqarah",
+      "An-Nas"
+    ],
+    "answer": 1,
+    "explanation": "The first five verses revealed, beginning \"Iqra\" (Read), are from Surah Al-Alaq (96).",
+    "difficulty": 1
+  },
+  {
+    "subject": "IRS",
+    "topic": "The Holy Quran, revelation and the life of Prophet Muhammad",
+    "body": "What was the name of the mother of Prophet Muhammad (SAW)?",
+    "options": [
+      "Halimah",
+      "Khadijah",
+      "Fatimah",
+      "Aminah"
+    ],
+    "answer": 3,
+    "explanation": "His mother was Aminah bint Wahb. Halimah was his foster-mother, Khadijah his first wife and Fatimah his daughter.",
+    "difficulty": 1
+  },
+  {
+    "subject": "IRS",
+    "topic": "The Holy Quran, revelation and the life of Prophet Muhammad",
+    "body": "How many surahs (chapters) are in the Holy Quran?",
+    "options": [
+      "99",
+      "114",
+      "120",
+      "124"
+    ],
+    "answer": 1,
+    "explanation": "The Quran has 114 surahs, from Al-Fatihah to An-Nas.",
+    "difficulty": 1
+  },
+  {
+    "subject": "IRS",
+    "topic": "The Holy Quran, revelation and the life of Prophet Muhammad",
+    "body": "The Hijrah of Prophet Muhammad (SAW) in 622 CE was a migration from Makkah to which city?",
+    "options": [
+      "Madinah",
+      "Taif",
+      "Jerusalem",
+      "Abyssinia"
+    ],
+    "answer": 0,
+    "explanation": "The Prophet migrated to Yathrib, later renamed Madinah. The Islamic calendar begins from this event.",
+    "difficulty": 1
+  },
+  {
+    "subject": "IRS",
+    "topic": "The Holy Quran, revelation and the life of Prophet Muhammad",
+    "body": "Before he became a prophet, the Makkans called Muhammad (SAW) \"Al-Amin\". What does it mean?",
+    "options": [
+      "The mighty",
+      "The wealthy",
+      "The learned",
+      "The trustworthy"
+    ],
+    "answer": 3,
+    "explanation": "Al-Amin means the trustworthy. He earned the title through his honesty in dealings and in keeping people's goods safe.",
+    "difficulty": 1
+  },
+  {
+    "subject": "IRS",
+    "topic": "The Holy Quran, revelation and the life of Prophet Muhammad",
+    "body": "About how old was Prophet Muhammad (SAW) when Jibril first came to him in the Cave of Hira?",
+    "options": [
+      "25 years",
+      "30 years",
+      "40 years",
+      "63 years"
+    ],
+    "answer": 2,
+    "explanation": "He received the first revelation at about 40 years of age, in the month of Ramadan. He died at 63.",
+    "difficulty": 2
+  },
+  {
+    "subject": "IRS",
+    "topic": "The Holy Quran, revelation and the life of Prophet Muhammad",
+    "body": "Who headed the team that first collected the Quran into one written volume under Caliph Abu Bakr?",
+    "options": [
+      "Zaid ibn Thabit",
+      "Bilal ibn Rabah",
+      "Khalid ibn Walid",
+      "Abdullah ibn Salam"
+    ],
+    "answer": 0,
+    "explanation": "After many Quran memorisers died at Yamamah, Zaid ibn Thabit, the Prophet's scribe, was told to compile the Quran.",
+    "difficulty": 2
+  },
+  {
+    "subject": "IRS",
+    "topic": "The Holy Quran, revelation and the life of Prophet Muhammad",
+    "body": "Which caliph ordered standard copies of the Quran to be made and sent to the major Muslim cities?",
+    "options": [
+      "Abu Bakr",
+      "Umar ibn al-Khattab",
+      "Uthman ibn Affan",
+      "Ali ibn Abi Talib"
+    ],
+    "answer": 2,
+    "explanation": "Caliph Uthman had standard copies made to end differences in recitation and sent them to major cities. Abu Bakr only compiled the first volume.",
+    "difficulty": 2
+  },
+  {
+    "subject": "IRS",
+    "topic": "The Holy Quran, revelation and the life of Prophet Muhammad",
+    "body": "Which of these is a typical feature of Madinan surahs?",
+    "options": [
+      "Short verses with oaths on natural phenomena",
+      "Rulings on community life such as inheritance and dealings with hypocrites",
+      "Warnings addressed mainly to the idol worshippers of Makkah",
+      "Mostly the story of Adam only"
+    ],
+    "answer": 1,
+    "explanation": "Madinan surahs, revealed after the Hijrah, deal with law and social organisation. Makkan surahs stress belief, resurrection and warnings.",
+    "difficulty": 2
+  },
+  {
+    "subject": "IRS",
+    "topic": "The Holy Quran, revelation and the life of Prophet Muhammad",
+    "body": "Which surah describes the Night of Decree as better than a thousand months?",
+    "options": [
+      "Al-Kawthar",
+      "Al-Ikhlas",
+      "An-Nasr",
+      "Al-Qadr"
+    ],
+    "answer": 3,
+    "explanation": "Surah Al-Qadr (97) says Laylatul Qadr is better than a thousand months. It is the night the Quran began to be revealed.",
+    "difficulty": 2
+  },
+  {
+    "subject": "IRS",
+    "topic": "The Holy Quran, revelation and the life of Prophet Muhammad",
+    "body": "The Treaty of Hudaybiyyah in 6 AH was agreed between the Muslims and which group?",
+    "options": [
+      "The Quraysh of Makkah",
+      "The Jews of Khaybar",
+      "The Byzantines",
+      "The Banu Qurayzah"
+    ],
+    "answer": 0,
+    "explanation": "At Hudaybiyyah, near Makkah, the Prophet agreed a ten-year truce with the Quraysh. The Muslims returned that year and performed Umrah the next.",
+    "difficulty": 2
+  },
+  {
+    "subject": "IRS",
+    "topic": "The Holy Quran, revelation and the life of Prophet Muhammad",
+    "body": "About how many Muslim fighters took part in the Battle of Badr in 2 AH?",
+    "options": [
+      "100",
+      "313",
+      "700",
+      "1,000"
+    ],
+    "answer": 1,
+    "explanation": "The Muslims at Badr numbered about 313, against a Quraysh army of about 1,000. They won with Allah's help.",
+    "difficulty": 2
+  },
+  {
+    "subject": "IRS",
+    "topic": "The Holy Quran, revelation and the life of Prophet Muhammad",
+    "body": "At what age did Prophet Muhammad (SAW) die in Madinah in 11 AH (632 CE)?",
+    "options": [
+      "40",
+      "53",
+      "60",
+      "63"
+    ],
+    "answer": 3,
+    "explanation": "He lived about 63 years: 40 before prophethood, 13 in Makkah after it, and 10 in Madinah after the Hijrah.",
+    "difficulty": 2
+  },
+  {
+    "subject": "IRS",
+    "topic": "The Holy Quran, revelation and the life of Prophet Muhammad",
+    "body": "Which act of worship was prescribed during the Prophet's Isra and Miraj?",
+    "options": [
+      "Zakat",
+      "Fasting in Ramadan",
+      "The five daily prayers",
+      "Hajj"
+    ],
+    "answer": 2,
+    "explanation": "During the Miraj, the five daily salat were made obligatory on the Muslims. Fasting, Zakat and Hajj were prescribed later in Madinah.",
+    "difficulty": 2
+  },
+  {
+    "subject": "IRS",
+    "topic": "The Holy Quran, revelation and the life of Prophet Muhammad",
+    "body": "Which is the longest surah of the Holy Quran?",
+    "options": [
+      "Al-Baqarah",
+      "Al-Imran",
+      "An-Nisa",
+      "Al-Maidah"
+    ],
+    "answer": 0,
+    "explanation": "Surah Al-Baqarah (2) has 286 verses and is the longest. Al-Imran, An-Nisa and Al-Maidah are also long but shorter.",
+    "difficulty": 2
+  },
+  {
+    "subject": "IRS",
+    "topic": "The Holy Quran, revelation and the life of Prophet Muhammad",
+    "body": "Which surah is the only one that does not begin with \"Bismillahir-Rahmanir-Rahim\"?",
+    "options": [
+      "Al-Anfal",
+      "At-Tawbah",
+      "Yunus",
+      "Al-Ahzab"
+    ],
+    "answer": 1,
+    "explanation": "Surah At-Tawbah (9) opens without the Bismillah. Al-Anfal, Yunus and Al-Ahzab all begin with it.",
+    "difficulty": 3
+  },
+  {
+    "subject": "IRS",
+    "topic": "The Holy Quran, revelation and the life of Prophet Muhammad",
+    "body": "Who was the first free adult man to accept Islam after the Prophet (SAW) announced his mission?",
+    "options": [
+      "Bilal ibn Rabah",
+      "Umar ibn al-Khattab",
+      "Abu Bakr as-Siddiq",
+      "Hamza ibn Abdul Muttalib"
+    ],
+    "answer": 2,
+    "explanation": "Abu Bakr was the first free adult man to accept Islam. Umar and Hamza accepted it later, and Bilal was a former slave who accepted Islam early.",
+    "difficulty": 3
+  },
+  {
+    "subject": "IRS",
+    "topic": "The Holy Quran, revelation and the life of Prophet Muhammad",
+    "body": "Which Christian king of Abyssinia gave protection to the early Muslim refugees fleeing Makkah?",
+    "options": [
+      "Abu Lahab",
+      "Heraclius",
+      "Muqawqis",
+      "The Negus (An-Najashi)"
+    ],
+    "answer": 3,
+    "explanation": "The Negus of Abyssinia refused to hand the Muslim emigrants over to the Quraysh. Heraclius ruled Byzantium and Muqawqis ruled Egypt.",
+    "difficulty": 3
+  },
+  {
+    "subject": "IRS",
+    "topic": "The Holy Quran, revelation and the life of Prophet Muhammad",
+    "body": "Which of these was a recognised mode of revelation (wahy) to Prophet Muhammad (SAW)?",
+    "options": [
+      "True dreams",
+      "Writing on stone tablets in Makkah",
+      "A burning bush at Hira",
+      "Dictation by Makkan scribes"
+    ],
+    "answer": 0,
+    "explanation": "True dreams were one mode of wahy. Others included a bell-like sound and Jibril appearing as a man. Tablets and the burning bush relate to Musa.",
+    "difficulty": 3
+  }
+]
