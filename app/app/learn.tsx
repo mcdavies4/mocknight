@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useState } from "react";
 import { useSearchParams } from "next/navigation";
-import { browserDb } from "@/lib/supabase-browser";
+import { browserDb, browserDbReady, configureBrowserDb } from "@/lib/supabase-browser";
 import { api, shareLink } from "@/lib/client-api";
 import { ExplainButton } from "@/components/explain";
 
@@ -45,7 +45,9 @@ interface Me {
 interface DrillQ { done: false; messageId: number; position: number; total: number; isReview: boolean; subject: string; topic: string | null; body: string; options: string[] }
 interface Summary { correct: number; total: number; pct: number; streak: number; reviewBox: number; premium: boolean }
 
-export default function Learn() {
+export default function Learn({ sbUrl, sbKey }: { sbUrl: string; sbKey: string }) {
+  configureBrowserDb(sbUrl, sbKey);
+  const ready = browserDbReady();
   const params = useSearchParams();
   const [session, setSession] = useState<"loading" | "out" | "in">("loading");
   const [me, setMe] = useState<Me | null>(null);
@@ -74,6 +76,7 @@ export default function Learn() {
   }, [params]);
 
   useEffect(() => {
+    if (!ready) return;
     const sb = browserDb();
     sb.auth.getSession().then(({ data }) => setSession(data.session ? "in" : "out"));
     const { data: sub } = sb.auth.onAuthStateChange((_e, s) => setSession(s ? "in" : "out"));
@@ -84,6 +87,12 @@ export default function Learn() {
     if (session === "in") load();
   }, [session, load]);
 
+  if (!ready)
+    return (
+      <Center>
+        Web sign-in isn&apos;t set up yet. In Vercel add <b>NEXT_PUBLIC_SUPABASE_ANON_KEY</b> (Supabase → Project Settings → API → anon public key), then redeploy.
+      </Center>
+    );
   if (session === "loading") return <Center>Loading…</Center>;
   if (session === "out") return <Login preTrack={params.get("track")} />;
   if (error) return <Center>{error}</Center>;
