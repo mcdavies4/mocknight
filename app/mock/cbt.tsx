@@ -4,23 +4,9 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import type { MockPayload, MockResult } from "@/lib/mock";
 
-const LETTERS = ["A", "B", "C", "D", "E"];
+import { api, goHome, inTelegram, tg } from "@/lib/client-api";
 
-declare global {
-  interface Window {
-    Telegram?: {
-      WebApp: {
-        initData: string;
-        ready: () => void;
-        expand: () => void;
-        close: () => void;
-        enableClosingConfirmation?: () => void;
-        disableClosingConfirmation?: () => void;
-        HapticFeedback?: { impactOccurred: (s: "light" | "medium" | "heavy") => void; notificationOccurred: (t: "success" | "error" | "warning") => void };
-      };
-    };
-  }
-}
+const LETTERS = ["A", "B", "C", "D", "E"];
 
 type Phase =
   | { name: "loading" }
@@ -28,19 +14,6 @@ type Phase =
   | { name: "exam" }
   | { name: "submitting" }
   | { name: "result"; result: MockResult };
-
-const tg = () => (typeof window !== "undefined" ? window.Telegram?.WebApp : undefined);
-
-async function api<T>(path: string, body: Record<string, unknown>): Promise<T> {
-  const res = await fetch(path, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ initData: tg()?.initData ?? "", ...body }),
-  });
-  const json = await res.json().catch(() => ({ error: "NETWORK" }));
-  if (!res.ok) throw Object.assign(new Error(json.error ?? "ERROR"), { data: json });
-  return json as T;
-}
 
 export default function Cbt() {
   const params = useSearchParams();
@@ -66,10 +39,6 @@ export default function Cbt() {
     const w = tg();
     w?.ready();
     w?.expand();
-    if (!w?.initData) {
-      setPhase({ name: "error", code: "NO_TELEGRAM" });
-      return;
-    }
     api<MockPayload>("/api/mini/start", { mockId })
       .then((p) => {
         setData(p);
@@ -81,7 +50,7 @@ export default function Cbt() {
           setPhase({ name: "result", result: p.result });
         } else {
           setPhase({ name: "exam" });
-          w.enableClosingConfirmation?.();
+          w?.enableClosingConfirmation?.();
         }
       })
       .catch((e) => setPhase({ name: "error", code: e.message, startsAt: e.data?.startsAt }));
@@ -329,15 +298,37 @@ function ResultView({ data, result }: { data: MockPayload; result: MockResult })
   return (
     <div className="wrap">
       <div className="score">
-        <div className="big">{Math.round(result.scaled)}%</div>
-        <div className="sub">
-          ≈ <b>{result.jambScore}/400</b> JAMB-style · {result.rawScore}/{result.total} correct
-        </div>
+        {result.pass ? (
+          <>
+            <div className="big" style={{ color: result.pass.passed ? "var(--ok)" : "var(--bad)" }}>{result.pass.passed ? "PASS" : "NOT YET"}</div>
+            <div className="sub">
+              <b>
+                {result.rawScore}/{result.total}
+              </b>{" "}
+              correct · {result.pass.needed} needed to pass ({Math.round(result.scaled)}%)
+            </div>
+            <p className="muted small">
+              {result.pass.passed ? "Great — aim for 3 passes in a row before you book the real test." : "Review the questions below, then try another test."}
+            </p>
+          </>
+        ) : (
+          <>
+            <div className="big">{Math.round(result.scaled)}%</div>
+            <div className="sub">
+              {result.scoreStyle === "jamb400" && (
+                <>
+                  ≈ <b>{result.jambScore}/400</b> JAMB-style ·{" "}
+                </>
+              )}
+              {result.rawScore}/{result.total} correct
+            </div>
+          </>
+        )}
         {data.kind === "weekly" && <p className="muted small">National & state rankings arrive in Telegram on Monday at 8am.</p>}
       </div>
 
-      <div className="card">
-        {result.perSubject.map((p) => (
+      <div className="card" style={{ display: result.perSubject.length > 1 ? undefined : "none" }}>
+        {result.perSubject.length > 1 && result.perSubject.map((p) => (
           <div key={p.code} style={{ marginBottom: 10 }}>
             <div className="row">
               <b>{p.name}</b>
@@ -385,8 +376,8 @@ function ResultView({ data, result }: { data: MockPayload; result: MockResult })
       ))}
 
       <div className="bottombar">
-        <button className="btn block" onClick={() => tg()?.close()}>
-          Back to Telegram
+        <button className="btn block" onClick={goHome}>
+          {inTelegram() ? "Back to Telegram" : "Back to dashboard"}
         </button>
       </div>
     </div>
@@ -396,16 +387,17 @@ function ResultView({ data, result }: { data: MockPayload; result: MockResult })
 // ---------------------------------------------------------------------------
 function ErrorView({ code, startsAt }: { code: string; startsAt?: string }) {
   const messages: Record<string, { title: string; body: string }> = {
-    NO_TELEGRAM: { title: "Open this inside Telegram", body: "Start Mock Night from the bot to take a CBT." },
-    UNAUTHORIZED: { title: "Session expired", body: "Close this window and open the CBT again from the bot." },
-    ONBOARDING: { title: "Finish setting up first", body: "Go back to the bot and pick your exam and subjects." },
-    LIMIT: { title: "Free plan: 1 practice CBT a week", body: "Upgrade to Premium in the bot (/premium) for unlimited practice. Mock Night on Sunday is always free." },
+    UNAUTHORIZED: inTelegram()
+      ? { title: "Session expired", body: "Close this window and open the test again from the bot." }
+      : { title: "Please sign in", body: "Sign in with your email to take a practice test." },
+    ONBOARDING: { title: "Finish setting up first", body: "Pick what you're preparing for, then come back." },
+    LIMIT: { title: "Free plan: 1 practice test a week", body: "Upgrade to Premium for unlimited full practice tests." },
     NOT_OPEN: {
       title: "Mock Night hasn't started",
       body: startsAt ? `It opens ${new Date(startsAt).toLocaleString("en-NG", { timeZone: "Africa/Lagos", weekday: "long", hour: "numeric", minute: "2-digit" })}.` : "Check back on Sunday evening.",
     },
     CLOSED: { title: "Mock Night has closed", body: "Results land in Telegram on Monday morning. See you next Sunday!" },
-    NO_SUBJECTS: { title: "No subjects selected", body: "Use /settings in the bot to pick your subjects." },
+    NO_SUBJECTS: { title: "No subjects selected", body: "Open settings and pick your subjects." },
     NO_QUESTIONS: { title: "No questions yet", body: "We're still adding questions for your subjects. Try again soon." },
     NOT_FOUND: { title: "Exam not found", body: "This link may be old. Open the CBT again from the bot." },
   };
@@ -415,8 +407,8 @@ function ErrorView({ code, startsAt }: { code: string; startsAt?: string }) {
       <div>
         <h2>{m.title}</h2>
         <p className="muted">{m.body}</p>
-        <button className="btn" onClick={() => tg()?.close()}>
-          Back to Telegram
+        <button className="btn" onClick={goHome}>
+          {inTelegram() ? "Back to Telegram" : code === "UNAUTHORIZED" ? "Sign in" : "Go to dashboard"}
         </button>
       </div>
     </div>

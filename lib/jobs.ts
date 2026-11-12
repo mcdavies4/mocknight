@@ -4,12 +4,19 @@ import { env } from "./env";
 import { broadcast } from "./broadcast";
 import { watNow, formatHour } from "./time";
 import { closeExpiredAttempts, ensureWeeklyMock, WEEKLY } from "./mock";
-import type { Mock, Student, TutorGroup } from "./types";
+import type { Mock, TutorGroup } from "./types";
+import { SCHOOL_TRACKS } from "./tracks";
 
-type Recipient = Pick<Student, "id" | "telegram_id" | "first_name">;
+type Recipient = { id: string; telegram_id: number; first_name: string | null };
 
+/** Telegram users who finished onboarding and haven't blocked the bot. */
 async function activeStudents(extra?: (q: any) => any): Promise<Recipient[]> {
-  let q = db().from("students").select("id, telegram_id, first_name").eq("onboarding_step", "done").eq("blocked", false);
+  let q = db()
+    .from("students")
+    .select("id, telegram_id, first_name")
+    .eq("onboarding_step", "done")
+    .eq("blocked", false)
+    .not("telegram_id", "is", null);
   if (extra) q = extra(q);
   return must(await q.limit(5000), "active students") as Recipient[];
 }
@@ -20,8 +27,12 @@ export async function runHourly(api: Api) {
   const log: Record<string, unknown> = { date, hour, weekday };
 
   // 1. Daily drill prompts for students whose drill hour is now
+  // LUK users pick a UK-time hour; everyone else picks WAT. UK = WAT − 1 in winter (GMT), same in summer (BST).
+  const ukHour = ukHourNow();
   const due = await activeStudents((q) =>
-    q.eq("drill_hour", hour).or(`last_drill_prompt.is.null,last_drill_prompt.lt.${date}`),
+    q
+      .or(`and(track.neq.LUK,drill_hour.eq.${hour}),and(track.eq.LUK,drill_hour.eq.${ukHour}),and(track.is.null,drill_hour.eq.${hour})`)
+      .or(`last_drill_prompt.is.null,last_drill_prompt.lt.${date}`),
   );
   if (due.length) {
     // Mark first so an overlapping run can't double-send
@@ -39,7 +50,7 @@ export async function runHourly(api: Api) {
 
     if (hour < WEEKLY.startHour && !mock.reminder_sent) {
       await db().from("mocks").update({ reminder_sent: true }).eq("id", mock.id);
-      const all = await activeStudents();
+      const all = await activeStudents((q) => q.in("track", SCHOOL_TRACKS));
       log.reminders = await broadcast(api, all, (api, s) =>
         api.sendMessage(
           s.telegram_id,
@@ -50,7 +61,7 @@ export async function runHourly(api: Api) {
 
     if (hour >= WEEKLY.startHour && hour < WEEKLY.lastStartHour && !mock.opened_sent) {
       await db().from("mocks").update({ opened_sent: true }).eq("id", mock.id);
-      const all = await activeStudents();
+      const all = await activeStudents((q) => q.in("track", SCHOOL_TRACKS));
       log.opened = await broadcast(api, all, (api, s) =>
         api.sendMessage(s.telegram_id, `🔴 *Mock Night is LIVE!* Doors close at ${formatHour(WEEKLY.lastStartHour)}. Good luck 🍀`, {
           parse_mode: "Markdown",
@@ -96,7 +107,7 @@ export async function postWeeklyResults(api: Api) {
 
   const sent = await broadcast(
     api,
-    ranks.map((r) => ({ ...r, id: r.student_id })),
+    ranks.filter((r) => r.telegram_id).map((r) => ({ ...r, id: r.student_id })),
     (api, r) =>
       api.sendMessage(
         r.telegram_id,
@@ -131,4 +142,8 @@ export async function postWeeklyResults(api: Api) {
     }
   }
   return sent;
+}
+
+function ukHourNow() {
+  return Number(new Date().toLocaleString("en-GB", { timeZone: "Europe/London", hour: "2-digit", hour12: false }));
 }

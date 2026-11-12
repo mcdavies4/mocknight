@@ -132,3 +132,19 @@ a { color: var(--accent); }
 .pill { font-size: 12px; padding: 2px 8px; border-radius: 999px; font-weight: 600; }
 .pill.ok { background: rgba(18,183,106,.15); color: var(--ok); }
 .pill.no { background: var(--bg2); color: var(--hint); }
+
+/* Forms */
+.input {
+  width: 100%; padding: 12px 14px; border-radius: 10px; border: 1px solid var(--bg2);
+  background: var(--bg); color: var(--text); font: inherit; margin-top: 6px;
+}
+.input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.opt:disabled { cursor: default; }
+
+/* Landing */
+.hero { padding: 56px 0 24px; }
+.hero h1 { font-size: 42px; line-height: 1.08; margin: 0 0 12px; letter-spacing: -0.02em; }
+.hero p { font-size: 19px; margin: 0 0 20px; }
+.grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 12px; }
+.faq h3 { margin: 18px 0 4px; font-size: 17px; }
+.faq p { margin: 0; }

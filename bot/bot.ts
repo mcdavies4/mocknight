@@ -2,16 +2,18 @@ import { Bot, Context, InlineKeyboard, type Api } from "grammy";
 import { env } from "@/lib/env";
 import { db, must } from "@/lib/supabase";
 import { getStudentByTelegram, isPremium, updateStudent, upsertStudent } from "@/lib/students";
-import { EXAM_RULES, STATES, subjectName } from "@/lib/subjects";
+import { STATES, subjectName } from "@/lib/subjects";
+import { getTrack, TRACKS, type TrackCode } from "@/lib/tracks";
+import { getProgress } from "@/lib/progress";
 import { formatHour, formatWat, nextSundayWat, watToUtc } from "@/lib/time";
 import { getOrCreateTodaySession, recordDrillAnswer, sendCurrentQuestion, streakDays } from "@/lib/drill";
 import { getLatestFinishedWeeklyMock, getOpenWeeklyMock, WEEKLY } from "@/lib/mock";
-import { createCheckout } from "@/lib/paystack";
+import { createCheckout } from "@/lib/payments";
 import { createGroup, getGroupByCode, groupsOwnedBy, joinGroup, joinLink, memberCount } from "@/lib/groups";
 import { signToken } from "@/lib/auth";
-import { naira, PLANS, SEAT_PRICE_KOBO, FREE_DAILY_QUESTIONS, PREMIUM_DAILY_QUESTIONS } from "@/lib/pricing";
-import type { Exam, Student } from "@/lib/types";
-import { examKb, menuKb, statesKb, subjectsKb, timeKb } from "./keyboards";
+import { money, naira, PLANS, SEAT_PRICE_KOBO, FREE_DAILY_QUESTIONS, PREMIUM_DAILY_QUESTIONS } from "@/lib/pricing";
+import type { Student } from "@/lib/types";
+import { menuKb, statesKb, subjectsKb, timeKb, trackKb } from "./keyboards";
 
 type Ctx = Context & { student?: Student };
 
@@ -32,10 +34,10 @@ export function getBot(): Bot<Ctx> {
 // Onboarding prompts
 // ---------------------------------------------------------------------------
 async function promptStep(api: Api, s: Student) {
-  const chat = s.telegram_id;
+  const chat = s.telegram_id!;
   switch (s.onboarding_step) {
     case "exam":
-      return api.sendMessage(chat, "Which exam are you preparing for?", { reply_markup: examKb() });
+      return api.sendMessage(chat, "What are you preparing for?", { reply_markup: trackKb() });
     case "subjects":
       return api.sendMessage(chat, subjectsText(s), { reply_markup: subjectsKb(s) });
     case "state":
@@ -43,29 +45,42 @@ async function promptStep(api: Api, s: Student) {
     case "school":
       return api.sendMessage(chat, "What's the name of your school? Type it below, or send /skip.");
     case "time":
-      return api.sendMessage(chat, "What time should your daily drill arrive? (Nigeria time)", { reply_markup: timeKb() });
+      return api.sendMessage(chat, `What time should your daily practice arrive? (${s.track === "LUK" ? "UK" : "Nigeria"} time)`, { reply_markup: timeKb() });
     default:
-      return api.sendMessage(chat, "What would you like to do?", { reply_markup: menuKb() });
+      return api.sendMessage(chat, "What would you like to do?", { reply_markup: menuKb(s) });
   }
 }
 
 function subjectsText(s: Student) {
-  const rules = EXAM_RULES[s.exam ?? "JAMB"];
-  return `Pick your ${s.exam} subjects.\n${rules.note}.\n\nTap to select, then tap Done.`;
+  const t = getTrack(s.track);
+  return `Pick your ${t.short} subjects.\n${t.subjectNote}.\n\nTap to select, then tap Done.`;
 }
 
 async function welcome(api: Api, s: Student) {
   const premium = await isPremium(s);
-  const text = [
-    `You're set, ${s.first_name ?? "champ"} 🎯`,
-    "",
-    `📝 *Daily drill* at ${formatHour(s.drill_hour)}: ${premium ? PREMIUM_DAILY_QUESTIONS : FREE_DAILY_QUESTIONS} questions in your subjects. Questions you miss come back until you get them right.`,
-    `🏆 *Mock Night* every Sunday ${formatHour(WEEKLY.startHour)}: everyone in Nigeria sits the same timed CBT. Leaderboard Monday morning.`,
-    `🖥 *Practice CBT*: a real exam-style screen with timer and calculator.`,
-    "",
-    "Want to do your first drill now?",
-  ].join("\n");
-  return api.sendMessage(s.telegram_id, text, { parse_mode: "Markdown", reply_markup: menuKb() });
+  const t = getTrack(s.track);
+  const n = premium ? PREMIUM_DAILY_QUESTIONS : FREE_DAILY_QUESTIONS;
+  const lines =
+    t.code === "LUK"
+      ? [
+          `You're set, ${s.first_name ?? "friend"} 🇬🇧`,
+          "",
+          `📝 *Daily practice* at ${formatHour(s.drill_hour)}: ${n} questions from the handbook topics. Anything you miss comes back until you get it right.`,
+          `🧪 *Practice tests*: exactly like the real test — ${t.mock.total} questions, ${t.mock.minutes} minutes, ${Math.ceil((t.mock.total! * t.mock.passPct!) / 100)} correct to pass.`,
+          `📈 *Readiness score*: aim for 3 passes in a row before you book your £50 test.`,
+          "",
+          "Want to start now?",
+        ]
+      : [
+          `You're set, ${s.first_name ?? "champ"} 🎯`,
+          "",
+          `📝 *Daily drill* at ${formatHour(s.drill_hour)}: ${n} questions in your subjects. Questions you miss come back until you get them right.`,
+          `🏆 *Mock Night* every Sunday ${formatHour(WEEKLY.startHour)}: everyone in Nigeria sits the same timed CBT. Leaderboard Monday morning.`,
+          `🖥 *Practice CBT*: a real exam-style screen with timer and calculator.`,
+          "",
+          "Want to do your first drill now?",
+        ];
+  return api.sendMessage(s.telegram_id!, lines.join("\n"), { parse_mode: "Markdown", reply_markup: menuKb(s) });
 }
 
 // ---------------------------------------------------------------------------
@@ -78,13 +93,13 @@ async function startDrill(api: Api, s: Student) {
     session = await getOrCreateTodaySession(s);
   } catch (e) {
     if ((e as Error).message === "NO_QUESTIONS") {
-      return api.sendMessage(s.telegram_id, "No questions available for your subjects yet — check back soon.");
+      return api.sendMessage(s.telegram_id!, "No questions available for your subjects yet — check back soon.");
     }
     throw e;
   }
   if (session.finished_at) {
     return api.sendMessage(
-      s.telegram_id,
+      s.telegram_id!,
       `You've done today's drill: ${session.correct}/${session.question_ids.length} ✅\nCome back tomorrow, or sharpen up with a practice CBT.`,
       { reply_markup: new InlineKeyboard().webApp("🖥 Practice CBT", `${env.appUrl}/mock`) },
     );
@@ -93,7 +108,7 @@ async function startDrill(api: Api, s: Student) {
   await db().from("drill_messages").update({ answered: true }).eq("session_id", session.id).eq("answered", false);
   if (session.position === 0) {
     await api.sendMessage(
-      s.telegram_id,
+      s.telegram_id!,
       `Today's drill: ${session.question_ids.length} questions${session.review_count ? ` (${session.review_count} from your review box 🔁)` : ""}. Go!`,
     );
   }
@@ -102,7 +117,7 @@ async function startDrill(api: Api, s: Student) {
 
 async function afterAnswer(api: Api, s: Student, explanation: string | null, showFullExplanation: boolean) {
   if (showFullExplanation && explanation && explanation.length > 200) {
-    await api.sendMessage(s.telegram_id, `💡 ${explanation}`);
+    await api.sendMessage(s.telegram_id!, `💡 ${explanation}`);
   }
 }
 
@@ -110,60 +125,48 @@ async function afterAnswer(api: Api, s: Student, explanation: string | null, sho
 // Stats / Mock Night / Leaderboard
 // ---------------------------------------------------------------------------
 async function sendStats(api: Api, s: Student) {
-  const since = new Date(Date.now() - 7 * 86400_000).toISOString();
-  const rows = must(
-    await db().from("attempts").select("correct, questions(subject_code)").eq("student_id", s.id).gte("created_at", since),
-    "stats",
-  ) as any[];
-  const per = new Map<string, { c: number; t: number }>();
-  for (const r of rows) {
-    const q = Array.isArray(r.questions) ? r.questions[0] : r.questions;
-    const k = q?.subject_code ?? "?";
-    const p = per.get(k) ?? { c: 0, t: 0 };
-    p.t++;
-    if (r.correct) p.c++;
-    per.set(k, p);
-  }
-  const { count: allTime } = await db().from("attempts").select("*", { count: "exact", head: true }).eq("student_id", s.id);
-  const { count: reviewBox } = await db().from("review_items").select("*", { count: "exact", head: true }).eq("student_id", s.id);
-  const streak = await streakDays(s.id);
-  const { data: lastMock } = await db()
-    .from("mock_attempts")
-    .select("scaled_score, submitted_at, mocks!inner(kind)")
-    .eq("student_id", s.id)
-    .eq("mocks.kind", "weekly")
-    .not("submitted_at", "is", null)
-    .order("submitted_at", { ascending: false })
-    .limit(1)
-    .maybeSingle();
+  const t = getTrack(s.track);
+  const p = await getProgress(s);
   const premium = await isPremium(s);
-
-  const subjectLines = [...per.entries()]
-    .sort((a, b) => a[1].c / a[1].t - b[1].c / b[1].t)
-    .map(([code, p]) => {
-      const pct = Math.round((p.c / p.t) * 100);
+  const subjectLines = p.last7
+    .sort((a, b) => a.correct / a.total - b.correct / b.total)
+    .map(({ subject, correct, total }) => {
+      const pct = Math.round((correct / total) * 100);
       const bar = "▓".repeat(Math.round(pct / 10)) + "░".repeat(10 - Math.round(pct / 10));
-      return `${subjectName(code).padEnd(12)} ${bar} ${pct}% (${p.t})`;
+      return `${subjectName(subject).padEnd(14)} ${bar} ${pct}% (${total})`;
     });
 
-  const text = [
-    `📊 *Your stats*`,
-    `🔥 Streak: ${streak} day${streak === 1 ? "" : "s"}`,
-    `✍️ Questions answered: ${allTime ?? 0}`,
-    `🔁 In review box: ${reviewBox ?? 0}`,
-    lastMock ? `🏆 Last Mock Night: ${Number(lastMock.scaled_score).toFixed(0)}% (≈${Math.round((Number(lastMock.scaled_score) / 100) * 400)}/400)` : `🏆 Mock Night: not taken yet`,
-    `⭐ Plan: ${premium ? "Premium" : "Free"}`,
-    "",
-    subjectLines.length ? "*Last 7 days* (weakest first)\n```\n" + subjectLines.join("\n") + "\n```" : "_No answers in the last 7 days yet._",
-  ].join("\n");
-  return api.sendMessage(s.telegram_id, text, { parse_mode: "Markdown", reply_markup: menuKb() });
+  const lines = [
+    `📊 *Your stats — ${t.short}*`,
+    `🔥 Streak: ${p.streak} day${p.streak === 1 ? "" : "s"}`,
+    `✍️ Questions answered: ${p.answeredAllTime}`,
+    `🔁 In review box: ${p.reviewBox}`,
+  ];
+  if (t.mock.passPct) {
+    lines.push(
+      `🧪 Practice tests taken: ${p.practice.taken}${p.practice.lastScores.length ? ` (last: ${p.practice.lastScores.join("%, ")}%)` : ""}`,
+      `✅ Passes in a row: ${p.practice.passesInARow ?? 0}`,
+      `📈 Readiness: ${p.practice.readiness === null ? "take a practice test to see it" : `${p.practice.readiness}%`}`,
+      p.practice.passesInARow !== null && p.practice.passesInARow >= 3 ? "🎉 3+ passes in a row — you're ready to book your test." : "_Aim for 3 passes in a row before booking._",
+    );
+  } else {
+    lines.push(
+      p.lastMockNight !== null ? `🏆 Last Mock Night: ${p.lastMockNight.toFixed(0)}% (≈${Math.round((p.lastMockNight / 100) * 400)}/400)` : "🏆 Mock Night: not taken yet",
+    );
+  }
+  lines.push(`⭐ Plan: ${premium ? "Premium" : "Free"}`, "");
+  lines.push(subjectLines.length ? "*Last 7 days* (weakest first)\n```\n" + subjectLines.join("\n") + "\n```" : "_No answers in the last 7 days yet._");
+  return api.sendMessage(s.telegram_id!, lines.join("\n"), { parse_mode: "Markdown", reply_markup: menuKb(s) });
 }
 
 async function sendMockNightInfo(api: Api, s: Student) {
+  if (!getTrack(s.track).weeklyMock) {
+    return api.sendMessage(s.telegram_id!, "Mock Night is for JAMB and WAEC students. Use 🧪 Practice test for full timed tests.", { reply_markup: menuKb(s) });
+  }
   const open = await getOpenWeeklyMock();
   if (open) {
     return api.sendMessage(
-      s.telegram_id,
+      s.telegram_id!,
       `🔴 *Mock Night is LIVE*\n${WEEKLY.minutes} minutes, ${WEEKLY.perSubject} questions per subject. Doors close ${formatWat(open.ends_at!)}.`,
       { parse_mode: "Markdown", reply_markup: new InlineKeyboard().webApp("Start Mock Night ▶️", `${env.appUrl}/mock?mock=${open.id}`) },
     );
@@ -171,7 +174,7 @@ async function sendMockNightInfo(api: Api, s: Student) {
   const next = watToUtc(nextSundayWat(), WEEKLY.startHour);
   const when = next.getTime() < Date.now() ? watToUtc(nextSundayWat(new Date(Date.now() + 86400_000)), WEEKLY.startHour) : next;
   return api.sendMessage(
-    s.telegram_id,
+    s.telegram_id!,
     [
       `🏆 *Mock Night* — every Sunday at ${formatHour(WEEKLY.startHour)}`,
       `Next one: *${formatWat(when.toISOString())}*`,
@@ -209,21 +212,16 @@ const medal = (rank: number) => (rank === 1 ? "🥇" : rank === 2 ? "🥈" : ran
 
 async function sendPremium(api: Api, s: Student) {
   const premium = await isPremium(s);
-  const kb = new InlineKeyboard()
-    .text(`${PLANS.student_month.label} · ${naira(PLANS.student_month.amountKobo)}`, "pay:student_month")
-    .row()
-    .text(`${PLANS.student_season.label} · ${naira(PLANS.student_season.amountKobo)}`, "pay:student_season");
+  const t = getTrack(s.track);
+  const kb = new InlineKeyboard();
+  for (const code of t.plans) kb.text(`${PLANS[code].label} · ${money(PLANS[code].amount, PLANS[code].currency)}`, `pay:${code}`).row();
+  const perks =
+    t.subjectMode === "single"
+      ? [`• ${PREMIUM_DAILY_QUESTIONS} practice questions a day (free: ${FREE_DAILY_QUESTIONS})`, "• Unlimited full practice tests (free: 1 a week)", "• Readiness score and review of every mistake", "", "Pay securely by card via Stripe."]
+      : [`• ${PREMIUM_DAILY_QUESTIONS} drill questions a day (free: ${FREE_DAILY_QUESTIONS})`, "• Unlimited practice CBT mocks (free: 1 a week)", "• Mock Night stays free for everyone", "", "Pay with card, transfer or USSD via Paystack. A parent can pay — just forward them the link."];
   return api.sendMessage(
-    s.telegram_id,
-    [
-      premium && s.premium_until ? `⭐ You're Premium until ${formatWat(s.premium_until)}.\n` : "",
-      "*Premium*",
-      `• ${PREMIUM_DAILY_QUESTIONS} drill questions a day (free: ${FREE_DAILY_QUESTIONS})`,
-      "• Unlimited practice CBT mocks (free: 1 a week)",
-      "• Mock Night stays free for everyone",
-      "",
-      "Pay with card, transfer or USSD via Paystack. A parent can pay — just forward them the link.",
-    ].join("\n"),
+    s.telegram_id!,
+    [premium && s.premium_until ? `⭐ You're Premium until ${formatWat(s.premium_until)}.\n` : "", "*Premium*", ...perks].join("\n"),
     { parse_mode: "Markdown", reply_markup: kb },
   );
 }
@@ -258,7 +256,7 @@ function register(bot: Bot<Ctx>) {
       }
     } else if (s.onboarding_step === "exam") {
       await ctx.reply(
-        `Welcome to *Mock Night* 👋\n\nDaily JAMB & WAEC drills on Telegram, a real CBT practice screen, and a nationwide mock every Sunday night.\n\nLet's set you up — takes 30 seconds.`,
+        `Welcome to *Mock Night* 👋\n\nExam practice that lives in Telegram: daily drills, real timed practice tests and progress tracking — for JAMB, WAEC and the Life in the UK test.\n\nLet's set you up — takes 30 seconds.`,
         { parse_mode: "Markdown" },
       );
     }
@@ -298,8 +296,8 @@ function register(bot: Bot<Ctx>) {
   bot.command("mocknight", (ctx) => (isPrivate(ctx) ? sendMockNightInfo(ctx.api, ctx.student!) : undefined));
   bot.command("cbt", (ctx) =>
     isPrivate(ctx)
-      ? ctx.reply("Open the practice CBT 👇 (timer, question map and calculator — just like the exam hall)", {
-          reply_markup: new InlineKeyboard().webApp("🖥 Start practice CBT", `${env.appUrl}/mock`),
+      ? ctx.reply("Open a full timed practice test 👇", {
+          reply_markup: new InlineKeyboard().webApp("▶️ Start practice test", `${env.appUrl}/mock`),
         })
       : undefined,
   );
@@ -318,7 +316,7 @@ function register(bot: Bot<Ctx>) {
   });
 
   bot.command("time", (ctx) =>
-    isPrivate(ctx) ? ctx.reply("When should your daily drill arrive? (Nigeria time)", { reply_markup: timeKb() }) : undefined,
+    isPrivate(ctx) ? ctx.reply(`When should your daily practice arrive? (${ctx.student!.track === "LUK" ? "UK" : "Nigeria"} time)`, { reply_markup: timeKb() }) : undefined,
   );
 
   bot.command("skip", async (ctx) => {
@@ -412,26 +410,33 @@ function register(bot: Bot<Ctx>) {
   });
 
   // ---- Onboarding callbacks -----------------------------------------------
-  bot.callbackQuery(/^ob:exam:(JAMB|WAEC)$/, async (ctx) => {
-    const exam = ctx.match[1] as Exam;
+  bot.callbackQuery(/^ob:track:([A-Z]+)$/, async (ctx) => {
+    const code = ctx.match[1] as TrackCode;
+    if (!TRACKS[code]) return ctx.answerCallbackQuery();
+    const t = TRACKS[code];
     const s = ctx.student!;
-    const rules = EXAM_RULES[exam];
-    const keep = s.exam === exam ? s.subjects : [];
-    const subjects = [...new Set([...rules.compulsory, ...keep])];
-    const u = await updateStudent(s.id, { exam, subjects, onboarding_step: "subjects" });
     await ctx.answerCallbackQuery();
+    if (t.subjectMode === "single") {
+      const u = await updateStudent(s.id, { track: code, subjects: t.subjects, onboarding_step: s.drill_hour && s.onboarding_step === "exam" && s.track ? "done" : "time" });
+      await ctx.editMessageText(`${t.emoji} ${t.name} ✅`);
+      return u.onboarding_step === "done" ? ctx.reply("Settings saved ✅", { reply_markup: menuKb(u) }) : promptStep(ctx.api, u);
+    }
+    const keep = s.track === code ? s.subjects : [];
+    const subjects = [...new Set([...t.compulsory, ...keep.filter((x) => t.subjects.includes(x))])];
+    const u = await updateStudent(s.id, { track: code, exam: code === "JAMB" || code === "WAEC" ? code : null, subjects, onboarding_step: "subjects" });
     await ctx.editMessageText(subjectsText(u), { reply_markup: subjectsKb(u) });
   });
 
   bot.callbackQuery(/^ob:sub:([A-Z]{3})$/, async (ctx) => {
     const code = ctx.match[1];
     const s = ctx.student!;
-    const rules = EXAM_RULES[s.exam ?? "JAMB"];
-    if (rules.compulsory.includes(code)) return ctx.answerCallbackQuery({ text: `${subjectName(code)} is compulsory for ${s.exam}.` });
+    const t = getTrack(s.track);
+    if (!t.subjects.includes(code)) return ctx.answerCallbackQuery();
+    if (t.compulsory.includes(code)) return ctx.answerCallbackQuery({ text: `${subjectName(code)} is compulsory for ${t.short}.` });
     let subjects = s.subjects;
     if (subjects.includes(code)) subjects = subjects.filter((c) => c !== code);
     else {
-      if (subjects.length >= rules.max) return ctx.answerCallbackQuery({ text: `${s.exam}: ${rules.note}. Unselect one first.`, show_alert: true });
+      if (subjects.length >= t.maxSubjects) return ctx.answerCallbackQuery({ text: `${t.short}: ${t.subjectNote}. Unselect one first.`, show_alert: true });
       subjects = [...subjects, code];
     }
     const u = await updateStudent(s.id, { subjects });
@@ -441,20 +446,20 @@ function register(bot: Bot<Ctx>) {
 
   bot.callbackQuery("ob:subdone", async (ctx) => {
     const s = ctx.student!;
-    const rules = EXAM_RULES[s.exam ?? "JAMB"];
-    if (s.subjects.length < rules.min) return ctx.answerCallbackQuery({ text: `${s.exam}: ${rules.note}.`, show_alert: true });
+    const t = getTrack(s.track);
+    if (s.subjects.length < t.minSubjects) return ctx.answerCallbackQuery({ text: `${t.short}: ${t.subjectNote}.`, show_alert: true });
     await ctx.answerCallbackQuery();
     await ctx.editMessageText(`Subjects: ${s.subjects.map(subjectName).join(", ")} ✅`);
     // Returning users (from /settings) already have a state — skip straight to done
-    const u = await updateStudent(s.id, { onboarding_step: s.state ? "done" : "state" });
-    if (u.onboarding_step === "done") return ctx.reply("Settings saved ✅", { reply_markup: menuKb() });
+    const u = await updateStudent(s.id, { onboarding_step: s.state || !t.askState ? "done" : "state" });
+    if (u.onboarding_step === "done") return ctx.reply("Settings saved ✅", { reply_markup: menuKb(u) });
     return promptStep(ctx.api, u);
   });
 
   bot.callbackQuery(/^ob:st:(\d+)$/, async (ctx) => {
     const state = STATES[Number(ctx.match[1])];
     if (!state) return ctx.answerCallbackQuery();
-    const u = await updateStudent(ctx.student!.id, { state, onboarding_step: "school" });
+    const u = await updateStudent(ctx.student!.id, { state, onboarding_step: getTrack(ctx.student!.track).askSchool ? "school" : "time" });
     await ctx.answerCallbackQuery();
     await ctx.editMessageText(`State: ${state} ✅`);
     return promptStep(ctx.api, u);
@@ -479,7 +484,7 @@ function register(bot: Bot<Ctx>) {
       return promptStep(ctx.api, u);
     }
     if (s.onboarding_step !== "done") return promptStep(ctx.api, s);
-    return ctx.reply("Tap an option below 👇", { reply_markup: menuKb() });
+    return ctx.reply("Tap an option below 👇", { reply_markup: menuKb(s) });
   });
 
   // ---- Menu callbacks -----------------------------------------------------
@@ -508,12 +513,15 @@ function register(bot: Bot<Ctx>) {
     await ctx.answerCallbackQuery();
     return sendPremium(ctx.api, ctx.student!);
   });
-  bot.callbackQuery(/^pay:(student_month|student_season)$/, async (ctx) => {
+  bot.callbackQuery(/^pay:([a-z_]+)$/, async (ctx) => {
+    const code = ctx.match[1];
+    const plan = PLANS[code];
+    if (!plan || !getTrack(ctx.student!.track).plans.includes(code)) return ctx.answerCallbackQuery();
     await ctx.answerCallbackQuery({ text: "Creating your payment link…" });
-    const plan = ctx.match[1] as keyof typeof PLANS;
-    const url = await createCheckout(ctx.student!, plan);
-    return ctx.reply(`${PLANS[plan].label} — ${naira(PLANS[plan].amountKobo)}\nYou'll get a message here as soon as it's paid.`, {
-      reply_markup: new InlineKeyboard().url(`Pay ${naira(PLANS[plan].amountKobo)}`, url),
+    const url = await createCheckout(ctx.student!, code, { returnTo: "telegram" });
+    const price = money(plan.amount, plan.currency);
+    return ctx.reply(`${plan.label} — ${price}\nYou'll get a message here as soon as it's paid.`, {
+      reply_markup: new InlineKeyboard().url(`Pay ${price}`, url),
     });
   });
 

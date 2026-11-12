@@ -15,4 +15,6 @@ export const env = {
   get supabaseUrl() { return req("SUPABASE_URL"); },
   get supabaseServiceKey() { return req("SUPABASE_SERVICE_ROLE_KEY"); },
   get paystackSecret() { return req("PAYSTACK_SECRET_KEY"); },
+  get stripeSecret() { return req("STRIPE_SECRET_KEY"); },
+  get stripeWebhookSecret() { return req("STRIPE_WEBHOOK_SECRET"); },
 };

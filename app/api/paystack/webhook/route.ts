@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 import { getBot } from "@/bot/bot";
-import { applySuccessfulPayment, verifyPaystackSignature } from "@/lib/paystack";
+import { applySuccessfulPayment, verifyPaystackSignature } from "@/lib/payments";
 import { formatWat } from "@/lib/time";
 
 export const dynamic = "force-dynamic";
@@ -15,8 +15,8 @@ export async function POST(req: Request) {
     return NextResponse.json({ ok: true });
   }
 
-  const applied = await applySuccessfulPayment(event.data.reference, event.data.amount);
-  if (applied) {
+  const applied = await applySuccessfulPayment(event.data.reference, event.data.amount, event.data.currency);
+  if (applied && applied.student.telegram_id) {
     const api = getBot().api;
     const text =
       applied.kind === "premium"

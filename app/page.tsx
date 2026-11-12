@@ -1,18 +1,33 @@
+import Link from "next/link";
+
 export default function Home() {
   const bot = process.env.TELEGRAM_BOT_USERNAME ?? "";
   return (
-    <main className="wrap" style={{ paddingTop: 48 }}>
-      <h1 style={{ fontSize: 40, lineHeight: 1.1, margin: "0 0 12px" }}>Mock Night</h1>
-      <p style={{ fontSize: 20 }}>JAMB & WAEC prep that lives in Telegram.</p>
-      <div className="card">📝 <b>Daily drill</b> — questions in your subjects at the time you choose. Miss one and it comes back until you get it right.</div>
-      <div className="card">🖥 <b>Real CBT practice</b> — timer, question map and calculator, just like the exam hall.</div>
-      <div className="card">🏆 <b>Mock Night, every Sunday 8pm</b> — the same exam for every student in Nigeria. National and state leaderboard on Monday.</div>
-      <div className="card">👩🏾‍🏫 <b>For tutors & tutorial centres</b> — one link for your students, a dashboard of who's practising, and weekly results posted to your group.</div>
-      {bot && (
-        <p style={{ marginTop: 24 }}>
-          <a className="btn" href={`https://t.me/${bot}`}>Start on Telegram</a>
-        </p>
-      )}
+    <main className="wrap" style={{ maxWidth: 880 }}>
+      <section className="hero">
+        <h1>Practise a little every day. Walk into your exam ready.</h1>
+        <p className="muted">Daily questions that repeat what you get wrong, full timed practice tests, and a clear score of how ready you are.</p>
+      </section>
+
+      <div className="grid2">
+        <div className="card">
+          <h2 style={{ marginTop: 0 }}>🇬🇧 Life in the UK Test</h2>
+          <p>24-question practice tests in 45 minutes — exactly like the real test. Daily practice, a readiness score, and explanations for every answer.</p>
+          <Link className="btn block" href="/life-in-the-uk">Start practising</Link>
+        </div>
+        <div className="card">
+          <h2 style={{ marginTop: 0 }}>🎓 JAMB & WAEC</h2>
+          <p>Daily drills on Telegram, a real CBT practice screen, and <b>Mock Night</b> — the same exam for every student in Nigeria, every Sunday at 8pm.</p>
+          {bot && <a className="btn block" href={`https://t.me/${bot}`}>Start on Telegram</a>}
+          <Link className="btn secondary block" style={{ marginTop: 8 }} href="/app">Or use the web app</Link>
+        </div>
+      </div>
+
+      <div className="card" style={{ marginTop: 12 }}>
+        👩🏾‍🏫 <b>Tutors, schools and training providers:</b> one link for your learners, a dashboard of who&apos;s practising, and weekly results.
+        {bot && <> Message <a href={`https://t.me/${bot}`}>@{bot}</a> and send <code>/newgroup</code>.</>}
+      </div>
+      <p className="muted small" style={{ marginTop: 32 }}>A product of The 36th Solutions Ltd.</p>
     </main>
   );
 }

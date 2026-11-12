@@ -14,9 +14,10 @@ import { economics } from "./bank/eco";
 import { english } from "./bank/eng";
 import { biology } from "./bank/bio";
 import { government } from "./bank/gov";
+import { lifeInTheUK } from "./bank/luk";
 
 const builders: [string, () => Q[]][] = [
-  ["MTH", maths], ["PHY", physics], ["CHM", chemistry], ["ECO", economics], ["ENG", english], ["BIO", biology], ["GOV", government],
+  ["MTH", maths], ["PHY", physics], ["CHM", chemistry], ["ECO", economics], ["ENG", english], ["BIO", biology], ["GOV", government], ["LUK", lifeInTheUK],
 ];
 
 mkdirSync("data/bank", { recursive: true });
@@ -33,7 +34,7 @@ for (const [code, build] of builders) {
     if (seen.has(q.body)) continue;
     seen.add(q.body);
     const opts = q.options.map((o) => o.trim().toLowerCase());
-    if (q.options.length !== 4) problems.push(`options≠4: ${q.body}`);
+    if (q.options.length < 2 || q.options.length > 5) problems.push(`options count: ${q.body}`);
     if (new Set(opts).size !== q.options.length) problems.push(`duplicate options: ${q.body}`);
     if (q.answer < 0 || q.answer >= q.options.length) problems.push(`bad answer: ${q.body}`);
     if (q.options.some((o) => !o || /\bNaN\b|undefined|Infinity/.test(o))) problems.push(`bad option text: ${q.body} → ${q.options.join(" | ")}`);

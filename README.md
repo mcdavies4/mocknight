@@ -1,5 +1,15 @@
 # Mock Night
 
+Exam practice for **JAMB, WAEC and the Life in the UK Test**, on Telegram and on the web. Each "track" (`lib/tracks.ts`) defines its subjects, mock format, pass mark and pricing.
+
+| Track | Where | Mock format | Payments |
+|---|---|---|---|
+| JAMB | Telegram + web | 15 per subject, 30 min, score /400; Sunday Mock Night | Paystack (₦) |
+| WAEC | Telegram + web | 15 per subject, 30 min; Sunday Mock Night | Paystack (₦) |
+| Life in the UK | Web + Telegram | 24 questions, 45 min, 18 to pass; readiness score | Stripe (£) |
+
+To add a track: add it to `lib/tracks.ts`, its plan to `lib/pricing.ts`, write a generator in `scripts/bank/`, then run `npm run build-bank` and import.
+
 JAMB & WAEC prep on Telegram:
 
 - **Daily drill**: questions in the student's subjects at the time they choose. Questions are sent as native Telegram quiz polls, or as A–D buttons when a question is too long for a poll. Wrong answers go into a review box and come back after 1, 2, 4, 8 and 16 days until mastered.

@@ -2,7 +2,11 @@ export type Exam = "JAMB" | "WAEC";
 
 export interface Student {
   id: string;
-  telegram_id: number;
+  telegram_id: number | null;
+  track: string | null;
+  email: string | null;
+  auth_user_id: string | null;
+  source: "telegram" | "web";
   first_name: string | null;
   username: string | null;
   exam: Exam | null;
@@ -43,6 +47,7 @@ export interface DrillSession {
 export interface Mock {
   id: string;
   kind: "practice" | "weekly";
+  track: string | null;
   title: string;
   owner_student_id: string | null;
   starts_at: string;

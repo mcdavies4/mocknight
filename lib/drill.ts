@@ -118,7 +118,7 @@ function truncate(s: string, n: number) {
 
 /** Send the session's current question (or the summary if finished). */
 export async function sendCurrentQuestion(api: Api, student: Student, session: DrillSession): Promise<void> {
-  const chatId = student.telegram_id;
+  const chatId = student.telegram_id!;
   if (session.position >= session.question_ids.length) {
     await finishSession(api, student, session);
     return;
@@ -266,18 +266,34 @@ export async function streakDays(studentId: string): Promise<number> {
   return streak;
 }
 
-async function finishSession(api: Api, student: Student, session: DrillSession) {
+export interface DrillSummary {
+  correct: number;
+  total: number;
+  pct: number;
+  streak: number;
+  reviewBox: number;
+  premium: boolean;
+}
+
+/** Mark a session finished and summarise it (used by bot and web). */
+export async function completeSession(student: Student, session: DrillSession): Promise<DrillSummary> {
   if (!session.finished_at) {
-    await db().from("drill_sessions").update({ finished_at: new Date().toISOString() }).eq("id", session.id);
+    await db().from("drill_sessions").update({ finished_at: new Date().toISOString() }).eq("id", session.id).is("finished_at", null);
   }
   const total = session.question_ids.length;
-  const pct = Math.round((session.correct / total) * 100);
-  const { count: reviewCount } = await db()
-    .from("review_items")
-    .select("*", { count: "exact", head: true })
-    .eq("student_id", student.id);
-  const streak = await streakDays(student.id);
-  const premium = await isPremium(student);
+  const { count } = await db().from("review_items").select("*", { count: "exact", head: true }).eq("student_id", student.id);
+  return {
+    correct: session.correct,
+    total,
+    pct: Math.round((session.correct / total) * 100),
+    streak: await streakDays(student.id),
+    reviewBox: count ?? 0,
+    premium: await isPremium(student),
+  };
+}
+
+async function finishSession(api: Api, student: Student, session: DrillSession) {
+  const { total, pct, streak, reviewBox: reviewCount, premium } = await completeSession(student, session);
 
   const lines = [
     `✅ Drill done: *${session.correct}/${total}* (${pct}%)`,
@@ -288,8 +304,8 @@ async function finishSession(api: Api, student: Student, session: DrillSession) 
   ];
   if (!premium) lines.push("", `_Free plan: ${FREE_DAILY_QUESTIONS} questions/day. Premium gets ${PREMIUM_DAILY_QUESTIONS} + unlimited CBT practice → /premium_`);
 
-  await api.sendMessage(student.telegram_id, lines.join("\n"), {
+  await api.sendMessage(student.telegram_id!, lines.join("\n"), {
     parse_mode: "Markdown",
-    reply_markup: new InlineKeyboard().webApp("🖥 Practice CBT", `${env.appUrl}/mock`).text("📊 My stats", "stats"),
+    reply_markup: new InlineKeyboard().webApp(student.track === "LUK" ? "📝 Practice test" : "🖥 Practice CBT", `${env.appUrl}/mock`).text("📊 My stats", "stats"),
   });
 }

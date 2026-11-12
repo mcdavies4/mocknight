@@ -1,23 +1,25 @@
 import { InlineKeyboard } from "grammy";
-import { EXAM_RULES, OFFERED_SUBJECTS, STATES, subjectName } from "@/lib/subjects";
+import { STATES, subjectName } from "@/lib/subjects";
 import { formatHour } from "@/lib/time";
+import { getTrack, TRACK_LIST } from "@/lib/tracks";
 import type { Student } from "@/lib/types";
 import { env } from "@/lib/env";
 
 export const DRILL_HOURS = [6, 7, 16, 17, 18, 19, 20, 21];
 
-export function examKb() {
-  return new InlineKeyboard().text("JAMB (UTME)", "ob:exam:JAMB").text("WAEC (WASSCE)", "ob:exam:WAEC");
+export function trackKb() {
+  const kb = new InlineKeyboard();
+  TRACK_LIST.forEach((t) => kb.text(`${t.emoji} ${t.name}`, `ob:track:${t.code}`).row());
+  return kb;
 }
 
 export function subjectsKb(student: Student) {
-  const rules = EXAM_RULES[student.exam ?? "JAMB"];
+  const track = getTrack(student.track);
   const kb = new InlineKeyboard();
-  OFFERED_SUBJECTS.forEach((code, i) => {
-    const locked = rules.compulsory.includes(code);
+  track.subjects.forEach((code, i) => {
+    const locked = track.compulsory.includes(code);
     const on = student.subjects.includes(code);
-    const label = `${locked ? "🔒" : on ? "✅" : "▫️"} ${subjectName(code)}`;
-    kb.text(label, `ob:sub:${code}`);
+    kb.text(`${locked ? "🔒" : on ? "✅" : "▫️"} ${subjectName(code)}`, `ob:sub:${code}`);
     if (i % 2 === 1) kb.row();
   });
   kb.row().text(`Done (${student.subjects.length} selected) ✔`, "ob:subdone");
@@ -42,14 +44,13 @@ export function timeKb() {
   return kb;
 }
 
-export function menuKb() {
-  return new InlineKeyboard()
+export function menuKb(student: Student) {
+  const track = getTrack(student.track);
+  const kb = new InlineKeyboard()
     .text("📝 Today's drill", "drill:start")
-    .webApp("🖥 Practice CBT", `${env.appUrl}/mock`)
-    .row()
-    .text("🏆 Mock Night", "mn:info")
-    .text("📊 My stats", "stats")
-    .row()
-    .text("⭐ Premium", "pay:menu")
-    .text("⚙️ Settings", "settings");
+    .webApp(track.subjectMode === "single" ? "🧪 Practice test" : "🖥 Practice CBT", `${env.appUrl}/mock`)
+    .row();
+  if (track.weeklyMock) kb.text("🏆 Mock Night", "mn:info");
+  kb.text("📊 My stats", "stats").row().text("⭐ Premium", "pay:menu").text("⚙️ Settings", "settings");
+  return kb;
 }

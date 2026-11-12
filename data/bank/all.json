@@ -32702,5 +32702,5587 @@
   "answer": 2,
   "explanation": "Mandamus means 'we command'.",
   "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the Romans, led by Emperor Claudius, began their successful invasion of Britain?",
+  "options": [
+   "AD 43",
+   "1833",
+   "AD 410",
+   "1066"
+  ],
+  "answer": 0,
+  "explanation": "The Romans, led by Emperor Claudius, began their successful invasion of Britain in AD 43.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the Romans left Britain?",
+  "options": [
+   "AD 410",
+   "AD 43",
+   "1066",
+   "1998"
+  ],
+  "answer": 0,
+  "explanation": "The Romans left Britain in AD 410.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the Battle of Hastings took place?",
+  "options": [
+   "1066",
+   "1215",
+   "1939",
+   "1314"
+  ],
+  "answer": 0,
+  "explanation": "The Battle of Hastings took place in 1066.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: King John was forced to agree to the Magna Carta?",
+  "options": [
+   "1348",
+   "1807",
+   "1314",
+   "1215"
+  ],
+  "answer": 3,
+  "explanation": "King John was forced to agree to the Magna Carta in 1215.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn?",
+  "options": [
+   "1215",
+   "1348",
+   "1707",
+   "1314"
+  ],
+  "answer": 3,
+  "explanation": "The Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn in 1314.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the Black Death (bubonic plague) arrived in Britain?",
+  "options": [
+   "1348",
+   "1314",
+   "1215",
+   "AD 410"
+  ],
+  "answer": 0,
+  "explanation": "The Black Death (bubonic plague) arrived in Britain in 1348.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the Wars of the Roses ended at the Battle of Bosworth Field?",
+  "options": [
+   "1999",
+   "1588",
+   "1603",
+   "1485"
+  ],
+  "answer": 3,
+  "explanation": "The Wars of the Roses ended at the Battle of Bosworth Field in 1485.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the Spanish Armada was defeated?",
+  "options": [
+   "1603",
+   "1642",
+   "1588",
+   "1801"
+  ],
+  "answer": 2,
+  "explanation": "The Spanish Armada was defeated in 1588.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: King James VI of Scotland also became King James I of England?",
+  "options": [
+   "1314",
+   "1588",
+   "1603",
+   "1642"
+  ],
+  "answer": 2,
+  "explanation": "King James VI of Scotland also became King James I of England in 1603.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the English Civil War began?",
+  "options": [
+   "1660",
+   "1642",
+   "1801",
+   "1649"
+  ],
+  "answer": 1,
+  "explanation": "The English Civil War began in 1642.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: King Charles I was executed?",
+  "options": [
+   "1666",
+   "1642",
+   "1660",
+   "1649"
+  ],
+  "answer": 3,
+  "explanation": "King Charles I was executed in 1649.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the monarchy was restored with Charles II?",
+  "options": [
+   "1979",
+   "1666",
+   "1660",
+   "1649"
+  ],
+  "answer": 2,
+  "explanation": "The monarchy was restored with Charles II in 1660.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the Great Fire of London broke out?",
+  "options": [
+   "1666",
+   "1679",
+   "1969",
+   "1660"
+  ],
+  "answer": 0,
+  "explanation": "The Great Fire of London broke out in 1666.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the Habeas Corpus Act became law?",
+  "options": [
+   "1688",
+   "1666",
+   "1679",
+   "2012"
+  ],
+  "answer": 2,
+  "explanation": "The Habeas Corpus Act became law in 1679.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the Glorious Revolution took place?",
+  "options": [
+   "1707",
+   "1679",
+   "1801",
+   "1688"
+  ],
+  "answer": 3,
+  "explanation": "The Glorious Revolution took place in 1688.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the Act of Union created the Kingdom of Great Britain?",
+  "options": [
+   "1603",
+   "1707",
+   "1679",
+   "1688"
+  ],
+  "answer": 1,
+  "explanation": "The Act of Union created the Kingdom of Great Britain in 1707.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: Bonnie Prince Charlie's army was defeated at the Battle of Culloden?",
+  "options": [
+   "1707",
+   "1801",
+   "1679",
+   "1746"
+  ],
+  "answer": 3,
+  "explanation": "Bonnie Prince Charlie's army was defeated at the Battle of Culloden in 1746.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the Act of Union joined Ireland with Great Britain?",
+  "options": [
+   "1801",
+   "1807",
+   "1805",
+   "1666"
+  ],
+  "answer": 0,
+  "explanation": "The Act of Union joined Ireland with Great Britain in 1801.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: Admiral Nelson won the Battle of Trafalgar?",
+  "options": [
+   "1805",
+   "1801",
+   "1215",
+   "1807"
+  ],
+  "answer": 0,
+  "explanation": "Admiral Nelson won the Battle of Trafalgar in 1805.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: it became illegal to trade slaves in British ships or from British ports?",
+  "options": [
+   "1807",
+   "1801",
+   "1851",
+   "1805"
+  ],
+  "answer": 0,
+  "explanation": "It became illegal to trade slaves in British ships or from British ports in 1807.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the Duke of Wellington defeated Napoleon at the Battle of Waterloo?",
+  "options": [
+   "1815",
+   "1805",
+   "1588",
+   "1807"
+  ],
+  "answer": 0,
+  "explanation": "The Duke of Wellington defeated Napoleon at the Battle of Waterloo in 1815.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: slavery was abolished throughout the British Empire?",
+  "options": [
+   "1815",
+   "1833",
+   "1851",
+   "1928"
+  ],
+  "answer": 1,
+  "explanation": "Slavery was abolished throughout the British Empire in 1833.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the Great Exhibition opened in the Crystal Palace in Hyde Park?",
+  "options": [
+   "1851",
+   "1833",
+   "1815",
+   "1998"
+  ],
+  "answer": 0,
+  "explanation": "The Great Exhibition opened in the Crystal Palace in Hyde Park in 1851.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the First World War began?",
+  "options": [
+   "1851",
+   "1660",
+   "1918",
+   "1914"
+  ],
+  "answer": 3,
+  "explanation": "The First World War began in 1914.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the First World War ended (armistice on 11 November)?",
+  "options": [
+   "1914",
+   "1918",
+   "1928",
+   "1801"
+  ],
+  "answer": 1,
+  "explanation": "The First World War ended (armistice on 11 November) in 1918.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: women over the age of 30 first got the right to vote?",
+  "options": [
+   "1807",
+   "1918",
+   "1914",
+   "1928"
+  ],
+  "answer": 1,
+  "explanation": "Women over the age of 30 first got the right to vote in 1918.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: women got the right to vote at 21, the same age as men?",
+  "options": [
+   "1666",
+   "1928",
+   "1918",
+   "1914"
+  ],
+  "answer": 1,
+  "explanation": "Women got the right to vote at 21, the same age as men in 1928.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the Second World War began?",
+  "options": [
+   "AD 410",
+   "1939",
+   "1940",
+   "1944"
+  ],
+  "answer": 1,
+  "explanation": "The Second World War began in 1939.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the NHS was established?",
+  "options": [
+   "1833",
+   "1944",
+   "1940",
+   "1948"
+  ],
+  "answer": 3,
+  "explanation": "The NHS was established in 1948.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the voting age was reduced from 21 to 18?",
+  "options": [
+   "1979",
+   "1969",
+   "1485",
+   "1973"
+  ],
+  "answer": 1,
+  "explanation": "The voting age was reduced from 21 to 18 in 1969.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the UK joined the European Economic Community?",
+  "options": [
+   "1485",
+   "1979",
+   "1969",
+   "1973"
+  ],
+  "answer": 3,
+  "explanation": "The UK joined the European Economic Community in 1973.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: Margaret Thatcher became the UK's first woman Prime Minister?",
+  "options": [
+   "1969",
+   "1973",
+   "1979",
+   "1918"
+  ],
+  "answer": 2,
+  "explanation": "Margaret Thatcher became the UK's first woman Prime Minister in 1979.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the Good Friday (Belfast) Agreement was signed?",
+  "options": [
+   "1801",
+   "1999",
+   "1998",
+   "2012"
+  ],
+  "answer": 2,
+  "explanation": "The Good Friday (Belfast) Agreement was signed in 1998.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the Scottish Parliament and the Welsh Assembly were first elected?",
+  "options": [
+   "1998",
+   "1914",
+   "2012",
+   "1999"
+  ],
+  "answer": 3,
+  "explanation": "The Scottish Parliament and the Welsh Assembly were first elected in 1999.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: London hosted the Olympic and Paralympic Games for the third time?",
+  "options": [
+   "1679",
+   "1999",
+   "1998",
+   "2012"
+  ],
+  "answer": 3,
+  "explanation": "London hosted the Olympic and Paralympic Games for the third time in 2012.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the D-Day landings in Normandy took place?",
+  "options": [
+   "1707",
+   "1944",
+   "1940",
+   "1948"
+  ],
+  "answer": 1,
+  "explanation": "The D-Day landings in Normandy took place in 1944.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did this happen: the Battle of Britain was fought in the skies?",
+  "options": [
+   "1940",
+   "1944",
+   "1939",
+   "1679"
+  ],
+  "answer": 0,
+  "explanation": "The Battle of Britain was fought in the skies in 1940.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in AD 43?",
+  "options": [
+   "The Romans, led by Emperor Claudius, began their successful invasion of Britain",
+   "The Habeas Corpus Act became law",
+   "The NHS was established",
+   "The UK joined the European Economic Community"
+  ],
+  "answer": 0,
+  "explanation": "AD 43: the Romans, led by Emperor Claudius, began their successful invasion of Britain.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in AD 410?",
+  "options": [
+   "The Duke of Wellington defeated Napoleon at the Battle of Waterloo",
+   "The Good Friday (Belfast) Agreement was signed",
+   "The Romans left Britain",
+   "The voting age was reduced from 21 to 18"
+  ],
+  "answer": 2,
+  "explanation": "AD 410: the Romans left Britain.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1066?",
+  "options": [
+   "The monarchy was restored with Charles II",
+   "Admiral Nelson won the Battle of Trafalgar",
+   "The First World War ended (armistice on 11 November)",
+   "The Battle of Hastings took place"
+  ],
+  "answer": 3,
+  "explanation": "1066: the Battle of Hastings took place.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1215?",
+  "options": [
+   "Bonnie Prince Charlie's army was defeated at the Battle of Culloden",
+   "Slavery was abolished throughout the British Empire",
+   "King John was forced to agree to the Magna Carta",
+   "The Great Fire of London broke out"
+  ],
+  "answer": 2,
+  "explanation": "1215: King John was forced to agree to the Magna Carta.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1314?",
+  "options": [
+   "The Great Exhibition opened in the Crystal Palace in Hyde Park",
+   "The voting age was reduced from 21 to 18",
+   "The Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn",
+   "King James VI of Scotland also became King James I of England"
+  ],
+  "answer": 2,
+  "explanation": "1314: the Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1348?",
+  "options": [
+   "The Black Death (bubonic plague) arrived in Britain",
+   "The Romans, led by Emperor Claudius, began their successful invasion of Britain",
+   "The NHS was established",
+   "Margaret Thatcher became the UK's first woman Prime Minister"
+  ],
+  "answer": 0,
+  "explanation": "1348: the Black Death (bubonic plague) arrived in Britain.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1485?",
+  "options": [
+   "The Habeas Corpus Act became law",
+   "The Glorious Revolution took place",
+   "The Romans, led by Emperor Claudius, began their successful invasion of Britain",
+   "The Wars of the Roses ended at the Battle of Bosworth Field"
+  ],
+  "answer": 3,
+  "explanation": "1485: the Wars of the Roses ended at the Battle of Bosworth Field.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1588?",
+  "options": [
+   "The Spanish Armada was defeated",
+   "King Charles I was executed",
+   "The Good Friday (Belfast) Agreement was signed",
+   "Bonnie Prince Charlie's army was defeated at the Battle of Culloden"
+  ],
+  "answer": 0,
+  "explanation": "1588: the Spanish Armada was defeated.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1603?",
+  "options": [
+   "King James VI of Scotland also became King James I of England",
+   "The monarchy was restored with Charles II",
+   "Bonnie Prince Charlie's army was defeated at the Battle of Culloden",
+   "The Act of Union joined Ireland with Great Britain"
+  ],
+  "answer": 0,
+  "explanation": "1603: King James VI of Scotland also became King James I of England.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1642?",
+  "options": [
+   "The Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn",
+   "The Habeas Corpus Act became law",
+   "The English Civil War began",
+   "Slavery was abolished throughout the British Empire"
+  ],
+  "answer": 2,
+  "explanation": "1642: the English Civil War began.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1649?",
+  "options": [
+   "The English Civil War began",
+   "King Charles I was executed",
+   "The Wars of the Roses ended at the Battle of Bosworth Field",
+   "The Second World War began"
+  ],
+  "answer": 1,
+  "explanation": "1649: King Charles I was executed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1660?",
+  "options": [
+   "The Duke of Wellington defeated Napoleon at the Battle of Waterloo",
+   "The Glorious Revolution took place",
+   "The monarchy was restored with Charles II",
+   "The Wars of the Roses ended at the Battle of Bosworth Field"
+  ],
+  "answer": 2,
+  "explanation": "1660: the monarchy was restored with Charles II.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1666?",
+  "options": [
+   "The Great Fire of London broke out",
+   "Women over the age of 30 first got the right to vote",
+   "The Act of Union joined Ireland with Great Britain",
+   "The Battle of Britain was fought in the skies"
+  ],
+  "answer": 0,
+  "explanation": "1666: the Great Fire of London broke out.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1679?",
+  "options": [
+   "The Habeas Corpus Act became law",
+   "Slavery was abolished throughout the British Empire",
+   "The First World War began",
+   "Admiral Nelson won the Battle of Trafalgar"
+  ],
+  "answer": 0,
+  "explanation": "1679: the Habeas Corpus Act became law.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1688?",
+  "options": [
+   "The Great Exhibition opened in the Crystal Palace in Hyde Park",
+   "The UK joined the European Economic Community",
+   "The Glorious Revolution took place",
+   "The Battle of Hastings took place"
+  ],
+  "answer": 2,
+  "explanation": "1688: the Glorious Revolution took place.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1707?",
+  "options": [
+   "The Act of Union created the Kingdom of Great Britain",
+   "The First World War began",
+   "The monarchy was restored with Charles II",
+   "The Romans, led by Emperor Claudius, began their successful invasion of Britain"
+  ],
+  "answer": 0,
+  "explanation": "1707: the Act of Union created the Kingdom of Great Britain.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1746?",
+  "options": [
+   "The Black Death (bubonic plague) arrived in Britain",
+   "The Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn",
+   "Bonnie Prince Charlie's army was defeated at the Battle of Culloden",
+   "The Romans, led by Emperor Claudius, began their successful invasion of Britain"
+  ],
+  "answer": 2,
+  "explanation": "1746: Bonnie Prince Charlie's army was defeated at the Battle of Culloden.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1801?",
+  "options": [
+   "The Glorious Revolution took place",
+   "Women over the age of 30 first got the right to vote",
+   "The Habeas Corpus Act became law",
+   "The Act of Union joined Ireland with Great Britain"
+  ],
+  "answer": 3,
+  "explanation": "1801: the Act of Union joined Ireland with Great Britain.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1805?",
+  "options": [
+   "The Second World War began",
+   "The Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn",
+   "Admiral Nelson won the Battle of Trafalgar",
+   "The Black Death (bubonic plague) arrived in Britain"
+  ],
+  "answer": 2,
+  "explanation": "1805: Admiral Nelson won the Battle of Trafalgar.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1807?",
+  "options": [
+   "The English Civil War began",
+   "Admiral Nelson won the Battle of Trafalgar",
+   "The monarchy was restored with Charles II",
+   "It became illegal to trade slaves in British ships or from British ports"
+  ],
+  "answer": 3,
+  "explanation": "1807: it became illegal to trade slaves in British ships or from British ports.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1815?",
+  "options": [
+   "The Glorious Revolution took place",
+   "Admiral Nelson won the Battle of Trafalgar",
+   "The Duke of Wellington defeated Napoleon at the Battle of Waterloo",
+   "The First World War ended (armistice on 11 November)"
+  ],
+  "answer": 2,
+  "explanation": "1815: the Duke of Wellington defeated Napoleon at the Battle of Waterloo.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1833?",
+  "options": [
+   "The voting age was reduced from 21 to 18",
+   "The Battle of Hastings took place",
+   "Slavery was abolished throughout the British Empire",
+   "The Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn"
+  ],
+  "answer": 2,
+  "explanation": "1833: slavery was abolished throughout the British Empire.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1851?",
+  "options": [
+   "The Great Exhibition opened in the Crystal Palace in Hyde Park",
+   "The Black Death (bubonic plague) arrived in Britain",
+   "The Scottish Parliament and the Welsh Assembly were first elected",
+   "The First World War began"
+  ],
+  "answer": 0,
+  "explanation": "1851: the Great Exhibition opened in the Crystal Palace in Hyde Park.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1914?",
+  "options": [
+   "Women over the age of 30 first got the right to vote",
+   "The First World War ended (armistice on 11 November)",
+   "The First World War began",
+   "The Habeas Corpus Act became law"
+  ],
+  "answer": 2,
+  "explanation": "1914: the First World War began.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1918?",
+  "options": [
+   "Bonnie Prince Charlie's army was defeated at the Battle of Culloden",
+   "Margaret Thatcher became the UK's first woman Prime Minister",
+   "The NHS was established",
+   "The First World War ended (armistice on 11 November)"
+  ],
+  "answer": 3,
+  "explanation": "1918: the First World War ended (armistice on 11 November).",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1928?",
+  "options": [
+   "King James VI of Scotland also became King James I of England",
+   "The Great Exhibition opened in the Crystal Palace in Hyde Park",
+   "Women got the right to vote at 21, the same age as men",
+   "Women over the age of 30 first got the right to vote"
+  ],
+  "answer": 2,
+  "explanation": "1928: women got the right to vote at 21, the same age as men.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1939?",
+  "options": [
+   "King James VI of Scotland also became King James I of England",
+   "The Second World War began",
+   "The Black Death (bubonic plague) arrived in Britain",
+   "The voting age was reduced from 21 to 18"
+  ],
+  "answer": 1,
+  "explanation": "1939: the Second World War began.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1948?",
+  "options": [
+   "The Second World War began",
+   "King James VI of Scotland also became King James I of England",
+   "Margaret Thatcher became the UK's first woman Prime Minister",
+   "The NHS was established"
+  ],
+  "answer": 3,
+  "explanation": "1948: the NHS was established.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1969?",
+  "options": [
+   "Margaret Thatcher became the UK's first woman Prime Minister",
+   "The voting age was reduced from 21 to 18",
+   "The Glorious Revolution took place",
+   "The Battle of Britain was fought in the skies"
+  ],
+  "answer": 1,
+  "explanation": "1969: the voting age was reduced from 21 to 18.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1973?",
+  "options": [
+   "King John was forced to agree to the Magna Carta",
+   "The UK joined the European Economic Community",
+   "The Great Exhibition opened in the Crystal Palace in Hyde Park",
+   "The Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn"
+  ],
+  "answer": 1,
+  "explanation": "1973: the UK joined the European Economic Community.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1979?",
+  "options": [
+   "Margaret Thatcher became the UK's first woman Prime Minister",
+   "The Act of Union joined Ireland with Great Britain",
+   "The English Civil War began",
+   "The Good Friday (Belfast) Agreement was signed"
+  ],
+  "answer": 0,
+  "explanation": "1979: Margaret Thatcher became the UK's first woman Prime Minister.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1998?",
+  "options": [
+   "The Wars of the Roses ended at the Battle of Bosworth Field",
+   "The Spanish Armada was defeated",
+   "The Good Friday (Belfast) Agreement was signed",
+   "The Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn"
+  ],
+  "answer": 2,
+  "explanation": "1998: the Good Friday (Belfast) Agreement was signed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1999?",
+  "options": [
+   "London hosted the Olympic and Paralympic Games for the third time",
+   "The Romans, led by Emperor Claudius, began their successful invasion of Britain",
+   "The Spanish Armada was defeated",
+   "The Scottish Parliament and the Welsh Assembly were first elected"
+  ],
+  "answer": 3,
+  "explanation": "1999: the Scottish Parliament and the Welsh Assembly were first elected.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 2012?",
+  "options": [
+   "The Great Fire of London broke out",
+   "The Duke of Wellington defeated Napoleon at the Battle of Waterloo",
+   "The Good Friday (Belfast) Agreement was signed",
+   "London hosted the Olympic and Paralympic Games for the third time"
+  ],
+  "answer": 3,
+  "explanation": "2012: London hosted the Olympic and Paralympic Games for the third time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1944?",
+  "options": [
+   "Margaret Thatcher became the UK's first woman Prime Minister",
+   "Bonnie Prince Charlie's army was defeated at the Battle of Culloden",
+   "The Second World War began",
+   "The D-Day landings in Normandy took place"
+  ],
+  "answer": 3,
+  "explanation": "1944: the D-Day landings in Normandy took place.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened in 1940?",
+  "options": [
+   "The Second World War began",
+   "The Wars of the Roses ended at the Battle of Bosworth Field",
+   "The Battle of Britain was fought in the skies",
+   "The Act of Union joined Ireland with Great Britain"
+  ],
+  "answer": 2,
+  "explanation": "1940: the Battle of Britain was fought in the skies.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Sir Isaac Newton is best known for",
+  "options": [
+   "showing that white light is made up of the colours of the rainbow, and his work on gravity",
+   "mapping the coast of Australia",
+   "starting sporting events at Stoke Mandeville that grew into the Paralympics",
+   "winning Olympic gold in the 5,000 and 10,000 metres"
+  ],
+  "answer": 0,
+  "explanation": "Sir Isaac Newton: showing that white light is made up of the colours of the rainbow, and his work on gravity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Charles Darwin is best known for",
+  "options": [
+   "'Water Music' and the oratorio 'Messiah'",
+   "being the first British man to win a singles Grand Slam tennis title since 1936",
+   "leading the establishment of the NHS as Minister for Health",
+   "the theory of evolution set out in 'On the Origin of Species'"
+  ],
+  "answer": 3,
+  "explanation": "Charles Darwin: the theory of evolution set out in 'On the Origin of Species'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Sir Alexander Fleming is best known for",
+  "options": [
+   "designing the new St Paul's Cathedral after the Great Fire",
+   "developing the 'Turing machine', the basis of modern computers",
+   "discovering penicillin in 1928",
+   "designing natural-looking landscape gardens around country houses"
+  ],
+  "answer": 2,
+  "explanation": "Sir Alexander Fleming: discovering penicillin in 1928.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Florence Nightingale is best known for",
+  "options": [
+   "landscape paintings of Dedham Vale on the Suffolk–Essex border",
+   "the theory of evolution set out in 'On the Origin of Species'",
+   "designing the new St Paul's Cathedral after the Great Fire",
+   "founding modern nursing after her work in the Crimean War"
+  ],
+  "answer": 3,
+  "explanation": "Florence Nightingale: founding modern nursing after her work in the Crimean War.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Isambard Kingdom Brunel is best known for",
+  "options": [
+   "winning rowing gold medals at five consecutive Olympic Games",
+   "designing the new St Paul's Cathedral after the Great Fire",
+   "developing the jet engine",
+   "engineering the Great Western Railway, tunnels, bridges and ships"
+  ],
+  "answer": 3,
+  "explanation": "Isambard Kingdom Brunel: engineering the Great Western Railway, tunnels, bridges and ships.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Richard Arkwright is best known for",
+  "options": [
+   "the 1942 report that formed the basis of the modern welfare state",
+   "becoming Lord Protector after the Civil War",
+   "Scottish poetry, including 'Auld Lang Syne'",
+   "developing an efficient carding machine and pioneering factory production"
+  ],
+  "answer": 3,
+  "explanation": "Richard Arkwright: developing an efficient carding machine and pioneering factory production.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Robert Burns is best known for",
+  "options": [
+   "Scottish poetry, including 'Auld Lang Syne'",
+   "developing radar",
+   "the 1942 report that formed the basis of the modern welfare state",
+   "defeating Napoleon at Waterloo and later becoming Prime Minister"
+  ],
+  "answer": 0,
+  "explanation": "Robert Burns: Scottish poetry, including 'Auld Lang Syne'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "William Shakespeare is best known for",
+  "options": [
+   "inventing the World Wide Web",
+   "the suite 'The Planets'",
+   "Welsh poetry and the radio play 'Under Milk Wood'",
+   "plays such as 'Romeo and Juliet' and 'Hamlet'"
+  ],
+  "answer": 3,
+  "explanation": "William Shakespeare: plays such as 'Romeo and Juliet' and 'Hamlet'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Geoffrey Chaucer is best known for",
+  "options": [
+   "'The Jungle Book' and the poem 'If'",
+   "'The Canterbury Tales', a series of poems about pilgrims",
+   "developing an efficient carding machine and pioneering factory production",
+   "being the first man to run a mile in under four minutes, in 1954"
+  ],
+  "answer": 1,
+  "explanation": "Geoffrey Chaucer: 'The Canterbury Tales', a series of poems about pilgrims.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Jane Austen is best known for",
+  "options": [
+   "winning Paralympic gold medals in swimming",
+   "operas such as 'Peter Grimes' and 'Billy Budd'",
+   "novels such as 'Pride and Prejudice' and 'Sense and Sensibility'",
+   "uniting the Anglo-Saxon kingdoms to defeat the Vikings"
+  ],
+  "answer": 2,
+  "explanation": "Jane Austen: novels such as 'Pride and Prejudice' and 'Sense and Sensibility'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Charles Dickens is best known for",
+  "options": [
+   "novels such as 'Oliver Twist' and 'Great Expectations'",
+   "winning Paralympic gold medals in swimming",
+   "winning rowing gold medals at five consecutive Olympic Games",
+   "leading the Norman invasion of 1066"
+  ],
+  "answer": 0,
+  "explanation": "Charles Dickens: novels such as 'Oliver Twist' and 'Great Expectations'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Sir Winston Churchill is best known for",
+  "options": [
+   "starting sporting events at Stoke Mandeville that grew into the Paralympics",
+   "leading the establishment of the NHS as Minister for Health",
+   "'Water Music' and the oratorio 'Messiah'",
+   "leading Britain as Prime Minister during the Second World War"
+  ],
+  "answer": 3,
+  "explanation": "Sir Winston Churchill: leading Britain as Prime Minister during the Second World War.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Clement Attlee is best known for",
+  "options": [
+   "being the first British man to win a singles Grand Slam tennis title since 1936",
+   "winning Olympic gold in the 5,000 and 10,000 metres",
+   "being Prime Minister from 1945 to 1951 when the welfare state was established",
+   "winning the Formula 1 world championship three times"
+  ],
+  "answer": 2,
+  "explanation": "Clement Attlee: being Prime Minister from 1945 to 1951 when the welfare state was established.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Aneurin (Nye) Bevan is best known for",
+  "options": [
+   "winning Olympic gold in the 5,000 and 10,000 metres",
+   "designing the Cenotaph in Whitehall and buildings in New Delhi",
+   "leading the establishment of the NHS as Minister for Health",
+   "winning Paralympic gold medals in swimming"
+  ],
+  "answer": 2,
+  "explanation": "Aneurin (Nye) Bevan: leading the establishment of the NHS as Minister for Health.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "William Beveridge is best known for",
+  "options": [
+   "novels such as 'Pride and Prejudice' and 'Sense and Sensibility'",
+   "the 1942 report that formed the basis of the modern welfare state",
+   "novels such as 'Oliver Twist' and 'Great Expectations'",
+   "winning Olympic gold for ice dancing in 1984"
+  ],
+  "answer": 1,
+  "explanation": "William Beveridge: the 1942 report that formed the basis of the modern welfare state.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "R. A. Butler is best known for",
+  "options": [
+   "his victory at Trafalgar, commemorated by a column in Trafalgar Square",
+   "inventing the cash machine (ATM) and the PIN number",
+   "defeating the English at the Battle of Bannockburn",
+   "the 1944 Education Act, which introduced free secondary education"
+  ],
+  "answer": 3,
+  "explanation": "R. A. Butler: the 1944 Education Act, which introduced free secondary education.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Emmeline Pankhurst is best known for",
+  "options": [
+   "founding modern nursing after her work in the Crimean War",
+   "leading the suffragette campaign for women's votes",
+   "being the first woman Prime Minister of the UK",
+   "Welsh poetry and the radio play 'Under Milk Wood'"
+  ],
+  "answer": 1,
+  "explanation": "Emmeline Pankhurst: leading the suffragette campaign for women's votes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Margaret Thatcher is best known for",
+  "options": [
+   "engineering the Great Western Railway, tunnels, bridges and ships",
+   "developing the jet engine",
+   "being the first Briton to win the Tour de France, in 2012",
+   "being the first woman Prime Minister of the UK"
+  ],
+  "answer": 3,
+  "explanation": "Margaret Thatcher: being the first woman Prime Minister of the UK.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Alan Turing is best known for",
+  "options": [
+   "developing the 'Turing machine', the basis of modern computers",
+   "'Treasure Island' and 'Dr Jekyll and Mr Hyde'",
+   "founding modern nursing after her work in the Crimean War",
+   "winning the Formula 1 world championship three times"
+  ],
+  "answer": 0,
+  "explanation": "Alan Turing: developing the 'Turing machine', the basis of modern computers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Sir Tim Berners-Lee is best known for",
+  "options": [
+   "large bronze abstract sculptures",
+   "uniting the Anglo-Saxon kingdoms to defeat the Vikings",
+   "designing the Cenotaph in Whitehall and buildings in New Delhi",
+   "inventing the World Wide Web"
+  ],
+  "answer": 3,
+  "explanation": "Sir Tim Berners-Lee: inventing the World Wide Web.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "John Logie Baird is best known for",
+  "options": [
+   "the suite 'The Planets'",
+   "Welsh poetry and the radio play 'Under Milk Wood'",
+   "'Treasure Island' and 'Dr Jekyll and Mr Hyde'",
+   "developing television in the 1920s"
+  ],
+  "answer": 3,
+  "explanation": "John Logie Baird: developing television in the 1920s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Sir Robert Watson-Watt is best known for",
+  "options": [
+   "developing radar",
+   "designing the new St Paul's Cathedral after the Great Fire",
+   "being organist at Westminster Abbey and writing church music and opera",
+   "designing the Cenotaph in Whitehall and buildings in New Delhi"
+  ],
+  "answer": 0,
+  "explanation": "Sir Robert Watson-Watt: developing radar.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Sir Frank Whittle is best known for",
+  "options": [
+   "the detective stories of Sherlock Holmes",
+   "poems about the First World War, such as 'Anthem for Doomed Youth'",
+   "developing the jet engine",
+   "inventing the World Wide Web"
+  ],
+  "answer": 2,
+  "explanation": "Sir Frank Whittle: developing the jet engine.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Sir Christopher Cockerell is best known for",
+  "options": [
+   "'The Jungle Book' and the poem 'If'",
+   "the suite 'The Planets'",
+   "inventing the hovercraft",
+   "becoming Lord Protector after the Civil War"
+  ],
+  "answer": 2,
+  "explanation": "Sir Christopher Cockerell: inventing the hovercraft.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "James Goodfellow is best known for",
+  "options": [
+   "being the first man to run a mile in under four minutes, in 1954",
+   "poems about the First World War, such as 'Anthem for Doomed Youth'",
+   "inventing the cash machine (ATM) and the PIN number",
+   "the 1944 Education Act, which introduced free secondary education"
+  ],
+  "answer": 2,
+  "explanation": "James Goodfellow: inventing the cash machine (ATM) and the PIN number.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Francis Crick is best known for",
+  "options": [
+   "portrait painting, often with landscapes in the background",
+   "novels such as 'Far from the Madding Crowd'",
+   "helping to discover the structure of the DNA molecule in 1953",
+   "being an important contributor to the 'pop art' movement of the 1960s"
+  ],
+  "answer": 2,
+  "explanation": "Francis Crick: helping to discover the structure of the DNA molecule in 1953.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Henry VIII is best known for",
+  "options": [
+   "breaking away from the Church of Rome and marrying six times",
+   "uniting the Anglo-Saxon kingdoms to defeat the Vikings",
+   "designing the Cenotaph in Whitehall and buildings in New Delhi",
+   "being the first woman Prime Minister of the UK"
+  ],
+  "answer": 0,
+  "explanation": "Henry VIII: breaking away from the Church of Rome and marrying six times.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Elizabeth I is best known for",
+  "options": [
+   "re-establishing the Church of England and defeating the Spanish Armada",
+   "being the first British man to win a singles Grand Slam tennis title since 1936",
+   "engineering the Great Western Railway, tunnels, bridges and ships",
+   "showing that white light is made up of the colours of the rainbow, and his work on gravity"
+  ],
+  "answer": 0,
+  "explanation": "Elizabeth I: re-establishing the Church of England and defeating the Spanish Armada.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "William the Conqueror is best known for",
+  "options": [
+   "becoming Lord Protector after the Civil War",
+   "leading the Norman invasion of 1066",
+   "developing radar",
+   "founding modern nursing after her work in the Crimean War"
+  ],
+  "answer": 1,
+  "explanation": "William the Conqueror: leading the Norman invasion of 1066.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Alfred the Great is best known for",
+  "options": [
+   "starting sporting events at Stoke Mandeville that grew into the Paralympics",
+   "developing the 'Turing machine', the basis of modern computers",
+   "uniting the Anglo-Saxon kingdoms to defeat the Vikings",
+   "designing the Cenotaph in Whitehall and buildings in New Delhi"
+  ],
+  "answer": 2,
+  "explanation": "Alfred the Great: uniting the Anglo-Saxon kingdoms to defeat the Vikings.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Robert the Bruce is best known for",
+  "options": [
+   "Welsh poetry and the radio play 'Under Milk Wood'",
+   "the 'Pomp and Circumstance Marches'",
+   "'The Canterbury Tales', a series of poems about pilgrims",
+   "defeating the English at the Battle of Bannockburn"
+  ],
+  "answer": 3,
+  "explanation": "Robert the Bruce: defeating the English at the Battle of Bannockburn.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Oliver Cromwell is best known for",
+  "options": [
+   "becoming Lord Protector after the Civil War",
+   "large bronze abstract sculptures",
+   "designing the Cenotaph in Whitehall and buildings in New Delhi",
+   "defeating Napoleon at Waterloo and later becoming Prime Minister"
+  ],
+  "answer": 0,
+  "explanation": "Oliver Cromwell: becoming Lord Protector after the Civil War.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Sir Robert Walpole is best known for",
+  "options": [
+   "developing radar",
+   "developing the 'Turing machine', the basis of modern computers",
+   "being the first Prime Minister, from 1721 to 1742",
+   "breaking away from the Church of Rome and marrying six times"
+  ],
+  "answer": 2,
+  "explanation": "Sir Robert Walpole: being the first Prime Minister, from 1721 to 1742.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Admiral Horatio Nelson is best known for",
+  "options": [
+   "novels such as 'Far from the Madding Crowd'",
+   "his victory at Trafalgar, commemorated by a column in Trafalgar Square",
+   "the 'Pomp and Circumstance Marches'",
+   "engineering the Great Western Railway, tunnels, bridges and ships"
+  ],
+  "answer": 1,
+  "explanation": "Admiral Horatio Nelson: his victory at Trafalgar, commemorated by a column in Trafalgar Square.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "the Duke of Wellington is best known for",
+  "options": [
+   "large bronze abstract sculptures",
+   "portrait painting, often with landscapes in the background",
+   "defeating Napoleon at Waterloo and later becoming Prime Minister",
+   "'Treasure Island' and 'Dr Jekyll and Mr Hyde'"
+  ],
+  "answer": 2,
+  "explanation": "the Duke of Wellington: defeating Napoleon at Waterloo and later becoming Prime Minister.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Captain James Cook is best known for",
+  "options": [
+   "mapping the coast of Australia",
+   "becoming Lord Protector after the Civil War",
+   "leading the 1745 Jacobite rebellion that ended at Culloden",
+   "the 1942 report that formed the basis of the modern welfare state"
+  ],
+  "answer": 0,
+  "explanation": "Captain James Cook: mapping the coast of Australia.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Bonnie Prince Charlie is best known for",
+  "options": [
+   "leading the 1745 Jacobite rebellion that ended at Culloden",
+   "winning Paralympic gold medals in swimming",
+   "being the first Prime Minister, from 1721 to 1742",
+   "musicals such as 'Jesus Christ Superstar' and 'The Phantom of the Opera'"
+  ],
+  "answer": 0,
+  "explanation": "Bonnie Prince Charlie: leading the 1745 Jacobite rebellion that ended at Culloden.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Sir Christopher Wren is best known for",
+  "options": [
+   "winning rowing gold medals at five consecutive Olympic Games",
+   "being Prime Minister from 1945 to 1951 when the welfare state was established",
+   "designing the new St Paul's Cathedral after the Great Fire",
+   "developing the jet engine"
+  ],
+  "answer": 2,
+  "explanation": "Sir Christopher Wren: designing the new St Paul's Cathedral after the Great Fire.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Sir Edwin Lutyens is best known for",
+  "options": [
+   "portrait painting, often with landscapes in the background",
+   "leading the establishment of the NHS as Minister for Health",
+   "designing the Cenotaph in Whitehall and buildings in New Delhi",
+   "designing the new St Paul's Cathedral after the Great Fire"
+  ],
+  "answer": 2,
+  "explanation": "Sir Edwin Lutyens: designing the Cenotaph in Whitehall and buildings in New Delhi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Thomas Gainsborough is best known for",
+  "options": [
+   "Welsh poetry and the radio play 'Under Milk Wood'",
+   "designing the new St Paul's Cathedral after the Great Fire",
+   "portrait painting, often with landscapes in the background",
+   "Scottish poetry, including 'Auld Lang Syne'"
+  ],
+  "answer": 2,
+  "explanation": "Thomas Gainsborough: portrait painting, often with landscapes in the background.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "John Constable is best known for",
+  "options": [
+   "landscape paintings of Dedham Vale on the Suffolk–Essex border",
+   "founding modern nursing after her work in the Crimean War",
+   "leading the establishment of the NHS as Minister for Health",
+   "winning Paralympic gold medals in swimming"
+  ],
+  "answer": 0,
+  "explanation": "John Constable: landscape paintings of Dedham Vale on the Suffolk–Essex border.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "J. M. W. Turner is best known for",
+  "options": [
+   "winning Olympic gold for ice dancing in 1984",
+   "landscape painting; a major modern art prize is named after him",
+   "defeating the English at the Battle of Bannockburn",
+   "being the first Briton to win the Tour de France, in 2012"
+  ],
+  "answer": 1,
+  "explanation": "J. M. W. Turner: landscape painting; a major modern art prize is named after him.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Henry Moore is best known for",
+  "options": [
+   "novels such as 'Pride and Prejudice' and 'Sense and Sensibility'",
+   "uniting the Anglo-Saxon kingdoms to defeat the Vikings",
+   "large bronze abstract sculptures",
+   "Scottish poetry, including 'Auld Lang Syne'"
+  ],
+  "answer": 2,
+  "explanation": "Henry Moore: large bronze abstract sculptures.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "David Hockney is best known for",
+  "options": [
+   "designing the new St Paul's Cathedral after the Great Fire",
+   "being an important contributor to the 'pop art' movement of the 1960s",
+   "defeating the English at the Battle of Bannockburn",
+   "landscape painting; a major modern art prize is named after him"
+  ],
+  "answer": 1,
+  "explanation": "David Hockney: being an important contributor to the 'pop art' movement of the 1960s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "George Frederick Handel is best known for",
+  "options": [
+   "landscape paintings of Dedham Vale on the Suffolk–Essex border",
+   "'Water Music' and the oratorio 'Messiah'",
+   "being the first British man to win a singles Grand Slam tennis title since 1936",
+   "being an important contributor to the 'pop art' movement of the 1960s"
+  ],
+  "answer": 1,
+  "explanation": "George Frederick Handel: 'Water Music' and the oratorio 'Messiah'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Sir Edward Elgar is best known for",
+  "options": [
+   "portrait painting, often with landscapes in the background",
+   "'Water Music' and the oratorio 'Messiah'",
+   "the 'Pomp and Circumstance Marches'",
+   "winning the Formula 1 world championship three times"
+  ],
+  "answer": 2,
+  "explanation": "Sir Edward Elgar: the 'Pomp and Circumstance Marches'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Gustav Holst is best known for",
+  "options": [
+   "the suite 'The Planets'",
+   "poetry inspired by nature and the Lake District",
+   "being the first woman Prime Minister of the UK",
+   "inventing the hovercraft"
+  ],
+  "answer": 0,
+  "explanation": "Gustav Holst: the suite 'The Planets'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Benjamin Britten is best known for",
+  "options": [
+   "operas such as 'Peter Grimes' and 'Billy Budd'",
+   "leading the Norman invasion of 1066",
+   "inventing the cash machine (ATM) and the PIN number",
+   "'The Canterbury Tales', a series of poems about pilgrims"
+  ],
+  "answer": 0,
+  "explanation": "Benjamin Britten: operas such as 'Peter Grimes' and 'Billy Budd'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Henry Purcell is best known for",
+  "options": [
+   "defeating Napoleon at Waterloo and later becoming Prime Minister",
+   "being organist at Westminster Abbey and writing church music and opera",
+   "inventing the hovercraft",
+   "discovering penicillin in 1928"
+  ],
+  "answer": 1,
+  "explanation": "Henry Purcell: being organist at Westminster Abbey and writing church music and opera.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Sir Andrew Lloyd Webber is best known for",
+  "options": [
+   "developing the 'Turing machine', the basis of modern computers",
+   "musicals such as 'Jesus Christ Superstar' and 'The Phantom of the Opera'",
+   "designing the Cenotaph in Whitehall and buildings in New Delhi",
+   "winning Paralympic gold medals in swimming"
+  ],
+  "answer": 1,
+  "explanation": "Sir Andrew Lloyd Webber: musicals such as 'Jesus Christ Superstar' and 'The Phantom of the Opera'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Sir Arthur Conan Doyle is best known for",
+  "options": [
+   "winning rowing gold medals at five consecutive Olympic Games",
+   "helping to discover the structure of the DNA molecule in 1953",
+   "being the first British man to win a singles Grand Slam tennis title since 1936",
+   "the detective stories of Sherlock Holmes"
+  ],
+  "answer": 3,
+  "explanation": "Sir Arthur Conan Doyle: the detective stories of Sherlock Holmes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Thomas Hardy is best known for",
+  "options": [
+   "leading the suffragette campaign for women's votes",
+   "developing radar",
+   "landscape paintings of Dedham Vale on the Suffolk–Essex border",
+   "novels such as 'Far from the Madding Crowd'"
+  ],
+  "answer": 3,
+  "explanation": "Thomas Hardy: novels such as 'Far from the Madding Crowd'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Robert Louis Stevenson is best known for",
+  "options": [
+   "uniting the Anglo-Saxon kingdoms to defeat the Vikings",
+   "'Treasure Island' and 'Dr Jekyll and Mr Hyde'",
+   "large bronze abstract sculptures",
+   "Welsh poetry and the radio play 'Under Milk Wood'"
+  ],
+  "answer": 1,
+  "explanation": "Robert Louis Stevenson: 'Treasure Island' and 'Dr Jekyll and Mr Hyde'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Rudyard Kipling is best known for",
+  "options": [
+   "designing natural-looking landscape gardens around country houses",
+   "leading the 1745 Jacobite rebellion that ended at Culloden",
+   "helping to discover the structure of the DNA molecule in 1953",
+   "'The Jungle Book' and the poem 'If'"
+  ],
+  "answer": 3,
+  "explanation": "Rudyard Kipling: 'The Jungle Book' and the poem 'If'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "William Wordsworth is best known for",
+  "options": [
+   "novels such as 'Pride and Prejudice' and 'Sense and Sensibility'",
+   "winning rowing gold medals at five consecutive Olympic Games",
+   "poetry inspired by nature and the Lake District",
+   "winning the Formula 1 world championship three times"
+  ],
+  "answer": 2,
+  "explanation": "William Wordsworth: poetry inspired by nature and the Lake District.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Wilfred Owen is best known for",
+  "options": [
+   "leading the 1745 Jacobite rebellion that ended at Culloden",
+   "the 'Pomp and Circumstance Marches'",
+   "poems about the First World War, such as 'Anthem for Doomed Youth'",
+   "winning the Formula 1 world championship three times"
+  ],
+  "answer": 2,
+  "explanation": "Wilfred Owen: poems about the First World War, such as 'Anthem for Doomed Youth'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Dylan Thomas is best known for",
+  "options": [
+   "showing that white light is made up of the colours of the rainbow, and his work on gravity",
+   "discovering penicillin in 1928",
+   "Welsh poetry and the radio play 'Under Milk Wood'",
+   "inventing the World Wide Web"
+  ],
+  "answer": 2,
+  "explanation": "Dylan Thomas: Welsh poetry and the radio play 'Under Milk Wood'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Sir Roger Bannister is best known for",
+  "options": [
+   "landscape painting; a major modern art prize is named after him",
+   "his victory at Trafalgar, commemorated by a column in Trafalgar Square",
+   "being the first man to run a mile in under four minutes, in 1954",
+   "re-establishing the Church of England and defeating the Spanish Armada"
+  ],
+  "answer": 2,
+  "explanation": "Sir Roger Bannister: being the first man to run a mile in under four minutes, in 1954.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Sir Steve Redgrave is best known for",
+  "options": [
+   "founding modern nursing after her work in the Crimean War",
+   "being the first Prime Minister, from 1721 to 1742",
+   "winning rowing gold medals at five consecutive Olympic Games",
+   "being the first man to run a mile in under four minutes, in 1954"
+  ],
+  "answer": 2,
+  "explanation": "Sir Steve Redgrave: winning rowing gold medals at five consecutive Olympic Games.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Bobby Moore is best known for",
+  "options": [
+   "uniting the Anglo-Saxon kingdoms to defeat the Vikings",
+   "captaining the England team that won the 1966 football World Cup",
+   "defeating the English at the Battle of Bannockburn",
+   "operas such as 'Peter Grimes' and 'Billy Budd'"
+  ],
+  "answer": 1,
+  "explanation": "Bobby Moore: captaining the England team that won the 1966 football World Cup.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Sir Jackie Stewart is best known for",
+  "options": [
+   "winning the Formula 1 world championship three times",
+   "operas such as 'Peter Grimes' and 'Billy Budd'",
+   "helping to discover the structure of the DNA molecule in 1953",
+   "developing the 'Turing machine', the basis of modern computers"
+  ],
+  "answer": 0,
+  "explanation": "Sir Jackie Stewart: winning the Formula 1 world championship three times.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Jayne Torvill and Christopher Dean is best known for",
+  "options": [
+   "winning Olympic gold for ice dancing in 1984",
+   "designing natural-looking landscape gardens around country houses",
+   "founding modern nursing after her work in the Crimean War",
+   "defeating Napoleon at Waterloo and later becoming Prime Minister"
+  ],
+  "answer": 0,
+  "explanation": "Jayne Torvill and Christopher Dean: winning Olympic gold for ice dancing in 1984.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Andy Murray is best known for",
+  "options": [
+   "being the first British man to win a singles Grand Slam tennis title since 1936",
+   "designing natural-looking landscape gardens around country houses",
+   "developing radar",
+   "the 1942 report that formed the basis of the modern welfare state"
+  ],
+  "answer": 0,
+  "explanation": "Andy Murray: being the first British man to win a singles Grand Slam tennis title since 1936.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Sir Mo Farah is best known for",
+  "options": [
+   "winning Olympic gold in the 5,000 and 10,000 metres",
+   "being the first man to run a mile in under four minutes, in 1954",
+   "being an important contributor to the 'pop art' movement of the 1960s",
+   "novels such as 'Far from the Madding Crowd'"
+  ],
+  "answer": 0,
+  "explanation": "Sir Mo Farah: winning Olympic gold in the 5,000 and 10,000 metres.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Sir Bradley Wiggins is best known for",
+  "options": [
+   "his victory at Trafalgar, commemorated by a column in Trafalgar Square",
+   "discovering penicillin in 1928",
+   "being the first Briton to win the Tour de France, in 2012",
+   "developing television in the 1920s"
+  ],
+  "answer": 2,
+  "explanation": "Sir Bradley Wiggins: being the first Briton to win the Tour de France, in 2012.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Dame Ellie Simmonds is best known for",
+  "options": [
+   "operas such as 'Peter Grimes' and 'Billy Budd'",
+   "winning Paralympic gold medals in swimming",
+   "the 1942 report that formed the basis of the modern welfare state",
+   "inventing the hovercraft"
+  ],
+  "answer": 1,
+  "explanation": "Dame Ellie Simmonds: winning Paralympic gold medals in swimming.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Capability Brown is best known for",
+  "options": [
+   "landscape paintings of Dedham Vale on the Suffolk–Essex border",
+   "designing natural-looking landscape gardens around country houses",
+   "his victory at Trafalgar, commemorated by a column in Trafalgar Square",
+   "uniting the Anglo-Saxon kingdoms to defeat the Vikings"
+  ],
+  "answer": 1,
+  "explanation": "Capability Brown: designing natural-looking landscape gardens around country houses.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Sir Ludwig Guttmann is best known for",
+  "options": [
+   "starting sporting events at Stoke Mandeville that grew into the Paralympics",
+   "the 1942 report that formed the basis of the modern welfare state",
+   "showing that white light is made up of the colours of the rainbow, and his work on gravity",
+   "developing an efficient carding machine and pioneering factory production"
+  ],
+  "answer": 0,
+  "explanation": "Sir Ludwig Guttmann: starting sporting events at Stoke Mandeville that grew into the Paralympics.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for showing that white light is made up of the colours of the rainbow, and his work on gravity?",
+  "options": [
+   "Sir Frank Whittle",
+   "Sir Christopher Cockerell",
+   "Alan Turing",
+   "Sir Isaac Newton"
+  ],
+  "answer": 3,
+  "explanation": "Sir Isaac Newton: showing that white light is made up of the colours of the rainbow, and his work on gravity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for the theory of evolution set out in 'On the Origin of Species'?",
+  "options": [
+   "Charles Darwin",
+   "R. A. Butler",
+   "Sir Robert Walpole",
+   "Robert Louis Stevenson"
+  ],
+  "answer": 0,
+  "explanation": "Charles Darwin: the theory of evolution set out in 'On the Origin of Species'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for discovering penicillin in 1928?",
+  "options": [
+   "David Hockney",
+   "Sir Alexander Fleming",
+   "Charles Darwin",
+   "Rudyard Kipling"
+  ],
+  "answer": 1,
+  "explanation": "Sir Alexander Fleming: discovering penicillin in 1928.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for founding modern nursing after her work in the Crimean War?",
+  "options": [
+   "Henry Purcell",
+   "William Shakespeare",
+   "John Logie Baird",
+   "Florence Nightingale"
+  ],
+  "answer": 3,
+  "explanation": "Florence Nightingale: founding modern nursing after her work in the Crimean War.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for engineering the Great Western Railway, tunnels, bridges and ships?",
+  "options": [
+   "Elizabeth I",
+   "J. M. W. Turner",
+   "Isambard Kingdom Brunel",
+   "Sir Edward Elgar"
+  ],
+  "answer": 2,
+  "explanation": "Isambard Kingdom Brunel: engineering the Great Western Railway, tunnels, bridges and ships.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for developing an efficient carding machine and pioneering factory production?",
+  "options": [
+   "Richard Arkwright",
+   "Robert Burns",
+   "William Wordsworth",
+   "Henry Moore"
+  ],
+  "answer": 0,
+  "explanation": "Richard Arkwright: developing an efficient carding machine and pioneering factory production.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for Scottish poetry, including 'Auld Lang Syne'?",
+  "options": [
+   "Sir Bradley Wiggins",
+   "Henry Purcell",
+   "Admiral Horatio Nelson",
+   "Robert Burns"
+  ],
+  "answer": 3,
+  "explanation": "Robert Burns: Scottish poetry, including 'Auld Lang Syne'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for plays such as 'Romeo and Juliet' and 'Hamlet'?",
+  "options": [
+   "Aneurin (Nye) Bevan",
+   "Robert Louis Stevenson",
+   "Sir Andrew Lloyd Webber",
+   "William Shakespeare"
+  ],
+  "answer": 3,
+  "explanation": "William Shakespeare: plays such as 'Romeo and Juliet' and 'Hamlet'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for 'The Canterbury Tales', a series of poems about pilgrims?",
+  "options": [
+   "Sir Alexander Fleming",
+   "Sir Christopher Wren",
+   "Charles Darwin",
+   "Geoffrey Chaucer"
+  ],
+  "answer": 3,
+  "explanation": "Geoffrey Chaucer: 'The Canterbury Tales', a series of poems about pilgrims.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for novels such as 'Pride and Prejudice' and 'Sense and Sensibility'?",
+  "options": [
+   "Alan Turing",
+   "Thomas Hardy",
+   "Capability Brown",
+   "Jane Austen"
+  ],
+  "answer": 3,
+  "explanation": "Jane Austen: novels such as 'Pride and Prejudice' and 'Sense and Sensibility'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for novels such as 'Oliver Twist' and 'Great Expectations'?",
+  "options": [
+   "Rudyard Kipling",
+   "Charles Dickens",
+   "Sir Steve Redgrave",
+   "R. A. Butler"
+  ],
+  "answer": 1,
+  "explanation": "Charles Dickens: novels such as 'Oliver Twist' and 'Great Expectations'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for leading Britain as Prime Minister during the Second World War?",
+  "options": [
+   "William Wordsworth",
+   "Sir Edward Elgar",
+   "Sir Winston Churchill",
+   "Sir Steve Redgrave"
+  ],
+  "answer": 2,
+  "explanation": "Sir Winston Churchill: leading Britain as Prime Minister during the Second World War.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for being Prime Minister from 1945 to 1951 when the welfare state was established?",
+  "options": [
+   "Sir Alexander Fleming",
+   "Clement Attlee",
+   "Henry Purcell",
+   "Sir Robert Walpole"
+  ],
+  "answer": 1,
+  "explanation": "Clement Attlee: being Prime Minister from 1945 to 1951 when the welfare state was established.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for leading the establishment of the NHS as Minister for Health?",
+  "options": [
+   "Henry Purcell",
+   "Richard Arkwright",
+   "Geoffrey Chaucer",
+   "Aneurin (Nye) Bevan"
+  ],
+  "answer": 3,
+  "explanation": "Aneurin (Nye) Bevan: leading the establishment of the NHS as Minister for Health.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for the 1942 report that formed the basis of the modern welfare state?",
+  "options": [
+   "Sir Ludwig Guttmann",
+   "John Constable",
+   "Sir Edwin Lutyens",
+   "William Beveridge"
+  ],
+  "answer": 3,
+  "explanation": "William Beveridge: the 1942 report that formed the basis of the modern welfare state.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for the 1944 Education Act, which introduced free secondary education?",
+  "options": [
+   "Bobby Moore",
+   "Jayne Torvill and Christopher Dean",
+   "R. A. Butler",
+   "Sir Tim Berners-Lee"
+  ],
+  "answer": 2,
+  "explanation": "R. A. Butler: the 1944 Education Act, which introduced free secondary education.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for leading the suffragette campaign for women's votes?",
+  "options": [
+   "Sir Ludwig Guttmann",
+   "Emmeline Pankhurst",
+   "Jane Austen",
+   "Sir Robert Walpole"
+  ],
+  "answer": 1,
+  "explanation": "Emmeline Pankhurst: leading the suffragette campaign for women's votes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for being the first woman Prime Minister of the UK?",
+  "options": [
+   "Sir Arthur Conan Doyle",
+   "Robert Louis Stevenson",
+   "Margaret Thatcher",
+   "Sir Frank Whittle"
+  ],
+  "answer": 2,
+  "explanation": "Margaret Thatcher: being the first woman Prime Minister of the UK.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for developing the 'Turing machine', the basis of modern computers?",
+  "options": [
+   "Alan Turing",
+   "Sir Winston Churchill",
+   "Jayne Torvill and Christopher Dean",
+   "Captain James Cook"
+  ],
+  "answer": 0,
+  "explanation": "Alan Turing: developing the 'Turing machine', the basis of modern computers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for inventing the World Wide Web?",
+  "options": [
+   "Sir Frank Whittle",
+   "William the Conqueror",
+   "Sir Mo Farah",
+   "Sir Tim Berners-Lee"
+  ],
+  "answer": 3,
+  "explanation": "Sir Tim Berners-Lee: inventing the World Wide Web.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for developing television in the 1920s?",
+  "options": [
+   "John Logie Baird",
+   "Jayne Torvill and Christopher Dean",
+   "Oliver Cromwell",
+   "William Shakespeare"
+  ],
+  "answer": 0,
+  "explanation": "John Logie Baird: developing television in the 1920s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for developing radar?",
+  "options": [
+   "William Shakespeare",
+   "Sir Robert Watson-Watt",
+   "Sir Jackie Stewart",
+   "Sir Mo Farah"
+  ],
+  "answer": 1,
+  "explanation": "Sir Robert Watson-Watt: developing radar.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for developing the jet engine?",
+  "options": [
+   "Francis Crick",
+   "Sir Frank Whittle",
+   "William Wordsworth",
+   "Rudyard Kipling"
+  ],
+  "answer": 1,
+  "explanation": "Sir Frank Whittle: developing the jet engine.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for inventing the hovercraft?",
+  "options": [
+   "Sir Edward Elgar",
+   "John Constable",
+   "Sir Christopher Cockerell",
+   "George Frederick Handel"
+  ],
+  "answer": 2,
+  "explanation": "Sir Christopher Cockerell: inventing the hovercraft.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for inventing the cash machine (ATM) and the PIN number?",
+  "options": [
+   "Sir Edwin Lutyens",
+   "the Duke of Wellington",
+   "James Goodfellow",
+   "Henry Moore"
+  ],
+  "answer": 2,
+  "explanation": "James Goodfellow: inventing the cash machine (ATM) and the PIN number.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for helping to discover the structure of the DNA molecule in 1953?",
+  "options": [
+   "Sir Christopher Wren",
+   "John Constable",
+   "Sir Edwin Lutyens",
+   "Francis Crick"
+  ],
+  "answer": 3,
+  "explanation": "Francis Crick: helping to discover the structure of the DNA molecule in 1953.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for breaking away from the Church of Rome and marrying six times?",
+  "options": [
+   "Sir Arthur Conan Doyle",
+   "John Logie Baird",
+   "Alfred the Great",
+   "Henry VIII"
+  ],
+  "answer": 3,
+  "explanation": "Henry VIII: breaking away from the Church of Rome and marrying six times.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for re-establishing the Church of England and defeating the Spanish Armada?",
+  "options": [
+   "Benjamin Britten",
+   "Elizabeth I",
+   "Charles Dickens",
+   "Geoffrey Chaucer"
+  ],
+  "answer": 1,
+  "explanation": "Elizabeth I: re-establishing the Church of England and defeating the Spanish Armada.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for leading the Norman invasion of 1066?",
+  "options": [
+   "John Logie Baird",
+   "Sir Christopher Cockerell",
+   "William the Conqueror",
+   "Elizabeth I"
+  ],
+  "answer": 2,
+  "explanation": "William the Conqueror: leading the Norman invasion of 1066.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for uniting the Anglo-Saxon kingdoms to defeat the Vikings?",
+  "options": [
+   "Aneurin (Nye) Bevan",
+   "Sir Edwin Lutyens",
+   "Alfred the Great",
+   "the Duke of Wellington"
+  ],
+  "answer": 2,
+  "explanation": "Alfred the Great: uniting the Anglo-Saxon kingdoms to defeat the Vikings.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for defeating the English at the Battle of Bannockburn?",
+  "options": [
+   "Thomas Gainsborough",
+   "Robert the Bruce",
+   "Henry Moore",
+   "Thomas Hardy"
+  ],
+  "answer": 1,
+  "explanation": "Robert the Bruce: defeating the English at the Battle of Bannockburn.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for becoming Lord Protector after the Civil War?",
+  "options": [
+   "Oliver Cromwell",
+   "James Goodfellow",
+   "Sir Robert Walpole",
+   "Alan Turing"
+  ],
+  "answer": 0,
+  "explanation": "Oliver Cromwell: becoming Lord Protector after the Civil War.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for being the first Prime Minister, from 1721 to 1742?",
+  "options": [
+   "Capability Brown",
+   "Sir Robert Walpole",
+   "Henry Purcell",
+   "Wilfred Owen"
+  ],
+  "answer": 1,
+  "explanation": "Sir Robert Walpole: being the first Prime Minister, from 1721 to 1742.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for his victory at Trafalgar, commemorated by a column in Trafalgar Square?",
+  "options": [
+   "Alan Turing",
+   "David Hockney",
+   "Admiral Horatio Nelson",
+   "William the Conqueror"
+  ],
+  "answer": 2,
+  "explanation": "Admiral Horatio Nelson: his victory at Trafalgar, commemorated by a column in Trafalgar Square.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for defeating Napoleon at Waterloo and later becoming Prime Minister?",
+  "options": [
+   "the Duke of Wellington",
+   "J. M. W. Turner",
+   "Sir Ludwig Guttmann",
+   "Henry VIII"
+  ],
+  "answer": 0,
+  "explanation": "the Duke of Wellington: defeating Napoleon at Waterloo and later becoming Prime Minister.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for mapping the coast of Australia?",
+  "options": [
+   "Andy Murray",
+   "William Wordsworth",
+   "Sir Christopher Wren",
+   "Captain James Cook"
+  ],
+  "answer": 3,
+  "explanation": "Captain James Cook: mapping the coast of Australia.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for leading the 1745 Jacobite rebellion that ended at Culloden?",
+  "options": [
+   "John Logie Baird",
+   "Bonnie Prince Charlie",
+   "Sir Roger Bannister",
+   "James Goodfellow"
+  ],
+  "answer": 1,
+  "explanation": "Bonnie Prince Charlie: leading the 1745 Jacobite rebellion that ended at Culloden.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for designing the new St Paul's Cathedral after the Great Fire?",
+  "options": [
+   "William Beveridge",
+   "Jane Austen",
+   "Henry Purcell",
+   "Sir Christopher Wren"
+  ],
+  "answer": 3,
+  "explanation": "Sir Christopher Wren: designing the new St Paul's Cathedral after the Great Fire.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for designing the Cenotaph in Whitehall and buildings in New Delhi?",
+  "options": [
+   "Sir Andrew Lloyd Webber",
+   "Alfred the Great",
+   "Alan Turing",
+   "Sir Edwin Lutyens"
+  ],
+  "answer": 3,
+  "explanation": "Sir Edwin Lutyens: designing the Cenotaph in Whitehall and buildings in New Delhi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for portrait painting, often with landscapes in the background?",
+  "options": [
+   "Thomas Gainsborough",
+   "Oliver Cromwell",
+   "Alfred the Great",
+   "Henry Purcell"
+  ],
+  "answer": 0,
+  "explanation": "Thomas Gainsborough: portrait painting, often with landscapes in the background.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for landscape paintings of Dedham Vale on the Suffolk–Essex border?",
+  "options": [
+   "Sir Isaac Newton",
+   "George Frederick Handel",
+   "Thomas Hardy",
+   "John Constable"
+  ],
+  "answer": 3,
+  "explanation": "John Constable: landscape paintings of Dedham Vale on the Suffolk–Essex border.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for landscape painting; a major modern art prize is named after him?",
+  "options": [
+   "Admiral Horatio Nelson",
+   "Sir Arthur Conan Doyle",
+   "J. M. W. Turner",
+   "John Constable"
+  ],
+  "answer": 2,
+  "explanation": "J. M. W. Turner: landscape painting; a major modern art prize is named after him.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for large bronze abstract sculptures?",
+  "options": [
+   "Henry Moore",
+   "Henry Purcell",
+   "Sir Steve Redgrave",
+   "William the Conqueror"
+  ],
+  "answer": 0,
+  "explanation": "Henry Moore: large bronze abstract sculptures.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for being an important contributor to the 'pop art' movement of the 1960s?",
+  "options": [
+   "Isambard Kingdom Brunel",
+   "J. M. W. Turner",
+   "Captain James Cook",
+   "David Hockney"
+  ],
+  "answer": 3,
+  "explanation": "David Hockney: being an important contributor to the 'pop art' movement of the 1960s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for 'Water Music' and the oratorio 'Messiah'?",
+  "options": [
+   "Rudyard Kipling",
+   "Thomas Gainsborough",
+   "George Frederick Handel",
+   "Benjamin Britten"
+  ],
+  "answer": 2,
+  "explanation": "George Frederick Handel: 'Water Music' and the oratorio 'Messiah'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for the 'Pomp and Circumstance Marches'?",
+  "options": [
+   "Admiral Horatio Nelson",
+   "Sir Tim Berners-Lee",
+   "Isambard Kingdom Brunel",
+   "Sir Edward Elgar"
+  ],
+  "answer": 3,
+  "explanation": "Sir Edward Elgar: the 'Pomp and Circumstance Marches'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for the suite 'The Planets'?",
+  "options": [
+   "Gustav Holst",
+   "Aneurin (Nye) Bevan",
+   "Sir Edwin Lutyens",
+   "Bobby Moore"
+  ],
+  "answer": 0,
+  "explanation": "Gustav Holst: the suite 'The Planets'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for operas such as 'Peter Grimes' and 'Billy Budd'?",
+  "options": [
+   "Sir Alexander Fleming",
+   "Benjamin Britten",
+   "James Goodfellow",
+   "Henry Moore"
+  ],
+  "answer": 1,
+  "explanation": "Benjamin Britten: operas such as 'Peter Grimes' and 'Billy Budd'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for being organist at Westminster Abbey and writing church music and opera?",
+  "options": [
+   "Henry Purcell",
+   "Wilfred Owen",
+   "Henry Moore",
+   "Emmeline Pankhurst"
+  ],
+  "answer": 0,
+  "explanation": "Henry Purcell: being organist at Westminster Abbey and writing church music and opera.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for musicals such as 'Jesus Christ Superstar' and 'The Phantom of the Opera'?",
+  "options": [
+   "Captain James Cook",
+   "Sir Roger Bannister",
+   "Florence Nightingale",
+   "Sir Andrew Lloyd Webber"
+  ],
+  "answer": 3,
+  "explanation": "Sir Andrew Lloyd Webber: musicals such as 'Jesus Christ Superstar' and 'The Phantom of the Opera'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for the detective stories of Sherlock Holmes?",
+  "options": [
+   "John Logie Baird",
+   "David Hockney",
+   "Sir Arthur Conan Doyle",
+   "Sir Mo Farah"
+  ],
+  "answer": 2,
+  "explanation": "Sir Arthur Conan Doyle: the detective stories of Sherlock Holmes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for novels such as 'Far from the Madding Crowd'?",
+  "options": [
+   "Sir Edward Elgar",
+   "George Frederick Handel",
+   "Thomas Hardy",
+   "Captain James Cook"
+  ],
+  "answer": 2,
+  "explanation": "Thomas Hardy: novels such as 'Far from the Madding Crowd'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for 'Treasure Island' and 'Dr Jekyll and Mr Hyde'?",
+  "options": [
+   "Wilfred Owen",
+   "Sir Alexander Fleming",
+   "Robert Louis Stevenson",
+   "Sir Andrew Lloyd Webber"
+  ],
+  "answer": 2,
+  "explanation": "Robert Louis Stevenson: 'Treasure Island' and 'Dr Jekyll and Mr Hyde'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for 'The Jungle Book' and the poem 'If'?",
+  "options": [
+   "Emmeline Pankhurst",
+   "Sir Andrew Lloyd Webber",
+   "Sir Christopher Wren",
+   "Rudyard Kipling"
+  ],
+  "answer": 3,
+  "explanation": "Rudyard Kipling: 'The Jungle Book' and the poem 'If'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for poetry inspired by nature and the Lake District?",
+  "options": [
+   "William Wordsworth",
+   "Dame Ellie Simmonds",
+   "Jane Austen",
+   "Sir Christopher Cockerell"
+  ],
+  "answer": 0,
+  "explanation": "William Wordsworth: poetry inspired by nature and the Lake District.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for poems about the First World War, such as 'Anthem for Doomed Youth'?",
+  "options": [
+   "William Beveridge",
+   "Wilfred Owen",
+   "Captain James Cook",
+   "Sir Arthur Conan Doyle"
+  ],
+  "answer": 1,
+  "explanation": "Wilfred Owen: poems about the First World War, such as 'Anthem for Doomed Youth'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for Welsh poetry and the radio play 'Under Milk Wood'?",
+  "options": [
+   "Robert Burns",
+   "Wilfred Owen",
+   "Sir Frank Whittle",
+   "Dylan Thomas"
+  ],
+  "answer": 3,
+  "explanation": "Dylan Thomas: Welsh poetry and the radio play 'Under Milk Wood'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for being the first man to run a mile in under four minutes, in 1954?",
+  "options": [
+   "Sir Roger Bannister",
+   "R. A. Butler",
+   "Sir Edward Elgar",
+   "Alfred the Great"
+  ],
+  "answer": 0,
+  "explanation": "Sir Roger Bannister: being the first man to run a mile in under four minutes, in 1954.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for winning rowing gold medals at five consecutive Olympic Games?",
+  "options": [
+   "Sir Steve Redgrave",
+   "Sir Roger Bannister",
+   "Sir Robert Walpole",
+   "David Hockney"
+  ],
+  "answer": 0,
+  "explanation": "Sir Steve Redgrave: winning rowing gold medals at five consecutive Olympic Games.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for captaining the England team that won the 1966 football World Cup?",
+  "options": [
+   "Francis Crick",
+   "Bobby Moore",
+   "Dylan Thomas",
+   "Benjamin Britten"
+  ],
+  "answer": 1,
+  "explanation": "Bobby Moore: captaining the England team that won the 1966 football World Cup.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for winning the Formula 1 world championship three times?",
+  "options": [
+   "Sir Roger Bannister",
+   "William Shakespeare",
+   "Capability Brown",
+   "Sir Jackie Stewart"
+  ],
+  "answer": 3,
+  "explanation": "Sir Jackie Stewart: winning the Formula 1 world championship three times.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for winning Olympic gold for ice dancing in 1984?",
+  "options": [
+   "Sir Andrew Lloyd Webber",
+   "Alfred the Great",
+   "John Logie Baird",
+   "Jayne Torvill and Christopher Dean"
+  ],
+  "answer": 3,
+  "explanation": "Jayne Torvill and Christopher Dean: winning Olympic gold for ice dancing in 1984.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for being the first British man to win a singles Grand Slam tennis title since 1936?",
+  "options": [
+   "Andy Murray",
+   "the Duke of Wellington",
+   "Rudyard Kipling",
+   "Bobby Moore"
+  ],
+  "answer": 0,
+  "explanation": "Andy Murray: being the first British man to win a singles Grand Slam tennis title since 1936.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for winning Olympic gold in the 5,000 and 10,000 metres?",
+  "options": [
+   "Sir Robert Watson-Watt",
+   "Geoffrey Chaucer",
+   "Sir Frank Whittle",
+   "Sir Mo Farah"
+  ],
+  "answer": 3,
+  "explanation": "Sir Mo Farah: winning Olympic gold in the 5,000 and 10,000 metres.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for being the first Briton to win the Tour de France, in 2012?",
+  "options": [
+   "Sir Bradley Wiggins",
+   "Sir Ludwig Guttmann",
+   "J. M. W. Turner",
+   "Robert Louis Stevenson"
+  ],
+  "answer": 0,
+  "explanation": "Sir Bradley Wiggins: being the first Briton to win the Tour de France, in 2012.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for winning Paralympic gold medals in swimming?",
+  "options": [
+   "Sir Edwin Lutyens",
+   "Dame Ellie Simmonds",
+   "Sir Arthur Conan Doyle",
+   "Sir Robert Walpole"
+  ],
+  "answer": 1,
+  "explanation": "Dame Ellie Simmonds: winning Paralympic gold medals in swimming.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for designing natural-looking landscape gardens around country houses?",
+  "options": [
+   "Emmeline Pankhurst",
+   "Clement Attlee",
+   "Sir Alexander Fleming",
+   "Capability Brown"
+  ],
+  "answer": 3,
+  "explanation": "Capability Brown: designing natural-looking landscape gardens around country houses.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "Famous people",
+  "body": "Who is known for starting sporting events at Stoke Mandeville that grew into the Paralympics?",
+  "options": [
+   "Robert the Bruce",
+   "Sir Ludwig Guttmann",
+   "Sir Roger Bannister",
+   "Jane Austen"
+  ],
+  "answer": 1,
+  "explanation": "Sir Ludwig Guttmann: starting sporting events at Stoke Mandeville that grew into the Paralympics.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LUK",
+  "topic": "What is the UK?",
+  "body": "Which countries make up the United Kingdom?",
+  "options": [
+   "England, Scotland, Wales and the Republic of Ireland",
+   "England, Scotland, Wales and Northern Ireland",
+   "England, Wales and Northern Ireland",
+   "England, Scotland and Wales"
+  ],
+  "answer": 1,
+  "explanation": "The UK is England, Scotland, Wales and Northern Ireland. Great Britain is England, Scotland and Wales.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "What is the UK?",
+  "body": "Which countries make up Great Britain?",
+  "options": [
+   "England and Wales",
+   "England, Scotland, Wales and Northern Ireland",
+   "England, Scotland and Wales",
+   "England, Scotland and Northern Ireland"
+  ],
+  "answer": 2,
+  "explanation": "Great Britain does not include Northern Ireland.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "What is the UK?",
+  "body": "Are the Channel Islands and the Isle of Man part of the UK?",
+  "options": [
+   "No, they are part of France",
+   "Yes, they are part of England",
+   "Yes, they are part of Wales",
+   "No, they are Crown dependencies"
+  ],
+  "answer": 3,
+  "explanation": "They have their own governments but are linked to the UK as Crown dependencies.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "What is the UK?",
+  "body": "What is the capital city of Scotland?",
+  "options": [
+   "Glasgow",
+   "Edinburgh",
+   "Aberdeen",
+   "Dundee"
+  ],
+  "answer": 1,
+  "explanation": "Edinburgh is Scotland's capital and home of the Scottish Parliament.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "What is the UK?",
+  "body": "What is the capital city of Wales?",
+  "options": [
+   "Cardiff",
+   "Bangor",
+   "Swansea",
+   "Newport"
+  ],
+  "answer": 0,
+  "explanation": "Cardiff is the capital and home of the Welsh Parliament (Senedd).",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "What is the UK?",
+  "body": "What is the capital city of Northern Ireland?",
+  "options": [
+   "Londonderry",
+   "Newry",
+   "Belfast",
+   "Armagh"
+  ],
+  "answer": 2,
+  "explanation": "Belfast is the capital; the Northern Ireland Assembly sits at Stormont.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "What is the UK?",
+  "body": "Which flag is formed from the crosses of St George, St Andrew and St Patrick?",
+  "options": [
+   "The Royal Standard",
+   "The Union Flag",
+   "The Commonwealth flag",
+   "The Welsh flag"
+  ],
+  "answer": 1,
+  "explanation": "The Union Flag ('Union Jack') combines three crosses. Wales is not represented on it.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "What is the UK?",
+  "body": "Which country of the UK is NOT represented on the Union Flag?",
+  "options": [
+   "Northern Ireland",
+   "Scotland",
+   "Wales",
+   "England"
+  ],
+  "answer": 2,
+  "explanation": "Wales has its own flag with a red dragon.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "What is the UK?",
+  "body": "What animal appears on the Welsh flag?",
+  "options": [
+   "A red dragon",
+   "A stag",
+   "A lion",
+   "A unicorn"
+  ],
+  "answer": 0,
+  "explanation": "The Welsh flag shows a red dragon on a white and green background.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "What is the UK?",
+  "body": "What is the currency of the UK?",
+  "options": [
+   "The pound sterling",
+   "The crown",
+   "The Scottish pound",
+   "The euro"
+  ],
+  "answer": 0,
+  "explanation": "Scotland and Northern Ireland issue their own banknotes, which are valid everywhere in the UK.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "What is the UK?",
+  "body": "What is the longest distance on the UK mainland, from John O'Groats to Land's End, approximately?",
+  "options": [
+   "870 miles (1,400 km)",
+   "500 miles (800 km)",
+   "320 miles (515 km)",
+   "1,200 miles (1,900 km)"
+  ],
+  "answer": 0,
+  "explanation": "John O'Groats is in the north of Scotland; Land's End is in Cornwall.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "What is the UK?",
+  "body": "Which languages, besides English, are spoken in parts of the UK?",
+  "options": [
+   "Cornish only",
+   "Welsh, and Gaelic in Scotland and Northern Ireland",
+   "French and German",
+   "Latin and Norse"
+  ],
+  "answer": 1,
+  "explanation": "Welsh is widely spoken in Wales; Gaelic in parts of Scotland; Irish Gaelic in Northern Ireland.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Who is the patron saint of England?",
+  "options": [
+   "St Patrick",
+   "St Andrew",
+   "St George",
+   "St David"
+  ],
+  "answer": 2,
+  "explanation": "St George's Day is 23 April.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Who is the patron saint of Scotland?",
+  "options": [
+   "St Andrew",
+   "St George",
+   "St Patrick",
+   "St David"
+  ],
+  "answer": 0,
+  "explanation": "St Andrew's Day is 30 November, a bank holiday in Scotland.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Who is the patron saint of Wales?",
+  "options": [
+   "St Patrick",
+   "St David",
+   "St Andrew",
+   "St George"
+  ],
+  "answer": 1,
+  "explanation": "St David's Day is 1 March.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Who is the patron saint of Northern Ireland?",
+  "options": [
+   "St Patrick",
+   "St Andrew",
+   "St David",
+   "St George"
+  ],
+  "answer": 0,
+  "explanation": "St Patrick's Day is 17 March, a bank holiday in Northern Ireland.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "When is St George's Day?",
+  "options": [
+   "17 March",
+   "1 March",
+   "30 November",
+   "23 April"
+  ],
+  "answer": 3,
+  "explanation": "St George is the patron saint of England.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "When is St Andrew's Day?",
+  "options": [
+   "23 April",
+   "30 November",
+   "17 March",
+   "1 March"
+  ],
+  "answer": 1,
+  "explanation": "St Andrew is the patron saint of Scotland.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "When is St David's Day?",
+  "options": [
+   "1 March",
+   "17 March",
+   "30 November",
+   "23 April"
+  ],
+  "answer": 0,
+  "explanation": "St David is the patron saint of Wales.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "When is St Patrick's Day?",
+  "options": [
+   "30 November",
+   "1 March",
+   "17 March",
+   "23 April"
+  ],
+  "answer": 2,
+  "explanation": "St Patrick is the patron saint of Northern Ireland.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "What is the national flower of England?",
+  "options": [
+   "The shamrock",
+   "The thistle",
+   "The rose",
+   "The daffodil"
+  ],
+  "answer": 2,
+  "explanation": "Scotland: thistle; Wales: daffodil; Northern Ireland: shamrock.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "What is the national flower of Scotland?",
+  "options": [
+   "The shamrock",
+   "The daffodil",
+   "The rose",
+   "The thistle"
+  ],
+  "answer": 3,
+  "explanation": "The thistle is Scotland's symbol.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "What is the national flower of Wales?",
+  "options": [
+   "The shamrock",
+   "The daffodil",
+   "The thistle",
+   "The rose"
+  ],
+  "answer": 1,
+  "explanation": "The daffodil is worn on St David's Day.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "What is the national flower of Northern Ireland?",
+  "options": [
+   "The shamrock",
+   "The rose",
+   "The thistle",
+   "The daffodil"
+  ],
+  "answer": 0,
+  "explanation": "The shamrock is linked with St Patrick.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "On which date is Christmas Day celebrated?",
+  "options": [
+   "6 January",
+   "24 December",
+   "26 December",
+   "25 December"
+  ],
+  "answer": 3,
+  "explanation": "Christmas celebrates the birth of Jesus Christ.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "What is the day after Christmas Day called?",
+  "options": [
+   "Twelfth Night",
+   "Hogmanay",
+   "Shrove Tuesday",
+   "Boxing Day"
+  ],
+  "answer": 3,
+  "explanation": "Boxing Day, 26 December, is a public holiday.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "What is New Year's Eve called in Scotland?",
+  "options": [
+   "Hogmanay",
+   "Boxing Day",
+   "Halloween",
+   "Burns Night"
+  ],
+  "answer": 0,
+  "explanation": "Hogmanay is a major celebration in Scotland.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "What is celebrated on 5 November?",
+  "options": [
+   "Remembrance Day",
+   "Bonfire Night, remembering the failed Gunpowder Plot of 1605",
+   "Guy Fawkes's birthday",
+   "Halloween"
+  ],
+  "answer": 1,
+  "explanation": "Guy Fawkes and others tried to blow up the Houses of Parliament in 1605.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In which year did the Gunpowder Plot take place?",
+  "options": [
+   "1688",
+   "1588",
+   "1605",
+   "1666"
+  ],
+  "answer": 2,
+  "explanation": "The plot to kill the king in Parliament failed on 5 November 1605.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "What do people wear around Remembrance Day to remember those who died in wars?",
+  "options": [
+   "Green ribbons",
+   "Daffodils",
+   "White roses",
+   "Red poppies"
+  ],
+  "answer": 3,
+  "explanation": "Remembrance Day is 11 November; there is a two-minute silence at 11am.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "When is Remembrance Day?",
+  "options": [
+   "11 December",
+   "5 November",
+   "11 November",
+   "1 November"
+  ],
+  "answer": 2,
+  "explanation": "It marks the end of the First World War in 1918.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "What is Shrove Tuesday also known as?",
+  "options": [
+   "Mothering Sunday",
+   "Good Friday",
+   "Ash Wednesday",
+   "Pancake Day"
+  ],
+  "answer": 3,
+  "explanation": "It is the day before Lent starts.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Lent is the period of how many days before Easter?",
+  "options": [
+   "40 days",
+   "30 days",
+   "7 days",
+   "12 days"
+  ],
+  "answer": 0,
+  "explanation": "Christians traditionally fast or give something up during Lent.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "When is Halloween?",
+  "options": [
+   "31 December",
+   "31 October",
+   "5 November",
+   "1 November"
+  ],
+  "answer": 1,
+  "explanation": "Halloween has ancient pagan origins.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "When is Valentine's Day?",
+  "options": [
+   "29 February",
+   "14 March",
+   "14 February",
+   "1 April"
+  ],
+  "answer": 2,
+  "explanation": "Couples exchange cards and gifts.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "On which date do people play jokes on each other until midday?",
+  "options": [
+   "1 April (April Fool's Day)",
+   "31 October",
+   "14 February",
+   "1 January"
+  ],
+  "answer": 0,
+  "explanation": "April Fool's Day.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "When is Mothering Sunday?",
+  "options": [
+   "The Sunday after Easter",
+   "The last Sunday in March every year",
+   "The first Sunday in May",
+   "Three weeks before Easter"
+  ],
+  "answer": 3,
+  "explanation": "Children give cards and gifts to their mothers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "When is Father's Day in the UK?",
+  "options": [
+   "The last Sunday in May",
+   "Three weeks before Easter",
+   "The third Sunday in June",
+   "The first Sunday in June"
+  ],
+  "answer": 2,
+  "explanation": "Father's Day is the third Sunday in June.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Which festival is known as the festival of lights and celebrated by Hindus and Sikhs?",
+  "options": [
+   "Diwali",
+   "Eid al-Fitr",
+   "Vaisakhi",
+   "Hannukah"
+  ],
+  "answer": 0,
+  "explanation": "There are famous Diwali celebrations in Leicester.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Which Jewish festival lasts for eight days and involves lighting candles?",
+  "options": [
+   "Hannukah",
+   "Passover",
+   "Diwali",
+   "Eid al-Adha"
+  ],
+  "answer": 0,
+  "explanation": "One candle is lit each night on a menorah.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Eid al-Fitr celebrates the end of",
+  "options": [
+   "Hannukah",
+   "Ramadan",
+   "Lent",
+   "Advent"
+  ],
+  "answer": 1,
+  "explanation": "Muslims fast during the month of Ramadan.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Vaisakhi is a festival celebrated by",
+  "options": [
+   "Sikhs",
+   "Christians",
+   "Jews",
+   "Buddhists"
+  ],
+  "answer": 0,
+  "explanation": "Vaisakhi celebrates the founding of the Sikh community (the Khalsa).",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Advent is the period of",
+  "options": [
+   "four weeks before Christmas",
+   "two weeks after New Year",
+   "40 days before Easter",
+   "the week after Christmas"
+  ],
+  "answer": 0,
+  "explanation": "Many children have Advent calendars.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Burns Night, celebrating the poet Robert Burns, is on",
+  "options": [
+   "25 December",
+   "1 March",
+   "25 January",
+   "30 November"
+  ],
+  "answer": 2,
+  "explanation": "Haggis is traditionally eaten on Burns Night.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Which is the oldest tennis tournament in the world and the only Grand Slam played on grass?",
+  "options": [
+   "Wimbledon",
+   "The US Open",
+   "The Australian Open",
+   "The French Open"
+  ],
+  "answer": 0,
+  "explanation": "Wimbledon is held at the All England Club in London.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Where is the home of golf, where the game is believed to have started?",
+  "options": [
+   "Cardiff, Wales",
+   "Wimbledon, England",
+   "Belfast, Northern Ireland",
+   "St Andrews, Scotland"
+  ],
+  "answer": 3,
+  "explanation": "St Andrews in Scotland is known as the home of golf.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "The Grand National is a famous",
+  "options": [
+   "rowing race on the Thames",
+   "golf championship",
+   "rugby tournament",
+   "horse race at Aintree"
+  ],
+  "answer": 3,
+  "explanation": "It is a steeplechase near Liverpool.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Which international rugby tournament involves England, Scotland, Wales, Ireland, France and Italy?",
+  "options": [
+   "The FA Cup",
+   "The Six Nations Championship",
+   "The Grand National",
+   "The Ashes"
+  ],
+  "answer": 1,
+  "explanation": "It is held every year.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "The Ashes is a famous series of matches in which sport?",
+  "options": [
+   "Football",
+   "Cricket",
+   "Rugby",
+   "Tennis"
+  ],
+  "answer": 1,
+  "explanation": "England plays Australia for the Ashes.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Which famous London cricket ground is known as the 'home of cricket'?",
+  "options": [
+   "Lord's",
+   "Ascot",
+   "Twickenham",
+   "Wembley"
+  ],
+  "answer": 0,
+  "explanation": "Lord's is in St John's Wood, London.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "In which years has London hosted the Olympic Games?",
+  "options": [
+   "1908, 1948 and 2012",
+   "1924, 1948 and 2000",
+   "1948, 1966 and 2012",
+   "1908, 1936 and 2012"
+  ],
+  "answer": 0,
+  "explanation": "London is the first city to host the modern Olympics three times.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Where did the Paralympic movement begin?",
+  "options": [
+   "St Andrews",
+   "Wembley Stadium",
+   "Stoke Mandeville Hospital, Buckinghamshire",
+   "Wimbledon"
+  ],
+  "answer": 2,
+  "explanation": "Sir Ludwig Guttmann organised sports for injured servicemen there.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Which dish is traditionally associated with Scotland?",
+  "options": [
+   "Haggis",
+   "Welsh cakes",
+   "Roast beef and Yorkshire pudding",
+   "Ulster fry"
+  ],
+  "answer": 0,
+  "explanation": "Haggis is a sheep's stomach stuffed with offal, suet, onions and oatmeal.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Which dish is traditionally associated with England?",
+  "options": [
+   "Ulster fry",
+   "Roast beef with Yorkshire pudding",
+   "Haggis",
+   "Welsh cakes"
+  ],
+  "answer": 1,
+  "explanation": "Roast beef is served with potatoes, vegetables and Yorkshire pudding.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Welsh cakes are a traditional food of",
+  "options": [
+   "Wales",
+   "England",
+   "Northern Ireland",
+   "Scotland"
+  ],
+  "answer": 0,
+  "explanation": "Welsh cakes are a traditional Welsh snack.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "The Ulster fry is a traditional dish of",
+  "options": [
+   "Northern Ireland",
+   "Scotland",
+   "England",
+   "Wales"
+  ],
+  "answer": 0,
+  "explanation": "A fried meal with bacon, eggs, sausage and soda bread.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "The Edinburgh Festival is famous for its",
+  "options": [
+   "flower displays",
+   "horse racing",
+   "arts, especially the Fringe for theatre and comedy",
+   "car shows"
+  ],
+  "answer": 2,
+  "explanation": "It takes place every summer.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "What is the Eisteddfod?",
+  "options": [
+   "A Scottish highland games",
+   "An English horse race",
+   "An Irish dance competition",
+   "A Welsh festival of music, poetry and literature"
+  ],
+  "answer": 3,
+  "explanation": "The National Eisteddfod of Wales is held every year.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Which awards ceremony celebrates British films?",
+  "options": [
+   "The Booker Prize",
+   "The Brit Awards",
+   "The BAFTAs",
+   "The Mercury Prize"
+  ],
+  "answer": 2,
+  "explanation": "The British Academy Film Awards.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "The Man Booker (Booker) Prize is awarded for",
+  "options": [
+   "architecture",
+   "films",
+   "fiction (novels)",
+   "music"
+  ],
+  "answer": 2,
+  "explanation": "It is awarded every year for the best full-length novel.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "The Turner Prize is awarded for",
+  "options": [
+   "music",
+   "poetry",
+   "contemporary art",
+   "films"
+  ],
+  "answer": 2,
+  "explanation": "It is named after the painter J. M. W. Turner.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "The Mercury Music Prize is awarded for",
+  "options": [
+   "the best film",
+   "the best novel",
+   "the best album from the UK and Ireland",
+   "the best opera"
+  ],
+  "answer": 2,
+  "explanation": "It is awarded each year.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Big Ben is the nickname of",
+  "options": [
+   "a cathedral in London",
+   "the great bell of the clock at the Houses of Parliament",
+   "a ship on the Thames",
+   "a statue in Trafalgar Square"
+  ],
+  "answer": 1,
+  "explanation": "The tower was named Elizabeth Tower in 2012.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Where is the Eden Project, with its huge greenhouses?",
+  "options": [
+   "Wales",
+   "Kent",
+   "Cornwall",
+   "Scotland"
+  ],
+  "answer": 2,
+  "explanation": "It houses plants from all over the world.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Where is the Giant's Causeway?",
+  "options": [
+   "Northern Ireland",
+   "Scotland",
+   "Cornwall",
+   "Wales"
+  ],
+  "answer": 0,
+  "explanation": "About 40,000 basalt columns on the north-east coast.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Where is Loch Lomond?",
+  "options": [
+   "Wales",
+   "Scotland",
+   "the Lake District",
+   "Northern Ireland"
+  ],
+  "answer": 1,
+  "explanation": "It is the largest expanse of fresh water in mainland Britain.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "The London Eye was originally built to celebrate",
+  "options": [
+   "the 2012 Olympics",
+   "the end of the Second World War",
+   "the Queen's coronation",
+   "the millennium"
+  ],
+  "answer": 3,
+  "explanation": "It is a giant observation wheel on the South Bank.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Snowdonia is a national park in",
+  "options": [
+   "Northern Ireland",
+   "Wales",
+   "Scotland",
+   "England"
+  ],
+  "answer": 1,
+  "explanation": "Its best-known landmark is Snowdon (Yr Wyddfa), the highest mountain in Wales.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Which is England's largest national park?",
+  "options": [
+   "Dartmoor",
+   "The Lake District",
+   "The Peak District",
+   "Snowdonia"
+  ],
+  "answer": 1,
+  "explanation": "It is famous for lakes, mountains and Wordsworth.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A modern, thriving society",
+  "body": "Who first built the Tower of London?",
+  "options": [
+   "Elizabeth I",
+   "Alfred the Great",
+   "William the Conqueror",
+   "Henry VIII"
+  ],
+  "answer": 2,
+  "explanation": "It was built after he became king in 1066. The Crown Jewels are kept there.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "Stonehenge is located in",
+  "options": [
+   "Orkney",
+   "Suffolk",
+   "Cornwall",
+   "Wiltshire"
+  ],
+  "answer": 3,
+  "explanation": "A prehistoric monument, probably used for seasonal ceremonies.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "Skara Brae, the best-preserved prehistoric village in northern Europe, is in",
+  "options": [
+   "Wiltshire, England",
+   "Anglesey, Wales",
+   "Orkney, Scotland",
+   "Suffolk, England"
+  ],
+  "answer": 2,
+  "explanation": "It shows how people lived around 5,000 years ago.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What was found at Sutton Hoo in Suffolk?",
+  "options": [
+   "A Viking town",
+   "A Roman villa",
+   "The burial ship of an Anglo-Saxon king",
+   "A Norman castle"
+  ],
+  "answer": 2,
+  "explanation": "It was probably the grave of an Anglo-Saxon king.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "Why did the Romans build Hadrian's Wall?",
+  "options": [
+   "To mark the border with Wales",
+   "To keep out the Picts (ancestors of the Scottish people)",
+   "To keep out the Vikings",
+   "To defend against the Normans"
+  ],
+  "answer": 1,
+  "explanation": "Parts of the wall can still be seen in northern England.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "The Bayeux Tapestry commemorates",
+  "options": [
+   "the Battle of Bannockburn",
+   "the Battle of Hastings and the Norman conquest",
+   "the defeat of the Spanish Armada",
+   "the Battle of Waterloo"
+  ],
+  "answer": 1,
+  "explanation": "It is a long embroidered cloth kept in Normandy, France.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Where does the Scottish Parliament sit?",
+  "options": [
+   "Stormont, Belfast",
+   "Holyrood, Edinburgh",
+   "Cardiff Bay",
+   "Westminster"
+  ],
+  "answer": 1,
+  "explanation": "The Scottish Parliament was formed in 1999.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Where does the Northern Ireland Assembly sit?",
+  "options": [
+   "Holyrood, Edinburgh",
+   "Cardiff Bay",
+   "Stormont, Belfast",
+   "Westminster"
+  ],
+  "answer": 2,
+  "explanation": "It was created after the 1998 Good Friday Agreement.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "Which Roman general first came to Britain in 55 BC but did not stay?",
+  "options": [
+   "Boudicca",
+   "Hadrian",
+   "Claudius",
+   "Julius Caesar"
+  ],
+  "answer": 3,
+  "explanation": "The successful invasion came later, under Emperor Claudius in AD 43.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "Who was the queen of the Iceni who fought against the Romans?",
+  "options": [
+   "Elizabeth I",
+   "Anne",
+   "Matilda",
+   "Boudicca"
+  ],
+  "answer": 3,
+  "explanation": "A statue of her stands near Westminster Bridge.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "The Vikings came to Britain from",
+  "options": [
+   "Italy",
+   "Denmark and Norway",
+   "France and Spain",
+   "Germany and the Netherlands"
+  ],
+  "answer": 1,
+  "explanation": "They first came in AD 789 to raid coastal towns.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "The Anglo-Saxons came to Britain from",
+  "options": [
+   "northern Europe",
+   "France",
+   "Spain",
+   "Italy"
+  ],
+  "answer": 0,
+  "explanation": "Their kingdoms formed the basis of England.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What was the Domesday Book?",
+  "options": [
+   "The first English Bible",
+   "A book of laws written by King Alfred",
+   "A record of towns, villages and people made for William the Conqueror",
+   "A list of soldiers at Hastings"
+  ],
+  "answer": 2,
+  "explanation": "It gives a picture of society after the Norman conquest.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What was the Magna Carta?",
+  "options": [
+   "The first law against slavery",
+   "A peace treaty with France",
+   "The first English dictionary",
+   "A charter that limited the power of the king"
+  ],
+  "answer": 3,
+  "explanation": "King John agreed to it in 1215.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What was the Black Death?",
+  "options": [
+   "A famine in Ireland",
+   "A plague that killed about one third of the population of England",
+   "A war between England and France",
+   "A fire in London"
+  ],
+  "answer": 1,
+  "explanation": "It arrived in 1348.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "The Wars of the Roses were fought between",
+  "options": [
+   "the Houses of Lancaster and York",
+   "Catholics and Protestants",
+   "the Normans and the Saxons",
+   "England and Scotland"
+  ],
+  "answer": 0,
+  "explanation": "Lancaster's symbol was a red rose, York's a white rose. The Tudor rose combines both.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "Who won the Battle of Bosworth Field in 1485 and became King Henry VII?",
+  "options": [
+   "Richard III",
+   "Edward IV",
+   "Henry Tudor",
+   "Henry VIII"
+  ],
+  "answer": 2,
+  "explanation": "He founded the Tudor dynasty.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "How many wives did Henry VIII have?",
+  "options": [
+   "Six",
+   "Five",
+   "Four",
+   "Eight"
+  ],
+  "answer": 0,
+  "explanation": "Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard and Catherine Parr.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "Which of Henry VIII's wives gave birth to his only son, Edward?",
+  "options": [
+   "Catherine of Aragon",
+   "Catherine Parr",
+   "Anne Boleyn",
+   "Jane Seymour"
+  ],
+  "answer": 3,
+  "explanation": "Jane Seymour died shortly after Edward's birth.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "Henry VIII established which church?",
+  "options": [
+   "The Methodist Church",
+   "The Roman Catholic Church",
+   "The Church of Scotland",
+   "The Church of England"
+  ],
+  "answer": 3,
+  "explanation": "He broke away from the Church of Rome.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "The Reformation was",
+  "options": [
+   "the end of slavery",
+   "a movement against the authority of the Pope",
+   "the restoration of the monarchy",
+   "the union of England and Scotland"
+  ],
+  "answer": 1,
+  "explanation": "It led to Protestant churches in England and Scotland.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "Who was Lord Protector after the execution of Charles I?",
+  "options": [
+   "Oliver Cromwell",
+   "Richard Cromwell",
+   "William of Orange",
+   "Charles II"
+  ],
+  "answer": 0,
+  "explanation": "England was a republic, the Commonwealth, from 1649.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "Which king was restored to the throne in 1660?",
+  "options": [
+   "Charles I",
+   "William III",
+   "Charles II",
+   "James II"
+  ],
+  "answer": 2,
+  "explanation": "This is called the Restoration.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What did the Habeas Corpus Act of 1679 guarantee?",
+  "options": [
+   "That no one could be held prisoner unlawfully",
+   "Freedom of the press",
+   "The right of women to vote",
+   "Free education for all children"
+  ],
+  "answer": 0,
+  "explanation": "Every prisoner has a right to a court hearing.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In the Glorious Revolution, who took over the throne from James II?",
+  "options": [
+   "Oliver Cromwell",
+   "Charles II",
+   "William of Orange and his wife Mary",
+   "George I"
+  ],
+  "answer": 2,
+  "explanation": "William III and Mary II ruled jointly.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "Which British king was born in Germany and spoke little English?",
+  "options": [
+   "Charles I",
+   "George III",
+   "William III",
+   "George I"
+  ],
+  "answer": 3,
+  "explanation": "George I came from Hanover in 1714.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What was the 'Enlightenment'?",
+  "options": [
+   "A period of new ideas about politics, philosophy and science",
+   "The invention of electricity",
+   "A famine in Scotland",
+   "A religious war"
+  ],
+  "answer": 0,
+  "explanation": "Many great thinkers were Scottish, such as Adam Smith and David Hume.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "Which Scottish thinker wrote about economics and is associated with the Enlightenment?",
+  "options": [
+   "Adam Smith",
+   "Charles Darwin",
+   "Robert Burns",
+   "Isaac Newton"
+  ],
+  "answer": 0,
+  "explanation": "David Hume was another Enlightenment thinker.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "During the Industrial Revolution, Britain became",
+  "options": [
+   "a republic",
+   "the first country to industrialise on a large scale",
+   "part of the French Empire",
+   "a mainly farming country"
+  ],
+  "answer": 1,
+  "explanation": "Coal, iron and new machines transformed production.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What was the Bessemer process used to make?",
+  "options": [
+   "Cotton",
+   "Steel",
+   "Coal",
+   "Glass"
+  ],
+  "answer": 1,
+  "explanation": "It allowed steel to be mass-produced.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "Who set up the first formal anti-slavery groups, in 1787?",
+  "options": [
+   "The Methodists",
+   "The Royal Navy",
+   "The Quakers",
+   "The Church of England"
+  ],
+  "answer": 2,
+  "explanation": "William Wilberforce was a leading anti-slavery campaigner in Parliament.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "Which MP played a leading role in ending the slave trade?",
+  "options": [
+   "Robert Walpole",
+   "Clement Attlee",
+   "Winston Churchill",
+   "William Wilberforce"
+  ],
+  "answer": 3,
+  "explanation": "The slave trade was abolished in 1807.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What was the Irish famine of the mid-1840s caused by?",
+  "options": [
+   "A plague",
+   "Flooding",
+   "War with England",
+   "Failure of the potato crop"
+  ],
+  "answer": 3,
+  "explanation": "Around a million people died and many emigrated.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "Which battle in 1916 resulted in about 60,000 British casualties on the first day?",
+  "options": [
+   "The Battle of Hastings",
+   "The Battle of the Somme",
+   "The Battle of Britain",
+   "The Battle of Waterloo"
+  ],
+  "answer": 1,
+  "explanation": "It was part of the First World War.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What happened at Dunkirk in 1940?",
+  "options": [
+   "The war in Europe ended",
+   "Many small boats helped rescue over 300,000 soldiers from France",
+   "The USA joined the war",
+   "Britain defeated the German air force"
+  ],
+  "answer": 1,
+  "explanation": "The 'Dunkirk spirit' describes courage in difficulty.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "What was the Blitz?",
+  "options": [
+   "A British invasion of France",
+   "An air battle over the Channel",
+   "A naval battle in the Atlantic",
+   "The German bombing of London and other British cities"
+  ],
+  "answer": 3,
+  "explanation": "Coventry was almost totally destroyed.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "Which event brought the USA into the Second World War?",
+  "options": [
+   "The Battle of Britain",
+   "The D-Day landings",
+   "The Japanese attack on Pearl Harbor",
+   "The fall of France"
+  ],
+  "answer": 2,
+  "explanation": "The USA joined in December 1941.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "Which countries were part of the 'Axis powers' in the Second World War?",
+  "options": [
+   "Germany, Russia and Spain",
+   "Britain, France and the USA",
+   "Germany, Italy and Japan",
+   "Italy, France and Japan"
+  ],
+  "answer": 2,
+  "explanation": "Britain and its allies fought the Axis powers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "Which famous ship, the largest and fastest of its time, was designed by Brunel?",
+  "options": [
+   "HMS Victory",
+   "The Mary Rose",
+   "The Titanic",
+   "The Great Eastern"
+  ],
+  "answer": 3,
+  "explanation": "Brunel also built the Great Western Railway.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "Which wartime Prime Minister said 'we shall fight on the beaches'?",
+  "options": [
+   "Clement Attlee",
+   "Neville Chamberlain",
+   "David Lloyd George",
+   "Winston Churchill"
+  ],
+  "answer": 3,
+  "explanation": "Churchill gave many famous speeches in 1940.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "After the Second World War, which important health service was set up in 1948?",
+  "options": [
+   "The Red Cross",
+   "The Health and Safety Executive",
+   "The National Health Service (NHS)",
+   "The Samaritans"
+  ],
+  "answer": 2,
+  "explanation": "It provides healthcare free at the point of use.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "In the 1950s and 1960s, people from which areas were invited to the UK to help rebuild after the war?",
+  "options": [
+   "France and Germany",
+   "The USA and Canada",
+   "The West Indies, India and Pakistan",
+   "China and Japan"
+  ],
+  "answer": 2,
+  "explanation": "Many came to work in transport, textiles and the NHS.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "A long and illustrious history",
+  "body": "The 'Swinging Sixties' was a period of",
+  "options": [
+   "strict censorship",
+   "war with France",
+   "economic depression",
+   "social change and growth in British fashion, music and culture"
+  ],
+  "answer": 3,
+  "explanation": "The Beatles and the Rolling Stones were hugely popular.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "What type of government does the UK have?",
+  "options": [
+   "A one-party state",
+   "An absolute monarchy",
+   "A presidential republic",
+   "A parliamentary democracy with a constitutional monarch"
+  ],
+  "answer": 3,
+  "explanation": "The monarch is head of state; Parliament makes the laws.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "What are the two Houses of Parliament?",
+  "options": [
+   "The Commons and the Supreme Court",
+   "The House of Commons and the House of Lords",
+   "The House of Lords and the Cabinet",
+   "The House of Commons and the Senate"
+  ],
+  "answer": 1,
+  "explanation": "MPs sit in the Commons; peers sit in the Lords.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "How are members of the House of Commons chosen?",
+  "options": [
+   "They are appointed by the monarch",
+   "They are elected by voters in their constituency",
+   "They inherit their seats",
+   "They are chosen by the Prime Minister"
+  ],
+  "answer": 1,
+  "explanation": "Each MP represents one constituency.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "How often must a general election be held in the UK?",
+  "options": [
+   "Every ten years",
+   "Every two years",
+   "At least every five years",
+   "Every four years exactly"
+  ],
+  "answer": 2,
+  "explanation": "The government can call one earlier.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "What electoral system is used to elect MPs?",
+  "options": [
+   "The alternative vote",
+   "An electoral college",
+   "Proportional representation",
+   "First past the post"
+  ],
+  "answer": 3,
+  "explanation": "The candidate with the most votes in a constituency wins.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Who chairs debates in the House of Commons and must stay politically neutral?",
+  "options": [
+   "The Chief Whip",
+   "The Speaker",
+   "The Prime Minister",
+   "The Leader of the Opposition"
+  ],
+  "answer": 1,
+  "explanation": "The Speaker keeps order during debates.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Where is the Prime Minister's official London residence?",
+  "options": [
+   "Chequers",
+   "11 Downing Street",
+   "10 Downing Street",
+   "Buckingham Palace"
+  ],
+  "answer": 2,
+  "explanation": "The PM also has a country house called Chequers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "What is the name of the Prime Minister's country house?",
+  "options": [
+   "Balmoral",
+   "Windsor Castle",
+   "Sandringham",
+   "Chequers"
+  ],
+  "answer": 3,
+  "explanation": "Chequers is in Buckinghamshire.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Who is responsible for the economy in the Cabinet?",
+  "options": [
+   "The Chancellor of the Exchequer",
+   "The Home Secretary",
+   "The Speaker",
+   "The Foreign Secretary"
+  ],
+  "answer": 0,
+  "explanation": "The Chancellor manages taxes and spending.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Which Cabinet minister is responsible for crime, policing and immigration?",
+  "options": [
+   "The Home Secretary",
+   "The Lord Chancellor",
+   "The Chancellor of the Exchequer",
+   "The Foreign Secretary"
+  ],
+  "answer": 0,
+  "explanation": "The Home Office covers these areas.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Who is the leader of the second-largest party in the House of Commons?",
+  "options": [
+   "The Leader of the Opposition",
+   "The Speaker",
+   "The Chief Whip",
+   "The Deputy Prime Minister"
+  ],
+  "answer": 0,
+  "explanation": "The opposition leader appoints a shadow cabinet.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Who are 'whips' in Parliament?",
+  "options": [
+   "Judges in the House of Lords",
+   "Police officers who guard Parliament",
+   "MPs who ensure party members attend and vote",
+   "Civil servants who write laws"
+  ],
+  "answer": 2,
+  "explanation": "Whips manage discipline within their party.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Which of these can sit in the House of Lords?",
+  "options": [
+   "Only elected members",
+   "Life peers, hereditary peers and bishops of the Church of England",
+   "Only members of the royal family",
+   "Only judges"
+  ],
+  "answer": 1,
+  "explanation": "Members of the Lords are not elected.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "What is the role of the House of Lords?",
+  "options": [
+   "To collect taxes",
+   "To elect the Prime Minister",
+   "To suggest amendments and propose new laws, which the Commons then considers",
+   "To run the police"
+  ],
+  "answer": 2,
+  "explanation": "The Commons can overrule the Lords in most cases.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Civil servants in the UK are expected to be",
+  "options": [
+   "members of the governing party",
+   "elected by the public",
+   "appointed by the monarch personally",
+   "politically neutral"
+  ],
+  "answer": 3,
+  "explanation": "They carry out government policy whichever party is in power.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "What is the minimum age to vote in UK general elections?",
+  "options": [
+   "16",
+   "18",
+   "25",
+   "21"
+  ],
+  "answer": 1,
+  "explanation": "The voting age was reduced from 21 to 18 in 1969.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "To vote in elections you must be",
+  "options": [
+   "in full-time work",
+   "a member of a political party",
+   "a homeowner",
+   "on the electoral register"
+  ],
+  "answer": 3,
+  "explanation": "You can register online or through your local council.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Polling stations are usually open from",
+  "options": [
+   "6am to midnight",
+   "9am to 5pm",
+   "8am to 8pm",
+   "7am to 10pm"
+  ],
+  "answer": 3,
+  "explanation": "You vote in person at your polling station, or by post.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "What is 'Royal Assent'?",
+  "options": [
+   "A royal pardon for a criminal",
+   "The opening of a new parliament",
+   "The monarch's formal agreement to a bill passed by Parliament",
+   "The election of a new monarch"
+  ],
+  "answer": 2,
+  "explanation": "A bill becomes an Act after Royal Assent.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Which body is the highest court of appeal in the UK (except for criminal cases in Scotland)?",
+  "options": [
+   "The Supreme Court",
+   "The magistrates' court",
+   "The House of Commons",
+   "The Crown Court"
+  ],
+  "answer": 0,
+  "explanation": "It replaced the House of Lords as the highest court in 2009.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "In England and Wales, most minor criminal cases are dealt with in",
+  "options": [
+   "a sheriff court",
+   "the Crown Court",
+   "the Supreme Court",
+   "a magistrates' court"
+  ],
+  "answer": 3,
+  "explanation": "Magistrates are usually unpaid volunteers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "In Scotland, minor criminal cases are dealt with in",
+  "options": [
+   "the Crown Court",
+   "a Justice of the Peace Court",
+   "a youth court",
+   "a magistrates' court"
+  ],
+  "answer": 1,
+  "explanation": "More serious Scottish cases go to a sheriff court.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Serious criminal offences in England, Wales and Northern Ireland are tried in",
+  "options": [
+   "a magistrates' court",
+   "a small claims court",
+   "the Crown Court",
+   "a county court"
+  ],
+  "answer": 2,
+  "explanation": "Trials in the Crown Court have a judge and a jury.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "How many people sit on a jury in England, Wales and Northern Ireland?",
+  "options": [
+   "12",
+   "21",
+   "10",
+   "15"
+  ],
+  "answer": 0,
+  "explanation": "In Scotland a jury has 15 members.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "How many people sit on a jury in Scotland?",
+  "options": [
+   "12",
+   "15",
+   "9",
+   "10"
+  ],
+  "answer": 1,
+  "explanation": "In England, Wales and Northern Ireland a jury has 12 members.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Youth courts deal with young people aged",
+  "options": [
+   "12 to 21",
+   "5 to 15",
+   "16 to 18",
+   "10 to 17"
+  ],
+  "answer": 3,
+  "explanation": "The public is not allowed in, and the young person's name is not published.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "What number should you call in an emergency in the UK?",
+  "options": [
+   "101",
+   "911",
+   "999 or 112",
+   "111"
+  ],
+  "answer": 2,
+  "explanation": "101 is the police non-emergency number; 111 is NHS non-emergency.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "What number should you call to contact the police when it is not an emergency?",
+  "options": [
+   "101",
+   "112",
+   "111",
+   "999"
+  ],
+  "answer": 0,
+  "explanation": "Use 999 or 112 only in an emergency.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Who is elected to set local policing priorities in England and Wales?",
+  "options": [
+   "Police and Crime Commissioners",
+   "Magistrates",
+   "Chief Constables",
+   "Members of the House of Lords"
+  ],
+  "answer": 0,
+  "explanation": "PCCs were first elected in 2012.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Which is an example of civil law rather than criminal law?",
+  "options": [
+   "Selling illegal drugs",
+   "Carrying a weapon",
+   "Theft from a shop",
+   "A dispute with a landlord about repairs"
+  ],
+  "answer": 3,
+  "explanation": "Civil law settles disputes between people.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Which is an example of a criminal offence?",
+  "options": [
+   "Being drunk in public",
+   "A debt dispute",
+   "A disagreement with an employer about pay",
+   "A dispute about a faulty product"
+  ],
+  "answer": 0,
+  "explanation": "Criminal law covers offences against the state.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Which Act sets out the rights in the European Convention on Human Rights in UK law?",
+  "options": [
+   "The Bill of Rights 1689",
+   "The Equality Act 2010",
+   "The Magna Carta",
+   "The Human Rights Act 1998"
+  ],
+  "answer": 3,
+  "explanation": "It incorporated the Convention into UK law.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "The European Convention on Human Rights was developed by which organisation?",
+  "options": [
+   "The Council of Europe",
+   "The United Nations",
+   "The European Union",
+   "NATO"
+  ],
+  "answer": 0,
+  "explanation": "The UK was one of the first to sign it, in 1950.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Which law makes it illegal to discriminate because of age, disability, sex, race or religion?",
+  "options": [
+   "The Human Rights Act 1998",
+   "The Equality Act 2010",
+   "The Habeas Corpus Act",
+   "The Education Act 1944"
+  ],
+  "answer": 1,
+  "explanation": "It applies in England, Wales and Scotland.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Who collects taxes in the UK?",
+  "options": [
+   "Local police",
+   "The Bank of England",
+   "The Home Office",
+   "HM Revenue & Customs (HMRC)"
+  ],
+  "answer": 3,
+  "explanation": "Income tax is usually taken from wages through PAYE.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "What is National Insurance used to pay for?",
+  "options": [
+   "Private health insurance",
+   "Only the cost of the armed forces",
+   "Contributions towards state benefits and services such as the State Pension and the NHS",
+   "Council services such as bin collection"
+  ],
+  "answer": 2,
+  "explanation": "Almost everyone who works pays National Insurance.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "What is council tax used to pay for?",
+  "options": [
+   "The monarchy",
+   "The NHS only",
+   "Local services",
+   "Foreign aid"
+  ],
+  "answer": 2,
+  "explanation": "Local councils collect it.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "At what age can you start to drive a car in the UK (with a provisional licence)?",
+  "options": [
+   "17",
+   "18",
+   "21",
+   "16"
+  ],
+  "answer": 0,
+  "explanation": "You must pass a driving test to get a full licence.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "The UK is a permanent member of the",
+  "options": [
+   "African Union",
+   "Council of Europe Security Board",
+   "European Union",
+   "United Nations Security Council"
+  ],
+  "answer": 3,
+  "explanation": "The UN was set up after the Second World War.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "The Commonwealth is",
+  "options": [
+   "a voluntary association of countries, mostly former parts of the British Empire",
+   "the European trade union",
+   "a single country with one government",
+   "a military alliance"
+  ],
+  "answer": 0,
+  "explanation": "Its members share values of democracy and the rule of law.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "Which military alliance is the UK a member of?",
+  "options": [
+   "NATO",
+   "ECOWAS",
+   "The Warsaw Pact",
+   "OPEC"
+  ],
+  "answer": 0,
+  "explanation": "NATO members defend each other if attacked.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "The UK government, the law and your role",
+  "body": "What is the role of the monarch in the UK?",
+  "options": [
+   "Chief lawmaker who writes the laws",
+   "Head of the Supreme Court",
+   "Leader of the largest political party",
+   "Head of state, with a ceremonial role"
+  ],
+  "answer": 3,
+  "explanation": "The monarch reigns but does not rule; Parliament makes laws.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "Values and principles of the UK",
+  "body": "Which of these is a fundamental principle of British life?",
+  "options": [
+   "Loyalty to one political party",
+   "Rule by the armed forces",
+   "The rule of law",
+   "Compulsory religious worship"
+  ],
+  "answer": 2,
+  "explanation": "Others include democracy, individual liberty, tolerance and participation in community life.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "Values and principles of the UK",
+  "body": "Which of these is a responsibility of people living in the UK?",
+  "options": [
+   "To attend church every week",
+   "To join a political party",
+   "To vote for the government",
+   "To respect and obey the law"
+  ],
+  "answer": 3,
+  "explanation": "Others: respect others' rights, treat others fairly, look after yourself and your family, and the environment.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "Values and principles of the UK",
+  "body": "Which of these is a right for everyone living in the UK?",
+  "options": [
+   "Freedom of speech",
+   "Free housing for all",
+   "A guaranteed job",
+   "Exemption from taxes"
+  ],
+  "answer": 0,
+  "explanation": "Other rights include freedom of belief and the right to a fair trial.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "Values and principles of the UK",
+  "body": "Which of these is a way to help your community?",
+  "options": [
+   "Dropping litter",
+   "Refusing to do jury service",
+   "Volunteering",
+   "Ignoring local elections"
+  ],
+  "answer": 2,
+  "explanation": "Many people volunteer with charities, schools and the NHS.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "Values and principles of the UK",
+  "body": "New citizens make an oath or affirmation and a pledge at a",
+  "options": [
+   "citizenship ceremony",
+   "royal garden party",
+   "general election",
+   "court hearing"
+  ],
+  "answer": 0,
+  "explanation": "They promise to respect the UK's rights and freedoms and obey its laws.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "Values and principles of the UK",
+  "body": "Is it legal to discriminate against someone at work because of their religion?",
+  "options": [
+   "Yes, in private companies",
+   "No, it is against the law",
+   "Only in small businesses",
+   "Only in Northern Ireland"
+  ],
+  "answer": 1,
+  "explanation": "Equality law protects people from discrimination.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "Values and principles of the UK",
+  "body": "Is forced marriage legal in the UK?",
+  "options": [
+   "No, it is a criminal offence",
+   "Yes, with family agreement",
+   "Only for people over 21",
+   "Only if both families are from abroad"
+  ],
+  "answer": 0,
+  "explanation": "A forced marriage is one where a person does not consent.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "Values and principles of the UK",
+  "body": "Is female genital mutilation (FGM) legal in the UK?",
+  "options": [
+   "No, it is a criminal offence, including taking someone abroad for it",
+   "Yes, for religious reasons",
+   "Only if done by a doctor",
+   "Only with parental consent"
+  ],
+  "answer": 0,
+  "explanation": "FGM is illegal in the UK.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "Values and principles of the UK",
+  "body": "What is the minimum age to buy alcohol in a pub or shop in the UK?",
+  "options": [
+   "16",
+   "18",
+   "21",
+   "17"
+  ],
+  "answer": 1,
+  "explanation": "It is a crime to sell alcohol to anyone under 18.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "Values and principles of the UK",
+  "body": "What is the legal minimum age to buy tobacco products in the UK?",
+  "options": [
+   "16",
+   "21",
+   "17",
+   "18"
+  ],
+  "answer": 3,
+  "explanation": "It is illegal to sell tobacco to anyone under 18.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"The UK is made up of England, Scotland, Wales and Northern Ireland.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Great Britain is England, Scotland and Wales.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"The Channel Islands are part of the UK.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "They are Crown dependencies with their own governments.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"Scotland and Northern Ireland issue their own banknotes, which are valid everywhere in the UK.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "All are pound sterling.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"Wales is represented on the Union Flag.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "The Union Flag combines the crosses of St George, St Andrew and St Patrick.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"Members of the House of Lords are elected by the public.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "Peers are appointed or inherit their titles; bishops also sit there.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"The Speaker of the House of Commons is politically neutral.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "The Speaker chairs debates and keeps order.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"Civil servants must support the political party in power.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Civil servants are politically neutral.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"You can be asked to serve on a jury if you are on the electoral register.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Jurors are chosen at random from the register.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"The Magna Carta limited the power of the king.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "King John agreed to it in 1215.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"The Romans left Britain in AD 410.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "They left to defend other parts of their empire.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"Henry VIII was a Catholic who stayed loyal to the Pope throughout his reign.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "He broke from Rome and set up the Church of England.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"The Battle of Hastings took place in 1066.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "William of Normandy defeated King Harold.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"The Spanish Armada was defeated in 1688.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "It was defeated in 1588.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"The Great Fire of London took place in 1666.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "Sir Christopher Wren then designed the new St Paul's Cathedral.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"Women in the UK have had the vote on equal terms with men since 1928.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "Women over 30 first got the vote in 1918.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"The NHS was set up in 1948.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "It was established under the Labour government of Clement Attlee.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"The voting age in UK general elections is 21.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "It has been 18 since 1969.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"The Prime Minister lives at 10 Downing Street.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "The official London residence.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"Bonfire Night commemorates the success of the Gunpowder Plot.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "It commemorates the plot's failure in 1605.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"St Andrew's Day is a bank holiday in Scotland.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "It is on 30 November.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"Halloween is on 31 October.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "It has ancient pagan origins.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"Wimbledon is played on clay courts.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "It is the only Grand Slam played on grass.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"The Paralympic Games have their origins at Stoke Mandeville Hospital.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Sir Ludwig Guttmann organised sport for injured servicemen there.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"It is legal for a shop to sell alcohol to a 16-year-old.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "The minimum age to buy alcohol is 18.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"Forced marriage is a criminal offence in the UK.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "Marriage must be entered into freely.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"Charles Darwin discovered penicillin.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "Alexander Fleming discovered penicillin; Darwin wrote 'On the Origin of Species'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"Sir Tim Berners-Lee invented the World Wide Web.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "The first website went online in 1991.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"A jury in Scotland has 12 members.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "A Scottish jury has 15 members; elsewhere in the UK it has 12.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"The Supreme Court is the final court of appeal for civil cases in the UK.\"",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "It replaced the House of Lords as the highest court.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LUK",
+  "topic": "True or false",
+  "body": "Is this statement TRUE or FALSE? \"The Scottish Parliament sits at Stormont.\"",
+  "options": [
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "It sits at Holyrood in Edinburgh. Stormont is home to the Northern Ireland Assembly.",
+  "difficulty": 1
  }
 ]
