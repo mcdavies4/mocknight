@@ -71,7 +71,7 @@ async function welcome(api: Api, s: Student) {
     ? [
         `Welcome, ${s.first_name ?? "there"} ${t.emoji}`,
         "",
-        `📝 *Daily practice* at ${formatHour(s.drill_hour)} (UK time) in ${s.subjects.map(subjectName).join(", ")}. Anything you miss comes back until you get it right.`,
+        `📝 *Daily practice* at ${formatHour(s.drill_hour)} (${zoneLabel(s)} time) in ${s.subjects.map(subjectName).join(", ")}. Anything you miss comes back until you get it right.`,
         ...vs.map((v) => `🧪 *${v.label}*: ${v.note ?? ""}`),
         t.code === "NMC" ? `📈 *Readiness score*: book your £83 CBT once you're passing consistently.` : `📈 *Readiness score*: book your exam once you're passing consistently.`,
         t.code === "NMC" ? `🤖 Get any wrong answer explained step by step — great for drug calculations.` : `🤖 Get any wrong answer explained step by step.`,

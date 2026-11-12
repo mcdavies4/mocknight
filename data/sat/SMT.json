@@ -1,0 +1,376 @@
+[
+  {
+    "subject": "SMT",
+    "topic": "Algebra",
+    "body": "If 3x − 7 = 20, what is the value of x?",
+    "options": [
+      "13",
+      "7",
+      "11",
+      "9"
+    ],
+    "answer": 3,
+    "explanation": "Add 7 to both sides: 3x = 27. Divide by 3 to get x = 9.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Algebra",
+    "body": "A taxi charges a fixed fee of £4 plus £1.80 per mile. Which equation gives the total cost C, in pounds, for m miles?",
+    "options": [
+      "C = 1.8(m + 4)",
+      "C = 5.8m",
+      "C = 4 + 1.8m",
+      "C = 4m + 1.8"
+    ],
+    "answer": 2,
+    "explanation": "The fixed fee is 4 and the distance charge is 1.8m.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Algebra",
+    "body": "The line y = 5x − 2 passes through which point?",
+    "options": [
+      "(−1, 3)",
+      "(1, 5)",
+      "(0, 2)",
+      "(2, 8)"
+    ],
+    "answer": 3,
+    "explanation": "Substituting x = 2 gives y = 10 − 2 = 8.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Algebra",
+    "body": "If 2(x + 3) = 5x − 6, what is x?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "−4"
+    ],
+    "answer": 1,
+    "explanation": "Expand to get 2x + 6 = 5x − 6; then 12 = 3x, so x = 4.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Algebra",
+    "body": "A phone plan costs £12 per month plus £0.05 per text. Which expression represents the monthly cost for t texts?",
+    "options": [
+      "12 + 5t",
+      "12 + 0.05t",
+      "12t + 0.05",
+      "0.05(12 + t)"
+    ],
+    "answer": 1,
+    "explanation": "The monthly charge is fixed at 12, with an additional 0.05 for each text.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Algebra",
+    "body": "The system y = 2x + 1 and y = −x + 7 has what solution?",
+    "options": [
+      "(1, 3)",
+      "(2, 5)",
+      "(3, 7)",
+      "(4, 9)"
+    ],
+    "answer": 1,
+    "explanation": "Set 2x + 1 = −x + 7, so 3x = 6 and x = 2; then y = 5.",
+    "difficulty": 2,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Algebra",
+    "body": "If f(x) = x² − 4x, what is f(6)?",
+    "options": [
+      "24",
+      "36",
+      "20",
+      "12"
+    ],
+    "answer": 3,
+    "explanation": "f(6) = 36 − 24 = 12.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Advanced Math",
+    "body": "Which expression is equivalent to (x + 3)(x − 3)?",
+    "options": [
+      "x² − 9",
+      "x² + 9",
+      "x² + 6x − 9",
+      "x² − 6x + 9"
+    ],
+    "answer": 0,
+    "explanation": "This is a difference of squares: (x + 3)(x − 3) = x² − 9.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Advanced Math",
+    "body": "If x² − 7x + 12 = 0, what are the solutions?",
+    "options": [
+      "x = 3 and x = 4",
+      "x = 2 and x = 6",
+      "x = −3 and x = −4",
+      "x = −2 and x = −6"
+    ],
+    "answer": 0,
+    "explanation": "Factor: (x − 3)(x − 4) = 0.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Advanced Math",
+    "body": "A function is defined by g(x) = 2(x − 5)² + 1. What is the minimum value of g(x) for real x?",
+    "options": [
+      "2",
+      "0",
+      "1",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "A square is at least zero, so the minimum occurs at x = 5 and equals 1.",
+    "difficulty": 2,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Advanced Math",
+    "body": "If 4ˣ = 64, what is x?",
+    "options": [
+      "2",
+      "6",
+      "3",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "Since 64 = 4³, x = 3.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Advanced Math",
+    "body": "The expression (x² − 16)/(x − 4), for x ≠ 4, is equivalent to which expression?",
+    "options": [
+      "x² + 4",
+      "x + 4",
+      "x + 16",
+      "x − 4"
+    ],
+    "answer": 1,
+    "explanation": "Factor the numerator as (x − 4)(x + 4), then cancel x − 4.",
+    "difficulty": 2,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Advanced Math",
+    "body": "A quadratic function has zeros at x = −2 and x = 5. Which could be its equation?",
+    "options": [
+      "y = (x − 2)(x + 5)",
+      "y = (x + 2)(x − 5)",
+      "y = (x + 2)(x + 5)",
+      "y = (x − 2)(x − 5)"
+    ],
+    "answer": 1,
+    "explanation": "A zero at −2 gives factor x + 2; a zero at 5 gives factor x − 5.",
+    "difficulty": 2,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Problem-Solving and Data Analysis",
+    "body": "A jacket originally costs £80 and is discounted by 25%. What is its sale price?",
+    "options": [
+      "£65",
+      "£70",
+      "£55",
+      "£60"
+    ],
+    "answer": 3,
+    "explanation": "25% of £80 is £20; £80 − £20 = £60.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Problem-Solving and Data Analysis",
+    "body": "A mixture contains 3 parts concentrate for every 5 parts water. If the mixture contains 24 litres in total, how many litres are concentrate?",
+    "options": [
+      "9",
+      "15",
+      "12",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "There are 8 total parts; each part is 3 litres. Concentrate is 3 × 3 = 9 litres.",
+    "difficulty": 2,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Problem-Solving and Data Analysis",
+    "body": "The mean of 6, 8, 10, and k is 9. What is k?",
+    "options": [
+      "10",
+      "14",
+      "12",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "The total must be 4 × 9 = 36. Since 6 + 8 + 10 = 24, k = 12.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Problem-Solving and Data Analysis",
+    "body": "A car travels 150 kilometres in 2.5 hours at a constant speed. What is its speed in kilometres per hour?",
+    "options": [
+      "55",
+      "65",
+      "60",
+      "75"
+    ],
+    "answer": 2,
+    "explanation": "Speed = distance ÷ time = 150 ÷ 2.5 = 60 km/h.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Problem-Solving and Data Analysis",
+    "body": "In a class of 30 students, 18 study French. What percentage of the class studies French?",
+    "options": [
+      "60%",
+      "75%",
+      "40%",
+      "55%"
+    ],
+    "answer": 0,
+    "explanation": "18 ÷ 30 = 0.6, which is 60%.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Problem-Solving and Data Analysis",
+    "body": "A data set has a median of 14. Which statement must be true?",
+    "options": [
+      "Every value is within 14 units of the mean",
+      "The most frequent value is 14",
+      "The mean is 14",
+      "At least half the values are 14 or less and at least half are 14 or greater"
+    ],
+    "answer": 3,
+    "explanation": "This is the defining property of the median; it does not determine the mean or mode.",
+    "difficulty": 2,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Geometry and Trigonometry",
+    "body": "A rectangle has length 12 cm and width 5 cm. What is its perimeter?",
+    "options": [
+      "34 cm",
+      "60 cm",
+      "17 cm",
+      "30 cm"
+    ],
+    "answer": 0,
+    "explanation": "Perimeter = 2(12 + 5) = 34 cm.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Geometry and Trigonometry",
+    "body": "A circle has radius 4 cm. What is its area?",
+    "options": [
+      "16π cm²",
+      "32π cm²",
+      "8π cm²",
+      "4π cm²"
+    ],
+    "answer": 0,
+    "explanation": "Area = πr² = π × 4² = 16π cm².",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  },
+  {
+    "subject": "SMT",
+    "topic": "Geometry and Trigonometry",
+    "body": "A right triangle has legs of lengths 6 and 8. What is the length of its hypotenuse?",
+    "options": [
+      "12",
+      "10",
+      "14",
+      "16"
+    ],
+    "answer": 1,
+    "explanation": "By the Pythagorean theorem, c = √(6² + 8²) = √100 = 10.",
+    "difficulty": 1,
+    "exams": [
+      "SAT"
+    ]
+  }
+]

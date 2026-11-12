@@ -32,9 +32,9 @@ await bot.api.setMyCommands([
 ]);
 
 await bot.api.setMyDescription(
-  "Exam practice and short courses: JAMB, WAEC, Post-UTME, WASSCE Ghana, the Life in the UK test and Fire Marshal training. Daily practice, real timed tests, certificates. Tap Start.",
+  "Exam practice and short courses: JAMB, WAEC, Digital SAT, Post-UTME, WASSCE Ghana, the Life in the UK test and Fire Marshal training. Daily practice, real timed tests, certificates. Tap Start.",
 );
-await bot.api.setMyShortDescription("JAMB, WAEC, Life in the UK & Fire Marshal: daily practice, timed tests, certificates.");
+await bot.api.setMyShortDescription("JAMB, WAEC, Digital SAT, Life in the UK & Fire Marshal: daily practice, timed tests, certificates.");
 
 await bot.api.setChatMenuButton({
   menu_button: { type: "web_app", text: "CBT", web_app: { url: `${process.env.APP_URL!.replace(/\/$/, "")}/mock` } },

@@ -24,6 +24,8 @@ export const SUBJECTS: Record<string, string> = {
   QNT: "Quantitative aptitude",
   GAI: "General awareness",
   HIS: "History",
+  SRW: "SAT Reading and Writing",
+  SMT: "SAT Math",
 };
 
 /** School subjects with questions. Add codes here once you have questions for them. */
