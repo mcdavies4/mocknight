@@ -2,7 +2,7 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "LUK | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
 export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
@@ -27,7 +27,7 @@ export interface Track {
   emoji: string;
   kind: "school" | "citizenship" | "work" | "professional";
   region: "NG" | "GH" | "WA" | "UK" | "GLOBAL" | "ET" | "IN";
-  currency: "NGN" | "GBP" | "ETB" | "INR";
+  currency: "NGN" | "GBP" | "ETB" | "INR" | "USD";
   subjectMode: "multi" | "single";
   subjects: string[];
   compulsory: string[];
@@ -209,6 +209,52 @@ export const TRACKS: Record<TrackCode, Track> = {
     tagline: "Build practical knowledge of risk assessment, COSHH, PPE and workplace hazards",
     timeZone: "Europe/London", audience: "a UK worker building general workplace health and safety awareness",
   },
+
+  ITF: {
+    code: "ITF", name: "IT Support Fundamentals", short: "IT Support",
+    emoji: "🖥️", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["ITF"], compulsory: ["ITF"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 10, minutes: 15, passPct: 70, scoreStyle: "percent", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false, plans: ["itf_pass"],
+    tagline: "Original entry-level IT support practice: devices, operating systems, helpdesk and troubleshooting",
+    timeZone: "UTC", timeLabel: "UTC", audience: "a beginner preparing for an entry-level IT support or helpdesk role",
+  },
+  CCST: {
+    code: "CCST", name: "Cisco CCST Networking (100-150) Practice", short: "CCST Networking",
+    emoji: "🌐", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["CCN"], compulsory: ["CCN"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 10, minutes: 15, passPct: 70, scoreStyle: "percent", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false, plans: ["ccst_pass"],
+    tagline: "Original practice mapped to Cisco's published CCST Networking exam topics",
+    timeZone: "UTC", timeLabel: "UTC", audience: "a learner preparing for Cisco CCST Networking exam 100-150",
+  },
+  AWS: {
+    code: "AWS", name: "AWS Certified Cloud Practitioner (CLF-C02) Practice", short: "AWS Cloud Practitioner",
+    emoji: "☁️", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["AWC"], compulsory: ["AWC"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 10, minutes: 15, passPct: 70, scoreStyle: "percent", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false, plans: ["aws_pass"],
+    tagline: "Original practice across cloud concepts, security, services and billing",
+    timeZone: "UTC", timeLabel: "UTC", audience: "a beginner preparing for the AWS Certified Cloud Practitioner CLF-C02 exam",
+  },
+  AZF: {
+    code: "AZF", name: "Microsoft Azure Fundamentals (AZ-900) Practice", short: "Azure Fundamentals",
+    emoji: "🔷", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["AZF"], compulsory: ["AZF"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 10, minutes: 15, passPct: 70, scoreStyle: "percent", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false, plans: ["az900_pass"],
+    tagline: "Original practice aligned to the current AZ-900 skills-measured guide",
+    timeZone: "UTC", timeLabel: "UTC", audience: "a learner preparing for Microsoft Azure Fundamentals AZ-900",
+  },
+  PYT: {
+    code: "PYT", name: "Python Programming Foundations (PCEP-30-03 aligned)", short: "Python Foundations",
+    emoji: "🐍", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["PCE"], compulsory: ["PCE"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 10, minutes: 15, passPct: 70, scoreStyle: "percent", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false, plans: ["python_pass"],
+    tagline: "Original Python practice across syntax, control flow, collections, functions and files",
+    timeZone: "UTC", timeLabel: "UTC", audience: "a beginner learning Python and preparing for Python Institute PCEP-30-03",
+  },
   NMC: {
     code: "NMC", name: "NMC CBT (nursing)", short: "NMC CBT", emoji: "🩺", kind: "professional", region: "UK", currency: "GBP",
     subjectMode: "single", subjects: ["NMN", "NMC"], compulsory: ["NMN", "NMC"], minSubjects: 2, maxSubjects: 2, subjectNote: "",
@@ -274,6 +320,7 @@ export const TRACKS: Record<TrackCode, Track> = {
 };
 
 export const TRACK_LIST = Object.values(TRACKS);
+export const TECH_TRACK_CODES = ["ITF", "CCST", "AWS", "AZF", "PYT"] as const;
 export const SCHOOL_TRACKS = TRACK_LIST.filter((t) => t.weeklyMock).map((t) => t.code);
 export const UK_TIME_TRACKS = TRACK_LIST.filter((t) => t.timeZone === "Europe/London").map((t) => t.code);
 

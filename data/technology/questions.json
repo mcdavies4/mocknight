@@ -1,0 +1,852 @@
+[
+  {
+    "track": "ITF",
+    "subject": "ITF",
+    "objective": "ITF-01",
+    "topic": "Helpdesk triage",
+    "body": "A user reports that they cannot access the company network. What is the best first step for a helpdesk technician?",
+    "options": [
+      "Replace the user's computer immediately",
+      "Ask focused questions to establish the scope and symptoms",
+      "Disable the network firewall",
+      "Reinstall the operating system"
+    ],
+    "answer": 1,
+    "explanation": "Start by gathering facts: what is affected, when it began, whether others are affected and any error messages. This narrows the fault before changes are made.",
+    "difficulty": 2,
+    "source": "Mock Night original IT Support Fundamentals curriculum"
+  },
+  {
+    "track": "ITF",
+    "subject": "ITF",
+    "objective": "ITF-02",
+    "topic": "Networking basics",
+    "body": "Which service normally provides a device with an IP address automatically on a typical office network?",
+    "options": [
+      "DNS",
+      "DHCP",
+      "HTTP",
+      "NTP"
+    ],
+    "answer": 1,
+    "explanation": "DHCP leases network configuration such as an IP address, subnet mask, default gateway and DNS server to clients.",
+    "difficulty": 2,
+    "source": "Mock Night original IT Support Fundamentals curriculum"
+  },
+  {
+    "track": "ITF",
+    "subject": "ITF",
+    "objective": "ITF-03",
+    "topic": "Name resolution",
+    "body": "A user can reach a server by IP address but not by its hostname. Which service should be investigated first?",
+    "options": [
+      "DNS",
+      "USB",
+      "Bluetooth",
+      "Print spooler"
+    ],
+    "answer": 0,
+    "explanation": "DNS resolves hostnames to IP addresses. Successful IP connectivity but failed hostname access points towards name resolution.",
+    "difficulty": 2,
+    "source": "Mock Night original IT Support Fundamentals curriculum"
+  },
+  {
+    "track": "ITF",
+    "subject": "ITF",
+    "objective": "ITF-04",
+    "topic": "Hardware",
+    "body": "Which statement best describes RAM in a typical computer?",
+    "options": [
+      "It is non-volatile long-term storage",
+      "It is volatile working memory used by running programs",
+      "It is the computer's network interface",
+      "It permanently stores firmware updates"
+    ],
+    "answer": 1,
+    "explanation": "RAM is volatile memory: its contents are normally lost when power is removed. It provides fast working space for active processes.",
+    "difficulty": 2,
+    "source": "Mock Night original IT Support Fundamentals curriculum"
+  },
+  {
+    "track": "ITF",
+    "subject": "ITF",
+    "objective": "ITF-05",
+    "topic": "Security",
+    "body": "What is the main purpose of multi-factor authentication (MFA)?",
+    "options": [
+      "To require two or more different types of evidence to verify identity",
+      "To make passwords shorter",
+      "To encrypt every file on a device automatically",
+      "To replace software updates"
+    ],
+    "answer": 0,
+    "explanation": "MFA combines distinct factor types, such as something you know and something you have, making a stolen password alone less useful.",
+    "difficulty": 2,
+    "source": "Mock Night original IT Support Fundamentals curriculum"
+  },
+  {
+    "track": "ITF",
+    "subject": "ITF",
+    "objective": "ITF-06",
+    "topic": "Access control",
+    "body": "A staff member needs access to one finance application but not the rest of the finance system. Which principle should guide access assignment?",
+    "options": [
+      "Least privilege",
+      "Open access",
+      "Shared administrator accounts",
+      "Permanent elevated permissions"
+    ],
+    "answer": 0,
+    "explanation": "Least privilege grants only the permissions needed for the task, reducing accidental changes and the impact of compromised accounts.",
+    "difficulty": 2,
+    "source": "Mock Night original IT Support Fundamentals curriculum"
+  },
+  {
+    "track": "ITF",
+    "subject": "ITF",
+    "objective": "ITF-07",
+    "topic": "Ticket management",
+    "body": "Which information is most useful to include in a helpdesk ticket?",
+    "options": [
+      "Only the user's first name",
+      "Symptoms, affected device or service, time observed and troubleshooting already attempted",
+      "The technician's personal opinion about the user",
+      "A password supplied by the user"
+    ],
+    "answer": 1,
+    "explanation": "A useful ticket records reproducible symptoms, scope, timing, asset/service details and actions taken. Passwords should never be recorded in tickets.",
+    "difficulty": 2,
+    "source": "Mock Night original IT Support Fundamentals curriculum"
+  },
+  {
+    "track": "ITF",
+    "subject": "ITF",
+    "objective": "ITF-08",
+    "topic": "Operating systems",
+    "body": "On Windows, which built-in utility is commonly used to inspect running processes and resource usage?",
+    "options": [
+      "Task Manager",
+      "Disk Cleanup only",
+      "Notepad",
+      "Character Map"
+    ],
+    "answer": 0,
+    "explanation": "Task Manager shows running processes and CPU, memory, disk and network utilisation, helping diagnose performance issues.",
+    "difficulty": 2,
+    "source": "Mock Night original IT Support Fundamentals curriculum"
+  },
+  {
+    "track": "ITF",
+    "subject": "ITF",
+    "objective": "ITF-09",
+    "topic": "Backup and recovery",
+    "body": "Which practice best improves resilience against accidental deletion and a single-site disaster?",
+    "options": [
+      "Keep the only backup on the same laptop",
+      "Maintain multiple backups, including a copy separated from the primary location",
+      "Rely only on the recycle bin",
+      "Disable backup verification"
+    ],
+    "answer": 1,
+    "explanation": "Multiple copies and an off-site or otherwise isolated copy reduce the risk that one incident destroys both production data and backups.",
+    "difficulty": 2,
+    "source": "Mock Night original IT Support Fundamentals curriculum"
+  },
+  {
+    "track": "ITF",
+    "subject": "ITF",
+    "objective": "ITF-10",
+    "topic": "Hardware safety",
+    "body": "Why should a technician use appropriate electrostatic-discharge (ESD) precautions when handling internal computer components?",
+    "options": [
+      "Static discharge can damage sensitive electronic components",
+      "It increases CPU clock speed",
+      "It prevents all malware infections",
+      "It makes a hard drive waterproof"
+    ],
+    "answer": 0,
+    "explanation": "Electrostatic discharge can damage or degrade sensitive components. Use suitable ESD controls and follow the equipment manufacturer's procedures.",
+    "difficulty": 2,
+    "source": "Mock Night original IT Support Fundamentals curriculum"
+  },
+  {
+    "track": "CCST",
+    "subject": "CCN",
+    "objective": "1.1",
+    "topic": "Standards and concepts",
+    "body": "Which OSI model layer is primarily responsible for logical addressing and routing packets between networks?",
+    "options": [
+      "Physical",
+      "Data Link",
+      "Network",
+      "Application"
+    ],
+    "answer": 2,
+    "explanation": "The Network layer (Layer 3) handles logical addressing and routing between networks. IP operates at this layer.",
+    "difficulty": 2,
+    "source": "https://learningnetwork.cisco.com/s/ccst-networking-exam-topics"
+  },
+  {
+    "track": "CCST",
+    "subject": "CCN",
+    "objective": "1.5",
+    "topic": "Network protocols",
+    "body": "Which protocol normally translates a domain name such as example.com into an IP address?",
+    "options": [
+      "DNS",
+      "DHCP",
+      "FTP",
+      "NTP"
+    ],
+    "answer": 0,
+    "explanation": "DNS provides name resolution, mapping domain names and hostnames to records such as IP addresses.",
+    "difficulty": 2,
+    "source": "https://learningnetwork.cisco.com/s/ccst-networking-exam-topics"
+  },
+  {
+    "track": "CCST",
+    "subject": "CCN",
+    "objective": "1.5",
+    "topic": "Network protocols",
+    "body": "Which protocol is commonly used to automatically lease IP configuration to network clients?",
+    "options": [
+      "SMTP",
+      "DHCP",
+      "SSH",
+      "SNMP"
+    ],
+    "answer": 1,
+    "explanation": "DHCP automatically assigns addresses and other network configuration to clients for a lease period.",
+    "difficulty": 2,
+    "source": "https://learningnetwork.cisco.com/s/ccst-networking-exam-topics"
+  },
+  {
+    "track": "CCST",
+    "subject": "CCN",
+    "objective": "2.2",
+    "topic": "IPv4 addressing",
+    "body": "What subnet mask corresponds to the IPv4 prefix /24?",
+    "options": [
+      "255.0.0.0",
+      "255.255.0.0",
+      "255.255.255.0",
+      "255.255.255.252"
+    ],
+    "answer": 2,
+    "explanation": "A /24 prefix has 24 network bits, represented by 255.255.255.0 in dotted-decimal notation.",
+    "difficulty": 2,
+    "source": "https://learningnetwork.cisco.com/s/ccst-networking-exam-topics"
+  },
+  {
+    "track": "CCST",
+    "subject": "CCN",
+    "objective": "4.4",
+    "topic": "Routing",
+    "body": "A host wants to send traffic to an IP address outside its local subnet. Which device does it normally send the traffic to first?",
+    "options": [
+      "Default gateway",
+      "Local printer",
+      "DNS cache",
+      "Wireless access point's SSID"
+    ],
+    "answer": 0,
+    "explanation": "The default gateway is the router or Layer 3 interface used to reach destinations outside the local subnet.",
+    "difficulty": 2,
+    "source": "https://learningnetwork.cisco.com/s/ccst-networking-exam-topics"
+  },
+  {
+    "track": "CCST",
+    "subject": "CCN",
+    "objective": "4.5",
+    "topic": "Switching",
+    "body": "Which address does an Ethernet switch commonly learn to build its Layer 2 forwarding table?",
+    "options": [
+      "MAC address",
+      "URL",
+      "TCP port number",
+      "DNS hostname"
+    ],
+    "answer": 0,
+    "explanation": "A switch learns source MAC addresses on incoming frames and uses its MAC address table to forward frames within the LAN.",
+    "difficulty": 2,
+    "source": "https://learningnetwork.cisco.com/s/ccst-networking-exam-topics"
+  },
+  {
+    "track": "CCST",
+    "subject": "CCN",
+    "objective": "3.1",
+    "topic": "Cabling and media",
+    "body": "Which medium is generally most resistant to electromagnetic interference over a long cable run?",
+    "options": [
+      "Unshielded copper twisted pair",
+      "Fibre-optic cable",
+      "Unshielded telephone pair",
+      "Coaxial copper"
+    ],
+    "answer": 1,
+    "explanation": "Fibre carries light rather than electrical signals, so it is highly resistant to electromagnetic interference and supports long distances.",
+    "difficulty": 2,
+    "source": "https://learningnetwork.cisco.com/s/ccst-networking-exam-topics"
+  },
+  {
+    "track": "CCST",
+    "subject": "CCN",
+    "objective": "5.3",
+    "topic": "Diagnostics",
+    "body": "Which command is commonly used to test basic IP reachability by sending ICMP echo requests?",
+    "options": [
+      "ping",
+      "mkdir",
+      "format",
+      "whoami"
+    ],
+    "answer": 0,
+    "explanation": "Ping sends ICMP echo requests and reports replies, helping test reachability and round-trip time. A failed ping does not always prove a host is down because filtering may block ICMP.",
+    "difficulty": 2,
+    "source": "https://learningnetwork.cisco.com/s/ccst-networking-exam-topics"
+  },
+  {
+    "track": "CCST",
+    "subject": "CCN",
+    "objective": "6.3",
+    "topic": "Wireless security",
+    "body": "Which wireless security standard is the most recent of these options?",
+    "options": [
+      "WEP",
+      "WPA",
+      "WPA2",
+      "WPA3"
+    ],
+    "answer": 3,
+    "explanation": "WPA3 is newer than WPA2 and improves wireless security. Use the strongest mode supported by the network's devices and policy.",
+    "difficulty": 2,
+    "source": "https://learningnetwork.cisco.com/s/ccst-networking-exam-topics"
+  },
+  {
+    "track": "CCST",
+    "subject": "CCN",
+    "objective": "4.5",
+    "topic": "VLANs",
+    "body": "What is the main purpose of a VLAN on an Ethernet switch?",
+    "options": [
+      "To create logical Layer 2 network segments",
+      "To increase the length of a fibre cable",
+      "To replace IP addressing",
+      "To encrypt every web session"
+    ],
+    "answer": 0,
+    "explanation": "A VLAN logically separates Layer 2 broadcast domains on switching infrastructure, supporting segmentation and traffic management.",
+    "difficulty": 2,
+    "source": "https://learningnetwork.cisco.com/s/ccst-networking-exam-topics"
+  },
+  {
+    "track": "AWS",
+    "subject": "AWC",
+    "objective": "1",
+    "topic": "Cloud concepts",
+    "body": "Which statement best describes the AWS shared responsibility model?",
+    "options": [
+      "AWS is responsible for every customer configuration",
+      "The customer is responsible for all physical data-centre security",
+      "AWS and the customer have different security responsibilities depending on the service",
+      "The model applies only to billing"
+    ],
+    "answer": 2,
+    "explanation": "AWS is responsible for security of the cloud, while customers retain responsibilities in the cloud. The exact split varies by service and configuration.",
+    "difficulty": 2,
+    "source": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
+  },
+  {
+    "track": "AWS",
+    "subject": "AWC",
+    "objective": "1",
+    "topic": "Cloud concepts",
+    "body": "Which cloud benefit allows capacity to increase or decrease as demand changes?",
+    "options": [
+      "Elasticity",
+      "Manual tape rotation",
+      "Fixed capital expenditure",
+      "Single-region lock-in"
+    ],
+    "answer": 0,
+    "explanation": "Elasticity is the ability to match resources to changing demand, scaling up or down as needed.",
+    "difficulty": 2,
+    "source": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
+  },
+  {
+    "track": "AWS",
+    "subject": "AWC",
+    "objective": "2",
+    "topic": "Security and compliance",
+    "body": "Which AWS service is primarily used to manage users, roles and permissions for AWS resources?",
+    "options": [
+      "Amazon Route 53",
+      "AWS Identity and Access Management (IAM)",
+      "Amazon CloudFront",
+      "AWS Pricing Calculator"
+    ],
+    "answer": 1,
+    "explanation": "IAM controls authentication and authorisation through users, groups, roles and policies. Prefer temporary role credentials and least privilege where possible.",
+    "difficulty": 2,
+    "source": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
+  },
+  {
+    "track": "AWS",
+    "subject": "AWC",
+    "objective": "3",
+    "topic": "Cloud technology",
+    "body": "Which AWS service provides object storage commonly used for files, backups and static assets?",
+    "options": [
+      "Amazon S3",
+      "Amazon EC2",
+      "Amazon VPC",
+      "AWS CloudTrail"
+    ],
+    "answer": 0,
+    "explanation": "Amazon Simple Storage Service (S3) is an object storage service designed for scalable storage of data objects in buckets.",
+    "difficulty": 2,
+    "source": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
+  },
+  {
+    "track": "AWS",
+    "subject": "AWC",
+    "objective": "3",
+    "topic": "Cloud technology",
+    "body": "Which AWS service provides resizable virtual server capacity?",
+    "options": [
+      "Amazon EC2",
+      "Amazon S3 Glacier only",
+      "Amazon Route 53",
+      "AWS Artifact"
+    ],
+    "answer": 0,
+    "explanation": "Amazon Elastic Compute Cloud (EC2) provides scalable compute capacity through virtual machine instances.",
+    "difficulty": 2,
+    "source": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
+  },
+  {
+    "track": "AWS",
+    "subject": "AWC",
+    "objective": "3",
+    "topic": "Monitoring",
+    "body": "Which AWS service is commonly used to collect metrics, logs and alarms for monitoring resources?",
+    "options": [
+      "Amazon CloudWatch",
+      "AWS Organizations",
+      "Amazon Route 53",
+      "AWS Budgets only"
+    ],
+    "answer": 0,
+    "explanation": "CloudWatch collects and monitors metrics and logs and can trigger alarms based on defined conditions.",
+    "difficulty": 2,
+    "source": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
+  },
+  {
+    "track": "AWS",
+    "subject": "AWC",
+    "objective": "4",
+    "topic": "Billing and pricing",
+    "body": "Which tool helps estimate the cost of AWS services before deploying a workload?",
+    "options": [
+      "AWS Pricing Calculator",
+      "Amazon Inspector",
+      "AWS CloudTrail",
+      "Amazon GuardDuty"
+    ],
+    "answer": 0,
+    "explanation": "The AWS Pricing Calculator estimates expected costs from selected services, configurations and usage assumptions.",
+    "difficulty": 2,
+    "source": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
+  },
+  {
+    "track": "AWS",
+    "subject": "AWC",
+    "objective": "1",
+    "topic": "Global infrastructure",
+    "body": "What is an Availability Zone in AWS?",
+    "options": [
+      "A distinct location within an AWS Region designed to be isolated from failures in other zones",
+      "A billing currency",
+      "A type of IAM policy",
+      "A public IP address"
+    ],
+    "answer": 0,
+    "explanation": "An Availability Zone consists of one or more discrete data centres with independent power, networking and connectivity within a Region.",
+    "difficulty": 2,
+    "source": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
+  },
+  {
+    "track": "AWS",
+    "subject": "AWC",
+    "objective": "2",
+    "topic": "Security and compliance",
+    "body": "Which action is a recommended way to protect the AWS account root user?",
+    "options": [
+      "Use it for everyday administration",
+      "Enable MFA and avoid using it for routine tasks",
+      "Share its credentials with the whole team",
+      "Disable all account notifications"
+    ],
+    "answer": 1,
+    "explanation": "Protect the root user with MFA, secure its credentials and use appropriately permissioned IAM identities for daily work.",
+    "difficulty": 2,
+    "source": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
+  },
+  {
+    "track": "AWS",
+    "subject": "AWC",
+    "objective": "3",
+    "topic": "Cloud service models",
+    "body": "Which cloud service model gives the customer the greatest control over the operating system and virtual machine configuration?",
+    "options": [
+      "IaaS",
+      "SaaS",
+      "A fully managed email application",
+      "A managed office document editor"
+    ],
+    "answer": 0,
+    "explanation": "Infrastructure as a Service provides compute, storage and networking primitives while the customer manages more of the operating system and applications.",
+    "difficulty": 2,
+    "source": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
+  },
+  {
+    "track": "AZF",
+    "subject": "AZF",
+    "objective": "1",
+    "topic": "Cloud service models",
+    "body": "Which cloud service model provides a complete application that users access without managing its underlying platform?",
+    "options": [
+      "IaaS",
+      "PaaS",
+      "SaaS",
+      "On-premises only"
+    ],
+    "answer": 2,
+    "explanation": "Software as a Service provides a ready-to-use application managed by the provider, while customers configure and use the software.",
+    "difficulty": 2,
+    "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900"
+  },
+  {
+    "track": "AZF",
+    "subject": "AZF",
+    "objective": "1",
+    "topic": "Cloud models",
+    "body": "In a public cloud model, who typically owns and operates the underlying cloud infrastructure?",
+    "options": [
+      "The cloud service provider",
+      "Each customer separately",
+      "The customer's internet provider",
+      "The end user's device manufacturer"
+    ],
+    "answer": 0,
+    "explanation": "The cloud provider owns and operates the shared public cloud infrastructure, while customers configure and use their allocated services.",
+    "difficulty": 2,
+    "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900"
+  },
+  {
+    "track": "AZF",
+    "subject": "AZF",
+    "objective": "2",
+    "topic": "Azure regions",
+    "body": "What is an Azure region?",
+    "options": [
+      "A geographical area containing one or more Azure datacentres",
+      "A user password policy",
+      "A billing invoice",
+      "A type of storage file"
+    ],
+    "answer": 0,
+    "explanation": "An Azure region is a geographical area containing one or more datacentres connected through a low-latency network.",
+    "difficulty": 2,
+    "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900"
+  },
+  {
+    "track": "AZF",
+    "subject": "AZF",
+    "objective": "2",
+    "topic": "Resource groups",
+    "body": "What is the primary purpose of an Azure resource group?",
+    "options": [
+      "To logically group and manage related Azure resources",
+      "To replace Microsoft Entra ID",
+      "To act as a physical network cable",
+      "To store only billing receipts"
+    ],
+    "answer": 0,
+    "explanation": "A resource group is a logical container for resources that are deployed and managed together.",
+    "difficulty": 2,
+    "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900"
+  },
+  {
+    "track": "AZF",
+    "subject": "AZF",
+    "objective": "3",
+    "topic": "Identity and access",
+    "body": "Which Microsoft service provides cloud identity and access management capabilities for Azure?",
+    "options": [
+      "Microsoft Entra ID",
+      "Azure Blob Storage",
+      "Azure Cost Management",
+      "Azure Monitor"
+    ],
+    "answer": 0,
+    "explanation": "Microsoft Entra ID provides identity and access management, including authentication, single sign-on and conditional access capabilities.",
+    "difficulty": 2,
+    "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900"
+  },
+  {
+    "track": "AZF",
+    "subject": "AZF",
+    "objective": "3",
+    "topic": "Role-based access control",
+    "body": "What does Azure role-based access control (RBAC) primarily determine?",
+    "options": [
+      "Which actions a user, group or service principal can perform on Azure resources",
+      "How quickly a virtual machine boots",
+      "Which region has the lowest latency",
+      "How long a storage account name can be"
+    ],
+    "answer": 0,
+    "explanation": "Azure RBAC assigns roles to security principals at scopes such as management group, subscription, resource group or resource.",
+    "difficulty": 2,
+    "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900"
+  },
+  {
+    "track": "AZF",
+    "subject": "AZF",
+    "objective": "3",
+    "topic": "Governance",
+    "body": "Which Azure feature can enforce or audit organisational rules for resource configurations?",
+    "options": [
+      "Azure Policy",
+      "Azure DNS",
+      "Azure Bastion only",
+      "Azure Files"
+    ],
+    "answer": 0,
+    "explanation": "Azure Policy evaluates resources against organisational rules and can audit or enforce compliant configurations.",
+    "difficulty": 2,
+    "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900"
+  },
+  {
+    "track": "AZF",
+    "subject": "AZF",
+    "objective": "3",
+    "topic": "Cost management",
+    "body": "Which tool helps estimate the expected cost of Azure services before deployment?",
+    "options": [
+      "Azure Pricing Calculator",
+      "Azure Service Health",
+      "Microsoft Entra ID",
+      "Azure Cloud Shell"
+    ],
+    "answer": 0,
+    "explanation": "The Azure Pricing Calculator estimates costs based on selected services, regions and expected usage.",
+    "difficulty": 2,
+    "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900"
+  },
+  {
+    "track": "AZF",
+    "subject": "AZF",
+    "objective": "2",
+    "topic": "Storage",
+    "body": "Which Azure service is designed for storing large amounts of unstructured object data?",
+    "options": [
+      "Azure Blob Storage",
+      "Azure Virtual Network",
+      "Azure Policy",
+      "Azure Advisor"
+    ],
+    "answer": 0,
+    "explanation": "Azure Blob Storage stores unstructured object data such as documents, images, backups and media files.",
+    "difficulty": 2,
+    "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900"
+  },
+  {
+    "track": "AZF",
+    "subject": "AZF",
+    "objective": "3",
+    "topic": "Monitoring",
+    "body": "Which Azure service provides a central platform for collecting and analysing monitoring data from Azure resources?",
+    "options": [
+      "Azure Monitor",
+      "Azure Resource Manager template",
+      "Microsoft Purview only",
+      "Azure Marketplace"
+    ],
+    "answer": 0,
+    "explanation": "Azure Monitor collects and analyses telemetry such as metrics and logs to help observe the health and performance of resources.",
+    "difficulty": 2,
+    "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900"
+  },
+  {
+    "track": "PYT",
+    "subject": "PCE",
+    "objective": "1",
+    "topic": "Assignment",
+    "body": "Which operator assigns a value to a variable in Python?",
+    "options": [
+      "==",
+      "=",
+      "!=",
+      "<="
+    ],
+    "answer": 1,
+    "explanation": "The single equals sign (=) assigns a value. The double equals sign (==) compares two values for equality.",
+    "difficulty": 2,
+    "source": "https://pythoninstitute.org/pcep-exam-syllabus"
+  },
+  {
+    "track": "PYT",
+    "subject": "PCE",
+    "objective": "1",
+    "topic": "Indentation",
+    "body": "What does indentation define in Python?",
+    "options": [
+      "The blocks of code belonging to compound statements and functions",
+      "The data type of every variable",
+      "The file encoding only",
+      "The order in which modules are installed"
+    ],
+    "answer": 0,
+    "explanation": "Python uses indentation to delimit code blocks, for example the body of an if statement, loop or function.",
+    "difficulty": 2,
+    "source": "https://pythoninstitute.org/pcep-exam-syllabus"
+  },
+  {
+    "track": "PYT",
+    "subject": "PCE",
+    "objective": "2",
+    "topic": "Loops",
+    "body": "What values are produced by range(3) when iterated in a for loop?",
+    "options": [
+      "1, 2, 3",
+      "0, 1, 2",
+      "0, 1, 2, 3",
+      "3 only"
+    ],
+    "answer": 1,
+    "explanation": "range(3) starts at zero and stops before three, so it yields 0, 1 and 2.",
+    "difficulty": 2,
+    "source": "https://pythoninstitute.org/pcep-exam-syllabus"
+  },
+  {
+    "track": "PYT",
+    "subject": "PCE",
+    "objective": "3",
+    "topic": "Lists",
+    "body": "Which statement about a Python list is correct?",
+    "options": [
+      "A list is mutable, so its elements can be changed",
+      "A list can contain only integers",
+      "A list is always immutable",
+      "A list cannot be indexed"
+    ],
+    "answer": 0,
+    "explanation": "Lists are ordered, indexable and mutable collections. Their elements can be added, removed or replaced.",
+    "difficulty": 2,
+    "source": "https://pythoninstitute.org/pcep-exam-syllabus"
+  },
+  {
+    "track": "PYT",
+    "subject": "PCE",
+    "objective": "3",
+    "topic": "Tuples",
+    "body": "Which built-in collection is ordered and immutable?",
+    "options": [
+      "list",
+      "set",
+      "tuple",
+      "dict"
+    ],
+    "answer": 2,
+    "explanation": "A tuple is an ordered sequence that cannot be modified after creation. Lists, by contrast, are mutable.",
+    "difficulty": 2,
+    "source": "https://pythoninstitute.org/pcep-exam-syllabus"
+  },
+  {
+    "track": "PYT",
+    "subject": "PCE",
+    "objective": "3",
+    "topic": "Dictionaries",
+    "body": "Given d = {'name': 'Ada'}, how do you access the value associated with the key 'name'?",
+    "options": [
+      "d.name",
+      "d['name']",
+      "d( name )",
+      "d->name"
+    ],
+    "answer": 1,
+    "explanation": "Dictionary values are accessed by key using square brackets, so d['name'] returns 'Ada'.",
+    "difficulty": 2,
+    "source": "https://pythoninstitute.org/pcep-exam-syllabus"
+  },
+  {
+    "track": "PYT",
+    "subject": "PCE",
+    "objective": "4",
+    "topic": "Functions",
+    "body": "What is the difference between return and print inside a Python function?",
+    "options": [
+      "return sends a value back to the caller; print displays text",
+      "They always do exactly the same thing",
+      "print ends the program; return never does",
+      "return can only be used with strings"
+    ],
+    "answer": 0,
+    "explanation": "return provides a result to the calling code. print writes output to a stream, usually the console.",
+    "difficulty": 2,
+    "source": "https://pythoninstitute.org/pcep-exam-syllabus"
+  },
+  {
+    "track": "PYT",
+    "subject": "PCE",
+    "objective": "4",
+    "topic": "Exceptions",
+    "body": "Which construct is used to handle an exception that may occur while code runs?",
+    "options": [
+      "try and except",
+      "if and import",
+      "for and range",
+      "class and lambda"
+    ],
+    "answer": 0,
+    "explanation": "A try block contains code that may raise an exception; an except block handles specified exception types.",
+    "difficulty": 2,
+    "source": "https://pythoninstitute.org/pcep-exam-syllabus"
+  },
+  {
+    "track": "PYT",
+    "subject": "PCE",
+    "objective": "5",
+    "topic": "File handling",
+    "body": "Why is 'with open(path) as file:' commonly preferred for file handling?",
+    "options": [
+      "It automatically closes the file when the block exits",
+      "It encrypts the file automatically",
+      "It prevents all file errors",
+      "It converts every file to CSV"
+    ],
+    "answer": 0,
+    "explanation": "The with statement uses a context manager to ensure the file is properly closed when the block finishes, including when an exception occurs.",
+    "difficulty": 2,
+    "source": "https://pythoninstitute.org/pcep-exam-syllabus"
+  },
+  {
+    "track": "PYT",
+    "subject": "PCE",
+    "objective": "3",
+    "topic": "String slicing",
+    "body": "What does the expression 'python'[1:4] return?",
+    "options": [
+      "'pyt'",
+      "'yth'",
+      "'tho'",
+      "'python'"
+    ],
+    "answer": 1,
+    "explanation": "Python slicing includes the start index and excludes the stop index. Indexes 1, 2 and 3 produce 'yth'.",
+    "difficulty": 2,
+    "source": "https://pythoninstitute.org/pcep-exam-syllabus"
+  }
+]

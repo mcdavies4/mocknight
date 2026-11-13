@@ -37,6 +37,11 @@ export const SUBJECTS: Record<string, string> = {
   FOD: "Food Safety and Hygiene Level 2",
   CWR: "Care Workforce Essentials",
   WHS: "Workplace Health and Safety Essentials",
+  ITF: "IT Support Fundamentals",
+  CCN: "Cisco CCST Networking",
+  AWC: "AWS Cloud Practitioner",
+  AZF: "Azure Fundamentals",
+  PCE: "Python Programming Foundations",
 };
 
 /** School subjects with questions. Add codes here once you have questions for them. */

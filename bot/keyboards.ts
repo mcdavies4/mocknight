@@ -1,7 +1,7 @@
 import { InlineKeyboard } from "grammy";
 import { subjectName } from "@/lib/subjects";
 import { formatHour } from "@/lib/time";
-import { getTrack, regionsFor, TRACK_LIST, variantsFor } from "@/lib/tracks";
+import { getTrack, regionsFor, TRACK_LIST, TECH_TRACK_CODES, variantsFor } from "@/lib/tracks";
 import type { Student } from "@/lib/types";
 import { env } from "@/lib/env";
 
@@ -10,6 +10,13 @@ export const DRILL_HOURS = [6, 7, 16, 17, 18, 19, 20, 21];
 export function trackKb() {
   const kb = new InlineKeyboard();
   TRACK_LIST.forEach((t) => kb.text(`${t.emoji} ${t.name}`, `ob:track:${t.code}`).row());
+  return kb;
+}
+
+export function techTrackKb() {
+  const kb = new InlineKeyboard();
+  TRACK_LIST.filter((t) => TECH_TRACK_CODES.includes(t.code as (typeof TECH_TRACK_CODES)[number]))
+    .forEach((t) => kb.text(`${t.emoji} ${t.name}`, `ob:track:${t.code}`).row());
   return kb;
 }
 

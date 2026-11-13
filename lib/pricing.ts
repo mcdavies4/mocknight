@@ -33,6 +33,12 @@ export const PLANS: Record<string, Plan> = {
   carew_pass: { code: "carew_pass", label: "Care Workforce Essentials — 30 days", amount: 4_99, currency: "GBP", days: 30, provider: "stripe" },
   hse_pass: { code: "hse_pass", label: "Workplace Health & Safety — 30 days", amount: 4_99, currency: "GBP", days: 30, provider: "stripe" },
 
+  itf_pass: { code: "itf_pass", label: "IT Support Fundamentals — 90 days", amount: 999, currency: "USD", days: 90, provider: "stripe" },
+  ccst_pass: { code: "ccst_pass", label: "Cisco CCST Networking Practice — 90 days", amount: 1299, currency: "USD", days: 90, provider: "stripe" },
+  aws_pass: { code: "aws_pass", label: "AWS Cloud Practitioner Practice — 90 days", amount: 1299, currency: "USD", days: 90, provider: "stripe" },
+  az900_pass: { code: "az900_pass", label: "Azure Fundamentals AZ-900 Practice — 90 days", amount: 1299, currency: "USD", days: 90, provider: "stripe" },
+  python_pass: { code: "python_pass", label: "Python Foundations — 90 days", amount: 999, currency: "USD", days: 90, provider: "stripe" },
+
   fire_individual: { code: "fire_individual", label: "Fire Marshal course + certificate (12 months)", amount: 14_99, currency: "GBP", days: 365, provider: "stripe" },
 };
 

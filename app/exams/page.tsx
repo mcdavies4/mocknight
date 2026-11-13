@@ -97,6 +97,12 @@ export default function ExamsPage() {
       ))}
 
       <section className="card" style={{ marginTop: 28 }}>
+        <h2 style={{ marginTop: 0 }}>🌍 Technology & Digital Careers</h2>
+        <p className="muted">Explore global IT support, networking, cloud and Python pathways.</p>
+        <Link className="btn" href="/technology">Explore technology pathways</Link>
+      </section>
+
+      <section className="card" style={{ marginTop: 28 }}>
         <h2 style={{ marginTop: 0 }}>Prefer Telegram?</h2>
         <p className="muted">
           Open the Mock Night bot and send <code>/exams</code> to browse or change

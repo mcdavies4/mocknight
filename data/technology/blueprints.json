@@ -1,0 +1,90 @@
+{
+  "checked_on": "2026-11-13",
+  "note": "These are syllabus maps, not question banks. Recheck official vendor guides before each content release.",
+  "pathways": [
+    {
+      "track": "ITF",
+      "subject": "ITF",
+      "title": "IT Support Fundamentals",
+      "type": "independent_skills_pathway",
+      "objectives": [
+        "Computer hardware and peripherals",
+        "Operating systems and basic administration",
+        "User accounts, permissions and endpoint security",
+        "Networking basics and connectivity troubleshooting",
+        "Helpdesk workflow, ticket quality and customer communication",
+        "Backup, recovery and safe escalation"
+      ],
+      "source": "Original Mock Night curriculum; not a vendor certification."
+    },
+    {
+      "track": "CCST",
+      "subject": "CCN",
+      "title": "Cisco CCST Networking 100-150",
+      "objectives": [
+        "Standards and concepts: OSI/TCP-IP, network types, protocols and bandwidth",
+        "Addressing: IPv4, IPv6, private/public addressing, subnet masks and NAT",
+        "Endpoints and media: copper, fibre, Wi-Fi, cellular, devices and connectivity",
+        "Infrastructure: routers, switches, VLANs, ports, cabling and basic routing",
+        "Diagnostics: ping, ipconfig/ip, traceroute, nslookup, Wireshark and support tickets",
+        "Security: firewalls, CIA, AAA, MFA, encryption, threats and wireless security"
+      ],
+      "source": "https://learningnetwork.cisco.com/s/ccst-networking-exam-topics"
+    },
+    {
+      "track": "AWS",
+      "subject": "AWC",
+      "title": "AWS Certified Cloud Practitioner CLF-C02",
+      "weightings": {
+        "Cloud Concepts": "24%",
+        "Security and Compliance": "30%",
+        "Cloud Technology and Services": "34%",
+        "Billing, Pricing and Support": "12%"
+      },
+      "objectives": [
+        "Cloud value, shared responsibility and cloud economics",
+        "Security, compliance, identity and access management",
+        "Core AWS services, global infrastructure and cloud architecture concepts",
+        "Billing, pricing models, support plans and cost tools"
+      ],
+      "source": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
+    },
+    {
+      "track": "AZF",
+      "subject": "AZF",
+      "title": "Microsoft Azure Fundamentals AZ-900",
+      "weightings": {
+        "Cloud concepts": "25\u201330%",
+        "Azure architecture and services": "35\u201340%",
+        "Azure management and governance": "30\u201335%"
+      },
+      "objectives": [
+        "Cloud computing, shared responsibility, cloud models, consumption and service types",
+        "Azure regions, availability zones, resources, subscriptions and management groups",
+        "Compute, networking, storage, identity, access and security",
+        "Cost management, governance, Azure Policy, resource locks, deployment and monitoring"
+      ],
+      "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900"
+    },
+    {
+      "track": "PYT",
+      "subject": "PCE",
+      "title": "Python Programming Foundations \u2014 PCEP-30-03 aligned",
+      "weightings": {
+        "Programming and Python fundamentals": "17%",
+        "Control flow": "23%",
+        "Data collections": "26%",
+        "Functions and exceptions": "20%",
+        "File handling and module imports": "14%"
+      },
+      "objectives": [
+        "Python syntax, variables, operators, input/output and type conversions",
+        "Conditions, loops, range, break, continue and pass",
+        "Lists, tuples, sets, dictionaries, strings, indexing and slicing",
+        "Functions, parameters, return values, scope and exception handling",
+        "Text files, CSV basics and importing standard-library modules"
+      ],
+      "source": "https://pythoninstitute.org/pcep-exam-syllabus"
+    }
+  ]
+}

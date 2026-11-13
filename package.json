@@ -9,6 +9,7 @@
     "typecheck": "tsc --noEmit",
     "set-webhook": "tsx scripts/set-webhook.ts",
     "import-questions": "tsx scripts/import-questions.ts",
+    "import-technology-questions": "tsx scripts/import-technology-questions.ts",
     "generate-questions": "tsx scripts/generate-questions.ts",
     "build-bank": "tsx scripts/build-bank.ts",
     "check-env": "tsx scripts/check-env.ts"

@@ -10,6 +10,12 @@ export default function Home() {
         <p><Link className="btn" href="/exams">Explore all exam pathways</Link></p>
       </section>
 
+      <section className="card" style={{ marginBottom: 12 }}>
+        <h2 style={{ marginTop: 0 }}>🌍 Technology & Digital Careers</h2>
+        <p>Global IT support, Cisco networking, AWS, Azure and Python learning pathways — with practice on web and Telegram.</p>
+        <Link className="btn" href="/technology">Explore technology pathways</Link>
+      </section>
+
       <div className="grid2">
         <div className="card">
           <h2 style={{ marginTop: 0 }}>🇬🇧 Life in the UK Test</h2>

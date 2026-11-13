@@ -17,7 +17,7 @@ import { attachReferrer, redeemLinkCode, referralCount, refLinks } from "@/lib/r
 import { REFERRAL_DAYS } from "@/lib/pricing";
 import { money, PLANS, SEATS, FREE_DAILY_QUESTIONS, PREMIUM_DAILY_QUESTIONS } from "@/lib/pricing";
 import type { Student } from "@/lib/types";
-import { menuKb, statesKb, subjectsKb, timeKb, trackKb } from "./keyboards";
+import { menuKb, statesKb, subjectsKb, techTrackKb, timeKb, trackKb } from "./keyboards";
 
 type Ctx = Context & { student?: Student };
 const zoneLabel = (s: Student) => timeLabelFor(getTrack(s.track));
@@ -447,6 +447,12 @@ function register(bot: Bot<Ctx>) {
     if (!isPrivate(ctx)) return;
     const s = await updateStudent(ctx.student!.id, { onboarding_step: "exam" });
     return promptStep(ctx.api, s);
+  });
+
+  bot.command("tech", async (ctx) => {
+    if (!isPrivate(ctx)) return;
+    await updateStudent(ctx.student!.id, { onboarding_step: "exam" });
+    return ctx.reply("🌍 *Technology & Digital Careers*\\nChoose a pathway:", { parse_mode: "Markdown", reply_markup: techTrackKb() });
   });
 
   // Browse or switch exam pathways without creating a new Telegram account.
