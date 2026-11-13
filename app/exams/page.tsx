@@ -28,6 +28,11 @@ const PATHS: Record<TrackCode, string> = {
   ETH: "/ethiopia",
   SSC: "/ssc",
   SAT: "/digital-sat",
+  ITF: "/app?track=ITF",
+  CCST: "/app?track=CCST",
+  AWS: "/app?track=AWS",
+  AZF: "/app?track=AZF",
+  PYT: "/app?track=PYT",
 };
 
 const GROUPS: { title: string; description: string; codes: TrackCode[] }[] = [
@@ -40,6 +45,11 @@ const GROUPS: { title: string; description: string; codes: TrackCode[] }[] = [
     title: "Professional & career exams",
     description: "Practise for professional qualifications and career progression tests.",
     codes: ["PM", "NMC", "SSC", "DRIVE", "FSE", "FSM", "CITB", "SIA"],
+  },
+  {
+    title: "Technology & digital skills",
+    description: "Build practical IT, networking, cloud computing and programming knowledge.",
+    codes: ["ITF", "CCST", "AWS", "AZF", "PYT"],
   },
   {
     title: "Citizenship & workplace training",
