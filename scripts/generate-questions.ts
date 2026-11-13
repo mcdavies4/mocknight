@@ -6,13 +6,17 @@
  *   # teacher checks data/generated/PHY-....json, then:
  *   npm run import-questions -- data/generated/PHY-....json --reviewed --source=ai+teacher
  */
-import "dotenv/config";
+import "./load-env";
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const [subject, topic, countRaw] = process.argv.slice(2);
 const count = Number(countRaw ?? 15);
 if (!subject || !topic) {
   console.error('Usage: npm run generate-questions -- <SUBJECT_CODE> "<topic>" [count]');
+  process.exit(1);
+}
+if (!process.env.ANTHROPIC_API_KEY || /YOUR[-_ ]|PLACEHOLDER|CHANGE[-_ ]ME|\[SENSITIVE\]/i.test(process.env.ANTHROPIC_API_KEY)) {
+  console.error("ANTHROPIC_API_KEY is missing or still a placeholder. Add it to .env.import.local, .env.local or .env.");
   process.exit(1);
 }
 

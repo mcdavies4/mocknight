@@ -2,7 +2,7 @@
  * Point Telegram at your deployed app and register the command menu.
  *   npm run set-webhook
  */
-import "dotenv/config";
+import "./load-env";
 import { Bot } from "grammy";
 
 const bot = new Bot(process.env.TELEGRAM_BOT_TOKEN!);

@@ -18,6 +18,11 @@ const PATHS: Record<TrackCode, string> = {
   FSE: "/app?track=FSE",
   FSM: "/app?track=FSM",
   CARE: "/app?track=CARE",
+  CITB: "/app?track=CITB",
+  SIA: "/app?track=SIA",
+  FOOD: "/app?track=FOOD",
+  CAREW: "/app?track=CAREW",
+  HSE: "/app?track=HSE",
   NMC: "/nmc-cbt",
   PM: "/project-management",
   ETH: "/ethiopia",
@@ -34,12 +39,12 @@ const GROUPS: { title: string; description: string; codes: TrackCode[] }[] = [
   {
     title: "Professional & career exams",
     description: "Practise for professional qualifications and career progression tests.",
-    codes: ["PM", "NMC", "SSC", "DRIVE", "FSE", "FSM"],
+    codes: ["PM", "NMC", "SSC", "DRIVE", "FSE", "FSM", "CITB", "SIA"],
   },
   {
     title: "Citizenship & workplace training",
     description: "Build confidence for a UK knowledge test or structured workplace training.",
-    codes: ["LUK", "FIRE", "CARE"],
+    codes: ["LUK", "FIRE", "CARE", "FOOD", "CAREW", "HSE"],
   },
 ];
 
@@ -51,8 +56,7 @@ export default function ExamsPage() {
         <h1>What are you preparing for?</h1>
         <p className="muted">
           Choose a pathway to find the practice tests and learning tools currently
-          available. New qualifications will be added as their exam formats and
-          question banks are reviewed.
+          available. New qualifications and question banks are added as they become available. Some UK pathways use original AI-authored practice questions, which are not official exam questions or independently human-verified material.
         </p>
       </section>
 
@@ -82,13 +86,9 @@ export default function ExamsPage() {
                           ? "Citizenship test"
                           : "Academic preparation"}
                   </p>
-                  {track.launchStatus === "preparing" ? (
-                    <p className="muted small" style={{ marginBottom: 0 }}>Question bank in preparation</p>
-                  ) : (
-                    <Link className="btn block" href={PATHS[code]}>
-                      Explore pathway
-                    </Link>
-                  )}
+                  <Link className="btn block" href={PATHS[code]}>
+                    Explore pathway
+                  </Link>
                 </article>
               );
             })}

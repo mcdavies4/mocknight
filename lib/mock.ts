@@ -178,7 +178,8 @@ async function startWeekly(student: Student, mockId: string, subjects: string[])
 
 async function startPractice(student: Student, defaultSubjects: string[], variantKey: string | null): Promise<MockPayload> {
   const track = getTrack(student.track);
-  const cfg = mockConfig(track, variantKey);
+  const inferredVariant = variantKey ?? (track.code === "FSE" ? (defaultSubjects[0] === "FSE2" ? "L2" : "L1") : track.code === "FSM" ? (defaultSubjects[0] === "FSM2" ? "L2" : "L1") : null);
+  const cfg = mockConfig(track, inferredVariant);
   const subjects = cfg.subjects ?? defaultSubjects;
 
   // Resume an unfinished practice mock of the same kind if there is one

@@ -34,13 +34,15 @@ export async function GET(req: Request) {
     await probe("0004 NMC test variants", () => db().from("mocks").select("variant").limit(1));
     await probe("0005 project management subjects", () => db().from("subjects").select("code").eq("code", "PRN").single());
     await probe("0006 Ethiopia & India subjects", () => db().from("subjects").select("code").eq("code", "QNT").single());
+    await probe("0007 UK pathway subjects", () => db().from("subjects").select("code").eq("code", "DRV").single());
+    await probe("0008 UK practice publication", () => db().from("questions").select("practice_published").limit(1));
     out.migrations = checks;
 
-    const subjects = ["ENG", "MTH", "PHY", "CHM", "BIO", "ECO", "GOV", "LUK", "FIR", "NMN", "NMC", "PRN", "SCR", "PMF", "APT", "QNT", "GAI", "HIS", "GEO"];
+    const subjects = ["ENG", "MTH", "PHY", "CHM", "BIO", "ECO", "GOV", "LUK", "FIR", "NMN", "NMC", "PRN", "SCR", "PMF", "APT", "QNT", "GAI", "HIS", "GEO", "DRV", "FSE1", "FSE2", "FSM1", "FSM2", "CAR"];
     const counts: Record<string, string> = {};
     for (const s of subjects) {
       const [{ count: reviewed }, { count: all }] = await Promise.all([
-        db().from("questions").select("*", { count: "exact", head: true }).eq("subject_code", s).eq("reviewed", true),
+        db().from("questions").select("*", { count: "exact", head: true }).eq("subject_code", s).or("reviewed.eq.true,practice_published.eq.true"),
         db().from("questions").select("*", { count: "exact", head: true }).eq("subject_code", s),
       ]);
       counts[s] = `${reviewed ?? 0} live / ${all ?? 0} total`;

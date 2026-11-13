@@ -2,7 +2,7 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
 export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
@@ -54,8 +54,6 @@ export interface Track {
   mockVariants?: MockVariant[];
   /** Who the AI tutor is talking to */
   audience?: string;
-  /** Keep a track out of learner onboarding until its reviewed question bank is ready. */
-  launchStatus?: "active" | "preparing";
 }
 
 const SCHOOL_SUBJECTS = ["ENG", "MTH", "PHY", "CHM", "BIO", "ECO", "GOV"];
@@ -107,25 +105,24 @@ export const TRACKS: Record<TrackCode, Track> = {
     course: { certificateDays: 365, certificateTitle: "Fire Marshal / Fire Warden Training" },
   },
   DRIVE: {
-    code: "DRIVE", name: "GB Car Driving Theory", short: "Driving Theory",
+    code: "DRIVE", name: "UK Driving Theory", short: "Driving Theory",
     emoji: "🚗", kind: "professional", region: "UK", currency: "GBP",
     subjectMode: "single", subjects: ["DRV"], compulsory: ["DRV"],
     minSubjects: 1, maxSubjects: 1, subjectNote: "",
     mock: { total: 50, minutes: 57, passPct: 86, scoreStyle: "passfail", maxSubjects: 1 },
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["drive_pass"],
-    tagline: "Original Great Britain car theory multiple-choice practice; hazard perception is not included",
+    tagline: "Practise UK driving theory multiple-choice questions and build test confidence",
     timeZone: "Europe/London",
-    launchStatus: "preparing",
-    audience: "Great Britain car driving theory test candidates in England, Scotland and Wales",
+    audience: "UK car driving theory test candidates",
   },
 
   FSE: {
-    code: "FSE", name: "Functional Skills English (England)", short: "Functional English",
+    code: "FSE", name: "Functional Skills English", short: "Functional English",
     emoji: "📖", kind: "professional", region: "UK", currency: "GBP",
     subjectMode: "multi", subjects: ["FSE1", "FSE2"],
     compulsory: [], minSubjects: 1, maxSubjects: 1,
-    subjectNote: "Choose the qualification level you are studying. You can change it later.",
+    subjectNote: "Choose Level 1 or Level 2",
     mock: { total: 20, minutes: 45, passPct: 60, scoreStyle: "percent", maxSubjects: 1 },
     mockVariants: [
       { key: "L1", label: "Level 1", short: "Level 1", subjects: ["FSE1"], total: 20, minutes: 45, passPct: 60, note: "20 questions · 45 minutes · practice target 60%" },
@@ -135,15 +132,14 @@ export const TRACKS: Record<TrackCode, Track> = {
     plans: ["fse_pass"],
     tagline: "Build English skills with Level 1 and Level 2 practice",
     timeZone: "Europe/London",
-    launchStatus: "preparing",
   },
 
   FSM: {
-    code: "FSM", name: "Functional Skills Maths (England)", short: "Functional Maths",
+    code: "FSM", name: "Functional Skills Maths", short: "Functional Maths",
     emoji: "🔢", kind: "professional", region: "UK", currency: "GBP",
     subjectMode: "multi", subjects: ["FSM1", "FSM2"],
     compulsory: [], minSubjects: 1, maxSubjects: 1,
-    subjectNote: "Choose the qualification level you are studying. You can change it later.",
+    subjectNote: "Choose Level 1 or Level 2",
     mock: { total: 20, minutes: 45, passPct: 60, scoreStyle: "percent", maxSubjects: 1 },
     mockVariants: [
       { key: "L1", label: "Level 1", short: "Level 1", subjects: ["FSM1"], total: 20, minutes: 45, passPct: 60, note: "20 questions · 45 minutes · practice target 60%" },
@@ -153,11 +149,10 @@ export const TRACKS: Record<TrackCode, Track> = {
     plans: ["fsm_pass"],
     tagline: "Practise essential maths skills at Level 1 and Level 2",
     timeZone: "Europe/London",
-    launchStatus: "preparing",
   },
 
   CARE: {
-    code: "CARE", name: "Care Certificate Revision (England)", short: "Care Certificate",
+    code: "CARE", name: "Care Certificate Revision", short: "Care Certificate",
     emoji: "🩺", kind: "work", region: "UK", currency: "GBP",
     subjectMode: "single", subjects: ["CAR"], compulsory: ["CAR"],
     minSubjects: 1, maxSubjects: 1, subjectNote: "",
@@ -166,10 +161,54 @@ export const TRACKS: Record<TrackCode, Track> = {
     plans: ["care_pass"],
     tagline: "Revise the Care Certificate standards with practice questions",
     timeZone: "Europe/London",
-    launchStatus: "preparing",
-    audience: "People undertaking Care Certificate learning and workplace assessment in England",
+    audience: "People undertaking Care Certificate learning and workplace assessment",
   },
 
+  CITB: {
+    code: "CITB", name: "CITB HS&E — Operatives Practice", short: "CITB Operatives",
+    emoji: "🏗️", kind: "professional", region: "UK", currency: "GBP",
+    subjectMode: "single", subjects: ["CTH"], compulsory: ["CTH"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 50, minutes: 45, passPct: 90, scoreStyle: "passfail", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false, plans: ["citb_pass"],
+    tagline: "Original practice for construction health, safety and environmental awareness",
+    timeZone: "Europe/London", audience: "a construction worker preparing for the CITB Health, Safety and Environment Operatives test",
+  },
+  SIA: {
+    code: "SIA", name: "SIA Door Supervisor — Revision", short: "SIA Door Supervisor",
+    emoji: "🛡️", kind: "professional", region: "UK", currency: "GBP",
+    subjectMode: "single", subjects: ["SIAQ"], compulsory: ["SIAQ"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 40, minutes: 60, passPct: 70, scoreStyle: "percent", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false, plans: ["sia_pass"],
+    tagline: "Practice security knowledge, communication, conflict management and safeguarding",
+    timeZone: "Europe/London", audience: "a learner revising for an SIA Door Supervisor licence-linked qualification",
+  },
+  FOOD: {
+    code: "FOOD", name: "Food Safety & Hygiene — Level 2 Practice", short: "Food Safety Level 2",
+    emoji: "🥗", kind: "work", region: "UK", currency: "GBP",
+    subjectMode: "single", subjects: ["FOD"], compulsory: ["FOD"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 30, minutes: 40, passPct: 70, scoreStyle: "percent", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false, plans: ["food_pass"],
+    tagline: "Practise food hygiene, contamination control, temperature safety and allergens",
+    timeZone: "Europe/London", audience: "a food handler or supervisor studying food safety and hygiene at Level 2 depth",
+  },
+  CAREW: {
+    code: "CAREW", name: "Care Workforce Essentials", short: "Care Workforce",
+    emoji: "🤝", kind: "work", region: "UK", currency: "GBP",
+    subjectMode: "single", subjects: ["CWR"], compulsory: ["CWR"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 30, minutes: 45, passPct: 70, scoreStyle: "percent", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false, plans: ["carew_pass"],
+    tagline: "Practical care scenarios covering dignity, safeguarding, communication and safe support",
+    timeZone: "Europe/London", audience: "a new or developing adult social care worker revising practical care knowledge",
+  },
+  HSE: {
+    code: "HSE", name: "Workplace Health & Safety Essentials", short: "Workplace H&S",
+    emoji: "🦺", kind: "work", region: "UK", currency: "GBP",
+    subjectMode: "single", subjects: ["WHS"], compulsory: ["WHS"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 30, minutes: 40, passPct: 70, scoreStyle: "percent", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false, plans: ["hse_pass"],
+    tagline: "Build practical knowledge of risk assessment, COSHH, PPE and workplace hazards",
+    timeZone: "Europe/London", audience: "a UK worker building general workplace health and safety awareness",
+  },
   NMC: {
     code: "NMC", name: "NMC CBT (nursing)", short: "NMC CBT", emoji: "🩺", kind: "professional", region: "UK", currency: "GBP",
     subjectMode: "single", subjects: ["NMN", "NMC"], compulsory: ["NMN", "NMC"], minSubjects: 2, maxSubjects: 2, subjectNote: "",

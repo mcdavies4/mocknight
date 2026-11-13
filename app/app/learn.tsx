@@ -149,7 +149,10 @@ function Login({ preTrack }: { preTrack: string | null }) {
 
 // ---------------------------------------------------------------------------
 function Onboard({ me, preTrack, onDone, onCancel }: { me: Me; preTrack: string | null; onDone: () => void; onCancel?: () => void }) {
-  const initial = me.student.track ?? (preTrack && me.tracks.some((t) => t.code === preTrack) ? preTrack : null);
+  // A pathway card must switch an existing learner to the pathway they clicked.
+  // Otherwise an existing account silently keeps its previous track.
+  const requestedTrack = preTrack && me.tracks.some((track) => track.code === preTrack) ? preTrack : null;
+  const initial = requestedTrack ?? me.student.track;
   const [code, setCode] = useState<string | null>(initial);
   const t = me.tracks.find((x) => x.code === code) ?? null;
   const [subjects, setSubjects] = useState<string[]>(me.student.track === code ? me.student.subjects : []);
@@ -210,7 +213,7 @@ function Onboard({ me, preTrack, onDone, onCancel }: { me: Me; preTrack: string 
 
           {t.subjectMode === "multi" && (
             <>
-              <h3 style={{ marginBottom: 2 }}>Subjects</h3>
+              <h3 style={{ marginBottom: 2 }}>{t.code === "FSE" || t.code === "FSM" ? "Choose your level" : "Subjects"}</h3>
               <p className="muted small" style={{ marginTop: 0 }}>{t.subjectNote}</p>
               <div style={{ display: "flex", flexWrap: "wrap", gap: 8 }}>
                 {t.subjects.map((s) => (
@@ -331,10 +334,7 @@ function Home({ me, reload, onDrill, onSettings, onLesson }: { me: Me; reload: (
       <div className="card">
         <b>{me.track?.hasCourse ? "🧪 Final assessment" : passFail ? "🧪 Full practice test" : "🖥 Practice CBT"}</b>
         <p className="muted small" style={{ margin: "4px 0 10px" }}>
-          {testSize} questions · {t.mock.minutes} minutes{passFail ? ` · ${t.mock.passPct}% practice target` : ""}.
-          {t.code === "DRIVE" && " Multiple-choice practice only; hazard perception is not included."}
-          {(t.code === "FSE" || t.code === "FSM") && " Skills practice only; this is not a complete awarding-body assessment."}
-          {t.code === "CARE" && " Revision practice only; workplace assessment is completed separately."}
+          {testSize} questions · {t.mock.minutes} minutes{passFail ? ` · ${t.mock.passPct}% to pass` : ""} — just like the real thing.
         </p>
         <a className="btn block" href="/mock">Start a test</a>
       </div>

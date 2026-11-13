@@ -6,7 +6,7 @@
  * JSON format: [{ subject, topic?, body, options[], answer (0-based), explanation?, difficulty? }]
  * Pass --reviewed only after a teacher has checked the file. Unreviewed questions are stored but never served.
  */
-import "dotenv/config";
+import "./load-env";
 import { readFileSync } from "node:fs";
 import { createClient } from "@supabase/supabase-js";
 
@@ -29,7 +29,28 @@ if (!file) {
   process.exit(1);
 }
 
-const sb = createClient(process.env.SUPABASE_URL!, process.env.SUPABASE_SERVICE_ROLE_KEY!, { auth: { persistSession: false } });
+const supabaseUrl = process.env.SUPABASE_URL?.trim();
+const serviceRoleKey = process.env.SUPABASE_SERVICE_ROLE_KEY?.trim();
+const isPlaceholder = (value: string | undefined) => !value || /YOUR[-_ ]|PLACEHOLDER|CHANGE[-_ ]ME|\[SENSITIVE\]|^xxxx/i.test(value);
+
+if (isPlaceholder(supabaseUrl) || isPlaceholder(serviceRoleKey)) {
+  console.error("Supabase import credentials are missing or still placeholders.");
+  console.error("Create .env.import.local in the project root with these two entries:");
+  console.error("SUPABASE_URL=https://YOUR-PROJECT-REF.supabase.co");
+  console.error("SUPABASE_SERVICE_ROLE_KEY=YOUR-SUPABASE-SERVICE-ROLE-KEY");
+  console.error("Get both from Supabase → Project Settings → API. Use the service_role/secret key only in this private local file.");
+  process.exit(1);
+}
+
+try {
+  const parsed = new URL(supabaseUrl!);
+  if (!/^https?:$/.test(parsed.protocol)) throw new Error("URL must use http or https");
+} catch {
+  console.error("SUPABASE_URL is not a valid URL. Copy the Project URL from Supabase → Project Settings → API.");
+  process.exit(1);
+}
+
+const sb = createClient(supabaseUrl!, serviceRoleKey!, { auth: { persistSession: false } });
 const rows = JSON.parse(readFileSync(file, "utf8")) as Row[];
 
 const problems: string[] = [];

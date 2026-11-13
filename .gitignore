@@ -4,5 +4,7 @@ node_modules
 .env.local
 *.tsbuildinfo
 next-env.d.ts
-.vercel
+
+# Never commit local secrets (including importer-specific files)
 .env*
+!.env.example

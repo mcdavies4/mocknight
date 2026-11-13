@@ -27,6 +27,11 @@ export const PLANS: Record<string, Plan> = {
   fse_pass: { code: "fse_pass", label: "Functional Skills English — 30 days", amount: 7_99, currency: "GBP", days: 30, provider: "stripe" },
   fsm_pass: { code: "fsm_pass", label: "Functional Skills Maths — 30 days", amount: 7_99, currency: "GBP", days: 30, provider: "stripe" },
   care_pass: { code: "care_pass", label: "Care Certificate Revision — 90 days", amount: 9_99, currency: "GBP", days: 90, provider: "stripe" },
+  citb_pass: { code: "citb_pass", label: "CITB HS&E Operatives Practice — 30 days", amount: 5_99, currency: "GBP", days: 30, provider: "stripe" },
+  sia_pass: { code: "sia_pass", label: "SIA Door Supervisor Revision — 30 days", amount: 7_99, currency: "GBP", days: 30, provider: "stripe" },
+  food_pass: { code: "food_pass", label: "Food Safety Level 2 Practice — 30 days", amount: 4_99, currency: "GBP", days: 30, provider: "stripe" },
+  carew_pass: { code: "carew_pass", label: "Care Workforce Essentials — 30 days", amount: 4_99, currency: "GBP", days: 30, provider: "stripe" },
+  hse_pass: { code: "hse_pass", label: "Workplace Health & Safety — 30 days", amount: 4_99, currency: "GBP", days: 30, provider: "stripe" },
 
   fire_individual: { code: "fire_individual", label: "Fire Marshal course + certificate (12 months)", amount: 14_99, currency: "GBP", days: 365, provider: "stripe" },
 };

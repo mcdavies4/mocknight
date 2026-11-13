@@ -32,6 +32,11 @@ export const SUBJECTS: Record<string, string> = {
   FSM1: "Functional Skills Maths Level 1",
   FSM2: "Functional Skills Maths Level 2",
   CAR: "Care Certificate",
+  CTH: "CITB HS&E Operatives Practice",
+  SIAQ: "SIA Door Supervisor Revision",
+  FOD: "Food Safety and Hygiene Level 2",
+  CWR: "Care Workforce Essentials",
+  WHS: "Workplace Health and Safety Essentials",
 };
 
 /** School subjects with questions. Add codes here once you have questions for them. */

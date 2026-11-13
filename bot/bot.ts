@@ -323,7 +323,7 @@ function register(bot: Bot<Ctx>) {
     } else if (s.onboarding_step === "exam") {
       // Deep links like t.me/<bot>?start=eth or ?start=ssc pre-select the exam
       const pre = TRACKS[payload.toUpperCase() as TrackCode];
-      if (pre && pre.launchStatus !== "preparing") {
+      if (pre) {
         await ctx.reply(`Welcome to *Mock Night* 👋\n\n${pre.emoji} *${pre.name}*: ${pre.tagline}.\n\nLet's set you up — takes 30 seconds.`, { parse_mode: "Markdown" });
         const u = await updateStudent(s.id, {
           track: pre.code,
@@ -558,7 +558,7 @@ function register(bot: Bot<Ctx>) {
   // ---- Onboarding callbacks -----------------------------------------------
   bot.callbackQuery(/^ob:track:([A-Z]+)$/, async (ctx) => {
     const code = ctx.match[1] as TrackCode;
-    if (!TRACKS[code] || TRACKS[code].launchStatus === "preparing") return ctx.answerCallbackQuery();
+    if (!TRACKS[code]) return ctx.answerCallbackQuery();
     const t = TRACKS[code];
     const s = ctx.student!;
     await ctx.answerCallbackQuery();
@@ -574,7 +574,7 @@ function register(bot: Bot<Ctx>) {
     await ctx.editMessageText(subjectsText(u), { reply_markup: subjectsKb(u) });
   });
 
-  bot.callbackQuery(/^ob:sub:([A-Z]{3})$/, async (ctx) => {
+  bot.callbackQuery(/^ob:sub:([A-Z0-9]{3,5})$/, async (ctx) => {
     const code = ctx.match[1];
     const s = ctx.student!;
     const t = getTrack(s.track);
@@ -594,7 +594,7 @@ function register(bot: Bot<Ctx>) {
   bot.callbackQuery("ob:subdone", async (ctx) => {
     const s = ctx.student!;
     const t = getTrack(s.track);
-    if (s.subjects.length < t.minSubjects) return ctx.answerCallbackQuery({ text: `${t.short}: ${t.subjectNote}.`, show_alert: true });
+    if (s.subjects.length < t.minSubjects || s.subjects.length > t.maxSubjects) return ctx.answerCallbackQuery({ text: `${t.short}: ${t.subjectNote}.`, show_alert: true });
     await ctx.answerCallbackQuery();
     await ctx.editMessageText(`Subjects: ${s.subjects.map(subjectName).join(", ")} ✅`);
     // Returning users (from /settings) already have a state — skip straight to done

@@ -46,6 +46,12 @@ Stack: Next.js 15 (App Router) · grammY · Supabase (Postgres) · Paystack · V
 2. In the SQL Editor, paste and run `supabase/migrations/0001_init.sql`.
 3. Copy the Project URL and the **service_role** key from Settings → API.
 
+
+### Local environment files for scripts
+Maintenance scripts load credentials in this order: `.env.import.local`, `.env.local`, then `.env` (shell variables take priority). For question imports, create `.env.import.local` in the project root with `SUPABASE_URL` and `SUPABASE_SERVICE_ROLE_KEY` from Supabase → Project Settings → API. Never paste the service-role key into chat or commit it to Git. Run `npm run check-env` to check whether required values are present; it never prints secret values.
+
+For web sign-in, Vercel also needs `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY` (the anon/public key, not the service-role key). Add them to the relevant Vercel environments and redeploy.
+
 ### 3. Paystack
 1. Copy your secret key (start with `sk_test_…`).
 2. Set the webhook URL in Paystack Settings → API Keys & Webhooks to `https://YOUR_APP/api/paystack/webhook`.
@@ -84,7 +90,7 @@ npm run generate-questions -- CHM "Electrolysis" 20
 # teacher checks data/generated/CHM-Electrolysis-....json, then:
 npm run import-questions -- data/generated/CHM-Electrolysis-....json --reviewed --source=ai+teacher
 ```
-Only questions marked `reviewed = true` are ever shown to students.
+Only questions marked `reviewed = true` or explicitly `practice_published = true` are served. `practice_published` is reserved for transparently labelled practice material that has not been independently human-reviewed.
 
 **Adding a subject:** add its code to `OFFERED_SUBJECTS` in `lib/subjects.ts` once it has questions.
 
@@ -137,3 +143,10 @@ The engine already supports it:
 2. Add a "Post-UTME" exam option in onboarding with a university picker.
 3. Filter `pick_new_questions` / `pick_random_questions` by university.
 4. Add per-university practice mocks (most use 50 questions in 30–60 minutes).
+
+
+## UK pathway release
+See `UK-PATHWAYS-RELEASE.md` for the four UK pathways and the 600-question import process. Apply migration `0008_uk_practice_publication.sql` after `0007_uk_tracks.sql`.
+
+## UK pathway expansion
+See [UK-PATHWAYS-RELEASE.md](./UK-PATHWAYS-RELEASE.md) for the combined 11-bank release, Telegram behaviour, content limitations and deployment sequence. The five added practice banks are imported with `npx tsx scripts/uk/import-all-uk-banks.ts` after migrations 0007–0009 are applied.

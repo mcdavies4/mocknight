@@ -12,9 +12,6 @@ export async function POST(req: Request) {
   if (!student) return unauthorized();
   const t = TRACKS[body.track as TrackCode];
   if (!t) return NextResponse.json({ error: "BAD_TRACK" }, { status: 400 });
-  if (t.launchStatus === "preparing") {
-    return NextResponse.json({ error: "TRACK_PREPARING" }, { status: 409 });
-  }
 
   let subjects: string[] = t.subjects;
   if (t.subjectMode === "multi") {
