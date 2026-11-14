@@ -14,7 +14,7 @@ export const BANK_TARGETS: Record<string, number> = {
   // Project management, India
   PRN: 600, SCR: 600, PMF: 600, APT: 800, QNT: 800, GAI: 800,
   // Expansion tracks
-  USC: 400, CAN: 400, AUS: 400, GNX: 1000, IEV: 800, VRB: 600, PMP: 800, ABT: 600, AMA: 600, AFA: 600, ITL: 400, SSG: 500, VRS: 800, ELM: 800,
+  USC: 400, CAN: 400, AUS: 400, GNX: 1000, IEV: 800, VRB: 600, PMP: 800, ABT: 600, AMA: 600, AFA: 600, ITL: 400, SSG: 500, VRS: 800, ELM: 800, OEH: 800, UDM: 600, USJ: 500, ISC: 600, SST: 600,
 };
 
 /** Calculation-heavy banks stay code-generated (exact answers), not AI-written. */

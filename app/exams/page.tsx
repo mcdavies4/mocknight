@@ -39,6 +39,11 @@ const PATHS: Record<TrackCode, string> = {
   SIXSIG: "/exam/SIXSIG",
   ELEVEN: "/exam/ELEVEN",
   NECO: "/exam/NECO",
+  OET: "/exam/OET",
+  UCAT: "/exam/UCAT",
+  KCSE: "/exam/KCSE",
+  BECE: "/exam/BECE",
+  MDCAT: "/exam/MDCAT",
   PM: "/project-management",
   ETH: "/ethiopia",
   SSC: "/ssc",
@@ -59,12 +64,12 @@ const GROUPS: { title: string; description: string; codes: TrackCode[] }[] = [
   {
     title: "Moving abroad",
     description: "Citizenship tests, English and professional licensing for doctors and nurses relocating.",
-    codes: ["LUK", "USCIT", "CANCIT", "AUSCIT", "IELTS", "PLAB", "NMC", "NCLEX", "GULFN"],
+    codes: ["LUK", "USCIT", "CANCIT", "AUSCIT", "IELTS", "OET", "PLAB", "NMC", "NCLEX", "GULFN"],
   },
   {
     title: "Academic & admissions exams",
     description: "Prepare for school-leaving, university-entry and national examinations.",
-    codes: ["JAMB", "WAEC", "NECO", "PUTME", "WASSCE_GH", "ETH", "SAT", "ELEVEN"],
+    codes: ["JAMB", "WAEC", "NECO", "PUTME", "WASSCE_GH", "KCSE", "BECE", "ETH", "MDCAT", "SAT", "UCAT", "ELEVEN"],
   },
   {
     title: "Professional & career exams",

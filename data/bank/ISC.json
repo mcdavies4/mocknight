@@ -1,0 +1,520 @@
+[
+ {
+  "subject": "ISC",
+  "topic": "Life processes",
+  "body": "Which gas do green plants take in for photosynthesis?",
+  "options": [
+   "Carbon dioxide",
+   "Hydrogen",
+   "Nitrogen",
+   "Oxygen"
+  ],
+  "answer": 0,
+  "explanation": "Plants use carbon dioxide and water, with light, to make glucose.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Life processes",
+  "body": "Which gas is released during photosynthesis?",
+  "options": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Methane"
+  ],
+  "answer": 0,
+  "explanation": "Oxygen is a by-product of photosynthesis.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Life processes",
+  "body": "What green pigment traps light energy in plants?",
+  "options": [
+   "Chlorophyll",
+   "Haemoglobin",
+   "Carotene",
+   "Melanin"
+  ],
+  "answer": 0,
+  "explanation": "Chlorophyll is found in chloroplasts.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Cells",
+  "body": "Which part of a cell controls its activities?",
+  "options": [
+   "Vacuole",
+   "Cell membrane",
+   "Nucleus",
+   "Cytoplasm"
+  ],
+  "answer": 2,
+  "explanation": "The nucleus contains genetic material.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Cells",
+  "body": "Which structure is found in plant cells but not animal cells?",
+  "options": [
+   "Cell wall",
+   "Cytoplasm",
+   "Nucleus",
+   "Cell membrane"
+  ],
+  "answer": 0,
+  "explanation": "Plant cells also have chloroplasts and a large vacuole.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Human body",
+  "body": "Which organ pumps blood around the body?",
+  "options": [
+   "Kidneys",
+   "Lungs",
+   "Liver",
+   "Heart"
+  ],
+  "answer": 3,
+  "explanation": "The heart is a muscular pump.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Human body",
+  "body": "Where does most digestion and absorption of food take place?",
+  "options": [
+   "Mouth",
+   "Large intestine",
+   "Small intestine",
+   "Stomach"
+  ],
+  "answer": 2,
+  "explanation": "Villi increase the surface area for absorption.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Human body",
+  "body": "Which organ removes urea from the blood?",
+  "options": [
+   "Lung",
+   "Kidney",
+   "Heart",
+   "Stomach"
+  ],
+  "answer": 1,
+  "explanation": "Kidneys produce urine.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Human body",
+  "body": "Which blood cells fight infection?",
+  "options": [
+   "White blood cells",
+   "Red blood cells",
+   "Platelets",
+   "Plasma"
+  ],
+  "answer": 0,
+  "explanation": "Red cells carry oxygen; platelets help clotting.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Health",
+  "body": "Which insect spreads malaria?",
+  "options": [
+   "Female Anopheles mosquito",
+   "Male Culex mosquito",
+   "Housefly",
+   "Tsetse fly"
+  ],
+  "answer": 0,
+  "explanation": "It carries the Plasmodium parasite.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Health",
+  "body": "Which disease is spread by the tsetse fly?",
+  "options": [
+   "Cholera",
+   "Typhoid",
+   "Sleeping sickness",
+   "Malaria"
+  ],
+  "answer": 2,
+  "explanation": "Also called trypanosomiasis.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Health",
+  "body": "Cholera is mainly spread through",
+  "options": [
+   "sharing clothes",
+   "mosquito bites",
+   "contaminated water and food",
+   "dust"
+  ],
+  "answer": 2,
+  "explanation": "Safe water and sanitation prevent cholera.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Nutrition",
+  "body": "Which food test reagent turns blue-black with starch?",
+  "options": [
+   "Biuret reagent",
+   "Ethanol",
+   "Benedict's solution",
+   "Iodine solution"
+  ],
+  "answer": 3,
+  "explanation": "Iodine changes from brown to blue-black.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Nutrition",
+  "body": "Which nutrient is mainly needed for growth and repair?",
+  "options": [
+   "Fibre",
+   "Fat",
+   "Carbohydrate",
+   "Protein"
+  ],
+  "answer": 3,
+  "explanation": "Beans, fish, eggs and meat are good sources.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Nutrition",
+  "body": "Lack of vitamin C causes",
+  "options": [
+   "kwashiorkor",
+   "night blindness",
+   "scurvy",
+   "rickets"
+  ],
+  "answer": 2,
+  "explanation": "Citrus fruits are rich in vitamin C.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Nutrition",
+  "body": "Kwashiorkor is caused by a lack of",
+  "options": [
+   "protein",
+   "iron",
+   "water",
+   "vitamin A"
+  ],
+  "answer": 0,
+  "explanation": "It is a protein-energy malnutrition.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Matter",
+  "body": "What are the three states of matter?",
+  "options": [
+   "Solid, water and air",
+   "Hot, warm and cold",
+   "Metal, wood and plastic",
+   "Solid, liquid and gas"
+  ],
+  "answer": 3,
+  "explanation": "Plasma is a fourth state, but these three are the main ones.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Matter",
+  "body": "The change from liquid to gas is called",
+  "options": [
+   "condensation",
+   "melting",
+   "evaporation",
+   "freezing"
+  ],
+  "answer": 2,
+  "explanation": "Condensation is gas to liquid.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Matter",
+  "body": "The change from solid directly to gas is called",
+  "options": [
+   "melting",
+   "sublimation",
+   "condensation",
+   "evaporation"
+  ],
+  "answer": 1,
+  "explanation": "Camphor and iodine sublime.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Matter",
+  "body": "Which method separates sand from water?",
+  "options": [
+   "Filtration",
+   "Magnetism",
+   "Distillation",
+   "Evaporation"
+  ],
+  "answer": 0,
+  "explanation": "The sand stays on the filter paper.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Matter",
+  "body": "Which method gets salt from salt water?",
+  "options": [
+   "Evaporation",
+   "Sieving",
+   "Decanting",
+   "Filtration"
+  ],
+  "answer": 0,
+  "explanation": "The water evaporates and the salt is left.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Matter",
+  "body": "Which method separates iron filings from sulphur powder?",
+  "options": [
+   "Distillation",
+   "Evaporation",
+   "Using a magnet",
+   "Filtration"
+  ],
+  "answer": 2,
+  "explanation": "Iron is magnetic; sulphur is not.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Acids and bases",
+  "body": "What is the pH of pure water?",
+  "options": [
+   "7",
+   "14",
+   "1",
+   "0"
+  ],
+  "answer": 0,
+  "explanation": "pH 7 is neutral.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Acids and bases",
+  "body": "A solution with pH 2 is",
+  "options": [
+   "neutral",
+   "strongly acidic",
+   "weakly alkaline",
+   "strongly alkaline"
+  ],
+  "answer": 1,
+  "explanation": "Lower pH means more acidic.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Acids and bases",
+  "body": "What colour does blue litmus turn in an acid?",
+  "options": [
+   "Green",
+   "Blue",
+   "Yellow",
+   "Red"
+  ],
+  "answer": 3,
+  "explanation": "Acids turn blue litmus red.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Energy",
+  "body": "Which is a renewable source of energy?",
+  "options": [
+   "Coal",
+   "Solar energy",
+   "Crude oil",
+   "Natural gas"
+  ],
+  "answer": 1,
+  "explanation": "Solar, wind and hydro are renewable.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Energy",
+  "body": "A torch battery converts chemical energy into",
+  "options": [
+   "sound energy only",
+   "electrical energy",
+   "chemical energy",
+   "nuclear energy"
+  ],
+  "answer": 1,
+  "explanation": "The bulb then converts it to light and heat.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Energy",
+  "body": "Which dam generates most of Ghana's hydroelectric power?",
+  "options": [
+   "Weija Dam",
+   "Bui Dam",
+   "Akosombo Dam",
+   "Kpong Dam"
+  ],
+  "answer": 2,
+  "explanation": "Akosombo created Lake Volta.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Forces",
+  "body": "What force pulls objects towards the Earth?",
+  "options": [
+   "Friction",
+   "Magnetism",
+   "Gravity",
+   "Tension"
+  ],
+  "answer": 2,
+  "explanation": "Weight is the force of gravity on a mass.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Forces",
+  "body": "What is the unit of force?",
+  "options": [
+   "Newton",
+   "Watt",
+   "Joule",
+   "Kilogram"
+  ],
+  "answer": 0,
+  "explanation": "Named after Isaac Newton.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Forces",
+  "body": "A lever with the fulcrum between the load and the effort is a",
+  "options": [
+   "first-class lever",
+   "third-class lever",
+   "second-class lever",
+   "pulley"
+  ],
+  "answer": 0,
+  "explanation": "A see-saw is a first-class lever.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Magnetism",
+  "body": "Like poles of two magnets",
+  "options": [
+   "repel each other",
+   "have no effect",
+   "cancel out",
+   "attract each other"
+  ],
+  "answer": 0,
+  "explanation": "Unlike poles attract.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Chemistry",
+  "body": "What two things does iron need to rust?",
+  "options": [
+   "Salt and sand",
+   "Carbon dioxide and nitrogen",
+   "Water and oxygen",
+   "Heat and light"
+  ],
+  "answer": 2,
+  "explanation": "Painting and oiling prevent rusting.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Earth",
+  "body": "Which gas makes up most of the air?",
+  "options": [
+   "Nitrogen",
+   "Argon",
+   "Oxygen",
+   "Carbon dioxide"
+  ],
+  "answer": 0,
+  "explanation": "About 78% of air is nitrogen.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Earth",
+  "body": "The Earth takes about how long to go once round the Sun?",
+  "options": [
+   "7 days",
+   "365¼ days",
+   "24 hours",
+   "30 days"
+  ],
+  "answer": 1,
+  "explanation": "One rotation on its axis takes 24 hours.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Ecology",
+  "body": "In a food chain, green plants are called",
+  "options": [
+   "decomposers",
+   "predators",
+   "consumers",
+   "producers"
+  ],
+  "answer": 3,
+  "explanation": "They make their own food.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ISC",
+  "topic": "Ecology",
+  "body": "Organisms that break down dead matter are called",
+  "options": [
+   "herbivores",
+   "decomposers",
+   "producers",
+   "parasites"
+  ],
+  "answer": 1,
+  "explanation": "Bacteria and fungi are decomposers.",
+  "difficulty": 1
+ }
+]

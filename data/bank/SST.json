@@ -1,0 +1,464 @@
+[
+ {
+  "subject": "SST",
+  "topic": "History",
+  "body": "In which year did Ghana gain independence?",
+  "options": [
+   "1957",
+   "1960",
+   "1966",
+   "1945"
+  ],
+  "answer": 0,
+  "explanation": "Independence was declared on 6 March 1957.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "History",
+  "body": "Who was Ghana's first President?",
+  "options": [
+   "Dr Kwame Nkrumah",
+   "J. B. Danquah",
+   "Jerry John Rawlings",
+   "Kofi Busia"
+  ],
+  "answer": 0,
+  "explanation": "Nkrumah led Ghana to independence and became President in 1960.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "History",
+  "body": "On what date did Ghana become a republic?",
+  "options": [
+   "6 March 1957",
+   "7 January 1993",
+   "24 February 1966",
+   "1 July 1960"
+  ],
+  "answer": 3,
+  "explanation": "Republic Day is 1 July.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "History",
+  "body": "What was Ghana called before independence?",
+  "options": [
+   "Gold Coast",
+   "Ivory Coast",
+   "Grain Coast",
+   "Slave Coast"
+  ],
+  "answer": 0,
+  "explanation": "The name came from its gold trade.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "History",
+  "body": "Which political party did Nkrumah form in 1949?",
+  "options": [
+   "Convention People's Party (CPP)",
+   "New Patriotic Party (NPP)",
+   "United Gold Coast Convention (UGCC)",
+   "National Democratic Congress (NDC)"
+  ],
+  "answer": 0,
+  "explanation": "He broke away from the UGCC.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "History",
+  "body": "The UGCC was formed in which year?",
+  "options": [
+   "1947",
+   "1951",
+   "1937",
+   "1957"
+  ],
+  "answer": 0,
+  "explanation": "Its leaders and Nkrumah were later called the Big Six.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "History",
+  "body": "Who led the Asante in the 1900 war against the British over the Golden Stool?",
+  "options": [
+   "Okomfo Anokye",
+   "Yaa Asantewaa",
+   "Prempeh I",
+   "Osei Tutu"
+  ],
+  "answer": 1,
+  "explanation": "It is known as the Yaa Asantewaa War.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "History",
+  "body": "The Bond of 1844 was signed between the British and",
+  "options": [
+   "Ewe chiefs",
+   "Asante kings",
+   "Ga chiefs",
+   "Fante chiefs"
+  ],
+  "answer": 3,
+  "explanation": "It was signed on 6 March 1844.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "History",
+  "body": "Who brought cocoa to the Gold Coast in 1879?",
+  "options": [
+   "Kwame Nkrumah",
+   "Tetteh Quarshie",
+   "Okomfo Anokye",
+   "Paa Grant"
+  ],
+  "answer": 1,
+  "explanation": "He brought pods from Fernando Po.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "History",
+  "body": "Ghana's Fourth Republic began in 1993 under which constitution?",
+  "options": [
+   "The 1992 Constitution",
+   "The 1979 Constitution",
+   "The 1957 Constitution",
+   "The 1969 Constitution"
+  ],
+  "answer": 0,
+  "explanation": "The Fourth Republic began on 7 January 1993.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Government",
+  "body": "Ghana's legislature is called",
+  "options": [
+   "Senate",
+   "Congress",
+   "National Assembly",
+   "Parliament"
+  ],
+  "answer": 3,
+  "explanation": "Ghana has a unicameral (one-chamber) Parliament.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Government",
+  "body": "Who is the head of state in Ghana?",
+  "options": [
+   "The President",
+   "The Speaker of Parliament",
+   "The Chief Justice",
+   "The Asantehene"
+  ],
+  "answer": 0,
+  "explanation": "The President is both head of state and of government.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Government",
+  "body": "Which body organises elections in Ghana?",
+  "options": [
+   "Ghana Police Service",
+   "Electoral Commission",
+   "Parliament",
+   "National Commission for Civic Education"
+  ],
+  "answer": 1,
+  "explanation": "The EC conducts public elections and referendums.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Government",
+  "body": "What is Ghana's national motto?",
+  "options": [
+   "One Nation, One People",
+   "Unity and Faith",
+   "Freedom and Justice",
+   "Peace and Progress"
+  ],
+  "answer": 2,
+  "explanation": "It appears on the coat of arms.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Government",
+  "body": "At what age can a Ghanaian citizen vote?",
+  "options": [
+   "18",
+   "16",
+   "25",
+   "21"
+  ],
+  "answer": 0,
+  "explanation": "Citizens aged 18 and over can register to vote.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Geography",
+  "body": "What is the capital of Ghana?",
+  "options": [
+   "Kumasi",
+   "Accra",
+   "Cape Coast",
+   "Tamale"
+  ],
+  "answer": 1,
+  "explanation": "Accra is in the Greater Accra Region.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Geography",
+  "body": "How many administrative regions does Ghana have?",
+  "options": [
+   "16",
+   "12",
+   "18",
+   "10"
+  ],
+  "answer": 0,
+  "explanation": "Six new regions were created in 2019.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Geography",
+  "body": "What is the highest mountain in Ghana?",
+  "options": [
+   "Mount Gemi",
+   "Mount Afadja (Afadjato)",
+   "Mount Cameroon",
+   "Kwahu Plateau"
+  ],
+  "answer": 1,
+  "explanation": "It is in the Volta Region.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Geography",
+  "body": "Lake Volta was created by building which dam?",
+  "options": [
+   "Akosombo Dam",
+   "Tono Dam",
+   "Bui Dam",
+   "Kpong Dam"
+  ],
+  "answer": 0,
+  "explanation": "It is one of the world's largest man-made lakes by area.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Geography",
+  "body": "Which is Ghana's main seaport near Accra?",
+  "options": [
+   "Tema",
+   "Ada",
+   "Takoradi",
+   "Elmina"
+  ],
+  "answer": 0,
+  "explanation": "Takoradi is the other major port.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Geography",
+  "body": "Which ocean is to the south of Ghana?",
+  "options": [
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Atlantic Ocean",
+   "Arctic Ocean"
+  ],
+  "answer": 2,
+  "explanation": "Ghana's coast lies on the Gulf of Guinea.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Geography",
+  "body": "Which country borders Ghana to the west?",
+  "options": [
+   "Burkina Faso",
+   "Togo",
+   "Côte d'Ivoire",
+   "Nigeria"
+  ],
+  "answer": 2,
+  "explanation": "Togo is to the east and Burkina Faso to the north.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Economy",
+  "body": "What is Ghana's currency?",
+  "options": [
+   "Cedi",
+   "Dalasi",
+   "Naira",
+   "CFA franc"
+  ],
+  "answer": 0,
+  "explanation": "One cedi is 100 pesewas.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Economy",
+  "body": "Which crop has long been a major export of Ghana?",
+  "options": [
+   "Wheat",
+   "Cocoa",
+   "Rubber",
+   "Tea"
+  ],
+  "answer": 1,
+  "explanation": "Gold and oil are other major exports.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Culture",
+  "body": "Homowo is a festival of which people?",
+  "options": [
+   "The Dagomba",
+   "The Ga",
+   "The Fante",
+   "The Ewe"
+  ],
+  "answer": 1,
+  "explanation": "Homowo means 'hooting at hunger'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Culture",
+  "body": "Hogbetsotso is celebrated by the",
+  "options": [
+   "Asante",
+   "Anlo Ewe",
+   "Ga",
+   "Gonja"
+  ],
+  "answer": 1,
+  "explanation": "It remembers the migration from Notsie.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Culture",
+  "body": "The Aboakyer festival, with its deer hunt, is celebrated in",
+  "options": [
+   "Tamale",
+   "Kumasi",
+   "Ho",
+   "Winneba"
+  ],
+  "answer": 3,
+  "explanation": "It is a festival of the Effutu people.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Culture",
+  "body": "Kente cloth weaving is famous in which town?",
+  "options": [
+   "Bolgatanga",
+   "Keta",
+   "Tamale",
+   "Bonwire"
+  ],
+  "answer": 3,
+  "explanation": "Bonwire is in the Ashanti Region.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "International",
+  "body": "ECOWAS was founded in which year?",
+  "options": [
+   "1963",
+   "1975",
+   "1957",
+   "1993"
+  ],
+  "answer": 1,
+  "explanation": "The Treaty of Lagos was signed in May 1975.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "International",
+  "body": "Where is the headquarters of the African Union?",
+  "options": [
+   "Addis Ababa",
+   "Nairobi",
+   "Abuja",
+   "Accra"
+  ],
+  "answer": 0,
+  "explanation": "Addis Ababa is in Ethiopia.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Citizenship",
+  "body": "Which is a responsibility of a good citizen?",
+  "options": [
+   "Ignoring the law",
+   "Paying taxes",
+   "Destroying public property",
+   "Avoiding voting"
+  ],
+  "answer": 1,
+  "explanation": "Citizens also obey laws and protect public property.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Environment",
+  "body": "Which human activity is a major cause of land degradation in Ghana?",
+  "options": [
+   "Illegal mining (galamsey)",
+   "Terracing",
+   "Planting trees",
+   "Crop rotation"
+  ],
+  "answer": 0,
+  "explanation": "Galamsey also pollutes rivers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SST",
+  "topic": "Environment",
+  "body": "Planting trees to replace those cut down is called",
+  "options": [
+   "desertification",
+   "deforestation",
+   "erosion",
+   "afforestation / reforestation"
+  ],
+  "answer": 3,
+  "explanation": "It helps prevent soil erosion.",
+  "difficulty": 1
+ }
+]

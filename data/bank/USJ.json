@@ -1,0 +1,338 @@
+[
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A medical student notices a junior doctor about to give a drug the patient's wristband says they are allergic to.\n\nHow appropriate is the following response?\nImmediately and politely point out the allergy before the drug is given.",
+  "options": [
+   "A very inappropriate thing to do",
+   "Appropriate, but not ideal",
+   "A very appropriate thing to do",
+   "Inappropriate, but not awful"
+  ],
+  "answer": 2,
+  "explanation": "Patient safety comes first; speak up at once, respectfully.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A medical student notices a junior doctor about to give a drug the patient's wristband says they are allergic to.\n\nHow appropriate is the following response?\nSay nothing because the doctor is more senior.",
+  "options": [
+   "Appropriate, but not ideal",
+   "Inappropriate, but not awful",
+   "A very appropriate thing to do",
+   "A very inappropriate thing to do"
+  ],
+  "answer": 3,
+  "explanation": "Staying silent risks serious harm to the patient.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A medical student sees a friend on placement post a photo of a patient's X-ray, with the name visible, on social media.\n\nHow appropriate is the following response?\nAsk the friend to remove the post straight away and explain why.",
+  "options": [
+   "Inappropriate, but not awful",
+   "A very appropriate thing to do",
+   "A very inappropriate thing to do",
+   "Appropriate, but not ideal"
+  ],
+  "answer": 1,
+  "explanation": "This addresses the confidentiality breach quickly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A medical student sees a friend on placement post a photo of a patient's X-ray, with the name visible, on social media.\n\nHow appropriate is the following response?\n'Like' the post and ignore it.",
+  "options": [
+   "Appropriate, but not ideal",
+   "Inappropriate, but not awful",
+   "A very appropriate thing to do",
+   "A very inappropriate thing to do"
+  ],
+  "answer": 3,
+  "explanation": "This condones a breach of patient confidentiality.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A student is running late for a teaching session because the bus broke down.\n\nHow appropriate is the following response?\nLet the tutor know as soon as possible and apologise.",
+  "options": [
+   "Inappropriate, but not awful",
+   "Appropriate, but not ideal",
+   "A very inappropriate thing to do",
+   "A very appropriate thing to do"
+  ],
+  "answer": 3,
+  "explanation": "Honest, early communication is professional.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A student realises they made an error in a patient's notes during their placement.\n\nHow appropriate is the following response?\nTell their supervisor and correct the record properly, signed and dated.",
+  "options": [
+   "A very appropriate thing to do",
+   "Appropriate, but not ideal",
+   "A very inappropriate thing to do",
+   "Inappropriate, but not awful"
+  ],
+  "answer": 0,
+  "explanation": "Honesty and accurate records are essential (duty of candour).",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A student realises they made an error in a patient's notes during their placement.\n\nHow appropriate is the following response?\nQuietly tear out the page and rewrite it.",
+  "options": [
+   "Inappropriate, but not awful",
+   "A very inappropriate thing to do",
+   "Appropriate, but not ideal",
+   "A very appropriate thing to do"
+  ],
+  "answer": 1,
+  "explanation": "Altering records to hide mistakes is dishonest.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A patient asks a medical student for their personal phone number to 'keep in touch'.\n\nHow appropriate is the following response?\nPolitely decline and explain professional boundaries.",
+  "options": [
+   "A very inappropriate thing to do",
+   "Appropriate, but not ideal",
+   "Inappropriate, but not awful",
+   "A very appropriate thing to do"
+  ],
+  "answer": 3,
+  "explanation": "Maintaining boundaries protects patients and staff.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A patient asks a medical student for their personal phone number to 'keep in touch'.\n\nHow appropriate is the following response?\nGive the number so as not to upset the patient.",
+  "options": [
+   "Appropriate, but not ideal",
+   "Inappropriate, but not awful",
+   "A very inappropriate thing to do",
+   "A very appropriate thing to do"
+  ],
+  "answer": 2,
+  "explanation": "This crosses professional boundaries.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A student suspects a fellow student has been drinking alcohol before a clinical placement.\n\nHow appropriate is the following response?\nSpeak to the student privately and, if concerned for patient safety, inform a supervisor.",
+  "options": [
+   "A very appropriate thing to do",
+   "Inappropriate, but not awful",
+   "A very inappropriate thing to do",
+   "Appropriate, but not ideal"
+  ],
+  "answer": 0,
+  "explanation": "Patient safety and the colleague's wellbeing both matter.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A student suspects a fellow student has been drinking alcohol before a clinical placement.\n\nHow appropriate is the following response?\nPost about it in the year group chat.",
+  "options": [
+   "Inappropriate, but not awful",
+   "Appropriate, but not ideal",
+   "A very inappropriate thing to do",
+   "A very appropriate thing to do"
+  ],
+  "answer": 2,
+  "explanation": "This is unprofessional and does not address the risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A patient asks a medical student what their test results mean, but the student is unsure.\n\nHow appropriate is the following response?\nExplain that they are not able to say and ask the doctor to speak with the patient.",
+  "options": [
+   "A very inappropriate thing to do",
+   "Inappropriate, but not awful",
+   "Appropriate, but not ideal",
+   "A very appropriate thing to do"
+  ],
+  "answer": 3,
+  "explanation": "Students should work within their competence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A patient asks a medical student what their test results mean, but the student is unsure.\n\nHow appropriate is the following response?\nGuess the meaning to reassure the patient.",
+  "options": [
+   "A very appropriate thing to do",
+   "A very inappropriate thing to do",
+   "Appropriate, but not ideal",
+   "Inappropriate, but not awful"
+  ],
+  "answer": 1,
+  "explanation": "Giving inaccurate information could harm the patient.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "During a group project, one member has not contributed for weeks.\n\nHow appropriate is the following response?\nTalk to them privately to understand why and agree a plan.",
+  "options": [
+   "Inappropriate, but not awful",
+   "Appropriate, but not ideal",
+   "A very appropriate thing to do",
+   "A very inappropriate thing to do"
+  ],
+  "answer": 2,
+  "explanation": "Addresses the problem directly and supportively.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "During a group project, one member has not contributed for weeks.\n\nHow appropriate is the following response?\nRemove their name from the project without telling them.",
+  "options": [
+   "A very inappropriate thing to do",
+   "Appropriate, but not ideal",
+   "Inappropriate, but not awful",
+   "A very appropriate thing to do"
+  ],
+  "answer": 0,
+  "explanation": "Unfair and avoids honest communication.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "During a group project, one member has not contributed for weeks.\n\nHow appropriate is the following response?\nRaise the issue with the project tutor straight away without speaking to the student.",
+  "options": [
+   "Appropriate, but not ideal",
+   "A very inappropriate thing to do",
+   "Inappropriate, but not awful",
+   "A very appropriate thing to do"
+  ],
+  "answer": 2,
+  "explanation": "Escalation may be needed later, but speaking to them first is better.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A consultant makes a joke about a patient's weight in front of students, out of the patient's hearing.\n\nHow appropriate is the following response?\nLater, raise the concern with the consultant or another senior if it continues.",
+  "options": [
+   "Inappropriate, but not awful",
+   "A very appropriate thing to do",
+   "Appropriate, but not ideal",
+   "A very inappropriate thing to do"
+  ],
+  "answer": 2,
+  "explanation": "Reasonable, though handling such issues needs care and judgement.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A student is asked by a nurse to help move a patient but has not been trained in manual handling.\n\nHow appropriate is the following response?\nExplain that they have not been trained and offer to fetch someone who has.",
+  "options": [
+   "A very inappropriate thing to do",
+   "Appropriate, but not ideal",
+   "Inappropriate, but not awful",
+   "A very appropriate thing to do"
+  ],
+  "answer": 3,
+  "explanation": "Working within competence protects the patient and the student.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A student finds a set of printed patient notes left on a bus seat.\n\nHow appropriate is the following response?\nKeep them secure and return them to the ward or the information governance lead.",
+  "options": [
+   "Appropriate, but not ideal",
+   "Inappropriate, but not awful",
+   "A very appropriate thing to do",
+   "A very inappropriate thing to do"
+  ],
+  "answer": 2,
+  "explanation": "Protects confidentiality and reports the breach.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A student is feeling overwhelmed and is struggling to keep up with coursework.\n\nHow appropriate is the following response?\nSpeak to their personal tutor or student support.",
+  "options": [
+   "Inappropriate, but not awful",
+   "A very appropriate thing to do",
+   "A very inappropriate thing to do",
+   "Appropriate, but not ideal"
+  ],
+  "answer": 1,
+  "explanation": "Seeking help early is responsible.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A student is feeling overwhelmed and is struggling to keep up with coursework.\n\nHow appropriate is the following response?\nCopy a friend's assignment to catch up.",
+  "options": [
+   "A very inappropriate thing to do",
+   "Inappropriate, but not awful",
+   "Appropriate, but not ideal",
+   "A very appropriate thing to do"
+  ],
+  "answer": 0,
+  "explanation": "Plagiarism is a serious probity issue.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A patient on the ward tells a student that a nurse was rude to them.\n\nHow appropriate is the following response?\nListen, apologise that they had a poor experience and let the nurse in charge know.",
+  "options": [
+   "Appropriate, but not ideal",
+   "A very appropriate thing to do",
+   "Inappropriate, but not awful",
+   "A very inappropriate thing to do"
+  ],
+  "answer": 1,
+  "explanation": "Respond to the concern and pass it to someone who can act.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A friend asks a medical student to look up a relative's hospital records to see how they are.\n\nHow appropriate is the following response?\nRefuse, explaining they can only access records of patients they are caring for.",
+  "options": [
+   "A very appropriate thing to do",
+   "A very inappropriate thing to do",
+   "Inappropriate, but not awful",
+   "Appropriate, but not ideal"
+  ],
+  "answer": 0,
+  "explanation": "Accessing records without a care need breaches confidentiality.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USJ",
+  "topic": "Professionalism",
+  "body": "A friend asks a medical student to look up a relative's hospital records to see how they are.\n\nHow appropriate is the following response?\nLook quickly and only share the main points.",
+  "options": [
+   "Appropriate, but not ideal",
+   "A very inappropriate thing to do",
+   "Inappropriate, but not awful",
+   "A very appropriate thing to do"
+  ],
+  "answer": 1,
+  "explanation": "Unauthorised access is a breach regardless of intent.",
+  "difficulty": 2
+ }
+]

@@ -1,0 +1,492 @@
+[
+ {
+  "subject": "OEH",
+  "topic": "Test format",
+  "body": "Which four sub-tests make up OET?",
+  "options": [
+   "Reading, Writing, Numeracy and Speaking",
+   "Grammar, Vocabulary, Writing and Speaking",
+   "Listening, Reading, Writing and Speaking",
+   "Listening, Reading, Clinical and Speaking"
+  ],
+  "answer": 2,
+  "explanation": "All four are taken; Writing and Speaking are profession-specific.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Test format",
+  "body": "What is the Writing task in OET for nurses and doctors usually?",
+  "options": [
+   "An academic essay",
+   "A letter, most often a referral or discharge letter",
+   "A graph description",
+   "A personal statement"
+  ],
+  "answer": 1,
+  "explanation": "You write to another health professional using case notes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Test format",
+  "body": "What is the minimum score for an OET grade B?",
+  "options": [
+   "400",
+   "300",
+   "350",
+   "250"
+  ],
+  "answer": 2,
+  "explanation": "Scores run from 0 to 500; grade B starts at 350, which the NMC and GMC ask for.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Test format",
+  "body": "How is the OET Speaking sub-test structured?",
+  "options": [
+   "Two role-plays with an interlocutor playing a patient or relative",
+   "A recorded monologue",
+   "A group discussion",
+   "One presentation to an examiner"
+  ],
+  "answer": 0,
+  "explanation": "Each role-play is a short, realistic consultation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Test format",
+  "body": "In Reading Part A, what skill matters most?",
+  "options": [
+   "Summarising each text in full",
+   "Translating terms",
+   "Scanning four short texts quickly to find specific details",
+   "Reading every word slowly"
+  ],
+  "answer": 2,
+  "explanation": "Part A is strictly timed at 15 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Writing",
+  "body": "Which is the most appropriate opening for a referral letter when you know the doctor's name?",
+  "options": [
+   "Dear Dr Patel,",
+   "To whom it may concern,",
+   "Hi Dr Patel,",
+   "Dear Sir/Madam,"
+  ],
+  "answer": 0,
+  "explanation": "Use the name when it is given in the case notes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Writing",
+  "body": "If you open with 'Dear Dr Patel', how should you close the letter?",
+  "options": [
+   "Cheers,",
+   "Yours sincerely,",
+   "Yours faithfully,",
+   "Best wishes,"
+  ],
+  "answer": 1,
+  "explanation": "'Yours faithfully' goes with 'Dear Sir/Madam'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Writing",
+  "body": "What should the first paragraph of a referral letter do?",
+  "options": [
+   "Describe the patient's childhood",
+   "State who the patient is and the purpose of the letter",
+   "List every medication",
+   "Thank the reader at length"
+  ],
+  "answer": 1,
+  "explanation": "The reader should know why they are reading in the first lines.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Writing",
+  "body": "Which sentence is the most appropriate register for an OET letter?",
+  "options": [
+   "Mrs Jones = chest pain x 2 days.",
+   "Mrs Jones turned up with a sore chest, poor thing.",
+   "Mrs Jones was admitted with a two-day history of chest pain.",
+   "Mrs Jones came in 'cos her chest was hurting."
+  ],
+  "answer": 2,
+  "explanation": "Use full, formal sentences: no contractions, slang or note form.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Writing",
+  "body": "Which case-note details should you usually leave out of the letter?",
+  "options": [
+   "Current medications",
+   "Details that are not relevant to the reader's task",
+   "The reason for referral",
+   "Relevant allergies"
+  ],
+  "answer": 1,
+  "explanation": "Selecting relevant information is part of the marking.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Writing",
+  "body": "Which is the best way to show urgency in a referral letter?",
+  "options": [
+   "Urgent urgent urgent.",
+   "Could you maybe have a look when free?",
+   "I would be grateful if you could see her as a matter of urgency.",
+   "SEE HER NOW!!!"
+  ],
+  "answer": 2,
+  "explanation": "Polite but clear language suits a professional reader.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Vocabulary",
+  "body": "What is the lay (everyday) term for 'pyrexia'?",
+  "options": [
+   "Fever",
+   "Fainting",
+   "Vomiting",
+   "Itching"
+  ],
+  "answer": 0,
+  "explanation": "When speaking to patients, use lay terms.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Vocabulary",
+  "body": "What does 'dyspnoea' mean?",
+  "options": [
+   "Painful urination",
+   "Difficulty swallowing",
+   "Chest pain",
+   "Shortness of breath"
+  ],
+  "answer": 3,
+  "explanation": "Dys- (difficult) + -pnoea (breathing).",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Vocabulary",
+  "body": "What does 'dysphagia' mean?",
+  "options": [
+   "Difficulty speaking",
+   "Shortness of breath",
+   "Indigestion",
+   "Difficulty swallowing"
+  ],
+  "answer": 3,
+  "explanation": "-phagia relates to eating or swallowing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Vocabulary",
+  "body": "What does 'haemoptysis' mean?",
+  "options": [
+   "Coughing up blood",
+   "A nosebleed",
+   "Blood in the urine",
+   "Vomiting blood"
+  ],
+  "answer": 0,
+  "explanation": "Vomiting blood is haematemesis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Vocabulary",
+  "body": "What does 'haematuria' mean?",
+  "options": [
+   "Low blood pressure",
+   "Blood in the urine",
+   "Blood in the stool",
+   "Coughing up blood"
+  ],
+  "answer": 1,
+  "explanation": "-uria refers to urine.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Vocabulary",
+  "body": "What is 'syncope'?",
+  "options": [
+   "A seizure",
+   "Dizziness without fainting",
+   "Fainting",
+   "A headache"
+  ],
+  "answer": 2,
+  "explanation": "A brief loss of consciousness.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Vocabulary",
+  "body": "What is 'pruritus'?",
+  "options": [
+   "Burning pain",
+   "A rash",
+   "Itching",
+   "Swelling"
+  ],
+  "answer": 2,
+  "explanation": "Pruritus is the medical term for itch.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Vocabulary",
+  "body": "What does 'analgesia' mean?",
+  "options": [
+   "Pain relief",
+   "Antibiotic treatment",
+   "Anti-inflammatory treatment",
+   "Anaesthesia for surgery"
+  ],
+  "answer": 0,
+  "explanation": "Paracetamol is a common analgesic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Vocabulary",
+  "body": "What does 'nocturia' mean?",
+  "options": [
+   "Waking at night to pass urine",
+   "Night sweats",
+   "Bedwetting in children",
+   "Insomnia"
+  ],
+  "answer": 0,
+  "explanation": "Common in prostate problems and heart failure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Vocabulary",
+  "body": "Which is the lay term a nurse should use for 'hypertension'?",
+  "options": [
+   "Fast heart rate",
+   "Stress",
+   "Low blood sugar",
+   "High blood pressure"
+  ],
+  "answer": 3,
+  "explanation": "Hypotension is low blood pressure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Vocabulary",
+  "body": "What does 'tachycardia' mean?",
+  "options": [
+   "A fast heart rate",
+   "A slow heart rate",
+   "A heart attack",
+   "An irregular heart rate"
+  ],
+  "answer": 0,
+  "explanation": "Bradycardia is a slow heart rate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Vocabulary",
+  "body": "What does 'emesis' mean?",
+  "options": [
+   "Bleeding",
+   "Nausea",
+   "Vomiting",
+   "Diarrhoea"
+  ],
+  "answer": 2,
+  "explanation": "Antiemetics prevent vomiting.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Grammar",
+  "body": "Choose the correct preposition: 'She is allergic ___ penicillin.'",
+  "options": [
+   "of",
+   "with",
+   "from",
+   "to"
+  ],
+  "answer": 3,
+  "explanation": "Allergic to something.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Grammar",
+  "body": "Choose the correct preposition: 'He presented ___ a three-day history of cough.'",
+  "options": [
+   "by",
+   "with",
+   "for",
+   "on"
+  ],
+  "answer": 1,
+  "explanation": "Present with symptoms.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Grammar",
+  "body": "Choose the correct preposition: 'The patient complains ___ lower back pain.'",
+  "options": [
+   "about to",
+   "with",
+   "for",
+   "of"
+  ],
+  "answer": 3,
+  "explanation": "Complain of a symptom.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Grammar",
+  "body": "Choose the correct form: 'She ___ metformin since 2019.'",
+  "options": [
+   "has been taking",
+   "is taking",
+   "took",
+   "takes"
+  ],
+  "answer": 0,
+  "explanation": "Present perfect continuous for something that started in the past and continues.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Grammar",
+  "body": "Which sentence uses the passive correctly?",
+  "options": [
+   "He discharged home on Monday.",
+   "He was discharge home on Monday.",
+   "He has discharge home on Monday.",
+   "He was discharged home on Monday."
+  ],
+  "answer": 3,
+  "explanation": "Passive = be + past participle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Grammar",
+  "body": "Choose the correct option: 'She has been compliant ___ her medication.'",
+  "options": [
+   "to",
+   "by",
+   "with",
+   "on"
+  ],
+  "answer": 2,
+  "explanation": "Compliant with treatment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Grammar",
+  "body": "Choose the correct option: 'He was referred ___ the cardiology clinic.'",
+  "options": [
+   "to",
+   "into",
+   "at",
+   "for"
+  ],
+  "answer": 0,
+  "explanation": "Refer someone to a service.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Speaking",
+  "body": "Which phrase best shows empathy to a worried patient?",
+  "options": [
+   "I can see this is really worrying for you.",
+   "Don't worry, it's nothing.",
+   "Calm down, please.",
+   "That's not my department."
+  ],
+  "answer": 0,
+  "explanation": "Acknowledge the feeling before giving information.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Speaking",
+  "body": "Which is the best way to check a patient's understanding?",
+  "options": [
+   "Any questions? No? Great.",
+   "Do you understand?",
+   "Is that clear? Good.",
+   "Could you tell me in your own words what you'll do at home?"
+  ],
+  "answer": 3,
+  "explanation": "Teach-back checks understanding without embarrassing the patient.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Speaking",
+  "body": "Which question is the best open question to start a consultation?",
+  "options": [
+   "What brings you in today?",
+   "Is it worse at night?",
+   "Have you taken paracetamol?",
+   "Do you have chest pain?"
+  ],
+  "answer": 0,
+  "explanation": "Open questions let the patient explain in their own words.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Speaking",
+  "body": "A patient refuses a treatment. What is the most appropriate response?",
+  "options": [
+   "Insist they must have it",
+   "Tell them they are being silly",
+   "Explore their concerns and explain the options without pressure",
+   "End the conversation"
+  ],
+  "answer": 2,
+  "explanation": "Respect autonomy and look for the reason behind the refusal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OEH",
+  "topic": "Listening",
+  "body": "In Listening Part A you mostly complete notes from what?",
+  "options": [
+   "A news broadcast",
+   "A phone call between friends",
+   "A consultation between a health professional and a patient",
+   "A university lecture"
+  ],
+  "answer": 2,
+  "explanation": "Part A tests picking out specific clinical details.",
+  "difficulty": 2
+ }
+]

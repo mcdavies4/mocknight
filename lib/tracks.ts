@@ -2,9 +2,9 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
-export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai";
+export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
 export interface Marking { correct: number; wrong: number }
 
@@ -26,7 +26,7 @@ export interface Track {
   short: string;
   emoji: string;
   kind: "school" | "citizenship" | "work" | "professional";
-  region: "NG" | "GH" | "WA" | "UK" | "GLOBAL" | "ET" | "IN" | "US" | "CA" | "AU" | "GULF";
+  region: "NG" | "GH" | "WA" | "UK" | "GLOBAL" | "ET" | "IN" | "US" | "CA" | "AU" | "GULF" | "KE" | "PK";
   currency: "NGN" | "GBP" | "ETB" | "INR" | "USD";
   subjectMode: "multi" | "single";
   subjects: string[];
@@ -428,6 +428,58 @@ export const TRACKS: Record<TrackCode, Track> = {
     mock: { perSubject: 15, minutes: 30, scoreStyle: "percent", maxSubjects: 4 }, weeklyMock: false, askState: true, askSchool: true,
     plans: ["student_month", "student_season"], tagline: "Daily drills and CBT practice for the NECO SSCE", timeZone: "Africa/Lagos",
     audience: "a Nigerian secondary school student preparing for the NECO SSCE",
+  },
+  OET: {
+    code: "OET", name: "OET (Occupational English Test) for nurses and doctors", short: "OET", emoji: "🩺", kind: "professional", region: "GLOBAL", currency: "GBP",
+    subjectMode: "single", subjects: ["OEH"], compulsory: ["OEH"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 30, minutes: 40, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["oet_pass", "oet_pass_ngn"], tagline: "Healthcare English for OET grade B: clinical vocabulary, letter writing and role-play language", timeZone: "UTC", timeLabel: "UTC",
+    audience: "an overseas nurse or doctor preparing for OET (grade B) to register with the NMC, GMC or another regulator",
+  },
+  UCAT: {
+    code: "UCAT", name: "UCAT (UK medicine and dentistry admissions)", short: "UCAT", emoji: "🧠", kind: "school", region: "UK", currency: "GBP",
+    subjectMode: "multi", subjects: ["VRB", "UDM", "QNT", "USJ"], compulsory: ["VRB", "UDM", "QNT", "USJ"], minSubjects: 4, maxSubjects: 4, subjectNote: "All four UCAT subtests",
+    mock: { perSubject: 15, minutes: 50, scoreStyle: "percent", maxSubjects: 4 },
+    mockVariants: [
+      { key: "FULL", label: "Full UCAT practice", short: "Full test", subjects: ["VRB", "UDM", "QNT", "USJ"], total: 15, minutes: 50, note: "60 questions · 50 min" },
+      { key: "VR", label: "Verbal reasoning", short: "Verbal", subjects: ["VRB"], total: 20, minutes: 10, note: "20 questions · 10 min" },
+      { key: "DM", label: "Decision making", short: "Decision", subjects: ["UDM"], total: 15, minutes: 16, note: "15 questions · 16 min" },
+      { key: "QR", label: "Quantitative reasoning", short: "Quant", subjects: ["QNT"], total: 18, minutes: 13, note: "18 questions · 13 min" },
+      { key: "SJ", label: "Situational judgement", short: "SJT", subjects: ["USJ"], total: 20, minutes: 8, note: "20 questions · 8 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["ucat_pass"], tagline: "UCAT practice at real speed: verbal, decision making, quant and situational judgement", timeZone: "Europe/London",
+    audience: "a UK sixth-form student preparing for the UCAT for medicine or dentistry",
+  },
+  KCSE: {
+    code: "KCSE", name: "KCSE (Kenya Certificate of Secondary Education)", short: "KCSE", emoji: "🇰🇪", kind: "school", region: "KE", currency: "USD",
+    subjectMode: "multi", subjects: ["ENG", "MTH", "BIO", "CHM", "PHY", "GEO"], compulsory: ["ENG", "MTH"], minSubjects: 3, maxSubjects: 6, subjectNote: "English + Maths + your sciences and humanities",
+    mock: { perSubject: 15, minutes: 30, scoreStyle: "percent", maxSubjects: 4 }, weeklyMock: false, askState: false, askSchool: true,
+    plans: ["kcse_month", "kcse_season"], tagline: "KCSE revision: daily questions and timed practice in English, Maths and the sciences", timeZone: "Africa/Nairobi", timeLabel: "Kenya",
+    audience: "a Kenyan Form 4 student preparing for the KCSE",
+  },
+  BECE: {
+    code: "BECE", name: "BECE (Ghana)", short: "BECE", emoji: "🇬🇭", kind: "school", region: "GH", currency: "USD",
+    subjectMode: "multi", subjects: ["ENG", "MTH", "ISC", "SST"], compulsory: ["ENG", "MTH", "ISC", "SST"], minSubjects: 4, maxSubjects: 4, subjectNote: "English, Maths, Integrated Science and Social Studies",
+    mock: { perSubject: 15, minutes: 40, scoreStyle: "percent", maxSubjects: 4 }, weeklyMock: false, askState: true,
+    regions: GHANA_REGIONS, regionLabel: "Which region are you in?", askSchool: true,
+    plans: [], tagline: "Free BECE practice: English, Maths, Integrated Science and Social Studies", timeZone: "UTC", timeLabel: "Ghana",
+    audience: "a Ghanaian JHS 3 pupil preparing for the BECE; keep explanations simple",
+  },
+  MDCAT: {
+    code: "MDCAT", name: "MDCAT (Pakistan medical college entry)", short: "MDCAT", emoji: "🇵🇰", kind: "school", region: "PK", currency: "USD",
+    subjectMode: "multi", subjects: ["BIO", "CHM", "PHY", "ENG", "APT"], compulsory: ["BIO", "CHM", "PHY", "ENG", "APT"], minSubjects: 5, maxSubjects: 5,
+    subjectNote: "Biology, Chemistry, Physics, English and Logical Reasoning",
+    mock: { perSubject: 20, minutes: 100, scoreStyle: "percent", maxSubjects: 5 },
+    mockVariants: [
+      { key: "FULL", label: "Full MDCAT mock", short: "Full mock", subjects: ["BIO", "CHM", "PHY", "ENG", "APT"], total: 20, minutes: 100, note: "100 questions · 100 min" },
+      { key: "BIO", label: "Biology sectional", short: "Biology", subjects: ["BIO"], total: 30, minutes: 30, note: "30 questions · 30 min" },
+      { key: "CHM", label: "Chemistry sectional", short: "Chemistry", subjects: ["CHM"], total: 25, minutes: 25, note: "25 questions · 25 min" },
+      { key: "PHY", label: "Physics sectional", short: "Physics", subjects: ["PHY"], total: 25, minutes: 25, note: "25 questions · 25 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["mdcat_pass"], tagline: "MDCAT practice: full mocks and Biology, Chemistry and Physics sectionals", timeZone: "Asia/Karachi", timeLabel: "Pakistan",
+    audience: "a Pakistani student preparing for the MDCAT for entry to medical or dental college",
   },
   PLAB: {
     code: "PLAB", name: "PLAB 1 (UK GMC — doctors)", short: "PLAB 1", emoji: "⚕️", kind: "professional", region: "UK", currency: "GBP",

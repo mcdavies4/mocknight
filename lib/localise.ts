@@ -12,8 +12,11 @@ const rules = (symbol: string, major: string, minor: string): [RegExp, string | 
 const RULES: Record<string, ReturnType<typeof rules>> = {
   ETH: rules("Br ", "birr", "santim"),
   WASSCE_GH: rules("GH₵", "cedis", "pesewas"),
+  BECE: rules("GH₵", "cedis", "pesewas"),
+  KCSE: rules("KSh ", "shillings", "cents"),
+  MDCAT: rules("Rs ", "rupees", "paisa"),
 };
-const NIGERIAN_TRACKS = new Set(["JAMB", "WAEC", "PUTME"]);
+const NIGERIAN_TRACKS = new Set(["JAMB", "WAEC", "PUTME", "NECO", "ICAN"]);
 const NIGERIA_ONLY = /\b(Nigeria|Nigerian|Lagos|Abuja|Kano|Ibadan|Port Harcourt|CBN|NNPC|INEC)\b/;
 
 export function localiseText(s: string, trackCode?: string | null): string;

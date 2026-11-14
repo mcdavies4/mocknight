@@ -1,0 +1,782 @@
+[
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nAll doctors are runners. All runners are early risers.\n\nDoes this conclusion follow?\n\"All doctors are early risers.\"",
+  "options": [
+   "No",
+   "Yes"
+  ],
+  "answer": 1,
+  "explanation": "If every A is a B and every B is a C, every A must be a C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nAll students are musicians. All musicians are chess players.\n\nDoes this conclusion follow?\n\"All students are chess players.\"",
+  "options": [
+   "No",
+   "Yes"
+  ],
+  "answer": 1,
+  "explanation": "If every A is a B and every B is a C, every A must be a C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nAll nurses are cyclists. All cyclists are vegetarians.\n\nDoes this conclusion follow?\n\"All nurses are vegetarians.\"",
+  "options": [
+   "Yes",
+   "No"
+  ],
+  "answer": 0,
+  "explanation": "If every A is a B and every B is a C, every A must be a C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nAll doctors are runners. Some runners are early risers.\n\nDoes this conclusion follow?\n\"Some doctors are early risers.\"",
+  "options": [
+   "Yes",
+   "No"
+  ],
+  "answer": 1,
+  "explanation": "The B that are C could all be outside A.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nAll students are musicians. Some musicians are chess players.\n\nDoes this conclusion follow?\n\"Some students are chess players.\"",
+  "options": [
+   "No",
+   "Yes"
+  ],
+  "answer": 0,
+  "explanation": "The B that are C could all be outside A.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nAll nurses are cyclists. Some cyclists are vegetarians.\n\nDoes this conclusion follow?\n\"Some nurses are vegetarians.\"",
+  "options": [
+   "No",
+   "Yes"
+  ],
+  "answer": 0,
+  "explanation": "The B that are C could all be outside A.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nNo doctors are runners. All early risers are doctors.\n\nDoes this conclusion follow?\n\"No early risers are runners.\"",
+  "options": [
+   "Yes",
+   "No"
+  ],
+  "answer": 0,
+  "explanation": "Every C is an A, and no A is a B, so no C is a B.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nNo students are musicians. All chess players are students.\n\nDoes this conclusion follow?\n\"No chess players are musicians.\"",
+  "options": [
+   "No",
+   "Yes"
+  ],
+  "answer": 1,
+  "explanation": "Every C is an A, and no A is a B, so no C is a B.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nNo nurses are cyclists. All vegetarians are nurses.\n\nDoes this conclusion follow?\n\"No vegetarians are cyclists.\"",
+  "options": [
+   "Yes",
+   "No"
+  ],
+  "answer": 0,
+  "explanation": "Every C is an A, and no A is a B, so no C is a B.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nSome doctors are runners. All runners are early risers.\n\nDoes this conclusion follow?\n\"Some doctors are early risers.\"",
+  "options": [
+   "Yes",
+   "No"
+  ],
+  "answer": 0,
+  "explanation": "The A that are B are also C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nSome students are musicians. All musicians are chess players.\n\nDoes this conclusion follow?\n\"Some students are chess players.\"",
+  "options": [
+   "Yes",
+   "No"
+  ],
+  "answer": 0,
+  "explanation": "The A that are B are also C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nSome nurses are cyclists. All cyclists are vegetarians.\n\nDoes this conclusion follow?\n\"Some nurses are vegetarians.\"",
+  "options": [
+   "Yes",
+   "No"
+  ],
+  "answer": 0,
+  "explanation": "The A that are B are also C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nAll doctors are runners. No early risers are runners.\n\nDoes this conclusion follow?\n\"No doctors are early risers.\"",
+  "options": [
+   "Yes",
+   "No"
+  ],
+  "answer": 0,
+  "explanation": "Every A is a B and no C is a B, so no A can be a C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nAll students are musicians. No chess players are musicians.\n\nDoes this conclusion follow?\n\"No students are chess players.\"",
+  "options": [
+   "No",
+   "Yes"
+  ],
+  "answer": 1,
+  "explanation": "Every A is a B and no C is a B, so no A can be a C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nAll nurses are cyclists. No vegetarians are cyclists.\n\nDoes this conclusion follow?\n\"No nurses are vegetarians.\"",
+  "options": [
+   "Yes",
+   "No"
+  ],
+  "answer": 0,
+  "explanation": "Every A is a B and no C is a B, so no A can be a C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nAll doctors are runners.\n\nDoes this conclusion follow?\n\"All runners are doctors.\"",
+  "options": [
+   "Yes",
+   "No"
+  ],
+  "answer": 1,
+  "explanation": "'All A are B' cannot be reversed — there may be B that are not A.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nAll students are musicians.\n\nDoes this conclusion follow?\n\"All musicians are students.\"",
+  "options": [
+   "No",
+   "Yes"
+  ],
+  "answer": 0,
+  "explanation": "'All A are B' cannot be reversed — there may be B that are not A.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nAll nurses are cyclists.\n\nDoes this conclusion follow?\n\"All cyclists are nurses.\"",
+  "options": [
+   "Yes",
+   "No"
+  ],
+  "answer": 1,
+  "explanation": "'All A are B' cannot be reversed — there may be B that are not A.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nSome doctors are runners. Some runners are early risers.\n\nDoes this conclusion follow?\n\"Some doctors are early risers.\"",
+  "options": [
+   "Yes",
+   "No"
+  ],
+  "answer": 1,
+  "explanation": "The two 'some' groups need not overlap.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nSome students are musicians. Some musicians are chess players.\n\nDoes this conclusion follow?\n\"Some students are chess players.\"",
+  "options": [
+   "No",
+   "Yes"
+  ],
+  "answer": 0,
+  "explanation": "The two 'some' groups need not overlap.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nSome nurses are cyclists. Some cyclists are vegetarians.\n\nDoes this conclusion follow?\n\"Some nurses are vegetarians.\"",
+  "options": [
+   "No",
+   "Yes"
+  ],
+  "answer": 0,
+  "explanation": "The two 'some' groups need not overlap.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nNo doctors are runners. Some early risers are runners.\n\nDoes this conclusion follow?\n\"Some early risers are not doctors.\"",
+  "options": [
+   "Yes",
+   "No"
+  ],
+  "answer": 0,
+  "explanation": "The C that are B cannot be A.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nNo students are musicians. Some chess players are musicians.\n\nDoes this conclusion follow?\n\"Some chess players are not students.\"",
+  "options": [
+   "No",
+   "Yes"
+  ],
+  "answer": 1,
+  "explanation": "The C that are B cannot be A.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nNo nurses are cyclists. Some vegetarians are cyclists.\n\nDoes this conclusion follow?\n\"Some vegetarians are not nurses.\"",
+  "options": [
+   "Yes",
+   "No"
+  ],
+  "answer": 0,
+  "explanation": "The C that are B cannot be A.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nAll doctors are runners. Some early risers are not runners.\n\nDoes this conclusion follow?\n\"Some early risers are not doctors.\"",
+  "options": [
+   "Yes",
+   "No"
+  ],
+  "answer": 0,
+  "explanation": "A C that is not a B cannot be an A, because every A is a B.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nAll students are musicians. Some chess players are not musicians.\n\nDoes this conclusion follow?\n\"Some chess players are not students.\"",
+  "options": [
+   "Yes",
+   "No"
+  ],
+  "answer": 0,
+  "explanation": "A C that is not a B cannot be an A, because every A is a B.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nAll nurses are cyclists. Some vegetarians are not cyclists.\n\nDoes this conclusion follow?\n\"Some vegetarians are not nurses.\"",
+  "options": [
+   "Yes",
+   "No"
+  ],
+  "answer": 0,
+  "explanation": "A C that is not a B cannot be an A, because every A is a B.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nSome doctors are not runners. All early risers are runners.\n\nDoes this conclusion follow?\n\"All doctors are early risers.\"",
+  "options": [
+   "No",
+   "Yes"
+  ],
+  "answer": 0,
+  "explanation": "Some A are not B, so those A cannot be C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nSome students are not musicians. All chess players are musicians.\n\nDoes this conclusion follow?\n\"All students are chess players.\"",
+  "options": [
+   "No",
+   "Yes"
+  ],
+  "answer": 0,
+  "explanation": "Some A are not B, so those A cannot be C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Syllogisms",
+  "body": "Assume the statements are true.\n\nSome nurses are not cyclists. All vegetarians are cyclists.\n\nDoes this conclusion follow?\n\"All nurses are vegetarians.\"",
+  "options": [
+   "Yes",
+   "No"
+  ],
+  "answer": 1,
+  "explanation": "Some A are not B, so those A cannot be C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Venn diagrams",
+  "body": "In a group of 71 people, 21 like French, 34 like Spanish and 17 like both. How many like neither?",
+  "options": [
+   "50",
+   "54",
+   "16",
+   "33"
+  ],
+  "answer": 3,
+  "explanation": "Either = 21 + 34 − 17 = 38; neither = 71 − 38 = 33.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Venn diagrams",
+  "body": "In a group of 75 people, 17 like biology, 26 like chemistry and 15 like both. How many like neither?",
+  "options": [
+   "62",
+   "32",
+   "60",
+   "47"
+  ],
+  "answer": 3,
+  "explanation": "Either = 17 + 26 − 15 = 28; neither = 75 − 28 = 47.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Venn diagrams",
+  "body": "In a group of 110 people, 17 like French, 19 like Spanish and 8 like both. How many like neither?",
+  "options": [
+   "74",
+   "102",
+   "82",
+   "90"
+  ],
+  "answer": 2,
+  "explanation": "Either = 17 + 19 − 8 = 28; neither = 110 − 28 = 82.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Venn diagrams",
+  "body": "In a group of 65 people, 16 like football, 12 like tennis and 5 like both. How many like neither?",
+  "options": [
+   "47",
+   "42",
+   "37",
+   "60"
+  ],
+  "answer": 1,
+  "explanation": "Either = 16 + 12 − 5 = 23; neither = 65 − 23 = 42.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Venn diagrams",
+  "body": "In a group of 119 people, 56 like tea, 51 like coffee and 46 like both. How many like neither?",
+  "options": [
+   "104",
+   "58",
+   "12",
+   "73"
+  ],
+  "answer": 1,
+  "explanation": "Either = 56 + 51 − 46 = 61; neither = 119 − 61 = 58.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Venn diagrams",
+  "body": "In a group of 120 people, 36 like football, 57 like tennis and 5 like both. How many like neither?",
+  "options": [
+   "115",
+   "32",
+   "37",
+   "27"
+  ],
+  "answer": 1,
+  "explanation": "Either = 36 + 57 − 5 = 88; neither = 120 − 88 = 32.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Venn diagrams",
+  "body": "In a group of 100 people, 30 like biology, 13 like chemistry and 9 like both. How many like neither?",
+  "options": [
+   "75",
+   "57",
+   "66",
+   "91"
+  ],
+  "answer": 2,
+  "explanation": "Either = 30 + 13 − 9 = 34; neither = 100 − 34 = 66.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Venn diagrams",
+  "body": "In a group of 58 people, 34 like tea, 25 like coffee and 15 like both. How many like neither?",
+  "options": [
+   "15",
+   "43",
+   "14",
+   "29"
+  ],
+  "answer": 2,
+  "explanation": "Either = 34 + 25 − 15 = 44; neither = 58 − 44 = 14.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Venn diagrams",
+  "body": "In a group of 72 people, 21 like football, 24 like tennis and 3 like both. How many like neither?",
+  "options": [
+   "33",
+   "27",
+   "69",
+   "30"
+  ],
+  "answer": 3,
+  "explanation": "Either = 21 + 24 − 3 = 42; neither = 72 − 42 = 30.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Venn diagrams",
+  "body": "In a group of 85 people, 48 like football, 17 like tennis and 8 like both. How many like neither?",
+  "options": [
+   "77",
+   "36",
+   "20",
+   "28"
+  ],
+  "answer": 3,
+  "explanation": "Either = 48 + 17 − 8 = 57; neither = 85 − 57 = 28.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Probability",
+  "body": "A bag holds 2 red and 5 blue counters. Two are taken at random without replacement. What is the probability both are red?",
+  "options": [
+   "4/49",
+   "1/21",
+   "2/7",
+   "1/6"
+  ],
+  "answer": 1,
+  "explanation": "(2/7) × (1/6) = 1/21.",
+  "difficulty": 3
+ },
+ {
+  "subject": "UDM",
+  "topic": "Probability",
+  "body": "A bag holds 7 red and 5 blue counters. Two are taken at random without replacement. What is the probability both are red?",
+  "options": [
+   "7/12",
+   "7/22",
+   "49/144",
+   "6/11"
+  ],
+  "answer": 1,
+  "explanation": "(7/12) × (6/11) = 7/22.",
+  "difficulty": 3
+ },
+ {
+  "subject": "UDM",
+  "topic": "Probability",
+  "body": "A bag holds 2 red and 4 blue counters. Two are taken at random without replacement. What is the probability both are red?",
+  "options": [
+   "1/3",
+   "1/5",
+   "1/9",
+   "1/15"
+  ],
+  "answer": 3,
+  "explanation": "(2/6) × (1/5) = 1/15.",
+  "difficulty": 3
+ },
+ {
+  "subject": "UDM",
+  "topic": "Probability",
+  "body": "A bag holds 6 red and 3 blue counters. Two are taken at random without replacement. What is the probability both are red?",
+  "options": [
+   "5/8",
+   "5/12",
+   "2/3",
+   "4/9"
+  ],
+  "answer": 1,
+  "explanation": "(6/9) × (5/8) = 5/12.",
+  "difficulty": 3
+ },
+ {
+  "subject": "UDM",
+  "topic": "Probability",
+  "body": "A bag holds 3 red and 5 blue counters. Two are taken at random without replacement. What is the probability both are red?",
+  "options": [
+   "2/7",
+   "9/64",
+   "3/8",
+   "3/28"
+  ],
+  "answer": 3,
+  "explanation": "(3/8) × (2/7) = 3/28.",
+  "difficulty": 3
+ },
+ {
+  "subject": "UDM",
+  "topic": "Probability",
+  "body": "A bag holds 4 red and 8 blue counters. Two are taken at random without replacement. What is the probability both are red?",
+  "options": [
+   "1/3",
+   "1/11",
+   "1/9",
+   "3/11"
+  ],
+  "answer": 1,
+  "explanation": "(4/12) × (3/11) = 1/11.",
+  "difficulty": 3
+ },
+ {
+  "subject": "UDM",
+  "topic": "Probability",
+  "body": "A bag holds 3 red and 6 blue counters. Two are taken at random without replacement. What is the probability both are red?",
+  "options": [
+   "1/9",
+   "1/12",
+   "1/4",
+   "1/3"
+  ],
+  "answer": 1,
+  "explanation": "(3/9) × (2/8) = 1/12.",
+  "difficulty": 3
+ },
+ {
+  "subject": "UDM",
+  "topic": "Probability",
+  "body": "A bag holds 5 red and 6 blue counters. Two are taken at random without replacement. What is the probability both are red?",
+  "options": [
+   "2/5",
+   "5/11",
+   "25/121",
+   "2/11"
+  ],
+  "answer": 3,
+  "explanation": "(5/11) × (4/10) = 2/11.",
+  "difficulty": 3
+ },
+ {
+  "subject": "UDM",
+  "topic": "Probability",
+  "body": "A bag holds 4 red and 2 blue counters. Two are taken at random without replacement. What is the probability both are red?",
+  "options": [
+   "2/5",
+   "4/9",
+   "3/5",
+   "2/3"
+  ],
+  "answer": 0,
+  "explanation": "(4/6) × (3/5) = 2/5.",
+  "difficulty": 3
+ },
+ {
+  "subject": "UDM",
+  "topic": "Probability",
+  "body": "A bag holds 7 red and 4 blue counters. Two are taken at random without replacement. What is the probability both are red?",
+  "options": [
+   "7/11",
+   "3/5",
+   "49/121",
+   "21/55"
+  ],
+  "answer": 3,
+  "explanation": "(7/11) × (6/10) = 21/55.",
+  "difficulty": 3
+ },
+ {
+  "subject": "UDM",
+  "topic": "Logic puzzles",
+  "body": "Amara is taller than Hassan. Chen is shorter than Grace. Grace is shorter than Hassan.\n\nWho is the shortest?",
+  "options": [
+   "Grace",
+   "Hassan",
+   "Amara",
+   "Chen"
+  ],
+  "answer": 3,
+  "explanation": "The order from tallest is Amara > Hassan > Grace > Chen.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Logic puzzles",
+  "body": "Chen is shorter than Fola. Dami is shorter than Chen. Eli is taller than Fola.\n\nWho is the tallest?",
+  "options": [
+   "Eli",
+   "Fola",
+   "Chen",
+   "Dami"
+  ],
+  "answer": 0,
+  "explanation": "The order from tallest is Eli > Fola > Chen > Dami.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Logic puzzles",
+  "body": "Ben is shorter than Eli. Chen is taller than Fola. Eli is shorter than Fola.\n\nWho is the tallest?",
+  "options": [
+   "Chen",
+   "Eli",
+   "Fola",
+   "Ben"
+  ],
+  "answer": 0,
+  "explanation": "The order from tallest is Chen > Fola > Eli > Ben.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Logic puzzles",
+  "body": "Dami is shorter than Fola. Chen is taller than Fola. Grace is shorter than Dami.\n\nWho is the tallest?",
+  "options": [
+   "Fola",
+   "Grace",
+   "Chen",
+   "Dami"
+  ],
+  "answer": 2,
+  "explanation": "The order from tallest is Chen > Fola > Dami > Grace.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Logic puzzles",
+  "body": "Fola is shorter than Chen. Dami is shorter than Fola. Ben is taller than Chen.\n\nWho is the shortest?",
+  "options": [
+   "Fola",
+   "Chen",
+   "Ben",
+   "Dami"
+  ],
+  "answer": 3,
+  "explanation": "The order from tallest is Ben > Chen > Fola > Dami.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Logic puzzles",
+  "body": "Ben is shorter than Dami. Grace is taller than Dami. Fola is shorter than Ben.\n\nWho is the tallest?",
+  "options": [
+   "Grace",
+   "Fola",
+   "Ben",
+   "Dami"
+  ],
+  "answer": 0,
+  "explanation": "The order from tallest is Grace > Dami > Ben > Fola.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Logic puzzles",
+  "body": "Eli is taller than Fola. Ben is shorter than Fola. Hassan is shorter than Ben.\n\nWho is the shortest?",
+  "options": [
+   "Eli",
+   "Ben",
+   "Fola",
+   "Hassan"
+  ],
+  "answer": 3,
+  "explanation": "The order from tallest is Eli > Fola > Ben > Hassan.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Logic puzzles",
+  "body": "Chen is shorter than Amara. Dami is taller than Hassan. Amara is shorter than Hassan.\n\nWho is the tallest?",
+  "options": [
+   "Chen",
+   "Dami",
+   "Amara",
+   "Hassan"
+  ],
+  "answer": 1,
+  "explanation": "The order from tallest is Dami > Hassan > Amara > Chen.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Logic puzzles",
+  "body": "Fola is taller than Amara. Chen is shorter than Grace. Grace is shorter than Amara.\n\nWho is the shortest?",
+  "options": [
+   "Amara",
+   "Chen",
+   "Grace",
+   "Fola"
+  ],
+  "answer": 1,
+  "explanation": "The order from tallest is Fola > Amara > Grace > Chen.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDM",
+  "topic": "Logic puzzles",
+  "body": "Hassan is shorter than Eli. Amara is taller than Chen. Eli is shorter than Chen.\n\nWho is the shortest?",
+  "options": [
+   "Eli",
+   "Amara",
+   "Chen",
+   "Hassan"
+  ],
+  "answer": 3,
+  "explanation": "The order from tallest is Amara > Chen > Eli > Hassan.",
+  "difficulty": 2
+ }
+]
