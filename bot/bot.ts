@@ -18,11 +18,12 @@ import { BATTLE_DEFAULT_QUESTIONS, BATTLE_MAX, BATTLE_MIN, endBattle, onPollClos
 import { createGroup, getGroupByCode, groupsOwnedBy, joinGroup, joinLink, memberCount } from "@/lib/groups";
 import { signToken } from "@/lib/auth";
 import { attachReferrer, redeemLinkCode, referralCount, refLinks } from "@/lib/referrals";
-import { REFERRAL_DAYS } from "@/lib/pricing";
+import { REFERRAL_DAYS, TRIAL_DAYS } from "@/lib/pricing";
 import { money, PLANS, SEATS, FREE_DAILY_QUESTIONS, PREMIUM_DAILY_QUESTIONS } from "@/lib/pricing";
 import type { Student } from "@/lib/types";
 import { groupKb, menuKb, statesKb, subjectsKb, techTrackKb, timeKb, trackKb, tracksGridKb, TRACK_PROMPT } from "./keyboards";
 import { searchTracks, TRACK_GROUPS } from "@/lib/track-groups";
+import { welcomeText } from "@/lib/intro";
 
 type Ctx = Context & { student?: Student };
 const zoneLabel = (s: Student) => timeLabelFor(getTrack(s.track));
@@ -332,7 +333,7 @@ function register(bot: Bot<Ctx>) {
       // Deep links like t.me/<bot>?start=eth or ?start=ssc pre-select the exam
       const pre = TRACKS[payload.toUpperCase() as TrackCode];
       if (pre) {
-        await ctx.reply(`Welcome to *Mock Night* 👋\n\n${pre.emoji} *${pre.name}*: ${pre.tagline}.\n\nLet's set you up — takes 30 seconds.`, { parse_mode: "Markdown" });
+        await ctx.reply(`Welcome to *Mock Night* 👋\n\n${pre.emoji} *${pre.name}*: ${pre.tagline}.\n\n📅 Daily questions · ⏱️ Timed tests · 💡 Explanations · 🤖 AI tutor${TRIAL_DAYS ? `\n🎁 Everything free for your first ${TRIAL_DAYS} days.` : ""}\n\nLet's set you up. It takes 30 seconds.`, { parse_mode: "Markdown" });
         const u = await updateStudent(s.id, {
           track: pre.code,
           subjects: pre.subjectMode === "single" ? pre.subjects : pre.compulsory,
@@ -341,10 +342,7 @@ function register(bot: Bot<Ctx>) {
         if (pre.subjectMode === "multi") return ctx.reply(subjectsText(u), { reply_markup: subjectsKb(u) });
         return promptStep(ctx.api, u);
       }
-      await ctx.reply(
-        `🌿 *Mock Night*\n*Prepare Smarter. Perform Better.*\n\nPractise for school exams, professional certifications and workplace courses with daily drills, timed mock tests, clear explanations and progress tracking — on Telegram and the web.\n\nLet's set you up — takes 30 seconds.`,
-        { parse_mode: "Markdown" },
-      );
+      await ctx.reply(welcomeText(), { parse_mode: "Markdown", link_preview_options: { is_disabled: true } });
     }
 
     if (payload === "mn" && s.onboarding_step === "done") return sendMockNightInfo(ctx.api, s);

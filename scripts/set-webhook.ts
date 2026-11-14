@@ -5,6 +5,7 @@
 import "./load-env";
 import { Bot } from "grammy";
 import { ALLOWED_UPDATES, BOT_COMMANDS } from "../lib/telegram-updates";
+import { BOT_DESCRIPTION, BOT_SHORT_DESCRIPTION } from "../lib/intro";
 
 const bot = new Bot(process.env.TELEGRAM_BOT_TOKEN!);
 const url = `${process.env.APP_URL!.replace(/\/$/, "")}/api/telegram`;
@@ -17,10 +18,8 @@ await bot.api.setWebhook(url, {
 
 await bot.api.setMyCommands([...BOT_COMMANDS]);
 
-await bot.api.setMyDescription(
-  "Exam practice and short courses: JAMB, WAEC, Digital SAT, Post-UTME, WASSCE Ghana, the Life in the UK test and Fire Marshal training. Daily practice, real timed tests, certificates. Tap Start.",
-);
-await bot.api.setMyShortDescription("JAMB, WAEC, Digital SAT, Life in the UK & Fire Marshal: daily practice, timed tests, certificates.");
+await bot.api.setMyDescription(BOT_DESCRIPTION);
+await bot.api.setMyShortDescription(BOT_SHORT_DESCRIPTION);
 
 await bot.api.setChatMenuButton({
   menu_button: { type: "web_app", text: "CBT", web_app: { url: `${process.env.APP_URL!.replace(/\/$/, "")}/mock` } },

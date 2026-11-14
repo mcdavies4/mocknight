@@ -41,6 +41,10 @@ async function ensureWebhookUpdates(api: Api) {
       await api.setMyCommands(BOT_COMMANDS.map((c) => ({ ...c })));
       console.log("bot commands refreshed");
     }
+    // Keep the bot's profile text in sync too (what people see before tapping Start)
+    const { BOT_DESCRIPTION, BOT_SHORT_DESCRIPTION } = await import("./intro");
+    if ((await api.getMyDescription()).description !== BOT_DESCRIPTION) await api.setMyDescription(BOT_DESCRIPTION);
+    if ((await api.getMyShortDescription()).short_description !== BOT_SHORT_DESCRIPTION) await api.setMyShortDescription(BOT_SHORT_DESCRIPTION);
   } catch (e) {
     console.error("ensureWebhookUpdates failed", e);
   }
