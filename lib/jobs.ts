@@ -1,4 +1,4 @@
-import { ALLOWED_UPDATES } from "./telegram-updates";
+import { ALLOWED_UPDATES, BOT_COMMANDS } from "./telegram-updates";
 import { expireStaleBattles } from "./battle";
 import { InlineKeyboard, type Api } from "grammy";
 import { db, must } from "./supabase";
@@ -31,9 +31,16 @@ async function ensureWebhookUpdates(api: Api) {
   try {
     const info = await api.getWebhookInfo();
     const have = new Set(info.allowed_updates ?? []);
-    if (!info.url || ALLOWED_UPDATES.every((u) => have.has(u))) return;
-    await api.setWebhook(info.url, { secret_token: env.webhookSecret, allowed_updates: [...ALLOWED_UPDATES] });
-    console.log("webhook allowed_updates refreshed");
+    if (info.url && !ALLOWED_UPDATES.every((u) => have.has(u))) {
+      await api.setWebhook(info.url, { secret_token: env.webhookSecret, allowed_updates: [...ALLOWED_UPDATES] });
+      console.log("webhook allowed_updates refreshed");
+    }
+    // Keep the command menu in sync with the code (no need to run set-webhook locally)
+    const current = (await api.getMyCommands()).map((c) => c.command).join(",");
+    if (current !== BOT_COMMANDS.map((c) => c.command).join(",")) {
+      await api.setMyCommands(BOT_COMMANDS.map((c) => ({ ...c })));
+      console.log("bot commands refreshed");
+    }
   } catch (e) {
     console.error("ensureWebhookUpdates failed", e);
   }
