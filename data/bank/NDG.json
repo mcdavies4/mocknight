@@ -1,0 +1,324 @@
+[
+ {
+  "subject": "NDG",
+  "topic": "Basics",
+  "body": "What is the main advantage of NDT over destructive testing?",
+  "options": [
+   "It is always cheaper",
+   "It needs no trained staff",
+   "It finds every possible defect",
+   "The part can still be used after testing"
+  ],
+  "answer": 3,
+  "explanation": "NDT inspects without damaging the item.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Basics",
+  "body": "What is the difference between a discontinuity and a defect?",
+  "options": [
+   "A defect is always on the surface",
+   "A defect is a discontinuity that fails the acceptance criteria",
+   "They mean exactly the same",
+   "A discontinuity is always rejectable"
+  ],
+  "answer": 1,
+  "explanation": "Every defect is a discontinuity, but not every discontinuity is a defect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Basics",
+  "body": "Which NDT method should always be carried out first?",
+  "options": [
+   "Visual testing (VT)",
+   "Ultrasonic testing (UT)",
+   "Eddy current testing (ET)",
+   "Radiography (RT)"
+  ],
+  "answer": 0,
+  "explanation": "Visual inspection is quick, cheap and finds obvious problems.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Methods",
+  "body": "Which two methods are mainly used to find internal (volumetric) defects?",
+  "options": [
+   "Visual and penetrant testing",
+   "Ultrasonic and radiographic testing",
+   "Eddy current and visual testing",
+   "Penetrant and magnetic particle testing"
+  ],
+  "answer": 1,
+  "explanation": "PT, MT, VT and ET are mainly surface or near-surface methods.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Methods",
+  "body": "Which method can only detect discontinuities that are open to the surface?",
+  "options": [
+   "Radiographic testing (RT)",
+   "Penetrant testing (PT)",
+   "Magnetic particle testing (MT)",
+   "Ultrasonic testing (UT)"
+  ],
+  "answer": 1,
+  "explanation": "MT can also find some slightly subsurface defects.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Methods",
+  "body": "Magnetic particle testing can only be used on",
+  "options": [
+   "any metal",
+   "aluminium and copper",
+   "ferromagnetic materials such as carbon steel",
+   "austenitic stainless steel"
+  ],
+  "answer": 2,
+  "explanation": "The material must be able to be magnetised.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Methods",
+  "body": "Which method is best for measuring the remaining wall thickness of a corroded pipe?",
+  "options": [
+   "Visual testing",
+   "Penetrant testing",
+   "Magnetic particle testing",
+   "Ultrasonic testing"
+  ],
+  "answer": 3,
+  "explanation": "UT measures thickness from one side.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Methods",
+  "body": "Which method gives a permanent image record of a weld's internal condition?",
+  "options": [
+   "Radiography",
+   "Magnetic particle testing",
+   "Visual testing",
+   "Penetrant testing"
+  ],
+  "answer": 0,
+  "explanation": "Film or digital images can be archived.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Methods",
+  "body": "Eddy current testing works on",
+  "options": [
+   "any material including plastics",
+   "electrically conductive materials",
+   "ferromagnetic materials only",
+   "ceramics only"
+  ],
+  "answer": 1,
+  "explanation": "It is widely used on heat exchanger tubes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Certification",
+  "body": "Under ISO 9712, which level sets up equipment, carries out tests and interprets results against standards?",
+  "options": [
+   "Level 3",
+   "Level 1",
+   "Trainee",
+   "Level 2"
+  ],
+  "answer": 3,
+  "explanation": "Level 1 works under supervision; Level 3 writes and approves procedures.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Certification",
+  "body": "Which level is responsible for establishing techniques and approving written procedures?",
+  "options": [
+   "Level 2",
+   "Any trainee",
+   "Level 3",
+   "Level 1"
+  ],
+  "answer": 2,
+  "explanation": "Level 3 also oversees qualification of lower levels.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Certification",
+  "body": "ASNT SNT-TC-1A is",
+  "options": [
+   "a central certification exam run by ISO",
+   "a recommended practice under which the employer certifies its personnel",
+   "a welding code",
+   "a radiation safety law"
+  ],
+  "answer": 1,
+  "explanation": "Employers write a 'written practice' based on it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Certification",
+  "body": "Under ISO 9712, how long is a certificate valid before renewal?",
+  "options": [
+   "3 years",
+   "5 years",
+   "1 year",
+   "10 years"
+  ],
+  "answer": 1,
+  "explanation": "Recertification by exam is required every 10 years.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Certification",
+  "body": "How often must certified ISO 9712 personnel have their vision checked?",
+  "options": [
+   "Only once, before the first exam",
+   "Every year",
+   "Every 5 years",
+   "Every 10 years"
+  ],
+  "answer": 1,
+  "explanation": "Near-vision acuity and colour vision are checked.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Certification",
+  "body": "Under ISO 9712 Level 2, the pass mark for each written exam is",
+  "options": [
+   "80%",
+   "50%",
+   "70%",
+   "60%"
+  ],
+  "answer": 2,
+  "explanation": "Each written paper and the practical must be passed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Welds",
+  "body": "Which weld defect is generally considered the most serious?",
+  "options": [
+   "Cracks",
+   "Slight excess reinforcement",
+   "Spatter",
+   "Porosity"
+  ],
+  "answer": 0,
+  "explanation": "Cracks are planar and can grow under stress.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Welds",
+  "body": "Gas pores trapped in a weld are called",
+  "options": [
+   "undercut",
+   "slag inclusion",
+   "porosity",
+   "lack of fusion"
+  ],
+  "answer": 2,
+  "explanation": "Often caused by contamination or poor shielding gas.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Welds",
+  "body": "A groove melted into the base metal at the weld toe and left unfilled is",
+  "options": [
+   "undercut",
+   "incomplete penetration",
+   "overlap",
+   "porosity"
+  ],
+  "answer": 0,
+  "explanation": "Undercut reduces the section and concentrates stress.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Welds",
+  "body": "Non-metallic material trapped in a weld from the flux is called",
+  "options": [
+   "slag inclusion",
+   "lamination",
+   "undercut",
+   "porosity"
+  ],
+  "answer": 0,
+  "explanation": "Poor cleaning between passes is a common cause.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Welds",
+  "body": "The area of base metal whose structure was changed by welding heat is the",
+  "options": [
+   "cap",
+   "fusion face",
+   "root",
+   "heat-affected zone (HAZ)"
+  ],
+  "answer": 3,
+  "explanation": "The HAZ was not melted but its properties changed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Codes",
+  "body": "Which code is widely used for welding of oil and gas pipelines?",
+  "options": [
+   "BS 7671",
+   "AWS D1.1",
+   "API 1104",
+   "ASME Section IX only"
+  ],
+  "answer": 2,
+  "explanation": "API 1104 covers pipeline welding and its inspection.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Codes",
+  "body": "Which code covers structural steel welding?",
+  "options": [
+   "API 510",
+   "ASME Section V",
+   "AWS D1.1",
+   "API 1104"
+  ],
+  "answer": 2,
+  "explanation": "D1.1 is the American Welding Society structural code.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Codes",
+  "body": "ASME Section V covers",
+  "options": [
+   "acceptance criteria for all pressure vessels",
+   "welder qualification",
+   "pipeline design",
+   "NDT methods and techniques"
+  ],
+  "answer": 3,
+  "explanation": "Acceptance criteria usually come from the construction code.",
+  "difficulty": 2
+ }
+]

@@ -2,7 +2,7 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
 export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi" | "Asia/Manila";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
@@ -602,6 +602,22 @@ export const TRACKS: Record<TrackCode, Track> = {
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["oilgas_pass", "oilgas_pass_usd"], tagline: "Get oil & gas ready: H₂S, permits, confined space and fire safety, plus the industry knowledge interviewers ask about", timeZone: "Africa/Lagos",
     audience: "a Nigerian graduate, technician or career changer preparing for oil and gas jobs, graduate trainee interviews or site HSE inductions",
+  },
+  NDT: {
+    code: "NDT", name: "NDT (non-destructive testing) Level 1–2", short: "NDT", emoji: "🔬", kind: "professional", region: "GLOBAL", currency: "NGN",
+    subjectMode: "multi", subjects: ["NDG", "NPT", "NMT", "NUT", "NRT"], compulsory: ["NDG"], minSubjects: 2, maxSubjects: 5,
+    subjectNote: "General theory plus the methods you're certifying in (PT, MT, UT, RT)",
+    mock: { perSubject: 10, minutes: 60, passPct: 70, scoreStyle: "passfail", maxSubjects: 5 },
+    mockVariants: [
+      { key: "GEN", label: "General theory (Level 2)", short: "General", subjects: ["NDG"], total: 40, minutes: 60, passPct: 70, note: "40 questions · 60 min · 70% to pass" },
+      { key: "PT", label: "Penetrant testing (PT)", short: "PT", subjects: ["NPT"], total: 30, minutes: 45, passPct: 70, note: "30 questions · 45 min" },
+      { key: "MT", label: "Magnetic particle testing (MT)", short: "MT", subjects: ["NMT"], total: 30, minutes: 45, passPct: 70, note: "30 questions · 45 min" },
+      { key: "UT", label: "Ultrasonic testing (UT)", short: "UT", subjects: ["NUT"], total: 30, minutes: 45, passPct: 70, note: "30 questions · 45 min" },
+      { key: "RT", label: "Radiography and radiation safety (RT)", short: "RT", subjects: ["NRT"], total: 30, minutes: 45, passPct: 70, note: "30 questions · 45 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["ndt_pass", "ndt_pass_usd"], tagline: "NDT exam practice for ISO 9712 (PCN), ASNT and CSWIP: general theory plus PT, MT, UT and RT with radiation safety", timeZone: "Africa/Lagos",
+    audience: "an NDT technician or trainee preparing for Level 1 or Level 2 theory exams (ISO 9712/PCN or ASNT SNT-TC-1A), often working in oil and gas, pipelines or fabrication",
   },
   PLAB: {
     code: "PLAB", name: "PLAB 1 (UK GMC — doctors)", short: "PLAB 1", emoji: "⚕️", kind: "professional", region: "UK", currency: "GBP",

@@ -1,0 +1,198 @@
+[
+ {
+  "subject": "NMT",
+  "topic": "Principles",
+  "body": "Magnetic particle testing detects defects because",
+  "options": [
+   "particles are drawn in by capillary action",
+   "sound reflects from the defect",
+   "the defect absorbs X-rays",
+   "a discontinuity causes magnetic flux leakage that attracts particles"
+  ],
+  "answer": 3,
+  "explanation": "Leakage fields hold particles at the defect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Principles",
+  "body": "Which material CANNOT be tested with MT?",
+  "options": [
+   "Austenitic stainless steel",
+   "Cast iron",
+   "Low-alloy steel",
+   "Carbon steel"
+  ],
+  "answer": 0,
+  "explanation": "Austenitic stainless steel is non-magnetic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Principles",
+  "body": "A defect is detected best when it lies at what angle to the magnetic field?",
+  "options": [
+   "0° (parallel)",
+   "90° (perpendicular)",
+   "45° only",
+   "Any angle equally"
+  ],
+  "answer": 1,
+  "explanation": "Inspect in two directions about 90° apart.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Principles",
+  "body": "Above its Curie temperature, steel",
+  "options": [
+   "becomes more magnetic",
+   "becomes radioactive",
+   "cannot be welded",
+   "loses its ferromagnetic properties"
+  ],
+  "answer": 3,
+  "explanation": "For iron this is about 770 °C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Techniques",
+  "body": "An electromagnetic yoke produces",
+  "options": [
+   "no field",
+   "a circular field around the part",
+   "a longitudinal field between its poles",
+   "a radioactive field"
+  ],
+  "answer": 2,
+  "explanation": "Place the yoke twice at about 90° to check both directions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Techniques",
+  "body": "Passing current directly through a part (head shot or prods) produces",
+  "options": [
+   "no field",
+   "an alternating sound wave",
+   "a circular magnetic field",
+   "a longitudinal field"
+  ],
+  "answer": 2,
+  "explanation": "Field lines circle around the current path.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Techniques",
+  "body": "A known risk of using prods is",
+  "options": [
+   "arc strikes that can damage the part",
+   "loss of couplant",
+   "corrosion from the developer",
+   "radiation exposure"
+  ],
+  "answer": 0,
+  "explanation": "Good contact and correct current reduce the risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Techniques",
+  "body": "Which current is better for detecting surface-breaking defects?",
+  "options": [
+   "AC",
+   "DC",
+   "No current",
+   "Both are useless"
+  ],
+  "answer": 0,
+  "explanation": "AC concentrates the field near the surface (skin effect).",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Techniques",
+  "body": "Which current gives better detection of slightly subsurface defects?",
+  "options": [
+   "DC or half-wave DC",
+   "High-frequency AC only",
+   "No current",
+   "AC"
+  ],
+  "answer": 0,
+  "explanation": "DC penetrates deeper into the part.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Techniques",
+  "body": "Under ASME Section V, an AC yoke must be able to lift at least",
+  "options": [
+   "18 kg (40 lb)",
+   "50 kg",
+   "1 kg",
+   "4.5 kg (10 lb) at the maximum pole spacing"
+  ],
+  "answer": 3,
+  "explanation": "A DC yoke must lift at least 18 kg (40 lb).",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Techniques",
+  "body": "Which particles give the highest sensitivity?",
+  "options": [
+   "Wet fluorescent particles",
+   "Dry red powder",
+   "Iron filings from a workshop",
+   "Dry grey powder"
+  ],
+  "answer": 0,
+  "explanation": "They are viewed under UV-A light.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Techniques",
+  "body": "A pie gauge is used in MT to",
+  "options": [
+   "show the direction of the magnetic field",
+   "measure wall thickness",
+   "measure film density",
+   "check UV intensity"
+  ],
+  "answer": 0,
+  "explanation": "A Hall-effect meter measures field strength.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Techniques",
+  "body": "Inspecting while the magnetising current is still applied is called the",
+  "options": [
+   "residual method",
+   "dwell method",
+   "continuous method",
+   "pulse-echo method"
+  ],
+  "answer": 2,
+  "explanation": "The residual method relies on leftover magnetism.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "After testing",
+  "body": "Why might a part need demagnetising after MT?",
+  "options": [
+   "It is never needed",
+   "To remove the paint",
+   "Residual magnetism can attract debris or affect later welding and machining",
+   "To make it radioactive-free"
+  ],
+  "answer": 2,
+  "explanation": "Arc blow during welding is a common problem.",
+  "difficulty": 2
+ }
+]

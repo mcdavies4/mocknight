@@ -48,6 +48,7 @@ const PATHS: Record<TrackCode, string> = {
   CELPIP: "/exam/CELPIP",
   IOSH: "/exam/IOSH",
   OILGAS: "/exam/OILGAS",
+  NDT: "/exam/NDT",
   NEET: "/exam/NEET",
   JEE: "/exam/JEE",
   GRE: "/exam/GRE",

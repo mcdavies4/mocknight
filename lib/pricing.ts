@@ -58,6 +58,8 @@ export const PLANS: Record<string, Plan> = {
   iosh_pass_ngn: { code: "iosh_pass_ngn", label: "IOSH Managing Safely Premium — 60 days (pay in naira)", amount: 7_500_00, currency: "NGN", days: 60, provider: "paystack", stars: 250 },
   oilgas_pass: { code: "oilgas_pass", label: "Oil & gas Premium — 90 days", amount: 7_500_00, currency: "NGN", days: 90, provider: "paystack", stars: 250 },
   oilgas_pass_usd: { code: "oilgas_pass_usd", label: "Oil & gas Premium — 90 days (card, USD)", amount: 9_99, currency: "USD", days: 90, provider: "stripe", stars: 500 },
+  ndt_pass: { code: "ndt_pass", label: "NDT Premium — 90 days", amount: 10_000_00, currency: "NGN", days: 90, provider: "paystack", stars: 300 },
+  ndt_pass_usd: { code: "ndt_pass_usd", label: "NDT Premium — 90 days (card, USD)", amount: 14_99, currency: "USD", days: 90, provider: "stripe", stars: 750 },
   plab_pass: { code: "plab_pass", label: "PLAB 1 — full access, 90 days", amount: 24_99, currency: "GBP", days: 90, provider: "stripe", stars: 1550 },
   nclex_pass: { code: "nclex_pass", label: "NCLEX-RN — full access, 90 days", amount: 19_99, currency: "USD", days: 90, provider: "stripe", stars: 1000 },
   pm_pass: { code: "pm_pass", label: "Project Management — full access, 90 days", amount: 14_99, currency: "GBP", days: 90, provider: "stripe", stars: 1000 },

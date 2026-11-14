@@ -1,0 +1,198 @@
+[
+ {
+  "subject": "NPT",
+  "topic": "Principles",
+  "body": "Penetrant testing relies mainly on",
+  "options": [
+   "sound reflection",
+   "capillary action",
+   "X-ray absorption",
+   "magnetism"
+  ],
+  "answer": 1,
+  "explanation": "The penetrant is drawn into surface-breaking openings.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Principles",
+  "body": "Penetrant testing cannot be used on",
+  "options": [
+   "glass",
+   "steel",
+   "porous materials such as unglazed ceramics",
+   "aluminium"
+  ],
+  "answer": 2,
+  "explanation": "Penetrant soaks into porous surfaces and masks indications.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Process",
+  "body": "What is the correct order of the main PT steps?",
+  "options": [
+   "Apply penetrant, inspect, pre-clean, developer",
+   "Pre-clean, apply penetrant, dwell, remove excess, apply developer, inspect, post-clean",
+   "Apply developer, apply penetrant, inspect, clean",
+   "Remove excess, apply penetrant, dwell, inspect"
+  ],
+  "answer": 1,
+  "explanation": "Pre-cleaning is critical: contamination blocks penetrant.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Process",
+  "body": "The time the penetrant is left on the surface is called the",
+  "options": [
+   "exposure time",
+   "dwell time",
+   "drying time",
+   "development time"
+  ],
+  "answer": 1,
+  "explanation": "It lets penetrant enter the discontinuities.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Process",
+  "body": "What is the main risk of over-removing excess penetrant?",
+  "options": [
+   "False indications everywhere",
+   "The developer will not stick",
+   "The part rusts immediately",
+   "Penetrant is washed out of defects, so they are missed"
+  ],
+  "answer": 3,
+  "explanation": "Removal must be controlled, especially with water-washable penetrants.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Process",
+  "body": "What does the developer do?",
+  "options": [
+   "Cleans the surface",
+   "Draws penetrant out of discontinuities and gives a contrasting background",
+   "Dries the penetrant into the defect permanently",
+   "Magnetises the part"
+  ],
+  "answer": 1,
+  "explanation": "It acts like blotting paper.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Process",
+  "body": "Under ASME Section V, the standard temperature range for PT is",
+  "options": [
+   "20 °C to 30 °C only",
+   "0 °C to 100 °C",
+   "-10 °C to 40 °C",
+   "10 °C to 52 °C"
+  ],
+  "answer": 3,
+  "explanation": "Outside this range the procedure must be qualified.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Types",
+  "body": "Which removal method uses a solvent wipe and is common for field inspection?",
+  "options": [
+   "Solvent-removable",
+   "Post-emulsifiable hydrophilic",
+   "Water-washable",
+   "Post-emulsifiable lipophilic"
+  ],
+  "answer": 0,
+  "explanation": "Aerosol kits make it portable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Types",
+  "body": "Which type of penetrant is generally more sensitive?",
+  "options": [
+   "Fluorescent",
+   "Visible (red)",
+   "Neither can find cracks",
+   "Both are identical"
+  ],
+  "answer": 0,
+  "explanation": "Fluorescent indications glow under UV-A light.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Types",
+  "body": "Fluorescent penetrant inspection uses UV-A light with a peak wavelength of about",
+  "options": [
+   "700 nm",
+   "365 nm",
+   "254 nm",
+   "550 nm"
+  ],
+  "answer": 1,
+  "explanation": "UV-A covers roughly 320 to 400 nm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Types",
+  "body": "Under ASME Section V, the minimum UV-A intensity at the inspection surface is",
+  "options": [
+   "5000 lux",
+   "10 µW/cm²",
+   "1000 µW/cm²",
+   "100 µW/cm²"
+  ],
+  "answer": 2,
+  "explanation": "Check the intensity with a UV meter.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Types",
+  "body": "Before fluorescent inspection in a darkened area, the inspector should allow at least",
+  "options": [
+   "no time at all",
+   "1 hour",
+   "30 seconds",
+   "5 minutes for dark adaptation"
+  ],
+  "answer": 3,
+  "explanation": "Eyes need time to adjust to see faint indications.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Interpretation",
+  "body": "Under ASME, a linear indication is one whose length is",
+  "options": [
+   "equal to its width",
+   "less than its width",
+   "more than three times its width",
+   "more than 1 mm only"
+  ],
+  "answer": 2,
+  "explanation": "Otherwise it is a rounded indication.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Interpretation",
+  "body": "A false indication in PT is most often caused by",
+  "options": [
+   "poor cleaning or excess penetrant left on the surface",
+   "a real crack",
+   "magnetisation",
+   "too little dwell time"
+  ],
+  "answer": 0,
+  "explanation": "False indications are not caused by discontinuities.",
+  "difficulty": 2
+ }
+]

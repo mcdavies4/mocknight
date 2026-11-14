@@ -1,0 +1,590 @@
+[
+ {
+  "subject": "NRT",
+  "topic": "Sources",
+  "body": "What is the approximate half-life of Iridium-192?",
+  "options": [
+   "5.3 years",
+   "120 days",
+   "74 days",
+   "30 years"
+  ],
+  "answer": 2,
+  "explanation": "Ir-192 is the most common gamma source for pipeline welds.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Sources",
+  "body": "What is the approximate half-life of Cobalt-60?",
+  "options": [
+   "74 days",
+   "8 days",
+   "120 days",
+   "5.3 years"
+  ],
+  "answer": 3,
+  "explanation": "Co-60 emits higher-energy gamma rays for thick sections.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Sources",
+  "body": "Selenium-75 has a half-life of about",
+  "options": [
+   "5.3 years",
+   "74 days",
+   "120 days",
+   "1 day"
+  ],
+  "answer": 2,
+  "explanation": "Its lower energy suits thinner sections.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Image",
+  "body": "On a radiograph, porosity usually appears",
+  "options": [
+   "as a bright straight line",
+   "darker than the surrounding weld",
+   "invisible",
+   "lighter than the surrounding weld"
+  ],
+  "answer": 1,
+  "explanation": "Less material means more radiation reaches the film.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Image",
+  "body": "A tungsten inclusion on a radiograph appears",
+  "options": [
+   "lighter than the surrounding weld",
+   "as a crack",
+   "darker than the surrounding weld",
+   "the same"
+  ],
+  "answer": 0,
+  "explanation": "Tungsten is denser than steel.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Image",
+  "body": "What is an image quality indicator (IQI) used for?",
+  "options": [
+   "To shield the operator",
+   "To measure the source activity",
+   "To check the sensitivity of the radiograph",
+   "To develop the film"
+  ],
+  "answer": 2,
+  "explanation": "Wire-type and hole-type IQIs are common.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Image",
+  "body": "Why might radiography miss a lack-of-fusion defect?",
+  "options": [
+   "Planar defects are hard to see unless aligned with the beam",
+   "Lack of fusion is always on the surface",
+   "Steel stops all radiation",
+   "RT cannot see inside welds"
+  ],
+  "answer": 0,
+  "explanation": "UT is often better for planar defects.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Image",
+  "body": "When the inside of a pipe cannot be reached, a common technique is",
+  "options": [
+   "pulse-echo",
+   "single wall single image only",
+   "prod technique",
+   "double wall single image (DWSI)"
+  ],
+  "answer": 3,
+  "explanation": "Radiation passes through both walls; only the film-side wall is evaluated.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Safety",
+  "body": "What are the three basic principles of radiation protection?",
+  "options": [
+   "Heat, fuel and oxygen",
+   "Time, distance and shielding",
+   "Speed, power and light",
+   "Gloves, goggles and boots"
+  ],
+  "answer": 1,
+  "explanation": "Minimise time, maximise distance, use shielding.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Safety",
+  "body": "What does ALARA stand for?",
+  "options": [
+   "As Long As Radiation Allows",
+   "Always Leave Area Right Away",
+   "As Low As Reasonably Achievable",
+   "Annual Limit And Radiation Allowance"
+  ],
+  "answer": 2,
+  "explanation": "Keep doses as low as reasonably achievable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Safety",
+  "body": "Which unit measures the activity of a radioactive source?",
+  "options": [
+   "Sievert (Sv)",
+   "Becquerel (Bq)",
+   "Lux",
+   "Gray (Gy)"
+  ],
+  "answer": 1,
+  "explanation": "The older unit is the curie (Ci).",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Safety",
+  "body": "Which unit measures dose equivalent (biological effect) to a person?",
+  "options": [
+   "Sievert (Sv)",
+   "Gray (Gy)",
+   "Hertz (Hz)",
+   "Becquerel (Bq)"
+  ],
+  "answer": 0,
+  "explanation": "The gray measures absorbed dose.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Safety",
+  "body": "The internationally recommended occupational dose limit is",
+  "options": [
+   "100 mSv per year",
+   "20 mSv per year, averaged over 5 years",
+   "No limit for trained workers",
+   "1 mSv per year"
+  ],
+  "answer": 1,
+  "explanation": "Set out by ICRP and adopted by IAEA standards.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Safety",
+  "body": "Which body regulates radiation sources and radiography in Nigeria?",
+  "options": [
+   "NUPRC",
+   "SON",
+   "Nigerian Nuclear Regulatory Authority (NNRA)",
+   "NAFDAC"
+  ],
+  "answer": 2,
+  "explanation": "Radiography companies must be licensed by the NNRA.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Safety",
+  "body": "A survey meter is used to",
+  "options": [
+   "measure wall thickness",
+   "measure radiation dose rate in the work area",
+   "record each worker's total dose",
+   "develop film"
+  ],
+  "answer": 1,
+  "explanation": "Personal dosimeters (TLD or EPD) record individual dose.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Film",
+  "body": "What is the correct order of manual film processing?",
+  "options": [
+   "Develop, dry, fix, wash",
+   "Wash, develop, fix, stop",
+   "Fix, develop, wash, dry",
+   "Develop, stop, fix, wash, dry"
+  ],
+  "answer": 3,
+  "explanation": "The fixer removes unexposed silver halide.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The dose rate is 80 µSv/h at 5 m from a gamma source. What is it at 10 m?",
+  "options": [
+   "40 µSv/h",
+   "20 µSv/h",
+   "22 µSv/h",
+   "160 µSv/h"
+  ],
+  "answer": 1,
+  "explanation": "Inverse square law: I₂ = I₁ × (d₁/d₂)² = 80 × (1/2)² = 20 µSv/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The dose rate is 120 µSv/h at 3 m from a gamma source. What is it at 15 m?",
+  "options": [
+   "600 µSv/h",
+   "4.8 µSv/h",
+   "12 µSv/h",
+   "24 µSv/h"
+  ],
+  "answer": 1,
+  "explanation": "Inverse square law: I₂ = I₁ × (d₁/d₂)² = 120 × (1/5)² = 4.8 µSv/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The dose rate is 400 µSv/h at 10 m from a gamma source. What is it at 50 m?",
+  "options": [
+   "40 µSv/h",
+   "16 µSv/h",
+   "2000 µSv/h",
+   "80 µSv/h"
+  ],
+  "answer": 1,
+  "explanation": "Inverse square law: I₂ = I₁ × (d₁/d₂)² = 400 × (1/5)² = 16 µSv/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The dose rate is 400 µSv/h at 5 m from a gamma source. What is it at 25 m?",
+  "options": [
+   "2000 µSv/h",
+   "40 µSv/h",
+   "16 µSv/h",
+   "80 µSv/h"
+  ],
+  "answer": 2,
+  "explanation": "Inverse square law: I₂ = I₁ × (d₁/d₂)² = 400 × (1/5)² = 16 µSv/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The dose rate is 160 µSv/h at 10 m from a gamma source. What is it at 40 m?",
+  "options": [
+   "20 µSv/h",
+   "40 µSv/h",
+   "10 µSv/h",
+   "640 µSv/h"
+  ],
+  "answer": 2,
+  "explanation": "Inverse square law: I₂ = I₁ × (d₁/d₂)² = 160 × (1/4)² = 10 µSv/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The dose rate is 200 µSv/h at 5 m from a gamma source. What is it at 15 m?",
+  "options": [
+   "66.67 µSv/h",
+   "22.22 µSv/h",
+   "33.33 µSv/h",
+   "600 µSv/h"
+  ],
+  "answer": 1,
+  "explanation": "Inverse square law: I₂ = I₁ × (d₁/d₂)² = 200 × (1/3)² = 22.22 µSv/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The dose rate is 40 µSv/h at 2 m from a gamma source. What is it at 10 m?",
+  "options": [
+   "200 µSv/h",
+   "8 µSv/h",
+   "4 µSv/h",
+   "1.6 µSv/h"
+  ],
+  "answer": 3,
+  "explanation": "Inverse square law: I₂ = I₁ × (d₁/d₂)² = 40 × (1/5)² = 1.6 µSv/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The dose rate is 80 µSv/h at 10 m from a gamma source. What is it at 30 m?",
+  "options": [
+   "240 µSv/h",
+   "13.33 µSv/h",
+   "26.67 µSv/h",
+   "8.89 µSv/h"
+  ],
+  "answer": 3,
+  "explanation": "Inverse square law: I₂ = I₁ × (d₁/d₂)² = 80 × (1/3)² = 8.89 µSv/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The dose rate is 120 µSv/h at 5 m from a gamma source. What is it at 10 m?",
+  "options": [
+   "33 µSv/h",
+   "60 µSv/h",
+   "240 µSv/h",
+   "30 µSv/h"
+  ],
+  "answer": 3,
+  "explanation": "Inverse square law: I₂ = I₁ × (d₁/d₂)² = 120 × (1/2)² = 30 µSv/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The dose rate is 40 µSv/h at 3 m from a gamma source. What is it at 6 m?",
+  "options": [
+   "10 µSv/h",
+   "20 µSv/h",
+   "11 µSv/h",
+   "80 µSv/h"
+  ],
+  "answer": 0,
+  "explanation": "Inverse square law: I₂ = I₁ × (d₁/d₂)² = 40 × (1/2)² = 10 µSv/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "An Ir-192 source (half-life about 74 days) has an activity of 120 Ci. Roughly what is its activity after 148 days?",
+  "options": [
+   "15 Ci",
+   "100 Ci",
+   "24 Ci",
+   "30 Ci"
+  ],
+  "answer": 3,
+  "explanation": "148 days is 2 half-lives: 120 ÷ 2^2 = 30 Ci.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "An Ir-192 source (half-life about 74 days) has an activity of 60 Ci. Roughly what is its activity after 74 days?",
+  "options": [
+   "20 Ci",
+   "50 Ci",
+   "30 Ci",
+   "15 Ci"
+  ],
+  "answer": 2,
+  "explanation": "74 days is 1 half-life: 60 ÷ 2 = 30 Ci.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "An Ir-192 source (half-life about 74 days) has an activity of 60 Ci. Roughly what is its activity after 222 days?",
+  "options": [
+   "8.6 Ci",
+   "30 Ci",
+   "7.5 Ci",
+   "3.75 Ci"
+  ],
+  "answer": 2,
+  "explanation": "222 days is 3 half-lives: 60 ÷ 2^3 = 7.5 Ci.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "An Ir-192 source (half-life about 74 days) has an activity of 40 Ci. Roughly what is its activity after 74 days?",
+  "options": [
+   "30 Ci",
+   "13.3 Ci",
+   "10 Ci",
+   "20 Ci"
+  ],
+  "answer": 3,
+  "explanation": "74 days is 1 half-life: 40 ÷ 2 = 20 Ci.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "An Ir-192 source (half-life about 74 days) has an activity of 40 Ci. Roughly what is its activity after 148 days?",
+  "options": [
+   "20 Ci",
+   "8 Ci",
+   "10 Ci",
+   "5 Ci"
+  ],
+  "answer": 2,
+  "explanation": "148 days is 2 half-lives: 40 ÷ 2^2 = 10 Ci.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "An Ir-192 source (half-life about 74 days) has an activity of 80 Ci. Roughly what is its activity after 222 days?",
+  "options": [
+   "50 Ci",
+   "11.4 Ci",
+   "10 Ci",
+   "5 Ci"
+  ],
+  "answer": 2,
+  "explanation": "222 days is 3 half-lives: 80 ÷ 2^3 = 10 Ci.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "An Ir-192 source (half-life about 74 days) has an activity of 80 Ci. Roughly what is its activity after 148 days?",
+  "options": [
+   "16 Ci",
+   "10 Ci",
+   "20 Ci",
+   "60 Ci"
+  ],
+  "answer": 2,
+  "explanation": "148 days is 2 half-lives: 80 ÷ 2^2 = 20 Ci.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "An Ir-192 source (half-life about 74 days) has an activity of 40 Ci. Roughly what is its activity after 222 days?",
+  "options": [
+   "5.7 Ci",
+   "10 Ci",
+   "2.5 Ci",
+   "5 Ci"
+  ],
+  "answer": 3,
+  "explanation": "222 days is 3 half-lives: 40 ÷ 2^3 = 5 Ci.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "Find the geometric unsharpness: source size 4 mm, object-to-film distance 10 mm, source-to-object distance 700 mm.",
+  "options": [
+   "0.057 mm",
+   "0.02 mm",
+   "2.8 mm",
+   "0.056 mm"
+  ],
+  "answer": 0,
+  "explanation": "Ug = F × t ÷ D = 4 × 10 ÷ 700 = 0.057 mm.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "Find the geometric unsharpness: source size 2 mm, object-to-film distance 10 mm, source-to-object distance 800 mm.",
+  "options": [
+   "0.015 mm",
+   "0.025 mm",
+   "1.6 mm",
+   "0.25 mm"
+  ],
+  "answer": 1,
+  "explanation": "Ug = F × t ÷ D = 2 × 10 ÷ 800 = 0.025 mm.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "Find the geometric unsharpness: source size 2 mm, object-to-film distance 20 mm, source-to-object distance 600 mm.",
+  "options": [
+   "0.6 mm",
+   "0.067 mm",
+   "0.065 mm",
+   "0.037 mm"
+  ],
+  "answer": 1,
+  "explanation": "Ug = F × t ÷ D = 2 × 20 ÷ 600 = 0.067 mm.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "Find the geometric unsharpness: source size 2 mm, object-to-film distance 30 mm, source-to-object distance 500 mm.",
+  "options": [
+   "1.2 mm",
+   "0.33 mm",
+   "1.12 mm",
+   "0.12 mm"
+  ],
+  "answer": 3,
+  "explanation": "Ug = F × t ÷ D = 2 × 30 ÷ 500 = 0.12 mm.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "Find the geometric unsharpness: source size 3 mm, object-to-film distance 20 mm, source-to-object distance 600 mm.",
+  "options": [
+   "1 mm",
+   "1.1 mm",
+   "0.1 mm",
+   "0.9 mm"
+  ],
+  "answer": 2,
+  "explanation": "Ug = F × t ÷ D = 3 × 20 ÷ 600 = 0.1 mm.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "Find the geometric unsharpness: source size 3 mm, object-to-film distance 25 mm, source-to-object distance 700 mm.",
+  "options": [
+   "0.04 mm",
+   "0.84 mm",
+   "0.103 mm",
+   "0.107 mm"
+  ],
+  "answer": 3,
+  "explanation": "Ug = F × t ÷ D = 3 × 25 ÷ 700 = 0.107 mm.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "Find the geometric unsharpness: source size 4 mm, object-to-film distance 30 mm, source-to-object distance 800 mm.",
+  "options": [
+   "1.07 mm",
+   "0.15 mm",
+   "1.5 mm",
+   "1.15 mm"
+  ],
+  "answer": 1,
+  "explanation": "Ug = F × t ÷ D = 4 × 30 ÷ 800 = 0.15 mm.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "Find the geometric unsharpness: source size 3 mm, object-to-film distance 20 mm, source-to-object distance 700 mm.",
+  "options": [
+   "0.083 mm",
+   "0.086 mm",
+   "0.033 mm",
+   "1.05 mm"
+  ],
+  "answer": 1,
+  "explanation": "Ug = F × t ÷ D = 3 × 20 ÷ 700 = 0.086 mm.",
+  "difficulty": 3
+ }
+]
