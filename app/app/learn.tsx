@@ -59,7 +59,7 @@ export default function Learn({ sbUrl, sbKey }: { sbUrl: string; sbKey: string }
     try {
       const m = await api<Me>("/api/app/me");
       setMe(m);
-      if (!m.student.onboarded) setView("onboard");
+      if (!m.student.onboarded || !m.track) setView("onboard");
     } catch (e: any) {
       if (e.message === "UNAUTHORIZED") setSession("out");
       else setError("Couldn't load your account. Check your connection and refresh.");
@@ -100,6 +100,7 @@ export default function Learn({ sbUrl, sbKey }: { sbUrl: string; sbKey: string }
   if (view === "onboard") return <Onboard me={me} preTrack={params.get("track")} onDone={() => { setView("home"); load(); }} onCancel={me.student.onboarded ? () => setView("home") : undefined} />;
   if (view === "drill") return <Drill onExit={() => { setView("home"); load(); }} />;
   if (view === "lesson" && lessonId) return <LessonView id={lessonId} course={me.course} onExit={() => { setView("home"); load(); }} onOpen={(id) => setLessonId(id)} />;
+  if (!me.track) return <Onboard me={me} preTrack={params.get("track")} onDone={() => { setView("home"); load(); }} />;
   return <Home me={me} reload={load} onDrill={() => setView("drill")} onSettings={() => setView("onboard")} onLesson={(id) => { setLessonId(id); setView("lesson"); }} />;
 }
 
