@@ -18,6 +18,7 @@ export const SUBJECTS: Record<string, string> = {
   NMN: "Numeracy (Part A)",
   NMC: "Clinical (Part B)",
   NCX: "NCLEX-RN",
+  PLB: "PLAB 1",
   PRN: "PRINCE2 7 Foundation",
   SCR: "Scrum (PSM I)",
   PMF: "PM fundamentals (CAPM)",

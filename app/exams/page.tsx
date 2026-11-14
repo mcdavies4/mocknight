@@ -25,6 +25,7 @@ const PATHS: Record<TrackCode, string> = {
   HSE: "/app?track=HSE",
   NMC: "/nmc-cbt",
   NCLEX: "/nclex",
+  PLAB: "/plab",
   PM: "/project-management",
   ETH: "/ethiopia",
   SSC: "/ssc",
@@ -50,7 +51,7 @@ const GROUPS: { title: string; description: string; codes: TrackCode[] }[] = [
   {
     title: "Professional & career exams",
     description: "Practise for professional qualifications and career progression tests.",
-    codes: ["PM", "NMC", "NCLEX", "SSC", "DRIVE", "FSE", "FSM", "CITB", "SIA", "CON", "BKP"],
+    codes: ["PLAB", "NMC", "NCLEX", "PM", "SSC", "DRIVE", "FSE", "FSM", "CITB", "SIA", "CON", "BKP"],
   },
   {
     title: "Technology & digital skills",

@@ -37,6 +37,11 @@ export default function Home() {
           <Link className="btn block" href="/nmc-cbt">Start practising</Link>
         </div>
         <div className="card">
+          <h2 style={{ marginTop: 0 }}>⚕️ PLAB 1 for doctors</h2>
+          <p>180-question best-of-five mocks timed to the real paper, with UK guideline-based explanations.</p>
+          <Link className="btn block" href="/plab">Start practising</Link>
+        </div>
+        <div className="card">
           <h2 style={{ marginTop: 0 }}>🏥 NCLEX-RN</h2>
           <p>Prioritisation, delegation, pharmacology and dosage calculation practice for nurses heading to the US.</p>
           <Link className="btn block" href="/nclex">Start practising</Link>

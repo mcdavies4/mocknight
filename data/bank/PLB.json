@@ -1,0 +1,2837 @@
+[
+ {
+  "subject": "PLB",
+  "topic": "Cardiology",
+  "body": "A 64-year-old man has 40 minutes of central crushing chest pain. ECG shows ST elevation in II, III and aVF. Which coronary artery is most likely occluded?",
+  "options": [
+   "Left main stem",
+   "Left circumflex artery",
+   "Left anterior descending artery",
+   "Posterior descending branch only",
+   "Right coronary artery"
+  ],
+  "answer": 4,
+  "explanation": "Inferior leads (II, III, aVF) usually reflect the right coronary artery.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Cardiology",
+  "body": "A 58-year-old woman with STEMI presents within 90 minutes of symptom onset to a hospital with a cath lab. What is the definitive treatment?",
+  "options": [
+   "Oral beta-blocker and observation",
+   "Thrombolysis with alteplase",
+   "Primary percutaneous coronary intervention",
+   "IV furosemide",
+   "Coronary artery bypass graft"
+  ],
+  "answer": 2,
+  "explanation": "Primary PCI is preferred if it can be delivered within 120 minutes of when fibrinolysis could have been given.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Cardiology",
+  "body": "A 70-year-old man has new atrial fibrillation. CHA₂DS₂-VASc is 3. He has no bleeding history. What is the most appropriate long-term management to reduce stroke risk?",
+  "options": [
+   "A direct oral anticoagulant such as apixaban",
+   "Aspirin 75 mg",
+   "Dual antiplatelet therapy",
+   "Clopidogrel",
+   "No treatment"
+  ],
+  "answer": 0,
+  "explanation": "Offer anticoagulation (DOAC first line) when CHA₂DS₂-VASc ≥2; aspirin alone is not recommended for stroke prevention in AF.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Cardiology",
+  "body": "A 55-year-old Black African man has clinic blood pressure 162/98 confirmed by ambulatory monitoring. He is not diabetic. What is the first-line drug?",
+  "options": [
+   "A beta-blocker",
+   "A thiazide-like diuretic",
+   "An ACE inhibitor such as ramipril",
+   "A calcium-channel blocker such as amlodipine",
+   "Spironolactone"
+  ],
+  "answer": 3,
+  "explanation": "UK guidance: for people of Black African or African-Caribbean origin without diabetes, start with a CCB (or an ARB in preference to an ACE inhibitor if a RAS blocker is chosen).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Cardiology",
+  "body": "A 45-year-old white woman without diabetes is diagnosed with stage 2 hypertension. What is the first-line drug?",
+  "options": [
+   "An ACE inhibitor such as ramipril",
+   "Doxazosin",
+   "Atenolol",
+   "Bendroflumethiazide",
+   "Amlodipine"
+  ],
+  "answer": 0,
+  "explanation": "Under 55 and not of Black African or African-Caribbean origin: ACE inhibitor or ARB first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Cardiology",
+  "body": "A 30-year-old man has sharp chest pain relieved by sitting forward. ECG shows widespread saddle-shaped ST elevation and PR depression. What is the diagnosis?",
+  "options": [
+   "Stable angina",
+   "Aortic dissection",
+   "Anterior STEMI",
+   "Pulmonary embolism",
+   "Acute pericarditis"
+  ],
+  "answer": 4,
+  "explanation": "Pleuritic pain eased by leaning forward with widespread concave ST elevation is classic for pericarditis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Cardiology",
+  "body": "A 72-year-old man has sudden tearing chest pain radiating to the back. Blood pressure differs by 30 mmHg between arms. What is the most likely diagnosis?",
+  "options": [
+   "Pericarditis",
+   "Oesophageal spasm",
+   "Myocardial infarction",
+   "Pneumothorax",
+   "Aortic dissection"
+  ],
+  "answer": 4,
+  "explanation": "Tearing pain to the back with inter-arm BP difference suggests dissection; arrange urgent CT angiography.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Cardiology",
+  "body": "A 78-year-old woman has exertional syncope and an ejection systolic murmur radiating to the carotids. What is the most likely valve lesion?",
+  "options": [
+   "Mitral regurgitation",
+   "Mitral stenosis",
+   "Aortic regurgitation",
+   "Aortic stenosis",
+   "Tricuspid regurgitation"
+  ],
+  "answer": 3,
+  "explanation": "Angina, syncope and heart failure with an ejection systolic murmur radiating to the carotids.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Cardiology",
+  "body": "Which drug class has been shown to reduce mortality in heart failure with reduced ejection fraction and should be started alongside an ACE inhibitor?",
+  "options": [
+   "A beta-blocker licensed for heart failure, such as bisoprolol",
+   "Verapamil",
+   "Furosemide",
+   "Digoxin",
+   "Amlodipine"
+  ],
+  "answer": 0,
+  "explanation": "ACE inhibitor + beta-blocker are first-line; loop diuretics relieve symptoms but do not improve survival.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Cardiology",
+  "body": "A patient with a broad-complex tachycardia at 180 bpm is hypotensive and confused. What is the immediate management?",
+  "options": [
+   "Oral bisoprolol",
+   "Carotid sinus massage",
+   "Adenosine 6 mg IV",
+   "Synchronised DC cardioversion",
+   "IV amiodarone over 24 hours"
+  ],
+  "answer": 3,
+  "explanation": "Adverse features (shock, syncope, ischaemia, heart failure) mean synchronised cardioversion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Cardiology",
+  "body": "A stable patient has a regular narrow-complex tachycardia at 190 bpm. Vagal manoeuvres fail. What is next?",
+  "options": [
+   "IV adenosine by rapid bolus",
+   "IV amiodarone",
+   "Oral digoxin",
+   "IV atropine",
+   "DC cardioversion"
+  ],
+  "answer": 0,
+  "explanation": "Adenosine 6 mg, then 12 mg, then further 12 mg if needed, with ECG monitoring.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A 68-year-old with pneumonia is confused, urea 8 mmol/L, respiratory rate 32/min, BP 100/58 mmHg. What is the CURB-65 score?",
+  "options": [
+   "2",
+   "5",
+   "4",
+   "3",
+   "1"
+  ],
+  "answer": 1,
+  "explanation": "Confusion 1, urea >7 1, RR ≥30 1, SBP <90 or DBP ≤60 1, age ≥65 1 = 5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A tall 21-year-old man has sudden pleuritic chest pain and breathlessness. The chest X-ray shows a 3 cm rim of air on the right. He is breathless. What is the next step?",
+  "options": [
+   "Needle aspiration",
+   "High-flow oxygen only and observe for 2 weeks",
+   "Discharge with advice",
+   "Immediate chest drain under general anaesthesia",
+   "Thoracotomy"
+  ],
+  "answer": 0,
+  "explanation": "Symptomatic primary spontaneous pneumothorax: aspiration (or ambulatory device) first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A woman on the combined pill has pleuritic pain, tachycardia and a swollen calf. Wells score suggests PE is likely. What is the investigation of choice?",
+  "options": [
+   "D-dimer only",
+   "Echocardiogram",
+   "Chest X-ray only",
+   "Spirometry",
+   "CT pulmonary angiography"
+  ],
+  "answer": 4,
+  "explanation": "If PE is likely, arrange CTPA (and start interim anticoagulation if there will be a delay).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "Which spirometry result supports a diagnosis of COPD?",
+  "options": [
+   "FEV₁/FVC ratio above 0.8",
+   "Raised FVC",
+   "FEV₁/FVC ratio below 0.7 after bronchodilator",
+   "Normal FEV₁ with low DLCO only",
+   "Reversibility greater than 400 mL"
+  ],
+  "answer": 2,
+  "explanation": "Post-bronchodilator FEV₁/FVC <0.7 shows airflow obstruction.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A patient with severe asthma has a silent chest, SpO₂ 90% and is exhausted. How is this classified?",
+  "options": [
+   "Mild exacerbation",
+   "Moderate asthma",
+   "Acute severe asthma only",
+   "COPD exacerbation",
+   "Life-threatening asthma"
+  ],
+  "answer": 4,
+  "explanation": "Silent chest, cyanosis, exhaustion or SpO₂ <92% indicate life-threatening asthma.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A COPD patient with known CO₂ retention is acutely unwell. What oxygen saturation target is appropriate?",
+  "options": [
+   "Above 96%",
+   "88–92%",
+   "80–84%",
+   "94–98%",
+   "100%"
+  ],
+  "answer": 1,
+  "explanation": "Use controlled oxygen (e.g. Venturi mask) for those at risk of hypercapnic respiratory failure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A 60-year-old smoker has haemoptysis, weight loss and hypercalcaemia. Which lung cancer is most associated with hypercalcaemia (PTHrP)?",
+  "options": [
+   "Mesothelioma",
+   "Small cell carcinoma",
+   "Adenocarcinoma",
+   "Carcinoid tumour",
+   "Squamous cell carcinoma"
+  ],
+  "answer": 4,
+  "explanation": "Small cell is associated with SIADH and ectopic ACTH.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A former shipyard worker has pleural thickening, chest pain and a pleural effusion. What is the most likely diagnosis?",
+  "options": [
+   "Mesothelioma",
+   "Sarcoidosis",
+   "Bronchiectasis",
+   "Asthma",
+   "Tuberculosis"
+  ],
+  "answer": 0,
+  "explanation": "Asbestos exposure is the main risk factor.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Gastroenterology",
+  "body": "A 50-year-old with known alcohol excess vomits large amounts of fresh blood and is hypotensive. After resuscitation, which drug should be given before endoscopy if varices are suspected?",
+  "options": [
+   "Propranolol IV",
+   "Terlipressin plus prophylactic antibiotics",
+   "Omeprazole only",
+   "Tranexamic acid only",
+   "Octreotide alone with no antibiotics"
+  ],
+  "answer": 1,
+  "explanation": "Suspected variceal bleed: terlipressin and antibiotics, then urgent endoscopy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Gastroenterology",
+  "body": "A 25-year-old has bloody diarrhoea, urgency and continuous inflammation from the rectum on colonoscopy. What is the diagnosis?",
+  "options": [
+   "Crohn's disease",
+   "Irritable bowel syndrome",
+   "Diverticulitis",
+   "Coeliac disease",
+   "Ulcerative colitis"
+  ],
+  "answer": 4,
+  "explanation": "UC starts in the rectum and extends continuously; Crohn's has skip lesions and can affect any part of the gut.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Gastroenterology",
+  "body": "Which serological test is first line for suspected coeliac disease (with adequate gluten intake)?",
+  "options": [
+   "Anti-mitochondrial antibody",
+   "Tissue transglutaminase IgA with total IgA",
+   "pANCA",
+   "Faecal calprotectin",
+   "Anti-smooth muscle antibody"
+  ],
+  "answer": 1,
+  "explanation": "Check total IgA to exclude IgA deficiency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Gastroenterology",
+  "body": "Anti-mitochondrial antibodies in a middle-aged woman with itching and raised ALP suggest",
+  "options": [
+   "Gilbert's syndrome",
+   "Primary sclerosing cholangitis",
+   "Haemochromatosis",
+   "Primary biliary cholangitis",
+   "Autoimmune hepatitis"
+  ],
+  "answer": 3,
+  "explanation": "PSC is associated with ulcerative colitis and pANCA.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Surgery",
+  "body": "A 22-year-old has periumbilical pain moving to the right iliac fossa, fever and rebound tenderness. What is the most likely diagnosis?",
+  "options": [
+   "Mesenteric adenitis",
+   "Ectopic pregnancy",
+   "Acute appendicitis",
+   "Diverticulitis",
+   "Renal colic"
+  ],
+  "answer": 2,
+  "explanation": "Always do a pregnancy test in women of reproductive age with abdominal pain.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Surgery",
+  "body": "A 45-year-old woman has right upper quadrant pain, fever and jaundice. What is this triad called?",
+  "options": [
+   "Beck's triad",
+   "Cushing's triad",
+   "Virchow's triad",
+   "Charcot's triad (ascending cholangitis)",
+   "Murphy's sign"
+  ],
+  "answer": 3,
+  "explanation": "Treat with antibiotics and biliary drainage (ERCP).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Surgery",
+  "body": "A 70-year-old has colicky abdominal pain, distension, vomiting and absolute constipation. X-ray shows a 'coffee bean' sign. What is the diagnosis?",
+  "options": [
+   "Paralytic ileus",
+   "Small bowel obstruction from adhesions",
+   "Diverticulitis",
+   "Caecal carcinoma",
+   "Sigmoid volvulus"
+  ],
+  "answer": 4,
+  "explanation": "Often managed initially by flexible sigmoidoscopic decompression.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Surgery",
+  "body": "Severe epigastric pain radiating to the back with raised serum amylase in a patient with gallstones suggests",
+  "options": [
+   "Myocardial infarction",
+   "Perforated duodenal ulcer",
+   "Acute pancreatitis",
+   "Renal colic",
+   "Biliary colic"
+  ],
+  "answer": 2,
+  "explanation": "Gallstones and alcohol are the most common causes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Surgery",
+  "body": "A 65-year-old smoker has a pulsatile, expansile abdominal mass and sudden back pain with hypotension. What is the most likely diagnosis?",
+  "options": [
+   "Acute pancreatitis",
+   "Ruptured abdominal aortic aneurysm",
+   "Perforated peptic ulcer",
+   "Renal colic",
+   "Mesenteric ischaemia"
+  ],
+  "answer": 1,
+  "explanation": "Emergency vascular surgery.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Surgery",
+  "body": "Which groin hernia lies below and lateral to the pubic tubercle and is more common in women?",
+  "options": [
+   "Obturator hernia",
+   "Indirect inguinal hernia",
+   "Femoral hernia",
+   "Direct inguinal hernia",
+   "Spigelian hernia"
+  ],
+  "answer": 2,
+  "explanation": "Femoral hernias have a high risk of strangulation — repair urgently.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Surgery",
+  "body": "A 60-year-old with iron-deficiency anaemia and weight loss is referred. Which cancer is most likely to present this way without obvious bleeding?",
+  "options": [
+   "Right-sided (caecal) colon cancer",
+   "Sigmoid cancer",
+   "Rectal cancer",
+   "Anal cancer",
+   "Oesophageal cancer"
+  ],
+  "answer": 0,
+  "explanation": "Right-sided tumours often present with occult bleeding and anaemia.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Endocrinology",
+  "body": "A 19-year-old with type 1 diabetes has vomiting, glucose 28 mmol/L, ketones 5 mmol/L and pH 7.1. What is the first treatment priority?",
+  "options": [
+   "IV potassium bolus",
+   "Subcutaneous insulin",
+   "Oral fluids",
+   "IV 0.9% sodium chloride fluid resuscitation",
+   "IV bicarbonate"
+  ],
+  "answer": 3,
+  "explanation": "DKA: fluids first, then fixed-rate IV insulin, with potassium replacement guided by levels.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Endocrinology",
+  "body": "In DKA, fixed-rate IV insulin is given at what rate?",
+  "options": [
+   "0.5 units/kg/hour",
+   "0.1 units/kg/hour",
+   "0.01 units/kg/hour",
+   "10 units/hour regardless of weight",
+   "1 unit/kg/hour"
+  ],
+  "answer": 1,
+  "explanation": "Continue long-acting basal insulin as well.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Endocrinology",
+  "body": "Which is the first-line drug for most adults with type 2 diabetes?",
+  "options": [
+   "Acarbose",
+   "Pioglitazone",
+   "Insulin",
+   "Metformin",
+   "Gliclazide"
+  ],
+  "answer": 3,
+  "explanation": "Add an SGLT2 inhibitor where indicated (e.g. cardiovascular disease, heart failure).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Endocrinology",
+  "body": "A woman has weight loss, tremor, heat intolerance, exophthalmos and a diffuse goitre. Which antibody is most likely raised?",
+  "options": [
+   "Anti-thyroglobulin only",
+   "TSH receptor antibodies",
+   "Anti-CCP",
+   "Anti-TPO only",
+   "Anti-GAD"
+  ],
+  "answer": 1,
+  "explanation": "Graves' disease; eye signs are specific to Graves'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Endocrinology",
+  "body": "A patient on long-term steroids is vomiting, hypotensive and has hyponatraemia and hyperkalaemia. What is the immediate treatment?",
+  "options": [
+   "IV insulin",
+   "Oral fludrocortisone only",
+   "IV hydrocortisone and IV fluids",
+   "Observation",
+   "Levothyroxine"
+  ],
+  "answer": 2,
+  "explanation": "Adrenal crisis is an emergency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Endocrinology",
+  "body": "Hypercalcaemia with a raised (or inappropriately normal) PTH is most commonly caused by",
+  "options": [
+   "Vitamin D deficiency",
+   "Primary hyperparathyroidism",
+   "Sarcoidosis",
+   "Chronic kidney disease",
+   "Malignancy"
+  ],
+  "answer": 1,
+  "explanation": "Malignancy-related hypercalcaemia has a suppressed PTH.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Renal",
+  "body": "A patient has potassium 6.9 mmol/L with peaked T waves. What should be given FIRST?",
+  "options": [
+   "IV calcium gluconate (or chloride)",
+   "IV insulin and dextrose only",
+   "Salbutamol nebuliser only",
+   "Calcium resonium",
+   "Furosemide"
+  ],
+  "answer": 0,
+  "explanation": "Calcium stabilises the myocardium; then shift potassium with insulin–dextrose.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Renal",
+  "body": "Which finding defines stage 3 acute kidney injury (KDIGO)?",
+  "options": [
+   "Urine output <0.5 mL/kg/h for 6 h",
+   "Proteinuria",
+   "Creatinine 3 times baseline or more",
+   "Creatinine 1.5 times baseline",
+   "Creatinine rise of 26 µmol/L in 48 h"
+  ],
+  "answer": 2,
+  "explanation": "Stage 1 is a rise ≥26 µmol/L in 48 h or 1.5–1.9 × baseline.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Renal",
+  "body": "A child has periorbital oedema, heavy proteinuria and low albumin after a viral illness. What is the most likely cause?",
+  "options": [
+   "Polycystic kidney disease",
+   "Membranous nephropathy",
+   "IgA nephropathy",
+   "Post-streptococcal glomerulonephritis",
+   "Minimal change disease"
+  ],
+  "answer": 4,
+  "explanation": "Responds to steroids in most children.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Neurology",
+  "body": "A 60-year-old has sudden right arm and face weakness and aphasia that started 90 minutes ago. CT shows no haemorrhage. What is the next treatment?",
+  "options": [
+   "IV thrombolysis with alteplase (if no contraindications)",
+   "Warfarin",
+   "Aspirin and discharge",
+   "IV heparin",
+   "Craniotomy"
+  ],
+  "answer": 0,
+  "explanation": "Thrombolysis within 4.5 hours; consider thrombectomy for large-vessel occlusion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Neurology",
+  "body": "A patient with TIA symptoms that have fully resolved should receive",
+  "options": [
+   "No treatment",
+   "Routine outpatient review in 3 months",
+   "Thrombolysis",
+   "Aspirin 300 mg immediately and specialist review within 24 hours",
+   "Warfarin immediately"
+  ],
+  "answer": 3,
+  "explanation": "Unless contraindicated (e.g. on anticoagulants).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Neurology",
+  "body": "A 35-year-old has a sudden 'worst ever' headache reaching maximum intensity within a minute. CT at 4 hours is normal. What is the most likely diagnosis to exclude?",
+  "options": [
+   "Subarachnoid haemorrhage",
+   "Tension headache",
+   "Sinusitis",
+   "Cluster headache",
+   "Migraine with aura"
+  ],
+  "answer": 0,
+  "explanation": "CT within 6 hours is highly sensitive; if negative but suspicion high, lumbar puncture for xanthochromia per local guidance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Neurology",
+  "body": "A patient has been fitting for 5 minutes in the community. What is first-line treatment?",
+  "options": [
+   "IV levetiracetam first",
+   "IV phenytoin",
+   "Buccal midazolam (or rectal diazepam)",
+   "Oral lamotrigine",
+   "Observation for 30 minutes"
+  ],
+  "answer": 2,
+  "explanation": "In hospital with IV access, give IV lorazepam.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Neurology",
+  "body": "A young woman has painful loss of vision in one eye, worse with eye movement, and a previous episode of leg numbness. What is the most likely diagnosis?",
+  "options": [
+   "Migraine",
+   "Glaucoma",
+   "Multiple sclerosis (optic neuritis)",
+   "Central retinal artery occlusion",
+   "Giant cell arteritis"
+  ],
+  "answer": 2,
+  "explanation": "MRI brain and spinal cord.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Neurology",
+  "body": "An elderly man has resting tremor, bradykinesia and rigidity. What is the diagnosis?",
+  "options": [
+   "Huntington's disease",
+   "Multiple sclerosis",
+   "Essential tremor",
+   "Parkinson's disease",
+   "Cerebellar stroke"
+  ],
+  "answer": 3,
+  "explanation": "Essential tremor is postural and improves with alcohol.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Neurology",
+  "body": "A 70-year-old woman has a new headache, scalp tenderness and jaw claudication. ESR is raised. What should be done immediately?",
+  "options": [
+   "Start high-dose prednisolone",
+   "Arrange an MRI in 6 weeks",
+   "Give a triptan",
+   "Wait for temporal artery biopsy results",
+   "Prescribe amitriptyline"
+  ],
+  "answer": 0,
+  "explanation": "Giant cell arteritis risks permanent visual loss; treat first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Neurology",
+  "body": "Glasgow Coma Scale: a patient opens eyes to pain, makes incomprehensible sounds and withdraws from pain. What is the GCS?",
+  "options": [
+   "10",
+   "7",
+   "9",
+   "8",
+   "6"
+  ],
+  "answer": 3,
+  "explanation": "E2 + V2 + M4 = 8.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Infectious disease",
+  "body": "A student has fever, headache, neck stiffness and a non-blanching rash. In the community, what should the GP do immediately?",
+  "options": [
+   "Prescribe oral amoxicillin",
+   "Give IM/IV benzylpenicillin and arrange urgent transfer",
+   "Arrange a lumbar puncture in the surgery",
+   "Wait for blood cultures",
+   "Review in 24 hours"
+  ],
+  "answer": 1,
+  "explanation": "Suspected meningococcal disease: give antibiotics without delay.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Infectious disease",
+  "body": "A traveller returning from sub-Saharan Africa has fever and rigors. What investigation is essential?",
+  "options": [
+   "Chest X-ray only",
+   "Thick and thin blood films (or rapid antigen test) for malaria",
+   "Urine dipstick only",
+   "Throat swab",
+   "Stool culture only"
+  ],
+  "answer": 1,
+  "explanation": "Malaria must be excluded in any febrile returning traveller.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Infectious disease",
+  "body": "Which is the standard initial treatment regimen for active pulmonary TB?",
+  "options": [
+   "Rifampicin alone for 2 months",
+   "Rifampicin, isoniazid, pyrazinamide and ethambutol for 2 months, then rifampicin and isoniazid for 4 months",
+   "Amoxicillin for 2 weeks",
+   "Isoniazid alone for 6 months",
+   "Clarithromycin for 6 months"
+  ],
+  "answer": 1,
+  "explanation": "Give pyridoxine with isoniazid to prevent neuropathy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Infectious disease",
+  "body": "A patient has suspected sepsis. Which should be done within the first hour (Sepsis Six)?",
+  "options": [
+   "Give oral antibiotics only",
+   "Only give paracetamol",
+   "Arrange outpatient review",
+   "Wait for culture results before antibiotics",
+   "Give IV antibiotics, take blood cultures, give oxygen if needed, measure lactate, give IV fluids, monitor urine output"
+  ],
+  "answer": 4,
+  "explanation": "Early antibiotics save lives.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Haematology",
+  "body": "A woman has fatigue and a microcytic anaemia with low ferritin. What is the most likely cause?",
+  "options": [
+   "Haemolytic anaemia",
+   "Anaemia of chronic disease with high ferritin",
+   "Vitamin B12 deficiency",
+   "Folate deficiency",
+   "Iron deficiency anaemia"
+  ],
+  "answer": 4,
+  "explanation": "Investigate the cause, e.g. menstrual or GI blood loss.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Haematology",
+  "body": "Macrocytic anaemia with neuropathy and positive intrinsic factor antibodies suggests",
+  "options": [
+   "Sickle cell disease",
+   "Anaemia of chronic disease",
+   "Thalassaemia trait",
+   "Pernicious anaemia (B12 deficiency)",
+   "Iron deficiency"
+  ],
+  "answer": 3,
+  "explanation": "Treat with IM hydroxocobalamin.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Haematology",
+  "body": "A patient with sickle cell disease has severe pain in multiple limbs. What is the first-line management?",
+  "options": [
+   "Discharge with paracetamol",
+   "Antibiotics only",
+   "Iron supplements",
+   "Immediate exchange transfusion for all",
+   "Prompt analgesia (often opioids), IV fluids and oxygen if hypoxic"
+  ],
+  "answer": 4,
+  "explanation": "Give analgesia within 30 minutes of arrival.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Haematology",
+  "body": "Which blood test is used to monitor warfarin therapy?",
+  "options": [
+   "D-dimer",
+   "Anti-Xa levels",
+   "APTT",
+   "Platelet count",
+   "INR"
+  ],
+  "answer": 4,
+  "explanation": "Unfractionated heparin is monitored with APTT.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Haematology",
+  "body": "Painless lymphadenopathy, night sweats and Reed–Sternberg cells on biopsy indicate",
+  "options": [
+   "Multiple myeloma",
+   "Hodgkin lymphoma",
+   "Non-Hodgkin lymphoma",
+   "Chronic lymphocytic leukaemia",
+   "Tuberculosis"
+  ],
+  "answer": 1,
+  "explanation": "Pain in nodes after alcohol is a classic (rare) feature.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "A 6-month-old has coryza, cough, wheeze and fine crackles in December. What is the most likely diagnosis?",
+  "options": [
+   "Whooping cough",
+   "Croup",
+   "Asthma",
+   "Pneumonia only",
+   "Bronchiolitis (usually RSV)"
+  ],
+  "answer": 4,
+  "explanation": "Supportive care; admit if poor feeding, apnoea or low SpO₂.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "A 2-year-old has a barking cough, inspiratory stridor and mild fever. What is first-line treatment?",
+  "options": [
+   "Adrenaline for all children",
+   "IV antibiotics",
+   "A single dose of oral dexamethasone",
+   "Salbutamol inhaler",
+   "No treatment"
+  ],
+  "answer": 2,
+  "explanation": "Croup: steroids for all; nebulised adrenaline for severe cases.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "A 4-year-old has fever for 6 days, conjunctivitis, red lips, rash and swollen hands. What is the most important complication to screen for?",
+  "options": [
+   "Coronary artery aneurysms (echocardiogram)",
+   "Hip dysplasia",
+   "Hearing loss",
+   "Diabetes",
+   "Renal failure"
+  ],
+  "answer": 0,
+  "explanation": "Kawasaki disease: treat with IV immunoglobulin and aspirin.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "A newborn has jaundice within the first 24 hours of life. What is the most important consideration?",
+  "options": [
+   "Wait until day 7",
+   "Stop breastfeeding",
+   "It is normal physiological jaundice",
+   "Give phototherapy without testing",
+   "It is pathological until proven otherwise — check bilirubin urgently"
+  ],
+  "answer": 4,
+  "explanation": "Consider haemolysis (e.g. rhesus or ABO incompatibility) or infection.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "Maintenance fluid for a 25 kg child using the Holliday–Segar method is",
+  "options": [
+   "2,500 mL per day",
+   "2,000 mL per day",
+   "1,000 mL per day",
+   "1,250 mL per day",
+   "1,600 mL per day"
+  ],
+  "answer": 4,
+  "explanation": "100 mL/kg for the first 10 kg (1,000) + 50 mL/kg for the next 10 kg (500) + 20 mL/kg thereafter (100) = 1,600 mL/day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "At what age does a child typically walk independently?",
+  "options": [
+   "24 months",
+   "9 months",
+   "6 months",
+   "18 months as the normal average",
+   "Around 12 months"
+  ],
+  "answer": 4,
+  "explanation": "Not walking by 18 months warrants assessment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "A 5-year-old has a limp and hip pain after a viral illness. He is well, afebrile and bears weight. What is the most likely diagnosis?",
+  "options": [
+   "Transient synovitis",
+   "Septic arthritis",
+   "Slipped capital femoral epiphysis",
+   "Perthes disease",
+   "Osteosarcoma"
+  ],
+  "answer": 0,
+  "explanation": "Fever, inability to weight-bear or raised inflammatory markers suggest septic arthritis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "An overweight 13-year-old boy has knee pain and an externally rotated leg. What is the most likely diagnosis?",
+  "options": [
+   "Osgood–Schlatter disease",
+   "Transient synovitis",
+   "Juvenile idiopathic arthritis",
+   "Slipped capital femoral epiphysis",
+   "Perthes disease"
+  ],
+  "answer": 3,
+  "explanation": "Hip pathology can present as knee pain.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Obstetrics & Gynaecology",
+  "body": "A woman 6 weeks after her last period has unilateral pelvic pain and light bleeding. Pregnancy test is positive. What must be excluded?",
+  "options": [
+   "Endometriosis",
+   "Urinary tract infection",
+   "Ovarian cyst",
+   "Threatened miscarriage only",
+   "Ectopic pregnancy"
+  ],
+  "answer": 4,
+  "explanation": "Arrange urgent transvaginal ultrasound.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Obstetrics & Gynaecology",
+  "body": "A woman at 34 weeks has BP 160/110, headache, visual disturbance and proteinuria. Which drug prevents seizures?",
+  "options": [
+   "IV magnesium sulfate",
+   "Phenytoin",
+   "Nifedipine alone",
+   "Diazepam",
+   "Labetalol alone"
+  ],
+  "answer": 0,
+  "explanation": "Severe pre-eclampsia: magnesium sulfate for seizure prophylaxis; labetalol/nifedipine for BP.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Obstetrics & Gynaecology",
+  "body": "Who should be offered aspirin 75–150 mg from 12 weeks of pregnancy?",
+  "options": [
+   "Only women with anaemia",
+   "No one",
+   "Women at high risk of pre-eclampsia (e.g. chronic hypertension or previous pre-eclampsia)",
+   "All pregnant women",
+   "Only women over 40"
+  ],
+  "answer": 2,
+  "explanation": "Taken nightly until birth.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Obstetrics & Gynaecology",
+  "body": "Painless vaginal bleeding at 32 weeks with a non-tender uterus suggests",
+  "options": [
+   "Labour",
+   "Uterine rupture",
+   "Vasa praevia",
+   "Placenta praevia",
+   "Placental abruption"
+  ],
+  "answer": 3,
+  "explanation": "Avoid digital vaginal examination until praevia is excluded.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Obstetrics & Gynaecology",
+  "body": "Painful bleeding at 34 weeks with a tense, 'woody' uterus suggests",
+  "options": [
+   "Urinary tract infection",
+   "Cervical ectropion",
+   "Placental abruption",
+   "Show",
+   "Placenta praevia"
+  ],
+  "answer": 2,
+  "explanation": "Bleeding may be concealed; maternal shock can be out of proportion to visible loss.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Obstetrics & Gynaecology",
+  "body": "A 28-year-old has irregular periods, acne, hirsutism and polycystic ovaries on ultrasound. What is the diagnosis?",
+  "options": [
+   "Hypothyroidism",
+   "Polycystic ovary syndrome",
+   "Prolactinoma",
+   "Premature ovarian insufficiency",
+   "Cushing's syndrome"
+  ],
+  "answer": 1,
+  "explanation": "Rotterdam criteria: 2 of oligo/anovulation, hyperandrogenism, polycystic ovaries.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Obstetrics & Gynaecology",
+  "body": "At what age does routine cervical screening start in England?",
+  "options": [
+   "18",
+   "25",
+   "21",
+   "30",
+   "35"
+  ],
+  "answer": 1,
+  "explanation": "HPV primary screening.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Obstetrics & Gynaecology",
+  "body": "Postmenopausal bleeding in a 60-year-old woman requires",
+  "options": [
+   "Reassurance",
+   "Review in 6 months",
+   "HRT",
+   "Urgent referral (suspected cancer pathway) for endometrial cancer",
+   "Antibiotics"
+  ],
+  "answer": 3,
+  "explanation": "Transvaginal ultrasound is usually the first investigation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Psychiatry",
+  "body": "A patient with schizophrenia on clozapine has a sore throat and fever. What test is needed urgently?",
+  "options": [
+   "Lithium level",
+   "ECG only",
+   "Liver function tests only",
+   "Thyroid function",
+   "Full blood count (agranulocytosis)"
+  ],
+  "answer": 4,
+  "explanation": "Clozapine can cause life-threatening neutropenia.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Psychiatry",
+  "body": "A patient on lithium has coarse tremor, vomiting, diarrhoea and confusion. What is the likely problem?",
+  "options": [
+   "Neuroleptic malignant syndrome",
+   "Serotonin syndrome",
+   "Alcohol withdrawal",
+   "Lithium toxicity",
+   "Hypoglycaemia"
+  ],
+  "answer": 3,
+  "explanation": "Stop lithium, check levels and renal function, give IV fluids.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Psychiatry",
+  "body": "Which medication is first line for treating moderate depression in adults when a drug is indicated?",
+  "options": [
+   "An antipsychotic",
+   "An SSRI such as sertraline",
+   "A tricyclic as first choice in all",
+   "Lithium",
+   "A benzodiazepine"
+  ],
+  "answer": 1,
+  "explanation": "Combine with psychological therapy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Psychiatry",
+  "body": "A patient has fever, rigidity, confusion and a very high CK after starting haloperidol. What is the diagnosis?",
+  "options": [
+   "Neuroleptic malignant syndrome",
+   "Meningitis",
+   "Delirium tremens",
+   "Serotonin syndrome",
+   "Malignant hyperthermia"
+  ],
+  "answer": 0,
+  "explanation": "Stop the antipsychotic; supportive care.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Psychiatry",
+  "body": "A patient on an SSRI and tramadol develops agitation, hyperreflexia, clonus and fever. What is the diagnosis?",
+  "options": [
+   "Serotonin syndrome",
+   "Hypothyroidism",
+   "Anticholinergic toxicity",
+   "Neuroleptic malignant syndrome",
+   "Lithium toxicity"
+  ],
+  "answer": 0,
+  "explanation": "Clonus and hyperreflexia are key features.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Psychiatry",
+  "body": "Which treatment should be given to a patient with alcohol dependence at risk of Wernicke's encephalopathy?",
+  "options": [
+   "Folic acid only",
+   "Parenteral thiamine (Pabrinex)",
+   "Haloperidol",
+   "Naltrexone immediately",
+   "Vitamin C"
+  ],
+  "answer": 1,
+  "explanation": "Give thiamine before glucose.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Ethics & law",
+  "body": "A 15-year-old asks for contraception and does not want her parents told. She understands the advice and is in a stable relationship. What should the doctor do?",
+  "options": [
+   "Refuse and inform her parents",
+   "Refer to social services automatically",
+   "Provide contraception if she is Fraser competent, while encouraging her to involve her parents",
+   "Insist on parental consent",
+   "Tell her to come back at 16"
+  ],
+  "answer": 2,
+  "explanation": "Fraser guidelines apply; safeguarding concerns must still be considered.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Ethics & law",
+  "body": "A patient with capacity refuses a life-saving blood transfusion for religious reasons. What should the doctor do?",
+  "options": [
+   "Respect the refusal and document the discussion",
+   "Seek a court order immediately",
+   "Sedate the patient",
+   "Ask the family to consent",
+   "Give the transfusion anyway"
+  ],
+  "answer": 0,
+  "explanation": "A competent adult can refuse treatment even if it leads to death.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Ethics & law",
+  "body": "Under the Mental Capacity Act, capacity is",
+  "options": [
+   "determined by diagnosis alone",
+   "assumed absent in all elderly patients",
+   "assumed unless proven otherwise and is decision-specific",
+   "decided by the family",
+   "permanent once lost"
+  ],
+  "answer": 2,
+  "explanation": "A person must understand, retain, weigh and communicate the decision.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Ethics & law",
+  "body": "A patient with epilepsy continues to drive after a seizure and refuses to inform the DVLA. What should the doctor do after trying to persuade them?",
+  "options": [
+   "Do nothing to protect confidentiality",
+   "Inform the DVLA without telling the patient",
+   "Report them to the police",
+   "Inform the DVLA and tell the patient you are doing so",
+   "Tell the patient's employer"
+  ],
+  "answer": 3,
+  "explanation": "GMC guidance allows disclosure in the public interest.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Ethics & law",
+  "body": "A doctor makes an error that harms a patient. Under the professional duty of candour, the doctor should",
+  "options": [
+   "Tell the patient, apologise, explain what happened and what will be done",
+   "Only inform the consultant",
+   "Wait for a complaint",
+   "Change the notes",
+   "Hide the error"
+  ],
+  "answer": 0,
+  "explanation": "Openness and honesty are required.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Ethics & law",
+  "body": "Which statutory notifiable disease must a doctor report to the UK Health Security Agency?",
+  "options": [
+   "Asthma",
+   "Hypertension",
+   "Measles",
+   "Type 2 diabetes",
+   "Migraine"
+  ],
+  "answer": 2,
+  "explanation": "Notification is required on clinical suspicion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Ethics & law",
+  "body": "A colleague smells of alcohol before a ward round. What should the doctor do first?",
+  "options": [
+   "Report to the GMC first without telling anyone locally",
+   "Ignore it",
+   "Post about it online",
+   "Confront them in front of patients",
+   "Ensure patient safety by raising it with a senior colleague immediately"
+  ],
+  "answer": 4,
+  "explanation": "Patient safety comes first; escalate through the right channels.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Prescribing",
+  "body": "A patient on simvastatin starts clarithromycin. What is the main risk?",
+  "options": [
+   "Serotonin syndrome",
+   "Hypoglycaemia",
+   "Myopathy and rhabdomyolysis",
+   "Bleeding",
+   "Hyperkalaemia"
+  ],
+  "answer": 2,
+  "explanation": "Clarithromycin inhibits CYP3A4; withhold the statin during the course.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Prescribing",
+  "body": "A patient on warfarin is prescribed a course of clarithromycin. What may happen?",
+  "options": [
+   "INR rises, increasing bleeding risk",
+   "Hypertension",
+   "INR falls",
+   "Severe hypoglycaemia",
+   "No interaction"
+  ],
+  "answer": 0,
+  "explanation": "Monitor INR closely.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Prescribing",
+  "body": "Which drug should be withheld before iodinated contrast in a patient with reduced kidney function, per local guidance?",
+  "options": [
+   "Omeprazole",
+   "Metformin",
+   "Levothyroxine",
+   "Amlodipine",
+   "Paracetamol"
+  ],
+  "answer": 1,
+  "explanation": "Risk of lactic acidosis if contrast-induced AKI occurs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Prescribing",
+  "body": "A patient taking an ACE inhibitor and spironolactone is at particular risk of",
+  "options": [
+   "hyponatraemia only",
+   "hypercalcaemia",
+   "hypoglycaemia",
+   "hypokalaemia",
+   "hyperkalaemia"
+  ],
+  "answer": 4,
+  "explanation": "Monitor potassium and renal function.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Prescribing",
+  "body": "Which antibiotic should be avoided in pregnancy because it affects fetal teeth and bones?",
+  "options": [
+   "Amoxicillin",
+   "Cefalexin",
+   "Penicillin V",
+   "Nitrofurantoin in the second trimester",
+   "Doxycycline (tetracyclines)"
+  ],
+  "answer": 4,
+  "explanation": "Tetracyclines are contraindicated in pregnancy and in children under 12.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Prescribing",
+  "body": "A patient with opioid overdose has pinpoint pupils and RR 6/min. What is the treatment?",
+  "options": [
+   "Flumazenil",
+   "Atropine",
+   "IV naloxone",
+   "Acetylcysteine",
+   "Activated charcoal"
+  ],
+  "answer": 2,
+  "explanation": "Repeat doses may be needed as naloxone is short-acting.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Prescribing",
+  "body": "Paracetamol overdose: which treatment is given when the level is above the treatment line?",
+  "options": [
+   "Vitamin K",
+   "Naloxone",
+   "IV acetylcysteine",
+   "Activated charcoal 24 hours later",
+   "Desferrioxamine"
+  ],
+  "answer": 2,
+  "explanation": "Staggered or uncertain-time overdoses are treated regardless of level.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Dermatology",
+  "body": "A changing pigmented lesion with irregular borders, multiple colours and diameter over 6 mm should be",
+  "options": [
+   "Referred urgently on the suspected cancer pathway for melanoma",
+   "Reviewed in 1 year",
+   "Frozen with cryotherapy",
+   "Treated with steroid cream",
+   "Reassured"
+  ],
+  "answer": 0,
+  "explanation": "Use the 7-point checklist or ABCDE.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Dermatology",
+  "body": "A pearly nodule with rolled edges and telangiectasia on the nose of an older man is most likely",
+  "options": [
+   "Melanoma",
+   "Seborrhoeic keratosis",
+   "Basal cell carcinoma",
+   "Squamous cell carcinoma",
+   "Actinic keratosis"
+  ],
+  "answer": 2,
+  "explanation": "Locally invasive, rarely metastasises.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Ophthalmology",
+  "body": "A 65-year-old has a painful red eye, halos around lights, vomiting and a fixed mid-dilated pupil. What is the diagnosis?",
+  "options": [
+   "Subconjunctival haemorrhage",
+   "Retinal detachment",
+   "Anterior uveitis",
+   "Conjunctivitis",
+   "Acute angle-closure glaucoma"
+  ],
+  "answer": 4,
+  "explanation": "Emergency: refer urgently; treatments lower intraocular pressure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Ophthalmology",
+  "body": "Sudden painless loss of vision with a cherry-red spot at the macula indicates",
+  "options": [
+   "Optic neuritis",
+   "Acute glaucoma",
+   "Central retinal artery occlusion",
+   "Central retinal vein occlusion",
+   "Vitreous haemorrhage"
+  ],
+  "answer": 2,
+  "explanation": "Vein occlusion shows a 'stormy sunset' of haemorrhages.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "ENT",
+  "body": "A patient has sudden unilateral sensorineural hearing loss. What is the appropriate action?",
+  "options": [
+   "Reassure and review in 3 months",
+   "Syringe the ear",
+   "Urgent ENT referral (same day or within 24 hours)",
+   "Refer to audiology routinely",
+   "Prescribe ear drops"
+  ],
+  "answer": 2,
+  "explanation": "Early steroids may improve outcome; exclude other causes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Rheumatology",
+  "body": "A 45-year-old woman has symmetrical small-joint polyarthritis with morning stiffness over 1 hour. Which antibody is most specific?",
+  "options": [
+   "Anti-dsDNA",
+   "Rheumatoid factor",
+   "HLA-B27",
+   "Anti-CCP",
+   "ANA"
+  ],
+  "answer": 3,
+  "explanation": "Start a DMARD such as methotrexate early.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Rheumatology",
+  "body": "A man has a sudden hot, swollen first metatarsophalangeal joint after a heavy night of drinking. What is the most likely diagnosis?",
+  "options": [
+   "Septic arthritis",
+   "Rheumatoid arthritis",
+   "Pseudogout",
+   "Acute gout",
+   "Cellulitis"
+  ],
+  "answer": 3,
+  "explanation": "Needle-shaped negatively birefringent crystals on aspiration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Rheumatology",
+  "body": "When should allopurinol usually be started for recurrent gout?",
+  "options": [
+   "Only in women",
+   "After the acute attack has settled (often with colchicine cover)",
+   "Only if uric acid is normal",
+   "During the acute attack as first treatment",
+   "Never"
+  ],
+  "answer": 1,
+  "explanation": "Starting during an attack can prolong it; many clinicians now start once settled.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Orthopaedics",
+  "body": "An elderly woman falls and has a shortened, externally rotated leg. What is the most likely injury?",
+  "options": [
+   "Fractured neck of femur",
+   "Pelvic fracture",
+   "Knee dislocation",
+   "Ankle fracture",
+   "Hip dislocation (posterior) with internal rotation"
+  ],
+  "answer": 0,
+  "explanation": "Posterior hip dislocation classically gives a shortened, internally rotated leg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Orthopaedics",
+  "body": "A patient after a tibial fracture has pain out of proportion, worse on passive stretch. What is the concern?",
+  "options": [
+   "Compartment syndrome",
+   "Osteomyelitis",
+   "Malunion",
+   "DVT",
+   "Fat embolism"
+  ],
+  "answer": 0,
+  "explanation": "Emergency fasciotomy may be needed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Emergency",
+  "body": "A patient has anaphylaxis with wheeze and hypotension. What is the first drug?",
+  "options": [
+   "Nebulised salbutamol only",
+   "IM adrenaline 0.5 mg (1:1000)",
+   "IV hydrocortisone",
+   "Oral cetirizine",
+   "IV chlorphenamine"
+  ],
+  "answer": 1,
+  "explanation": "Repeat after 5 minutes if no improvement.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Emergency",
+  "body": "In adult cardiac arrest with a shockable rhythm, when is adrenaline first given?",
+  "options": [
+   "Only after 20 minutes",
+   "Never",
+   "Before the first shock",
+   "After the third shock",
+   "After the first shock"
+  ],
+  "answer": 3,
+  "explanation": "Then every 3–5 minutes; amiodarone 300 mg after the third shock.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Cardiology",
+  "body": "A patient with stable angina needs short-term symptom relief. What should be prescribed with a beta-blocker or CCB?",
+  "options": [
+   "Oral furosemide",
+   "Sublingual glyceryl trinitrate spray",
+   "Aspirin 300 mg daily",
+   "Digoxin",
+   "IV morphine"
+  ],
+  "answer": 1,
+  "explanation": "Also offer aspirin and a statin for secondary prevention.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Cardiology",
+  "body": "Which drug should be given to all patients with acute coronary syndrome unless contraindicated?",
+  "options": [
+   "Warfarin",
+   "Amiodarone",
+   "Digoxin",
+   "Aspirin 300 mg loading dose",
+   "Furosemide"
+  ],
+  "answer": 3,
+  "explanation": "Then a second antiplatelet per local protocol.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Cardiology",
+  "body": "A 25-year-old has palpitations and an ECG with a short PR interval and delta waves. What is the diagnosis?",
+  "options": [
+   "Long QT syndrome",
+   "Atrial flutter",
+   "Brugada syndrome",
+   "First-degree heart block",
+   "Wolff–Parkinson–White syndrome"
+  ],
+  "answer": 4,
+  "explanation": "An accessory pathway; avoid AV-node blockers if AF develops.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Cardiology",
+  "body": "Which statin is offered for primary prevention when 10-year QRISK3 is 10% or more?",
+  "options": [
+   "No statin — lifestyle only",
+   "Rosuvastatin 40 mg",
+   "Atorvastatin 20 mg",
+   "Pravastatin 10 mg",
+   "Simvastatin 80 mg"
+  ],
+  "answer": 2,
+  "explanation": "Atorvastatin 80 mg is used for secondary prevention.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A 30-year-old with uncontrolled asthma on a low-dose ICS inhaler. What is the usual next step in current UK guidance?",
+  "options": [
+   "Stop the inhaled steroid",
+   "Use only a SABA",
+   "Add oral prednisolone long term",
+   "Switch to an ICS/formoterol combination (MART) or add a long-acting beta-agonist per local pathway",
+   "Start theophylline first"
+  ],
+  "answer": 3,
+  "explanation": "Check adherence and inhaler technique first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A patient with sarcoidosis classically has which chest X-ray finding?",
+  "options": [
+   "Bilateral hilar lymphadenopathy",
+   "Kerley B lines",
+   "Unilateral pleural effusion",
+   "Upper lobe cavitation",
+   "Hyperinflation"
+  ],
+  "answer": 0,
+  "explanation": "Also raised ACE and hypercalcaemia.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "Obstructive sleep apnoea is screened with which questionnaire?",
+  "options": [
+   "AUDIT",
+   "CAGE",
+   "PHQ-9",
+   "STOP-BANG or Epworth Sleepiness Scale",
+   "MMSE"
+  ],
+  "answer": 3,
+  "explanation": "Confirm with sleep studies.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Gastroenterology",
+  "body": "A patient with dyspepsia and positive H. pylori test should receive",
+  "options": [
+   "An antacid only",
+   "Surgery",
+   "Triple therapy: a PPI with two antibiotics for 7 days",
+   "A PPI alone for 2 days",
+   "Long-term antibiotics"
+  ],
+  "answer": 2,
+  "explanation": "Common regimen: PPI + amoxicillin + clarithromycin (or metronidazole).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Gastroenterology",
+  "body": "Which is a red flag needing urgent endoscopy referral in a patient with dyspepsia?",
+  "options": [
+   "Heartburn after spicy food",
+   "Dysphagia",
+   "Belching",
+   "Mild nausea for a week",
+   "Bloating after meals"
+  ],
+  "answer": 1,
+  "explanation": "Also age ≥55 with weight loss and dyspepsia.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Gastroenterology",
+  "body": "Paracentesis in a patient with cirrhotic ascites shows a neutrophil count of 400 cells/mm³. What is the diagnosis?",
+  "options": [
+   "Spontaneous bacterial peritonitis",
+   "Budd–Chiari syndrome",
+   "Hepatic encephalopathy",
+   "Portal vein thrombosis",
+   "Hepatorenal syndrome"
+  ],
+  "answer": 0,
+  "explanation": "Neutrophils >250/mm³; treat with IV antibiotics.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Gastroenterology",
+  "body": "A patient with cirrhosis is confused with a flapping tremor. What is first-line treatment?",
+  "options": [
+   "Furosemide",
+   "High-protein diet only",
+   "Haloperidol",
+   "Lactulose (with rifaximin as add-on)",
+   "Morphine"
+  ],
+  "answer": 3,
+  "explanation": "Look for and treat precipitants (infection, bleeding, constipation).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Surgery",
+  "body": "A 50-year-old has left iliac fossa pain, fever and raised inflammatory markers. What is the most likely diagnosis?",
+  "options": [
+   "Acute diverticulitis",
+   "Appendicitis",
+   "Renal colic",
+   "Ovarian torsion",
+   "Ulcerative colitis"
+  ],
+  "answer": 0,
+  "explanation": "CT abdomen confirms complications such as abscess.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Surgery",
+  "body": "A 20-year-old has sudden severe testicular pain, a high-riding testis and absent cremasteric reflex. What is the management?",
+  "options": [
+   "Analgesia and discharge",
+   "Antibiotics and review",
+   "Ultrasound in 1 week",
+   "Urgent surgical exploration",
+   "Elective referral"
+  ],
+  "answer": 3,
+  "explanation": "Testicular torsion: surgery within 6 hours to save the testis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Surgery",
+  "body": "Which investigation is first line for suspected renal colic in most adults?",
+  "options": [
+   "Abdominal X-ray only",
+   "Colonoscopy",
+   "Non-contrast CT KUB",
+   "Barium enema",
+   "MRI"
+  ],
+  "answer": 2,
+  "explanation": "Ultrasound is preferred in pregnancy and children.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Surgery",
+  "body": "A breast lump in a 30-year-old woman should be assessed with",
+  "options": [
+   "Antibiotics",
+   "Review in 1 year",
+   "Triple assessment: clinical exam, imaging and biopsy",
+   "Mammography alone",
+   "Reassurance only"
+  ],
+  "answer": 2,
+  "explanation": "Ultrasound is the imaging of choice under 35–40.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Endocrinology",
+  "body": "A patient has low TSH and high free T4. Which is the most likely diagnosis?",
+  "options": [
+   "Subclinical hypothyroidism",
+   "Sick euthyroid syndrome",
+   "Primary hypothyroidism",
+   "Secondary hypothyroidism",
+   "Hyperthyroidism"
+  ],
+  "answer": 4,
+  "explanation": "High TSH with low T4 = primary hypothyroidism.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Endocrinology",
+  "body": "HbA1c diagnostic of diabetes is",
+  "options": [
+   "38 mmol/mol",
+   "64 mmol/mol only",
+   "53 mmol/mol only",
+   "48 mmol/mol or above",
+   "42 mmol/mol"
+  ],
+  "answer": 3,
+  "explanation": "42–47 indicates non-diabetic hyperglycaemia.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Endocrinology",
+  "body": "A patient with type 2 diabetes is hypoglycaemic and drowsy but can swallow. What is first?",
+  "options": [
+   "A large protein meal",
+   "15–20 g of fast-acting carbohydrate such as glucose tablets or juice",
+   "IV insulin",
+   "IM glucagon only",
+   "No treatment"
+  ],
+  "answer": 1,
+  "explanation": "Recheck glucose after 10–15 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Endocrinology",
+  "body": "Hyponatraemia with low serum osmolality and concentrated urine in a euvolaemic patient with small cell lung cancer suggests",
+  "options": [
+   "Diabetes insipidus",
+   "Conn's syndrome",
+   "Addison's disease only",
+   "Psychogenic polydipsia",
+   "SIADH"
+  ],
+  "answer": 4,
+  "explanation": "Treat with fluid restriction initially.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Neurology",
+  "body": "A woman has unilateral throbbing headaches with nausea and photophobia lasting 12 hours, with visual zigzags beforehand. What is first-line acute treatment?",
+  "options": [
+   "A triptan with an NSAID or paracetamol",
+   "Long-term aspirin",
+   "Oral steroids",
+   "Opioids",
+   "Ergotamine first line"
+  ],
+  "answer": 0,
+  "explanation": "Avoid combined hormonal contraception in migraine with aura.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Neurology",
+  "body": "A man has excruciating unilateral periorbital headaches with tearing, occurring daily for weeks. What is the acute treatment?",
+  "options": [
+   "Amitriptyline",
+   "Paracetamol",
+   "Codeine",
+   "100% oxygen and subcutaneous sumatriptan",
+   "Propranolol"
+  ],
+  "answer": 3,
+  "explanation": "Verapamil is used for prevention.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Neurology",
+  "body": "Facial weakness that spares the forehead suggests",
+  "options": [
+   "An upper motor neurone lesion such as a stroke",
+   "Bell's palsy",
+   "Parotid tumour",
+   "Ramsay Hunt syndrome",
+   "Facial nerve trauma"
+  ],
+  "answer": 0,
+  "explanation": "Bell's palsy (LMN) affects the forehead too.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Neurology",
+  "body": "Back pain with saddle anaesthesia and urinary retention suggests",
+  "options": [
+   "Ankylosing spondylitis",
+   "Cauda equina syndrome — urgent MRI",
+   "Sciatica only",
+   "Mechanical back pain",
+   "Spinal stenosis"
+  ],
+  "answer": 1,
+  "explanation": "Surgical emergency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Infectious disease",
+  "body": "A sexually active man has urethral discharge and dysuria. Gram-negative intracellular diplococci are seen. What is the treatment?",
+  "options": [
+   "Topical antifungal",
+   "Metronidazole",
+   "Oral amoxicillin",
+   "Oral doxycycline only",
+   "IM ceftriaxone"
+  ],
+  "answer": 4,
+  "explanation": "Gonorrhoea; test for other STIs and arrange partner notification.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Infectious disease",
+  "body": "Uncomplicated lower UTI in a non-pregnant woman is usually treated with",
+  "options": [
+   "Nitrofurantoin (if eGFR allows) or trimethoprim for 3 days",
+   "Ciprofloxacin for 14 days",
+   "Clarithromycin",
+   "IV gentamicin",
+   "No treatment ever"
+  ],
+  "answer": 0,
+  "explanation": "Follow local resistance guidance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Infectious disease",
+  "body": "A child has a vesicular rash in crops at different stages and is mildly unwell. What is the diagnosis?",
+  "options": [
+   "Scarlet fever",
+   "Chickenpox (varicella)",
+   "Hand, foot and mouth disease",
+   "Measles",
+   "Impetigo"
+  ],
+  "answer": 1,
+  "explanation": "Avoid NSAIDs; keep away from pregnant women and the immunosuppressed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Infectious disease",
+  "body": "A child has a sore throat, strawberry tongue and a sandpaper-like rash. What is the treatment?",
+  "options": [
+   "Phenoxymethylpenicillin for 10 days",
+   "Topical fusidic acid",
+   "No treatment",
+   "Aciclovir",
+   "Oral fluconazole"
+  ],
+  "answer": 0,
+  "explanation": "Scarlet fever is notifiable in England.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Haematology",
+  "body": "A patient on heparin has a platelet fall of over 50% at day 7. What should be suspected?",
+  "options": [
+   "Aplastic anaemia",
+   "Disseminated intravascular coagulation",
+   "ITP",
+   "Heparin-induced thrombocytopenia",
+   "Normal effect of heparin"
+  ],
+  "answer": 3,
+  "explanation": "Stop heparin and use a non-heparin anticoagulant.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Haematology",
+  "body": "A patient with bone pain, anaemia, hypercalcaemia and renal impairment most likely has",
+  "options": [
+   "Osteoporosis",
+   "Multiple myeloma",
+   "Polycythaemia vera",
+   "Hodgkin lymphoma",
+   "CLL"
+  ],
+  "answer": 1,
+  "explanation": "CRAB features; check serum protein electrophoresis and free light chains.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "A 3-week-old boy has projectile non-bilious vomiting after feeds and is hungry. What is the diagnosis?",
+  "options": [
+   "Malrotation with volvulus",
+   "Gastroenteritis",
+   "Gastro-oesophageal reflux",
+   "Pyloric stenosis",
+   "Intussusception"
+  ],
+  "answer": 3,
+  "explanation": "Hypochloraemic hypokalaemic metabolic alkalosis; pyloromyotomy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "A 9-month-old has episodic colicky pain, drawing up the legs, and redcurrant jelly stools. What is the diagnosis?",
+  "options": [
+   "Pyloric stenosis",
+   "Constipation",
+   "Intussusception",
+   "Meckel's diverticulum",
+   "Gastroenteritis"
+  ],
+  "answer": 2,
+  "explanation": "Ultrasound shows a target sign; air enema reduction.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "Bilious vomiting in a newborn is",
+  "options": [
+   "usually reflux",
+   "treated with gripe water",
+   "normal",
+   "a surgical emergency until proven otherwise (e.g. malrotation)",
+   "a feeding technique problem"
+  ],
+  "answer": 3,
+  "explanation": "Urgent surgical review.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "A febrile child under 3 months with temperature 38 °C or higher should be",
+  "options": [
+   "Observed at home",
+   "Sent home with paracetamol",
+   "Given oral antibiotics only",
+   "Considered high risk and assessed urgently in hospital",
+   "Reviewed in 48 hours"
+  ],
+  "answer": 3,
+  "explanation": "NICE traffic-light: a red feature.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Obstetrics & Gynaecology",
+  "body": "A woman has amenorrhoea, a positive pregnancy test and heavy bleeding with an open cervical os. What type of miscarriage is this?",
+  "options": [
+   "Ectopic pregnancy",
+   "Inevitable miscarriage",
+   "Complete miscarriage",
+   "Missed miscarriage",
+   "Threatened miscarriage"
+  ],
+  "answer": 1,
+  "explanation": "Threatened = closed os with a viable pregnancy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Obstetrics & Gynaecology",
+  "body": "Rhesus-negative women are given anti-D to prevent",
+  "options": [
+   "haemolytic disease of the newborn in future pregnancies",
+   "placenta praevia",
+   "pre-eclampsia",
+   "gestational diabetes",
+   "postpartum depression"
+  ],
+  "answer": 0,
+  "explanation": "Given routinely and after sensitising events.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Obstetrics & Gynaecology",
+  "body": "Which test is used to screen for gestational diabetes in at-risk women?",
+  "options": [
+   "Thyroid function",
+   "Fasting lipid profile",
+   "75 g oral glucose tolerance test at 24–28 weeks",
+   "Random urine glucose only",
+   "HbA1c at 40 weeks"
+  ],
+  "answer": 2,
+  "explanation": "Earlier OGTT if previous gestational diabetes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Obstetrics & Gynaecology",
+  "body": "A woman has cyclical pelvic pain, dysmenorrhoea, deep dyspareunia and subfertility. What is the most likely diagnosis?",
+  "options": [
+   "Endometriosis",
+   "Pelvic inflammatory disease",
+   "Ovarian cancer",
+   "PCOS",
+   "Fibroids"
+  ],
+  "answer": 0,
+  "explanation": "Laparoscopy is the diagnostic gold standard.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Psychiatry",
+  "body": "Which tool is used to screen for alcohol misuse?",
+  "options": [
+   "AUDIT (or AUDIT-C)",
+   "Edinburgh scale",
+   "PHQ-9",
+   "GAD-7",
+   "MMSE"
+  ],
+  "answer": 0,
+  "explanation": "The Edinburgh scale screens for postnatal depression.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Psychiatry",
+  "body": "A woman 2 weeks postpartum has confusion, hallucinations and rapidly changing mood. What is the diagnosis?",
+  "options": [
+   "Baby blues",
+   "Normal adjustment",
+   "Postnatal depression",
+   "Postpartum psychosis — a psychiatric emergency",
+   "Generalised anxiety disorder"
+  ],
+  "answer": 3,
+  "explanation": "Urgent admission, ideally to a mother-and-baby unit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Psychiatry",
+  "body": "A patient is acutely disturbed and needs rapid tranquillisation after de-escalation fails. What is commonly used first?",
+  "options": [
+   "IV phenytoin",
+   "Oral lithium",
+   "IV insulin",
+   "IM adrenaline",
+   "Oral lorazepam (or an oral antipsychotic)"
+  ],
+  "answer": 4,
+  "explanation": "Offer oral medication before IM where possible.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Ethics & law",
+  "body": "A patient under the Mental Health Act section 2 can be detained for assessment for up to",
+  "options": [
+   "1 year",
+   "6 months",
+   "7 days",
+   "28 days",
+   "72 hours"
+  ],
+  "answer": 3,
+  "explanation": "Section 3 (treatment) lasts up to 6 months initially.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Ethics & law",
+  "body": "Who can sign a medical certificate of cause of death?",
+  "options": [
+   "A doctor who can state the cause to the best of their knowledge and belief",
+   "The coroner's officer only",
+   "The patient's family",
+   "Any nurse",
+   "A medical student"
+  ],
+  "answer": 0,
+  "explanation": "Refer to the coroner/medical examiner when required.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Prescribing",
+  "body": "Which drug is contraindicated with sildenafil because of severe hypotension?",
+  "options": [
+   "Metformin",
+   "Omeprazole",
+   "Paracetamol",
+   "Amoxicillin",
+   "Nitrates such as GTN"
+  ],
+  "answer": 4,
+  "explanation": "Can cause life-threatening hypotension.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Prescribing",
+  "body": "Which side effect is most associated with amiodarone?",
+  "options": [
+   "Ototoxicity",
+   "Gum hypertrophy only",
+   "Hyperglycaemia",
+   "Thyroid dysfunction and pulmonary fibrosis",
+   "Gynaecomastia only"
+  ],
+  "answer": 3,
+  "explanation": "Also photosensitivity and liver toxicity; monitor TFTs and LFTs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Prescribing",
+  "body": "Gentamicin can cause",
+  "options": [
+   "hypothyroidism",
+   "gingival hyperplasia",
+   "hepatotoxicity only",
+   "agranulocytosis",
+   "ototoxicity and nephrotoxicity"
+  ],
+  "answer": 4,
+  "explanation": "Monitor levels and renal function.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Emergency",
+  "body": "What is the compression-to-ventilation ratio for adult CPR?",
+  "options": [
+   "15:1",
+   "15:2",
+   "30:2",
+   "30:1",
+   "5:1"
+  ],
+  "answer": 2,
+  "explanation": "Compress at 100–120 per minute, 5–6 cm deep.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A 58-year-old with community-acquired pneumonia is alert and orientated. Urea 7.8 mmol/L, respiratory rate 24/min, BP 84/54 mmHg. What is the CURB-65 score?",
+  "options": [
+   "4",
+   "0",
+   "3",
+   "2",
+   "1"
+  ],
+  "answer": 3,
+  "explanation": "Confusion 0, urea >7 1, RR ≥30 0, SBP <90 or DBP ≤60 1, age ≥65 0. Total 2: consider hospital-based care.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A 67-year-old with community-acquired pneumonia is newly confused. Urea 9.4 mmol/L, respiratory rate 34/min, BP 135/58 mmHg. What is the CURB-65 score?",
+  "options": [
+   "2",
+   "1",
+   "5",
+   "3",
+   "4"
+  ],
+  "answer": 2,
+  "explanation": "Confusion 1, urea >7 1, RR ≥30 1, SBP <90 or DBP ≤60 1, age ≥65 1. Total 5: severe — hospital care, consider critical care.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A 58-year-old with community-acquired pneumonia is alert and orientated. Urea 5.2 mmol/L, respiratory rate 34/min, BP 84/54 mmHg. What is the CURB-65 score?",
+  "options": [
+   "2",
+   "0",
+   "4",
+   "1",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "Confusion 0, urea >7 0, RR ≥30 1, SBP <90 or DBP ≤60 1, age ≥65 0. Total 2: consider hospital-based care.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A 67-year-old with community-acquired pneumonia is newly confused. Urea 9.4 mmol/L, respiratory rate 24/min, BP 135/58 mmHg. What is the CURB-65 score?",
+  "options": [
+   "1",
+   "5",
+   "3",
+   "4",
+   "2"
+  ],
+  "answer": 3,
+  "explanation": "Confusion 1, urea >7 1, RR ≥30 0, SBP <90 or DBP ≤60 1, age ≥65 1. Total 4: severe — hospital care, consider critical care.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A 74-year-old with community-acquired pneumonia is alert and orientated. Urea 6.5 mmol/L, respiratory rate 24/min, BP 96/58 mmHg. What is the CURB-65 score?",
+  "options": [
+   "1",
+   "4",
+   "2",
+   "0",
+   "3"
+  ],
+  "answer": 2,
+  "explanation": "Confusion 0, urea >7 0, RR ≥30 0, SBP <90 or DBP ≤60 1, age ≥65 1. Total 2: consider hospital-based care.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A 74-year-old with community-acquired pneumonia is alert and orientated. Urea 7.8 mmol/L, respiratory rate 34/min, BP 84/54 mmHg. What is the CURB-65 score?",
+  "options": [
+   "4",
+   "1",
+   "5",
+   "2",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "Confusion 0, urea >7 1, RR ≥30 1, SBP <90 or DBP ≤60 1, age ≥65 1. Total 4: severe — hospital care, consider critical care.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A 74-year-old with community-acquired pneumonia is newly confused. Urea 7.8 mmol/L, respiratory rate 18/min, BP 84/54 mmHg. What is the CURB-65 score?",
+  "options": [
+   "3",
+   "2",
+   "4",
+   "1",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "Confusion 1, urea >7 1, RR ≥30 0, SBP <90 or DBP ≤60 1, age ≥65 1. Total 4: severe — hospital care, consider critical care.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A 58-year-old with community-acquired pneumonia is alert and orientated. Urea 7.8 mmol/L, respiratory rate 18/min, BP 96/74 mmHg. What is the CURB-65 score?",
+  "options": [
+   "1",
+   "0",
+   "4",
+   "2",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "Confusion 0, urea >7 1, RR ≥30 0, SBP <90 or DBP ≤60 0, age ≥65 0. Total 1: consider home treatment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A 74-year-old with community-acquired pneumonia is alert and orientated. Urea 12 mmol/L, respiratory rate 18/min, BP 135/58 mmHg. What is the CURB-65 score?",
+  "options": [
+   "5",
+   "3",
+   "2",
+   "4",
+   "1"
+  ],
+  "answer": 1,
+  "explanation": "Confusion 0, urea >7 1, RR ≥30 0, SBP <90 or DBP ≤60 1, age ≥65 1. Total 3: severe — hospital care, consider critical care.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A 67-year-old with community-acquired pneumonia is alert and orientated. Urea 6.5 mmol/L, respiratory rate 18/min, BP 118/58 mmHg. What is the CURB-65 score?",
+  "options": [
+   "1",
+   "4",
+   "0",
+   "2",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "Confusion 0, urea >7 0, RR ≥30 0, SBP <90 or DBP ≤60 1, age ≥65 1. Total 2: consider hospital-based care.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A 67-year-old with community-acquired pneumonia is alert and orientated. Urea 5.2 mmol/L, respiratory rate 31/min, BP 118/58 mmHg. What is the CURB-65 score?",
+  "options": [
+   "2",
+   "5",
+   "3",
+   "4",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "Confusion 0, urea >7 0, RR ≥30 1, SBP <90 or DBP ≤60 1, age ≥65 1. Total 3: severe — hospital care, consider critical care.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Respiratory",
+  "body": "A 74-year-old with community-acquired pneumonia is alert and orientated. Urea 9.4 mmol/L, respiratory rate 31/min, BP 96/66 mmHg. What is the CURB-65 score?",
+  "options": [
+   "4",
+   "2",
+   "3",
+   "5",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "Confusion 0, urea >7 1, RR ≥30 1, SBP <90 or DBP ≤60 0, age ≥65 1. Total 3: severe — hospital care, consider critical care.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "Using the Holliday–Segar formula, what is the daily maintenance fluid requirement for a 25 kg child?",
+  "options": [
+   "1,850 mL/day",
+   "2,500 mL/day",
+   "1,750 mL/day",
+   "1,280 mL/day",
+   "1,600 mL/day"
+  ],
+  "answer": 4,
+  "explanation": "100 mL/kg for the first 10 kg, 50 mL/kg for the next 10 kg, 20 mL/kg for each kg above 20 → 1,600 mL/day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "Using the Holliday–Segar formula, what is the daily maintenance fluid requirement for a 35 kg child?",
+  "options": [
+   "2,250 mL/day",
+   "2,050 mL/day",
+   "3,500 mL/day",
+   "1,800 mL/day",
+   "1,440 mL/day"
+  ],
+  "answer": 3,
+  "explanation": "100 mL/kg for the first 10 kg, 50 mL/kg for the next 10 kg, 20 mL/kg for each kg above 20 → 1,800 mL/day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "Using the Holliday–Segar formula, what is the daily maintenance fluid requirement for a 6 kg child?",
+  "options": [
+   "850 mL/day",
+   "480 mL/day",
+   "600 mL/day",
+   "576 mL/day",
+   "800 mL/day"
+  ],
+  "answer": 2,
+  "explanation": "100 mL/kg for the first 10 kg, 50 mL/kg for the next 10 kg, 20 mL/kg for each kg above 20 → 600 mL/day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "Using the Holliday–Segar formula, what is the daily maintenance fluid requirement for a 18 kg child?",
+  "options": [
+   "1,400 mL/day",
+   "1,800 mL/day",
+   "1,120 mL/day",
+   "1,728 mL/day",
+   "1,650 mL/day"
+  ],
+  "answer": 0,
+  "explanation": "100 mL/kg for the first 10 kg, 50 mL/kg for the next 10 kg, 20 mL/kg for each kg above 20 → 1,400 mL/day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "Using the Holliday–Segar formula, what is the daily maintenance fluid requirement for a 22 kg child?",
+  "options": [
+   "1,230 mL/day",
+   "2,200 mL/day",
+   "1,600 mL/day",
+   "1,540 mL/day",
+   "1,790 mL/day"
+  ],
+  "answer": 3,
+  "explanation": "100 mL/kg for the first 10 kg, 50 mL/kg for the next 10 kg, 20 mL/kg for each kg above 20 → 1,540 mL/day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "Using the Holliday–Segar formula, what is the daily maintenance fluid requirement for a 30 kg child?",
+  "options": [
+   "3,000 mL/day",
+   "1,950 mL/day",
+   "1,700 mL/day",
+   "2,000 mL/day",
+   "1,360 mL/day"
+  ],
+  "answer": 2,
+  "explanation": "100 mL/kg for the first 10 kg, 50 mL/kg for the next 10 kg, 20 mL/kg for each kg above 20 → 1,700 mL/day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "Using the Holliday–Segar formula, what is the daily maintenance fluid requirement for a 12 kg child?",
+  "options": [
+   "1,100 mL/day",
+   "1,200 mL/day",
+   "880 mL/day",
+   "1,350 mL/day",
+   "1,152 mL/day"
+  ],
+  "answer": 0,
+  "explanation": "100 mL/kg for the first 10 kg, 50 mL/kg for the next 10 kg, 20 mL/kg for each kg above 20 → 1,100 mL/day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "Using the Holliday–Segar formula, what is the daily maintenance fluid requirement for a 8 kg child?",
+  "options": [
+   "1,050 mL/day",
+   "768 mL/day",
+   "800 mL/day",
+   "640 mL/day",
+   "900 mL/day"
+  ],
+  "answer": 2,
+  "explanation": "100 mL/kg for the first 10 kg, 50 mL/kg for the next 10 kg, 20 mL/kg for each kg above 20 → 800 mL/day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Paediatrics",
+  "body": "Using the Holliday–Segar formula, what is the daily maintenance fluid requirement for a 40 kg child?",
+  "options": [
+   "1,900 mL/day",
+   "1,520 mL/day",
+   "4,000 mL/day",
+   "2,500 mL/day",
+   "2,150 mL/day"
+  ],
+  "answer": 0,
+  "explanation": "100 mL/kg for the first 10 kg, 50 mL/kg for the next 10 kg, 20 mL/kg for each kg above 20 → 1,900 mL/day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Renal",
+  "body": "Na⁺ 139 mmol/L, Cl⁻ 101 mmol/L, HCO₃⁻ 10 mmol/L. What is the anion gap, and is it raised (reference roughly 8–16 mmol/L without potassium)?",
+  "options": [
+   "28 mmol/L — normal",
+   "28 mmol/L — raised",
+   "38 mmol/L — raised",
+   "33 mmol/L — raised",
+   "22 mmol/L — normal"
+  ],
+  "answer": 1,
+  "explanation": "AG = Na − (Cl + HCO₃) = 139 − 111 = 28. Raised anion gap acidosis: e.g. DKA, lactic acidosis, renal failure, toxins.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Renal",
+  "body": "Na⁺ 144 mmol/L, Cl⁻ 100 mmol/L, HCO₃⁻ 13 mmol/L. What is the anion gap, and is it raised (reference roughly 8–16 mmol/L without potassium)?",
+  "options": [
+   "39 mmol/L — raised",
+   "31 mmol/L — raised",
+   "44 mmol/L — raised",
+   "25 mmol/L — normal",
+   "31 mmol/L — normal"
+  ],
+  "answer": 1,
+  "explanation": "AG = Na − (Cl + HCO₃) = 144 − 113 = 31. Raised anion gap acidosis: e.g. DKA, lactic acidosis, renal failure, toxins.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Renal",
+  "body": "Na⁺ 139 mmol/L, Cl⁻ 108 mmol/L, HCO₃⁻ 12 mmol/L. What is the anion gap, and is it raised (reference roughly 8–16 mmol/L without potassium)?",
+  "options": [
+   "26 mmol/L — raised",
+   "19 mmol/L — normal",
+   "13 mmol/L — normal",
+   "19 mmol/L — raised",
+   "31 mmol/L — raised"
+  ],
+  "answer": 3,
+  "explanation": "AG = Na − (Cl + HCO₃) = 139 − 120 = 19. Raised anion gap acidosis: e.g. DKA, lactic acidosis, renal failure, toxins.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Renal",
+  "body": "Na⁺ 143 mmol/L, Cl⁻ 91 mmol/L, HCO₃⁻ 12 mmol/L. What is the anion gap, and is it raised (reference roughly 8–16 mmol/L without potassium)?",
+  "options": [
+   "52 mmol/L — raised",
+   "40 mmol/L — normal",
+   "40 mmol/L — raised",
+   "47 mmol/L — raised",
+   "34 mmol/L — normal"
+  ],
+  "answer": 2,
+  "explanation": "AG = Na − (Cl + HCO₃) = 143 − 103 = 40. Raised anion gap acidosis: e.g. DKA, lactic acidosis, renal failure, toxins.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Renal",
+  "body": "Na⁺ 134 mmol/L, Cl⁻ 98 mmol/L, HCO₃⁻ 24 mmol/L. What is the anion gap, and is it raised (reference roughly 8–16 mmol/L without potassium)?",
+  "options": [
+   "31 mmol/L — raised",
+   "12 mmol/L — normal",
+   "36 mmol/L — raised",
+   "12 mmol/L — raised",
+   "6 mmol/L — normal"
+  ],
+  "answer": 1,
+  "explanation": "AG = Na − (Cl + HCO₃) = 134 − 122 = 12. Raised anion gap acidosis: e.g. DKA, lactic acidosis, renal failure, toxins.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Renal",
+  "body": "Na⁺ 137 mmol/L, Cl⁻ 103 mmol/L, HCO₃⁻ 13 mmol/L. What is the anion gap, and is it raised (reference roughly 8–16 mmol/L without potassium)?",
+  "options": [
+   "34 mmol/L — raised",
+   "15 mmol/L — normal",
+   "21 mmol/L — raised",
+   "29 mmol/L — raised",
+   "21 mmol/L — normal"
+  ],
+  "answer": 2,
+  "explanation": "AG = Na − (Cl + HCO₃) = 137 − 116 = 21. Raised anion gap acidosis: e.g. DKA, lactic acidosis, renal failure, toxins.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Renal",
+  "body": "Na⁺ 140 mmol/L, Cl⁻ 110 mmol/L, HCO₃⁻ 19 mmol/L. What is the anion gap, and is it raised (reference roughly 8–16 mmol/L without potassium)?",
+  "options": [
+   "30 mmol/L — raised",
+   "25 mmol/L — raised",
+   "11 mmol/L — raised",
+   "5 mmol/L — normal",
+   "11 mmol/L — normal"
+  ],
+  "answer": 4,
+  "explanation": "AG = Na − (Cl + HCO₃) = 140 − 129 = 11. Raised anion gap acidosis: e.g. DKA, lactic acidosis, renal failure, toxins.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Renal",
+  "body": "Na⁺ 143 mmol/L, Cl⁻ 102 mmol/L, HCO₃⁻ 16 mmol/L. What is the anion gap, and is it raised (reference roughly 8–16 mmol/L without potassium)?",
+  "options": [
+   "25 mmol/L — raised",
+   "25 mmol/L — normal",
+   "19 mmol/L — normal",
+   "41 mmol/L — raised",
+   "36 mmol/L — raised"
+  ],
+  "answer": 0,
+  "explanation": "AG = Na − (Cl + HCO₃) = 143 − 118 = 25. Raised anion gap acidosis: e.g. DKA, lactic acidosis, renal failure, toxins.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Renal",
+  "body": "Na⁺ 132 mmol/L, Cl⁻ 93 mmol/L, HCO₃⁻ 15 mmol/L. What is the anion gap, and is it raised (reference roughly 8–16 mmol/L without potassium)?",
+  "options": [
+   "18 mmol/L — normal",
+   "24 mmol/L — raised",
+   "34 mmol/L — raised",
+   "39 mmol/L — raised",
+   "24 mmol/L — normal"
+  ],
+  "answer": 1,
+  "explanation": "AG = Na − (Cl + HCO₃) = 132 − 108 = 24. Raised anion gap acidosis: e.g. DKA, lactic acidosis, renal failure, toxins.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Renal",
+  "body": "Na⁺ 141 mmol/L, Cl⁻ 92 mmol/L, HCO₃⁻ 22 mmol/L. What is the anion gap, and is it raised (reference roughly 8–16 mmol/L without potassium)?",
+  "options": [
+   "27 mmol/L — normal",
+   "27 mmol/L — raised",
+   "44 mmol/L — raised",
+   "21 mmol/L — normal",
+   "49 mmol/L — raised"
+  ],
+  "answer": 1,
+  "explanation": "AG = Na − (Cl + HCO₃) = 141 − 114 = 27. Raised anion gap acidosis: e.g. DKA, lactic acidosis, renal failure, toxins.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PLB",
+  "topic": "Public health",
+  "body": "A patient weighs 50 kg and is 1.75 m tall. What is the BMI category (standard adult thresholds)?",
+  "options": [
+   "16.3 kg/m² — Severely obese",
+   "16.3 kg/m² — Obese",
+   "16.3 kg/m² — Underweight",
+   "16.3 kg/m² — Healthy weight",
+   "16.3 kg/m² — Overweight"
+  ],
+  "answer": 2,
+  "explanation": "BMI = 50 ÷ 1.75² = 16.3 kg/m². (Lower thresholds are used for some ethnic groups, e.g. South Asian, Chinese, Black African and Caribbean.)",
+  "difficulty": 1
+ },
+ {
+  "subject": "PLB",
+  "topic": "Public health",
+  "body": "A patient weighs 67 kg and is 1.55 m tall. What is the BMI category (standard adult thresholds)?",
+  "options": [
+   "27.9 kg/m² — Healthy weight",
+   "27.9 kg/m² — Overweight",
+   "27.9 kg/m² — Underweight",
+   "27.9 kg/m² — Obese",
+   "27.9 kg/m² — Severely obese"
+  ],
+  "answer": 1,
+  "explanation": "BMI = 67 ÷ 1.55² = 27.9 kg/m². (Lower thresholds are used for some ethnic groups, e.g. South Asian, Chinese, Black African and Caribbean.)",
+  "difficulty": 1
+ },
+ {
+  "subject": "PLB",
+  "topic": "Public health",
+  "body": "A patient weighs 120 kg and is 1.55 m tall. What is the BMI category (standard adult thresholds)?",
+  "options": [
+   "49.9 kg/m² — Overweight",
+   "49.9 kg/m² — Healthy weight",
+   "49.9 kg/m² — Underweight",
+   "49.9 kg/m² — Obese",
+   "49.9 kg/m² — Severely obese"
+  ],
+  "answer": 4,
+  "explanation": "BMI = 120 ÷ 1.55² = 49.9 kg/m². (Lower thresholds are used for some ethnic groups, e.g. South Asian, Chinese, Black African and Caribbean.)",
+  "difficulty": 1
+ },
+ {
+  "subject": "PLB",
+  "topic": "Public health",
+  "body": "A patient weighs 88 kg and is 1.65 m tall. What is the BMI category (standard adult thresholds)?",
+  "options": [
+   "32.3 kg/m² — Severely obese",
+   "32.3 kg/m² — Overweight",
+   "32.3 kg/m² — Underweight",
+   "32.3 kg/m² — Healthy weight",
+   "32.3 kg/m² — Obese"
+  ],
+  "answer": 4,
+  "explanation": "BMI = 88 ÷ 1.65² = 32.3 kg/m². (Lower thresholds are used for some ethnic groups, e.g. South Asian, Chinese, Black African and Caribbean.)",
+  "difficulty": 1
+ },
+ {
+  "subject": "PLB",
+  "topic": "Public health",
+  "body": "A patient weighs 112 kg and is 1.75 m tall. What is the BMI category (standard adult thresholds)?",
+  "options": [
+   "36.6 kg/m² — Healthy weight",
+   "36.6 kg/m² — Overweight",
+   "36.6 kg/m² — Severely obese",
+   "36.6 kg/m² — Obese",
+   "36.6 kg/m² — Underweight"
+  ],
+  "answer": 3,
+  "explanation": "BMI = 112 ÷ 1.75² = 36.6 kg/m². (Lower thresholds are used for some ethnic groups, e.g. South Asian, Chinese, Black African and Caribbean.)",
+  "difficulty": 1
+ },
+ {
+  "subject": "PLB",
+  "topic": "Public health",
+  "body": "A patient weighs 109 kg and is 1.65 m tall. What is the BMI category (standard adult thresholds)?",
+  "options": [
+   "40 kg/m² — Overweight",
+   "40 kg/m² — Obese",
+   "40 kg/m² — Severely obese",
+   "40 kg/m² — Underweight",
+   "40 kg/m² — Healthy weight"
+  ],
+  "answer": 2,
+  "explanation": "BMI = 109 ÷ 1.65² = 40 kg/m². (Lower thresholds are used for some ethnic groups, e.g. South Asian, Chinese, Black African and Caribbean.)",
+  "difficulty": 1
+ },
+ {
+  "subject": "PLB",
+  "topic": "Public health",
+  "body": "A patient weighs 80 kg and is 1.55 m tall. What is the BMI category (standard adult thresholds)?",
+  "options": [
+   "33.3 kg/m² — Obese",
+   "33.3 kg/m² — Healthy weight",
+   "33.3 kg/m² — Overweight",
+   "33.3 kg/m² — Severely obese",
+   "33.3 kg/m² — Underweight"
+  ],
+  "answer": 0,
+  "explanation": "BMI = 80 ÷ 1.55² = 33.3 kg/m². (Lower thresholds are used for some ethnic groups, e.g. South Asian, Chinese, Black African and Caribbean.)",
+  "difficulty": 1
+ },
+ {
+  "subject": "PLB",
+  "topic": "Public health",
+  "body": "A patient weighs 86 kg and is 1.65 m tall. What is the BMI category (standard adult thresholds)?",
+  "options": [
+   "31.6 kg/m² — Overweight",
+   "31.6 kg/m² — Severely obese",
+   "31.6 kg/m² — Obese",
+   "31.6 kg/m² — Healthy weight",
+   "31.6 kg/m² — Underweight"
+  ],
+  "answer": 2,
+  "explanation": "BMI = 86 ÷ 1.65² = 31.6 kg/m². (Lower thresholds are used for some ethnic groups, e.g. South Asian, Chinese, Black African and Caribbean.)",
+  "difficulty": 1
+ }
+]

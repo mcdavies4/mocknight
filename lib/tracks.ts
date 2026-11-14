@@ -2,7 +2,7 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
 export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
@@ -313,6 +313,19 @@ export const TRACKS: Record<TrackCode, Track> = {
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["nmc_pass"], tagline: "Part A numeracy and Part B clinical practice tests for the NMC CBT", timeZone: "Europe/London",
     audience: "an internationally educated nurse preparing for the UK NMC CBT (Test of Competence Part 1)",
+  },
+  PLAB: {
+    code: "PLAB", name: "PLAB 1 (UK GMC — doctors)", short: "PLAB 1", emoji: "⚕️", kind: "professional", region: "UK", currency: "GBP",
+    subjectMode: "single", subjects: ["PLB"], compulsory: ["PLB"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 180, minutes: 180, passPct: 63, scoreStyle: "passfail", maxSubjects: 1 },
+    mockVariants: [
+      { key: "FULL", label: "Full PLAB 1 mock — 180 questions", short: "Full 180", subjects: ["PLB"], total: 180, minutes: 180, passPct: 63, note: "180 questions · 3 hours · practice pass mark 63%" },
+      { key: "HALF", label: "Half paper — 90 questions", short: "Half 90", subjects: ["PLB"], total: 90, minutes: 90, passPct: 63, note: "90 questions · 90 min" },
+      { key: "Q30", label: "Quick 30", short: "Quick 30", subjects: ["PLB"], total: 30, minutes: 30, passPct: 63, note: "30 questions · 30 min — one minute per question" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["plab_pass"], tagline: "PLAB 1 best-of-five practice for international medical graduates, timed to the real paper", timeZone: "Europe/London",
+    audience: "an international medical graduate (often from Nigeria, Ghana, India or Pakistan) preparing for the UK GMC PLAB 1 exam, using UK practice (NICE, BNF, GMC guidance)",
   },
   NCLEX: {
     code: "NCLEX", name: "NCLEX-RN (US nursing licence)", short: "NCLEX-RN", emoji: "🏥", kind: "professional", region: "GLOBAL", currency: "USD",

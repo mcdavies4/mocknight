@@ -38,7 +38,7 @@ export async function GET(req: Request) {
     await probe("0008 UK practice publication", () => db().from("questions").select("practice_published").limit(1));
     out.migrations = checks;
 
-    const subjects = ["ENG", "MTH", "PHY", "CHM", "BIO", "ECO", "GOV", "LUK", "FIR", "NMN", "NMC", "NCX", "PRN", "SCR", "PMF", "APT", "QNT", "GAI", "HIS", "GEO", "DRV", "FSE1", "FSE2", "FSM1", "FSM2", "CAR"];
+    const subjects = ["ENG", "MTH", "PHY", "CHM", "BIO", "ECO", "GOV", "LUK", "FIR", "NMN", "NMC", "NCX", "PLB", "PRN", "SCR", "PMF", "APT", "QNT", "GAI", "HIS", "GEO", "DRV", "FSE1", "FSE2", "FSM1", "FSM2", "CAR"];
     const counts: Record<string, string> = {};
     for (const s of subjects) {
       const [{ count: reviewed }, { count: all }] = await Promise.all([
