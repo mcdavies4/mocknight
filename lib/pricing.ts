@@ -39,6 +39,11 @@ export const PLANS: Record<string, Plan> = {
   az900_pass: { code: "az900_pass", label: "Azure Fundamentals AZ-900 Practice — 90 days", amount: 1299, currency: "USD", days: 90, provider: "stripe" },
   python_pass: { code: "python_pass", label: "Python Foundations — 90 days", amount: 999, currency: "USD", days: 90, provider: "stripe" },
 
+  sec_pass: { code: "sec_pass", label: "Cybersecurity Fundamentals — 90 days", amount: 1299, currency: "USD", days: 90, provider: "stripe" },
+  dat_pass: { code: "dat_pass", label: "Data Analytics Foundations — 90 days", amount: 1299, currency: "USD", days: 90, provider: "stripe" },
+  aia_pass: { code: "aia_pass", label: "AI & Workplace Automation — 90 days", amount: 999, currency: "USD", days: 90, provider: "stripe" },
+  con_pass: { code: "con_pass", label: "Construction & Site Management — 90 days", amount: 799, currency: "GBP", days: 90, provider: "stripe" },
+  bkp_pass: { code: "bkp_pass", label: "Bookkeeping & Payroll — 90 days", amount: 799, currency: "GBP", days: 90, provider: "stripe" },
   fire_individual: { code: "fire_individual", label: "Fire Marshal course + certificate (12 months)", amount: 14_99, currency: "GBP", days: 365, provider: "stripe" },
 };
 

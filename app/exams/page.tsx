@@ -33,6 +33,11 @@ const PATHS: Record<TrackCode, string> = {
   AWS: "/app?track=AWS",
   AZF: "/app?track=AZF",
   PYT: "/app?track=PYT",
+  SEC: "/app?track=PYT",
+  DAT: "/app?track=PYT",
+  AIA: "/app?track=PYT",
+  CON: "/app?track=PYT",
+  BKP: "/app?track=PYT",
 };
 
 const GROUPS: { title: string; description: string; codes: TrackCode[] }[] = [

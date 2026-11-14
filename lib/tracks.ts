@@ -2,7 +2,7 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
 export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
@@ -255,6 +255,51 @@ export const TRACKS: Record<TrackCode, Track> = {
     tagline: "Original Python practice across syntax, control flow, collections, functions and files",
     timeZone: "UTC", timeLabel: "UTC", audience: "a beginner learning Python and preparing for Python Institute PCEP-30-03",
   },
+  SEC: {
+    code: "SEC", name: "Cybersecurity Fundamentals (Security+ topic-aligned)", short: "Cybersecurity",
+    emoji: "🔐", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["SECQ"], compulsory: ["SECQ"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 10, minutes: 15, passPct: 70, scoreStyle: "percent", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false, plans: ["sec_pass"],
+    tagline: "Original cybersecurity practice: threats, identity, network defence, risk and incident response",
+    timeZone: "UTC", timeLabel: "UTC", audience: "a learner building foundational cybersecurity knowledge",
+  },
+  DAT: {
+    code: "DAT", name: "Data Analytics Foundations (Power BI / PL-300 topic-aligned)", short: "Data Analytics",
+    emoji: "📊", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["DAQ"], compulsory: ["DAQ"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 10, minutes: 15, passPct: 70, scoreStyle: "percent", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false, plans: ["dat_pass"],
+    tagline: "Excel, SQL, Power Query, Power BI, DAX and visualisation practice",
+    timeZone: "UTC", timeLabel: "UTC", audience: "a learner building practical data analysis skills",
+  },
+  AIA: {
+    code: "AIA", name: "AI & Workplace Automation", short: "AI & Automation",
+    emoji: "🤖", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["AIQ"], compulsory: ["AIQ"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 10, minutes: 15, passPct: 70, scoreStyle: "percent", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false, plans: ["aia_pass"],
+    tagline: "AI literacy, prompting, verification, responsible use and workflow automation",
+    timeZone: "UTC", timeLabel: "UTC", audience: "a professional learning to use AI tools responsibly at work",
+  },
+  CON: {
+    code: "CON", name: "Construction & Site Management Essentials", short: "Site Management",
+    emoji: "🏗️", kind: "work", region: "UK", currency: "GBP",
+    subjectMode: "single", subjects: ["CONQ"], compulsory: ["CONQ"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 10, minutes: 15, passPct: 70, scoreStyle: "percent", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false, plans: ["con_pass"],
+    tagline: "Site safety, risk controls, coordination, quality and documentation practice",
+    timeZone: "Europe/London", audience: "a construction worker or aspiring site supervisor",
+  },
+  BKP: {
+    code: "BKP", name: "Bookkeeping & Payroll Foundations", short: "Bookkeeping & Payroll",
+    emoji: "🧾", kind: "professional", region: "UK", currency: "GBP",
+    subjectMode: "single", subjects: ["BKQ"], compulsory: ["BKQ"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 10, minutes: 15, passPct: 70, scoreStyle: "percent", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false, plans: ["bkp_pass"],
+    tagline: "Double-entry, invoices, reconciliations, payroll calculations and controls",
+    timeZone: "Europe/London", audience: "a learner building entry-level bookkeeping and payroll knowledge",
+  },
   NMC: {
     code: "NMC", name: "NMC CBT (nursing)", short: "NMC CBT", emoji: "🩺", kind: "professional", region: "UK", currency: "GBP",
     subjectMode: "single", subjects: ["NMN", "NMC"], compulsory: ["NMN", "NMC"], minSubjects: 2, maxSubjects: 2, subjectNote: "",
@@ -320,7 +365,7 @@ export const TRACKS: Record<TrackCode, Track> = {
 };
 
 export const TRACK_LIST = Object.values(TRACKS);
-export const TECH_TRACK_CODES = ["ITF", "CCST", "AWS", "AZF", "PYT"] as const;
+export const TECH_TRACK_CODES = ["ITF", "CCST", "AWS", "AZF", "PYT", "SEC", "DAT", "AIA"] as const;
 export const SCHOOL_TRACKS = TRACK_LIST.filter((t) => t.weeklyMock).map((t) => t.code);
 export const UK_TIME_TRACKS = TRACK_LIST.filter((t) => t.timeZone === "Europe/London").map((t) => t.code);
 

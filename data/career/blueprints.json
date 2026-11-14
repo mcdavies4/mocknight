@@ -1,0 +1,76 @@
+{
+  "checked_on": "2026-11-14",
+  "note": "Independent Mock Night learning pathways. Published topic alignment is not endorsement or official exam material.",
+  "pathways": [
+    {
+      "track": "SEC",
+      "subject": "SECQ",
+      "title": "Cybersecurity Fundamentals",
+      "source": "https://www.comptia.org/certifications/security",
+      "objectives": [
+        "Security principles and the CIA triad",
+        "Threats, vulnerabilities, malware and social engineering",
+        "Identity, authentication and access control",
+        "Network security, firewalls and segmentation",
+        "Risk management, governance and compliance",
+        "Incident response, logging and recovery"
+      ]
+    },
+    {
+      "track": "DAT",
+      "subject": "DAQ",
+      "title": "Data Analytics Foundations",
+      "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300",
+      "objectives": [
+        "Data literacy, data types and quality",
+        "Excel formulas, tables and pivot tables",
+        "SQL filtering, grouping, joins and aggregation",
+        "Power Query and data preparation",
+        "Power BI modelling, DAX and visualisation",
+        "Governance, privacy and report security"
+      ]
+    },
+    {
+      "track": "AIA",
+      "subject": "AIQ",
+      "title": "AI & Workplace Automation",
+      "source": "https://www.nist.gov/itl/ai-risk-management-framework",
+      "objectives": [
+        "AI, machine learning and generative AI fundamentals",
+        "Prompt design and iterative refinement",
+        "Hallucinations, bias and output verification",
+        "Responsible AI, privacy and intellectual property",
+        "Workflow automation and human review",
+        "Workplace use cases and productivity measurement"
+      ]
+    },
+    {
+      "track": "CON",
+      "subject": "CONQ",
+      "title": "Construction & Site Management Essentials",
+      "source": "https://www.citb.co.uk/",
+      "objectives": [
+        "Site roles, responsibilities and communication",
+        "Risk assessments and method statements",
+        "Working at height, lifting and temporary works awareness",
+        "PPE, welfare, housekeeping and incident reporting",
+        "Scheduling, quality and subcontractor coordination",
+        "Environmental controls, permits and site records"
+      ]
+    },
+    {
+      "track": "BKP",
+      "subject": "BKQ",
+      "title": "Bookkeeping & Payroll Foundations",
+      "source": "https://www.aat.org.uk/qualifications-and-courses/bookkeeping",
+      "objectives": [
+        "Double-entry bookkeeping and ledgers",
+        "Invoices, credit notes and VAT basics",
+        "Bank reconciliation and trial balances",
+        "Gross pay, deductions and net pay",
+        "PAYE, National Insurance and pensions",
+        "Cash flow, reporting and financial controls"
+      ]
+    }
+  ]
+}

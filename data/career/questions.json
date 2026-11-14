@@ -1,0 +1,852 @@
+[
+  {
+    "track": "SEC",
+    "subject": "SECQ",
+    "objective": "1",
+    "topic": "Security principles",
+    "body": "Which security principle ensures authorised users can access information when needed?",
+    "options": [
+      "Availability",
+      "Confidentiality",
+      "Obfuscation",
+      "Non-repudiation"
+    ],
+    "answer": 0,
+    "explanation": "Availability means systems and information are accessible when required.",
+    "difficulty": 2,
+    "source": "https://www.comptia.org/certifications/security"
+  },
+  {
+    "track": "SEC",
+    "subject": "SECQ",
+    "objective": "1",
+    "topic": "Access control",
+    "body": "A staff member can view a record but cannot edit it. Which principle is demonstrated?",
+    "options": [
+      "Least privilege",
+      "Open access",
+      "Default allow",
+      "Shared ownership"
+    ],
+    "answer": 0,
+    "explanation": "Least privilege gives users only the permissions required for their duties.",
+    "difficulty": 2,
+    "source": "https://www.comptia.org/certifications/security"
+  },
+  {
+    "track": "SEC",
+    "subject": "SECQ",
+    "objective": "2",
+    "topic": "Phishing",
+    "body": "An email asks an employee to open an unexpected invoice link and enter a password. What is the likely threat?",
+    "options": [
+      "Phishing",
+      "Tailgating",
+      "SQL injection",
+      "Evil twin"
+    ],
+    "answer": 0,
+    "explanation": "Phishing uses deceptive messages to steal credentials or trigger unsafe actions.",
+    "difficulty": 2,
+    "source": "https://www.comptia.org/certifications/security"
+  },
+  {
+    "track": "SEC",
+    "subject": "SECQ",
+    "objective": "2",
+    "topic": "Malware",
+    "body": "Which malware commonly encrypts files and demands payment?",
+    "options": [
+      "Ransomware",
+      "Adware",
+      "Rootkit",
+      "Cookie"
+    ],
+    "answer": 0,
+    "explanation": "Ransomware blocks access to data, commonly by encrypting it, and demands payment.",
+    "difficulty": 2,
+    "source": "https://www.comptia.org/certifications/security"
+  },
+  {
+    "track": "SEC",
+    "subject": "SECQ",
+    "objective": "3",
+    "topic": "Authentication",
+    "body": "Which control requires another independent proof beyond a password?",
+    "options": [
+      "Multi-factor authentication",
+      "Password hint",
+      "Shared account",
+      "Single sign-on alone"
+    ],
+    "answer": 0,
+    "explanation": "MFA combines distinct factor types, such as a password and an authenticator approval.",
+    "difficulty": 2,
+    "source": "https://www.comptia.org/certifications/security"
+  },
+  {
+    "track": "SEC",
+    "subject": "SECQ",
+    "objective": "3",
+    "topic": "Firewalls",
+    "body": "What is the primary purpose of a network firewall?",
+    "options": [
+      "Filter traffic using security rules",
+      "Increase screen resolution",
+      "Replace all backups",
+      "Compress files"
+    ],
+    "answer": 0,
+    "explanation": "A firewall allows or blocks network traffic according to configured rules.",
+    "difficulty": 2,
+    "source": "https://www.comptia.org/certifications/security"
+  },
+  {
+    "track": "SEC",
+    "subject": "SECQ",
+    "objective": "4",
+    "topic": "Segmentation",
+    "body": "Why separate guest Wi-Fi from an internal business network?",
+    "options": [
+      "Limit access and lateral movement",
+      "Remove the need for updates",
+      "Guarantee anonymity",
+      "Make passwords unnecessary"
+    ],
+    "answer": 0,
+    "explanation": "Network segmentation limits access between different systems and user groups.",
+    "difficulty": 2,
+    "source": "https://www.comptia.org/certifications/security"
+  },
+  {
+    "track": "SEC",
+    "subject": "SECQ",
+    "objective": "4",
+    "topic": "Risk",
+    "body": "A basic risk assessment commonly considers which two factors?",
+    "options": [
+      "Likelihood and impact",
+      "Colour and age",
+      "Speed and cost only",
+      "Location and brand"
+    ],
+    "answer": 0,
+    "explanation": "Risk is commonly evaluated by considering likelihood and potential impact.",
+    "difficulty": 2,
+    "source": "https://www.comptia.org/certifications/security"
+  },
+  {
+    "track": "SEC",
+    "subject": "SECQ",
+    "objective": "5",
+    "topic": "Incident response",
+    "body": "A user reports suspected malware. What should an employee generally do first?",
+    "options": [
+      "Follow the incident procedure and report promptly",
+      "Delete all logs",
+      "Share the file with colleagues",
+      "Pay a ransom"
+    ],
+    "answer": 0,
+    "explanation": "Prompt reporting and authorised containment help preserve evidence and limit spread.",
+    "difficulty": 2,
+    "source": "https://www.comptia.org/certifications/security"
+  },
+  {
+    "track": "SEC",
+    "subject": "SECQ",
+    "objective": "5",
+    "topic": "Logging",
+    "body": "Why are system logs valuable during an investigation?",
+    "options": [
+      "They help reconstruct events and timelines",
+      "They prevent every attack",
+      "They replace backups",
+      "They guarantee attribution"
+    ],
+    "answer": 0,
+    "explanation": "Logs record system activity and support detection, investigation and response.",
+    "difficulty": 2,
+    "source": "https://www.comptia.org/certifications/security"
+  },
+  {
+    "track": "DAT",
+    "subject": "DAQ",
+    "objective": "1",
+    "topic": "Data quality",
+    "body": "A customer table contains the same customer twice. Which issue is present?",
+    "options": [
+      "Duplicate records",
+      "Encryption",
+      "Data lineage",
+      "Visual clutter"
+    ],
+    "answer": 0,
+    "explanation": "Duplicate records can distort counts, totals and analysis.",
+    "difficulty": 2,
+    "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300"
+  },
+  {
+    "track": "DAT",
+    "subject": "DAQ",
+    "objective": "1",
+    "topic": "Excel",
+    "body": "Which Excel function adds values that meet a specified condition?",
+    "options": [
+      "SUMIF",
+      "LEFT",
+      "TODAY",
+      "CONCAT"
+    ],
+    "answer": 0,
+    "explanation": "SUMIF adds values in a range when corresponding cells meet a criterion.",
+    "difficulty": 2,
+    "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300"
+  },
+  {
+    "track": "DAT",
+    "subject": "DAQ",
+    "objective": "2",
+    "topic": "Excel tables",
+    "body": "What is a benefit of converting a range into an Excel Table?",
+    "options": [
+      "Structured references and automatic expansion",
+      "Automatic correction of all formulas",
+      "Guaranteed deduplication",
+      "Automatic encryption"
+    ],
+    "answer": 0,
+    "explanation": "Excel Tables expand with new rows and provide structured references.",
+    "difficulty": 2,
+    "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300"
+  },
+  {
+    "track": "DAT",
+    "subject": "DAQ",
+    "objective": "2",
+    "topic": "SQL",
+    "body": "Which SQL clause filters rows before grouping?",
+    "options": [
+      "WHERE",
+      "HAVING",
+      "ORDER BY",
+      "GROUP BY"
+    ],
+    "answer": 0,
+    "explanation": "WHERE filters individual rows before aggregation; HAVING filters groups.",
+    "difficulty": 2,
+    "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300"
+  },
+  {
+    "track": "DAT",
+    "subject": "DAQ",
+    "objective": "3",
+    "topic": "SQL joins",
+    "body": "Which SQL operation combines related rows from two tables?",
+    "options": [
+      "JOIN",
+      "DROP",
+      "TRUNCATE",
+      "COMMIT"
+    ],
+    "answer": 0,
+    "explanation": "JOIN combines rows using a relationship or join condition.",
+    "difficulty": 2,
+    "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300"
+  },
+  {
+    "track": "DAT",
+    "subject": "DAQ",
+    "objective": "3",
+    "topic": "Power Query",
+    "body": "What is Power Query mainly used for in Power BI?",
+    "options": [
+      "Connecting to, cleaning and transforming data",
+      "Managing passwords",
+      "Designing cables",
+      "Writing CSS"
+    ],
+    "answer": 0,
+    "explanation": "Power Query connects to data sources and transforms data before loading.",
+    "difficulty": 2,
+    "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300"
+  },
+  {
+    "track": "DAT",
+    "subject": "DAQ",
+    "objective": "4",
+    "topic": "Data modelling",
+    "body": "Why use a star schema for analytics?",
+    "options": [
+      "Separate fact data from descriptive dimensions",
+      "Put all values in one text field",
+      "Prevent measures",
+      "Remove all relationships"
+    ],
+    "answer": 0,
+    "explanation": "Fact and dimension tables support clear analytical relationships.",
+    "difficulty": 2,
+    "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300"
+  },
+  {
+    "track": "DAT",
+    "subject": "DAQ",
+    "objective": "4",
+    "topic": "DAX",
+    "body": "What is a Power BI measure designed to do?",
+    "options": [
+      "Calculate dynamically in filter context",
+      "Store a screenshot",
+      "Create a server",
+      "Replace a database"
+    ],
+    "answer": 0,
+    "explanation": "Measures calculate results dynamically according to report context and filters.",
+    "difficulty": 2,
+    "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300"
+  },
+  {
+    "track": "DAT",
+    "subject": "DAQ",
+    "objective": "5",
+    "topic": "Visualisation",
+    "body": "Which chart is usually suitable for showing monthly trends?",
+    "options": [
+      "Line chart",
+      "Pie chart with many slices",
+      "Word cloud",
+      "Single gauge"
+    ],
+    "answer": 0,
+    "explanation": "A line chart shows changes over an ordered time axis.",
+    "difficulty": 2,
+    "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300"
+  },
+  {
+    "track": "DAT",
+    "subject": "DAQ",
+    "objective": "5",
+    "topic": "Governance",
+    "body": "What should determine access to a report containing personal data?",
+    "options": [
+      "Business need, classification and approved permissions",
+      "Whether the URL is guessable",
+      "Author preference alone",
+      "No controls for internal reports"
+    ],
+    "answer": 0,
+    "explanation": "Access should follow policy, data protection requirements and least privilege.",
+    "difficulty": 2,
+    "source": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300"
+  },
+  {
+    "track": "AIA",
+    "subject": "AIQ",
+    "objective": "1",
+    "topic": "Generative AI",
+    "body": "Which statement best describes generative AI?",
+    "options": [
+      "Systems that generate content from patterns learned in data",
+      "A spreadsheet storing numbers",
+      "A firewall rule",
+      "A backup format"
+    ],
+    "answer": 0,
+    "explanation": "Generative AI can create text, images, code and other content from learned patterns.",
+    "difficulty": 2,
+    "source": "https://www.nist.gov/itl/ai-risk-management-framework"
+  },
+  {
+    "track": "AIA",
+    "subject": "AIQ",
+    "objective": "1",
+    "topic": "Hallucinations",
+    "body": "What is an AI hallucination?",
+    "options": [
+      "A plausible-sounding but false or unsupported output",
+      "A verified citation",
+      "A software update",
+      "A database result"
+    ],
+    "answer": 0,
+    "explanation": "A hallucination is inaccurate or fabricated information presented as if true.",
+    "difficulty": 2,
+    "source": "https://www.nist.gov/itl/ai-risk-management-framework"
+  },
+  {
+    "track": "AIA",
+    "subject": "AIQ",
+    "objective": "2",
+    "topic": "Prompt design",
+    "body": "Which prompt is most likely to produce a useful structured response?",
+    "options": [
+      "State the task, context, constraints and output format",
+      "Say only 'do everything'",
+      "Give no context and demand certainty",
+      "Ask it to invent sources"
+    ],
+    "answer": 0,
+    "explanation": "Clear tasks, context, constraints and output requirements improve relevance.",
+    "difficulty": 2,
+    "source": "https://www.nist.gov/itl/ai-risk-management-framework"
+  },
+  {
+    "track": "AIA",
+    "subject": "AIQ",
+    "objective": "2",
+    "topic": "Refinement",
+    "body": "An AI response is too broad. What is a sensible next step?",
+    "options": [
+      "Add specific context and constraints, then review again",
+      "Assume it is definitive",
+      "Remove all instructions",
+      "Ask it to fabricate references"
+    ],
+    "answer": 0,
+    "explanation": "Iterative prompting can improve focus, but outputs still need verification.",
+    "difficulty": 2,
+    "source": "https://www.nist.gov/itl/ai-risk-management-framework"
+  },
+  {
+    "track": "AIA",
+    "subject": "AIQ",
+    "objective": "3",
+    "topic": "Verification",
+    "body": "An AI tool gives an unsourced statistic. What should you do before using it?",
+    "options": [
+      "Verify against a reliable original source",
+      "Repeat it because it sounds precise",
+      "Attribute it to an expert without checking",
+      "Change the number slightly"
+    ],
+    "answer": 0,
+    "explanation": "Important facts should be checked against traceable, reliable sources.",
+    "difficulty": 2,
+    "source": "https://www.nist.gov/itl/ai-risk-management-framework"
+  },
+  {
+    "track": "AIA",
+    "subject": "AIQ",
+    "objective": "3",
+    "topic": "Bias",
+    "body": "Which approach helps identify biased AI-assisted decisions?",
+    "options": [
+      "Test outcomes on representative cases and retain human oversight",
+      "Assume outputs are neutral",
+      "Hide decision criteria",
+      "Use one example only"
+    ],
+    "answer": 0,
+    "explanation": "Representative testing, transparency and human review help identify bias.",
+    "difficulty": 2,
+    "source": "https://www.nist.gov/itl/ai-risk-management-framework"
+  },
+  {
+    "track": "AIA",
+    "subject": "AIQ",
+    "objective": "4",
+    "topic": "Privacy",
+    "body": "Which information should not be pasted into an unapproved public AI tool?",
+    "options": [
+      "Confidential customer records and personal data",
+      "A public product description",
+      "A published address",
+      "A generic writing prompt"
+    ],
+    "answer": 0,
+    "explanation": "Sensitive personal or confidential information should only be used with approved tools and controls.",
+    "difficulty": 2,
+    "source": "https://www.nist.gov/itl/ai-risk-management-framework"
+  },
+  {
+    "track": "AIA",
+    "subject": "AIQ",
+    "objective": "4",
+    "topic": "IP",
+    "body": "Before publishing AI-generated material, what should a business do?",
+    "options": [
+      "Review accuracy, rights, confidentiality and policy",
+      "Assume it is copyright-free",
+      "Remove attribution automatically",
+      "Publish without review"
+    ],
+    "answer": 0,
+    "explanation": "Publication requires checks for accuracy, rights, privacy and organisational rules.",
+    "difficulty": 2,
+    "source": "https://www.nist.gov/itl/ai-risk-management-framework"
+  },
+  {
+    "track": "AIA",
+    "subject": "AIQ",
+    "objective": "5",
+    "topic": "Automation",
+    "body": "Which is a sensible low-risk automation candidate?",
+    "options": [
+      "Move approved form data into a validated tracking sheet",
+      "Automatically dismiss safety incidents",
+      "Make unsupervised hiring decisions",
+      "Send payments without approval"
+    ],
+    "answer": 0,
+    "explanation": "Repetitive rules-based tasks with validation and human oversight are good candidates.",
+    "difficulty": 2,
+    "source": "https://www.nist.gov/itl/ai-risk-management-framework"
+  },
+  {
+    "track": "AIA",
+    "subject": "AIQ",
+    "objective": "5",
+    "topic": "Measurement",
+    "body": "Which measures help evaluate an automation?",
+    "options": [
+      "Time saved, error rate and user impact",
+      "Prompt count only",
+      "Dashboard colour",
+      "Number of AI features"
+    ],
+    "answer": 0,
+    "explanation": "Evaluation should consider efficiency, quality, errors and impact.",
+    "difficulty": 2,
+    "source": "https://www.nist.gov/itl/ai-risk-management-framework"
+  },
+  {
+    "track": "CON",
+    "subject": "CONQ",
+    "objective": "1",
+    "topic": "Reporting",
+    "body": "Who should a worker tell about an unsafe site condition?",
+    "options": [
+      "Their supervisor or designated site contact",
+      "A visitor with no site role",
+      "An unrelated delivery driver",
+      "Nobody if work is nearly finished"
+    ],
+    "answer": 0,
+    "explanation": "Unsafe conditions should be reported through established site arrangements.",
+    "difficulty": 2,
+    "source": "https://www.citb.co.uk/"
+  },
+  {
+    "track": "CON",
+    "subject": "CONQ",
+    "objective": "1",
+    "topic": "Risk assessment",
+    "body": "What is the purpose of a risk assessment before a task?",
+    "options": [
+      "Identify hazards, evaluate risks and choose controls",
+      "Guarantee accidents are impossible",
+      "Replace induction",
+      "Record material costs only"
+    ],
+    "answer": 0,
+    "explanation": "Risk assessment identifies hazards and selects proportionate controls.",
+    "difficulty": 2,
+    "source": "https://www.citb.co.uk/"
+  },
+  {
+    "track": "CON",
+    "subject": "CONQ",
+    "objective": "2",
+    "topic": "Method statement",
+    "body": "What does a method statement generally describe?",
+    "options": [
+      "How a task will be carried out safely and in sequence",
+      "Annual leave",
+      "Supplier marketing",
+      "Building valuation"
+    ],
+    "answer": 0,
+    "explanation": "A method statement describes the safe system and sequence for a task.",
+    "difficulty": 2,
+    "source": "https://www.citb.co.uk/"
+  },
+  {
+    "track": "CON",
+    "subject": "CONQ",
+    "objective": "2",
+    "topic": "Working at height",
+    "body": "A ladder is damaged and unstable. What should happen?",
+    "options": [
+      "Do not use it; report it and arrange suitable equipment",
+      "Ask someone to hold it",
+      "Use it for heavy loads",
+      "Hide damage with tape"
+    ],
+    "answer": 0,
+    "explanation": "Damaged access equipment should be removed from use and reported.",
+    "difficulty": 2,
+    "source": "https://www.citb.co.uk/"
+  },
+  {
+    "track": "CON",
+    "subject": "CONQ",
+    "objective": "3",
+    "topic": "Lifting",
+    "body": "What should be checked before a planned lifting operation?",
+    "options": [
+      "Plan, equipment, load and exclusion zone",
+      "Crane colour only",
+      "Site office opening hours",
+      "Last week's forecast"
+    ],
+    "answer": 0,
+    "explanation": "Lifting requires suitable planning, competent people, equipment and controlled areas.",
+    "difficulty": 2,
+    "source": "https://www.citb.co.uk/"
+  },
+  {
+    "track": "CON",
+    "subject": "CONQ",
+    "objective": "3",
+    "topic": "PPE",
+    "body": "When should PPE be used?",
+    "options": [
+      "As required by risk assessment and site rules alongside other controls",
+      "As a substitute for every other measure",
+      "Only when visitors attend",
+      "Only after an accident"
+    ],
+    "answer": 0,
+    "explanation": "PPE is important but should not replace higher-level controls where practicable.",
+    "difficulty": 2,
+    "source": "https://www.citb.co.uk/"
+  },
+  {
+    "track": "CON",
+    "subject": "CONQ",
+    "objective": "4",
+    "topic": "Near misses",
+    "body": "Why report a near miss when nobody was injured?",
+    "options": [
+      "It can reveal hazards and prevent future harm",
+      "It is irrelevant",
+      "It proves misconduct",
+      "It replaces inspections"
+    ],
+    "answer": 0,
+    "explanation": "Near-miss reporting helps identify weaknesses before injury occurs.",
+    "difficulty": 2,
+    "source": "https://www.citb.co.uk/"
+  },
+  {
+    "track": "CON",
+    "subject": "CONQ",
+    "objective": "4",
+    "topic": "Quality",
+    "body": "Delivered material does not match the specification. What should the team do?",
+    "options": [
+      "Hold it as appropriate and raise the discrepancy",
+      "Install it immediately",
+      "Change the specification without approval",
+      "Discard the delivery note"
+    ],
+    "answer": 0,
+    "explanation": "Non-conforming materials should be checked and resolved through quality processes.",
+    "difficulty": 2,
+    "source": "https://www.citb.co.uk/"
+  },
+  {
+    "track": "CON",
+    "subject": "CONQ",
+    "objective": "5",
+    "topic": "Coordination",
+    "body": "Why hold daily coordination briefings on a busy site?",
+    "options": [
+      "Communicate interfaces, hazards, changes and planned work",
+      "Remove permit requirements",
+      "Guarantee schedule performance",
+      "Replace inductions"
+    ],
+    "answer": 0,
+    "explanation": "Briefings help teams coordinate work and understand changing conditions.",
+    "difficulty": 2,
+    "source": "https://www.citb.co.uk/"
+  },
+  {
+    "track": "CON",
+    "subject": "CONQ",
+    "objective": "5",
+    "topic": "Waste",
+    "body": "What is a suitable approach to construction waste?",
+    "options": [
+      "Segregate and store it for reuse, recycling or authorised disposal",
+      "Mix all waste in walkways",
+      "Burn it without approval",
+      "Pour liquids into drains"
+    ],
+    "answer": 0,
+    "explanation": "Waste must be managed safely and in line with environmental requirements.",
+    "difficulty": 2,
+    "source": "https://www.citb.co.uk/"
+  },
+  {
+    "track": "BKP",
+    "subject": "BKQ",
+    "objective": "1",
+    "topic": "Double entry",
+    "body": "A business buys office supplies for cash. Which entry is appropriate?",
+    "options": [
+      "Debit supplies expense; credit cash",
+      "Debit cash; credit sales",
+      "Debit capital; credit loan",
+      "Debit VAT; credit wages"
+    ],
+    "answer": 0,
+    "explanation": "The expense increases with a debit and cash decreases with a credit.",
+    "difficulty": 2,
+    "source": "https://www.aat.org.uk/qualifications-and-courses/bookkeeping"
+  },
+  {
+    "track": "BKP",
+    "subject": "BKQ",
+    "objective": "1",
+    "topic": "Nominal ledger",
+    "body": "What is the purpose of a nominal ledger?",
+    "options": [
+      "Record transactions by account category",
+      "Store employee passwords",
+      "List customer phone numbers only",
+      "Replace invoices"
+    ],
+    "answer": 0,
+    "explanation": "The nominal ledger groups transactions into accounts such as sales, rent and wages.",
+    "difficulty": 2,
+    "source": "https://www.aat.org.uk/qualifications-and-courses/bookkeeping"
+  },
+  {
+    "track": "BKP",
+    "subject": "BKQ",
+    "objective": "2",
+    "topic": "Credit notes",
+    "body": "What does a credit note usually do?",
+    "options": [
+      "Reduces or reverses an amount previously invoiced",
+      "Creates a bank account",
+      "Confirms holiday",
+      "Replaces a payslip"
+    ],
+    "answer": 0,
+    "explanation": "A credit note records a reduction or reversal against an invoice.",
+    "difficulty": 2,
+    "source": "https://www.aat.org.uk/qualifications-and-courses/bookkeeping"
+  },
+  {
+    "track": "BKP",
+    "subject": "BKQ",
+    "objective": "2",
+    "topic": "VAT",
+    "body": "What should be checked before charging VAT?",
+    "options": [
+      "Registration status and applicable VAT treatment",
+      "Customer payment preference",
+      "Invoice colour",
+      "Whether it is printed"
+    ],
+    "answer": 0,
+    "explanation": "VAT treatment depends on registration, supply type, place and current rules.",
+    "difficulty": 2,
+    "source": "https://www.aat.org.uk/qualifications-and-courses/bookkeeping"
+  },
+  {
+    "track": "BKP",
+    "subject": "BKQ",
+    "objective": "3",
+    "topic": "Reconciliation",
+    "body": "What is the purpose of a bank reconciliation?",
+    "options": [
+      "Compare accounting records with the bank statement and explain differences",
+      "Calculate holiday entitlement",
+      "Create a sales forecast only",
+      "Replace the cash book"
+    ],
+    "answer": 0,
+    "explanation": "Reconciliation identifies timing differences and errors.",
+    "difficulty": 2,
+    "source": "https://www.aat.org.uk/qualifications-and-courses/bookkeeping"
+  },
+  {
+    "track": "BKP",
+    "subject": "BKQ",
+    "objective": "3",
+    "topic": "Trial balance",
+    "body": "What does an equal debit and credit total prove?",
+    "options": [
+      "The ledger is arithmetically balanced, but errors may remain",
+      "Every transaction is correct",
+      "No fraud occurred",
+      "All accounts are profitable"
+    ],
+    "answer": 0,
+    "explanation": "A balanced trial balance cannot detect every type of bookkeeping error.",
+    "difficulty": 2,
+    "source": "https://www.aat.org.uk/qualifications-and-courses/bookkeeping"
+  },
+  {
+    "track": "BKP",
+    "subject": "BKQ",
+    "objective": "4",
+    "topic": "Net pay",
+    "body": "How is net pay generally calculated?",
+    "options": [
+      "Gross pay less employee deductions",
+      "Gross pay plus deductions",
+      "Taxable pay plus employer pension",
+      "Hours multiplied by VAT"
+    ],
+    "answer": 0,
+    "explanation": "Net pay is the amount payable after employee deductions are taken from gross pay.",
+    "difficulty": 2,
+    "source": "https://www.aat.org.uk/qualifications-and-courses/bookkeeping"
+  },
+  {
+    "track": "BKP",
+    "subject": "BKQ",
+    "objective": "4",
+    "topic": "PAYE",
+    "body": "Which item is normally an employee deduction?",
+    "options": [
+      "Income tax withheld through PAYE",
+      "Employer National Insurance",
+      "Employer pension contribution",
+      "Employer levy"
+    ],
+    "answer": 0,
+    "explanation": "PAYE income tax is withheld from employee pay; employer contributions are additional costs.",
+    "difficulty": 2,
+    "source": "https://www.aat.org.uk/qualifications-and-courses/bookkeeping"
+  },
+  {
+    "track": "BKP",
+    "subject": "BKQ",
+    "objective": "5",
+    "topic": "Pensions",
+    "body": "What is an employer's responsibility for workplace pensions?",
+    "options": [
+      "Meet applicable automatic-enrolment and contribution duties",
+      "Deduct any amount without rules",
+      "Pay to any account chosen by payroll",
+      "Ignore opt-out notices"
+    ],
+    "answer": 0,
+    "explanation": "Employers must follow applicable automatic-enrolment, contribution and record-keeping duties.",
+    "difficulty": 2,
+    "source": "https://www.aat.org.uk/qualifications-and-courses/bookkeeping"
+  },
+  {
+    "track": "BKP",
+    "subject": "BKQ",
+    "objective": "5",
+    "topic": "Controls",
+    "body": "Why separate supplier creation from payment approval where possible?",
+    "options": [
+      "Reduce error and fraud risk through segregation of duties",
+      "Make reconciliation impossible",
+      "Remove the audit trail",
+      "Avoid invoice checks"
+    ],
+    "answer": 0,
+    "explanation": "Segregation of duties reduces the risk that one person can create and pay fraudulent transactions.",
+    "difficulty": 2,
+    "source": "https://www.aat.org.uk/qualifications-and-courses/bookkeeping"
+  }
+]

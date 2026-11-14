@@ -3,8 +3,8 @@ import { readFileSync } from "node:fs";
 import { createClient } from "@supabase/supabase-js";
 
 type Row = {
-  track: "ITF" | "CCST" | "AWS" | "AZF" | "PYT";
-  subject: "ITF" | "CCN" | "AWC" | "AZF" | "PCE";
+  track: "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP";
+  subject: "ITF" | "CCN" | "AWC" | "AZF" | "PCE" | "SECQ" | "DAQ" | "AIQ" | "CONQ" | "BKQ";
   objective: string; topic: string; body: string; options: string[];
   answer: number; explanation: string; difficulty?: number; source: string;
 };
@@ -16,7 +16,10 @@ const key = process.env.SUPABASE_SERVICE_ROLE_KEY?.trim();
 if (!url || !key || /YOUR[-_ ]|PLACEHOLDER|CHANGE[-_ ]ME|^xxxx/i.test(key)) {
   throw new Error("Missing SUPABASE_URL or SUPABASE_SERVICE_ROLE_KEY. Keep credentials in your private .env.import.local.");
 }
-const mapping: Record<string, string> = { ITF: "ITF", CCST: "CCN", AWS: "AWC", AZF: "AZF", PYT: "PCE" };
+const mapping: Record<string, string> = {
+  ITF: "ITF", CCST: "CCN", AWS: "AWC", AZF: "AZF", PYT: "PCE",
+  SEC: "SECQ", DAT: "DAQ", AIA: "AIQ", CON: "CONQ", BKP: "BKQ"
+};
 const rows = JSON.parse(readFileSync(file, "utf8")) as Row[];
 if (!Array.isArray(rows) || !rows.length) throw new Error("Question file must be a non-empty JSON array.");
 const seen = new Set<string>();
