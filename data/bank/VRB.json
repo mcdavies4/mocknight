@@ -232,5 +232,4573 @@
   "answer": 1,
   "explanation": "They were unchanged.",
   "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Kestrel Software, founded in 1996 and based in Port Avery, makes accounting software. It employs 170 people. In 2019 its revenue rose by 13%, helped by 7 new branches. The company plans to expand into East Africa next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Kestrel Software opened more than 6 new branches in 2019.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It opened 7.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Fenwick Solar, founded in 1995 and based in Port Avery, makes solar panels. It employs 290 people. In 2018 its revenue rose by 17%, helped by 5 new branches. The company plans to expand into East Africa next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Fenwick Solar opened more than 4 new branches in 2018.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It opened 5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Tidewater Paints, founded in 1983 and based in Millbrook, makes house paint. It employs 840 people. In 2021 its revenue rose by 10%, helped by 4 new branches. The company plans to expand into East Africa next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Tidewater Paints is based in Westmere.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "The passage says it is based in Millbrook.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Marlow Ceramics, founded in 1990 and based in Calderbank, makes kitchen tiles. It employs 720 people. In 2021 its revenue rose by 8%, helped by 9 new branches. The company plans to expand into the Gulf next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Marlow Ceramics was founded before 1991.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It was founded in 1990.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Fenwick Solar, founded in 1976 and based in Ravensholt, makes solar panels. It employs 820 people. In 2018 its revenue rose by 27%, helped by 8 new branches. The company plans to expand into the Gulf next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Fenwick Solar opened more than 7 new branches in 2018.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It opened 8.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Fenwick Solar, founded in 1988 and based in Harrowby, makes solar panels. It employs 700 people. In 2019 its revenue rose by 26%, helped by 3 new branches. The company plans to expand into the Gulf next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Fenwick Solar employs fewer than 690 people.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "It employs 700.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Novena Telecoms, founded in 1977 and based in Millbrook, makes mobile data plans. It employs 840 people. In 2018 its revenue rose by 22%, helped by 5 new branches. The company plans to expand into the north-east next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The planned expansion into the north-east may not happen on time.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "The chief executive warned that rising costs could delay it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Tidewater Paints, founded in 2003 and based in Port Avery, makes house paint. It employs 570 people. In 2021 its revenue rose by 21%, helped by 6 new branches. The company plans to expand into the Gulf next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The chief executive founded Tidewater Paints.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who founded the company.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Brightwell Textiles, founded in 2003 and based in Port Avery, makes school uniforms. It employs 720 people. In 2022 its revenue rose by 13%, helped by 7 new branches. The company plans to expand into East Africa next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Brightwell Textiles opened more than 6 new branches in 2022.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It opened 7.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Larkspur Foods, founded in 1982 and based in Stanwick, makes frozen meals. It employs 530 people. In 2018 its revenue rose by 24%, helped by 2 new branches. The company plans to expand into two neighbouring countries next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Larkspur Foods is the largest maker of frozen meals in the country.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "The passage says nothing about its market position.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Ashgrove Bakeries, founded in 1981 and based in Westmere, makes bread. It employs 640 people. In 2019 its revenue rose by 9%, helped by 8 new branches. The company plans to expand into the coastal provinces next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Ashgrove Bakeries is the largest maker of bread in the country.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "The passage says nothing about its market position.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Marlow Ceramics, founded in 2001 and based in Calderbank, makes kitchen tiles. It employs 610 people. In 2024 its revenue rose by 22%, helped by 2 new branches. The company plans to expand into the Gulf next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Marlow Ceramics was founded before 2005.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It was founded in 2001.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Larkspur Foods, founded in 1982 and based in Millbrook, makes frozen meals. It employs 380 people. In 2020 its revenue rose by 20%, helped by 2 new branches. The company plans to expand into southern Europe next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Larkspur Foods' revenue fell in 2020.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "Revenue rose by 20%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Okoro Logistics, founded in 1982 and based in Calderbank, makes delivery vans. It employs 840 people. In 2020 its revenue rose by 11%, helped by 5 new branches. The company plans to expand into the coastal provinces next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Okoro Logistics opened more than 4 new branches in 2020.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It opened 5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Brightwell Textiles, founded in 1976 and based in Harrowby, makes school uniforms. It employs 290 people. In 2021 its revenue rose by 26%, helped by 9 new branches. The company plans to expand into the north-east next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The chief executive founded Brightwell Textiles.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who founded the company.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Tidewater Paints, founded in 1981 and based in Stanwick, makes house paint. It employs 120 people. In 2022 its revenue rose by 25%, helped by 2 new branches. The company plans to expand into East Africa next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Tidewater Paints opened more than 1 new branches in 2022.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It opened 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Brightwell Textiles, founded in 1994 and based in Ravensholt, makes school uniforms. It employs 550 people. In 2020 its revenue rose by 8%, helped by 7 new branches. The company plans to expand into the north-east next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Most of Brightwell Textiles' staff work in Ravensholt.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We know where it is based, not where its staff work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Novena Telecoms, founded in 1983 and based in Duncliffe, makes mobile data plans. It employs 190 people. In 2021 its revenue rose by 20%, helped by 3 new branches. The company plans to expand into southern Europe next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Novena Telecoms opened more than 2 new branches in 2021.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It opened 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Amberline Pharmaceuticals, founded in 2003 and based in Harrowby, makes generic medicines. It employs 820 people. In 2021 its revenue rose by 23%, helped by 5 new branches. The company plans to expand into the Gulf next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Most of Amberline Pharmaceuticals' staff work in Harrowby.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We know where it is based, not where its staff work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Brightwell Textiles, founded in 2012 and based in Stanwick, makes school uniforms. It employs 440 people. In 2020 its revenue rose by 21%, helped by 7 new branches. The company plans to expand into East Africa next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Brightwell Textiles' revenue fell in 2020.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "Revenue rose by 21%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Amberline Pharmaceuticals, founded in 2002 and based in Duncliffe, makes generic medicines. It employs 510 people. In 2022 its revenue rose by 25%, helped by 7 new branches. The company plans to expand into the Gulf next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Amberline Pharmaceuticals' profits rose in 2022.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Only revenue is mentioned; revenue is not profit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Fenwick Solar, founded in 1994 and based in Port Avery, makes solar panels. It employs 230 people. In 2021 its revenue rose by 12%, helped by 2 new branches. The company plans to expand into the Gulf next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Fenwick Solar is the largest maker of solar panels in the country.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "The passage says nothing about its market position.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Larkspur Foods, founded in 1986 and based in Port Avery, makes frozen meals. It employs 610 people. In 2022 its revenue rose by 27%, helped by 2 new branches. The company plans to expand into southern Europe next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The chief executive founded Larkspur Foods.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who founded the company.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Kestrel Software, founded in 1988 and based in Millbrook, makes accounting software. It employs 440 people. In 2021 its revenue rose by 11%, helped by 9 new branches. The company plans to expand into the north-east next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Kestrel Software's profits rose in 2021.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Only revenue is mentioned; revenue is not profit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Fenwick Solar, founded in 1988 and based in Calderbank, makes solar panels. It employs 630 people. In 2023 its revenue rose by 19%, helped by 2 new branches. The company plans to expand into the coastal provinces next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The chief executive founded Fenwick Solar.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who founded the company.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Kestrel Software, founded in 1995 and based in Port Avery, makes accounting software. It employs 150 people. In 2018 its revenue rose by 15%, helped by 6 new branches. The company plans to expand into the north-east next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The planned expansion into the north-east may not happen on time.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "The chief executive warned that rising costs could delay it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Tidewater Paints, founded in 1981 and based in Elmstead, makes house paint. It employs 750 people. In 2019 its revenue rose by 5%, helped by 7 new branches. The company plans to expand into two neighbouring countries next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The chief executive founded Tidewater Paints.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who founded the company.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Amberline Pharmaceuticals, founded in 1996 and based in Westmere, makes generic medicines. It employs 390 people. In 2019 its revenue rose by 22%, helped by 5 new branches. The company plans to expand into southern Europe next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Amberline Pharmaceuticals opened more than 4 new branches in 2019.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It opened 5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Tidewater Paints, founded in 2007 and based in Ravensholt, makes house paint. It employs 570 people. In 2023 its revenue rose by 10%, helped by 2 new branches. The company plans to expand into East Africa next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Tidewater Paints is based in Kinross Vale.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "The passage says it is based in Ravensholt.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Tidewater Paints, founded in 1991 and based in Westmere, makes house paint. It employs 820 people. In 2023 its revenue rose by 22%, helped by 3 new branches. The company plans to expand into southern Europe next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Tidewater Paints' revenue fell in 2023.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "Revenue rose by 22%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Amberline Pharmaceuticals, founded in 1999 and based in Elmstead, makes generic medicines. It employs 850 people. In 2018 its revenue rose by 8%, helped by 3 new branches. The company plans to expand into the coastal provinces next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Amberline Pharmaceuticals' profits rose in 2018.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Only revenue is mentioned; revenue is not profit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Marlow Ceramics, founded in 2006 and based in Stanwick, makes kitchen tiles. It employs 200 people. In 2019 its revenue rose by 27%, helped by 5 new branches. The company plans to expand into the Gulf next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Marlow Ceramics was founded before 2010.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It was founded in 2006.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Ashgrove Bakeries, founded in 1986 and based in Port Avery, makes bread. It employs 310 people. In 2019 its revenue rose by 10%, helped by 2 new branches. The company plans to expand into the Gulf next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The chief executive founded Ashgrove Bakeries.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who founded the company.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Ashgrove Bakeries, founded in 1977 and based in Port Avery, makes bread. It employs 710 people. In 2021 its revenue rose by 24%, helped by 6 new branches. The company plans to expand into southern Europe next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Ashgrove Bakeries opened more than 5 new branches in 2021.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It opened 6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Novena Telecoms, founded in 1988 and based in Port Avery, makes mobile data plans. It employs 440 people. In 2019 its revenue rose by 16%, helped by 7 new branches. The company plans to expand into the north-east next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Novena Telecoms' revenue fell in 2019.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "Revenue rose by 16%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Ashgrove Bakeries, founded in 2005 and based in Elmstead, makes bread. It employs 270 people. In 2018 its revenue rose by 9%, helped by 3 new branches. The company plans to expand into southern Europe next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The planned expansion into southern Europe may not happen on time.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "The chief executive warned that rising costs could delay it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Okoro Logistics, founded in 2002 and based in Harrowby, makes delivery vans. It employs 440 people. In 2019 its revenue rose by 17%, helped by 3 new branches. The company plans to expand into southern Europe next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Most of Okoro Logistics' staff work in Harrowby.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We know where it is based, not where its staff work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Novena Telecoms, founded in 1990 and based in Stanwick, makes mobile data plans. It employs 590 people. In 2019 its revenue rose by 13%, helped by 8 new branches. The company plans to expand into East Africa next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The chief executive founded Novena Telecoms.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who founded the company.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Kestrel Software, founded in 1984 and based in Stanwick, makes accounting software. It employs 690 people. In 2019 its revenue rose by 7%, helped by 2 new branches. The company plans to expand into two neighbouring countries next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The planned expansion into two neighbouring countries may not happen on time.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "The chief executive warned that rising costs could delay it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Ashgrove Bakeries, founded in 1994 and based in Millbrook, makes bread. It employs 470 people. In 2024 its revenue rose by 12%, helped by 7 new branches. The company plans to expand into southern Europe next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The planned expansion into southern Europe may not happen on time.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "The chief executive warned that rising costs could delay it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Novena Telecoms, founded in 1987 and based in Kinross Vale, makes mobile data plans. It employs 670 people. In 2021 its revenue rose by 15%, helped by 4 new branches. The company plans to expand into East Africa next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Novena Telecoms employs fewer than 660 people.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "It employs 670.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Fenwick Solar, founded in 1996 and based in Westmere, makes solar panels. It employs 520 people. In 2018 its revenue rose by 22%, helped by 7 new branches. The company plans to expand into the Gulf next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Fenwick Solar's revenue fell in 2018.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "Revenue rose by 22%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Amberline Pharmaceuticals, founded in 1997 and based in Duncliffe, makes generic medicines. It employs 330 people. In 2018 its revenue rose by 20%, helped by 4 new branches. The company plans to expand into two neighbouring countries next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Amberline Pharmaceuticals was founded before 1999.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It was founded in 1997.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Ashgrove Bakeries, founded in 1995 and based in Elmstead, makes bread. It employs 370 people. In 2021 its revenue rose by 6%, helped by 8 new branches. The company plans to expand into the coastal provinces next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Ashgrove Bakeries is the largest maker of bread in the country.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "The passage says nothing about its market position.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Kestrel Software, founded in 2000 and based in Calderbank, makes accounting software. It employs 320 people. In 2019 its revenue rose by 5%, helped by 7 new branches. The company plans to expand into the north-east next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Most of Kestrel Software's staff work in Calderbank.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We know where it is based, not where its staff work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Ashgrove Bakeries, founded in 1976 and based in Elmstead, makes bread. It employs 590 people. In 2019 its revenue rose by 5%, helped by 6 new branches. The company plans to expand into southern Europe next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Ashgrove Bakeries employs fewer than 580 people.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "It employs 590.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Kestrel Software, founded in 2006 and based in Stanwick, makes accounting software. It employs 740 people. In 2023 its revenue rose by 21%, helped by 6 new branches. The company plans to expand into the north-east next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Kestrel Software is based in Harrowby.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "The passage says it is based in Stanwick.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Okoro Logistics, founded in 2001 and based in Westmere, makes delivery vans. It employs 150 people. In 2020 its revenue rose by 18%, helped by 2 new branches. The company plans to expand into the north-east next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Okoro Logistics' revenue fell in 2020.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "Revenue rose by 18%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Amberline Pharmaceuticals, founded in 2009 and based in Harrowby, makes generic medicines. It employs 860 people. In 2023 its revenue rose by 18%, helped by 6 new branches. The company plans to expand into East Africa next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The chief executive founded Amberline Pharmaceuticals.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who founded the company.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Marlow Ceramics, founded in 2012 and based in Westmere, makes kitchen tiles. It employs 570 people. In 2023 its revenue rose by 11%, helped by 8 new branches. The company plans to expand into the coastal provinces next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The chief executive founded Marlow Ceramics.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who founded the company.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Ashgrove Bakeries, founded in 2002 and based in Port Avery, makes bread. It employs 590 people. In 2023 its revenue rose by 14%, helped by 6 new branches. The company plans to expand into the north-east next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The planned expansion into the north-east may not happen on time.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "The chief executive warned that rising costs could delay it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Larkspur Foods, founded in 1988 and based in Ravensholt, makes frozen meals. It employs 430 people. In 2018 its revenue rose by 13%, helped by 6 new branches. The company plans to expand into two neighbouring countries next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Larkspur Foods' profits rose in 2018.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Only revenue is mentioned; revenue is not profit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Tidewater Paints, founded in 1994 and based in Kinross Vale, makes house paint. It employs 260 people. In 2022 its revenue rose by 28%, helped by 8 new branches. The company plans to expand into the Gulf next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The chief executive founded Tidewater Paints.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who founded the company.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Marlow Ceramics, founded in 1977 and based in Westmere, makes kitchen tiles. It employs 690 people. In 2023 its revenue rose by 25%, helped by 2 new branches. The company plans to expand into the coastal provinces next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Marlow Ceramics' revenue fell in 2023.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "Revenue rose by 25%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Kestrel Software, founded in 2000 and based in Harrowby, makes accounting software. It employs 530 people. In 2022 its revenue rose by 19%, helped by 5 new branches. The company plans to expand into the north-east next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Kestrel Software was founded before 2004.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It was founded in 2000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Marlow Ceramics, founded in 2001 and based in Kinross Vale, makes kitchen tiles. It employs 760 people. In 2019 its revenue rose by 14%, helped by 8 new branches. The company plans to expand into the north-east next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Marlow Ceramics' revenue fell in 2019.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "Revenue rose by 14%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Tidewater Paints, founded in 1978 and based in Port Avery, makes house paint. It employs 380 people. In 2023 its revenue rose by 21%, helped by 7 new branches. The company plans to expand into the north-east next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Tidewater Paints was founded before 1983.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It was founded in 1978.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Marlow Ceramics, founded in 2007 and based in Duncliffe, makes kitchen tiles. It employs 120 people. In 2023 its revenue rose by 12%, helped by 5 new branches. The company plans to expand into the coastal provinces next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Marlow Ceramics is based in Kinross Vale.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "The passage says it is based in Duncliffe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Okoro Logistics, founded in 2012 and based in Calderbank, makes delivery vans. It employs 630 people. In 2019 its revenue rose by 21%, helped by 9 new branches. The company plans to expand into southern Europe next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The planned expansion into southern Europe may not happen on time.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "The chief executive warned that rising costs could delay it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Fenwick Solar, founded in 2002 and based in Westmere, makes solar panels. It employs 570 people. In 2024 its revenue rose by 11%, helped by 3 new branches. The company plans to expand into southern Europe next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Fenwick Solar's profits rose in 2024.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Only revenue is mentioned; revenue is not profit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Novena Telecoms, founded in 2011 and based in Duncliffe, makes mobile data plans. It employs 830 people. In 2021 its revenue rose by 27%, helped by 7 new branches. The company plans to expand into the Gulf next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The planned expansion into the Gulf may not happen on time.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "The chief executive warned that rising costs could delay it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Fenwick Solar, founded in 1999 and based in Westmere, makes solar panels. It employs 250 people. In 2023 its revenue rose by 11%, helped by 8 new branches. The company plans to expand into southern Europe next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Fenwick Solar employs fewer than 240 people.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "It employs 250.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Fenwick Solar, founded in 1982 and based in Elmstead, makes solar panels. It employs 270 people. In 2022 its revenue rose by 20%, helped by 8 new branches. The company plans to expand into two neighbouring countries next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Most of Fenwick Solar's staff work in Elmstead.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We know where it is based, not where its staff work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Novena Telecoms, founded in 1982 and based in Duncliffe, makes mobile data plans. It employs 550 people. In 2020 its revenue rose by 21%, helped by 9 new branches. The company plans to expand into two neighbouring countries next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Novena Telecoms' revenue fell in 2020.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "Revenue rose by 21%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Fenwick Solar, founded in 1986 and based in Ravensholt, makes solar panels. It employs 790 people. In 2021 its revenue rose by 23%, helped by 2 new branches. The company plans to expand into two neighbouring countries next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Most of Fenwick Solar's staff work in Ravensholt.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We know where it is based, not where its staff work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Larkspur Foods, founded in 2002 and based in Kinross Vale, makes frozen meals. It employs 290 people. In 2020 its revenue rose by 20%, helped by 5 new branches. The company plans to expand into the Gulf next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Larkspur Foods' revenue fell in 2020.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "Revenue rose by 20%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Fenwick Solar, founded in 1989 and based in Kinross Vale, makes solar panels. It employs 770 people. In 2021 its revenue rose by 17%, helped by 4 new branches. The company plans to expand into southern Europe next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The chief executive founded Fenwick Solar.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who founded the company.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Brightwell Textiles, founded in 2002 and based in Stanwick, makes school uniforms. It employs 340 people. In 2020 its revenue rose by 4%, helped by 7 new branches. The company plans to expand into the Gulf next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The planned expansion into the Gulf may not happen on time.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "The chief executive warned that rising costs could delay it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Amberline Pharmaceuticals, founded in 2011 and based in Port Avery, makes generic medicines. It employs 840 people. In 2023 its revenue rose by 21%, helped by 7 new branches. The company plans to expand into East Africa next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Amberline Pharmaceuticals employs fewer than 830 people.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "It employs 840.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Fenwick Solar, founded in 2004 and based in Elmstead, makes solar panels. It employs 150 people. In 2022 its revenue rose by 21%, helped by 7 new branches. The company plans to expand into the Gulf next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The chief executive founded Fenwick Solar.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who founded the company.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Okoro Logistics, founded in 2000 and based in Duncliffe, makes delivery vans. It employs 560 people. In 2022 its revenue rose by 10%, helped by 3 new branches. The company plans to expand into East Africa next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Okoro Logistics is the largest maker of delivery vans in the country.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "The passage says nothing about its market position.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Okoro Logistics, founded in 2003 and based in Duncliffe, makes delivery vans. It employs 720 people. In 2019 its revenue rose by 21%, helped by 2 new branches. The company plans to expand into the coastal provinces next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Okoro Logistics is the largest maker of delivery vans in the country.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "The passage says nothing about its market position.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Marlow Ceramics, founded in 1990 and based in Duncliffe, makes kitchen tiles. It employs 500 people. In 2021 its revenue rose by 8%, helped by 7 new branches. The company plans to expand into East Africa next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Marlow Ceramics was founded before 1991.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It was founded in 1990.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Marlow Ceramics, founded in 1986 and based in Duncliffe, makes kitchen tiles. It employs 700 people. In 2021 its revenue rose by 28%, helped by 7 new branches. The company plans to expand into southern Europe next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Marlow Ceramics employs fewer than 690 people.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "It employs 700.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Ashgrove Bakeries, founded in 1986 and based in Stanwick, makes bread. It employs 890 people. In 2022 its revenue rose by 8%, helped by 5 new branches. The company plans to expand into the coastal provinces next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The chief executive founded Ashgrove Bakeries.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who founded the company.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Kestrel Software, founded in 2009 and based in Westmere, makes accounting software. It employs 500 people. In 2023 its revenue rose by 15%, helped by 2 new branches. The company plans to expand into the Gulf next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The chief executive founded Kestrel Software.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who founded the company.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Larkspur Foods, founded in 1982 and based in Duncliffe, makes frozen meals. It employs 140 people. In 2023 its revenue rose by 8%, helped by 3 new branches. The company plans to expand into southern Europe next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The planned expansion into southern Europe may not happen on time.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "The chief executive warned that rising costs could delay it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Brightwell Textiles, founded in 1984 and based in Ravensholt, makes school uniforms. It employs 530 people. In 2021 its revenue rose by 26%, helped by 2 new branches. The company plans to expand into southern Europe next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Brightwell Textiles is based in Port Avery.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "The passage says it is based in Ravensholt.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Okoro Logistics, founded in 1981 and based in Duncliffe, makes delivery vans. It employs 780 people. In 2023 its revenue rose by 17%, helped by 4 new branches. The company plans to expand into the coastal provinces next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Okoro Logistics employs fewer than 770 people.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "It employs 780.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Tidewater Paints, founded in 2011 and based in Millbrook, makes house paint. It employs 750 people. In 2023 its revenue rose by 18%, helped by 5 new branches. The company plans to expand into the coastal provinces next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Tidewater Paints opened more than 4 new branches in 2023.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It opened 5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Kestrel Software, founded in 1988 and based in Calderbank, makes accounting software. It employs 490 people. In 2024 its revenue rose by 21%, helped by 9 new branches. The company plans to expand into East Africa next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Kestrel Software was founded before 1990.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It was founded in 1988.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Ashgrove Bakeries, founded in 2003 and based in Millbrook, makes bread. It employs 170 people. In 2022 its revenue rose by 25%, helped by 3 new branches. The company plans to expand into the coastal provinces next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Ashgrove Bakeries' profits rose in 2022.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Only revenue is mentioned; revenue is not profit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Tidewater Paints, founded in 1993 and based in Elmstead, makes house paint. It employs 310 people. In 2024 its revenue rose by 18%, helped by 6 new branches. The company plans to expand into the Gulf next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The chief executive founded Tidewater Paints.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who founded the company.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Brightwell Textiles, founded in 1982 and based in Ravensholt, makes school uniforms. It employs 380 people. In 2020 its revenue rose by 13%, helped by 7 new branches. The company plans to expand into the Gulf next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Brightwell Textiles' revenue fell in 2020.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "Revenue rose by 13%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Tidewater Paints, founded in 1998 and based in Port Avery, makes house paint. It employs 130 people. In 2018 its revenue rose by 5%, helped by 3 new branches. The company plans to expand into the Gulf next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Tidewater Paints was founded before 1999.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It was founded in 1998.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Ashgrove Bakeries, founded in 1980 and based in Stanwick, makes bread. It employs 810 people. In 2020 its revenue rose by 10%, helped by 5 new branches. The company plans to expand into the coastal provinces next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Most of Ashgrove Bakeries' staff work in Stanwick.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We know where it is based, not where its staff work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Larkspur Foods, founded in 2006 and based in Stanwick, makes frozen meals. It employs 790 people. In 2018 its revenue rose by 28%, helped by 2 new branches. The company plans to expand into the north-east next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Larkspur Foods is based in Kinross Vale.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "The passage says it is based in Stanwick.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Ashgrove Bakeries, founded in 1990 and based in Ravensholt, makes bread. It employs 560 people. In 2020 its revenue rose by 13%, helped by 9 new branches. The company plans to expand into East Africa next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Most of Ashgrove Bakeries' staff work in Ravensholt.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We know where it is based, not where its staff work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Tidewater Paints, founded in 1994 and based in Port Avery, makes house paint. It employs 450 people. In 2022 its revenue rose by 16%, helped by 2 new branches. The company plans to expand into the north-east next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: Tidewater Paints is the largest maker of house paint in the country.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "The passage says nothing about its market position.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Kestrel Software, founded in 1995 and based in Ravensholt, makes accounting software. It employs 380 people. In 2018 its revenue rose by 22%, helped by 2 new branches. The company plans to expand into southern Europe next year, although its chief executive has warned that rising costs could delay the move.\n\nStatement: The chief executive founded Kestrel Software.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who founded the company.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,550 adults in Elmstead found that people who walked for 30 minutes a day slept, on average, 21 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study proved that the habit causes longer sleep.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "The researchers said it did not show cause and effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 950 adults in Westmere found that people who walked for 30 minutes a day slept, on average, 40 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study proved that the habit causes longer sleep.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "The researchers said it did not show cause and effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,150 adults in Elmstead found that people who exercised in the morning slept, on average, 40 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study involved more than 1,100 adults.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It involved 1,150.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 3,000 adults in Millbrook found that people who drank no coffee after midday slept, on average, 35 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study took place in Harrowby.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "It took place in Millbrook.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,550 adults in Kinross Vale found that people who drank no coffee after midday slept, on average, 26 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: Women in the study slept longer than men.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "No results by sex are given.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,850 adults in Calderbank found that people who drank no coffee after midday slept, on average, 18 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The sleep times in the study were self-reported.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "Participants reported their own sleep times.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,250 adults in Stanwick found that people who walked for 30 minutes a day slept, on average, 8 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: On average, people with the habit slept less than those without it.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "They slept 8 minutes longer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,550 adults in Kinross Vale found that people who drank no coffee after midday slept, on average, 11 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: Women in the study slept longer than men.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "No results by sex are given.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,550 adults in Ravensholt found that people who avoided screens after 9pm slept, on average, 32 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study was funded by the government.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Funding is not mentioned.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,300 adults in Calderbank found that people who exercised in the morning slept, on average, 34 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: People with the habit also had better concentration.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Only sleep was measured.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 800 adults in Millbrook found that people who kept a regular bedtime slept, on average, 31 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The researchers did not claim to have found a cause.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "They said it showed an association, not cause and effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,000 adults in Calderbank found that people who exercised in the morning slept, on average, 31 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: On average, people with the habit slept less than those without it.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "They slept 31 minutes longer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,300 adults in Westmere found that people who kept a regular bedtime slept, on average, 25 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study involved more than 1,250 adults.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It involved 1,300.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,050 adults in Westmere found that people who avoided screens after 9pm slept, on average, 26 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: On average, people with the habit slept less than those without it.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "They slept 26 minutes longer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,100 adults in Duncliffe found that people who exercised in the morning slept, on average, 32 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The researchers did not claim to have found a cause.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "They said it showed an association, not cause and effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,500 adults in Port Avery found that people who avoided screens after 9pm slept, on average, 10 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: Most participants had the habit.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told how many had the habit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 500 adults in Stanwick found that people who avoided screens after 9pm slept, on average, 23 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study was funded by the government.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Funding is not mentioned.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 3,000 adults in Stanwick found that people who avoided screens after 9pm slept, on average, 24 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: People with the habit also had better concentration.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Only sleep was measured.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 750 adults in Kinross Vale found that people who walked for 30 minutes a day slept, on average, 27 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study took place in Millbrook.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "It took place in Kinross Vale.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,450 adults in Port Avery found that people who drank no coffee after midday slept, on average, 11 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study proved that the habit causes longer sleep.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "The researchers said it did not show cause and effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,800 adults in Elmstead found that people who exercised in the morning slept, on average, 40 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study was funded by the government.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Funding is not mentioned.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,600 adults in Stanwick found that people who walked for 30 minutes a day slept, on average, 33 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study took place in Duncliffe.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "It took place in Stanwick.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,450 adults in Port Avery found that people who kept a regular bedtime slept, on average, 21 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: On average, people with the habit slept less than those without it.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "They slept 21 minutes longer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,600 adults in Harrowby found that people who kept a regular bedtime slept, on average, 14 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: On average, people with the habit slept less than those without it.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "They slept 14 minutes longer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,450 adults in Ravensholt found that people who exercised in the morning slept, on average, 18 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The researchers did not claim to have found a cause.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "They said it showed an association, not cause and effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,600 adults in Stanwick found that people who drank no coffee after midday slept, on average, 12 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: Most participants had the habit.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told how many had the habit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,750 adults in Ravensholt found that people who drank no coffee after midday slept, on average, 18 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: On average, people with the habit slept less than those without it.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "They slept 18 minutes longer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,100 adults in Duncliffe found that people who walked for 30 minutes a day slept, on average, 22 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: On average, people with the habit slept less than those without it.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "They slept 22 minutes longer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 750 adults in Millbrook found that people who exercised in the morning slept, on average, 14 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The sleep times in the study were self-reported.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "Participants reported their own sleep times.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,100 adults in Duncliffe found that people who avoided screens after 9pm slept, on average, 16 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The sleep times in the study were self-reported.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "Participants reported their own sleep times.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,500 adults in Ravensholt found that people who walked for 30 minutes a day slept, on average, 28 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: Most participants had the habit.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told how many had the habit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,100 adults in Elmstead found that people who kept a regular bedtime slept, on average, 9 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study involved more than 2,050 adults.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It involved 2,100.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,600 adults in Duncliffe found that people who walked for 30 minutes a day slept, on average, 19 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: On average, people with the habit slept less than those without it.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "They slept 19 minutes longer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,100 adults in Calderbank found that people who walked for 30 minutes a day slept, on average, 20 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study involved more than 1,050 adults.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It involved 1,100.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 600 adults in Elmstead found that people who drank no coffee after midday slept, on average, 35 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: Most participants had the habit.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told how many had the habit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 550 adults in Ravensholt found that people who kept a regular bedtime slept, on average, 22 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The sleep times in the study were self-reported.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "Participants reported their own sleep times.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,300 adults in Ravensholt found that people who drank no coffee after midday slept, on average, 36 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study involved more than 2,250 adults.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It involved 2,300.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,550 adults in Port Avery found that people who avoided screens after 9pm slept, on average, 13 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study was funded by the government.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Funding is not mentioned.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,500 adults in Harrowby found that people who avoided screens after 9pm slept, on average, 11 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study involved more than 2,450 adults.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "It involved 2,500.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,650 adults in Ravensholt found that people who kept a regular bedtime slept, on average, 12 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The researchers did not claim to have found a cause.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "They said it showed an association, not cause and effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 800 adults in Millbrook found that people who exercised in the morning slept, on average, 8 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study took place in Kinross Vale.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "It took place in Millbrook.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 900 adults in Port Avery found that people who exercised in the morning slept, on average, 19 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The sleep times in the study were self-reported.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "Participants reported their own sleep times.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,950 adults in Elmstead found that people who drank no coffee after midday slept, on average, 15 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: On average, people with the habit slept less than those without it.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "They slept 15 minutes longer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 600 adults in Ravensholt found that people who kept a regular bedtime slept, on average, 24 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The sleep times in the study were self-reported.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "Participants reported their own sleep times.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,400 adults in Port Avery found that people who avoided screens after 9pm slept, on average, 23 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: People with the habit also had better concentration.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Only sleep was measured.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,500 adults in Elmstead found that people who avoided screens after 9pm slept, on average, 36 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study took place in Harrowby.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "It took place in Elmstead.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,200 adults in Stanwick found that people who drank no coffee after midday slept, on average, 10 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The researchers did not claim to have found a cause.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "They said it showed an association, not cause and effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,500 adults in Ravensholt found that people who exercised in the morning slept, on average, 22 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study proved that the habit causes longer sleep.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "The researchers said it did not show cause and effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,600 adults in Westmere found that people who kept a regular bedtime slept, on average, 39 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study took place in Port Avery.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "It took place in Westmere.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,750 adults in Millbrook found that people who kept a regular bedtime slept, on average, 31 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study proved that the habit causes longer sleep.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "The researchers said it did not show cause and effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,700 adults in Millbrook found that people who walked for 30 minutes a day slept, on average, 30 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: Women in the study slept longer than men.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "No results by sex are given.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,250 adults in Harrowby found that people who walked for 30 minutes a day slept, on average, 21 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: Women in the study slept longer than men.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "No results by sex are given.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,200 adults in Stanwick found that people who avoided screens after 9pm slept, on average, 35 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study proved that the habit causes longer sleep.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "The researchers said it did not show cause and effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,750 adults in Ravensholt found that people who walked for 30 minutes a day slept, on average, 9 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: On average, people with the habit slept less than those without it.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "They slept 9 minutes longer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,400 adults in Duncliffe found that people who kept a regular bedtime slept, on average, 37 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: On average, people with the habit slept less than those without it.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "They slept 37 minutes longer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 3,000 adults in Ravensholt found that people who kept a regular bedtime slept, on average, 23 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study proved that the habit causes longer sleep.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "The researchers said it did not show cause and effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,750 adults in Stanwick found that people who drank no coffee after midday slept, on average, 26 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The researchers did not claim to have found a cause.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "They said it showed an association, not cause and effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 950 adults in Westmere found that people who drank no coffee after midday slept, on average, 39 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study was funded by the government.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Funding is not mentioned.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,850 adults in Millbrook found that people who kept a regular bedtime slept, on average, 34 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: Most participants had the habit.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told how many had the habit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 950 adults in Calderbank found that people who kept a regular bedtime slept, on average, 11 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: People with the habit also had better concentration.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Only sleep was measured.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 550 adults in Westmere found that people who avoided screens after 9pm slept, on average, 37 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: People with the habit also had better concentration.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Only sleep was measured.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,450 adults in Harrowby found that people who kept a regular bedtime slept, on average, 11 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: Women in the study slept longer than men.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "No results by sex are given.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,150 adults in Stanwick found that people who kept a regular bedtime slept, on average, 25 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The researchers did not claim to have found a cause.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "They said it showed an association, not cause and effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,250 adults in Harrowby found that people who drank no coffee after midday slept, on average, 36 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: The study proved that the habit causes longer sleep.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "The researchers said it did not show cause and effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,250 adults in Duncliffe found that people who avoided screens after 9pm slept, on average, 27 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: Women in the study slept longer than men.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "No results by sex are given.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,850 adults in Harrowby found that people who walked for 30 minutes a day slept, on average, 17 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: Most participants had the habit.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told how many had the habit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,850 adults in Westmere found that people who exercised in the morning slept, on average, 34 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: Most participants had the habit.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told how many had the habit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 1,100 adults in Calderbank found that people who drank no coffee after midday slept, on average, 14 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: Women in the study slept longer than men.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "No results by sex are given.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,550 adults in Harrowby found that people who kept a regular bedtime slept, on average, 32 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: Women in the study slept longer than men.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "No results by sex are given.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "A study of 2,400 adults in Harrowby found that people who kept a regular bedtime slept, on average, 24 minutes longer than those who did not. The researchers stressed that the study showed an association rather than cause and effect, and that participants reported their own sleep times.\n\nStatement: On average, people with the habit slept less than those without it.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "They slept 24 minutes longer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Harrowby Council will introduce a charge of £2 an hour for parking in the town centre from March. The council says the money will pay for a new bus service. Residents aged over 65 will not have to pay. In a public consultation, 52% of people who responded supported the change.\n\nStatement: The consultation was open to people who do not live in the town.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who could respond.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Ravensholt Council will introduce a charge of £20 per booking for use of sports pitches from June. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 45% of people who responded supported the change.\n\nStatement: Most residents of Ravensholt support the charge.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Only consultation respondents were counted, not all residents.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Millbrook Council will introduce a charge of £20 per booking for use of sports pitches from April. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 30% of people who responded supported the change.\n\nStatement: The charge will start in September.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "It starts in April.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Kinross Vale Council will introduce a charge of £2 an hour for parking in the town centre from September. The council says the money will pay for a new bus service. Residents aged over 65 will not have to pay. In a public consultation, 35% of people who responded supported the change.\n\nStatement: The consultation was open to people who do not live in the town.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who could respond.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Ravensholt Council will introduce a charge of £30 per visit for bulky item collection from March. The council says the money will pay for recycling centres. Residents aged over 65 will not have to pay. In a public consultation, 49% of people who responded supported the change.\n\nStatement: The charge will be reviewed after one year.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "No review is mentioned.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Harrowby Council will introduce a charge of £30 per visit for bulky item collection from September. The council says the money will pay for recycling centres. Residents aged over 65 will not have to pay. In a public consultation, 34% of people who responded supported the change.\n\nStatement: Residents over 65 will be exempt from the charge.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "They will not have to pay.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Elmstead Council will introduce a charge of £2 an hour for parking in the town centre from October. The council says the money will pay for a new bus service. Residents aged over 65 will not have to pay. In a public consultation, 39% of people who responded supported the change.\n\nStatement: Elmstead has more over-65s than the national average.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "The passage gives no population figures.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Harrowby Council will introduce a charge of £45 a year for garden waste collection from September. The council says the money will pay for repairs to local roads. Residents aged over 65 will not have to pay. In a public consultation, 75% of people who responded supported the change.\n\nStatement: Harrowby has more over-65s than the national average.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "The passage gives no population figures.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Port Avery Council will introduce a charge of £20 per booking for use of sports pitches from January. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 36% of people who responded supported the change.\n\nStatement: The council says the money will pay for maintaining parks.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "This is stated directly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Millbrook Council will introduce a charge of £45 a year for garden waste collection from October. The council says the money will pay for repairs to local roads. Residents aged over 65 will not have to pay. In a public consultation, 53% of people who responded supported the change.\n\nStatement: The council says the money will pay for repairs to local roads.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "This is stated directly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Harrowby Council will introduce a charge of £45 a year for garden waste collection from April. The council says the money will pay for repairs to local roads. Residents aged over 65 will not have to pay. In a public consultation, 45% of people who responded supported the change.\n\nStatement: Residents over 65 will be exempt from the charge.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "They will not have to pay.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Millbrook Council will introduce a charge of £30 per visit for bulky item collection from October. The council says the money will pay for recycling centres. Residents aged over 65 will not have to pay. In a public consultation, 62% of people who responded supported the change.\n\nStatement: Most people who responded to the consultation supported the change.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "62% supported it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Duncliffe Council will introduce a charge of £30 per visit for bulky item collection from June. The council says the money will pay for recycling centres. Residents aged over 65 will not have to pay. In a public consultation, 49% of people who responded supported the change.\n\nStatement: The charge will be reviewed after one year.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "No review is mentioned.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Port Avery Council will introduce a charge of £30 per visit for bulky item collection from January. The council says the money will pay for recycling centres. Residents aged over 65 will not have to pay. In a public consultation, 40% of people who responded supported the change.\n\nStatement: The council says the money will pay for recycling centres.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "This is stated directly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Duncliffe Council will introduce a charge of £2 an hour for parking in the town centre from April. The council says the money will pay for a new bus service. Residents aged over 65 will not have to pay. In a public consultation, 48% of people who responded supported the change.\n\nStatement: The consultation was open to people who do not live in the town.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who could respond.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Calderbank Council will introduce a charge of £2 an hour for parking in the town centre from June. The council says the money will pay for a new bus service. Residents aged over 65 will not have to pay. In a public consultation, 62% of people who responded supported the change.\n\nStatement: The council says the money will pay for a new bus service.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "This is stated directly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Port Avery Council will introduce a charge of £20 per booking for use of sports pitches from October. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 65% of people who responded supported the change.\n\nStatement: Most people who responded to the consultation supported the change.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "65% supported it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Harrowby Council will introduce a charge of £30 per visit for bulky item collection from September. The council says the money will pay for recycling centres. Residents aged over 65 will not have to pay. In a public consultation, 40% of people who responded supported the change.\n\nStatement: The charge will start in January.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "It starts in September.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Duncliffe Council will introduce a charge of £30 per visit for bulky item collection from March. The council says the money will pay for recycling centres. Residents aged over 65 will not have to pay. In a public consultation, 59% of people who responded supported the change.\n\nStatement: Residents over 65 will be exempt from the charge.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "They will not have to pay.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Harrowby Council will introduce a charge of £45 a year for garden waste collection from September. The council says the money will pay for repairs to local roads. Residents aged over 65 will not have to pay. In a public consultation, 43% of people who responded supported the change.\n\nStatement: Most people who responded to the consultation supported the change.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "43% supported it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Harrowby Council will introduce a charge of £30 per visit for bulky item collection from April. The council says the money will pay for recycling centres. Residents aged over 65 will not have to pay. In a public consultation, 40% of people who responded supported the change.\n\nStatement: The consultation was open to people who do not live in the town.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who could respond.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Millbrook Council will introduce a charge of £20 per booking for use of sports pitches from April. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 65% of people who responded supported the change.\n\nStatement: Most people who responded to the consultation supported the change.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "65% supported it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Westmere Council will introduce a charge of £20 per booking for use of sports pitches from June. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 61% of people who responded supported the change.\n\nStatement: Residents over 65 will be exempt from the charge.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "They will not have to pay.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Millbrook Council will introduce a charge of £45 a year for garden waste collection from April. The council says the money will pay for repairs to local roads. Residents aged over 65 will not have to pay. In a public consultation, 39% of people who responded supported the change.\n\nStatement: The consultation was open to people who do not live in the town.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who could respond.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Port Avery Council will introduce a charge of £30 per visit for bulky item collection from April. The council says the money will pay for recycling centres. Residents aged over 65 will not have to pay. In a public consultation, 38% of people who responded supported the change.\n\nStatement: Residents over 65 will be exempt from the charge.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "They will not have to pay.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Port Avery Council will introduce a charge of £30 per visit for bulky item collection from March. The council says the money will pay for recycling centres. Residents aged over 65 will not have to pay. In a public consultation, 67% of people who responded supported the change.\n\nStatement: The charge will start in June.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "It starts in March.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Duncliffe Council will introduce a charge of £20 per booking for use of sports pitches from March. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 41% of people who responded supported the change.\n\nStatement: Most residents of Duncliffe support the charge.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Only consultation respondents were counted, not all residents.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Elmstead Council will introduce a charge of £45 a year for garden waste collection from September. The council says the money will pay for repairs to local roads. Residents aged over 65 will not have to pay. In a public consultation, 66% of people who responded supported the change.\n\nStatement: Most residents of Elmstead support the charge.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Only consultation respondents were counted, not all residents.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Ravensholt Council will introduce a charge of £20 per booking for use of sports pitches from June. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 62% of people who responded supported the change.\n\nStatement: Ravensholt has more over-65s than the national average.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "The passage gives no population figures.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Millbrook Council will introduce a charge of £45 a year for garden waste collection from April. The council says the money will pay for repairs to local roads. Residents aged over 65 will not have to pay. In a public consultation, 43% of people who responded supported the change.\n\nStatement: The charge will be reviewed after one year.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "No review is mentioned.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Kinross Vale Council will introduce a charge of £20 per booking for use of sports pitches from January. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 73% of people who responded supported the change.\n\nStatement: The consultation was open to people who do not live in the town.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who could respond.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Stanwick Council will introduce a charge of £20 per booking for use of sports pitches from September. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 54% of people who responded supported the change.\n\nStatement: Stanwick has more over-65s than the national average.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "The passage gives no population figures.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Westmere Council will introduce a charge of £2 an hour for parking in the town centre from April. The council says the money will pay for a new bus service. Residents aged over 65 will not have to pay. In a public consultation, 62% of people who responded supported the change.\n\nStatement: The charge will start in March.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "It starts in April.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Stanwick Council will introduce a charge of £20 per booking for use of sports pitches from September. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 70% of people who responded supported the change.\n\nStatement: The consultation was open to people who do not live in the town.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who could respond.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Harrowby Council will introduce a charge of £20 per booking for use of sports pitches from September. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 45% of people who responded supported the change.\n\nStatement: The charge will be reviewed after one year.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "No review is mentioned.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Kinross Vale Council will introduce a charge of £20 per booking for use of sports pitches from January. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 41% of people who responded supported the change.\n\nStatement: Most people who responded to the consultation supported the change.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "41% supported it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Ravensholt Council will introduce a charge of £20 per booking for use of sports pitches from January. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 35% of people who responded supported the change.\n\nStatement: The charge will start in April.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "It starts in January.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Kinross Vale Council will introduce a charge of £20 per booking for use of sports pitches from April. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 57% of people who responded supported the change.\n\nStatement: The council says the money will pay for maintaining parks.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "This is stated directly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Port Avery Council will introduce a charge of £45 a year for garden waste collection from January. The council says the money will pay for repairs to local roads. Residents aged over 65 will not have to pay. In a public consultation, 49% of people who responded supported the change.\n\nStatement: The consultation was open to people who do not live in the town.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who could respond.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Millbrook Council will introduce a charge of £45 a year for garden waste collection from January. The council says the money will pay for repairs to local roads. Residents aged over 65 will not have to pay. In a public consultation, 75% of people who responded supported the change.\n\nStatement: Most residents of Millbrook support the charge.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Only consultation respondents were counted, not all residents.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Calderbank Council will introduce a charge of £2 an hour for parking in the town centre from January. The council says the money will pay for a new bus service. Residents aged over 65 will not have to pay. In a public consultation, 73% of people who responded supported the change.\n\nStatement: The consultation was open to people who do not live in the town.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who could respond.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Port Avery Council will introduce a charge of £2 an hour for parking in the town centre from June. The council says the money will pay for a new bus service. Residents aged over 65 will not have to pay. In a public consultation, 48% of people who responded supported the change.\n\nStatement: Most people who responded to the consultation supported the change.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "48% supported it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Calderbank Council will introduce a charge of £20 per booking for use of sports pitches from April. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 43% of people who responded supported the change.\n\nStatement: The consultation was open to people who do not live in the town.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who could respond.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Ravensholt Council will introduce a charge of £20 per booking for use of sports pitches from January. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 55% of people who responded supported the change.\n\nStatement: The charge will be reviewed after one year.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "No review is mentioned.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Calderbank Council will introduce a charge of £2 an hour for parking in the town centre from April. The council says the money will pay for a new bus service. Residents aged over 65 will not have to pay. In a public consultation, 35% of people who responded supported the change.\n\nStatement: The council says the money will pay for a new bus service.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "This is stated directly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Ravensholt Council will introduce a charge of £2 an hour for parking in the town centre from April. The council says the money will pay for a new bus service. Residents aged over 65 will not have to pay. In a public consultation, 58% of people who responded supported the change.\n\nStatement: The consultation was open to people who do not live in the town.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who could respond.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Elmstead Council will introduce a charge of £20 per booking for use of sports pitches from January. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 74% of people who responded supported the change.\n\nStatement: Most residents of Elmstead support the charge.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Only consultation respondents were counted, not all residents.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Duncliffe Council will introduce a charge of £2 an hour for parking in the town centre from January. The council says the money will pay for a new bus service. Residents aged over 65 will not have to pay. In a public consultation, 30% of people who responded supported the change.\n\nStatement: The consultation was open to people who do not live in the town.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who could respond.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Westmere Council will introduce a charge of £20 per booking for use of sports pitches from March. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 68% of people who responded supported the change.\n\nStatement: Residents over 65 will be exempt from the charge.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "They will not have to pay.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Duncliffe Council will introduce a charge of £30 per visit for bulky item collection from October. The council says the money will pay for recycling centres. Residents aged over 65 will not have to pay. In a public consultation, 35% of people who responded supported the change.\n\nStatement: The council says the money will pay for recycling centres.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "This is stated directly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Port Avery Council will introduce a charge of £20 per booking for use of sports pitches from June. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 70% of people who responded supported the change.\n\nStatement: The charge will start in January.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "It starts in June.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Ravensholt Council will introduce a charge of £30 per visit for bulky item collection from January. The council says the money will pay for recycling centres. Residents aged over 65 will not have to pay. In a public consultation, 47% of people who responded supported the change.\n\nStatement: The council says the money will pay for recycling centres.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "This is stated directly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Ravensholt Council will introduce a charge of £2 an hour for parking in the town centre from June. The council says the money will pay for a new bus service. Residents aged over 65 will not have to pay. In a public consultation, 67% of people who responded supported the change.\n\nStatement: Residents over 65 will be exempt from the charge.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "They will not have to pay.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Harrowby Council will introduce a charge of £20 per booking for use of sports pitches from March. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 30% of people who responded supported the change.\n\nStatement: Residents over 65 will be exempt from the charge.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "They will not have to pay.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Harrowby Council will introduce a charge of £2 an hour for parking in the town centre from March. The council says the money will pay for a new bus service. Residents aged over 65 will not have to pay. In a public consultation, 73% of people who responded supported the change.\n\nStatement: Most people who responded to the consultation supported the change.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "73% supported it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Westmere Council will introduce a charge of £20 per booking for use of sports pitches from June. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 59% of people who responded supported the change.\n\nStatement: Most residents of Westmere support the charge.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Only consultation respondents were counted, not all residents.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Elmstead Council will introduce a charge of £20 per booking for use of sports pitches from June. The council says the money will pay for maintaining parks. Residents aged over 65 will not have to pay. In a public consultation, 38% of people who responded supported the change.\n\nStatement: Elmstead has more over-65s than the national average.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "The passage gives no population figures.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Kinross Vale Council will introduce a charge of £2 an hour for parking in the town centre from October. The council says the money will pay for a new bus service. Residents aged over 65 will not have to pay. In a public consultation, 72% of people who responded supported the change.\n\nStatement: The charge will be reviewed after one year.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "No review is mentioned.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Kinross Vale Council will introduce a charge of £45 a year for garden waste collection from June. The council says the money will pay for repairs to local roads. Residents aged over 65 will not have to pay. In a public consultation, 36% of people who responded supported the change.\n\nStatement: The consultation was open to people who do not live in the town.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "We are not told who could respond.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Millbrook Council will introduce a charge of £45 a year for garden waste collection from April. The council says the money will pay for repairs to local roads. Residents aged over 65 will not have to pay. In a public consultation, 56% of people who responded supported the change.\n\nStatement: Millbrook has more over-65s than the national average.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "The passage gives no population figures.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “ambiguous”?",
+  "options": [
+   "dull and ordinary",
+   "dealing with things practically",
+   "possible to do",
+   "open to more than one interpretation"
+  ],
+  "answer": 3,
+  "explanation": "“ambiguous” means open to more than one interpretation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “ambiguous”?",
+  "options": [
+   "essential",
+   "provoke",
+   "clear",
+   "incriminate"
+  ],
+  "answer": 2,
+  "explanation": "“ambiguous” means open to more than one interpretation; the opposite is “clear”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “benevolent”?",
+  "options": [
+   "of considerable size",
+   "showing great attention to detail",
+   "kind and generous",
+   "no longer in use"
+  ],
+  "answer": 2,
+  "explanation": "“benevolent” means kind and generous.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “benevolent”?",
+  "options": [
+   "ally",
+   "strict",
+   "disjointed",
+   "malicious"
+  ],
+  "answer": 3,
+  "explanation": "“benevolent” means kind and generous; the opposite is “malicious”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “candid”?",
+  "options": [
+   "open to more than one interpretation",
+   "fluent and persuasive in speech",
+   "producing a lot",
+   "frank and honest"
+  ],
+  "answer": 3,
+  "explanation": "“candid” means frank and honest.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “candid”?",
+  "options": [
+   "evasive",
+   "sloppy",
+   "strengthen",
+   "improve"
+  ],
+  "answer": 0,
+  "explanation": "“candid” means frank and honest; the opposite is “evasive”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “diligent”?",
+  "options": [
+   "frank and honest",
+   "no longer needed",
+   "careful and hard-working",
+   "hide"
+  ],
+  "answer": 2,
+  "explanation": "“diligent” means careful and hard-working.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “diligent”?",
+  "options": [
+   "concise",
+   "necessary",
+   "stable",
+   "careless"
+  ],
+  "answer": 3,
+  "explanation": "“diligent” means careful and hard-working; the opposite is “careless”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “ephemeral”?",
+  "options": [
+   "not easily convinced",
+   "cautious about possible danger",
+   "make difficult; obstruct",
+   "lasting a very short time"
+  ],
+  "answer": 3,
+  "explanation": "“ephemeral” means lasting a very short time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “ephemeral”?",
+  "options": [
+   "permanent",
+   "reasoned",
+   "inarticulate",
+   "extraordinary"
+  ],
+  "answer": 0,
+  "explanation": "“ephemeral” means lasting a very short time; the opposite is “permanent”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “frugal”?",
+  "options": [
+   "based on observation or experiment",
+   "careful with money",
+   "fluent and persuasive in speech",
+   "possible to do"
+  ],
+  "answer": 1,
+  "explanation": "“frugal” means careful with money.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “frugal”?",
+  "options": [
+   "impractical",
+   "avoidable",
+   "extravagant",
+   "worsen"
+  ],
+  "answer": 2,
+  "explanation": "“frugal” means careful with money; the opposite is “extravagant”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “gregarious”?",
+  "options": [
+   "an opponent",
+   "certain to happen",
+   "fond of company",
+   "hopeful about the future"
+  ],
+  "answer": 2,
+  "explanation": "“gregarious” means fond of company.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “gregarious”?",
+  "options": [
+   "solitary",
+   "wordy",
+   "friendly",
+   "improve"
+  ],
+  "answer": 0,
+  "explanation": "“gregarious” means fond of company; the opposite is “solitary”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “hostile”?",
+  "options": [
+   "unfriendly and aggressive",
+   "likely to cause disagreement",
+   "showing great attention to detail",
+   "based on chance rather than reason"
+  ],
+  "answer": 0,
+  "explanation": "“hostile” means unfriendly and aggressive.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “hostile”?",
+  "options": [
+   "improve",
+   "friendly",
+   "sloppy",
+   "meagre"
+  ],
+  "answer": 1,
+  "explanation": "“hostile” means unfriendly and aggressive; the opposite is “friendly”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “impartial”?",
+  "options": [
+   "examine closely",
+   "treating all sides equally",
+   "plentiful",
+   "smugly satisfied; not alert to danger"
+  ],
+  "answer": 1,
+  "explanation": "“impartial” means treating all sides equally.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “impartial”?",
+  "options": [
+   "biased",
+   "minor",
+   "definite",
+   "confusing"
+  ],
+  "answer": 0,
+  "explanation": "“impartial” means treating all sides equally; the opposite is “biased”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “lucid”?",
+  "options": [
+   "clearly expressed",
+   "reluctant to share thoughts",
+   "clear of blame",
+   "treating all sides equally"
+  ],
+  "answer": 0,
+  "explanation": "“lucid” means clearly expressed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “lucid”?",
+  "options": [
+   "essential",
+   "extravagant",
+   "confusing",
+   "reckless"
+  ],
+  "answer": 2,
+  "explanation": "“lucid” means clearly expressed; the opposite is “confusing”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “meticulous”?",
+  "options": [
+   "cautious about possible danger",
+   "showing great attention to detail",
+   "reluctant to share thoughts",
+   "acting with care for the future"
+  ],
+  "answer": 1,
+  "explanation": "“meticulous” means showing great attention to detail.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “meticulous”?",
+  "options": [
+   "friendly",
+   "sloppy",
+   "improve",
+   "current"
+  ],
+  "answer": 1,
+  "explanation": "“meticulous” means showing great attention to detail; the opposite is “sloppy”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “novice”?",
+  "options": [
+   "in short supply",
+   "more merciful than expected",
+   "so small it can be ignored",
+   "a beginner"
+  ],
+  "answer": 3,
+  "explanation": "“novice” means a beginner.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “novice”?",
+  "options": [
+   "expert",
+   "dispute",
+   "opaque",
+   "avoidable"
+  ],
+  "answer": 0,
+  "explanation": "“novice” means a beginner; the opposite is “expert”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “obsolete”?",
+  "options": [
+   "hopeful about the future",
+   "clear of blame",
+   "no longer in use",
+   "careful not to attract attention"
+  ],
+  "answer": 2,
+  "explanation": "“obsolete” means no longer in use.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “obsolete”?",
+  "options": [
+   "vigilant",
+   "current",
+   "fragile",
+   "trusting"
+  ],
+  "answer": 1,
+  "explanation": "“obsolete” means no longer in use; the opposite is “current”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “prudent”?",
+  "options": [
+   "careful not to attract attention",
+   "based on chance rather than reason",
+   "able to recover quickly",
+   "acting with care for the future"
+  ],
+  "answer": 3,
+  "explanation": "“prudent” means acting with care for the future.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “prudent”?",
+  "options": [
+   "glance at",
+   "entertaining",
+   "reckless",
+   "current"
+  ],
+  "answer": 2,
+  "explanation": "“prudent” means acting with care for the future; the opposite is “reckless”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “reticent”?",
+  "options": [
+   "no longer in use",
+   "an opponent",
+   "careful and hard-working",
+   "reluctant to share thoughts"
+  ],
+  "answer": 3,
+  "explanation": "“reticent” means reluctant to share thoughts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “reticent”?",
+  "options": [
+   "confusing",
+   "talkative",
+   "biased",
+   "credulous"
+  ],
+  "answer": 1,
+  "explanation": "“reticent” means reluctant to share thoughts; the opposite is “talkative”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “scrutinise”?",
+  "options": [
+   "not easily convinced",
+   "examine closely",
+   "reluctant to share thoughts",
+   "unfriendly and aggressive"
+  ],
+  "answer": 1,
+  "explanation": "“scrutinise” means examine closely.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “scrutinise”?",
+  "options": [
+   "concise",
+   "glance at",
+   "extravagant",
+   "minor"
+  ],
+  "answer": 1,
+  "explanation": "“scrutinise” means examine closely; the opposite is “glance at”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “tenacious”?",
+  "options": [
+   "clearly expressed",
+   "holding firmly; persistent",
+   "examine closely",
+   "no longer in use"
+  ],
+  "answer": 1,
+  "explanation": "“tenacious” means holding firmly; persistent.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “tenacious”?",
+  "options": [
+   "strengthen",
+   "yielding",
+   "meagre",
+   "indiscreet"
+  ],
+  "answer": 1,
+  "explanation": "“tenacious” means holding firmly; persistent; the opposite is “yielding”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “undermine”?",
+  "options": [
+   "weaken gradually",
+   "open; easy to see through",
+   "no longer needed",
+   "hopeful about the future"
+  ],
+  "answer": 0,
+  "explanation": "“undermine” means weaken gradually.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “undermine”?",
+  "options": [
+   "evasive",
+   "vigilant",
+   "strengthen",
+   "indiscreet"
+  ],
+  "answer": 2,
+  "explanation": "“undermine” means weaken gradually; the opposite is “strengthen”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “verbose”?",
+  "options": [
+   "clear of blame",
+   "using more words than needed",
+   "examine closely",
+   "plentiful"
+  ],
+  "answer": 1,
+  "explanation": "“verbose” means using more words than needed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “verbose”?",
+  "options": [
+   "stable",
+   "scarce",
+   "concise",
+   "expert"
+  ],
+  "answer": 2,
+  "explanation": "“verbose” means using more words than needed; the opposite is “concise”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “wary”?",
+  "options": [
+   "certain to happen",
+   "not certain or fixed",
+   "able to recover quickly",
+   "cautious about possible danger"
+  ],
+  "answer": 3,
+  "explanation": "“wary” means cautious about possible danger.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “wary”?",
+  "options": [
+   "assist",
+   "glance at",
+   "permanent",
+   "trusting"
+  ],
+  "answer": 3,
+  "explanation": "“wary” means cautious about possible danger; the opposite is “trusting”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “abundant”?",
+  "options": [
+   "kind and generous",
+   "fluent and persuasive in speech",
+   "existing in large quantities",
+   "make less severe"
+  ],
+  "answer": 2,
+  "explanation": "“abundant” means existing in large quantities.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “abundant”?",
+  "options": [
+   "entertaining",
+   "solitary",
+   "scarce",
+   "strict"
+  ],
+  "answer": 2,
+  "explanation": "“abundant” means existing in large quantities; the opposite is “scarce”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “adversary”?",
+  "options": [
+   "lasting a very short time",
+   "an opponent",
+   "hopeful about the future",
+   "plentiful"
+  ],
+  "answer": 1,
+  "explanation": "“adversary” means an opponent.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “adversary”?",
+  "options": [
+   "confusing",
+   "improve",
+   "worsen",
+   "ally"
+  ],
+  "answer": 3,
+  "explanation": "“adversary” means an opponent; the opposite is “ally”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “alleviate”?",
+  "options": [
+   "hopeful about the future",
+   "make less severe",
+   "reluctant to share thoughts",
+   "agree"
+  ],
+  "answer": 1,
+  "explanation": "“alleviate” means make less severe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “alleviate”?",
+  "options": [
+   "worsen",
+   "ally",
+   "disjointed",
+   "dispute"
+  ],
+  "answer": 0,
+  "explanation": "“alleviate” means make less severe; the opposite is “worsen”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “arbitrary”?",
+  "options": [
+   "make worse",
+   "no longer in use",
+   "frank and honest",
+   "based on chance rather than reason"
+  ],
+  "answer": 3,
+  "explanation": "“arbitrary” means based on chance rather than reason.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “arbitrary”?",
+  "options": [
+   "scarce",
+   "entertaining",
+   "wordy",
+   "reasoned"
+  ],
+  "answer": 3,
+  "explanation": "“arbitrary” means based on chance rather than reason; the opposite is “reasoned”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “conceal”?",
+  "options": [
+   "treating all sides equally",
+   "make less serious",
+   "very great or deep",
+   "hide"
+  ],
+  "answer": 3,
+  "explanation": "“conceal” means hide.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “conceal”?",
+  "options": [
+   "inarticulate",
+   "sloppy",
+   "stable",
+   "reveal"
+  ],
+  "answer": 3,
+  "explanation": "“conceal” means hide; the opposite is “reveal”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “concur”?",
+  "options": [
+   "no longer needed",
+   "agree",
+   "so small it can be ignored",
+   "plentiful"
+  ],
+  "answer": 1,
+  "explanation": "“concur” means agree.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “concur”?",
+  "options": [
+   "extravagant",
+   "worthwhile",
+   "avoidable",
+   "dispute"
+  ],
+  "answer": 3,
+  "explanation": "“concur” means agree; the opposite is “dispute”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “deteriorate”?",
+  "options": [
+   "more merciful than expected",
+   "become worse",
+   "holding firmly; persistent",
+   "hide"
+  ],
+  "answer": 1,
+  "explanation": "“deteriorate” means become worse.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “deteriorate”?",
+  "options": [
+   "talkative",
+   "theoretical",
+   "opaque",
+   "improve"
+  ],
+  "answer": 3,
+  "explanation": "“deteriorate” means become worse; the opposite is “improve”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “discreet”?",
+  "options": [
+   "careful not to attract attention",
+   "plentiful",
+   "not easily convinced",
+   "using more words than needed"
+  ],
+  "answer": 0,
+  "explanation": "“discreet” means careful not to attract attention.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “discreet”?",
+  "options": [
+   "sloppy",
+   "credulous",
+   "indiscreet",
+   "worthwhile"
+  ],
+  "answer": 2,
+  "explanation": "“discreet” means careful not to attract attention; the opposite is “indiscreet”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “eloquent”?",
+  "options": [
+   "make less severe",
+   "based on observation or experiment",
+   "fluent and persuasive in speech",
+   "fond of company"
+  ],
+  "answer": 2,
+  "explanation": "“eloquent” means fluent and persuasive in speech.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “eloquent”?",
+  "options": [
+   "opaque",
+   "inarticulate",
+   "essential",
+   "impractical"
+  ],
+  "answer": 1,
+  "explanation": "“eloquent” means fluent and persuasive in speech; the opposite is “inarticulate”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “feasible”?",
+  "options": [
+   "frank and honest",
+   "able to recover quickly",
+   "possible to do",
+   "reluctant to share thoughts"
+  ],
+  "answer": 2,
+  "explanation": "“feasible” means possible to do.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “feasible”?",
+  "options": [
+   "extravagant",
+   "impractical",
+   "inarticulate",
+   "indiscreet"
+  ],
+  "answer": 1,
+  "explanation": "“feasible” means possible to do; the opposite is “impractical”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “futile”?",
+  "options": [
+   "careful with money",
+   "make less severe",
+   "pointless; having no effect",
+   "showing great enthusiasm"
+  ],
+  "answer": 2,
+  "explanation": "“futile” means pointless; having no effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “futile”?",
+  "options": [
+   "worthwhile",
+   "yielding",
+   "incriminate",
+   "superficial"
+  ],
+  "answer": 0,
+  "explanation": "“futile” means pointless; having no effect; the opposite is “worthwhile”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “hinder”?",
+  "options": [
+   "certain to happen",
+   "dealing with things practically",
+   "fluent and persuasive in speech",
+   "make difficult; obstruct"
+  ],
+  "answer": 3,
+  "explanation": "“hinder” means make difficult; obstruct.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “hinder”?",
+  "options": [
+   "careless",
+   "plentiful",
+   "assist",
+   "fragile"
+  ],
+  "answer": 2,
+  "explanation": "“hinder” means make difficult; obstruct; the opposite is “assist”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “inevitable”?",
+  "options": [
+   "agree",
+   "lasting a very short time",
+   "become worse",
+   "certain to happen"
+  ],
+  "answer": 3,
+  "explanation": "“inevitable” means certain to happen.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “inevitable”?",
+  "options": [
+   "superficial",
+   "unproductive",
+   "apathetic",
+   "avoidable"
+  ],
+  "answer": 3,
+  "explanation": "“inevitable” means certain to happen; the opposite is “avoidable”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “lenient”?",
+  "options": [
+   "more merciful than expected",
+   "fond of company",
+   "showing great attention to detail",
+   "no longer in use"
+  ],
+  "answer": 0,
+  "explanation": "“lenient” means more merciful than expected.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “lenient”?",
+  "options": [
+   "inarticulate",
+   "strict",
+   "clear",
+   "extraordinary"
+  ],
+  "answer": 1,
+  "explanation": "“lenient” means more merciful than expected; the opposite is “strict”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “mitigate”?",
+  "options": [
+   "no longer in use",
+   "more merciful than expected",
+   "not easily convinced",
+   "make less serious"
+  ],
+  "answer": 3,
+  "explanation": "“mitigate” means make less serious.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “mitigate”?",
+  "options": [
+   "theoretical",
+   "clear",
+   "aggravate",
+   "superficial"
+  ],
+  "answer": 2,
+  "explanation": "“mitigate” means make less serious; the opposite is “aggravate”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “mundane”?",
+  "options": [
+   "based on observation or experiment",
+   "frank and honest",
+   "careful and hard-working",
+   "dull and ordinary"
+  ],
+  "answer": 3,
+  "explanation": "“mundane” means dull and ordinary.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “mundane”?",
+  "options": [
+   "extraordinary",
+   "wordy",
+   "impractical",
+   "assist"
+  ],
+  "answer": 0,
+  "explanation": "“mundane” means dull and ordinary; the opposite is “extraordinary”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “negligible”?",
+  "options": [
+   "not easily convinced",
+   "so small it can be ignored",
+   "examine closely",
+   "make worse"
+  ],
+  "answer": 1,
+  "explanation": "“negligible” means so small it can be ignored.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “negligible”?",
+  "options": [
+   "significant",
+   "strict",
+   "theoretical",
+   "ally"
+  ],
+  "answer": 0,
+  "explanation": "“negligible” means so small it can be ignored; the opposite is “significant”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “optimistic”?",
+  "options": [
+   "hopeful about the future",
+   "careful with money",
+   "frank and honest",
+   "make less angry"
+  ],
+  "answer": 0,
+  "explanation": "“optimistic” means hopeful about the future.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “optimistic”?",
+  "options": [
+   "pessimistic",
+   "concise",
+   "trusting",
+   "apathetic"
+  ],
+  "answer": 0,
+  "explanation": "“optimistic” means hopeful about the future; the opposite is “pessimistic”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “pragmatic”?",
+  "options": [
+   "holding firmly; persistent",
+   "make less serious",
+   "dealing with things practically",
+   "using very few words"
+  ],
+  "answer": 2,
+  "explanation": "“pragmatic” means dealing with things practically.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “pragmatic”?",
+  "options": [
+   "ally",
+   "idealistic",
+   "reasoned",
+   "expert"
+  ],
+  "answer": 1,
+  "explanation": "“pragmatic” means dealing with things practically; the opposite is “idealistic”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “profound”?",
+  "options": [
+   "using very few words",
+   "fluent and persuasive in speech",
+   "hopeful about the future",
+   "very great or deep"
+  ],
+  "answer": 3,
+  "explanation": "“profound” means very great or deep.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “profound”?",
+  "options": [
+   "superficial",
+   "avoidable",
+   "trusting",
+   "disjointed"
+  ],
+  "answer": 0,
+  "explanation": "“profound” means very great or deep; the opposite is “superficial”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “redundant”?",
+  "options": [
+   "examine closely",
+   "no longer needed",
+   "fond of company",
+   "producing a lot"
+  ],
+  "answer": 1,
+  "explanation": "“redundant” means no longer needed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “redundant”?",
+  "options": [
+   "reckless",
+   "essential",
+   "solitary",
+   "worsen"
+  ],
+  "answer": 1,
+  "explanation": "“redundant” means no longer needed; the opposite is “essential”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “resilient”?",
+  "options": [
+   "no longer needed",
+   "able to recover quickly",
+   "acting with care for the future",
+   "fond of company"
+  ],
+  "answer": 1,
+  "explanation": "“resilient” means able to recover quickly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “resilient”?",
+  "options": [
+   "pessimistic",
+   "indiscreet",
+   "wordy",
+   "fragile"
+  ],
+  "answer": 3,
+  "explanation": "“resilient” means able to recover quickly; the opposite is “fragile”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “scarce”?",
+  "options": [
+   "holding firmly; persistent",
+   "in short supply",
+   "based on observation or experiment",
+   "cautious about possible danger"
+  ],
+  "answer": 1,
+  "explanation": "“scarce” means in short supply.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “scarce”?",
+  "options": [
+   "plentiful",
+   "concise",
+   "reckless",
+   "talkative"
+  ],
+  "answer": 0,
+  "explanation": "“scarce” means in short supply; the opposite is “plentiful”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “sceptical”?",
+  "options": [
+   "not easily convinced",
+   "an opponent",
+   "hopeful about the future",
+   "examine closely"
+  ],
+  "answer": 0,
+  "explanation": "“sceptical” means not easily convinced.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “sceptical”?",
+  "options": [
+   "impractical",
+   "glance at",
+   "credulous",
+   "extravagant"
+  ],
+  "answer": 2,
+  "explanation": "“sceptical” means not easily convinced; the opposite is “credulous”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “substantial”?",
+  "options": [
+   "liable to change rapidly",
+   "clear of blame",
+   "of considerable size",
+   "holding firmly; persistent"
+  ],
+  "answer": 2,
+  "explanation": "“substantial” means of considerable size.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “substantial”?",
+  "options": [
+   "essential",
+   "expert",
+   "minor",
+   "assist"
+  ],
+  "answer": 2,
+  "explanation": "“substantial” means of considerable size; the opposite is “minor”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “superfluous”?",
+  "options": [
+   "reluctant to share thoughts",
+   "based on chance rather than reason",
+   "an opponent",
+   "more than is needed"
+  ],
+  "answer": 3,
+  "explanation": "“superfluous” means more than is needed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “superfluous”?",
+  "options": [
+   "entertaining",
+   "necessary",
+   "definite",
+   "aggravate"
+  ],
+  "answer": 1,
+  "explanation": "“superfluous” means more than is needed; the opposite is “necessary”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “tentative”?",
+  "options": [
+   "holding firmly; persistent",
+   "kind and generous",
+   "not certain or fixed",
+   "reluctant to share thoughts"
+  ],
+  "answer": 2,
+  "explanation": "“tentative” means not certain or fixed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “tentative”?",
+  "options": [
+   "current",
+   "assist",
+   "definite",
+   "disjointed"
+  ],
+  "answer": 2,
+  "explanation": "“tentative” means not certain or fixed; the opposite is “definite”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “transparent”?",
+  "options": [
+   "plentiful",
+   "make less angry",
+   "careful with money",
+   "open; easy to see through"
+  ],
+  "answer": 3,
+  "explanation": "“transparent” means open; easy to see through.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “transparent”?",
+  "options": [
+   "opaque",
+   "current",
+   "assist",
+   "malicious"
+  ],
+  "answer": 0,
+  "explanation": "“transparent” means open; easy to see through; the opposite is “opaque”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “vindicate”?",
+  "options": [
+   "using more words than needed",
+   "frank and honest",
+   "clear of blame",
+   "weaken gradually"
+  ],
+  "answer": 2,
+  "explanation": "“vindicate” means clear of blame.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “vindicate”?",
+  "options": [
+   "definite",
+   "fragile",
+   "confusing",
+   "incriminate"
+  ],
+  "answer": 3,
+  "explanation": "“vindicate” means clear of blame; the opposite is “incriminate”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “volatile”?",
+  "options": [
+   "liable to change rapidly",
+   "frank and honest",
+   "certain to happen",
+   "holding firmly; persistent"
+  ],
+  "answer": 0,
+  "explanation": "“volatile” means liable to change rapidly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “volatile”?",
+  "options": [
+   "biased",
+   "stable",
+   "confusing",
+   "plentiful"
+  ],
+  "answer": 1,
+  "explanation": "“volatile” means liable to change rapidly; the opposite is “stable”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “zealous”?",
+  "options": [
+   "showing great enthusiasm",
+   "no longer needed",
+   "hide",
+   "producing a lot"
+  ],
+  "answer": 0,
+  "explanation": "“zealous” means showing great enthusiasm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “zealous”?",
+  "options": [
+   "aggravate",
+   "apathetic",
+   "definite",
+   "evasive"
+  ],
+  "answer": 1,
+  "explanation": "“zealous” means showing great enthusiasm; the opposite is “apathetic”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “coherent”?",
+  "options": [
+   "likely to cause disagreement",
+   "lasting a very short time",
+   "logical and consistent",
+   "make less serious"
+  ],
+  "answer": 2,
+  "explanation": "“coherent” means logical and consistent.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “coherent”?",
+  "options": [
+   "glance at",
+   "definite",
+   "disjointed",
+   "ally"
+  ],
+  "answer": 2,
+  "explanation": "“coherent” means logical and consistent; the opposite is “disjointed”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “complacent”?",
+  "options": [
+   "smugly satisfied; not alert to danger",
+   "reluctant to share thoughts",
+   "clear of blame",
+   "examine closely"
+  ],
+  "answer": 0,
+  "explanation": "“complacent” means smugly satisfied; not alert to danger.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “complacent”?",
+  "options": [
+   "yielding",
+   "vigilant",
+   "stable",
+   "incriminate"
+  ],
+  "answer": 1,
+  "explanation": "“complacent” means smugly satisfied; not alert to danger; the opposite is “vigilant”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “contentious”?",
+  "options": [
+   "fluent and persuasive in speech",
+   "pointless; having no effect",
+   "able to recover quickly",
+   "likely to cause disagreement"
+  ],
+  "answer": 3,
+  "explanation": "“contentious” means likely to cause disagreement.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “contentious”?",
+  "options": [
+   "uncontroversial",
+   "superficial",
+   "ally",
+   "idealistic"
+  ],
+  "answer": 0,
+  "explanation": "“contentious” means likely to cause disagreement; the opposite is “uncontroversial”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “copious”?",
+  "options": [
+   "dull and ordinary",
+   "plentiful",
+   "kind and generous",
+   "likely to cause disagreement"
+  ],
+  "answer": 1,
+  "explanation": "“copious” means plentiful.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “copious”?",
+  "options": [
+   "meagre",
+   "friendly",
+   "biased",
+   "disjointed"
+  ],
+  "answer": 0,
+  "explanation": "“copious” means plentiful; the opposite is “meagre”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “didactic”?",
+  "options": [
+   "weaken gradually",
+   "agree",
+   "intended to teach",
+   "cautious about possible danger"
+  ],
+  "answer": 2,
+  "explanation": "“didactic” means intended to teach.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “didactic”?",
+  "options": [
+   "current",
+   "pessimistic",
+   "indiscreet",
+   "entertaining"
+  ],
+  "answer": 3,
+  "explanation": "“didactic” means intended to teach; the opposite is “entertaining”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “empirical”?",
+  "options": [
+   "clear of blame",
+   "based on observation or experiment",
+   "very great or deep",
+   "agree"
+  ],
+  "answer": 1,
+  "explanation": "“empirical” means based on observation or experiment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “empirical”?",
+  "options": [
+   "improve",
+   "theoretical",
+   "reveal",
+   "significant"
+  ],
+  "answer": 1,
+  "explanation": "“empirical” means based on observation or experiment; the opposite is “theoretical”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “exacerbate”?",
+  "options": [
+   "become worse",
+   "logical and consistent",
+   "more than is needed",
+   "make worse"
+  ],
+  "answer": 3,
+  "explanation": "“exacerbate” means make worse.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “exacerbate”?",
+  "options": [
+   "pessimistic",
+   "expert",
+   "ease",
+   "improve"
+  ],
+  "answer": 2,
+  "explanation": "“exacerbate” means make worse; the opposite is “ease”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “laconic”?",
+  "options": [
+   "producing a lot",
+   "not easily convinced",
+   "using very few words",
+   "of considerable size"
+  ],
+  "answer": 2,
+  "explanation": "“laconic” means using very few words.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “laconic”?",
+  "options": [
+   "wordy",
+   "plentiful",
+   "friendly",
+   "improve"
+  ],
+  "answer": 0,
+  "explanation": "“laconic” means using very few words; the opposite is “wordy”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “placate”?",
+  "options": [
+   "make less angry",
+   "showing great enthusiasm",
+   "certain to happen",
+   "reluctant to share thoughts"
+  ],
+  "answer": 0,
+  "explanation": "“placate” means make less angry.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “placate”?",
+  "options": [
+   "strict",
+   "improve",
+   "vigilant",
+   "provoke"
+  ],
+  "answer": 3,
+  "explanation": "“placate” means make less angry; the opposite is “provoke”.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which is closest in meaning to “prolific”?",
+  "options": [
+   "make less serious",
+   "no longer in use",
+   "fond of company",
+   "producing a lot"
+  ],
+  "answer": 3,
+  "explanation": "“prolific” means producing a lot.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "Vocabulary",
+  "body": "Which word is most nearly OPPOSITE in meaning to “prolific”?",
+  "options": [
+   "wordy",
+   "worthwhile",
+   "reckless",
+   "unproductive"
+  ],
+  "answer": 3,
+  "explanation": "“prolific” means producing a lot; the opposite is “unproductive”.",
+  "difficulty": 2
  }
 ]

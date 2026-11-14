@@ -1,5 +1,6 @@
 // Starter banks for the expansion tracks. Facts are long-standing and stable; calculations are computed.
 // The question factory (lib/grow.ts) grows each bank to its target after launch.
+import { verbalExtra } from "./vrb-extra";
 import { fmt, mcq, numOpts, others, pick, Q, repeat, ri, sample } from "./lib";
 
 type F = [string, string, string, string[], string];
@@ -486,7 +487,7 @@ export function expansion(): Record<string, Q[]> {
     AUS: facts("AUS", AUS, 1),
     GNX: [...facts("GNX", GNX), ...gulfDoses()],
     IEV: facts("IEV", IEV),
-    VRB: verbalReasoning(),
+    VRB: [...verbalReasoning(), ...verbalExtra()],
     PMP: facts("PMP", PMP),
     ABT: facts("ABT", ABT),
     AMA: ama(),
