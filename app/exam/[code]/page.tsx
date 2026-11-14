@@ -1,0 +1,83 @@
+import Link from "next/link";
+import { notFound } from "next/navigation";
+import type { Metadata } from "next";
+import { getTrack, TRACKS, type TrackCode } from "@/lib/tracks";
+import { money, PLANS } from "@/lib/pricing";
+import { STARS_ENABLED, starsFor } from "@/lib/stars";
+import { subjectName } from "@/lib/subjects";
+
+/** Shared landing page for tracks without a hand-built page (e.g. /exam/USCIT). */
+const BODY: Partial<Record<TrackCode, { lead: string; bullets: [string, string][]; disclaimer: string }>> = {
+  USCIT: { lead: "Practise every civics topic on the naturalization test — government, rights, history and symbols — a few questions a day on Telegram.", bullets: [["🏛️ Government", "Branches, the Constitution, Congress, the President and the courts."], ["📜 History", "Independence, the Civil War, the 1900s and civil rights."], ["🗽 Symbols & geography", "The flag, the anthem, holidays, rivers and oceans."], ["⏱️ Practice interviews", "20-question timed tests with instant feedback."]], disclaimer: "Not affiliated with U.S. Citizenship and Immigration Services (USCIS). Answers about your own state's officials must be checked locally." },
+  CANCIT: { lead: "Prepare for the Canadian citizenship test with practice based on the Discover Canada study guide.", bullets: [["🍁 Government", "Constitutional monarchy, Parliament, provinces and voting."], ["📜 History", "Confederation, the World Wars and nation-building."], ["🗺️ Geography", "Provinces, territories and capitals."], ["⏱️ Real format", "20-question tests — 15 correct to pass."]], disclaimer: "Not affiliated with Immigration, Refugees and Citizenship Canada (IRCC)." },
+  AUSCIT: { lead: "Practise for the Australian citizenship test based on 'Australian Citizenship: Our Common Bond'.", bullets: [["🦘 Australia and its people", "First Australians, Federation, states and symbols."], ["🗳️ Democratic beliefs", "Rights, liberties and responsibilities."], ["⚖️ Government and the law", "Parliament, the Constitution and the courts."], ["⏱️ Real format", "20 questions — 75% to pass, including the values questions."]], disclaimer: "Not affiliated with the Australian Department of Home Affairs." },
+  GULFN: { lead: "Prometric-style practice for nurses moving to the UAE, Saudi Arabia, Qatar, Oman and Kuwait — international practice and SI units.", bullets: [["🩺 Clinical nursing", "Medical-surgical, maternal and child, mental health and safety."], ["💊 Medications", "Safe administration and dosage calculations."], ["🧪 Lab values", "SI units used across the Gulf."], ["⏱️ 100-question tests", "Timed like the real licensing exams."]], disclaimer: "Not affiliated with DHA, DOH, SCFHS, QCHP or Prometric." },
+  IELTS: { lead: "Daily grammar and vocabulary drills, plus Writing Task 2 marking: send your essay to the bot and get an estimated band score with specific corrections.", bullets: [["✍️ AI essay marking", "Send /essay with your Task 2 essay for a band estimate on all four criteria."], ["📚 Vocabulary", "Academic words, collocations and Task 1 trend language."], ["🔤 Grammar", "Conditionals, tenses, passives and agreement."], ["🎯 Exam technique", "True/False/Not Given, timings and word counts."]], disclaimer: "Not affiliated with IELTS, the British Council, IDP or Cambridge. Band estimates are guidance only." },
+  GRAD: { lead: "Timed numerical, verbal and logical reasoning tests like the ones banks, oil and gas companies and the Big 4 use to screen graduates.", bullets: [["🔢 Numerical", "Percentages, ratios, tables and data interpretation."], ["📖 Verbal", "True / False / Cannot say passages."], ["🧩 Logical", "Series, codes, directions and patterns."], ["⏱️ Under time pressure", "Short timed sections, like the real assessments."]], disclaimer: "Independent practice — not affiliated with SHL, Kenexa or any employer." },
+  IBPS: { lead: "Bank PO prelims mocks with real negative marking: reasoning, quantitative aptitude and English.", bullets: [["🧩 Reasoning", "Series, coding, directions, ranking and puzzles."], ["🔢 Quant", "Percentages, interest, time and work, speed and more."], ["🔤 English", "Grammar, vocabulary and comprehension."], ["➖ Negative marking", "+1 correct, −0.25 wrong, like the real exam."]], disclaimer: "Not affiliated with IBPS or SBI." },
+  ACCA: { lead: "Practice for the ACCA Applied Knowledge exams with worked answers for every calculation.", bullets: [["🏢 Business & Technology", "Organisations, governance, ethics, people and controls."], ["📊 Management Accounting", "Costing, CVP, variances, budgeting and inventory."], ["📒 Financial Accounting", "Double entry, adjustments, IAS rules and statements."], ["⏱️ 2-hour papers", "50-question timed tests per paper."]], disclaimer: "Not affiliated with ACCA." },
+  ICAN: { lead: "ICAN Foundation practice with step-by-step workings for accounting and costing questions.", bullets: [["📒 Financial Accounting", "Double entry, adjustments and statements."], ["📊 Management Information", "Costing, CVP and variances."], ["🏢 Business & Finance", "Organisations, governance and ethics."], ["💳 Pay in naira", "Card, transfer or USSD via Paystack."]], disclaimer: "Not affiliated with the Institute of Chartered Accountants of Nigeria (ICAN)." },
+  ITIL: { lead: "ITIL 4 Foundation practice: guiding principles, the service value system and key practices.", bullets: [["🧭 Guiding principles", "All seven, with what each means in practice."], ["🔗 Value chain", "Plan, improve, engage, design & transition, obtain/build, deliver & support."], ["🛠️ Practices", "Incident, problem, change enablement, service desk and SLM."], ["⏱️ Real format", "40 questions, 60 minutes, 26 to pass."]], disclaimer: "ITIL® is a registered trademark of PeopleCert. Not affiliated with PeopleCert or AXELOS." },
+  SIXSIG: { lead: "Green Belt practice covering DMAIC, Lean tools and the statistics you need, with worked calculations.", bullets: [["🔄 DMAIC", "Define, Measure, Analyse, Improve, Control."], ["🧰 Tools", "Pareto, fishbone, SIPOC, control charts and 5S."], ["📐 Statistics", "DPMO, yields, sigma and distributions."], ["⏱️ Timed tests", "50 questions in 90 minutes."]], disclaimer: "Independent practice — not affiliated with any certifying body." },
+  ELEVEN: { lead: "A little 11+ practice every day for grammar school entry — verbal reasoning and maths at the right level.", bullets: [["🔤 Verbal reasoning", "Synonyms, antonyms, codes, letter series and number links."], ["🔢 Maths", "Arithmetic, fractions, percentages, shape and time."], ["⭐ Short daily sessions", "Ten minutes a day keeps children practising."], ["👪 Parent reports", "Weekly progress by email with /parent."]], disclaimer: "Independent practice — not affiliated with GL Assessment or any school." },
+  NECO: { lead: "Daily drills and CBT practice for the NECO SSCE in all major subjects.", bullets: [["📚 All core subjects", "English, Maths, sciences, arts and commercial subjects."], ["💻 CBT practice", "Timed tests in the exam format."], ["🔁 Smart revision", "Questions you miss come back until you've got them."], ["💳 Pay in naira", "Card, transfer or USSD."]], disclaimer: "Not affiliated with the National Examinations Council (NECO)." },
+};
+
+export function generateStaticParams() {
+  return Object.keys(BODY).map((code) => ({ code }));
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ code: string }> }): Promise<Metadata> {
+  const { code } = await params;
+  const t = TRACKS[code.toUpperCase() as TrackCode];
+  if (!t) return {};
+  return { title: `${t.name} practice | Mock Night`, description: `${t.tagline}. Daily questions on Telegram and timed practice tests.` };
+}
+
+export default async function ExamPage({ params }: { params: Promise<{ code: string }> }) {
+  const { code } = await params;
+  const key = code.toUpperCase() as TrackCode;
+  const body = BODY[key];
+  if (!TRACKS[key] || !body) notFound();
+  const t = getTrack(key);
+  const bot = process.env.TELEGRAM_BOT_USERNAME ?? "";
+  const plans = t.plans.map((p) => PLANS[p]).filter(Boolean);
+  return (
+    <main className="wrap" style={{ maxWidth: 820 }}>
+      <section className="hero">
+        <div className="muted small">{t.emoji} {t.short}</div>
+        <h1>{t.name}</h1>
+        <p className="muted">{body.lead}</p>
+        {bot ? <a className="btn" href={`https://t.me/${bot}?start=${t.code.toLowerCase()}`}>Start free on Telegram</a> : <Link className="btn" href={`/app?track=${t.code}`}>Start free</Link>}
+      </section>
+
+      <div className="grid2">
+        {body.bullets.map(([h, p]) => (
+          <div className="card" key={h}><b>{h}</b><p className="muted small">{p}</p></div>
+        ))}
+      </div>
+
+      {t.mockVariants?.length ? (
+        <section style={{ marginTop: 24 }}>
+          <h2>Practice tests</h2>
+          <ul>{t.mockVariants.map((v) => <li key={v.key}><b>{v.label}</b>{v.note ? <span className="muted"> — {v.note}</span> : null}</li>)}</ul>
+        </section>
+      ) : null}
+
+      <section style={{ marginTop: 24 }}>
+        <h2>Price</h2>
+        <p className="muted">Free for 14 days with everything unlocked. Then:</p>
+        <ul>{plans.map((p) => <li key={p.code}>{p.label}: <b>{money(p.amount, p.currency)}</b>{STARS_ENABLED ? <span className="muted"> or {starsFor(p)} ⭐ Telegram Stars</span> : null}</li>)}</ul>
+        <p className="muted small">Covers: {t.subjects.map(subjectName).join(" · ")}</p>
+      </section>
+
+      <p style={{ marginTop: 28 }}>
+        <Link className="btn" href={`/app?track=${t.code}`}>Use the web app</Link>
+        {bot && <> <a className="btn secondary" href={`https://t.me/${bot}`} style={{ marginLeft: 8 }}>Open Telegram</a></>}
+      </p>
+      <p className="muted small" style={{ marginTop: 32 }}>
+        Independent practice resource with original questions. {body.disclaimer} A product of The 36th Solutions Ltd.
+      </p>
+    </main>
+  );
+}

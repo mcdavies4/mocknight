@@ -13,6 +13,8 @@ export const BANK_TARGETS: Record<string, number> = {
   LUK: 800, DRV: 1000, CTH: 600, FSE1: 400, FSE2: 400, FSM1: 400, FSM2: 400,
   // Project management, India
   PRN: 600, SCR: 600, PMF: 600, APT: 800, QNT: 800, GAI: 800,
+  // Expansion tracks
+  USC: 400, CAN: 400, AUS: 400, GNX: 1000, IEV: 800, VRB: 600, PMP: 800, ABT: 600, AMA: 600, AFA: 600, ITL: 400, SSG: 500, VRS: 800, ELM: 800,
 };
 
 /** Calculation-heavy banks stay code-generated (exact answers), not AI-written. */

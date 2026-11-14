@@ -13,6 +13,7 @@ import { getLatestFinishedWeeklyMock, getOpenWeeklyMock, WEEKLY } from "@/lib/mo
 import { applySuccessfulPayment, checkStarsCheckout, createCheckout, createStarsPayment, refundStarsPayment } from "@/lib/payments";
 import { STARS_ENABLED, starsFor } from "@/lib/stars";
 import { bankStatus, reportQuestion } from "@/lib/grow";
+import { markEssay } from "@/lib/essay";
 import { BATTLE_DEFAULT_QUESTIONS, BATTLE_MAX, BATTLE_MIN, endBattle, onPollClosed, recordBattleAnswer, runningBattle, skipQuestion, startBattle } from "@/lib/battle";
 import { createGroup, getGroupByCode, groupsOwnedBy, joinGroup, joinLink, memberCount } from "@/lib/groups";
 import { signToken } from "@/lib/auth";
@@ -418,6 +419,7 @@ function register(bot: Bot<Ctx>) {
         "/lesson — next course module (Fire Marshal)",
         "/certificate — get your course certificate",
         "/battle — start a quiz battle in a group chat",
+        "/essay — get an IELTS Writing Task 2 essay marked",
         "",
         "*Tutors & tutorial centres*",
         "/newgroup Name — create a group with a join link",
@@ -907,6 +909,29 @@ function register(bot: Bot<Ctx>) {
     }[r.error];
     return ctx.reply(msg);
   };
+  // ---- IELTS essay marking ------------------------------------------------------
+  bot.command("essay", async (ctx) => {
+    if (!isPrivate(ctx)) return;
+    const text = (ctx.match ?? "").trim();
+    if (!text) {
+      return ctx.reply(
+        "✍️ *IELTS Writing Task 2 marking*\n\nSend /essay followed by the task question and your essay in one message, e.g.\n\n/essay Some people think… Discuss both views.\n\nIn today's world…\n\nYou'll get an estimated band for each criterion and specific fixes. Free: 1 a day · Premium: 5 a day.",
+        { parse_mode: "Markdown" },
+      );
+    }
+    await ctx.replyWithChatAction("typing");
+    const r = await markEssay(ctx.student!, text);
+    if (r.ok) return ctx.reply(`📝 ${r.text}${r.remaining !== null ? `\n\n(${r.remaining} essay mark${r.remaining === 1 ? "" : "s"} left today)` : ""}`);
+    const msg = {
+      TOO_SHORT: "That looks too short for Task 2 — essays need at least 250 words (send at least 120 to get feedback).",
+      TOO_LONG: "That's over 700 words — please send a single Task 2 essay.",
+      LIMIT: `You've used today's ${r.limit} essay mark${r.limit === 1 ? "" : "s"}. Premium gets 5 a day → /premium`,
+      DISABLED: "Essay marking isn't switched on yet.",
+      FAILED: "Sorry, marking failed — please try again in a minute.",
+    }[r.error];
+    return ctx.reply(msg);
+  });
+
   // ---- Question quality ---------------------------------------------------------
   bot.callbackQuery(/^rp:([0-9a-f-]{36})$/, async (ctx) => {
     await reportQuestion(ctx.match[1], ctx.student!.id);

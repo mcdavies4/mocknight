@@ -1,0 +1,688 @@
+[
+ {
+  "subject": "AMA",
+  "topic": "Cost-volume-profit",
+  "body": "A product sells for $12 with variable cost $6 per unit. Fixed costs are $21,000. What is the breakeven point in units (rounded up)?",
+  "options": [
+   "1,750",
+   "3,600",
+   "3,500",
+   "3,850"
+  ],
+  "answer": 2,
+  "explanation": "Contribution per unit = 12 − 6 = $6. Breakeven = 21,000 ÷ 6 = 3,500 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost-volume-profit",
+  "body": "A product sells for $56 with variable cost $22 per unit. Fixed costs are $36,000. What is the breakeven point in units (rounded up)?",
+  "options": [
+   "1,059",
+   "1,159",
+   "643",
+   "1,637"
+  ],
+  "answer": 0,
+  "explanation": "Contribution per unit = 56 − 22 = $34. Breakeven = 36,000 ÷ 34 = 1,059 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost-volume-profit",
+  "body": "A product sells for $60 with variable cost $53 per unit. Fixed costs are $36,000. What is the breakeven point in units (rounded up)?",
+  "options": [
+   "5,143",
+   "680",
+   "5,243",
+   "600"
+  ],
+  "answer": 0,
+  "explanation": "Contribution per unit = 60 − 53 = $7. Breakeven = 36,000 ÷ 7 = 5,143 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost-volume-profit",
+  "body": "A product sells for $31 with variable cost $26 per unit. Fixed costs are $8,000. What is the breakeven point in units (rounded up)?",
+  "options": [
+   "1,600",
+   "259",
+   "1,700",
+   "308"
+  ],
+  "answer": 0,
+  "explanation": "Contribution per unit = 31 − 26 = $5. Breakeven = 8,000 ÷ 5 = 1,600 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost-volume-profit",
+  "body": "A product sells for $33 with variable cost $7 per unit. Fixed costs are $17,000. What is the breakeven point in units (rounded up)?",
+  "options": [
+   "654",
+   "754",
+   "2,429",
+   "516"
+  ],
+  "answer": 0,
+  "explanation": "Contribution per unit = 33 − 7 = $26. Breakeven = 17,000 ÷ 26 = 654 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost-volume-profit",
+  "body": "A product sells for $15 with variable cost $7 per unit. Fixed costs are $40,000. What is the breakeven point in units (rounded up)?",
+  "options": [
+   "5,000",
+   "5,100",
+   "2,667",
+   "5,715"
+  ],
+  "answer": 0,
+  "explanation": "Contribution per unit = 15 − 7 = $8. Breakeven = 40,000 ÷ 8 = 5,000 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost-volume-profit",
+  "body": "A product sells for $43 with variable cost $15 per unit. Fixed costs are $31,000. What is the breakeven point in units (rounded up)?",
+  "options": [
+   "721",
+   "2,067",
+   "1,108",
+   "1,208"
+  ],
+  "answer": 2,
+  "explanation": "Contribution per unit = 43 − 15 = $28. Breakeven = 31,000 ÷ 28 = 1,108 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost-volume-profit",
+  "body": "A product sells for $54 with variable cost $9 per unit. Fixed costs are $50,000. What is the breakeven point in units (rounded up)?",
+  "options": [
+   "5,556",
+   "926",
+   "1,212",
+   "1,112"
+  ],
+  "answer": 3,
+  "explanation": "Contribution per unit = 54 − 9 = $45. Breakeven = 50,000 ÷ 45 = 1,112 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost-volume-profit",
+  "body": "A product sells for $10 with variable cost $6 per unit. Fixed costs are $12,000. What is the breakeven point in units (rounded up)?",
+  "options": [
+   "3,000",
+   "1,200",
+   "3,100",
+   "2,000"
+  ],
+  "answer": 0,
+  "explanation": "Contribution per unit = 10 − 6 = $4. Breakeven = 12,000 ÷ 4 = 3,000 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost-volume-profit",
+  "body": "A product sells for $18 with variable cost $13 per unit. Fixed costs are $53,000. What is the breakeven point in units (rounded up)?",
+  "options": [
+   "2,945",
+   "4,077",
+   "10,600",
+   "10,700"
+  ],
+  "answer": 2,
+  "explanation": "Contribution per unit = 18 − 13 = $5. Breakeven = 53,000 ÷ 5 = 10,600 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost-volume-profit",
+  "body": "A product sells for $33 with variable cost $7 per unit. Fixed costs are $41,000. What is the breakeven point in units (rounded up)?",
+  "options": [
+   "5,858",
+   "1,677",
+   "1,243",
+   "1,577"
+  ],
+  "answer": 3,
+  "explanation": "Contribution per unit = 33 − 7 = $26. Breakeven = 41,000 ÷ 26 = 1,577 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost-volume-profit",
+  "body": "A product sells for $49 with variable cost $45 per unit. Fixed costs are $58,000. What is the breakeven point in units (rounded up)?",
+  "options": [
+   "1,184",
+   "14,600",
+   "14,500",
+   "1,289"
+  ],
+  "answer": 2,
+  "explanation": "Contribution per unit = 49 − 45 = $4. Breakeven = 58,000 ÷ 4 = 14,500 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost-volume-profit",
+  "body": "A product sells for $19 with variable cost $7 per unit. Fixed costs are $56,000. What is the breakeven point in units (rounded up)?",
+  "options": [
+   "8,000",
+   "4,767",
+   "4,667",
+   "2,948"
+  ],
+  "answer": 2,
+  "explanation": "Contribution per unit = 19 − 7 = $12. Breakeven = 56,000 ÷ 12 = 4,667 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost-volume-profit",
+  "body": "A product sells for $14 with variable cost $6 per unit. Fixed costs are $33,000. What is the breakeven point in units (rounded up)?",
+  "options": [
+   "2,358",
+   "4,225",
+   "4,125",
+   "5,500"
+  ],
+  "answer": 2,
+  "explanation": "Contribution per unit = 14 − 6 = $8. Breakeven = 33,000 ÷ 8 = 4,125 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost-volume-profit",
+  "body": "A product sells for $23 with variable cost $8 per unit. Fixed costs are $14,000. What is the breakeven point in units (rounded up)?",
+  "options": [
+   "1,034",
+   "934",
+   "1,750",
+   "609"
+  ],
+  "answer": 1,
+  "explanation": "Contribution per unit = 23 − 8 = $15. Breakeven = 14,000 ÷ 15 = 934 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Inventory",
+  "body": "Annual demand is 4,800 units, ordering cost $50 per order and holding cost $3 per unit per year. What is the economic order quantity (EOQ)?",
+  "options": [
+   "800 units",
+   "283 units",
+   "400 units",
+   "200 units"
+  ],
+  "answer": 2,
+  "explanation": "EOQ = √(2 × 50 × 4800 ÷ 3) = √160000 = 400 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Inventory",
+  "body": "Annual demand is 3,600 units, ordering cost $25 per order and holding cost $8 per unit per year. What is the economic order quantity (EOQ)?",
+  "options": [
+   "106 units",
+   "150 units",
+   "75 units",
+   "300 units"
+  ],
+  "answer": 1,
+  "explanation": "EOQ = √(2 × 25 × 3600 ÷ 8) = √22500 = 150 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Inventory",
+  "body": "Annual demand is 6,000 units, ordering cost $20 per order and holding cost $6 per unit per year. What is the economic order quantity (EOQ)?",
+  "options": [
+   "141 units",
+   "100 units",
+   "200 units",
+   "400 units"
+  ],
+  "answer": 2,
+  "explanation": "EOQ = √(2 × 20 × 6000 ÷ 6) = √40000 = 200 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Inventory",
+  "body": "Annual demand is 3,600 units, ordering cost $40 per order and holding cost $5 per unit per year. What is the economic order quantity (EOQ)?",
+  "options": [
+   "240 units",
+   "170 units",
+   "480 units",
+   "120 units"
+  ],
+  "answer": 0,
+  "explanation": "EOQ = √(2 × 40 × 3600 ÷ 5) = √57600 = 240 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Inventory",
+  "body": "Annual demand is 2,400 units, ordering cost $50 per order and holding cost $6 per unit per year. What is the economic order quantity (EOQ)?",
+  "options": [
+   "200 units",
+   "141 units",
+   "400 units",
+   "100 units"
+  ],
+  "answer": 0,
+  "explanation": "EOQ = √(2 × 50 × 2400 ÷ 6) = √40000 = 200 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Inventory",
+  "body": "Annual demand is 1,200 units, ordering cost $25 per order and holding cost $6 per unit per year. What is the economic order quantity (EOQ)?",
+  "options": [
+   "50 units",
+   "100 units",
+   "200 units",
+   "71 units"
+  ],
+  "answer": 1,
+  "explanation": "EOQ = √(2 × 25 × 1200 ÷ 6) = √10000 = 100 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Inventory",
+  "body": "Annual demand is 4,800 units, ordering cost $75 per order and holding cost $8 per unit per year. What is the economic order quantity (EOQ)?",
+  "options": [
+   "600 units",
+   "150 units",
+   "300 units",
+   "212 units"
+  ],
+  "answer": 2,
+  "explanation": "EOQ = √(2 × 75 × 4800 ÷ 8) = √90000 = 300 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Inventory",
+  "body": "Annual demand is 3,600 units, ordering cost $75 per order and holding cost $6 per unit per year. What is the economic order quantity (EOQ)?",
+  "options": [
+   "300 units",
+   "212 units",
+   "150 units",
+   "600 units"
+  ],
+  "answer": 0,
+  "explanation": "EOQ = √(2 × 75 × 3600 ÷ 6) = √90000 = 300 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Inventory",
+  "body": "Annual demand is 6,000 units, ordering cost $80 per order and holding cost $6 per unit per year. What is the economic order quantity (EOQ)?",
+  "options": [
+   "800 units",
+   "400 units",
+   "200 units",
+   "283 units"
+  ],
+  "answer": 1,
+  "explanation": "EOQ = √(2 × 80 × 6000 ÷ 6) = √160000 = 400 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Inventory",
+  "body": "Annual demand is 4,800 units, ordering cost $25 per order and holding cost $6 per unit per year. What is the economic order quantity (EOQ)?",
+  "options": [
+   "100 units",
+   "400 units",
+   "200 units",
+   "141 units"
+  ],
+  "answer": 2,
+  "explanation": "EOQ = √(2 × 25 × 4800 ÷ 6) = √40000 = 200 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Inventory",
+  "body": "Annual demand is 2,400 units, ordering cost $75 per order and holding cost $4 per unit per year. What is the economic order quantity (EOQ)?",
+  "options": [
+   "600 units",
+   "212 units",
+   "150 units",
+   "300 units"
+  ],
+  "answer": 3,
+  "explanation": "EOQ = √(2 × 75 × 2400 ÷ 4) = √90000 = 300 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Inventory",
+  "body": "Annual demand is 12,000 units, ordering cost $20 per order and holding cost $3 per unit per year. What is the economic order quantity (EOQ)?",
+  "options": [
+   "800 units",
+   "200 units",
+   "283 units",
+   "400 units"
+  ],
+  "answer": 3,
+  "explanation": "EOQ = √(2 × 20 × 12000 ÷ 3) = √160000 = 400 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Variances",
+  "body": "The standard price of material is $6/kg. 900 kg were bought at $5.5/kg. What is the material price variance?",
+  "options": [
+   "$450 favourable",
+   "$900 favourable",
+   "$450 adverse",
+   "$5,400 adverse"
+  ],
+  "answer": 0,
+  "explanation": "(Standard price − actual price) × actual quantity = (6 − 5.5) × 900 = 450. Paying less than standard is favourable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Variances",
+  "body": "The standard price of material is $10/kg. 1,600 kg were bought at $9.5/kg. What is the material price variance?",
+  "options": [
+   "$16,000 adverse",
+   "$800 adverse",
+   "$800 favourable",
+   "$1,600 favourable"
+  ],
+  "answer": 2,
+  "explanation": "(Standard price − actual price) × actual quantity = (10 − 9.5) × 1600 = 800. Paying less than standard is favourable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Variances",
+  "body": "The standard price of material is $10/kg. 1,300 kg were bought at $9/kg. What is the material price variance?",
+  "options": [
+   "$2,600 favourable",
+   "$13,000 adverse",
+   "$1,300 adverse",
+   "$1,300 favourable"
+  ],
+  "answer": 3,
+  "explanation": "(Standard price − actual price) × actual quantity = (10 − 9) × 1300 = 1300. Paying less than standard is favourable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Variances",
+  "body": "The standard price of material is $8/kg. 1,300 kg were bought at $9/kg. What is the material price variance?",
+  "options": [
+   "$1,300 adverse",
+   "$1,300 favourable",
+   "$2,600 adverse",
+   "$10,400 adverse"
+  ],
+  "answer": 0,
+  "explanation": "(Standard price − actual price) × actual quantity = (8 − 9) × 1300 = -1300. Paying more than standard is adverse.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Variances",
+  "body": "The standard price of material is $10/kg. 1,500 kg were bought at $9.5/kg. What is the material price variance?",
+  "options": [
+   "$15,000 adverse",
+   "$750 adverse",
+   "$1,500 favourable",
+   "$750 favourable"
+  ],
+  "answer": 3,
+  "explanation": "(Standard price − actual price) × actual quantity = (10 − 9.5) × 1500 = 750. Paying less than standard is favourable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Variances",
+  "body": "The standard price of material is $10/kg. 1,900 kg were bought at $9.5/kg. What is the material price variance?",
+  "options": [
+   "$950 adverse",
+   "$1,900 favourable",
+   "$19,000 adverse",
+   "$950 favourable"
+  ],
+  "answer": 3,
+  "explanation": "(Standard price − actual price) × actual quantity = (10 − 9.5) × 1900 = 950. Paying less than standard is favourable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Variances",
+  "body": "The standard price of material is $6/kg. 1,700 kg were bought at $6.5/kg. What is the material price variance?",
+  "options": [
+   "$10,200 adverse",
+   "$850 adverse",
+   "$850 favourable",
+   "$1,700 adverse"
+  ],
+  "answer": 1,
+  "explanation": "(Standard price − actual price) × actual quantity = (6 − 6.5) × 1700 = -850. Paying more than standard is adverse.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Variances",
+  "body": "The standard price of material is $6/kg. 1,000 kg were bought at $5/kg. What is the material price variance?",
+  "options": [
+   "$2,000 favourable",
+   "$6,000 adverse",
+   "$1,000 adverse",
+   "$1,000 favourable"
+  ],
+  "answer": 3,
+  "explanation": "(Standard price − actual price) × actual quantity = (6 − 5) × 1000 = 1000. Paying less than standard is favourable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Variances",
+  "body": "The standard price of material is $10/kg. 1,300 kg were bought at $9.5/kg. What is the material price variance?",
+  "options": [
+   "$650 favourable",
+   "$650 adverse",
+   "$1,300 favourable",
+   "$13,000 adverse"
+  ],
+  "answer": 0,
+  "explanation": "(Standard price − actual price) × actual quantity = (10 − 9.5) × 1300 = 650. Paying less than standard is favourable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Variances",
+  "body": "The standard price of material is $5/kg. 1,000 kg were bought at $4/kg. What is the material price variance?",
+  "options": [
+   "$5,000 adverse",
+   "$1,000 favourable",
+   "$2,000 favourable",
+   "$1,000 adverse"
+  ],
+  "answer": 1,
+  "explanation": "(Standard price − actual price) × actual quantity = (5 − 4) × 1000 = 1000. Paying less than standard is favourable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Variances",
+  "body": "The standard price of material is $5/kg. 600 kg were bought at $4.5/kg. What is the material price variance?",
+  "options": [
+   "$3,000 adverse",
+   "$300 favourable",
+   "$300 adverse",
+   "$600 favourable"
+  ],
+  "answer": 1,
+  "explanation": "(Standard price − actual price) × actual quantity = (5 − 4.5) × 600 = 300. Paying less than standard is favourable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Variances",
+  "body": "The standard price of material is $10/kg. 1,500 kg were bought at $10.5/kg. What is the material price variance?",
+  "options": [
+   "$750 adverse",
+   "$1,500 adverse",
+   "$750 favourable",
+   "$15,000 adverse"
+  ],
+  "answer": 0,
+  "explanation": "(Standard price − actual price) × actual quantity = (10 − 10.5) × 1500 = -750. Paying more than standard is adverse.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost behaviour",
+  "body": "Fixed costs are $52,000 and variable cost is $4 per unit. What is the total cost per unit at 17,000 units?",
+  "options": [
+   "$4",
+   "$8.06",
+   "$7.06",
+   "$14.12"
+  ],
+  "answer": 2,
+  "explanation": "Total cost = 52000 + 17000 × 4 = 120,000; ÷ 17000 = $7.06.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost behaviour",
+  "body": "Fixed costs are $75,000 and variable cost is $14 per unit. What is the total cost per unit at 6,000 units?",
+  "options": [
+   "$53",
+   "$14",
+   "$12.5",
+   "$26.5"
+  ],
+  "answer": 3,
+  "explanation": "Total cost = 75000 + 6000 × 14 = 159,000; ÷ 6000 = $26.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost behaviour",
+  "body": "Fixed costs are $62,000 and variable cost is $3 per unit. What is the total cost per unit at 13,000 units?",
+  "options": [
+   "$7.77",
+   "$15.54",
+   "$3",
+   "$8.77"
+  ],
+  "answer": 0,
+  "explanation": "Total cost = 62000 + 13000 × 3 = 101,000; ÷ 13000 = $7.77.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost behaviour",
+  "body": "Fixed costs are $13,000 and variable cost is $7 per unit. What is the total cost per unit at 12,000 units?",
+  "options": [
+   "$16.16",
+   "$8.08",
+   "$7",
+   "$9.08"
+  ],
+  "answer": 1,
+  "explanation": "Total cost = 13000 + 12000 × 7 = 97,000; ÷ 12000 = $8.08.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost behaviour",
+  "body": "Fixed costs are $64,000 and variable cost is $10 per unit. What is the total cost per unit at 13,000 units?",
+  "options": [
+   "$29.84",
+   "$15.92",
+   "$14.92",
+   "$10"
+  ],
+  "answer": 2,
+  "explanation": "Total cost = 64000 + 13000 × 10 = 194,000; ÷ 13000 = $14.92.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost behaviour",
+  "body": "Fixed costs are $52,000 and variable cost is $9 per unit. What is the total cost per unit at 14,000 units?",
+  "options": [
+   "$12.71",
+   "$25.42",
+   "$13.71",
+   "$9"
+  ],
+  "answer": 0,
+  "explanation": "Total cost = 52000 + 14000 × 9 = 178,000; ÷ 14000 = $12.71.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost behaviour",
+  "body": "Fixed costs are $33,000 and variable cost is $8 per unit. What is the total cost per unit at 5,000 units?",
+  "options": [
+   "$29.2",
+   "$14.6",
+   "$8",
+   "$6.6"
+  ],
+  "answer": 1,
+  "explanation": "Total cost = 33000 + 5000 × 8 = 73,000; ÷ 5000 = $14.6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost behaviour",
+  "body": "Fixed costs are $57,000 and variable cost is $5 per unit. What is the total cost per unit at 4,000 units?",
+  "options": [
+   "$19.25",
+   "$14.25",
+   "$38.5",
+   "$5"
+  ],
+  "answer": 0,
+  "explanation": "Total cost = 57000 + 4000 × 5 = 77,000; ÷ 4000 = $19.25.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost behaviour",
+  "body": "Fixed costs are $24,000 and variable cost is $13 per unit. What is the total cost per unit at 19,000 units?",
+  "options": [
+   "$15.26",
+   "$28.52",
+   "$14.26",
+   "$13"
+  ],
+  "answer": 2,
+  "explanation": "Total cost = 24000 + 19000 × 13 = 271,000; ÷ 19000 = $14.26.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AMA",
+  "topic": "Cost behaviour",
+  "body": "Fixed costs are $35,000 and variable cost is $2 per unit. What is the total cost per unit at 16,000 units?",
+  "options": [
+   "$2",
+   "$5.19",
+   "$4.19",
+   "$8.38"
+  ],
+  "answer": 2,
+  "explanation": "Total cost = 35000 + 16000 × 2 = 67,000; ÷ 16000 = $4.19.",
+  "difficulty": 1
+ }
+]

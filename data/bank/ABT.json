@@ -1,0 +1,170 @@
+[
+ {
+  "subject": "ABT",
+  "topic": "Business organisation",
+  "body": "Which type of organisation is owned by shareholders whose liability is limited?",
+  "options": [
+   "A partnership (general)",
+   "A charity trust only",
+   "A sole trader",
+   "A limited company"
+  ],
+  "answer": 3,
+  "explanation": "Shareholders can lose only what they invested.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ABT",
+  "topic": "Business organisation",
+  "body": "In Mintzberg's model, which part of the organisation directly produces goods and services?",
+  "options": [
+   "The technostructure",
+   "The operating core",
+   "The support staff",
+   "The strategic apex"
+  ],
+  "answer": 1,
+  "explanation": "The strategic apex is senior management.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ABT",
+  "topic": "Business organisation",
+  "body": "A tall organisation structure typically has",
+  "options": [
+   "many levels of management and narrow spans of control",
+   "only project teams",
+   "no managers",
+   "few levels and wide spans of control"
+  ],
+  "answer": 0,
+  "explanation": "Flat structures have wide spans.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ABT",
+  "topic": "Corporate governance",
+  "body": "What is the main purpose of corporate governance?",
+  "options": [
+   "To prepare tax returns",
+   "To direct and control companies in shareholders' and stakeholders' interests",
+   "To maximise directors' pay",
+   "To set product prices"
+  ],
+  "answer": 1,
+  "explanation": "It covers accountability, transparency and fairness.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ABT",
+  "topic": "Corporate governance",
+  "body": "Which committee is usually responsible for overseeing external audit?",
+  "options": [
+   "The nomination committee",
+   "The audit committee",
+   "The remuneration committee",
+   "The sales committee"
+  ],
+  "answer": 1,
+  "explanation": "Made up of independent non-executive directors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ABT",
+  "topic": "Environment",
+  "body": "PESTEL analysis examines",
+  "options": [
+   "political, economic, social, technological, environmental and legal factors",
+   "staff performance only",
+   "prices, earnings, sales, tax, equity and liquidity",
+   "competitors' strengths only"
+  ],
+  "answer": 0,
+  "explanation": "An external environment tool.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ABT",
+  "topic": "Environment",
+  "body": "In Porter's five forces, the threat of new entrants is reduced by",
+  "options": [
+   "high barriers to entry, such as economies of scale",
+   "low capital requirements",
+   "many small suppliers",
+   "weak brand loyalty"
+  ],
+  "answer": 0,
+  "explanation": "Barriers protect existing firms.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ABT",
+  "topic": "Leadership & teams",
+  "body": "In Tuckman's model, which stage involves conflict over roles and goals?",
+  "options": [
+   "Performing",
+   "Norming",
+   "Forming",
+   "Storming"
+  ],
+  "answer": 3,
+  "explanation": "Order: forming, storming, norming, performing, adjourning.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ABT",
+  "topic": "Leadership & teams",
+  "body": "According to Herzberg, which is a hygiene factor rather than a motivator?",
+  "options": [
+   "Salary",
+   "Achievement",
+   "Responsibility",
+   "Recognition"
+  ],
+  "answer": 0,
+  "explanation": "Hygiene factors prevent dissatisfaction.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ABT",
+  "topic": "Ethics",
+  "body": "Which is one of the fundamental principles in the ACCA Code of Ethics?",
+  "options": [
+   "Objectivity",
+   "Secrecy",
+   "Loyalty to the employer above all",
+   "Profitability"
+  ],
+  "answer": 0,
+  "explanation": "Others: integrity, professional competence and due care, confidentiality, professional behaviour.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ABT",
+  "topic": "Ethics",
+  "body": "An accountant is asked to approve a loan to a relative's company. This is a threat of",
+  "options": [
+   "self-review only",
+   "no threat",
+   "self-interest / familiarity",
+   "advocacy only"
+  ],
+  "answer": 2,
+  "explanation": "Safeguards or withdrawal are needed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ABT",
+  "topic": "Internal control",
+  "body": "Separating the authorisation, recording and custody of assets is an example of",
+  "options": [
+   "benchmarking",
+   "segregation of duties",
+   "budgeting",
+   "reconciliation"
+  ],
+  "answer": 1,
+  "explanation": "It reduces fraud and error.",
+  "difficulty": 2
+ }
+]

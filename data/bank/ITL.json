@@ -1,0 +1,338 @@
+[
+ {
+  "subject": "ITL",
+  "topic": "Key concepts",
+  "body": "In ITIL 4, what is 'value'?",
+  "options": [
+   "The number of tickets closed",
+   "The cost of IT",
+   "The perceived benefits, usefulness and importance of something",
+   "The price of a service"
+  ],
+  "answer": 2,
+  "explanation": "Value is co-created with consumers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITL",
+  "topic": "Key concepts",
+  "body": "What are the four dimensions of service management?",
+  "options": [
+   "Organizations and people; information and technology; partners and suppliers; value streams and processes",
+   "Plan, build, run, retire",
+   "Strategy, design, transition, operation",
+   "People, process, product, partner only"
+  ],
+  "answer": 0,
+  "explanation": "They must be balanced for effective services.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITL",
+  "topic": "Key concepts",
+  "body": "What is the core of the ITIL service value system?",
+  "options": [
+   "The change advisory board",
+   "The service value chain",
+   "The CMDB",
+   "The service desk"
+  ],
+  "answer": 1,
+  "explanation": "Plus guiding principles, governance, practices and continual improvement.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITL",
+  "topic": "Key concepts",
+  "body": "Which is NOT a service value chain activity?",
+  "options": [
+   "Monitor",
+   "Engage",
+   "Plan",
+   "Obtain/build"
+  ],
+  "answer": 0,
+  "explanation": "The six activities: plan, improve, engage, design & transition, obtain/build, deliver & support.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITL",
+  "topic": "Practices",
+  "body": "What is the purpose of the incident management practice?",
+  "options": [
+   "To approve changes",
+   "To manage supplier contracts",
+   "To minimise the negative impact of incidents by restoring normal service as quickly as possible",
+   "To find the root cause of problems"
+  ],
+  "answer": 2,
+  "explanation": "Problem management finds root causes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITL",
+  "topic": "Practices",
+  "body": "What is a problem in ITIL 4?",
+  "options": [
+   "A request for information",
+   "An unplanned interruption to a service",
+   "A cause, or potential cause, of one or more incidents",
+   "A failed change"
+  ],
+  "answer": 2,
+  "explanation": "An incident is an unplanned interruption or reduction in quality.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITL",
+  "topic": "Practices",
+  "body": "Which practice ensures that risks are properly assessed and changes are authorised?",
+  "options": [
+   "Service level management",
+   "Change enablement",
+   "Service request management",
+   "Incident management"
+  ],
+  "answer": 1,
+  "explanation": "Standard changes are pre-authorised.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITL",
+  "topic": "Practices",
+  "body": "Which type of change is low-risk, pre-authorised and well understood?",
+  "options": [
+   "Normal change",
+   "Standard change",
+   "Emergency change",
+   "Major change"
+  ],
+  "answer": 1,
+  "explanation": "Normal changes need assessment and authorisation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITL",
+  "topic": "Practices",
+  "body": "What is the purpose of the service desk practice?",
+  "options": [
+   "To manage budgets",
+   "To design new services",
+   "To negotiate contracts",
+   "To capture demand for incident resolution and service requests"
+  ],
+  "answer": 3,
+  "explanation": "The single point of contact for users.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITL",
+  "topic": "Practices",
+  "body": "Which practice sets clear business-based targets for service performance?",
+  "options": [
+   "Relationship management",
+   "Problem management",
+   "Change enablement",
+   "Service level management"
+  ],
+  "answer": 3,
+  "explanation": "SLAs should reflect the customer's experience.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITL",
+  "topic": "Guiding principles",
+  "body": "Which ITIL 4 guiding principle says that you should everything the organisation does should link back to value for itself, its customers and stakeholders?",
+  "options": [
+   "Progress iteratively with feedback",
+   "Focus on value",
+   "Collaborate and promote visibility",
+   "Start where you are"
+  ],
+  "answer": 1,
+  "explanation": "Focus on value: everything the organisation does should link back to value for itself, its customers and stakeholders.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITL",
+  "topic": "Guiding principles",
+  "body": "Which ITIL 4 guiding principle says that you should assess and reuse what already exists before building something new?",
+  "options": [
+   "Start where you are",
+   "Progress iteratively with feedback",
+   "Focus on value",
+   "Collaborate and promote visibility"
+  ],
+  "answer": 0,
+  "explanation": "Start where you are: assess and reuse what already exists before building something new.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITL",
+  "topic": "Guiding principles",
+  "body": "Which ITIL 4 guiding principle says that you should organise work into smaller, manageable sections and use feedback at each step?",
+  "options": [
+   "Progress iteratively with feedback",
+   "Focus on value",
+   "Start where you are",
+   "Collaborate and promote visibility"
+  ],
+  "answer": 0,
+  "explanation": "Progress iteratively with feedback: organise work into smaller, manageable sections and use feedback at each step.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITL",
+  "topic": "Guiding principles",
+  "body": "Which ITIL 4 guiding principle says that you should work together across boundaries and make work and progress visible?",
+  "options": [
+   "Start where you are",
+   "Collaborate and promote visibility",
+   "Progress iteratively with feedback",
+   "Focus on value"
+  ],
+  "answer": 1,
+  "explanation": "Collaborate and promote visibility: work together across boundaries and make work and progress visible.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITL",
+  "topic": "Guiding principles",
+  "body": "Which ITIL 4 guiding principle says that you should consider the whole system and how its parts interact, not just one part?",
+  "options": [
+   "Progress iteratively with feedback",
+   "Start where you are",
+   "Focus on value",
+   "Think and work holistically"
+  ],
+  "answer": 3,
+  "explanation": "Think and work holistically: consider the whole system and how its parts interact, not just one part.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITL",
+  "topic": "Guiding principles",
+  "body": "Which ITIL 4 guiding principle says that you should use the minimum number of steps needed and remove anything that adds no value?",
+  "options": [
+   "Start where you are",
+   "Progress iteratively with feedback",
+   "Focus on value",
+   "Keep it simple and practical"
+  ],
+  "answer": 3,
+  "explanation": "Keep it simple and practical: use the minimum number of steps needed and remove anything that adds no value.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITL",
+  "topic": "Guiding principles",
+  "body": "Which ITIL 4 guiding principle says that you should maximise the value of work, then automate where it makes sense?",
+  "options": [
+   "Start where you are",
+   "Focus on value",
+   "Progress iteratively with feedback",
+   "Optimize and automate"
+  ],
+  "answer": 3,
+  "explanation": "Optimize and automate: maximise the value of work, then automate where it makes sense.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITL",
+  "topic": "Guiding principles",
+  "body": "Which of these is one of the seven ITIL 4 guiding principles? (1)",
+  "options": [
+   "Automate first, analyse later",
+   "Fail fast and fix later",
+   "Plan everything upfront",
+   "Focus on value"
+  ],
+  "answer": 3,
+  "explanation": "The seven guiding principles: Focus on value, Start where you are, Progress iteratively with feedback, Collaborate and promote visibility, Think and work holistically, Keep it simple and practical, Optimize and automate.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITL",
+  "topic": "Guiding principles",
+  "body": "Which of these is one of the seven ITIL 4 guiding principles? (2)",
+  "options": [
+   "Avoid stakeholder involvement",
+   "Automate first, analyse later",
+   "Plan everything upfront",
+   "Start where you are"
+  ],
+  "answer": 3,
+  "explanation": "The seven guiding principles: Focus on value, Start where you are, Progress iteratively with feedback, Collaborate and promote visibility, Think and work holistically, Keep it simple and practical, Optimize and automate.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITL",
+  "topic": "Guiding principles",
+  "body": "Which of these is one of the seven ITIL 4 guiding principles? (3)",
+  "options": [
+   "Automate first, analyse later",
+   "Progress iteratively with feedback",
+   "Avoid stakeholder involvement",
+   "Follow the process exactly"
+  ],
+  "answer": 1,
+  "explanation": "The seven guiding principles: Focus on value, Start where you are, Progress iteratively with feedback, Collaborate and promote visibility, Think and work holistically, Keep it simple and practical, Optimize and automate.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITL",
+  "topic": "Guiding principles",
+  "body": "Which of these is one of the seven ITIL 4 guiding principles? (4)",
+  "options": [
+   "Collaborate and promote visibility",
+   "Fail fast and fix later",
+   "Automate first, analyse later",
+   "Plan everything upfront"
+  ],
+  "answer": 0,
+  "explanation": "The seven guiding principles: Focus on value, Start where you are, Progress iteratively with feedback, Collaborate and promote visibility, Think and work holistically, Keep it simple and practical, Optimize and automate.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITL",
+  "topic": "Guiding principles",
+  "body": "Which of these is one of the seven ITIL 4 guiding principles? (5)",
+  "options": [
+   "Plan everything upfront",
+   "Think and work holistically",
+   "Automate first, analyse later",
+   "Avoid stakeholder involvement"
+  ],
+  "answer": 1,
+  "explanation": "The seven guiding principles: Focus on value, Start where you are, Progress iteratively with feedback, Collaborate and promote visibility, Think and work holistically, Keep it simple and practical, Optimize and automate.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITL",
+  "topic": "Guiding principles",
+  "body": "Which of these is one of the seven ITIL 4 guiding principles? (6)",
+  "options": [
+   "Keep it simple and practical",
+   "Automate first, analyse later",
+   "Avoid stakeholder involvement",
+   "Follow the process exactly"
+  ],
+  "answer": 0,
+  "explanation": "The seven guiding principles: Focus on value, Start where you are, Progress iteratively with feedback, Collaborate and promote visibility, Think and work holistically, Keep it simple and practical, Optimize and automate.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITL",
+  "topic": "Guiding principles",
+  "body": "Which of these is one of the seven ITIL 4 guiding principles? (7)",
+  "options": [
+   "Plan everything upfront",
+   "Automate first, analyse later",
+   "Optimize and automate",
+   "Fail fast and fix later"
+  ],
+  "answer": 2,
+  "explanation": "The seven guiding principles: Focus on value, Start where you are, Progress iteratively with feedback, Collaborate and promote visibility, Think and work holistically, Keep it simple and practical, Optimize and automate.",
+  "difficulty": 1
+ }
+]

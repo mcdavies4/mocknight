@@ -1,0 +1,366 @@
+[
+ {
+  "subject": "IEV",
+  "topic": "Grammar",
+  "body": "Choose the correct option: 'If I ______ more time, I would travel more.'",
+  "options": [
+   "would have",
+   "will have",
+   "have",
+   "had"
+  ],
+  "answer": 3,
+  "explanation": "Second conditional: if + past simple, would + infinitive.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Grammar",
+  "body": "Choose the correct option: 'By the time we arrived, the film ______.'",
+  "options": [
+   "starts",
+   "has already started",
+   "already started",
+   "had already started"
+  ],
+  "answer": 3,
+  "explanation": "Past perfect for an action completed before another past action.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Grammar",
+  "body": "Choose the correct option: 'She has lived in London ______ 2015.'",
+  "options": [
+   "for",
+   "from",
+   "since",
+   "during"
+  ],
+  "answer": 2,
+  "explanation": "Since + a point in time; for + a period.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Grammar",
+  "body": "Choose the correct option: 'Neither the manager nor the staff ______ aware of the change.'",
+  "options": [
+   "is",
+   "has been",
+   "was",
+   "were"
+  ],
+  "answer": 3,
+  "explanation": "With neither…nor, the verb agrees with the nearer subject.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Grammar",
+  "body": "Choose the correct option: 'The number of students ______ increased significantly.'",
+  "options": [
+   "were",
+   "has",
+   "have",
+   "are"
+  ],
+  "answer": 1,
+  "explanation": "'The number of' takes a singular verb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Grammar",
+  "body": "Choose the correct option: 'This is the city ______ I was born.'",
+  "options": [
+   "where",
+   "whose",
+   "which",
+   "who"
+  ],
+  "answer": 0,
+  "explanation": "Use 'where' for places.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Grammar",
+  "body": "Choose the correct option: 'He suggested ______ the meeting until Friday.'",
+  "options": [
+   "postponing",
+   "to postpone",
+   "postponed",
+   "postpone"
+  ],
+  "answer": 0,
+  "explanation": "'Suggest' is followed by -ing (or 'that' + clause).",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Grammar",
+  "body": "Choose the correct option: 'The report ______ by the committee last week.'",
+  "options": [
+   "has approved",
+   "was approved",
+   "is approving",
+   "approved"
+  ],
+  "answer": 1,
+  "explanation": "Passive voice in the past.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Grammar",
+  "body": "Choose the correct option: 'Hardly ______ arrived when it started to rain.'",
+  "options": [
+   "we had",
+   "did we",
+   "we have",
+   "had we"
+  ],
+  "answer": 3,
+  "explanation": "Inversion after negative adverbials.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Grammar",
+  "body": "Choose the correct option: 'I'm used to ______ early.'",
+  "options": [
+   "got up",
+   "get up",
+   "getting up",
+   "have got up"
+  ],
+  "answer": 2,
+  "explanation": "'Be used to' + -ing means accustomed to.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Vocabulary",
+  "body": "Which word best completes the sentence? 'Unemployment rose ______ between 2010 and 2015.' (Writing Task 1)",
+  "options": [
+   "steadiness",
+   "steadily",
+   "steady",
+   "steadied"
+  ],
+  "answer": 1,
+  "explanation": "An adverb describes how the trend changed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Vocabulary",
+  "body": "Which word means 'to make something less severe'?",
+  "options": [
+   "aggravate",
+   "exacerbate",
+   "intensify",
+   "mitigate"
+  ],
+  "answer": 3,
+  "explanation": "Exacerbate means make worse.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Vocabulary",
+  "body": "Which word means 'happening every year'?",
+  "options": [
+   "decade",
+   "annual",
+   "biannual (twice a year)",
+   "perennial only of plants"
+  ],
+  "answer": 1,
+  "explanation": "Biannual means twice a year; biennial every two years.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Vocabulary",
+  "body": "Choose the best word: 'The government should ______ more funding to public transport.'",
+  "options": [
+   "allot to",
+   "allude",
+   "allow",
+   "allocate"
+  ],
+  "answer": 3,
+  "explanation": "Allocate funding.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Vocabulary",
+  "body": "Which word is a formal synonym for 'show' in academic writing?",
+  "options": [
+   "reckon",
+   "illustrate",
+   "get across",
+   "sort out"
+  ],
+  "answer": 1,
+  "explanation": "Prefer formal vocabulary in Task 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Vocabulary",
+  "body": "Which linking word introduces a contrast?",
+  "options": [
+   "For instance",
+   "Furthermore",
+   "Consequently",
+   "Nevertheless"
+  ],
+  "answer": 3,
+  "explanation": "Furthermore adds; consequently shows result; for instance gives an example.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Vocabulary",
+  "body": "Which linking phrase introduces a result?",
+  "options": [
+   "On the other hand",
+   "In addition",
+   "As a result",
+   "Similarly"
+  ],
+  "answer": 2,
+  "explanation": "Used to show cause and effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Vocabulary",
+  "body": "Choose the correct collocation: 'to ______ a decision'",
+  "options": [
+   "take up",
+   "make",
+   "give",
+   "do"
+  ],
+  "answer": 1,
+  "explanation": "Make a decision (British English also accepts 'take a decision').",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Vocabulary",
+  "body": "Choose the correct collocation: 'to ______ research'",
+  "options": [
+   "carry out",
+   "make",
+   "do up",
+   "perform up"
+  ],
+  "answer": 0,
+  "explanation": "Carry out (or conduct / do) research.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Vocabulary",
+  "body": "Which word means 'able to be maintained over a long period'?",
+  "options": [
+   "sustainable",
+   "volatile",
+   "obsolete",
+   "temporary"
+  ],
+  "answer": 0,
+  "explanation": "Common in environment topics.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Vocabulary",
+  "body": "In Writing Task 1, which phrase describes a sharp fall?",
+  "options": [
+   "fluctuated",
+   "levelled off",
+   "plummeted",
+   "peaked"
+  ],
+  "answer": 2,
+  "explanation": "Levelled off = stayed stable; fluctuated = rose and fell.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Vocabulary",
+  "body": "Which word best fits: 'There is a ______ correlation between exercise and life expectancy.'",
+  "options": [
+   "positive",
+   "positiveness",
+   "positively",
+   "positivity"
+  ],
+  "answer": 0,
+  "explanation": "An adjective is needed before the noun.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Exam technique",
+  "body": "In IELTS Reading, a 'Not Given' answer means",
+  "options": [
+   "the answer is uncertain to the writer",
+   "the statement contradicts the text",
+   "the text contains no information about the statement",
+   "the statement agrees with the text"
+  ],
+  "answer": 2,
+  "explanation": "False means the text says the opposite.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Exam technique",
+  "body": "How many words should an IELTS Writing Task 2 essay contain at minimum?",
+  "options": [
+   "200",
+   "400",
+   "250",
+   "150"
+  ],
+  "answer": 2,
+  "explanation": "Task 1 needs at least 150 words.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Exam technique",
+  "body": "How long is the IELTS Listening test (excluding transfer time)?",
+  "options": [
+   "About 30 minutes",
+   "60 minutes",
+   "15 minutes",
+   "2 hours"
+  ],
+  "answer": 0,
+  "explanation": "Paper-based tests add 10 minutes to transfer answers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEV",
+  "topic": "Exam technique",
+  "body": "IELTS Writing is marked on Task Achievement/Response, Coherence and Cohesion, Lexical Resource and",
+  "options": [
+   "Speed",
+   "Grammatical Range and Accuracy",
+   "Word count only",
+   "Handwriting"
+  ],
+  "answer": 1,
+  "explanation": "Each criterion is 25% of the band.",
+  "difficulty": 2
+ }
+]

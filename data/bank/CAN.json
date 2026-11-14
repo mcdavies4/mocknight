@@ -1,0 +1,478 @@
+[
+ {
+  "subject": "CAN",
+  "topic": "Government",
+  "body": "Canada is a constitutional monarchy, a parliamentary democracy and a",
+  "options": [
+   "federal state",
+   "republic",
+   "unitary state with no provinces",
+   "direct democracy"
+  ],
+  "answer": 0,
+  "explanation": "Three key facts about Canada's system of government.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Government",
+  "body": "Who is Canada's Head of State?",
+  "options": [
+   "The Prime Minister",
+   "The Sovereign (the King of Canada)",
+   "The Governor General",
+   "The Chief Justice"
+  ],
+  "answer": 1,
+  "explanation": "The Governor General represents the Sovereign in Canada.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Government",
+  "body": "Who represents the Sovereign in Canada?",
+  "options": [
+   "The Governor General",
+   "The Prime Minister",
+   "The Premier of Ontario",
+   "The Speaker of the Senate"
+  ],
+  "answer": 0,
+  "explanation": "Lieutenant Governors represent the Sovereign in the provinces.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Government",
+  "body": "Who is the head of the federal government?",
+  "options": [
+   "The Governor General",
+   "The Prime Minister",
+   "The King",
+   "The Chief Justice"
+  ],
+  "answer": 1,
+  "explanation": "The PM selects Cabinet ministers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Government",
+  "body": "What are the three parts of Parliament?",
+  "options": [
+   "The provinces, territories and cities",
+   "The PM, the Cabinet and the courts",
+   "The Sovereign, the Senate and the House of Commons",
+   "The House, the Senate and the Supreme Court"
+  ],
+  "answer": 2,
+  "explanation": "Bills must pass both Houses and receive Royal Assent.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Government",
+  "body": "Members of the House of Commons are called",
+  "options": [
+   "Senators",
+   "Lieutenant Governors",
+   "Members of Parliament (MPs)",
+   "Premiers"
+  ],
+  "answer": 2,
+  "explanation": "They are elected in federal elections.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Government",
+  "body": "How are senators chosen?",
+  "options": [
+   "Appointed by the Governor General on the advice of the Prime Minister",
+   "Elected by citizens",
+   "Chosen by provinces",
+   "Inherited"
+  ],
+  "answer": 0,
+  "explanation": "They serve until age 75.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Government",
+  "body": "What is the head of a provincial government called?",
+  "options": [
+   "Premier",
+   "Mayor",
+   "Governor",
+   "Prime Minister"
+  ],
+  "answer": 0,
+  "explanation": "Territories also have premiers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Government",
+  "body": "How many provinces and territories does Canada have?",
+  "options": [
+   "9 provinces and 4 territories",
+   "10 provinces and 3 territories",
+   "12 provinces and 1 territory",
+   "13 provinces"
+  ],
+  "answer": 1,
+  "explanation": "Territories: Yukon, Northwest Territories and Nunavut.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Government",
+  "body": "What is the minimum voting age in federal elections?",
+  "options": [
+   "21",
+   "18",
+   "16",
+   "19"
+  ],
+  "answer": 1,
+  "explanation": "Voters must be Canadian citizens.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Government",
+  "body": "Elections are held using which system?",
+  "options": [
+   "The Senate chooses the winner",
+   "Ranked choice nationally",
+   "First past the post — the candidate with the most votes wins",
+   "Proportional representation"
+  ],
+  "answer": 2,
+  "explanation": "Each riding elects one MP.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Rights & responsibilities",
+  "body": "In what year was the Canadian Charter of Rights and Freedoms entrenched in the Constitution?",
+  "options": [
+   "1982",
+   "1960",
+   "1931",
+   "1867"
+  ],
+  "answer": 0,
+  "explanation": "Part of the Constitution Act, 1982.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Rights & responsibilities",
+  "body": "Which of these is a responsibility of citizenship?",
+  "options": [
+   "Owning a home",
+   "Serving on a jury when called",
+   "Learning both official languages fluently",
+   "Joining a political party"
+  ],
+  "answer": 1,
+  "explanation": "Others include voting, obeying the law and helping others.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Rights & responsibilities",
+  "body": "What are Canada's two official languages?",
+  "options": [
+   "English and French",
+   "English and Inuktitut",
+   "English and Cree",
+   "French and Spanish"
+  ],
+  "answer": 0,
+  "explanation": "Protected by the Official Languages Act.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Rights & responsibilities",
+  "body": "Which right is protected by the Charter?",
+  "options": [
+   "The right to free housing",
+   "The right to carry weapons",
+   "Mobility rights — to live and work anywhere in Canada",
+   "The right to vote at 16"
+  ],
+  "answer": 2,
+  "explanation": "Also freedom of expression, religion and peaceful assembly.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "History",
+  "body": "In what year did Canada become a country (Confederation)?",
+  "options": [
+   "1763",
+   "1812",
+   "1867",
+   "1982"
+  ],
+  "answer": 2,
+  "explanation": "July 1, 1867 — now Canada Day.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "History",
+  "body": "Which four provinces joined Confederation first?",
+  "options": [
+   "Quebec, Nova Scotia, PEI and Newfoundland",
+   "Ontario, Quebec, Nova Scotia and New Brunswick",
+   "Ontario, Alberta, Saskatchewan and Manitoba",
+   "Ontario, Quebec, Manitoba and BC"
+  ],
+  "answer": 1,
+  "explanation": "The Fathers of Confederation created the Dominion of Canada.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "History",
+  "body": "Who was Canada's first Prime Minister?",
+  "options": [
+   "Sir George-Étienne Cartier",
+   "Lester B. Pearson",
+   "Sir Wilfrid Laurier",
+   "Sir John A. Macdonald"
+  ],
+  "answer": 3,
+  "explanation": "He served from 1867.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "History",
+  "body": "Who was the first French-Canadian Prime Minister since Confederation?",
+  "options": [
+   "Louis St. Laurent",
+   "Jean Chrétien",
+   "Pierre Trudeau",
+   "Sir Wilfrid Laurier"
+  ],
+  "answer": 3,
+  "explanation": "His portrait is on the $5 bill.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "History",
+  "body": "What were the Aboriginal peoples of Canada called collectively in the Constitution?",
+  "options": [
+   "Settlers and Natives",
+   "Indian (First Nations), Inuit and Métis",
+   "Iroquois, Huron and Cree",
+   "Algonquin and Haida"
+  ],
+  "answer": 1,
+  "explanation": "Three distinct groups.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "History",
+  "body": "What is the Battle of Vimy Ridge (1917) remembered for?",
+  "options": [
+   "Ending the War of 1812",
+   "The start of Confederation",
+   "A Second World War naval battle",
+   "A defining Canadian victory in the First World War"
+  ],
+  "answer": 3,
+  "explanation": "Over 10,000 Canadians were killed or wounded.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "History",
+  "body": "What did the Canadian Pacific Railway, completed in 1885, do?",
+  "options": [
+   "Connected Canada to the USA only",
+   "Carried oil from Alberta",
+   "Ran only in Quebec",
+   "Linked Canada from coast to coast"
+  ],
+  "answer": 3,
+  "explanation": "It helped unite the country.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "History",
+  "body": "When is Remembrance Day?",
+  "options": [
+   "May 24",
+   "November 11",
+   "June 21",
+   "July 1"
+  ],
+  "answer": 1,
+  "explanation": "Canadians wear the poppy to honour those who served.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Geography",
+  "body": "What is the capital of Canada?",
+  "options": [
+   "Montreal",
+   "Vancouver",
+   "Toronto",
+   "Ottawa"
+  ],
+  "answer": 3,
+  "explanation": "Located in Ontario.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Geography",
+  "body": "What is the capital of Quebec?",
+  "options": [
+   "Sherbrooke",
+   "Montreal",
+   "Quebec City",
+   "Ottawa"
+  ],
+  "answer": 2,
+  "explanation": "Montreal is the largest city in Quebec.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Geography",
+  "body": "What is the capital of British Columbia?",
+  "options": [
+   "Kelowna",
+   "Vancouver",
+   "Victoria",
+   "Surrey"
+  ],
+  "answer": 2,
+  "explanation": "On Vancouver Island.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Geography",
+  "body": "What is the capital of Alberta?",
+  "options": [
+   "Banff",
+   "Edmonton",
+   "Red Deer",
+   "Calgary"
+  ],
+  "answer": 1,
+  "explanation": "Calgary is Alberta's largest city.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Geography",
+  "body": "What is the capital of Nova Scotia?",
+  "options": [
+   "Moncton",
+   "Truro",
+   "Sydney",
+   "Halifax"
+  ],
+  "answer": 3,
+  "explanation": "A major Atlantic port.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Geography",
+  "body": "What is the capital of Nunavut?",
+  "options": [
+   "Iqaluit",
+   "Whitehorse",
+   "Rankin Inlet",
+   "Yellowknife"
+  ],
+  "answer": 0,
+  "explanation": "Nunavut was created in 1999.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Geography",
+  "body": "Which ocean borders Canada to the north?",
+  "options": [
+   "The Arctic Ocean",
+   "The Pacific Ocean",
+   "The Atlantic Ocean",
+   "The Indian Ocean"
+  ],
+  "answer": 0,
+  "explanation": "Canada's motto refers to 'from sea to sea'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Geography",
+  "body": "Which is Canada's most populous province?",
+  "options": [
+   "Ontario",
+   "Alberta",
+   "British Columbia",
+   "Quebec"
+  ],
+  "answer": 0,
+  "explanation": "More than a third of Canadians live in Ontario.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Symbols",
+  "body": "What is on the Canadian flag?",
+  "options": [
+   "A moose",
+   "A crown",
+   "A red maple leaf",
+   "A beaver"
+  ],
+  "answer": 2,
+  "explanation": "Adopted in 1965.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Symbols",
+  "body": "What is the national anthem of Canada?",
+  "options": [
+   "The Maple Leaf Forever",
+   "O Canada",
+   "True North",
+   "God Save the King"
+  ],
+  "answer": 1,
+  "explanation": "Proclaimed the national anthem in 1980.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CAN",
+  "topic": "Symbols",
+  "body": "What is Canada's motto?",
+  "options": [
+   "Peace, order and good government",
+   "Unity in diversity",
+   "From sea to sea (A mari usque ad mare)",
+   "Strong and free"
+  ],
+  "answer": 2,
+  "explanation": "'Peace, order and good government' is from the Constitution.",
+  "difficulty": 1
+ }
+]

@@ -34,11 +34,12 @@ export async function GET(req: Request) {
     await probe("0004 NMC test variants", () => db().from("mocks").select("variant").limit(1));
     await probe("0005 project management subjects", () => db().from("subjects").select("code").eq("code", "PRN").single());
     await probe("0006 Ethiopia & India subjects", () => db().from("subjects").select("code").eq("code", "QNT").single());
+    await probe("0017 expansion subjects", () => db().from("subjects").select("code").eq("code", "USC").single());
     await probe("0007 UK pathway subjects", () => db().from("subjects").select("code").eq("code", "DRV").single());
     await probe("0008 UK practice publication", () => db().from("questions").select("practice_published").limit(1));
     out.migrations = checks;
 
-    const subjects = ["ENG", "MTH", "PHY", "CHM", "BIO", "ECO", "GOV", "LUK", "FIR", "NMN", "NMC", "NCX", "PLB", "PRN", "SCR", "PMF", "APT", "QNT", "GAI", "HIS", "GEO", "DRV", "FSE1", "FSE2", "FSM1", "FSM2", "CAR"];
+    const subjects = ["ENG", "MTH", "PHY", "CHM", "BIO", "ECO", "GOV", "LUK", "FIR", "NMN", "NMC", "NCX", "PLB", "USC", "CAN", "AUS", "GNX", "IEV", "VRB", "PMP", "ABT", "AMA", "AFA", "ITL", "SSG", "VRS", "ELM", "PRN", "SCR", "PMF", "APT", "QNT", "GAI", "HIS", "GEO", "DRV", "FSE1", "FSE2", "FSM1", "FSM2", "CAR"];
     const counts: Record<string, string> = {};
     for (const s of subjects) {
       const [{ count: reviewed }, { count: all }] = await Promise.all([

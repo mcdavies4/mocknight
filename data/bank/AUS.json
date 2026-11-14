@@ -1,0 +1,380 @@
+[
+ {
+  "subject": "AUS",
+  "topic": "Australia and its people",
+  "body": "What is the capital city of Australia?",
+  "options": [
+   "Canberra",
+   "Melbourne",
+   "Brisbane",
+   "Sydney"
+  ],
+  "answer": 0,
+  "explanation": "Located in the Australian Capital Territory.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Australia and its people",
+  "body": "Who were the first inhabitants of Australia?",
+  "options": [
+   "Pacific Islanders",
+   "Aboriginal and Torres Strait Islander peoples",
+   "Dutch explorers",
+   "British settlers"
+  ],
+  "answer": 1,
+  "explanation": "They have lived in Australia for tens of thousands of years.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Australia and its people",
+  "body": "What is Australia's national language?",
+  "options": [
+   "Indigenous languages only",
+   "There is no common language",
+   "Latin",
+   "English"
+  ],
+  "answer": 3,
+  "explanation": "English is the national language.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Australia and its people",
+  "body": "When did the First Fleet arrive from Great Britain?",
+  "options": [
+   "1850",
+   "1901",
+   "1788",
+   "1770"
+  ],
+  "answer": 2,
+  "explanation": "Australia Day (26 January) marks this anniversary.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Australia and its people",
+  "body": "What happened on 1 January 1901?",
+  "options": [
+   "The Australian colonies united to form the Commonwealth of Australia (Federation)",
+   "The gold rush began",
+   "Captain Cook arrived",
+   "Australia became a republic"
+  ],
+  "answer": 0,
+  "explanation": "Federation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Australia and its people",
+  "body": "What are the colours of the Australian Aboriginal Flag?",
+  "options": [
+   "Black, red and yellow",
+   "Green and gold",
+   "Red, white and green",
+   "Blue, white and red"
+  ],
+  "answer": 0,
+  "explanation": "Recognised as an official flag of Australia.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Australia and its people",
+  "body": "What are Australia's national colours?",
+  "options": [
+   "Blue and white",
+   "Green and gold",
+   "Red and white",
+   "Black and yellow"
+  ],
+  "answer": 1,
+  "explanation": "Used in national sports uniforms.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Australia and its people",
+  "body": "What is Australia's floral emblem?",
+  "options": [
+   "Golden wattle",
+   "Eucalyptus",
+   "Rose",
+   "Waratah"
+  ],
+  "answer": 0,
+  "explanation": "National Wattle Day is 1 September.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Australia and its people",
+  "body": "Which of these is a state of Australia?",
+  "options": [
+   "Northern Territory",
+   "Queensland",
+   "Australian Capital Territory",
+   "Tasman Territory"
+  ],
+  "answer": 1,
+  "explanation": "The six states: NSW, Victoria, Queensland, WA, SA and Tasmania.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Australia and its people",
+  "body": "How many states does Australia have?",
+  "options": [
+   "Five",
+   "Six",
+   "Eight",
+   "Seven"
+  ],
+  "answer": 1,
+  "explanation": "Plus two major mainland territories.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Australia and its people",
+  "body": "What is the capital of Victoria?",
+  "options": [
+   "Geelong",
+   "Melbourne",
+   "Canberra",
+   "Ballarat"
+  ],
+  "answer": 1,
+  "explanation": "Victoria's capital.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Australia and its people",
+  "body": "What is the capital of Western Australia?",
+  "options": [
+   "Adelaide",
+   "Darwin",
+   "Perth",
+   "Broome"
+  ],
+  "answer": 2,
+  "explanation": "Darwin is the capital of the Northern Territory.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Australia and its people",
+  "body": "What is the capital of Tasmania?",
+  "options": [
+   "Devonport",
+   "Launceston",
+   "Canberra",
+   "Hobart"
+  ],
+  "answer": 3,
+  "explanation": "Tasmania is an island state.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Australia and its people",
+  "body": "What is ANZAC Day (25 April) about?",
+  "options": [
+   "Honouring the King's birthday",
+   "Marking the First Fleet's arrival",
+   "Remembering Australians who served and died in war",
+   "Celebrating Federation"
+  ],
+  "answer": 2,
+  "explanation": "It marks the Gallipoli landing in 1915.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Democratic beliefs, rights and liberties",
+  "body": "Which of these is a responsibility of Australian citizens aged 18 or over?",
+  "options": [
+   "Becoming a public servant",
+   "Owning property",
+   "Joining a political party",
+   "Voting in federal and state or territory elections"
+  ],
+  "answer": 3,
+  "explanation": "Voting is compulsory.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Democratic beliefs, rights and liberties",
+  "body": "Which of these is an example of freedom of speech?",
+  "options": [
+   "People can peacefully protest against government decisions",
+   "People can say anything, even if it incites violence",
+   "Newspapers must be approved by the government",
+   "Only politicians can criticise the government"
+  ],
+  "answer": 0,
+  "explanation": "Freedom of speech has limits under the law.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Democratic beliefs, rights and liberties",
+  "body": "What does 'equality of men and women' mean in Australia?",
+  "options": [
+   "Men and women have equal rights",
+   "Men make the important decisions",
+   "Women cannot vote",
+   "Only men can work in government"
+  ],
+  "answer": 0,
+  "explanation": "A core Australian value.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Democratic beliefs, rights and liberties",
+  "body": "What is a 'fair go'?",
+  "options": [
+   "Only citizens deserve help",
+   "Everyone has equal opportunity, and what someone achieves comes from their effort",
+   "Winning at all costs",
+   "Everyone gets the same income"
+  ],
+  "answer": 1,
+  "explanation": "A commonly held Australian value.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Democratic beliefs, rights and liberties",
+  "body": "Is it a requirement to vote in federal elections for Australian citizens aged 18 or over?",
+  "options": [
+   "Only for people born in Australia",
+   "Only in state elections",
+   "Yes, voting is compulsory",
+   "No, voting is optional"
+  ],
+  "answer": 2,
+  "explanation": "Enrolment and voting are compulsory.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Government and the law",
+  "body": "Who is Australia's Head of State?",
+  "options": [
+   "The Chief Justice",
+   "The Prime Minister",
+   "The Governor-General",
+   "The King of Australia"
+  ],
+  "answer": 3,
+  "explanation": "Represented in Australia by the Governor-General.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Government and the law",
+  "body": "What is the name of the legal document that sets out the rules for the government of Australia?",
+  "options": [
+   "The Magna Carta",
+   "The Australian Constitution",
+   "The Bill of Rights",
+   "The Statute of Westminster"
+  ],
+  "answer": 1,
+  "explanation": "Changing it requires a referendum.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Government and the law",
+  "body": "What is a referendum?",
+  "options": [
+   "A census of the population",
+   "A vote to change the Australian Constitution",
+   "A court case",
+   "An election for Prime Minister"
+  ],
+  "answer": 1,
+  "explanation": "A majority of voters nationally and in a majority of states must agree.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Government and the law",
+  "body": "What are the two houses of the federal Parliament?",
+  "options": [
+   "The High Court and the Senate",
+   "The House of Lords and the House of Commons",
+   "The Senate and the Cabinet",
+   "The House of Representatives and the Senate"
+  ],
+  "answer": 3,
+  "explanation": "Parliament makes federal laws.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Government and the law",
+  "body": "Who is the leader of the Australian Government?",
+  "options": [
+   "The Governor-General",
+   "The Speaker",
+   "The Prime Minister",
+   "The King"
+  ],
+  "answer": 2,
+  "explanation": "Usually the leader of the party with majority support in the House of Representatives.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Government and the law",
+  "body": "What is the name of the highest court in Australia?",
+  "options": [
+   "The Federal Circuit Court",
+   "The Privy Council",
+   "The Supreme Court of Australia",
+   "The High Court of Australia"
+  ],
+  "answer": 3,
+  "explanation": "It interprets the Constitution.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Government and the law",
+  "body": "Which arm of government has the power to interpret and apply laws?",
+  "options": [
+   "The public service",
+   "The legislature",
+   "The judiciary",
+   "The executive"
+  ],
+  "answer": 2,
+  "explanation": "Separation of powers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AUS",
+  "topic": "Government and the law",
+  "body": "Which number should you call in an emergency in Australia?",
+  "options": [
+   "911",
+   "000",
+   "112 only",
+   "999"
+  ],
+  "answer": 1,
+  "explanation": "Triple zero for police, fire or ambulance.",
+  "difficulty": 1
+ }
+]

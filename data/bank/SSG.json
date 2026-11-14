@@ -1,0 +1,478 @@
+[
+ {
+  "subject": "SSG",
+  "topic": "DMAIC",
+  "body": "What are the five phases of DMAIC?",
+  "options": [
+   "Define, Map, Act, Inspect, Correct",
+   "Define, Measure, Analyse, Improve, Control",
+   "Discover, Measure, Adjust, Improve, Communicate",
+   "Design, Make, Assess, Implement, Close"
+  ],
+  "answer": 1,
+  "explanation": "The core Six Sigma improvement method.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "DMAIC",
+  "body": "Which document is created in the Define phase to set out the problem, goal, scope and team?",
+  "options": [
+   "Pareto chart",
+   "Control plan",
+   "Project charter",
+   "FMEA"
+  ],
+  "answer": 2,
+  "explanation": "Approved by the sponsor/champion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "DMAIC",
+  "body": "In which phase is a control plan created to sustain the gains?",
+  "options": [
+   "Analyse",
+   "Define",
+   "Control",
+   "Measure"
+  ],
+  "answer": 2,
+  "explanation": "Includes monitoring and response plans.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Tools",
+  "body": "Which tool identifies the 'vital few' causes behind most problems?",
+  "options": [
+   "Pareto chart",
+   "Gantt chart",
+   "Histogram",
+   "Run chart"
+  ],
+  "answer": 0,
+  "explanation": "Based on the 80/20 principle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Tools",
+  "body": "Which tool is used to brainstorm possible causes, grouped into categories?",
+  "options": [
+   "Scatter plot",
+   "Fishbone (Ishikawa) diagram",
+   "Control chart",
+   "SIPOC"
+  ],
+  "answer": 1,
+  "explanation": "Categories often include the 6Ms.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Tools",
+  "body": "What does SIPOC stand for?",
+  "options": [
+   "Sigma, Input, Process, Output, Control",
+   "Scope, Inputs, Plan, Outcomes, Costs",
+   "Steps, Issues, Problems, Owners, Causes",
+   "Suppliers, Inputs, Process, Outputs, Customers"
+  ],
+  "answer": 3,
+  "explanation": "A high-level process map used in Define.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Tools",
+  "body": "Which tool distinguishes common-cause from special-cause variation over time?",
+  "options": [
+   "Pie chart",
+   "Pareto chart",
+   "Affinity diagram",
+   "Control chart"
+  ],
+  "answer": 3,
+  "explanation": "Points outside the control limits suggest special causes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Lean",
+  "body": "In Lean, which of these is one of the 8 wastes (DOWNTIME)?",
+  "options": [
+   "Standard work",
+   "Over-processing",
+   "Value-added time",
+   "Customer feedback"
+  ],
+  "answer": 1,
+  "explanation": "Defects, overproduction, waiting, non-utilised talent, transportation, inventory, motion, extra-processing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Lean",
+  "body": "What does 5S stand for?",
+  "options": [
+   "Start, Stop, Study, Solve, Sustain",
+   "Safety, Speed, Service, Standards, Savings",
+   "Sort, Set in order, Shine, Standardise, Sustain",
+   "Scan, Sort, Store, Ship, Sell"
+  ],
+  "answer": 2,
+  "explanation": "A workplace organisation method.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Statistics",
+  "body": "Approximately what percentage of data lies within ±1 standard deviation of the mean in a normal distribution?",
+  "options": [
+   "95%",
+   "50%",
+   "99.7%",
+   "68%"
+  ],
+  "answer": 3,
+  "explanation": "±2σ ≈ 95%, ±3σ ≈ 99.7%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "2,500 units are inspected, each with 8 opportunities for a defect. 23 defects are found. What is the DPMO?",
+  "options": [
+   "2,300",
+   "1,150",
+   "9,200",
+   "575"
+  ],
+  "answer": 1,
+  "explanation": "DPMO = defects ÷ (units × opportunities) × 1,000,000 = 23 ÷ 20,000 × 1,000,000 = 1,150.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "400 units are inspected, each with 2 opportunities for a defect. 8 defects are found. What is the DPMO?",
+  "options": [
+   "5,000",
+   "11,000",
+   "20,000",
+   "10,000"
+  ],
+  "answer": 3,
+  "explanation": "DPMO = defects ÷ (units × opportunities) × 1,000,000 = 8 ÷ 800 × 1,000,000 = 10,000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "2,500 units are inspected, each with 8 opportunities for a defect. 28 defects are found. What is the DPMO?",
+  "options": [
+   "1,400",
+   "700",
+   "2,800",
+   "11,200"
+  ],
+  "answer": 0,
+  "explanation": "DPMO = defects ÷ (units × opportunities) × 1,000,000 = 28 ÷ 20,000 × 1,000,000 = 1,400.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "500 units are inspected, each with 10 opportunities for a defect. 35 defects are found. What is the DPMO?",
+  "options": [
+   "7,000",
+   "3,500",
+   "70,000",
+   "14,000"
+  ],
+  "answer": 0,
+  "explanation": "DPMO = defects ÷ (units × opportunities) × 1,000,000 = 35 ÷ 5,000 × 1,000,000 = 7,000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "500 units are inspected, each with 5 opportunities for a defect. 31 defects are found. What is the DPMO?",
+  "options": [
+   "6,200",
+   "12,400",
+   "24,800",
+   "62,000"
+  ],
+  "answer": 1,
+  "explanation": "DPMO = defects ÷ (units × opportunities) × 1,000,000 = 31 ÷ 2,500 × 1,000,000 = 12,400.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "400 units are inspected, each with 5 opportunities for a defect. 10 defects are found. What is the DPMO?",
+  "options": [
+   "25,000",
+   "2,500",
+   "10,000",
+   "5,000"
+  ],
+  "answer": 3,
+  "explanation": "DPMO = defects ÷ (units × opportunities) × 1,000,000 = 10 ÷ 2,000 × 1,000,000 = 5,000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "400 units are inspected, each with 2 opportunities for a defect. 5 defects are found. What is the DPMO?",
+  "options": [
+   "12,500",
+   "6,250",
+   "3,125",
+   "6,875"
+  ],
+  "answer": 1,
+  "explanation": "DPMO = defects ÷ (units × opportunities) × 1,000,000 = 5 ÷ 800 × 1,000,000 = 6,250.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "2,500 units are inspected, each with 4 opportunities for a defect. 40 defects are found. What is the DPMO?",
+  "options": [
+   "2,000",
+   "16,000",
+   "4,000",
+   "8,000"
+  ],
+  "answer": 2,
+  "explanation": "DPMO = defects ÷ (units × opportunities) × 1,000,000 = 40 ÷ 10,000 × 1,000,000 = 4,000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "2,000 units are inspected, each with 10 opportunities for a defect. 11 defects are found. What is the DPMO?",
+  "options": [
+   "1,100",
+   "5,500",
+   "275",
+   "550"
+  ],
+  "answer": 3,
+  "explanation": "DPMO = defects ÷ (units × opportunities) × 1,000,000 = 11 ÷ 20,000 × 1,000,000 = 550.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "2,500 units are inspected, each with 10 opportunities for a defect. 38 defects are found. What is the DPMO?",
+  "options": [
+   "3,040",
+   "15,200",
+   "1,520",
+   "760"
+  ],
+  "answer": 2,
+  "explanation": "DPMO = defects ÷ (units × opportunities) × 1,000,000 = 38 ÷ 25,000 × 1,000,000 = 1,520.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "2,000 units are inspected, each with 5 opportunities for a defect. 21 defects are found. What is the DPMO?",
+  "options": [
+   "2,100",
+   "1,050",
+   "4,200",
+   "10,500"
+  ],
+  "answer": 0,
+  "explanation": "DPMO = defects ÷ (units × opportunities) × 1,000,000 = 21 ÷ 10,000 × 1,000,000 = 2,100.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "2,500 units are inspected, each with 5 opportunities for a defect. 35 defects are found. What is the DPMO?",
+  "options": [
+   "5,600",
+   "2,800",
+   "14,000",
+   "1,400"
+  ],
+  "answer": 1,
+  "explanation": "DPMO = defects ÷ (units × opportunities) × 1,000,000 = 35 ÷ 12,500 × 1,000,000 = 2,800.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "1,000 units are inspected, each with 10 opportunities for a defect. 5 defects are found. What is the DPMO?",
+  "options": [
+   "5,000",
+   "250",
+   "1,000",
+   "500"
+  ],
+  "answer": 3,
+  "explanation": "DPMO = defects ÷ (units × opportunities) × 1,000,000 = 5 ÷ 10,000 × 1,000,000 = 500.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "200 units are inspected, each with 8 opportunities for a defect. 34 defects are found. What is the DPMO?",
+  "options": [
+   "21,250",
+   "42,500",
+   "10,625",
+   "170,000"
+  ],
+  "answer": 0,
+  "explanation": "DPMO = defects ÷ (units × opportunities) × 1,000,000 = 34 ÷ 1,600 × 1,000,000 = 21,250.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "A process has three steps with first-pass yields of 98%, 97% and 92%. What is the rolled throughput yield?",
+  "options": [
+   "95.7%",
+   "92%",
+   "87.5%",
+   "82.5%"
+  ],
+  "answer": 2,
+  "explanation": "RTY = 0.98 × 0.97 × 0.92 = 0.875 → 87.5%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "A process has three steps with first-pass yields of 98%, 95% and 92%. What is the rolled throughput yield?",
+  "options": [
+   "92%",
+   "80.7%",
+   "95%",
+   "85.7%"
+  ],
+  "answer": 3,
+  "explanation": "RTY = 0.98 × 0.95 × 0.92 = 0.857 → 85.7%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "A process has three steps with first-pass yields of 98%, 95% and 96%. What is the rolled throughput yield?",
+  "options": [
+   "89.4%",
+   "95%",
+   "84.4%",
+   "96.3%"
+  ],
+  "answer": 0,
+  "explanation": "RTY = 0.98 × 0.95 × 0.96 = 0.894 → 89.4%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "A process has three steps with first-pass yields of 99%, 95% and 98%. What is the rolled throughput yield?",
+  "options": [
+   "95%",
+   "97.3%",
+   "92.2%",
+   "87.2%"
+  ],
+  "answer": 2,
+  "explanation": "RTY = 0.99 × 0.95 × 0.98 = 0.922 → 92.2%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "A process has three steps with first-pass yields of 99%, 99% and 92%. What is the rolled throughput yield?",
+  "options": [
+   "96.7%",
+   "85.2%",
+   "92%",
+   "90.2%"
+  ],
+  "answer": 3,
+  "explanation": "RTY = 0.99 × 0.99 × 0.92 = 0.902 → 90.2%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "A process has three steps with first-pass yields of 99%, 99% and 98%. What is the rolled throughput yield?",
+  "options": [
+   "96%",
+   "91%",
+   "98%",
+   "98.7%"
+  ],
+  "answer": 0,
+  "explanation": "RTY = 0.99 × 0.99 × 0.98 = 0.96 → 96%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "A process has three steps with first-pass yields of 98%, 90% and 96%. What is the rolled throughput yield?",
+  "options": [
+   "90%",
+   "79.7%",
+   "94.7%",
+   "84.7%"
+  ],
+  "answer": 3,
+  "explanation": "RTY = 0.98 × 0.9 × 0.96 = 0.847 → 84.7%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "A process has three steps with first-pass yields of 98%, 95% and 98%. What is the rolled throughput yield?",
+  "options": [
+   "86.2%",
+   "95%",
+   "91.2%",
+   "97%"
+  ],
+  "answer": 2,
+  "explanation": "RTY = 0.98 × 0.95 × 0.98 = 0.912 → 91.2%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "A process has three steps with first-pass yields of 95%, 95% and 98%. What is the rolled throughput yield?",
+  "options": [
+   "95%",
+   "88.4%",
+   "83.4%",
+   "96%"
+  ],
+  "answer": 1,
+  "explanation": "RTY = 0.95 × 0.95 × 0.98 = 0.884 → 88.4%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SSG",
+  "topic": "Measure",
+  "body": "A process has three steps with first-pass yields of 99%, 90% and 92%. What is the rolled throughput yield?",
+  "options": [
+   "90%",
+   "77%",
+   "93.7%",
+   "82%"
+  ],
+  "answer": 3,
+  "explanation": "RTY = 0.99 × 0.9 × 0.92 = 0.82 → 82%.",
+  "difficulty": 3
+ }
+]

@@ -37,6 +37,11 @@ export default function Home() {
           <Link className="btn block" href="/nmc-cbt">Start practising</Link>
         </div>
         <div className="card">
+          <h2 style={{ marginTop: 0 }}>✈️ Moving abroad</h2>
+          <p>Citizenship tests for the UK, US, Canada and Australia, IELTS with essay marking, and licensing exams for doctors and nurses.</p>
+          <Link className="btn block" href="/exams">See all pathways</Link>
+        </div>
+        <div className="card">
           <h2 style={{ marginTop: 0 }}>⚕️ PLAB 1 for doctors</h2>
           <p>180-question best-of-five mocks timed to the real paper, with UK guideline-based explanations.</p>
           <Link className="btn block" href="/plab">Start practising</Link>

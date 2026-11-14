@@ -1,0 +1,828 @@
+[
+ {
+  "subject": "USC",
+  "topic": "Principles of American government",
+  "body": "What is the supreme law of the land?",
+  "options": [
+   "The Articles of Confederation",
+   "The Bill of Rights only",
+   "The Constitution",
+   "The Declaration of Independence"
+  ],
+  "answer": 2,
+  "explanation": "The Constitution sets up the government and protects basic rights.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Principles of American government",
+  "body": "What are the first ten amendments to the Constitution called?",
+  "options": [
+   "The Preamble",
+   "The Articles",
+   "The Federalist Papers",
+   "The Bill of Rights"
+  ],
+  "answer": 3,
+  "explanation": "They were ratified in 1791.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Principles of American government",
+  "body": "The idea of self-government is in the first three words of the Constitution. What are these words?",
+  "options": [
+   "Life, Liberty, Happiness",
+   "We the People",
+   "In God We Trust",
+   "One Nation Under"
+  ],
+  "answer": 1,
+  "explanation": "The government gets its power from the people.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Principles of American government",
+  "body": "What is an amendment?",
+  "options": [
+   "A presidential order",
+   "A change or addition to the Constitution",
+   "A law passed by a state",
+   "A court ruling"
+  ],
+  "answer": 1,
+  "explanation": "There are 27 amendments.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Principles of American government",
+  "body": "How many amendments does the Constitution have?",
+  "options": [
+   "50",
+   "21",
+   "27",
+   "10"
+  ],
+  "answer": 2,
+  "explanation": "The first ten are the Bill of Rights.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Principles of American government",
+  "body": "What did the Declaration of Independence do?",
+  "options": [
+   "Ended slavery",
+   "Created the Constitution",
+   "Gave women the vote",
+   "Announced independence from Great Britain"
+  ],
+  "answer": 3,
+  "explanation": "It was adopted on July 4, 1776.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Principles of American government",
+  "body": "What is freedom of religion?",
+  "options": [
+   "You must join a church",
+   "Religion is banned in public",
+   "Only Christianity is allowed",
+   "You can practice any religion, or not practice a religion"
+  ],
+  "answer": 3,
+  "explanation": "Protected by the First Amendment.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Principles of American government",
+  "body": "What is the economic system in the United States?",
+  "options": [
+   "Capitalist (market) economy",
+   "Feudal economy",
+   "Command economy",
+   "Communist economy"
+  ],
+  "answer": 0,
+  "explanation": "Also called a market economy.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Principles of American government",
+  "body": "What is the 'rule of law'?",
+  "options": [
+   "Courts can ignore the Constitution",
+   "Only citizens must obey laws",
+   "Everyone must follow the law, including leaders and government",
+   "The President makes all laws"
+  ],
+  "answer": 2,
+  "explanation": "No one is above the law.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "System of government",
+  "body": "What are the three branches of government?",
+  "options": [
+   "Legislative, executive and judicial",
+   "Army, Navy and Air Force",
+   "Federal, state and local",
+   "House, Senate and President"
+  ],
+  "answer": 0,
+  "explanation": "Separation of powers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "System of government",
+  "body": "What stops one branch of government from becoming too powerful?",
+  "options": [
+   "Elections every year",
+   "The Bill of Rights",
+   "Checks and balances (separation of powers)",
+   "The President's veto alone"
+  ],
+  "answer": 2,
+  "explanation": "Each branch can limit the others.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "System of government",
+  "body": "Who is in charge of the executive branch?",
+  "options": [
+   "The Chief Justice",
+   "The Senate Majority Leader",
+   "The President",
+   "The Speaker of the House"
+  ],
+  "answer": 2,
+  "explanation": "The President heads the executive branch.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "System of government",
+  "body": "Who makes federal laws?",
+  "options": [
+   "Congress (Senate and House of Representatives)",
+   "The President",
+   "State governors",
+   "The Supreme Court"
+  ],
+  "answer": 0,
+  "explanation": "Congress is the legislative branch.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "System of government",
+  "body": "How many U.S. Senators are there?",
+  "options": [
+   "100",
+   "435",
+   "50",
+   "538"
+  ],
+  "answer": 0,
+  "explanation": "Two from each of the 50 states.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "System of government",
+  "body": "We elect a U.S. Senator for how many years?",
+  "options": [
+   "2",
+   "4",
+   "8",
+   "6"
+  ],
+  "answer": 3,
+  "explanation": "Senate terms are six years.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "System of government",
+  "body": "How many voting members are in the House of Representatives?",
+  "options": [
+   "435",
+   "100",
+   "538",
+   "50"
+  ],
+  "answer": 0,
+  "explanation": "Seats are divided by state population.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "System of government",
+  "body": "We elect a U.S. Representative for how many years?",
+  "options": [
+   "8",
+   "2",
+   "4",
+   "6"
+  ],
+  "answer": 1,
+  "explanation": "House elections are every two years.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "System of government",
+  "body": "We elect a President for how many years?",
+  "options": [
+   "4",
+   "6",
+   "8",
+   "2"
+  ],
+  "answer": 0,
+  "explanation": "A President can serve at most two elected terms.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "System of government",
+  "body": "In what month do we vote for President?",
+  "options": [
+   "July",
+   "November",
+   "March",
+   "January"
+  ],
+  "answer": 1,
+  "explanation": "Election Day is in November.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "System of government",
+  "body": "If the President can no longer serve, who becomes President?",
+  "options": [
+   "The Vice President",
+   "The Chief Justice",
+   "The Speaker of the House",
+   "The Secretary of State"
+  ],
+  "answer": 0,
+  "explanation": "Next in line after the VP is the Speaker of the House.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "System of government",
+  "body": "Who is the Commander in Chief of the military?",
+  "options": [
+   "The President",
+   "The Chairman of the Joint Chiefs",
+   "The Vice President",
+   "The Secretary of Defense"
+  ],
+  "answer": 0,
+  "explanation": "Civilian control of the military.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "System of government",
+  "body": "Who signs bills to become laws?",
+  "options": [
+   "The Speaker",
+   "The Senate",
+   "The President",
+   "The Chief Justice"
+  ],
+  "answer": 2,
+  "explanation": "The President can also veto bills.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "System of government",
+  "body": "Who vetoes bills?",
+  "options": [
+   "Governors",
+   "The Supreme Court",
+   "The Vice President",
+   "The President"
+  ],
+  "answer": 3,
+  "explanation": "Congress can override a veto with a two-thirds vote in both houses.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "System of government",
+  "body": "What is the highest court in the United States?",
+  "options": [
+   "The Federal Court of Appeals",
+   "The District Court",
+   "The Court of Claims",
+   "The Supreme Court"
+  ],
+  "answer": 3,
+  "explanation": "It is the head of the judicial branch.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "System of government",
+  "body": "How many justices are on the Supreme Court?",
+  "options": [
+   "11",
+   "12",
+   "7",
+   "9"
+  ],
+  "answer": 3,
+  "explanation": "Set by law, not by the Constitution.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "System of government",
+  "body": "Under the Constitution, some powers belong to the states. Which is one?",
+  "options": [
+   "Making treaties",
+   "Providing schooling and education",
+   "Printing money",
+   "Declaring war"
+  ],
+  "answer": 1,
+  "explanation": "Also police, driver's licenses and zoning.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "System of government",
+  "body": "Under the Constitution, some powers belong to the federal government. Which is one?",
+  "options": [
+   "To approve zoning",
+   "To give a driver's license",
+   "To provide schooling",
+   "To print money"
+  ],
+  "answer": 3,
+  "explanation": "Also declaring war and making treaties.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "System of government",
+  "body": "What are the two major political parties in the United States?",
+  "options": [
+   "Liberal and Conservative",
+   "Federalist and Whig",
+   "Labour and Conservative",
+   "Democratic and Republican"
+  ],
+  "answer": 3,
+  "explanation": "These have been the main parties since the 1850s.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Rights and responsibilities",
+  "body": "Name one right only for United States citizens.",
+  "options": [
+   "Vote in a federal election",
+   "Freedom of religion",
+   "Right to a fair trial",
+   "Freedom of speech"
+  ],
+  "answer": 0,
+  "explanation": "Running for federal office is another.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Rights and responsibilities",
+  "body": "How old do citizens have to be to vote for President?",
+  "options": [
+   "16 and older",
+   "25 and older",
+   "21 and older",
+   "18 and older"
+  ],
+  "answer": 3,
+  "explanation": "Set by the 26th Amendment.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Rights and responsibilities",
+  "body": "When is the last day you can send in federal income tax forms?",
+  "options": [
+   "July 4",
+   "January 1",
+   "December 31",
+   "April 15"
+  ],
+  "answer": 3,
+  "explanation": "Usually April 15.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Rights and responsibilities",
+  "body": "Which is one responsibility only for United States citizens?",
+  "options": [
+   "Go to school",
+   "Pay taxes",
+   "Serve on a jury",
+   "Obey the law"
+  ],
+  "answer": 2,
+  "explanation": "Voting in federal elections is another.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Rights and responsibilities",
+  "body": "What do we show loyalty to when we say the Pledge of Allegiance?",
+  "options": [
+   "The state governor",
+   "The military",
+   "The United States and the flag",
+   "The President"
+  ],
+  "answer": 2,
+  "explanation": "The Pledge is to the flag and the republic.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Rights and responsibilities",
+  "body": "At what age must all men register for the Selective Service?",
+  "options": [
+   "Over 30",
+   "Between 21 and 40",
+   "Between 16 and 18",
+   "Between 18 and 26"
+  ],
+  "answer": 3,
+  "explanation": "Registration is required by law.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Colonial period and independence",
+  "body": "Who wrote the Declaration of Independence?",
+  "options": [
+   "Abraham Lincoln",
+   "Thomas Jefferson",
+   "George Washington",
+   "Benjamin Franklin"
+  ],
+  "answer": 1,
+  "explanation": "Adopted July 4, 1776.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Colonial period and independence",
+  "body": "When was the Declaration of Independence adopted?",
+  "options": [
+   "September 17, 1787",
+   "July 4, 1791",
+   "December 7, 1941",
+   "July 4, 1776"
+  ],
+  "answer": 3,
+  "explanation": "Independence Day.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Colonial period and independence",
+  "body": "There were 13 original states. Which is one of them?",
+  "options": [
+   "Texas",
+   "Florida",
+   "California",
+   "Virginia"
+  ],
+  "answer": 3,
+  "explanation": "Others include New York, Pennsylvania and Massachusetts.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Colonial period and independence",
+  "body": "When was the Constitution written?",
+  "options": [
+   "1791",
+   "1776",
+   "1812",
+   "1787"
+  ],
+  "answer": 3,
+  "explanation": "At the Constitutional Convention in Philadelphia.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Colonial period and independence",
+  "body": "Who is the 'Father of Our Country'?",
+  "options": [
+   "Abraham Lincoln",
+   "George Washington",
+   "Thomas Jefferson",
+   "John Adams"
+  ],
+  "answer": 1,
+  "explanation": "He was also the first President.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Colonial period and independence",
+  "body": "Who was the first President?",
+  "options": [
+   "George Washington",
+   "Thomas Jefferson",
+   "James Madison",
+   "John Adams"
+  ],
+  "answer": 0,
+  "explanation": "He served from 1789 to 1797.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Colonial period and independence",
+  "body": "The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.",
+  "options": [
+   "James Madison",
+   "Abraham Lincoln",
+   "Thomas Paine",
+   "George Washington"
+  ],
+  "answer": 0,
+  "explanation": "Also Alexander Hamilton and John Jay.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Colonial period and independence",
+  "body": "What is Benjamin Franklin famous for?",
+  "options": [
+   "Leading the Civil War",
+   "U.S. diplomat and oldest member of the Constitutional Convention",
+   "First President",
+   "Writing the Bill of Rights alone"
+  ],
+  "answer": 1,
+  "explanation": "Also first Postmaster General and author of Poor Richard's Almanac.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "1800s",
+  "body": "What territory did the United States buy from France in 1803?",
+  "options": [
+   "Florida",
+   "The Louisiana Territory",
+   "Texas",
+   "Alaska"
+  ],
+  "answer": 1,
+  "explanation": "The Louisiana Purchase.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "1800s",
+  "body": "Name the U.S. war between the North and the South.",
+  "options": [
+   "The War of 1812",
+   "The Spanish-American War",
+   "The Revolutionary War",
+   "The Civil War"
+  ],
+  "answer": 3,
+  "explanation": "1861–1865.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "1800s",
+  "body": "What did the Emancipation Proclamation do?",
+  "options": [
+   "Ended the Civil War",
+   "Freed the slaves in most Southern states",
+   "Created the Constitution",
+   "Gave women the vote"
+  ],
+  "answer": 1,
+  "explanation": "Issued by Lincoln in 1863.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "1800s",
+  "body": "What was one important thing Abraham Lincoln did?",
+  "options": [
+   "Wrote the Declaration of Independence",
+   "Preserved the Union during the Civil War",
+   "Was the first President",
+   "Bought Alaska"
+  ],
+  "answer": 1,
+  "explanation": "He also freed the slaves (Emancipation Proclamation).",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "1800s",
+  "body": "What did Susan B. Anthony do?",
+  "options": [
+   "Wrote the Constitution",
+   "Led the Union army",
+   "Fought for women's rights",
+   "Founded the Red Cross"
+  ],
+  "answer": 2,
+  "explanation": "She also fought for civil rights.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Recent American history",
+  "body": "Who was President during World War I?",
+  "options": [
+   "Franklin Roosevelt",
+   "Theodore Roosevelt",
+   "Abraham Lincoln",
+   "Woodrow Wilson"
+  ],
+  "answer": 3,
+  "explanation": "The U.S. entered the war in 1917.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Recent American history",
+  "body": "Who was President during the Great Depression and World War II?",
+  "options": [
+   "Dwight Eisenhower",
+   "Herbert Hoover",
+   "Franklin Roosevelt",
+   "Harry Truman"
+  ],
+  "answer": 2,
+  "explanation": "He was elected four times.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Recent American history",
+  "body": "Before he was President, Eisenhower was a general. What war was he in?",
+  "options": [
+   "World War I",
+   "The Civil War",
+   "World War II",
+   "The Korean War"
+  ],
+  "answer": 2,
+  "explanation": "He was Supreme Allied Commander in Europe.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Recent American history",
+  "body": "What did Martin Luther King, Jr. do?",
+  "options": [
+   "Was a President",
+   "Founded the NAACP alone",
+   "Fought for civil rights",
+   "Wrote the Constitution"
+  ],
+  "answer": 2,
+  "explanation": "He worked for equality for all Americans.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Recent American history",
+  "body": "What major event happened on September 11, 2001, in the United States?",
+  "options": [
+   "Terrorists attacked the United States",
+   "The stock market crash",
+   "The Iraq War ended",
+   "Hurricane Katrina"
+  ],
+  "answer": 0,
+  "explanation": "Nearly 3,000 people were killed.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Geography & symbols",
+  "body": "What is the capital of the United States?",
+  "options": [
+   "New York City",
+   "Washington, D.C.",
+   "Boston",
+   "Philadelphia"
+  ],
+  "answer": 1,
+  "explanation": "It is not part of any state.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Geography & symbols",
+  "body": "Where is the Statue of Liberty?",
+  "options": [
+   "San Francisco Bay",
+   "Washington, D.C.",
+   "New York Harbor (Liberty Island)",
+   "Boston Harbor"
+  ],
+  "answer": 2,
+  "explanation": "A gift from France.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Geography & symbols",
+  "body": "Why does the flag have 13 stripes?",
+  "options": [
+   "For the 13 amendments",
+   "For 13 wars",
+   "Because there were 13 original colonies",
+   "For 13 Presidents"
+  ],
+  "answer": 2,
+  "explanation": "The 50 stars represent the 50 states.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Geography & symbols",
+  "body": "What is the name of the national anthem?",
+  "options": [
+   "God Bless America",
+   "America the Beautiful",
+   "My Country, 'Tis of Thee",
+   "The Star-Spangled Banner"
+  ],
+  "answer": 3,
+  "explanation": "Written by Francis Scott Key.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Geography & symbols",
+  "body": "Name one of the two longest rivers in the United States.",
+  "options": [
+   "Colorado River",
+   "Rio Grande",
+   "Mississippi River",
+   "Hudson River"
+  ],
+  "answer": 2,
+  "explanation": "The Missouri River is the other.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Geography & symbols",
+  "body": "Which ocean is on the West Coast of the United States?",
+  "options": [
+   "Atlantic Ocean",
+   "Arctic Ocean",
+   "Indian Ocean",
+   "Pacific Ocean"
+  ],
+  "answer": 3,
+  "explanation": "The Atlantic is on the East Coast.",
+  "difficulty": 1
+ },
+ {
+  "subject": "USC",
+  "topic": "Geography & symbols",
+  "body": "When do we celebrate Independence Day?",
+  "options": [
+   "November 11",
+   "September 17",
+   "January 1",
+   "July 4"
+  ],
+  "answer": 3,
+  "explanation": "Marks the Declaration of Independence.",
+  "difficulty": 1
+ }
+]

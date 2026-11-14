@@ -1,0 +1,996 @@
+[
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 506 × 46?",
+  "options": [
+   "23,176",
+   "23,276",
+   "23,286",
+   "23,782"
+  ],
+  "answer": 1,
+  "explanation": "506 × 46 = 23,276.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 154 × 33?",
+  "options": [
+   "5,092",
+   "5,236",
+   "5,082",
+   "4,982"
+  ],
+  "answer": 2,
+  "explanation": "154 × 33 = 5,082.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 907 × 97?",
+  "options": [
+   "88,886",
+   "87,989",
+   "87,979",
+   "87,879"
+  ],
+  "answer": 2,
+  "explanation": "907 × 97 = 87,979.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 804 × 38?",
+  "options": [
+   "30,562",
+   "30,552",
+   "30,452",
+   "31,356"
+  ],
+  "answer": 1,
+  "explanation": "804 × 38 = 30,552.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 595 × 90?",
+  "options": [
+   "54,145",
+   "53,550",
+   "53,450",
+   "53,560"
+  ],
+  "answer": 1,
+  "explanation": "595 × 90 = 53,550.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 271 × 74?",
+  "options": [
+   "20,054",
+   "20,064",
+   "20,325",
+   "19,954"
+  ],
+  "answer": 0,
+  "explanation": "271 × 74 = 20,054.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 901 × 58?",
+  "options": [
+   "52,158",
+   "52,268",
+   "53,159",
+   "52,258"
+  ],
+  "answer": 3,
+  "explanation": "901 × 58 = 52,258.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 577 × 34?",
+  "options": [
+   "19,518",
+   "20,195",
+   "19,618",
+   "19,628"
+  ],
+  "answer": 2,
+  "explanation": "577 × 34 = 19,618.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 234 × 19?",
+  "options": [
+   "4,446",
+   "4,680",
+   "4,456",
+   "4,346"
+  ],
+  "answer": 0,
+  "explanation": "234 × 19 = 4,446.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 779 × 85?",
+  "options": [
+   "66,994",
+   "66,215",
+   "66,115",
+   "66,225"
+  ],
+  "answer": 1,
+  "explanation": "779 × 85 = 66,215.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 735 × 75?",
+  "options": [
+   "55,025",
+   "55,860",
+   "55,135",
+   "55,125"
+  ],
+  "answer": 3,
+  "explanation": "735 × 75 = 55,125.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 686 × 62?",
+  "options": [
+   "42,432",
+   "42,532",
+   "43,218",
+   "42,542"
+  ],
+  "answer": 1,
+  "explanation": "686 × 62 = 42,532.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 883 × 40?",
+  "options": [
+   "36,203",
+   "35,220",
+   "35,320",
+   "35,330"
+  ],
+  "answer": 2,
+  "explanation": "883 × 40 = 35,320.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 484 × 38?",
+  "options": [
+   "18,402",
+   "18,292",
+   "18,392",
+   "18,876"
+  ],
+  "answer": 2,
+  "explanation": "484 × 38 = 18,392.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 279 × 76?",
+  "options": [
+   "21,104",
+   "21,204",
+   "21,214",
+   "21,483"
+  ],
+  "answer": 1,
+  "explanation": "279 × 76 = 21,204.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 350 ÷ 10?",
+  "options": [
+   "36",
+   "70",
+   "35",
+   "34"
+  ],
+  "answer": 2,
+  "explanation": "10 × 35 = 350.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 378 ÷ 7?",
+  "options": [
+   "53",
+   "108",
+   "55",
+   "54"
+  ],
+  "answer": 3,
+  "explanation": "7 × 54 = 378.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 152 ÷ 4?",
+  "options": [
+   "38",
+   "76",
+   "39",
+   "37"
+  ],
+  "answer": 0,
+  "explanation": "4 × 38 = 152.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 305 ÷ 5?",
+  "options": [
+   "60",
+   "122",
+   "61",
+   "62"
+  ],
+  "answer": 2,
+  "explanation": "5 × 61 = 305.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 342 ÷ 9?",
+  "options": [
+   "39",
+   "37",
+   "38",
+   "76"
+  ],
+  "answer": 2,
+  "explanation": "9 × 38 = 342.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 252 ÷ 3?",
+  "options": [
+   "84",
+   "83",
+   "168",
+   "85"
+  ],
+  "answer": 0,
+  "explanation": "3 × 84 = 252.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 510 ÷ 10?",
+  "options": [
+   "52",
+   "102",
+   "50",
+   "51"
+  ],
+  "answer": 3,
+  "explanation": "10 × 51 = 510.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 141 ÷ 3?",
+  "options": [
+   "46",
+   "94",
+   "47",
+   "48"
+  ],
+  "answer": 2,
+  "explanation": "3 × 47 = 141.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 836 ÷ 11?",
+  "options": [
+   "75",
+   "76",
+   "77",
+   "152"
+  ],
+  "answer": 1,
+  "explanation": "11 × 76 = 836.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 558 ÷ 9?",
+  "options": [
+   "124",
+   "62",
+   "63",
+   "61"
+  ],
+  "answer": 1,
+  "explanation": "9 × 62 = 558.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 240 ÷ 3?",
+  "options": [
+   "160",
+   "81",
+   "79",
+   "80"
+  ],
+  "answer": 3,
+  "explanation": "3 × 80 = 240.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Number",
+  "body": "What is 522 ÷ 9?",
+  "options": [
+   "59",
+   "116",
+   "58",
+   "57"
+  ],
+  "answer": 2,
+  "explanation": "9 × 58 = 522.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Fractions",
+  "body": "What is 3/4 of 52?",
+  "options": [
+   "39",
+   "42",
+   "13",
+   "43"
+  ],
+  "answer": 0,
+  "explanation": "52 ÷ 4 = 13; × 3 = 39.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Fractions",
+  "body": "What is 7/10 of 200?",
+  "options": [
+   "140",
+   "147",
+   "20",
+   "60"
+  ],
+  "answer": 0,
+  "explanation": "200 ÷ 10 = 20; × 7 = 140.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Fractions",
+  "body": "What is 3/4 of 36?",
+  "options": [
+   "27",
+   "30",
+   "24",
+   "9"
+  ],
+  "answer": 0,
+  "explanation": "36 ÷ 4 = 9; × 3 = 27.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Fractions",
+  "body": "What is 1/4 of 48?",
+  "options": [
+   "11",
+   "13",
+   "12",
+   "36"
+  ],
+  "answer": 2,
+  "explanation": "48 ÷ 4 = 12; × 1 = 12.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Fractions",
+  "body": "What is 3/5 of 10?",
+  "options": [
+   "6",
+   "9",
+   "2",
+   "4"
+  ],
+  "answer": 0,
+  "explanation": "10 ÷ 5 = 2; × 3 = 6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Fractions",
+  "body": "What is 2/10 of 90?",
+  "options": [
+   "18",
+   "72",
+   "20",
+   "9"
+  ],
+  "answer": 0,
+  "explanation": "90 ÷ 10 = 9; × 2 = 18.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Fractions",
+  "body": "What is 7/8 of 40?",
+  "options": [
+   "39",
+   "42",
+   "35",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "40 ÷ 8 = 5; × 7 = 35.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Fractions",
+  "body": "What is 8/12 of 84?",
+  "options": [
+   "64",
+   "7",
+   "28",
+   "56"
+  ],
+  "answer": 3,
+  "explanation": "84 ÷ 12 = 7; × 8 = 56.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Fractions",
+  "body": "What is 3/10 of 160?",
+  "options": [
+   "51",
+   "48",
+   "16",
+   "112"
+  ],
+  "answer": 1,
+  "explanation": "160 ÷ 10 = 16; × 3 = 48.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Fractions",
+  "body": "What is 2/10 of 50?",
+  "options": [
+   "10",
+   "12",
+   "40",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "50 ÷ 10 = 5; × 2 = 10.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Fractions",
+  "body": "What is 9/12 of 72?",
+  "options": [
+   "63",
+   "18",
+   "6",
+   "54"
+  ],
+  "answer": 3,
+  "explanation": "72 ÷ 12 = 6; × 9 = 54.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Fractions",
+  "body": "What is 6/10 of 30?",
+  "options": [
+   "18",
+   "12",
+   "24",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "30 ÷ 10 = 3; × 6 = 18.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Shape & measure",
+  "body": "A rectangle is 4 cm long and 12 cm wide. What is its perimeter?",
+  "options": [
+   "20 cm",
+   "16 cm",
+   "48 cm",
+   "32 cm"
+  ],
+  "answer": 3,
+  "explanation": "Perimeter = 2 × (4 + 12) = 32 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Shape & measure",
+  "body": "A rectangle is 12 cm long and 2 cm wide. What is its area?",
+  "options": [
+   "24 cm²",
+   "14 cm²",
+   "36 cm²",
+   "28 cm²"
+  ],
+  "answer": 0,
+  "explanation": "Area = length × width = 24 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Shape & measure",
+  "body": "A rectangle is 12 cm long and 11 cm wide. What is its area?",
+  "options": [
+   "144 cm²",
+   "23 cm²",
+   "46 cm²",
+   "132 cm²"
+  ],
+  "answer": 3,
+  "explanation": "Area = length × width = 132 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Shape & measure",
+  "body": "A rectangle is 15 cm long and 4 cm wide. What is its area?",
+  "options": [
+   "19 cm²",
+   "38 cm²",
+   "75 cm²",
+   "60 cm²"
+  ],
+  "answer": 3,
+  "explanation": "Area = length × width = 60 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Shape & measure",
+  "body": "A rectangle is 10 cm long and 3 cm wide. What is its area?",
+  "options": [
+   "30 cm²",
+   "13 cm²",
+   "40 cm²",
+   "26 cm²"
+  ],
+  "answer": 0,
+  "explanation": "Area = length × width = 30 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Shape & measure",
+  "body": "A rectangle is 11 cm long and 5 cm wide. What is its area?",
+  "options": [
+   "16 cm²",
+   "32 cm²",
+   "66 cm²",
+   "55 cm²"
+  ],
+  "answer": 3,
+  "explanation": "Area = length × width = 55 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Shape & measure",
+  "body": "A rectangle is 15 cm long and 11 cm wide. What is its area?",
+  "options": [
+   "165 cm²",
+   "180 cm²",
+   "26 cm²",
+   "52 cm²"
+  ],
+  "answer": 0,
+  "explanation": "Area = length × width = 165 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Shape & measure",
+  "body": "A rectangle is 9 cm long and 7 cm wide. What is its perimeter?",
+  "options": [
+   "32 cm",
+   "63 cm",
+   "16 cm",
+   "25 cm"
+  ],
+  "answer": 0,
+  "explanation": "Perimeter = 2 × (9 + 7) = 32 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Shape & measure",
+  "body": "A rectangle is 8 cm long and 5 cm wide. What is its area?",
+  "options": [
+   "40 cm²",
+   "13 cm²",
+   "48 cm²",
+   "26 cm²"
+  ],
+  "answer": 0,
+  "explanation": "Area = length × width = 40 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Shape & measure",
+  "body": "A rectangle is 10 cm long and 4 cm wide. What is its area?",
+  "options": [
+   "40 cm²",
+   "50 cm²",
+   "28 cm²",
+   "14 cm²"
+  ],
+  "answer": 0,
+  "explanation": "Area = length × width = 40 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Shape & measure",
+  "body": "A rectangle is 11 cm long and 8 cm wide. What is its area?",
+  "options": [
+   "19 cm²",
+   "99 cm²",
+   "88 cm²",
+   "38 cm²"
+  ],
+  "answer": 2,
+  "explanation": "Area = length × width = 88 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Shape & measure",
+  "body": "A rectangle is 8 cm long and 3 cm wide. What is its area?",
+  "options": [
+   "11 cm²",
+   "22 cm²",
+   "32 cm²",
+   "24 cm²"
+  ],
+  "answer": 3,
+  "explanation": "Area = length × width = 24 cm².",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Time",
+  "body": "A train leaves at 6:45 and the journey takes 140 minutes. When does it arrive?",
+  "options": [
+   "9:20",
+   "9:05",
+   "7:45",
+   "8:55"
+  ],
+  "answer": 1,
+  "explanation": "140 minutes = 2 h 20 min after 6:45.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ELM",
+  "topic": "Time",
+  "body": "A train leaves at 9:00 and the journey takes 90 minutes. When does it arrive?",
+  "options": [
+   "10:20",
+   "10:45",
+   "10:30",
+   "10:00"
+  ],
+  "answer": 2,
+  "explanation": "90 minutes = 1 h 30 min after 9:00.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ELM",
+  "topic": "Time",
+  "body": "A train leaves at 8:00 and the journey takes 90 minutes. When does it arrive?",
+  "options": [
+   "9:00",
+   "9:30",
+   "9:45",
+   "9:20"
+  ],
+  "answer": 1,
+  "explanation": "90 minutes = 1 h 30 min after 8:00.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ELM",
+  "topic": "Time",
+  "body": "A train leaves at 8:45 and the journey takes 105 minutes. When does it arrive?",
+  "options": [
+   "9:45",
+   "10:45",
+   "10:30",
+   "10:20"
+  ],
+  "answer": 2,
+  "explanation": "105 minutes = 1 h 45 min after 8:45.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ELM",
+  "topic": "Time",
+  "body": "A train leaves at 11:15 and the journey takes 35 minutes. When does it arrive?",
+  "options": [
+   "11:50",
+   "11:40",
+   "12:15",
+   "12:05"
+  ],
+  "answer": 0,
+  "explanation": "35 minutes = 0 h 35 min after 11:15.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ELM",
+  "topic": "Time",
+  "body": "A train leaves at 9:15 and the journey takes 140 minutes. When does it arrive?",
+  "options": [
+   "10:15",
+   "11:35",
+   "11:50",
+   "11:25"
+  ],
+  "answer": 1,
+  "explanation": "140 minutes = 2 h 20 min after 9:15.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ELM",
+  "topic": "Time",
+  "body": "A train leaves at 6:00 and the journey takes 90 minutes. When does it arrive?",
+  "options": [
+   "7:30",
+   "7:20",
+   "7:00",
+   "7:45"
+  ],
+  "answer": 0,
+  "explanation": "90 minutes = 1 h 30 min after 6:00.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ELM",
+  "topic": "Time",
+  "body": "A train leaves at 9:00 and the journey takes 35 minutes. When does it arrive?",
+  "options": [
+   "10:00",
+   "9:50",
+   "9:35",
+   "9:25"
+  ],
+  "answer": 2,
+  "explanation": "35 minutes = 0 h 35 min after 9:00.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ELM",
+  "topic": "Time",
+  "body": "A train leaves at 8:15 and the journey takes 140 minutes. When does it arrive?",
+  "options": [
+   "9:15",
+   "10:50",
+   "10:25",
+   "10:35"
+  ],
+  "answer": 3,
+  "explanation": "140 minutes = 2 h 20 min after 8:15.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ELM",
+  "topic": "Time",
+  "body": "A train leaves at 10:30 and the journey takes 105 minutes. When does it arrive?",
+  "options": [
+   "11:30",
+   "12:15",
+   "12:05",
+   "12:30"
+  ],
+  "answer": 1,
+  "explanation": "105 minutes = 1 h 45 min after 10:30.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ELM",
+  "topic": "Percentages",
+  "body": "What is 50% of 140?",
+  "options": [
+   "77",
+   "700",
+   "2.8",
+   "70"
+  ],
+  "answer": 3,
+  "explanation": "50% = 50/100; 140 × 50 ÷ 100 = 70.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Percentages",
+  "body": "What is 20% of 180?",
+  "options": [
+   "36",
+   "360",
+   "144",
+   "9"
+  ],
+  "answer": 0,
+  "explanation": "20% = 20/100; 180 × 20 ÷ 100 = 36.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Percentages",
+  "body": "What is 10% of 200?",
+  "options": [
+   "200",
+   "180",
+   "20",
+   "22"
+  ],
+  "answer": 2,
+  "explanation": "10% = 10/100; 200 × 10 ÷ 100 = 20.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Percentages",
+  "body": "What is 20% of 200?",
+  "options": [
+   "40",
+   "10",
+   "400",
+   "160"
+  ],
+  "answer": 0,
+  "explanation": "20% = 20/100; 200 × 20 ÷ 100 = 40.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Percentages",
+  "body": "What is 10% of 380?",
+  "options": [
+   "38",
+   "342",
+   "42",
+   "380"
+  ],
+  "answer": 0,
+  "explanation": "10% = 10/100; 380 × 10 ÷ 100 = 38.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Percentages",
+  "body": "What is 20% of 220?",
+  "options": [
+   "44",
+   "440",
+   "11",
+   "176"
+  ],
+  "answer": 0,
+  "explanation": "20% = 20/100; 220 × 20 ÷ 100 = 44.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Percentages",
+  "body": "What is 25% of 240?",
+  "options": [
+   "60",
+   "180",
+   "600",
+   "9.6"
+  ],
+  "answer": 0,
+  "explanation": "25% = 25/100; 240 × 25 ÷ 100 = 60.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Percentages",
+  "body": "What is 75% of 120?",
+  "options": [
+   "90",
+   "30",
+   "900",
+   "1.6"
+  ],
+  "answer": 0,
+  "explanation": "75% = 75/100; 120 × 75 ÷ 100 = 90.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Percentages",
+  "body": "What is 75% of 400?",
+  "options": [
+   "100",
+   "330",
+   "300",
+   "3000"
+  ],
+  "answer": 2,
+  "explanation": "75% = 75/100; 400 × 75 ÷ 100 = 300.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ELM",
+  "topic": "Percentages",
+  "body": "What is 25% of 400?",
+  "options": [
+   "16",
+   "100",
+   "300",
+   "1000"
+  ],
+  "answer": 1,
+  "explanation": "25% = 25/100; 400 × 25 ÷ 100 = 100.",
+  "difficulty": 1
+ }
+]

@@ -26,6 +26,19 @@ const PATHS: Record<TrackCode, string> = {
   NMC: "/nmc-cbt",
   NCLEX: "/nclex",
   PLAB: "/plab",
+  USCIT: "/exam/USCIT",
+  CANCIT: "/exam/CANCIT",
+  AUSCIT: "/exam/AUSCIT",
+  GULFN: "/exam/GULFN",
+  IELTS: "/exam/IELTS",
+  GRAD: "/exam/GRAD",
+  IBPS: "/exam/IBPS",
+  ACCA: "/exam/ACCA",
+  ICAN: "/exam/ICAN",
+  ITIL: "/exam/ITIL",
+  SIXSIG: "/exam/SIXSIG",
+  ELEVEN: "/exam/ELEVEN",
+  NECO: "/exam/NECO",
   PM: "/project-management",
   ETH: "/ethiopia",
   SSC: "/ssc",
@@ -44,24 +57,29 @@ const PATHS: Record<TrackCode, string> = {
 
 const GROUPS: { title: string; description: string; codes: TrackCode[] }[] = [
   {
+    title: "Moving abroad",
+    description: "Citizenship tests, English and professional licensing for doctors and nurses relocating.",
+    codes: ["LUK", "USCIT", "CANCIT", "AUSCIT", "IELTS", "PLAB", "NMC", "NCLEX", "GULFN"],
+  },
+  {
     title: "Academic & admissions exams",
     description: "Prepare for school-leaving, university-entry and national examinations.",
-    codes: ["JAMB", "WAEC", "PUTME", "WASSCE_GH", "ETH", "SAT"],
+    codes: ["JAMB", "WAEC", "NECO", "PUTME", "WASSCE_GH", "ETH", "SAT", "ELEVEN"],
   },
   {
     title: "Professional & career exams",
-    description: "Practise for professional qualifications and career progression tests.",
-    codes: ["PLAB", "NMC", "NCLEX", "PM", "SSC", "DRIVE", "FSE", "FSM", "CITB", "SIA", "CON", "BKP"],
+    description: "Practise for professional qualifications, graduate assessments and career progression tests.",
+    codes: ["PM", "ACCA", "ICAN", "GRAD", "IBPS", "SSC", "ITIL", "SIXSIG", "BKP", "CON"],
   },
   {
     title: "Technology & digital skills",
-    description: "Build practical IT, networking, cloud computing and programming knowledge.",
+    description: "Build practical IT, networking, cloud, data, security and programming knowledge.",
     codes: ["ITF", "CCST", "AWS", "AZF", "PYT", "SEC", "DAT", "AIA"],
   },
   {
-    title: "Citizenship & workplace training",
-    description: "Build confidence for a UK knowledge test or structured workplace training.",
-    codes: ["LUK", "FIRE", "CARE", "FOOD", "CAREW", "HSE"],
+    title: "UK workplace & licences",
+    description: "Build confidence for UK tests and structured workplace training.",
+    codes: ["DRIVE", "CITB", "SIA", "FSE", "FSM", "FIRE", "CARE", "FOOD", "CAREW", "HSE"],
   },
 ];
 

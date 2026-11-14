@@ -13,6 +13,7 @@ export const BOT_COMMANDS = [
   { command: "certificate", description: "Get your course certificate" },
   { command: "explain", description: "Explain my last wrong answer" },
   { command: "battle", description: "Quiz battle in a group chat" },
+  { command: "essay", description: "IELTS essay marking (Task 2)" },
   { command: "invite", description: "Invite friends, earn Premium" },
   { command: "parent", description: "Weekly report for a parent" },
   { command: "settings", description: "Course, subjects, region" },

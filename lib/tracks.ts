@@ -2,9 +2,9 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
-export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC";
+export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
 export interface Marking { correct: number; wrong: number }
 
@@ -26,7 +26,7 @@ export interface Track {
   short: string;
   emoji: string;
   kind: "school" | "citizenship" | "work" | "professional";
-  region: "NG" | "GH" | "WA" | "UK" | "GLOBAL" | "ET" | "IN";
+  region: "NG" | "GH" | "WA" | "UK" | "GLOBAL" | "ET" | "IN" | "US" | "CA" | "AU" | "GULF";
   currency: "NGN" | "GBP" | "ETB" | "INR" | "USD";
   subjectMode: "multi" | "single";
   subjects: string[];
@@ -314,6 +314,121 @@ export const TRACKS: Record<TrackCode, Track> = {
     plans: ["nmc_pass"], tagline: "Part A numeracy and Part B clinical practice tests for the NMC CBT", timeZone: "Europe/London",
     audience: "an internationally educated nurse preparing for the UK NMC CBT (Test of Competence Part 1)",
   },
+  USCIT: {
+    code: "USCIT", name: "US Citizenship Test (civics)", short: "US Citizenship", emoji: "🇺🇸", kind: "citizenship", region: "US", currency: "USD",
+    subjectMode: "single", subjects: ["USC"], compulsory: ["USC"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 20, minutes: 20, passPct: 60, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["us_cit"], tagline: "US naturalization civics practice: American government, history and symbols", timeZone: "America/New_York", timeLabel: "US Eastern",
+    audience: "an immigrant preparing for the USCIS naturalization civics test",
+  },
+  CANCIT: {
+    code: "CANCIT", name: "Canadian Citizenship Test", short: "Canada Citizenship", emoji: "🇨🇦", kind: "citizenship", region: "CA", currency: "USD",
+    subjectMode: "single", subjects: ["CAN"], compulsory: ["CAN"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 20, minutes: 30, passPct: 75, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["ca_cit"], tagline: "Discover Canada practice: 20-question tests, 15 correct to pass", timeZone: "America/Toronto", timeLabel: "Canada Eastern",
+    audience: "a permanent resident preparing for the Canadian citizenship test based on the Discover Canada guide",
+  },
+  AUSCIT: {
+    code: "AUSCIT", name: "Australian Citizenship Test", short: "Australia Citizenship", emoji: "🇦🇺", kind: "citizenship", region: "AU", currency: "USD",
+    subjectMode: "single", subjects: ["AUS"], compulsory: ["AUS"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 20, minutes: 45, passPct: 75, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["au_cit"], tagline: "Our Common Bond practice: Australian values, government and history", timeZone: "Australia/Sydney", timeLabel: "Sydney",
+    audience: "a permanent resident preparing for the Australian citizenship test based on 'Australian Citizenship: Our Common Bond'",
+  },
+  GULFN: {
+    code: "GULFN", name: "Gulf nursing licence (DHA, DOH/HAAD, SCFHS, QCHP — Prometric)", short: "Gulf Nursing", emoji: "🕌", kind: "professional", region: "GULF", currency: "USD",
+    subjectMode: "single", subjects: ["GNX", "NMC"], compulsory: ["GNX", "NMC"], minSubjects: 2, maxSubjects: 2, subjectNote: "",
+    mock: { total: 100, minutes: 120, passPct: 60, scoreStyle: "passfail", maxSubjects: 1 },
+    mockVariants: [
+      { key: "FULL", label: "Prometric-style practice — 100 questions", short: "Full 100", subjects: ["GNX", "NMC"], total: 50, minutes: 120, passPct: 60, note: "100 questions · 2 hours · practice pass mark 60%" },
+      { key: "Q30", label: "Quick 30", short: "Quick 30", subjects: ["GNX"], total: 30, minutes: 40, passPct: 60, note: "30 questions · 40 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["gulf_pass"], tagline: "Prometric practice for nurses moving to the UAE, Saudi Arabia, Qatar, Oman and Kuwait", timeZone: "Asia/Dubai", timeLabel: "Gulf (UAE)",
+    audience: "an internationally educated nurse preparing for a Gulf nursing licence exam (DHA, DOH/HAAD, SCFHS, QCHP, Prometric), using SI units and international nursing practice",
+  },
+  IELTS: {
+    code: "IELTS", name: "IELTS (grammar, vocabulary & AI-marked writing)", short: "IELTS", emoji: "📝", kind: "professional", region: "GLOBAL", currency: "GBP",
+    subjectMode: "single", subjects: ["IEV"], compulsory: ["IEV"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 40, minutes: 40, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["ielts_pass", "ielts_pass_ngn"], tagline: "Daily grammar and vocabulary drills plus Writing Task 2 marking with a band estimate", timeZone: "UTC", timeLabel: "UTC",
+    audience: "an adult preparing for IELTS Academic or General Training to study, work or migrate abroad",
+  },
+  GRAD: {
+    code: "GRAD", name: "Graduate aptitude tests (SHL-style numerical, verbal, logical)", short: "Graduate Aptitude", emoji: "💼", kind: "professional", region: "NG", currency: "NGN",
+    subjectMode: "multi", subjects: ["QNT", "VRB", "APT"], compulsory: ["QNT", "VRB", "APT"], minSubjects: 3, maxSubjects: 3, subjectNote: "Numerical, verbal and logical reasoning",
+    mock: { perSubject: 15, minutes: 45, scoreStyle: "percent", maxSubjects: 3 },
+    mockVariants: [
+      { key: "ALL", label: "Full aptitude assessment", short: "Full test", subjects: ["QNT", "VRB", "APT"], total: 15, minutes: 45, note: "45 questions · 45 min" },
+      { key: "NUM", label: "Numerical reasoning", short: "Numerical", subjects: ["QNT"], total: 20, minutes: 25, note: "20 questions · 25 min" },
+      { key: "VER", label: "Verbal reasoning", short: "Verbal", subjects: ["VRB"], total: 20, minutes: 20, note: "20 questions · 20 min" },
+      { key: "LOG", label: "Logical reasoning", short: "Logical", subjects: ["APT"], total: 20, minutes: 20, note: "20 questions · 20 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["grad_pass"], tagline: "Pass bank, oil & gas and Big 4 graduate assessments: timed numerical, verbal and logical tests", timeZone: "Africa/Lagos",
+    audience: "a graduate preparing for employer aptitude tests (SHL/Kenexa/Cubiks style numerical, verbal and logical reasoning) for graduate trainee jobs",
+  },
+  IBPS: {
+    code: "IBPS", name: "IBPS PO / SBI PO (India banking)", short: "Bank PO", emoji: "🏦", kind: "professional", region: "IN", currency: "INR",
+    subjectMode: "multi", subjects: ["APT", "QNT", "ENG"], compulsory: ["APT", "QNT", "ENG"], minSubjects: 3, maxSubjects: 3, subjectNote: "Reasoning, Quantitative Aptitude and English",
+    mock: { perSubject: 33, minutes: 60, scoreStyle: "marks", maxSubjects: 3, marking: { correct: 1, wrong: 0.25 } }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["ibps_quarter"], tagline: "Bank PO prelims mocks with negative marking: reasoning, quant and English", timeZone: "Asia/Kolkata", timeLabel: "India (IST)",
+    audience: "an Indian candidate preparing for IBPS PO / SBI PO banking exams (reasoning, quantitative aptitude, English)",
+  },
+  ACCA: {
+    code: "ACCA", name: "ACCA Applied Knowledge (BT, MA, FA)", short: "ACCA", emoji: "📒", kind: "professional", region: "GLOBAL", currency: "GBP",
+    subjectMode: "multi", subjects: ["ABT", "AMA", "AFA"], compulsory: [], minSubjects: 1, maxSubjects: 3, subjectNote: "Pick the papers you're sitting",
+    mock: { total: 50, minutes: 120, passPct: 50, scoreStyle: "passfail", maxSubjects: 1 },
+    mockVariants: [
+      { key: "BT", label: "Business & Technology", short: "BT", subjects: ["ABT"], total: 50, minutes: 120, passPct: 50, note: "50 questions · 2 hours · 50% to pass" },
+      { key: "MA", label: "Management Accounting", short: "MA", subjects: ["AMA"], total: 50, minutes: 120, passPct: 50, note: "50 questions · 2 hours · 50% to pass" },
+      { key: "FA", label: "Financial Accounting", short: "FA", subjects: ["AFA"], total: 50, minutes: 120, passPct: 50, note: "50 questions · 2 hours · 50% to pass" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["acca_pass"], tagline: "ACCA BT, MA and FA practice with worked calculations", timeZone: "Europe/London",
+    audience: "an ACCA student preparing for the Applied Knowledge computer-based exams (Business & Technology, Management Accounting, Financial Accounting)",
+  },
+  ICAN: {
+    code: "ICAN", name: "ICAN Foundation (Nigeria)", short: "ICAN", emoji: "🧮", kind: "professional", region: "NG", currency: "NGN",
+    subjectMode: "multi", subjects: ["ABT", "AMA", "AFA"], compulsory: [], minSubjects: 1, maxSubjects: 3, subjectNote: "Business & Finance, Management Information, Financial Accounting",
+    mock: { total: 50, minutes: 90, passPct: 50, scoreStyle: "passfail", maxSubjects: 1 },
+    mockVariants: [
+      { key: "BF", label: "Business, Management & Finance", short: "Business", subjects: ["ABT"], total: 50, minutes: 90, passPct: 50, note: "50 questions · 90 min" },
+      { key: "MI", label: "Management Information", short: "Mgt info", subjects: ["AMA"], total: 50, minutes: 90, passPct: 50, note: "50 questions · 90 min" },
+      { key: "FA", label: "Financial Accounting", short: "Fin acct", subjects: ["AFA"], total: 50, minutes: 90, passPct: 50, note: "50 questions · 90 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["ican_pass"], tagline: "ICAN Foundation practice: accounting, costing and business questions with working", timeZone: "Africa/Lagos",
+    audience: "a Nigerian student preparing for the ICAN Foundation level exams",
+  },
+  ITIL: {
+    code: "ITIL", name: "ITIL 4 Foundation", short: "ITIL 4", emoji: "🛠️", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["ITL"], compulsory: ["ITL"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 40, minutes: 60, passPct: 65, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["itil_pass"], tagline: "ITIL 4 Foundation practice: 40 questions, 60 minutes, 26 to pass", timeZone: "UTC", timeLabel: "UTC",
+    audience: "an IT professional preparing for the ITIL 4 Foundation exam",
+  },
+  SIXSIG: {
+    code: "SIXSIG", name: "Lean Six Sigma Green Belt", short: "Six Sigma", emoji: "📈", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["SSG"], compulsory: ["SSG"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 50, minutes: 90, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["sixsig_pass"], tagline: "Green Belt practice: DMAIC, Lean tools, statistics and DPMO calculations", timeZone: "UTC", timeLabel: "UTC",
+    audience: "a professional preparing for a Lean Six Sigma Green Belt certification exam",
+  },
+  ELEVEN: {
+    code: "ELEVEN", name: "UK 11+ (verbal reasoning & maths)", short: "11+", emoji: "🎒", kind: "school", region: "UK", currency: "GBP",
+    subjectMode: "multi", subjects: ["VRS", "ELM"], compulsory: ["VRS", "ELM"], minSubjects: 2, maxSubjects: 2, subjectNote: "Verbal reasoning + maths",
+    mock: { perSubject: 25, minutes: 50, scoreStyle: "percent", maxSubjects: 2 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["eleven_pass"], tagline: "11+ practice for grammar school entry: verbal reasoning and maths, a little every day", timeZone: "Europe/London",
+    audience: "a 10-year-old child in England preparing for the 11+ grammar school entrance test (GL-style verbal reasoning and KS2 maths); keep language simple and encouraging",
+  },
+  NECO: {
+    code: "NECO", name: "NECO (SSCE) — Nigeria", short: "NECO", emoji: "📗", kind: "school", region: "NG", currency: "NGN",
+    subjectMode: "multi", subjects: SCHOOL_SUBJECTS, compulsory: ["ENG", "MTH"], minSubjects: 4, maxSubjects: 6, subjectNote: "English + Maths + 2 to 4 more",
+    mock: { perSubject: 15, minutes: 30, scoreStyle: "percent", maxSubjects: 4 }, weeklyMock: false, askState: true, askSchool: true,
+    plans: ["student_month", "student_season"], tagline: "Daily drills and CBT practice for the NECO SSCE", timeZone: "Africa/Lagos",
+    audience: "a Nigerian secondary school student preparing for the NECO SSCE",
+  },
   PLAB: {
     code: "PLAB", name: "PLAB 1 (UK GMC — doctors)", short: "PLAB 1", emoji: "⚕️", kind: "professional", region: "UK", currency: "GBP",
     subjectMode: "single", subjects: ["PLB"], compulsory: ["PLB"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
@@ -340,13 +455,14 @@ export const TRACKS: Record<TrackCode, Track> = {
     audience: "an internationally educated nurse (often from Nigeria, Ghana, the Philippines or India) preparing for the US NCLEX-RN, using US units and US nursing practice",
   },
   PM: {
-    code: "PM", name: "Project Management (PRINCE2, Scrum, CAPM)", short: "Project Management", emoji: "📋", kind: "professional", region: "GLOBAL", currency: "GBP",
-    subjectMode: "multi", subjects: ["PRN", "SCR", "PMF"], compulsory: [], minSubjects: 1, maxSubjects: 3, subjectNote: "Pick the certifications you're preparing for",
+    code: "PM", name: "Project Management (PRINCE2, Scrum, CAPM, PMP)", short: "Project Management", emoji: "📋", kind: "professional", region: "GLOBAL", currency: "GBP",
+    subjectMode: "multi", subjects: ["PRN", "SCR", "PMF", "PMP"], compulsory: [], minSubjects: 1, maxSubjects: 4, subjectNote: "Pick the certifications you're preparing for",
     mock: { total: 60, minutes: 60, passPct: 60, scoreStyle: "passfail", maxSubjects: 1 },
     mockVariants: [
       { key: "PRN", label: "PRINCE2® 7 Foundation", short: "PRINCE2", subjects: ["PRN"], total: 60, minutes: 60, passPct: 60, note: "60 questions · 60 min · 36 to pass" },
       { key: "SCR", label: "Scrum — PSM I style", short: "Scrum", subjects: ["SCR"], total: 80, minutes: 60, passPct: 85, note: "80 questions · 60 min · 85% to pass" },
       { key: "PMF", label: "CAPM-style fundamentals", short: "CAPM", subjects: ["PMF"], total: 50, minutes: 60, passPct: 70, note: "50 questions · 60 min · practice target 70%" },
+      { key: "PMP", label: "PMP-style practice", short: "PMP", subjects: ["PMP", "PMF"], total: 45, minutes: 120, passPct: 65, note: "90 questions · 2 hours · situational + calculations" },
     ],
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["pm_pass", "pm_pass_ngn"], tagline: "PRINCE2 Foundation, Scrum PSM I and CAPM practice tests", timeZone: "Europe/London",

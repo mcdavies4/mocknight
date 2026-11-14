@@ -1,0 +1,968 @@
+[
+ {
+  "subject": "VRS",
+  "topic": "Synonyms",
+  "body": "Which word is closest in meaning to 'big'?",
+  "options": [
+   "rich",
+   "start",
+   "happy",
+   "large"
+  ],
+  "answer": 3,
+  "explanation": "'big' and 'large' mean the same.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Synonyms",
+  "body": "Which word is closest in meaning to 'quick'?",
+  "options": [
+   "yell",
+   "cross",
+   "fast",
+   "happy"
+  ],
+  "answer": 2,
+  "explanation": "'quick' and 'fast' mean the same.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Synonyms",
+  "body": "Which word is closest in meaning to 'begin'?",
+  "options": [
+   "start",
+   "rich",
+   "finish",
+   "fast"
+  ],
+  "answer": 0,
+  "explanation": "'begin' and 'start' mean the same.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Synonyms",
+  "body": "Which word is closest in meaning to 'shut'?",
+  "options": [
+   "bold",
+   "close",
+   "small",
+   "start"
+  ],
+  "answer": 1,
+  "explanation": "'shut' and 'close' mean the same.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Synonyms",
+  "body": "Which word is closest in meaning to 'glad'?",
+  "options": [
+   "quiet",
+   "happy",
+   "rich",
+   "present"
+  ],
+  "answer": 1,
+  "explanation": "'glad' and 'happy' mean the same.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Synonyms",
+  "body": "Which word is closest in meaning to 'tiny'?",
+  "options": [
+   "close",
+   "finish",
+   "small",
+   "moist"
+  ],
+  "answer": 2,
+  "explanation": "'tiny' and 'small' mean the same.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Synonyms",
+  "body": "Which word is closest in meaning to 'correct'?",
+  "options": [
+   "start",
+   "moist",
+   "right",
+   "cross"
+  ],
+  "answer": 2,
+  "explanation": "'correct' and 'right' mean the same.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Synonyms",
+  "body": "Which word is closest in meaning to 'shout'?",
+  "options": [
+   "yell",
+   "fast",
+   "finish",
+   "close"
+  ],
+  "answer": 0,
+  "explanation": "'shout' and 'yell' mean the same.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Synonyms",
+  "body": "Which word is closest in meaning to 'brave'?",
+  "options": [
+   "bold",
+   "quiet",
+   "finish",
+   "right"
+  ],
+  "answer": 0,
+  "explanation": "'brave' and 'bold' mean the same.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Synonyms",
+  "body": "Which word is closest in meaning to 'end'?",
+  "options": [
+   "finish",
+   "start",
+   "fast",
+   "yell"
+  ],
+  "answer": 0,
+  "explanation": "'end' and 'finish' mean the same.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Synonyms",
+  "body": "Which word is closest in meaning to 'gift'?",
+  "options": [
+   "large",
+   "present",
+   "bold",
+   "start"
+  ],
+  "answer": 1,
+  "explanation": "'gift' and 'present' mean the same.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Synonyms",
+  "body": "Which word is closest in meaning to 'silent'?",
+  "options": [
+   "quiet",
+   "close",
+   "rich",
+   "start"
+  ],
+  "answer": 0,
+  "explanation": "'silent' and 'quiet' mean the same.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Synonyms",
+  "body": "Which word is closest in meaning to 'damp'?",
+  "options": [
+   "moist",
+   "large",
+   "happy",
+   "present"
+  ],
+  "answer": 0,
+  "explanation": "'damp' and 'moist' mean the same.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Synonyms",
+  "body": "Which word is closest in meaning to 'angry'?",
+  "options": [
+   "happy",
+   "cross",
+   "bold",
+   "yell"
+  ],
+  "answer": 1,
+  "explanation": "'angry' and 'cross' mean the same.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Synonyms",
+  "body": "Which word is closest in meaning to 'wealthy'?",
+  "options": [
+   "large",
+   "present",
+   "rich",
+   "yell"
+  ],
+  "answer": 2,
+  "explanation": "'wealthy' and 'rich' mean the same.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Antonyms",
+  "body": "Which word is most opposite in meaning to 'hot'?",
+  "options": [
+   "defeat",
+   "cold",
+   "shrink",
+   "bold"
+  ],
+  "answer": 1,
+  "explanation": "'cold' is the opposite of 'hot'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Antonyms",
+  "body": "Which word is most opposite in meaning to 'early'?",
+  "options": [
+   "defeat",
+   "shrink",
+   "late",
+   "depart"
+  ],
+  "answer": 2,
+  "explanation": "'late' is the opposite of 'early'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Antonyms",
+  "body": "Which word is most opposite in meaning to 'ancient'?",
+  "options": [
+   "mean",
+   "modern",
+   "rare",
+   "bold"
+  ],
+  "answer": 1,
+  "explanation": "'modern' is the opposite of 'ancient'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Antonyms",
+  "body": "Which word is most opposite in meaning to 'generous'?",
+  "options": [
+   "defeat",
+   "refuse",
+   "mean",
+   "depart"
+  ],
+  "answer": 2,
+  "explanation": "'mean' is the opposite of 'generous'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Antonyms",
+  "body": "Which word is most opposite in meaning to 'victory'?",
+  "options": [
+   "defeat",
+   "shrink",
+   "cold",
+   "rare"
+  ],
+  "answer": 0,
+  "explanation": "'defeat' is the opposite of 'victory'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Antonyms",
+  "body": "Which word is most opposite in meaning to 'expand'?",
+  "options": [
+   "modern",
+   "quiet",
+   "shrink",
+   "cold"
+  ],
+  "answer": 2,
+  "explanation": "'shrink' is the opposite of 'expand'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Antonyms",
+  "body": "Which word is most opposite in meaning to 'arrive'?",
+  "options": [
+   "defeat",
+   "depart",
+   "cold",
+   "rare"
+  ],
+  "answer": 1,
+  "explanation": "'depart' is the opposite of 'arrive'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Antonyms",
+  "body": "Which word is most opposite in meaning to 'frequent'?",
+  "options": [
+   "rare",
+   "late",
+   "defeat",
+   "refuse"
+  ],
+  "answer": 0,
+  "explanation": "'rare' is the opposite of 'frequent'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Antonyms",
+  "body": "Which word is most opposite in meaning to 'accept'?",
+  "options": [
+   "rare",
+   "mean",
+   "quiet",
+   "refuse"
+  ],
+  "answer": 3,
+  "explanation": "'refuse' is the opposite of 'accept'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Antonyms",
+  "body": "Which word is most opposite in meaning to 'shallow'?",
+  "options": [
+   "cold",
+   "deep",
+   "refuse",
+   "shrink"
+  ],
+  "answer": 1,
+  "explanation": "'deep' is the opposite of 'shallow'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Antonyms",
+  "body": "Which word is most opposite in meaning to 'noisy'?",
+  "options": [
+   "quiet",
+   "deep",
+   "depart",
+   "mean"
+  ],
+  "answer": 0,
+  "explanation": "'quiet' is the opposite of 'noisy'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Antonyms",
+  "body": "Which word is most opposite in meaning to 'timid'?",
+  "options": [
+   "shrink",
+   "defeat",
+   "bold",
+   "deep"
+  ],
+  "answer": 2,
+  "explanation": "'bold' is the opposite of 'timid'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "VRS",
+  "topic": "Letter sequences",
+  "body": "Find the next pair in the series: RS, UV, XY, AB, ?",
+  "options": [
+   "DE",
+   "GH",
+   "ED",
+   "AB"
+  ],
+  "answer": 0,
+  "explanation": "Each pair moves 3 letters along the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Letter sequences",
+  "body": "Find the next pair in the series: QR, TU, WX, ZA, ?",
+  "options": [
+   "DC",
+   "FG",
+   "CD",
+   "ZA"
+  ],
+  "answer": 2,
+  "explanation": "Each pair moves 3 letters along the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Letter sequences",
+  "body": "Find the next pair in the series: CD, EF, GH, IJ, ?",
+  "options": [
+   "MN",
+   "KL",
+   "LK",
+   "IJ"
+  ],
+  "answer": 1,
+  "explanation": "Each pair moves 2 letters along the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Letter sequences",
+  "body": "Find the next pair in the series: EF, GH, IJ, KL, ?",
+  "options": [
+   "OP",
+   "KL",
+   "NM",
+   "MN"
+  ],
+  "answer": 3,
+  "explanation": "Each pair moves 2 letters along the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Letter sequences",
+  "body": "Find the next pair in the series: JK, KL, LM, MN, ?",
+  "options": [
+   "NO",
+   "MN",
+   "ON",
+   "OP"
+  ],
+  "answer": 0,
+  "explanation": "Each pair moves 1 letter along the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Letter sequences",
+  "body": "Find the next pair in the series: AB, DE, GH, JK, ?",
+  "options": [
+   "JK",
+   "NM",
+   "MN",
+   "PQ"
+  ],
+  "answer": 2,
+  "explanation": "Each pair moves 3 letters along the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Letter sequences",
+  "body": "Find the next pair in the series: LM, MN, NO, OP, ?",
+  "options": [
+   "QP",
+   "QR",
+   "OP",
+   "PQ"
+  ],
+  "answer": 3,
+  "explanation": "Each pair moves 1 letter along the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Letter sequences",
+  "body": "Find the next pair in the series: PQ, QR, RS, ST, ?",
+  "options": [
+   "TU",
+   "UT",
+   "UV",
+   "ST"
+  ],
+  "answer": 0,
+  "explanation": "Each pair moves 1 letter along the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Letter sequences",
+  "body": "Find the next pair in the series: NO, QR, TU, WX, ?",
+  "options": [
+   "WX",
+   "AZ",
+   "ZA",
+   "CD"
+  ],
+  "answer": 2,
+  "explanation": "Each pair moves 3 letters along the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Letter sequences",
+  "body": "Find the next pair in the series: GH, JK, MN, PQ, ?",
+  "options": [
+   "ST",
+   "PQ",
+   "TS",
+   "VW"
+  ],
+  "answer": 0,
+  "explanation": "Each pair moves 3 letters along the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Letter sequences",
+  "body": "Find the next pair in the series: HI, IJ, JK, KL, ?",
+  "options": [
+   "LM",
+   "ML",
+   "MN",
+   "KL"
+  ],
+  "answer": 0,
+  "explanation": "Each pair moves 1 letter along the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Letter sequences",
+  "body": "Find the next pair in the series: NO, OP, PQ, QR, ?",
+  "options": [
+   "QR",
+   "RS",
+   "ST",
+   "SR"
+  ],
+  "answer": 1,
+  "explanation": "Each pair moves 1 letter along the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Letter sequences",
+  "body": "Find the next pair in the series: KL, MN, OP, QR, ?",
+  "options": [
+   "QR",
+   "UV",
+   "TS",
+   "ST"
+  ],
+  "answer": 3,
+  "explanation": "Each pair moves 2 letters along the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Letter sequences",
+  "body": "Find the next pair in the series: MN, NO, OP, PQ, ?",
+  "options": [
+   "QR",
+   "PQ",
+   "RQ",
+   "RS"
+  ],
+  "answer": 0,
+  "explanation": "Each pair moves 1 letter along the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Letter sequences",
+  "body": "Find the next pair in the series: HI, KL, NO, QR, ?",
+  "options": [
+   "QR",
+   "WX",
+   "UT",
+   "TU"
+  ],
+  "answer": 3,
+  "explanation": "Each pair moves 3 letters along the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Codes",
+  "body": "If GATE is written as ICVG, how is FISH written in the same code?",
+  "options": [
+   "ILVK",
+   "HKUJ",
+   "EHRG",
+   "HSIF"
+  ],
+  "answer": 1,
+  "explanation": "Each letter moves 2 places forward in the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Codes",
+  "body": "If GATE is written as ICVG, how is MILK written in the same code?",
+  "options": [
+   "PLON",
+   "LHKJ",
+   "KLIM",
+   "OKNM"
+  ],
+  "answer": 3,
+  "explanation": "Each letter moves 2 places forward in the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Codes",
+  "body": "If LAMP is written as NCOR, how is WOLF written in the same code?",
+  "options": [
+   "VNKE",
+   "FLOW",
+   "YQNH",
+   "ZROI"
+  ],
+  "answer": 2,
+  "explanation": "Each letter moves 2 places forward in the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Codes",
+  "body": "If BOAT is written as DQCV, how is GATE written in the same code?",
+  "options": [
+   "ETAG",
+   "JDWH",
+   "ICVG",
+   "FZSD"
+  ],
+  "answer": 2,
+  "explanation": "Each letter moves 2 places forward in the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Codes",
+  "body": "If BOAT is written as CPBU, how is DESK written in the same code?",
+  "options": [
+   "FGUM",
+   "CDRJ",
+   "KSED",
+   "EFTL"
+  ],
+  "answer": 3,
+  "explanation": "Each letter moves 1 place forward in the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Codes",
+  "body": "If CART is written as ECTV, how is PINK written in the same code?",
+  "options": [
+   "KNIP",
+   "RKPM",
+   "OHMJ",
+   "SLQN"
+  ],
+  "answer": 1,
+  "explanation": "Each letter moves 2 places forward in the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Codes",
+  "body": "If MILK is written as OKNM, how is FISH written in the same code?",
+  "options": [
+   "EHRG",
+   "ILVK",
+   "HKUJ",
+   "HSIF"
+  ],
+  "answer": 2,
+  "explanation": "Each letter moves 2 places forward in the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Codes",
+  "body": "If FISH is written as HKUJ, how is RING written in the same code?",
+  "options": [
+   "QHMF",
+   "TKPI",
+   "GNIR",
+   "ULQJ"
+  ],
+  "answer": 1,
+  "explanation": "Each letter moves 2 places forward in the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Codes",
+  "body": "If FISH is written as HKUJ, how is CART written in the same code?",
+  "options": [
+   "TRAC",
+   "BZQS",
+   "ECTV",
+   "FDUW"
+  ],
+  "answer": 2,
+  "explanation": "Each letter moves 2 places forward in the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Codes",
+  "body": "If PINK is written as RKPM, how is MILK written in the same code?",
+  "options": [
+   "PLON",
+   "LHKJ",
+   "OKNM",
+   "KLIM"
+  ],
+  "answer": 2,
+  "explanation": "Each letter moves 2 places forward in the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Codes",
+  "body": "If WOLF is written as YQNH, how is BOAT written in the same code?",
+  "options": [
+   "TAOB",
+   "DQCV",
+   "ERDW",
+   "ANZS"
+  ],
+  "answer": 1,
+  "explanation": "Each letter moves 2 places forward in the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Codes",
+  "body": "If RING is written as SJOH, how is CART written in the same code?",
+  "options": [
+   "BZQS",
+   "TRAC",
+   "DBSU",
+   "ECTV"
+  ],
+  "answer": 2,
+  "explanation": "Each letter moves 1 place forward in the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Codes",
+  "body": "If BOAT is written as CPBU, how is WOLF written in the same code?",
+  "options": [
+   "YQNH",
+   "FLOW",
+   "VNKE",
+   "XPMG"
+  ],
+  "answer": 3,
+  "explanation": "Each letter moves 1 place forward in the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Codes",
+  "body": "If WOLF is written as XPMG, how is CART written in the same code?",
+  "options": [
+   "DBSU",
+   "TRAC",
+   "ECTV",
+   "BZQS"
+  ],
+  "answer": 0,
+  "explanation": "Each letter moves 1 place forward in the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Codes",
+  "body": "If BOAT is written as CPBU, how is RING written in the same code?",
+  "options": [
+   "SJOH",
+   "QHMF",
+   "GNIR",
+   "TKPI"
+  ],
+  "answer": 0,
+  "explanation": "Each letter moves 1 place forward in the alphabet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Number relationships",
+  "body": "Find the missing number: 7 (20) and 7 (?)",
+  "options": [
+   "20",
+   "18",
+   "15",
+   "21"
+  ],
+  "answer": 0,
+  "explanation": "The rule is × 3 − 1: 7 → 20.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Number relationships",
+  "body": "Find the missing number: 10 (15) and 2 (?)",
+  "options": [
+   "5",
+   "7",
+   "6",
+   "8"
+  ],
+  "answer": 1,
+  "explanation": "The rule is + 5: 2 → 7.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Number relationships",
+  "body": "Find the missing number: 9 (18) and 5 (?)",
+  "options": [
+   "10",
+   "9",
+   "11",
+   "8"
+  ],
+  "answer": 0,
+  "explanation": "The rule is × 2: 5 → 10.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Number relationships",
+  "body": "Find the missing number: 2 (4) and 3 (?)",
+  "options": [
+   "4",
+   "7",
+   "6",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "The rule is × 2: 3 → 6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Number relationships",
+  "body": "Find the missing number: 7 (49) and 12 (?)",
+  "options": [
+   "25",
+   "142",
+   "145",
+   "144"
+  ],
+  "answer": 3,
+  "explanation": "The rule is square: 12 → 144.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Number relationships",
+  "body": "Find the missing number: 2 (5) and 12 (?)",
+  "options": [
+   "35",
+   "25",
+   "33",
+   "36"
+  ],
+  "answer": 0,
+  "explanation": "The rule is × 3 − 1: 12 → 35.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Number relationships",
+  "body": "Find the missing number: 6 (36) and 6 (?)",
+  "options": [
+   "34",
+   "13",
+   "37",
+   "36"
+  ],
+  "answer": 3,
+  "explanation": "The rule is square: 6 → 36.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Number relationships",
+  "body": "Find the missing number: 11 (22) and 5 (?)",
+  "options": [
+   "11",
+   "9",
+   "8",
+   "10"
+  ],
+  "answer": 3,
+  "explanation": "The rule is × 2: 5 → 10.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Number relationships",
+  "body": "Find the missing number: 2 (5) and 3 (?)",
+  "options": [
+   "8",
+   "9",
+   "7",
+   "6"
+  ],
+  "answer": 0,
+  "explanation": "The rule is × 3 − 1: 3 → 8.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Number relationships",
+  "body": "Find the missing number: 2 (4) and 6 (?)",
+  "options": [
+   "13",
+   "37",
+   "34",
+   "36"
+  ],
+  "answer": 3,
+  "explanation": "The rule is square: 6 → 36.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Number relationships",
+  "body": "Find the missing number: 12 (35) and 10 (?)",
+  "options": [
+   "27",
+   "21",
+   "30",
+   "29"
+  ],
+  "answer": 3,
+  "explanation": "The rule is × 3 − 1: 10 → 29.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRS",
+  "topic": "Number relationships",
+  "body": "Find the missing number: 12 (24) and 11 (?)",
+  "options": [
+   "20",
+   "24",
+   "22",
+   "23"
+  ],
+  "answer": 2,
+  "explanation": "The rule is × 2: 11 → 22.",
+  "difficulty": 2
+ }
+]

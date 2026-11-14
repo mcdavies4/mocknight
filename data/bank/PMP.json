@@ -1,0 +1,198 @@
+[
+ {
+  "subject": "PMP",
+  "topic": "People",
+  "body": "Two team members disagree strongly about a technical approach. What should the project manager do first?",
+  "options": [
+   "Ignore it until it affects the schedule",
+   "Choose the approach personally and move on",
+   "Escalate to the sponsor immediately",
+   "Meet with both to understand each view and find a collaborative solution"
+  ],
+  "answer": 3,
+  "explanation": "Collaborating/problem solving is usually best for lasting resolution.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMP",
+  "topic": "People",
+  "body": "A new hybrid team is struggling to work together. Which action best supports team performance?",
+  "options": [
+   "Replace team members",
+   "Agree a team charter with ground rules and working agreements",
+   "Hold all meetings in person only",
+   "Increase status reporting"
+  ],
+  "answer": 1,
+  "explanation": "A team charter sets shared values and working norms.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMP",
+  "topic": "People",
+  "body": "In an agile team, who is primarily responsible for removing impediments?",
+  "options": [
+   "The servant leader (e.g. Scrum Master / project manager)",
+   "The customer",
+   "The sponsor",
+   "Each stakeholder separately"
+  ],
+  "answer": 0,
+  "explanation": "Servant leadership supports the team.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMP",
+  "topic": "People",
+  "body": "A team member is consistently missing deadlines. What should the project manager do first?",
+  "options": [
+   "Raise it in the next team meeting",
+   "Talk with the team member privately to understand the cause",
+   "Reassign all their work",
+   "Report them to HR"
+  ],
+  "answer": 1,
+  "explanation": "Address issues privately and seek root causes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMP",
+  "topic": "Process",
+  "body": "A stakeholder requests a significant change during execution. What should the project manager do first?",
+  "options": [
+   "Reject it outright",
+   "Evaluate the impact of the change",
+   "Ask the team to work overtime",
+   "Implement it to keep the stakeholder happy"
+  ],
+  "answer": 1,
+  "explanation": "Then submit it through integrated change control.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMP",
+  "topic": "Process",
+  "body": "Which document formally authorises a project and the project manager?",
+  "options": [
+   "Project charter",
+   "Project management plan",
+   "Stakeholder register",
+   "Scope statement"
+  ],
+  "answer": 0,
+  "explanation": "Issued by the sponsor.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMP",
+  "topic": "Process",
+  "body": "A risk has occurred. What should the project manager do?",
+  "options": [
+   "Start risk identification",
+   "Add it to the lessons learned only",
+   "Ignore it if it is small",
+   "Implement the planned risk response and update the issue log"
+  ],
+  "answer": 3,
+  "explanation": "Once a risk occurs it becomes an issue.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMP",
+  "topic": "Process",
+  "body": "What is the main purpose of a retrospective?",
+  "options": [
+   "To inspect how the team works and agree improvements",
+   "To demo the product to stakeholders",
+   "To approve the budget",
+   "To estimate the backlog"
+  ],
+  "answer": 0,
+  "explanation": "Continuous improvement.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMP",
+  "topic": "Process",
+  "body": "Which estimating technique uses the weighted average (O + 4M + P) / 6?",
+  "options": [
+   "Bottom-up estimating",
+   "Parametric estimating",
+   "Analogous estimating",
+   "Three-point (PERT/beta) estimating"
+  ],
+  "answer": 3,
+  "explanation": "It accounts for uncertainty.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMP",
+  "topic": "Process",
+  "body": "A project has CPI 0.8 and SPI 1.1. What does this mean?",
+  "options": [
+   "Over budget and behind schedule",
+   "Under budget and behind schedule",
+   "On budget and on schedule",
+   "Over budget and ahead of schedule"
+  ],
+  "answer": 3,
+  "explanation": "CPI < 1 = over budget; SPI > 1 = ahead.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMP",
+  "topic": "Process",
+  "body": "When should lessons learned be captured?",
+  "options": [
+   "Throughout the project",
+   "Only at closure",
+   "Only after failures",
+   "Only by the sponsor"
+  ],
+  "answer": 0,
+  "explanation": "Captured continuously and shared.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMP",
+  "topic": "Business environment",
+  "body": "A new regulation will affect the project. What should the project manager do first?",
+  "options": [
+   "Cancel the project",
+   "Assess the impact on the project",
+   "Ask the team to decide",
+   "Ignore it until audited"
+  ],
+  "answer": 1,
+  "explanation": "Then update plans through change control.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMP",
+  "topic": "Business environment",
+  "body": "What is the main purpose of a benefits management plan?",
+  "options": [
+   "To track daily tasks",
+   "To list team members' bonuses",
+   "To describe how and when the project's benefits will be delivered and measured",
+   "To record risks"
+  ],
+  "answer": 2,
+  "explanation": "Links the project to business value.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PMP",
+  "topic": "Business environment",
+  "body": "Which approach best suits a project with highly uncertain, changing requirements?",
+  "options": [
+   "No planning at all",
+   "A strictly predictive approach",
+   "An adaptive (agile) approach",
+   "A fixed-price contract with frozen scope"
+  ],
+  "answer": 2,
+  "explanation": "Frequent feedback handles change.",
+  "difficulty": 2
+ }
+]

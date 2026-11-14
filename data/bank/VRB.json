@@ -1,0 +1,236 @@
+[
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Remote work has grown rapidly since 2020. A survey of 2,000 firms found that 60% now offer at least one remote day per week, up from 20% before 2020. However, only 15% allow staff to work fully remotely, and most of these are technology companies.\n\nStatement: Most of the surveyed firms offer at least one remote day per week.",
+  "options": [
+   "Cannot say",
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "60% is a majority.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Remote work has grown rapidly since 2020. A survey of 2,000 firms found that 60% now offer at least one remote day per week, up from 20% before 2020. However, only 15% allow staff to work fully remotely, and most of these are technology companies.\n\nStatement: Fewer firms offered remote days before 2020 than now.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "20% before vs 60% now.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Remote work has grown rapidly since 2020. A survey of 2,000 firms found that 60% now offer at least one remote day per week, up from 20% before 2020. However, only 15% allow staff to work fully remotely, and most of these are technology companies.\n\nStatement: Remote workers are more productive than office workers.",
+  "options": [
+   "False",
+   "Cannot say",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "The passage says nothing about productivity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Remote work has grown rapidly since 2020. A survey of 2,000 firms found that 60% now offer at least one remote day per week, up from 20% before 2020. However, only 15% allow staff to work fully remotely, and most of these are technology companies.\n\nStatement: Most firms allow staff to work fully remotely.",
+  "options": [
+   "False",
+   "True",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "Only 15% do.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "The company's new warehouse will open in March and employ 300 people. Construction costs rose by 12% because of higher steel prices, but the project remains within its overall budget thanks to savings on land.\n\nStatement: The warehouse project has gone over its overall budget.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 1,
+  "explanation": "It remains within budget.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "The company's new warehouse will open in March and employ 300 people. Construction costs rose by 12% because of higher steel prices, but the project remains within its overall budget thanks to savings on land.\n\nStatement: Steel prices contributed to higher construction costs.",
+  "options": [
+   "Cannot say",
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Stated directly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "The company's new warehouse will open in March and employ 300 people. Construction costs rose by 12% because of higher steel prices, but the project remains within its overall budget thanks to savings on land.\n\nStatement: The warehouse will employ more than 250 people.",
+  "options": [
+   "True",
+   "False",
+   "Cannot say"
+  ],
+  "answer": 0,
+  "explanation": "300 people.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "The company's new warehouse will open in March and employ 300 people. Construction costs rose by 12% because of higher steel prices, but the project remains within its overall budget thanks to savings on land.\n\nStatement: The warehouse will open ahead of schedule.",
+  "options": [
+   "True",
+   "Cannot say",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "No schedule comparison is given.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Solar power accounted for 5% of the country's electricity last year. The government aims to reach 20% by 2035. Critics say the target cannot be met without major investment in battery storage, which is currently limited.\n\nStatement: The government's target is to quadruple the share of solar electricity.",
+  "options": [
+   "Cannot say",
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "5% to 20% is four times.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Solar power accounted for 5% of the country's electricity last year. The government aims to reach 20% by 2035. Critics say the target cannot be met without major investment in battery storage, which is currently limited.\n\nStatement: Battery storage is widely available in the country.",
+  "options": [
+   "True",
+   "Cannot say",
+   "False"
+  ],
+  "answer": 2,
+  "explanation": "It is described as limited.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Solar power accounted for 5% of the country's electricity last year. The government aims to reach 20% by 2035. Critics say the target cannot be met without major investment in battery storage, which is currently limited.\n\nStatement: Solar power will reach 20% by 2035.",
+  "options": [
+   "False",
+   "True",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "It is only a target.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "Solar power accounted for 5% of the country's electricity last year. The government aims to reach 20% by 2035. Critics say the target cannot be met without major investment in battery storage, which is currently limited.\n\nStatement: Critics oppose the use of solar power.",
+  "options": [
+   "True",
+   "Cannot say",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "They question whether the target can be met, not solar power itself.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "All employees must complete data protection training each year. Staff who miss the deadline lose access to customer records until they finish the course. Contractors are covered by a separate policy.\n\nStatement: An employee who misses the deadline can still access customer records.",
+  "options": [
+   "Cannot say",
+   "True",
+   "False"
+  ],
+  "answer": 2,
+  "explanation": "They lose access.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "All employees must complete data protection training each year. Staff who miss the deadline lose access to customer records until they finish the course. Contractors are covered by a separate policy.\n\nStatement: Contractors must complete the same annual training as employees.",
+  "options": [
+   "False",
+   "True",
+   "Cannot say"
+  ],
+  "answer": 2,
+  "explanation": "Their policy is separate and not described.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "All employees must complete data protection training each year. Staff who miss the deadline lose access to customer records until they finish the course. Contractors are covered by a separate policy.\n\nStatement: Data protection training is required every year for employees.",
+  "options": [
+   "False",
+   "Cannot say",
+   "True"
+  ],
+  "answer": 2,
+  "explanation": "Stated directly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "The city's bus network carried 40 million passengers last year, 5% fewer than the year before. Ticket prices were unchanged, but two major routes were closed for roadworks for six months.\n\nStatement: Bus passenger numbers fell last year.",
+  "options": [
+   "Cannot say",
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "5% fewer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "The city's bus network carried 40 million passengers last year, 5% fewer than the year before. Ticket prices were unchanged, but two major routes were closed for roadworks for six months.\n\nStatement: The fall in passengers was caused by the roadworks.",
+  "options": [
+   "Cannot say",
+   "False",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "The passage does not state the cause.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VRB",
+  "topic": "True / False / Cannot say",
+  "body": "The city's bus network carried 40 million passengers last year, 5% fewer than the year before. Ticket prices were unchanged, but two major routes were closed for roadworks for six months.\n\nStatement: Ticket prices rose last year.",
+  "options": [
+   "Cannot say",
+   "False",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "They were unchanged.",
+  "difficulty": 2
+ }
+]

@@ -1,0 +1,590 @@
+[
+ {
+  "subject": "AFA",
+  "topic": "Framework",
+  "body": "Which qualitative characteristic means information makes a difference to users' decisions?",
+  "options": [
+   "Comparability",
+   "Understandability",
+   "Timeliness",
+   "Relevance"
+  ],
+  "answer": 3,
+  "explanation": "Relevance and faithful representation are the fundamental characteristics.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AFA",
+  "topic": "Framework",
+  "body": "Which accounting concept assumes the business will continue to operate for the foreseeable future?",
+  "options": [
+   "Accruals",
+   "Going concern",
+   "Prudence",
+   "Materiality"
+  ],
+  "answer": 1,
+  "explanation": "If not, assets may be valued on a break-up basis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AFA",
+  "topic": "Framework",
+  "body": "Under the accruals concept, transactions are recorded",
+  "options": [
+   "when the auditor approves",
+   "when they occur, not when cash is received or paid",
+   "at the year end only",
+   "only when cash moves"
+  ],
+  "answer": 1,
+  "explanation": "Matches income and expenses to the period.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AFA",
+  "topic": "Double entry",
+  "body": "A business pays a supplier $500 it owed. What is the double entry?",
+  "options": [
+   "Debit payables $500, credit cash $500",
+   "Debit purchases, credit cash",
+   "Debit cash, credit payables",
+   "Debit payables, credit purchases"
+  ],
+  "answer": 0,
+  "explanation": "The liability falls and cash falls.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AFA",
+  "topic": "Inventory",
+  "body": "Under IAS 2, inventory is valued at",
+  "options": [
+   "the higher of cost and NRV",
+   "selling price",
+   "the lower of cost and net realisable value",
+   "replacement cost"
+  ],
+  "answer": 2,
+  "explanation": "NRV = estimated selling price less costs to complete and sell.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AFA",
+  "topic": "Non-current assets",
+  "body": "Under IAS 16, which cost should NOT be capitalised as part of property, plant and equipment?",
+  "options": [
+   "Delivery costs",
+   "Purchase price",
+   "Installation costs",
+   "Staff training to use the new machine"
+  ],
+  "answer": 3,
+  "explanation": "Training is an expense.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AFA",
+  "topic": "Statements",
+  "body": "Which statement shows a company's assets, liabilities and equity at a point in time?",
+  "options": [
+   "Statement of cash flows",
+   "Statement of changes in equity",
+   "Statement of financial position",
+   "Statement of profit or loss"
+  ],
+  "answer": 2,
+  "explanation": "Formerly called the balance sheet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AFA",
+  "topic": "Statements",
+  "body": "Under IAS 7, interest paid can be classified in",
+  "options": [
+   "equity",
+   "other comprehensive income only",
+   "operating or financing activities",
+   "investing activities only"
+  ],
+  "answer": 2,
+  "explanation": "The choice must be applied consistently.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AFA",
+  "topic": "Non-current assets",
+  "body": "A machine costs $21,000, has a residual value of $2,500 and a useful life of 5 years. What is the annual straight-line depreciation?",
+  "options": [
+   "$3,700",
+   "$4,200",
+   "$4,700",
+   "$7,400"
+  ],
+  "answer": 0,
+  "explanation": "(21000 − 2500) ÷ 5 = $3,700.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Non-current assets",
+  "body": "A machine costs $43,000, has a residual value of $3,500 and a useful life of 4 years. What is the annual straight-line depreciation?",
+  "options": [
+   "$10,750",
+   "$11,625",
+   "$19,750",
+   "$9,875"
+  ],
+  "answer": 3,
+  "explanation": "(43000 − 3500) ÷ 4 = $9,875.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Non-current assets",
+  "body": "A machine costs $76,000, has a residual value of $2,000 and a useful life of 4 years. What is the annual straight-line depreciation?",
+  "options": [
+   "$37,000",
+   "$19,000",
+   "$19,500",
+   "$18,500"
+  ],
+  "answer": 3,
+  "explanation": "(76000 − 2000) ÷ 4 = $18,500.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Non-current assets",
+  "body": "A machine costs $77,000, has a residual value of $500 and a useful life of 5 years. What is the annual straight-line depreciation?",
+  "options": [
+   "$15,300",
+   "$15,500",
+   "$15,400",
+   "$30,600"
+  ],
+  "answer": 0,
+  "explanation": "(77000 − 500) ÷ 5 = $15,300.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Non-current assets",
+  "body": "A machine costs $32,000, has a residual value of $1,500 and a useful life of 5 years. What is the annual straight-line depreciation?",
+  "options": [
+   "$6,100",
+   "$6,700",
+   "$6,400",
+   "$12,200"
+  ],
+  "answer": 0,
+  "explanation": "(32000 − 1500) ÷ 5 = $6,100.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Non-current assets",
+  "body": "A machine costs $61,000, has a residual value of $2,000 and a useful life of 4 years. What is the annual straight-line depreciation?",
+  "options": [
+   "$15,750",
+   "$15,250",
+   "$29,500",
+   "$14,750"
+  ],
+  "answer": 3,
+  "explanation": "(61000 − 2000) ÷ 4 = $14,750.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Non-current assets",
+  "body": "A machine costs $50,000, has a residual value of $4,500 and a useful life of 10 years. What is the annual straight-line depreciation?",
+  "options": [
+   "$9,100",
+   "$4,550",
+   "$5,000",
+   "$5,450"
+  ],
+  "answer": 1,
+  "explanation": "(50000 − 4500) ÷ 10 = $4,550.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Non-current assets",
+  "body": "A machine costs $12,000, has a residual value of $1,000 and a useful life of 5 years. What is the annual straight-line depreciation?",
+  "options": [
+   "$2,400",
+   "$4,400",
+   "$2,200",
+   "$2,600"
+  ],
+  "answer": 2,
+  "explanation": "(12000 − 1000) ÷ 5 = $2,200.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Non-current assets",
+  "body": "A machine costs $12,000, has a residual value of $3,500 and a useful life of 5 years. What is the annual straight-line depreciation?",
+  "options": [
+   "$1,700",
+   "$2,400",
+   "$3,100",
+   "$3,400"
+  ],
+  "answer": 0,
+  "explanation": "(12000 − 3500) ÷ 5 = $1,700.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Non-current assets",
+  "body": "A machine costs $27,000, has a residual value of $3,000 and a useful life of 4 years. What is the annual straight-line depreciation?",
+  "options": [
+   "$6,750",
+   "$6,000",
+   "$12,000",
+   "$7,500"
+  ],
+  "answer": 1,
+  "explanation": "(27000 − 3000) ÷ 4 = $6,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Non-current assets",
+  "body": "A machine costs $75,000, has a residual value of $3,500 and a useful life of 4 years. What is the annual straight-line depreciation?",
+  "options": [
+   "$19,625",
+   "$17,875",
+   "$35,750",
+   "$18,750"
+  ],
+  "answer": 1,
+  "explanation": "(75000 − 3500) ÷ 4 = $17,875.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Non-current assets",
+  "body": "A machine costs $12,000, has a residual value of $4,000 and a useful life of 5 years. What is the annual straight-line depreciation?",
+  "options": [
+   "$1,760",
+   "$1,600",
+   "$2,400",
+   "$3,200"
+  ],
+  "answer": 1,
+  "explanation": "(12000 − 4000) ÷ 5 = $1,600.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Accruals & prepayments",
+  "body": "Annual insurance of $69,600 is paid on 1 September. The year end is 31 December, so 8 months fall in this year. What is the prepayment at year end?",
+  "options": [
+   "$46,400",
+   "$23,200",
+   "$11,600",
+   "$69,600"
+  ],
+  "answer": 1,
+  "explanation": "4 months relate to next year: 69600 × 4/12 = $23,200.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AFA",
+  "topic": "Accruals & prepayments",
+  "body": "Annual insurance of $50,400 is paid on 1 September. The year end is 31 December, so 8 months fall in this year. What is the prepayment at year end?",
+  "options": [
+   "$50,400",
+   "$16,800",
+   "$33,600",
+   "$8,400"
+  ],
+  "answer": 1,
+  "explanation": "4 months relate to next year: 50400 × 4/12 = $16,800.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AFA",
+  "topic": "Accruals & prepayments",
+  "body": "Annual insurance of $34,800 is paid on 1 September. The year end is 31 December, so 8 months fall in this year. What is the prepayment at year end?",
+  "options": [
+   "$5,800",
+   "$34,800",
+   "$11,600",
+   "$23,200"
+  ],
+  "answer": 2,
+  "explanation": "4 months relate to next year: 34800 × 4/12 = $11,600.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AFA",
+  "topic": "Accruals & prepayments",
+  "body": "Annual insurance of $25,200 is paid on 1 October. The year end is 31 December, so 9 months fall in this year. What is the prepayment at year end?",
+  "options": [
+   "$18,900",
+   "$25,200",
+   "$3,150",
+   "$6,300"
+  ],
+  "answer": 3,
+  "explanation": "3 months relate to next year: 25200 × 3/12 = $6,300.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AFA",
+  "topic": "Accruals & prepayments",
+  "body": "Annual insurance of $27,600 is paid on 1 September. The year end is 31 December, so 8 months fall in this year. What is the prepayment at year end?",
+  "options": [
+   "$27,600",
+   "$18,400",
+   "$4,600",
+   "$9,200"
+  ],
+  "answer": 3,
+  "explanation": "4 months relate to next year: 27600 × 4/12 = $9,200.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AFA",
+  "topic": "Accruals & prepayments",
+  "body": "Annual insurance of $70,800 is paid on 1 September. The year end is 31 December, so 8 months fall in this year. What is the prepayment at year end?",
+  "options": [
+   "$23,600",
+   "$47,200",
+   "$70,800",
+   "$11,800"
+  ],
+  "answer": 0,
+  "explanation": "4 months relate to next year: 70800 × 4/12 = $23,600.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AFA",
+  "topic": "Accruals & prepayments",
+  "body": "Annual insurance of $31,200 is paid on 1 July. The year end is 31 December, so 6 months fall in this year. What is the prepayment at year end?",
+  "options": [
+   "$17,160",
+   "$31,200",
+   "$7,800",
+   "$15,600"
+  ],
+  "answer": 3,
+  "explanation": "6 months relate to next year: 31200 × 6/12 = $15,600.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AFA",
+  "topic": "Accruals & prepayments",
+  "body": "Annual insurance of $15,600 is paid on 1 July. The year end is 31 December, so 6 months fall in this year. What is the prepayment at year end?",
+  "options": [
+   "$15,600",
+   "$7,800",
+   "$8,580",
+   "$3,900"
+  ],
+  "answer": 1,
+  "explanation": "6 months relate to next year: 15600 × 6/12 = $7,800.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AFA",
+  "topic": "Accruals & prepayments",
+  "body": "Annual insurance of $60,000 is paid on 1 May. The year end is 31 December, so 4 months fall in this year. What is the prepayment at year end?",
+  "options": [
+   "$20,000",
+   "$40,000",
+   "$44,000",
+   "$60,000"
+  ],
+  "answer": 1,
+  "explanation": "8 months relate to next year: 60000 × 8/12 = $40,000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AFA",
+  "topic": "Accruals & prepayments",
+  "body": "Annual insurance of $24,000 is paid on 1 July. The year end is 31 December, so 6 months fall in this year. What is the prepayment at year end?",
+  "options": [
+   "$24,000",
+   "$13,200",
+   "$6,000",
+   "$12,000"
+  ],
+  "answer": 3,
+  "explanation": "6 months relate to next year: 24000 × 6/12 = $12,000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AFA",
+  "topic": "Accruals & prepayments",
+  "body": "Annual insurance of $50,400 is paid on 1 October. The year end is 31 December, so 9 months fall in this year. What is the prepayment at year end?",
+  "options": [
+   "$50,400",
+   "$12,600",
+   "$6,300",
+   "$37,800"
+  ],
+  "answer": 1,
+  "explanation": "3 months relate to next year: 50400 × 3/12 = $12,600.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AFA",
+  "topic": "Accruals & prepayments",
+  "body": "Annual insurance of $33,600 is paid on 1 April. The year end is 31 December, so 3 months fall in this year. What is the prepayment at year end?",
+  "options": [
+   "$8,400",
+   "$12,600",
+   "$25,200",
+   "$33,600"
+  ],
+  "answer": 2,
+  "explanation": "9 months relate to next year: 33600 × 9/12 = $25,200.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AFA",
+  "topic": "Statements",
+  "body": "Opening inventory $15,000, purchases $243,000, closing inventory $77,000. What is the cost of sales?",
+  "options": [
+   "$335,000",
+   "$166,000",
+   "$243,000",
+   "$181,000"
+  ],
+  "answer": 3,
+  "explanation": "Cost of sales = opening + purchases − closing = $181,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Statements",
+  "body": "Opening inventory $32,000, purchases $220,000, closing inventory $31,000. What is the cost of sales?",
+  "options": [
+   "$221,000",
+   "$283,000",
+   "$189,000",
+   "$220,000"
+  ],
+  "answer": 0,
+  "explanation": "Cost of sales = opening + purchases − closing = $221,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Statements",
+  "body": "Opening inventory $54,000, purchases $293,000, closing inventory $55,000. What is the cost of sales?",
+  "options": [
+   "$293,000",
+   "$402,000",
+   "$292,000",
+   "$238,000"
+  ],
+  "answer": 2,
+  "explanation": "Cost of sales = opening + purchases − closing = $292,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Statements",
+  "body": "Opening inventory $21,000, purchases $217,000, closing inventory $37,000. What is the cost of sales?",
+  "options": [
+   "$201,000",
+   "$275,000",
+   "$180,000",
+   "$217,000"
+  ],
+  "answer": 0,
+  "explanation": "Cost of sales = opening + purchases − closing = $201,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Statements",
+  "body": "Opening inventory $39,000, purchases $167,000, closing inventory $77,000. What is the cost of sales?",
+  "options": [
+   "$167,000",
+   "$90,000",
+   "$283,000",
+   "$129,000"
+  ],
+  "answer": 3,
+  "explanation": "Cost of sales = opening + purchases − closing = $129,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Statements",
+  "body": "Opening inventory $32,000, purchases $130,000, closing inventory $12,000. What is the cost of sales?",
+  "options": [
+   "$150,000",
+   "$174,000",
+   "$130,000",
+   "$118,000"
+  ],
+  "answer": 0,
+  "explanation": "Cost of sales = opening + purchases − closing = $150,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Statements",
+  "body": "Opening inventory $74,000, purchases $147,000, closing inventory $10,000. What is the cost of sales?",
+  "options": [
+   "$211,000",
+   "$147,000",
+   "$231,000",
+   "$137,000"
+  ],
+  "answer": 0,
+  "explanation": "Cost of sales = opening + purchases − closing = $211,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Statements",
+  "body": "Opening inventory $66,000, purchases $113,000, closing inventory $28,000. What is the cost of sales?",
+  "options": [
+   "$113,000",
+   "$207,000",
+   "$151,000",
+   "$85,000"
+  ],
+  "answer": 2,
+  "explanation": "Cost of sales = opening + purchases − closing = $151,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Statements",
+  "body": "Opening inventory $19,000, purchases $108,000, closing inventory $44,000. What is the cost of sales?",
+  "options": [
+   "$108,000",
+   "$83,000",
+   "$171,000",
+   "$64,000"
+  ],
+  "answer": 1,
+  "explanation": "Cost of sales = opening + purchases − closing = $83,000.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AFA",
+  "topic": "Statements",
+  "body": "Opening inventory $64,000, purchases $176,000, closing inventory $42,000. What is the cost of sales?",
+  "options": [
+   "$176,000",
+   "$198,000",
+   "$134,000",
+   "$282,000"
+  ],
+  "answer": 1,
+  "explanation": "Cost of sales = opening + purchases − closing = $198,000.",
+  "difficulty": 1
+ }
+]
