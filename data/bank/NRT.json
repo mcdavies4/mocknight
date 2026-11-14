@@ -586,5 +586,537 @@
   "answer": 1,
   "explanation": "Ug = F × t ÷ D = 3 × 20 ÷ 700 = 0.086 mm.",
   "difficulty": 3
+ },
+ {
+  "subject": "NRT",
+  "topic": "Image",
+  "body": "Lead intensifying screens in a film cassette",
+  "options": [
+   "make the film waterproof",
+   "measure dose",
+   "replace the IQI",
+   "shorten exposure time and reduce scatter"
+  ],
+  "answer": 3,
+  "explanation": "Front and back screens are both used.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Image",
+  "body": "Film density is measured with a",
+  "options": [
+   "survey meter",
+   "densitometer",
+   "dosimeter",
+   "micrometer"
+  ],
+  "answer": 1,
+  "explanation": "Density = log₁₀(incident light ÷ transmitted light).",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Image",
+  "body": "A lead letter 'B' on the back of the cassette is used to",
+  "options": [
+   "show the beam direction",
+   "mark the film batch",
+   "identify the welder",
+   "detect backscatter"
+  ],
+  "answer": 3,
+  "explanation": "If a light 'B' appears, backscatter is too high.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Image",
+  "body": "Increasing X-ray tube voltage (kV) generally",
+  "options": [
+   "has no effect",
+   "reduces penetration",
+   "increases penetration but reduces contrast",
+   "increases contrast"
+  ],
+  "answer": 2,
+  "explanation": "Use the lowest kV that gives adequate density.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Image",
+  "body": "Wire-type IQIs are usually placed on the",
+  "options": [
+   "film side always",
+   "source side of the object",
+   "operator's badge",
+   "control panel"
+  ],
+  "answer": 1,
+  "explanation": "Film-side placement is allowed when the source side is not accessible.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Image",
+  "body": "Computed radiography (CR) uses",
+  "options": [
+   "magnetic particles",
+   "reusable phosphor imaging plates",
+   "sound waves",
+   "film developed in chemicals"
+  ],
+  "answer": 1,
+  "explanation": "Digital radiography (DR) uses flat-panel detectors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Equipment",
+  "body": "In gamma radiography, the source is moved from its container to the exposure point through a",
+  "options": [
+   "shale shaker",
+   "guide tube",
+   "pipe rack",
+   "cable tray"
+  ],
+  "answer": 1,
+  "explanation": "A crank or control cable winds it out and back.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Equipment",
+  "body": "Collimators are used to",
+  "options": [
+   "develop film",
+   "limit the beam to the area of interest, reducing scatter and dose",
+   "magnetise the part",
+   "measure density"
+  ],
+  "answer": 1,
+  "explanation": "They also shrink the controlled area.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Equipment",
+  "body": "A key difference between gamma and X-ray sources is that a gamma source",
+  "options": [
+   "never needs shielding",
+   "cannot be switched off",
+   "only works on aluminium",
+   "needs mains power"
+  ],
+  "answer": 1,
+  "explanation": "Gamma sources are always emitting radiation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Safety",
+  "body": "If a gamma source fails to retract into its container, the radiographer should",
+  "options": [
+   "carry on working",
+   "pick it up by hand",
+   "keep people out of the area and follow the emergency procedure",
+   "leave the site without reporting"
+  ],
+  "answer": 2,
+  "explanation": "Never handle the source directly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Safety",
+  "body": "Workers who may receive higher radiation doses are usually designated",
+  "options": [
+   "trainees with no monitoring",
+   "classified workers with dose records and medical surveillance",
+   "contractors exempt from rules",
+   "visitors"
+  ],
+  "answer": 1,
+  "explanation": "Dose records must be kept.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Safety",
+  "body": "The international radiation warning sign is the",
+  "options": [
+   "flame",
+   "skull and crossbones",
+   "exclamation mark",
+   "trefoil"
+  ],
+  "answer": 3,
+  "explanation": "Used on barriers, containers and labels.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Film",
+  "body": "Pressure marks and static marks on film are examples of",
+  "options": [
+   "weld defects",
+   "IQI wires",
+   "artefacts",
+   "location markers"
+  ],
+  "answer": 2,
+  "explanation": "Careful handling prevents them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Film",
+  "body": "Location markers on a radiograph are used to",
+  "options": [
+   "increase contrast",
+   "measure dose",
+   "relate indications on the film to positions on the weld",
+   "reduce exposure time"
+  ],
+  "answer": 2,
+  "explanation": "Without them, defects cannot be found for repair.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The half-value layer of a shield is 5 mm. The dose rate without shielding is 80 µSv/h. What is it behind 20 mm of shielding?",
+  "options": [
+   "10 µSv/h",
+   "60 µSv/h",
+   "6 µSv/h",
+   "5 µSv/h"
+  ],
+  "answer": 3,
+  "explanation": "20 mm is 4 half-value layers: 80 ÷ 2^4 = 5 µSv/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The half-value layer of a shield is 20 mm. The dose rate without shielding is 160 µSv/h. What is it behind 20 mm of shielding?",
+  "options": [
+   "88 µSv/h",
+   "140 µSv/h",
+   "160 µSv/h",
+   "80 µSv/h"
+  ],
+  "answer": 3,
+  "explanation": "20 mm is 1 half-value layer: 160 ÷ 2 = 80 µSv/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The half-value layer of a shield is 5 mm. The dose rate without shielding is 640 µSv/h. What is it behind 20 mm of shielding?",
+  "options": [
+   "80 µSv/h",
+   "44 µSv/h",
+   "620 µSv/h",
+   "40 µSv/h"
+  ],
+  "answer": 3,
+  "explanation": "20 mm is 4 half-value layers: 640 ÷ 2^4 = 40 µSv/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The half-value layer of a shield is 20 mm. The dose rate without shielding is 80 µSv/h. What is it behind 60 mm of shielding?",
+  "options": [
+   "20 µSv/h",
+   "13.33 µSv/h",
+   "8.89 µSv/h",
+   "10 µSv/h"
+  ],
+  "answer": 3,
+  "explanation": "60 mm is 3 half-value layers: 80 ÷ 2^3 = 10 µSv/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The half-value layer of a shield is 4 mm. The dose rate without shielding is 80 µSv/h. What is it behind 16 mm of shielding?",
+  "options": [
+   "64 µSv/h",
+   "10 µSv/h",
+   "5 µSv/h",
+   "6 µSv/h"
+  ],
+  "answer": 2,
+  "explanation": "16 mm is 4 half-value layers: 80 ÷ 2^4 = 5 µSv/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The half-value layer of a shield is 4 mm. The dose rate without shielding is 160 µSv/h. What is it behind 8 mm of shielding?",
+  "options": [
+   "152 µSv/h",
+   "40 µSv/h",
+   "36 µSv/h",
+   "44 µSv/h"
+  ],
+  "answer": 1,
+  "explanation": "8 mm is 2 half-value layers: 160 ÷ 2^2 = 40 µSv/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The half-value layer of a shield is 12 mm. The dose rate without shielding is 160 µSv/h. What is it behind 24 mm of shielding?",
+  "options": [
+   "44 µSv/h",
+   "136 µSv/h",
+   "40 µSv/h",
+   "36 µSv/h"
+  ],
+  "answer": 2,
+  "explanation": "24 mm is 2 half-value layers: 160 ÷ 2^2 = 40 µSv/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The half-value layer of a shield is 5 mm. The dose rate without shielding is 320 µSv/h. What is it behind 15 mm of shielding?",
+  "options": [
+   "305 µSv/h",
+   "53.33 µSv/h",
+   "35.56 µSv/h",
+   "40 µSv/h"
+  ],
+  "answer": 3,
+  "explanation": "15 mm is 3 half-value layers: 320 ÷ 2^3 = 40 µSv/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "An exposure takes 6 minutes at 500 mm source-to-film distance. What time is needed at 1200 mm for the same density? (t₂ = t₁ × (d₂ ÷ d₁)²)",
+  "options": [
+   "1.04 min",
+   "34.56 min",
+   "12 min",
+   "14.4 min"
+  ],
+  "answer": 1,
+  "explanation": "6 × (1200 ÷ 500)² = 34.56 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "An exposure takes 8 minutes at 700 mm source-to-film distance. What time is needed at 1200 mm for the same density? (t₂ = t₁ × (d₂ ÷ d₁)²)",
+  "options": [
+   "16 min",
+   "2.72 min",
+   "13.71 min",
+   "23.51 min"
+  ],
+  "answer": 3,
+  "explanation": "8 × (1200 ÷ 700)² = 23.51 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "An exposure takes 6 minutes at 600 mm source-to-film distance. What time is needed at 1200 mm for the same density? (t₂ = t₁ × (d₂ ÷ d₁)²)",
+  "options": [
+   "12 min",
+   "1.5 min",
+   "26 min",
+   "24 min"
+  ],
+  "answer": 3,
+  "explanation": "6 × (1200 ÷ 600)² = 24 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "An exposure takes 6 minutes at 700 mm source-to-film distance. What time is needed at 1200 mm for the same density? (t₂ = t₁ × (d₂ ÷ d₁)²)",
+  "options": [
+   "2.04 min",
+   "10.29 min",
+   "12 min",
+   "17.63 min"
+  ],
+  "answer": 3,
+  "explanation": "6 × (1200 ÷ 700)² = 17.63 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "An exposure takes 8 minutes at 500 mm source-to-film distance. What time is needed at 1200 mm for the same density? (t₂ = t₁ × (d₂ ÷ d₁)²)",
+  "options": [
+   "46.08 min",
+   "1.39 min",
+   "16 min",
+   "19.2 min"
+  ],
+  "answer": 0,
+  "explanation": "8 × (1200 ÷ 500)² = 46.08 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "An exposure takes 4 minutes at 600 mm source-to-film distance. What time is needed at 800 mm for the same density? (t₂ = t₁ × (d₂ ÷ d₁)²)",
+  "options": [
+   "5.33 min",
+   "7.11 min",
+   "8 min",
+   "2.25 min"
+  ],
+  "answer": 1,
+  "explanation": "4 × (800 ÷ 600)² = 7.11 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "An exposure takes 2 minutes at 700 mm source-to-film distance. What time is needed at 800 mm for the same density? (t₂ = t₁ × (d₂ ÷ d₁)²)",
+  "options": [
+   "2.29 min",
+   "1.53 min",
+   "4 min",
+   "2.61 min"
+  ],
+  "answer": 3,
+  "explanation": "2 × (800 ÷ 700)² = 2.61 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "An exposure takes 4 minutes at 500 mm source-to-film distance. What time is needed at 800 mm for the same density? (t₂ = t₁ × (d₂ ÷ d₁)²)",
+  "options": [
+   "6.4 min",
+   "8 min",
+   "10.24 min",
+   "1.56 min"
+  ],
+  "answer": 2,
+  "explanation": "4 × (800 ÷ 500)² = 10.24 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The dose rate is 400 µSv/h at 1 m from a source. At what distance does it fall to 1 µSv/h? (d₂ = d₁ × √(I₁ ÷ I₂))",
+  "options": [
+   "10 m",
+   "400 m",
+   "0.05 m",
+   "20 m"
+  ],
+  "answer": 3,
+  "explanation": "1 × √(400 ÷ 1) = 20 m.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The dose rate is 900 µSv/h at 1 m from a source. At what distance does it fall to 4 µSv/h? (d₂ = d₁ × √(I₁ ÷ I₂))",
+  "options": [
+   "225 m",
+   "7.5 m",
+   "15 m",
+   "0.07 m"
+  ],
+  "answer": 2,
+  "explanation": "1 × √(900 ÷ 4) = 15 m.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The dose rate is 900 µSv/h at 2 m from a source. At what distance does it fall to 1 µSv/h? (d₂ = d₁ × √(I₁ ÷ I₂))",
+  "options": [
+   "1800 m",
+   "30 m",
+   "0.07 m",
+   "60 m"
+  ],
+  "answer": 3,
+  "explanation": "2 × √(900 ÷ 1) = 60 m.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The dose rate is 400 µSv/h at 2 m from a source. At what distance does it fall to 1 µSv/h? (d₂ = d₁ × √(I₁ ÷ I₂))",
+  "options": [
+   "0.1 m",
+   "800 m",
+   "40 m",
+   "20 m"
+  ],
+  "answer": 2,
+  "explanation": "2 × √(400 ÷ 1) = 40 m.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The dose rate is 1600 µSv/h at 1 m from a source. At what distance does it fall to 4 µSv/h? (d₂ = d₁ × √(I₁ ÷ I₂))",
+  "options": [
+   "20 m",
+   "0.05 m",
+   "10 m",
+   "400 m"
+  ],
+  "answer": 0,
+  "explanation": "1 × √(1600 ÷ 4) = 20 m.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The dose rate is 400 µSv/h at 1 m from a source. At what distance does it fall to 4 µSv/h? (d₂ = d₁ × √(I₁ ÷ I₂))",
+  "options": [
+   "10 m",
+   "0.1 m",
+   "5 m",
+   "100 m"
+  ],
+  "answer": 0,
+  "explanation": "1 × √(400 ÷ 4) = 10 m.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The dose rate is 1600 µSv/h at 2 m from a source. At what distance does it fall to 4 µSv/h? (d₂ = d₁ × √(I₁ ÷ I₂))",
+  "options": [
+   "20 m",
+   "40 m",
+   "0.1 m",
+   "800 m"
+  ],
+  "answer": 1,
+  "explanation": "2 × √(1600 ÷ 4) = 40 m.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NRT",
+  "topic": "Calculations",
+  "body": "The dose rate is 400 µSv/h at 1 m from a source. At what distance does it fall to 25 µSv/h? (d₂ = d₁ × √(I₁ ÷ I₂))",
+  "options": [
+   "4 m",
+   "2 m",
+   "16 m",
+   "0.25 m"
+  ],
+  "answer": 0,
+  "explanation": "1 × √(400 ÷ 25) = 4 m.",
+  "difficulty": 3
  }
 ]

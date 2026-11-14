@@ -334,5 +334,481 @@
   "answer": 1,
   "explanation": "Nigeria aims to reduce flaring by commercialising gas.",
   "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "Which crude oil grade is associated with ExxonMobil's terminal in Akwa Ibom?",
+  "options": [
+   "Brass River",
+   "Qua Iboe",
+   "Bonny Light",
+   "Forcados"
+  ],
+  "answer": 1,
+  "explanation": "Bonny Light and Forcados are associated with Shell.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "Nigeria's oil and gas are found mainly in which sedimentary basin?",
+  "options": [
+   "Benue Trough only",
+   "Niger Delta Basin",
+   "Sokoto Basin",
+   "Chad Basin"
+  ],
+  "answer": 1,
+  "explanation": "Frontier basins like Chad and Benue are less explored.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "Which is a deepwater field operated by Shell off Nigeria?",
+  "options": [
+   "Agbami",
+   "Erha",
+   "Bonga",
+   "Egina"
+  ],
+  "answer": 2,
+  "explanation": "Agbami is Chevron, Egina is TotalEnergies, Erha is ExxonMobil.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "Egina is a deepwater field operated by",
+  "options": [
+   "Seplat",
+   "Chevron",
+   "Shell",
+   "TotalEnergies"
+  ],
+  "answer": 3,
+  "explanation": "It produces through one of the largest FPSOs in the world.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "Agbami field is operated by",
+  "options": [
+   "ExxonMobil",
+   "Chevron",
+   "TotalEnergies",
+   "Shell"
+  ],
+  "answer": 1,
+  "explanation": "It lies in deep water offshore Nigeria.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "Which contract type is common for Nigerian deepwater blocks?",
+  "options": [
+   "Marginal field licence",
+   "Joint venture only",
+   "Production sharing contract (PSC)",
+   "Service-only contract"
+  ],
+  "answer": 2,
+  "explanation": "Onshore and shallow-water assets are often NNPC joint ventures.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "Under the PIA, which licence allows a company to produce petroleum?",
+  "options": [
+   "Marketing licence",
+   "Petroleum Mining Lease (PML)",
+   "Petroleum Prospecting Licence (PPL)",
+   "Petroleum Exploration Licence (PEL)"
+  ],
+  "answer": 1,
+  "explanation": "The PML replaced the old Oil Mining Lease (OML).",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "Under the PIA, the old Oil Prospecting Licence (OPL) is replaced by the",
+  "options": [
+   "Petroleum Mining Lease",
+   "Gas Flare Permit",
+   "Petroleum Prospecting Licence (PPL)",
+   "Petroleum Exploration Licence"
+  ],
+  "answer": 2,
+  "explanation": "PPLs allow exploration drilling.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "Nigeria has the largest proven reserves of which resource in Africa?",
+  "options": [
+   "Natural gas",
+   "Coal",
+   "Copper",
+   "Uranium"
+  ],
+  "answer": 0,
+  "explanation": "Gas is central to the 'Decade of Gas' programme.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "The AKK pipeline links",
+  "options": [
+   "Akure, Kogi and Kwara",
+   "Abuja, Kano and Katsina",
+   "Ajaokuta, Kaduna and Kano",
+   "Aba, Kaduna and Kebbi"
+  ],
+  "answer": 2,
+  "explanation": "It carries gas to the north.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "The West African Gas Pipeline supplies gas from Nigeria to",
+  "options": [
+   "Cameroon and Gabon",
+   "Benin, Togo and Ghana",
+   "Chad and Niger",
+   "Senegal and Mali"
+  ],
+  "answer": 1,
+  "explanation": "It runs offshore along the coast.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "Which cities host NNPC's four government-owned refineries?",
+  "options": [
+   "Calabar, Uyo, Aba and Owerri",
+   "Port Harcourt (two), Warri and Kaduna",
+   "Bonny, Brass, Escravos and Forcados",
+   "Lagos, Abuja, Kano and Enugu"
+  ],
+  "answer": 1,
+  "explanation": "Port Harcourt has two refineries.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "In May 2023, the Federal Government announced the removal of",
+  "options": [
+   "all oil exports",
+   "the petrol (PMS) subsidy",
+   "the PIA",
+   "NNPC"
+  ],
+  "answer": 1,
+  "explanation": "It was announced in the inaugural speech on 29 May 2023.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Products",
+  "body": "In Nigeria, PMS refers to",
+  "options": [
+   "petrol (premium motor spirit)",
+   "diesel",
+   "jet fuel",
+   "kerosene"
+  ],
+  "answer": 0,
+  "explanation": "AGO is diesel; DPK is kerosene; ATK is aviation fuel.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Products",
+  "body": "AGO is",
+  "options": [
+   "petrol",
+   "kerosene",
+   "diesel (automotive gas oil)",
+   "cooking gas"
+  ],
+  "answer": 2,
+  "explanation": "Used in trucks, generators and industry.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Products",
+  "body": "LPG used for cooking is mainly",
+  "options": [
+   "methane only",
+   "ethane",
+   "propane and butane",
+   "hydrogen"
+  ],
+  "answer": 2,
+  "explanation": "CNG is mostly methane.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Projects",
+  "body": "FID in oil and gas projects stands for",
+  "options": [
+   "field inspection date",
+   "final investment decision",
+   "first injection day",
+   "fluid identification"
+  ],
+  "answer": 1,
+  "explanation": "After FID, the project moves to execution.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Projects",
+  "body": "EPC stands for",
+  "options": [
+   "engineering, procurement and construction",
+   "equipment, pipes and cables",
+   "environment, people and community",
+   "exploration, production and completion"
+  ],
+  "answer": 0,
+  "explanation": "EPC contractors deliver facilities.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Projects",
+  "body": "FEED stands for",
+  "options": [
+   "front-end engineering design",
+   "final engineering delivery",
+   "fuel export and distribution",
+   "field equipment and electrical design"
+  ],
+  "answer": 0,
+  "explanation": "FEED defines the project before FID.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Environment",
+  "body": "The Nigerian Gas Flare Commercialisation Programme aims to",
+  "options": [
+   "increase gas flaring",
+   "export crude only",
+   "capture flared gas and sell it instead of burning it",
+   "stop all oil production"
+  ],
+  "answer": 2,
+  "explanation": "Flare sites are offered to investors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Industry basics",
+  "body": "Crude oil production is usually quoted in",
+  "options": [
+   "gallons per hour",
+   "barrels per day (bpd)",
+   "litres per year",
+   "tonnes per minute"
+  ],
+  "answer": 1,
+  "explanation": "Gas is often quoted in standard cubic feet per day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Industry basics",
+  "body": "OPEC's headquarters is in",
+  "options": [
+   "Riyadh",
+   "Geneva",
+   "Abuja",
+   "Vienna"
+  ],
+  "answer": 3,
+  "explanation": "Nigeria has been a member since 1971.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Calculations",
+  "body": "A crude oil has a specific gravity of 0.9 at 60 °F. What is its API gravity? (API = 141.5 ÷ SG − 131.5)",
+  "options": [
+   "25.7 °API",
+   "157.2 °API",
+   "4.6 °API",
+   "-4.1 °API"
+  ],
+  "answer": 0,
+  "explanation": "141.5 ÷ 0.9 − 131.5 = 25.7 °API. That is a medium crude.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Calculations",
+  "body": "A crude oil has a specific gravity of 0.87 at 60 °F. What is its API gravity? (API = 141.5 ÷ SG − 131.5)",
+  "options": [
+   "162.6 °API",
+   "-8.4 °API",
+   "31.1 °API",
+   "9.6 °API"
+  ],
+  "answer": 2,
+  "explanation": "141.5 ÷ 0.87 − 131.5 = 31.1 °API. That is a medium crude.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Calculations",
+  "body": "A crude oil has a specific gravity of 0.93 at 60 °F. What is its API gravity? (API = 141.5 ÷ SG − 131.5)",
+  "options": [
+   "20.7 °API",
+   "0.1 °API",
+   "152.2 °API",
+   "-0.1 °API"
+  ],
+  "answer": 0,
+  "explanation": "141.5 ÷ 0.93 − 131.5 = 20.7 °API. That is a heavy crude.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Calculations",
+  "body": "A crude oil has a specific gravity of 0.96 at 60 °F. What is its API gravity? (API = 141.5 ÷ SG − 131.5)",
+  "options": [
+   "147.4 °API",
+   "15.9 °API",
+   "4.3 °API",
+   "-4.5 °API"
+  ],
+  "answer": 1,
+  "explanation": "141.5 ÷ 0.96 − 131.5 = 15.9 °API. That is a heavy crude.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Calculations",
+  "body": "A crude oil has a specific gravity of 0.85 at 60 °F. What is its API gravity? (API = 141.5 ÷ SG − 131.5)",
+  "options": [
+   "13.2 °API",
+   "35 °API",
+   "166.5 °API",
+   "-11.2 °API"
+  ],
+  "answer": 1,
+  "explanation": "141.5 ÷ 0.85 − 131.5 = 35 °API. That is a light crude.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Calculations",
+  "body": "A crude oil has a specific gravity of 0.82 at 60 °F. What is its API gravity? (API = 141.5 ÷ SG − 131.5)",
+  "options": [
+   "172.6 °API",
+   "41.1 °API",
+   "-15.5 °API",
+   "18.9 °API"
+  ],
+  "answer": 1,
+  "explanation": "141.5 ÷ 0.82 − 131.5 = 41.1 °API. That is a light crude.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Calculations",
+  "body": "A crude oil has a specific gravity of 0.8 at 60 °F. What is its API gravity? (API = 141.5 ÷ SG − 131.5)",
+  "options": [
+   "-18.3 °API",
+   "45.4 °API",
+   "22.9 °API",
+   "176.9 °API"
+  ],
+  "answer": 1,
+  "explanation": "141.5 ÷ 0.8 − 131.5 = 45.4 °API. That is a light crude.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Calculations",
+  "body": "About how many litres are in 1,000 barrels of crude? (1 barrel ≈ 159 litres)",
+  "options": [
+   "42,000 litres",
+   "159,000 litres",
+   "200,000 litres",
+   "100,000 litres"
+  ],
+  "answer": 1,
+  "explanation": "1000 × 159 = 159,000 litres.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ONG",
+  "topic": "Calculations",
+  "body": "About how many litres are in 2,000 barrels of crude? (1 barrel ≈ 159 litres)",
+  "options": [
+   "200,000 litres",
+   "318,000 litres",
+   "400,000 litres",
+   "84,000 litres"
+  ],
+  "answer": 1,
+  "explanation": "2000 × 159 = 318,000 litres.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ONG",
+  "topic": "Calculations",
+  "body": "About how many litres are in 250 barrels of crude? (1 barrel ≈ 159 litres)",
+  "options": [
+   "10,500 litres",
+   "25,000 litres",
+   "39,750 litres",
+   "50,000 litres"
+  ],
+  "answer": 2,
+  "explanation": "250 × 159 = 39,750 litres.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ONG",
+  "topic": "Calculations",
+  "body": "About how many litres are in 500 barrels of crude? (1 barrel ≈ 159 litres)",
+  "options": [
+   "50,000 litres",
+   "79,500 litres",
+   "21,000 litres",
+   "100,000 litres"
+  ],
+  "answer": 1,
+  "explanation": "500 × 159 = 79,500 litres.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ONG",
+  "topic": "Calculations",
+  "body": "About how many litres are in 100 barrels of crude? (1 barrel ≈ 159 litres)",
+  "options": [
+   "10,000 litres",
+   "4200 litres",
+   "20,000 litres",
+   "15,900 litres"
+  ],
+  "answer": 3,
+  "explanation": "100 × 159 = 15,900 litres.",
+  "difficulty": 1
  }
 ]

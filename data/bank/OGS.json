@@ -320,5 +320,425 @@
   "answer": 3,
   "explanation": "Dropped objects are a leading cause of injuries on rigs.",
   "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Gas testing",
+  "body": "Before using a portable gas detector each day, you should",
+  "options": [
+   "remove the sensors",
+   "recharge it only",
+   "bump test it",
+   "turn off the alarms"
+  ],
+  "answer": 2,
+  "explanation": "A bump test confirms the sensors and alarms respond to gas.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Gas testing",
+  "body": "During hot work in a hazardous area, gas monitoring should be",
+  "options": [
+   "done at the end of the shift",
+   "not needed if a permit exists",
+   "done once before starting only",
+   "continuous"
+  ],
+  "answer": 3,
+  "explanation": "Conditions can change while work is under way.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "H2S",
+  "body": "Which breathing apparatus is used to work in an H₂S atmosphere?",
+  "options": [
+   "Self-contained breathing apparatus (SCBA) or airline set",
+   "A surgical mask",
+   "A dust mask",
+   "A filter mask with any cartridge"
+  ],
+  "answer": 0,
+  "explanation": "Escape sets are for escape only, not for work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "H2S",
+  "body": "A windsock on a facility helps you",
+  "options": [
+   "choose an upwind escape route",
+   "test H₂S detectors",
+   "find the muster point lights",
+   "measure gas concentration"
+  ],
+  "answer": 0,
+  "explanation": "Always know the wind direction.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "H2S",
+  "body": "Working with H₂S risk should use",
+  "options": [
+   "no detectors if you can smell it",
+   "the buddy system",
+   "a dust mask",
+   "lone working"
+  ],
+  "answer": 1,
+  "explanation": "Never enter alone; someone must be able to raise the alarm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Hazardous areas",
+  "body": "In hazardous area classification, Zone 0 is where an explosive gas atmosphere is",
+  "options": [
+   "unlikely and only short-lived",
+   "never present",
+   "present continuously or for long periods",
+   "likely in normal operation"
+  ],
+  "answer": 2,
+  "explanation": "Zone 1: likely in normal operation. Zone 2: unlikely and short-lived.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Hazardous areas",
+  "body": "Zone 2 is an area where an explosive gas atmosphere is",
+  "options": [
+   "likely in normal operation",
+   "not likely in normal operation and, if it occurs, only briefly",
+   "present continuously",
+   "always present during drilling"
+  ],
+  "answer": 1,
+  "explanation": "Zone 2 has the lowest likelihood of the three gas zones.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Hazardous areas",
+  "body": "Equipment marked 'Ex' is",
+  "options": [
+   "experimental",
+   "for export only",
+   "designed and certified for use in explosive atmospheres",
+   "excluded from the site"
+  ],
+  "answer": 2,
+  "explanation": "Only use equipment rated for the zone and gas group.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Hazardous areas",
+  "body": "Why are tanks and tankers bonded and earthed during fuel transfer?",
+  "options": [
+   "To measure the volume",
+   "To speed up the flow",
+   "To stop corrosion",
+   "To prevent static sparks igniting vapours"
+  ],
+  "answer": 3,
+  "explanation": "Static builds up as liquids flow.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Lifting",
+  "body": "Who directs a crane operator during a lift?",
+  "options": [
+   "The cook",
+   "Anyone nearby",
+   "A trained banksman / signaller",
+   "The client"
+  ],
+  "answer": 2,
+  "explanation": "Only one person should give signals.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Lifting",
+  "body": "Tag lines are used to",
+  "options": [
+   "earth the crane",
+   "measure the weight",
+   "lift the load",
+   "control the swing of a suspended load from a safe distance"
+  ],
+  "answer": 3,
+  "explanation": "Never stand under a suspended load.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Lifting",
+  "body": "SWL or WLL on lifting equipment means",
+  "options": [
+   "the wind limit",
+   "the maximum load it is certified to lift",
+   "the weight of the equipment itself",
+   "the minimum load"
+  ],
+  "answer": 1,
+  "explanation": "Never exceed it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Working at height",
+  "body": "Before using a full-body harness, you should",
+  "options": [
+   "lengthen the lanyard",
+   "wash it",
+   "inspect it for damage",
+   "remove the labels"
+  ],
+  "answer": 2,
+  "explanation": "Damaged harnesses must be taken out of use.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Working at height",
+  "body": "A fall restraint system",
+  "options": [
+   "catches you after you fall",
+   "is only for scaffolders",
+   "stops you reaching the edge where you could fall",
+   "is the same as a hard hat"
+  ],
+  "answer": 2,
+  "explanation": "Fall arrest systems stop a fall once it has started.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Excavation",
+  "body": "Before digging on site, you should",
+  "options": [
+   "skip checks for shallow digs",
+   "start quickly before the rain",
+   "check for buried services and get an excavation permit",
+   "use a pick near cables"
+  ],
+  "answer": 2,
+  "explanation": "Use drawings and a cable avoidance tool.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Pressure",
+  "body": "Before breaking a flanged joint, the line should be",
+  "options": [
+   "left under pressure to test it",
+   "painted",
+   "heated first",
+   "isolated, depressurised, drained and verified safe"
+  ],
+  "answer": 3,
+  "explanation": "Stored pressure can cause serious injury.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Management",
+  "body": "Management of Change (MOC) is used to",
+  "options": [
+   "change shifts only",
+   "assess the risks before changing equipment, processes or procedures",
+   "update the canteen menu",
+   "change staff salaries"
+  ],
+  "answer": 1,
+  "explanation": "Many major accidents followed unassessed changes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Management",
+  "body": "SIMOPS means",
+  "options": [
+   "simultaneous operations that could affect each other",
+   "site inspection operations",
+   "single-person operations",
+   "simple operations"
+  ],
+  "answer": 0,
+  "explanation": "SIMOPS need extra planning and communication.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Management",
+  "body": "A short safety meeting before a job is called a",
+  "options": [
+   "toolbox talk",
+   "board meeting",
+   "audit",
+   "appraisal"
+  ],
+  "answer": 0,
+  "explanation": "It covers hazards, controls and roles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Health",
+  "body": "In the UK, the upper exposure action value for noise is",
+  "options": [
+   "50 dB(A)",
+   "85 dB(A)",
+   "120 dB(A)",
+   "70 dB(A)"
+  ],
+  "answer": 1,
+  "explanation": "Above this, hearing protection must be worn.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Health",
+  "body": "Which hydrocarbon in crude oil and condensate is a known carcinogen?",
+  "options": [
+   "Methane",
+   "Butane",
+   "Propane",
+   "Benzene"
+  ],
+  "answer": 3,
+  "explanation": "Exposure must be controlled and monitored.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Health",
+  "body": "Naturally occurring radioactive material (NORM) can build up as",
+  "options": [
+   "dust in offices",
+   "rust on vehicles",
+   "scale and sludge in production equipment",
+   "paint on handrails"
+  ],
+  "answer": 2,
+  "explanation": "Handle and dispose of NORM under radiation rules.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Emergency",
+  "body": "The recommended rate of chest compressions in adult CPR is",
+  "options": [
+   "200 per minute",
+   "60 per minute",
+   "100–120 per minute",
+   "30–40 per minute"
+  ],
+  "answer": 2,
+  "explanation": "Push hard and fast in the centre of the chest.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Emergency",
+  "body": "POB stands for",
+  "options": [
+   "permit of business",
+   "personnel on board",
+   "pressure on bottom",
+   "point of blowout"
+  ],
+  "answer": 1,
+  "explanation": "POB counts confirm everyone is accounted for at muster.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Emergency",
+  "body": "A TEMPSC is a",
+  "options": [
+   "totally enclosed motor-propelled survival craft (lifeboat)",
+   "temperature sensor",
+   "type of permit",
+   "gas cylinder"
+  ],
+  "answer": 0,
+  "explanation": "Used to evacuate offshore installations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Environment",
+  "body": "Which Nigerian agency responds to and monitors oil spills?",
+  "options": [
+   "NOSDRA",
+   "NCDMB",
+   "FRSC",
+   "NAFDAC"
+  ],
+  "answer": 0,
+  "explanation": "National Oil Spill Detection and Response Agency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Fire",
+  "body": "For a gas-fed (Class C) fire, the first priority is usually to",
+  "options": [
+   "use a wet chemical extinguisher",
+   "spray water on it immediately",
+   "isolate the gas supply",
+   "cover it with a blanket"
+  ],
+  "answer": 2,
+  "explanation": "Extinguishing without isolating can leave an explosive gas cloud.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Fire",
+  "body": "Which extinguisher is suitable for fires involving live electrical equipment?",
+  "options": [
+   "Wet chemical",
+   "CO₂",
+   "Foam (unless rated)",
+   "Water"
+  ],
+  "answer": 1,
+  "explanation": "CO₂ does not conduct electricity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Culture",
+  "body": "Heinrich's / Bird's accident triangle suggests that",
+  "options": [
+   "near misses are not worth reporting",
+   "serious accidents are random",
+   "only serious accidents matter",
+   "many near misses come before each serious accident"
+  ],
+  "answer": 3,
+  "explanation": "Reporting near misses helps prevent serious harm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Isolation",
+  "body": "After applying locks under LOTO, you should",
+  "options": [
+   "remove the tags",
+   "give your key to a colleague",
+   "verify zero energy (try to start it) before work",
+   "start work immediately"
+  ],
+  "answer": 2,
+  "explanation": "Isolation is only proven once tested.",
+  "difficulty": 2
  }
 ]

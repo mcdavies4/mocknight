@@ -194,5 +194,201 @@
   "answer": 2,
   "explanation": "Arc blow during welding is a common problem.",
   "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Properties",
+  "body": "Permeability describes",
+  "options": [
+   "how easily a material can be magnetised",
+   "its electrical resistance",
+   "how long it stays magnetised",
+   "its hardness"
+  ],
+  "answer": 0,
+  "explanation": "Retentivity describes how much magnetism it keeps.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Properties",
+  "body": "Retentivity is",
+  "options": [
+   "a material's ability to keep magnetism after the field is removed",
+   "the force needed to demagnetise it",
+   "its melting point",
+   "how easily it is magnetised"
+  ],
+  "answer": 0,
+  "explanation": "High-retentivity parts may need demagnetising.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Properties",
+  "body": "Coercive force is",
+  "options": [
+   "the field needed to start magnetising",
+   "the reverse field needed to remove residual magnetism",
+   "the weight a yoke can lift",
+   "the speed of particles"
+  ],
+  "answer": 1,
+  "explanation": "Shown on the hysteresis loop.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Properties",
+  "body": "Reluctance is",
+  "options": [
+   "resistance to electric current",
+   "opposition to magnetic flux",
+   "light intensity",
+   "attraction of particles"
+  ],
+  "answer": 1,
+  "explanation": "It is the magnetic equivalent of electrical resistance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Technique",
+  "body": "Under ASME Section V, prod spacing should be",
+  "options": [
+   "75 mm to 200 mm (3 in to 8 in)",
+   "500 mm to 1 m",
+   "any distance",
+   "10 mm to 20 mm"
+  ],
+  "answer": 0,
+  "explanation": "Too close or too far gives a poor field.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Technique",
+  "body": "When using black magnetic ink, a thin white contrast paint is applied to",
+  "options": [
+   "magnetise the part",
+   "improve visibility of indications",
+   "remove particles",
+   "protect from radiation"
+  ],
+  "answer": 1,
+  "explanation": "Contrast helps the eye pick out fine lines.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Technique",
+  "body": "Dry powder is often preferred for",
+  "options": [
+   "non-ferrous metals",
+   "underwater work",
+   "rough surfaces, hot parts and subsurface defects with DC",
+   "very fine surface cracks on smooth parts"
+  ],
+  "answer": 2,
+  "explanation": "Wet fluorescent is most sensitive for fine surface cracks.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Technique",
+  "body": "The particle concentration in a wet bath is checked with",
+  "options": [
+   "a pie gauge",
+   "a settling test in a centrifuge tube",
+   "a densitometer",
+   "a thermometer"
+  ],
+  "answer": 1,
+  "explanation": "The settled volume is read after standing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Technique",
+  "body": "For a fluorescent wet bath, the typical settled volume is",
+  "options": [
+   "10–20 mL per 100 mL",
+   "0.1–0.4 mL per 100 mL",
+   "0 mL",
+   "1.2–2.4 mL per 100 mL"
+  ],
+  "answer": 1,
+  "explanation": "Visible (colour) baths settle at 1.2–2.4 mL per 100 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Technique",
+  "body": "Quantitative quality indicators (QQIs) are used to",
+  "options": [
+   "verify field strength and direction on the part",
+   "count defects",
+   "measure thickness",
+   "check UV intensity"
+  ],
+  "answer": 0,
+  "explanation": "They are small shims with artificial flaws.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Interpretation",
+  "body": "Which is a non-relevant MT indication?",
+  "options": [
+   "A fatigue crack",
+   "Magnetic writing from contact with another magnetised part",
+   "A lack-of-fusion breaking the surface",
+   "A grinding crack"
+  ],
+  "answer": 1,
+  "explanation": "Changes in section and HAZ boundaries can also give non-relevant indications.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Interpretation",
+  "body": "A crack running parallel to the magnetic field will",
+  "options": [
+   "give the strongest indication",
+   "likely be missed",
+   "always be detected",
+   "glow red"
+  ],
+  "answer": 1,
+  "explanation": "That is why two directions are tested.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Demagnetising",
+  "body": "A common way to demagnetise a part is",
+  "options": [
+   "painting it",
+   "washing it in water",
+   "an AC field gradually reduced to zero",
+   "heating it slightly"
+  ],
+  "answer": 2,
+  "explanation": "Or heating above the Curie point, where practical.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Safety",
+  "body": "UV-A lamps used for fluorescent MT should",
+  "options": [
+   "be used without filters for brightness",
+   "have intact filters to block harmful UV",
+   "only be used outdoors",
+   "be pointed at the eyes"
+  ],
+  "answer": 1,
+  "explanation": "Damaged filters let through harmful short-wave UV.",
+  "difficulty": 2
  }
 ]

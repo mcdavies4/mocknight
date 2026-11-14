@@ -544,5 +544,649 @@
   "answer": 2,
   "explanation": "The margin is 2.5 °C; at least 3 °C is required.",
   "difficulty": 1
+ },
+ {
+  "subject": "COR",
+  "topic": "Corrosion",
+  "body": "Which form of corrosion produces deep, localised holes?",
+  "options": [
+   "Chalking",
+   "Pitting",
+   "Uniform corrosion",
+   "Mud cracking"
+  ],
+  "answer": 1,
+  "explanation": "Pitting can perforate a wall with little overall metal loss.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Corrosion",
+  "body": "Corrosion inside narrow gaps, such as under gaskets, is",
+  "options": [
+   "crevice corrosion",
+   "erosion",
+   "galvanic corrosion",
+   "chalking"
+  ],
+  "answer": 0,
+  "explanation": "Oxygen differences inside the gap drive it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Corrosion",
+  "body": "Which combination makes galvanic corrosion worst?",
+  "options": [
+   "Metals kept completely dry",
+   "Two identical metals",
+   "A small anode connected to a large cathode",
+   "A large anode and a small cathode"
+  ],
+  "answer": 2,
+  "explanation": "The small anode carries all the corrosion current.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Coatings",
+  "body": "A zinc-rich primer protects steel mainly by",
+  "options": [
+   "sacrificial (galvanic) protection",
+   "inhibitive pigments only",
+   "adding heat",
+   "barrier action only"
+  ],
+  "answer": 0,
+  "explanation": "Barrier coatings block water and oxygen; inhibitive coatings slow corrosion chemically.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Coatings",
+  "body": "Inorganic zinc silicate primers cure by",
+  "options": [
+   "solvent evaporation only",
+   "oxidation like alkyds",
+   "reacting with moisture from the air (hydrolysis)",
+   "heat only"
+  ],
+  "answer": 2,
+  "explanation": "Very low humidity can slow the cure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Coatings",
+  "body": "Alkyd paints cure by",
+  "options": [
+   "chemical reaction between two packs",
+   "freezing",
+   "oxidation (reaction with oxygen in air)",
+   "hydrolysis"
+  ],
+  "answer": 2,
+  "explanation": "They are not suitable for immersion or alkaline surfaces.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Coatings",
+  "body": "Why should alkyds not be applied directly to galvanised steel?",
+  "options": [
+   "The zinc surface makes them saponify and peel",
+   "They are too thick",
+   "They are too expensive",
+   "They cure too fast"
+  ],
+  "answer": 0,
+  "explanation": "Use a suitable tie-coat or primer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Coatings",
+  "body": "Two-pack epoxies and polyurethanes cure by",
+  "options": [
+   "oxidation only",
+   "chemical reaction between base and curing agent",
+   "sunlight only",
+   "solvent evaporation only"
+  ],
+  "answer": 1,
+  "explanation": "Mixing ratio and pot life must be respected.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Surface prep",
+  "body": "Which SSPC standard is commercial blast cleaning?",
+  "options": [
+   "SSPC-SP 2",
+   "SSPC-SP 5",
+   "SSPC-SP 1",
+   "SSPC-SP 6"
+  ],
+  "answer": 3,
+  "explanation": "SP 7 is brush-off; SP 10 near-white; SP 5 white metal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Surface prep",
+  "body": "SSPC-SP 11 is",
+  "options": [
+   "white metal blast",
+   "power-tool cleaning to bare metal",
+   "solvent cleaning",
+   "hand-tool cleaning"
+  ],
+  "answer": 1,
+  "explanation": "SP 3 is ordinary power-tool cleaning.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Surface prep",
+  "body": "Steel grit, compared with steel shot, produces a profile that is",
+  "options": [
+   "angular",
+   "rounded",
+   "polished",
+   "completely smooth"
+  ],
+  "answer": 0,
+  "explanation": "Shot gives a rounded, peened profile.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Surface prep",
+  "body": "Which test checks compressed air for oil and water before blasting?",
+  "options": [
+   "Blotter test (ASTM D4285)",
+   "Pull-off test",
+   "Holiday test",
+   "Bresle test"
+  ],
+  "answer": 0,
+  "explanation": "Contaminated air puts oil on the steel.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Surface prep",
+  "body": "ISO 8502-3 tape test is used to assess",
+  "options": [
+   "dust on a blast-cleaned surface",
+   "coating adhesion",
+   "salt contamination",
+   "film thickness"
+  ],
+  "answer": 0,
+  "explanation": "Dust reduces adhesion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Surface prep",
+  "body": "Flash rust after water jetting can be controlled by",
+  "options": [
+   "using inhibitors or coating quickly within limits",
+   "leaving the steel wet overnight",
+   "adding salt",
+   "heating to red hot"
+  ],
+  "answer": 0,
+  "explanation": "Some coatings tolerate light flash rust.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Application",
+  "body": "A stripe coat is applied to",
+  "options": [
+   "only flat areas",
+   "edges, welds and corners before the full coat",
+   "the whole surface twice",
+   "the inside of the tin"
+  ],
+  "answer": 1,
+  "explanation": "Coatings pull thin at edges.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Application",
+  "body": "The overcoating window is",
+  "options": [
+   "the time range in which the next coat must be applied",
+   "the time paint stays in the tin",
+   "the width of the brush",
+   "the drying time of thinner"
+  ],
+  "answer": 0,
+  "explanation": "Outside it, adhesion between coats can fail.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "CP",
+  "body": "A common criterion for cathodic protection of buried steel is a potential of",
+  "options": [
+   "+850 mV vs Cu/CuSO₄",
+   "0 mV",
+   "−100 mV vs any electrode",
+   "−850 mV or more negative vs Cu/CuSO₄"
+  ],
+  "answer": 3,
+  "explanation": "Measured with a copper/copper sulphate reference electrode.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "CP",
+  "body": "Which reference electrode is usually used in seawater?",
+  "options": [
+   "Copper/copper sulphate",
+   "Silver/silver chloride",
+   "Zinc only",
+   "Graphite"
+  ],
+  "answer": 1,
+  "explanation": "Cu/CuSO₄ is used in soil.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Failures",
+  "body": "Fisheyes and cratering in a wet film are often caused by",
+  "options": [
+   "high film build",
+   "too much profile",
+   "correct mixing",
+   "surface contamination such as silicone or oil"
+  ],
+  "answer": 3,
+  "explanation": "Clean the surface and check the air supply.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Failures",
+  "body": "Osmotic blistering is mainly caused by",
+  "options": [
+   "low humidity",
+   "soluble salts left under the coating",
+   "too thin a primer only",
+   "sunlight"
+  ],
+  "answer": 1,
+  "explanation": "Water is drawn through the film towards the salts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Failures",
+  "body": "Dry spray (a rough, powdery finish) occurs when",
+  "options": [
+   "paint partly dries before reaching the surface",
+   "the film is too thick",
+   "the coating is mixed correctly",
+   "the steel is wet"
+  ],
+  "answer": 0,
+  "explanation": "Spray distance, wind and heat are common causes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Failures",
+  "body": "Loss of adhesion between two coats is called",
+  "options": [
+   "chalking",
+   "intercoat delamination",
+   "mud cracking",
+   "pinholing"
+  ],
+  "answer": 1,
+  "explanation": "Often due to missing the overcoat window or contamination.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A coating has 80% volume solids and is specified at 150 µm DFT. What is the theoretical spreading rate? (m²/L = VS% × 10 ÷ DFT µm)",
+  "options": [
+   "53.33 m²/L",
+   "6.33 m²/L",
+   "2.67 m²/L",
+   "5.33 m²/L"
+  ],
+  "answer": 3,
+  "explanation": "80 × 10 ÷ 150 = 5.33 m²/L.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A coating has 60% volume solids and is specified at 75 µm DFT. What is the theoretical spreading rate? (m²/L = VS% × 10 ÷ DFT µm)",
+  "options": [
+   "80 m²/L",
+   "4 m²/L",
+   "9 m²/L",
+   "8 m²/L"
+  ],
+  "answer": 3,
+  "explanation": "60 × 10 ÷ 75 = 8 m²/L.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A coating has 70% volume solids and is specified at 100 µm DFT. What is the theoretical spreading rate? (m²/L = VS% × 10 ÷ DFT µm)",
+  "options": [
+   "8 m²/L",
+   "3.5 m²/L",
+   "7 m²/L",
+   "70 m²/L"
+  ],
+  "answer": 2,
+  "explanation": "70 × 10 ÷ 100 = 7 m²/L.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A coating has 60% volume solids and is specified at 100 µm DFT. What is the theoretical spreading rate? (m²/L = VS% × 10 ÷ DFT µm)",
+  "options": [
+   "7 m²/L",
+   "3 m²/L",
+   "6 m²/L",
+   "60 m²/L"
+  ],
+  "answer": 2,
+  "explanation": "60 × 10 ÷ 100 = 6 m²/L.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A coating has 70% volume solids and is specified at 150 µm DFT. What is the theoretical spreading rate? (m²/L = VS% × 10 ÷ DFT µm)",
+  "options": [
+   "2.33 m²/L",
+   "46.67 m²/L",
+   "5.67 m²/L",
+   "4.67 m²/L"
+  ],
+  "answer": 3,
+  "explanation": "70 × 10 ÷ 150 = 4.67 m²/L.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A coating has 50% volume solids and is specified at 50 µm DFT. What is the theoretical spreading rate? (m²/L = VS% × 10 ÷ DFT µm)",
+  "options": [
+   "100 m²/L",
+   "0.1 m²/L",
+   "5 m²/L",
+   "10 m²/L"
+  ],
+  "answer": 3,
+  "explanation": "50 × 10 ÷ 50 = 10 m²/L.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A coating has 60% volume solids and is specified at 200 µm DFT. What is the theoretical spreading rate? (m²/L = VS% × 10 ÷ DFT µm)",
+  "options": [
+   "4 m²/L",
+   "1.5 m²/L",
+   "3 m²/L",
+   "30 m²/L"
+  ],
+  "answer": 2,
+  "explanation": "60 × 10 ÷ 200 = 3 m²/L.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A coating has 70% volume solids and is specified at 200 µm DFT. What is the theoretical spreading rate? (m²/L = VS% × 10 ÷ DFT µm)",
+  "options": [
+   "3.5 m²/L",
+   "1.75 m²/L",
+   "35 m²/L",
+   "4.5 m²/L"
+  ],
+  "answer": 0,
+  "explanation": "70 × 10 ÷ 200 = 3.5 m²/L.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "You must coat 350 m² at 125 µm DFT with a 60% volume solids paint. Allowing 20% loss, about how many litres are needed (rounded up)?",
+  "options": [
+   "88 L",
+   "92 L",
+   "73 L",
+   "59 L"
+  ],
+  "answer": 1,
+  "explanation": "Theoretical rate = 60 × 10 ÷ 125 = 4.8 m²/L. Volume = 350 ÷ 4.8 ÷ (1 − 0.2) ≈ 92 L.",
+  "difficulty": 3
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "You must coat 1000 m² at 75 µm DFT with a 50% volume solids paint. Allowing 40% loss, about how many litres are needed (rounded up)?",
+  "options": [
+   "200 L",
+   "150 L",
+   "210 L",
+   "250 L"
+  ],
+  "answer": 3,
+  "explanation": "Theoretical rate = 50 × 10 ÷ 75 = 6.67 m²/L. Volume = 1000 ÷ 6.67 ÷ (1 − 0.4) ≈ 250 L.",
+  "difficulty": 3
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "You must coat 200 m² at 100 µm DFT with a 50% volume solids paint. Allowing 20% loss, about how many litres are needed (rounded up)?",
+  "options": [
+   "50 L",
+   "40 L",
+   "48 L",
+   "55 L"
+  ],
+  "answer": 0,
+  "explanation": "Theoretical rate = 50 × 10 ÷ 100 = 5 m²/L. Volume = 200 ÷ 5 ÷ (1 − 0.2) ≈ 50 L.",
+  "difficulty": 3
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "You must coat 1000 m² at 75 µm DFT with a 75% volume solids paint. Allowing 40% loss, about how many litres are needed (rounded up)?",
+  "options": [
+   "134 L",
+   "167 L",
+   "140 L",
+   "100 L"
+  ],
+  "answer": 1,
+  "explanation": "Theoretical rate = 75 × 10 ÷ 75 = 10 m²/L. Volume = 1000 ÷ 10 ÷ (1 − 0.4) ≈ 167 L.",
+  "difficulty": 3
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "You must coat 200 m² at 100 µm DFT with a 75% volume solids paint. Allowing 20% loss, about how many litres are needed (rounded up)?",
+  "options": [
+   "32 L",
+   "27 L",
+   "37 L",
+   "34 L"
+  ],
+  "answer": 3,
+  "explanation": "Theoretical rate = 75 × 10 ÷ 100 = 7.5 m²/L. Volume = 200 ÷ 7.5 ÷ (1 − 0.2) ≈ 34 L.",
+  "difficulty": 3
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "You must coat 200 m² at 125 µm DFT with a 60% volume solids paint. Allowing 40% loss, about how many litres are needed (rounded up)?",
+  "options": [
+   "34 L",
+   "42 L",
+   "59 L",
+   "70 L"
+  ],
+  "answer": 3,
+  "explanation": "Theoretical rate = 60 × 10 ÷ 125 = 4.8 m²/L. Volume = 200 ÷ 4.8 ÷ (1 − 0.4) ≈ 70 L.",
+  "difficulty": 3
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "You must coat 1000 m² at 75 µm DFT with a 50% volume solids paint. Allowing 30% loss, about how many litres are needed (rounded up)?",
+  "options": [
+   "215 L",
+   "150 L",
+   "195 L",
+   "200 L"
+  ],
+  "answer": 0,
+  "explanation": "Theoretical rate = 50 × 10 ÷ 75 = 6.67 m²/L. Volume = 1000 ÷ 6.67 ÷ (1 − 0.3) ≈ 215 L.",
+  "difficulty": 3
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "You must coat 500 m² at 125 µm DFT with a 75% volume solids paint. Allowing 40% loss, about how many litres are needed (rounded up)?",
+  "options": [
+   "117 L",
+   "84 L",
+   "67 L",
+   "139 L"
+  ],
+  "answer": 3,
+  "explanation": "Theoretical rate = 75 × 10 ÷ 125 = 6 m²/L. Volume = 500 ÷ 6 ÷ (1 − 0.4) ≈ 139 L.",
+  "difficulty": 3
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A 50% volume solids paint is thinned by 15%. What WFT gives 125 µm DFT? (WFT = DFT × (100 + thinner%) ÷ VS)",
+  "options": [
+   "250 µm",
+   "288 µm",
+   "213 µm",
+   "54 µm"
+  ],
+  "answer": 1,
+  "explanation": "125 × (100 + 15) ÷ 50 = 288 µm.",
+  "difficulty": 3
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A 50% volume solids paint is thinned by 15%. What WFT gives 100 µm DFT? (WFT = DFT × (100 + thinner%) ÷ VS)",
+  "options": [
+   "170 µm",
+   "200 µm",
+   "43 µm",
+   "230 µm"
+  ],
+  "answer": 3,
+  "explanation": "100 × (100 + 15) ÷ 50 = 230 µm.",
+  "difficulty": 3
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A 60% volume solids paint is thinned by 10%. What WFT gives 100 µm DFT? (WFT = DFT × (100 + thinner%) ÷ VS)",
+  "options": [
+   "167 µm",
+   "183 µm",
+   "150 µm",
+   "55 µm"
+  ],
+  "answer": 1,
+  "explanation": "100 × (100 + 10) ÷ 60 = 183 µm.",
+  "difficulty": 3
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A 60% volume solids paint is thinned by 10%. What WFT gives 75 µm DFT? (WFT = DFT × (100 + thinner%) ÷ VS)",
+  "options": [
+   "125 µm",
+   "138 µm",
+   "113 µm",
+   "41 µm"
+  ],
+  "answer": 1,
+  "explanation": "75 × (100 + 10) ÷ 60 = 138 µm.",
+  "difficulty": 3
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A 70% volume solids paint is thinned by 10%. What WFT gives 125 µm DFT? (WFT = DFT × (100 + thinner%) ÷ VS)",
+  "options": [
+   "179 µm",
+   "161 µm",
+   "196 µm",
+   "80 µm"
+  ],
+  "answer": 2,
+  "explanation": "125 × (100 + 10) ÷ 70 = 196 µm.",
+  "difficulty": 3
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A 70% volume solids paint is thinned by 5%. What WFT gives 100 µm DFT? (WFT = DFT × (100 + thinner%) ÷ VS)",
+  "options": [
+   "67 µm",
+   "136 µm",
+   "150 µm",
+   "143 µm"
+  ],
+  "answer": 2,
+  "explanation": "100 × (100 + 5) ÷ 70 = 150 µm.",
+  "difficulty": 3
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A 70% volume solids paint is thinned by 15%. What WFT gives 100 µm DFT? (WFT = DFT × (100 + thinner%) ÷ VS)",
+  "options": [
+   "61 µm",
+   "143 µm",
+   "164 µm",
+   "121 µm"
+  ],
+  "answer": 2,
+  "explanation": "100 × (100 + 15) ÷ 70 = 164 µm.",
+  "difficulty": 3
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A 60% volume solids paint is thinned by 5%. What WFT gives 125 µm DFT? (WFT = DFT × (100 + thinner%) ÷ VS)",
+  "options": [
+   "208 µm",
+   "71 µm",
+   "219 µm",
+   "198 µm"
+  ],
+  "answer": 2,
+  "explanation": "125 × (100 + 5) ÷ 60 = 219 µm.",
+  "difficulty": 3
  }
 ]

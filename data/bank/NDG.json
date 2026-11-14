@@ -320,5 +320,271 @@
   "answer": 3,
   "explanation": "Acceptance criteria usually come from the construction code.",
   "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Methods",
+  "body": "Which NDT method uses a pressure difference or tracer gas to find through-wall leaks?",
+  "options": [
+   "Visual testing",
+   "Leak testing (LT)",
+   "Penetrant testing",
+   "Magnetic particle testing"
+  ],
+  "answer": 1,
+  "explanation": "Bubble and helium leak tests are examples.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Methods",
+  "body": "Acoustic emission testing (AE) detects",
+  "options": [
+   "surface cracks using dye",
+   "X-rays passing through a part",
+   "magnetic flux leakage",
+   "sound released by growing cracks under load"
+  ],
+  "answer": 3,
+  "explanation": "AE monitors whole structures during pressure tests.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Methods",
+  "body": "Infrared thermography detects defects using",
+  "options": [
+   "radiation film",
+   "iron particles",
+   "differences in surface temperature",
+   "sound waves"
+  ],
+  "answer": 2,
+  "explanation": "Used for electrical hot spots and insulation problems.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Methods",
+  "body": "A borescope is used in visual testing to",
+  "options": [
+   "see inside areas that cannot be viewed directly",
+   "detect radiation",
+   "magnetise parts",
+   "measure thickness"
+  ],
+  "answer": 0,
+  "explanation": "Remote visual inspection extends VT.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Methods",
+  "body": "A lamination in steel plate is best found with",
+  "options": [
+   "penetrant testing on the face",
+   "radiography",
+   "straight-beam (0°) ultrasonic testing",
+   "visual testing only"
+  ],
+  "answer": 2,
+  "explanation": "Laminations lie parallel to the surface, so RT barely sees them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Methods",
+  "body": "Which methods suit surface cracks in austenitic stainless steel?",
+  "options": [
+   "Magnetic particle testing",
+   "Magnetic flux leakage",
+   "Gamma radiography only",
+   "Penetrant or eddy current testing"
+  ],
+  "answer": 3,
+  "explanation": "Austenitic stainless steel is non-magnetic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Defects",
+  "body": "Shrinkage and cold shuts are typical defects in",
+  "options": [
+   "welds only",
+   "rolled plate",
+   "forgings",
+   "castings"
+  ],
+  "answer": 3,
+  "explanation": "Laminations are typical of rolled plate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Defects",
+  "body": "Laps and bursts are typical defects in",
+  "options": [
+   "welds",
+   "paint",
+   "castings",
+   "forgings"
+  ],
+  "answer": 3,
+  "explanation": "They form during working of the metal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Defects",
+  "body": "Fatigue cracks usually start at",
+  "options": [
+   "stress concentrations such as weld toes and notches",
+   "random locations",
+   "painted surfaces only",
+   "the centre of thick plates"
+  ],
+  "answer": 0,
+  "explanation": "Cyclic loading drives fatigue.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Defects",
+  "body": "Lack of sidewall fusion is",
+  "options": [
+   "excess weld metal on the cap",
+   "failure of weld metal to fuse with the joint preparation face",
+   "a scratch on the plate",
+   "gas trapped in the weld"
+  ],
+  "answer": 1,
+  "explanation": "It is a planar defect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Defects",
+  "body": "Excess penetration is",
+  "options": [
+   "a gas pore",
+   "too much weld metal protruding through the root",
+   "an unfilled groove at the toe",
+   "a crater crack"
+  ],
+  "answer": 1,
+  "explanation": "Burn-through is a hole caused by excessive penetration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Defects",
+  "body": "Misalignment of the two parts at a butt joint is called",
+  "options": [
+   "undercut",
+   "hi-lo (linear misalignment)",
+   "spatter",
+   "porosity"
+  ],
+  "answer": 1,
+  "explanation": "Measured with a hi-lo gauge.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Defects",
+  "body": "A star-shaped crack at the end of a weld run is a",
+  "options": [
+   "cold shut",
+   "lap",
+   "crater crack",
+   "lamination"
+  ],
+  "answer": 2,
+  "explanation": "Fill the crater to prevent it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Standards",
+  "body": "ISO 5817 quality level B is",
+  "options": [
+   "the most stringent level",
+   "for castings",
+   "the least stringent level",
+   "for visual testing only"
+  ],
+  "answer": 0,
+  "explanation": "Levels are B, C and D.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Standards",
+  "body": "ISO 17636 covers",
+  "options": [
+   "ultrasonic testing of welds",
+   "radiographic testing of welds",
+   "penetrant testing",
+   "welder qualification"
+  ],
+  "answer": 1,
+  "explanation": "ISO 17640 covers ultrasonic testing of welds.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Standards",
+  "body": "ISO 3452 covers",
+  "options": [
+   "penetrant testing",
+   "radiography",
+   "eddy current testing",
+   "magnetic particle testing"
+  ],
+  "answer": 0,
+  "explanation": "Part 1 sets out the general principles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Certification",
+  "body": "Under ISO 9712, who may write NDT instructions based on a procedure?",
+  "options": [
+   "Level 2",
+   "Nobody — only Level 3",
+   "Trainees",
+   "Level 1"
+  ],
+  "answer": 0,
+  "explanation": "Level 3 writes and approves procedures.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Terms",
+  "body": "A non-relevant indication is",
+  "options": [
+   "a true indication caused by part geometry, not a discontinuity of concern",
+   "a crack that must be rejected",
+   "an indication found by RT only",
+   "a false indication from poor cleaning"
+  ],
+  "answer": 0,
+  "explanation": "For example, a change in section or a keyway.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NDG",
+  "topic": "Terms",
+  "body": "Probability of detection (POD) describes",
+  "options": [
+   "how reliably a method finds defects of a given size",
+   "the cost of inspection",
+   "the speed of testing",
+   "the radiation dose"
+  ],
+  "answer": 0,
+  "explanation": "Smaller defects have lower POD.",
+  "difficulty": 2
  }
 ]

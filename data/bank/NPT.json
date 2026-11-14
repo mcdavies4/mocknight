@@ -194,5 +194,201 @@
   "answer": 0,
   "explanation": "False indications are not caused by discontinuities.",
   "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Process",
+  "body": "Under ASME Section V, the minimum development time is",
+  "options": [
+   "10 minutes",
+   "30 seconds",
+   "2 minutes",
+   "2 hours"
+  ],
+  "answer": 0,
+  "explanation": "Interpret between 10 and 60 minutes after applying developer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Process",
+  "body": "For visible (colour contrast) penetrant, white light at the inspection surface should be at least",
+  "options": [
+   "5 lux",
+   "1000 lux (100 foot-candles)",
+   "50 lux",
+   "200 lux"
+  ],
+  "answer": 1,
+  "explanation": "Good lighting is essential to see red indications.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Process",
+  "body": "Why must penetrant residue be removed after inspection?",
+  "options": [
+   "To remove the developer colour only",
+   "It is optional",
+   "To make the part shine",
+   "Residues can cause corrosion or interfere with later processes"
+  ],
+  "answer": 3,
+  "explanation": "Post-cleaning is the final step.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Process",
+  "body": "Machining or shot peening may close surface cracks. What may be needed before PT?",
+  "options": [
+   "Magnetising",
+   "Heating to red hot",
+   "Painting",
+   "Etching to reopen them"
+  ],
+  "answer": 3,
+  "explanation": "Smeared metal blocks penetrant entry.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Process",
+  "body": "If a part must be re-inspected, it should be",
+  "options": [
+   "wiped and inspected again",
+   "magnetised",
+   "fully cleaned and processed again from the start",
+   "just given more developer"
+  ],
+  "answer": 2,
+  "explanation": "Old penetrant in defects can give unreliable results.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Materials",
+  "body": "For stainless steels and nickel alloys, penetrant materials are often controlled for",
+  "options": [
+   "colour only",
+   "halogen and sulphur content",
+   "price",
+   "smell"
+  ],
+  "answer": 1,
+  "explanation": "These contaminants can cause cracking or corrosion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Materials",
+  "body": "A lipophilic emulsifier is",
+  "options": [
+   "oil-based and applied after the penetrant dwell",
+   "a cleaner used before penetrant",
+   "a developer",
+   "water-based remover"
+  ],
+  "answer": 0,
+  "explanation": "Hydrophilic removers are water-based.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Materials",
+  "body": "With post-emulsifiable penetrants, which time is most critical to control?",
+  "options": [
+   "Time to read the procedure",
+   "Shelf life of the developer",
+   "Emulsification time",
+   "Drying time of the cleaner"
+  ],
+  "answer": 2,
+  "explanation": "Too long and penetrant is removed from defects.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Materials",
+  "body": "Fluorescent penetrant sensitivity levels run from ½ (lowest) to",
+  "options": [
+   "100",
+   "2",
+   "10",
+   "4 (ultra-high)"
+  ],
+  "answer": 3,
+  "explanation": "Higher levels find finer cracks.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Materials",
+  "body": "Which developer form is commonly used with visible penetrant in field aerosol kits?",
+  "options": [
+   "No developer",
+   "Water-soluble only",
+   "Non-aqueous wet developer",
+   "Dry powder only"
+  ],
+  "answer": 2,
+  "explanation": "It dries to a thin white coating.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Interpretation",
+  "body": "Penetrant indications are classified as",
+  "options": [
+   "hot, warm or cold",
+   "open, closed or hidden",
+   "major, minor or none",
+   "relevant, non-relevant or false"
+  ],
+  "answer": 3,
+  "explanation": "Only relevant indications are assessed against acceptance criteria.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Interpretation",
+  "body": "A continuous line of penetrant bleed-out usually suggests",
+  "options": [
+   "too much developer",
+   "porosity",
+   "a crack",
+   "a scratch-free surface"
+  ],
+  "answer": 2,
+  "explanation": "Rounded spots suggest porosity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Safety",
+  "body": "Aerosol penetrant kits are",
+  "options": [
+   "completely harmless",
+   "flammable and should be used with ventilation and away from ignition sources",
+   "radioactive",
+   "explosive only when cold"
+  ],
+  "answer": 1,
+  "explanation": "Read the safety data sheet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Principles",
+  "body": "Which property of a good penetrant matters most for entering fine cracks?",
+  "options": [
+   "High viscosity",
+   "Low surface tension and good wetting",
+   "Magnetic properties",
+   "Dark smell"
+  ],
+  "answer": 1,
+  "explanation": "It must spread and seep into openings.",
+  "difficulty": 2
  }
 ]

@@ -642,5 +642,509 @@
   "answer": 2,
   "explanation": "t = 200 × 48 ÷ (17500 × 1 − 0.6 × 200) = 0.552 in (before corrosion allowance).",
   "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Intervals",
+  "body": "Under API 510, the maximum external inspection interval is the lesser of",
+  "options": [
+   "15 years",
+   "5 years or the internal/on-stream interval",
+   "1 year",
+   "10 years or half remaining life"
+  ],
+  "answer": 1,
+  "explanation": "External inspections look for leaks, CUI and supports.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Intervals",
+  "body": "Under API 570, which piping class has the highest potential consequence if a leak occurs?",
+  "options": [
+   "Class 4",
+   "Class 2",
+   "Class 3",
+   "Class 1"
+  ],
+  "answer": 3,
+  "explanation": "Class 1 gets the most frequent inspection.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Damage",
+  "body": "Erosion-corrosion in piping is most likely",
+  "options": [
+   "in straight runs of stagnant pipe",
+   "only on painted surfaces",
+   "in cold water tanks only",
+   "at elbows and just downstream of control valves"
+  ],
+  "answer": 3,
+  "explanation": "High velocity and turbulence remove protective films.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Damage",
+  "body": "Vibration fatigue in piping often affects",
+  "options": [
+   "thick vessel shells",
+   "insulation",
+   "foundations only",
+   "small-bore connections and branches"
+  ],
+  "answer": 3,
+  "explanation": "Bracing and design changes reduce the risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Damage",
+  "body": "Hydrogen-induced cracking (HIC) and sulphide stress cracking (SSC) are associated with",
+  "options": [
+   "steam only",
+   "liquid nitrogen",
+   "dry air",
+   "wet H₂S service"
+  ],
+  "answer": 3,
+  "explanation": "Material selection and hardness control help prevent them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Damage",
+  "body": "Temper embrittlement mainly affects",
+  "options": [
+   "plastics",
+   "copper piping",
+   "aluminium",
+   "Cr–Mo steels after long service at elevated temperature"
+  ],
+  "answer": 3,
+  "explanation": "It reduces toughness at lower temperatures.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Damage",
+  "body": "Creep is",
+  "options": [
+   "rapid cracking at low temperature",
+   "corrosion under insulation",
+   "wear from sand",
+   "slow deformation under stress at high temperature"
+  ],
+  "answer": 3,
+  "explanation": "It matters in furnaces and hot piping.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Damage",
+  "body": "Soil-to-air interfaces on buried piping are prone to",
+  "options": [
+   "fatigue only",
+   "temper embrittlement",
+   "creep",
+   "external corrosion"
+  ],
+  "answer": 3,
+  "explanation": "Moisture and oxygen concentrate at the interface.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Brittle fracture",
+  "body": "MDMT stands for",
+  "options": [
+   "minimum detectable metal thickness",
+   "mean daily maintenance time",
+   "maximum design metal thickness",
+   "minimum design metal temperature"
+  ],
+  "answer": 3,
+  "explanation": "Below the MDMT, brittle fracture risk rises.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Assessment",
+  "body": "Fitness-for-service assessments follow",
+  "options": [
+   "API 1104",
+   "API 579-1 / ASME FFS-1",
+   "AWS D1.1",
+   "ISO 9712"
+  ],
+  "answer": 1,
+  "explanation": "They decide whether damaged equipment can stay in service.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Documents",
+  "body": "The ASME Manufacturer's Data Report for a Section VIII Div. 1 vessel is Form",
+  "options": [
+   "WPS-1",
+   "P-1",
+   "API-510",
+   "U-1"
+  ],
+  "answer": 3,
+  "explanation": "It records design and construction details.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Repairs",
+  "body": "Temporary repairs such as leak clamps should be",
+  "options": [
+   "removed immediately while in service",
+   "painted over",
+   "replaced with permanent repairs at the next suitable opportunity",
+   "left forever"
+  ],
+  "answer": 2,
+  "explanation": "The inspector must approve temporary repairs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Repairs",
+  "body": "Rerating a pressure vessel requires",
+  "options": [
+   "an NDT Level 1 signature",
+   "calculations and approval by the inspector (and engineer)",
+   "only a new nameplate",
+   "a fresh coat of paint"
+  ],
+  "answer": 1,
+  "explanation": "The nameplate is then updated.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "NDE",
+  "body": "Which technique can screen long lengths of insulated pipe for corrosion without removing insulation?",
+  "options": [
+   "Hardness testing",
+   "Visual testing only",
+   "Guided wave ultrasonic testing",
+   "Penetrant testing"
+  ],
+  "answer": 2,
+  "explanation": "Profile radiography is another option.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Find the MAWP of a cylindrical shell: t = 0.5 in (after corrosion allowance), R = 30 in, S = 17,500 psi, E = 1. (P = SEt ÷ (R + 0.6t))",
+  "options": [
+   "295 psi",
+   "578 psi",
+   "289 psi",
+   "292 psi"
+  ],
+  "answer": 2,
+  "explanation": "P = 17500 × 1 × 0.5 ÷ (30 + 0.6 × 0.5) = 289 psi.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Find the MAWP of a cylindrical shell: t = 0.5 in (after corrosion allowance), R = 24 in, S = 20,000 psi, E = 1. (P = SEt ÷ (R + 0.6t))",
+  "options": [
+   "823 psi",
+   "422 psi",
+   "412 psi",
+   "417 psi"
+  ],
+  "answer": 2,
+  "explanation": "P = 20000 × 1 × 0.5 ÷ (24 + 0.6 × 0.5) = 412 psi.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Find the MAWP of a cylindrical shell: t = 0.625 in (after corrosion allowance), R = 30 in, S = 20,000 psi, E = 1. (P = SEt ÷ (R + 0.6t))",
+  "options": [
+   "823 psi",
+   "412 psi",
+   "417 psi",
+   "422 psi"
+  ],
+  "answer": 1,
+  "explanation": "P = 20000 × 1 × 0.625 ÷ (30 + 0.6 × 0.625) = 412 psi.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Find the MAWP of a cylindrical shell: t = 0.75 in (after corrosion allowance), R = 36 in, S = 17,500 psi, E = 1. (P = SEt ÷ (R + 0.6t))",
+  "options": [
+   "720 psi",
+   "369 psi",
+   "365 psi",
+   "360 psi"
+  ],
+  "answer": 3,
+  "explanation": "P = 17500 × 1 × 0.75 ÷ (36 + 0.6 × 0.75) = 360 psi.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Find the MAWP of a cylindrical shell: t = 0.375 in (after corrosion allowance), R = 36 in, S = 17,500 psi, E = 0.85. (P = SEt ÷ (R + 0.6t))",
+  "options": [
+   "154 psi",
+   "156 psi",
+   "155 psi",
+   "308 psi"
+  ],
+  "answer": 0,
+  "explanation": "P = 17500 × 0.85 × 0.375 ÷ (36 + 0.6 × 0.375) = 154 psi.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Find the MAWP of a cylindrical shell: t = 0.75 in (after corrosion allowance), R = 30 in, S = 17,500 psi, E = 0.85. (P = SEt ÷ (R + 0.6t))",
+  "options": [
+   "366 psi",
+   "372 psi",
+   "378 psi",
+   "733 psi"
+  ],
+  "answer": 0,
+  "explanation": "P = 17500 × 0.85 × 0.75 ÷ (30 + 0.6 × 0.75) = 366 psi.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Find the MAWP of a cylindrical shell: t = 0.625 in (after corrosion allowance), R = 24 in, S = 20,000 psi, E = 1. (P = SEt ÷ (R + 0.6t))",
+  "options": [
+   "529 psi",
+   "521 psi",
+   "1026 psi",
+   "513 psi"
+  ],
+  "answer": 3,
+  "explanation": "P = 20000 × 1 × 0.625 ÷ (24 + 0.6 × 0.625) = 513 psi.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Find the MAWP of a cylindrical shell: t = 0.5 in (after corrosion allowance), R = 30 in, S = 17,500 psi, E = 0.85. (P = SEt ÷ (R + 0.6t))",
+  "options": [
+   "245 psi",
+   "491 psi",
+   "250 psi",
+   "248 psi"
+  ],
+  "answer": 0,
+  "explanation": "P = 17500 × 0.85 × 0.5 ÷ (30 + 0.6 × 0.5) = 245 psi.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME B31.3 pressure design thickness: P = 300 psi, OD = 10.75 in, S = 20,000 psi, E = 1, Y = 0.4. (t = PD ÷ 2(SE + PY))",
+  "options": [
+   "0.08 in",
+   "2.08 in",
+   "1.08 in",
+   "0.16 in"
+  ],
+  "answer": 0,
+  "explanation": "t = 300 × 10.75 ÷ (2 × (20000 + 300 × 0.4)) = 0.08 in (before corrosion allowance and mill tolerance).",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME B31.3 pressure design thickness: P = 500 psi, OD = 8.625 in, S = 16,700 psi, E = 1, Y = 0.4. (t = PD ÷ 2(SE + PY))",
+  "options": [
+   "0.128 in",
+   "0.258 in",
+   "0.256 in",
+   "1.128 in"
+  ],
+  "answer": 0,
+  "explanation": "t = 500 × 8.625 ÷ (2 × (16700 + 500 × 0.4)) = 0.128 in (before corrosion allowance and mill tolerance).",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME B31.3 pressure design thickness: P = 740 psi, OD = 10.75 in, S = 20,000 psi, E = 1, Y = 0.4. (t = PD ÷ 2(SE + PY))",
+  "options": [
+   "0.392 in",
+   "0.398 in",
+   "0.196 in",
+   "1.196 in"
+  ],
+  "answer": 2,
+  "explanation": "t = 740 × 10.75 ÷ (2 × (20000 + 740 × 0.4)) = 0.196 in (before corrosion allowance and mill tolerance).",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME B31.3 pressure design thickness: P = 1000 psi, OD = 8.625 in, S = 16,700 psi, E = 1, Y = 0.4. (t = PD ÷ 2(SE + PY))",
+  "options": [
+   "0.252 in",
+   "0.516 in",
+   "1.252 in",
+   "0.504 in"
+  ],
+  "answer": 0,
+  "explanation": "t = 1000 × 8.625 ÷ (2 × (16700 + 1000 × 0.4)) = 0.252 in (before corrosion allowance and mill tolerance).",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME B31.3 pressure design thickness: P = 500 psi, OD = 8.625 in, S = 20,000 psi, E = 1, Y = 0.4. (t = PD ÷ 2(SE + PY))",
+  "options": [
+   "0.107 in",
+   "1.107 in",
+   "0.216 in",
+   "0.214 in"
+  ],
+  "answer": 0,
+  "explanation": "t = 500 × 8.625 ÷ (2 × (20000 + 500 × 0.4)) = 0.107 in (before corrosion allowance and mill tolerance).",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME B31.3 pressure design thickness: P = 500 psi, OD = 10.75 in, S = 20,000 psi, E = 1, Y = 0.4. (t = PD ÷ 2(SE + PY))",
+  "options": [
+   "0.133 in",
+   "0.269 in",
+   "0.266 in",
+   "1.133 in"
+  ],
+  "answer": 0,
+  "explanation": "t = 500 × 10.75 ÷ (2 × (20000 + 500 × 0.4)) = 0.133 in (before corrosion allowance and mill tolerance).",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME B31.3 pressure design thickness: P = 300 psi, OD = 8.625 in, S = 16,700 psi, E = 1, Y = 0.4. (t = PD ÷ 2(SE + PY))",
+  "options": [
+   "0.077 in",
+   "1.077 in",
+   "0.078 in",
+   "0.155 in"
+  ],
+  "answer": 0,
+  "explanation": "t = 300 × 8.625 ÷ (2 × (16700 + 300 × 0.4)) = 0.077 in (before corrosion allowance and mill tolerance).",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME B31.3 pressure design thickness: P = 500 psi, OD = 10.75 in, S = 16,700 psi, E = 1, Y = 0.4. (t = PD ÷ 2(SE + PY))",
+  "options": [
+   "0.159 in",
+   "0.318 in",
+   "0.322 in",
+   "1.159 in"
+  ],
+  "answer": 0,
+  "explanation": "t = 500 × 10.75 ÷ (2 × (16700 + 500 × 0.4)) = 0.159 in (before corrosion allowance and mill tolerance).",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME VIII Div. 1 hydrotest: MAWP 450 psi, stress ratio 1. What is the minimum test pressure? (1.3 × MAWP × stress ratio)",
+  "options": [
+   "585 psi",
+   "562.5 psi",
+   "495 psi",
+   "675 psi"
+  ],
+  "answer": 0,
+  "explanation": "1.3 × 450 × 1 = 585 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME VIII Div. 1 hydrotest: MAWP 150 psi, stress ratio 1. What is the minimum test pressure? (1.3 × MAWP × stress ratio)",
+  "options": [
+   "187.5 psi",
+   "165 psi",
+   "225 psi",
+   "195 psi"
+  ],
+  "answer": 3,
+  "explanation": "1.3 × 150 × 1 = 195 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME VIII Div. 1 hydrotest: MAWP 250 psi, stress ratio 1. What is the minimum test pressure? (1.3 × MAWP × stress ratio)",
+  "options": [
+   "312.5 psi",
+   "375 psi",
+   "275 psi",
+   "325 psi"
+  ],
+  "answer": 3,
+  "explanation": "1.3 × 250 × 1 = 325 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME VIII Div. 1 hydrotest: MAWP 300 psi, stress ratio 1.15. What is the minimum test pressure? (1.3 × MAWP × stress ratio)",
+  "options": [
+   "330 psi",
+   "390 psi",
+   "448.5 psi",
+   "517.5 psi"
+  ],
+  "answer": 2,
+  "explanation": "1.3 × 300 × 1.15 = 448.5 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME VIII Div. 1 hydrotest: MAWP 250 psi, stress ratio 1.15. What is the minimum test pressure? (1.3 × MAWP × stress ratio)",
+  "options": [
+   "373.7 psi",
+   "275 psi",
+   "325 psi",
+   "431.2 psi"
+  ],
+  "answer": 0,
+  "explanation": "1.3 × 250 × 1.15 = 373.7 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME VIII Div. 1 hydrotest: MAWP 300 psi, stress ratio 1.07. What is the minimum test pressure? (1.3 × MAWP × stress ratio)",
+  "options": [
+   "390 psi",
+   "481.5 psi",
+   "330 psi",
+   "417.3 psi"
+  ],
+  "answer": 3,
+  "explanation": "1.3 × 300 × 1.07 = 417.3 psi.",
+  "difficulty": 2
  }
 ]

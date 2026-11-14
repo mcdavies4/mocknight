@@ -474,5 +474,789 @@
   "answer": 0,
   "explanation": "9.5 + 624 ÷ (0.052 × 12000) = 10.5, rounded up to 10.5 ppg.",
   "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Rigs",
+  "body": "Which rig type stands on legs resting on the seabed in shallow water?",
+  "options": [
+   "Jack-up",
+   "Land rig",
+   "Semi-submersible",
+   "Drillship"
+  ],
+  "answer": 0,
+  "explanation": "Jack-ups are limited by water depth.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Rigs",
+  "body": "Which rig type is best suited to ultra-deep water?",
+  "options": [
+   "Drillship",
+   "Jack-up",
+   "Swamp barge",
+   "Land rig"
+  ],
+  "answer": 0,
+  "explanation": "Drillships and semi-submersibles use dynamic positioning or moorings.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Rigs",
+  "body": "Which rig type is commonly used in the Niger Delta swamps?",
+  "options": [
+   "Drillship",
+   "Swamp barge",
+   "Jack-up",
+   "Tension-leg platform"
+  ],
+  "answer": 1,
+  "explanation": "The barge is sunk onto the swamp bottom.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Drilling",
+  "body": "A PDC bit cuts rock using",
+  "options": [
+   "rolling cones with teeth",
+   "polycrystalline diamond compact cutters that shear the rock",
+   "water jets only",
+   "explosives"
+  ],
+  "answer": 1,
+  "explanation": "Roller-cone (tricone) bits crush and chip rock.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Drilling",
+  "body": "Mud weight is measured with a",
+  "options": [
+   "Hydrometer only",
+   "mud balance",
+   "Marsh funnel",
+   "Pressure gauge"
+  ],
+  "answer": 1,
+  "explanation": "A Marsh funnel gives a quick viscosity reading.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Drilling",
+  "body": "Lost circulation means",
+  "options": [
+   "the mud pumps have failed",
+   "drilling mud is flowing into the formation instead of returning",
+   "the drill string is stuck",
+   "gas is flowing into the well"
+  ],
+  "answer": 1,
+  "explanation": "It can reduce hydrostatic pressure and lead to a kick.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Drilling",
+  "body": "Differential sticking happens when",
+  "options": [
+   "the drill string is pressed against a permeable formation by overbalance",
+   "the mud is too thin to carry cuttings",
+   "the rig loses power",
+   "the bit wears out"
+  ],
+  "answer": 0,
+  "explanation": "Keep the string moving and control overbalance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Drilling",
+  "body": "MWD and LWD tools send measurements",
+  "options": [
+   "only after the well is finished",
+   "from the refinery",
+   "from the shale shaker",
+   "from downhole while drilling"
+  ],
+  "answer": 3,
+  "explanation": "Measurement-while-drilling and logging-while-drilling.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Drilling",
+  "body": "Which mud type is generally best for drilling reactive shales?",
+  "options": [
+   "Seawater only",
+   "Fresh water only",
+   "Air",
+   "Oil-based (or synthetic-based) mud"
+  ],
+  "answer": 3,
+  "explanation": "Water-based muds can make shales swell.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Logging",
+  "body": "A gamma-ray log is mainly used to identify",
+  "options": [
+   "temperature",
+   "mud weight",
+   "oil price",
+   "shale (high radioactivity) versus clean sand"
+  ],
+  "answer": 3,
+  "explanation": "Shales usually read high on gamma ray.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Logging",
+  "body": "High resistivity in a porous zone often indicates",
+  "options": [
+   "a stuck pipe",
+   "more shale",
+   "hydrocarbons rather than salty water",
+   "lost circulation"
+  ],
+  "answer": 2,
+  "explanation": "Salt water conducts electricity well.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Completion",
+  "body": "A packer is used to",
+  "options": [
+   "seal the space between the tubing and casing",
+   "drill faster",
+   "separate oil from water at surface",
+   "measure mud weight"
+  ],
+  "answer": 0,
+  "explanation": "It isolates zones and protects the casing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Completion",
+  "body": "An SSSV (subsurface safety valve) is installed to",
+  "options": [
+   "measure gas flow",
+   "increase production",
+   "inject chemicals",
+   "shut in the well automatically in an emergency"
+  ],
+  "answer": 3,
+  "explanation": "It is a key barrier below the surface.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Interventions",
+  "body": "Which intervention uses a continuous reel of steel pipe?",
+  "options": [
+   "Casing running",
+   "Slickline",
+   "Wireline logging only",
+   "Coiled tubing"
+  ],
+  "answer": 3,
+  "explanation": "Used for cleanouts, stimulation and logging.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Interventions",
+  "body": "A workover is",
+  "options": [
+   "major maintenance or remedial work on an existing well",
+   "a pipeline survey",
+   "a safety drill",
+   "drilling a new exploration well"
+  ],
+  "answer": 0,
+  "explanation": "It may involve pulling the tubing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Production",
+  "body": "Gas hydrates in pipelines are commonly prevented by injecting",
+  "options": [
+   "seawater",
+   "nitrogen only",
+   "methanol or MEG",
+   "crude oil"
+  ],
+  "answer": 2,
+  "explanation": "Hydrates are ice-like solids that block flow.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Production",
+  "body": "Wax deposition in pipelines is mainly caused by",
+  "options": [
+   "high pressure only",
+   "too much gas",
+   "the oil cooling below its wax appearance temperature",
+   "H₂S"
+  ],
+  "answer": 2,
+  "explanation": "Insulation, heating and pigging control wax.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Production",
+  "body": "Which unit removes salt from crude oil before refining or export?",
+  "options": [
+   "Desalter",
+   "Glycol contactor",
+   "Separator",
+   "Flare"
+  ],
+  "answer": 0,
+  "explanation": "Salt causes corrosion and fouling downstream.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Production",
+  "body": "Custody transfer metering is used to",
+  "options": [
+   "measure oil or gas accurately when ownership changes",
+   "count personnel",
+   "test alarms",
+   "measure mud weight"
+  ],
+  "answer": 0,
+  "explanation": "Accuracy matters because it determines payment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Production",
+  "body": "Hydrocyclones on a production platform are used to",
+  "options": [
+   "remove oil from produced water",
+   "drill wells",
+   "compress gas",
+   "store crude"
+  ],
+  "answer": 0,
+  "explanation": "Produced water must meet discharge limits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Pressure",
+  "body": "The pressure gradient of fresh water is about",
+  "options": [
+   "0.052 psi/ft",
+   "0.1 psi/ft",
+   "1 psi/ft",
+   "0.433 psi/ft"
+  ],
+  "answer": 3,
+  "explanation": "Seawater is about 0.445 psi/ft.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the pressure gradient of 9.6 ppg mud? (gradient = 0.052 × MW)",
+  "options": [
+   "184.6 psi/ft",
+   "0.499 psi/ft",
+   "4.157 psi/ft",
+   "0.148 psi/ft"
+  ],
+  "answer": 1,
+  "explanation": "0.052 × 9.6 = 0.499 psi/ft.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the pressure gradient of 11.5 ppg mud? (gradient = 0.052 × MW)",
+  "options": [
+   "0.598 psi/ft",
+   "0.167 psi/ft",
+   "221.2 psi/ft",
+   "4.98 psi/ft"
+  ],
+  "answer": 0,
+  "explanation": "0.052 × 11.5 = 0.598 psi/ft.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the pressure gradient of 10 ppg mud? (gradient = 0.052 × MW)",
+  "options": [
+   "1.52 psi/ft",
+   "0.52 psi/ft",
+   "4.33 psi/ft",
+   "192.3 psi/ft"
+  ],
+  "answer": 1,
+  "explanation": "0.052 × 10 = 0.52 psi/ft.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the pressure gradient of 9 ppg mud? (gradient = 0.052 × MW)",
+  "options": [
+   "0.468 psi/ft",
+   "3.897 psi/ft",
+   "173.1 psi/ft",
+   "0.142 psi/ft"
+  ],
+  "answer": 0,
+  "explanation": "0.052 × 9 = 0.468 psi/ft.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the pressure gradient of 10.8 ppg mud? (gradient = 0.052 × MW)",
+  "options": [
+   "207.7 psi/ft",
+   "4.676 psi/ft",
+   "0.16 psi/ft",
+   "0.562 psi/ft"
+  ],
+  "answer": 3,
+  "explanation": "0.052 × 10.8 = 0.562 psi/ft.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the pressure gradient of 8.6 ppg mud? (gradient = 0.052 × MW)",
+  "options": [
+   "0.138 psi/ft",
+   "0.447 psi/ft",
+   "3.724 psi/ft",
+   "165.4 psi/ft"
+  ],
+  "answer": 1,
+  "explanation": "0.052 × 8.6 = 0.447 psi/ft.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the pressure gradient of 12.5 ppg mud? (gradient = 0.052 × MW)",
+  "options": [
+   "1.65 psi/ft",
+   "0.65 psi/ft",
+   "240.4 psi/ft",
+   "1.3 psi/ft"
+  ],
+  "answer": 1,
+  "explanation": "0.052 × 12.5 = 0.65 psi/ft.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "Formation pressure is 3,900 psi at 6,000 ft TVD. What mud weight would exactly balance it? (MW = P ÷ (0.052 × TVD))",
+  "options": [
+   "13.5 ppg",
+   "11.5 ppg",
+   "0.65 ppg",
+   "12.5 ppg"
+  ],
+  "answer": 3,
+  "explanation": "3900 ÷ (0.052 × 6000) = 12.5 ppg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "Formation pressure is 6,240 psi at 10,000 ft TVD. What mud weight would exactly balance it? (MW = P ÷ (0.052 × TVD))",
+  "options": [
+   "11 ppg",
+   "0.62 ppg",
+   "12 ppg",
+   "13 ppg"
+  ],
+  "answer": 2,
+  "explanation": "6240 ÷ (0.052 × 10000) = 12 ppg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "Formation pressure is 3,900 psi at 10,000 ft TVD. What mud weight would exactly balance it? (MW = P ÷ (0.052 × TVD))",
+  "options": [
+   "0.02 ppg",
+   "8.5 ppg",
+   "7.5 ppg",
+   "0.39 ppg"
+  ],
+  "answer": 2,
+  "explanation": "3900 ÷ (0.052 × 10000) = 7.5 ppg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "Formation pressure is 5,720 psi at 10,000 ft TVD. What mud weight would exactly balance it? (MW = P ÷ (0.052 × TVD))",
+  "options": [
+   "12 ppg",
+   "11 ppg",
+   "0.03 ppg",
+   "0.57 ppg"
+  ],
+  "answer": 1,
+  "explanation": "5720 ÷ (0.052 × 10000) = 11 ppg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "Formation pressure is 6,240 psi at 8,000 ft TVD. What mud weight would exactly balance it? (MW = P ÷ (0.052 × TVD))",
+  "options": [
+   "17 ppg",
+   "16 ppg",
+   "15 ppg",
+   "0.78 ppg"
+  ],
+  "answer": 2,
+  "explanation": "6240 ÷ (0.052 × 8000) = 15 ppg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "Formation pressure is 5,200 psi at 10,000 ft TVD. What mud weight would exactly balance it? (MW = P ÷ (0.052 × TVD))",
+  "options": [
+   "11 ppg",
+   "0.52 ppg",
+   "9 ppg",
+   "10 ppg"
+  ],
+  "answer": 3,
+  "explanation": "5200 ÷ (0.052 × 10000) = 10 ppg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "Formation pressure is 5,720 psi at 8,000 ft TVD. What mud weight would exactly balance it? (MW = P ÷ (0.052 × TVD))",
+  "options": [
+   "13.8 ppg",
+   "12.8 ppg",
+   "0.72 ppg",
+   "14.8 ppg"
+  ],
+  "answer": 0,
+  "explanation": "5720 ÷ (0.052 × 8000) = 13.8 ppg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "Formation pressure is 5,720 psi at 6,000 ft TVD. What mud weight would exactly balance it? (MW = P ÷ (0.052 × TVD))",
+  "options": [
+   "18.3 ppg",
+   "0.95 ppg",
+   "19.3 ppg",
+   "0.05 ppg"
+  ],
+  "answer": 0,
+  "explanation": "5720 ÷ (0.052 × 6000) = 18.3 ppg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "After a kick, SIDPP is 200 psi. Mud weight is 9.5 ppg and TVD is 10,000 ft. What is the formation pressure? (FP = SIDPP + 0.052 × MW × TVD)",
+  "options": [
+   "4940 psi",
+   "5140 psi",
+   "4740 psi",
+   "95,200 psi"
+  ],
+  "answer": 1,
+  "explanation": "Hydrostatic = 0.052 × 9.5 × 10000 = 4940 psi; FP = 4940 + 200 = 5140 psi.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "After a kick, SIDPP is 400 psi. Mud weight is 10 ppg and TVD is 9,000 ft. What is the formation pressure? (FP = SIDPP + 0.052 × MW × TVD)",
+  "options": [
+   "4680 psi",
+   "4280 psi",
+   "90,400 psi",
+   "5080 psi"
+  ],
+  "answer": 3,
+  "explanation": "Hydrostatic = 0.052 × 10 × 9000 = 4680 psi; FP = 4680 + 400 = 5080 psi.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "After a kick, SIDPP is 400 psi. Mud weight is 10.5 ppg and TVD is 10,000 ft. What is the formation pressure? (FP = SIDPP + 0.052 × MW × TVD)",
+  "options": [
+   "105,400 psi",
+   "5460 psi",
+   "5860 psi",
+   "5060 psi"
+  ],
+  "answer": 2,
+  "explanation": "Hydrostatic = 0.052 × 10.5 × 10000 = 5460 psi; FP = 5460 + 400 = 5860 psi.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "After a kick, SIDPP is 400 psi. Mud weight is 10 ppg and TVD is 10,000 ft. What is the formation pressure? (FP = SIDPP + 0.052 × MW × TVD)",
+  "options": [
+   "4800 psi",
+   "5200 psi",
+   "5600 psi",
+   "100,400 psi"
+  ],
+  "answer": 2,
+  "explanation": "Hydrostatic = 0.052 × 10 × 10000 = 5200 psi; FP = 5200 + 400 = 5600 psi.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "After a kick, SIDPP is 200 psi. Mud weight is 9.5 ppg and TVD is 8,000 ft. What is the formation pressure? (FP = SIDPP + 0.052 × MW × TVD)",
+  "options": [
+   "3952 psi",
+   "3752 psi",
+   "76,200 psi",
+   "4152 psi"
+  ],
+  "answer": 3,
+  "explanation": "Hydrostatic = 0.052 × 9.5 × 8000 = 3952 psi; FP = 3952 + 200 = 4152 psi.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "After a kick, SIDPP is 350 psi. Mud weight is 9.5 ppg and TVD is 9,000 ft. What is the formation pressure? (FP = SIDPP + 0.052 × MW × TVD)",
+  "options": [
+   "4096 psi",
+   "4446 psi",
+   "85,850 psi",
+   "4796 psi"
+  ],
+  "answer": 3,
+  "explanation": "Hydrostatic = 0.052 × 9.5 × 9000 = 4446 psi; FP = 4446 + 350 = 4796 psi.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "After a kick, SIDPP is 400 psi. Mud weight is 9.5 ppg and TVD is 8,000 ft. What is the formation pressure? (FP = SIDPP + 0.052 × MW × TVD)",
+  "options": [
+   "3952 psi",
+   "4352 psi",
+   "76,400 psi",
+   "3552 psi"
+  ],
+  "answer": 1,
+  "explanation": "Hydrostatic = 0.052 × 9.5 × 8000 = 3952 psi; FP = 3952 + 400 = 4352 psi.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "After a kick, SIDPP is 200 psi. Mud weight is 10.5 ppg and TVD is 9,000 ft. What is the formation pressure? (FP = SIDPP + 0.052 × MW × TVD)",
+  "options": [
+   "94,700 psi",
+   "4914 psi",
+   "5114 psi",
+   "4714 psi"
+  ],
+  "answer": 2,
+  "explanation": "Hydrostatic = 0.052 × 10.5 × 9000 = 4914 psi; FP = 4914 + 200 = 5114 psi.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the capacity of a pipe with an inside diameter of 8.535 in? (bbl/ft = ID² ÷ 1029.4)",
+  "options": [
+   "0.0083 bbl/ft",
+   "0.0166 bbl/ft",
+   "0.232 bbl/ft",
+   "0.0708 bbl/ft"
+  ],
+  "answer": 3,
+  "explanation": "8.535² ÷ 1029.4 = 0.0708 bbl/ft.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the capacity of a pipe with an inside diameter of 5 in? (bbl/ft = ID² ÷ 1029.4)",
+  "options": [
+   "0.0796 bbl/ft",
+   "0.0243 bbl/ft",
+   "0.0049 bbl/ft",
+   "0.0097 bbl/ft"
+  ],
+  "answer": 1,
+  "explanation": "5² ÷ 1029.4 = 0.0243 bbl/ft.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the capacity of a pipe with an inside diameter of 4.276 in? (bbl/ft = ID² ÷ 1029.4)",
+  "options": [
+   "0.0582 bbl/ft",
+   "0.0083 bbl/ft",
+   "0.0042 bbl/ft",
+   "0.0178 bbl/ft"
+  ],
+  "answer": 3,
+  "explanation": "4.276² ÷ 1029.4 = 0.0178 bbl/ft.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the capacity of a pipe with an inside diameter of 4 in? (bbl/ft = ID² ÷ 1029.4)",
+  "options": [
+   "0.0039 bbl/ft",
+   "0.0155 bbl/ft",
+   "0.0078 bbl/ft",
+   "0.051 bbl/ft"
+  ],
+  "answer": 1,
+  "explanation": "4² ÷ 1029.4 = 0.0155 bbl/ft.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the capacity of a pipe with an inside diameter of 6.184 in? (bbl/ft = ID² ÷ 1029.4)",
+  "options": [
+   "0.012 bbl/ft",
+   "0.0371 bbl/ft",
+   "0.1218 bbl/ft",
+   "0.006 bbl/ft"
+  ],
+  "answer": 1,
+  "explanation": "6.184² ÷ 1029.4 = 0.0371 bbl/ft.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the capacity of a pipe with an inside diameter of 3 in? (bbl/ft = ID² ÷ 1029.4)",
+  "options": [
+   "0.0029 bbl/ft",
+   "0.0058 bbl/ft",
+   "0.0087 bbl/ft",
+   "0.0287 bbl/ft"
+  ],
+  "answer": 2,
+  "explanation": "3² ÷ 1029.4 = 0.0087 bbl/ft.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "The drill string holds 150 bbl and the pump output is 0.15 bbl/stroke. How many strokes to pump from surface to bit?",
+  "options": [
+   "1000 strokes",
+   "23 strokes",
+   "500 strokes",
+   "1100 strokes"
+  ],
+  "answer": 0,
+  "explanation": "150 ÷ 0.15 = 1000 strokes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "The drill string holds 120 bbl and the pump output is 0.12 bbl/stroke. How many strokes to pump from surface to bit?",
+  "options": [
+   "500 strokes",
+   "14 strokes",
+   "1100 strokes",
+   "1000 strokes"
+  ],
+  "answer": 3,
+  "explanation": "120 ÷ 0.12 = 1000 strokes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "The drill string holds 120 bbl and the pump output is 0.1 bbl/stroke. How many strokes to pump from surface to bit?",
+  "options": [
+   "1200 strokes",
+   "12 strokes",
+   "1300 strokes",
+   "600 strokes"
+  ],
+  "answer": 0,
+  "explanation": "120 ÷ 0.1 = 1200 strokes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "The drill string holds 100 bbl and the pump output is 0.2 bbl/stroke. How many strokes to pump from surface to bit?",
+  "options": [
+   "20 strokes",
+   "250 strokes",
+   "600 strokes",
+   "500 strokes"
+  ],
+  "answer": 3,
+  "explanation": "100 ÷ 0.2 = 500 strokes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "The drill string holds 150 bbl and the pump output is 0.12 bbl/stroke. How many strokes to pump from surface to bit?",
+  "options": [
+   "1350 strokes",
+   "1250 strokes",
+   "625 strokes",
+   "18 strokes"
+  ],
+  "answer": 1,
+  "explanation": "150 ÷ 0.12 = 1250 strokes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "The drill string holds 60 bbl and the pump output is 0.15 bbl/stroke. How many strokes to pump from surface to bit?",
+  "options": [
+   "9 strokes",
+   "200 strokes",
+   "500 strokes",
+   "400 strokes"
+  ],
+  "answer": 3,
+  "explanation": "60 ÷ 0.15 = 400 strokes.",
+  "difficulty": 2
  }
 ]

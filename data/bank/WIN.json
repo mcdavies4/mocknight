@@ -656,5 +656,313 @@
   "answer": 3,
   "explanation": "CE = 0.12 + 0.9/6 + 0.2/5 + 0.3/15 = 0.33. A higher CE means a greater need for preheat.",
   "difficulty": 3
+ },
+ {
+  "subject": "WIN",
+  "topic": "Positions",
+  "body": "Under ISO 6947, position PA is",
+  "options": [
+   "overhead",
+   "horizontal-vertical",
+   "flat",
+   "vertical up"
+  ],
+  "answer": 2,
+  "explanation": "PF is vertical up; PE is overhead; PB is horizontal-vertical fillet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Positions",
+  "body": "Under ISO 6947, PF is",
+  "options": [
+   "overhead",
+   "flat",
+   "vertical up",
+   "vertical down"
+  ],
+  "answer": 2,
+  "explanation": "PG is vertical down.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Positions",
+  "body": "In AWS terms, a 6G test position is",
+  "options": [
+   "pipe fixed at 45° to horizontal",
+   "plate overhead",
+   "pipe rotated horizontally",
+   "plate flat"
+  ],
+  "answer": 0,
+  "explanation": "6G generally qualifies a welder for all positions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Positions",
+  "body": "In AWS terms, 4G is",
+  "options": [
+   "a pipe at 45°",
+   "flat plate",
+   "a groove weld on plate in the overhead position",
+   "vertical plate"
+  ],
+  "answer": 2,
+  "explanation": "1G flat, 2G horizontal, 3G vertical, 4G overhead.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Preparation",
+  "body": "For a single-V butt preparation, the included angle equals",
+  "options": [
+   "the bevel angle",
+   "twice the bevel angle",
+   "half the bevel angle",
+   "the root face"
+  ],
+  "answer": 1,
+  "explanation": "A 30° bevel each side gives a 60° included angle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Preparation",
+  "body": "The root gap in a butt weld preparation is",
+  "options": [
+   "the bevel angle",
+   "the space between the parts at the root",
+   "the height of the cap",
+   "the plate thickness"
+  ],
+  "answer": 1,
+  "explanation": "It helps achieve full penetration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Consumables",
+  "body": "Which MMA electrode type gives deep penetration and is used for vertical-down pipeline 'stovepipe' welding?",
+  "options": [
+   "Basic (low hydrogen)",
+   "Rutile",
+   "Iron powder",
+   "Cellulosic"
+  ],
+  "answer": 3,
+  "explanation": "Cellulosic electrodes produce high hydrogen.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Consumables",
+  "body": "Which MMA electrode type is easiest to use and gives a smooth finish for general work?",
+  "options": [
+   "Cellulosic",
+   "Basic",
+   "Tungsten",
+   "Rutile"
+  ],
+  "answer": 3,
+  "explanation": "Basic electrodes are used where low hydrogen is needed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Consumables",
+  "body": "A weld metal hydrogen scale of H5 means",
+  "options": [
+   "5 passes maximum",
+   "5% hydrogen in the shielding gas",
+   "no more than 5 ml of diffusible hydrogen per 100 g of weld metal",
+   "5 mm penetration"
+  ],
+  "answer": 2,
+  "explanation": "Lower H numbers mean lower cracking risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Processes",
+  "body": "For TIG welding of carbon and stainless steels, the usual polarity is",
+  "options": [
+   "No current",
+   "DC electrode positive",
+   "DC electrode negative",
+   "AC only"
+  ],
+  "answer": 2,
+  "explanation": "AC is used for aluminium to break up the oxide.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Processes",
+  "body": "Back purging with argon when TIG welding stainless steel pipe prevents",
+  "options": [
+   "hydrogen cracking",
+   "oxidation of the root (sugaring)",
+   "porosity in the cap only",
+   "arc blow"
+  ],
+  "answer": 1,
+  "explanation": "The inside of the pipe is filled with inert gas.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Metallurgy",
+  "body": "Sensitisation of austenitic stainless steel causes",
+  "options": [
+   "hydrogen cracking",
+   "chromium carbides at grain boundaries and intergranular corrosion",
+   "porosity",
+   "lamellar tearing"
+  ],
+  "answer": 1,
+  "explanation": "Low-carbon 'L' grades reduce the risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Metallurgy",
+  "body": "For sour service, NACE MR0175 / ISO 15156 commonly limits carbon steel hardness to",
+  "options": [
+   "22 HRC (about 248 HV)",
+   "40 HRC",
+   "10 HRC",
+   "60 HRC"
+  ],
+  "answer": 0,
+  "explanation": "Hard zones are prone to sulphide stress cracking.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Metallurgy",
+  "body": "Underbead cracks in the HAZ are a form of",
+  "options": [
+   "lamellar tearing",
+   "hydrogen cracking",
+   "porosity",
+   "solidification cracking"
+  ],
+  "answer": 1,
+  "explanation": "They may be delayed and appear after welding.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Control",
+  "body": "Controlling the maximum interpass temperature helps",
+  "options": [
+   "reduce the need for a WPS",
+   "increase spatter",
+   "remove slag automatically",
+   "protect toughness and properties of the weld and HAZ"
+  ],
+  "answer": 3,
+  "explanation": "Minimum interpass temperature is often the same as preheat.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Control",
+  "body": "Back-step welding and balanced welding sequences are used to",
+  "options": [
+   "reduce distortion",
+   "increase porosity",
+   "save shielding gas",
+   "test the welder"
+  ],
+  "answer": 0,
+  "explanation": "Presetting parts also counteracts distortion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Control",
+  "body": "Why should arc strikes outside the weld be avoided?",
+  "options": [
+   "They are required by codes",
+   "They look untidy only",
+   "They create hard spots and can crack",
+   "They improve strength"
+  ],
+  "answer": 2,
+  "explanation": "Arc strikes should be ground out and checked.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Testing",
+  "body": "A nick-break test is used to",
+  "options": [
+   "check coating thickness",
+   "test the electrode oven",
+   "examine the fracture surface of a weld for defects",
+   "measure hardness"
+  ],
+  "answer": 2,
+  "explanation": "Common in pipeline welder qualification (API 1104).",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Testing",
+  "body": "Which hardness test uses a diamond pyramid indenter?",
+  "options": [
+   "Charpy",
+   "Bend",
+   "Vickers",
+   "Brinell"
+  ],
+  "answer": 2,
+  "explanation": "Brinell uses a hard ball.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Properties",
+  "body": "Toughness is a material's ability to",
+  "options": [
+   "conduct heat",
+   "resist scratching",
+   "absorb energy and resist fracture, especially under impact",
+   "be drawn into wire"
+  ],
+  "answer": 2,
+  "explanation": "Ductility is the ability to deform without breaking.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Standards",
+  "body": "BS EN ISO 15614 covers",
+  "options": [
+   "radiography",
+   "welding procedure qualification",
+   "coating inspection",
+   "welder qualification"
+  ],
+  "answer": 1,
+  "explanation": "ISO 9606 covers welder qualification.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Inspection",
+  "body": "A Cambridge (multi-purpose) gauge is used to measure",
+  "options": [
+   "weld dimensions such as reinforcement, throat and undercut depth",
+   "radiation dose",
+   "coating adhesion",
+   "film density"
+  ],
+  "answer": 0,
+  "explanation": "A hi-lo gauge measures misalignment.",
+  "difficulty": 2
  }
 ]
