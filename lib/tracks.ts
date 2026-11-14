@@ -2,7 +2,7 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
 export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
@@ -313,6 +313,18 @@ export const TRACKS: Record<TrackCode, Track> = {
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["nmc_pass"], tagline: "Part A numeracy and Part B clinical practice tests for the NMC CBT", timeZone: "Europe/London",
     audience: "an internationally educated nurse preparing for the UK NMC CBT (Test of Competence Part 1)",
+  },
+  NCLEX: {
+    code: "NCLEX", name: "NCLEX-RN (US nursing licence)", short: "NCLEX-RN", emoji: "🏥", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["NCX"], compulsory: ["NCX"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 85, minutes: 150, passPct: 65, scoreStyle: "passfail", maxSubjects: 1 },
+    mockVariants: [
+      { key: "FULL", label: "NCLEX-RN practice — 85 questions", short: "Full 85", subjects: ["NCX"], total: 85, minutes: 150, passPct: 65, note: "85 questions · 2 h 30 min · practice target 65%" },
+      { key: "Q30", label: "Quick 30", short: "Quick 30", subjects: ["NCX"], total: 30, minutes: 45, passPct: 65, note: "30 questions · 45 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["nclex_pass"], tagline: "NCLEX-RN practice: prioritisation, delegation, pharmacology and dosage calculations", timeZone: "UTC", timeLabel: "UTC",
+    audience: "an internationally educated nurse (often from Nigeria, Ghana, the Philippines or India) preparing for the US NCLEX-RN, using US units and US nursing practice",
   },
   PM: {
     code: "PM", name: "Project Management (PRINCE2, Scrum, CAPM)", short: "Project Management", emoji: "📋", kind: "professional", region: "GLOBAL", currency: "GBP",

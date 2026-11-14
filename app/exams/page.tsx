@@ -24,6 +24,7 @@ const PATHS: Record<TrackCode, string> = {
   CAREW: "/app?track=CAREW",
   HSE: "/app?track=HSE",
   NMC: "/nmc-cbt",
+  NCLEX: "/nclex",
   PM: "/project-management",
   ETH: "/ethiopia",
   SSC: "/ssc",
@@ -33,11 +34,11 @@ const PATHS: Record<TrackCode, string> = {
   AWS: "/app?track=AWS",
   AZF: "/app?track=AZF",
   PYT: "/app?track=PYT",
-  SEC: "/app?track=PYT",
-  DAT: "/app?track=PYT",
-  AIA: "/app?track=PYT",
-  CON: "/app?track=PYT",
-  BKP: "/app?track=PYT",
+  SEC: "/app?track=SEC",
+  DAT: "/app?track=DAT",
+  AIA: "/app?track=AIA",
+  CON: "/app?track=CON",
+  BKP: "/app?track=BKP",
 };
 
 const GROUPS: { title: string; description: string; codes: TrackCode[] }[] = [
@@ -49,12 +50,12 @@ const GROUPS: { title: string; description: string; codes: TrackCode[] }[] = [
   {
     title: "Professional & career exams",
     description: "Practise for professional qualifications and career progression tests.",
-    codes: ["PM", "NMC", "SSC", "DRIVE", "FSE", "FSM", "CITB", "SIA"],
+    codes: ["PM", "NMC", "NCLEX", "SSC", "DRIVE", "FSE", "FSM", "CITB", "SIA", "CON", "BKP"],
   },
   {
     title: "Technology & digital skills",
     description: "Build practical IT, networking, cloud computing and programming knowledge.",
-    codes: ["ITF", "CCST", "AWS", "AZF", "PYT"],
+    codes: ["ITF", "CCST", "AWS", "AZF", "PYT", "SEC", "DAT", "AIA"],
   },
   {
     title: "Citizenship & workplace training",

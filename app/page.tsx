@@ -38,6 +38,11 @@ export default function Home() {
           <Link className="btn block" href="/nmc-cbt">Start practising</Link>
         </div>
         <div className="card">
+          <h2 style={{ marginTop: 0 }}>🏥 NCLEX-RN</h2>
+          <p>Prioritisation, delegation, pharmacology and dosage calculation practice for nurses heading to the US.</p>
+          <Link className="btn block" href="/nclex">Start practising</Link>
+        </div>
+        <div className="card">
           <h2 style={{ marginTop: 0 }}>🇪🇹 Ethiopia Grade 12</h2>
           <p>Practice for the national exam: English, Maths, Aptitude and your stream subjects, with timed online-style tests.</p>
           <Link className="btn block" href="/ethiopia">Start practising</Link>

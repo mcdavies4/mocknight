@@ -1,0 +1,2270 @@
+[
+ {
+  "subject": "NCX",
+  "topic": "Management of Care",
+  "body": "The nurse receives report on four clients. Which client should the nurse see FIRST?",
+  "options": [
+   "A client awaiting discharge teaching",
+   "A client 2 days post-appendectomy asking for pain medication",
+   "A client with asthma who has new audible wheezing and an oxygen saturation of 88%",
+   "A client with diabetes whose breakfast tray has arrived"
+  ],
+  "answer": 2,
+  "explanation": "Airway and breathing problems come first (ABCs).",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Management of Care",
+  "body": "Which task can the RN safely delegate to unlicensed assistive personnel (UAP)?",
+  "options": [
+   "Evaluating a client's response to pain medication",
+   "Teaching a client to self-inject insulin",
+   "Measuring vital signs on a stable client",
+   "Assessing a new admission"
+  ],
+  "answer": 2,
+  "explanation": "Assessment, teaching and evaluation stay with the RN; routine tasks on stable clients can be delegated.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Management of Care",
+  "body": "Which client is most appropriate to assign to an LPN/LVN?",
+  "options": [
+   "A client receiving a first blood transfusion",
+   "A client with stable type 2 diabetes who needs scheduled oral medications",
+   "A client 1 hour after cardiac catheterisation with unstable vital signs",
+   "A client newly admitted with chest pain"
+  ],
+  "answer": 1,
+  "explanation": "LPNs care for stable clients with predictable outcomes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Management of Care",
+  "body": "A client refuses a prescribed medication. What should the nurse do FIRST?",
+  "options": [
+   "Hide the medication in food",
+   "Explore the client's reasons for refusing",
+   "Document refusal and leave",
+   "Give the medication anyway"
+  ],
+  "answer": 1,
+  "explanation": "Respect autonomy and find out why; then inform the provider and document.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Management of Care",
+  "body": "Who is responsible for obtaining informed consent for surgery?",
+  "options": [
+   "The surgeon (provider performing the procedure)",
+   "The client's family",
+   "The anaesthetist only",
+   "The nurse"
+  ],
+  "answer": 0,
+  "explanation": "The nurse may witness the signature and confirm understanding.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Management of Care",
+  "body": "Before surgery, a client says, 'I don't really understand what they're going to do.' What is the nurse's best action?",
+  "options": [
+   "Notify the surgeon before the consent form is signed",
+   "Explain the surgery in detail and have the client sign",
+   "Ask the family to sign instead",
+   "Proceed because the form is already signed"
+  ],
+  "answer": 0,
+  "explanation": "Consent must be informed; the provider must explain the procedure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Management of Care",
+  "body": "During a disaster triage, which client is tagged red (immediate)?",
+  "options": [
+   "A client who is not breathing after the airway is opened",
+   "A client with a sprained ankle",
+   "A client with a minor laceration",
+   "A client with a tension pneumothorax"
+  ],
+  "answer": 3,
+  "explanation": "Red = life-threatening but survivable with immediate care; black = expectant/deceased.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Management of Care",
+  "body": "A nurse sees a colleague take a client's opioid for personal use. What should the nurse do?",
+  "options": [
+   "Ignore it to avoid conflict",
+   "Report it to the nurse manager according to policy",
+   "Confront the colleague in front of clients",
+   "Post about it on social media"
+  ],
+  "answer": 1,
+  "explanation": "Impaired practice must be reported to protect clients.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Management of Care",
+  "body": "Which action protects client confidentiality?",
+  "options": [
+   "Sharing passwords with trusted colleagues",
+   "Giving results to a caller claiming to be family",
+   "Logging out of the electronic record when leaving the workstation",
+   "Discussing the client in the lift"
+  ],
+  "answer": 2,
+  "explanation": "HIPAA requires protecting health information.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Management of Care",
+  "body": "The nurse makes a medication error. What should the nurse do FIRST?",
+  "options": [
+   "Inform the client's family",
+   "Complete an incident report",
+   "Call the pharmacy",
+   "Assess the client"
+  ],
+  "answer": 3,
+  "explanation": "Client safety comes first; then notify the provider and document per policy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Management of Care",
+  "body": "An incident (occurrence) report should be",
+  "options": [
+   "placed in the client's chart",
+   "completed but not mentioned in the client's medical record",
+   "given to the client",
+   "completed only if the client is harmed"
+  ],
+  "answer": 1,
+  "explanation": "It is a quality-improvement document.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Management of Care",
+  "body": "A client with an advance directive stating 'no resuscitation' goes into cardiac arrest. What should the nurse do?",
+  "options": [
+   "Call a rapid response anyway",
+   "Start CPR until the family arrives",
+   "Follow the valid DNR order and not start CPR",
+   "Give epinephrine only"
+  ],
+  "answer": 2,
+  "explanation": "A valid DNR/advance directive must be honoured.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Safety and Infection Control",
+  "body": "Which precautions are required for a client with pulmonary tuberculosis?",
+  "options": [
+   "Standard precautions only",
+   "Contact precautions only",
+   "Droplet precautions with a surgical mask",
+   "Airborne precautions with an N95 respirator and a negative-pressure room"
+  ],
+  "answer": 3,
+  "explanation": "TB, measles and varicella need airborne precautions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Safety and Infection Control",
+  "body": "Which precautions are required for a client with influenza?",
+  "options": [
+   "Protective (neutropenic) precautions",
+   "Droplet precautions",
+   "Contact precautions only",
+   "Airborne precautions"
+  ],
+  "answer": 1,
+  "explanation": "Droplet: influenza, pertussis, meningococcal infection; wear a surgical mask within about 3–6 feet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Safety and Infection Control",
+  "body": "Which precautions are required for a client with Clostridioides difficile?",
+  "options": [
+   "Alcohol hand rub only",
+   "Airborne precautions",
+   "Contact precautions and handwashing with soap and water",
+   "Droplet precautions"
+  ],
+  "answer": 2,
+  "explanation": "Alcohol does not kill C. diff spores.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Safety and Infection Control",
+  "body": "What is the correct order for removing PPE?",
+  "options": [
+   "Gloves, goggles/face shield, gown, mask/respirator",
+   "Goggles, mask, gloves, gown",
+   "Gown, gloves, mask, goggles",
+   "Mask, gown, gloves, goggles"
+  ],
+  "answer": 0,
+  "explanation": "Remove the most contaminated items first; remove the mask last, outside the room.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Safety and Infection Control",
+  "body": "A client is at risk of falling. Which intervention is most appropriate?",
+  "options": [
+   "Raise all four side rails",
+   "Keep the bed in the lowest position with the call light within reach",
+   "Keep the room dark at night",
+   "Apply wrist restraints"
+  ],
+  "answer": 1,
+  "explanation": "Four side rails count as a restraint and can increase injury.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Safety and Infection Control",
+  "body": "How often must a client in restraints be assessed (circulation, skin, needs)?",
+  "options": [
+   "At least every 2 hours (per policy, often more frequently)",
+   "Only when the client asks",
+   "Every 8 hours",
+   "Once a shift"
+  ],
+  "answer": 0,
+  "explanation": "Restraints need a provider order and frequent monitoring.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Safety and Infection Control",
+  "body": "A fire starts in a client's room. What should the nurse do FIRST?",
+  "options": [
+   "Rescue the client",
+   "Pull the alarm",
+   "Close all doors",
+   "Use the extinguisher"
+  ],
+  "answer": 0,
+  "explanation": "RACE: Rescue, Alarm, Contain, Extinguish.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Safety and Infection Control",
+  "body": "How should a fire extinguisher be used?",
+  "options": [
+   "Aim at the top of the flames",
+   "Shake it, then spray upwards",
+   "Spray in short bursts at the smoke",
+   "PASS: pull the pin, aim at the base, squeeze, sweep"
+  ],
+  "answer": 3,
+  "explanation": "Aim at the base of the fire.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Safety and Infection Control",
+  "body": "A client with neutropenia should be placed on",
+  "options": [
+   "airborne precautions",
+   "protective (neutropenic) precautions",
+   "seizure precautions",
+   "contact precautions"
+  ],
+  "answer": 1,
+  "explanation": "Avoid fresh flowers, raw foods and sick visitors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Safety and Infection Control",
+  "body": "Which is the most effective way to prevent the spread of infection?",
+  "options": [
+   "Single rooms for everyone",
+   "Antibiotics for every client",
+   "Wearing gloves at all times",
+   "Hand hygiene"
+  ],
+  "answer": 3,
+  "explanation": "Clean hands before and after every client contact.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Safety and Infection Control",
+  "body": "How should a nurse dispose of a used needle?",
+  "options": [
+   "Bend it before disposal",
+   "Place it uncapped into a sharps container immediately",
+   "Put it in the general waste",
+   "Recap it with two hands"
+  ],
+  "answer": 1,
+  "explanation": "Never recap used needles with two hands.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Health Promotion and Maintenance",
+  "body": "At what age should an infant double their birth weight?",
+  "options": [
+   "2 months",
+   "About 5–6 months",
+   "12 months",
+   "18 months"
+  ],
+  "answer": 1,
+  "explanation": "Birth weight roughly triples by 12 months.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Health Promotion and Maintenance",
+  "body": "A 9-month-old should be able to",
+  "options": [
+   "walk alone",
+   "sit without support",
+   "speak in sentences",
+   "ride a tricycle"
+  ],
+  "answer": 1,
+  "explanation": "Walking usually begins around 12 months.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Health Promotion and Maintenance",
+  "body": "When does the posterior fontanelle usually close?",
+  "options": [
+   "At birth",
+   "By 12–18 months",
+   "At 3 years",
+   "By 2–3 months"
+  ],
+  "answer": 3,
+  "explanation": "The anterior fontanelle closes by 12–18 months.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Health Promotion and Maintenance",
+  "body": "What is the normal fetal heart rate?",
+  "options": [
+   "110–160 beats per minute",
+   "160–200 beats per minute",
+   "80–120 beats per minute",
+   "60–100 beats per minute"
+  ],
+  "answer": 0,
+  "explanation": "Sustained rates outside this range need evaluation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Health Promotion and Maintenance",
+  "body": "Late decelerations on a fetal monitor indicate",
+  "options": [
+   "a normal pattern",
+   "cord compression only",
+   "head compression",
+   "uteroplacental insufficiency"
+  ],
+  "answer": 3,
+  "explanation": "VEAL CHOP: variable–cord, early–head, accelerations–OK, late–placental insufficiency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Health Promotion and Maintenance",
+  "body": "For late decelerations, what should the nurse do FIRST?",
+  "options": [
+   "Increase the oxytocin infusion",
+   "Encourage pushing",
+   "Turn the client onto her left side",
+   "Document and continue to monitor"
+  ],
+  "answer": 2,
+  "explanation": "Then stop oxytocin, give oxygen, increase IV fluids and notify the provider.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Health Promotion and Maintenance",
+  "body": "Which finding in a postpartum client requires immediate action?",
+  "options": [
+   "Lochia rubra on day 1",
+   "A boggy uterus with heavy bleeding",
+   "Mild afterpains while breastfeeding",
+   "A firm fundus at the umbilicus on day 1"
+  ],
+  "answer": 1,
+  "explanation": "Massage the fundus — uterine atony is the leading cause of postpartum haemorrhage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Health Promotion and Maintenance",
+  "body": "Folic acid before and during early pregnancy reduces the risk of",
+  "options": [
+   "pre-eclampsia",
+   "neural tube defects",
+   "gestational diabetes",
+   "Down syndrome"
+  ],
+  "answer": 1,
+  "explanation": "Usually 400 micrograms a day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Health Promotion and Maintenance",
+  "body": "Which vaccine should NOT be given during pregnancy?",
+  "options": [
+   "Tdap",
+   "MMR (live vaccine)",
+   "COVID-19 (mRNA)",
+   "Inactivated influenza"
+  ],
+  "answer": 1,
+  "explanation": "Live vaccines are avoided in pregnancy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Health Promotion and Maintenance",
+  "body": "A client is taught breast self-awareness. Which change should be reported?",
+  "options": [
+   "Symmetrical breasts",
+   "Tenderness before a period",
+   "No change since last month",
+   "A new lump, dimpling or nipple discharge"
+  ],
+  "answer": 3,
+  "explanation": "New changes need evaluation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Psychosocial Integrity",
+  "body": "A client says, 'I feel like a failure.' Which response is most therapeutic?",
+  "options": [
+   "'Everyone feels like that sometimes.'",
+   "'Tell me more about feeling like a failure.'",
+   "'You shouldn't feel that way.'",
+   "'Why do you feel like that?'"
+  ],
+  "answer": 1,
+  "explanation": "Open-ended exploring; avoid 'why' questions and false reassurance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Psychosocial Integrity",
+  "body": "A client with depression suddenly seems calm and gives away belongings. What should the nurse suspect?",
+  "options": [
+   "Recovery from depression",
+   "Increased suicide risk",
+   "Medication side effects",
+   "Mania"
+  ],
+  "answer": 1,
+  "explanation": "Ask directly about suicidal thoughts and maintain safety.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Psychosocial Integrity",
+  "body": "Which is the most appropriate first question when assessing suicide risk?",
+  "options": [
+   "'Why are you so sad?'",
+   "'Shall I call your family?'",
+   "'Are you thinking about killing yourself?'",
+   "'You're not thinking of doing anything silly, are you?'"
+  ],
+  "answer": 2,
+  "explanation": "Ask directly and clearly; it does not increase risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Psychosocial Integrity",
+  "body": "A client is having a panic attack. What is the nurse's priority?",
+  "options": [
+   "Teach relaxation techniques in detail",
+   "Leave the client alone to calm down",
+   "Stay with the client and speak calmly in short sentences",
+   "Explore the cause of the anxiety"
+  ],
+  "answer": 2,
+  "explanation": "Severe anxiety limits learning; ensure safety first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Psychosocial Integrity",
+  "body": "A client in alcohol withdrawal is at greatest risk of which complication about 48–72 hours after the last drink?",
+  "options": [
+   "Delirium tremens and seizures",
+   "Wernicke's encephalopathy only",
+   "Hypoglycaemia only",
+   "Hypertension only"
+  ],
+  "answer": 0,
+  "explanation": "Monitor closely; benzodiazepines are commonly used.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Psychosocial Integrity",
+  "body": "Which response best addresses a client with schizophrenia who reports hearing voices?",
+  "options": [
+   "'What do the voices look like?'",
+   "Ignore the comment",
+   "'I don't hear the voices, but I understand they're real to you. What are they saying?'",
+   "'The voices aren't real.'"
+  ],
+  "answer": 2,
+  "explanation": "Acknowledge feelings, present reality and assess for command hallucinations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Psychosocial Integrity",
+  "body": "A client with anorexia nervosa — which finding is the greatest immediate concern?",
+  "options": [
+   "Amenorrhoea",
+   "Preoccupation with food",
+   "Lanugo hair growth",
+   "A potassium level of 2.8 mEq/L"
+  ],
+  "answer": 3,
+  "explanation": "Hypokalaemia can cause fatal arrhythmias.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Psychosocial Integrity",
+  "body": "Which of the following is a sign of elder abuse that the nurse must report?",
+  "options": [
+   "Unexplained bruises in different stages of healing",
+   "Mild forgetfulness",
+   "Preference for routine",
+   "Wrinkled skin"
+  ],
+  "answer": 0,
+  "explanation": "Nurses are mandatory reporters.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Psychosocial Integrity",
+  "body": "The stages of grief described by Kübler-Ross begin with",
+  "options": [
+   "denial",
+   "acceptance",
+   "depression",
+   "bargaining"
+  ],
+  "answer": 0,
+  "explanation": "Denial, anger, bargaining, depression, acceptance — not always in order.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Basic Care and Comfort",
+  "body": "Which position is best for a client with dyspnoea?",
+  "options": [
+   "Prone",
+   "High Fowler's",
+   "Supine",
+   "Trendelenburg"
+  ],
+  "answer": 1,
+  "explanation": "Sitting upright helps lung expansion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Basic Care and Comfort",
+  "body": "How should a client with a right-sided weakness use a cane?",
+  "options": [
+   "Hold it in the right hand",
+   "Use it only on stairs",
+   "Move it with the left leg",
+   "Hold it in the left hand and move it with the right leg"
+  ],
+  "answer": 3,
+  "explanation": "Hold the cane on the strong side.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Basic Care and Comfort",
+  "body": "When climbing stairs with crutches, the client should lead with",
+  "options": [
+   "the crutches",
+   "either leg",
+   "the affected leg",
+   "the unaffected (good) leg"
+  ],
+  "answer": 3,
+  "explanation": "'Up with the good, down with the bad.'",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Basic Care and Comfort",
+  "body": "Which action best prevents pressure injuries in an immobile client?",
+  "options": [
+   "Keeping the head of the bed at 60°",
+   "Massaging reddened bony areas",
+   "Repositioning at least every 2 hours",
+   "Using a donut cushion"
+  ],
+  "answer": 2,
+  "explanation": "Don't massage reddened areas or use donut rings.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Basic Care and Comfort",
+  "body": "A client receiving enteral tube feeding should be positioned",
+  "options": [
+   "flat",
+   "on the left side flat",
+   "in Trendelenburg",
+   "with the head of the bed raised at least 30–45°"
+  ],
+  "answer": 3,
+  "explanation": "Reduces aspiration risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Basic Care and Comfort",
+  "body": "Which is a non-pharmacological pain relief measure?",
+  "options": [
+   "Bed rest only",
+   "Withholding fluids",
+   "Applying cold or heat as appropriate and distraction",
+   "Increasing opioid dose"
+  ],
+  "answer": 2,
+  "explanation": "Combine with medication as prescribed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Basic Care and Comfort",
+  "body": "What is the priority before giving a client a meal after a stroke?",
+  "options": [
+   "Lay the client flat",
+   "Check the swallow assessment / screen for dysphagia",
+   "Give thin liquids first",
+   "Encourage drinking with a straw"
+  ],
+  "answer": 1,
+  "explanation": "Aspiration risk is high after stroke.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "What is the antidote for heparin?",
+  "options": [
+   "Naloxone",
+   "Protamine sulfate",
+   "Vitamin K",
+   "Flumazenil"
+  ],
+  "answer": 1,
+  "explanation": "Vitamin K reverses warfarin.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "What is the antidote for warfarin?",
+  "options": [
+   "Vitamin K (phytonadione)",
+   "Protamine sulfate",
+   "Acetylcysteine",
+   "Atropine"
+  ],
+  "answer": 0,
+  "explanation": "Monitor INR.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "What is the antidote for opioid overdose?",
+  "options": [
+   "Digoxin immune fab",
+   "Naloxone",
+   "Flumazenil",
+   "Protamine"
+  ],
+  "answer": 1,
+  "explanation": "Watch for return of respiratory depression.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "What is the antidote for benzodiazepine overdose?",
+  "options": [
+   "Flumazenil",
+   "Naloxone",
+   "Glucagon",
+   "Atropine"
+  ],
+  "answer": 0,
+  "explanation": "Use cautiously — it can cause seizures.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "What is the antidote for acetaminophen overdose?",
+  "options": [
+   "Activated charcoal only",
+   "Acetylcysteine",
+   "Vitamin K",
+   "Naloxone"
+  ],
+  "answer": 1,
+  "explanation": "It protects the liver.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Before giving digoxin, the nurse should check the apical pulse. Hold the dose if it is below",
+  "options": [
+   "60 beats per minute (adult)",
+   "40 beats per minute",
+   "80 beats per minute",
+   "100 beats per minute"
+  ],
+  "answer": 0,
+  "explanation": "Also watch for toxicity: nausea, visual changes (yellow/green halos).",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Which lab value is most important to check before giving furosemide?",
+  "options": [
+   "Potassium",
+   "Calcium",
+   "Glucose",
+   "Haemoglobin"
+  ],
+  "answer": 0,
+  "explanation": "Loop diuretics cause hypokalaemia.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Which food should a client taking warfarin keep consistent rather than suddenly increase?",
+  "options": [
+   "Bananas",
+   "Chicken",
+   "Bread",
+   "Green leafy vegetables (vitamin K)"
+  ],
+  "answer": 3,
+  "explanation": "Sudden changes alter INR.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "A client taking an ACE inhibitor (e.g. lisinopril) reports a persistent dry cough. This is",
+  "options": [
+   "expected and harmless — no action needed",
+   "a sign of overdose",
+   "an allergic emergency",
+   "a common side effect to report to the provider"
+  ],
+  "answer": 3,
+  "explanation": "Swelling of the face or tongue (angioedema) is an emergency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Which insulin is rapid-acting?",
+  "options": [
+   "Regular insulin",
+   "Insulin glargine",
+   "Insulin lispro",
+   "NPH insulin"
+  ],
+  "answer": 2,
+  "explanation": "Rapid-acting insulin is given with meals.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Insulin glargine is",
+  "options": [
+   "rapid-acting",
+   "mixed with other insulins in the same syringe",
+   "given only IV",
+   "a long-acting basal insulin with no pronounced peak"
+  ],
+  "answer": 3,
+  "explanation": "Do not mix glargine with other insulins.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "When mixing regular and NPH insulin in one syringe, the nurse draws up",
+  "options": [
+   "them in separate syringes only",
+   "NPH (cloudy) first",
+   "either first",
+   "regular (clear) insulin first"
+  ],
+  "answer": 3,
+  "explanation": "'Clear before cloudy.'",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "A client on lithium should have levels monitored because",
+  "options": [
+   "it is only given IV",
+   "it causes hyperglycaemia",
+   "the therapeutic range is narrow and toxicity is dangerous",
+   "it is addictive"
+  ],
+  "answer": 2,
+  "explanation": "Maintain normal sodium and fluid intake.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Which symptom suggests a transfusion reaction?",
+  "options": [
+   "Warm hands",
+   "Mild hunger",
+   "Fever, chills and back pain shortly after starting the transfusion",
+   "Sleepiness after 4 hours"
+  ],
+  "answer": 2,
+  "explanation": "Stop the transfusion, keep the IV open with saline and notify the provider.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Which IV solution is isotonic?",
+  "options": [
+   "D10W",
+   "0.9% sodium chloride",
+   "0.45% sodium chloride",
+   "3% sodium chloride"
+  ],
+  "answer": 1,
+  "explanation": "Lactated Ringer's is also isotonic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Potassium chloride must NEVER be given",
+  "options": [
+   "orally",
+   "with food",
+   "diluted in IV fluid",
+   "as an IV push"
+  ],
+  "answer": 3,
+  "explanation": "IV push potassium can cause fatal cardiac arrest.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "A client receiving vancomycin has a 'red man' (vancomycin flushing) reaction. What should the nurse do?",
+  "options": [
+   "Give the dose as IV push",
+   "Ignore it — it's expected",
+   "Stop or slow the infusion and notify the provider",
+   "Speed up the infusion"
+  ],
+  "answer": 2,
+  "explanation": "It is related to rapid infusion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Which instruction is correct for a client taking alendronate?",
+  "options": [
+   "Take it with milk",
+   "Take it with breakfast",
+   "Lie down after taking it",
+   "Take it with a full glass of water and stay upright for 30 minutes"
+  ],
+  "answer": 3,
+  "explanation": "Reduces the risk of oesophageal irritation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Which finding is a sign of hypoglycaemia?",
+  "options": [
+   "Shakiness, sweating and confusion",
+   "Hot, dry skin",
+   "Fruity breath",
+   "Polyuria"
+  ],
+  "answer": 0,
+  "explanation": "Give 15 g of fast-acting carbohydrate if the client is conscious.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Reduction of Risk Potential",
+  "body": "What is the normal adult serum potassium range?",
+  "options": [
+   "8.5–10.5 mg/dL",
+   "3.5–5.0 mEq/L",
+   "135–145 mEq/L",
+   "1.5–2.5 mEq/L"
+  ],
+  "answer": 1,
+  "explanation": "Sodium is 135–145 mEq/L.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Reduction of Risk Potential",
+  "body": "What is the normal adult serum sodium range?",
+  "options": [
+   "150–160 mEq/L",
+   "95–105 mEq/L",
+   "135–145 mEq/L",
+   "3.5–5.0 mEq/L"
+  ],
+  "answer": 2,
+  "explanation": "Hyponatraemia can cause confusion and seizures.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Reduction of Risk Potential",
+  "body": "What is a typical therapeutic INR target for a client on warfarin for atrial fibrillation?",
+  "options": [
+   "4.0–5.0",
+   "2.0–3.0",
+   "1.0–1.5",
+   "0.8–1.1"
+  ],
+  "answer": 1,
+  "explanation": "Normal without anticoagulation is about 0.8–1.1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Reduction of Risk Potential",
+  "body": "Which finding after a thyroidectomy needs immediate action?",
+  "options": [
+   "Mild sore throat",
+   "Stridor and difficulty breathing",
+   "Neck incision pain",
+   "Hoarse voice for a day"
+  ],
+  "answer": 1,
+  "explanation": "May indicate airway compromise or haematoma.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Reduction of Risk Potential",
+  "body": "After a cardiac catheterisation via the femoral artery, the nurse should",
+  "options": [
+   "get the client walking immediately",
+   "elevate the head of the bed to 90°",
+   "apply heat to the site",
+   "check the insertion site and distal pulses and keep the leg straight"
+  ],
+  "answer": 3,
+  "explanation": "Watch for bleeding and loss of circulation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Reduction of Risk Potential",
+  "body": "Which finding suggests a client has developed a deep vein thrombosis?",
+  "options": [
+   "Itchy skin",
+   "Cold, pale feet",
+   "Unilateral calf swelling, warmth and redness",
+   "Bilateral ankle oedema at the end of the day"
+  ],
+  "answer": 2,
+  "explanation": "Report — risk of pulmonary embolism.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Reduction of Risk Potential",
+  "body": "A client suddenly develops dyspnoea, chest pain and tachycardia after surgery. The nurse suspects",
+  "options": [
+   "pulmonary embolism",
+   "atelectasis only",
+   "pneumonia",
+   "anxiety"
+  ],
+  "answer": 0,
+  "explanation": "Raise the head of the bed, give oxygen and call the rapid response team.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Reduction of Risk Potential",
+  "body": "Which is the priority after a client returns from a bronchoscopy?",
+  "options": [
+   "Encourage fluids immediately",
+   "Lay flat for 24 hours",
+   "Give a heavy meal",
+   "Check the gag reflex before giving food or fluids"
+  ],
+  "answer": 3,
+  "explanation": "The throat is anaesthetised.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Reduction of Risk Potential",
+  "body": "What does a hemoglobin A1c measure?",
+  "options": [
+   "Cholesterol",
+   "Kidney function",
+   "Average blood glucose over about 2–3 months",
+   "Today's fasting glucose"
+  ],
+  "answer": 2,
+  "explanation": "A target for many adults with diabetes is below 7%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Reduction of Risk Potential",
+  "body": "Peaked T waves on an ECG suggest",
+  "options": [
+   "hyperkalaemia",
+   "hypokalaemia",
+   "hypercalcaemia",
+   "hyponatraemia"
+  ],
+  "answer": 0,
+  "explanation": "Hypokalaemia may show U waves and flattened T waves.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Physiological Adaptation",
+  "body": "Which ECG rhythm needs immediate defibrillation?",
+  "options": [
+   "Atrial fibrillation with a controlled rate",
+   "Normal sinus rhythm",
+   "Sinus bradycardia",
+   "Ventricular fibrillation"
+  ],
+  "answer": 3,
+  "explanation": "Also pulseless ventricular tachycardia.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Physiological Adaptation",
+  "body": "What are the signs of increased intracranial pressure?",
+  "options": [
+   "Increased alertness",
+   "Constricted pupils only",
+   "Decreasing level of consciousness, headache and vomiting",
+   "Low blood pressure and fast pulse"
+  ],
+  "answer": 2,
+  "explanation": "Cushing's triad (late): hypertension with widening pulse pressure, bradycardia, irregular breathing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Physiological Adaptation",
+  "body": "A client with burns to the entire right arm and the front of the trunk. Using the rule of nines, what percentage is burned?",
+  "options": [
+   "18%",
+   "27%",
+   "36%",
+   "9%"
+  ],
+  "answer": 1,
+  "explanation": "Arm 9% + anterior trunk 18% = 27%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Physiological Adaptation",
+  "body": "Which acid–base imbalance results from vomiting?",
+  "options": [
+   "Metabolic acidosis",
+   "Respiratory acidosis",
+   "Metabolic alkalosis",
+   "Respiratory alkalosis"
+  ],
+  "answer": 2,
+  "explanation": "Loss of stomach acid; diarrhoea causes metabolic acidosis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Physiological Adaptation",
+  "body": "A client with diabetic ketoacidosis has deep, rapid breathing. This is",
+  "options": [
+   "normal",
+   "Kussmaul respirations compensating for metabolic acidosis",
+   "Cheyne–Stokes breathing",
+   "a sign of alkalosis"
+  ],
+  "answer": 1,
+  "explanation": "Blowing off CO₂ raises pH.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Physiological Adaptation",
+  "body": "Which finding indicates hypovolaemic shock?",
+  "options": [
+   "Increased urine output",
+   "Warm flushed skin and bounding pulse",
+   "High blood pressure and slow pulse",
+   "Low blood pressure, fast weak pulse and cool clammy skin"
+  ],
+  "answer": 3,
+  "explanation": "Urine output falls in shock.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Physiological Adaptation",
+  "body": "What is the first sign of hypoxia in many clients?",
+  "options": [
+   "Restlessness or anxiety",
+   "Clubbing",
+   "Cyanosis",
+   "Bradycardia"
+  ],
+  "answer": 0,
+  "explanation": "Cyanosis is a late sign.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Physiological Adaptation",
+  "body": "A client with heart failure gains 1.5 kg (3 lb) in 2 days. This suggests",
+  "options": [
+   "dehydration",
+   "muscle gain",
+   "fluid retention — report to the provider",
+   "improved nutrition"
+  ],
+  "answer": 2,
+  "explanation": "Daily weights are the best indicator of fluid status.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Physiological Adaptation",
+  "body": "Which finding is typical of left-sided heart failure?",
+  "options": [
+   "Jugular venous distension only",
+   "Peripheral oedema only",
+   "Ascites",
+   "Crackles in the lungs and dyspnoea"
+  ],
+  "answer": 3,
+  "explanation": "Right-sided failure causes systemic congestion (JVD, oedema).",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Physiological Adaptation",
+  "body": "A client has an anaphylactic reaction. Which drug is given FIRST?",
+  "options": [
+   "IV antibiotics",
+   "Oral antihistamine",
+   "Insulin",
+   "Intramuscular epinephrine"
+  ],
+  "answer": 3,
+  "explanation": "Then airway support, oxygen and fluids.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Physiological Adaptation",
+  "body": "Which sign suggests a stroke?",
+  "options": [
+   "A rash on both arms",
+   "Sudden one-sided facial droop and arm weakness",
+   "Itchy eyes",
+   "Gradual knee pain"
+  ],
+  "answer": 1,
+  "explanation": "Use BE-FAST and note the time symptoms started.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Physiological Adaptation",
+  "body": "A client with a chest tube — what does continuous bubbling in the water-seal chamber indicate?",
+  "options": [
+   "Normal function",
+   "The lung has fully re-expanded",
+   "An air leak in the system",
+   "Too much suction"
+  ],
+  "answer": 2,
+  "explanation": "Intermittent bubbling with breathing/coughing can be expected with a pneumothorax.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "The provider orders 125 mg. Available: 125 mg per tablet. How much should the nurse give?",
+  "options": [
+   "2 tablet(s)",
+   "1 tablet(s)",
+   "0.5 tablet(s)",
+   "0 tablet(s)"
+  ],
+  "answer": 1,
+  "explanation": "Desired ÷ have × quantity = 125 ÷ 125 × 1 = 1 tablet(s).",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "The provider orders 125 mg. Available: 125 mg per 5 mL. How much should the nurse give?",
+  "options": [
+   "10 mL",
+   "1 mL",
+   "5 mL",
+   "2.5 mL"
+  ],
+  "answer": 2,
+  "explanation": "Desired ÷ have × quantity = 125 ÷ 125 × 5 = 5 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "The provider orders 125 mg. Available: 250 mg per tablet. How much should the nurse give?",
+  "options": [
+   "1 tablet(s)",
+   "2 tablet(s)",
+   "0.25 tablet(s)",
+   "0.5 tablet(s)"
+  ],
+  "answer": 3,
+  "explanation": "Desired ÷ have × quantity = 125 ÷ 250 × 1 = 0.5 tablet(s).",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "The provider orders 250 mg. Available: 250 mg per tablet. How much should the nurse give?",
+  "options": [
+   "0 tablet(s)",
+   "0.5 tablet(s)",
+   "1 tablet(s)",
+   "2 tablet(s)"
+  ],
+  "answer": 2,
+  "explanation": "Desired ÷ have × quantity = 250 ÷ 250 × 1 = 1 tablet(s).",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "The provider orders 500 mg. Available: 500 mg per 5 mL. How much should the nurse give?",
+  "options": [
+   "1 mL",
+   "10 mL",
+   "5 mL",
+   "2.5 mL"
+  ],
+  "answer": 2,
+  "explanation": "Desired ÷ have × quantity = 500 ÷ 500 × 5 = 5 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "The provider orders 125 mg. Available: 250 mg per 5 mL. How much should the nurse give?",
+  "options": [
+   "1.25 mL",
+   "2.5 mL",
+   "5 mL",
+   "2 mL"
+  ],
+  "answer": 1,
+  "explanation": "Desired ÷ have × quantity = 125 ÷ 250 × 5 = 2.5 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "The provider orders 750 mg. Available: 125 mg per tablet. How much should the nurse give?",
+  "options": [
+   "3 tablet(s)",
+   "7 tablet(s)",
+   "12 tablet(s)",
+   "6 tablet(s)"
+  ],
+  "answer": 3,
+  "explanation": "Desired ÷ have × quantity = 750 ÷ 125 × 1 = 6 tablet(s).",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "The provider orders 250 mg. Available: 500 mg per tablet. How much should the nurse give?",
+  "options": [
+   "0.5 tablet(s)",
+   "0.25 tablet(s)",
+   "2 tablet(s)",
+   "1 tablet(s)"
+  ],
+  "answer": 0,
+  "explanation": "Desired ÷ have × quantity = 250 ÷ 500 × 1 = 0.5 tablet(s).",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "The provider orders 500 mg. Available: 125 mg per tablet. How much should the nurse give?",
+  "options": [
+   "4 tablet(s)",
+   "8 tablet(s)",
+   "2 tablet(s)",
+   "0.25 tablet(s)"
+  ],
+  "answer": 0,
+  "explanation": "Desired ÷ have × quantity = 500 ÷ 125 × 1 = 4 tablet(s).",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "The provider orders 750 mg. Available: 500 mg per tablet. How much should the nurse give?",
+  "options": [
+   "0.75 tablet(s)",
+   "3 tablet(s)",
+   "2.5 tablet(s)",
+   "1.5 tablet(s)"
+  ],
+  "answer": 3,
+  "explanation": "Desired ÷ have × quantity = 750 ÷ 500 × 1 = 1.5 tablet(s).",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "The provider orders 250 mg. Available: 250 mg per 5 mL. How much should the nurse give?",
+  "options": [
+   "2.5 mL",
+   "1 mL",
+   "10 mL",
+   "5 mL"
+  ],
+  "answer": 3,
+  "explanation": "Desired ÷ have × quantity = 250 ÷ 250 × 5 = 5 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "The provider orders 1000 mg. Available: 125 mg per tablet. How much should the nurse give?",
+  "options": [
+   "9 tablet(s)",
+   "16 tablet(s)",
+   "8 tablet(s)",
+   "4 tablet(s)"
+  ],
+  "answer": 2,
+  "explanation": "Desired ÷ have × quantity = 1000 ÷ 125 × 1 = 8 tablet(s).",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "The provider orders 500 mg. Available: 500 mg per tablet. How much should the nurse give?",
+  "options": [
+   "2 tablet(s)",
+   "0.5 tablet(s)",
+   "1 tablet(s)",
+   "0 tablet(s)"
+  ],
+  "answer": 2,
+  "explanation": "Desired ÷ have × quantity = 500 ÷ 500 × 1 = 1 tablet(s).",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "The provider orders 1000 mg. Available: 500 mg per 5 mL. How much should the nurse give?",
+  "options": [
+   "0.5 mL",
+   "20 mL",
+   "5 mL",
+   "10 mL"
+  ],
+  "answer": 3,
+  "explanation": "Desired ÷ have × quantity = 1000 ÷ 500 × 5 = 10 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 1000 mL of 0.9% sodium chloride over 8 hours using an infusion pump. What rate should the pump be set to?",
+  "options": [
+   "125 mL/hr",
+   "150 mL/hr",
+   "8000 mL/hr",
+   "250 mL/hr"
+  ],
+  "answer": 0,
+  "explanation": "1000 ÷ 8 = 125 → 125 mL/hr.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 100 mL of 0.9% sodium chloride over 6 hours using an infusion pump. What rate should the pump be set to?",
+  "options": [
+   "17 mL/hr",
+   "42 mL/hr",
+   "33 mL/hr",
+   "600 mL/hr"
+  ],
+  "answer": 0,
+  "explanation": "100 ÷ 6 = 16.7 → 17 mL/hr.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 250 mL of 0.9% sodium chloride over 2 hours using an infusion pump. What rate should the pump be set to?",
+  "options": [
+   "250 mL/hr",
+   "150 mL/hr",
+   "125 mL/hr",
+   "500 mL/hr"
+  ],
+  "answer": 2,
+  "explanation": "250 ÷ 2 = 125 → 125 mL/hr.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 100 mL of 0.9% sodium chloride over 2 hours using an infusion pump. What rate should the pump be set to?",
+  "options": [
+   "50 mL/hr",
+   "100 mL/hr",
+   "200 mL/hr",
+   "75 mL/hr"
+  ],
+  "answer": 0,
+  "explanation": "100 ÷ 2 = 50 → 50 mL/hr.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 250 mL of 0.9% sodium chloride over 8 hours using an infusion pump. What rate should the pump be set to?",
+  "options": [
+   "56 mL/hr",
+   "63 mL/hr",
+   "2000 mL/hr",
+   "31 mL/hr"
+  ],
+  "answer": 3,
+  "explanation": "250 ÷ 8 = 31.3 → 31 mL/hr.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 1000 mL of 0.9% sodium chloride over 10 hours using an infusion pump. What rate should the pump be set to?",
+  "options": [
+   "100 mL/hr",
+   "10,000 mL/hr",
+   "200 mL/hr",
+   "125 mL/hr"
+  ],
+  "answer": 0,
+  "explanation": "1000 ÷ 10 = 100 → 100 mL/hr.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 250 mL of 0.9% sodium chloride over 12 hours using an infusion pump. What rate should the pump be set to?",
+  "options": [
+   "46 mL/hr",
+   "42 mL/hr",
+   "3000 mL/hr",
+   "21 mL/hr"
+  ],
+  "answer": 3,
+  "explanation": "250 ÷ 12 = 20.8 → 21 mL/hr.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 250 mL of 0.9% sodium chloride over 6 hours using an infusion pump. What rate should the pump be set to?",
+  "options": [
+   "67 mL/hr",
+   "42 mL/hr",
+   "83 mL/hr",
+   "1500 mL/hr"
+  ],
+  "answer": 1,
+  "explanation": "250 ÷ 6 = 41.7 → 42 mL/hr.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 250 mL of 0.9% sodium chloride over 10 hours using an infusion pump. What rate should the pump be set to?",
+  "options": [
+   "28 mL/hr",
+   "25 mL/hr",
+   "50 mL/hr",
+   "2500 mL/hr"
+  ],
+  "answer": 1,
+  "explanation": "250 ÷ 10 = 25 → 25 mL/hr.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 1000 mL of 0.9% sodium chloride over 4 hours using an infusion pump. What rate should the pump be set to?",
+  "options": [
+   "250 mL/hr",
+   "275 mL/hr",
+   "4000 mL/hr",
+   "500 mL/hr"
+  ],
+  "answer": 0,
+  "explanation": "1000 ÷ 4 = 250 → 250 mL/hr.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 500 mL of 0.9% sodium chloride over 12 hours using an infusion pump. What rate should the pump be set to?",
+  "options": [
+   "6000 mL/hr",
+   "67 mL/hr",
+   "42 mL/hr",
+   "83 mL/hr"
+  ],
+  "answer": 2,
+  "explanation": "500 ÷ 12 = 41.7 → 42 mL/hr.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 100 mL of 0.9% sodium chloride over 4 hours using an infusion pump. What rate should the pump be set to?",
+  "options": [
+   "25 mL/hr",
+   "400 mL/hr",
+   "28 mL/hr",
+   "50 mL/hr"
+  ],
+  "answer": 0,
+  "explanation": "100 ÷ 4 = 25 → 25 mL/hr.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 1000 mL of 0.9% sodium chloride over 6 hours using an infusion pump. What rate should the pump be set to?",
+  "options": [
+   "192 mL/hr",
+   "333 mL/hr",
+   "6000 mL/hr",
+   "167 mL/hr"
+  ],
+  "answer": 3,
+  "explanation": "1000 ÷ 6 = 166.7 → 167 mL/hr.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 100 mL of 0.9% sodium chloride over 12 hours using an infusion pump. What rate should the pump be set to?",
+  "options": [
+   "1200 mL/hr",
+   "17 mL/hr",
+   "33 mL/hr",
+   "8 mL/hr"
+  ],
+  "answer": 3,
+  "explanation": "100 ÷ 12 = 8.3 → 8 mL/hr.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 250 mL over 4 hours by gravity. The drop factor is 15 gtt/mL. How many drops per minute? (Round to the nearest whole number.)",
+  "options": [
+   "938 gtt/min",
+   "21 gtt/min",
+   "16 gtt/min",
+   "1 gtt/min"
+  ],
+  "answer": 2,
+  "explanation": "(250 × 15) ÷ (4 × 60) = 15.6 → 16 gtt/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 250 mL over 12 hours by gravity. The drop factor is 60 gtt/mL. How many drops per minute? (Round to the nearest whole number.)",
+  "options": [
+   "1250 gtt/min",
+   "26 gtt/min",
+   "0 gtt/min",
+   "21 gtt/min"
+  ],
+  "answer": 3,
+  "explanation": "(250 × 60) ÷ (12 × 60) = 20.8 → 21 gtt/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 500 mL over 8 hours by gravity. The drop factor is 10 gtt/mL. How many drops per minute? (Round to the nearest whole number.)",
+  "options": [
+   "15 gtt/min",
+   "10 gtt/min",
+   "1 gtt/min",
+   "625 gtt/min"
+  ],
+  "answer": 1,
+  "explanation": "(500 × 10) ÷ (8 × 60) = 10.4 → 10 gtt/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 500 mL over 4 hours by gravity. The drop factor is 60 gtt/mL. How many drops per minute? (Round to the nearest whole number.)",
+  "options": [
+   "125 gtt/min",
+   "130 gtt/min",
+   "7500 gtt/min",
+   "2 gtt/min"
+  ],
+  "answer": 0,
+  "explanation": "(500 × 60) ÷ (4 × 60) = 125 → 125 gtt/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 500 mL over 4 hours by gravity. The drop factor is 20 gtt/mL. How many drops per minute? (Round to the nearest whole number.)",
+  "options": [
+   "2 gtt/min",
+   "47 gtt/min",
+   "2500 gtt/min",
+   "42 gtt/min"
+  ],
+  "answer": 3,
+  "explanation": "(500 × 20) ÷ (4 × 60) = 41.7 → 42 gtt/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 1000 mL over 12 hours by gravity. The drop factor is 60 gtt/mL. How many drops per minute? (Round to the nearest whole number.)",
+  "options": [
+   "1 gtt/min",
+   "5000 gtt/min",
+   "83 gtt/min",
+   "88 gtt/min"
+  ],
+  "answer": 2,
+  "explanation": "(1000 × 60) ÷ (12 × 60) = 83.3 → 83 gtt/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 1000 mL over 4 hours by gravity. The drop factor is 15 gtt/mL. How many drops per minute? (Round to the nearest whole number.)",
+  "options": [
+   "3750 gtt/min",
+   "4 gtt/min",
+   "63 gtt/min",
+   "68 gtt/min"
+  ],
+  "answer": 2,
+  "explanation": "(1000 × 15) ÷ (4 × 60) = 62.5 → 63 gtt/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 500 mL over 4 hours by gravity. The drop factor is 10 gtt/mL. How many drops per minute? (Round to the nearest whole number.)",
+  "options": [
+   "21 gtt/min",
+   "1250 gtt/min",
+   "2 gtt/min",
+   "26 gtt/min"
+  ],
+  "answer": 0,
+  "explanation": "(500 × 10) ÷ (4 × 60) = 20.8 → 21 gtt/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 1000 mL over 6 hours by gravity. The drop factor is 10 gtt/mL. How many drops per minute? (Round to the nearest whole number.)",
+  "options": [
+   "33 gtt/min",
+   "1667 gtt/min",
+   "3 gtt/min",
+   "28 gtt/min"
+  ],
+  "answer": 3,
+  "explanation": "(1000 × 10) ÷ (6 × 60) = 27.8 → 28 gtt/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 1000 mL over 6 hours by gravity. The drop factor is 15 gtt/mL. How many drops per minute? (Round to the nearest whole number.)",
+  "options": [
+   "42 gtt/min",
+   "2500 gtt/min",
+   "47 gtt/min",
+   "3 gtt/min"
+  ],
+  "answer": 0,
+  "explanation": "(1000 × 15) ÷ (6 × 60) = 41.7 → 42 gtt/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 250 mL over 12 hours by gravity. The drop factor is 10 gtt/mL. How many drops per minute? (Round to the nearest whole number.)",
+  "options": [
+   "208 gtt/min",
+   "0 gtt/min",
+   "3 gtt/min",
+   "8 gtt/min"
+  ],
+  "answer": 2,
+  "explanation": "(250 × 10) ÷ (12 × 60) = 3.5 → 3 gtt/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 250 mL over 8 hours by gravity. The drop factor is 15 gtt/mL. How many drops per minute? (Round to the nearest whole number.)",
+  "options": [
+   "13 gtt/min",
+   "1 gtt/min",
+   "8 gtt/min",
+   "469 gtt/min"
+  ],
+  "answer": 2,
+  "explanation": "(250 × 15) ÷ (8 × 60) = 7.8 → 8 gtt/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 1000 mL over 6 hours by gravity. The drop factor is 20 gtt/mL. How many drops per minute? (Round to the nearest whole number.)",
+  "options": [
+   "61 gtt/min",
+   "56 gtt/min",
+   "3333 gtt/min",
+   "3 gtt/min"
+  ],
+  "answer": 1,
+  "explanation": "(1000 × 20) ÷ (6 × 60) = 55.6 → 56 gtt/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Infuse 1000 mL over 12 hours by gravity. The drop factor is 20 gtt/mL. How many drops per minute? (Round to the nearest whole number.)",
+  "options": [
+   "1 gtt/min",
+   "33 gtt/min",
+   "28 gtt/min",
+   "1667 gtt/min"
+  ],
+  "answer": 2,
+  "explanation": "(1000 × 20) ÷ (12 × 60) = 27.8 → 28 gtt/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "A child weighs 64 lb. The order is 2 mg/kg. What dose should be given? (1 kg = 2.2 lb; round to one decimal place.)",
+  "options": [
+   "58.2 mg",
+   "116.4 mg",
+   "29.1 mg",
+   "128 mg"
+  ],
+  "answer": 0,
+  "explanation": "64 ÷ 2.2 = 29.1 kg; × 2 = 58.2 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "A child weighs 36 lb. The order is 2 mg/kg. What dose should be given? (1 kg = 2.2 lb; round to one decimal place.)",
+  "options": [
+   "72 mg",
+   "65.6 mg",
+   "16.4 mg",
+   "32.8 mg"
+  ],
+  "answer": 3,
+  "explanation": "36 ÷ 2.2 = 16.4 kg; × 2 = 32.8 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "A child weighs 38 lb. The order is 5 mg/kg. What dose should be given? (1 kg = 2.2 lb; round to one decimal place.)",
+  "options": [
+   "190 mg",
+   "86.5 mg",
+   "17.3 mg",
+   "173 mg"
+  ],
+  "answer": 1,
+  "explanation": "38 ÷ 2.2 = 17.3 kg; × 5 = 86.5 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "A child weighs 58 lb. The order is 2 mg/kg. What dose should be given? (1 kg = 2.2 lb; round to one decimal place.)",
+  "options": [
+   "26.4 mg",
+   "105.6 mg",
+   "52.8 mg",
+   "116 mg"
+  ],
+  "answer": 2,
+  "explanation": "58 ÷ 2.2 = 26.4 kg; × 2 = 52.8 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "A child weighs 22 lb. The order is 10 mg/kg. What dose should be given? (1 kg = 2.2 lb; round to one decimal place.)",
+  "options": [
+   "10 mg",
+   "220 mg",
+   "100 mg",
+   "200 mg"
+  ],
+  "answer": 2,
+  "explanation": "22 ÷ 2.2 = 10 kg; × 10 = 100 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "A child weighs 58 lb. The order is 20 mg/kg. What dose should be given? (1 kg = 2.2 lb; round to one decimal place.)",
+  "options": [
+   "528 mg",
+   "26.4 mg",
+   "1056 mg",
+   "1160 mg"
+  ],
+  "answer": 0,
+  "explanation": "58 ÷ 2.2 = 26.4 kg; × 20 = 528 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "A child weighs 54 lb. The order is 20 mg/kg. What dose should be given? (1 kg = 2.2 lb; round to one decimal place.)",
+  "options": [
+   "24.5 mg",
+   "490 mg",
+   "1080 mg",
+   "980 mg"
+  ],
+  "answer": 1,
+  "explanation": "54 ÷ 2.2 = 24.5 kg; × 20 = 490 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "A child weighs 40 lb. The order is 5 mg/kg. What dose should be given? (1 kg = 2.2 lb; round to one decimal place.)",
+  "options": [
+   "91 mg",
+   "18.2 mg",
+   "182 mg",
+   "200 mg"
+  ],
+  "answer": 0,
+  "explanation": "40 ÷ 2.2 = 18.2 kg; × 5 = 91 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "A child weighs 56 lb. The order is 5 mg/kg. What dose should be given? (1 kg = 2.2 lb; round to one decimal place.)",
+  "options": [
+   "280 mg",
+   "255 mg",
+   "25.5 mg",
+   "127.5 mg"
+  ],
+  "answer": 3,
+  "explanation": "56 ÷ 2.2 = 25.5 kg; × 5 = 127.5 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "A child weighs 46 lb. The order is 20 mg/kg. What dose should be given? (1 kg = 2.2 lb; round to one decimal place.)",
+  "options": [
+   "20.9 mg",
+   "920 mg",
+   "836 mg",
+   "418 mg"
+  ],
+  "answer": 3,
+  "explanation": "46 ÷ 2.2 = 20.9 kg; × 20 = 418 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "A child weighs 32 lb. The order is 20 mg/kg. What dose should be given? (1 kg = 2.2 lb; round to one decimal place.)",
+  "options": [
+   "290 mg",
+   "580 mg",
+   "14.5 mg",
+   "640 mg"
+  ],
+  "answer": 0,
+  "explanation": "32 ÷ 2.2 = 14.5 kg; × 20 = 290 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "A child weighs 26 lb. The order is 10 mg/kg. What dose should be given? (1 kg = 2.2 lb; round to one decimal place.)",
+  "options": [
+   "236 mg",
+   "11.8 mg",
+   "118 mg",
+   "260 mg"
+  ],
+  "answer": 2,
+  "explanation": "26 ÷ 2.2 = 11.8 kg; × 10 = 118 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Heparin 1,500 units/hr is ordered. The bag contains 25,000 units in 500 mL. At what rate should the pump run?",
+  "options": [
+   "33 mL/hr",
+   "60 mL/hr",
+   "30 mL/hr",
+   "3 mL/hr"
+  ],
+  "answer": 2,
+  "explanation": "Concentration = 25000 ÷ 500 = 50 units/mL; 1500 ÷ 50 = 30 mL/hr.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Heparin 800 units/hr is ordered. The bag contains 20,000 units in 250 mL. At what rate should the pump run?",
+  "options": [
+   "3.2 mL/hr",
+   "25 mL/hr",
+   "20 mL/hr",
+   "10 mL/hr"
+  ],
+  "answer": 3,
+  "explanation": "Concentration = 20000 ÷ 250 = 80 units/mL; 800 ÷ 80 = 10 mL/hr.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Heparin 800 units/hr is ordered. The bag contains 25,000 units in 250 mL. At what rate should the pump run?",
+  "options": [
+   "31.25 mL/hr",
+   "16 mL/hr",
+   "8 mL/hr",
+   "3.2 mL/hr"
+  ],
+  "answer": 2,
+  "explanation": "Concentration = 25000 ÷ 250 = 100 units/mL; 800 ÷ 100 = 8 mL/hr.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Heparin 1,200 units/hr is ordered. The bag contains 20,000 units in 500 mL. At what rate should the pump run?",
+  "options": [
+   "60 mL/hr",
+   "2.4 mL/hr",
+   "30 mL/hr",
+   "33 mL/hr"
+  ],
+  "answer": 2,
+  "explanation": "Concentration = 20000 ÷ 500 = 40 units/mL; 1200 ÷ 40 = 30 mL/hr.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Heparin 1,100 units/hr is ordered. The bag contains 20,000 units in 250 mL. At what rate should the pump run?",
+  "options": [
+   "13.8 mL/hr",
+   "4.4 mL/hr",
+   "14.8 mL/hr",
+   "27.6 mL/hr"
+  ],
+  "answer": 0,
+  "explanation": "Concentration = 20000 ÷ 250 = 80 units/mL; 1100 ÷ 80 = 13.8 mL/hr.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Heparin 1,000 units/hr is ordered. The bag contains 20,000 units in 500 mL. At what rate should the pump run?",
+  "options": [
+   "50 mL/hr",
+   "20 mL/hr",
+   "2 mL/hr",
+   "25 mL/hr"
+  ],
+  "answer": 3,
+  "explanation": "Concentration = 20000 ÷ 500 = 40 units/mL; 1000 ÷ 40 = 25 mL/hr.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Heparin 1,500 units/hr is ordered. The bag contains 20,000 units in 500 mL. At what rate should the pump run?",
+  "options": [
+   "3 mL/hr",
+   "37.5 mL/hr",
+   "41.5 mL/hr",
+   "75 mL/hr"
+  ],
+  "answer": 1,
+  "explanation": "Concentration = 20000 ÷ 500 = 40 units/mL; 1500 ÷ 40 = 37.5 mL/hr.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Heparin 1,200 units/hr is ordered. The bag contains 25,000 units in 500 mL. At what rate should the pump run?",
+  "options": [
+   "48 mL/hr",
+   "2.4 mL/hr",
+   "24 mL/hr",
+   "26 mL/hr"
+  ],
+  "answer": 2,
+  "explanation": "Concentration = 25000 ÷ 500 = 50 units/mL; 1200 ÷ 50 = 24 mL/hr.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Heparin 800 units/hr is ordered. The bag contains 25,000 units in 500 mL. At what rate should the pump run?",
+  "options": [
+   "16 mL/hr",
+   "31.25 mL/hr",
+   "32 mL/hr",
+   "1.6 mL/hr"
+  ],
+  "answer": 0,
+  "explanation": "Concentration = 25000 ÷ 500 = 50 units/mL; 800 ÷ 50 = 16 mL/hr.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NCX",
+  "topic": "Pharmacological and Parenteral Therapies",
+  "body": "Heparin 1,500 units/hr is ordered. The bag contains 25,000 units in 250 mL. At what rate should the pump run?",
+  "options": [
+   "15 mL/hr",
+   "17 mL/hr",
+   "6 mL/hr",
+   "30 mL/hr"
+  ],
+  "answer": 0,
+  "explanation": "Concentration = 25000 ÷ 250 = 100 units/mL; 1500 ÷ 100 = 15 mL/hr.",
+  "difficulty": 3
+ },
+ {
+  "subject": "NCX",
+  "topic": "Basic Care and Comfort",
+  "body": "Over 8 hours a client drinks 480 mL of water and 240 mL of juice and receives 500 mL IV. Output is 500 mL urine and 150 mL emesis. What is the total intake?",
+  "options": [
+   "570 mL",
+   "650 mL",
+   "1220 mL",
+   "720 mL"
+  ],
+  "answer": 2,
+  "explanation": "480 + 240 + 500 = 1220 mL (output, 650 mL, is recorded separately).",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Basic Care and Comfort",
+  "body": "Over 8 hours a client drinks 240 mL of water and 720 mL of juice and receives 600 mL IV. Output is 400 mL urine and 100 mL emesis. What is the total intake?",
+  "options": [
+   "1060 mL",
+   "500 mL",
+   "960 mL",
+   "1560 mL"
+  ],
+  "answer": 3,
+  "explanation": "240 + 720 + 600 = 1560 mL (output, 500 mL, is recorded separately).",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Basic Care and Comfort",
+  "body": "Over 8 hours a client drinks 360 mL of water and 480 mL of juice and receives 600 mL IV. Output is 700 mL urine and 150 mL emesis. What is the total intake?",
+  "options": [
+   "590 mL",
+   "1440 mL",
+   "840 mL",
+   "850 mL"
+  ],
+  "answer": 1,
+  "explanation": "360 + 480 + 600 = 1440 mL (output, 850 mL, is recorded separately).",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Basic Care and Comfort",
+  "body": "Over 8 hours a client drinks 360 mL of water and 720 mL of juice and receives 700 mL IV. Output is 800 mL urine and 100 mL emesis. What is the total intake?",
+  "options": [
+   "1780 mL",
+   "1080 mL",
+   "900 mL",
+   "880 mL"
+  ],
+  "answer": 0,
+  "explanation": "360 + 720 + 700 = 1780 mL (output, 900 mL, is recorded separately).",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Basic Care and Comfort",
+  "body": "Over 8 hours a client drinks 240 mL of water and 720 mL of juice and receives 500 mL IV. Output is 600 mL urine and 100 mL emesis. What is the total intake?",
+  "options": [
+   "760 mL",
+   "700 mL",
+   "1460 mL",
+   "960 mL"
+  ],
+  "answer": 2,
+  "explanation": "240 + 720 + 500 = 1460 mL (output, 700 mL, is recorded separately).",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Basic Care and Comfort",
+  "body": "Over 8 hours a client drinks 240 mL of water and 720 mL of juice and receives 700 mL IV. Output is 700 mL urine and 150 mL emesis. What is the total intake?",
+  "options": [
+   "850 mL",
+   "810 mL",
+   "1660 mL",
+   "960 mL"
+  ],
+  "answer": 2,
+  "explanation": "240 + 720 + 700 = 1660 mL (output, 850 mL, is recorded separately).",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Basic Care and Comfort",
+  "body": "Over 8 hours a client drinks 360 mL of water and 720 mL of juice and receives 500 mL IV. Output is 300 mL urine and 50 mL emesis. What is the total intake?",
+  "options": [
+   "1080 mL",
+   "1230 mL",
+   "1580 mL",
+   "350 mL"
+  ],
+  "answer": 2,
+  "explanation": "360 + 720 + 500 = 1580 mL (output, 350 mL, is recorded separately).",
+  "difficulty": 1
+ },
+ {
+  "subject": "NCX",
+  "topic": "Basic Care and Comfort",
+  "body": "Over 8 hours a client drinks 360 mL of water and 240 mL of juice and receives 800 mL IV. Output is 500 mL urine and 50 mL emesis. What is the total intake?",
+  "options": [
+   "600 mL",
+   "1400 mL",
+   "550 mL",
+   "850 mL"
+  ],
+  "answer": 1,
+  "explanation": "360 + 240 + 800 = 1400 mL (output, 550 mL, is recorded separately).",
+  "difficulty": 1
+ }
+]
