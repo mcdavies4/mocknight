@@ -1,0 +1,1346 @@
+[
+ {
+  "subject": "AZF",
+  "topic": "Cloud concepts",
+  "body": "Which cloud model gives you the MOST control over the operating system?",
+  "options": [
+   "Serverless",
+   "SaaS",
+   "IaaS",
+   "PaaS"
+  ],
+  "answer": 2,
+  "explanation": "With IaaS you manage the OS; with PaaS and SaaS the provider does.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Cloud concepts",
+  "body": "Microsoft 365 is an example of",
+  "options": [
+   "On-premises",
+   "IaaS",
+   "PaaS",
+   "SaaS"
+  ],
+  "answer": 3,
+  "explanation": "Ready-to-use software.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Cloud concepts",
+  "body": "A hybrid cloud combines",
+  "options": [
+   "two SaaS products",
+   "two Azure regions",
+   "public cloud with private (on-premises) infrastructure",
+   "IaaS and PaaS only"
+  ],
+  "answer": 2,
+  "explanation": "Workloads can move between them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Cloud concepts",
+  "body": "Moving from buying servers to paying monthly for cloud resources shifts spending from",
+  "options": [
+   "OpEx to CapEx",
+   "CapEx to CapEx",
+   "CapEx to OpEx",
+   "OpEx to OpEx"
+  ],
+  "answer": 2,
+  "explanation": "Capital expenditure → operational expenditure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Cloud concepts",
+  "body": "The ability to automatically add resources when demand rises is",
+  "options": [
+   "fault tolerance only",
+   "governance",
+   "elasticity",
+   "high availability"
+  ],
+  "answer": 2,
+  "explanation": "Scalability is the ability to grow; elasticity does it automatically.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Cloud concepts",
+  "body": "Which pricing model does the cloud generally use?",
+  "options": [
+   "Per employee only",
+   "Fixed annual fee only",
+   "Free",
+   "Consumption-based (pay for what you use)"
+  ],
+  "answer": 3,
+  "explanation": "You pay for resources used.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Architecture",
+  "body": "What is an Azure region pair?",
+  "options": [
+   "Two availability zones",
+   "Two regions in the same geography paired for disaster recovery",
+   "A VM and its backup disk",
+   "Two subscriptions"
+  ],
+  "answer": 1,
+  "explanation": "Updates roll out to one region at a time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Architecture",
+  "body": "Availability zones protect against",
+  "options": [
+   "the failure of an entire geography",
+   "user mistakes",
+   "billing errors",
+   "the failure of a single datacentre within a region"
+  ],
+  "answer": 3,
+  "explanation": "Each zone has independent power, cooling and networking.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Architecture",
+  "body": "What is a resource group?",
+  "options": [
+   "A billing account",
+   "A type of VM",
+   "A security policy",
+   "A logical container for related Azure resources"
+  ],
+  "answer": 3,
+  "explanation": "A resource can be in only one resource group.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Architecture",
+  "body": "What is the correct hierarchy from top to bottom?",
+  "options": [
+   "Subscriptions → management groups → resources → resource groups",
+   "Management groups → subscriptions → resource groups → resources",
+   "Resource groups → subscriptions → resources",
+   "Resources → resource groups → subscriptions"
+  ],
+  "answer": 1,
+  "explanation": "Policies and RBAC inherit downwards.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Architecture",
+  "body": "Can a resource group contain resources from different regions?",
+  "options": [
+   "Only for VMs",
+   "Only in paired regions",
+   "Yes",
+   "No"
+  ],
+  "answer": 2,
+  "explanation": "The group's region only stores its metadata.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Governance",
+  "body": "Which feature prevents a resource from being accidentally deleted?",
+  "options": [
+   "A resource lock (CanNotDelete)",
+   "A tag",
+   "An availability set",
+   "Azure Policy"
+  ],
+  "answer": 0,
+  "explanation": "ReadOnly locks also block changes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Governance",
+  "body": "What are tags used for?",
+  "options": [
+   "Blocking deletion",
+   "Adding name/value metadata, e.g. for cost tracking",
+   "Encrypting data",
+   "Creating VMs"
+  ],
+  "answer": 1,
+  "explanation": "Example: Department = Finance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Governance",
+  "body": "Azure RBAC is used to",
+  "options": [
+   "enforce resource naming rules",
+   "monitor VM performance",
+   "estimate costs",
+   "control who can do what with Azure resources"
+  ],
+  "answer": 3,
+  "explanation": "Azure Policy controls what resources can look like.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Governance",
+  "body": "Which built-in RBAC role can manage everything except access?",
+  "options": [
+   "Contributor",
+   "User Access Administrator",
+   "Owner",
+   "Reader"
+  ],
+  "answer": 0,
+  "explanation": "Owner can also grant access.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Identity",
+  "body": "What does conditional access do?",
+  "options": [
+   "Schedules VMs",
+   "Creates backups",
+   "Encrypts disks",
+   "Applies access rules based on signals like user, location and device"
+  ],
+  "answer": 3,
+  "explanation": "For example, require MFA from outside the office.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Identity",
+  "body": "Single sign-on (SSO) means",
+  "options": [
+   "one set of credentials gives access to many applications",
+   "one app per user",
+   "MFA is disabled",
+   "passwords change daily"
+  ],
+  "answer": 0,
+  "explanation": "It reduces password fatigue.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Identity",
+  "body": "Which security model assumes breach and verifies every request explicitly?",
+  "options": [
+   "Defence in depth only",
+   "Zero Trust",
+   "Least cost",
+   "Perimeter-only security"
+  ],
+  "answer": 1,
+  "explanation": "Never trust, always verify.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Cost",
+  "body": "Which tool compares the cost of running on-premises with running in Azure?",
+  "options": [
+   "Pricing calculator",
+   "Service Health",
+   "Azure Advisor",
+   "TCO calculator"
+  ],
+  "answer": 3,
+  "explanation": "The pricing calculator estimates the cost of Azure services.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Cost",
+  "body": "Which tool estimates the monthly cost of Azure services you plan to use?",
+  "options": [
+   "Pricing calculator",
+   "Azure Arc",
+   "Microsoft Purview",
+   "TCO calculator"
+  ],
+  "answer": 0,
+  "explanation": "Cost Management analyses actual spending.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Cost",
+  "body": "Which of these usually reduces the cost of a VM that runs 24/7 for years?",
+  "options": [
+   "Bigger VM sizes",
+   "Adding more regions",
+   "Spot VMs for production",
+   "Azure Reservations"
+  ],
+  "answer": 3,
+  "explanation": "Commit to 1 or 3 years for a discount.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Architecture",
+  "body": "What is an availability set?",
+  "options": [
+   "A way to spread VMs across fault and update domains in one datacentre",
+   "A backup policy",
+   "A billing scope",
+   "A group of subscriptions"
+  ],
+  "answer": 0,
+  "explanation": "It protects against rack-level failures and planned maintenance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Architecture",
+  "body": "Which service automatically adds or removes identical VMs based on demand?",
+  "options": [
+   "Virtual Machine Scale Sets",
+   "Azure Arc",
+   "Resource locks",
+   "Availability sets"
+  ],
+  "answer": 0,
+  "explanation": "They provide elasticity for VMs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Architecture",
+  "body": "What are Azure sovereign regions?",
+  "options": [
+   "Regions with no availability zones",
+   "Isolated instances of Azure for specific compliance or government needs",
+   "Regions for testing only",
+   "Cheaper regions"
+  ],
+  "answer": 1,
+  "explanation": "For example, Azure Government.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Storage",
+  "body": "Which blob access tier is cheapest to store but has the highest retrieval time?",
+  "options": [
+   "Hot",
+   "Cold only for VMs",
+   "Cool",
+   "Archive"
+  ],
+  "answer": 3,
+  "explanation": "Archive data must be rehydrated before reading.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Storage",
+  "body": "Which storage redundancy option keeps three copies in a single datacentre?",
+  "options": [
+   "LRS (locally redundant storage)",
+   "ZRS",
+   "GRS",
+   "GZRS"
+  ],
+  "answer": 0,
+  "explanation": "ZRS spreads copies across zones; GRS copies to a paired region.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Storage",
+  "body": "Which storage redundancy option copies data to a secondary region?",
+  "options": [
+   "LRS",
+   "GRS (geo-redundant storage)",
+   "Premium SSD",
+   "ZRS"
+  ],
+  "answer": 1,
+  "explanation": "It protects against a regional outage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Storage",
+  "body": "Which tool copies files to and from Azure Storage from the command line?",
+  "options": [
+   "Azure Arc",
+   "Azure Policy",
+   "AzCopy",
+   "Azure DNS"
+  ],
+  "answer": 2,
+  "explanation": "Azure Storage Explorer is the graphical alternative.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Storage",
+  "body": "Which service ships physical disks to move large amounts of data into Azure?",
+  "options": [
+   "Azure Files",
+   "Azure Data Box",
+   "Azure Migrate only",
+   "AzCopy"
+  ],
+  "answer": 1,
+  "explanation": "Used when network transfer would be too slow.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Migration",
+  "body": "Which service helps discover, assess and migrate on-premises servers to Azure?",
+  "options": [
+   "Azure Arc",
+   "Azure Migrate",
+   "Azure Advisor",
+   "Azure Monitor"
+  ],
+  "answer": 1,
+  "explanation": "It is a central hub for migration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Management",
+  "body": "Which tool lets you manage Azure from a browser-based shell?",
+  "options": [
+   "Azure Arc",
+   "Azure Data Box",
+   "Azure Cloud Shell",
+   "Azure DNS"
+  ],
+  "answer": 2,
+  "explanation": "It supports Bash and PowerShell.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Management",
+  "body": "Which approach describes infrastructure in templates such as ARM or Bicep?",
+  "options": [
+   "Manual configuration",
+   "Hybrid identity",
+   "Serverless computing",
+   "Infrastructure as code"
+  ],
+  "answer": 3,
+  "explanation": "Deployments become repeatable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Management",
+  "body": "Which Azure Monitor feature analyses application performance and usage?",
+  "options": [
+   "Log Analytics only",
+   "Service Health",
+   "Azure Advisor",
+   "Application Insights"
+  ],
+  "answer": 3,
+  "explanation": "It's an application performance monitoring service.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Cost",
+  "body": "Data going INTO Azure datacentres (ingress) is generally",
+  "options": [
+   "charged per GB",
+   "charged per user",
+   "free",
+   "only free for VMs"
+  ],
+  "answer": 2,
+  "explanation": "Egress (outbound) is usually charged.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure Virtual Machines used for?",
+  "options": [
+   "the deployment and management layer for Azure resources",
+   "serverless, event-driven code",
+   "IaaS virtual servers running Windows or Linux",
+   "distributing network traffic across VMs"
+  ],
+  "answer": 2,
+  "explanation": "Azure Virtual Machines: IaaS virtual servers running Windows or Linux.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure App Service used for?",
+  "options": [
+   "IaaS virtual servers running Windows or Linux",
+   "replicating workloads for disaster recovery",
+   "distributing network traffic across VMs",
+   "PaaS hosting for web apps and APIs"
+  ],
+  "answer": 3,
+  "explanation": "Azure App Service: PaaS hosting for web apps and APIs.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure Functions used for?",
+  "options": [
+   "private networking for Azure resources",
+   "a private connection to Azure that doesn't go over the public internet",
+   "hosting DNS domains in Azure",
+   "serverless, event-driven code"
+  ],
+  "answer": 3,
+  "explanation": "Azure Functions: serverless, event-driven code.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure Blob Storage used for?",
+  "options": [
+   "managed SMB/NFS file shares",
+   "backing up VMs, files and databases",
+   "object storage for unstructured data",
+   "cloud identity and access management (formerly Azure AD)"
+  ],
+  "answer": 2,
+  "explanation": "Azure Blob Storage: object storage for unstructured data.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure Files used for?",
+  "options": [
+   "data governance and compliance",
+   "managed SMB/NFS file shares",
+   "a private connection to Azure that doesn't go over the public internet",
+   "cloud identity and access management (formerly Azure AD)"
+  ],
+  "answer": 1,
+  "explanation": "Azure Files: managed SMB/NFS file shares.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure SQL Database used for?",
+  "options": [
+   "object storage for unstructured data",
+   "managing on-premises and multicloud resources from Azure",
+   "a globally distributed NoSQL database",
+   "a managed relational SQL database (PaaS)"
+  ],
+  "answer": 3,
+  "explanation": "Azure SQL Database: a managed relational SQL database (PaaS).",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure Cosmos DB used for?",
+  "options": [
+   "collecting and analysing metrics and logs",
+   "backing up VMs, files and databases",
+   "object storage for unstructured data",
+   "a globally distributed NoSQL database"
+  ],
+  "answer": 3,
+  "explanation": "Azure Cosmos DB: a globally distributed NoSQL database.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure Virtual Network used for?",
+  "options": [
+   "distributing network traffic across VMs",
+   "the deployment and management layer for Azure resources",
+   "object storage for unstructured data",
+   "private networking for Azure resources"
+  ],
+  "answer": 3,
+  "explanation": "Azure Virtual Network: private networking for Azure resources.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure VPN Gateway used for?",
+  "options": [
+   "PaaS hosting for web apps and APIs",
+   "encrypted connections to on-premises networks over the internet",
+   "managed Kubernetes for containers",
+   "a managed relational SQL database (PaaS)"
+  ],
+  "answer": 1,
+  "explanation": "Azure VPN Gateway: encrypted connections to on-premises networks over the internet.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure ExpressRoute used for?",
+  "options": [
+   "PaaS hosting for web apps and APIs",
+   "backing up VMs, files and databases",
+   "a private connection to Azure that doesn't go over the public internet",
+   "a globally distributed NoSQL database"
+  ],
+  "answer": 2,
+  "explanation": "Azure ExpressRoute: a private connection to Azure that doesn't go over the public internet.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Microsoft Entra ID used for?",
+  "options": [
+   "IaaS virtual servers running Windows or Linux",
+   "cloud identity and access management (formerly Azure AD)",
+   "information about Azure outages and planned maintenance affecting you",
+   "serverless, event-driven code"
+  ],
+  "answer": 1,
+  "explanation": "Microsoft Entra ID: cloud identity and access management (formerly Azure AD).",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure Policy used for?",
+  "options": [
+   "managed SMB/NFS file shares",
+   "global web traffic acceleration and load balancing",
+   "enforcing rules and compliance on resources",
+   "distributing network traffic across VMs"
+  ],
+  "answer": 2,
+  "explanation": "Azure Policy: enforcing rules and compliance on resources.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure Monitor used for?",
+  "options": [
+   "collecting and analysing metrics and logs",
+   "managed Kubernetes for containers",
+   "encrypted connections to on-premises networks over the internet",
+   "enforcing rules and compliance on resources"
+  ],
+  "answer": 0,
+  "explanation": "Azure Monitor: collecting and analysing metrics and logs.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure Advisor used for?",
+  "options": [
+   "cloud identity and access management (formerly Azure AD)",
+   "a globally distributed NoSQL database",
+   "personalised recommendations for cost, security, reliability and performance",
+   "serverless, event-driven code"
+  ],
+  "answer": 2,
+  "explanation": "Azure Advisor: personalised recommendations for cost, security, reliability and performance.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure Service Health used for?",
+  "options": [
+   "managed SMB/NFS file shares",
+   "object storage for unstructured data",
+   "information about Azure outages and planned maintenance affecting you",
+   "a globally distributed NoSQL database"
+  ],
+  "answer": 2,
+  "explanation": "Azure Service Health: information about Azure outages and planned maintenance affecting you.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Microsoft Defender for Cloud used for?",
+  "options": [
+   "a globally distributed NoSQL database",
+   "security posture management and threat protection",
+   "personalised recommendations for cost, security, reliability and performance",
+   "a managed relational SQL database (PaaS)"
+  ],
+  "answer": 1,
+  "explanation": "Microsoft Defender for Cloud: security posture management and threat protection.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure Key Vault used for?",
+  "options": [
+   "cloud identity and access management (formerly Azure AD)",
+   "cloud-hosted Windows desktops and apps",
+   "storing secrets, keys and certificates",
+   "information about Azure outages and planned maintenance affecting you"
+  ],
+  "answer": 2,
+  "explanation": "Azure Key Vault: storing secrets, keys and certificates.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure Kubernetes Service used for?",
+  "options": [
+   "a managed relational SQL database (PaaS)",
+   "managed Kubernetes for containers",
+   "global web traffic acceleration and load balancing",
+   "managing on-premises and multicloud resources from Azure"
+  ],
+  "answer": 1,
+  "explanation": "Azure Kubernetes Service: managed Kubernetes for containers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure Container Instances used for?",
+  "options": [
+   "IaaS virtual servers running Windows or Linux",
+   "running a container quickly without managing servers",
+   "managed SMB/NFS file shares",
+   "a globally distributed NoSQL database"
+  ],
+  "answer": 1,
+  "explanation": "Azure Container Instances: running a container quickly without managing servers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure DNS used for?",
+  "options": [
+   "managing on-premises and multicloud resources from Azure",
+   "hosting DNS domains in Azure",
+   "replicating workloads for disaster recovery",
+   "a managed relational SQL database (PaaS)"
+  ],
+  "answer": 1,
+  "explanation": "Azure DNS: hosting DNS domains in Azure.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure Arc used for?",
+  "options": [
+   "a managed relational SQL database (PaaS)",
+   "replicating workloads for disaster recovery",
+   "storing secrets, keys and certificates",
+   "managing on-premises and multicloud resources from Azure"
+  ],
+  "answer": 3,
+  "explanation": "Azure Arc: managing on-premises and multicloud resources from Azure.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure Resource Manager used for?",
+  "options": [
+   "the deployment and management layer for Azure resources",
+   "private networking for Azure resources",
+   "running a container quickly without managing servers",
+   "managed SMB/NFS file shares"
+  ],
+  "answer": 0,
+  "explanation": "Azure Resource Manager: the deployment and management layer for Azure resources.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Microsoft Purview used for?",
+  "options": [
+   "managed Kubernetes for containers",
+   "running a container quickly without managing servers",
+   "personalised recommendations for cost, security, reliability and performance",
+   "data governance and compliance"
+  ],
+  "answer": 3,
+  "explanation": "Microsoft Purview: data governance and compliance.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure Virtual Desktop used for?",
+  "options": [
+   "private networking for Azure resources",
+   "managed SMB/NFS file shares",
+   "cloud-hosted Windows desktops and apps",
+   "global web traffic acceleration and load balancing"
+  ],
+  "answer": 2,
+  "explanation": "Azure Virtual Desktop: cloud-hosted Windows desktops and apps.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure Load Balancer used for?",
+  "options": [
+   "a private connection to Azure that doesn't go over the public internet",
+   "managed Kubernetes for containers",
+   "PaaS hosting for web apps and APIs",
+   "distributing network traffic across VMs"
+  ],
+  "answer": 3,
+  "explanation": "Azure Load Balancer: distributing network traffic across VMs.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure Front Door used for?",
+  "options": [
+   "a managed relational SQL database (PaaS)",
+   "global web traffic acceleration and load balancing",
+   "hosting DNS domains in Azure",
+   "a globally distributed NoSQL database"
+  ],
+  "answer": 1,
+  "explanation": "Azure Front Door: global web traffic acceleration and load balancing.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure Backup used for?",
+  "options": [
+   "cloud identity and access management (formerly Azure AD)",
+   "backing up VMs, files and databases",
+   "cloud-hosted Windows desktops and apps",
+   "security posture management and threat protection"
+  ],
+  "answer": 1,
+  "explanation": "Azure Backup: backing up VMs, files and databases.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "What is Azure Site Recovery used for?",
+  "options": [
+   "serverless, event-driven code",
+   "replicating workloads for disaster recovery",
+   "hosting DNS domains in Azure",
+   "a managed relational SQL database (PaaS)"
+  ],
+  "answer": 1,
+  "explanation": "Azure Site Recovery: replicating workloads for disaster recovery.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides IaaS virtual servers running Windows or Linux?",
+  "options": [
+   "Azure Blob Storage",
+   "Azure Container Instances",
+   "Azure Virtual Machines",
+   "Azure DNS"
+  ],
+  "answer": 2,
+  "explanation": "Azure Virtual Machines: IaaS virtual servers running Windows or Linux.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides PaaS hosting for web apps and APIs?",
+  "options": [
+   "Azure Files",
+   "Azure App Service",
+   "Azure SQL Database",
+   "Azure Cosmos DB"
+  ],
+  "answer": 1,
+  "explanation": "Azure App Service: PaaS hosting for web apps and APIs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides serverless, event-driven code?",
+  "options": [
+   "Azure Virtual Desktop",
+   "Azure Functions",
+   "Azure SQL Database",
+   "Azure Virtual Network"
+  ],
+  "answer": 1,
+  "explanation": "Azure Functions: serverless, event-driven code.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides object storage for unstructured data?",
+  "options": [
+   "Azure Files",
+   "Azure Blob Storage",
+   "Azure Virtual Desktop",
+   "Azure Policy"
+  ],
+  "answer": 1,
+  "explanation": "Azure Blob Storage: object storage for unstructured data.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides managed SMB/NFS file shares?",
+  "options": [
+   "Azure SQL Database",
+   "Azure Policy",
+   "Azure Blob Storage",
+   "Azure Files"
+  ],
+  "answer": 3,
+  "explanation": "Azure Files: managed SMB/NFS file shares.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides a managed relational SQL database (PaaS)?",
+  "options": [
+   "Azure SQL Database",
+   "Azure Functions",
+   "Azure Virtual Network",
+   "Azure Site Recovery"
+  ],
+  "answer": 0,
+  "explanation": "Azure SQL Database: a managed relational SQL database (PaaS).",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides a globally distributed NoSQL database?",
+  "options": [
+   "Azure Key Vault",
+   "Azure Files",
+   "Azure Cosmos DB",
+   "Azure Arc"
+  ],
+  "answer": 2,
+  "explanation": "Azure Cosmos DB: a globally distributed NoSQL database.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides private networking for Azure resources?",
+  "options": [
+   "Azure DNS",
+   "Azure Blob Storage",
+   "Azure Monitor",
+   "Azure Virtual Network"
+  ],
+  "answer": 3,
+  "explanation": "Azure Virtual Network: private networking for Azure resources.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides encrypted connections to on-premises networks over the internet?",
+  "options": [
+   "Azure DNS",
+   "Azure VPN Gateway",
+   "Azure ExpressRoute",
+   "Azure Monitor"
+  ],
+  "answer": 1,
+  "explanation": "Azure VPN Gateway: encrypted connections to on-premises networks over the internet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides a private connection to Azure that doesn't go over the public internet?",
+  "options": [
+   "Azure Blob Storage",
+   "Azure Monitor",
+   "Azure ExpressRoute",
+   "Azure Functions"
+  ],
+  "answer": 2,
+  "explanation": "Azure ExpressRoute: a private connection to Azure that doesn't go over the public internet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides cloud identity and access management (formerly Azure AD)?",
+  "options": [
+   "Microsoft Entra ID",
+   "Azure Functions",
+   "Azure App Service",
+   "Azure Cosmos DB"
+  ],
+  "answer": 0,
+  "explanation": "Microsoft Entra ID: cloud identity and access management (formerly Azure AD).",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides enforcing rules and compliance on resources?",
+  "options": [
+   "Azure Policy",
+   "Azure ExpressRoute",
+   "Azure Blob Storage",
+   "Azure VPN Gateway"
+  ],
+  "answer": 0,
+  "explanation": "Azure Policy: enforcing rules and compliance on resources.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides collecting and analysing metrics and logs?",
+  "options": [
+   "Azure Monitor",
+   "Azure Service Health",
+   "Azure Front Door",
+   "Azure Kubernetes Service"
+  ],
+  "answer": 0,
+  "explanation": "Azure Monitor: collecting and analysing metrics and logs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides personalised recommendations for cost, security, reliability and performance?",
+  "options": [
+   "Azure Advisor",
+   "Azure Virtual Network",
+   "Azure Blob Storage",
+   "Azure Site Recovery"
+  ],
+  "answer": 0,
+  "explanation": "Azure Advisor: personalised recommendations for cost, security, reliability and performance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides information about Azure outages and planned maintenance affecting you?",
+  "options": [
+   "Azure Arc",
+   "Azure Policy",
+   "Azure Blob Storage",
+   "Azure Service Health"
+  ],
+  "answer": 3,
+  "explanation": "Azure Service Health: information about Azure outages and planned maintenance affecting you.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides security posture management and threat protection?",
+  "options": [
+   "Azure Front Door",
+   "Azure Virtual Desktop",
+   "Microsoft Entra ID",
+   "Microsoft Defender for Cloud"
+  ],
+  "answer": 3,
+  "explanation": "Microsoft Defender for Cloud: security posture management and threat protection.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides storing secrets, keys and certificates?",
+  "options": [
+   "Azure Advisor",
+   "Azure VPN Gateway",
+   "Microsoft Entra ID",
+   "Azure Key Vault"
+  ],
+  "answer": 3,
+  "explanation": "Azure Key Vault: storing secrets, keys and certificates.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides managed Kubernetes for containers?",
+  "options": [
+   "Azure Policy",
+   "Azure Virtual Machines",
+   "Microsoft Entra ID",
+   "Azure Kubernetes Service"
+  ],
+  "answer": 3,
+  "explanation": "Azure Kubernetes Service: managed Kubernetes for containers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides running a container quickly without managing servers?",
+  "options": [
+   "Azure Container Instances",
+   "Azure Cosmos DB",
+   "Azure Kubernetes Service",
+   "Azure Blob Storage"
+  ],
+  "answer": 0,
+  "explanation": "Azure Container Instances: running a container quickly without managing servers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides hosting DNS domains in Azure?",
+  "options": [
+   "Azure Front Door",
+   "Azure Functions",
+   "Azure Virtual Machines",
+   "Azure DNS"
+  ],
+  "answer": 3,
+  "explanation": "Azure DNS: hosting DNS domains in Azure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides managing on-premises and multicloud resources from Azure?",
+  "options": [
+   "Azure SQL Database",
+   "Azure Arc",
+   "Azure DNS",
+   "Azure Policy"
+  ],
+  "answer": 1,
+  "explanation": "Azure Arc: managing on-premises and multicloud resources from Azure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides the deployment and management layer for Azure resources?",
+  "options": [
+   "Azure Kubernetes Service",
+   "Azure Files",
+   "Azure Front Door",
+   "Azure Resource Manager"
+  ],
+  "answer": 3,
+  "explanation": "Azure Resource Manager: the deployment and management layer for Azure resources.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides data governance and compliance?",
+  "options": [
+   "Azure Cosmos DB",
+   "Azure App Service",
+   "Azure Blob Storage",
+   "Microsoft Purview"
+  ],
+  "answer": 3,
+  "explanation": "Microsoft Purview: data governance and compliance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides cloud-hosted Windows desktops and apps?",
+  "options": [
+   "Azure VPN Gateway",
+   "Azure Virtual Desktop",
+   "Azure Kubernetes Service",
+   "Azure Site Recovery"
+  ],
+  "answer": 1,
+  "explanation": "Azure Virtual Desktop: cloud-hosted Windows desktops and apps.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides distributing network traffic across VMs?",
+  "options": [
+   "Azure Files",
+   "Azure Backup",
+   "Azure Virtual Network",
+   "Azure Load Balancer"
+  ],
+  "answer": 3,
+  "explanation": "Azure Load Balancer: distributing network traffic across VMs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides global web traffic acceleration and load balancing?",
+  "options": [
+   "Azure DNS",
+   "Azure Resource Manager",
+   "Azure Front Door",
+   "Microsoft Purview"
+  ],
+  "answer": 2,
+  "explanation": "Azure Front Door: global web traffic acceleration and load balancing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides backing up VMs, files and databases?",
+  "options": [
+   "Azure Service Health",
+   "Azure Backup",
+   "Azure Front Door",
+   "Azure Files"
+  ],
+  "answer": 1,
+  "explanation": "Azure Backup: backing up VMs, files and databases.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "Services",
+  "body": "Which Azure service provides replicating workloads for disaster recovery?",
+  "options": [
+   "Azure Files",
+   "Azure Site Recovery",
+   "Azure Blob Storage",
+   "Azure SQL Database"
+  ],
+  "answer": 1,
+  "explanation": "Azure Site Recovery: replicating workloads for disaster recovery.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZF",
+  "topic": "SLAs",
+  "body": "An app depends on a web app with a 99.9% SLA and a database with a 99.99% SLA. What is the composite SLA?",
+  "options": [
+   "99.9%",
+   "99.945%",
+   "99.99%",
+   "99.89%"
+  ],
+  "answer": 3,
+  "explanation": "Multiply the SLAs: 99.9% × 99.99% ≈ 99.89%. A chain of services is less available than any single part.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AZF",
+  "topic": "SLAs",
+  "body": "An app depends on a web app with a 99.9% SLA and a database with a 99.95% SLA. What is the composite SLA?",
+  "options": [
+   "99.9%",
+   "99.85%",
+   "99.925%",
+   "99.95%"
+  ],
+  "answer": 1,
+  "explanation": "Multiply the SLAs: 99.9% × 99.95% ≈ 99.85%. A chain of services is less available than any single part.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AZF",
+  "topic": "SLAs",
+  "body": "An app depends on a web app with a 99.95% SLA and a database with a 99.99% SLA. What is the composite SLA?",
+  "options": [
+   "99.94%",
+   "99.95%",
+   "99.97%",
+   "99.99%"
+  ],
+  "answer": 0,
+  "explanation": "Multiply the SLAs: 99.95% × 99.99% ≈ 99.94%. A chain of services is less available than any single part.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AZF",
+  "topic": "SLAs",
+  "body": "An app depends on a web app with a 99.95% SLA and a database with a 99.9% SLA. What is the composite SLA?",
+  "options": [
+   "99.925%",
+   "99.85%",
+   "99.9%",
+   "99.95%"
+  ],
+  "answer": 1,
+  "explanation": "Multiply the SLAs: 99.95% × 99.9% ≈ 99.85%. A chain of services is less available than any single part.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AZF",
+  "topic": "SLAs",
+  "body": "An app depends on a web app with a 99.99% SLA and a database with a 99.9% SLA. What is the composite SLA?",
+  "options": [
+   "99.89%",
+   "99.9%",
+   "99.945%",
+   "99.99%"
+  ],
+  "answer": 0,
+  "explanation": "Multiply the SLAs: 99.99% × 99.9% ≈ 99.89%. A chain of services is less available than any single part.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AZF",
+  "topic": "SLAs",
+  "body": "An app depends on a web app with a 99.99% SLA and a database with a 99.95% SLA. What is the composite SLA?",
+  "options": [
+   "99.99%",
+   "99.95%",
+   "99.97%",
+   "99.94%"
+  ],
+  "answer": 3,
+  "explanation": "Multiply the SLAs: 99.99% × 99.95% ≈ 99.94%. A chain of services is less available than any single part.",
+  "difficulty": 3
+ }
+]

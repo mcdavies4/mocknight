@@ -1,0 +1,1444 @@
+[
+ {
+  "subject": "ITF",
+  "topic": "Troubleshooting",
+  "body": "What is the FIRST step in the standard troubleshooting methodology?",
+  "options": [
+   "Establish a theory of probable cause",
+   "Document findings",
+   "Implement the solution",
+   "Identify the problem"
+  ],
+  "answer": 3,
+  "explanation": "Identify the problem → theory → test → plan → implement → verify → document.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Troubleshooting",
+  "body": "After fixing a fault, what should a technician do before closing the ticket?",
+  "options": [
+   "Reboot the server farm",
+   "Escalate to management",
+   "Verify full system functionality and document the fix",
+   "Delete the ticket history"
+  ],
+  "answer": 2,
+  "explanation": "Verify the fix and implement preventive measures, then document.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Troubleshooting",
+  "body": "A theory of probable cause is confirmed. What comes next?",
+  "options": [
+   "Close the ticket",
+   "Replace all hardware",
+   "Identify the problem again",
+   "Establish a plan of action to resolve the problem"
+  ],
+  "answer": 3,
+  "explanation": "Then implement the plan or escalate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Troubleshooting",
+  "body": "A user says 'the internet is down'. Others on the same network are fine. What is the most sensible next check?",
+  "options": [
+   "Call the internet provider",
+   "Check that user's own connection, cable or Wi-Fi settings",
+   "Restart the company's core router",
+   "Reinstall the user's operating system"
+  ],
+  "answer": 1,
+  "explanation": "If only one user is affected, start at their device.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Troubleshooting",
+  "body": "A PC shows 'No boot device found' after a new SSD was installed. What is the most likely cause?",
+  "options": [
+   "The boot order or the drive connection/installation",
+   "A full recycle bin",
+   "A faulty monitor",
+   "An expired antivirus licence"
+  ],
+  "answer": 0,
+  "explanation": "The firmware cannot find a bootable drive.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Troubleshooting",
+  "body": "A laptop runs on battery but won't charge when plugged in. What should you check first?",
+  "options": [
+   "The charger, cable and power outlet",
+   "The screen resolution",
+   "The keyboard layout",
+   "The graphics driver"
+  ],
+  "answer": 0,
+  "explanation": "Check the simplest, most likely cause first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Operating systems",
+  "body": "Which Windows tool shows running processes and lets you end a frozen program?",
+  "options": [
+   "Event Viewer",
+   "Disk Management",
+   "Device Manager",
+   "Task Manager"
+  ],
+  "answer": 3,
+  "explanation": "Open it with Ctrl+Shift+Esc.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Operating systems",
+  "body": "Which Windows tool is used to update or roll back a device driver?",
+  "options": [
+   "Task Manager",
+   "Registry Editor",
+   "Device Manager",
+   "Disk Cleanup"
+  ],
+  "answer": 2,
+  "explanation": "Right-click the device → Properties → Driver.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Operating systems",
+  "body": "Which Windows tool shows system and application logs for diagnosing errors?",
+  "options": [
+   "Event Viewer",
+   "Resource Monitor",
+   "Control Panel",
+   "Task Scheduler"
+  ],
+  "answer": 0,
+  "explanation": "Logs are grouped into Application, Security and System.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Operating systems",
+  "body": "Which Windows command shows the computer's IP configuration?",
+  "options": [
+   "ipconfig",
+   "netstat -r only",
+   "chkdsk",
+   "ifconfig only"
+  ],
+  "answer": 0,
+  "explanation": "Use ipconfig /all for full details. Linux uses ip addr (or ifconfig).",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Operating systems",
+  "body": "Which Linux command lists files in a directory?",
+  "options": [
+   "pwd",
+   "ls",
+   "dir only",
+   "cd"
+  ],
+  "answer": 1,
+  "explanation": "pwd prints the current directory; cd changes it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Operating systems",
+  "body": "Which Linux command changes file permissions?",
+  "options": [
+   "chmod",
+   "sudo",
+   "chown",
+   "grep"
+  ],
+  "answer": 0,
+  "explanation": "chown changes ownership; sudo runs a command as another user (often root).",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Operating systems",
+  "body": "Which file system is the default for modern Windows system drives?",
+  "options": [
+   "FAT32",
+   "APFS",
+   "NTFS",
+   "ext4"
+  ],
+  "answer": 2,
+  "explanation": "ext4 is common on Linux and APFS on macOS.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Operating systems",
+  "body": "What is the main limitation of the FAT32 file system?",
+  "options": [
+   "A maximum single file size of 4 GB",
+   "It can't be read by Windows",
+   "It only works on SSDs",
+   "It has no folders"
+  ],
+  "answer": 0,
+  "explanation": "exFAT removes this limit for removable drives.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Software",
+  "body": "Software you can use for free but whose source code is not shared is called",
+  "options": [
+   "open source",
+   "firmware",
+   "freeware",
+   "shareware with a trial"
+  ],
+  "answer": 2,
+  "explanation": "Open-source software publishes its source code.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Software",
+  "body": "Which type of licence lets anyone view, modify and share the source code?",
+  "options": [
+   "Site licence only",
+   "Single-user EULA",
+   "Open source",
+   "Proprietary"
+  ],
+  "answer": 2,
+  "explanation": "Examples include Linux and LibreOffice.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Security",
+  "body": "What does MFA require?",
+  "options": [
+   "A longer password",
+   "Two passwords",
+   "A password changed monthly",
+   "Two or more different types of authentication factor"
+  ],
+  "answer": 3,
+  "explanation": "Factors: something you know, have, or are.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Security",
+  "body": "An email urges you to 'verify your account' via a link to a lookalike site. This is",
+  "options": [
+   "phishing",
+   "a brute-force attack",
+   "a firmware update",
+   "a DDoS attack"
+  ],
+  "answer": 0,
+  "explanation": "Report it and don't click the link.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Security",
+  "body": "Which malware encrypts files and demands payment?",
+  "options": [
+   "A keylogger",
+   "Adware",
+   "A worm only",
+   "Ransomware"
+  ],
+  "answer": 3,
+  "explanation": "Good backups are the main defence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Security",
+  "body": "The principle of least privilege means",
+  "options": [
+   "users get only the access they need to do their job",
+   "passwords never expire",
+   "all ports are open",
+   "everyone is an administrator"
+  ],
+  "answer": 0,
+  "explanation": "It limits damage from mistakes and compromised accounts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Security",
+  "body": "Which backup rule recommends 3 copies, on 2 types of media, with 1 off-site?",
+  "options": [
+   "RAID 5",
+   "The 80/20 rule",
+   "The 1-2-3 rule",
+   "The 3-2-1 rule"
+  ],
+  "answer": 3,
+  "explanation": "It protects against device failure, disasters and ransomware.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Security",
+  "body": "Someone follows an employee through a secure door without badging in. This is",
+  "options": [
+   "tailgating",
+   "phishing",
+   "shoulder surfing",
+   "spoofing"
+  ],
+  "answer": 0,
+  "explanation": "Shoulder surfing is watching someone type a PIN or password.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Networking",
+  "body": "Which service turns a website name into an IP address?",
+  "options": [
+   "FTP",
+   "NAT",
+   "DHCP",
+   "DNS"
+  ],
+  "answer": 3,
+  "explanation": "DHCP assigns addresses; DNS resolves names.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Networking",
+  "body": "An IP address starting 169.254 on Windows usually means",
+  "options": [
+   "IPv6 is disabled",
+   "the DNS server is down only",
+   "the device has a static public IP",
+   "the device could not reach a DHCP server"
+  ],
+  "answer": 3,
+  "explanation": "It's an APIPA (link-local) address.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Networking",
+  "body": "Which Wi-Fi security standard is the newest and strongest?",
+  "options": [
+   "WPA3",
+   "WEP",
+   "WPA",
+   "WPA2-TKIP"
+  ],
+  "answer": 0,
+  "explanation": "WEP is broken and should never be used.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Networking",
+  "body": "What does a router mainly do?",
+  "options": [
+   "Stores files",
+   "Forwards traffic between different networks",
+   "Provides power",
+   "Prints documents"
+  ],
+  "answer": 1,
+  "explanation": "A switch connects devices within the same network.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Networking",
+  "body": "Which cable connector is used for wired Ethernet?",
+  "options": [
+   "USB-C only",
+   "HDMI",
+   "RJ45",
+   "RJ11"
+  ],
+  "answer": 2,
+  "explanation": "RJ11 is for telephone lines.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Cloud",
+  "body": "Which cloud model provides ready-to-use applications such as webmail?",
+  "options": [
+   "PaaS",
+   "On-premises",
+   "SaaS",
+   "IaaS"
+  ],
+  "answer": 2,
+  "explanation": "IaaS provides virtual machines; PaaS provides a platform to build apps.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Cloud",
+  "body": "Which cloud model provides virtual machines, storage and networks you manage yourself?",
+  "options": [
+   "FaaS only",
+   "IaaS",
+   "PaaS",
+   "SaaS"
+  ],
+  "answer": 1,
+  "explanation": "You manage the OS and apps; the provider manages hardware.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Hardware",
+  "body": "Which RAID level mirrors data across two drives?",
+  "options": [
+   "RAID 1",
+   "RAID 0",
+   "RAID 10 only",
+   "RAID 5"
+  ],
+  "answer": 0,
+  "explanation": "RAID 0 stripes with no redundancy; RAID 5 uses parity across 3+ drives.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Hardware",
+  "body": "Which RAID level stripes data for speed but gives NO fault tolerance?",
+  "options": [
+   "RAID 1",
+   "RAID 5",
+   "RAID 0",
+   "RAID 6"
+  ],
+  "answer": 2,
+  "explanation": "If one drive fails, all data is lost.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Hardware",
+  "body": "Which port is most commonly used to connect a modern monitor?",
+  "options": [
+   "HDMI or DisplayPort",
+   "VGA only",
+   "PS/2",
+   "RJ45"
+  ],
+  "answer": 0,
+  "explanation": "VGA is legacy analogue.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Hardware",
+  "body": "A thermal paste problem would most likely cause the computer to",
+  "options": [
+   "show the wrong time",
+   "overheat and shut down or throttle",
+   "print blank pages",
+   "lose Wi-Fi"
+  ],
+  "answer": 1,
+  "explanation": "Thermal paste transfers heat from the CPU to the cooler.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Helpdesk",
+  "body": "What is an SLA in IT support?",
+  "options": [
+   "An agreement setting the expected service levels, such as response times",
+   "A security patch",
+   "A type of cable",
+   "A backup method"
+  ],
+  "answer": 0,
+  "explanation": "Service Level Agreement.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Helpdesk",
+  "body": "When should a technician escalate a ticket?",
+  "options": [
+   "Only if the user is angry",
+   "When the issue is beyond their knowledge, access or authority",
+   "Before asking any questions",
+   "Never"
+  ],
+  "answer": 1,
+  "explanation": "Escalate with notes of what was already tried.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Helpdesk",
+  "body": "Before making a major change on a user's PC, a technician should first",
+  "options": [
+   "make sure the user's data is backed up",
+   "remove the antivirus",
+   "change the user's password",
+   "delete temporary files"
+  ],
+  "answer": 0,
+  "explanation": "Protect data before risky changes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which port does HTTP use by default?",
+  "options": [
+   "445",
+   "21",
+   "80",
+   "22"
+  ],
+  "answer": 2,
+  "explanation": "HTTP uses port 80.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which port does HTTPS use by default?",
+  "options": [
+   "143",
+   "443",
+   "67",
+   "3389"
+  ],
+  "answer": 1,
+  "explanation": "HTTPS uses port 443.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which port does SSH use by default?",
+  "options": [
+   "80",
+   "143",
+   "22",
+   "53"
+  ],
+  "answer": 2,
+  "explanation": "SSH uses port 22.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which port does Telnet use by default?",
+  "options": [
+   "67",
+   "23",
+   "445",
+   "53"
+  ],
+  "answer": 1,
+  "explanation": "Telnet uses port 23.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which port does FTP (control) use by default?",
+  "options": [
+   "3389",
+   "67",
+   "443",
+   "21"
+  ],
+  "answer": 3,
+  "explanation": "FTP (control) uses port 21.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which port does SMTP use by default?",
+  "options": [
+   "443",
+   "80",
+   "25",
+   "22"
+  ],
+  "answer": 2,
+  "explanation": "SMTP uses port 25.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which port does DNS use by default?",
+  "options": [
+   "25",
+   "143",
+   "53",
+   "80"
+  ],
+  "answer": 2,
+  "explanation": "DNS uses port 53.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which port does POP3 use by default?",
+  "options": [
+   "3389",
+   "21",
+   "23",
+   "110"
+  ],
+  "answer": 3,
+  "explanation": "POP3 uses port 110.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which port does IMAP use by default?",
+  "options": [
+   "22",
+   "143",
+   "443",
+   "110"
+  ],
+  "answer": 1,
+  "explanation": "IMAP uses port 143.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which port does RDP use by default?",
+  "options": [
+   "3389",
+   "22",
+   "67",
+   "53"
+  ],
+  "answer": 0,
+  "explanation": "RDP uses port 3389.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which port does SMB use by default?",
+  "options": [
+   "80",
+   "22",
+   "445",
+   "21"
+  ],
+  "answer": 2,
+  "explanation": "SMB uses port 445.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which port does DHCP (server) use by default?",
+  "options": [
+   "80",
+   "21",
+   "110",
+   "67"
+  ],
+  "answer": 3,
+  "explanation": "DHCP (server) uses port 67.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which protocol uses port 80 by default?",
+  "options": [
+   "Telnet",
+   "DNS",
+   "HTTP",
+   "FTP (control)"
+  ],
+  "answer": 2,
+  "explanation": "HTTP uses port 80.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which protocol uses port 443 by default?",
+  "options": [
+   "SMB",
+   "RDP",
+   "HTTPS",
+   "IMAP"
+  ],
+  "answer": 2,
+  "explanation": "HTTPS uses port 443.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which protocol uses port 22 by default?",
+  "options": [
+   "HTTPS",
+   "SMTP",
+   "HTTP",
+   "SSH"
+  ],
+  "answer": 3,
+  "explanation": "SSH uses port 22.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which protocol uses port 23 by default?",
+  "options": [
+   "DNS",
+   "Telnet",
+   "DHCP (server)",
+   "HTTP"
+  ],
+  "answer": 1,
+  "explanation": "Telnet uses port 23.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which protocol uses port 21 by default?",
+  "options": [
+   "IMAP",
+   "SSH",
+   "FTP (control)",
+   "HTTP"
+  ],
+  "answer": 2,
+  "explanation": "FTP (control) uses port 21.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which protocol uses port 25 by default?",
+  "options": [
+   "Telnet",
+   "SMTP",
+   "SSH",
+   "POP3"
+  ],
+  "answer": 1,
+  "explanation": "SMTP uses port 25.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which protocol uses port 53 by default?",
+  "options": [
+   "DNS",
+   "HTTPS",
+   "SSH",
+   "SMB"
+  ],
+  "answer": 0,
+  "explanation": "DNS uses port 53.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which protocol uses port 110 by default?",
+  "options": [
+   "RDP",
+   "HTTP",
+   "SMB",
+   "POP3"
+  ],
+  "answer": 3,
+  "explanation": "POP3 uses port 110.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which protocol uses port 143 by default?",
+  "options": [
+   "IMAP",
+   "HTTP",
+   "RDP",
+   "FTP (control)"
+  ],
+  "answer": 0,
+  "explanation": "IMAP uses port 143.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which protocol uses port 3389 by default?",
+  "options": [
+   "HTTP",
+   "IMAP",
+   "RDP",
+   "FTP (control)"
+  ],
+  "answer": 2,
+  "explanation": "RDP uses port 3389.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which protocol uses port 445 by default?",
+  "options": [
+   "Telnet",
+   "HTTP",
+   "SMB",
+   "DNS"
+  ],
+  "answer": 2,
+  "explanation": "SMB uses port 445.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Ports & protocols",
+  "body": "Which protocol uses port 67 by default?",
+  "options": [
+   "RDP",
+   "SSH",
+   "Telnet",
+   "DHCP (server)"
+  ],
+  "answer": 3,
+  "explanation": "DHCP (server) uses port 67.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Hardware",
+  "body": "Which component processes instructions and performs calculations?",
+  "options": [
+   "CPU",
+   "GPU",
+   "HDD",
+   "PSU"
+  ],
+  "answer": 0,
+  "explanation": "The CPU processes instructions and performs calculations.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Hardware",
+  "body": "Which component temporarily holds data and programs currently in use and is cleared when power is lost?",
+  "options": [
+   "NIC",
+   "Motherboard",
+   "GPU",
+   "RAM"
+  ],
+  "answer": 3,
+  "explanation": "The RAM temporarily holds data and programs currently in use and is cleared when power is lost.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Hardware",
+  "body": "Which component stores data permanently using flash memory with no moving parts?",
+  "options": [
+   "BIOS/UEFI firmware",
+   "GPU",
+   "PSU",
+   "SSD"
+  ],
+  "answer": 3,
+  "explanation": "The SSD stores data permanently using flash memory with no moving parts.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Hardware",
+  "body": "Which component stores data permanently on spinning magnetic platters?",
+  "options": [
+   "Motherboard",
+   "GPU",
+   "BIOS/UEFI firmware",
+   "HDD"
+  ],
+  "answer": 3,
+  "explanation": "The HDD stores data permanently on spinning magnetic platters.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Hardware",
+  "body": "Which component renders images and video and handles parallel graphics workloads?",
+  "options": [
+   "HDD",
+   "SSD",
+   "Motherboard",
+   "GPU"
+  ],
+  "answer": 3,
+  "explanation": "The GPU renders images and video and handles parallel graphics workloads.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Hardware",
+  "body": "Which component connects the CPU, memory, storage and expansion cards?",
+  "options": [
+   "HDD",
+   "CPU",
+   "BIOS/UEFI firmware",
+   "Motherboard"
+  ],
+  "answer": 3,
+  "explanation": "The motherboard connects the CPU, memory, storage and expansion cards.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Hardware",
+  "body": "Which component converts mains AC power into the DC voltages the computer uses?",
+  "options": [
+   "Motherboard",
+   "PSU",
+   "RAM",
+   "CPU"
+  ],
+  "answer": 1,
+  "explanation": "The PSU converts mains AC power into the DC voltages the computer uses.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Hardware",
+  "body": "Which component connects a computer to a network?",
+  "options": [
+   "BIOS/UEFI firmware",
+   "NIC",
+   "PSU",
+   "SSD"
+  ],
+  "answer": 1,
+  "explanation": "The NIC connects a computer to a network.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Hardware",
+  "body": "Which component starts the hardware checks and boots the operating system?",
+  "options": [
+   "BIOS/UEFI firmware",
+   "PSU",
+   "RAM",
+   "Motherboard"
+  ],
+  "answer": 0,
+  "explanation": "The BIOS/UEFI firmware starts the hardware checks and boots the operating system.",
+  "difficulty": 1
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "What is the binary number 10000000 in decimal?",
+  "options": [
+   "127",
+   "129",
+   "256",
+   "128"
+  ],
+  "answer": 3,
+  "explanation": "Add the place values (1, 2, 4, 8, 16…) of each 1 bit: 10000000 = 128.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "What is the binary number 101110 in decimal?",
+  "options": [
+   "46",
+   "45",
+   "92",
+   "47"
+  ],
+  "answer": 0,
+  "explanation": "Add the place values (1, 2, 4, 8, 16…) of each 1 bit: 101110 = 46.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "What is the binary number 10110111 in decimal?",
+  "options": [
+   "366",
+   "183",
+   "182",
+   "184"
+  ],
+  "answer": 1,
+  "explanation": "Add the place values (1, 2, 4, 8, 16…) of each 1 bit: 10110111 = 183.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "What is the binary number 100011 in decimal?",
+  "options": [
+   "36",
+   "35",
+   "34",
+   "70"
+  ],
+  "answer": 1,
+  "explanation": "Add the place values (1, 2, 4, 8, 16…) of each 1 bit: 100011 = 35.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "What is the binary number 110001 in decimal?",
+  "options": [
+   "48",
+   "49",
+   "50",
+   "98"
+  ],
+  "answer": 1,
+  "explanation": "Add the place values (1, 2, 4, 8, 16…) of each 1 bit: 110001 = 49.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "What is the binary number 1111010 in decimal?",
+  "options": [
+   "123",
+   "121",
+   "122",
+   "244"
+  ],
+  "answer": 2,
+  "explanation": "Add the place values (1, 2, 4, 8, 16…) of each 1 bit: 1111010 = 122.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "What is the binary number 10011100 in decimal?",
+  "options": [
+   "312",
+   "155",
+   "157",
+   "156"
+  ],
+  "answer": 3,
+  "explanation": "Add the place values (1, 2, 4, 8, 16…) of each 1 bit: 10011100 = 156.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "What is the binary number 1111011 in decimal?",
+  "options": [
+   "123",
+   "246",
+   "124",
+   "122"
+  ],
+  "answer": 0,
+  "explanation": "Add the place values (1, 2, 4, 8, 16…) of each 1 bit: 1111011 = 123.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "What is the binary number 10000100 in decimal?",
+  "options": [
+   "132",
+   "133",
+   "264",
+   "131"
+  ],
+  "answer": 0,
+  "explanation": "Add the place values (1, 2, 4, 8, 16…) of each 1 bit: 10000100 = 132.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "What is the binary number 10000011 in decimal?",
+  "options": [
+   "262",
+   "131",
+   "130",
+   "132"
+  ],
+  "answer": 1,
+  "explanation": "Add the place values (1, 2, 4, 8, 16…) of each 1 bit: 10000011 = 131.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "What is the binary number 1001100 in decimal?",
+  "options": [
+   "76",
+   "152",
+   "77",
+   "75"
+  ],
+  "answer": 0,
+  "explanation": "Add the place values (1, 2, 4, 8, 16…) of each 1 bit: 1001100 = 76.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "What is the binary number 10110 in decimal?",
+  "options": [
+   "44",
+   "22",
+   "21",
+   "23"
+  ],
+  "answer": 1,
+  "explanation": "Add the place values (1, 2, 4, 8, 16…) of each 1 bit: 10110 = 22.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "What is hexadecimal 2C in decimal?",
+  "options": [
+   "44",
+   "2",
+   "34",
+   "60"
+  ],
+  "answer": 0,
+  "explanation": "2C = 2×16 + 12 = 44.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "What is hexadecimal 1F in decimal?",
+  "options": [
+   "21",
+   "1",
+   "47",
+   "31"
+  ],
+  "answer": 3,
+  "explanation": "1F = 1×16 + 15 = 31.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "What is hexadecimal 3A in decimal?",
+  "options": [
+   "48",
+   "74",
+   "58",
+   "3"
+  ],
+  "answer": 2,
+  "explanation": "3A = 3×16 + 10 = 58.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "What is hexadecimal 27 in decimal?",
+  "options": [
+   "39",
+   "55",
+   "29",
+   "27"
+  ],
+  "answer": 0,
+  "explanation": "27 = 2×16 + 7 = 39.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "What is hexadecimal 47 in decimal?",
+  "options": [
+   "87",
+   "61",
+   "47",
+   "71"
+  ],
+  "answer": 3,
+  "explanation": "47 = 4×16 + 7 = 71.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "What is hexadecimal 73 in decimal?",
+  "options": [
+   "131",
+   "73",
+   "115",
+   "105"
+  ],
+  "answer": 2,
+  "explanation": "73 = 7×16 + 3 = 115.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "What is hexadecimal D4 in decimal?",
+  "options": [
+   "202",
+   "228",
+   "212",
+   "215"
+  ],
+  "answer": 2,
+  "explanation": "D4 = 13×16 + 4 = 212.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "What is hexadecimal 21 in decimal?",
+  "options": [
+   "23",
+   "21",
+   "49",
+   "33"
+  ],
+  "answer": 3,
+  "explanation": "21 = 2×16 + 1 = 33.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "Roughly how long does it take to download a 50 MB file on a 8 Mbps connection (ignoring overhead)?",
+  "options": [
+   "50 seconds",
+   "6.25 seconds",
+   "400 seconds",
+   "25 seconds"
+  ],
+  "answer": 0,
+  "explanation": "50 MB × 8 = 400 megabits; ÷ 8 Mbps = 50 s. Bytes are 8 bits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "Roughly how long does it take to download a 500 MB file on a 100 Mbps connection (ignoring overhead)?",
+  "options": [
+   "20 seconds",
+   "320 seconds",
+   "40 seconds",
+   "5 seconds"
+  ],
+  "answer": 2,
+  "explanation": "500 MB × 8 = 4000 megabits; ÷ 100 Mbps = 40 s. Bytes are 8 bits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "Roughly how long does it take to download a 1000 MB file on a 200 Mbps connection (ignoring overhead)?",
+  "options": [
+   "40 seconds",
+   "20 seconds",
+   "320 seconds",
+   "5 seconds"
+  ],
+  "answer": 0,
+  "explanation": "1000 MB × 8 = 8000 megabits; ÷ 200 Mbps = 40 s. Bytes are 8 bits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "Roughly how long does it take to download a 400 MB file on a 80 Mbps connection (ignoring overhead)?",
+  "options": [
+   "20 seconds",
+   "40 seconds",
+   "5 seconds",
+   "320 seconds"
+  ],
+  "answer": 1,
+  "explanation": "400 MB × 8 = 3200 megabits; ÷ 80 Mbps = 40 s. Bytes are 8 bits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "Roughly how long does it take to download a 200 MB file on a 200 Mbps connection (ignoring overhead)?",
+  "options": [
+   "8 seconds",
+   "4 seconds",
+   "1 seconds",
+   "64 seconds"
+  ],
+  "answer": 0,
+  "explanation": "200 MB × 8 = 1600 megabits; ÷ 200 Mbps = 8 s. Bytes are 8 bits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "Roughly how long does it take to download a 50 MB file on a 40 Mbps connection (ignoring overhead)?",
+  "options": [
+   "80 seconds",
+   "5 seconds",
+   "10 seconds",
+   "1.25 seconds"
+  ],
+  "answer": 2,
+  "explanation": "50 MB × 8 = 400 megabits; ÷ 40 Mbps = 10 s. Bytes are 8 bits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "Roughly how long does it take to download a 200 MB file on a 8 Mbps connection (ignoring overhead)?",
+  "options": [
+   "100 seconds",
+   "25 seconds",
+   "200 seconds",
+   "1600 seconds"
+  ],
+  "answer": 2,
+  "explanation": "200 MB × 8 = 1600 megabits; ÷ 8 Mbps = 200 s. Bytes are 8 bits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "Roughly how long does it take to download a 400 MB file on a 40 Mbps connection (ignoring overhead)?",
+  "options": [
+   "640 seconds",
+   "10 seconds",
+   "40 seconds",
+   "80 seconds"
+  ],
+  "answer": 3,
+  "explanation": "400 MB × 8 = 3200 megabits; ÷ 40 Mbps = 80 s. Bytes are 8 bits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "Roughly how long does it take to download a 1000 MB file on a 16 Mbps connection (ignoring overhead)?",
+  "options": [
+   "4000 seconds",
+   "62.5 seconds",
+   "500 seconds",
+   "250 seconds"
+  ],
+  "answer": 2,
+  "explanation": "1000 MB × 8 = 8000 megabits; ÷ 16 Mbps = 500 s. Bytes are 8 bits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "Roughly how long does it take to download a 50 MB file on a 16 Mbps connection (ignoring overhead)?",
+  "options": [
+   "200 seconds",
+   "25 seconds",
+   "28 seconds",
+   "12.5 seconds"
+  ],
+  "answer": 1,
+  "explanation": "50 MB × 8 = 400 megabits; ÷ 16 Mbps = 25 s. Bytes are 8 bits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "How many megabytes (binary) are in 16 GB of RAM?",
+  "options": [
+   "16,000 MB",
+   "16,384 MB",
+   "16,777,216 MB",
+   "1600 MB"
+  ],
+  "answer": 1,
+  "explanation": "Memory uses binary units: 1 GB = 1,024 MB, so 16 × 1,024 = 16384 MB.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "How many megabytes (binary) are in 8 GB of RAM?",
+  "options": [
+   "8,000 MB",
+   "8,192 MB",
+   "8,388,608 MB",
+   "800 MB"
+  ],
+  "answer": 1,
+  "explanation": "Memory uses binary units: 1 GB = 1,024 MB, so 8 × 1,024 = 8192 MB.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "How many megabytes (binary) are in 4 GB of RAM?",
+  "options": [
+   "4,000 MB",
+   "4,194,304 MB",
+   "400 MB",
+   "4,096 MB"
+  ],
+  "answer": 3,
+  "explanation": "Memory uses binary units: 1 GB = 1,024 MB, so 4 × 1,024 = 4096 MB.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ITF",
+  "topic": "Data representation",
+  "body": "How many megabytes (binary) are in 2 GB of RAM?",
+  "options": [
+   "2,000 MB",
+   "2,048 MB",
+   "200 MB",
+   "2,097,152 MB"
+  ],
+  "answer": 1,
+  "explanation": "Memory uses binary units: 1 GB = 1,024 MB, so 2 × 1,024 = 2048 MB.",
+  "difficulty": 2
+ }
+]

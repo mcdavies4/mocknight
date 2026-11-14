@@ -1,0 +1,1486 @@
+[
+ {
+  "subject": "CCN",
+  "topic": "TCP/IP",
+  "body": "Which transport protocol is connection-oriented and guarantees delivery?",
+  "options": [
+   "ICMP",
+   "TCP",
+   "ARP",
+   "UDP"
+  ],
+  "answer": 1,
+  "explanation": "TCP uses a three-way handshake, sequencing and acknowledgements.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "TCP/IP",
+  "body": "Which transport protocol is best for live video calls where speed matters more than retransmission?",
+  "options": [
+   "TCP",
+   "UDP",
+   "SMTP",
+   "FTP"
+  ],
+  "answer": 1,
+  "explanation": "UDP has lower overhead and no retransmissions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "TCP/IP",
+  "body": "What are the three steps of the TCP handshake?",
+  "options": [
+   "DISCOVER, OFFER, REQUEST",
+   "SYN, SYN-ACK, ACK",
+   "HELLO, ACK, BYE",
+   "ACK, SYN, FIN"
+  ],
+  "answer": 1,
+  "explanation": "This sets up a TCP connection.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "TCP/IP",
+  "body": "What are the four DHCP messages, in order?",
+  "options": [
+   "Request, Offer, Discover, Acknowledge",
+   "Discover, Offer, Request, Acknowledge",
+   "Hello, Offer, Accept, Bind",
+   "SYN, SYN-ACK, ACK, FIN"
+  ],
+  "answer": 1,
+  "explanation": "Remembered as DORA.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "TCP/IP",
+  "body": "Which protocol finds the MAC address for a known IPv4 address?",
+  "options": [
+   "DHCP",
+   "ICMP",
+   "DNS",
+   "ARP"
+  ],
+  "answer": 3,
+  "explanation": "ARP maps Layer 3 addresses to Layer 2 addresses.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "TCP/IP",
+  "body": "Which protocol does ping use?",
+  "options": [
+   "TCP",
+   "ARP",
+   "ICMP",
+   "UDP"
+  ],
+  "answer": 2,
+  "explanation": "ICMP echo request and echo reply.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "TCP/IP",
+  "body": "Which DNS record maps a hostname to an IPv4 address?",
+  "options": [
+   "AAAA record",
+   "MX record",
+   "A record",
+   "CNAME record"
+  ],
+  "answer": 2,
+  "explanation": "AAAA is for IPv6; MX is for mail servers; CNAME is an alias.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "TCP/IP",
+  "body": "Which DNS record identifies a domain's mail server?",
+  "options": [
+   "TXT record",
+   "MX record",
+   "A record",
+   "PTR record"
+  ],
+  "answer": 1,
+  "explanation": "Mail exchanger.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Addressing",
+  "body": "Which of these is a private IPv4 address range?",
+  "options": [
+   "172.32.0.0/16",
+   "8.8.8.0/24",
+   "192.168.0.0/16",
+   "100.0.0.0/8"
+  ],
+  "answer": 2,
+  "explanation": "Private ranges: 10.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Addressing",
+  "body": "Which address is the IPv4 loopback address?",
+  "options": [
+   "192.168.1.1",
+   "0.0.0.0",
+   "127.0.0.1",
+   "255.255.255.255"
+  ],
+  "answer": 2,
+  "explanation": "It refers to the local device itself.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Addressing",
+  "body": "How many bits long is an IPv4 address?",
+  "options": [
+   "128 bits",
+   "48 bits",
+   "32 bits",
+   "64 bits"
+  ],
+  "answer": 2,
+  "explanation": "MAC addresses are 48 bits; IPv6 addresses are 128 bits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Addressing",
+  "body": "How many bits long is an IPv6 address?",
+  "options": [
+   "128 bits",
+   "48 bits",
+   "32 bits",
+   "64 bits"
+  ],
+  "answer": 0,
+  "explanation": "Written as eight groups of four hex digits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Addressing",
+  "body": "How many bits long is a MAC address?",
+  "options": [
+   "64 bits",
+   "48 bits",
+   "128 bits",
+   "32 bits"
+  ],
+  "answer": 1,
+  "explanation": "Usually written as six pairs of hex digits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Addressing",
+  "body": "Which IPv6 address type starts with FE80::/10?",
+  "options": [
+   "Link-local",
+   "Global unicast",
+   "Multicast",
+   "Loopback"
+  ],
+  "answer": 0,
+  "explanation": "Link-local addresses work only on the local link.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Addressing",
+  "body": "What is the IPv6 loopback address?",
+  "options": [
+   "127.0.0.1",
+   "FF02::1",
+   "::1",
+   "FE80::1"
+  ],
+  "answer": 2,
+  "explanation": "It is the IPv6 equivalent of 127.0.0.1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Addressing",
+  "body": "What does NAT do?",
+  "options": [
+   "Encrypts Wi-Fi traffic",
+   "Resolves names to IPs",
+   "Assigns IP addresses automatically",
+   "Translates private IP addresses to a public IP address"
+  ],
+  "answer": 3,
+  "explanation": "PAT/NAT overload lets many devices share one public address.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Devices",
+  "body": "Which device forwards frames using MAC addresses?",
+  "options": [
+   "Router",
+   "Switch",
+   "Modem",
+   "Hub"
+  ],
+  "answer": 1,
+  "explanation": "A hub repeats bits to all ports; a router forwards by IP.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Devices",
+  "body": "Which device connects different IP networks and chooses paths between them?",
+  "options": [
+   "Switch",
+   "Router",
+   "Repeater",
+   "Access point"
+  ],
+  "answer": 1,
+  "explanation": "Routers use routing tables.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Devices",
+  "body": "What is the default gateway?",
+  "options": [
+   "The router address a host uses to reach other networks",
+   "The DNS server",
+   "The switch's MAC address",
+   "The DHCP lease time"
+  ],
+  "answer": 0,
+  "explanation": "Without it, a host can only reach its local subnet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Devices",
+  "body": "A VLAN is used to",
+  "options": [
+   "encrypt traffic",
+   "assign public IPs",
+   "boost Wi-Fi range",
+   "split one physical switch into separate logical networks"
+  ],
+  "answer": 3,
+  "explanation": "Traffic between VLANs needs a router or Layer 3 switch.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Cabling",
+  "body": "What is the maximum recommended length of a Cat6 copper Ethernet run at 1 Gbps?",
+  "options": [
+   "10 metres",
+   "2 kilometres",
+   "100 metres",
+   "500 metres"
+  ],
+  "answer": 2,
+  "explanation": "Fibre is used for longer distances.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Cabling",
+  "body": "Which cable type is immune to electromagnetic interference?",
+  "options": [
+   "UTP",
+   "Fibre optic",
+   "STP",
+   "Coaxial"
+  ],
+  "answer": 1,
+  "explanation": "It carries light, not electricity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Wireless",
+  "body": "Which Wi-Fi band generally has longer range but more interference?",
+  "options": [
+   "60 GHz",
+   "2.4 GHz",
+   "5 GHz",
+   "6 GHz"
+  ],
+  "answer": 1,
+  "explanation": "Higher bands are faster but have shorter range.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Wireless",
+  "body": "Which non-overlapping channels are commonly used on 2.4 GHz Wi-Fi?",
+  "options": [
+   "1, 2 and 3",
+   "36, 40 and 44",
+   "1, 6 and 11",
+   "2, 7 and 12"
+  ],
+  "answer": 2,
+  "explanation": "Using them reduces interference.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Wireless",
+  "body": "What is an SSID?",
+  "options": [
+   "A type of antenna",
+   "A Wi-Fi password",
+   "A MAC address filter",
+   "The name of a wireless network"
+  ],
+  "answer": 3,
+  "explanation": "Access points broadcast it so clients can find the network.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Troubleshooting",
+  "body": "Which command shows the path packets take to a destination on Windows?",
+  "options": [
+   "tracert",
+   "nslookup",
+   "arp -a",
+   "ping"
+  ],
+  "answer": 0,
+  "explanation": "On Linux/macOS it is traceroute.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Troubleshooting",
+  "body": "Which command tests DNS name resolution?",
+  "options": [
+   "tracert",
+   "nslookup",
+   "netstat",
+   "ipconfig /release"
+  ],
+  "answer": 1,
+  "explanation": "dig is a common alternative on Linux/macOS.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Troubleshooting",
+  "body": "Which Cisco IOS command gives a quick summary of interfaces, IPs and their status?",
+  "options": [
+   "copy run start",
+   "show ip interface brief",
+   "ping",
+   "show running-config only"
+  ],
+  "answer": 1,
+  "explanation": "It shows each interface's up/down status.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Troubleshooting",
+  "body": "Which Cisco command saves the running configuration so it survives a reboot?",
+  "options": [
+   "reload",
+   "copy running-config startup-config",
+   "erase startup-config",
+   "show startup-config"
+  ],
+  "answer": 1,
+  "explanation": "Often shortened to copy run start.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Troubleshooting",
+  "body": "A host can ping 8.8.8.8 but not google.com. What is most likely wrong?",
+  "options": [
+   "The cable",
+   "The NIC driver",
+   "DNS resolution",
+   "The default gateway"
+  ],
+  "answer": 2,
+  "explanation": "IP connectivity works, so name resolution is the problem.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Troubleshooting",
+  "body": "A host has IP 192.168.1.20/24 and gateway 192.168.2.1. What is the problem?",
+  "options": [
+   "Nothing is wrong",
+   "The gateway is not on the host's subnet",
+   "The mask is too large",
+   "The IP is public"
+  ],
+  "answer": 1,
+  "explanation": "The gateway must be in the same subnet as the host.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Security",
+  "body": "Which protocol should replace Telnet for remote device management?",
+  "options": [
+   "SSH",
+   "HTTP",
+   "FTP",
+   "TFTP"
+  ],
+  "answer": 0,
+  "explanation": "SSH encrypts the session; Telnet sends everything in plain text.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Security",
+  "body": "A firewall rule that permits traffic to TCP port 443 allows",
+  "options": [
+   "RDP",
+   "SSH",
+   "HTTPS",
+   "DNS"
+  ],
+  "answer": 2,
+  "explanation": "HTTPS uses TCP 443.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Security",
+  "body": "Which wireless security protocol should never be used because it is easily cracked?",
+  "options": [
+   "WPA3",
+   "WPA3-Enterprise",
+   "WEP",
+   "WPA2-AES"
+  ],
+  "answer": 2,
+  "explanation": "WEP's encryption is broken.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Security",
+  "body": "Port security on a switch is used to",
+  "options": [
+   "limit which MAC addresses can use a switch port",
+   "encrypt traffic",
+   "route between VLANs",
+   "assign IP addresses"
+  ],
+  "answer": 0,
+  "explanation": "It helps stop unauthorised devices connecting.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Services",
+  "body": "Which protocol synchronises device clocks across a network?",
+  "options": [
+   "SMTP",
+   "NTP",
+   "DHCP",
+   "SNMP"
+  ],
+  "answer": 1,
+  "explanation": "Accurate time matters for logs and authentication.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Services",
+  "body": "Which protocol is used to monitor and manage network devices?",
+  "options": [
+   "SNMP",
+   "ARP",
+   "SMTP",
+   "NTP"
+  ],
+  "answer": 0,
+  "explanation": "Simple Network Management Protocol.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Services",
+  "body": "Which protocol securely transfers files over SSH?",
+  "options": [
+   "FTP",
+   "TFTP",
+   "SFTP",
+   "HTTP"
+  ],
+  "answer": 2,
+  "explanation": "TFTP has no authentication or encryption.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Addressing",
+  "body": "Which IPv4 address class has a default /8 mask?",
+  "options": [
+   "Class A",
+   "Class B",
+   "Class C",
+   "Class D"
+  ],
+  "answer": 0,
+  "explanation": "Class B is /16 and Class C is /24 by default; Class D is multicast.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Addressing",
+  "body": "Which IPv4 address is used to send to all hosts on the local subnet?",
+  "options": [
+   "127.0.0.1",
+   "224.0.0.1",
+   "0.0.0.0",
+   "255.255.255.255"
+  ],
+  "answer": 3,
+  "explanation": "It is the limited broadcast address.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Addressing",
+  "body": "How can the IPv6 address 2001:0db8:0000:0000:0000:0000:0000:0001 be shortened?",
+  "options": [
+   "2001:db8:1",
+   "2001::db8::1",
+   "2001:db8::1",
+   "2001:0db8::0001:1"
+  ],
+  "answer": 2,
+  "explanation": "Drop leading zeros and replace one run of zero groups with ::.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Addressing",
+  "body": "What does SLAAC allow an IPv6 host to do?",
+  "options": [
+   "Encrypt traffic",
+   "Translate IPv6 to IPv4",
+   "Configure its own address without a DHCP server",
+   "Resolve names"
+  ],
+  "answer": 2,
+  "explanation": "Stateless address autoconfiguration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Devices",
+  "body": "Which device provides wireless clients with access to a wired network?",
+  "options": [
+   "Modem",
+   "Access point",
+   "Patch panel",
+   "Switch"
+  ],
+  "answer": 1,
+  "explanation": "It bridges Wi-Fi and Ethernet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Devices",
+  "body": "Which device converts the signal from an ISP line into Ethernet?",
+  "options": [
+   "Modem",
+   "Firewall",
+   "Access point",
+   "Switch"
+  ],
+  "answer": 0,
+  "explanation": "Modulator-demodulator.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Devices",
+  "body": "What does a MAC address table on a switch store?",
+  "options": [
+   "Which MAC address is reachable on which port",
+   "IP-to-name mappings",
+   "Routes to other networks",
+   "Wi-Fi passwords"
+  ],
+  "answer": 0,
+  "explanation": "The switch learns it from source MAC addresses.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Troubleshooting",
+  "body": "A cable tester shows a cable fails on several pins. Which OSI layer is the problem at?",
+  "options": [
+   "Layer 4 — Transport",
+   "Layer 3 — Network",
+   "Layer 7 — Application",
+   "Layer 1 — Physical"
+  ],
+  "answer": 3,
+  "explanation": "Cabling faults are physical-layer problems.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Troubleshooting",
+  "body": "Which Windows command releases and renews a DHCP address?",
+  "options": [
+   "ipconfig /release then ipconfig /renew",
+   "ping -t",
+   "netstat -an",
+   "nslookup /renew"
+  ],
+  "answer": 0,
+  "explanation": "Useful when a device has an APIPA address.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Troubleshooting",
+  "body": "Which command shows the ARP cache on Windows?",
+  "options": [
+   "netstat -r",
+   "ipconfig /displaydns",
+   "arp -a",
+   "tracert"
+  ],
+  "answer": 2,
+  "explanation": "It lists IP-to-MAC mappings.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "OSI model",
+  "body": "Which OSI layer deals with cables, connectors and transmitting bits?",
+  "options": [
+   "Layer 5 — Session",
+   "Layer 7 — Application",
+   "Layer 2 — Data Link",
+   "Layer 1 — Physical"
+  ],
+  "answer": 3,
+  "explanation": "Layer 1 — Physical: cables, connectors and transmitting bits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "OSI model",
+  "body": "Which OSI layer deals with MAC addresses, frames and switches?",
+  "options": [
+   "Layer 1 — Physical",
+   "Layer 3 — Network",
+   "Layer 2 — Data Link",
+   "Layer 6 — Presentation"
+  ],
+  "answer": 2,
+  "explanation": "Layer 2 — Data Link: MAC addresses, frames and switches.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "OSI model",
+  "body": "Which OSI layer deals with IP addresses, packets and routers?",
+  "options": [
+   "Layer 6 — Presentation",
+   "Layer 2 — Data Link",
+   "Layer 7 — Application",
+   "Layer 3 — Network"
+  ],
+  "answer": 3,
+  "explanation": "Layer 3 — Network: IP addresses, packets and routers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "OSI model",
+  "body": "Which OSI layer deals with TCP/UDP, segments and port numbers?",
+  "options": [
+   "Layer 6 — Presentation",
+   "Layer 4 — Transport",
+   "Layer 1 — Physical",
+   "Layer 7 — Application"
+  ],
+  "answer": 1,
+  "explanation": "Layer 4 — Transport: TCP/UDP, segments and port numbers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "OSI model",
+  "body": "Which OSI layer deals with setting up and managing sessions between applications?",
+  "options": [
+   "Layer 5 — Session",
+   "Layer 6 — Presentation",
+   "Layer 1 — Physical",
+   "Layer 7 — Application"
+  ],
+  "answer": 0,
+  "explanation": "Layer 5 — Session: setting up and managing sessions between applications.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "OSI model",
+  "body": "Which OSI layer deals with data formatting, encryption and compression?",
+  "options": [
+   "Layer 2 — Data Link",
+   "Layer 1 — Physical",
+   "Layer 6 — Presentation",
+   "Layer 7 — Application"
+  ],
+  "answer": 2,
+  "explanation": "Layer 6 — Presentation: data formatting, encryption and compression.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "OSI model",
+  "body": "Which OSI layer deals with network services used by applications, like HTTP and DNS?",
+  "options": [
+   "Layer 5 — Session",
+   "Layer 7 — Application",
+   "Layer 1 — Physical",
+   "Layer 4 — Transport"
+  ],
+  "answer": 1,
+  "explanation": "Layer 7 — Application: network services used by applications, like HTTP and DNS.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /28 IPv4 subnet?",
+  "options": [
+   "8",
+   "16",
+   "14",
+   "28"
+  ],
+  "answer": 2,
+  "explanation": "2^(32 − 28) − 2 = 16 − 2 = 14 (network and broadcast addresses can't be used).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /29 IPv4 subnet?",
+  "options": [
+   "8",
+   "12",
+   "6",
+   "4"
+  ],
+  "answer": 2,
+  "explanation": "2^(32 − 29) − 2 = 8 − 2 = 6 (network and broadcast addresses can't be used).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /25 IPv4 subnet?",
+  "options": [
+   "64",
+   "252",
+   "128",
+   "126"
+  ],
+  "answer": 3,
+  "explanation": "2^(32 − 25) − 2 = 128 − 2 = 126 (network and broadcast addresses can't be used).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /26 IPv4 subnet?",
+  "options": [
+   "62",
+   "32",
+   "124",
+   "64"
+  ],
+  "answer": 0,
+  "explanation": "2^(32 − 26) − 2 = 64 − 2 = 62 (network and broadcast addresses can't be used).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /23 IPv4 subnet?",
+  "options": [
+   "256",
+   "512",
+   "1020",
+   "510"
+  ],
+  "answer": 3,
+  "explanation": "2^(32 − 23) − 2 = 512 − 2 = 510 (network and broadcast addresses can't be used).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /22 IPv4 subnet?",
+  "options": [
+   "1024",
+   "512",
+   "1022",
+   "2044"
+  ],
+  "answer": 2,
+  "explanation": "2^(32 − 22) − 2 = 1024 − 2 = 1022 (network and broadcast addresses can't be used).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /30 IPv4 subnet?",
+  "options": [
+   "3",
+   "2",
+   "1",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "2^(32 − 30) − 2 = 4 − 2 = 2 (network and broadcast addresses can't be used).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /20 IPv4 subnet?",
+  "options": [
+   "2048",
+   "4094",
+   "4096",
+   "8188"
+  ],
+  "answer": 1,
+  "explanation": "2^(32 − 20) − 2 = 4096 − 2 = 4094 (network and broadcast addresses can't be used).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /21 IPv4 subnet?",
+  "options": [
+   "2048",
+   "2046",
+   "1024",
+   "4092"
+  ],
+  "answer": 1,
+  "explanation": "2^(32 − 21) − 2 = 2048 − 2 = 2046 (network and broadcast addresses can't be used).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /27 IPv4 subnet?",
+  "options": [
+   "32",
+   "30",
+   "16",
+   "60"
+  ],
+  "answer": 1,
+  "explanation": "2^(32 − 27) − 2 = 32 − 2 = 30 (network and broadcast addresses can't be used).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /24 IPv4 subnet?",
+  "options": [
+   "254",
+   "256",
+   "128",
+   "508"
+  ],
+  "answer": 0,
+  "explanation": "2^(32 − 24) − 2 = 256 − 2 = 254 (network and broadcast addresses can't be used).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the subnet mask for a /17 prefix?",
+  "options": [
+   "255.255.255.0",
+   "255.255.128.0",
+   "255.255.0.0",
+   "255.255.192.0"
+  ],
+  "answer": 1,
+  "explanation": "/17 means 17 network bits set to 1: 255.255.128.0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the subnet mask for a /26 prefix?",
+  "options": [
+   "255.255.255.224",
+   "255.255.255.192",
+   "255.255.255.128",
+   "255.255.255.0"
+  ],
+  "answer": 1,
+  "explanation": "/26 means 26 network bits set to 1: 255.255.255.192.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the subnet mask for a /16 prefix?",
+  "options": [
+   "255.254.0.0",
+   "255.255.128.0",
+   "255.255.255.0",
+   "255.255.0.0"
+  ],
+  "answer": 3,
+  "explanation": "/16 means 16 network bits set to 1: 255.255.0.0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the subnet mask for a /20 prefix?",
+  "options": [
+   "255.255.248.0",
+   "255.255.224.0",
+   "255.255.240.0",
+   "255.255.255.0"
+  ],
+  "answer": 2,
+  "explanation": "/20 means 20 network bits set to 1: 255.255.240.0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the subnet mask for a /27 prefix?",
+  "options": [
+   "255.255.255.0",
+   "255.255.255.240",
+   "255.255.255.192",
+   "255.255.255.224"
+  ],
+  "answer": 3,
+  "explanation": "/27 means 27 network bits set to 1: 255.255.255.224.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the subnet mask for a /18 prefix?",
+  "options": [
+   "255.255.255.0",
+   "255.255.224.0",
+   "255.255.192.0",
+   "255.255.128.0"
+  ],
+  "answer": 2,
+  "explanation": "/18 means 18 network bits set to 1: 255.255.192.0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the subnet mask for a /28 prefix?",
+  "options": [
+   "255.255.255.0",
+   "255.255.255.240",
+   "255.255.255.224",
+   "255.255.255.248"
+  ],
+  "answer": 1,
+  "explanation": "/28 means 28 network bits set to 1: 255.255.255.240.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the subnet mask for a /24 prefix?",
+  "options": [
+   "255.255.255.0",
+   "255.255.255.128",
+   "255.255.254.0",
+   "255.255.0.0"
+  ],
+  "answer": 0,
+  "explanation": "/24 means 24 network bits set to 1: 255.255.255.0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the subnet mask for a /30 prefix?",
+  "options": [
+   "255.255.255.252",
+   "255.255.255.248",
+   "255.255.255.254",
+   "255.255.255.0"
+  ],
+  "answer": 0,
+  "explanation": "/30 means 30 network bits set to 1: 255.255.255.252.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the subnet mask for a /21 prefix?",
+  "options": [
+   "255.255.255.0",
+   "255.255.252.0",
+   "255.255.248.0",
+   "255.255.240.0"
+  ],
+  "answer": 2,
+  "explanation": "/21 means 21 network bits set to 1: 255.255.248.0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the broadcast address of 192.168.54.120/28?",
+  "options": [
+   "192.168.54.126",
+   "192.168.54.255",
+   "192.168.54.127",
+   "192.168.54.112"
+  ],
+  "answer": 2,
+  "explanation": "Block size 16: the subnet is 112–127, so the broadcast is .127.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.29.165/26?",
+  "options": [
+   "192.168.29.128",
+   "192.168.29.191",
+   "192.168.29.0",
+   "192.168.29.129"
+  ],
+  "answer": 0,
+  "explanation": "/26 has a block size of 64. 165 falls in the block starting at 128.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.83.171/29?",
+  "options": [
+   "192.168.83.175",
+   "192.168.83.169",
+   "192.168.83.168",
+   "192.168.83.0"
+  ],
+  "answer": 2,
+  "explanation": "/29 has a block size of 8. 171 falls in the block starting at 168.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.110.243/28?",
+  "options": [
+   "192.168.110.0",
+   "192.168.110.240",
+   "192.168.110.255",
+   "192.168.110.241"
+  ],
+  "answer": 1,
+  "explanation": "/28 has a block size of 16. 243 falls in the block starting at 240.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the broadcast address of 192.168.81.182/29?",
+  "options": [
+   "192.168.81.183",
+   "192.168.81.182",
+   "192.168.81.255",
+   "192.168.81.176"
+  ],
+  "answer": 0,
+  "explanation": "Block size 8: the subnet is 176–183, so the broadcast is .183.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.115.231/25?",
+  "options": [
+   "192.168.115.129",
+   "192.168.115.255",
+   "192.168.115.128",
+   "192.168.115.0"
+  ],
+  "answer": 2,
+  "explanation": "/25 has a block size of 128. 231 falls in the block starting at 128.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.212.12/29?",
+  "options": [
+   "192.168.212.15",
+   "192.168.212.8",
+   "192.168.212.9",
+   "192.168.212.0"
+  ],
+  "answer": 1,
+  "explanation": "/29 has a block size of 8. 12 falls in the block starting at 8.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.214.65/26?",
+  "options": [
+   "192.168.214.65",
+   "192.168.214.64",
+   "192.168.214.0",
+   "192.168.214.127"
+  ],
+  "answer": 1,
+  "explanation": "/26 has a block size of 64. 65 falls in the block starting at 64.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the broadcast address of 192.168.159.171/26?",
+  "options": [
+   "192.168.159.190",
+   "192.168.159.191",
+   "192.168.159.255",
+   "192.168.159.128"
+  ],
+  "answer": 1,
+  "explanation": "Block size 64: the subnet is 128–191, so the broadcast is .191.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the broadcast address of 192.168.49.98/26?",
+  "options": [
+   "192.168.49.255",
+   "192.168.49.64",
+   "192.168.49.127",
+   "192.168.49.126"
+  ],
+  "answer": 2,
+  "explanation": "Block size 64: the subnet is 64–127, so the broadcast is .127.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the broadcast address of 192.168.103.88/30?",
+  "options": [
+   "192.168.103.90",
+   "192.168.103.88",
+   "192.168.103.255",
+   "192.168.103.91"
+  ],
+  "answer": 3,
+  "explanation": "Block size 4: the subnet is 88–91, so the broadcast is .91.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the broadcast address of 192.168.186.184/28?",
+  "options": [
+   "192.168.186.190",
+   "192.168.186.191",
+   "192.168.186.176",
+   "192.168.186.255"
+  ],
+  "answer": 1,
+  "explanation": "Block size 16: the subnet is 176–191, so the broadcast is .191.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.52.119/27?",
+  "options": [
+   "192.168.52.96",
+   "192.168.52.127",
+   "192.168.52.0",
+   "192.168.52.97"
+  ],
+  "answer": 0,
+  "explanation": "/27 has a block size of 32. 119 falls in the block starting at 96.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.76.156/30?",
+  "options": [
+   "192.168.76.156",
+   "192.168.76.0",
+   "192.168.76.157",
+   "192.168.76.159"
+  ],
+  "answer": 0,
+  "explanation": "/30 has a block size of 4. 156 falls in the block starting at 156.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.143.252/29?",
+  "options": [
+   "192.168.143.248",
+   "192.168.143.255",
+   "192.168.143.0",
+   "192.168.143.249"
+  ],
+  "answer": 0,
+  "explanation": "/29 has a block size of 8. 252 falls in the block starting at 248.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the broadcast address of 192.168.249.66/30?",
+  "options": [
+   "192.168.249.67",
+   "192.168.249.66",
+   "192.168.249.255",
+   "192.168.249.64"
+  ],
+  "answer": 0,
+  "explanation": "Block size 4: the subnet is 64–67, so the broadcast is .67.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the broadcast address of 192.168.202.88/27?",
+  "options": [
+   "192.168.202.64",
+   "192.168.202.95",
+   "192.168.202.94",
+   "192.168.202.255"
+  ],
+  "answer": 1,
+  "explanation": "Block size 32: the subnet is 64–95, so the broadcast is .95.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the broadcast address of 192.168.153.77/28?",
+  "options": [
+   "192.168.153.255",
+   "192.168.153.78",
+   "192.168.153.79",
+   "192.168.153.64"
+  ],
+  "answer": 2,
+  "explanation": "Block size 16: the subnet is 64–79, so the broadcast is .79.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the broadcast address of 192.168.62.200/27?",
+  "options": [
+   "192.168.62.223",
+   "192.168.62.255",
+   "192.168.62.192",
+   "192.168.62.222"
+  ],
+  "answer": 0,
+  "explanation": "Block size 32: the subnet is 192–223, so the broadcast is .223.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the broadcast address of 192.168.180.95/30?",
+  "options": [
+   "192.168.180.255",
+   "192.168.180.95",
+   "192.168.180.92",
+   "192.168.180.94"
+  ],
+  "answer": 1,
+  "explanation": "Block size 4: the subnet is 92–95, so the broadcast is .95.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.214.92/26?",
+  "options": [
+   "192.168.214.65",
+   "192.168.214.64",
+   "192.168.214.0",
+   "192.168.214.127"
+  ],
+  "answer": 1,
+  "explanation": "/26 has a block size of 64. 92 falls in the block starting at 64.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.172.25/28?",
+  "options": [
+   "192.168.172.17",
+   "192.168.172.31",
+   "192.168.172.16",
+   "192.168.172.0"
+  ],
+  "answer": 2,
+  "explanation": "/28 has a block size of 16. 25 falls in the block starting at 16.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.188.157/29?",
+  "options": [
+   "192.168.188.153",
+   "192.168.188.159",
+   "192.168.188.0",
+   "192.168.188.152"
+  ],
+  "answer": 3,
+  "explanation": "/29 has a block size of 8. 157 falls in the block starting at 152.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the broadcast address of 192.168.112.6/27?",
+  "options": [
+   "192.168.112.0",
+   "192.168.112.255",
+   "192.168.112.31",
+   "192.168.112.30"
+  ],
+  "answer": 2,
+  "explanation": "Block size 32: the subnet is 0–31, so the broadcast is .31.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.139.34/27?",
+  "options": [
+   "192.168.139.63",
+   "192.168.139.33",
+   "192.168.139.0",
+   "192.168.139.32"
+  ],
+  "answer": 3,
+  "explanation": "/27 has a block size of 32. 34 falls in the block starting at 32.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.199.92/28?",
+  "options": [
+   "192.168.199.0",
+   "192.168.199.95",
+   "192.168.199.80",
+   "192.168.199.81"
+  ],
+  "answer": 2,
+  "explanation": "/28 has a block size of 16. 92 falls in the block starting at 80.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the broadcast address of 192.168.136.202/27?",
+  "options": [
+   "192.168.136.192",
+   "192.168.136.222",
+   "192.168.136.255",
+   "192.168.136.223"
+  ],
+  "answer": 3,
+  "explanation": "Block size 32: the subnet is 192–223, so the broadcast is .223.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the broadcast address of 192.168.124.203/28?",
+  "options": [
+   "192.168.124.206",
+   "192.168.124.255",
+   "192.168.124.207",
+   "192.168.124.192"
+  ],
+  "answer": 2,
+  "explanation": "Block size 16: the subnet is 192–207, so the broadcast is .207.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.146.200/25?",
+  "options": [
+   "192.168.146.129",
+   "192.168.146.128",
+   "192.168.146.255",
+   "192.168.146.0"
+  ],
+  "answer": 1,
+  "explanation": "/25 has a block size of 128. 200 falls in the block starting at 128.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCN",
+  "topic": "Subnetting",
+  "body": "What is the broadcast address of 192.168.83.19/25?",
+  "options": [
+   "192.168.83.127",
+   "192.168.83.0",
+   "192.168.83.255",
+   "192.168.83.126"
+  ],
+  "answer": 0,
+  "explanation": "Block size 128: the subnet is 0–127, so the broadcast is .127.",
+  "difficulty": 3
+ }
+]

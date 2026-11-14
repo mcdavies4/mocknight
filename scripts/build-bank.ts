@@ -22,10 +22,12 @@ import { aptitude } from "./bank/apt";
 import { quant } from "./bank/qnt";
 import { generalAwarenessIndia } from "./bank/gai";
 import { history, geography } from "./bank/eth";
+import { technology } from "./bank/tech";
+const tech = technology;
 const pm = projectManagement;
 
 const builders: [string, () => Q[]][] = [
-  ["MTH", maths], ["PHY", physics], ["CHM", chemistry], ["ECO", economics], ["ENG", english], ["BIO", biology], ["GOV", government], ["LUK", lifeInTheUK], ["FIR", fireSafety], ["NMN", nmcNumeracy], ["NMC", nmcClinical], ["PRN", () => pm().PRN], ["SCR", () => pm().SCR], ["PMF", () => pm().PMF], ["APT", aptitude], ["QNT", quant], ["GAI", generalAwarenessIndia], ["HIS", history], ["GEO", geography],
+  ["MTH", maths], ["PHY", physics], ["CHM", chemistry], ["ECO", economics], ["ENG", english], ["BIO", biology], ["GOV", government], ["LUK", lifeInTheUK], ["FIR", fireSafety], ["NMN", nmcNumeracy], ["NMC", nmcClinical], ["PRN", () => pm().PRN], ["SCR", () => pm().SCR], ["PMF", () => pm().PMF], ["APT", aptitude], ["QNT", quant], ["GAI", generalAwarenessIndia], ["HIS", history], ["GEO", geography], ["ITF", () => tech().ITF], ["CCN", () => tech().CCN], ["AWC", () => tech().AWC], ["AZF", () => tech().AZF], ["PCE", () => tech().PCE],
 ];
 
 mkdirSync("data/bank", { recursive: true });
@@ -54,7 +56,7 @@ for (const [code, build] of builders) {
     console.error(`${code} problems:\n  ` + problems.join("\n  "));
   }
   const topics = new Set(qs.map((q) => q.topic)).size;
-  console.log(`${code}: ${qs.length} questions across ${topics} topics${qs.length < (["FIR", "NMN", "NMC", "PRN", "SCR", "PMF", "APT", "QNT", "GAI", "HIS", "GEO"].includes(code) ? 100 : 300) ? "  ⚠ under target" : ""}`);
+  console.log(`${code}: ${qs.length} questions across ${topics} topics${qs.length < (["FIR", "NMN", "NMC", "PRN", "SCR", "PMF", "APT", "QNT", "GAI", "HIS", "GEO", "ITF", "CCN", "AWC", "AZF", "PCE"].includes(code) ? 100 : 300) ? "  ⚠ under target" : ""}`);
   writeFileSync(`data/bank/${code}.json`, JSON.stringify(qs, null, 1));
   all.push(...qs);
 }

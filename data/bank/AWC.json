@@ -1,0 +1,1458 @@
+[
+ {
+  "subject": "AWC",
+  "topic": "Shared responsibility",
+  "body": "Under the shared responsibility model, who is responsible for patching the guest OS on an EC2 instance?",
+  "options": [
+   "AWS",
+   "The internet provider",
+   "Both equally",
+   "The customer"
+  ],
+  "answer": 3,
+  "explanation": "AWS secures the cloud; customers secure what they put in it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Shared responsibility",
+  "body": "Who is responsible for the physical security of AWS data centres?",
+  "options": [
+   "The customer",
+   "The customer's ISP",
+   "Both equally",
+   "AWS"
+  ],
+  "answer": 3,
+  "explanation": "Security OF the cloud is AWS's job.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Shared responsibility",
+  "body": "Who is responsible for configuring S3 bucket permissions?",
+  "options": [
+   "The customer",
+   "AWS",
+   "Nobody",
+   "AWS Support"
+  ],
+  "answer": 0,
+  "explanation": "Customer data and access settings are the customer's responsibility.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Shared responsibility",
+  "body": "With AWS Lambda, who manages the underlying operating system?",
+  "options": [
+   "AWS",
+   "A third-party partner",
+   "Both",
+   "The customer"
+  ],
+  "answer": 0,
+  "explanation": "Managed and serverless services shift more responsibility to AWS.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Global infrastructure",
+  "body": "What is an Availability Zone?",
+  "options": [
+   "A single server rack",
+   "A country",
+   "One or more discrete data centres with redundant power and networking within a Region",
+   "A CDN edge location"
+  ],
+  "answer": 2,
+  "explanation": "A Region contains multiple isolated AZs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Global infrastructure",
+  "body": "What are edge locations mainly used for?",
+  "options": [
+   "Caching content close to users with CloudFront",
+   "Storing IAM users",
+   "Running RDS databases",
+   "Billing"
+  ],
+  "answer": 0,
+  "explanation": "They reduce latency for end users.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Global infrastructure",
+  "body": "To make an application highly available, you should deploy it",
+  "options": [
+   "in a single AZ only",
+   "across multiple Availability Zones",
+   "only at edge locations",
+   "on one large instance"
+  ],
+  "answer": 1,
+  "explanation": "If one AZ fails, the others keep running.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Pricing",
+  "body": "Which EC2 pricing option is cheapest for interruptible, flexible workloads?",
+  "options": [
+   "On-Demand",
+   "Dedicated Hosts",
+   "Spot Instances",
+   "Reserved Instances"
+  ],
+  "answer": 2,
+  "explanation": "Spot can be reclaimed with a two-minute warning.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Pricing",
+  "body": "Which EC2 option gives a discount for a 1- or 3-year commitment for steady workloads?",
+  "options": [
+   "Spot Instances",
+   "Free Tier",
+   "On-Demand",
+   "Reserved Instances (or Savings Plans)"
+  ],
+  "answer": 3,
+  "explanation": "Commitments lower the price.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Pricing",
+  "body": "Which EC2 option is best for short, unpredictable workloads that can't be interrupted?",
+  "options": [
+   "On-Demand",
+   "Spot",
+   "3-year Reserved",
+   "Dedicated Host only"
+  ],
+  "answer": 0,
+  "explanation": "Pay by the second/hour with no commitment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Pricing",
+  "body": "Which tool estimates the cost of an AWS architecture before you build it?",
+  "options": [
+   "AWS Cost Explorer",
+   "AWS Budgets",
+   "CloudTrail",
+   "AWS Pricing Calculator"
+  ],
+  "answer": 3,
+  "explanation": "Cost Explorer analyses past spending; Budgets sends alerts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Pricing",
+  "body": "Which tool alerts you when spending exceeds a threshold you set?",
+  "options": [
+   "Amazon Inspector",
+   "AWS Pricing Calculator",
+   "AWS Budgets",
+   "AWS Artifact"
+  ],
+  "answer": 2,
+  "explanation": "Budgets can alert on cost or usage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Pricing",
+  "body": "Data transfer INTO AWS from the internet is generally",
+  "options": [
+   "only free on weekends",
+   "charged per GB at a high rate",
+   "free",
+   "charged per request"
+  ],
+  "answer": 2,
+  "explanation": "Data transfer out is usually charged.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Support",
+  "body": "Which is the lowest AWS Support plan that includes a Technical Account Manager (TAM)?",
+  "options": [
+   "Developer",
+   "Basic",
+   "Business",
+   "Enterprise"
+  ],
+  "answer": 3,
+  "explanation": "Enterprise On-Ramp gives access to a pool of TAMs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Support",
+  "body": "Which AWS Support plan is free for all customers?",
+  "options": [
+   "Enterprise",
+   "Business",
+   "Developer",
+   "Basic"
+  ],
+  "answer": 3,
+  "explanation": "It includes billing support and the Health Dashboard.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Cloud concepts",
+  "body": "Which is a benefit of cloud computing?",
+  "options": [
+   "Running your own data centre",
+   "Trading capital expense for variable expense",
+   "Guessing capacity in advance",
+   "Buying servers up front"
+  ],
+  "answer": 1,
+  "explanation": "You pay only for what you use.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Cloud concepts",
+  "body": "Elasticity means",
+  "options": [
+   "paying in advance",
+   "encrypting data at rest",
+   "storing data in many Regions",
+   "automatically adding or removing resources to match demand"
+  ],
+  "answer": 3,
+  "explanation": "Auto Scaling provides elasticity for EC2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Cloud concepts",
+  "body": "How many pillars does the AWS Well-Architected Framework have?",
+  "options": [
+   "Four",
+   "Seven",
+   "Six",
+   "Five"
+  ],
+  "answer": 2,
+  "explanation": "Operational excellence, security, reliability, performance efficiency, cost optimisation and sustainability.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Cloud concepts",
+  "body": "Which Well-Architected pillar focuses on minimising environmental impact?",
+  "options": [
+   "Operational excellence",
+   "Reliability",
+   "Cost optimisation",
+   "Sustainability"
+  ],
+  "answer": 3,
+  "explanation": "It was added as the sixth pillar.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Security",
+  "body": "What is the best practice for the AWS account root user?",
+  "options": [
+   "Enable MFA, lock it away and use IAM identities for daily work",
+   "Use it for everyday tasks",
+   "Delete it",
+   "Share it with the team"
+  ],
+  "answer": 0,
+  "explanation": "The root user has unrestricted access.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Security",
+  "body": "Which IAM identity should an EC2 instance use to access S3 securely?",
+  "options": [
+   "An IAM role",
+   "A security group",
+   "An IAM user's password",
+   "The root user's access keys"
+  ],
+  "answer": 0,
+  "explanation": "Roles provide temporary credentials.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Security",
+  "body": "Security groups act as",
+  "options": [
+   "an encryption service",
+   "a DNS service",
+   "a stateless subnet firewall",
+   "a stateful virtual firewall for instances"
+  ],
+  "answer": 3,
+  "explanation": "Network ACLs are the stateless subnet-level firewall.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Storage",
+  "body": "Which S3 storage class automatically moves objects between tiers based on access patterns?",
+  "options": [
+   "S3 Glacier Deep Archive",
+   "S3 One Zone-IA",
+   "S3 Intelligent-Tiering",
+   "S3 Standard"
+  ],
+  "answer": 2,
+  "explanation": "Useful when access patterns are unknown.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Cloud concepts",
+  "body": "Which of these is a benefit of AWS's massive economies of scale?",
+  "options": [
+   "Fixed capacity",
+   "Lower pay-as-you-go prices",
+   "Longer contracts",
+   "Owning your hardware"
+  ],
+  "answer": 1,
+  "explanation": "AWS passes on savings from aggregate usage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Cloud concepts",
+  "body": "'Go global in minutes' refers to",
+  "options": [
+   "deploying applications in multiple Regions quickly",
+   "shipping hardware",
+   "hiring global staff",
+   "buying data centres abroad"
+  ],
+  "answer": 0,
+  "explanation": "One of the six advantages of cloud computing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Migration",
+  "body": "Which AWS Cloud Adoption Framework perspective covers staff skills and training?",
+  "options": [
+   "Platform",
+   "Operations",
+   "Security",
+   "People"
+  ],
+  "answer": 3,
+  "explanation": "The six perspectives: business, people, governance, platform, security, operations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Migration",
+  "body": "Moving an application to the cloud with no changes is called",
+  "options": [
+   "rehosting (lift and shift)",
+   "retiring",
+   "repurchasing",
+   "refactoring"
+  ],
+  "answer": 0,
+  "explanation": "One of the migration strategies (the 'R's).",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Migration",
+  "body": "Moving from an on-premises CRM to a SaaS CRM is an example of",
+  "options": [
+   "replatforming",
+   "rehosting",
+   "repurchasing",
+   "retaining"
+  ],
+  "answer": 2,
+  "explanation": "You switch to a different product.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Security",
+  "body": "Which service lets you manage access to multiple AWS accounts with single sign-on?",
+  "options": [
+   "AWS IAM Identity Center",
+   "AWS Shield",
+   "Amazon Inspector",
+   "AWS Artifact"
+  ],
+  "answer": 0,
+  "explanation": "Formerly AWS Single Sign-On.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Security",
+  "body": "Which service helps discover and protect sensitive data like personal information in S3?",
+  "options": [
+   "AWS Shield",
+   "Amazon Macie",
+   "AWS Config",
+   "Amazon GuardDuty"
+  ],
+  "answer": 1,
+  "explanation": "Macie uses machine learning to find sensitive data.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Security",
+  "body": "Which service records configuration changes to resources and checks them against rules?",
+  "options": [
+   "Cost Explorer",
+   "AWS Config",
+   "Route 53",
+   "CloudWatch"
+  ],
+  "answer": 1,
+  "explanation": "Useful for compliance auditing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Security",
+  "body": "Which service stores, rotates and retrieves database credentials and API keys?",
+  "options": [
+   "AWS Secrets Manager",
+   "Amazon Macie",
+   "AWS KMS",
+   "AWS Artifact"
+  ],
+  "answer": 0,
+  "explanation": "It can rotate secrets automatically.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Pricing",
+  "body": "Which tool analyses and visualises your past AWS spending?",
+  "options": [
+   "AWS Budgets",
+   "AWS Artifact",
+   "AWS Pricing Calculator",
+   "AWS Cost Explorer"
+  ],
+  "answer": 3,
+  "explanation": "It can also forecast spend.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Pricing",
+  "body": "Which EC2 option provides a physical server dedicated to you, often for licensing reasons?",
+  "options": [
+   "Spot Instances",
+   "On-Demand",
+   "Savings Plans",
+   "Dedicated Hosts"
+  ],
+  "answer": 3,
+  "explanation": "Useful for server-bound software licences.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Pricing",
+  "body": "AWS Organizations consolidated billing lets you",
+  "options": [
+   "get free support",
+   "avoid all data transfer charges",
+   "combine usage across accounts for volume discounts with one bill",
+   "share root passwords"
+  ],
+  "answer": 2,
+  "explanation": "Usage is aggregated for tiered pricing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Storage",
+  "body": "Which S3 storage class is the cheapest for data rarely accessed and retrievable within hours?",
+  "options": [
+   "S3 Intelligent-Tiering",
+   "S3 Glacier Deep Archive",
+   "S3 Standard-IA",
+   "S3 Standard"
+  ],
+  "answer": 1,
+  "explanation": "Retrieval takes hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Amazon EC2 used for?",
+  "options": [
+   "resizable virtual servers in the cloud",
+   "message queues to decouple applications",
+   "block storage volumes attached to EC2 instances",
+   "a dedicated private network connection from on-premises to AWS"
+  ],
+  "answer": 0,
+  "explanation": "Amazon EC2: resizable virtual servers in the cloud.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Amazon S3 used for?",
+  "options": [
+   "a data warehouse for analytics",
+   "physically moving large amounts of data into AWS",
+   "object storage for files of any size",
+   "on-demand access to compliance reports"
+  ],
+  "answer": 2,
+  "explanation": "Amazon S3: object storage for files of any size.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Amazon RDS used for?",
+  "options": [
+   "managed relational databases such as MySQL and PostgreSQL",
+   "building, training and deploying machine learning models",
+   "managing users, groups, roles and permissions",
+   "object storage for files of any size"
+  ],
+  "answer": 0,
+  "explanation": "Amazon RDS: managed relational databases such as MySQL and PostgreSQL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Amazon DynamoDB used for?",
+  "options": [
+   "automated vulnerability scanning of workloads",
+   "running and managing Docker containers",
+   "a serverless NoSQL key-value database",
+   "a shared, elastic file system for Linux workloads"
+  ],
+  "answer": 2,
+  "explanation": "Amazon DynamoDB: a serverless NoSQL key-value database.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is AWS Lambda used for?",
+  "options": [
+   "DNS and domain registration",
+   "a logically isolated private network in AWS",
+   "resizable virtual servers in the cloud",
+   "running code without managing servers, billed per request and duration"
+  ],
+  "answer": 3,
+  "explanation": "AWS Lambda: running code without managing servers, billed per request and duration.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Amazon CloudFront used for?",
+  "options": [
+   "a content delivery network (CDN)",
+   "recommendations on cost, security, performance and limits",
+   "running and managing Docker containers",
+   "monitoring metrics, logs and alarms"
+  ],
+  "answer": 0,
+  "explanation": "Amazon CloudFront: a content delivery network (CDN).",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Amazon Route 53 used for?",
+  "options": [
+   "DNS and domain registration",
+   "object storage for files of any size",
+   "simple virtual private servers with predictable monthly pricing",
+   "recording API calls and account activity for auditing"
+  ],
+  "answer": 0,
+  "explanation": "Amazon Route 53: DNS and domain registration.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Amazon VPC used for?",
+  "options": [
+   "monitoring metrics, logs and alarms",
+   "a serverless NoSQL key-value database",
+   "DNS and domain registration",
+   "a logically isolated private network in AWS"
+  ],
+  "answer": 3,
+  "explanation": "Amazon VPC: a logically isolated private network in AWS.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is AWS IAM used for?",
+  "options": [
+   "running and managing Docker containers",
+   "creating and managing encryption keys",
+   "DNS and domain registration",
+   "managing users, groups, roles and permissions"
+  ],
+  "answer": 3,
+  "explanation": "AWS IAM: managing users, groups, roles and permissions.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Amazon CloudWatch used for?",
+  "options": [
+   "physically moving large amounts of data into AWS",
+   "DDoS protection",
+   "monitoring metrics, logs and alarms",
+   "running and managing Docker containers"
+  ],
+  "answer": 2,
+  "explanation": "Amazon CloudWatch: monitoring metrics, logs and alarms.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is AWS CloudTrail used for?",
+  "options": [
+   "a web application firewall filtering HTTP requests",
+   "recording API calls and account activity for auditing",
+   "a logically isolated private network in AWS",
+   "centrally managing multiple AWS accounts and consolidated billing"
+  ],
+  "answer": 1,
+  "explanation": "AWS CloudTrail: recording API calls and account activity for auditing.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Amazon EBS used for?",
+  "options": [
+   "running and managing Docker containers",
+   "a shared, elastic file system for Linux workloads",
+   "block storage volumes attached to EC2 instances",
+   "managing users, groups, roles and permissions"
+  ],
+  "answer": 2,
+  "explanation": "Amazon EBS: block storage volumes attached to EC2 instances.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Amazon EFS used for?",
+  "options": [
+   "pub/sub notifications such as SMS and email",
+   "a shared, elastic file system for Linux workloads",
+   "low-cost archive storage",
+   "distributing traffic across targets"
+  ],
+  "answer": 1,
+  "explanation": "Amazon EFS: a shared, elastic file system for Linux workloads.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Amazon S3 Glacier used for?",
+  "options": [
+   "distributing traffic across targets",
+   "low-cost archive storage",
+   "object storage for files of any size",
+   "centrally managing multiple AWS accounts and consolidated billing"
+  ],
+  "answer": 1,
+  "explanation": "Amazon S3 Glacier: low-cost archive storage.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is AWS Shield used for?",
+  "options": [
+   "block storage volumes attached to EC2 instances",
+   "DDoS protection",
+   "a logically isolated private network in AWS",
+   "automated vulnerability scanning of workloads"
+  ],
+  "answer": 1,
+  "explanation": "AWS Shield: DDoS protection.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is AWS WAF used for?",
+  "options": [
+   "creating and managing encryption keys",
+   "infrastructure as code using templates",
+   "a web application firewall filtering HTTP requests",
+   "managing users, groups, roles and permissions"
+  ],
+  "answer": 2,
+  "explanation": "AWS WAF: a web application firewall filtering HTTP requests.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Amazon GuardDuty used for?",
+  "options": [
+   "creating and managing encryption keys",
+   "intelligent threat detection",
+   "physically moving large amounts of data into AWS",
+   "block storage volumes attached to EC2 instances"
+  ],
+  "answer": 1,
+  "explanation": "Amazon GuardDuty: intelligent threat detection.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is AWS Trusted Advisor used for?",
+  "options": [
+   "centrally managing multiple AWS accounts and consolidated billing",
+   "recommendations on cost, security, performance and limits",
+   "on-demand access to compliance reports",
+   "a content delivery network (CDN)"
+  ],
+  "answer": 1,
+  "explanation": "AWS Trusted Advisor: recommendations on cost, security, performance and limits.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is AWS CloudFormation used for?",
+  "options": [
+   "intelligent threat detection",
+   "a data warehouse for analytics",
+   "infrastructure as code using templates",
+   "monitoring metrics, logs and alarms"
+  ],
+  "answer": 2,
+  "explanation": "AWS CloudFormation: infrastructure as code using templates.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Elastic Load Balancing used for?",
+  "options": [
+   "block storage volumes attached to EC2 instances",
+   "a dedicated private network connection from on-premises to AWS",
+   "distributing traffic across targets",
+   "a content delivery network (CDN)"
+  ],
+  "answer": 2,
+  "explanation": "Elastic Load Balancing: distributing traffic across targets.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Amazon SNS used for?",
+  "options": [
+   "simple virtual private servers with predictable monthly pricing",
+   "monitoring metrics, logs and alarms",
+   "running and managing Docker containers",
+   "pub/sub notifications such as SMS and email"
+  ],
+  "answer": 3,
+  "explanation": "Amazon SNS: pub/sub notifications such as SMS and email.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Amazon SQS used for?",
+  "options": [
+   "simple virtual private servers with predictable monthly pricing",
+   "managed relational databases such as MySQL and PostgreSQL",
+   "message queues to decouple applications",
+   "a web application firewall filtering HTTP requests"
+  ],
+  "answer": 2,
+  "explanation": "Amazon SQS: message queues to decouple applications.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is AWS Snowball used for?",
+  "options": [
+   "distributing traffic across targets",
+   "managed relational databases such as MySQL and PostgreSQL",
+   "building, training and deploying machine learning models",
+   "physically moving large amounts of data into AWS"
+  ],
+  "answer": 3,
+  "explanation": "AWS Snowball: physically moving large amounts of data into AWS.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Amazon Redshift used for?",
+  "options": [
+   "pub/sub notifications such as SMS and email",
+   "a data warehouse for analytics",
+   "distributing traffic across targets",
+   "infrastructure as code using templates"
+  ],
+  "answer": 1,
+  "explanation": "Amazon Redshift: a data warehouse for analytics.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is AWS Organizations used for?",
+  "options": [
+   "building, training and deploying machine learning models",
+   "centrally managing multiple AWS accounts and consolidated billing",
+   "a data warehouse for analytics",
+   "deploying web apps without managing the infrastructure"
+  ],
+  "answer": 1,
+  "explanation": "AWS Organizations: centrally managing multiple AWS accounts and consolidated billing.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is AWS Artifact used for?",
+  "options": [
+   "building, training and deploying machine learning models",
+   "on-demand access to compliance reports",
+   "automated vulnerability scanning of workloads",
+   "a web application firewall filtering HTTP requests"
+  ],
+  "answer": 1,
+  "explanation": "AWS Artifact: on-demand access to compliance reports.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Amazon Inspector used for?",
+  "options": [
+   "block storage volumes attached to EC2 instances",
+   "managed relational databases such as MySQL and PostgreSQL",
+   "automated vulnerability scanning of workloads",
+   "a web application firewall filtering HTTP requests"
+  ],
+  "answer": 2,
+  "explanation": "Amazon Inspector: automated vulnerability scanning of workloads.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is AWS KMS used for?",
+  "options": [
+   "on-demand access to compliance reports",
+   "a content delivery network (CDN)",
+   "creating and managing encryption keys",
+   "recommendations on cost, security, performance and limits"
+  ],
+  "answer": 2,
+  "explanation": "AWS KMS: creating and managing encryption keys.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Amazon Aurora used for?",
+  "options": [
+   "a MySQL/PostgreSQL-compatible database built for the cloud",
+   "DDoS protection",
+   "a serverless NoSQL key-value database",
+   "centrally managing multiple AWS accounts and consolidated billing"
+  ],
+  "answer": 0,
+  "explanation": "Amazon Aurora: a MySQL/PostgreSQL-compatible database built for the cloud.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is AWS Elastic Beanstalk used for?",
+  "options": [
+   "deploying web apps without managing the infrastructure",
+   "centrally managing multiple AWS accounts and consolidated billing",
+   "object storage for files of any size",
+   "running and managing Docker containers"
+  ],
+  "answer": 0,
+  "explanation": "AWS Elastic Beanstalk: deploying web apps without managing the infrastructure.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Amazon Lightsail used for?",
+  "options": [
+   "pub/sub notifications such as SMS and email",
+   "simple virtual private servers with predictable monthly pricing",
+   "creating and managing encryption keys",
+   "running code without managing servers, billed per request and duration"
+  ],
+  "answer": 1,
+  "explanation": "Amazon Lightsail: simple virtual private servers with predictable monthly pricing.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is AWS Direct Connect used for?",
+  "options": [
+   "a logically isolated private network in AWS",
+   "a data warehouse for analytics",
+   "a shared, elastic file system for Linux workloads",
+   "a dedicated private network connection from on-premises to AWS"
+  ],
+  "answer": 3,
+  "explanation": "AWS Direct Connect: a dedicated private network connection from on-premises to AWS.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Amazon ECS used for?",
+  "options": [
+   "recommendations on cost, security, performance and limits",
+   "running and managing Docker containers",
+   "running code without managing servers, billed per request and duration",
+   "a dedicated private network connection from on-premises to AWS"
+  ],
+  "answer": 1,
+  "explanation": "Amazon ECS: running and managing Docker containers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "What is Amazon SageMaker used for?",
+  "options": [
+   "managed relational databases such as MySQL and PostgreSQL",
+   "building, training and deploying machine learning models",
+   "a content delivery network (CDN)",
+   "DDoS protection"
+  ],
+  "answer": 1,
+  "explanation": "Amazon SageMaker: building, training and deploying machine learning models.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides resizable virtual servers in the cloud?",
+  "options": [
+   "AWS Artifact",
+   "Amazon EC2",
+   "Amazon S3 Glacier",
+   "Amazon ECS"
+  ],
+  "answer": 1,
+  "explanation": "Amazon EC2: resizable virtual servers in the cloud.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides object storage for files of any size?",
+  "options": [
+   "Amazon Route 53",
+   "AWS Organizations",
+   "Amazon S3",
+   "AWS Direct Connect"
+  ],
+  "answer": 2,
+  "explanation": "Amazon S3: object storage for files of any size.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides managed relational databases such as MySQL and PostgreSQL?",
+  "options": [
+   "Amazon RDS",
+   "Amazon EC2",
+   "Amazon GuardDuty",
+   "Amazon S3 Glacier"
+  ],
+  "answer": 0,
+  "explanation": "Amazon RDS: managed relational databases such as MySQL and PostgreSQL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides a serverless NoSQL key-value database?",
+  "options": [
+   "Amazon DynamoDB",
+   "Amazon ECS",
+   "Amazon RDS",
+   "AWS Artifact"
+  ],
+  "answer": 0,
+  "explanation": "Amazon DynamoDB: a serverless NoSQL key-value database.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides running code without managing servers, billed per request and duration?",
+  "options": [
+   "Amazon S3 Glacier",
+   "Amazon SageMaker",
+   "Amazon CloudWatch",
+   "AWS Lambda"
+  ],
+  "answer": 3,
+  "explanation": "AWS Lambda: running code without managing servers, billed per request and duration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides a content delivery network (CDN)?",
+  "options": [
+   "Amazon CloudFront",
+   "AWS CloudTrail",
+   "Amazon Inspector",
+   "Amazon SNS"
+  ],
+  "answer": 0,
+  "explanation": "Amazon CloudFront: a content delivery network (CDN).",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides DNS and domain registration?",
+  "options": [
+   "Amazon SageMaker",
+   "AWS Artifact",
+   "Amazon S3",
+   "Amazon Route 53"
+  ],
+  "answer": 3,
+  "explanation": "Amazon Route 53: DNS and domain registration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides a logically isolated private network in AWS?",
+  "options": [
+   "Amazon VPC",
+   "Amazon EBS",
+   "Amazon CloudWatch",
+   "Amazon S3 Glacier"
+  ],
+  "answer": 0,
+  "explanation": "Amazon VPC: a logically isolated private network in AWS.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides managing users, groups, roles and permissions?",
+  "options": [
+   "Amazon SQS",
+   "Amazon CloudWatch",
+   "Amazon SNS",
+   "AWS IAM"
+  ],
+  "answer": 3,
+  "explanation": "AWS IAM: managing users, groups, roles and permissions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides monitoring metrics, logs and alarms?",
+  "options": [
+   "Amazon Route 53",
+   "Amazon CloudWatch",
+   "Amazon SageMaker",
+   "AWS Direct Connect"
+  ],
+  "answer": 1,
+  "explanation": "Amazon CloudWatch: monitoring metrics, logs and alarms.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides recording API calls and account activity for auditing?",
+  "options": [
+   "Amazon Route 53",
+   "AWS CloudTrail",
+   "Amazon EBS",
+   "Amazon SageMaker"
+  ],
+  "answer": 1,
+  "explanation": "AWS CloudTrail: recording API calls and account activity for auditing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides block storage volumes attached to EC2 instances?",
+  "options": [
+   "AWS Organizations",
+   "AWS Trusted Advisor",
+   "Amazon ECS",
+   "Amazon EBS"
+  ],
+  "answer": 3,
+  "explanation": "Amazon EBS: block storage volumes attached to EC2 instances.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides a shared, elastic file system for Linux workloads?",
+  "options": [
+   "AWS KMS",
+   "Amazon EFS",
+   "AWS CloudFormation",
+   "AWS Direct Connect"
+  ],
+  "answer": 1,
+  "explanation": "Amazon EFS: a shared, elastic file system for Linux workloads.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides low-cost archive storage?",
+  "options": [
+   "AWS Snowball",
+   "Amazon SQS",
+   "Amazon SageMaker",
+   "Amazon S3 Glacier"
+  ],
+  "answer": 3,
+  "explanation": "Amazon S3 Glacier: low-cost archive storage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides DDoS protection?",
+  "options": [
+   "Amazon Lightsail",
+   "Amazon Route 53",
+   "AWS Shield",
+   "Amazon DynamoDB"
+  ],
+  "answer": 2,
+  "explanation": "AWS Shield: DDoS protection.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides a web application firewall filtering HTTP requests?",
+  "options": [
+   "AWS Shield",
+   "Amazon CloudWatch",
+   "AWS WAF",
+   "Amazon Inspector"
+  ],
+  "answer": 2,
+  "explanation": "AWS WAF: a web application firewall filtering HTTP requests.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides intelligent threat detection?",
+  "options": [
+   "Amazon EFS",
+   "Amazon DynamoDB",
+   "AWS CloudTrail",
+   "Amazon GuardDuty"
+  ],
+  "answer": 3,
+  "explanation": "Amazon GuardDuty: intelligent threat detection.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides recommendations on cost, security, performance and limits?",
+  "options": [
+   "Amazon Redshift",
+   "AWS Trusted Advisor",
+   "Amazon GuardDuty",
+   "Elastic Load Balancing"
+  ],
+  "answer": 1,
+  "explanation": "AWS Trusted Advisor: recommendations on cost, security, performance and limits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides infrastructure as code using templates?",
+  "options": [
+   "AWS CloudFormation",
+   "AWS Elastic Beanstalk",
+   "Amazon S3 Glacier",
+   "Amazon Lightsail"
+  ],
+  "answer": 0,
+  "explanation": "AWS CloudFormation: infrastructure as code using templates.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides distributing traffic across targets?",
+  "options": [
+   "AWS IAM",
+   "AWS WAF",
+   "AWS Artifact",
+   "Elastic Load Balancing"
+  ],
+  "answer": 3,
+  "explanation": "Elastic Load Balancing: distributing traffic across targets.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides pub/sub notifications such as SMS and email?",
+  "options": [
+   "AWS WAF",
+   "Amazon GuardDuty",
+   "Amazon SNS",
+   "AWS Snowball"
+  ],
+  "answer": 2,
+  "explanation": "Amazon SNS: pub/sub notifications such as SMS and email.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides message queues to decouple applications?",
+  "options": [
+   "AWS Shield",
+   "AWS Lambda",
+   "Amazon Redshift",
+   "Amazon SQS"
+  ],
+  "answer": 3,
+  "explanation": "Amazon SQS: message queues to decouple applications.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides physically moving large amounts of data into AWS?",
+  "options": [
+   "AWS Direct Connect",
+   "Amazon VPC",
+   "AWS Snowball",
+   "Amazon GuardDuty"
+  ],
+  "answer": 2,
+  "explanation": "AWS Snowball: physically moving large amounts of data into AWS.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides a data warehouse for analytics?",
+  "options": [
+   "Amazon Redshift",
+   "AWS CloudTrail",
+   "Amazon Route 53",
+   "AWS Shield"
+  ],
+  "answer": 0,
+  "explanation": "Amazon Redshift: a data warehouse for analytics.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides centrally managing multiple AWS accounts and consolidated billing?",
+  "options": [
+   "Amazon CloudFront",
+   "AWS Direct Connect",
+   "AWS Organizations",
+   "AWS Trusted Advisor"
+  ],
+  "answer": 2,
+  "explanation": "AWS Organizations: centrally managing multiple AWS accounts and consolidated billing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides on-demand access to compliance reports?",
+  "options": [
+   "Amazon VPC",
+   "AWS Artifact",
+   "Amazon CloudWatch",
+   "Amazon S3"
+  ],
+  "answer": 1,
+  "explanation": "AWS Artifact: on-demand access to compliance reports.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides automated vulnerability scanning of workloads?",
+  "options": [
+   "AWS CloudTrail",
+   "Amazon SQS",
+   "AWS Elastic Beanstalk",
+   "Amazon Inspector"
+  ],
+  "answer": 3,
+  "explanation": "Amazon Inspector: automated vulnerability scanning of workloads.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides creating and managing encryption keys?",
+  "options": [
+   "Amazon Inspector",
+   "Amazon CloudWatch",
+   "AWS KMS",
+   "AWS IAM"
+  ],
+  "answer": 2,
+  "explanation": "AWS KMS: creating and managing encryption keys.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides a MySQL/PostgreSQL-compatible database built for the cloud?",
+  "options": [
+   "Amazon ECS",
+   "Amazon S3 Glacier",
+   "Amazon Aurora",
+   "AWS KMS"
+  ],
+  "answer": 2,
+  "explanation": "Amazon Aurora: a MySQL/PostgreSQL-compatible database built for the cloud.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides deploying web apps without managing the infrastructure?",
+  "options": [
+   "Amazon EBS",
+   "AWS Organizations",
+   "AWS Elastic Beanstalk",
+   "Amazon CloudFront"
+  ],
+  "answer": 2,
+  "explanation": "AWS Elastic Beanstalk: deploying web apps without managing the infrastructure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides simple virtual private servers with predictable monthly pricing?",
+  "options": [
+   "Amazon Lightsail",
+   "AWS Lambda",
+   "AWS Artifact",
+   "Amazon Inspector"
+  ],
+  "answer": 0,
+  "explanation": "Amazon Lightsail: simple virtual private servers with predictable monthly pricing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides a dedicated private network connection from on-premises to AWS?",
+  "options": [
+   "AWS Direct Connect",
+   "Amazon SageMaker",
+   "Amazon SQS",
+   "AWS CloudFormation"
+  ],
+  "answer": 0,
+  "explanation": "AWS Direct Connect: a dedicated private network connection from on-premises to AWS.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides running and managing Docker containers?",
+  "options": [
+   "AWS Trusted Advisor",
+   "Amazon VPC",
+   "Amazon ECS",
+   "AWS WAF"
+  ],
+  "answer": 2,
+  "explanation": "Amazon ECS: running and managing Docker containers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AWC",
+  "topic": "Services",
+  "body": "Which AWS service provides building, training and deploying machine learning models?",
+  "options": [
+   "AWS Direct Connect",
+   "Amazon CloudWatch",
+   "Amazon S3",
+   "Amazon SageMaker"
+  ],
+  "answer": 3,
+  "explanation": "Amazon SageMaker: building, training and deploying machine learning models.",
+  "difficulty": 2
+ }
+]

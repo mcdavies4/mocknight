@@ -1,0 +1,1402 @@
+[
+ {
+  "subject": "PCE",
+  "topic": "Operators",
+  "body": "What is the output of this code?\n\nprint(7 // 2)",
+  "options": [
+   "4",
+   "1",
+   "3.5",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "// is floor division.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Operators",
+  "body": "What is the output of this code?\n\nprint(7 % 3)",
+  "options": [
+   "2.33",
+   "0",
+   "2",
+   "1"
+  ],
+  "answer": 3,
+  "explanation": "% gives the remainder.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Operators",
+  "body": "What is the output of this code?\n\nprint(2 ** 3 ** 2)",
+  "options": [
+   "512",
+   "36",
+   "18",
+   "64"
+  ],
+  "answer": 0,
+  "explanation": "** is right-associative: 3**2 = 9, then 2**9 = 512.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Operators",
+  "body": "What is the output of this code?\n\nprint(-7 // 2)",
+  "options": [
+   "-4",
+   "-3",
+   "3",
+   "-3.5"
+  ],
+  "answer": 0,
+  "explanation": "Floor division rounds towards negative infinity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Operators",
+  "body": "What is the output of this code?\n\nprint(10 / 4)",
+  "options": [
+   "2.25",
+   "2.5",
+   "3",
+   "2"
+  ],
+  "answer": 1,
+  "explanation": "/ always returns a float in Python 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Operators",
+  "body": "What is the output of this code?\n\nprint(1 + 2 * 3)",
+  "options": [
+   "9",
+   "6",
+   "5",
+   "7"
+  ],
+  "answer": 3,
+  "explanation": "Multiplication happens before addition.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Operators",
+  "body": "What is the output of this code?\n\nprint(True + True)",
+  "options": [
+   "2",
+   "True",
+   "Error",
+   "1"
+  ],
+  "answer": 0,
+  "explanation": "True behaves like 1 in arithmetic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Operators",
+  "body": "What is the output of this code?\n\nprint(5 == 5.0)",
+  "options": [
+   "None",
+   "Error",
+   "True",
+   "False"
+  ],
+  "answer": 2,
+  "explanation": "int and float values compare by value.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Operators",
+  "body": "What is the output of this code?\n\nprint(not 0 and 3)",
+  "options": [
+   "False",
+   "3",
+   "0",
+   "True"
+  ],
+  "answer": 1,
+  "explanation": "not 0 is True; True and 3 returns 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Operators",
+  "body": "What is the output of this code?\n\nprint(0 or 'hi')",
+  "options": [
+   "True",
+   "False",
+   "0",
+   "hi"
+  ],
+  "answer": 3,
+  "explanation": "or returns the first truthy operand.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Operators",
+  "body": "What is the output of this code?\n\nprint(17 // 5 * 2)",
+  "options": [
+   "1",
+   "6",
+   "2",
+   "7"
+  ],
+  "answer": 1,
+  "explanation": "17 // 5 = 3, then 3 * 2 = 6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Types",
+  "body": "What is the output of this code?\n\nprint(type(3 / 1).__name__)",
+  "options": [
+   "number",
+   "str",
+   "int",
+   "float"
+  ],
+  "answer": 3,
+  "explanation": "Division with / gives a float.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Types",
+  "body": "What is the output of this code?\n\nprint(int('12') + 3)",
+  "options": [
+   "12",
+   "123",
+   "Error",
+   "15"
+  ],
+  "answer": 3,
+  "explanation": "int('12') converts the string to 12.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Types",
+  "body": "What is the output of this code?\n\nprint('3' * 3)",
+  "options": [
+   "9",
+   "3 3 3",
+   "Error",
+   "333"
+  ],
+  "answer": 3,
+  "explanation": "Multiplying a string repeats it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Types",
+  "body": "What is the output of this code?\n\nprint(int(3.99))",
+  "options": [
+   "Error",
+   "4",
+   "3",
+   "3.99"
+  ],
+  "answer": 2,
+  "explanation": "int() truncates towards zero.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Types",
+  "body": "What is the output of this code?\n\nprint(float('2') + 1)",
+  "options": [
+   "3.0",
+   "21",
+   "Error",
+   "2.01"
+  ],
+  "answer": 0,
+  "explanation": "float('2') is 2.0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Types",
+  "body": "What is the output of this code?\n\nprint(bool(''))",
+  "options": [
+   "False",
+   "Error",
+   "''",
+   "True"
+  ],
+  "answer": 0,
+  "explanation": "An empty string is falsy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Types",
+  "body": "What is the output of this code?\n\nprint(str(10) + str(5))",
+  "options": [
+   "10 5",
+   "105",
+   "Error",
+   "15"
+  ],
+  "answer": 1,
+  "explanation": "String concatenation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Strings",
+  "body": "What is the output of this code?\n\ns = 'python'\nprint(s[1:4])",
+  "options": [
+   "ytho",
+   "yth",
+   "ython",
+   "pyt"
+  ],
+  "answer": 1,
+  "explanation": "Slicing includes the start and excludes the end.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Strings",
+  "body": "What is the output of this code?\n\ns = 'python'\nprint(s[-1])",
+  "options": [
+   "o",
+   "p",
+   "Error",
+   "n"
+  ],
+  "answer": 3,
+  "explanation": "Index -1 is the last character.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Strings",
+  "body": "What is the output of this code?\n\ns = 'python'\nprint(s[::-1])",
+  "options": [
+   "p",
+   "Error",
+   "nohtyp",
+   "python"
+  ],
+  "answer": 2,
+  "explanation": "A step of -1 reverses the string.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Strings",
+  "body": "What is the output of this code?\n\nprint(len('hello world'))",
+  "options": [
+   "11",
+   "10",
+   "12",
+   "2"
+  ],
+  "answer": 0,
+  "explanation": "The space counts as a character.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Strings",
+  "body": "What is the output of this code?\n\nprint('Hello'.upper())",
+  "options": [
+   "HELLO",
+   "H",
+   "Error",
+   "HELLO()"
+  ],
+  "answer": 0,
+  "explanation": "upper() returns an upper-case copy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Strings",
+  "body": "What is the output of this code?\n\nprint('a,b,c'.split(','))",
+  "options": [
+   "a b c",
+   "['a,b,c']",
+   "['a', 'b', 'c']",
+   "('a', 'b', 'c')"
+  ],
+  "answer": 2,
+  "explanation": "split() returns a list.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Strings",
+  "body": "What is the output of this code?\n\nprint('-'.join(['a', 'b', 'c']))",
+  "options": [
+   "a-b-c",
+   "abc",
+   "-a-b-c",
+   "['a', 'b', 'c']"
+  ],
+  "answer": 0,
+  "explanation": "join() puts the separator between items.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Strings",
+  "body": "What is the output of this code?\n\nprint('abc' < 'abd')",
+  "options": [
+   "False",
+   "True",
+   "Error",
+   "None"
+  ],
+  "answer": 1,
+  "explanation": "Strings compare character by character.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Strings",
+  "body": "What is the output of this code?\n\nprint('ab' in 'cabin')",
+  "options": [
+   "False",
+   "1",
+   "True",
+   "Error"
+  ],
+  "answer": 2,
+  "explanation": "in checks for a substring.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Lists",
+  "body": "What is the output of this code?\n\na = [1, 2, 3]\na.append(4)\nprint(len(a))",
+  "options": [
+   "4",
+   "Error",
+   "5",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "append adds one item.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Lists",
+  "body": "What is the output of this code?\n\na = [1, 2, 3]\nb = a\nb.append(4)\nprint(a)",
+  "options": [
+   "[1, 2, 3, 4]",
+   "Error",
+   "[1, 2, 3]",
+   "[4]"
+  ],
+  "answer": 0,
+  "explanation": "b and a refer to the same list.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Lists",
+  "body": "What is the output of this code?\n\na = [1, 2, 3]\nb = a[:]\nb.append(4)\nprint(a)",
+  "options": [
+   "[1, 2, 3]",
+   "Error",
+   "[1, 2, 3, 4]",
+   "[4]"
+  ],
+  "answer": 0,
+  "explanation": "a[:] makes a copy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Lists",
+  "body": "What is the output of this code?\n\na = [3, 1, 2]\na.sort()\nprint(a)",
+  "options": [
+   "None",
+   "[1, 2, 3]",
+   "[3, 1, 2]",
+   "[3, 2, 1]"
+  ],
+  "answer": 1,
+  "explanation": "sort() sorts the list in place.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Lists",
+  "body": "What is the output of this code?\n\na = [3, 1, 2]\nprint(a.sort())",
+  "options": [
+   "[3, 1, 2]",
+   "[1, 2, 3]",
+   "Error",
+   "None"
+  ],
+  "answer": 3,
+  "explanation": "sort() returns None; it changes the list in place.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Lists",
+  "body": "What is the output of this code?\n\na = [1, 2, 3, 4, 5]\nprint(a[1:-1])",
+  "options": [
+   "[2, 3]",
+   "[2, 3, 4, 5]",
+   "[2, 3, 4]",
+   "[1, 2, 3, 4]"
+  ],
+  "answer": 2,
+  "explanation": "From index 1 up to (not including) the last.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Lists",
+  "body": "What is the output of this code?\n\na = [1, 2, 3]\nprint(a * 2)",
+  "options": [
+   "[2, 4, 6]",
+   "Error",
+   "[[1, 2, 3], [1, 2, 3]]",
+   "[1, 2, 3, 1, 2, 3]"
+  ],
+  "answer": 3,
+  "explanation": "Multiplying a list repeats it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Lists",
+  "body": "What is the output of this code?\n\na = [1, 2, 3]\ndel a[0]\nprint(a)",
+  "options": [
+   "[2, 3]",
+   "[1, 2, 3]",
+   "[1, 2]",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "del removes the item at that index.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Lists",
+  "body": "What is the output of this code?\n\na = [1, [2, 3], 4]\nprint(len(a))",
+  "options": [
+   "3",
+   "5",
+   "2",
+   "4"
+  ],
+  "answer": 0,
+  "explanation": "The nested list counts as one item.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Lists",
+  "body": "What is the output of this code?\n\nprint([x * 2 for x in range(3)])",
+  "options": [
+   "[2, 4, 6]",
+   "[0, 2, 4, 6]",
+   "[0, 1, 2]",
+   "[0, 2, 4]"
+  ],
+  "answer": 3,
+  "explanation": "range(3) gives 0, 1, 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Lists",
+  "body": "What is the output of this code?\n\na = [1, 2, 3]\na.insert(1, 9)\nprint(a)",
+  "options": [
+   "[1, 9, 3]",
+   "[9, 1, 2, 3]",
+   "[1, 2, 9, 3]",
+   "[1, 9, 2, 3]"
+  ],
+  "answer": 3,
+  "explanation": "insert(index, value) puts the value before that index.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Tuples & dicts",
+  "body": "What is the output of this code?\n\nt = (1, 2, 3)\nprint(t[1])",
+  "options": [
+   "1",
+   "3",
+   "2",
+   "Error"
+  ],
+  "answer": 2,
+  "explanation": "Tuples are indexed from 0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Tuples & dicts",
+  "body": "What is the output of this code?\n\nt = (5,)\nprint(type(t).__name__)",
+  "options": [
+   "tuple",
+   "str",
+   "int",
+   "list"
+  ],
+  "answer": 0,
+  "explanation": "The trailing comma makes a one-item tuple.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Tuples & dicts",
+  "body": "What is the output of this code?\n\nd = {'a': 1, 'b': 2}\nprint(d['b'])",
+  "options": [
+   "2",
+   "1",
+   "'b'",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Look up a value by its key.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Tuples & dicts",
+  "body": "What is the output of this code?\n\nd = {'a': 1}\nd['a'] = 5\nprint(d)",
+  "options": [
+   "{'a': 1, 'a': 5}",
+   "Error",
+   "{'a': 5}",
+   "{'a': 1}"
+  ],
+  "answer": 2,
+  "explanation": "Assigning to an existing key replaces the value.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Tuples & dicts",
+  "body": "What is the output of this code?\n\nd = {'a': 1, 'b': 2}\nprint(len(d))",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "len() counts the keys.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Tuples & dicts",
+  "body": "What is the output of this code?\n\nd = {'a': 1}\nprint(d.get('z', 0))",
+  "options": [
+   "1",
+   "0",
+   "None",
+   "Error"
+  ],
+  "answer": 1,
+  "explanation": "get() returns the default if the key is missing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Tuples & dicts",
+  "body": "What is the output of this code?\n\nd = {'x': 1, 'y': 2}\nprint(list(d.keys()))",
+  "options": [
+   "('x', 'y')",
+   "['x', 1, 'y', 2]",
+   "[1, 2]",
+   "['x', 'y']"
+  ],
+  "answer": 3,
+  "explanation": "keys() gives the keys.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Tuples & dicts",
+  "body": "What is the output of this code?\n\nd = {'x': 1, 'y': 2}\nprint('y' in d)",
+  "options": [
+   "False",
+   "True",
+   "Error",
+   "2"
+  ],
+  "answer": 1,
+  "explanation": "in checks the keys of a dictionary.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Control flow",
+  "body": "What is the output of this code?\n\nx = 5\nif x > 3:\n    print('big')\nelse:\n    print('small')",
+  "options": [
+   "small",
+   "big",
+   "Nothing",
+   "big small"
+  ],
+  "answer": 1,
+  "explanation": "5 > 3 is True.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Control flow",
+  "body": "What is the output of this code?\n\nfor i in range(2, 8, 3):\n    print(i, end=' ')",
+  "options": [
+   "3 6",
+   "2 5",
+   "2 5 8",
+   "2 3 4 5 6 7"
+  ],
+  "answer": 1,
+  "explanation": "range(start, stop, step) stops before 8.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Control flow",
+  "body": "What is the output of this code?\n\nn = 0\nwhile n < 3:\n    n += 1\nprint(n)",
+  "options": [
+   "3",
+   "0",
+   "4",
+   "2"
+  ],
+  "answer": 0,
+  "explanation": "The loop ends when n becomes 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Control flow",
+  "body": "What is the output of this code?\n\nfor i in range(5):\n    if i == 3:\n        break\nprint(i)",
+  "options": [
+   "4",
+   "3",
+   "5",
+   "2"
+  ],
+  "answer": 1,
+  "explanation": "break leaves the loop when i is 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Control flow",
+  "body": "What is the output of this code?\n\ntotal = 0\nfor i in range(5):\n    if i % 2 == 0:\n        continue\n    total += i\nprint(total)",
+  "options": [
+   "0",
+   "6",
+   "10",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": "Only odd numbers 1 and 3 are added.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Control flow",
+  "body": "What is the output of this code?\n\nfor i in range(3):\n    pass\nelse:\n    print('done')",
+  "options": [
+   "done",
+   "Nothing",
+   "Error",
+   "0 1 2"
+  ],
+  "answer": 0,
+  "explanation": "A for-loop's else runs when the loop finishes without break.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Control flow",
+  "body": "What is the output of this code?\n\ncount = 0\nfor c in 'banana':\n    if c == 'a':\n        count += 1\nprint(count)",
+  "options": [
+   "3",
+   "2",
+   "6",
+   "1"
+  ],
+  "answer": 0,
+  "explanation": "'banana' has three a's.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Control flow",
+  "body": "What is the output of this code?\n\nx = 10\nprint('even' if x % 2 == 0 else 'odd')",
+  "options": [
+   "odd",
+   "Error",
+   "True",
+   "even"
+  ],
+  "answer": 3,
+  "explanation": "A conditional expression.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Control flow",
+  "body": "What is the output of this code?\n\nprint(list(range(3, 0, -1)))",
+  "options": [
+   "[]",
+   "[1, 2, 3]",
+   "[3, 2, 1, 0]",
+   "[3, 2, 1]"
+  ],
+  "answer": 3,
+  "explanation": "A negative step counts down and stops before 0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Functions",
+  "body": "What is the output of this code?\n\ndef f(a, b=2):\n    return a * b\nprint(f(3))",
+  "options": [
+   "5",
+   "Error",
+   "3",
+   "6"
+  ],
+  "answer": 3,
+  "explanation": "b uses its default value 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Functions",
+  "body": "What is the output of this code?\n\ndef f(a, b=2):\n    return a * b\nprint(f(3, 4))",
+  "options": [
+   "12",
+   "7",
+   "Error",
+   "6"
+  ],
+  "answer": 0,
+  "explanation": "The argument 4 overrides the default.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Functions",
+  "body": "What is the output of this code?\n\ndef f():\n    pass\nprint(f())",
+  "options": [
+   "0",
+   "None",
+   "Error",
+   "pass"
+  ],
+  "answer": 1,
+  "explanation": "A function without return returns None.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Functions",
+  "body": "What is the output of this code?\n\ndef f(x):\n    x = x + 1\na = 5\nf(a)\nprint(a)",
+  "options": [
+   "Error",
+   "5",
+   "None",
+   "6"
+  ],
+  "answer": 1,
+  "explanation": "Rebinding x inside the function doesn't change a.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Functions",
+  "body": "What is the output of this code?\n\ndef f(lst):\n    lst.append(1)\na = []\nf(a)\nprint(a)",
+  "options": [
+   "None",
+   "Error",
+   "[1]",
+   "[]"
+  ],
+  "answer": 2,
+  "explanation": "The list object itself is changed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Functions",
+  "body": "What is the output of this code?\n\nx = 1\ndef f():\n    global x\n    x = 2\nf()\nprint(x)",
+  "options": [
+   "Error",
+   "1",
+   "2",
+   "None"
+  ],
+  "answer": 2,
+  "explanation": "global lets the function rebind the module-level x.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Functions",
+  "body": "What is the output of this code?\n\ndef f(*args):\n    return len(args)\nprint(f(1, 2, 3))",
+  "options": [
+   "6",
+   "3",
+   "1",
+   "Error"
+  ],
+  "answer": 1,
+  "explanation": "*args collects positional arguments into a tuple.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Functions",
+  "body": "What is the output of this code?\n\ndef f(n):\n    return 1 if n <= 1 else n * f(n - 1)\nprint(f(4))",
+  "options": [
+   "10",
+   "16",
+   "24",
+   "4"
+  ],
+  "answer": 2,
+  "explanation": "Recursive factorial: 4 × 3 × 2 × 1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Functions",
+  "body": "What is the output of this code?\n\nprint(max([3, 9, 2]))",
+  "options": [
+   "2",
+   "3",
+   "9",
+   "[9]"
+  ],
+  "answer": 2,
+  "explanation": "max() returns the largest item.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Functions",
+  "body": "What is the output of this code?\n\nprint(sum([1, 2, 3]) / 3)",
+  "options": [
+   "6.0",
+   "3.0",
+   "Error",
+   "2.0"
+  ],
+  "answer": 3,
+  "explanation": "6 / 3 is 2.0 (a float).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Operators",
+  "body": "What is the output of this code?\n\nx = 5\nx += 3\nx *= 2\nprint(x)",
+  "options": [
+   "16",
+   "13",
+   "11",
+   "10"
+  ],
+  "answer": 0,
+  "explanation": "5 + 3 = 8, then 8 × 2 = 16.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Operators",
+  "body": "What is the output of this code?\n\nprint(3 > 2 > 1)",
+  "options": [
+   "Error",
+   "True",
+   "False",
+   "1"
+  ],
+  "answer": 1,
+  "explanation": "Chained comparison: 3 > 2 and 2 > 1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Operators",
+  "body": "What is the output of this code?\n\nprint(6 & 3)",
+  "options": [
+   "1",
+   "2",
+   "9",
+   "7"
+  ],
+  "answer": 1,
+  "explanation": "Bitwise AND: 110 & 011 = 010.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Operators",
+  "body": "What is the output of this code?\n\nprint(6 | 3)",
+  "options": [
+   "7",
+   "5",
+   "9",
+   "2"
+  ],
+  "answer": 0,
+  "explanation": "Bitwise OR: 110 | 011 = 111.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Operators",
+  "body": "What is the output of this code?\n\nprint(1 << 3)",
+  "options": [
+   "4",
+   "8",
+   "6",
+   "3"
+  ],
+  "answer": 1,
+  "explanation": "Shifting left by 3 multiplies by 2³.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Operators",
+  "body": "What is the output of this code?\n\nprint(round(2.675, 1))",
+  "options": [
+   "2.68",
+   "3",
+   "2.6",
+   "2.7"
+  ],
+  "answer": 3,
+  "explanation": "Rounded to one decimal place.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Strings",
+  "body": "What is the output of this code?\n\nprint('Py' + 'thon' * 0)",
+  "options": [
+   "Error",
+   "Python",
+   "thon",
+   "Py"
+  ],
+  "answer": 3,
+  "explanation": "'thon' * 0 is an empty string.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Strings",
+  "body": "What is the output of this code?\n\nprint('hello'.find('l'))",
+  "options": [
+   "-1",
+   "3",
+   "2",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "find() returns the index of the first match.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Strings",
+  "body": "What is the output of this code?\n\nprint('a-b'.replace('-', '+'))",
+  "options": [
+   "a+b",
+   "ab",
+   "a-b",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "replace() returns a new string.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Strings",
+  "body": "What is the output of this code?\n\nprint(len('  hi  '.strip()))",
+  "options": [
+   "6",
+   "2",
+   "4",
+   "0"
+  ],
+  "answer": 1,
+  "explanation": "strip() removes surrounding spaces.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Lists",
+  "body": "What is the output of this code?\n\na = [1, 2, 3]\nprint(a.pop())",
+  "options": [
+   "1",
+   "3",
+   "[1, 2]",
+   "Error"
+  ],
+  "answer": 1,
+  "explanation": "pop() removes and returns the last item.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Lists",
+  "body": "What is the output of this code?\n\na = [1, 2, 2, 3]\na.remove(2)\nprint(a)",
+  "options": [
+   "[1, 2, 2]",
+   "[1, 3]",
+   "[1, 2, 3]",
+   "Error"
+  ],
+  "answer": 2,
+  "explanation": "remove() deletes the first matching value.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Lists",
+  "body": "What is the output of this code?\n\na = [5, 6, 7]\nprint(a.index(7))",
+  "options": [
+   "3",
+   "7",
+   "1",
+   "2"
+  ],
+  "answer": 3,
+  "explanation": "index() returns the position of the value.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Lists",
+  "body": "What is the output of this code?\n\na = [1, 2]\na.extend([3, 4])\nprint(a)",
+  "options": [
+   "Error",
+   "[1, 2, [3, 4]]",
+   "[1, 2, 3, 4]",
+   "[3, 4]"
+  ],
+  "answer": 2,
+  "explanation": "extend() adds each item.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Lists",
+  "body": "What is the output of this code?\n\na = [1, 2]\na.append([3, 4])\nprint(len(a))",
+  "options": [
+   "2",
+   "3",
+   "Error",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "append() adds the whole list as one item.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Lists",
+  "body": "What is the output of this code?\n\nm = [[1, 2], [3, 4]]\nprint(m[1][0])",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "1"
+  ],
+  "answer": 1,
+  "explanation": "Row 1, column 0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Lists",
+  "body": "What is the output of this code?\n\nprint(sorted([3, 1, 2], reverse=True))",
+  "options": [
+   "None",
+   "[1, 2, 3]",
+   "[3, 2, 1]",
+   "[3, 1, 2]"
+  ],
+  "answer": 2,
+  "explanation": "sorted() returns a new sorted list.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Control flow",
+  "body": "What is the output of this code?\n\nfor i in range(3):\n    for j in range(2):\n        pass\nprint(i + j)",
+  "options": [
+   "4",
+   "5",
+   "2",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "After the loops, i is 2 and j is 1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Control flow",
+  "body": "What is the output of this code?\n\ni = 0\nwhile True:\n    i += 2\n    if i > 5:\n        break\nprint(i)",
+  "options": [
+   "6",
+   "8",
+   "5",
+   "4"
+  ],
+  "answer": 0,
+  "explanation": "i goes 2, 4, 6 — then breaks.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Functions",
+  "body": "What is the output of this code?\n\nf = lambda x: x * x\nprint(f(4))",
+  "options": [
+   "16",
+   "Error",
+   "4",
+   "8"
+  ],
+  "answer": 0,
+  "explanation": "A lambda is a small anonymous function.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Functions",
+  "body": "What is the output of this code?\n\ndef f(a, b):\n    return b - a\nprint(f(b=10, a=3))",
+  "options": [
+   "Error",
+   "13",
+   "7",
+   "-7"
+  ],
+  "answer": 2,
+  "explanation": "Keyword arguments match by name.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Functions",
+  "body": "What is the output of this code?\n\ndef f(x):\n    return x, x * 2\na, b = f(3)\nprint(b)",
+  "options": [
+   "6",
+   "3",
+   "(3, 6)",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The function returns a tuple that is unpacked.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Errors",
+  "body": "What is the output of this code?\n\ntry:\n    print(1 / 0)\nexcept ZeroDivisionError:\n    print('oops')",
+  "options": [
+   "oops",
+   "Error",
+   "0",
+   "inf"
+  ],
+  "answer": 0,
+  "explanation": "The exception is caught.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Errors",
+  "body": "What is the output of this code?\n\ntry:\n    int('x')\nexcept ValueError:\n    print('bad')\nelse:\n    print('ok')",
+  "options": [
+   "bad ok",
+   "bad",
+   "ok",
+   "Error"
+  ],
+  "answer": 1,
+  "explanation": "int('x') raises ValueError.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Errors",
+  "body": "What is the output of this code?\n\ntry:\n    x = 1\nexcept:\n    print('a', end=' ')\nelse:\n    print('b', end=' ')\nfinally:\n    print('c')",
+  "options": [
+   "c",
+   "a c",
+   "b c",
+   "b"
+  ],
+  "answer": 2,
+  "explanation": "No error: else runs, then finally.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Basics",
+  "body": "Which of these is a valid Python variable name?",
+  "options": [
+   "2score",
+   "my_score",
+   "my-score",
+   "class"
+  ],
+  "answer": 1,
+  "explanation": "Names can't start with a digit, contain hyphens or be keywords.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Basics",
+  "body": "Which keyword defines a function?",
+  "options": [
+   "def",
+   "lambda only",
+   "function",
+   "func"
+  ],
+  "answer": 0,
+  "explanation": "lambda creates small anonymous functions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Basics",
+  "body": "How do you start a single-line comment in Python?",
+  "options": [
+   "/*",
+   "--",
+   "#",
+   "//"
+  ],
+  "answer": 2,
+  "explanation": "Everything after # on that line is ignored.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Basics",
+  "body": "Which data type is immutable?",
+  "options": [
+   "set",
+   "list",
+   "dict",
+   "tuple"
+  ],
+  "answer": 3,
+  "explanation": "Lists, dictionaries and sets can be changed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Basics",
+  "body": "What does input() return?",
+  "options": [
+   "It depends on what you type",
+   "A float",
+   "A string",
+   "An int"
+  ],
+  "answer": 2,
+  "explanation": "Convert with int() or float() if needed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Basics",
+  "body": "Which error happens when you use a variable that hasn't been defined?",
+  "options": [
+   "NameError",
+   "TypeError",
+   "IndexError",
+   "ValueError"
+  ],
+  "answer": 0,
+  "explanation": "IndexError is for list indexes out of range.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Basics",
+  "body": "Which error does [1, 2][5] raise?",
+  "options": [
+   "ValueError",
+   "KeyError",
+   "IndexError",
+   "NameError"
+  ],
+  "answer": 2,
+  "explanation": "The index is out of range.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Basics",
+  "body": "Which error does {'a': 1}['b'] raise?",
+  "options": [
+   "KeyError",
+   "NameError",
+   "ValueError",
+   "IndexError"
+  ],
+  "answer": 0,
+  "explanation": "The key doesn't exist.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Basics",
+  "body": "Which error does '2' + 2 raise?",
+  "options": [
+   "SyntaxError",
+   "ValueError",
+   "NameError",
+   "TypeError"
+  ],
+  "answer": 3,
+  "explanation": "You can't add a str and an int.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PCE",
+  "topic": "Basics",
+  "body": "Python uses ___ to group statements into blocks.",
+  "options": [
+   "curly braces",
+   "BEGIN and END",
+   "semicolons",
+   "indentation"
+  ],
+  "answer": 3,
+  "explanation": "Consistent indentation (usually 4 spaces) is required.",
+  "difficulty": 2
+ }
+]
