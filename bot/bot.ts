@@ -334,7 +334,7 @@ function register(bot: Bot<Ctx>) {
         return promptStep(ctx.api, u);
       }
       await ctx.reply(
-        `Welcome to *Mock Night* 👋\n\nExam practice that lives in Telegram: daily drills, real timed practice tests and progress tracking — for school exams, professional certifications and work courses.\n\nLet's set you up — takes 30 seconds.`,
+        `🌿 *Mock Night*\n*Prepare Smarter. Perform Better.*\n\nPractise for school exams, professional certifications and workplace courses with daily drills, timed mock tests, clear explanations and progress tracking — on Telegram and the web.\n\nLet's set you up — takes 30 seconds.`,
         { parse_mode: "Markdown" },
       );
     }
@@ -393,7 +393,9 @@ function register(bot: Bot<Ctx>) {
   bot.command("help", (ctx) =>
     ctx.reply(
       [
-        "*Students*",
+        "🌿 *Mock Night — Prepare Smarter. Perform Better.*",
+        "",
+        "*Student commands*",
         "/drill — today's drill",
         "/cbt — practice CBT",
         "/mocknight — Sunday Mock Night",

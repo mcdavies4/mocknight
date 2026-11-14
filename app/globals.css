@@ -148,3 +148,35 @@ a { color: var(--accent); }
 .grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 12px; }
 .faq h3 { margin: 18px 0 4px; font-size: 17px; }
 .faq p { margin: 0; }
+
+
+/* Mock Night brand system — forest green + fresh sage */
+:root {
+  --mn-forest: #0B2F22;
+  --mn-green: #2F6B4F;
+  --mn-sage: #B9D9A6;
+  --mn-lime: #D4F2A5;
+  --mn-cream: #F7F8F1;
+  --bg: var(--tg-theme-bg-color, var(--mn-cream));
+  --bg2: var(--tg-theme-secondary-bg-color, #EEF3EA);
+  --text: var(--tg-theme-text-color, #10281D);
+  --hint: var(--tg-theme-hint-color, #627567);
+  --accent: var(--tg-theme-button-color, var(--mn-green));
+  --accent-text: var(--tg-theme-button-text-color, #FFFFFF);
+}
+.brand-home { color: var(--text); }
+.brand-header { display:flex; align-items:center; padding: 12px 0 4px; }
+.brand-header img { display:block; width:min(100%, 390px); height:auto; }
+.brand-home .hero { padding-top: 34px; }
+.brand-home .hero h1 { color:var(--mn-forest); letter-spacing:-.035em; }
+.brand-home .btn { background:var(--mn-green); color:#fff; box-shadow:0 5px 16px rgba(11,47,34,.12); }
+.brand-home .btn.secondary { background:#E6EFDF; color:var(--mn-forest); box-shadow:none; }
+.brand-home .card { border:1px solid rgba(47,107,79,.10); box-shadow:0 8px 24px rgba(11,47,34,.045); }
+.brand-tagline { margin:32px 0 0; color:var(--mn-green); font-size:13px; font-weight:800; letter-spacing:.14em; text-transform:uppercase; }
+.topbar { border-bottom-color:rgba(47,107,79,.14); }
+.btn { transition:transform .15s ease, box-shadow .15s ease; }
+.btn:active { transform:translateY(1px); }
+@media (max-width:600px) {
+  .brand-header img { width:min(100%, 310px); }
+  .brand-home .hero h1 { font-size:36px; }
+}

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Mock Night mark">
+  <rect width="128" height="128" rx="28" fill="#0B2F22"/>
+  <path d="M20 87 43 36c2-5 8-6 12-2l17 20 17-20c4-4 10-3 12 2l17 51H99L88 58 72 77c-4 5-11 5-15 0L41 58 30 87Z" fill="#B9D9A6"/>
+  <path d="m37 88 28-27 12 12 31-32" fill="none" stroke="#E1F5C9" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

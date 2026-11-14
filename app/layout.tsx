@@ -3,8 +3,10 @@ import Script from "next/script";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Mock Night — exam practice that sticks",
-  description: "Daily practice, real timed tests and certificates: JAMB, WAEC, Post-UTME, WASSCE Ghana, the Life in the UK test, Digital SAT practice and Fire Marshal training.",
+  title: "Mock Night | Prepare Smarter. Perform Better.",
+  description: "Prepare smarter with exam practice, timed mock tests, daily drills and professional learning pathways on web and Telegram.",
+  applicationName: "Mock Night",
+  icons: { icon: "/icon.svg", shortcut: "/icon.svg", apple: "/brand-mark.svg" },
 };
 
 export const viewport: Viewport = {

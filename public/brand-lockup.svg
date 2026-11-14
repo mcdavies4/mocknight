@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 112" role="img" aria-label="Mock Night — Prepare Smarter. Perform Better.">
+  <rect x="0" y="0" width="104" height="104" rx="24" fill="#0B2F22"/>
+  <path d="M16 73 35 31c2-4 7-5 10-2l14 16 14-16c3-3 8-2 10 2l19 42H83L74 49 61 65c-3 4-9 4-12 0L37 49l-8 24Z" fill="#B9D9A6"/>
+  <path d="m30 74 23-22 10 10 26-26" fill="none" stroke="#E1F5C9" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="126" y="52" fill="#0B2F22" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="700">Mock Night</text>
+  <text x="128" y="82" fill="#47745A" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="1.2">PREPARE SMARTER. PERFORM BETTER.</text>
+</svg>

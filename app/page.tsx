@@ -3,7 +3,8 @@ import Link from "next/link";
 export default function Home() {
   const bot = process.env.TELEGRAM_BOT_USERNAME ?? "";
   return (
-    <main className="wrap" style={{ maxWidth: 880 }}>
+    <main className="wrap brand-home" style={{ maxWidth: 880 }}>
+      <header className="brand-header"><img src="/brand-lockup.svg" alt="Mock Night — Prepare Smarter. Perform Better." /></header>
       <section className="hero">
         <h1>Prepare for the exams that move you forward.</h1>
         <p className="muted">Mock Night brings academic exam practice and professional certification preparation together — with daily questions, timed mock exams, explanations and progress tracking on web and Telegram.</p>
@@ -67,7 +68,8 @@ export default function Home() {
         👩🏾‍🏫 <b>Tutors, schools and training providers:</b> one link for your learners, a dashboard of who&apos;s practising, and weekly results.
         {bot && <> Message <a href={`https://t.me/${bot}`}>@{bot}</a> and send <code>/newgroup</code>.</>}
       </div>
-      <p className="muted small" style={{ marginTop: 32 }}>A product of The 36th Solutions Ltd.</p>
+      <p className="brand-tagline">Prepare Smarter. Perform Better.</p>
+      <p className="muted small" style={{ marginTop: 8 }}>A product of The 36th Solutions Ltd.</p>
     </main>
   );
 }
