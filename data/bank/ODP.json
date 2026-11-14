@@ -1,0 +1,478 @@
+[
+ {
+  "subject": "ODP",
+  "topic": "Drilling",
+  "body": "On a drilling rig, which machine raises and lowers the drill string?",
+  "options": [
+   "Shale shaker",
+   "Mud pump",
+   "Christmas tree",
+   "Drawworks"
+  ],
+  "answer": 3,
+  "explanation": "It winds the drilling line over the crown and travelling blocks.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Drilling",
+  "body": "What is the main job of drill collars?",
+  "options": [
+   "To carry mud to the surface",
+   "To separate oil and gas",
+   "To put weight on the bit",
+   "To seal the well"
+  ],
+  "answer": 2,
+  "explanation": "They are heavy, thick-walled pipes above the bit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Drilling",
+  "body": "Which equipment removes rock cuttings from returning mud?",
+  "options": [
+   "Drawworks",
+   "Top drive",
+   "BOP",
+   "Shale shaker"
+  ],
+  "answer": 3,
+  "explanation": "Vibrating screens separate cuttings from mud.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Drilling",
+  "body": "A 'kick' is",
+  "options": [
+   "a type of casing",
+   "the first turn of the drill bit",
+   "a mud pump failure",
+   "an unplanned influx of formation fluid into the wellbore"
+  ],
+  "answer": 3,
+  "explanation": "If not controlled, a kick can become a blowout.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Drilling",
+  "body": "Which is a common warning sign of a kick?",
+  "options": [
+   "An increase in mud pit volume",
+   "A drop in pit volume while pumping normally",
+   "Colder mud returns only",
+   "Lower rotary speed"
+  ],
+  "answer": 0,
+  "explanation": "Flow with pumps off is another key sign.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Drilling",
+  "body": "Which casing string is set first and shallowest?",
+  "options": [
+   "Production casing",
+   "Conductor casing",
+   "Liner",
+   "Intermediate casing"
+  ],
+  "answer": 1,
+  "explanation": "Then surface, intermediate and production casing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Drilling",
+  "body": "What is the main purpose of cementing casing?",
+  "options": [
+   "To bond the casing in place and isolate zones from each other",
+   "To measure depth",
+   "To lubricate the bit",
+   "To refine crude"
+  ],
+  "answer": 0,
+  "explanation": "Good cement prevents fluids migrating between formations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Completion",
+  "body": "What is perforating?",
+  "options": [
+   "Testing mud weight",
+   "Removing cuttings",
+   "Drilling the first hole",
+   "Shooting holes through casing and cement so reservoir fluids can enter the well"
+  ],
+  "answer": 3,
+  "explanation": "Shaped charges are used.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Production",
+  "body": "Which artificial lift method uses an electric pump downhole?",
+  "options": [
+   "ESP (electric submersible pump)",
+   "Gas lift",
+   "Natural flow",
+   "Sucker rod pump"
+  ],
+  "answer": 0,
+  "explanation": "Gas lift injects gas to lighten the fluid column.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Production",
+  "body": "A three-phase separator separates",
+  "options": [
+   "oil, gas and water",
+   "crude, petrol and diesel",
+   "oil, sand and steel",
+   "gas, air and steam"
+  ],
+  "answer": 0,
+  "explanation": "Two-phase separators separate liquid and gas.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Production",
+  "body": "Which chemical is commonly used to remove water from natural gas?",
+  "options": [
+   "Amine",
+   "Seawater",
+   "TEG (triethylene glycol)",
+   "Methanol only"
+  ],
+  "answer": 2,
+  "explanation": "Amine units remove H₂S and CO₂ (sweetening).",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Production",
+  "body": "What is cavitation in a centrifugal pump?",
+  "options": [
+   "Sand blocking the impeller",
+   "Vapour bubbles forming and collapsing because suction pressure is too low",
+   "Overheating of the motor only",
+   "Normal operation"
+  ],
+  "answer": 1,
+  "explanation": "Ensure enough NPSH available.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Production",
+  "body": "Pigging a pipeline is done to",
+  "options": [
+   "clean it or inspect it internally",
+   "stop flow permanently",
+   "increase the oil price",
+   "add water"
+  ],
+  "answer": 0,
+  "explanation": "Intelligent pigs measure wall loss.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Reservoir",
+  "body": "Porosity is",
+  "options": [
+   "the oil price",
+   "the fraction of rock volume that is pore space",
+   "how easily fluid flows through rock",
+   "the depth of the reservoir"
+  ],
+  "answer": 1,
+  "explanation": "Permeability measures how easily fluid flows.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Reservoir",
+  "body": "An anticline is a type of",
+  "options": [
+   "structural trap",
+   "drilling bit",
+   "casing string",
+   "refinery unit"
+  ],
+  "answer": 0,
+  "explanation": "Oil and gas collect at the crest under a seal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Reservoir",
+  "body": "Water injection in a field is mainly used to",
+  "options": [
+   "clean the pipelines",
+   "maintain reservoir pressure and push oil towards producing wells",
+   "make crude heavier",
+   "cool the rig"
+  ],
+  "answer": 1,
+  "explanation": "It is a common secondary recovery method.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the hydrostatic pressure of 12 ppg mud at 12,000 ft TVD? (P = 0.052 × MW × TVD)",
+  "options": [
+   "624 psi",
+   "5196 psi",
+   "7488 psi",
+   "144,000 psi"
+  ],
+  "answer": 2,
+  "explanation": "0.052 × 12 × 12000 = 7488 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the hydrostatic pressure of 13 ppg mud at 5,000 ft TVD? (P = 0.052 × MW × TVD)",
+  "options": [
+   "2165 psi",
+   "260 psi",
+   "3380 psi",
+   "65,000 psi"
+  ],
+  "answer": 2,
+  "explanation": "0.052 × 13 × 5000 = 3380 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the hydrostatic pressure of 9.5 ppg mud at 6,000 ft TVD? (P = 0.052 × MW × TVD)",
+  "options": [
+   "2598 psi",
+   "57,000 psi",
+   "312 psi",
+   "2964 psi"
+  ],
+  "answer": 3,
+  "explanation": "0.052 × 9.5 × 6000 = 2964 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the hydrostatic pressure of 13 ppg mud at 6,000 ft TVD? (P = 0.052 × MW × TVD)",
+  "options": [
+   "2598 psi",
+   "4056 psi",
+   "78,000 psi",
+   "312 psi"
+  ],
+  "answer": 1,
+  "explanation": "0.052 × 13 × 6000 = 4056 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the hydrostatic pressure of 9 ppg mud at 5,000 ft TVD? (P = 0.052 × MW × TVD)",
+  "options": [
+   "260 psi",
+   "2340 psi",
+   "45,000 psi",
+   "2165 psi"
+  ],
+  "answer": 1,
+  "explanation": "0.052 × 9 × 5000 = 2340 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the hydrostatic pressure of 12 ppg mud at 6,000 ft TVD? (P = 0.052 × MW × TVD)",
+  "options": [
+   "2598 psi",
+   "72,000 psi",
+   "3744 psi",
+   "312 psi"
+  ],
+  "answer": 2,
+  "explanation": "0.052 × 12 × 6000 = 3744 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the hydrostatic pressure of 12 ppg mud at 5,000 ft TVD? (P = 0.052 × MW × TVD)",
+  "options": [
+   "260 psi",
+   "2165 psi",
+   "3120 psi",
+   "60,000 psi"
+  ],
+  "answer": 2,
+  "explanation": "0.052 × 12 × 5000 = 3120 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the hydrostatic pressure of 9.5 ppg mud at 12,000 ft TVD? (P = 0.052 × MW × TVD)",
+  "options": [
+   "114,000 psi",
+   "5196 psi",
+   "624 psi",
+   "5928 psi"
+  ],
+  "answer": 3,
+  "explanation": "0.052 × 9.5 × 12000 = 5928 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the hydrostatic pressure of 9.5 ppg mud at 8,000 ft TVD? (P = 0.052 × MW × TVD)",
+  "options": [
+   "3952 psi",
+   "3464 psi",
+   "416 psi",
+   "76,000 psi"
+  ],
+  "answer": 0,
+  "explanation": "0.052 × 9.5 × 8000 = 3952 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "What is the hydrostatic pressure of 9.5 ppg mud at 10,000 ft TVD? (P = 0.052 × MW × TVD)",
+  "options": [
+   "4330 psi",
+   "4940 psi",
+   "95,000 psi",
+   "520 psi"
+  ],
+  "answer": 1,
+  "explanation": "0.052 × 9.5 × 10000 = 4940 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "Original mud weight 10 ppg, TVD 10,000 ft, SIDPP 260 psi. What is the kill mud weight? (KMW = OMW + SIDPP ÷ (0.052 × TVD))",
+  "options": [
+   "0.5 ppg",
+   "10.03 ppg",
+   "10.5 ppg",
+   "11 ppg"
+  ],
+  "answer": 2,
+  "explanation": "10 + 260 ÷ (0.052 × 10000) = 10.5, rounded up to 10.5 ppg.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "Original mud weight 10.5 ppg, TVD 12,000 ft, SIDPP 624 psi. What is the kill mud weight? (KMW = OMW + SIDPP ÷ (0.052 × TVD))",
+  "options": [
+   "10.55 ppg",
+   "1 ppg",
+   "11.5 ppg",
+   "11.6 ppg"
+  ],
+  "answer": 2,
+  "explanation": "10.5 + 624 ÷ (0.052 × 12000) = 11.5, rounded up to 11.5 ppg.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "Original mud weight 10.5 ppg, TVD 12,000 ft, SIDPP 260 psi. What is the kill mud weight? (KMW = OMW + SIDPP ÷ (0.052 × TVD))",
+  "options": [
+   "11 ppg",
+   "0.4 ppg",
+   "11.6 ppg",
+   "10.52 ppg"
+  ],
+  "answer": 0,
+  "explanation": "10.5 + 260 ÷ (0.052 × 12000) = 10.917, rounded up to 11 ppg.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "Original mud weight 10.5 ppg, TVD 10,000 ft, SIDPP 416 psi. What is the kill mud weight? (KMW = OMW + SIDPP ÷ (0.052 × TVD))",
+  "options": [
+   "0.8 ppg",
+   "11.3 ppg",
+   "11.6 ppg",
+   "10.54 ppg"
+  ],
+  "answer": 1,
+  "explanation": "10.5 + 416 ÷ (0.052 × 10000) = 11.3, rounded up to 11.3 ppg.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "Original mud weight 10 ppg, TVD 8,000 ft, SIDPP 520 psi. What is the kill mud weight? (KMW = OMW + SIDPP ÷ (0.052 × TVD))",
+  "options": [
+   "11 ppg",
+   "10.07 ppg",
+   "11.3 ppg",
+   "1.3 ppg"
+  ],
+  "answer": 2,
+  "explanation": "10 + 520 ÷ (0.052 × 8000) = 11.25, rounded up to 11.3 ppg.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "Original mud weight 11 ppg, TVD 8,000 ft, SIDPP 312 psi. What is the kill mud weight? (KMW = OMW + SIDPP ÷ (0.052 × TVD))",
+  "options": [
+   "0.8 ppg",
+   "11.8 ppg",
+   "12.1 ppg",
+   "11.04 ppg"
+  ],
+  "answer": 1,
+  "explanation": "11 + 312 ÷ (0.052 × 8000) = 11.75, rounded up to 11.8 ppg.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "Original mud weight 9.5 ppg, TVD 12,000 ft, SIDPP 520 psi. What is the kill mud weight? (KMW = OMW + SIDPP ÷ (0.052 × TVD))",
+  "options": [
+   "10.5 ppg",
+   "10.4 ppg",
+   "0.8 ppg",
+   "9.54 ppg"
+  ],
+  "answer": 1,
+  "explanation": "9.5 + 520 ÷ (0.052 × 12000) = 10.333, rounded up to 10.4 ppg.",
+  "difficulty": 3
+ },
+ {
+  "subject": "ODP",
+  "topic": "Calculations",
+  "body": "Original mud weight 9.5 ppg, TVD 12,000 ft, SIDPP 624 psi. What is the kill mud weight? (KMW = OMW + SIDPP ÷ (0.052 × TVD))",
+  "options": [
+   "10.5 ppg",
+   "11.5 ppg",
+   "9.55 ppg",
+   "1 ppg"
+  ],
+  "answer": 0,
+  "explanation": "9.5 + 624 ÷ (0.052 × 12000) = 10.5, rounded up to 10.5 ppg.",
+  "difficulty": 3
+ }
+]

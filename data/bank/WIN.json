@@ -1,0 +1,660 @@
+[
+ {
+  "subject": "WIN",
+  "topic": "Processes",
+  "body": "MMA (manual metal arc) welding is also known as",
+  "options": [
+   "GMAW",
+   "SAW",
+   "GTAW",
+   "SMAW (shielded metal arc welding)"
+  ],
+  "answer": 3,
+  "explanation": "It uses a flux-coated stick electrode.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Processes",
+  "body": "TIG welding is also known as",
+  "options": [
+   "SMAW",
+   "FCAW",
+   "GTAW (gas tungsten arc welding)",
+   "GMAW"
+  ],
+  "answer": 2,
+  "explanation": "It uses a non-consumable tungsten electrode.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Processes",
+  "body": "Which shielding gas is inert and used for TIG welding?",
+  "options": [
+   "Nitrogen",
+   "Oxygen",
+   "Argon",
+   "Carbon dioxide"
+  ],
+  "answer": 2,
+  "explanation": "Helium is the other common inert gas.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Processes",
+  "body": "MAG welding uses which type of shielding gas?",
+  "options": [
+   "Active gas, such as CO₂ or argon–CO₂ mixtures",
+   "Hydrogen",
+   "Pure argon only",
+   "No gas"
+  ],
+  "answer": 0,
+  "explanation": "MIG uses inert gas; MAG uses active gas.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Processes",
+  "body": "Which process uses a granular flux blanket and is usually automated?",
+  "options": [
+   "Submerged arc welding (SAW)",
+   "MMA",
+   "Oxy-acetylene",
+   "TIG"
+  ],
+  "answer": 0,
+  "explanation": "The arc is hidden under the flux.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Consumables",
+  "body": "In the AWS electrode classification E7018, the '70' means",
+  "options": [
+   "70 mm long",
+   "maximum 70 amps",
+   "70% iron powder",
+   "minimum tensile strength of 70,000 psi"
+  ],
+  "answer": 3,
+  "explanation": "E7018 is a low-hydrogen electrode.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Consumables",
+  "body": "Why are low-hydrogen electrodes stored in heated ovens or quivers?",
+  "options": [
+   "To increase spatter",
+   "To keep moisture out and reduce the risk of hydrogen cracking",
+   "To melt the flux",
+   "To make them easier to strike"
+  ],
+  "answer": 1,
+  "explanation": "Moisture in the coating adds hydrogen to the weld.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Cracking",
+  "body": "Which four factors together cause hydrogen (cold) cracking?",
+  "options": [
+   "Slag, spatter, porosity and undercut",
+   "Hydrogen, a susceptible (hard) microstructure, tensile stress and low temperature",
+   "Sulphur, phosphorus, heat and speed",
+   "Argon, CO₂, current and voltage"
+  ],
+  "answer": 1,
+  "explanation": "Removing any one factor prevents it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Cracking",
+  "body": "What is the main purpose of preheating steel before welding?",
+  "options": [
+   "To increase deposition rate only",
+   "To slow cooling and help hydrogen escape, reducing cracking risk",
+   "To make the weld cheaper",
+   "To clean off paint"
+  ],
+  "answer": 1,
+  "explanation": "Higher carbon equivalent and thicker sections need more preheat.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Cracking",
+  "body": "Lamellar tearing occurs",
+  "options": [
+   "only in the weld cap",
+   "in aluminium only",
+   "in the parent plate, parallel to the surface, due to through-thickness stress",
+   "during painting"
+  ],
+  "answer": 2,
+  "explanation": "Non-metallic inclusions in the plate make it worse.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Cracking",
+  "body": "Solidification (hot) cracking typically appears",
+  "options": [
+   "only after years in service",
+   "along the weld centreline",
+   "in the parent metal far from the weld",
+   "only in the HAZ toe"
+  ],
+  "answer": 1,
+  "explanation": "Deep, narrow welds and sulphur increase the risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Documents",
+  "body": "What is a WPS?",
+  "options": [
+   "Workshop Planning Schedule",
+   "Welder Performance Score",
+   "Weld Position Standard",
+   "Welding Procedure Specification — the instructions for making a weld"
+  ],
+  "answer": 3,
+  "explanation": "It lists process, consumables, parameters and preheat.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Documents",
+  "body": "What does a PQR record?",
+  "options": [
+   "A list of NDT staff",
+   "The actual parameters and test results of a qualified test weld",
+   "A welder's attendance",
+   "The price of consumables"
+  ],
+  "answer": 1,
+  "explanation": "Procedure Qualification Record supports the WPS.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Documents",
+  "body": "Which ASME code section covers welding and brazing qualifications?",
+  "options": [
+   "Section IX",
+   "Section V",
+   "Section II",
+   "Section VIII"
+  ],
+  "answer": 0,
+  "explanation": "Section V covers NDT methods.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Testing",
+  "body": "A bend test mainly checks a weld's",
+  "options": [
+   "hardness only",
+   "ductility and soundness",
+   "corrosion resistance",
+   "colour"
+  ],
+  "answer": 1,
+  "explanation": "Defects open up on the stretched face.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Testing",
+  "body": "A Charpy impact test measures",
+  "options": [
+   "hardness",
+   "toughness (energy absorbed at a given temperature)",
+   "tensile strength",
+   "surface finish"
+  ],
+  "answer": 1,
+  "explanation": "Results are in joules.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Testing",
+  "body": "A macro examination of a weld cross-section shows",
+  "options": [
+   "fusion, penetration, profile and visible defects",
+   "residual stress",
+   "tensile strength",
+   "chemical composition"
+  ],
+  "answer": 0,
+  "explanation": "It is etched and viewed at low magnification.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Inspection",
+  "body": "Which is a duty of the welding inspector BEFORE welding?",
+  "options": [
+   "Signing the final release only",
+   "Hydrotesting",
+   "Checking the WPS, welder qualifications, materials and fit-up",
+   "Painting the weld"
+  ],
+  "answer": 2,
+  "explanation": "Inspection happens before, during and after welding.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Inspection",
+  "body": "For an equal-leg mitre fillet weld, the throat thickness is about",
+  "options": [
+   "0.7 × leg length",
+   "equal to the leg length",
+   "1.4 × leg length",
+   "0.5 × leg length"
+  ],
+  "answer": 0,
+  "explanation": "Throat = leg × cos 45° ≈ 0.707 × leg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Inspection",
+  "body": "Under AWS A2.4, a weld symbol placed BELOW the reference line means the weld is",
+  "options": [
+   "on both sides",
+   "a field weld",
+   "on the arrow side",
+   "on the other side"
+  ],
+  "answer": 2,
+  "explanation": "Above the line means the other side.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Heat treatment",
+  "body": "The main purpose of post-weld heat treatment (PWHT) is",
+  "options": [
+   "to clean the weld",
+   "to relieve residual stresses and temper hard zones",
+   "to remove spatter",
+   "to increase weld size"
+  ],
+  "answer": 1,
+  "explanation": "Codes require it for thicker or high-risk joints.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Problems",
+  "body": "Arc blow is a problem mainly with",
+  "options": [
+   "AC welding only",
+   "Brazing",
+   "Oxy-fuel cutting",
+   "DC welding on magnetised material"
+  ],
+  "answer": 3,
+  "explanation": "Magnetic fields deflect the arc.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "Calculate the arc energy: 30 V, 120 A, travel speed 400 mm/min. (Arc energy kJ/mm = V × A × 60 ÷ (speed × 1000))",
+  "options": [
+   "1.54 kJ/mm",
+   "5.4 kJ/mm",
+   "0.54 kJ/mm",
+   "540 kJ/mm"
+  ],
+  "answer": 2,
+  "explanation": "30 × 120 × 60 ÷ (400 × 1000) = 0.54 kJ/mm. Heat input = arc energy × process efficiency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "Calculate the arc energy: 29 V, 250 A, travel speed 400 mm/min. (Arc energy kJ/mm = V × A × 60 ÷ (speed × 1000))",
+  "options": [
+   "1.09 kJ/mm",
+   "2.09 kJ/mm",
+   "10.9 kJ/mm",
+   "1088 kJ/mm"
+  ],
+  "answer": 0,
+  "explanation": "29 × 250 × 60 ÷ (400 × 1000) = 1.09 kJ/mm. Heat input = arc energy × process efficiency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "Calculate the arc energy: 25 V, 220 A, travel speed 250 mm/min. (Arc energy kJ/mm = V × A × 60 ÷ (speed × 1000))",
+  "options": [
+   "1320 kJ/mm",
+   "13.2 kJ/mm",
+   "2.32 kJ/mm",
+   "1.32 kJ/mm"
+  ],
+  "answer": 3,
+  "explanation": "25 × 220 × 60 ÷ (250 × 1000) = 1.32 kJ/mm. Heat input = arc energy × process efficiency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "Calculate the arc energy: 32 V, 150 A, travel speed 150 mm/min. (Arc energy kJ/mm = V × A × 60 ÷ (speed × 1000))",
+  "options": [
+   "1.92 kJ/mm",
+   "1920 kJ/mm",
+   "19.2 kJ/mm",
+   "2.92 kJ/mm"
+  ],
+  "answer": 0,
+  "explanation": "32 × 150 × 60 ÷ (150 × 1000) = 1.92 kJ/mm. Heat input = arc energy × process efficiency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "Calculate the arc energy: 20 V, 120 A, travel speed 200 mm/min. (Arc energy kJ/mm = V × A × 60 ÷ (speed × 1000))",
+  "options": [
+   "720 kJ/mm",
+   "0.72 kJ/mm",
+   "1.72 kJ/mm",
+   "7.2 kJ/mm"
+  ],
+  "answer": 1,
+  "explanation": "20 × 120 × 60 ÷ (200 × 1000) = 0.72 kJ/mm. Heat input = arc energy × process efficiency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "Calculate the arc energy: 26 V, 200 A, travel speed 300 mm/min. (Arc energy kJ/mm = V × A × 60 ÷ (speed × 1000))",
+  "options": [
+   "10.4 kJ/mm",
+   "2.04 kJ/mm",
+   "1.04 kJ/mm",
+   "1040 kJ/mm"
+  ],
+  "answer": 2,
+  "explanation": "26 × 200 × 60 ÷ (300 × 1000) = 1.04 kJ/mm. Heat input = arc energy × process efficiency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "Calculate the arc energy: 24 V, 200 A, travel speed 250 mm/min. (Arc energy kJ/mm = V × A × 60 ÷ (speed × 1000))",
+  "options": [
+   "1152 kJ/mm",
+   "11.5 kJ/mm",
+   "1.15 kJ/mm",
+   "2.15 kJ/mm"
+  ],
+  "answer": 2,
+  "explanation": "24 × 200 × 60 ÷ (250 × 1000) = 1.15 kJ/mm. Heat input = arc energy × process efficiency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "Calculate the arc energy: 31 V, 180 A, travel speed 200 mm/min. (Arc energy kJ/mm = V × A × 60 ÷ (speed × 1000))",
+  "options": [
+   "16.7 kJ/mm",
+   "2.67 kJ/mm",
+   "1674 kJ/mm",
+   "1.67 kJ/mm"
+  ],
+  "answer": 3,
+  "explanation": "31 × 180 × 60 ÷ (200 × 1000) = 1.67 kJ/mm. Heat input = arc energy × process efficiency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "Calculate the arc energy: 20 V, 200 A, travel speed 150 mm/min. (Arc energy kJ/mm = V × A × 60 ÷ (speed × 1000))",
+  "options": [
+   "1.6 kJ/mm",
+   "1600 kJ/mm",
+   "2.6 kJ/mm",
+   "16 kJ/mm"
+  ],
+  "answer": 0,
+  "explanation": "20 × 200 × 60 ÷ (150 × 1000) = 1.6 kJ/mm. Heat input = arc energy × process efficiency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "Calculate the arc energy: 27 V, 120 A, travel speed 200 mm/min. (Arc energy kJ/mm = V × A × 60 ÷ (speed × 1000))",
+  "options": [
+   "972 kJ/mm",
+   "9.7 kJ/mm",
+   "1.97 kJ/mm",
+   "0.97 kJ/mm"
+  ],
+  "answer": 3,
+  "explanation": "27 × 120 × 60 ÷ (200 × 1000) = 0.97 kJ/mm. Heat input = arc energy × process efficiency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "An equal-leg mitre fillet weld has a leg length of 12 mm. What is its design throat thickness (approx.)?",
+  "options": [
+   "12 mm",
+   "8.4 mm",
+   "6 mm",
+   "16.8 mm"
+  ],
+  "answer": 1,
+  "explanation": "Throat ≈ 0.7 × leg = 0.7 × 12 = 8.4 mm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "An equal-leg mitre fillet weld has a leg length of 14 mm. What is its design throat thickness (approx.)?",
+  "options": [
+   "19.6 mm",
+   "9.8 mm",
+   "14 mm",
+   "7 mm"
+  ],
+  "answer": 1,
+  "explanation": "Throat ≈ 0.7 × leg = 0.7 × 14 = 9.8 mm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "An equal-leg mitre fillet weld has a leg length of 8 mm. What is its design throat thickness (approx.)?",
+  "options": [
+   "4 mm",
+   "8 mm",
+   "11.2 mm",
+   "5.6 mm"
+  ],
+  "answer": 3,
+  "explanation": "Throat ≈ 0.7 × leg = 0.7 × 8 = 5.6 mm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "An equal-leg mitre fillet weld has a leg length of 15 mm. What is its design throat thickness (approx.)?",
+  "options": [
+   "21 mm",
+   "10.5 mm",
+   "7.5 mm",
+   "15 mm"
+  ],
+  "answer": 1,
+  "explanation": "Throat ≈ 0.7 × leg = 0.7 × 15 = 10.5 mm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "An equal-leg mitre fillet weld has a leg length of 10 mm. What is its design throat thickness (approx.)?",
+  "options": [
+   "7 mm",
+   "14 mm",
+   "10 mm",
+   "5 mm"
+  ],
+  "answer": 0,
+  "explanation": "Throat ≈ 0.7 × leg = 0.7 × 10 = 7 mm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "An equal-leg mitre fillet weld has a leg length of 6 mm. What is its design throat thickness (approx.)?",
+  "options": [
+   "3 mm",
+   "8.4 mm",
+   "6 mm",
+   "4.2 mm"
+  ],
+  "answer": 3,
+  "explanation": "Throat ≈ 0.7 × leg = 0.7 × 6 = 4.2 mm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "An equal-leg mitre fillet weld has a leg length of 20 mm. What is its design throat thickness (approx.)?",
+  "options": [
+   "20 mm",
+   "14 mm",
+   "28 mm",
+   "10 mm"
+  ],
+  "answer": 1,
+  "explanation": "Throat ≈ 0.7 × leg = 0.7 × 20 = 14 mm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "Using CE = C + Mn/6 + (Cr+Mo+V)/5 + (Ni+Cu)/15, find the carbon equivalent: C 0.15%, Mn 1.5%, Cr 0.1%, Mo 0.05%, V 0%, Ni 0.3%, Cu 0.3%.",
+  "options": [
+   "0.4",
+   "1.65",
+   "0.47",
+   "0.52"
+  ],
+  "answer": 2,
+  "explanation": "CE = 0.15 + 1.5/6 + 0.15/5 + 0.6/15 = 0.47. A higher CE means a greater need for preheat.",
+  "difficulty": 3
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "Using CE = C + Mn/6 + (Cr+Mo+V)/5 + (Ni+Cu)/15, find the carbon equivalent: C 0.15%, Mn 0.9%, Cr 0.1%, Mo 0.05%, V 0%, Ni 0.15%, Cu 0%.",
+  "options": [
+   "0.34",
+   "0.3",
+   "1.05",
+   "0.37"
+  ],
+  "answer": 0,
+  "explanation": "CE = 0.15 + 0.9/6 + 0.15/5 + 0.15/15 = 0.34. A higher CE means a greater need for preheat.",
+  "difficulty": 3
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "Using CE = C + Mn/6 + (Cr+Mo+V)/5 + (Ni+Cu)/15, find the carbon equivalent: C 0.15%, Mn 0.9%, Cr 0.2%, Mo 0.05%, V 0%, Ni 0.3%, Cu 0.15%.",
+  "options": [
+   "0.38",
+   "1.05",
+   "0.4",
+   "0.3"
+  ],
+  "answer": 0,
+  "explanation": "CE = 0.15 + 0.9/6 + 0.25/5 + 0.45/15 = 0.38. A higher CE means a greater need for preheat.",
+  "difficulty": 3
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "Using CE = C + Mn/6 + (Cr+Mo+V)/5 + (Ni+Cu)/15, find the carbon equivalent: C 0.18%, Mn 1.5%, Cr 0.1%, Mo 0.1%, V 0%, Ni 0.15%, Cu 0.3%.",
+  "options": [
+   "0.54",
+   "0.43",
+   "1.68",
+   "0.5"
+  ],
+  "answer": 3,
+  "explanation": "CE = 0.18 + 1.5/6 + 0.2/5 + 0.45/15 = 0.5. A higher CE means a greater need for preheat.",
+  "difficulty": 3
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "Using CE = C + Mn/6 + (Cr+Mo+V)/5 + (Ni+Cu)/15, find the carbon equivalent: C 0.12%, Mn 1.2%, Cr 0.1%, Mo 0%, V 0%, Ni 0.3%, Cu 0.15%.",
+  "options": [
+   "0.32",
+   "0.37",
+   "0.41",
+   "1.32"
+  ],
+  "answer": 1,
+  "explanation": "CE = 0.12 + 1.2/6 + 0.1/5 + 0.45/15 = 0.37. A higher CE means a greater need for preheat.",
+  "difficulty": 3
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "Using CE = C + Mn/6 + (Cr+Mo+V)/5 + (Ni+Cu)/15, find the carbon equivalent: C 0.12%, Mn 1.5%, Cr 0.2%, Mo 0%, V 0%, Ni 0%, Cu 0%.",
+  "options": [
+   "0.37",
+   "1.62",
+   "0.41",
+   "0.45"
+  ],
+  "answer": 2,
+  "explanation": "CE = 0.12 + 1.5/6 + 0.2/5 + 0/15 = 0.41. A higher CE means a greater need for preheat.",
+  "difficulty": 3
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "Using CE = C + Mn/6 + (Cr+Mo+V)/5 + (Ni+Cu)/15, find the carbon equivalent: C 0.18%, Mn 0.9%, Cr 0%, Mo 0%, V 0%, Ni 0.15%, Cu 0.3%.",
+  "options": [
+   "1.08",
+   "0.33",
+   "0.39",
+   "0.36"
+  ],
+  "answer": 3,
+  "explanation": "CE = 0.18 + 0.9/6 + 0/5 + 0.45/15 = 0.36. A higher CE means a greater need for preheat.",
+  "difficulty": 3
+ },
+ {
+  "subject": "WIN",
+  "topic": "Calculations",
+  "body": "Using CE = C + Mn/6 + (Cr+Mo+V)/5 + (Ni+Cu)/15, find the carbon equivalent: C 0.12%, Mn 0.9%, Cr 0.2%, Mo 0%, V 0%, Ni 0.3%, Cu 0%.",
+  "options": [
+   "1.02",
+   "0.27",
+   "0.35",
+   "0.33"
+  ],
+  "answer": 3,
+  "explanation": "CE = 0.12 + 0.9/6 + 0.2/5 + 0.3/15 = 0.33. A higher CE means a greater need for preheat.",
+  "difficulty": 3
+ }
+]

@@ -2,7 +2,7 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
 export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi" | "Asia/Manila";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
@@ -592,12 +592,13 @@ export const TRACKS: Record<TrackCode, Track> = {
   },
   OILGAS: {
     code: "OILGAS", name: "Oil & gas careers: HSE and industry knowledge", short: "Oil & gas", emoji: "🛢️", kind: "professional", region: "NG", currency: "NGN",
-    subjectMode: "multi", subjects: ["OGS", "ONG"], compulsory: ["OGS", "ONG"], minSubjects: 2, maxSubjects: 2, subjectNote: "HSE essentials and industry knowledge",
-    mock: { perSubject: 20, minutes: 40, passPct: 70, scoreStyle: "passfail", maxSubjects: 2 },
+    subjectMode: "multi", subjects: ["OGS", "ONG", "ODP"], compulsory: ["OGS", "ONG"], minSubjects: 2, maxSubjects: 3, subjectNote: "HSE essentials, industry knowledge, and drilling & production",
+    mock: { perSubject: 15, minutes: 45, passPct: 70, scoreStyle: "passfail", maxSubjects: 3 },
     mockVariants: [
       { key: "FULL", label: "HSE + industry test", short: "Full test", subjects: ["OGS", "ONG"], total: 20, minutes: 40, note: "40 questions · 40 min" },
       { key: "HSE", label: "HSE essentials", short: "HSE", subjects: ["OGS"], total: 20, minutes: 20, note: "20 questions · 20 min" },
       { key: "IND", label: "Industry knowledge", short: "Industry", subjects: ["ONG"], total: 20, minutes: 20, note: "20 questions · 20 min" },
+      { key: "DRL", label: "Drilling & production", short: "Drilling", subjects: ["ODP"], total: 20, minutes: 25, note: "20 questions · 25 min" },
     ],
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["oilgas_pass", "oilgas_pass_usd"], tagline: "Get oil & gas ready: H₂S, permits, confined space and fire safety, plus the industry knowledge interviewers ask about", timeZone: "Africa/Lagos",
@@ -618,6 +619,32 @@ export const TRACKS: Record<TrackCode, Track> = {
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["ndt_pass", "ndt_pass_usd"], tagline: "NDT exam practice for ISO 9712 (PCN), ASNT and CSWIP: general theory plus PT, MT, UT and RT with radiation safety", timeZone: "Africa/Lagos",
     audience: "an NDT technician or trainee preparing for Level 1 or Level 2 theory exams (ISO 9712/PCN or ASNT SNT-TC-1A), often working in oil and gas, pipelines or fabrication",
+  },
+  WELDINSP: {
+    code: "WELDINSP", name: "Welding inspector (CSWIP 3.1 / AWS CWI)", short: "Welding inspector", emoji: "🔥", kind: "professional", region: "GLOBAL", currency: "NGN",
+    subjectMode: "multi", subjects: ["WIN", "NDG"], compulsory: ["WIN", "NDG"], minSubjects: 2, maxSubjects: 2, subjectNote: "Welding inspection plus NDT and weld defects",
+    mock: { perSubject: 20, minutes: 60, passPct: 70, scoreStyle: "passfail", maxSubjects: 2 },
+    mockVariants: [
+      { key: "FULL", label: "Welding inspector mock", short: "Full mock", subjects: ["WIN", "NDG"], total: 20, minutes: 60, passPct: 70, note: "40 questions · 60 min · 70% to pass" },
+      { key: "WIN", label: "Welding technology", short: "Welding", subjects: ["WIN"], total: 30, minutes: 45, passPct: 70, note: "30 questions · 45 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["weld_pass", "weld_pass_usd"], tagline: "Welding inspector exam practice: processes, cracking, WPS/PQR, testing, symbols and heat-input calculations", timeZone: "Africa/Lagos",
+    audience: "a welder, QC technician or NDT technician preparing for CSWIP 3.1 or AWS CWI welding inspector exams, often in oil and gas fabrication",
+  },
+  APIINSP: {
+    code: "APIINSP", name: "API 510 / 570 inspector", short: "API 510 / 570", emoji: "🏭", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["INS"], compulsory: ["INS"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 40, minutes: 80, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["api_pass", "api_pass_ngn"], tagline: "API 510 and 570 practice: codes, damage mechanisms and the corrosion-rate, remaining-life and thickness calculations", timeZone: "Africa/Lagos",
+    audience: "an experienced inspector preparing for the API 510 (pressure vessel) or API 570 (piping) inspector certification exam",
+  },
+  COATING: {
+    code: "COATING", name: "Coating & corrosion inspector (AMPP CIP Level 1)", short: "Coating inspector", emoji: "🎨", kind: "professional", region: "GLOBAL", currency: "NGN",
+    subjectMode: "single", subjects: ["COR"], compulsory: ["COR"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 30, minutes: 45, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["coat_pass", "coat_pass_usd"], tagline: "Coating inspector practice: corrosion, surface preparation, dew point, DFT/WFT and inspection instruments", timeZone: "Africa/Lagos",
+    audience: "a painter, blaster or QC technician preparing for AMPP (NACE) CIP Level 1 or similar coating inspector training",
   },
   PLAB: {
     code: "PLAB", name: "PLAB 1 (UK GMC — doctors)", short: "PLAB 1", emoji: "⚕️", kind: "professional", region: "UK", currency: "GBP",

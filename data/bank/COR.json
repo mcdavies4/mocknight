@@ -1,0 +1,548 @@
+[
+ {
+  "subject": "COR",
+  "topic": "Corrosion",
+  "body": "Which four parts are needed for a corrosion cell?",
+  "options": [
+   "Anode, cathode, electrolyte and a metallic path",
+   "Primer, mid coat, topcoat and thinner",
+   "Heat, fuel, oxygen and spark",
+   "Steel, paint, water and sun"
+  ],
+  "answer": 0,
+  "explanation": "Remove any one and corrosion stops.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Corrosion",
+  "body": "In a corrosion cell, which part corrodes?",
+  "options": [
+   "The electrolyte",
+   "The metallic path",
+   "The cathode",
+   "The anode"
+  ],
+  "answer": 3,
+  "explanation": "Metal loss happens at the anode.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Corrosion",
+  "body": "Why does zinc protect steel in galvanising?",
+  "options": [
+   "Zinc is more active, so it corrodes sacrificially instead of the steel",
+   "Zinc stops all moisture forever",
+   "Zinc is a cathode",
+   "Zinc is harder than steel"
+  ],
+  "answer": 0,
+  "explanation": "Zinc is anodic to steel in the galvanic series.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Corrosion",
+  "body": "Which metals are used as sacrificial anodes for cathodic protection?",
+  "options": [
+   "Lead, tin and nickel",
+   "Zinc, aluminium and magnesium",
+   "Stainless steel only",
+   "Copper, gold and silver"
+  ],
+  "answer": 1,
+  "explanation": "Impressed-current systems use a power source instead.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Environment",
+  "body": "Before coating, the steel temperature should be at least how far above the dew point?",
+  "options": [
+   "3 °C (5 °F)",
+   "0.5 °C",
+   "10 °C",
+   "It doesn't matter"
+  ],
+  "answer": 0,
+  "explanation": "This prevents condensation on the surface.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Environment",
+  "body": "Which instrument measures wet- and dry-bulb temperatures to find relative humidity and dew point?",
+  "options": [
+   "Sling psychrometer",
+   "Holiday detector",
+   "DFT gauge",
+   "Replica tape"
+  ],
+  "answer": 0,
+  "explanation": "Electronic hygrometers are also used.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Surface prep",
+  "body": "ISO 8501-1 Sa 2½ is equivalent to",
+  "options": [
+   "SSPC-SP 2 hand-tool cleaning",
+   "SSPC-SP 10 / NACE No. 2 near-white blast",
+   "SSPC-SP 5 white metal blast",
+   "Solvent cleaning"
+  ],
+  "answer": 1,
+  "explanation": "Sa 3 corresponds to white metal (SP 5).",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Surface prep",
+  "body": "Which standard cleaning grade is 'white metal' blast?",
+  "options": [
+   "Sa 1",
+   "Sa 3 / SSPC-SP 5",
+   "St 2",
+   "Sa 2"
+  ],
+  "answer": 1,
+  "explanation": "No visible contaminants remain at all.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Surface prep",
+  "body": "Surface profile (anchor pattern) is commonly measured with",
+  "options": [
+   "a holiday detector",
+   "replica tape and a micrometer",
+   "a sling psychrometer",
+   "a pull-off adhesion tester"
+  ],
+  "answer": 1,
+  "explanation": "Profile helps the coating grip.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Surface prep",
+  "body": "Which test detects soluble salts on a blasted surface?",
+  "options": [
+   "Charpy test",
+   "Cross-hatch test",
+   "Bresle patch test",
+   "Spark test"
+  ],
+  "answer": 2,
+  "explanation": "Salts under coatings cause osmotic blistering.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Surface prep",
+  "body": "Why must oil and grease be removed BEFORE abrasive blasting?",
+  "options": [
+   "Oil makes blasting faster",
+   "Grease protects the abrasive",
+   "Blasting spreads contamination across the surface",
+   "It is only cosmetic"
+  ],
+  "answer": 2,
+  "explanation": "Solvent clean first (SSPC-SP 1).",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Coatings",
+  "body": "Volume solids of a paint tells you",
+  "options": [
+   "the colour strength",
+   "the drying time",
+   "the weight of pigment only",
+   "the percentage of the wet film that remains as dry film"
+  ],
+  "answer": 3,
+  "explanation": "DFT = WFT × volume solids ÷ 100.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Coatings",
+  "body": "Why do epoxy coatings 'chalk' outdoors?",
+  "options": [
+   "Rain dissolves them",
+   "UV light breaks down the epoxy surface",
+   "They are too thick",
+   "They lack primer"
+  ],
+  "answer": 1,
+  "explanation": "A UV-resistant polyurethane topcoat is often used.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Coatings",
+  "body": "For a two-pack coating, 'pot life' is",
+  "options": [
+   "the time the mixed paint remains usable",
+   "the time before overcoating",
+   "the shelf life in the tin",
+   "the full cure time"
+  ],
+  "answer": 0,
+  "explanation": "Never use material past its pot life.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Coatings",
+  "body": "Amine blush is a defect associated with",
+  "options": [
+   "epoxies cured in cold, humid conditions",
+   "zinc silicates in dry heat",
+   "galvanising",
+   "alkyds in sunshine"
+  ],
+  "answer": 0,
+  "explanation": "It leaves a greasy film that harms adhesion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Defects",
+  "body": "Mud cracking is usually caused by",
+  "options": [
+   "using the wrong colour",
+   "applying it too thin",
+   "cold steel only",
+   "applying the coating too thick"
+  ],
+  "answer": 3,
+  "explanation": "Common with zinc-rich primers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Defects",
+  "body": "Runs and sags are usually caused by",
+  "options": [
+   "using a brush instead of a roller",
+   "applying too much paint in one coat",
+   "too little thinner always",
+   "very low humidity"
+  ],
+  "answer": 1,
+  "explanation": "Control wet film thickness.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Inspection",
+  "body": "Which instrument checks for pinholes and holidays in a coating?",
+  "options": [
+   "Replica tape",
+   "Sling psychrometer",
+   "Surface thermometer",
+   "Holiday detector (wet sponge or high-voltage spark)"
+  ],
+  "answer": 3,
+  "explanation": "Low-voltage wet sponge suits thin films.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Inspection",
+  "body": "A Type 2 DFT gauge is",
+  "options": [
+   "electronic and reads continuously",
+   "a wet film comb",
+   "a magnetic pull-off gauge",
+   "a replica tape"
+  ],
+  "answer": 0,
+  "explanation": "Type 1 gauges use magnetic pull-off.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Inspection",
+  "body": "Which standard sets the frequency of DFT measurements on steel?",
+  "options": [
+   "SSPC-PA 2",
+   "ISO 8501-1",
+   "ASTM D4541",
+   "ISO 9712"
+  ],
+  "answer": 0,
+  "explanation": "It defines spot and area readings.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Inspection",
+  "body": "A pull-off adhesion test is described in",
+  "options": [
+   "SSPC-PA 2",
+   "API 510",
+   "ISO 2553",
+   "ASTM D4541"
+  ],
+  "answer": 3,
+  "explanation": "A dolly is glued on and pulled off.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A coating with 60% volume solids is applied at 300 µm wet. What dry film thickness should result (no thinner)?",
+  "options": [
+   "500 µm",
+   "180 µm",
+   "150 µm",
+   "240 µm"
+  ],
+  "answer": 1,
+  "explanation": "DFT = WFT × VS ÷ 100 = 300 × 60 ÷ 100 = 180 µm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A coating has 60% volume solids. What wet film thickness gives a dry film of 200 µm (no thinner)?",
+  "options": [
+   "260 µm",
+   "333 µm",
+   "120 µm",
+   "400 µm"
+  ],
+  "answer": 1,
+  "explanation": "WFT = DFT × 100 ÷ VS = 200 × 100 ÷ 60 = 333 µm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A coating with 70% volume solids is applied at 200 µm wet. What dry film thickness should result (no thinner)?",
+  "options": [
+   "100 µm",
+   "130 µm",
+   "140 µm",
+   "286 µm"
+  ],
+  "answer": 2,
+  "explanation": "DFT = WFT × VS ÷ 100 = 200 × 70 ÷ 100 = 140 µm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A coating with 75% volume solids is applied at 300 µm wet. What dry film thickness should result (no thinner)?",
+  "options": [
+   "400 µm",
+   "225 µm",
+   "248 µm",
+   "150 µm"
+  ],
+  "answer": 1,
+  "explanation": "DFT = WFT × VS ÷ 100 = 300 × 75 ÷ 100 = 225 µm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A coating has 75% volume solids. What wet film thickness gives a dry film of 100 µm (no thinner)?",
+  "options": [
+   "75 µm",
+   "200 µm",
+   "133 µm",
+   "175 µm"
+  ],
+  "answer": 2,
+  "explanation": "WFT = DFT × 100 ÷ VS = 100 × 100 ÷ 75 = 133 µm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A coating with 75% volume solids is applied at 150 µm wet. What dry film thickness should result (no thinner)?",
+  "options": [
+   "200 µm",
+   "75 µm",
+   "113 µm",
+   "124 µm"
+  ],
+  "answer": 2,
+  "explanation": "DFT = WFT × VS ÷ 100 = 150 × 75 ÷ 100 = 113 µm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A coating has 70% volume solids. What wet film thickness gives a dry film of 200 µm (no thinner)?",
+  "options": [
+   "140 µm",
+   "400 µm",
+   "270 µm",
+   "286 µm"
+  ],
+  "answer": 3,
+  "explanation": "WFT = DFT × 100 ÷ VS = 200 × 100 ÷ 70 = 286 µm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A coating has 70% volume solids. What wet film thickness gives a dry film of 125 µm (no thinner)?",
+  "options": [
+   "250 µm",
+   "88 µm",
+   "179 µm",
+   "195 µm"
+  ],
+  "answer": 2,
+  "explanation": "WFT = DFT × 100 ÷ VS = 125 × 100 ÷ 70 = 179 µm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A coating has 80% volume solids. What wet film thickness gives a dry film of 125 µm (no thinner)?",
+  "options": [
+   "205 µm",
+   "100 µm",
+   "250 µm",
+   "156 µm"
+  ],
+  "answer": 3,
+  "explanation": "WFT = DFT × 100 ÷ VS = 125 × 100 ÷ 80 = 156 µm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "A coating with 70% volume solids is applied at 250 µm wet. What dry film thickness should result (no thinner)?",
+  "options": [
+   "125 µm",
+   "175 µm",
+   "357 µm",
+   "180 µm"
+  ],
+  "answer": 1,
+  "explanation": "DFT = WFT × VS ÷ 100 = 250 × 70 ÷ 100 = 175 µm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "The dew point is 15 °C and the steel surface is 16 °C. Can coating go ahead (using the 3 °C rule)?",
+  "options": [
+   "No — the steel is less than 3 °C above the dew point",
+   "Dew point does not matter for coating",
+   "Only if relative humidity is 100%",
+   "Yes — the steel is at least 3 °C above the dew point"
+  ],
+  "answer": 0,
+  "explanation": "The margin is 1 °C; at least 3 °C is required.",
+  "difficulty": 1
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "The dew point is 14 °C and the steel surface is 18 °C. Can coating go ahead (using the 3 °C rule)?",
+  "options": [
+   "No — the steel is less than 3 °C above the dew point",
+   "Dew point does not matter for coating",
+   "Yes — the steel is at least 3 °C above the dew point",
+   "Only if relative humidity is 100%"
+  ],
+  "answer": 2,
+  "explanation": "The margin is 4 °C; at least 3 °C is required.",
+  "difficulty": 1
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "The dew point is 19 °C and the steel surface is 21 °C. Can coating go ahead (using the 3 °C rule)?",
+  "options": [
+   "No — the steel is less than 3 °C above the dew point",
+   "Dew point does not matter for coating",
+   "Yes — the steel is at least 3 °C above the dew point",
+   "Only if relative humidity is 100%"
+  ],
+  "answer": 0,
+  "explanation": "The margin is 2 °C; at least 3 °C is required.",
+  "difficulty": 1
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "The dew point is 14 °C and the steel surface is 16 °C. Can coating go ahead (using the 3 °C rule)?",
+  "options": [
+   "No — the steel is less than 3 °C above the dew point",
+   "Only if relative humidity is 100%",
+   "Dew point does not matter for coating",
+   "Yes — the steel is at least 3 °C above the dew point"
+  ],
+  "answer": 0,
+  "explanation": "The margin is 2 °C; at least 3 °C is required.",
+  "difficulty": 1
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "The dew point is 20 °C and the steel surface is 24 °C. Can coating go ahead (using the 3 °C rule)?",
+  "options": [
+   "Only if relative humidity is 100%",
+   "No — the steel is less than 3 °C above the dew point",
+   "Yes — the steel is at least 3 °C above the dew point",
+   "Dew point does not matter for coating"
+  ],
+  "answer": 2,
+  "explanation": "The margin is 4 °C; at least 3 °C is required.",
+  "difficulty": 1
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "The dew point is 15 °C and the steel surface is 18 °C. Can coating go ahead (using the 3 °C rule)?",
+  "options": [
+   "Dew point does not matter for coating",
+   "Yes — the steel is at least 3 °C above the dew point",
+   "Only if relative humidity is 100%",
+   "No — the steel is less than 3 °C above the dew point"
+  ],
+  "answer": 1,
+  "explanation": "The margin is 3 °C; at least 3 °C is required.",
+  "difficulty": 1
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "The dew point is 21 °C and the steel surface is 25 °C. Can coating go ahead (using the 3 °C rule)?",
+  "options": [
+   "No — the steel is less than 3 °C above the dew point",
+   "Dew point does not matter for coating",
+   "Only if relative humidity is 100%",
+   "Yes — the steel is at least 3 °C above the dew point"
+  ],
+  "answer": 3,
+  "explanation": "The margin is 4 °C; at least 3 °C is required.",
+  "difficulty": 1
+ },
+ {
+  "subject": "COR",
+  "topic": "Calculations",
+  "body": "The dew point is 21 °C and the steel surface is 23.5 °C. Can coating go ahead (using the 3 °C rule)?",
+  "options": [
+   "Yes — the steel is at least 3 °C above the dew point",
+   "Dew point does not matter for coating",
+   "No — the steel is less than 3 °C above the dew point",
+   "Only if relative humidity is 100%"
+  ],
+  "answer": 2,
+  "explanation": "The margin is 2.5 °C; at least 3 °C is required.",
+  "difficulty": 1
+ }
+]

@@ -1,0 +1,646 @@
+[
+ {
+  "subject": "INS",
+  "topic": "Codes",
+  "body": "API 510 covers inspection, repair and alteration of",
+  "options": [
+   "aboveground storage tanks",
+   "pipelines",
+   "process piping",
+   "in-service pressure vessels"
+  ],
+  "answer": 3,
+  "explanation": "API 570 covers piping; API 653 covers tanks.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Codes",
+  "body": "API 570 covers",
+  "options": [
+   "boilers",
+   "pressure vessels",
+   "storage tanks",
+   "in-service process piping"
+  ],
+  "answer": 3,
+  "explanation": "It applies to metallic and FRP piping in refineries and chemical plants.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Codes",
+  "body": "API 653 covers",
+  "options": [
+   "offshore platforms",
+   "aboveground storage tanks",
+   "piping",
+   "pressure vessels"
+  ],
+  "answer": 1,
+  "explanation": "It covers tank inspection, repair, alteration and reconstruction.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Codes",
+  "body": "Which API document describes damage mechanisms in the refining industry?",
+  "options": [
+   "API 1104",
+   "API 650",
+   "API RP 571",
+   "API 510"
+  ],
+  "answer": 2,
+  "explanation": "It covers mechanisms like CUI, sulfidation and SCC.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Codes",
+  "body": "Risk-based inspection (RBI) is covered by",
+  "options": [
+   "API 571",
+   "API RP 580 and 581",
+   "ASME IX",
+   "API 577"
+  ],
+  "answer": 1,
+  "explanation": "RBI prioritises inspection by likelihood and consequence of failure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Codes",
+  "body": "Which document covers inspection of pressure-relieving devices?",
+  "options": [
+   "API RP 574",
+   "API 650",
+   "API RP 576",
+   "API RP 577"
+  ],
+  "answer": 2,
+  "explanation": "Relief valves must be tested and inspected at set intervals.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Codes",
+  "body": "API certification for 510, 570 and 653 inspectors must be renewed every",
+  "options": [
+   "10 years",
+   "3 years",
+   "1 year",
+   "5 years"
+  ],
+  "answer": 1,
+  "explanation": "Recertification includes experience checks and, periodically, an online exam.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Damage",
+  "body": "Corrosion under insulation (CUI) of carbon steel is most likely at operating temperatures of about",
+  "options": [
+   "-12 °C to 175 °C",
+   "below -50 °C only",
+   "above 400 °C only",
+   "at any temperature equally"
+  ],
+  "answer": 0,
+  "explanation": "Water gets trapped under insulation in this range.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Damage",
+  "body": "Chloride stress corrosion cracking mainly affects",
+  "options": [
+   "carbon steel",
+   "austenitic stainless steels",
+   "titanium",
+   "glass-lined vessels"
+  ],
+  "answer": 1,
+  "explanation": "Chlorides, tensile stress and heat are needed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Damage",
+  "body": "High-temperature hydrogen attack (HTHA) is assessed using",
+  "options": [
+   "The inverse square law",
+   "Nelson curves (API RP 941)",
+   "Charpy curves",
+   "The IIW block"
+  ],
+  "answer": 1,
+  "explanation": "Curves relate temperature and hydrogen partial pressure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Damage",
+  "body": "Which type of piping location is especially prone to corrosion because fluid does not flow?",
+  "options": [
+   "Deadlegs",
+   "Pump discharge lines",
+   "Main headers",
+   "Relief valve inlets with flow"
+  ],
+  "answer": 0,
+  "explanation": "Stagnant fluid lets water and deposits settle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Damage",
+  "body": "Corrosion caused by bacteria is called",
+  "options": [
+   "creep",
+   "erosion",
+   "sulfidation",
+   "microbiologically influenced corrosion (MIC)"
+  ],
+  "answer": 3,
+  "explanation": "Common in water systems and tank bottoms.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Testing",
+  "body": "Why is water preferred to air for pressure testing?",
+  "options": [
+   "Air cannot reach test pressure",
+   "Codes forbid air entirely",
+   "Water is cheaper than air in every case",
+   "Water stores far less energy, so failure is much less dangerous"
+  ],
+  "answer": 3,
+  "explanation": "Pneumatic tests need extra precautions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Testing",
+  "body": "For ASME VIII Div. 1 vessels, the standard hydrotest pressure is",
+  "options": [
+   "1.1 × MAWP",
+   "1.5 × design pressure always",
+   "1.3 × MAWP × stress ratio",
+   "2 × MAWP"
+  ],
+  "answer": 2,
+  "explanation": "Stress ratio = allowable stress at test temperature ÷ at design temperature.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Terms",
+  "body": "CML stands for",
+  "options": [
+   "Corrosion Measurement Limit",
+   "Condition Monitoring Location",
+   "Critical Material List",
+   "Code Minimum Level"
+  ],
+  "answer": 1,
+  "explanation": "Formerly called thickness measurement locations (TMLs).",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Terms",
+  "body": "Under API 510, a change that alters the design (such as adding a large nozzle) is an",
+  "options": [
+   "routine maintenance",
+   "inspection",
+   "repair",
+   "alteration"
+  ],
+  "answer": 3,
+  "explanation": "Alterations need engineering approval.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Intervals",
+  "body": "Under API 510, the internal or on-stream inspection interval is the lesser of",
+  "options": [
+   "one quarter of remaining life or 5 years",
+   "the full remaining life or 20 years",
+   "half the remaining life or 10 years",
+   "3 years always"
+  ],
+  "answer": 2,
+  "explanation": "RBI can be used to set different intervals.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Intervals",
+  "body": "Under API 570, the maximum thickness-measurement interval for Class 1 piping is",
+  "options": [
+   "10 years",
+   "5 years (or half the remaining life if less)",
+   "15 years",
+   "1 year"
+  ],
+  "answer": 1,
+  "explanation": "Class 2 and 3 piping can go up to 10 years.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A CML read 15.9 mm 4 years ago and 15.1 mm today. What is the corrosion rate?",
+  "options": [
+   "0.2 mm/yr",
+   "3.2 mm/yr",
+   "0.1 mm/yr",
+   "1.2 mm/yr"
+  ],
+  "answer": 0,
+  "explanation": "Corrosion rate = (15.9 − 15.1) ÷ 4 = 0.2 mm/yr.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A CML read 19 mm 4 years ago and 17.5 mm today. What is the corrosion rate?",
+  "options": [
+   "4.375 mm/yr",
+   "6 mm/yr",
+   "0.188 mm/yr",
+   "0.375 mm/yr"
+  ],
+  "answer": 3,
+  "explanation": "Corrosion rate = (19 − 17.5) ÷ 4 = 0.375 mm/yr.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A CML read 12.5 mm 10 years ago and 11.5 mm today. What is the corrosion rate?",
+  "options": [
+   "0.1 mm/yr",
+   "1.15 mm/yr",
+   "10 mm/yr",
+   "0.05 mm/yr"
+  ],
+  "answer": 0,
+  "explanation": "Corrosion rate = (12.5 − 11.5) ÷ 10 = 0.1 mm/yr.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A CML read 15.9 mm 5 years ago and 14.7 mm today. What is the corrosion rate?",
+  "options": [
+   "2.94 mm/yr",
+   "0.24 mm/yr",
+   "0.12 mm/yr",
+   "6 mm/yr"
+  ],
+  "answer": 1,
+  "explanation": "Corrosion rate = (15.9 − 14.7) ÷ 5 = 0.24 mm/yr.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A CML read 12.5 mm 5 years ago and 11 mm today. What is the corrosion rate?",
+  "options": [
+   "2.2 mm/yr",
+   "0.15 mm/yr",
+   "7.5 mm/yr",
+   "0.3 mm/yr"
+  ],
+  "answer": 3,
+  "explanation": "Corrosion rate = (12.5 − 11) ÷ 5 = 0.3 mm/yr.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A CML read 25.4 mm 5 years ago and 24.6 mm today. What is the corrosion rate?",
+  "options": [
+   "0.08 mm/yr",
+   "4.92 mm/yr",
+   "4 mm/yr",
+   "0.16 mm/yr"
+  ],
+  "answer": 3,
+  "explanation": "Corrosion rate = (25.4 − 24.6) ÷ 5 = 0.16 mm/yr.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A CML read 12.5 mm 10 years ago and 11.7 mm today. What is the corrosion rate?",
+  "options": [
+   "8 mm/yr",
+   "1.17 mm/yr",
+   "0.08 mm/yr",
+   "0.04 mm/yr"
+  ],
+  "answer": 2,
+  "explanation": "Corrosion rate = (12.5 − 11.7) ÷ 10 = 0.08 mm/yr.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A CML read 14 mm 5 years ago and 12.8 mm today. What is the corrosion rate?",
+  "options": [
+   "0.24 mm/yr",
+   "2.56 mm/yr",
+   "6 mm/yr",
+   "0.12 mm/yr"
+  ],
+  "answer": 0,
+  "explanation": "Corrosion rate = (14 − 12.8) ÷ 5 = 0.24 mm/yr.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A CML read 12.7 mm 10 years ago and 11.2 mm today. What is the corrosion rate?",
+  "options": [
+   "15 mm/yr",
+   "1.12 mm/yr",
+   "0.15 mm/yr",
+   "1.15 mm/yr"
+  ],
+  "answer": 2,
+  "explanation": "Corrosion rate = (12.7 − 11.2) ÷ 10 = 0.15 mm/yr.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A CML read 12.7 mm 5 years ago and 11.5 mm today. What is the corrosion rate?",
+  "options": [
+   "6 mm/yr",
+   "2.3 mm/yr",
+   "0.24 mm/yr",
+   "0.12 mm/yr"
+  ],
+  "answer": 2,
+  "explanation": "Corrosion rate = (12.7 − 11.5) ÷ 5 = 0.24 mm/yr.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Actual thickness 12.4 mm, required thickness 10 mm, corrosion rate 0.1 mm/yr. What is the remaining life?",
+  "options": [
+   "124 years",
+   "24 years",
+   "0.24 years",
+   "12 years"
+  ],
+  "answer": 1,
+  "explanation": "Remaining life = (12.4 − 10) ÷ 0.1 = 24 years.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Actual thickness 10.4 mm, required thickness 8 mm, corrosion rate 0.24 mm/yr. What is the remaining life?",
+  "options": [
+   "5 years",
+   "0.58 years",
+   "10 years",
+   "43.3 years"
+  ],
+  "answer": 2,
+  "explanation": "Remaining life = (10.4 − 8) ÷ 0.24 = 10 years.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A vessel shell is 14.3 mm thick; required thickness is 9.5 mm; corrosion rate is 0.4 mm/yr. Under API 510, what is the maximum internal inspection interval?",
+  "options": [
+   "6 years",
+   "12 years",
+   "3 years",
+   "10 years"
+  ],
+  "answer": 0,
+  "explanation": "Remaining life = (14.3 − 9.5) ÷ 0.4 = 12 years. Interval = lesser of half (6) or 10 years = 6 years.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A vessel shell is 9.5 mm thick; required thickness is 7.5 mm; corrosion rate is 0.24 mm/yr. Under API 510, what is the maximum internal inspection interval?",
+  "options": [
+   "4.2 years",
+   "2.1 years",
+   "8.3 years",
+   "10 years"
+  ],
+  "answer": 0,
+  "explanation": "Remaining life = (9.5 − 7.5) ÷ 0.24 = 8.3 years. Interval = lesser of half (4.2) or 10 years = 4.2 years.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Actual thickness 13.6 mm, required thickness 10 mm, corrosion rate 0.4 mm/yr. What is the remaining life?",
+  "options": [
+   "9 years",
+   "34 years",
+   "4.5 years",
+   "1.44 years"
+  ],
+  "answer": 0,
+  "explanation": "Remaining life = (13.6 − 10) ÷ 0.4 = 9 years.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A vessel shell is 10.8 mm thick; required thickness is 6 mm; corrosion rate is 0.24 mm/yr. Under API 510, what is the maximum internal inspection interval?",
+  "options": [
+   "10 years",
+   "20 years",
+   "11 years",
+   "5 years"
+  ],
+  "answer": 0,
+  "explanation": "Remaining life = (10.8 − 6) ÷ 0.24 = 20 years. Interval = lesser of half (10) or 10 years = 10 years.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Actual thickness 12.5 mm, required thickness 9.5 mm, corrosion rate 0.2 mm/yr. What is the remaining life?",
+  "options": [
+   "0.6 years",
+   "7.5 years",
+   "62.5 years",
+   "15 years"
+  ],
+  "answer": 3,
+  "explanation": "Remaining life = (12.5 − 9.5) ÷ 0.2 = 15 years.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Actual thickness 8 mm, required thickness 6 mm, corrosion rate 0.24 mm/yr. What is the remaining life?",
+  "options": [
+   "4.2 years",
+   "0.48 years",
+   "8.3 years",
+   "33.3 years"
+  ],
+  "answer": 2,
+  "explanation": "Remaining life = (8 − 6) ÷ 0.24 = 8.3 years.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Actual thickness 12 mm, required thickness 10 mm, corrosion rate 0.12 mm/yr. What is the remaining life?",
+  "options": [
+   "0.24 years",
+   "8.4 years",
+   "100 years",
+   "16.7 years"
+  ],
+  "answer": 3,
+  "explanation": "Remaining life = (12 − 10) ÷ 0.12 = 16.7 years.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A vessel shell is 10.5 mm thick; required thickness is 7.5 mm; corrosion rate is 0.2 mm/yr. Under API 510, what is the maximum internal inspection interval?",
+  "options": [
+   "10 years",
+   "7.5 years",
+   "15 years",
+   "3.8 years"
+  ],
+  "answer": 1,
+  "explanation": "Remaining life = (10.5 − 7.5) ÷ 0.2 = 15 years. Interval = lesser of half (7.5) or 10 years = 7.5 years.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME VIII Div. 1 cylindrical shell (circumferential stress): P = 150 psi, inside radius R = 30 in, S = 17,500 psi, E = 1. Using t = PR ÷ (SE − 0.6P), find t (inches).",
+  "options": [
+   "0.258 in",
+   "0.257 in",
+   "0.128 in",
+   "0.517 in"
+  ],
+  "answer": 0,
+  "explanation": "t = 150 × 30 ÷ (17500 × 1 − 0.6 × 150) = 0.258 in (before corrosion allowance).",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME VIII Div. 1 cylindrical shell (circumferential stress): P = 200 psi, inside radius R = 36 in, S = 20,000 psi, E = 0.85. Using t = PR ÷ (SE − 0.6P), find t (inches).",
+  "options": [
+   "0.853 in",
+   "0.211 in",
+   "0.424 in",
+   "0.427 in"
+  ],
+  "answer": 3,
+  "explanation": "t = 200 × 36 ÷ (20000 × 0.85 − 0.6 × 200) = 0.427 in (before corrosion allowance).",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME VIII Div. 1 cylindrical shell (circumferential stress): P = 300 psi, inside radius R = 30 in, S = 17,500 psi, E = 0.85. Using t = PR ÷ (SE − 0.6P), find t (inches).",
+  "options": [
+   "1.225 in",
+   "0.605 in",
+   "0.301 in",
+   "0.612 in"
+  ],
+  "answer": 3,
+  "explanation": "t = 300 × 30 ÷ (17500 × 0.85 − 0.6 × 300) = 0.612 in (before corrosion allowance).",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME VIII Div. 1 cylindrical shell (circumferential stress): P = 300 psi, inside radius R = 30 in, S = 20,000 psi, E = 0.85. Using t = PR ÷ (SE − 0.6P), find t (inches).",
+  "options": [
+   "0.264 in",
+   "0.529 in",
+   "1.07 in",
+   "0.535 in"
+  ],
+  "answer": 3,
+  "explanation": "t = 300 × 30 ÷ (20000 × 0.85 − 0.6 × 300) = 0.535 in (before corrosion allowance).",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME VIII Div. 1 cylindrical shell (circumferential stress): P = 200 psi, inside radius R = 36 in, S = 17,500 psi, E = 1. Using t = PR ÷ (SE − 0.6P), find t (inches).",
+  "options": [
+   "0.411 in",
+   "0.414 in",
+   "0.205 in",
+   "0.829 in"
+  ],
+  "answer": 1,
+  "explanation": "t = 200 × 36 ÷ (17500 × 1 − 0.6 × 200) = 0.414 in (before corrosion allowance).",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME VIII Div. 1 cylindrical shell (circumferential stress): P = 150 psi, inside radius R = 30 in, S = 20,000 psi, E = 0.85. Using t = PR ÷ (SE − 0.6P), find t (inches).",
+  "options": [
+   "0.132 in",
+   "0.266 in",
+   "0.265 in",
+   "0.532 in"
+  ],
+  "answer": 1,
+  "explanation": "t = 150 × 30 ÷ (20000 × 0.85 − 0.6 × 150) = 0.266 in (before corrosion allowance).",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME VIII Div. 1 cylindrical shell (circumferential stress): P = 250 psi, inside radius R = 36 in, S = 20,000 psi, E = 1. Using t = PR ÷ (SE − 0.6P), find t (inches).",
+  "options": [
+   "0.45 in",
+   "0.453 in",
+   "0.224 in",
+   "0.907 in"
+  ],
+  "answer": 1,
+  "explanation": "t = 250 × 36 ÷ (20000 × 1 − 0.6 × 250) = 0.453 in (before corrosion allowance).",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME VIII Div. 1 cylindrical shell (circumferential stress): P = 200 psi, inside radius R = 48 in, S = 17,500 psi, E = 1. Using t = PR ÷ (SE − 0.6P), find t (inches).",
+  "options": [
+   "0.274 in",
+   "0.549 in",
+   "0.552 in",
+   "1.105 in"
+  ],
+  "answer": 2,
+  "explanation": "t = 200 × 48 ÷ (17500 × 1 − 0.6 × 200) = 0.552 in (before corrosion allowance).",
+  "difficulty": 3
+ }
+]
