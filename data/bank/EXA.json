@@ -1,0 +1,422 @@
+[
+ {
+  "subject": "EXA",
+  "topic": "Auditing",
+  "body": "An unmodified (clean) audit opinion means the financial statements",
+  "options": [
+   "contain no errors at all",
+   "are guaranteed to be free of fraud",
+   "are presented fairly in all material respects",
+   "were prepared by the auditor"
+  ],
+  "answer": 2,
+  "explanation": "Audits give reasonable, not absolute, assurance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Auditing",
+  "body": "An auditor issues an adverse opinion when misstatements are",
+  "options": [
+   "immaterial",
+   "impossible to assess",
+   "material but not pervasive",
+   "material and pervasive"
+  ],
+  "answer": 3,
+  "explanation": "Material but not pervasive misstatements give a qualified opinion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Auditing",
+  "body": "A disclaimer of opinion is issued when the auditor",
+  "options": [
+   "is not independent but continues",
+   "finds no errors",
+   "agrees with management",
+   "cannot obtain sufficient appropriate evidence and the possible effects are pervasive"
+  ],
+  "answer": 3,
+  "explanation": "The auditor does not express an opinion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Auditing",
+  "body": "Materiality refers to",
+  "options": [
+   "the size of the company",
+   "the total assets",
+   "the auditor's fee",
+   "misstatements that could influence users' decisions"
+  ],
+  "answer": 3,
+  "explanation": "Judgement considers size and nature.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Auditing",
+  "body": "Which threatens auditor independence?",
+  "options": [
+   "Reviewing working papers",
+   "Having a financial interest in the client",
+   "Attending professional training",
+   "Using audit software"
+  ],
+  "answer": 1,
+  "explanation": "Self-interest, self-review and familiarity are key threats.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Auditing",
+  "body": "Segregation of duties is an example of",
+  "options": [
+   "an internal control",
+   "a substantive test",
+   "a tax rule",
+   "an audit opinion"
+  ],
+  "answer": 0,
+  "explanation": "No one person should control a whole transaction.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Auditing",
+  "body": "External confirmation from a bank is an example of",
+  "options": [
+   "an internal control",
+   "management representation only",
+   "audit evidence obtained from a third party",
+   "a financial ratio"
+  ],
+  "answer": 2,
+  "explanation": "Third-party evidence is generally more reliable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Standards",
+  "body": "Which body regulates accounting and auditing standards in Ethiopia?",
+  "options": [
+   "Ministry of Education",
+   "Ethiopian Revenues and Customs Authority",
+   "National Bank of Ethiopia",
+   "Accounting and Auditing Board of Ethiopia (AABE)"
+  ],
+  "answer": 3,
+  "explanation": "Ethiopia has adopted IFRS for reporting entities.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Tax",
+  "body": "What is the standard VAT rate in Ethiopia?",
+  "options": [
+   "15%",
+   "5%",
+   "10%",
+   "20%"
+  ],
+  "answer": 0,
+  "explanation": "VAT applies to most taxable supplies of goods and services.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Tax",
+  "body": "What is the standard corporate income tax rate in Ethiopia?",
+  "options": [
+   "25%",
+   "35%",
+   "30%",
+   "15%"
+  ],
+  "answer": 2,
+  "explanation": "Some sectors have special rules.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Finance",
+  "body": "A project should be accepted under the NPV rule if its NPV is",
+  "options": [
+   "zero or negative",
+   "positive",
+   "equal to the initial investment",
+   "negative"
+  ],
+  "answer": 1,
+  "explanation": "A positive NPV adds value.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Finance",
+  "body": "IRR is the discount rate at which",
+  "options": [
+   "payback is shortest",
+   "profits are doubled",
+   "NPV equals zero",
+   "NPV is highest"
+  ],
+  "answer": 2,
+  "explanation": "Accept if IRR exceeds the cost of capital.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Finance",
+  "body": "WACC stands for",
+  "options": [
+   "wages and capital costs",
+   "weighted annual cash cover",
+   "weighted average cost of capital",
+   "working assets current costs"
+  ],
+  "answer": 2,
+  "explanation": "It blends the costs of debt and equity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Finance",
+  "body": "The current ratio measures",
+  "options": [
+   "long-term solvency",
+   "profitability",
+   "market value",
+   "short-term liquidity"
+  ],
+  "answer": 3,
+  "explanation": "Current assets ÷ current liabilities.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Calculations",
+  "body": "10,000 birr is invested at 8% compound interest a year for 2 years. What is its future value?",
+  "options": [
+   "10,800 birr",
+   "8573 birr",
+   "11,600 birr",
+   "11,664 birr"
+  ],
+  "answer": 3,
+  "explanation": "FV = 10000 × (1 + 0.08)^2 = 11,664 birr.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Calculations",
+  "body": "20,000 birr is invested at 12% compound interest a year for 2 years. What is its future value?",
+  "options": [
+   "22,400 birr",
+   "25,088 birr",
+   "15,944 birr",
+   "24,800 birr"
+  ],
+  "answer": 1,
+  "explanation": "FV = 20000 × (1 + 0.12)^2 = 25,088 birr.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Calculations",
+  "body": "50,000 birr is invested at 10% compound interest a year for 5 years. What is its future value?",
+  "options": [
+   "31,046 birr",
+   "80,526 birr",
+   "75,000 birr",
+   "55,000 birr"
+  ],
+  "answer": 1,
+  "explanation": "FV = 50000 × (1 + 0.1)^5 = 80,526 birr.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Calculations",
+  "body": "10,000 birr is invested at 10% compound interest a year for 3 years. What is its future value?",
+  "options": [
+   "13,000 birr",
+   "11,000 birr",
+   "7513 birr",
+   "13,310 birr"
+  ],
+  "answer": 3,
+  "explanation": "FV = 10000 × (1 + 0.1)^3 = 13,310 birr.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Calculations",
+  "body": "50,000 birr is invested at 12% compound interest a year for 3 years. What is its future value?",
+  "options": [
+   "35,589 birr",
+   "68,000 birr",
+   "56,000 birr",
+   "70,246 birr"
+  ],
+  "answer": 3,
+  "explanation": "FV = 50000 × (1 + 0.12)^3 = 70,246 birr.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Calculations",
+  "body": "10,000 birr is invested at 12% compound interest a year for 5 years. What is its future value?",
+  "options": [
+   "5674 birr",
+   "16,000 birr",
+   "11,200 birr",
+   "17,623 birr"
+  ],
+  "answer": 3,
+  "explanation": "FV = 10000 × (1 + 0.12)^5 = 17,623 birr.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Calculations",
+  "body": "20,000 birr is invested at 8% compound interest a year for 2 years. What is its future value?",
+  "options": [
+   "23,200 birr",
+   "17,147 birr",
+   "23,328 birr",
+   "21,600 birr"
+  ],
+  "answer": 2,
+  "explanation": "FV = 20000 × (1 + 0.08)^2 = 23,328 birr.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Calculations",
+  "body": "20,000 birr is invested at 10% compound interest a year for 5 years. What is its future value?",
+  "options": [
+   "22,000 birr",
+   "32,210 birr",
+   "12,418 birr",
+   "30,000 birr"
+  ],
+  "answer": 1,
+  "explanation": "FV = 20000 × (1 + 0.1)^5 = 32,210 birr.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXA",
+  "topic": "Calculations",
+  "body": "Current assets are 150,000 birr and current liabilities are 60,000 birr. What is the current ratio?",
+  "options": [
+   "3.5 : 1",
+   "1.5 : 1",
+   "2.5 : 1",
+   "0.4 : 1"
+  ],
+  "answer": 2,
+  "explanation": "150000 ÷ 60000 = 2.5 : 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EXA",
+  "topic": "Calculations",
+  "body": "Current assets are 120,000 birr and current liabilities are 80,000 birr. What is the current ratio?",
+  "options": [
+   "1.5 : 1",
+   "0.67 : 1",
+   "0.5 : 1",
+   "2.5 : 1"
+  ],
+  "answer": 0,
+  "explanation": "120000 ÷ 80000 = 1.5 : 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EXA",
+  "topic": "Calculations",
+  "body": "Current assets are 120,000 birr and current liabilities are 100,000 birr. What is the current ratio?",
+  "options": [
+   "0.83 : 1",
+   "0.2 : 1",
+   "1.2 : 1",
+   "2.2 : 1"
+  ],
+  "answer": 2,
+  "explanation": "120000 ÷ 100000 = 1.2 : 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EXA",
+  "topic": "Calculations",
+  "body": "Current assets are 300,000 birr and current liabilities are 100,000 birr. What is the current ratio?",
+  "options": [
+   "4 : 1",
+   "2 : 1",
+   "0.33 : 1",
+   "3 : 1"
+  ],
+  "answer": 3,
+  "explanation": "300000 ÷ 100000 = 3 : 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EXA",
+  "topic": "Calculations",
+  "body": "Current assets are 120,000 birr and current liabilities are 60,000 birr. What is the current ratio?",
+  "options": [
+   "0.5 : 1",
+   "2 : 1",
+   "1 : 1",
+   "3 : 1"
+  ],
+  "answer": 1,
+  "explanation": "120000 ÷ 60000 = 2 : 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EXA",
+  "topic": "Calculations",
+  "body": "Current assets are 150,000 birr and current liabilities are 80,000 birr. What is the current ratio?",
+  "options": [
+   "0.88 : 1",
+   "2.88 : 1",
+   "1.88 : 1",
+   "0.53 : 1"
+  ],
+  "answer": 2,
+  "explanation": "150000 ÷ 80000 = 1.88 : 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EXA",
+  "topic": "Calculations",
+  "body": "Current assets are 240,000 birr and current liabilities are 100,000 birr. What is the current ratio?",
+  "options": [
+   "3.4 : 1",
+   "2.4 : 1",
+   "1.4 : 1",
+   "0.42 : 1"
+  ],
+  "answer": 1,
+  "explanation": "240000 ÷ 100000 = 2.4 : 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EXA",
+  "topic": "Calculations",
+  "body": "Current assets are 150,000 birr and current liabilities are 120,000 birr. What is the current ratio?",
+  "options": [
+   "1.25 : 1",
+   "0.25 : 1",
+   "2.25 : 1",
+   "0.8 : 1"
+  ],
+  "answer": 0,
+  "explanation": "150000 ÷ 120000 = 1.25 : 1.",
+  "difficulty": 1
+ }
+]

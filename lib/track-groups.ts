@@ -5,11 +5,11 @@ export interface TrackGroup { key: string; emoji: string; title: string; descrip
 
 export const TRACK_GROUPS: TrackGroup[] = [
   { key: "school", emoji: "🎓", title: "School & admissions", description: "Prepare for school-leaving, university-entry and national examinations.",
-    codes: ["NCEE", "JSCE", "JAMB", "WAEC", "NECO", "PUTME", "WASSCE_GH", "BECE", "KCSE", "ETH", "MDCAT", "NEET", "JEE", "SAT", "UCAT", "GRE", "ELEVEN"] },
+    codes: ["NCEE", "JSCE", "JAMB", "WAEC", "NECO", "PUTME", "WASSCE_GH", "BECE", "KCSE", "CSEE", "UCE", "CMGCE", "ETH", "MDCAT", "NEET", "JEE", "SAT", "UCAT", "GRE", "ELEVEN"] },
   { key: "abroad", emoji: "✈️", title: "Moving abroad", description: "Citizenship tests, English and professional licensing for doctors and nurses relocating.",
     codes: ["LUK", "USCIT", "CANCIT", "AUSCIT", "IELTS", "PTE", "CELPIP", "OET", "PLAB", "NMC", "NCLEX", "GULFN"] },
   { key: "career", emoji: "💼", title: "Professional & career", description: "Practise for professional qualifications, graduate assessments and career progression tests.",
-    codes: ["PM", "ACCA", "ICAN", "GRAD", "IBPS", "SSC", "ITIL", "SIXSIG", "AAT", "CSEPH", "NGREC", "NGCS", "BKP", "CON"] },
+    codes: ["PM", "ACCA", "ICAN", "GRAD", "IBPS", "SSC", "ITIL", "SIXSIG", "ETEXIT", "AAT", "CSEPH", "NGREC", "NGCS", "BKP", "CON"] },
   { key: "energy", emoji: "🛢️", title: "Oil, gas & inspection", description: "HSE, industry knowledge and inspection certifications for oil, gas and fabrication careers.",
     codes: ["OILGAS", "NDT", "WELDINSP", "APIINSP", "COATING", "IOSH"] },
   { key: "tech", emoji: "💻", title: "Technology & digital skills", description: "Build practical IT, networking, cloud, data, security and programming knowledge.",
@@ -32,6 +32,8 @@ const ALIASES: Partial<Record<TrackCode, string>> = {
   OILGAS: "oil gas petroleum hse h2s rig offshore nnpc shell total chevron upstream ncdmb drilling production",
   NDT: "ndt non destructive testing ultrasonic radiography penetrant magnetic particle inspection pcn asnt cswip iso 9712 welding inspector",
   WELDINSP: "welding inspector cswip 3.1 cwi aws weld qc", APIINSP: "api 510 570 653 pressure vessel piping inspector integrity", COATING: "coating painting corrosion nace ampp cip blasting inspector",
+  ETEXIT: "ethiopia exit exam university graduate accounting computer science management economics", CSEE: "tanzania form four necta csee", UCE: "uganda senior four uneb uce o level",
+  CMGCE: "cameroon gce o level anglophone",
   JAMB: "utme university nigeria", WAEC: "ssce waec nigeria", NECO: "ssce nigeria", PUTME: "post utme university nigeria", WASSCE_GH: "ghana shs wassce",
   BECE: "ghana jhs", KCSE: "kenya form 4", ETH: "ethiopia esslce grade 12", MDCAT: "pakistan medical", UCAT: "medicine dentistry uk university",
   SAT: "usa college", ELEVEN: "11 plus grammar school", SSC: "india cgl chsl government", IBPS: "india bank po sbi",

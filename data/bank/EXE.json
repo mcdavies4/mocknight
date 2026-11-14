@@ -1,0 +1,408 @@
+[
+ {
+  "subject": "EXE",
+  "topic": "Micro",
+  "body": "Opportunity cost is",
+  "options": [
+   "the total cost of production",
+   "the value of the next best alternative given up",
+   "the price paid in cash",
+   "a government tax"
+  ],
+  "answer": 1,
+  "explanation": "Every choice has an opportunity cost.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Micro",
+  "body": "The law of demand states that, other things equal,",
+  "options": [
+   "as price rises, quantity demanded falls",
+   "supply equals demand always",
+   "demand never changes",
+   "as price rises, quantity demanded rises"
+  ],
+  "answer": 0,
+  "explanation": "Giffen goods are rare exceptions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Micro",
+  "body": "If demand is price-elastic (PED > 1), a price cut will",
+  "options": [
+   "increase total revenue",
+   "reduce quantity sold",
+   "leave revenue unchanged",
+   "decrease total revenue"
+  ],
+  "answer": 0,
+  "explanation": "Quantity rises proportionally more than price falls.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Micro",
+  "body": "A firm maximises profit where",
+  "options": [
+   "marginal revenue equals marginal cost",
+   "total revenue is lowest",
+   "price equals zero",
+   "average cost is highest"
+  ],
+  "answer": 0,
+  "explanation": "MR = MC.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Micro",
+  "body": "In perfect competition, firms are",
+  "options": [
+   "price takers",
+   "monopolists",
+   "always loss-making",
+   "price makers"
+  ],
+  "answer": 0,
+  "explanation": "Many firms sell identical products.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Micro",
+  "body": "A market with a few large interdependent firms is",
+  "options": [
+   "monopolistic competition",
+   "an oligopoly",
+   "a monopoly",
+   "perfect competition"
+  ],
+  "answer": 1,
+  "explanation": "Firms react to each other's decisions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Micro",
+  "body": "The law of diminishing marginal utility says that",
+  "options": [
+   "extra satisfaction falls as more units are consumed",
+   "utility cannot be measured",
+   "satisfaction always rises",
+   "prices always fall"
+  ],
+  "answer": 0,
+  "explanation": "The tenth glass of water is worth less than the first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Micro",
+  "body": "A production possibility frontier (PPF) shows",
+  "options": [
+   "the maximum combinations of two goods an economy can produce",
+   "inflation over time",
+   "the demand for one good",
+   "the exchange rate"
+  ],
+  "answer": 0,
+  "explanation": "Points inside show unused resources.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Macro",
+  "body": "GDP can be measured by the output, income and",
+  "options": [
+   "expenditure methods",
+   "interest method",
+   "population method",
+   "inflation method"
+  ],
+  "answer": 0,
+  "explanation": "All three should give the same result in theory.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Macro",
+  "body": "Inflation is commonly measured using the",
+  "options": [
+   "GDP deflator only",
+   "unemployment rate",
+   "Gini coefficient",
+   "Consumer Price Index (CPI)"
+  ],
+  "answer": 3,
+  "explanation": "CPI tracks the price of a basket of goods.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Macro",
+  "body": "Fiscal policy uses",
+  "options": [
+   "exchange controls only",
+   "government spending and taxation",
+   "interest rates",
+   "the money supply only"
+  ],
+  "answer": 1,
+  "explanation": "Monetary policy uses interest rates and money supply.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Macro",
+  "body": "Ethiopia's central bank is the",
+  "options": [
+   "Development Bank of Ethiopia",
+   "Ministry of Finance",
+   "Commercial Bank of Ethiopia",
+   "National Bank of Ethiopia"
+  ],
+  "answer": 3,
+  "explanation": "It conducts monetary policy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Macro",
+  "body": "Unemployment caused by a mismatch between workers' skills and available jobs is",
+  "options": [
+   "frictional unemployment",
+   "cyclical unemployment",
+   "seasonal unemployment",
+   "structural unemployment"
+  ],
+  "answer": 3,
+  "explanation": "Frictional unemployment is short-term job searching.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Development",
+  "body": "The Gini coefficient measures",
+  "options": [
+   "income inequality",
+   "population growth",
+   "inflation",
+   "trade balance"
+  ],
+  "answer": 0,
+  "explanation": "0 is perfect equality; 1 is perfect inequality.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Trade",
+  "body": "The theory of comparative advantage is associated with",
+  "options": [
+   "John Maynard Keynes",
+   "Adam Smith",
+   "Karl Marx",
+   "David Ricardo"
+  ],
+  "answer": 3,
+  "explanation": "Countries gain by specialising where their opportunity cost is lowest.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Thought",
+  "body": "Who argued that governments should increase spending to fight recessions?",
+  "options": [
+   "John Maynard Keynes",
+   "David Ricardo",
+   "Adam Smith",
+   "Milton Friedman"
+  ],
+  "answer": 0,
+  "explanation": "Keynesian economics stresses aggregate demand.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "A 10% rise in price causes a 20% fall in quantity demanded. What is the price elasticity of demand (absolute value)?",
+  "options": [
+   "0.5",
+   "3",
+   "2",
+   "10"
+  ],
+  "answer": 2,
+  "explanation": "PED = %ΔQ ÷ %ΔP = 20 ÷ 10 = 2. Elastic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "A 5% rise in price causes a 10% fall in quantity demanded. What is the price elasticity of demand (absolute value)?",
+  "options": [
+   "2",
+   "0.5",
+   "3",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "PED = %ΔQ ÷ %ΔP = 10 ÷ 5 = 2. Elastic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "A 20% rise in price causes a 40% fall in quantity demanded. What is the price elasticity of demand (absolute value)?",
+  "options": [
+   "8",
+   "20",
+   "0.5",
+   "2"
+  ],
+  "answer": 3,
+  "explanation": "PED = %ΔQ ÷ %ΔP = 40 ÷ 20 = 2. Elastic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "A 5% rise in price causes a 30% fall in quantity demanded. What is the price elasticity of demand (absolute value)?",
+  "options": [
+   "6",
+   "1.5",
+   "25",
+   "0.17"
+  ],
+  "answer": 0,
+  "explanation": "PED = %ΔQ ÷ %ΔP = 30 ÷ 5 = 6. Elastic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "A 20% rise in price causes a 30% fall in quantity demanded. What is the price elasticity of demand (absolute value)?",
+  "options": [
+   "1.5",
+   "6",
+   "0.67",
+   "10"
+  ],
+  "answer": 0,
+  "explanation": "PED = %ΔQ ÷ %ΔP = 30 ÷ 20 = 1.5. Elastic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "A 5% rise in price causes a 40% fall in quantity demanded. What is the price elasticity of demand (absolute value)?",
+  "options": [
+   "2",
+   "8",
+   "0.13",
+   "35"
+  ],
+  "answer": 1,
+  "explanation": "PED = %ΔQ ÷ %ΔP = 40 ÷ 5 = 8. Elastic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "A 20% rise in price causes a 10% fall in quantity demanded. What is the price elasticity of demand (absolute value)?",
+  "options": [
+   "1.5",
+   "2",
+   "1",
+   "0.5"
+  ],
+  "answer": 3,
+  "explanation": "PED = %ΔQ ÷ %ΔP = 10 ÷ 20 = 0.5. Inelastic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "A 10% rise in price causes a 10% fall in quantity demanded. What is the price elasticity of demand (absolute value)?",
+  "options": [
+   "2",
+   "0",
+   "1",
+   "3"
+  ],
+  "answer": 2,
+  "explanation": "PED = %ΔQ ÷ %ΔP = 10 ÷ 10 = 1. Unit elastic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "If the marginal propensity to consume (MPC) is 0.75, what is the simple spending multiplier? (1 ÷ (1 − MPC))",
+  "options": [
+   "0.25",
+   "4",
+   "1.33",
+   "7.5"
+  ],
+  "answer": 1,
+  "explanation": "1 ÷ (1 − 0.75) = 4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "If the marginal propensity to consume (MPC) is 0.9, what is the simple spending multiplier? (1 ÷ (1 − MPC))",
+  "options": [
+   "0.1",
+   "1.11",
+   "9",
+   "10"
+  ],
+  "answer": 3,
+  "explanation": "1 ÷ (1 − 0.9) = 10.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "If the marginal propensity to consume (MPC) is 0.6, what is the simple spending multiplier? (1 ÷ (1 − MPC))",
+  "options": [
+   "2.5",
+   "0.4",
+   "1.67",
+   "6"
+  ],
+  "answer": 0,
+  "explanation": "1 ÷ (1 − 0.6) = 2.5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "If the marginal propensity to consume (MPC) is 0.8, what is the simple spending multiplier? (1 ÷ (1 − MPC))",
+  "options": [
+   "1.25",
+   "8",
+   "0.2",
+   "5"
+  ],
+  "answer": 3,
+  "explanation": "1 ÷ (1 − 0.8) = 5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "If the marginal propensity to consume (MPC) is 0.5, what is the simple spending multiplier? (1 ÷ (1 − MPC))",
+  "options": [
+   "5",
+   "2",
+   "0.5",
+   "3"
+  ],
+  "answer": 1,
+  "explanation": "1 ÷ (1 − 0.5) = 2.",
+  "difficulty": 2
+ }
+]

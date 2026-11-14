@@ -2,7 +2,7 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
 export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi" | "Asia/Manila";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
@@ -26,7 +26,7 @@ export interface Track {
   short: string;
   emoji: string;
   kind: "school" | "citizenship" | "work" | "professional";
-  region: "NG" | "GH" | "WA" | "UK" | "GLOBAL" | "ET" | "IN" | "US" | "CA" | "AU" | "GULF" | "KE" | "PK" | "PH";
+  region: "NG" | "GH" | "WA" | "UK" | "GLOBAL" | "ET" | "IN" | "US" | "CA" | "AU" | "GULF" | "KE" | "PK" | "PH" | "TZ" | "UG" | "CM";
   currency: "NGN" | "GBP" | "ETB" | "INR" | "USD";
   subjectMode: "multi" | "single";
   subjects: string[];
@@ -684,6 +684,42 @@ export const TRACKS: Record<TrackCode, Track> = {
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["pm_pass", "pm_pass_ngn"], tagline: "PRINCE2 Foundation, Scrum PSM I and CAPM practice tests", timeZone: "Europe/London",
     audience: "a working professional preparing for project management certifications (PRINCE2 7 Foundation, Scrum.org PSM I, PMI CAPM)",
+  },
+  ETEXIT: {
+    code: "ETEXIT", name: "Ethiopia University Exit Exam", short: "Exit Exam Ethiopia", emoji: "🎓", kind: "professional", region: "ET", currency: "USD",
+    subjectMode: "multi", subjects: ["AFA", "AMA", "EXA", "EXC", "EXM", "EXE"], compulsory: [], minSubjects: 1, maxSubjects: 3,
+    subjectNote: "Pick your programme's subjects: Accounting & Finance, Computer Science, Management or Economics",
+    mock: { perSubject: 20, minutes: 60, passPct: 50, scoreStyle: "passfail", maxSubjects: 3 },
+    mockVariants: [
+      { key: "ACC", label: "Accounting & Finance", short: "Accounting", subjects: ["AFA", "AMA", "EXA"], total: 20, minutes: 90, passPct: 50, note: "60 questions · 90 min · 50% to pass" },
+      { key: "CS", label: "Computer Science", short: "Computer Sci", subjects: ["EXC"], total: 50, minutes: 75, passPct: 50, note: "50 questions · 75 min" },
+      { key: "MGT", label: "Management", short: "Management", subjects: ["EXM"], total: 50, minutes: 75, passPct: 50, note: "50 questions · 75 min" },
+      { key: "ECON", label: "Economics", short: "Economics", subjects: ["EXE"], total: 50, minutes: 75, passPct: 50, note: "50 questions · 75 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: true,
+    plans: ["exit_pass"], tagline: "Exit exam practice by programme: Accounting & Finance, Computer Science, Management and Economics", timeZone: "Africa/Addis_Ababa", timeLabel: "Ethiopia",
+    audience: "a final-year Ethiopian university student preparing for the national exit exam in their degree programme (50% pass mark)",
+  },
+  CSEE: {
+    code: "CSEE", name: "Tanzania CSEE (Form Four)", short: "CSEE Tanzania", emoji: "🇹🇿", kind: "school", region: "TZ", currency: "USD",
+    subjectMode: "multi", subjects: ["ENG", "MTH", "BIO", "CHM", "PHY", "GEO", "TZC"], compulsory: ["ENG", "MTH", "TZC"], minSubjects: 3, maxSubjects: 7, subjectNote: "English, Basic Maths and Civics plus your sciences and Geography",
+    mock: { perSubject: 15, minutes: 30, scoreStyle: "percent", maxSubjects: 4 }, weeklyMock: false, askState: false, askSchool: true,
+    plans: ["csee_season"], tagline: "CSEE (Form Four) practice: English, Basic Mathematics, Civics, sciences and Geography", timeZone: "Africa/Nairobi", timeLabel: "Tanzania (EAT)",
+    audience: "a Tanzanian Form Four student preparing for the NECTA Certificate of Secondary Education Examination",
+  },
+  UCE: {
+    code: "UCE", name: "Uganda UCE (Senior Four)", short: "UCE Uganda", emoji: "🇺🇬", kind: "school", region: "UG", currency: "USD",
+    subjectMode: "multi", subjects: ["ENG", "MTH", "BIO", "CHM", "PHY", "GEO", "UGC"], compulsory: ["ENG", "MTH"], minSubjects: 3, maxSubjects: 7, subjectNote: "English and Maths plus your sciences, Geography and Uganda studies",
+    mock: { perSubject: 15, minutes: 30, scoreStyle: "percent", maxSubjects: 4 }, weeklyMock: false, askState: false, askSchool: true,
+    plans: ["uce_season"], tagline: "UCE (Senior Four) practice: English, Maths, sciences, Geography and Uganda general knowledge", timeZone: "Africa/Nairobi", timeLabel: "Uganda (EAT)",
+    audience: "a Ugandan Senior Four student preparing for the UNEB Uganda Certificate of Education",
+  },
+  CMGCE: {
+    code: "CMGCE", name: "Cameroon GCE O Level", short: "GCE Cameroon", emoji: "🇨🇲", kind: "school", region: "CM", currency: "USD",
+    subjectMode: "multi", subjects: ["ENG", "MTH", "BIO", "CHM", "PHY", "GEO", "ECO", "CMC"], compulsory: ["ENG", "MTH"], minSubjects: 3, maxSubjects: 8, subjectNote: "English and Maths plus your sciences, Geography, Economics and Cameroon studies",
+    mock: { perSubject: 15, minutes: 30, scoreStyle: "percent", maxSubjects: 4 }, weeklyMock: false, askState: false, askSchool: true,
+    plans: ["gce_season"], tagline: "GCE O Level practice for English-speaking Cameroon: English, Maths, sciences and more", timeZone: "Africa/Lagos", timeLabel: "Cameroon (WAT)",
+    audience: "an English-speaking Cameroonian student preparing for the Cameroon GCE Ordinary Level",
   },
   ETH: {
     code: "ETH", name: "Ethiopia Grade 12 National Exam", short: "Grade 12 Ethiopia", emoji: "🇪🇹", kind: "school", region: "ET", currency: "ETB",

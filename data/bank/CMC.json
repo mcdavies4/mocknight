@@ -1,0 +1,198 @@
+[
+ {
+  "subject": "CMC",
+  "topic": "History",
+  "body": "French Cameroun became independent on",
+  "options": [
+   "1 January 1960",
+   "6 March 1957",
+   "20 May 1972",
+   "1 October 1961"
+  ],
+  "answer": 0,
+  "explanation": "British Southern Cameroons joined later.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CMC",
+  "topic": "History",
+  "body": "Southern Cameroons joined the Federal Republic of Cameroon on",
+  "options": [
+   "1 January 1960",
+   "1 October 1961",
+   "11 February 1961",
+   "20 May 1972"
+  ],
+  "answer": 1,
+  "explanation": "This followed the UN plebiscite of February 1961.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CMC",
+  "topic": "History",
+  "body": "Cameroon's National Day, 20 May, marks",
+  "options": [
+   "the end of German rule",
+   "independence from France",
+   "the 1961 plebiscite",
+   "the 1972 creation of a unitary state"
+  ],
+  "answer": 3,
+  "explanation": "The federation was replaced by a unitary republic.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CMC",
+  "topic": "History",
+  "body": "Who was Cameroon's first President?",
+  "options": [
+   "Ahmadou Ahidjo",
+   "Ruben Um Nyobé",
+   "John Ngu Foncha",
+   "Paul Biya"
+  ],
+  "answer": 0,
+  "explanation": "Paul Biya succeeded him in 1982.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CMC",
+  "topic": "History",
+  "body": "Before the First World War, Kamerun was a protectorate of",
+  "options": [
+   "Spain",
+   "Portugal",
+   "Belgium",
+   "Germany"
+  ],
+  "answer": 3,
+  "explanation": "Germany established it in 1884.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CMC",
+  "topic": "Government",
+  "body": "What is the capital of Cameroon?",
+  "options": [
+   "Bamenda",
+   "Douala",
+   "Buea",
+   "Yaoundé"
+  ],
+  "answer": 3,
+  "explanation": "Douala is the largest city and main port.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CMC",
+  "topic": "Government",
+  "body": "Cameroon's official languages are",
+  "options": [
+   "German and French",
+   "English and Fulfulde",
+   "French only",
+   "English and French"
+  ],
+  "answer": 3,
+  "explanation": "Cameroon is officially bilingual.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CMC",
+  "topic": "Government",
+  "body": "How many regions does Cameroon have?",
+  "options": [
+   "10",
+   "16",
+   "8",
+   "12"
+  ],
+  "answer": 0,
+  "explanation": "The North-West and South-West are English-speaking.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CMC",
+  "topic": "Government",
+  "body": "What is Cameroon's national motto?",
+  "options": [
+   "Freedom and Justice",
+   "Peace – Work – Fatherland",
+   "Unity and Faith",
+   "For God and My Country"
+  ],
+  "answer": 1,
+  "explanation": "In French: Paix – Travail – Patrie.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CMC",
+  "topic": "Government",
+  "body": "Which body organises the GCE examinations in Cameroon?",
+  "options": [
+   "UNEB",
+   "The Cameroon GCE Board",
+   "Office du Baccalauréat only",
+   "WAEC"
+  ],
+  "answer": 1,
+  "explanation": "Francophone students sit the BEPC and Baccalauréat.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CMC",
+  "topic": "Economy",
+  "body": "What currency does Cameroon use?",
+  "options": [
+   "The Central African CFA franc",
+   "The West African CFA franc",
+   "The naira",
+   "The cedi"
+  ],
+  "answer": 0,
+  "explanation": "It is shared by CEMAC member states.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CMC",
+  "topic": "Geography",
+  "body": "What is the highest mountain in West and Central Africa?",
+  "options": [
+   "Mount Kilimanjaro",
+   "Mount Oku",
+   "Chappal Waddi",
+   "Mount Cameroon"
+  ],
+  "answer": 3,
+  "explanation": "It is an active volcano near Buea.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CMC",
+  "topic": "Geography",
+  "body": "The 1986 Lake Nyos disaster was caused by",
+  "options": [
+   "a dam failure",
+   "an earthquake",
+   "an oil spill",
+   "a sudden release of carbon dioxide"
+  ],
+  "answer": 3,
+  "explanation": "The gas suffocated people and animals in nearby villages.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CMC",
+  "topic": "Geography",
+  "body": "Cameroon is often called",
+  "options": [
+   "'the Pearl of Africa'",
+   "'the Land of a Thousand Hills'",
+   "'the Giant of Africa'",
+   "'Africa in miniature'"
+  ],
+  "answer": 3,
+  "explanation": "It has nearly every African climate and landscape.",
+  "difficulty": 1
+ }
+]

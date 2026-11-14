@@ -1,0 +1,212 @@
+[
+ {
+  "subject": "UGC",
+  "topic": "History",
+  "body": "When did Uganda gain independence?",
+  "options": [
+   "9 October 1962",
+   "12 December 1963",
+   "9 December 1961",
+   "1 July 1960"
+  ],
+  "answer": 0,
+  "explanation": "Independence Day is 9 October.",
+  "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "History",
+  "body": "Who was Uganda's first Prime Minister?",
+  "options": [
+   "Milton Obote",
+   "Kabaka Mutesa II",
+   "Idi Amin",
+   "Yoweri Museveni"
+  ],
+  "answer": 0,
+  "explanation": "Kabaka Mutesa II became the ceremonial President in 1963.",
+  "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "History",
+  "body": "Idi Amin seized power in a military coup in",
+  "options": [
+   "1971",
+   "1979",
+   "1986",
+   "1962"
+  ],
+  "answer": 0,
+  "explanation": "His rule ended in 1979.",
+  "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "History",
+  "body": "The NRM under Yoweri Museveni came to power in",
+  "options": [
+   "1971",
+   "1996",
+   "1986",
+   "1980"
+  ],
+  "answer": 2,
+  "explanation": "Museveni has been President since then.",
+  "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "Government",
+  "body": "Uganda's current constitution was adopted in",
+  "options": [
+   "2005",
+   "1962",
+   "1995",
+   "1967"
+  ],
+  "answer": 2,
+  "explanation": "It has since been amended.",
+  "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "Government",
+  "body": "What is Uganda's national motto?",
+  "options": [
+   "Unity and Faith",
+   "Peace, Work, Fatherland",
+   "For God and My Country",
+   "Freedom and Unity"
+  ],
+  "answer": 2,
+  "explanation": "It appears on the coat of arms.",
+  "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "Government",
+  "body": "Which body runs national examinations in Uganda?",
+  "options": [
+   "NECTA",
+   "KNEC",
+   "UNEB",
+   "WAEC"
+  ],
+  "answer": 2,
+  "explanation": "The Uganda National Examinations Board.",
+  "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "Government",
+  "body": "What is the capital of Uganda?",
+  "options": [
+   "Jinja",
+   "Kampala",
+   "Entebbe",
+   "Gulu"
+  ],
+  "answer": 1,
+  "explanation": "Entebbe has the main international airport.",
+  "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "Government",
+  "body": "Uganda's official languages are",
+  "options": [
+   "English and Luganda",
+   "French and English",
+   "English and Kiswahili",
+   "Luganda only"
+  ],
+  "answer": 2,
+  "explanation": "Kiswahili was added as an official language in 2005.",
+  "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "Geography",
+  "body": "The source of the River Nile is near which Ugandan town?",
+  "options": [
+   "Jinja",
+   "Kampala",
+   "Fort Portal",
+   "Mbarara"
+  ],
+  "answer": 0,
+  "explanation": "The Nile flows out of Lake Victoria there.",
+  "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "Geography",
+  "body": "Uganda's highest point, Margherita Peak, is in the",
+  "options": [
+   "Mount Elgon range",
+   "Virunga volcanoes",
+   "Imatong Mountains",
+   "Rwenzori Mountains"
+  ],
+  "answer": 3,
+  "explanation": "It is about 5,109 m high.",
+  "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "Geography",
+  "body": "Which line of latitude passes through Uganda?",
+  "options": [
+   "The Tropic of Cancer",
+   "The Tropic of Capricorn",
+   "The Arctic Circle",
+   "The Equator"
+  ],
+  "answer": 3,
+  "explanation": "Monuments mark it near Kayabwe.",
+  "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "Geography",
+  "body": "Murchison Falls is on which river?",
+  "options": [
+   "The Victoria Nile",
+   "The Niger",
+   "The Congo",
+   "The Zambezi"
+  ],
+  "answer": 0,
+  "explanation": "The river squeezes through a narrow gorge.",
+  "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "Culture",
+  "body": "Uganda's national bird, shown on the flag, is the",
+  "options": [
+   "African fish eagle",
+   "grey crowned crane",
+   "ostrich",
+   "hornbill"
+  ],
+  "answer": 1,
+  "explanation": "It stands for gentleness and progress.",
+  "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "Culture",
+  "body": "The traditional king of Buganda is called the",
+  "options": [
+   "Asantehene",
+   "Oba",
+   "Omukama",
+   "Kabaka"
+  ],
+  "answer": 3,
+  "explanation": "Buganda's parliament is the Lukiiko.",
+  "difficulty": 1
+ }
+]

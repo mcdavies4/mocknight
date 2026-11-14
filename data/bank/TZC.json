@@ -1,0 +1,226 @@
+[
+ {
+  "subject": "TZC",
+  "topic": "History",
+  "body": "When did Tanganyika gain independence?",
+  "options": [
+   "12 January 1964",
+   "26 April 1964",
+   "9 December 1961",
+   "1 July 1960"
+  ],
+  "answer": 2,
+  "explanation": "Independence Day is 9 December.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "History",
+  "body": "Tanganyika and Zanzibar united to form Tanzania on",
+  "options": [
+   "5 February 1977",
+   "26 April 1964",
+   "7 July 1954",
+   "9 December 1961"
+  ],
+  "answer": 1,
+  "explanation": "Union Day is 26 April.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "History",
+  "body": "Who was Tanzania's first President?",
+  "options": [
+   "Benjamin Mkapa",
+   "Ali Hassan Mwinyi",
+   "Julius Nyerere",
+   "Abeid Karume"
+  ],
+  "answer": 2,
+  "explanation": "Nyerere is called 'Mwalimu' (teacher).",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "History",
+  "body": "The Arusha Declaration of 1967 set out the policy of",
+  "options": [
+   "multi-party democracy",
+   "Ujamaa (African socialism and self-reliance)",
+   "free-market reform",
+   "colonial rule"
+  ],
+  "answer": 1,
+  "explanation": "It was led by Julius Nyerere.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "History",
+  "body": "The Maji Maji rebellion (1905–1907) was against",
+  "options": [
+   "British colonial rule",
+   "Arab traders",
+   "German colonial rule",
+   "the Portuguese"
+  ],
+  "answer": 2,
+  "explanation": "Tanganyika was part of German East Africa.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "History",
+  "body": "Who became Tanzania's first female President in 2021?",
+  "options": [
+   "Samia Suluhu Hassan",
+   "Gertrude Mongella",
+   "Asha-Rose Migiro",
+   "Anne Makinda"
+  ],
+  "answer": 0,
+  "explanation": "She succeeded John Magufuli.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "Government",
+  "body": "Which party was formed in 1977 by merging TANU and the Afro-Shirazi Party?",
+  "options": [
+   "ACT-Wazalendo",
+   "CUF",
+   "CHADEMA",
+   "Chama Cha Mapinduzi (CCM)"
+  ],
+  "answer": 3,
+  "explanation": "CCM has governed since its formation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "Government",
+  "body": "Tanzania's parliament is called the",
+  "options": [
+   "Majlis",
+   "Senate",
+   "Bunge",
+   "Lukiiko"
+  ],
+  "answer": 2,
+  "explanation": "It sits in Dodoma.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "Government",
+  "body": "What is Tanzania's official capital?",
+  "options": [
+   "Dodoma",
+   "Zanzibar City",
+   "Arusha",
+   "Dar es Salaam"
+  ],
+  "answer": 0,
+  "explanation": "Dar es Salaam is the largest city and main port.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "Government",
+  "body": "What is Tanzania's national motto?",
+  "options": [
+   "Uhuru na Umoja (Freedom and Unity)",
+   "Unity and Faith",
+   "Peace, Work, Fatherland",
+   "For God and My Country"
+  ],
+  "answer": 0,
+  "explanation": "It appears on the coat of arms.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "Government",
+  "body": "Which body runs national examinations in Tanzania?",
+  "options": [
+   "WAEC",
+   "KNEC",
+   "NECTA",
+   "UNEB"
+  ],
+  "answer": 2,
+  "explanation": "The National Examinations Council of Tanzania.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "Geography",
+  "body": "What is the highest mountain in Africa?",
+  "options": [
+   "Mount Kilimanjaro",
+   "Mount Meru",
+   "Mount Elgon",
+   "Mount Kenya"
+  ],
+  "answer": 0,
+  "explanation": "Its summit, Uhuru Peak, is about 5,895 m.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "Geography",
+  "body": "Which is the deepest lake in Africa?",
+  "options": [
+   "Lake Victoria",
+   "Lake Nyasa",
+   "Lake Rukwa",
+   "Lake Tanganyika"
+  ],
+  "answer": 3,
+  "explanation": "It is shared by four countries.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "Geography",
+  "body": "Which national park is famous for the great wildebeest migration?",
+  "options": [
+   "Selous only",
+   "Mikumi",
+   "Serengeti",
+   "Ruaha"
+  ],
+  "answer": 2,
+  "explanation": "It continues into Kenya's Maasai Mara.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "Region",
+  "body": "Where is the headquarters of the East African Community (EAC)?",
+  "options": [
+   "Arusha",
+   "Kampala",
+   "Kigali",
+   "Nairobi"
+  ],
+  "answer": 0,
+  "explanation": "The EAC promotes regional integration.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "Culture",
+  "body": "What is Tanzania's national language?",
+  "options": [
+   "Kiswahili",
+   "English only",
+   "Sukuma",
+   "Arabic"
+  ],
+  "answer": 0,
+  "explanation": "English is also used in government and secondary education.",
+  "difficulty": 1
+ }
+]

@@ -1,0 +1,688 @@
+[
+ {
+  "subject": "EXC",
+  "topic": "Data structures",
+  "body": "Which data structure works on a Last-In, First-Out (LIFO) basis?",
+  "options": [
+   "Queue",
+   "Linked list",
+   "Hash table",
+   "Stack"
+  ],
+  "answer": 3,
+  "explanation": "A queue is First-In, First-Out (FIFO).",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Data structures",
+  "body": "Which data structure works on a First-In, First-Out (FIFO) basis?",
+  "options": [
+   "Stack",
+   "Queue",
+   "Binary tree",
+   "Heap"
+  ],
+  "answer": 1,
+  "explanation": "Printers and task schedulers use queues.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Data structures",
+  "body": "Breadth-first search (BFS) uses which data structure?",
+  "options": [
+   "Stack",
+   "Queue",
+   "Hash table",
+   "Heap"
+  ],
+  "answer": 1,
+  "explanation": "Depth-first search uses a stack (or recursion).",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Algorithms",
+  "body": "What is the time complexity of binary search on a sorted array?",
+  "options": [
+   "O(n²)",
+   "O(1)",
+   "O(log n)",
+   "O(n)"
+  ],
+  "answer": 2,
+  "explanation": "It halves the search space each step.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Algorithms",
+  "body": "What is the worst-case time complexity of bubble sort?",
+  "options": [
+   "O(n log n)",
+   "O(n)",
+   "O(n²)",
+   "O(log n)"
+  ],
+  "answer": 2,
+  "explanation": "Merge sort is O(n log n) in all cases.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Algorithms",
+  "body": "Which sorting algorithm uses divide and conquer and is O(n log n) in the worst case?",
+  "options": [
+   "Selection sort",
+   "Insertion sort",
+   "Bubble sort",
+   "Merge sort"
+  ],
+  "answer": 3,
+  "explanation": "Quick sort is O(n²) in its worst case.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Algorithms",
+  "body": "Binary search requires the data to be",
+  "options": [
+   "stored as text",
+   "unsorted",
+   "sorted",
+   "in a linked list"
+  ],
+  "answer": 2,
+  "explanation": "It compares with the middle element each step.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Databases",
+  "body": "A primary key must be",
+  "options": [
+   "optional",
+   "repeated in every row",
+   "unique and not null",
+   "a text field"
+  ],
+  "answer": 2,
+  "explanation": "It identifies each row in a table.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Databases",
+  "body": "A foreign key is used to",
+  "options": [
+   "sort records",
+   "store images",
+   "link a table to the primary key of another table",
+   "encrypt the database"
+  ],
+  "answer": 2,
+  "explanation": "It enforces referential integrity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Databases",
+  "body": "First normal form (1NF) requires that",
+  "options": [
+   "each field holds a single atomic value",
+   "there are no primary keys",
+   "every table has one column",
+   "data is stored in files"
+  ],
+  "answer": 0,
+  "explanation": "Repeating groups must be removed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Databases",
+  "body": "In SQL, which clause filters rows?",
+  "options": [
+   "SELECT",
+   "GROUP BY",
+   "WHERE",
+   "ORDER BY"
+  ],
+  "answer": 2,
+  "explanation": "HAVING filters groups after GROUP BY.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Databases",
+  "body": "The 'A' in ACID transactions stands for",
+  "options": [
+   "Availability",
+   "Authentication",
+   "Accuracy",
+   "Atomicity"
+  ],
+  "answer": 3,
+  "explanation": "ACID: Atomicity, Consistency, Isolation, Durability.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Networks",
+  "body": "How many layers are in the OSI model?",
+  "options": [
+   "9",
+   "7",
+   "5",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "Physical, Data link, Network, Transport, Session, Presentation, Application.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Networks",
+  "body": "Which OSI layer is responsible for routing between networks?",
+  "options": [
+   "Transport layer",
+   "Application layer",
+   "Data link layer",
+   "Network layer"
+  ],
+  "answer": 3,
+  "explanation": "IP works at the network layer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Networks",
+  "body": "Which protocol is connection-oriented and guarantees delivery?",
+  "options": [
+   "IP",
+   "UDP",
+   "TCP",
+   "ICMP"
+  ],
+  "answer": 2,
+  "explanation": "UDP is connectionless and faster but unreliable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Networks",
+  "body": "How many bits are in an IPv4 address?",
+  "options": [
+   "32",
+   "64",
+   "16",
+   "128"
+  ],
+  "answer": 0,
+  "explanation": "IPv6 addresses are 128 bits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Networks",
+  "body": "Which service translates domain names into IP addresses?",
+  "options": [
+   "DNS",
+   "SMTP",
+   "FTP",
+   "DHCP"
+  ],
+  "answer": 0,
+  "explanation": "DHCP assigns IP addresses automatically.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Networks",
+  "body": "HTTPS normally uses which port?",
+  "options": [
+   "21",
+   "443",
+   "80",
+   "25"
+  ],
+  "answer": 1,
+  "explanation": "HTTP uses port 80.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Operating systems",
+  "body": "Which is NOT one of the four necessary conditions for deadlock?",
+  "options": [
+   "Hold and wait",
+   "Circular wait",
+   "Pre-emption",
+   "Mutual exclusion"
+  ],
+  "answer": 2,
+  "explanation": "The fourth condition is no pre-emption.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Operating systems",
+  "body": "Round-robin scheduling gives each process",
+  "options": [
+   "no CPU time",
+   "a fixed time slice in turn",
+   "unlimited CPU time",
+   "priority by size only"
+  ],
+  "answer": 1,
+  "explanation": "It is common in time-sharing systems.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Operating systems",
+  "body": "Paging divides memory into",
+  "options": [
+   "fixed-size blocks",
+   "variable-size segments only",
+   "files",
+   "processes"
+  ],
+  "answer": 0,
+  "explanation": "Pages map to frames in physical memory.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Operating systems",
+  "body": "A thread is",
+  "options": [
+   "a whole program on disk",
+   "a type of memory",
+   "the smallest unit of execution within a process",
+   "a network cable"
+  ],
+  "answer": 2,
+  "explanation": "Threads in a process share its memory.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Programming",
+  "body": "Which is NOT one of the four main principles of OOP?",
+  "options": [
+   "Inheritance",
+   "Compilation",
+   "Encapsulation",
+   "Polymorphism"
+  ],
+  "answer": 1,
+  "explanation": "The fourth is abstraction.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Programming",
+  "body": "Encapsulation means",
+  "options": [
+   "writing code in one file",
+   "bundling data with the methods that use it and hiding internal details",
+   "inheriting from many classes",
+   "compiling quickly"
+  ],
+  "answer": 1,
+  "explanation": "Access modifiers support encapsulation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Software engineering",
+  "body": "Which SDLC model completes each phase fully before the next begins?",
+  "options": [
+   "Scrum",
+   "Agile",
+   "Waterfall",
+   "Spiral"
+  ],
+  "answer": 2,
+  "explanation": "Agile delivers in short iterations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Software engineering",
+  "body": "A UML use case diagram shows",
+  "options": [
+   "database indexes",
+   "network cables",
+   "memory layout",
+   "actors and the functions they use in a system"
+  ],
+  "answer": 3,
+  "explanation": "Sequence diagrams show interactions over time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Compilers",
+  "body": "The first phase of a compiler, which breaks source code into tokens, is",
+  "options": [
+   "linking",
+   "lexical analysis",
+   "code generation",
+   "optimisation"
+  ],
+  "answer": 1,
+  "explanation": "Syntax analysis (parsing) comes next.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Theory",
+  "body": "Which logic gate is 'universal' (can build any other gate)?",
+  "options": [
+   "XOR",
+   "AND",
+   "NAND",
+   "OR"
+  ],
+  "answer": 2,
+  "explanation": "NOR is also universal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Theory",
+  "body": "A deterministic finite automaton (DFA) recognises",
+  "options": [
+   "all context-free languages",
+   "every possible language",
+   "regular languages",
+   "only numbers"
+  ],
+  "answer": 2,
+  "explanation": "Pushdown automata recognise context-free languages.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Security",
+  "body": "AES is an example of",
+  "options": [
+   "hashing",
+   "asymmetric encryption",
+   "compression",
+   "symmetric encryption"
+  ],
+  "answer": 3,
+  "explanation": "RSA is asymmetric (public/private keys).",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Security",
+  "body": "A hash function used for passwords should be",
+  "options": [
+   "the same as encryption",
+   "fast and unsalted",
+   "reversible",
+   "one-way and slow (e.g. bcrypt)"
+  ],
+  "answer": 3,
+  "explanation": "Salting prevents rainbow-table attacks.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Number systems",
+  "body": "Convert 115 (decimal) to hexadecimal.",
+  "options": [
+   "15",
+   "83",
+   "72",
+   "73"
+  ],
+  "answer": 3,
+  "explanation": "115 = 73 in base 16.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Number systems",
+  "body": "Convert 162 (decimal) to hexadecimal.",
+  "options": [
+   "A1",
+   "62",
+   "B2",
+   "A2"
+  ],
+  "answer": 3,
+  "explanation": "162 = A2 in base 16.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Number systems",
+  "body": "Convert 196 (decimal) to hexadecimal.",
+  "options": [
+   "D4",
+   "C3",
+   "96",
+   "C4"
+  ],
+  "answer": 3,
+  "explanation": "196 = C4 in base 16.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Number systems",
+  "body": "Convert 86 (decimal) to binary.",
+  "options": [
+   "1010100",
+   "1010111",
+   "1010110",
+   "1010010"
+  ],
+  "answer": 2,
+  "explanation": "86 = 1010110 in base 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Number systems",
+  "body": "Convert 210 (decimal) to hexadecimal.",
+  "options": [
+   "D2",
+   "10",
+   "D1",
+   "E2"
+  ],
+  "answer": 0,
+  "explanation": "210 = D2 in base 16.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Number systems",
+  "body": "Convert 103 (decimal) to binary.",
+  "options": [
+   "1100111",
+   "1100101",
+   "1100011",
+   "1101000"
+  ],
+  "answer": 0,
+  "explanation": "103 = 1100111 in base 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Number systems",
+  "body": "Convert 215 (decimal) to binary.",
+  "options": [
+   "11010101",
+   "11011000",
+   "11010011",
+   "11010111"
+  ],
+  "answer": 3,
+  "explanation": "215 = 11010111 in base 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Number systems",
+  "body": "Convert 79 (decimal) to hexadecimal.",
+  "options": [
+   "4E",
+   "5F",
+   "4F",
+   "79"
+  ],
+  "answer": 2,
+  "explanation": "79 = 4F in base 16.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Number systems",
+  "body": "Convert 102 (decimal) to hexadecimal.",
+  "options": [
+   "65",
+   "66",
+   "76",
+   "2"
+  ],
+  "answer": 1,
+  "explanation": "102 = 66 in base 16.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Number systems",
+  "body": "Convert 96 (decimal) to hexadecimal.",
+  "options": [
+   "60",
+   "5F",
+   "96",
+   "70"
+  ],
+  "answer": 0,
+  "explanation": "96 = 60 in base 16.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXC",
+  "topic": "Number systems",
+  "body": "What is −90 in 8-bit two's complement?",
+  "options": [
+   "10100110",
+   "10100101",
+   "11011010",
+   "01011010"
+  ],
+  "answer": 0,
+  "explanation": "Invert 01011010 → 10100101, then add 1 → 10100110.",
+  "difficulty": 3
+ },
+ {
+  "subject": "EXC",
+  "topic": "Number systems",
+  "body": "What is −21 in 8-bit two's complement?",
+  "options": [
+   "11101011",
+   "00010101",
+   "11101010",
+   "10010101"
+  ],
+  "answer": 0,
+  "explanation": "Invert 00010101 → 11101010, then add 1 → 11101011.",
+  "difficulty": 3
+ },
+ {
+  "subject": "EXC",
+  "topic": "Number systems",
+  "body": "What is −29 in 8-bit two's complement?",
+  "options": [
+   "10011101",
+   "00011101",
+   "11100011",
+   "11100010"
+  ],
+  "answer": 2,
+  "explanation": "Invert 00011101 → 11100010, then add 1 → 11100011.",
+  "difficulty": 3
+ },
+ {
+  "subject": "EXC",
+  "topic": "Number systems",
+  "body": "What is −49 in 8-bit two's complement?",
+  "options": [
+   "00110001",
+   "11001110",
+   "10110001",
+   "11001111"
+  ],
+  "answer": 3,
+  "explanation": "Invert 00110001 → 11001110, then add 1 → 11001111.",
+  "difficulty": 3
+ },
+ {
+  "subject": "EXC",
+  "topic": "Number systems",
+  "body": "What is −28 in 8-bit two's complement?",
+  "options": [
+   "00011100",
+   "10011100",
+   "11100011",
+   "11100100"
+  ],
+  "answer": 3,
+  "explanation": "Invert 00011100 → 11100011, then add 1 → 11100100.",
+  "difficulty": 3
+ },
+ {
+  "subject": "EXC",
+  "topic": "Number systems",
+  "body": "What is −12 in 8-bit two's complement?",
+  "options": [
+   "10001100",
+   "11110011",
+   "00001100",
+   "11110100"
+  ],
+  "answer": 3,
+  "explanation": "Invert 00001100 → 11110011, then add 1 → 11110100.",
+  "difficulty": 3
+ },
+ {
+  "subject": "EXC",
+  "topic": "Number systems",
+  "body": "What is −69 in 8-bit two's complement?",
+  "options": [
+   "10111010",
+   "10111011",
+   "01000101",
+   "11000101"
+  ],
+  "answer": 1,
+  "explanation": "Invert 01000101 → 10111010, then add 1 → 10111011.",
+  "difficulty": 3
+ },
+ {
+  "subject": "EXC",
+  "topic": "Number systems",
+  "body": "What is −62 in 8-bit two's complement?",
+  "options": [
+   "11000001",
+   "10111110",
+   "00111110",
+   "11000010"
+  ],
+  "answer": 3,
+  "explanation": "Invert 00111110 → 11000001, then add 1 → 11000010.",
+  "difficulty": 3
+ }
+]

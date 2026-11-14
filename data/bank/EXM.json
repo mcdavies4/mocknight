@@ -1,0 +1,506 @@
+[
+ {
+  "subject": "EXM",
+  "topic": "Principles",
+  "body": "Which are the four basic functions of management?",
+  "options": [
+   "Buying, selling, storing and moving",
+   "Hiring, firing, paying and promoting",
+   "Planning, organising, leading and controlling",
+   "Saving, spending, lending and investing"
+  ],
+  "answer": 2,
+  "explanation": "Fayol originally listed five, including commanding and coordinating.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Principles",
+  "body": "Who is known as the father of scientific management?",
+  "options": [
+   "Frederick Taylor",
+   "Henri Fayol",
+   "Peter Drucker",
+   "Max Weber"
+  ],
+  "answer": 0,
+  "explanation": "Taylor used time and motion studies.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Principles",
+  "body": "Max Weber is associated with",
+  "options": [
+   "the Hawthorne studies",
+   "Theory Y",
+   "bureaucratic management",
+   "scientific management"
+  ],
+  "answer": 2,
+  "explanation": "Bureaucracy stresses rules, hierarchy and impersonality.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Principles",
+  "body": "Management by Objectives (MBO) was popularised by",
+  "options": [
+   "Abraham Maslow",
+   "Frederick Taylor",
+   "Peter Drucker",
+   "Michael Porter"
+  ],
+  "answer": 2,
+  "explanation": "Managers and employees agree objectives together.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Principles",
+  "body": "The Hawthorne studies highlighted the importance of",
+  "options": [
+   "machine speed",
+   "social and human factors at work",
+   "accounting rules",
+   "office location"
+  ],
+  "answer": 1,
+  "explanation": "They led to the human relations movement.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Organising",
+  "body": "Span of control refers to",
+  "options": [
+   "the company's market share",
+   "the budget limit",
+   "the length of the working day",
+   "the number of subordinates a manager directly supervises"
+  ],
+  "answer": 3,
+  "explanation": "Wide spans give flatter organisations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Organising",
+  "body": "Line authority is",
+  "options": [
+   "authority over customers",
+   "a type of loan",
+   "direct authority over subordinates in the chain of command",
+   "advisory authority only"
+  ],
+  "answer": 2,
+  "explanation": "Staff authority advises line managers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Motivation",
+  "body": "In Maslow's hierarchy, which need is at the top?",
+  "options": [
+   "Esteem",
+   "Self-actualisation",
+   "Safety",
+   "Physiological"
+  ],
+  "answer": 1,
+  "explanation": "Lower needs are usually met first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Motivation",
+  "body": "In Herzberg's two-factor theory, salary is a",
+  "options": [
+   "motivator",
+   "self-actualisation need",
+   "leadership style",
+   "hygiene factor"
+  ],
+  "answer": 3,
+  "explanation": "Motivators include achievement, recognition and the work itself.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Motivation",
+  "body": "McGregor's Theory Y assumes that employees",
+  "options": [
+   "only work for money",
+   "can be self-motivated and seek responsibility",
+   "dislike work and must be controlled",
+   "cannot be trusted"
+  ],
+  "answer": 1,
+  "explanation": "Theory X assumes the opposite.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Strategy",
+  "body": "SWOT analysis examines",
+  "options": [
+   "strengths, weaknesses, opportunities and threats",
+   "sales, wages, output and taxes",
+   "suppliers, workers, owners and traders",
+   "speed, weight, operations and time"
+  ],
+  "answer": 0,
+  "explanation": "Strengths and weaknesses are internal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Strategy",
+  "body": "Which is one of Porter's five forces?",
+  "options": [
+   "Threat of new entrants",
+   "Inflation rate",
+   "Company age",
+   "Number of employees"
+  ],
+  "answer": 0,
+  "explanation": "Others: buyer power, supplier power, substitutes and rivalry.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Strategy",
+  "body": "In the BCG matrix, a product with high market share in a low-growth market is a",
+  "options": [
+   "question mark",
+   "dog",
+   "cash cow",
+   "star"
+  ],
+  "answer": 2,
+  "explanation": "Stars have high share in high-growth markets.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Strategy",
+  "body": "PESTEL analysis looks at",
+  "options": [
+   "product packaging",
+   "the external macro-environment",
+   "the company's bank balance",
+   "internal staff morale only"
+  ],
+  "answer": 1,
+  "explanation": "Political, economic, social, technological, environmental and legal factors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Marketing",
+  "body": "The 4Ps of the marketing mix are",
+  "options": [
+   "price, packaging, payment and post",
+   "people, profit, planet and purpose",
+   "product, price, place and promotion",
+   "plan, prepare, perform and profit"
+  ],
+  "answer": 2,
+  "explanation": "Services add people, process and physical evidence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Leadership",
+  "body": "A leader who makes decisions alone without consulting staff uses which style?",
+  "options": [
+   "Laissez-faire",
+   "Autocratic",
+   "Democratic",
+   "Transformational"
+  ],
+  "answer": 1,
+  "explanation": "Democratic leaders involve the team.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Operations",
+  "body": "The critical path in a project network is",
+  "options": [
+   "the cheapest path",
+   "the shortest path",
+   "any path with no tasks",
+   "the longest path, which sets the shortest possible project duration"
+  ],
+  "answer": 3,
+  "explanation": "Activities on it have zero float.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Operations",
+  "body": "A Gantt chart shows",
+  "options": [
+   "tasks plotted against time",
+   "profit against sales",
+   "a cash flow statement",
+   "an organisation's hierarchy"
+  ],
+  "answer": 0,
+  "explanation": "Developed by Henry Gantt.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "HRM",
+  "body": "Job analysis produces",
+  "options": [
+   "the company budget",
+   "an income statement",
+   "a marketing plan",
+   "a job description and a person specification"
+  ],
+  "answer": 3,
+  "explanation": "It is the basis for recruitment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "HRM",
+  "body": "Training given while doing the job is called",
+  "options": [
+   "off-the-job training",
+   "on-the-job training",
+   "induction only",
+   "appraisal"
+  ],
+  "answer": 1,
+  "explanation": "Examples include coaching and job rotation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Calculations",
+  "body": "Annual demand is 2,400 units, ordering cost is 150 per order and holding cost is 3 per unit per year. What is the EOQ? (√(2DS ÷ H))",
+  "options": [
+   "490 units",
+   "346 units",
+   "2400 units",
+   "1470 units"
+  ],
+  "answer": 0,
+  "explanation": "√(2 × 2400 × 150 ÷ 3) ≈ 490 units.",
+  "difficulty": 3
+ },
+ {
+  "subject": "EXM",
+  "topic": "Calculations",
+  "body": "Annual demand is 3,600 units, ordering cost is 80 per order and holding cost is 2 per unit per year. What is the EOQ? (√(2DS ÷ H))",
+  "options": [
+   "1073 units",
+   "379 units",
+   "2880 units",
+   "537 units"
+  ],
+  "answer": 3,
+  "explanation": "√(2 × 3600 × 80 ÷ 2) ≈ 537 units.",
+  "difficulty": 3
+ },
+ {
+  "subject": "EXM",
+  "topic": "Calculations",
+  "body": "Annual demand is 6,000 units, ordering cost is 80 per order and holding cost is 6 per unit per year. What is the EOQ? (√(2DS ÷ H))",
+  "options": [
+   "2400 units",
+   "1600 units",
+   "283 units",
+   "400 units"
+  ],
+  "answer": 3,
+  "explanation": "√(2 × 6000 × 80 ÷ 6) ≈ 400 units.",
+  "difficulty": 3
+ },
+ {
+  "subject": "EXM",
+  "topic": "Calculations",
+  "body": "Annual demand is 4,800 units, ordering cost is 80 per order and holding cost is 3 per unit per year. What is the EOQ? (√(2DS ÷ H))",
+  "options": [
+   "358 units",
+   "506 units",
+   "2560 units",
+   "1518 units"
+  ],
+  "answer": 1,
+  "explanation": "√(2 × 4800 × 80 ÷ 3) ≈ 506 units.",
+  "difficulty": 3
+ },
+ {
+  "subject": "EXM",
+  "topic": "Calculations",
+  "body": "Annual demand is 1,200 units, ordering cost is 150 per order and holding cost is 4 per unit per year. What is the EOQ? (√(2DS ÷ H))",
+  "options": [
+   "1200 units",
+   "900 units",
+   "212 units",
+   "300 units"
+  ],
+  "answer": 3,
+  "explanation": "√(2 × 1200 × 150 ÷ 4) ≈ 300 units.",
+  "difficulty": 3
+ },
+ {
+  "subject": "EXM",
+  "topic": "Calculations",
+  "body": "Annual demand is 3,600 units, ordering cost is 150 per order and holding cost is 4 per unit per year. What is the EOQ? (√(2DS ÷ H))",
+  "options": [
+   "2700 units",
+   "2078 units",
+   "367 units",
+   "520 units"
+  ],
+  "answer": 3,
+  "explanation": "√(2 × 3600 × 150 ÷ 4) ≈ 520 units.",
+  "difficulty": 3
+ },
+ {
+  "subject": "EXM",
+  "topic": "Calculations",
+  "body": "Annual demand is 2,400 units, ordering cost is 100 per order and holding cost is 3 per unit per year. What is the EOQ? (√(2DS ÷ H))",
+  "options": [
+   "1600 units",
+   "283 units",
+   "1200 units",
+   "400 units"
+  ],
+  "answer": 3,
+  "explanation": "√(2 × 2400 × 100 ÷ 3) ≈ 400 units.",
+  "difficulty": 3
+ },
+ {
+  "subject": "EXM",
+  "topic": "Calculations",
+  "body": "Annual demand is 4,800 units, ordering cost is 80 per order and holding cost is 2 per unit per year. What is the EOQ? (√(2DS ÷ H))",
+  "options": [
+   "3840 units",
+   "438 units",
+   "1239 units",
+   "620 units"
+  ],
+  "answer": 3,
+  "explanation": "√(2 × 4800 × 80 ÷ 2) ≈ 620 units.",
+  "difficulty": 3
+ },
+ {
+  "subject": "EXM",
+  "topic": "Calculations",
+  "body": "Fixed costs are 60,000 birr, selling price is 100 birr and variable cost is 30 birr per unit. What is the break-even quantity?",
+  "options": [
+   "858 units",
+   "462 units",
+   "2000 units",
+   "600 units"
+  ],
+  "answer": 0,
+  "explanation": "60000 ÷ (100 − 30) = 858 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Calculations",
+  "body": "Fixed costs are 20,000 birr, selling price is 100 birr and variable cost is 30 birr per unit. What is the break-even quantity?",
+  "options": [
+   "200 units",
+   "667 units",
+   "286 units",
+   "154 units"
+  ],
+  "answer": 2,
+  "explanation": "20000 ÷ (100 − 30) = 286 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Calculations",
+  "body": "Fixed costs are 20,000 birr, selling price is 80 birr and variable cost is 40 birr per unit. What is the break-even quantity?",
+  "options": [
+   "250 units",
+   "500 units",
+   "167 units",
+   "550 units"
+  ],
+  "answer": 1,
+  "explanation": "20000 ÷ (80 − 40) = 500 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Calculations",
+  "body": "Fixed costs are 30,000 birr, selling price is 100 birr and variable cost is 40 birr per unit. What is the break-even quantity?",
+  "options": [
+   "750 units",
+   "215 units",
+   "300 units",
+   "500 units"
+  ],
+  "answer": 3,
+  "explanation": "30000 ÷ (100 − 40) = 500 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Calculations",
+  "body": "Fixed costs are 30,000 birr, selling price is 60 birr and variable cost is 30 birr per unit. What is the break-even quantity?",
+  "options": [
+   "334 units",
+   "1000 units",
+   "500 units",
+   "1100 units"
+  ],
+  "answer": 1,
+  "explanation": "30000 ÷ (60 − 30) = 1000 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Calculations",
+  "body": "Fixed costs are 20,000 birr, selling price is 60 birr and variable cost is 20 birr per unit. What is the break-even quantity?",
+  "options": [
+   "500 units",
+   "1000 units",
+   "334 units",
+   "250 units"
+  ],
+  "answer": 0,
+  "explanation": "20000 ÷ (60 − 20) = 500 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Calculations",
+  "body": "Fixed costs are 30,000 birr, selling price is 80 birr and variable cost is 30 birr per unit. What is the break-even quantity?",
+  "options": [
+   "273 units",
+   "375 units",
+   "600 units",
+   "1000 units"
+  ],
+  "answer": 2,
+  "explanation": "30000 ÷ (80 − 30) = 600 units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Calculations",
+  "body": "Fixed costs are 30,000 birr, selling price is 60 birr and variable cost is 20 birr per unit. What is the break-even quantity?",
+  "options": [
+   "750 units",
+   "1500 units",
+   "500 units",
+   "375 units"
+  ],
+  "answer": 0,
+  "explanation": "30000 ÷ (60 − 20) = 750 units.",
+  "difficulty": 2
+ }
+]
