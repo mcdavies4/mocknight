@@ -1,0 +1,800 @@
+[
+ {
+  "subject": "AIQ",
+  "topic": "Prompting",
+  "body": "Which prompt is most likely to get a useful, specific answer?",
+  "options": [
+   "'Summarise.'",
+   "'Make this better.'",
+   "'Tell me about reports.'",
+   "'Summarise this 3-page report in five bullet points for a busy manager, highlighting risks.'"
+  ],
+  "answer": 3,
+  "explanation": "Clear task, format, audience and focus.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Prompting",
+  "body": "Asking an AI to 'act as an experienced HR adviser' is an example of",
+  "options": [
+   "giving the model a role",
+   "tokenisation",
+   "RAG",
+   "fine-tuning"
+  ],
+  "answer": 0,
+  "explanation": "Roles help set tone and perspective.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Prompting",
+  "body": "If an AI answer is too long, the best next step is to",
+  "options": [
+   "ask again with a word or format limit",
+   "copy it unchanged",
+   "change the topic",
+   "give up on AI"
+  ],
+  "answer": 0,
+  "explanation": "Iterate on the prompt with clear constraints.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Prompting",
+  "body": "Breaking a complex task into smaller steps for the AI usually",
+  "options": [
+   "improves accuracy and control",
+   "removes the need to check output",
+   "confuses the model",
+   "is never allowed"
+  ],
+  "answer": 0,
+  "explanation": "Step-by-step tasks are easier to verify.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Verification",
+  "body": "An AI tool cites a statistic for a report. What should you do?",
+  "options": [
+   "Use it — AI is always right",
+   "Check it against the original, reliable source",
+   "Round it up",
+   "Remove the citation"
+  ],
+  "answer": 1,
+  "explanation": "AI can hallucinate facts and sources.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Verification",
+  "body": "Which output is MOST important to have a human check before use?",
+  "options": [
+   "A joke for a team chat",
+   "A list of brainstorm ideas",
+   "Legal or medical advice sent to a customer",
+   "A draft subject line"
+  ],
+  "answer": 2,
+  "explanation": "High-stakes outputs need expert review.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Responsible use",
+  "body": "Pasting a customer's personal data into a public AI chatbot without approval may breach",
+  "options": [
+   "nothing — it's always fine",
+   "health and safety law",
+   "data protection rules and company policy",
+   "copyright law only"
+  ],
+  "answer": 2,
+  "explanation": "Use approved tools and minimise personal data.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Responsible use",
+  "body": "AI bias most often comes from",
+  "options": [
+   "biased or unrepresentative training data",
+   "using short prompts",
+   "the colour of the interface",
+   "slow internet"
+  ],
+  "answer": 0,
+  "explanation": "Models learn patterns, including unfair ones, from data.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Responsible use",
+  "body": "Being open that content was created with AI help is an example of",
+  "options": [
+   "automation",
+   "transparency",
+   "tokenisation",
+   "obfuscation"
+  ],
+  "answer": 1,
+  "explanation": "Many organisations require disclosure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Responsible use",
+  "body": "The NIST AI Risk Management Framework's core functions are",
+  "options": [
+   "Identify, Protect, Detect, Respond",
+   "Govern, Map, Measure, Manage",
+   "Plan, Do, Check, Act",
+   "Collect, Clean, Model, Deploy"
+  ],
+  "answer": 1,
+  "explanation": "Govern is the cross-cutting function.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Automation",
+  "body": "In a workflow tool, 'when a new form is submitted' is the",
+  "options": [
+   "trigger",
+   "filter",
+   "action",
+   "output"
+  ],
+  "answer": 0,
+  "explanation": "Triggers start automations; actions are the steps that follow.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Automation",
+  "body": "Which task is usually the BEST first candidate for automation?",
+  "options": [
+   "A frequent, rule-based, repetitive task",
+   "A rare, sensitive judgement call",
+   "A task nobody understands",
+   "A one-off creative project"
+  ],
+  "answer": 0,
+  "explanation": "High volume + clear rules = good ROI.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Automation",
+  "body": "Why add a human approval step before an automated email goes to customers?",
+  "options": [
+   "Because automation can't send emails",
+   "To slow the process down deliberately",
+   "To avoid storing data",
+   "To catch errors before they reach customers"
+  ],
+  "answer": 3,
+  "explanation": "Human review limits the impact of mistakes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "Generative AI differs from traditional predictive AI because it",
+  "options": [
+   "cannot run on computers",
+   "only sorts data into categories",
+   "creates new content such as text or images",
+   "never uses data"
+  ],
+  "answer": 2,
+  "explanation": "Predictive models output labels or numbers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "A higher 'temperature' setting in a language model generally makes output",
+  "options": [
+   "identical every time",
+   "more factual",
+   "more varied and creative",
+   "shorter"
+  ],
+  "answer": 2,
+  "explanation": "Lower temperature gives more predictable output.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "What term describes systems that learn patterns from data instead of being explicitly programmed?",
+  "options": [
+   "A token",
+   "Machine learning",
+   "Unsupervised learning",
+   "Retrieval-augmented generation (RAG)"
+  ],
+  "answer": 1,
+  "explanation": "Machine learning: systems that learn patterns from data instead of being explicitly programmed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "What term describes training a model on labelled examples with known answers?",
+  "options": [
+   "A context window",
+   "Supervised learning",
+   "A hallucination",
+   "A large language model (LLM)"
+  ],
+  "answer": 1,
+  "explanation": "Supervised learning: training a model on labelled examples with known answers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "What term describes finding patterns or groups in unlabelled data?",
+  "options": [
+   "Fine-tuning",
+   "Few-shot prompting",
+   "Supervised learning",
+   "Unsupervised learning"
+  ],
+  "answer": 3,
+  "explanation": "Unsupervised learning: finding patterns or groups in unlabelled data.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "What term describes a model trained on huge amounts of text to predict and generate language?",
+  "options": [
+   "Unsupervised learning",
+   "Few-shot prompting",
+   "Fine-tuning",
+   "A large language model (LLM)"
+  ],
+  "answer": 3,
+  "explanation": "A large language model (LLM): a model trained on huge amounts of text to predict and generate language.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "What term describes a chunk of text (a word or part of a word) that a language model processes?",
+  "options": [
+   "Unsupervised learning",
+   "Fine-tuning",
+   "Human-in-the-loop",
+   "A token"
+  ],
+  "answer": 3,
+  "explanation": "A token: a chunk of text (a word or part of a word) that a language model processes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "What term describes a confident but false or made-up output from an AI model?",
+  "options": [
+   "A hallucination",
+   "A large language model (LLM)",
+   "A context window",
+   "Retrieval-augmented generation (RAG)"
+  ],
+  "answer": 0,
+  "explanation": "A hallucination: a confident but false or made-up output from an AI model.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "What term describes giving a model relevant documents at answer time so it can ground its response?",
+  "options": [
+   "Unsupervised learning",
+   "Fine-tuning",
+   "Retrieval-augmented generation (RAG)",
+   "Supervised learning"
+  ],
+  "answer": 2,
+  "explanation": "Retrieval-augmented generation (RAG): giving a model relevant documents at answer time so it can ground its response.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "What term describes including a few worked examples in the prompt to show the desired output?",
+  "options": [
+   "A large language model (LLM)",
+   "Few-shot prompting",
+   "A token",
+   "A hallucination"
+  ],
+  "answer": 1,
+  "explanation": "Few-shot prompting: including a few worked examples in the prompt to show the desired output.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "What term describes the maximum amount of text a model can consider at once?",
+  "options": [
+   "Human-in-the-loop",
+   "Unsupervised learning",
+   "A token",
+   "A context window"
+  ],
+  "answer": 3,
+  "explanation": "A context window: the maximum amount of text a model can consider at once.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "What term describes further training a pre-trained model on a specific dataset?",
+  "options": [
+   "Fine-tuning",
+   "Unsupervised learning",
+   "A token",
+   "Retrieval-augmented generation (RAG)"
+  ],
+  "answer": 0,
+  "explanation": "Fine-tuning: further training a pre-trained model on a specific dataset.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "What term describes a person reviewing or approving AI outputs before they take effect?",
+  "options": [
+   "Supervised learning",
+   "Machine learning",
+   "A token",
+   "Human-in-the-loop"
+  ],
+  "answer": 3,
+  "explanation": "Human-in-the-loop: a person reviewing or approving AI outputs before they take effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "What term describes a model's performance degrading as real-world data changes over time?",
+  "options": [
+   "A context window",
+   "A large language model (LLM)",
+   "Model drift",
+   "Retrieval-augmented generation (RAG)"
+  ],
+  "answer": 2,
+  "explanation": "Model drift: a model's performance degrading as real-world data changes over time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "Machine learning is best described as",
+  "options": [
+   "systems that learn patterns from data instead of being explicitly programmed",
+   "including a few worked examples in the prompt to show the desired output",
+   "finding patterns or groups in unlabelled data",
+   "further training a pre-trained model on a specific dataset"
+  ],
+  "answer": 0,
+  "explanation": "Machine learning: systems that learn patterns from data instead of being explicitly programmed.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "Supervised learning is best described as",
+  "options": [
+   "finding patterns or groups in unlabelled data",
+   "systems that learn patterns from data instead of being explicitly programmed",
+   "giving a model relevant documents at answer time so it can ground its response",
+   "training a model on labelled examples with known answers"
+  ],
+  "answer": 3,
+  "explanation": "Supervised learning: training a model on labelled examples with known answers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "Unsupervised learning is best described as",
+  "options": [
+   "further training a pre-trained model on a specific dataset",
+   "the maximum amount of text a model can consider at once",
+   "finding patterns or groups in unlabelled data",
+   "a model's performance degrading as real-world data changes over time"
+  ],
+  "answer": 2,
+  "explanation": "Unsupervised learning: finding patterns or groups in unlabelled data.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "A large language model (LLM) is best described as",
+  "options": [
+   "a model trained on huge amounts of text to predict and generate language",
+   "training a model on labelled examples with known answers",
+   "systems that learn patterns from data instead of being explicitly programmed",
+   "a chunk of text (a word or part of a word) that a language model processes"
+  ],
+  "answer": 0,
+  "explanation": "A large language model (LLM): a model trained on huge amounts of text to predict and generate language.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "A token is best described as",
+  "options": [
+   "a chunk of text (a word or part of a word) that a language model processes",
+   "a person reviewing or approving AI outputs before they take effect",
+   "systems that learn patterns from data instead of being explicitly programmed",
+   "training a model on labelled examples with known answers"
+  ],
+  "answer": 0,
+  "explanation": "A token: a chunk of text (a word or part of a word) that a language model processes.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "A hallucination is best described as",
+  "options": [
+   "the maximum amount of text a model can consider at once",
+   "further training a pre-trained model on a specific dataset",
+   "including a few worked examples in the prompt to show the desired output",
+   "a confident but false or made-up output from an AI model"
+  ],
+  "answer": 3,
+  "explanation": "A hallucination: a confident but false or made-up output from an AI model.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "Retrieval-augmented generation (RAG) is best described as",
+  "options": [
+   "the maximum amount of text a model can consider at once",
+   "a person reviewing or approving AI outputs before they take effect",
+   "giving a model relevant documents at answer time so it can ground its response",
+   "further training a pre-trained model on a specific dataset"
+  ],
+  "answer": 2,
+  "explanation": "Retrieval-augmented generation (RAG): giving a model relevant documents at answer time so it can ground its response.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "Few-shot prompting is best described as",
+  "options": [
+   "including a few worked examples in the prompt to show the desired output",
+   "systems that learn patterns from data instead of being explicitly programmed",
+   "a model's performance degrading as real-world data changes over time",
+   "finding patterns or groups in unlabelled data"
+  ],
+  "answer": 0,
+  "explanation": "Few-shot prompting: including a few worked examples in the prompt to show the desired output.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "A context window is best described as",
+  "options": [
+   "giving a model relevant documents at answer time so it can ground its response",
+   "including a few worked examples in the prompt to show the desired output",
+   "the maximum amount of text a model can consider at once",
+   "a model's performance degrading as real-world data changes over time"
+  ],
+  "answer": 2,
+  "explanation": "A context window: the maximum amount of text a model can consider at once.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "Fine-tuning is best described as",
+  "options": [
+   "a confident but false or made-up output from an AI model",
+   "further training a pre-trained model on a specific dataset",
+   "a chunk of text (a word or part of a word) that a language model processes",
+   "a model trained on huge amounts of text to predict and generate language"
+  ],
+  "answer": 1,
+  "explanation": "Fine-tuning: further training a pre-trained model on a specific dataset.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "Human-in-the-loop is best described as",
+  "options": [
+   "a model's performance degrading as real-world data changes over time",
+   "a confident but false or made-up output from an AI model",
+   "further training a pre-trained model on a specific dataset",
+   "a person reviewing or approving AI outputs before they take effect"
+  ],
+  "answer": 3,
+  "explanation": "Human-in-the-loop: a person reviewing or approving AI outputs before they take effect.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Fundamentals",
+  "body": "Model drift is best described as",
+  "options": [
+   "a model's performance degrading as real-world data changes over time",
+   "giving a model relevant documents at answer time so it can ground its response",
+   "training a model on labelled examples with known answers",
+   "systems that learn patterns from data instead of being explicitly programmed"
+  ],
+  "answer": 0,
+  "explanation": "Model drift: a model's performance degrading as real-world data changes over time.",
+  "difficulty": 1
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Productivity",
+  "body": "An automation saves 12 minutes on a task done 40 times a day. Over 22 working days, how many hours are saved?",
+  "options": [
+   "352 hours",
+   "10,560 hours",
+   "8 hours",
+   "176 hours"
+  ],
+  "answer": 3,
+  "explanation": "12 × 40 × 22 = 10560 minutes ÷ 60 = 176 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Productivity",
+  "body": "An automation saves 30 minutes on a task done 20 times a day. Over 22 working days, how many hours are saved?",
+  "options": [
+   "440 hours",
+   "13,200 hours",
+   "10 hours",
+   "220 hours"
+  ],
+  "answer": 3,
+  "explanation": "30 × 20 × 22 = 13200 minutes ÷ 60 = 220 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Productivity",
+  "body": "An automation saves 30 minutes on a task done 40 times a day. Over 20 working days, how many hours are saved?",
+  "options": [
+   "800 hours",
+   "24,000 hours",
+   "20 hours",
+   "400 hours"
+  ],
+  "answer": 3,
+  "explanation": "30 × 40 × 20 = 24000 minutes ÷ 60 = 400 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Productivity",
+  "body": "An automation saves 15 minutes on a task done 40 times a day. Over 20 working days, how many hours are saved?",
+  "options": [
+   "400 hours",
+   "12,000 hours",
+   "200 hours",
+   "10 hours"
+  ],
+  "answer": 2,
+  "explanation": "15 × 40 × 20 = 12000 minutes ÷ 60 = 200 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Productivity",
+  "body": "An automation saves 12 minutes on a task done 10 times a day. Over 22 working days, how many hours are saved?",
+  "options": [
+   "44 hours",
+   "88 hours",
+   "2 hours",
+   "2640 hours"
+  ],
+  "answer": 0,
+  "explanation": "12 × 10 × 22 = 2640 minutes ÷ 60 = 44 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Productivity",
+  "body": "An automation saves 15 minutes on a task done 25 times a day. Over 22 working days, how many hours are saved?",
+  "options": [
+   "137.5 hours",
+   "6.25 hours",
+   "275 hours",
+   "8250 hours"
+  ],
+  "answer": 0,
+  "explanation": "15 × 25 × 22 = 8250 minutes ÷ 60 = 137.5 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Productivity",
+  "body": "An automation saves 30 minutes on a task done 10 times a day. Over 20 working days, how many hours are saved?",
+  "options": [
+   "100 hours",
+   "5 hours",
+   "6000 hours",
+   "200 hours"
+  ],
+  "answer": 0,
+  "explanation": "30 × 10 × 20 = 6000 minutes ÷ 60 = 100 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Productivity",
+  "body": "An automation saves 15 minutes on a task done 20 times a day. Over 22 working days, how many hours are saved?",
+  "options": [
+   "5 hours",
+   "110 hours",
+   "220 hours",
+   "6600 hours"
+  ],
+  "answer": 1,
+  "explanation": "15 × 20 × 22 = 6600 minutes ÷ 60 = 110 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Productivity",
+  "body": "An automation saves 30 minutes on a task done 20 times a day. Over 20 working days, how many hours are saved?",
+  "options": [
+   "12,000 hours",
+   "10 hours",
+   "200 hours",
+   "400 hours"
+  ],
+  "answer": 2,
+  "explanation": "30 × 20 × 20 = 12000 minutes ÷ 60 = 200 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Productivity",
+  "body": "An automation saves 12 minutes on a task done 20 times a day. Over 22 working days, how many hours are saved?",
+  "options": [
+   "5280 hours",
+   "176 hours",
+   "88 hours",
+   "4 hours"
+  ],
+  "answer": 2,
+  "explanation": "12 × 20 × 22 = 5280 minutes ÷ 60 = 88 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Productivity",
+  "body": "An AI tool costs £500 to set up and saves £500 a month. After how many whole months has it paid for itself?",
+  "options": [
+   "3 months",
+   "0 months",
+   "2 months",
+   "1 months"
+  ],
+  "answer": 3,
+  "explanation": "£500 ÷ £500 = 1, so it pays back in month 1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Productivity",
+  "body": "An AI tool costs £1700 to set up and saves £300 a month. After how many whole months has it paid for itself?",
+  "options": [
+   "7 months",
+   "5 months",
+   "6 months",
+   "12 months"
+  ],
+  "answer": 2,
+  "explanation": "£1700 ÷ £300 = 5.666667, so it pays back in month 6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Productivity",
+  "body": "An AI tool costs £1600 to set up and saves £250 a month. After how many whole months has it paid for itself?",
+  "options": [
+   "14 months",
+   "7 months",
+   "8 months",
+   "6 months"
+  ],
+  "answer": 1,
+  "explanation": "£1600 ÷ £250 = 6.4, so it pays back in month 7.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Productivity",
+  "body": "An AI tool costs £1000 to set up and saves £100 a month. After how many whole months has it paid for itself?",
+  "options": [
+   "20 months",
+   "10 months",
+   "9 months",
+   "11 months"
+  ],
+  "answer": 1,
+  "explanation": "£1000 ÷ £100 = 10, so it pays back in month 10.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Productivity",
+  "body": "An AI tool costs £1500 to set up and saves £150 a month. After how many whole months has it paid for itself?",
+  "options": [
+   "20 months",
+   "9 months",
+   "11 months",
+   "10 months"
+  ],
+  "answer": 3,
+  "explanation": "£1500 ÷ £150 = 10, so it pays back in month 10.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Productivity",
+  "body": "An AI tool costs £1800 to set up and saves £250 a month. After how many whole months has it paid for itself?",
+  "options": [
+   "7 months",
+   "16 months",
+   "9 months",
+   "8 months"
+  ],
+  "answer": 3,
+  "explanation": "£1800 ÷ £250 = 7.2, so it pays back in month 8.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Productivity",
+  "body": "An AI tool costs £300 to set up and saves £500 a month. After how many whole months has it paid for itself?",
+  "options": [
+   "3 months",
+   "2 months",
+   "0 months",
+   "1 months"
+  ],
+  "answer": 3,
+  "explanation": "£300 ÷ £500 = 0.6, so it pays back in month 1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIQ",
+  "topic": "Productivity",
+  "body": "An AI tool costs £1400 to set up and saves £450 a month. After how many whole months has it paid for itself?",
+  "options": [
+   "4 months",
+   "5 months",
+   "8 months",
+   "3 months"
+  ],
+  "answer": 0,
+  "explanation": "£1400 ÷ £450 = 3.111111, so it pays back in month 4.",
+  "difficulty": 2
+ }
+]

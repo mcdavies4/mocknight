@@ -1,0 +1,856 @@
+[
+ {
+  "subject": "CONQ",
+  "topic": "CDM 2015",
+  "body": "Under CDM 2015, a construction project must be notified to HSE (F10) when it will last more than 30 working days with more than 20 workers at any one time, or",
+  "options": [
+   "exceed 100 person-days",
+   "cost over £1 million",
+   "use a crane",
+   "exceed 500 person-days"
+  ],
+  "answer": 3,
+  "explanation": "These thresholds are set out in CDM 2015.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "CDM 2015",
+  "body": "When is a principal contractor required under CDM 2015?",
+  "options": [
+   "Only when notified to HSE",
+   "Never on domestic jobs",
+   "When more than one contractor will work on the project",
+   "Only on projects over £5 million"
+  ],
+  "answer": 2,
+  "explanation": "The same rule applies to the principal designer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "CDM 2015",
+  "body": "Which document sets out how health and safety will be managed during construction?",
+  "options": [
+   "The construction phase plan",
+   "The snagging list",
+   "The health and safety file",
+   "The F10 form"
+  ],
+  "answer": 0,
+  "explanation": "The principal contractor (or contractor) prepares it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "CDM 2015",
+  "body": "Which document is handed to the client at the end with information for future work on the building?",
+  "options": [
+   "The construction phase plan",
+   "The tender pack",
+   "The risk register only",
+   "The health and safety file"
+  ],
+  "answer": 3,
+  "explanation": "It helps people who maintain, alter or demolish the building later.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Safety",
+  "body": "What is the most effective level in the hierarchy of control?",
+  "options": [
+   "Administrative controls",
+   "PPE",
+   "Engineering controls",
+   "Elimination"
+  ],
+  "answer": 3,
+  "explanation": "PPE is the last resort.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Safety",
+  "body": "What is a permit to work used for?",
+  "options": [
+   "Ordering materials",
+   "Controlling high-risk work such as hot work or confined spaces",
+   "Logging deliveries",
+   "Recording staff holidays"
+  ],
+  "answer": 1,
+  "explanation": "It sets out precautions and who has authorised the work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Safety",
+  "body": "A short safety briefing given to workers on site about a specific topic is a",
+  "options": [
+   "method statement",
+   "permit",
+   "site induction only",
+   "toolbox talk"
+  ],
+  "answer": 3,
+  "explanation": "Usually 10–15 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Safety",
+  "body": "What do RAMS stand for?",
+  "options": [
+   "Records of accidents and medical support",
+   "Rules and maintenance schedules",
+   "Risk assessments and method statements",
+   "Roles and management standards"
+  ],
+  "answer": 2,
+  "explanation": "They explain hazards and how the work will be done safely.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Safety",
+  "body": "Under RIDDOR, an injury that keeps a worker off normal duties for more than seven days must be reported within",
+  "options": [
+   "1 year",
+   "6 months",
+   "15 days of the accident",
+   "24 hours"
+  ],
+  "answer": 2,
+  "explanation": "Specified injuries and dangerous occurrences have stricter timescales.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Safety",
+  "body": "Under the Work at Height Regulations, what should be considered FIRST?",
+  "options": [
+   "Providing harnesses",
+   "Using ladders",
+   "Avoiding work at height where possible",
+   "Putting up warning signs"
+  ],
+  "answer": 2,
+  "explanation": "Then prevent falls, then minimise consequences.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Safety",
+  "body": "How often must a scaffold be inspected while in use?",
+  "options": [
+   "At least every 7 days, and after anything that could affect its stability",
+   "Once a month",
+   "Every 90 days",
+   "Only when first erected"
+  ],
+  "answer": 0,
+  "explanation": "Inspections must be recorded.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Safety",
+  "body": "What is the correct angle for a leaning ladder?",
+  "options": [
+   "60°",
+   "About 75° — 1 unit out for every 4 units up",
+   "45°",
+   "90° (vertical)"
+  ],
+  "answer": 1,
+  "explanation": "The 1-in-4 rule.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Safety",
+  "body": "Which regulations cover the safe use of lifting equipment such as cranes and hoists?",
+  "options": [
+   "LOLER",
+   "RIDDOR",
+   "PUWER only",
+   "COSHH"
+  ],
+  "answer": 0,
+  "explanation": "Lifting Operations and Lifting Equipment Regulations 1998.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Safety",
+  "body": "Under LOLER, equipment used to lift people must have a thorough examination at least every",
+  "options": [
+   "6 months",
+   "5 years",
+   "week",
+   "12 months"
+  ],
+  "answer": 0,
+  "explanation": "Other lifting equipment: at least every 12 months, unless a written scheme says otherwise.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Safety",
+  "body": "Which regulations cover hazardous substances such as cement dust and solvents?",
+  "options": [
+   "RIDDOR",
+   "COSHH",
+   "LOLER",
+   "CDM only"
+  ],
+  "answer": 1,
+  "explanation": "Control of Substances Hazardous to Health.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Safety",
+  "body": "Before refurbishing a building built before 2000, what must be checked?",
+  "options": [
+   "Whether asbestos is present (asbestos survey)",
+   "The paint colour",
+   "The broadband speed",
+   "Parking availability"
+  ],
+  "answer": 0,
+  "explanation": "Asbestos was widely used until it was banned in 1999.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Site management",
+  "body": "A list of minor defects to fix before handover is a",
+  "options": [
+   "variation order",
+   "bill of quantities",
+   "method statement",
+   "snagging list"
+  ],
+  "answer": 3,
+  "explanation": "Snags are checked at practical completion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Site management",
+  "body": "A formal instruction to change the agreed scope of work is a",
+  "options": [
+   "toolbox talk",
+   "snag",
+   "variation (change order)",
+   "permit to work"
+  ],
+  "answer": 2,
+  "explanation": "It can affect cost and programme.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Site management",
+  "body": "On a programme, the sequence of tasks that determines the earliest completion date is the",
+  "options": [
+   "milestone",
+   "float",
+   "baseline",
+   "critical path"
+  ],
+  "answer": 3,
+  "explanation": "Delays on it delay the whole project.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Site management",
+  "body": "Which card scheme shows that construction workers have the right training and qualifications?",
+  "options": [
+   "DBS",
+   "NVQ only",
+   "CSCS",
+   "CITB levy"
+  ],
+  "answer": 2,
+  "explanation": "Construction Skills Certification Scheme.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quality",
+  "body": "An inspection and test plan (ITP) is used to",
+  "options": [
+   "track holidays",
+   "pay subcontractors",
+   "order PPE",
+   "define when and how work will be checked for quality"
+  ],
+  "answer": 3,
+  "explanation": "It sets hold points and witness points.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "CDM 2015",
+  "body": "Under CDM 2015, which duty holder arranges the project, appoints the duty holders and makes sure enough time and resources are allowed?",
+  "options": [
+   "Contractor",
+   "Client",
+   "Principal contractor",
+   "Designer"
+  ],
+  "answer": 1,
+  "explanation": "Client: arranges the project, appoints the duty holders and makes sure enough time and resources are allowed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "CDM 2015",
+  "body": "Under CDM 2015, which duty holder plans, manages and coordinates health and safety in the pre-construction phase?",
+  "options": [
+   "Contractor",
+   "Client",
+   "Principal designer",
+   "Designer"
+  ],
+  "answer": 2,
+  "explanation": "Principal designer: plans, manages and coordinates health and safety in the pre-construction phase.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "CDM 2015",
+  "body": "Under CDM 2015, which duty holder plans, manages and coordinates health and safety during the construction phase?",
+  "options": [
+   "Principal contractor",
+   "Client",
+   "Designer",
+   "Principal designer"
+  ],
+  "answer": 0,
+  "explanation": "Principal contractor: plans, manages and coordinates health and safety during the construction phase.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "CDM 2015",
+  "body": "Under CDM 2015, which duty holder eliminates, reduces or controls foreseeable risks through their design?",
+  "options": [
+   "Contractor",
+   "Client",
+   "Designer",
+   "Principal contractor"
+  ],
+  "answer": 2,
+  "explanation": "Designer: eliminates, reduces or controls foreseeable risks through their design.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "CDM 2015",
+  "body": "Under CDM 2015, which duty holder plans, manages and monitors their own work and workers?",
+  "options": [
+   "Designer",
+   "Principal contractor",
+   "Principal designer",
+   "Contractor"
+  ],
+  "answer": 3,
+  "explanation": "Contractor: plans, manages and monitors their own work and workers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Safety",
+  "body": "A ladder must reach 6 m up a wall. Using the 1-in-4 rule, how far should its base be from the wall?",
+  "options": [
+   "3 m",
+   "1.5 m",
+   "6 m",
+   "2 m"
+  ],
+  "answer": 1,
+  "explanation": "1 out for every 4 up: 6 ÷ 4 = 1.5 m.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Safety",
+  "body": "A ladder must reach 10 m up a wall. Using the 1-in-4 rule, how far should its base be from the wall?",
+  "options": [
+   "5 m",
+   "10 m",
+   "2.5 m",
+   "3.5 m"
+  ],
+  "answer": 2,
+  "explanation": "1 out for every 4 up: 10 ÷ 4 = 2.5 m.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Safety",
+  "body": "A ladder must reach 12 m up a wall. Using the 1-in-4 rule, how far should its base be from the wall?",
+  "options": [
+   "6 m",
+   "3 m",
+   "12 m",
+   "4 m"
+  ],
+  "answer": 1,
+  "explanation": "1 out for every 4 up: 12 ÷ 4 = 3 m.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Safety",
+  "body": "A ladder must reach 8 m up a wall. Using the 1-in-4 rule, how far should its base be from the wall?",
+  "options": [
+   "2 m",
+   "3 m",
+   "4 m",
+   "8 m"
+  ],
+  "answer": 0,
+  "explanation": "1 out for every 4 up: 8 ÷ 4 = 2 m.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Safety",
+  "body": "A ladder must reach 4 m up a wall. Using the 1-in-4 rule, how far should its base be from the wall?",
+  "options": [
+   "4 m",
+   "0 m",
+   "2 m",
+   "1 m"
+  ],
+  "answer": 3,
+  "explanation": "1 out for every 4 up: 4 ÷ 4 = 1 m.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quantities",
+  "body": "How much concrete is needed for a slab 11 m long, 4 m wide and 200 mm thick?",
+  "options": [
+   "44 m³",
+   "88 m³",
+   "8.8 m³",
+   "17.6 m³"
+  ],
+  "answer": 2,
+  "explanation": "Volume = 11 × 4 × 0.2 = 8.8 m³ (convert mm to m first).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quantities",
+  "body": "How much concrete is needed for a slab 15 m long, 8 m wide and 300 mm thick?",
+  "options": [
+   "120 m³",
+   "36 m³",
+   "72 m³",
+   "360 m³"
+  ],
+  "answer": 1,
+  "explanation": "Volume = 15 × 8 × 0.3 = 36 m³ (convert mm to m first).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quantities",
+  "body": "How much concrete is needed for a slab 12 m long, 3 m wide and 300 mm thick?",
+  "options": [
+   "21.6 m³",
+   "10.8 m³",
+   "108 m³",
+   "36 m³"
+  ],
+  "answer": 1,
+  "explanation": "Volume = 12 × 3 × 0.3 = 10.8 m³ (convert mm to m first).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quantities",
+  "body": "How much concrete is needed for a slab 13 m long, 6 m wide and 150 mm thick?",
+  "options": [
+   "11.7 m³",
+   "78 m³",
+   "23.4 m³",
+   "117 m³"
+  ],
+  "answer": 0,
+  "explanation": "Volume = 13 × 6 × 0.15 = 11.7 m³ (convert mm to m first).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quantities",
+  "body": "How much concrete is needed for a slab 15 m long, 6 m wide and 250 mm thick?",
+  "options": [
+   "45 m³",
+   "225 m³",
+   "90 m³",
+   "22.5 m³"
+  ],
+  "answer": 3,
+  "explanation": "Volume = 15 × 6 × 0.25 = 22.5 m³ (convert mm to m first).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quantities",
+  "body": "How much concrete is needed for a slab 3 m long, 7 m wide and 250 mm thick?",
+  "options": [
+   "21 m³",
+   "5.25 m³",
+   "10.5 m³",
+   "52.5 m³"
+  ],
+  "answer": 1,
+  "explanation": "Volume = 3 × 7 × 0.25 = 5.25 m³ (convert mm to m first).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quantities",
+  "body": "How much concrete is needed for a slab 7 m long, 5 m wide and 250 mm thick?",
+  "options": [
+   "87.5 m³",
+   "35 m³",
+   "17.5 m³",
+   "8.75 m³"
+  ],
+  "answer": 3,
+  "explanation": "Volume = 7 × 5 × 0.25 = 8.75 m³ (convert mm to m first).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quantities",
+  "body": "How much concrete is needed for a slab 8 m long, 7 m wide and 150 mm thick?",
+  "options": [
+   "84 m³",
+   "8.4 m³",
+   "56 m³",
+   "16.8 m³"
+  ],
+  "answer": 1,
+  "explanation": "Volume = 8 × 7 × 0.15 = 8.4 m³ (convert mm to m first).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quantities",
+  "body": "How much concrete is needed for a slab 9 m long, 6 m wide and 150 mm thick?",
+  "options": [
+   "16.2 m³",
+   "81 m³",
+   "8.1 m³",
+   "54 m³"
+  ],
+  "answer": 2,
+  "explanation": "Volume = 9 × 6 × 0.15 = 8.1 m³ (convert mm to m first).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quantities",
+  "body": "How much concrete is needed for a slab 10 m long, 4 m wide and 300 mm thick?",
+  "options": [
+   "40 m³",
+   "120 m³",
+   "24 m³",
+   "12 m³"
+  ],
+  "answer": 3,
+  "explanation": "Volume = 10 × 4 × 0.3 = 12 m³ (convert mm to m first).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quantities",
+  "body": "How much concrete is needed for a slab 4 m long, 5 m wide and 200 mm thick?",
+  "options": [
+   "20 m³",
+   "40 m³",
+   "4 m³",
+   "8 m³"
+  ],
+  "answer": 2,
+  "explanation": "Volume = 4 × 5 × 0.2 = 4 m³ (convert mm to m first).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quantities",
+  "body": "How much concrete is needed for a slab 9 m long, 6 m wide and 200 mm thick?",
+  "options": [
+   "108 m³",
+   "54 m³",
+   "10.8 m³",
+   "21.6 m³"
+  ],
+  "answer": 2,
+  "explanation": "Volume = 9 × 6 × 0.2 = 10.8 m³ (convert mm to m first).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Site management",
+  "body": "Groundworks (5 days) must finish before both brickwork (8 days) and drainage (6 days), which run in parallel. Roofing (1 days) starts when both are done. What is the shortest overall duration?",
+  "options": [
+   "20 days",
+   "6 days",
+   "12 days",
+   "14 days"
+  ],
+  "answer": 3,
+  "explanation": "Critical path = 5 + max(8, 6) + 1 = 14 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Site management",
+  "body": "Groundworks (4 days) must finish before both brickwork (7 days) and drainage (3 days), which run in parallel. Roofing (2 days) starts when both are done. What is the shortest overall duration?",
+  "options": [
+   "6 days",
+   "16 days",
+   "9 days",
+   "13 days"
+  ],
+  "answer": 3,
+  "explanation": "Critical path = 4 + max(7, 3) + 2 = 13 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Site management",
+  "body": "Groundworks (2 days) must finish before both brickwork (4 days) and drainage (5 days), which run in parallel. Roofing (3 days) starts when both are done. What is the shortest overall duration?",
+  "options": [
+   "5 days",
+   "10 days",
+   "14 days",
+   "9 days"
+  ],
+  "answer": 1,
+  "explanation": "Critical path = 2 + max(4, 5) + 3 = 10 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Site management",
+  "body": "Groundworks (4 days) must finish before both brickwork (8 days) and drainage (6 days), which run in parallel. Roofing (1 days) starts when both are done. What is the shortest overall duration?",
+  "options": [
+   "13 days",
+   "19 days",
+   "5 days",
+   "11 days"
+  ],
+  "answer": 0,
+  "explanation": "Critical path = 4 + max(8, 6) + 1 = 13 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Site management",
+  "body": "Groundworks (4 days) must finish before both brickwork (8 days) and drainage (7 days), which run in parallel. Roofing (1 days) starts when both are done. What is the shortest overall duration?",
+  "options": [
+   "20 days",
+   "5 days",
+   "12 days",
+   "13 days"
+  ],
+  "answer": 3,
+  "explanation": "Critical path = 4 + max(8, 7) + 1 = 13 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Site management",
+  "body": "Groundworks (5 days) must finish before both brickwork (7 days) and drainage (2 days), which run in parallel. Roofing (3 days) starts when both are done. What is the shortest overall duration?",
+  "options": [
+   "15 days",
+   "10 days",
+   "8 days",
+   "17 days"
+  ],
+  "answer": 0,
+  "explanation": "Critical path = 5 + max(7, 2) + 3 = 15 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Site management",
+  "body": "Groundworks (6 days) must finish before both brickwork (6 days) and drainage (7 days), which run in parallel. Roofing (2 days) starts when both are done. What is the shortest overall duration?",
+  "options": [
+   "15 days",
+   "14 days",
+   "21 days",
+   "8 days"
+  ],
+  "answer": 0,
+  "explanation": "Critical path = 6 + max(6, 7) + 2 = 15 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Site management",
+  "body": "Groundworks (3 days) must finish before both brickwork (4 days) and drainage (6 days), which run in parallel. Roofing (3 days) starts when both are done. What is the shortest overall duration?",
+  "options": [
+   "6 days",
+   "12 days",
+   "16 days",
+   "10 days"
+  ],
+  "answer": 1,
+  "explanation": "Critical path = 3 + max(4, 6) + 3 = 12 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Site management",
+  "body": "Groundworks (2 days) must finish before both brickwork (5 days) and drainage (2 days), which run in parallel. Roofing (3 days) starts when both are done. What is the shortest overall duration?",
+  "options": [
+   "5 days",
+   "10 days",
+   "12 days",
+   "7 days"
+  ],
+  "answer": 1,
+  "explanation": "Critical path = 2 + max(5, 2) + 3 = 10 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Site management",
+  "body": "Groundworks (5 days) must finish before both brickwork (8 days) and drainage (9 days), which run in parallel. Roofing (2 days) starts when both are done. What is the shortest overall duration?",
+  "options": [
+   "7 days",
+   "15 days",
+   "24 days",
+   "16 days"
+  ],
+  "answer": 3,
+  "explanation": "Critical path = 5 + max(8, 9) + 2 = 16 days.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quantities",
+  "body": "A wall is 51 m². Allowing 60 bricks per m² plus 5% waste, how many bricks should be ordered?",
+  "options": [
+   "2754",
+   "3060",
+   "3213",
+   "3273"
+  ],
+  "answer": 2,
+  "explanation": "51 × 60 = 3060; + 5% = 3213.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quantities",
+  "body": "A wall is 15 m². Allowing 60 bricks per m² plus 10% waste, how many bricks should be ordered?",
+  "options": [
+   "1051",
+   "991",
+   "900",
+   "810"
+  ],
+  "answer": 1,
+  "explanation": "15 × 60 = 900; + 10% = 991.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quantities",
+  "body": "A wall is 48 m². Allowing 50 bricks per m² plus 10% waste, how many bricks should be ordered?",
+  "options": [
+   "2640",
+   "2160",
+   "2690",
+   "2400"
+  ],
+  "answer": 0,
+  "explanation": "48 × 50 = 2400; + 10% = 2640.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quantities",
+  "body": "A wall is 18 m². Allowing 60 bricks per m² plus 5% waste, how many bricks should be ordered?",
+  "options": [
+   "1134",
+   "972",
+   "1194",
+   "1080"
+  ],
+  "answer": 0,
+  "explanation": "18 × 60 = 1080; + 5% = 1134.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quantities",
+  "body": "A wall is 26 m². Allowing 60 bricks per m² plus 10% waste, how many bricks should be ordered?",
+  "options": [
+   "1777",
+   "1404",
+   "1717",
+   "1560"
+  ],
+  "answer": 2,
+  "explanation": "26 × 60 = 1560; + 10% = 1717.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quantities",
+  "body": "A wall is 19 m². Allowing 60 bricks per m² plus 10% waste, how many bricks should be ordered?",
+  "options": [
+   "1314",
+   "1254",
+   "1026",
+   "1140"
+  ],
+  "answer": 1,
+  "explanation": "19 × 60 = 1140; + 10% = 1254.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quantities",
+  "body": "A wall is 29 m². Allowing 60 bricks per m² plus 5% waste, how many bricks should be ordered?",
+  "options": [
+   "1827",
+   "1740",
+   "1566",
+   "1887"
+  ],
+  "answer": 0,
+  "explanation": "29 × 60 = 1740; + 5% = 1827.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CONQ",
+  "topic": "Quantities",
+  "body": "A wall is 9 m². Allowing 50 bricks per m² plus 5% waste, how many bricks should be ordered?",
+  "options": [
+   "405",
+   "473",
+   "523",
+   "450"
+  ],
+  "answer": 1,
+  "explanation": "9 × 50 = 450; + 5% = 473.",
+  "difficulty": 2
+ }
+]

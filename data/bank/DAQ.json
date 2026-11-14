@@ -1,0 +1,1010 @@
+[
+ {
+  "subject": "DAQ",
+  "topic": "SQL",
+  "body": "Which SQL clause filters rows BEFORE grouping?",
+  "options": [
+   "ORDER BY",
+   "GROUP BY",
+   "HAVING",
+   "WHERE"
+  ],
+  "answer": 3,
+  "explanation": "HAVING filters groups after aggregation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "SQL",
+  "body": "Which SQL clause filters groups AFTER aggregation?",
+  "options": [
+   "SELECT",
+   "HAVING",
+   "FROM",
+   "WHERE"
+  ],
+  "answer": 1,
+  "explanation": "e.g. HAVING COUNT(*) > 5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "SQL",
+  "body": "Which join returns only rows with matching keys in both tables?",
+  "options": [
+   "CROSS JOIN",
+   "LEFT JOIN",
+   "FULL OUTER JOIN",
+   "INNER JOIN"
+  ],
+  "answer": 3,
+  "explanation": "LEFT JOIN keeps all rows from the left table.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "SQL",
+  "body": "Which join keeps every row from the first table, even without a match?",
+  "options": [
+   "LEFT JOIN",
+   "INNER JOIN",
+   "SELF JOIN",
+   "RIGHT JOIN only"
+  ],
+  "answer": 0,
+  "explanation": "Unmatched columns from the right table are NULL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "SQL",
+  "body": "Which keyword removes duplicate rows from a result?",
+  "options": [
+   "GROUP",
+   "LIMIT",
+   "UNIQUE ROWS",
+   "DISTINCT"
+  ],
+  "answer": 3,
+  "explanation": "SELECT DISTINCT city FROM customers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "SQL",
+  "body": "In what order are these clauses written in a SELECT statement?",
+  "options": [
+   "SELECT, WHERE, FROM, HAVING, GROUP BY",
+   "FROM, SELECT, WHERE, ORDER BY, GROUP BY",
+   "SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY",
+   "SELECT, GROUP BY, FROM, WHERE, ORDER BY"
+  ],
+  "answer": 2,
+  "explanation": "This is the written order (not the logical processing order).",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "SQL",
+  "body": "Which function counts the rows in each group?",
+  "options": [
+   "SUM(*)",
+   "TOTAL()",
+   "LEN()",
+   "COUNT(*)"
+  ],
+  "answer": 3,
+  "explanation": "COUNT(column) ignores NULLs; COUNT(*) counts every row.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "SQL",
+  "body": "How do you test for missing values in SQL?",
+  "options": [
+   "WHERE column = NULL",
+   "WHERE NULL(column)",
+   "WHERE column IS NULL",
+   "WHERE column == ''"
+  ],
+  "answer": 2,
+  "explanation": "Comparing with = NULL never returns true.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Data quality",
+  "body": "Two records for the same customer with slightly different spellings are a problem of",
+  "options": [
+   "timeliness",
+   "validity only",
+   "availability",
+   "duplication / consistency"
+  ],
+  "answer": 3,
+  "explanation": "Deduplication and standardisation fix it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Data quality",
+  "body": "A date of birth in the future is a problem of",
+  "options": [
+   "validity",
+   "completeness",
+   "timeliness",
+   "uniqueness"
+  ],
+  "answer": 0,
+  "explanation": "The value breaks a business rule.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Data quality",
+  "body": "Which data type is best for a postcode such as SW1A 1AA?",
+  "options": [
+   "Text",
+   "Whole number",
+   "Decimal",
+   "Date"
+  ],
+  "answer": 0,
+  "explanation": "Codes with letters or leading zeros should be text.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Power BI",
+  "body": "In a star schema, the central table holding measurable events such as sales is the",
+  "options": [
+   "lookup only",
+   "bridge table",
+   "fact table",
+   "dimension table"
+  ],
+  "answer": 2,
+  "explanation": "Dimension tables describe the facts: date, product, customer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Power BI",
+  "body": "Which Power BI tool is used to clean and shape data before loading?",
+  "options": [
+   "Power BI Service only",
+   "Power Query",
+   "Q&A visual",
+   "DAX"
+  ],
+  "answer": 1,
+  "explanation": "It records each transformation as a step.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Power BI",
+  "body": "Which DAX function changes the filter context of a calculation?",
+  "options": [
+   "SUM",
+   "CALCULATE",
+   "RELATED",
+   "FORMAT"
+  ],
+  "answer": 1,
+  "explanation": "e.g. CALCULATE([Sales], Region = \"North\").",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Power BI",
+  "body": "What is the main difference between a measure and a calculated column?",
+  "options": [
+   "Measures can't use DAX",
+   "There is no difference",
+   "Measures calculate at query time; calculated columns are stored row by row",
+   "Columns are faster to change"
+  ],
+  "answer": 2,
+  "explanation": "Use measures for aggregations like totals.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Power BI",
+  "body": "Which relationship cardinality is typical between a dimension and a fact table?",
+  "options": [
+   "None",
+   "Many-to-many",
+   "One-to-many",
+   "One-to-one"
+  ],
+  "answer": 2,
+  "explanation": "One product appears in many sales rows.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Power BI",
+  "body": "Row-level security (RLS) in Power BI is used to",
+  "options": [
+   "speed up refresh",
+   "delete old data",
+   "restrict which data rows each user can see",
+   "change visuals' colours"
+  ],
+  "answer": 2,
+  "explanation": "e.g. regional managers see only their region.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Visualisation",
+  "body": "Which chart is best for showing a trend over time?",
+  "options": [
+   "Pie chart",
+   "Table",
+   "Scatter plot only",
+   "Line chart"
+  ],
+  "answer": 3,
+  "explanation": "Time on the x-axis shows change clearly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Visualisation",
+  "body": "Which chart best shows the relationship between two numeric variables?",
+  "options": [
+   "Pie chart",
+   "Scatter plot",
+   "Bar chart",
+   "Card"
+  ],
+  "answer": 1,
+  "explanation": "Each point is one observation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Visualisation",
+  "body": "When should a pie chart generally be avoided?",
+  "options": [
+   "When values add to 100%",
+   "Never",
+   "When comparing many categories or close values",
+   "When showing two categories"
+  ],
+  "answer": 2,
+  "explanation": "Bar charts are easier to compare.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Which measure of average is least affected by extreme outliers?",
+  "options": [
+   "Sum",
+   "Median",
+   "Range",
+   "Mean"
+  ],
+  "answer": 1,
+  "explanation": "The median is the middle value.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Governance",
+  "body": "Removing names so individuals can't be identified is called",
+  "options": [
+   "aggregation",
+   "normalisation",
+   "anonymisation",
+   "indexing"
+  ],
+  "answer": 2,
+  "explanation": "Pseudonymisation replaces identifiers but can be reversed with a key.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Excel",
+  "body": "Which Excel function is used for finding a value in one range and returning the matching value from another?",
+  "options": [
+   "CONCAT (or &)",
+   "AVERAGEIF",
+   "SUMIFS",
+   "XLOOKUP"
+  ],
+  "answer": 3,
+  "explanation": "XLOOKUP: finding a value in one range and returning the matching value from another.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Excel",
+  "body": "Which Excel function is used for adding values that meet several conditions?",
+  "options": [
+   "SUMIFS",
+   "XLOOKUP",
+   "COUNTIF",
+   "TRIM"
+  ],
+  "answer": 0,
+  "explanation": "SUMIFS: adding values that meet several conditions.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Excel",
+  "body": "Which Excel function is used for counting cells that meet one condition?",
+  "options": [
+   "UNIQUE",
+   "IFERROR",
+   "COUNTIF",
+   "XLOOKUP"
+  ],
+  "answer": 2,
+  "explanation": "COUNTIF: counting cells that meet one condition.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Excel",
+  "body": "Which Excel function is used for returning one value if a test is true and another if it is false?",
+  "options": [
+   "CONCAT (or &)",
+   "AVERAGEIF",
+   "XLOOKUP",
+   "IF"
+  ],
+  "answer": 3,
+  "explanation": "IF: returning one value if a test is true and another if it is false.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Excel",
+  "body": "Which Excel function is used for joining text from several cells?",
+  "options": [
+   "COUNTIF",
+   "SUMIFS",
+   "CONCAT (or &)",
+   "IF"
+  ],
+  "answer": 2,
+  "explanation": "CONCAT (or &): joining text from several cells.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Excel",
+  "body": "Which Excel function is used for removing extra spaces from text?",
+  "options": [
+   "IFERROR",
+   "IF",
+   "TRIM",
+   "SUMIFS"
+  ],
+  "answer": 2,
+  "explanation": "TRIM: removing extra spaces from text.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Excel",
+  "body": "Which Excel function is used for averaging values that meet a condition?",
+  "options": [
+   "TRIM",
+   "COUNTIF",
+   "AVERAGEIF",
+   "SUMIFS"
+  ],
+  "answer": 2,
+  "explanation": "AVERAGEIF: averaging values that meet a condition.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Excel",
+  "body": "Which Excel function is used for showing a chosen value instead of an error?",
+  "options": [
+   "TRIM",
+   "CONCAT (or &)",
+   "IFERROR",
+   "ROUND"
+  ],
+  "answer": 2,
+  "explanation": "IFERROR: showing a chosen value instead of an error.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Excel",
+  "body": "Which Excel function is used for returning the distinct values in a range?",
+  "options": [
+   "TRIM",
+   "CONCAT (or &)",
+   "UNIQUE",
+   "COUNTIF"
+  ],
+  "answer": 2,
+  "explanation": "UNIQUE: returning the distinct values in a range.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Excel",
+  "body": "Which Excel function is used for rounding a number to a set number of digits?",
+  "options": [
+   "SUMIFS",
+   "ROUND",
+   "TRIM",
+   "UNIQUE"
+  ],
+  "answer": 1,
+  "explanation": "ROUND: rounding a number to a set number of digits.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "SQL",
+  "body": "A table sales(region, amount) contains: (West, 40), (East, 10), (South, 70), (West, 70), (South, 70), (South, 20).\n\nWhat does this query return for West?\nSELECT region, SUM(amount) FROM sales GROUP BY region;",
+  "options": [
+   "2",
+   "120",
+   "110",
+   "280"
+  ],
+  "answer": 2,
+  "explanation": "Rows for West: 40, 70 → SUM = 110.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "SQL",
+  "body": "A table sales(region, amount) contains: (West, 90), (West, 30), (North, 90), (South, 30), (South, 60), (West, 30).\n\nWhat does this query return for South?\nSELECT region, COUNT(*) FROM sales GROUP BY region;",
+  "options": [
+   "12",
+   "90",
+   "330",
+   "2"
+  ],
+  "answer": 3,
+  "explanation": "Rows for South: 30, 60 → COUNT = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "SQL",
+  "body": "A table sales(region, amount) contains: (East, 90), (North, 20), (South, 20), (West, 80), (West, 70), (East, 10).\n\nWhat does this query return for East?\nSELECT region, SUM(amount) FROM sales GROUP BY region;",
+  "options": [
+   "2",
+   "290",
+   "110",
+   "100"
+  ],
+  "answer": 3,
+  "explanation": "Rows for East: 90, 10 → SUM = 100.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "SQL",
+  "body": "A table sales(region, amount) contains: (South, 20), (East, 90), (West, 80), (West, 20), (North, 80), (East, 40).\n\nWhat does this query return for West?\nSELECT region, SUM(amount) FROM sales GROUP BY region;",
+  "options": [
+   "330",
+   "110",
+   "100",
+   "2"
+  ],
+  "answer": 2,
+  "explanation": "Rows for West: 80, 20 → SUM = 100.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "SQL",
+  "body": "A table sales(region, amount) contains: (West, 20), (South, 20), (South, 20), (East, 60), (South, 40), (East, 90).\n\nWhat does this query return for South?\nSELECT region, SUM(amount) FROM sales GROUP BY region;",
+  "options": [
+   "3",
+   "80",
+   "250",
+   "90"
+  ],
+  "answer": 1,
+  "explanation": "Rows for South: 20, 20, 40 → SUM = 80.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "SQL",
+  "body": "A table sales(region, amount) contains: (North, 20), (South, 30), (South, 60), (West, 20), (South, 90), (North, 30).\n\nWhat does this query return for North?\nSELECT region, COUNT(*) FROM sales GROUP BY region;",
+  "options": [
+   "2",
+   "50",
+   "250",
+   "12"
+  ],
+  "answer": 0,
+  "explanation": "Rows for North: 20, 30 → COUNT = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "SQL",
+  "body": "A table sales(region, amount) contains: (South, 70), (East, 90), (East, 30), (West, 50), (West, 60), (North, 20).\n\nWhat does this query return for East?\nSELECT region, SUM(amount) FROM sales GROUP BY region;",
+  "options": [
+   "320",
+   "120",
+   "2",
+   "130"
+  ],
+  "answer": 1,
+  "explanation": "Rows for East: 90, 30 → SUM = 120.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "SQL",
+  "body": "A table sales(region, amount) contains: (South, 50), (South, 70), (East, 50), (South, 20), (East, 20), (West, 80).\n\nWhat does this query return for West?\nSELECT region, SUM(amount) FROM sales GROUP BY region;",
+  "options": [
+   "1",
+   "290",
+   "80",
+   "90"
+  ],
+  "answer": 2,
+  "explanation": "Rows for West: 80 → SUM = 80.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "SQL",
+  "body": "A table sales(region, amount) contains: (West, 70), (East, 60), (North, 50), (North, 70), (South, 50), (South, 30).\n\nWhat does this query return for West?\nSELECT region, COUNT(*) FROM sales GROUP BY region;",
+  "options": [
+   "330",
+   "70",
+   "11",
+   "1"
+  ],
+  "answer": 3,
+  "explanation": "Rows for West: 70 → COUNT = 1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "SQL",
+  "body": "A table sales(region, amount) contains: (North, 20), (North, 90), (North, 30), (North, 40), (North, 50), (North, 10).\n\nWhat does this query return for North?\nSELECT region, COUNT(*) FROM sales GROUP BY region;",
+  "options": [
+   "240",
+   "16",
+   "7",
+   "6"
+  ],
+  "answer": 3,
+  "explanation": "Rows for North: 20, 90, 30, 40, 50, 10 → COUNT = 6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "SQL",
+  "body": "A table sales(region, amount) contains: (East, 50), (East, 20), (East, 30), (North, 60), (West, 60), (South, 70).\n\nWhat does this query return for North?\nSELECT region, SUM(amount) FROM sales GROUP BY region;",
+  "options": [
+   "60",
+   "1",
+   "290",
+   "70"
+  ],
+  "answer": 0,
+  "explanation": "Rows for North: 60 → SUM = 60.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "SQL",
+  "body": "A table sales(region, amount) contains: (East, 70), (West, 50), (West, 60), (North, 50), (East, 90), (North, 80).\n\nWhat does this query return for West?\nSELECT region, SUM(amount) FROM sales GROUP BY region;",
+  "options": [
+   "120",
+   "2",
+   "110",
+   "400"
+  ],
+  "answer": 2,
+  "explanation": "Rows for West: 50, 60 → SUM = 110.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Monthly sales went from 1,710 to 1,368. What is the percentage change?",
+  "options": [
+   "-20%",
+   "-25%",
+   "-40%",
+   "+20%"
+  ],
+  "answer": 0,
+  "explanation": "(1368 − 1710) ÷ 1710 × 100 = -20%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Monthly sales went from 1,540 to 2,156. What is the percentage change?",
+  "options": [
+   "−40%",
+   "+29%",
+   "+40%",
+   "+80%"
+  ],
+  "answer": 2,
+  "explanation": "(2156 − 1540) ÷ 1540 × 100 = 40%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Monthly sales went from 1,150 to 1,265. What is the percentage change?",
+  "options": [
+   "−10%",
+   "+10%",
+   "+20%",
+   "+9%"
+  ],
+  "answer": 1,
+  "explanation": "(1265 − 1150) ÷ 1150 × 100 = 10%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Monthly sales went from 590 to 679. What is the percentage change?",
+  "options": [
+   "+30%",
+   "+13%",
+   "+15%",
+   "−15%"
+  ],
+  "answer": 2,
+  "explanation": "(679 − 590) ÷ 590 × 100 = 15%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Monthly sales went from 610 to 763. What is the percentage change?",
+  "options": [
+   "+25%",
+   "+50%",
+   "−25%",
+   "+20%"
+  ],
+  "answer": 0,
+  "explanation": "(763 − 610) ÷ 610 × 100 = 25%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Monthly sales went from 860 to 688. What is the percentage change?",
+  "options": [
+   "+20%",
+   "-20%",
+   "-25%",
+   "-40%"
+  ],
+  "answer": 1,
+  "explanation": "(688 − 860) ÷ 860 × 100 = -20%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Monthly sales went from 1,020 to 1,122. What is the percentage change?",
+  "options": [
+   "+20%",
+   "+9%",
+   "+10%",
+   "−10%"
+  ],
+  "answer": 2,
+  "explanation": "(1122 − 1020) ÷ 1020 × 100 = 10%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Monthly sales went from 420 to 462. What is the percentage change?",
+  "options": [
+   "+10%",
+   "+20%",
+   "+9%",
+   "−10%"
+  ],
+  "answer": 0,
+  "explanation": "(462 − 420) ÷ 420 × 100 = 10%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Monthly sales went from 1,570 to 2,355. What is the percentage change?",
+  "options": [
+   "+33%",
+   "−50%",
+   "+50%",
+   "+100%"
+  ],
+  "answer": 2,
+  "explanation": "(2355 − 1570) ÷ 1570 × 100 = 50%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Monthly sales went from 200 to 300. What is the percentage change?",
+  "options": [
+   "+100%",
+   "+33%",
+   "−50%",
+   "+50%"
+  ],
+  "answer": 3,
+  "explanation": "(300 − 200) ÷ 200 × 100 = 50%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Delivery times (minutes) were 26, 39, 12, 58, 28. What is the median?",
+  "options": [
+   "30",
+   "32.6",
+   "46",
+   "28"
+  ],
+  "answer": 3,
+  "explanation": "Sorted: 12, 26, 28, 39, 58. Median = 28 (the mean is 32.6).",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Delivery times (minutes) were 22, 54, 49, 34, 18, 47, 47. What is the median?",
+  "options": [
+   "49",
+   "47",
+   "36",
+   "38.7"
+  ],
+  "answer": 1,
+  "explanation": "Sorted: 18, 22, 34, 47, 47, 49, 54. Median = 47 (the mean is 38.7).",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Delivery times (minutes) were 33, 57, 53, 53, 10, 34, 35, 54. What is the median?",
+  "options": [
+   "47",
+   "46",
+   "44",
+   "41.1"
+  ],
+  "answer": 2,
+  "explanation": "Sorted: 10, 33, 34, 35, 53, 53, 54, 57. Median = 44 (the mean is 41.1).",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Delivery times (minutes) were 19, 50, 59, 25, 58, 44, 31, 55. What is the median?",
+  "options": [
+   "42.6",
+   "40",
+   "47",
+   "49"
+  ],
+  "answer": 2,
+  "explanation": "Sorted: 19, 25, 31, 44, 50, 55, 58, 59. Median = 47 (the mean is 42.6).",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Delivery times (minutes) were 17, 10, 35, 11, 21, 17, 50. What is the median?",
+  "options": [
+   "40",
+   "23",
+   "17",
+   "19"
+  ],
+  "answer": 2,
+  "explanation": "Sorted: 10, 11, 17, 17, 21, 35, 50. Median = 17 (the mean is 23).",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Delivery times (minutes) were 54, 53, 24, 40, 15, 46. What is the median?",
+  "options": [
+   "38.7",
+   "39",
+   "45",
+   "43"
+  ],
+  "answer": 3,
+  "explanation": "Sorted: 15, 24, 40, 46, 53, 54. Median = 43 (the mean is 38.7).",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Delivery times (minutes) were 9, 50, 22, 56, 5, 41, 22. What is the median?",
+  "options": [
+   "22",
+   "29.3",
+   "24",
+   "51"
+  ],
+  "answer": 0,
+  "explanation": "Sorted: 5, 9, 22, 22, 41, 50, 56. Median = 22 (the mean is 29.3).",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Delivery times (minutes) were 14, 28, 39, 28, 54, 14. What is the median?",
+  "options": [
+   "30",
+   "40",
+   "28",
+   "29.5"
+  ],
+  "answer": 2,
+  "explanation": "Sorted: 14, 14, 28, 28, 39, 54. Median = 28 (the mean is 29.5).",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Delivery times (minutes) were 11, 24, 25, 20, 37, 22. What is the median?",
+  "options": [
+   "26",
+   "23.2",
+   "25",
+   "23"
+  ],
+  "answer": 3,
+  "explanation": "Sorted: 11, 20, 22, 24, 25, 37. Median = 23 (the mean is 23.2).",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Statistics",
+  "body": "Delivery times (minutes) were 43, 10, 49, 39, 44, 16, 35, 21. What is the median?",
+  "options": [
+   "37",
+   "32.1",
+   "41",
+   "39"
+  ],
+  "answer": 0,
+  "explanation": "Sorted: 10, 16, 21, 35, 39, 43, 44, 49. Median = 37 (the mean is 32.1).",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Excel",
+  "body": "Cell B2 holds 594 and B10 holds the total 649. What does =B2/B10 show when formatted as a percentage with one decimal place?",
+  "options": [
+   "91.5%",
+   "915%",
+   "92.5%",
+   "1.1%"
+  ],
+  "answer": 0,
+  "explanation": "594 ÷ 649 = 0.915 → 91.5%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Excel",
+  "body": "Cell B2 holds 75 and B10 holds the total 142. What does =B2/B10 show when formatted as a percentage with one decimal place?",
+  "options": [
+   "52.8%",
+   "53.8%",
+   "1.9%",
+   "528%"
+  ],
+  "answer": 0,
+  "explanation": "75 ÷ 142 = 0.528 → 52.8%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Excel",
+  "body": "Cell B2 holds 39 and B10 holds the total 673. What does =B2/B10 show when formatted as a percentage with one decimal place?",
+  "options": [
+   "58%",
+   "5.8%",
+   "17.3%",
+   "6.8%"
+  ],
+  "answer": 1,
+  "explanation": "39 ÷ 673 = 0.058 → 5.8%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Excel",
+  "body": "Cell B2 holds 86 and B10 holds the total 141. What does =B2/B10 show when formatted as a percentage with one decimal place?",
+  "options": [
+   "61%",
+   "62%",
+   "610%",
+   "1.6%"
+  ],
+  "answer": 0,
+  "explanation": "86 ÷ 141 = 0.61 → 61%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Excel",
+  "body": "Cell B2 holds 58 and B10 holds the total 116. What does =B2/B10 show when formatted as a percentage with one decimal place?",
+  "options": [
+   "51%",
+   "2%",
+   "50%",
+   "500%"
+  ],
+  "answer": 2,
+  "explanation": "58 ÷ 116 = 0.5 → 50%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Excel",
+  "body": "Cell B2 holds 426 and B10 holds the total 855. What does =B2/B10 show when formatted as a percentage with one decimal place?",
+  "options": [
+   "49.8%",
+   "498%",
+   "50.8%",
+   "2%"
+  ],
+  "answer": 0,
+  "explanation": "426 ÷ 855 = 0.498 → 49.8%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Excel",
+  "body": "Cell B2 holds 481 and B10 holds the total 719. What does =B2/B10 show when formatted as a percentage with one decimal place?",
+  "options": [
+   "669%",
+   "67.9%",
+   "66.9%",
+   "1.5%"
+  ],
+  "answer": 2,
+  "explanation": "481 ÷ 719 = 0.669 → 66.9%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DAQ",
+  "topic": "Excel",
+  "body": "Cell B2 holds 584 and B10 holds the total 776. What does =B2/B10 show when formatted as a percentage with one decimal place?",
+  "options": [
+   "1.3%",
+   "76.3%",
+   "753%",
+   "75.3%"
+  ],
+  "answer": 3,
+  "explanation": "584 ÷ 776 = 0.753 → 75.3%.",
+  "difficulty": 1
+ }
+]

@@ -1,0 +1,884 @@
+[
+ {
+  "subject": "SECQ",
+  "topic": "Principles",
+  "body": "What does the CIA triad stand for?",
+  "options": [
+   "Cybersecurity, investigation, audit",
+   "Confidentiality, identity, authentication",
+   "Confidentiality, integrity, availability",
+   "Control, identity, access"
+  ],
+  "answer": 2,
+  "explanation": "The three core goals of information security.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Principles",
+  "body": "A hospital system goes offline during a cyber attack. Which CIA principle is affected?",
+  "options": [
+   "Confidentiality",
+   "Integrity",
+   "Non-repudiation",
+   "Availability"
+  ],
+  "answer": 3,
+  "explanation": "Authorised users can't access the system.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Principles",
+  "body": "An attacker secretly changes bank account numbers in invoices. Which principle is violated?",
+  "options": [
+   "Authentication",
+   "Confidentiality",
+   "Availability",
+   "Integrity"
+  ],
+  "answer": 3,
+  "explanation": "Data has been altered without authorisation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Principles",
+  "body": "Customer records are leaked online. Which principle is violated?",
+  "options": [
+   "Confidentiality",
+   "Integrity",
+   "Accountability",
+   "Availability"
+  ],
+  "answer": 0,
+  "explanation": "Data was disclosed to unauthorised people.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Principles",
+  "body": "Defence in depth means",
+  "options": [
+   "encrypting only backups",
+   "relying on one strong firewall",
+   "hiding systems from attackers",
+   "using several layers of security controls"
+  ],
+  "answer": 3,
+  "explanation": "If one control fails, others still protect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Principles",
+  "body": "Which principle ensures someone cannot deny having sent a message?",
+  "options": [
+   "Availability",
+   "Obfuscation",
+   "Non-repudiation",
+   "Least privilege"
+  ],
+  "answer": 2,
+  "explanation": "Digital signatures provide non-repudiation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Cryptography",
+  "body": "Which type of encryption uses the same key to encrypt and decrypt?",
+  "options": [
+   "Hashing",
+   "Asymmetric",
+   "Steganography",
+   "Symmetric"
+  ],
+  "answer": 3,
+  "explanation": "AES is a common symmetric algorithm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Cryptography",
+  "body": "In asymmetric encryption, which key do you use to encrypt a message for someone else?",
+  "options": [
+   "Their public key",
+   "Their private key",
+   "A shared password",
+   "Your private key"
+  ],
+  "answer": 0,
+  "explanation": "Only their private key can decrypt it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Cryptography",
+  "body": "What is hashing mainly used for?",
+  "options": [
+   "Verifying integrity — a one-way fingerprint of data",
+   "Compressing files",
+   "Encrypting data so it can be decrypted later",
+   "Hiding IP addresses"
+  ],
+  "answer": 0,
+  "explanation": "Hashes can't be reversed; SHA-256 is common.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Cryptography",
+  "body": "Adding random data to a password before hashing it is called",
+  "options": [
+   "encoding",
+   "peppering only",
+   "salting",
+   "tokenising"
+  ],
+  "answer": 2,
+  "explanation": "Salts defeat precomputed rainbow-table attacks.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Cryptography",
+  "body": "Which protocol secures web traffic in HTTPS?",
+  "options": [
+   "SNMP",
+   "TLS",
+   "SSH",
+   "FTP"
+  ],
+  "answer": 1,
+  "explanation": "TLS replaced the older SSL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Identity",
+  "body": "Which is an example of 'something you have'?",
+  "options": [
+   "A password",
+   "A fingerprint",
+   "Your date of birth",
+   "A security key or authenticator app"
+  ],
+  "answer": 3,
+  "explanation": "Possession factor.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Identity",
+  "body": "Which is an example of 'something you are'?",
+  "options": [
+   "A PIN",
+   "A one-time code",
+   "A fingerprint",
+   "A smart card"
+  ],
+  "answer": 2,
+  "explanation": "Biometrics are inherence factors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Identity",
+  "body": "Role-based access control (RBAC) grants permissions based on",
+  "options": [
+   "security labels like Top Secret",
+   "the time of day only",
+   "the file owner's choice",
+   "a user's job role"
+  ],
+  "answer": 3,
+  "explanation": "Mandatory access control uses labels; discretionary access lets owners decide.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Identity",
+  "body": "Regularly checking that users still need their access is called",
+  "options": [
+   "an access review (recertification)",
+   "hardening",
+   "a vulnerability scan",
+   "a penetration test"
+  ],
+  "answer": 0,
+  "explanation": "It removes privilege creep.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Network defence",
+  "body": "Which device or software filters traffic based on rules?",
+  "options": [
+   "A hub",
+   "A load balancer only",
+   "A proxy cache only",
+   "A firewall"
+  ],
+  "answer": 3,
+  "explanation": "Rules allow or deny traffic by address, port and protocol.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Network defence",
+  "body": "Placing public web servers in a separate network zone from internal systems is called",
+  "options": [
+   "a honeypot",
+   "a DMZ (screened subnet)",
+   "a VPN",
+   "a VLAN trunk"
+  ],
+  "answer": 1,
+  "explanation": "It limits damage if the web server is compromised.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Network defence",
+  "body": "What does an IDS do?",
+  "options": [
+   "Detects and alerts on suspicious activity",
+   "Assigns IP addresses",
+   "Encrypts disks",
+   "Blocks all traffic automatically"
+  ],
+  "answer": 0,
+  "explanation": "An IPS can also block traffic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Network defence",
+  "body": "A decoy system designed to attract and study attackers is a",
+  "options": [
+   "sandbox",
+   "honeypot",
+   "jump box",
+   "proxy"
+  ],
+  "answer": 1,
+  "explanation": "It distracts attackers and gathers intelligence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Network defence",
+  "body": "Network segmentation helps security by",
+  "options": [
+   "making Wi-Fi faster",
+   "removing the need for passwords",
+   "replacing backups",
+   "limiting how far an attacker can move inside the network"
+  ],
+  "answer": 3,
+  "explanation": "It contains breaches.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Risk",
+  "body": "Accepting a risk means",
+  "options": [
+   "acknowledging it and choosing not to act because the cost outweighs the benefit",
+   "buying insurance",
+   "adding a firewall",
+   "removing the risky activity"
+  ],
+  "answer": 0,
+  "explanation": "Transfer = insurance; avoid = stop the activity; mitigate = add controls.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Risk",
+  "body": "Buying cyber insurance is an example of risk",
+  "options": [
+   "transference",
+   "mitigation",
+   "avoidance",
+   "acceptance"
+  ],
+  "answer": 0,
+  "explanation": "Some financial impact is shifted to the insurer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Risk",
+  "body": "A security policy, staff training and background checks are examples of which control type?",
+  "options": [
+   "Administrative (managerial) controls",
+   "Compensating controls only",
+   "Technical controls",
+   "Physical controls"
+  ],
+  "answer": 0,
+  "explanation": "Technical = firewalls, encryption; physical = locks, guards.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Risk",
+  "body": "A CCTV camera that records an intruder is mainly which kind of control?",
+  "options": [
+   "Preventive",
+   "Detective",
+   "Deterrent only",
+   "Corrective"
+  ],
+  "answer": 1,
+  "explanation": "It detects and records events.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Risk",
+  "body": "Which UK law governs how personal data must be protected?",
+  "options": [
+   "The Equality Act",
+   "UK GDPR and the Data Protection Act 2018",
+   "The Computer Misuse Act only",
+   "The Companies Act"
+  ],
+  "answer": 1,
+  "explanation": "The Computer Misuse Act covers unauthorised access.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Incident response",
+  "body": "What is the first phase of the incident response lifecycle?",
+  "options": [
+   "Preparation",
+   "Lessons learned",
+   "Eradication",
+   "Containment"
+  ],
+  "answer": 0,
+  "explanation": "Plans, tools and training come before any incident.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Incident response",
+  "body": "Isolating an infected laptop from the network is part of",
+  "options": [
+   "preparation",
+   "lessons learned",
+   "containment",
+   "identification only"
+  ],
+  "answer": 2,
+  "explanation": "It stops the incident spreading.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Incident response",
+  "body": "Removing malware and closing the vulnerability it used is",
+  "options": [
+   "eradication",
+   "containment",
+   "preparation",
+   "recovery"
+  ],
+  "answer": 0,
+  "explanation": "Then systems are restored in recovery.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Incident response",
+  "body": "Why must evidence follow a chain of custody?",
+  "options": [
+   "To speed up recovery",
+   "To encrypt it",
+   "To prove it hasn't been tampered with",
+   "To reduce storage costs"
+  ],
+  "answer": 2,
+  "explanation": "It records who handled evidence and when.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Incident response",
+  "body": "A SIEM system mainly",
+  "options": [
+   "stores passwords",
+   "replaces antivirus",
+   "collects and correlates logs to detect security events",
+   "blocks phishing emails only"
+  ],
+  "answer": 2,
+  "explanation": "Security information and event management.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Vulnerabilities",
+  "body": "A zero-day vulnerability is",
+  "options": [
+   "a flaw unknown to the vendor with no patch available",
+   "a bug fixed on day zero",
+   "a weak password",
+   "a misconfigured printer"
+  ],
+  "answer": 0,
+  "explanation": "Attackers can exploit it before a fix exists.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Vulnerabilities",
+  "body": "What is the main purpose of patch management?",
+  "options": [
+   "Encrypting email",
+   "Fixing known vulnerabilities promptly",
+   "Making backups",
+   "Monitoring staff"
+  ],
+  "answer": 1,
+  "explanation": "Many breaches exploit unpatched systems.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Vulnerabilities",
+  "body": "An authorised simulated attack to find weaknesses is a",
+  "options": [
+   "vulnerability scan only",
+   "penetration test",
+   "business continuity plan",
+   "risk register"
+  ],
+  "answer": 1,
+  "explanation": "Scans list weaknesses; pen tests try to exploit them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Threats",
+  "body": "Which attack involves fraudulent emails that trick people into revealing credentials or clicking malicious links?",
+  "options": [
+   "Phishing",
+   "A trojan",
+   "Ransomware",
+   "An on-path (man-in-the-middle) attack"
+  ],
+  "answer": 0,
+  "explanation": "Phishing: fraudulent emails that trick people into revealing credentials or clicking malicious links.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Threats",
+  "body": "Which attack involves a targeted phishing attack aimed at a specific person or organisation?",
+  "options": [
+   "Phishing",
+   "Cross-site scripting (XSS)",
+   "Spear phishing",
+   "A trojan"
+  ],
+  "answer": 2,
+  "explanation": "Spear phishing: a targeted phishing attack aimed at a specific person or organisation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Threats",
+  "body": "Which attack involves social engineering carried out over voice calls?",
+  "options": [
+   "Vishing",
+   "A worm",
+   "Cross-site scripting (XSS)",
+   "A brute-force attack"
+  ],
+  "answer": 0,
+  "explanation": "Vishing: social engineering carried out over voice calls.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Threats",
+  "body": "Which attack involves phishing delivered by SMS text message?",
+  "options": [
+   "Ransomware",
+   "Cross-site scripting (XSS)",
+   "Smishing",
+   "Vishing"
+  ],
+  "answer": 2,
+  "explanation": "Smishing: phishing delivered by SMS text message.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Threats",
+  "body": "Which attack involves malware that encrypts data and demands payment?",
+  "options": [
+   "Cross-site scripting (XSS)",
+   "Ransomware",
+   "A trojan",
+   "Credential stuffing"
+  ],
+  "answer": 1,
+  "explanation": "Ransomware: malware that encrypts data and demands payment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Threats",
+  "body": "Which attack involves malware disguised as legitimate software?",
+  "options": [
+   "Credential stuffing",
+   "A DDoS attack",
+   "An on-path (man-in-the-middle) attack",
+   "A trojan"
+  ],
+  "answer": 3,
+  "explanation": "A trojan: malware disguised as legitimate software.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Threats",
+  "body": "Which attack involves malware that spreads by itself across networks without user action?",
+  "options": [
+   "A worm",
+   "Cross-site scripting (XSS)",
+   "Vishing",
+   "A trojan"
+  ],
+  "answer": 0,
+  "explanation": "A worm: malware that spreads by itself across networks without user action.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Threats",
+  "body": "Which attack involves flooding a service with traffic from many machines to make it unavailable?",
+  "options": [
+   "A DDoS attack",
+   "Smishing",
+   "A worm",
+   "Ransomware"
+  ],
+  "answer": 0,
+  "explanation": "A DDoS attack: flooding a service with traffic from many machines to make it unavailable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Threats",
+  "body": "Which attack involves inserting malicious database commands into an application's input fields?",
+  "options": [
+   "A brute-force attack",
+   "Spear phishing",
+   "Vishing",
+   "SQL injection"
+  ],
+  "answer": 3,
+  "explanation": "SQL injection: inserting malicious database commands into an application's input fields.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Threats",
+  "body": "Which attack involves injecting malicious scripts into web pages viewed by other users?",
+  "options": [
+   "A worm",
+   "A DDoS attack",
+   "Ransomware",
+   "Cross-site scripting (XSS)"
+  ],
+  "answer": 3,
+  "explanation": "Cross-site scripting (XSS): injecting malicious scripts into web pages viewed by other users.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Threats",
+  "body": "Which attack involves secretly intercepting and possibly altering communications between two parties?",
+  "options": [
+   "An on-path (man-in-the-middle) attack",
+   "A DDoS attack",
+   "Smishing",
+   "Vishing"
+  ],
+  "answer": 0,
+  "explanation": "An on-path (man-in-the-middle) attack: secretly intercepting and possibly altering communications between two parties.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Threats",
+  "body": "Which attack involves using username/password pairs leaked from one site to log in to others?",
+  "options": [
+   "Phishing",
+   "Pretexting",
+   "A worm",
+   "Credential stuffing"
+  ],
+  "answer": 3,
+  "explanation": "Credential stuffing: using username/password pairs leaked from one site to log in to others.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Threats",
+  "body": "Which attack involves trying every possible password until one works?",
+  "options": [
+   "A brute-force attack",
+   "SQL injection",
+   "Vishing",
+   "Spear phishing"
+  ],
+  "answer": 0,
+  "explanation": "A brute-force attack: trying every possible password until one works.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Threats",
+  "body": "Which attack involves inventing a believable scenario to persuade someone to give up information?",
+  "options": [
+   "A trojan",
+   "Pretexting",
+   "Phishing",
+   "Vishing"
+  ],
+  "answer": 1,
+  "explanation": "Pretexting: inventing a believable scenario to persuade someone to give up information.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Risk",
+  "body": "A server worth £12,000 would lose 50% of its value in an incident expected 0.5 time(s) per year. What is the annualised loss expectancy (ALE)?",
+  "options": [
+   "£3,000",
+   "£6,000",
+   "£2,700",
+   "£3,300"
+  ],
+  "answer": 0,
+  "explanation": "SLE = asset value × exposure factor = £6,000. ALE = SLE × ARO = £6,000 × 0.5 = £3,000.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Risk",
+  "body": "A server worth £18,000 would lose 40% of its value in an incident expected 0.2 time(s) per year. What is the annualised loss expectancy (ALE)?",
+  "options": [
+   "£2,880",
+   "£3,600",
+   "£1,440",
+   "£7,200"
+  ],
+  "answer": 2,
+  "explanation": "SLE = asset value × exposure factor = £7,200. ALE = SLE × ARO = £7,200 × 0.2 = £1,440.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Risk",
+  "body": "A server worth £11,000 would lose 20% of its value in an incident expected 0.5 time(s) per year. What is the annualised loss expectancy (ALE)?",
+  "options": [
+   "£1,210",
+   "£1,100",
+   "£5,500",
+   "£2,200"
+  ],
+  "answer": 1,
+  "explanation": "SLE = asset value × exposure factor = £2,200. ALE = SLE × ARO = £2,200 × 0.5 = £1,100.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Risk",
+  "body": "A server worth £8,000 would lose 25% of its value in an incident expected 2 time(s) per year. What is the annualised loss expectancy (ALE)?",
+  "options": [
+   "£16,000",
+   "£8,000",
+   "£2,000",
+   "£4,000"
+  ],
+  "answer": 3,
+  "explanation": "SLE = asset value × exposure factor = £2,000. ALE = SLE × ARO = £2,000 × 2 = £4,000.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Risk",
+  "body": "A server worth £46,000 would lose 25% of its value in an incident expected 0.1 time(s) per year. What is the annualised loss expectancy (ALE)?",
+  "options": [
+   "£2,300",
+   "£4,600",
+   "£1,150",
+   "£11,500"
+  ],
+  "answer": 2,
+  "explanation": "SLE = asset value × exposure factor = £11,500. ALE = SLE × ARO = £11,500 × 0.1 = £1,150.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Risk",
+  "body": "A server worth £15,000 would lose 25% of its value in an incident expected 0.2 time(s) per year. What is the annualised loss expectancy (ALE)?",
+  "options": [
+   "£3,000",
+   "£3,750",
+   "£750",
+   "£1,500"
+  ],
+  "answer": 2,
+  "explanation": "SLE = asset value × exposure factor = £3,750. ALE = SLE × ARO = £3,750 × 0.2 = £750.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Risk",
+  "body": "A server worth £41,000 would lose 20% of its value in an incident expected 0.1 time(s) per year. What is the annualised loss expectancy (ALE)?",
+  "options": [
+   "£1,640",
+   "£820",
+   "£8,200",
+   "£4,100"
+  ],
+  "answer": 1,
+  "explanation": "SLE = asset value × exposure factor = £8,200. ALE = SLE × ARO = £8,200 × 0.1 = £820.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Risk",
+  "body": "A server worth £45,000 would lose 20% of its value in an incident expected 0.1 time(s) per year. What is the annualised loss expectancy (ALE)?",
+  "options": [
+   "£4,500",
+   "£900",
+   "£1,800",
+   "£9,000"
+  ],
+  "answer": 1,
+  "explanation": "SLE = asset value × exposure factor = £9,000. ALE = SLE × ARO = £9,000 × 0.1 = £900.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Risk",
+  "body": "A server worth £42,000 would lose 10% of its value in an incident expected 2 time(s) per year. What is the annualised loss expectancy (ALE)?",
+  "options": [
+   "£4,200",
+   "£84,000",
+   "£16,800",
+   "£8,400"
+  ],
+  "answer": 3,
+  "explanation": "SLE = asset value × exposure factor = £4,200. ALE = SLE × ARO = £4,200 × 2 = £8,400.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Risk",
+  "body": "A server worth £32,000 would lose 20% of its value in an incident expected 2 time(s) per year. What is the annualised loss expectancy (ALE)?",
+  "options": [
+   "£25,600",
+   "£6,400",
+   "£64,000",
+   "£12,800"
+  ],
+  "answer": 3,
+  "explanation": "SLE = asset value × exposure factor = £6,400. ALE = SLE × ARO = £6,400 × 2 = £12,800.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Identity",
+  "body": "How many possible combinations are there for a 6-character code using 36 possible characters?",
+  "options": [
+   "36^6 (2,176,782,336)",
+   "6^36",
+   "42^2",
+   "36 × 6 (216)"
+  ],
+  "answer": 0,
+  "explanation": "Each position has 36 options: 36^6. Longer passwords grow the search space exponentially.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Identity",
+  "body": "How many possible combinations are there for a 6-character code using 10 possible characters?",
+  "options": [
+   "6^10",
+   "10^6 (1,000,000)",
+   "10 × 6 (60)",
+   "16^2"
+  ],
+  "answer": 1,
+  "explanation": "Each position has 10 options: 10^6. Longer passwords grow the search space exponentially.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Identity",
+  "body": "How many possible combinations are there for a 8-character code using 10 possible characters?",
+  "options": [
+   "18^2",
+   "8^10",
+   "10 × 8 (80)",
+   "10^8 (100,000,000)"
+  ],
+  "answer": 3,
+  "explanation": "Each position has 10 options: 10^8. Longer passwords grow the search space exponentially.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Identity",
+  "body": "How many possible combinations are there for a 4-character code using 36 possible characters?",
+  "options": [
+   "4^36",
+   "40^2",
+   "36^4 (1,679,616)",
+   "36 × 4 (144)"
+  ],
+  "answer": 2,
+  "explanation": "Each position has 36 options: 36^4. Longer passwords grow the search space exponentially.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Identity",
+  "body": "How many possible combinations are there for a 4-character code using 10 possible characters?",
+  "options": [
+   "4^10",
+   "10 × 4 (40)",
+   "10^4 (10,000)",
+   "14^2"
+  ],
+  "answer": 2,
+  "explanation": "Each position has 10 options: 10^4. Longer passwords grow the search space exponentially.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SECQ",
+  "topic": "Identity",
+  "body": "How many possible combinations are there for a 8-character code using 36 possible characters?",
+  "options": [
+   "8^36",
+   "36^8 (2,821,109,907,456)",
+   "36 × 8 (288)",
+   "44^2"
+  ],
+  "answer": 1,
+  "explanation": "Each position has 36 options: 36^8. Longer passwords grow the search space exponentially.",
+  "difficulty": 2
+ }
+]

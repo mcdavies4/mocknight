@@ -1,0 +1,3292 @@
+[
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 8x + 12 = 20, what is the value of x?",
+  "options": [
+   "4",
+   "0",
+   "2",
+   "1"
+  ],
+  "answer": 3,
+  "explanation": "Subtract 12 from both sides: 8x = 8. Divide by 8: x = 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 6x + 1 = 55, what is the value of x?",
+  "options": [
+   "8",
+   "7",
+   "9",
+   "10"
+  ],
+  "answer": 2,
+  "explanation": "Subtract 1 from both sides: 6x = 54. Divide by 6: x = 9.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 8x + 3 = 67, what is the value of x?",
+  "options": [
+   "8.75",
+   "9",
+   "8",
+   "6"
+  ],
+  "answer": 2,
+  "explanation": "Subtract 3 from both sides: 8x = 64. Divide by 8: x = 8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 2x + 6 = 18, what is the value of x?",
+  "options": [
+   "12",
+   "4",
+   "7",
+   "6"
+  ],
+  "answer": 3,
+  "explanation": "Subtract 6 from both sides: 2x = 12. Divide by 2: x = 6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 6x − 8 = 46, what is the value of x?",
+  "options": [
+   "8",
+   "7",
+   "10",
+   "9"
+  ],
+  "answer": 3,
+  "explanation": "Add 8 to both sides: 6x = 54. Divide by 6: x = 9.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 8x + 9 = -39, what is the value of x?",
+  "options": [
+   "0",
+   "6",
+   "1",
+   "-6"
+  ],
+  "answer": 3,
+  "explanation": "Subtract 9 from both sides: 8x = -48. Divide by 8: x = -6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 4x − 3 = 41, what is the value of x?",
+  "options": [
+   "11",
+   "9.5",
+   "9",
+   "12"
+  ],
+  "answer": 0,
+  "explanation": "Add 3 to both sides: 4x = 44. Divide by 4: x = 11.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 9x + 14 = -49, what is the value of x?",
+  "options": [
+   "7",
+   "0",
+   "-7",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "Subtract 14 from both sides: 9x = -63. Divide by 9: x = -7.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 4x − 15 = 29, what is the value of x?",
+  "options": [
+   "3.5",
+   "12",
+   "9",
+   "11"
+  ],
+  "answer": 3,
+  "explanation": "Add 15 to both sides: 4x = 44. Divide by 4: x = 11.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 3x + 13 = 43, what is the value of x?",
+  "options": [
+   "11",
+   "9",
+   "8",
+   "10"
+  ],
+  "answer": 3,
+  "explanation": "Subtract 13 from both sides: 3x = 30. Divide by 3: x = 10.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 7x − 11 = 10, what is the value of x?",
+  "options": [
+   "1",
+   "3",
+   "2",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "Add 11 to both sides: 7x = 21. Divide by 7: x = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 8x − 11 = 53, what is the value of x?",
+  "options": [
+   "5.25",
+   "9",
+   "6",
+   "8"
+  ],
+  "answer": 3,
+  "explanation": "Add 11 to both sides: 8x = 64. Divide by 8: x = 8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 5x − 5 = 45, what is the value of x?",
+  "options": [
+   "9",
+   "11",
+   "10",
+   "8"
+  ],
+  "answer": 2,
+  "explanation": "Add 5 to both sides: 5x = 50. Divide by 5: x = 10.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 4x − 12 = -28, what is the value of x?",
+  "options": [
+   "-4",
+   "4",
+   "0",
+   "1"
+  ],
+  "answer": 0,
+  "explanation": "Add 12 to both sides: 4x = -16. Divide by 4: x = -4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 4x = 24, what is the value of 4x + 1?",
+  "options": [
+   "25",
+   "24",
+   "6",
+   "28"
+  ],
+  "answer": 0,
+  "explanation": "x = 6, so 4x + 1 = 25.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 4x = 36, what is the value of 4x + 1?",
+  "options": [
+   "36",
+   "40",
+   "9",
+   "37"
+  ],
+  "answer": 3,
+  "explanation": "x = 9, so 4x + 1 = 37.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 4x = 20, what is the value of 2x + 1?",
+  "options": [
+   "5",
+   "14",
+   "10",
+   "11"
+  ],
+  "answer": 3,
+  "explanation": "x = 5, so 2x + 1 = 11.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 2x = 10, what is the value of 4x + 1?",
+  "options": [
+   "5",
+   "21",
+   "20",
+   "22"
+  ],
+  "answer": 1,
+  "explanation": "x = 5, so 4x + 1 = 21.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 2x = 6, what is the value of 3x + 1?",
+  "options": [
+   "9",
+   "10",
+   "11",
+   "3"
+  ],
+  "answer": 1,
+  "explanation": "x = 3, so 3x + 1 = 10.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 3x = 27, what is the value of 4x + 1?",
+  "options": [
+   "36",
+   "39",
+   "37",
+   "9"
+  ],
+  "answer": 2,
+  "explanation": "x = 9, so 4x + 1 = 37.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 2x = 16, what is the value of 5x + 1?",
+  "options": [
+   "8",
+   "40",
+   "42",
+   "41"
+  ],
+  "answer": 3,
+  "explanation": "x = 8, so 5x + 1 = 41.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "If 5x = 10, what is the value of 2x + 1?",
+  "options": [
+   "9",
+   "2",
+   "4",
+   "5"
+  ],
+  "answer": 3,
+  "explanation": "x = 2, so 2x + 1 = 5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "3x + 4y = 18\n4x − 4y = 24\n\nIf (x, y) is the solution to the system above, what is the value of x?",
+  "options": [
+   "0",
+   "4",
+   "7",
+   "6"
+  ],
+  "answer": 3,
+  "explanation": "Solving gives x = 6 and y = 0, so x = 6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "3x + 3y = 18\nx − 4y = -14\n\nIf (x, y) is the solution to the system above, what is the value of x?",
+  "options": [
+   "2",
+   "4",
+   "3",
+   "0"
+  ],
+  "answer": 0,
+  "explanation": "Solving gives x = 2 and y = 4, so x = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "x + 4y = -7\n2x − 3y = -3\n\nIf (x, y) is the solution to the system above, what is the value of x?",
+  "options": [
+   "3",
+   "0",
+   "1",
+   "-3"
+  ],
+  "answer": 3,
+  "explanation": "Solving gives x = -3 and y = -1, so x = -3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "4x + 4y = 0\n2x − 2y = 12\n\nIf (x, y) is the solution to the system above, what is the value of y?",
+  "options": [
+   "1",
+   "3",
+   "-3",
+   "0"
+  ],
+  "answer": 2,
+  "explanation": "Solving gives x = 3 and y = -3, so y = -3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "3x + 2y = 25\n3x − 2y = -7\n\nIf (x, y) is the solution to the system above, what is the value of x + y?",
+  "options": [
+   "11",
+   "9",
+   "12",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "Solving gives x = 3 and y = 8, so x + y = 11.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "4x + 3y = 10\n2x − 3y = -22\n\nIf (x, y) is the solution to the system above, what is the value of x?",
+  "options": [
+   "6",
+   "-2",
+   "2",
+   "0"
+  ],
+  "answer": 1,
+  "explanation": "Solving gives x = -2 and y = 6, so x = -2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "3x + 2y = 16\n4x − 2y = 12\n\nIf (x, y) is the solution to the system above, what is the value of x?",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "Solving gives x = 4 and y = 2, so x = 4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "2x + 4y = 8\nx − 4y = 4\n\nIf (x, y) is the solution to the system above, what is the value of y?",
+  "options": [
+   "2",
+   "0",
+   "1",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "Solving gives x = 4 and y = 0, so y = 0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "4x + 4y = 16\n2x − 3y = -7\n\nIf (x, y) is the solution to the system above, what is the value of x?",
+  "options": [
+   "1",
+   "0",
+   "2",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "Solving gives x = 1 and y = 3, so x = 1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "4x + 4y = 12\n4x − 2y = 36\n\nIf (x, y) is the solution to the system above, what is the value of x?",
+  "options": [
+   "7",
+   "6",
+   "5",
+   "8"
+  ],
+  "answer": 0,
+  "explanation": "Solving gives x = 7 and y = -4, so x = 7.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "x + 4y = -7\nx − 2y = 5\n\nIf (x, y) is the solution to the system above, what is the value of y?",
+  "options": [
+   "-2",
+   "2",
+   "0",
+   "1"
+  ],
+  "answer": 0,
+  "explanation": "Solving gives x = 1 and y = -2, so y = -2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "x + y = -5\n2x − y = 2\n\nIf (x, y) is the solution to the system above, what is the value of x + y?",
+  "options": [
+   "0",
+   "-5",
+   "1",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": "Solving gives x = -1 and y = -4, so x + y = -5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A line passes through (6, 2) and (9, -4). What is the slope of the line?",
+  "options": [
+   "2",
+   "0",
+   "-2",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "Slope = (change in y) ÷ (change in x) = -6 ÷ 3 = -2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A line passes through (1, 4) and (3, 6). What is the slope of the line?",
+  "options": [
+   "1",
+   "3",
+   "0",
+   "2"
+  ],
+  "answer": 0,
+  "explanation": "Slope = (change in y) ÷ (change in x) = 2 ÷ 2 = 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A line passes through (2, 1) and (6, 5). What is the slope of the line?",
+  "options": [
+   "0",
+   "3",
+   "2",
+   "1"
+  ],
+  "answer": 3,
+  "explanation": "Slope = (change in y) ÷ (change in x) = 4 ÷ 4 = 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A line passes through (-1, -2) and (2, 7). What is the slope of the line?",
+  "options": [
+   "6",
+   "4",
+   "3",
+   "2"
+  ],
+  "answer": 2,
+  "explanation": "Slope = (change in y) ÷ (change in x) = 9 ÷ 3 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A line passes through (-1, 6) and (-3, 0). What is the slope of the line?",
+  "options": [
+   "4",
+   "2",
+   "3",
+   "6"
+  ],
+  "answer": 2,
+  "explanation": "Slope = (change in y) ÷ (change in x) = -6 ÷ -2 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A line passes through (-5, -3) and (-1, 5). What is the slope of the line?",
+  "options": [
+   "2",
+   "1",
+   "0.5",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "Slope = (change in y) ÷ (change in x) = 8 ÷ 4 = 2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A line passes through (-2, 3) and (-4, -1). What is the slope of the line?",
+  "options": [
+   "3",
+   "2",
+   "1",
+   "0.5"
+  ],
+  "answer": 1,
+  "explanation": "Slope = (change in y) ÷ (change in x) = -4 ÷ -2 = 2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A line passes through (1, -5) and (-1, -11). What is the slope of the line?",
+  "options": [
+   "3",
+   "6",
+   "2",
+   "4"
+  ],
+  "answer": 0,
+  "explanation": "Slope = (change in y) ÷ (change in x) = -6 ÷ -2 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A line passes through (3, -5) and (5, -6). What is the slope of the line?",
+  "options": [
+   "1.5",
+   "-0.5",
+   "2.5",
+   "0.5"
+  ],
+  "answer": 1,
+  "explanation": "Slope = (change in y) ÷ (change in x) = -1 ÷ 2 = -0.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A line passes through (-6, -6) and (-8, -12). What is the slope of the line?",
+  "options": [
+   "6",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": 2,
+  "explanation": "Slope = (change in y) ÷ (change in x) = -6 ÷ -2 = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A line passes through (-4, 2) and (0, -10). What is the slope of the line?",
+  "options": [
+   "3",
+   "-3",
+   "1",
+   "0"
+  ],
+  "answer": 1,
+  "explanation": "Slope = (change in y) ÷ (change in x) = -12 ÷ 4 = -3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A line passes through (-2, 1) and (2, 3). What is the slope of the line?",
+  "options": [
+   "0.5",
+   "1",
+   "2",
+   "1.5"
+  ],
+  "answer": 0,
+  "explanation": "Slope = (change in y) ÷ (change in x) = 2 ÷ 4 = 0.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "Line ℓ has slope 3. What is the slope of a line perpendicular to ℓ?",
+  "options": [
+   "0.666667",
+   "-0.333333",
+   "0.333333",
+   "3"
+  ],
+  "answer": 1,
+  "explanation": "Perpendicular slopes are negative reciprocals: −1 ÷ 3 = -0.333333.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "Line ℓ has slope -3. What is the slope of a line perpendicular to ℓ?",
+  "options": [
+   "3",
+   "1.333333",
+   "0.333333",
+   "0.666667"
+  ],
+  "answer": 2,
+  "explanation": "Perpendicular slopes are negative reciprocals: −1 ÷ -3 = 0.333333.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "Line ℓ has slope 0.5. What is the slope of a line perpendicular to ℓ?",
+  "options": [
+   "2",
+   "0",
+   "-2",
+   "0.5"
+  ],
+  "answer": 2,
+  "explanation": "Perpendicular slopes are negative reciprocals: −1 ÷ 0.5 = -2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "Line ℓ has slope -2. What is the slope of a line perpendicular to ℓ?",
+  "options": [
+   "1.5",
+   "1",
+   "2",
+   "0.5"
+  ],
+  "answer": 3,
+  "explanation": "Perpendicular slopes are negative reciprocals: −1 ÷ -2 = 0.5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "Line ℓ has slope 4. What is the slope of a line perpendicular to ℓ?",
+  "options": [
+   "4",
+   "0.75",
+   "0.25",
+   "-0.25"
+  ],
+  "answer": 3,
+  "explanation": "Perpendicular slopes are negative reciprocals: −1 ÷ 4 = -0.25.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "Line ℓ has slope 2. What is the slope of a line perpendicular to ℓ?",
+  "options": [
+   "1.5",
+   "0.5",
+   "-0.5",
+   "2"
+  ],
+  "answer": 2,
+  "explanation": "Perpendicular slopes are negative reciprocals: −1 ÷ 2 = -0.5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A plumber charges a $60 call-out fee plus $5 per hour. The total for one job was $80. How many hours did the job take?",
+  "options": [
+   "4",
+   "3",
+   "16",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "60 + 5h = 80 → 5h = 20 → h = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A plumber charges a $55 call-out fee plus $5 per hour. The total for one job was $85. How many hours did the job take?",
+  "options": [
+   "17",
+   "6",
+   "7",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": "55 + 5h = 85 → 5h = 30 → h = 6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A plumber charges a $35 call-out fee plus $14 per hour. The total for one job was $133. How many hours did the job take?",
+  "options": [
+   "8",
+   "2.8",
+   "7",
+   "9.5"
+  ],
+  "answer": 2,
+  "explanation": "35 + 14h = 133 → 14h = 98 → h = 7.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A plumber charges a $40 call-out fee plus $5 per hour. The total for one job was $60. How many hours did the job take?",
+  "options": [
+   "5",
+   "0.5",
+   "12",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": "40 + 5h = 60 → 5h = 20 → h = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A plumber charges a $25 call-out fee plus $4 per hour. The total for one job was $57. How many hours did the job take?",
+  "options": [
+   "9",
+   "14.25",
+   "1.28",
+   "8"
+  ],
+  "answer": 3,
+  "explanation": "25 + 4h = 57 → 4h = 32 → h = 8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A plumber charges a $50 call-out fee plus $12 per hour. The total for one job was $158. How many hours did the job take?",
+  "options": [
+   "8",
+   "9",
+   "2.16",
+   "10"
+  ],
+  "answer": 1,
+  "explanation": "50 + 12h = 158 → 12h = 108 → h = 9.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A plumber charges a $15 call-out fee plus $6 per hour. The total for one job was $57. How many hours did the job take?",
+  "options": [
+   "8",
+   "2.8",
+   "7",
+   "9.5"
+  ],
+  "answer": 2,
+  "explanation": "15 + 6h = 57 → 6h = 42 → h = 7.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A plumber charges a $30 call-out fee plus $4 per hour. The total for one job was $50. How many hours did the job take?",
+  "options": [
+   "12.5",
+   "5",
+   "4",
+   "6"
+  ],
+  "answer": 1,
+  "explanation": "30 + 4h = 50 → 4h = 20 → h = 5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A plumber charges a $60 call-out fee plus $14 per hour. The total for one job was $116. How many hours did the job take?",
+  "options": [
+   "8",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "60 + 14h = 116 → 14h = 56 → h = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "A plumber charges a $50 call-out fee plus $11 per hour. The total for one job was $138. How many hours did the job take?",
+  "options": [
+   "8",
+   "9",
+   "7",
+   "1.76"
+  ],
+  "answer": 0,
+  "explanation": "50 + 11h = 138 → 11h = 88 → h = 8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "What is the greatest integer value of x that satisfies 5x + 12 < 22?",
+  "options": [
+   "0",
+   "1",
+   "2",
+   "3"
+  ],
+  "answer": 1,
+  "explanation": "5x < 10 → x < 2. The greatest integer below 2 is 1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "What is the greatest integer value of x that satisfies 2x + 10 < 60?",
+  "options": [
+   "23",
+   "25",
+   "24",
+   "26"
+  ],
+  "answer": 2,
+  "explanation": "2x < 50 → x < 25. The greatest integer below 25 is 24.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "What is the greatest integer value of x that satisfies 5x + 11 < 36?",
+  "options": [
+   "5",
+   "4",
+   "3",
+   "6"
+  ],
+  "answer": 1,
+  "explanation": "5x < 25 → x < 5. The greatest integer below 5 is 4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "What is the greatest integer value of x that satisfies 2x + 6 < 38?",
+  "options": [
+   "16",
+   "14",
+   "17",
+   "15"
+  ],
+  "answer": 3,
+  "explanation": "2x < 32 → x < 16. The greatest integer below 16 is 15.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "What is the greatest integer value of x that satisfies 2x + 11 < 59?",
+  "options": [
+   "23",
+   "25",
+   "22",
+   "24"
+  ],
+  "answer": 0,
+  "explanation": "2x < 48 → x < 24. The greatest integer below 24 is 23.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "What is the greatest integer value of x that satisfies 2x + 9 < 59?",
+  "options": [
+   "23",
+   "26",
+   "24",
+   "25"
+  ],
+  "answer": 2,
+  "explanation": "2x < 50 → x < 25. The greatest integer below 25 is 24.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "What is the greatest integer value of x that satisfies 4x + 10 < 30?",
+  "options": [
+   "3",
+   "4",
+   "6",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": "4x < 20 → x < 5. The greatest integer below 5 is 4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Algebra",
+  "body": "What is the greatest integer value of x that satisfies 2x + 13 < 31?",
+  "options": [
+   "8",
+   "9",
+   "10",
+   "7"
+  ],
+  "answer": 0,
+  "explanation": "2x < 18 → x < 9. The greatest integer below 9 is 8.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "What is the positive solution to x² − 5x + 6 = 0?",
+  "options": [
+   "3",
+   "2",
+   "6",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "Factor: (x − 2)(x − 3) = 0 → x = 2 or x = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "What is the sum of the solutions to x² + 2x − 24 = 0?",
+  "options": [
+   "24",
+   "2",
+   "10",
+   "-2"
+  ],
+  "answer": 3,
+  "explanation": "It factors as (x − 4)(x + 6) = 0, so x = 4 or -6. Sum = -2 (also −b/a).",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "What is the positive solution to x² − 13x + 40 = 0?",
+  "options": [
+   "5",
+   "13",
+   "8",
+   "40"
+  ],
+  "answer": 2,
+  "explanation": "Factor: (x − 5)(x − 8) = 0 → x = 5 or x = 8.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "What is the sum of the solutions to x² − 11x + 30 = 0?",
+  "options": [
+   "11",
+   "30",
+   "1",
+   "12"
+  ],
+  "answer": 0,
+  "explanation": "It factors as (x − 6)(x − 5) = 0, so x = 6 or 5. Sum = 11 (also −b/a).",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "What is the sum of the solutions to x² + 11x + 24 = 0?",
+  "options": [
+   "24",
+   "-11",
+   "11",
+   "0"
+  ],
+  "answer": 1,
+  "explanation": "It factors as (x + 8)(x + 3) = 0, so x = -8 or -3. Sum = -11 (also −b/a).",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "What is the sum of the solutions to x² − 2x − 24 = 0?",
+  "options": [
+   "24",
+   "3",
+   "1",
+   "2"
+  ],
+  "answer": 3,
+  "explanation": "It factors as (x + 4)(x − 6) = 0, so x = -4 or 6. Sum = 2 (also −b/a).",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "What is the sum of the solutions to x² + 3x − 28 = 0?",
+  "options": [
+   "11",
+   "28",
+   "3",
+   "-3"
+  ],
+  "answer": 3,
+  "explanation": "It factors as (x − 4)(x + 7) = 0, so x = 4 or -7. Sum = -3 (also −b/a).",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "What is the sum of the solutions to x² − 8x + 12 = 0?",
+  "options": [
+   "4",
+   "8",
+   "9",
+   "12"
+  ],
+  "answer": 1,
+  "explanation": "It factors as (x − 6)(x − 2) = 0, so x = 6 or 2. Sum = 8 (also −b/a).",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "What is the sum of the solutions to x² − 5x + 6 = 0?",
+  "options": [
+   "5",
+   "6",
+   "1",
+   "4"
+  ],
+  "answer": 0,
+  "explanation": "It factors as (x − 3)(x − 2) = 0, so x = 3 or 2. Sum = 5 (also −b/a).",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "What is the sum of the solutions to x² + 11x + 28 = 0?",
+  "options": [
+   "28",
+   "-11",
+   "11",
+   "0"
+  ],
+  "answer": 1,
+  "explanation": "It factors as (x + 7)(x + 4) = 0, so x = -7 or -4. Sum = -11 (also −b/a).",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "What is the sum of the solutions to x² + 12x + 35 = 0?",
+  "options": [
+   "12",
+   "2",
+   "35",
+   "-12"
+  ],
+  "answer": 3,
+  "explanation": "It factors as (x + 5)(x + 7) = 0, so x = -5 or -7. Sum = -12 (also −b/a).",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "What is the positive solution to x² − 36 = 0?",
+  "options": [
+   "6",
+   "5",
+   "0",
+   "7"
+  ],
+  "answer": 0,
+  "explanation": "Factor: (x + 6)(x − 6) = 0 → x = -6 or x = 6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "The graph of y = 2(x − 2)² − 1 has its vertex at which point?",
+  "options": [
+   "(2, 1)",
+   "(-2, 1)",
+   "(2, -1)",
+   "(-2, -1)"
+  ],
+  "answer": 2,
+  "explanation": "In y = a(x − h)² + k the vertex is (h, k) = (2, -1).",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "The graph of y = 2(x − 4)² − 4 has its vertex at which point?",
+  "options": [
+   "(-4, -4)",
+   "(-4, 4)",
+   "(4, 4)",
+   "(4, -4)"
+  ],
+  "answer": 3,
+  "explanation": "In y = a(x − h)² + k the vertex is (h, k) = (4, -4).",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "The graph of y = 2(x + 1)² + 7 has its vertex at which point?",
+  "options": [
+   "(1, -7)",
+   "(-1, -7)",
+   "(1, 7)",
+   "(-1, 7)"
+  ],
+  "answer": 3,
+  "explanation": "In y = a(x − h)² + k the vertex is (h, k) = (-1, 7).",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "The graph of y = 3(x + 2)² − 3 has its vertex at which point?",
+  "options": [
+   "(-2, 3)",
+   "(-2, -3)",
+   "(2, 3)",
+   "(2, -3)"
+  ],
+  "answer": 1,
+  "explanation": "In y = a(x − h)² + k the vertex is (h, k) = (-2, -3).",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "The graph of y = −(x − 6)² + 4 has its vertex at which point?",
+  "options": [
+   "(-6, 4)",
+   "(6, 4)",
+   "(6, -4)",
+   "(-6, -4)"
+  ],
+  "answer": 1,
+  "explanation": "In y = a(x − h)² + k the vertex is (h, k) = (6, 4).",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "The graph of y = −(x − 3)² − 9 has its vertex at which point?",
+  "options": [
+   "(-3, 9)",
+   "(-3, -9)",
+   "(3, -9)",
+   "(3, 9)"
+  ],
+  "answer": 2,
+  "explanation": "In y = a(x − h)² + k the vertex is (h, k) = (3, -9).",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "The graph of y = 2(x + 6)² + 3 has its vertex at which point?",
+  "options": [
+   "(6, 3)",
+   "(-6, 3)",
+   "(-6, -3)",
+   "(6, -3)"
+  ],
+  "answer": 1,
+  "explanation": "In y = a(x − h)² + k the vertex is (h, k) = (-6, 3).",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "The graph of y = 3(x + 5)² + 3 has its vertex at which point?",
+  "options": [
+   "(5, -3)",
+   "(-5, -3)",
+   "(-5, 3)",
+   "(5, 3)"
+  ],
+  "answer": 2,
+  "explanation": "In y = a(x − h)² + k the vertex is (h, k) = (-5, 3).",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "How many distinct real solutions does x² − 4x + 0 = 0 have?",
+  "options": [
+   "No real solutions",
+   "Infinitely many solutions",
+   "Exactly one real solution",
+   "Two real solutions"
+  ],
+  "answer": 3,
+  "explanation": "Discriminant b² − 4ac = 16 − (0) = 16 > 0.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "How many distinct real solutions does x² − 8x − 3 = 0 have?",
+  "options": [
+   "Two real solutions",
+   "No real solutions",
+   "Infinitely many solutions",
+   "Exactly one real solution"
+  ],
+  "answer": 0,
+  "explanation": "Discriminant b² − 4ac = 64 − (-12) = 76 > 0.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "How many distinct real solutions does x² − 1x + 0 = 0 have?",
+  "options": [
+   "No real solutions",
+   "Infinitely many solutions",
+   "Two real solutions",
+   "Exactly one real solution"
+  ],
+  "answer": 2,
+  "explanation": "Discriminant b² − 4ac = 1 − (0) = 1 > 0.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "How many distinct real solutions does x² + 4x + 12 = 0 have?",
+  "options": [
+   "Infinitely many solutions",
+   "No real solutions",
+   "Exactly one real solution",
+   "Two real solutions"
+  ],
+  "answer": 1,
+  "explanation": "Discriminant b² − 4ac = 16 − (48) = -32 < 0.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "How many distinct real solutions does x² − 2x + 7 = 0 have?",
+  "options": [
+   "No real solutions",
+   "Infinitely many solutions",
+   "Exactly one real solution",
+   "Two real solutions"
+  ],
+  "answer": 0,
+  "explanation": "Discriminant b² − 4ac = 4 − (28) = -24 < 0.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "How many distinct real solutions does x² − 7x + 0 = 0 have?",
+  "options": [
+   "Two real solutions",
+   "Exactly one real solution",
+   "No real solutions",
+   "Infinitely many solutions"
+  ],
+  "answer": 0,
+  "explanation": "Discriminant b² − 4ac = 49 − (0) = 49 > 0.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "How many distinct real solutions does x² − 4x − 10 = 0 have?",
+  "options": [
+   "Two real solutions",
+   "Exactly one real solution",
+   "Infinitely many solutions",
+   "No real solutions"
+  ],
+  "answer": 0,
+  "explanation": "Discriminant b² − 4ac = 16 − (-40) = 56 > 0.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "How many distinct real solutions does x² − 2x − 6 = 0 have?",
+  "options": [
+   "Exactly one real solution",
+   "No real solutions",
+   "Two real solutions",
+   "Infinitely many solutions"
+  ],
+  "answer": 2,
+  "explanation": "Discriminant b² − 4ac = 4 − (-24) = 28 > 0.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "If f(x) = 3x² − 5, what is the value of f(-2)?",
+  "options": [
+   "8",
+   "7",
+   "13",
+   "6"
+  ],
+  "answer": 1,
+  "explanation": "f(-2) = 3(-2)² − 5 = 12 − 5 = 7.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "If f(x) = 4x² + 4, what is the value of f(4)?",
+  "options": [
+   "36",
+   "68",
+   "76",
+   "20"
+  ],
+  "answer": 1,
+  "explanation": "f(4) = 4(4)² + 4 = 64 + 4 = 68.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "If f(x) = x² − 5, what is the value of f(3)?",
+  "options": [
+   "1",
+   "6",
+   "4",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "f(3) = 1(3)² − 5 = 9 − 5 = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "If f(x) = x² + 3, what is the value of f(4)?",
+  "options": [
+   "19",
+   "21",
+   "11",
+   "7"
+  ],
+  "answer": 0,
+  "explanation": "f(4) = 1(4)² + 3 = 16 + 3 = 19.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "If f(x) = 3x² + 2, what is the value of f(-2)?",
+  "options": [
+   "20",
+   "13",
+   "15",
+   "14"
+  ],
+  "answer": 3,
+  "explanation": "f(-2) = 3(-2)² + 2 = 12 + 2 = 14.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "If f(x) = x² + 5, what is the value of f(0)?",
+  "options": [
+   "4",
+   "6",
+   "5",
+   "7"
+  ],
+  "answer": 2,
+  "explanation": "f(0) = 1(0)² + 5 = 0 + 5 = 5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "If f(x) = 2x² + 0, what is the value of f(0)?",
+  "options": [
+   "1",
+   "0",
+   "2",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "f(0) = 2(0)² + 0 = 0 + 0 = 0.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "If f(x) = 3x² + 1, what is the value of f(0)?",
+  "options": [
+   "7",
+   "0",
+   "2",
+   "1"
+  ],
+  "answer": 3,
+  "explanation": "f(0) = 3(0)² + 1 = 0 + 1 = 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "If f(x) = 3x² − 1, what is the value of f(-1)?",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "8"
+  ],
+  "answer": 1,
+  "explanation": "f(-1) = 3(-1)² − 1 = 3 − 1 = 2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "If f(x) = 2x² + 3, what is the value of f(-3)?",
+  "options": [
+   "23",
+   "19",
+   "25",
+   "21"
+  ],
+  "answer": 3,
+  "explanation": "f(-3) = 2(-3)² + 3 = 18 + 3 = 21.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "f(x) = 4x + 3 and g(x) = 2x + 3. What is f(g(0))?",
+  "options": [
+   "9",
+   "3",
+   "15",
+   "19"
+  ],
+  "answer": 2,
+  "explanation": "g(0) = 3; f(3) = 4(3) + 3 = 15.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "f(x) = 4x + 1 and g(x) = 2x + 1. What is f(g(3))?",
+  "options": [
+   "13",
+   "29",
+   "7",
+   "27"
+  ],
+  "answer": 1,
+  "explanation": "g(3) = 7; f(7) = 4(7) + 1 = 29.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "f(x) = 2x + 0 and g(x) = 3x + 3. What is f(g(0))?",
+  "options": [
+   "3",
+   "6",
+   "0",
+   "8"
+  ],
+  "answer": 1,
+  "explanation": "g(0) = 3; f(3) = 2(3) + 0 = 6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "f(x) = 2x + 2 and g(x) = 3x − 2. What is f(g(3))?",
+  "options": [
+   "7",
+   "8",
+   "16",
+   "22"
+  ],
+  "answer": 2,
+  "explanation": "g(3) = 7; f(7) = 2(7) + 2 = 16.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "f(x) = 4x + 2 and g(x) = x + 0. What is f(g(3))?",
+  "options": [
+   "14",
+   "3",
+   "18",
+   "15"
+  ],
+  "answer": 0,
+  "explanation": "g(3) = 3; f(3) = 4(3) + 2 = 14.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "f(x) = 3x + 2 and g(x) = 2x − 2. What is f(g(3))?",
+  "options": [
+   "14",
+   "11",
+   "20",
+   "4"
+  ],
+  "answer": 0,
+  "explanation": "g(3) = 4; f(4) = 3(4) + 2 = 14.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "f(x) = 2x + 1 and g(x) = 3x + 2. What is f(g(0))?",
+  "options": [
+   "7",
+   "2",
+   "1",
+   "5"
+  ],
+  "answer": 3,
+  "explanation": "g(0) = 2; f(2) = 2(2) + 1 = 5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "f(x) = 3x + 4 and g(x) = 3x + 3. What is f(g(-2))?",
+  "options": [
+   "1",
+   "-5",
+   "2",
+   "0"
+  ],
+  "answer": 1,
+  "explanation": "g(-2) = -3; f(-3) = 3(-3) + 4 = -5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "Which expression is equivalent to (x^6)(x^4) for x > 0?",
+  "options": [
+   "x^24",
+   "x^2",
+   "x^10",
+   "3x^10"
+  ],
+  "answer": 2,
+  "explanation": "When multiplying powers with the same base, add the exponents: 6 + 4 = 10.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "Which expression is equivalent to (x^2)(x^3) for x > 0?",
+  "options": [
+   "4x^5",
+   "x^6",
+   "x^1",
+   "x^5"
+  ],
+  "answer": 3,
+  "explanation": "When multiplying powers with the same base, add the exponents: 2 + 3 = 5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "Which expression is equivalent to (x^5)(x^5) for x > 0?",
+  "options": [
+   "x^10",
+   "2x^10",
+   "x^11",
+   "x^25"
+  ],
+  "answer": 0,
+  "explanation": "When multiplying powers with the same base, add the exponents: 5 + 5 = 10.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "Which expression is equivalent to (x^6)(x^6) for x > 0?",
+  "options": [
+   "x^36",
+   "x^12",
+   "5x^12",
+   "x^13"
+  ],
+  "answer": 1,
+  "explanation": "When multiplying powers with the same base, add the exponents: 6 + 6 = 12.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "Which expression is equivalent to (x^5)(x^6) for x > 0?",
+  "options": [
+   "x^11",
+   "x^1",
+   "6x^11",
+   "x^30"
+  ],
+  "answer": 0,
+  "explanation": "When multiplying powers with the same base, add the exponents: 5 + 6 = 11.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "Which expression is equivalent to (x^3)(x^3) for x > 0?",
+  "options": [
+   "x^6",
+   "x^9",
+   "3x^6",
+   "x^7"
+  ],
+  "answer": 0,
+  "explanation": "When multiplying powers with the same base, add the exponents: 3 + 3 = 6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "Which expression is equivalent to (x^6)(x^2) for x > 0?",
+  "options": [
+   "6x^8",
+   "x^8",
+   "x^4",
+   "x^12"
+  ],
+  "answer": 1,
+  "explanation": "When multiplying powers with the same base, add the exponents: 6 + 2 = 8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Advanced Math",
+  "body": "Which expression is equivalent to (x^3)(x^6) for x > 0?",
+  "options": [
+   "x^3",
+   "x^18",
+   "4x^9",
+   "x^9"
+  ],
+  "answer": 3,
+  "explanation": "When multiplying powers with the same base, add the exponents: 3 + 6 = 9.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A population of 200 grows by 5% each year. What is the population after 3 years, to the nearest whole number?",
+  "options": [
+   "232",
+   "242",
+   "230",
+   "210"
+  ],
+  "answer": 0,
+  "explanation": "P = 200(1.05)^3 ≈ 232.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A population of 600 grows by 3% each year. What is the population after 3 years, to the nearest whole number?",
+  "options": [
+   "654",
+   "666",
+   "656",
+   "618"
+  ],
+  "answer": 2,
+  "explanation": "P = 600(1.03)^3 ≈ 656.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A population of 1000 grows by 5% each year. What is the population after 2 years, to the nearest whole number?",
+  "options": [
+   "1103",
+   "1113",
+   "1100",
+   "1050"
+  ],
+  "answer": 0,
+  "explanation": "P = 1000(1.05)^2 ≈ 1103.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A population of 900 grows by 2% each year. What is the population after 3 years, to the nearest whole number?",
+  "options": [
+   "955",
+   "965",
+   "954",
+   "918"
+  ],
+  "answer": 0,
+  "explanation": "P = 900(1.02)^3 ≈ 955.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A population of 700 grows by 10% each year. What is the population after 3 years, to the nearest whole number?",
+  "options": [
+   "942",
+   "770",
+   "932",
+   "910"
+  ],
+  "answer": 2,
+  "explanation": "P = 700(1.10)^3 ≈ 932.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A population of 200 grows by 5% each year. What is the population after 2 years, to the nearest whole number?",
+  "options": [
+   "221",
+   "220",
+   "231",
+   "210"
+  ],
+  "answer": 0,
+  "explanation": "P = 200(1.05)^2 ≈ 221.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A population of 200 grows by 10% each year. What is the population after 2 years, to the nearest whole number?",
+  "options": [
+   "242",
+   "252",
+   "220",
+   "240"
+  ],
+  "answer": 0,
+  "explanation": "P = 200(1.10)^2 ≈ 242.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A population of 300 grows by 4% each year. What is the population after 2 years, to the nearest whole number?",
+  "options": [
+   "312",
+   "324",
+   "334",
+   "356"
+  ],
+  "answer": 1,
+  "explanation": "P = 300(1.04)^2 ≈ 324.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A jacket costs $160. It is discounted by 15%. What is the sale price?",
+  "options": [
+   "$184",
+   "$136",
+   "$24",
+   "$145"
+  ],
+  "answer": 1,
+  "explanation": "Sale price = 160 × (1 − 0.15) = $136.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A jacket costs $150. It is discounted by 10%. What is the sale price?",
+  "options": [
+   "$135",
+   "$15",
+   "$140",
+   "$165"
+  ],
+  "answer": 0,
+  "explanation": "Sale price = 150 × (1 − 0.1) = $135.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A jacket costs $90. It is discounted by 20%. What is the sale price?",
+  "options": [
+   "$72",
+   "$70",
+   "$18",
+   "$108"
+  ],
+  "answer": 0,
+  "explanation": "Sale price = 90 × (1 − 0.2) = $72.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A jacket costs $260. It is discounted by 20%. What is the sale price?",
+  "options": [
+   "$240",
+   "$52",
+   "$208",
+   "$312"
+  ],
+  "answer": 2,
+  "explanation": "Sale price = 260 × (1 − 0.2) = $208.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A jacket costs $190. It is discounted by 40%. What is the sale price?",
+  "options": [
+   "$114",
+   "$76",
+   "$150",
+   "$266"
+  ],
+  "answer": 0,
+  "explanation": "Sale price = 190 × (1 − 0.4) = $114.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A jacket costs $260. It is discounted by 15%. What is the sale price?",
+  "options": [
+   "$245",
+   "$221",
+   "$299",
+   "$39"
+  ],
+  "answer": 1,
+  "explanation": "Sale price = 260 × (1 − 0.15) = $221.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A jacket costs $240. It is discounted by 10%. What is the sale price?",
+  "options": [
+   "$24",
+   "$264",
+   "$230",
+   "$216"
+  ],
+  "answer": 3,
+  "explanation": "Sale price = 240 × (1 − 0.1) = $216.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A jacket costs $110. It is discounted by 30%. What is the sale price?",
+  "options": [
+   "$77",
+   "$80",
+   "$143",
+   "$33"
+  ],
+  "answer": 0,
+  "explanation": "Sale price = 110 × (1 − 0.3) = $77.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A jacket costs $50. It is discounted by 15%. What is the sale price?",
+  "options": [
+   "$57.5",
+   "$7.5",
+   "$42.5",
+   "$35"
+  ],
+  "answer": 2,
+  "explanation": "Sale price = 50 × (1 − 0.15) = $42.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A jacket costs $220. It is discounted by 30%. What is the sale price?",
+  "options": [
+   "$154",
+   "$66",
+   "$286",
+   "$190"
+  ],
+  "answer": 0,
+  "explanation": "Sale price = 220 × (1 − 0.3) = $154.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A value increased from 90 to 225. What was the percent increase?",
+  "options": [
+   "160%",
+   "60%",
+   "150%",
+   "75%"
+  ],
+  "answer": 2,
+  "explanation": "Increase = 135; ÷ 90 × 100 = 150%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A value increased from 192 to 336. What was the percent increase?",
+  "options": [
+   "85%",
+   "37.5%",
+   "75%",
+   "43%"
+  ],
+  "answer": 2,
+  "explanation": "Increase = 144; ÷ 192 × 100 = 75%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A value increased from 145 to 174. What was the percent increase?",
+  "options": [
+   "20%",
+   "10%",
+   "17%",
+   "30%"
+  ],
+  "answer": 0,
+  "explanation": "Increase = 29; ÷ 145 × 100 = 20%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A value increased from 65 to 78. What was the percent increase?",
+  "options": [
+   "10%",
+   "17%",
+   "30%",
+   "20%"
+  ],
+  "answer": 3,
+  "explanation": "Increase = 13; ÷ 65 × 100 = 20%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A value increased from 192 to 240. What was the percent increase?",
+  "options": [
+   "25%",
+   "12.5%",
+   "20%",
+   "35%"
+  ],
+  "answer": 0,
+  "explanation": "Increase = 48; ÷ 192 × 100 = 25%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A value increased from 128 to 192. What was the percent increase?",
+  "options": [
+   "60%",
+   "33%",
+   "50%",
+   "25%"
+  ],
+  "answer": 2,
+  "explanation": "Increase = 64; ÷ 128 × 100 = 50%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A value increased from 130 to 156. What was the percent increase?",
+  "options": [
+   "20%",
+   "17%",
+   "10%",
+   "30%"
+  ],
+  "answer": 0,
+  "explanation": "Increase = 26; ÷ 130 × 100 = 20%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A value increased from 150 to 240. What was the percent increase?",
+  "options": [
+   "38%",
+   "60%",
+   "70%",
+   "30%"
+  ],
+  "answer": 1,
+  "explanation": "Increase = 90; ÷ 150 × 100 = 60%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "What is the median of the data set 2, 2, 10, 29, 28, 6?",
+  "options": [
+   "9",
+   "27",
+   "7",
+   "8"
+  ],
+  "answer": 3,
+  "explanation": "Ordered: 2, 2, 6, 10, 28, 29. Median = 8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "What is the mean of the data set 22, 19, 8, 8, 2, 25?",
+  "options": [
+   "14",
+   "13.5",
+   "15",
+   "23"
+  ],
+  "answer": 0,
+  "explanation": "Ordered: 2, 8, 8, 19, 22, 25. Mean = 84 ÷ 6 = 14.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "What is the median of the data set 30, 5, 10, 20, 17?",
+  "options": [
+   "18",
+   "25",
+   "17",
+   "16.4"
+  ],
+  "answer": 2,
+  "explanation": "Ordered: 5, 10, 17, 20, 30. Median = 17.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "What is the median of the data set 30, 19, 16, 12, 12, 20?",
+  "options": [
+   "17.5",
+   "18.5",
+   "18",
+   "19.5"
+  ],
+  "answer": 0,
+  "explanation": "Ordered: 12, 12, 16, 19, 20, 30. Median = 17.5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "What is the range of the data set 16, 13, 2, 4, 12, 28, 14?",
+  "options": [
+   "26",
+   "29",
+   "13",
+   "27"
+  ],
+  "answer": 0,
+  "explanation": "Ordered: 2, 4, 12, 13, 14, 16, 28. Range = 28 − 2 = 26.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "What is the median of the data set 8, 5, 5, 10, 17, 6, 14?",
+  "options": [
+   "7",
+   "8",
+   "9",
+   "12"
+  ],
+  "answer": 1,
+  "explanation": "Ordered: 5, 5, 6, 8, 10, 14, 17. Median = 8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "What is the range of the data set 29, 29, 7, 12, 12?",
+  "options": [
+   "23",
+   "12",
+   "17.8",
+   "22"
+  ],
+  "answer": 3,
+  "explanation": "Ordered: 7, 12, 12, 29, 29. Range = 29 − 7 = 22.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "What is the range of the data set 30, 19, 13, 21, 29, 15, 9?",
+  "options": [
+   "19",
+   "22",
+   "21",
+   "23"
+  ],
+  "answer": 2,
+  "explanation": "Ordered: 9, 13, 15, 19, 21, 29, 30. Range = 30 − 9 = 21.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "What is the mean of the data set 19, 8, 21, 7, 23?",
+  "options": [
+   "15.6",
+   "19",
+   "16.6",
+   "16"
+  ],
+  "answer": 0,
+  "explanation": "Ordered: 7, 8, 19, 21, 23. Mean = 78 ÷ 5 = 15.6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "What is the range of the data set 19, 13, 28, 28, 25?",
+  "options": [
+   "22.6",
+   "25",
+   "15",
+   "16"
+  ],
+  "answer": 2,
+  "explanation": "Ordered: 13, 19, 25, 28, 28. Range = 28 − 13 = 15.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "The ratio of red to blue marbles in a bag is 5 : 4. There are 81 marbles in total. How many are red?",
+  "options": [
+   "45",
+   "20",
+   "16.2",
+   "36"
+  ],
+  "answer": 0,
+  "explanation": "Red = 5/9 × 81 = 45.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "The ratio of red to blue marbles in a bag is 3 : 4. There are 21 marbles in total. How many are red?",
+  "options": [
+   "10",
+   "7",
+   "12",
+   "9"
+  ],
+  "answer": 3,
+  "explanation": "Red = 3/7 × 21 = 9.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "The ratio of red to blue marbles in a bag is 9 : 2. There are 66 marbles in total. How many are red?",
+  "options": [
+   "18",
+   "54",
+   "12",
+   "59"
+  ],
+  "answer": 1,
+  "explanation": "Red = 9/11 × 66 = 54.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "The ratio of red to blue marbles in a bag is 5 : 7. There are 96 marbles in total. How many are red?",
+  "options": [
+   "35",
+   "19.2",
+   "40",
+   "56"
+  ],
+  "answer": 2,
+  "explanation": "Red = 5/12 × 96 = 40.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "The ratio of red to blue marbles in a bag is 5 : 9. There are 154 marbles in total. How many are red?",
+  "options": [
+   "45",
+   "30.8",
+   "55",
+   "99"
+  ],
+  "answer": 2,
+  "explanation": "Red = 5/14 × 154 = 55.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "The ratio of red to blue marbles in a bag is 6 : 5. There are 66 marbles in total. How many are red?",
+  "options": [
+   "36",
+   "30",
+   "11",
+   "40"
+  ],
+  "answer": 0,
+  "explanation": "Red = 6/11 × 66 = 36.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "The ratio of red to blue marbles in a bag is 5 : 4. There are 99 marbles in total. How many are red?",
+  "options": [
+   "20",
+   "55",
+   "19.8",
+   "44"
+  ],
+  "answer": 1,
+  "explanation": "Red = 5/9 × 99 = 55.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "The ratio of red to blue marbles in a bag is 4 : 7. There are 165 marbles in total. How many are red?",
+  "options": [
+   "105",
+   "60",
+   "28",
+   "41.25"
+  ],
+  "answer": 1,
+  "explanation": "Red = 4/11 × 165 = 60.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A survey of 76 students found 36 prefer online classes and 40 prefer in-person. Of those preferring online classes, 30 are in Grade 11. If a student is chosen at random from all 76, what is the probability they prefer online classes AND are in Grade 11?",
+  "options": [
+   "15/38",
+   "9/19",
+   "5/6",
+   "3/4"
+  ],
+  "answer": 0,
+  "explanation": "Favourable outcomes 30 ÷ all 76 students = 15/38.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A survey of 38 students found 23 prefer online classes and 15 prefer in-person. Of those preferring online classes, 13 are in Grade 11. If a student is chosen at random from all 38, what is the probability they prefer online classes AND are in Grade 11?",
+  "options": [
+   "23/38",
+   "13/23",
+   "13/15",
+   "13/38"
+  ],
+  "answer": 3,
+  "explanation": "Favourable outcomes 13 ÷ all 38 students = 13/38.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A survey of 50 students found 29 prefer online classes and 21 prefer in-person. Of those preferring online classes, 21 are in Grade 11. If a student is chosen at random from all 50, what is the probability they prefer online classes AND are in Grade 11?",
+  "options": [
+   "1",
+   "29/50",
+   "21/50",
+   "21/29"
+  ],
+  "answer": 2,
+  "explanation": "Favourable outcomes 21 ÷ all 50 students = 21/50.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A survey of 53 students found 28 prefer online classes and 25 prefer in-person. Of those preferring online classes, 14 are in Grade 11. If a student is chosen at random from all 53, what is the probability they prefer online classes AND are in Grade 11?",
+  "options": [
+   "28/53",
+   "14/53",
+   "14/25",
+   "1/2"
+  ],
+  "answer": 1,
+  "explanation": "Favourable outcomes 14 ÷ all 53 students = 14/53.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A survey of 43 students found 29 prefer online classes and 14 prefer in-person. Of those preferring online classes, 19 are in Grade 11. If a student is chosen at random from all 43, what is the probability they prefer online classes AND are in Grade 11?",
+  "options": [
+   "29/43",
+   "19/29",
+   "19/14",
+   "19/43"
+  ],
+  "answer": 3,
+  "explanation": "Favourable outcomes 19 ÷ all 43 students = 19/43.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A survey of 43 students found 27 prefer online classes and 16 prefer in-person. Of those preferring online classes, 24 are in Grade 11. If a student is chosen at random from all 43, what is the probability they prefer online classes AND are in Grade 11?",
+  "options": [
+   "8/9",
+   "27/43",
+   "3/2",
+   "24/43"
+  ],
+  "answer": 3,
+  "explanation": "Favourable outcomes 24 ÷ all 43 students = 24/43.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A survey of 27 students found 16 prefer online classes and 11 prefer in-person. Of those preferring online classes, 3 are in Grade 11. If a student is chosen at random from all 27, what is the probability they prefer online classes AND are in Grade 11?",
+  "options": [
+   "16/27",
+   "3/16",
+   "1/9",
+   "3/11"
+  ],
+  "answer": 2,
+  "explanation": "Favourable outcomes 3 ÷ all 27 students = 1/9.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Problem-Solving and Data Analysis",
+  "body": "A survey of 59 students found 24 prefer online classes and 35 prefer in-person. Of those preferring online classes, 14 are in Grade 11. If a student is chosen at random from all 59, what is the probability they prefer online classes AND are in Grade 11?",
+  "options": [
+   "7/12",
+   "14/59",
+   "2/5",
+   "24/59"
+  ],
+  "answer": 1,
+  "explanation": "Favourable outcomes 14 ÷ all 59 students = 14/59.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "A circle has radius 11. What is its area?",
+  "options": [
+   "121π",
+   "22π",
+   "11π",
+   "242π"
+  ],
+  "answer": 0,
+  "explanation": "A = πr² = 121π.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "A circle has radius 3. What is its area?",
+  "options": [
+   "18π",
+   "3π",
+   "6π",
+   "9π"
+  ],
+  "answer": 3,
+  "explanation": "A = πr² = 9π.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "A circle has diameter 18. What is its circumference?",
+  "options": [
+   "36π",
+   "81π",
+   "9π",
+   "18π"
+  ],
+  "answer": 3,
+  "explanation": "C = πd = 18π.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "A circle has radius 6. What is its area?",
+  "options": [
+   "36π",
+   "6π",
+   "72π",
+   "12π"
+  ],
+  "answer": 0,
+  "explanation": "A = πr² = 36π.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "A circle has diameter 10. What is its circumference?",
+  "options": [
+   "25π",
+   "5π",
+   "10π",
+   "20π"
+  ],
+  "answer": 2,
+  "explanation": "C = πd = 10π.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "A circle has diameter 16. What is its circumference?",
+  "options": [
+   "32π",
+   "16π",
+   "64π",
+   "8π"
+  ],
+  "answer": 1,
+  "explanation": "C = πd = 16π.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "A circle has diameter 24. What is its circumference?",
+  "options": [
+   "48π",
+   "12π",
+   "144π",
+   "24π"
+  ],
+  "answer": 3,
+  "explanation": "C = πd = 24π.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "A circle has diameter 20. What is its circumference?",
+  "options": [
+   "10π",
+   "100π",
+   "20π",
+   "40π"
+  ],
+  "answer": 2,
+  "explanation": "C = πd = 20π.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "A right triangle has legs of length 5 and 12. What is the length of the hypotenuse?",
+  "options": [
+   "7",
+   "13",
+   "17",
+   "14"
+  ],
+  "answer": 1,
+  "explanation": "c = √(5² + 12²) = √169 = 13.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "A right triangle has legs of length 20 and 21. What is the length of the hypotenuse?",
+  "options": [
+   "1",
+   "30",
+   "29",
+   "41"
+  ],
+  "answer": 2,
+  "explanation": "c = √(20² + 21²) = √841 = 29.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "A right triangle has legs of length 9 and 12. What is the length of the hypotenuse?",
+  "options": [
+   "15",
+   "16",
+   "3",
+   "21"
+  ],
+  "answer": 0,
+  "explanation": "c = √(9² + 12²) = √225 = 15.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "A right triangle has legs of length 3 and 4. What is the length of the hypotenuse?",
+  "options": [
+   "5",
+   "6",
+   "7",
+   "1"
+  ],
+  "answer": 0,
+  "explanation": "c = √(3² + 4²) = √25 = 5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "A right triangle has legs of length 7 and 24. What is the length of the hypotenuse?",
+  "options": [
+   "25",
+   "31",
+   "26",
+   "17"
+  ],
+  "answer": 0,
+  "explanation": "c = √(7² + 24²) = √625 = 25.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "A right triangle has legs of length 6 and 8. What is the length of the hypotenuse?",
+  "options": [
+   "11",
+   "10",
+   "14",
+   "2"
+  ],
+  "answer": 1,
+  "explanation": "c = √(6² + 8²) = √100 = 10.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "A right triangle has legs of length 8 and 15. What is the length of the hypotenuse?",
+  "options": [
+   "18",
+   "7",
+   "17",
+   "23"
+  ],
+  "answer": 2,
+  "explanation": "c = √(8² + 15²) = √289 = 17.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "In right triangle ABC, angle C is 90°. BC = 3, AC = 4 and AB = 5. What is tan A?",
+  "options": [
+   "4/5",
+   "3/5",
+   "4/3",
+   "3/4"
+  ],
+  "answer": 3,
+  "explanation": "For angle A: opposite = BC = 3, adjacent = AC = 4, hypotenuse = 5. tan = opposite/adjacent = 3/4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "In right triangle ABC, angle C is 90°. BC = 3, AC = 4 and AB = 5. What is sin A?",
+  "options": [
+   "3/5",
+   "4/3",
+   "3/4",
+   "4/5"
+  ],
+  "answer": 0,
+  "explanation": "For angle A: opposite = BC = 3, adjacent = AC = 4, hypotenuse = 5. sin = opposite/hypotenuse = 3/5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "In right triangle ABC, angle C is 90°. BC = 5, AC = 12 and AB = 13. What is cos A?",
+  "options": [
+   "12/5",
+   "5/13",
+   "5/12",
+   "12/13"
+  ],
+  "answer": 3,
+  "explanation": "For angle A: opposite = BC = 5, adjacent = AC = 12, hypotenuse = 13. cos = adjacent/hypotenuse = 12/13.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "In right triangle ABC, angle C is 90°. BC = 9, AC = 12 and AB = 15. What is sin A?",
+  "options": [
+   "12/15",
+   "9/12",
+   "12/9",
+   "9/15"
+  ],
+  "answer": 3,
+  "explanation": "For angle A: opposite = BC = 9, adjacent = AC = 12, hypotenuse = 15. sin = opposite/hypotenuse = 9/15.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "In right triangle ABC, angle C is 90°. BC = 7, AC = 24 and AB = 25. What is sin A?",
+  "options": [
+   "24/7",
+   "7/24",
+   "24/25",
+   "7/25"
+  ],
+  "answer": 3,
+  "explanation": "For angle A: opposite = BC = 7, adjacent = AC = 24, hypotenuse = 25. sin = opposite/hypotenuse = 7/25.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "In right triangle ABC, angle C is 90°. BC = 8, AC = 15 and AB = 17. What is cos A?",
+  "options": [
+   "15/8",
+   "15/17",
+   "8/17",
+   "8/15"
+  ],
+  "answer": 1,
+  "explanation": "For angle A: opposite = BC = 8, adjacent = AC = 15, hypotenuse = 17. cos = adjacent/hypotenuse = 15/17.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "In right triangle ABC, angle C is 90°. BC = 20, AC = 21 and AB = 29. What is cos A?",
+  "options": [
+   "20/21",
+   "21/20",
+   "21/29",
+   "20/29"
+  ],
+  "answer": 2,
+  "explanation": "For angle A: opposite = BC = 20, adjacent = AC = 21, hypotenuse = 29. cos = adjacent/hypotenuse = 21/29.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "In right triangle ABC, angle C is 90°. BC = 20, AC = 21 and AB = 29. What is tan A?",
+  "options": [
+   "21/29",
+   "20/21",
+   "20/29",
+   "21/20"
+  ],
+  "answer": 1,
+  "explanation": "For angle A: opposite = BC = 20, adjacent = AC = 21, hypotenuse = 29. tan = opposite/adjacent = 20/21.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "In right triangle ABC, angle C is 90°. BC = 6, AC = 8 and AB = 10. What is sin A?",
+  "options": [
+   "8/6",
+   "6/10",
+   "6/8",
+   "8/10"
+  ],
+  "answer": 1,
+  "explanation": "For angle A: opposite = BC = 6, adjacent = AC = 8, hypotenuse = 10. sin = opposite/hypotenuse = 6/10.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "In right triangle ABC, angle C is 90°. BC = 5, AC = 12 and AB = 13. What is sin A?",
+  "options": [
+   "5/12",
+   "5/13",
+   "12/5",
+   "12/13"
+  ],
+  "answer": 1,
+  "explanation": "For angle A: opposite = BC = 5, adjacent = AC = 12, hypotenuse = 13. sin = opposite/hypotenuse = 5/13.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "If sin(55°) = k, which of the following is also equal to k?",
+  "options": [
+   "tan(55°)",
+   "cos(35°)",
+   "cos(55°)",
+   "sin(35°)"
+  ],
+  "answer": 1,
+  "explanation": "sin θ = cos(90° − θ), so sin 55° = cos 35°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "If sin(25°) = k, which of the following is also equal to k?",
+  "options": [
+   "cos(65°)",
+   "sin(65°)",
+   "tan(25°)",
+   "cos(25°)"
+  ],
+  "answer": 0,
+  "explanation": "sin θ = cos(90° − θ), so sin 25° = cos 65°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "If sin(50°) = k, which of the following is also equal to k?",
+  "options": [
+   "cos(40°)",
+   "cos(50°)",
+   "tan(50°)",
+   "sin(40°)"
+  ],
+  "answer": 0,
+  "explanation": "sin θ = cos(90° − θ), so sin 50° = cos 40°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "If sin(20°) = k, which of the following is also equal to k?",
+  "options": [
+   "tan(20°)",
+   "cos(20°)",
+   "cos(70°)",
+   "sin(70°)"
+  ],
+  "answer": 2,
+  "explanation": "sin θ = cos(90° − θ), so sin 20° = cos 70°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "If sin(70°) = k, which of the following is also equal to k?",
+  "options": [
+   "cos(20°)",
+   "tan(70°)",
+   "sin(20°)",
+   "cos(70°)"
+  ],
+  "answer": 0,
+  "explanation": "sin θ = cos(90° − θ), so sin 70° = cos 20°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "If sin(10°) = k, which of the following is also equal to k?",
+  "options": [
+   "cos(80°)",
+   "cos(10°)",
+   "tan(10°)",
+   "sin(80°)"
+  ],
+  "answer": 0,
+  "explanation": "sin θ = cos(90° − θ), so sin 10° = cos 80°.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "The equation of a circle is (x + 3)² + (y + 3)² = 25. What are its centre and radius?",
+  "options": [
+   "Centre (-3, -3), radius 25",
+   "Centre (-3, -3), radius 5",
+   "Centre (3, 3), radius 5",
+   "Centre (3, -3), radius 5"
+  ],
+  "answer": 1,
+  "explanation": "(x − h)² + (y − k)² = r² has centre (h, k) and radius √25 = 5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "The equation of a circle is (x − 6)² + (y + 5)² = 4. What are its centre and radius?",
+  "options": [
+   "Centre (6, -5), radius 2",
+   "Centre (-6, -5), radius 2",
+   "Centre (-6, 5), radius 2",
+   "Centre (6, -5), radius 4"
+  ],
+  "answer": 0,
+  "explanation": "(x − h)² + (y − k)² = r² has centre (h, k) and radius √4 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "The equation of a circle is (x + 5)² + (y − 2)² = 4. What are its centre and radius?",
+  "options": [
+   "Centre (-5, 2), radius 4",
+   "Centre (5, 2), radius 2",
+   "Centre (5, -2), radius 2",
+   "Centre (-5, 2), radius 2"
+  ],
+  "answer": 3,
+  "explanation": "(x − h)² + (y − k)² = r² has centre (h, k) and radius √4 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "The equation of a circle is (x − 4)² + (y − 1)² = 64. What are its centre and radius?",
+  "options": [
+   "Centre (4, 1), radius 64",
+   "Centre (4, 1), radius 8",
+   "Centre (-4, 1), radius 8",
+   "Centre (-4, -1), radius 8"
+  ],
+  "answer": 1,
+  "explanation": "(x − h)² + (y − k)² = r² has centre (h, k) and radius √64 = 8.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "The equation of a circle is (x − 1)² + (y − 1)² = 16. What are its centre and radius?",
+  "options": [
+   "Centre (-1, -1), radius 4",
+   "Centre (1, 1), radius 4",
+   "Centre (1, 1), radius 16",
+   "Centre (-1, 1), radius 4"
+  ],
+  "answer": 1,
+  "explanation": "(x − h)² + (y − k)² = r² has centre (h, k) and radius √16 = 4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "The equation of a circle is (x − 3)² + (y + 3)² = 36. What are its centre and radius?",
+  "options": [
+   "Centre (3, -3), radius 36",
+   "Centre (-3, 3), radius 6",
+   "Centre (3, -3), radius 6",
+   "Centre (-3, -3), radius 6"
+  ],
+  "answer": 2,
+  "explanation": "(x − h)² + (y − k)² = r² has centre (h, k) and radius √36 = 6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "The equation of a circle is (x − 5)² + (y + 2)² = 49. What are its centre and radius?",
+  "options": [
+   "Centre (-5, 2), radius 7",
+   "Centre (5, -2), radius 7",
+   "Centre (5, -2), radius 49",
+   "Centre (-5, -2), radius 7"
+  ],
+  "answer": 1,
+  "explanation": "(x − h)² + (y − k)² = r² has centre (h, k) and radius √49 = 7.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "The equation of a circle is (x + 4)² + (y − 2)² = 49. What are its centre and radius?",
+  "options": [
+   "Centre (-4, 2), radius 7",
+   "Centre (4, 2), radius 7",
+   "Centre (4, -2), radius 7",
+   "Centre (-4, 2), radius 49"
+  ],
+  "answer": 0,
+  "explanation": "(x − h)² + (y − k)² = r² has centre (h, k) and radius √49 = 7.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "Two angles of a triangle measure 79° and 56°. What is the measure of the third angle?",
+  "options": [
+   "225°",
+   "101°",
+   "45°",
+   "135°"
+  ],
+  "answer": 2,
+  "explanation": "Angles in a triangle sum to 180°: 180 − 79 − 56 = 45°.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "Two angles of a triangle measure 26° and 60°. What is the measure of the third angle?",
+  "options": [
+   "154°",
+   "94°",
+   "274°",
+   "86°"
+  ],
+  "answer": 1,
+  "explanation": "Angles in a triangle sum to 180°: 180 − 26 − 60 = 94°.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "Two angles of a triangle measure 56° and 78°. What is the measure of the third angle?",
+  "options": [
+   "46°",
+   "226°",
+   "134°",
+   "124°"
+  ],
+  "answer": 0,
+  "explanation": "Angles in a triangle sum to 180°: 180 − 56 − 78 = 46°.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "Two angles of a triangle measure 78° and 80°. What is the measure of the third angle?",
+  "options": [
+   "22°",
+   "102°",
+   "202°",
+   "158°"
+  ],
+  "answer": 0,
+  "explanation": "Angles in a triangle sum to 180°: 180 − 78 − 80 = 22°.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "Two angles of a triangle measure 43° and 41°. What is the measure of the third angle?",
+  "options": [
+   "276°",
+   "96°",
+   "137°",
+   "84°"
+  ],
+  "answer": 1,
+  "explanation": "Angles in a triangle sum to 180°: 180 − 43 − 41 = 96°.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "Two angles of a triangle measure 61° and 55°. What is the measure of the third angle?",
+  "options": [
+   "64°",
+   "116°",
+   "244°",
+   "119°"
+  ],
+  "answer": 0,
+  "explanation": "Angles in a triangle sum to 180°: 180 − 61 − 55 = 64°.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "Two angles of a triangle measure 59° and 71°. What is the measure of the third angle?",
+  "options": [
+   "230°",
+   "121°",
+   "50°",
+   "130°"
+  ],
+  "answer": 2,
+  "explanation": "Angles in a triangle sum to 180°: 180 − 59 − 71 = 50°.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "Two angles of a triangle measure 28° and 54°. What is the measure of the third angle?",
+  "options": [
+   "152°",
+   "82°",
+   "98°",
+   "278°"
+  ],
+  "answer": 2,
+  "explanation": "Angles in a triangle sum to 180°: 180 − 28 − 54 = 98°.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "A cone has radius 3 and height 27. What is its volume?",
+  "options": [
+   "84π",
+   "54π",
+   "243π",
+   "81π"
+  ],
+  "answer": 3,
+  "explanation": "V = ⅓πr²h = ⅓π(9)(27) = 81π.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "A cone has radius 5 and height 36. What is its volume?",
+  "options": [
+   "900π",
+   "305π",
+   "120π",
+   "300π"
+  ],
+  "answer": 3,
+  "explanation": "V = ⅓πr²h = ⅓π(25)(36) = 300π.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "What is the volume of a cylinder with radius 3 and height 11?",
+  "options": [
+   "66π",
+   "33π",
+   "198π",
+   "99π"
+  ],
+  "answer": 3,
+  "explanation": "V = πr²h = π(9)(11) = 99π.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "What is the volume of a cylinder with radius 2 and height 12?",
+  "options": [
+   "96π",
+   "16π",
+   "24π",
+   "48π"
+  ],
+  "answer": 3,
+  "explanation": "V = πr²h = π(4)(12) = 48π.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "A cone has radius 3 and height 15. What is its volume?",
+  "options": [
+   "45π",
+   "48π",
+   "30π",
+   "135π"
+  ],
+  "answer": 0,
+  "explanation": "V = ⅓πr²h = ⅓π(9)(15) = 45π.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "A cone has radius 4 and height 30. What is its volume?",
+  "options": [
+   "480π",
+   "80π",
+   "160π",
+   "164π"
+  ],
+  "answer": 2,
+  "explanation": "V = ⅓πr²h = ⅓π(16)(30) = 160π.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "Two similar triangles have corresponding sides in the ratio 1 : 4. The smaller triangle has area 4. What is the area of the larger triangle?",
+  "options": [
+   "8",
+   "16",
+   "64",
+   "256"
+  ],
+  "answer": 2,
+  "explanation": "Areas scale by the square of the ratio: 4 × 4² = 64.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "Two similar triangles have corresponding sides in the ratio 1 : 4. The smaller triangle has area 9. What is the area of the larger triangle?",
+  "options": [
+   "576",
+   "13",
+   "36",
+   "144"
+  ],
+  "answer": 3,
+  "explanation": "Areas scale by the square of the ratio: 9 × 4² = 144.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "Two similar triangles have corresponding sides in the ratio 1 : 3. The smaller triangle has area 4. What is the area of the larger triangle?",
+  "options": [
+   "7",
+   "36",
+   "12",
+   "108"
+  ],
+  "answer": 1,
+  "explanation": "Areas scale by the square of the ratio: 4 × 3² = 36.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "Two similar triangles have corresponding sides in the ratio 1 : 3. The smaller triangle has area 36. What is the area of the larger triangle?",
+  "options": [
+   "972",
+   "324",
+   "39",
+   "108"
+  ],
+  "answer": 1,
+  "explanation": "Areas scale by the square of the ratio: 36 × 3² = 324.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "Two similar triangles have corresponding sides in the ratio 1 : 2. The smaller triangle has area 25. What is the area of the larger triangle?",
+  "options": [
+   "27",
+   "100",
+   "50",
+   "200"
+  ],
+  "answer": 1,
+  "explanation": "Areas scale by the square of the ratio: 25 × 2² = 100.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SMT",
+  "topic": "Geometry and Trigonometry",
+  "body": "Two similar triangles have corresponding sides in the ratio 1 : 4. The smaller triangle has area 16. What is the area of the larger triangle?",
+  "options": [
+   "64",
+   "256",
+   "20",
+   "1024"
+  ],
+  "answer": 1,
+  "explanation": "Areas scale by the square of the ratio: 16 × 4² = 256.",
+  "difficulty": 3
+ }
+]
