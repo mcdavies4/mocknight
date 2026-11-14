@@ -365,7 +365,18 @@ export const TRACKS: Record<TrackCode, Track> = {
 };
 
 export const TRACK_LIST = Object.values(TRACKS);
-export const TECH_TRACK_CODES = ["ITF", "CCST", "AWS", "AZF", "PYT", "SEC", "DAT", "AIA"] as const;
+export const TECH_TRACK_CODES = [
+  "ITF",
+  "CCST",
+  "AWS",
+  "AZF",
+  "PYT",
+  "SEC",
+  "DAT",
+  "AIA",
+  "CON",
+  "BKP"
+] as const;
 export const SCHOOL_TRACKS = TRACK_LIST.filter((t) => t.weeklyMock).map((t) => t.code);
 export const UK_TIME_TRACKS = TRACK_LIST.filter((t) => t.timeZone === "Europe/London").map((t) => t.code);
 
