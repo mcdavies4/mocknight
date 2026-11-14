@@ -19,7 +19,7 @@ const RULES: Record<string, ReturnType<typeof rules>> = {
   JEE: rules("₹", "rupees", "paise"),
   CSEPH: rules("₱", "pesos", "centavos"),
 };
-const NIGERIAN_TRACKS = new Set(["JAMB", "WAEC", "PUTME", "NECO", "ICAN", "NGREC"]);
+const NIGERIAN_TRACKS = new Set(["JAMB", "WAEC", "PUTME", "NECO", "ICAN", "NGREC", "NCEE", "JSCE", "NGCS", "OILGAS"]);
 const NIGERIA_ONLY = /\b(Nigeria|Nigerian|Lagos|Abuja|Kano|Ibadan|Port Harcourt|CBN|NNPC|INEC)\b/;
 
 export function localiseText(s: string, trackCode?: string | null): string;

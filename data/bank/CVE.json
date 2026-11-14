@@ -1,0 +1,366 @@
+[
+ {
+  "subject": "CVE",
+  "topic": "Citizenship",
+  "body": "Which is NOT a way of becoming a Nigerian citizen under the 1999 Constitution?",
+  "options": [
+   "By registration",
+   "By birth",
+   "By naturalisation",
+   "By paying taxes"
+  ],
+  "answer": 3,
+  "explanation": "The Constitution lists birth, registration and naturalisation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Citizenship",
+  "body": "At what age can a Nigerian citizen vote?",
+  "options": [
+   "21",
+   "25",
+   "16",
+   "18"
+  ],
+  "answer": 3,
+  "explanation": "Citizens aged 18 and above can register to vote.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Citizenship",
+  "body": "Which body conducts federal elections in Nigeria?",
+  "options": [
+   "EFCC",
+   "INEC",
+   "NYSC",
+   "NDLEA"
+  ],
+  "answer": 1,
+  "explanation": "The Independent National Electoral Commission.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Citizenship",
+  "body": "Which is a duty of a citizen?",
+  "options": [
+   "Refusing to vote",
+   "Avoiding all taxes",
+   "Obeying the laws of the country",
+   "Destroying public property"
+  ],
+  "answer": 2,
+  "explanation": "Duties also include paying taxes and respecting national symbols.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Rights",
+  "body": "Which is a fundamental human right in the Nigerian Constitution?",
+  "options": [
+   "Right to life",
+   "Right to a free car",
+   "Right to break the law",
+   "Right to avoid school rules"
+  ],
+  "answer": 0,
+  "explanation": "Chapter IV of the 1999 Constitution lists fundamental rights.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Rights",
+  "body": "Which chapter of the 1999 Constitution contains fundamental human rights?",
+  "options": [
+   "Chapter VIII",
+   "Chapter II",
+   "Chapter IV",
+   "Chapter I"
+  ],
+  "answer": 2,
+  "explanation": "Chapter II covers fundamental objectives of state policy.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Rights",
+  "body": "The Child Rights Act was passed in Nigeria in",
+  "options": [
+   "2003",
+   "2015",
+   "1960",
+   "1999"
+  ],
+  "answer": 0,
+  "explanation": "It protects the rights of children under 18.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Government",
+  "body": "Which arm of government makes laws?",
+  "options": [
+   "The executive",
+   "The legislature",
+   "The judiciary",
+   "The police"
+  ],
+  "answer": 1,
+  "explanation": "The National Assembly makes federal laws.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Government",
+  "body": "Which arm of government interprets laws?",
+  "options": [
+   "The legislature",
+   "INEC",
+   "The executive",
+   "The judiciary"
+  ],
+  "answer": 3,
+  "explanation": "Courts interpret laws and settle disputes.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Government",
+  "body": "Which arm of government carries out laws?",
+  "options": [
+   "The press",
+   "The legislature",
+   "The executive",
+   "The judiciary"
+  ],
+  "answer": 2,
+  "explanation": "The President and ministers lead the executive.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Government",
+  "body": "Nigeria's National Assembly is made up of",
+  "options": [
+   "the Senate and the Supreme Court",
+   "the Senate and the House of Representatives",
+   "the President and the Vice President",
+   "governors and ministers"
+  ],
+  "answer": 1,
+  "explanation": "It is a bicameral legislature.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Government",
+  "body": "How many senators are in the Nigerian Senate?",
+  "options": [
+   "100",
+   "36",
+   "109",
+   "360"
+  ],
+  "answer": 2,
+  "explanation": "Three from each state and one from the FCT.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Government",
+  "body": "How many members are in the House of Representatives?",
+  "options": [
+   "360",
+   "36",
+   "469",
+   "109"
+  ],
+  "answer": 0,
+  "explanation": "Seats are shared by population.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Government",
+  "body": "'Rule of law' means",
+  "options": [
+   "only the poor obey the law",
+   "everyone, including leaders, is subject to the law",
+   "laws are optional",
+   "the President makes all laws"
+  ],
+  "answer": 1,
+  "explanation": "No one is above the law.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Government",
+  "body": "Democracy is best described as",
+  "options": [
+   "rule by the army",
+   "government of the people, by the people, for the people",
+   "rule by one family",
+   "rule by foreign powers"
+  ],
+  "answer": 1,
+  "explanation": "Citizens choose leaders through elections.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Values",
+  "body": "Which value means being truthful and fair?",
+  "options": [
+   "Greed",
+   "Pride",
+   "Honesty",
+   "Laziness"
+  ],
+  "answer": 2,
+  "explanation": "Honesty builds trust.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Values",
+  "body": "Integrity means",
+  "options": [
+   "being popular",
+   "winning at all costs",
+   "doing the right thing even when no one is watching",
+   "being rich"
+  ],
+  "answer": 2,
+  "explanation": "Integrity is a core civic value.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Values",
+  "body": "Which agency fights human trafficking in Nigeria?",
+  "options": [
+   "FRSC",
+   "NAFDAC",
+   "NAPTIP",
+   "INEC"
+  ],
+  "answer": 2,
+  "explanation": "The National Agency for the Prohibition of Trafficking in Persons.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Values",
+  "body": "Which agency fights economic and financial crimes?",
+  "options": [
+   "NAPTIP",
+   "NYSC",
+   "NDLEA",
+   "EFCC"
+  ],
+  "answer": 3,
+  "explanation": "The Economic and Financial Crimes Commission.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Values",
+  "body": "Which agency fights corruption in the public service?",
+  "options": [
+   "ICPC",
+   "INEC",
+   "FRSC",
+   "NAFDAC"
+  ],
+  "answer": 0,
+  "explanation": "The Independent Corrupt Practices and Other Related Offences Commission.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Values",
+  "body": "Cultism in schools is harmful mainly because it",
+  "options": [
+   "leads to violence and disrupts learning",
+   "improves grades",
+   "reduces school fees",
+   "helps students sleep"
+  ],
+  "answer": 0,
+  "explanation": "Students should report cult activities to school authorities.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Drugs",
+  "body": "Drug abuse means",
+  "options": [
+   "drinking water",
+   "using drugs in a harmful way or without medical advice",
+   "eating vegetables",
+   "taking prescribed medicine correctly"
+  ],
+  "answer": 1,
+  "explanation": "Drug abuse damages health and future.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "National symbols",
+  "body": "Nigeria's national anthem since 2024 is",
+  "options": [
+   "Nigeria, We Hail Thee",
+   "Arise, O Compatriots",
+   "God Bless Nigeria",
+   "One Nigeria"
+  ],
+  "answer": 0,
+  "explanation": "It was first used at independence in 1960 and restored in 2024.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "National symbols",
+  "body": "Which is a national symbol of Nigeria?",
+  "options": [
+   "The coat of arms",
+   "A political party logo",
+   "A football club",
+   "A bank logo"
+  ],
+  "answer": 0,
+  "explanation": "Others include the flag, anthem and pledge.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Road safety",
+  "body": "When crossing the road, you should first",
+  "options": [
+   "run quickly",
+   "use your phone",
+   "look left and right",
+   "close your eyes"
+  ],
+  "answer": 2,
+  "explanation": "Use a zebra crossing where there is one.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CVE",
+  "topic": "Road safety",
+  "body": "The green traffic light means",
+  "options": [
+   "turn back",
+   "stop",
+   "get ready to stop",
+   "go"
+  ],
+  "answer": 3,
+  "explanation": "Red means stop.",
+  "difficulty": 1
+ }
+]

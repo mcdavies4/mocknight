@@ -1,0 +1,492 @@
+[
+ {
+  "subject": "NGS",
+  "topic": "Nigeria",
+  "body": "When did Nigeria become independent?",
+  "options": [
+   "12 June 1993",
+   "29 May 1999",
+   "1 October 1960",
+   "1 October 1963"
+  ],
+  "answer": 2,
+  "explanation": "Nigeria gained independence from Britain on 1 October 1960.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Nigeria",
+  "body": "What is the capital of Nigeria?",
+  "options": [
+   "Kaduna",
+   "Abuja",
+   "Ibadan",
+   "Lagos"
+  ],
+  "answer": 1,
+  "explanation": "Abuja became the capital in 1991; Lagos was the capital before.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Nigeria",
+  "body": "How many states does Nigeria have?",
+  "options": [
+   "36",
+   "30",
+   "37",
+   "19"
+  ],
+  "answer": 0,
+  "explanation": "There are 36 states plus the Federal Capital Territory.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Nigeria",
+  "body": "What are the colours of the Nigerian flag?",
+  "options": [
+   "Green, white, green",
+   "White, green, white",
+   "Green, yellow, green",
+   "Green, white, red"
+  ],
+  "answer": 0,
+  "explanation": "Green for agriculture, white for peace.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Nigeria",
+  "body": "Who designed the Nigerian flag?",
+  "options": [
+   "Nnamdi Azikiwe",
+   "Herbert Macaulay",
+   "Taiwo Akinkunmi",
+   "Obafemi Awolowo"
+  ],
+  "answer": 2,
+  "explanation": "He designed it as a student in 1959.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Nigeria",
+  "body": "What does the green on the Nigerian flag stand for?",
+  "options": [
+   "Unity",
+   "Peace",
+   "Agriculture",
+   "Oil"
+  ],
+  "answer": 2,
+  "explanation": "The white band stands for peace.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Nigeria",
+  "body": "What is Nigeria's national motto?",
+  "options": [
+   "Freedom and Justice",
+   "Truth and Service",
+   "One Nation, One Destiny",
+   "Unity and Faith, Peace and Progress"
+  ],
+  "answer": 3,
+  "explanation": "It appears on the coat of arms.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Nigeria",
+  "body": "On the coat of arms, what do the two white horses stand for?",
+  "options": [
+   "Dignity",
+   "Strength",
+   "Fertile soil",
+   "The two rivers"
+  ],
+  "answer": 0,
+  "explanation": "The eagle stands for strength.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Nigeria",
+  "body": "On the coat of arms, the wavy 'Y' shape stands for",
+  "options": [
+   "the roads to Abuja",
+   "the three regions",
+   "the Rivers Niger and Benue",
+   "the coastline"
+  ],
+  "answer": 2,
+  "explanation": "The two rivers meet at Lokoja.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Nigeria",
+  "body": "Who was Nigeria's first President?",
+  "options": [
+   "Dr Nnamdi Azikiwe",
+   "Sir Abubakar Tafawa Balewa",
+   "Chief Obafemi Awolowo",
+   "General Yakubu Gowon"
+  ],
+  "answer": 0,
+  "explanation": "He became President when Nigeria became a republic in 1963.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Nigeria",
+  "body": "Who was Nigeria's first Prime Minister?",
+  "options": [
+   "Sir Ahmadu Bello",
+   "Dr Nnamdi Azikiwe",
+   "Chief Obafemi Awolowo",
+   "Sir Abubakar Tafawa Balewa"
+  ],
+  "answer": 3,
+  "explanation": "He led the government at independence.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Nigeria",
+  "body": "Where do the Rivers Niger and Benue meet?",
+  "options": [
+   "Jebba",
+   "Onitsha",
+   "Makurdi",
+   "Lokoja"
+  ],
+  "answer": 3,
+  "explanation": "Lokoja is the capital of Kogi State.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Nigeria",
+  "body": "What is the longest river in Nigeria?",
+  "options": [
+   "River Benue",
+   "River Niger",
+   "Cross River",
+   "Ogun River"
+  ],
+  "answer": 1,
+  "explanation": "The Niger flows through several West African countries.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Nigeria",
+  "body": "What is Nigeria's currency?",
+  "options": [
+   "Cedi",
+   "Naira",
+   "Shilling",
+   "Pound"
+  ],
+  "answer": 1,
+  "explanation": "One naira is 100 kobo.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Nigeria",
+  "body": "What are the three tiers of government in Nigeria?",
+  "options": [
+   "Senate, House and courts",
+   "President, governor and chairman",
+   "Federal, state and local government",
+   "North, East and West"
+  ],
+  "answer": 2,
+  "explanation": "Each tier has its own responsibilities.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Nigeria",
+  "body": "Zuma Rock is found near",
+  "options": [
+   "Abuja",
+   "Lagos",
+   "Enugu",
+   "Jos"
+  ],
+  "answer": 0,
+  "explanation": "It is in Niger State, near Abuja.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Science",
+  "body": "How many sense organs do humans have?",
+  "options": [
+   "4",
+   "7",
+   "6",
+   "5"
+  ],
+  "answer": 3,
+  "explanation": "Eyes, ears, nose, tongue and skin.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Science",
+  "body": "Which part of a plant makes food?",
+  "options": [
+   "Root",
+   "Stem",
+   "Leaf",
+   "Flower"
+  ],
+  "answer": 2,
+  "explanation": "Leaves make food by photosynthesis.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Science",
+  "body": "Which part of a plant takes in water from the soil?",
+  "options": [
+   "Root",
+   "Leaf",
+   "Flower",
+   "Fruit"
+  ],
+  "answer": 0,
+  "explanation": "Roots also hold the plant firmly.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Science",
+  "body": "Water boils at",
+  "options": [
+   "100°C",
+   "0°C",
+   "212°C",
+   "50°C"
+  ],
+  "answer": 0,
+  "explanation": "Water freezes at 0°C.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Science",
+  "body": "How many planets are in our solar system?",
+  "options": [
+   "8",
+   "7",
+   "10",
+   "9"
+  ],
+  "answer": 0,
+  "explanation": "Pluto is now called a dwarf planet.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Science",
+  "body": "Which planet do we live on?",
+  "options": [
+   "Venus",
+   "Mars",
+   "Jupiter",
+   "Earth"
+  ],
+  "answer": 3,
+  "explanation": "Earth is the third planet from the Sun.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Science",
+  "body": "Which teeth are used for cutting food?",
+  "options": [
+   "Molars",
+   "Canines",
+   "Premolars",
+   "Incisors"
+  ],
+  "answer": 3,
+  "explanation": "Molars grind food; canines tear it.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Science",
+  "body": "How many colours are in a rainbow?",
+  "options": [
+   "5",
+   "6",
+   "8",
+   "7"
+  ],
+  "answer": 3,
+  "explanation": "Red, orange, yellow, green, blue, indigo, violet.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Science",
+  "body": "Which of these is a living thing?",
+  "options": [
+   "A goat",
+   "A stone",
+   "Water",
+   "A chair"
+  ],
+  "answer": 0,
+  "explanation": "Living things grow, feed, breathe and reproduce.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Science",
+  "body": "Malaria is spread by",
+  "options": [
+   "houseflies",
+   "rats",
+   "mosquitoes",
+   "cockroaches"
+  ],
+  "answer": 2,
+  "explanation": "Sleeping under a treated net helps prevent malaria.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Health",
+  "body": "Which food class helps the body grow and repair itself?",
+  "options": [
+   "Protein",
+   "Water",
+   "Fat and oil",
+   "Carbohydrate"
+  ],
+  "answer": 0,
+  "explanation": "Beans, fish, eggs and meat are rich in protein.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Health",
+  "body": "Which food class gives the body energy?",
+  "options": [
+   "Carbohydrate",
+   "Protein",
+   "Minerals",
+   "Vitamins"
+  ],
+  "answer": 0,
+  "explanation": "Yam, rice, garri and bread are carbohydrates.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Civic",
+  "body": "What is the emergency phone number in Nigeria?",
+  "options": [
+   "911",
+   "123",
+   "112",
+   "999"
+  ],
+  "answer": 2,
+  "explanation": "112 is the national emergency number.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Civic",
+  "body": "Which agency fights drug abuse in Nigeria?",
+  "options": [
+   "INEC",
+   "NDLEA",
+   "FRSC",
+   "NAFDAC"
+  ],
+  "answer": 1,
+  "explanation": "The National Drug Law Enforcement Agency.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Civic",
+  "body": "Which agency controls road safety in Nigeria?",
+  "options": [
+   "FRSC",
+   "NYSC",
+   "NAFDAC",
+   "NDLEA"
+  ],
+  "answer": 0,
+  "explanation": "The Federal Road Safety Corps.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Civic",
+  "body": "Which agency checks that food and drugs are safe?",
+  "options": [
+   "FRSC",
+   "NDLEA",
+   "INEC",
+   "NAFDAC"
+  ],
+  "answer": 3,
+  "explanation": "The National Agency for Food and Drug Administration and Control.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Geography",
+  "body": "In which direction does the sun rise?",
+  "options": [
+   "South",
+   "East",
+   "West",
+   "North"
+  ],
+  "answer": 1,
+  "explanation": "It sets in the west.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Geography",
+  "body": "Which is the largest continent?",
+  "options": [
+   "Asia",
+   "Africa",
+   "North America",
+   "Europe"
+  ],
+  "answer": 0,
+  "explanation": "Africa is the second largest.",
+  "difficulty": 1
+ },
+ {
+  "subject": "NGS",
+  "topic": "Geography",
+  "body": "Nigeria is in which continent?",
+  "options": [
+   "Asia",
+   "Europe",
+   "South America",
+   "Africa"
+  ],
+  "answer": 3,
+  "explanation": "Nigeria is in West Africa.",
+  "difficulty": 1
+ }
+]

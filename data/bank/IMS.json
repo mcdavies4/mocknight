@@ -1,0 +1,366 @@
+[
+ {
+  "subject": "IMS",
+  "topic": "Introduction",
+  "body": "What are the three main reasons for managing safety?",
+  "options": [
+   "Moral, legal and financial",
+   "Moral, social and political",
+   "Financial, cultural and medical",
+   "Legal, technical and personal"
+  ],
+  "answer": 0,
+  "explanation": "Managers must protect people, comply with the law and avoid costs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Introduction",
+  "body": "Which is an example of a 'hidden' (uninsured) cost of an accident?",
+  "options": [
+   "The insurance premium paid last year",
+   "A routine maintenance bill",
+   "Compensation paid by the insurer",
+   "Lost production and staff time investigating"
+  ],
+  "answer": 3,
+  "explanation": "Uninsured costs are often far higher than insured ones.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Risk",
+  "body": "What is a hazard?",
+  "options": [
+   "The likelihood that harm will occur",
+   "Anything with the potential to cause harm",
+   "An injury that has happened",
+   "A safety rule"
+  ],
+  "answer": 1,
+  "explanation": "A wet floor is a hazard.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Risk",
+  "body": "What is risk?",
+  "options": [
+   "A safety sign",
+   "Anything that can cause harm",
+   "A near miss",
+   "The likelihood of harm combined with how severe it could be"
+  ],
+  "answer": 3,
+  "explanation": "Risk = likelihood × severity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Risk",
+  "body": "In a simple risk matrix, likelihood 4 and severity 3 give a risk rating of",
+  "options": [
+   "1",
+   "43",
+   "7",
+   "12"
+  ],
+  "answer": 3,
+  "explanation": "Multiply likelihood by severity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Risk",
+  "body": "What is the first step of the HSE's five steps to risk assessment?",
+  "options": [
+   "Review the assessment",
+   "Identify the hazards",
+   "Decide on precautions",
+   "Record your findings"
+  ],
+  "answer": 1,
+  "explanation": "Then decide who might be harmed and how.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Risk",
+  "body": "Which step of the five-step risk assessment comes last?",
+  "options": [
+   "Decide who might be harmed",
+   "Review the assessment and update if necessary",
+   "Identify the hazards",
+   "Evaluate the risks"
+  ],
+  "answer": 1,
+  "explanation": "Review after changes or incidents.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Risk",
+  "body": "Which group may need special consideration in a risk assessment?",
+  "options": [
+   "Experienced supervisors only",
+   "New and expectant mothers",
+   "Customers who never visit the site",
+   "Shareholders"
+  ],
+  "answer": 1,
+  "explanation": "Young workers and people with disabilities are other examples.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Controls",
+  "body": "In the hierarchy of control, which measure is most effective?",
+  "options": [
+   "Elimination",
+   "Training",
+   "Warning signs",
+   "Personal protective equipment"
+  ],
+  "answer": 0,
+  "explanation": "Remove the hazard altogether where possible.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Controls",
+  "body": "Where does PPE sit in the hierarchy of control?",
+  "options": [
+   "Last resort",
+   "First choice",
+   "Second, after elimination",
+   "Equal to engineering controls"
+  ],
+  "answer": 0,
+  "explanation": "PPE only protects the wearer and can fail.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Controls",
+  "body": "Replacing a solvent-based paint with a water-based one is an example of",
+  "options": [
+   "an administrative control",
+   "elimination",
+   "substitution",
+   "PPE"
+  ],
+  "answer": 2,
+  "explanation": "Swap something hazardous for something less hazardous.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Controls",
+  "body": "Fitting a guard to a machine is an example of",
+  "options": [
+   "PPE",
+   "elimination",
+   "an engineering control",
+   "an administrative control"
+  ],
+  "answer": 2,
+  "explanation": "Engineering controls isolate people from the hazard.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Controls",
+  "body": "Job rotation to reduce exposure to vibration is an example of",
+  "options": [
+   "elimination",
+   "an engineering control",
+   "substitution",
+   "an administrative control"
+  ],
+  "answer": 3,
+  "explanation": "It changes how work is organised.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Responsibilities",
+  "body": "Which UK law places general duties on employers to protect employees and others?",
+  "options": [
+   "Health and Safety at Work etc. Act 1974",
+   "Companies Act 2006",
+   "Equality Act 2010",
+   "Data Protection Act 2018"
+  ],
+  "answer": 0,
+  "explanation": "It applies to all workplaces in Great Britain.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Responsibilities",
+  "body": "Employees have a legal duty to",
+  "options": [
+   "pay for their own PPE",
+   "write the company safety policy",
+   "carry out all risk assessments",
+   "take reasonable care of themselves and others affected by their work"
+  ],
+  "answer": 3,
+  "explanation": "They must also co-operate with their employer on safety.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Responsibilities",
+  "body": "Civil law in health and safety is mainly concerned with",
+  "options": [
+   "writing regulations",
+   "inspecting workplaces",
+   "punishing offenders with prison",
+   "compensation for people who have been harmed"
+  ],
+  "answer": 3,
+  "explanation": "Criminal law deals with prosecution and penalties.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Hazards",
+  "body": "Noise, vibration and extreme temperatures are examples of which hazard type?",
+  "options": [
+   "Biological",
+   "Physical",
+   "Chemical",
+   "Psychological"
+  ],
+  "answer": 1,
+  "explanation": "Biological hazards include bacteria and viruses.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Hazards",
+  "body": "Stress and bullying are examples of which hazard type?",
+  "options": [
+   "Physical",
+   "Biological",
+   "Psychosocial",
+   "Chemical"
+  ],
+  "answer": 2,
+  "explanation": "They harm mental and physical health.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Hazards",
+  "body": "Poor workstation set-up causing back pain is which type of hazard?",
+  "options": [
+   "Chemical",
+   "Biological",
+   "Ergonomic",
+   "Electrical"
+  ],
+  "answer": 2,
+  "explanation": "Ergonomics fits the job to the person.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Incidents",
+  "body": "What is a near miss?",
+  "options": [
+   "A hazard on a checklist",
+   "An event that could have caused harm but didn't",
+   "An accident with serious injury",
+   "A fire drill"
+  ],
+  "answer": 1,
+  "explanation": "Reporting near misses helps prevent accidents.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Incidents",
+  "body": "What is the main purpose of an accident investigation?",
+  "options": [
+   "To find the causes and prevent it happening again",
+   "To blame the person involved",
+   "To calculate the insurance claim only",
+   "To close the case quickly"
+  ],
+  "answer": 0,
+  "explanation": "Look for immediate, underlying and root causes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Incidents",
+  "body": "A worker slipped on a spillage. The fact that no cleaning system existed is",
+  "options": [
+   "a near miss",
+   "the immediate cause",
+   "a control measure",
+   "an underlying (root) cause"
+  ],
+  "answer": 3,
+  "explanation": "The spillage is the immediate cause; the missing system is a root cause.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Performance",
+  "body": "Which is an example of active (proactive) monitoring?",
+  "options": [
+   "Insurance claims",
+   "Accident statistics",
+   "Sickness absence records",
+   "Workplace inspections"
+  ],
+  "answer": 3,
+  "explanation": "Active monitoring checks controls before harm happens.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Performance",
+  "body": "Accident and ill-health statistics are examples of",
+  "options": [
+   "hazards",
+   "risk controls",
+   "active (leading) measures",
+   "reactive (lagging) measures"
+  ],
+  "answer": 3,
+  "explanation": "They measure failure after it happens.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Performance",
+  "body": "The Plan, Do, Check, Act approach is used to",
+  "options": [
+   "manage health and safety as a continuous cycle",
+   "set salaries",
+   "design machines",
+   "investigate accidents only"
+  ],
+  "answer": 0,
+  "explanation": "It underpins HSE guidance HSG65.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IMS",
+  "topic": "Environment",
+  "body": "In the waste hierarchy, which option is best?",
+  "options": [
+   "Recycle",
+   "Prevent waste in the first place",
+   "Dispose to landfill",
+   "Recover energy"
+  ],
+  "answer": 1,
+  "explanation": "Then reduce, reuse, recycle, recover and finally dispose.",
+  "difficulty": 2
+ }
+]

@@ -2,7 +2,7 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
 export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi" | "Asia/Manila";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
@@ -544,6 +544,64 @@ export const TRACKS: Record<TrackCode, Track> = {
     mock: { perSubject: 15, minutes: 60, scoreStyle: "percent", maxSubjects: 4 }, weeklyMock: false, askState: true, askSchool: false,
     plans: ["ngrec_pass"], tagline: "Practice for Police, Army, Customs, Immigration and graduate trainee aptitude tests", timeZone: "Africa/Lagos",
     audience: "a Nigerian applicant preparing for a government agency or company recruitment aptitude test (reasoning, English, maths, general knowledge)",
+  },
+  NCEE: {
+    code: "NCEE", name: "Common Entrance (NCEE) — Primary 6 to JSS1", short: "Common Entrance", emoji: "🎒", kind: "school", region: "NG", currency: "NGN",
+    subjectMode: "multi", subjects: ["ELM", "VRS", "NGS"], compulsory: ["ELM", "VRS", "NGS"], minSubjects: 3, maxSubjects: 3,
+    subjectNote: "Maths, verbal reasoning and general studies",
+    mock: { perSubject: 20, minutes: 60, scoreStyle: "percent", maxSubjects: 3 }, weeklyMock: false, askState: true, askSchool: true,
+    plans: ["ncee_pass"], tagline: "Common Entrance practice for Unity Colleges and state schools: maths, verbal reasoning and general studies", timeZone: "Africa/Lagos",
+    audience: "a Nigerian Primary 6 pupil (about 10–11 years old) preparing for the National Common Entrance Examination; use very simple language",
+  },
+  JSCE: {
+    code: "JSCE", name: "Junior WAEC / BECE (JSS3, Nigeria)", short: "Junior WAEC", emoji: "📗", kind: "school", region: "NG", currency: "NGN",
+    subjectMode: "multi", subjects: ["ENG", "MTH", "ISC", "CVE"], compulsory: ["ENG", "MTH"], minSubjects: 2, maxSubjects: 4,
+    subjectNote: "English, Maths, Basic Science and Civic Education",
+    mock: { perSubject: 15, minutes: 45, scoreStyle: "percent", maxSubjects: 4 }, weeklyMock: false, askState: true, askSchool: true,
+    plans: ["jsce_pass"], tagline: "Junior WAEC (BECE) practice for JSS3: English, Maths, Basic Science and Civic Education", timeZone: "Africa/Lagos",
+    audience: "a Nigerian JSS3 student preparing for the Basic Education Certificate Examination (Junior WAEC); keep explanations simple",
+  },
+  NGCS: {
+    code: "NGCS", name: "Civil service promotion exams (Nigeria)", short: "Civil service promotion", emoji: "🏛️", kind: "professional", region: "NG", currency: "NGN",
+    subjectMode: "multi", subjects: ["PSR", "GOV", "ENG"], compulsory: ["PSR", "GOV", "ENG"], minSubjects: 3, maxSubjects: 3,
+    subjectNote: "Public Service Rules and Financial Regulations, government and English",
+    mock: { perSubject: 20, minutes: 60, passPct: 60, scoreStyle: "passfail", maxSubjects: 3 }, weeklyMock: false, askState: true, askSchool: false,
+    plans: ["ngcs_pass"], tagline: "Promotion exam practice for federal and state civil servants: Public Service Rules, Financial Regulations and general knowledge", timeZone: "Africa/Lagos",
+    audience: "a Nigerian civil servant preparing for a federal or state promotion examination (Public Service Rules, Financial Regulations, constitution, office practice)",
+  },
+  PTE: {
+    code: "PTE", name: "PTE Academic (English test)", short: "PTE Academic", emoji: "🗣️", kind: "professional", region: "GLOBAL", currency: "GBP",
+    subjectMode: "multi", subjects: ["IEV", "VRB"], compulsory: ["IEV", "VRB"], minSubjects: 2, maxSubjects: 2, subjectNote: "Grammar, vocabulary and reading",
+    mock: { perSubject: 15, minutes: 30, scoreStyle: "percent", maxSubjects: 2 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["pte_pass", "pte_pass_ngn"], tagline: "PTE Academic practice for study, work and visas in the UK, Australia, Canada and New Zealand", timeZone: "UTC", timeLabel: "UTC",
+    audience: "someone preparing for PTE Academic for study, work or a visa abroad",
+  },
+  CELPIP: {
+    code: "CELPIP", name: "CELPIP-General (Canada English test)", short: "CELPIP", emoji: "🇨🇦", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "multi", subjects: ["IEV", "VRB"], compulsory: ["IEV", "VRB"], minSubjects: 2, maxSubjects: 2, subjectNote: "Grammar, vocabulary and reading",
+    mock: { perSubject: 15, minutes: 30, scoreStyle: "percent", maxSubjects: 2 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["celpip_pass", "celpip_pass_ngn"], tagline: "CELPIP-General practice for Canada Express Entry and citizenship", timeZone: "UTC", timeLabel: "UTC",
+    audience: "someone preparing for CELPIP-General for Canadian permanent residence (Express Entry) or citizenship",
+  },
+  IOSH: {
+    code: "IOSH", name: "IOSH Managing Safely", short: "IOSH Managing Safely", emoji: "🦺", kind: "professional", region: "GLOBAL", currency: "GBP",
+    subjectMode: "single", subjects: ["IMS"], compulsory: ["IMS"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 25, minutes: 45, passPct: 60, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["iosh_pass", "iosh_pass_ngn"], tagline: "IOSH Managing Safely revision: risk, hazards, controls, incidents and measuring performance", timeZone: "UTC", timeLabel: "UTC",
+    audience: "a supervisor or manager taking IOSH Managing Safely, often in construction, oil and gas or facilities",
+  },
+  OILGAS: {
+    code: "OILGAS", name: "Oil & gas careers: HSE and industry knowledge", short: "Oil & gas", emoji: "🛢️", kind: "professional", region: "NG", currency: "NGN",
+    subjectMode: "multi", subjects: ["OGS", "ONG"], compulsory: ["OGS", "ONG"], minSubjects: 2, maxSubjects: 2, subjectNote: "HSE essentials and industry knowledge",
+    mock: { perSubject: 20, minutes: 40, passPct: 70, scoreStyle: "passfail", maxSubjects: 2 },
+    mockVariants: [
+      { key: "FULL", label: "HSE + industry test", short: "Full test", subjects: ["OGS", "ONG"], total: 20, minutes: 40, note: "40 questions · 40 min" },
+      { key: "HSE", label: "HSE essentials", short: "HSE", subjects: ["OGS"], total: 20, minutes: 20, note: "20 questions · 20 min" },
+      { key: "IND", label: "Industry knowledge", short: "Industry", subjects: ["ONG"], total: 20, minutes: 20, note: "20 questions · 20 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["oilgas_pass", "oilgas_pass_usd"], tagline: "Get oil & gas ready: H₂S, permits, confined space and fire safety, plus the industry knowledge interviewers ask about", timeZone: "Africa/Lagos",
+    audience: "a Nigerian graduate, technician or career changer preparing for oil and gas jobs, graduate trainee interviews or site HSE inductions",
   },
   PLAB: {
     code: "PLAB", name: "PLAB 1 (UK GMC — doctors)", short: "PLAB 1", emoji: "⚕️", kind: "professional", region: "UK", currency: "GBP",

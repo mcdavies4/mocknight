@@ -1,0 +1,338 @@
+[
+ {
+  "subject": "ONG",
+  "topic": "Industry basics",
+  "body": "Exploration and production (E&P) belong to which part of the industry?",
+  "options": [
+   "Midstream",
+   "Retail",
+   "Downstream",
+   "Upstream"
+  ],
+  "answer": 3,
+  "explanation": "Midstream is transport and storage; downstream is refining and marketing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Industry basics",
+  "body": "Pipelines, storage and LNG shipping are part of the",
+  "options": [
+   "upstream",
+   "midstream",
+   "exploration",
+   "downstream"
+  ],
+  "answer": 1,
+  "explanation": "Midstream moves and stores hydrocarbons.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Industry basics",
+  "body": "Refining and selling petrol at filling stations are part of the",
+  "options": [
+   "midstream",
+   "upstream",
+   "seismic",
+   "downstream"
+  ],
+  "answer": 3,
+  "explanation": "Downstream turns crude into products and sells them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Industry basics",
+  "body": "How many US gallons are in one barrel of oil?",
+  "options": [
+   "36",
+   "100",
+   "55",
+   "42"
+  ],
+  "answer": 3,
+  "explanation": "That is about 159 litres.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Industry basics",
+  "body": "A crude oil with a high API gravity is",
+  "options": [
+   "solid",
+   "heavy",
+   "light",
+   "sour"
+  ],
+  "answer": 2,
+  "explanation": "Higher API gravity means lighter oil.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Industry basics",
+  "body": "'Sweet' crude oil contains",
+  "options": [
+   "a lot of sulphur",
+   "no hydrocarbons",
+   "little sulphur",
+   "a lot of sugar"
+  ],
+  "answer": 2,
+  "explanation": "Sour crude has more sulphur.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Industry basics",
+  "body": "Which is the main international crude oil price benchmark?",
+  "options": [
+   "Urals",
+   "Bonny Light",
+   "Forcados",
+   "Brent"
+  ],
+  "answer": 3,
+  "explanation": "WTI is the main US benchmark.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Equipment",
+  "body": "What is a 'Christmas tree' in oil and gas?",
+  "options": [
+   "A storage tank",
+   "An assembly of valves on top of a completed well",
+   "A type of drill bit",
+   "A refinery tower"
+  ],
+  "answer": 1,
+  "explanation": "It controls flow from the well.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Equipment",
+  "body": "What is the main purpose of a blowout preventer (BOP)?",
+  "options": [
+   "To separate gas from water",
+   "To seal the well and control pressure during drilling",
+   "To pump oil to the refinery",
+   "To measure crude quality"
+  ],
+  "answer": 1,
+  "explanation": "It is a critical well-control barrier.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Equipment",
+  "body": "Which is a function of drilling mud?",
+  "options": [
+   "Carrying rock cuttings to the surface and controlling well pressure",
+   "Painting the rig",
+   "Cooling the crew",
+   "Refining crude"
+  ],
+  "answer": 0,
+  "explanation": "It also cools and lubricates the bit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Equipment",
+  "body": "What is an FPSO?",
+  "options": [
+   "A Fixed Pipeline Safety Office",
+   "A Field Personnel Support Officer",
+   "A Fuel Pump Supply Outlet",
+   "A Floating Production, Storage and Offloading vessel"
+  ],
+  "answer": 3,
+  "explanation": "Bonga and Egina are FPSOs off Nigeria.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Equipment",
+  "body": "Seismic surveys are used to",
+  "options": [
+   "map rock layers underground to find possible oil and gas",
+   "refine crude oil",
+   "transport gas",
+   "measure petrol prices"
+  ],
+  "answer": 0,
+  "explanation": "They are part of exploration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "Where was oil first discovered in commercial quantities in Nigeria (1956)?",
+  "options": [
+   "Port Harcourt",
+   "Bonny",
+   "Warri",
+   "Oloibiri"
+  ],
+  "answer": 3,
+  "explanation": "Oloibiri is in present-day Bayelsa State.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "Nigeria first exported crude oil in",
+  "options": [
+   "1958",
+   "1956",
+   "1971",
+   "1960"
+  ],
+  "answer": 0,
+  "explanation": "Exports began two years after the Oloibiri discovery.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "Nigeria joined OPEC in",
+  "options": [
+   "1999",
+   "1971",
+   "1958",
+   "1960"
+  ],
+  "answer": 1,
+  "explanation": "OPEC co-ordinates oil policy among member countries.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "Which law, signed in 2021, overhauled Nigeria's petroleum industry?",
+  "options": [
+   "Petroleum Industry Act (PIA)",
+   "Gas Flare Act",
+   "Petroleum Act 1969 amendment",
+   "Nigerian Oil and Gas Industry Content Development Act"
+  ],
+  "answer": 0,
+  "explanation": "It created new regulators and made NNPC a limited liability company.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "Under the PIA, which body regulates the upstream sector?",
+  "options": [
+   "NMDPRA",
+   "NUPRC",
+   "NCDMB",
+   "DPR"
+  ],
+  "answer": 1,
+  "explanation": "Nigerian Upstream Petroleum Regulatory Commission.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "Under the PIA, which body regulates the midstream and downstream sectors?",
+  "options": [
+   "NMDPRA",
+   "PPPRA",
+   "NUPRC",
+   "NCDMB"
+  ],
+  "answer": 0,
+  "explanation": "Nigerian Midstream and Downstream Petroleum Regulatory Authority.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "Which body promotes Nigerian participation (local content) in the oil and gas industry?",
+  "options": [
+   "OPEC",
+   "NCDMB",
+   "NMDPRA",
+   "NUPRC"
+  ],
+  "answer": 1,
+  "explanation": "Nigerian Content Development and Monitoring Board, set up by the 2010 Act.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "Under the PIA, oil companies fund host community trusts with what share of their annual operating expenditure?",
+  "options": [
+   "1%",
+   "10%",
+   "3%",
+   "13%"
+  ],
+  "answer": 2,
+  "explanation": "The Host Communities Development Trusts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "Nigeria LNG's liquefaction plant is on",
+  "options": [
+   "Lagos Island",
+   "Escravos only",
+   "Bonny Island",
+   "Lekki"
+  ],
+  "answer": 2,
+  "explanation": "It exports liquefied natural gas worldwide.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "The Dangote refinery is located in",
+  "options": [
+   "Kaduna",
+   "Port Harcourt",
+   "Lekki, Lagos",
+   "Warri"
+  ],
+  "answer": 2,
+  "explanation": "It is designed to process 650,000 barrels per day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Nigeria",
+  "body": "Bonny Light is a Nigerian crude grade that is",
+  "options": [
+   "a type of LNG",
+   "heavy and sour",
+   "a refinery",
+   "light and sweet"
+  ],
+  "answer": 3,
+  "explanation": "Light, low-sulphur crude is valued by refiners.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ONG",
+  "topic": "Environment",
+  "body": "Burning off unwanted associated gas at a production site is called",
+  "options": [
+   "gas lifting",
+   "gas flaring",
+   "fracking",
+   "venting liquids"
+  ],
+  "answer": 1,
+  "explanation": "Nigeria aims to reduce flaring by commercialising gas.",
+  "difficulty": 2
+ }
+]

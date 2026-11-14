@@ -1,0 +1,408 @@
+[
+ {
+  "subject": "PSR",
+  "topic": "Public Service Rules",
+  "body": "Under the Public Service Rules, compulsory retirement is at",
+  "options": [
+   "65 years of age or 40 years of service",
+   "55 years of age or 30 years of service",
+   "60 years of age only",
+   "60 years of age or 35 years of service, whichever comes first"
+  ],
+  "answer": 3,
+  "explanation": "This is set out in the Public Service Rules; some groups such as teachers have different statutory ages.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Public Service Rules",
+  "body": "How long is the probation period for a newly appointed officer on a permanent appointment?",
+  "options": [
+   "2 years",
+   "3 years",
+   "6 months",
+   "1 year"
+  ],
+  "answer": 0,
+  "explanation": "The officer is confirmed if service is satisfactory.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Public Service Rules",
+  "body": "Under the 2021 Public Service Rules, maternity leave is",
+  "options": [
+   "16 weeks with full pay",
+   "8 weeks with full pay",
+   "12 weeks with half pay",
+   "6 months with full pay"
+  ],
+  "answer": 0,
+  "explanation": "This was extended to 16 weeks in the 2021 edition.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Public Service Rules",
+  "body": "Paternity leave for a male officer whose wife delivers a baby is",
+  "options": [
+   "3 months",
+   "30 days",
+   "14 working days",
+   "7 working days"
+  ],
+  "answer": 2,
+  "explanation": "Introduced in the 2021 Public Service Rules.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Public Service Rules",
+  "body": "Annual leave for officers on Grade Level 07 and above is",
+  "options": [
+   "21 working days",
+   "14 working days",
+   "45 working days",
+   "30 working days"
+  ],
+  "answer": 3,
+  "explanation": "Officers on GL 06 and below get 21 working days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Public Service Rules",
+  "body": "Annual leave for officers on Grade Level 06 and below is",
+  "options": [
+   "10 working days",
+   "21 working days",
+   "14 working days",
+   "30 working days"
+  ],
+  "answer": 1,
+  "explanation": "Officers on GL 07 and above get 30 working days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Institutions",
+  "body": "Which body has power to appoint, promote and discipline federal civil servants?",
+  "options": [
+   "Federal Civil Service Commission",
+   "Office of the Auditor-General",
+   "Code of Conduct Bureau",
+   "National Assembly"
+  ],
+  "answer": 0,
+  "explanation": "Its powers come from the 1999 Constitution.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Institutions",
+  "body": "Who is the head of the Federal Civil Service?",
+  "options": [
+   "Chairman, Federal Civil Service Commission",
+   "Minister of Finance",
+   "Head of the Civil Service of the Federation",
+   "Secretary to the Government of the Federation"
+  ],
+  "answer": 2,
+  "explanation": "The HoCSF oversees career management of civil servants.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Institutions",
+  "body": "Which body receives asset declarations from public officers?",
+  "options": [
+   "Federal Civil Service Commission",
+   "EFCC",
+   "Code of Conduct Bureau",
+   "INEC"
+  ],
+  "answer": 2,
+  "explanation": "Public officers declare assets on assumption and on leaving office.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Institutions",
+  "body": "Which tribunal tries breaches of the Code of Conduct for Public Officers?",
+  "options": [
+   "Code of Conduct Tribunal",
+   "Federal High Court",
+   "Industrial Court",
+   "Supreme Court"
+  ],
+  "answer": 0,
+  "explanation": "Established under the Fifth Schedule of the Constitution.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Institutions",
+  "body": "Which body regulates public procurement in Nigeria?",
+  "options": [
+   "Office of the Accountant-General",
+   "Central Bank of Nigeria",
+   "Bureau of Public Procurement (BPP)",
+   "Federal Inland Revenue Service"
+  ],
+  "answer": 2,
+  "explanation": "Set up under the Public Procurement Act 2007.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Institutions",
+  "body": "Who audits the accounts of the Federation?",
+  "options": [
+   "The Auditor-General for the Federation",
+   "The Accountant-General of the Federation",
+   "The Central Bank",
+   "The Minister of Finance"
+  ],
+  "answer": 0,
+  "explanation": "The Auditor-General reports to the National Assembly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Institutions",
+  "body": "Who is responsible for preparing the consolidated accounts of the Federation?",
+  "options": [
+   "The Senate",
+   "The Budget Office",
+   "The Auditor-General for the Federation",
+   "The Accountant-General of the Federation"
+  ],
+  "answer": 3,
+  "explanation": "The Office of the Accountant-General manages Treasury operations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Financial Regulations",
+  "body": "In a federal ministry, who is the Accounting Officer?",
+  "options": [
+   "The Director of Finance and Accounts",
+   "The Permanent Secretary",
+   "The Auditor-General",
+   "The Minister"
+  ],
+  "answer": 1,
+  "explanation": "The Accounting Officer is responsible for the ministry's funds.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Financial Regulations",
+  "body": "Into which fund are all federal revenues paid, except where the Constitution says otherwise?",
+  "options": [
+   "Consolidated Revenue Fund",
+   "Excess Crude Account",
+   "Federation Account only",
+   "Contingencies Fund"
+  ],
+  "answer": 0,
+  "explanation": "Section 80 of the 1999 Constitution.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Financial Regulations",
+  "body": "What is the Treasury Single Account (TSA)?",
+  "options": [
+   "A unified set of government bank accounts that consolidates government cash",
+   "An account at a commercial bank for each ministry",
+   "A pension account",
+   "A savings account for civil servants"
+  ],
+  "answer": 0,
+  "explanation": "It is held at the Central Bank of Nigeria.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Financial Regulations",
+  "body": "IPPIS is used by the Federal Government to",
+  "options": [
+   "conduct elections",
+   "issue passports",
+   "collect taxes",
+   "manage personnel records and pay salaries"
+  ],
+  "answer": 3,
+  "explanation": "Integrated Personnel and Payroll Information System.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Laws",
+  "body": "The Public Procurement Act was enacted in",
+  "options": [
+   "2020",
+   "2007",
+   "2011",
+   "1999"
+  ],
+  "answer": 1,
+  "explanation": "It set up the Bureau of Public Procurement.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Laws",
+  "body": "The Freedom of Information Act was passed in",
+  "options": [
+   "2007",
+   "2011",
+   "2015",
+   "1999"
+  ],
+  "answer": 1,
+  "explanation": "It gives the public a right to access public records.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Laws",
+  "body": "The Fiscal Responsibility Act, which promotes prudent management of public finances, was enacted in",
+  "options": [
+   "2011",
+   "2021",
+   "1999",
+   "2007"
+  ],
+  "answer": 3,
+  "explanation": "It also set up the Fiscal Responsibility Commission.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Constitution",
+  "body": "Under the 1999 Constitution, how many states make up the Federation?",
+  "options": [
+   "36",
+   "30",
+   "19",
+   "37"
+  ],
+  "answer": 0,
+  "explanation": "Plus the Federal Capital Territory, Abuja.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Constitution",
+  "body": "Which part of the 1999 Constitution contains the Code of Conduct for Public Officers?",
+  "options": [
+   "Chapter II",
+   "The Fifth Schedule",
+   "The First Schedule",
+   "Chapter IV"
+  ],
+  "answer": 1,
+  "explanation": "It covers conflict of interest and asset declaration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Constitution",
+  "body": "Under the 1999 Constitution, a public officer must NOT",
+  "options": [
+   "attend training",
+   "put themselves in a position where personal interest conflicts with duty",
+   "take annual leave",
+   "serve on a committee"
+  ],
+  "answer": 1,
+  "explanation": "Conflict of interest is prohibited by the Code of Conduct.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Office practice",
+  "body": "A memo is mainly used for",
+  "options": [
+   "communication within an organisation",
+   "advertising products",
+   "court judgements",
+   "communication with foreign governments"
+  ],
+  "answer": 0,
+  "explanation": "Letters are used for external communication.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Office practice",
+  "body": "'Minutes' of a meeting are",
+  "options": [
+   "a written record of decisions and discussions",
+   "the length of the meeting",
+   "a list of attendees only",
+   "the agenda sent before the meeting"
+  ],
+  "answer": 0,
+  "explanation": "Minutes are confirmed at the next meeting.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Office practice",
+  "body": "An agenda is",
+  "options": [
+   "a list of items to be discussed at a meeting",
+   "a letter of appointment",
+   "a query",
+   "the record of decisions taken"
+  ],
+  "answer": 0,
+  "explanation": "It is circulated before the meeting.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Discipline",
+  "body": "A query issued to an officer is meant to",
+  "options": [
+   "give the officer a chance to explain alleged misconduct",
+   "promote the officer",
+   "approve leave",
+   "announce a transfer"
+  ],
+  "answer": 0,
+  "explanation": "Fair hearing is a principle of discipline.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Discipline",
+  "body": "Which principle requires that an officer be heard before being punished?",
+  "options": [
+   "Fair hearing",
+   "Delegation",
+   "Seniority",
+   "Federal character"
+  ],
+  "answer": 0,
+  "explanation": "No one should be condemned unheard.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PSR",
+  "topic": "Principles",
+  "body": "The federal character principle aims to",
+  "options": [
+   "limit jobs to one region",
+   "reduce salaries",
+   "promote only the most senior officers",
+   "reflect the country's diversity in public appointments"
+  ],
+  "answer": 3,
+  "explanation": "Section 14(3) of the 1999 Constitution.",
+  "difficulty": 2
+ }
+]

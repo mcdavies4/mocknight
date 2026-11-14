@@ -1,0 +1,324 @@
+[
+ {
+  "subject": "OGS",
+  "topic": "H2S",
+  "body": "What does hydrogen sulphide (H₂S) smell like at low concentrations?",
+  "options": [
+   "Petrol",
+   "Nothing at all",
+   "Almonds",
+   "Rotten eggs"
+  ],
+  "answer": 3,
+  "explanation": "At higher concentrations it deadens the sense of smell, so smell is not a reliable warning.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "H2S",
+  "body": "Why is smell NOT a safe way to detect H₂S?",
+  "options": [
+   "High concentrations paralyse the sense of smell",
+   "H₂S has no smell",
+   "It only smells when wet",
+   "It smells pleasant"
+  ],
+  "answer": 0,
+  "explanation": "Always rely on calibrated gas detectors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "H2S",
+  "body": "Compared with air, H₂S is",
+  "options": [
+   "only found underground",
+   "the same weight",
+   "heavier, so it collects in low areas",
+   "lighter, so it rises quickly"
+  ],
+  "answer": 2,
+  "explanation": "Pits, cellars and low spots are danger areas.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "H2S",
+  "body": "If an H₂S alarm sounds, you should move",
+  "options": [
+   "towards the source to check it",
+   "downwind",
+   "upwind or crosswind to the safe briefing area",
+   "into the nearest low area"
+  ],
+  "answer": 2,
+  "explanation": "Check the windsock and follow the site plan.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "H2S",
+  "body": "Besides being toxic, H₂S is also",
+  "options": [
+   "flammable",
+   "inert",
+   "harmless in small rooms",
+   "an oxidiser only"
+  ],
+  "answer": 0,
+  "explanation": "It can form explosive mixtures with air.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Gas testing",
+  "body": "What does LEL stand for?",
+  "options": [
+   "Lower Explosive Limit",
+   "Limited Entry Level",
+   "Level of Emergency Leakage",
+   "Lowest Exposure Level"
+  ],
+  "answer": 0,
+  "explanation": "Below the LEL, there is too little gas to ignite.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Gas testing",
+  "body": "Normal oxygen in air is about",
+  "options": [
+   "78%",
+   "50%",
+   "10%",
+   "20.9%"
+  ],
+  "answer": 3,
+  "explanation": "Below 19.5% is usually treated as oxygen-deficient.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Confined space",
+  "body": "Which is a confined space?",
+  "options": [
+   "A football field",
+   "A large office",
+   "A storage tank or vessel with limited entry and exit",
+   "An open car park"
+  ],
+  "answer": 2,
+  "explanation": "Confined spaces can trap toxic gases or lack oxygen.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Confined space",
+  "body": "Before entering a confined space, the atmosphere should be tested for",
+  "options": [
+   "temperature only",
+   "humidity only",
+   "oxygen, flammable gases and toxic gases",
+   "noise only"
+  ],
+  "answer": 2,
+  "explanation": "Test in that order and monitor continuously.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Confined space",
+  "body": "During confined-space entry, the person outside who monitors the entrant is the",
+  "options": [
+   "security guard",
+   "visitor",
+   "site manager",
+   "standby attendant (hole watch)"
+  ],
+  "answer": 3,
+  "explanation": "They must never enter to rescue without proper equipment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Permits",
+  "body": "What is the purpose of a permit-to-work system?",
+  "options": [
+   "To book holidays",
+   "To pay contractors",
+   "To record attendance",
+   "To control high-risk work through formal checks and authorisation"
+  ],
+  "answer": 3,
+  "explanation": "Hot work and confined-space entry need permits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Permits",
+  "body": "Which is an example of hot work?",
+  "options": [
+   "Filing paperwork",
+   "Welding",
+   "Painting with a brush",
+   "Visual inspection"
+  ],
+  "answer": 1,
+  "explanation": "Cutting, grinding and welding create ignition sources.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Permits",
+  "body": "During hot work, a fire watch is usually kept",
+  "options": [
+   "only if the permit is lost",
+   "only before the work starts",
+   "never",
+   "during the work and for a period after it ends"
+  ],
+  "answer": 3,
+  "explanation": "Smouldering fires can start after work stops.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Isolation",
+  "body": "What is the purpose of Lockout/Tagout (LOTO)?",
+  "options": [
+   "To isolate energy sources so equipment cannot start during work",
+   "To tag stock in the warehouse",
+   "To lock the office at night",
+   "To log visitors"
+  ],
+  "answer": 0,
+  "explanation": "Each worker applies their own lock.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Fire",
+  "body": "What are the three sides of the fire triangle?",
+  "options": [
+   "Smoke, fuel and oxygen",
+   "Gas, oil and electricity",
+   "Heat, fuel and oxygen",
+   "Heat, water and fuel"
+  ],
+  "answer": 2,
+  "explanation": "Remove one side and the fire goes out.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Fire",
+  "body": "Under the UK/European classification, a fire involving flammable liquids is",
+  "options": [
+   "Class D",
+   "Class C",
+   "Class A",
+   "Class B"
+  ],
+  "answer": 3,
+  "explanation": "Class A is solids, C is gases, D is metals, F is cooking oils.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Fire",
+  "body": "Which extinguisher is generally suitable for flammable-liquid (Class B) fires?",
+  "options": [
+   "Wet chemical only",
+   "None — just walk away",
+   "Water",
+   "Foam"
+  ],
+  "answer": 3,
+  "explanation": "Water can spread burning liquids.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Culture",
+  "body": "Who can use Stop Work Authority?",
+  "options": [
+   "Only the site manager",
+   "Only HSE officers",
+   "Anyone on site who sees unsafe work",
+   "Only the client"
+  ],
+  "answer": 2,
+  "explanation": "Stopping unsafe work should never lead to blame.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Culture",
+  "body": "A Job Safety Analysis (JSA) breaks a task into",
+  "options": [
+   "suppliers and invoices",
+   "costs and profits",
+   "steps, the hazards in each step and the controls",
+   "shifts and pay"
+  ],
+  "answer": 2,
+  "explanation": "Review it with the crew before starting.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Offshore",
+  "body": "BOSIET training includes",
+  "options": [
+   "drilling engineering",
+   "helicopter underwater escape (HUET), sea survival and firefighting",
+   "crane operation",
+   "accounting"
+  ],
+  "answer": 1,
+  "explanation": "BOSIET is an OPITO basic offshore safety course.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Offshore",
+  "body": "When the general alarm sounds on an installation, you should",
+  "options": [
+   "keep working",
+   "go to the helideck",
+   "go to your muster station",
+   "return to your cabin"
+  ],
+  "answer": 2,
+  "explanation": "Muster lists are checked to account for everyone.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "PPE",
+  "body": "Which PPE item protects against flash fire on a process site?",
+  "options": [
+   "Shorts",
+   "Flame-resistant (FR) coveralls",
+   "Rain jacket",
+   "Ordinary cotton T-shirt"
+  ],
+  "answer": 1,
+  "explanation": "FR clothing does not keep burning once the flame is removed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OGS",
+  "topic": "Dropped objects",
+  "body": "Tool lanyards at height are mainly used to prevent",
+  "options": [
+   "noise",
+   "gas leaks",
+   "electric shock",
+   "dropped objects"
+  ],
+  "answer": 3,
+  "explanation": "Dropped objects are a leading cause of injuries on rigs.",
+  "difficulty": 2
+ }
+]
