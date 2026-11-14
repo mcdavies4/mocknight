@@ -1,3 +1,4 @@
+import { localiseQuestion, localiseText } from "./localise";
 import { db } from "./supabase";
 import { isFounder, isPremium } from "./students";
 import { getTrack } from "./tracks";
@@ -30,7 +31,7 @@ export async function explain(student: Student, questionId: string): Promise<Exp
   const chosen = (att.chosen ?? -1) as number;
 
   const { data: cached } = await db().from("ai_explanations").select("text").eq("question_id", questionId).eq("chosen", chosen).maybeSingle();
-  if (cached) return { ok: true, text: cached.text, remaining: null };
+  if (cached) return { ok: true, text: localiseText(cached.text, student.track), remaining: null };
 
   if (!process.env.ANTHROPIC_API_KEY) return { ok: false, error: "DISABLED" };
 
@@ -46,7 +47,7 @@ export async function explain(student: Student, questionId: string): Promise<Exp
 
   const { data: q } = await db().from("questions").select("*").eq("id", questionId).single();
   if (!q) return { ok: false, error: "FAILED" };
-  const text = await callModel(q as Question, chosen, student);
+  const text = await callModel(localiseQuestion(q as Question, student.track), chosen, student);
   if (!text) return { ok: false, error: "FAILED" };
 
   await db().from("ai_requests").insert({ student_id: student.id, question_id: questionId });

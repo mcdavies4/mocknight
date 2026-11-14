@@ -1,3 +1,4 @@
+import { localiseQuestion } from "@/lib/localise";
 import { NextResponse } from "next/server";
 import { authRequest, errorResponse, unauthorized } from "@/lib/request-auth";
 import { completeSession, getOrCreateTodaySession, getQuestion } from "@/lib/drill";
@@ -25,7 +26,7 @@ export async function POST(req: Request) {
     }
     // Void stale messages, then issue one for the current question
     await db().from("drill_messages").update({ answered: true }).eq("session_id", session.id).eq("answered", false);
-    const q = await getQuestion(session.question_ids[session.position]);
+    const q = localiseQuestion(await getQuestion(session.question_ids[session.position]), student.track);
     const msg = must(await db().from("drill_messages").insert({ session_id: session.id, question_id: q.id }).select("id").single(), "msg") as { id: number };
     return NextResponse.json({
       done: false,

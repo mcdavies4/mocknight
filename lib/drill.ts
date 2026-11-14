@@ -1,3 +1,4 @@
+import { localiseQuestion, nigeriaOnlyFor } from "./localise";
 import type { Api } from "grammy";
 import { InlineKeyboard } from "grammy";
 import { db, must } from "./supabase";
@@ -72,7 +73,7 @@ export async function getOrCreateTodaySession(student: Student): Promise<DrillSe
       await db().rpc("pick_new_questions", { p_student: student.id, p_subject: subject, p_limit: perSubject }),
       "pick new",
     ) as Question[];
-    let ids = rows.map((q) => q.id);
+    let ids = rows.filter((q) => !nigeriaOnlyFor(q, student.track)).map((q) => q.id);
     if (ids.length < perSubject) {
       // Student has seen everything in this subject — recycle old questions
       const extra = must(
@@ -83,7 +84,7 @@ export async function getOrCreateTodaySession(student: Student): Promise<DrillSe
         }),
         "pick random",
       ) as Question[];
-      ids = ids.concat(extra.map((q) => q.id));
+      ids = ids.concat(extra.filter((q) => !nigeriaOnlyFor(q, student.track)).map((q) => q.id));
     }
     fresh.push(...ids);
   }
@@ -125,7 +126,7 @@ export async function sendCurrentQuestion(api: Api, student: Student, session: D
     return;
   }
 
-  const q = await getQuestion(session.question_ids[session.position]);
+  const q = localiseQuestion(await getQuestion(session.question_ids[session.position]), student.track);
   const isReview = session.position < session.review_count;
   const header = `Q${session.position + 1}/${session.question_ids.length} · ${subjectName(q.subject_code)}${isReview ? " · 🔁 review" : ""}\n`;
 
@@ -196,7 +197,7 @@ export async function recordDrillAnswer(
   // Stale message (e.g. an old poll after the drill was resent) — ignore
   if (session.question_ids[session.position] !== claimed.question_id) return null;
 
-  const question = await getQuestion(claimed.question_id);
+  const question = localiseQuestion(await getQuestion(claimed.question_id), student.track);
   const correct = chosen === question.answer_index;
 
   await db().from("attempts").insert({

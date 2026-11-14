@@ -1,3 +1,4 @@
+import { localiseQuestion, nigeriaOnlyFor } from "./localise";
 import { db, must } from "./supabase";
 import { isPremium } from "./students";
 import { OFFERED_SUBJECTS, subjectName } from "./subjects";
@@ -232,7 +233,7 @@ async function startPractice(student: Student, defaultSubjects: string[], varian
       await db().rpc("pick_new_questions", { p_student: student.id, p_subject: subject, p_limit: perSubject }),
       "pick practice",
     ) as Question[];
-    let qs = fresh;
+    let qs = fresh.filter((q) => !nigeriaOnlyFor(q, track.code));
     if (qs.length < perSubject) {
       const extra = must(
         await db().rpc("pick_random_questions", {
@@ -242,7 +243,7 @@ async function startPractice(student: Student, defaultSubjects: string[], varian
         }),
         "pick practice extra",
       ) as Question[];
-      qs = qs.concat(extra);
+      qs = qs.concat(extra.filter((q) => !nigeriaOnlyFor(q, track.code)));
     }
     if (qs.length) {
       await db()
@@ -301,9 +302,9 @@ async function loadQuestions(mockId: string, subjects: string[]): Promise<(Quest
 }
 
 async function buildPayload(mock: Mock, attempt: MockAttempt): Promise<MockPayload> {
-  const qs = await loadQuestions(mock.id, attempt.subjects);
   const { data: st } = await db().from("students").select("track, telegram_id").eq("id", attempt.student_id).single();
   const track = getTrack(mock.kind === "weekly" ? st?.track : mock.track ?? st?.track);
+  const qs = (await loadQuestions(mock.id, attempt.subjects)).map((q) => localiseQuestion(q, track.code));
   const cfg = mockConfig(track, mock.variant);
   const payload: MockPayload = {
     trackCode: track.code,
@@ -417,11 +418,11 @@ function gradeQuestions(
 
 export async function submitAttempt(attemptId: string, studentId: string, answers: unknown, force = false): Promise<MockResult> {
   const attempt = await loadOwnedAttempt(attemptId, studentId);
-  const qs = await loadQuestions(attempt.mock_id, attempt.subjects);
-  const validIds = new Set(qs.map((q) => q.id));
   const mock = (await getMock(attempt.mock_id))!;
   const { data: st } = await db().from("students").select("track").eq("id", studentId).single();
   const track = getTrack(mock.kind === "weekly" ? st?.track : mock.track ?? st?.track);
+  const qs = (await loadQuestions(attempt.mock_id, attempt.subjects)).map((q) => localiseQuestion(q, track.code));
+  const validIds = new Set(qs.map((q) => q.id));
   const cfg = mockConfig(track, mock.variant);
 
   if (attempt.submitted_at) return gradeQuestions(qs, attempt.subjects, attempt.answers ?? {}, cfg);
