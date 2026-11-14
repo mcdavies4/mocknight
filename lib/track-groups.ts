@@ -5,11 +5,11 @@ export interface TrackGroup { key: string; emoji: string; title: string; descrip
 
 export const TRACK_GROUPS: TrackGroup[] = [
   { key: "school", emoji: "🎓", title: "School & admissions", description: "Prepare for school-leaving, university-entry and national examinations.",
-    codes: ["JAMB", "WAEC", "NECO", "PUTME", "WASSCE_GH", "BECE", "KCSE", "ETH", "MDCAT", "SAT", "UCAT", "ELEVEN"] },
+    codes: ["JAMB", "WAEC", "NECO", "PUTME", "WASSCE_GH", "BECE", "KCSE", "ETH", "MDCAT", "NEET", "JEE", "SAT", "UCAT", "GRE", "ELEVEN"] },
   { key: "abroad", emoji: "✈️", title: "Moving abroad", description: "Citizenship tests, English and professional licensing for doctors and nurses relocating.",
     codes: ["LUK", "USCIT", "CANCIT", "AUSCIT", "IELTS", "OET", "PLAB", "NMC", "NCLEX", "GULFN"] },
   { key: "career", emoji: "💼", title: "Professional & career", description: "Practise for professional qualifications, graduate assessments and career progression tests.",
-    codes: ["PM", "ACCA", "ICAN", "GRAD", "IBPS", "SSC", "ITIL", "SIXSIG", "BKP", "CON"] },
+    codes: ["PM", "ACCA", "ICAN", "GRAD", "IBPS", "SSC", "ITIL", "SIXSIG", "AAT", "CSEPH", "NGREC", "BKP", "CON"] },
   { key: "tech", emoji: "💻", title: "Technology & digital skills", description: "Build practical IT, networking, cloud, data, security and programming knowledge.",
     codes: ["ITF", "CCST", "AWS", "AZF", "PYT", "SEC", "DAT", "AIA"] },
   { key: "uk", emoji: "🇬🇧", title: "UK workplace & licences", description: "Build confidence for UK tests and structured workplace training.",
@@ -23,6 +23,8 @@ const ALIASES: Partial<Record<TrackCode, string>> = {
   NMC: "nursing nurse cbt uk nurse", NCLEX: "nursing nurse usa america rn", GULFN: "nursing nurse dubai uae saudi qatar prometric dha haad moh",
   OET: "nursing nurse doctor english occupational", PLAB: "doctor gmc medical uk", IELTS: "english band ielts ukvi",
   LUK: "citizenship british settlement ilr", USCIT: "usa america naturalization uscis citizenship", CANCIT: "canada citizenship", AUSCIT: "australia citizenship",
+  NEET: "india medical mbbs neet ug", JEE: "india engineering iit jee", GRE: "gre gmat mba masters abroad", CSEPH: "philippines civil service cse government",
+  AAT: "accounting bookkeeping uk", NGREC: "police army navy air force customs immigration nscdc recruitment aptitude job",
   JAMB: "utme university nigeria", WAEC: "ssce waec nigeria", NECO: "ssce nigeria", PUTME: "post utme university nigeria", WASSCE_GH: "ghana shs wassce",
   BECE: "ghana jhs", KCSE: "kenya form 4", ETH: "ethiopia esslce grade 12", MDCAT: "pakistan medical", UCAT: "medicine dentistry uk university",
   SAT: "usa college", ELEVEN: "11 plus grammar school", SSC: "india cgl chsl government", IBPS: "india bank po sbi",

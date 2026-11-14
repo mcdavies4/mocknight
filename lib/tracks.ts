@@ -2,9 +2,9 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
-export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi";
+export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi" | "Asia/Manila";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
 export interface Marking { correct: number; wrong: number }
 
@@ -26,7 +26,7 @@ export interface Track {
   short: string;
   emoji: string;
   kind: "school" | "citizenship" | "work" | "professional";
-  region: "NG" | "GH" | "WA" | "UK" | "GLOBAL" | "ET" | "IN" | "US" | "CA" | "AU" | "GULF" | "KE" | "PK";
+  region: "NG" | "GH" | "WA" | "UK" | "GLOBAL" | "ET" | "IN" | "US" | "CA" | "AU" | "GULF" | "KE" | "PK" | "PH";
   currency: "NGN" | "GBP" | "ETB" | "INR" | "USD";
   subjectMode: "multi" | "single";
   subjects: string[];
@@ -480,6 +480,70 @@ export const TRACKS: Record<TrackCode, Track> = {
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["mdcat_pass"], tagline: "MDCAT practice: full mocks and Biology, Chemistry and Physics sectionals", timeZone: "Asia/Karachi", timeLabel: "Pakistan",
     audience: "a Pakistani student preparing for the MDCAT for entry to medical or dental college",
+  },
+  NEET: {
+    code: "NEET", name: "NEET UG (India medical entrance)", short: "NEET UG", emoji: "🩻", kind: "school", region: "IN", currency: "INR",
+    subjectMode: "multi", subjects: ["BIO", "CHM", "PHY"], compulsory: ["BIO", "CHM", "PHY"], minSubjects: 3, maxSubjects: 3, subjectNote: "Biology, Chemistry and Physics",
+    mock: { perSubject: 30, minutes: 100, scoreStyle: "marks", maxSubjects: 3, marking: { correct: 4, wrong: 1 } },
+    mockVariants: [
+      { key: "FULL", label: "NEET mini mock", short: "Mini mock", subjects: ["BIO", "CHM", "PHY"], total: 30, minutes: 100, marking: { correct: 4, wrong: 1 }, note: "90 questions · 100 min · +4 / −1" },
+      { key: "BIO", label: "Biology sectional", short: "Biology", subjects: ["BIO"], total: 45, minutes: 50, marking: { correct: 4, wrong: 1 }, note: "45 questions · 50 min" },
+      { key: "CHM", label: "Chemistry sectional", short: "Chemistry", subjects: ["CHM"], total: 45, minutes: 50, marking: { correct: 4, wrong: 1 }, note: "45 questions · 50 min" },
+      { key: "PHY", label: "Physics sectional", short: "Physics", subjects: ["PHY"], total: 45, minutes: 50, marking: { correct: 4, wrong: 1 }, note: "45 questions · 50 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["neet_quarter", "neet_year"], tagline: "NEET UG practice with real +4 / −1 marking: Biology, Chemistry and Physics", timeZone: "Asia/Kolkata", timeLabel: "India (IST)",
+    audience: "an Indian Class 12 student preparing for NEET UG for MBBS/BDS admission (NCERT syllabus)",
+  },
+  JEE: {
+    code: "JEE", name: "JEE Main (India engineering entrance)", short: "JEE Main", emoji: "⚙️", kind: "school", region: "IN", currency: "INR",
+    subjectMode: "multi", subjects: ["MTH", "PHY", "CHM"], compulsory: ["MTH", "PHY", "CHM"], minSubjects: 3, maxSubjects: 3, subjectNote: "Maths, Physics and Chemistry",
+    mock: { perSubject: 25, minutes: 180, scoreStyle: "marks", maxSubjects: 3, marking: { correct: 4, wrong: 1 } },
+    mockVariants: [
+      { key: "FULL", label: "JEE Main full mock", short: "Full mock", subjects: ["MTH", "PHY", "CHM"], total: 25, minutes: 180, marking: { correct: 4, wrong: 1 }, note: "75 questions · 3 hours · +4 / −1" },
+      { key: "MTH", label: "Maths sectional", short: "Maths", subjects: ["MTH"], total: 25, minutes: 60, marking: { correct: 4, wrong: 1 }, note: "25 questions · 60 min" },
+      { key: "PHY", label: "Physics sectional", short: "Physics", subjects: ["PHY"], total: 25, minutes: 60, marking: { correct: 4, wrong: 1 }, note: "25 questions · 60 min" },
+      { key: "CHM", label: "Chemistry sectional", short: "Chemistry", subjects: ["CHM"], total: 25, minutes: 60, marking: { correct: 4, wrong: 1 }, note: "25 questions · 60 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["jee_quarter", "jee_year"], tagline: "JEE Main practice with +4 / −1 marking: Maths, Physics and Chemistry", timeZone: "Asia/Kolkata", timeLabel: "India (IST)",
+    audience: "an Indian Class 12 student preparing for JEE Main for engineering admission",
+  },
+  GRE: {
+    code: "GRE", name: "GRE / GMAT (quantitative & verbal)", short: "GRE / GMAT", emoji: "🎓", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "multi", subjects: ["QNT", "VRB"], compulsory: ["QNT", "VRB"], minSubjects: 2, maxSubjects: 2, subjectNote: "Quantitative and verbal reasoning",
+    mock: { perSubject: 20, minutes: 60, scoreStyle: "percent", maxSubjects: 2 },
+    mockVariants: [
+      { key: "FULL", label: "Quant + verbal test", short: "Full test", subjects: ["QNT", "VRB"], total: 20, minutes: 60, note: "40 questions · 60 min" },
+      { key: "Q", label: "Quant section", short: "Quant", subjects: ["QNT"], total: 20, minutes: 30, note: "20 questions · 30 min" },
+      { key: "V", label: "Verbal section", short: "Verbal", subjects: ["VRB"], total: 20, minutes: 30, note: "20 questions · 30 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["gre_pass"], tagline: "Quant and verbal practice for the GRE and GMAT — study abroad and MBA admissions", timeZone: "UTC", timeLabel: "UTC",
+    audience: "a graduate applicant preparing for the GRE or GMAT for a master's or MBA abroad",
+  },
+  CSEPH: {
+    code: "CSEPH", name: "Philippine Civil Service Exam (CSE-PPT)", short: "Civil Service PH", emoji: "🇵🇭", kind: "professional", region: "PH", currency: "USD",
+    subjectMode: "multi", subjects: ["ENG", "QNT", "VRB", "PHC"], compulsory: ["ENG", "QNT", "VRB", "PHC"], minSubjects: 4, maxSubjects: 4,
+    subjectNote: "Verbal ability, numerical ability, analytical ability and general information",
+    mock: { perSubject: 15, minutes: 60, passPct: 80, scoreStyle: "passfail", maxSubjects: 4 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["cseph_pass"], tagline: "Civil Service Exam practice: verbal, numerical, analytical and the Philippine Constitution", timeZone: "Asia/Manila", timeLabel: "Philippines",
+    audience: "a Filipino preparing for the Civil Service Exam (Professional or Subprofessional) to work in government",
+  },
+  AAT: {
+    code: "AAT", name: "AAT accounting (Levels 2–3)", short: "AAT", emoji: "🧾", kind: "professional", region: "UK", currency: "GBP",
+    subjectMode: "multi", subjects: ["BKQ", "AFA"], compulsory: ["BKQ", "AFA"], minSubjects: 2, maxSubjects: 2, subjectNote: "Bookkeeping and financial accounting",
+    mock: { perSubject: 20, minutes: 60, passPct: 70, scoreStyle: "passfail", maxSubjects: 2 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["aat_pass"], tagline: "AAT bookkeeping and accounting practice with worked double entry", timeZone: "Europe/London",
+    audience: "a UK learner studying AAT Level 2 or 3 accounting and bookkeeping",
+  },
+  NGREC: {
+    code: "NGREC", name: "Recruitment aptitude tests (Nigeria)", short: "Recruitment tests", emoji: "🪖", kind: "professional", region: "NG", currency: "NGN",
+    subjectMode: "multi", subjects: ["APT", "ENG", "MTH", "GOV"], compulsory: ["APT", "ENG", "MTH", "GOV"], minSubjects: 4, maxSubjects: 4,
+    subjectNote: "Reasoning, English, Maths and general knowledge",
+    mock: { perSubject: 15, minutes: 60, scoreStyle: "percent", maxSubjects: 4 }, weeklyMock: false, askState: true, askSchool: false,
+    plans: ["ngrec_pass"], tagline: "Practice for Police, Army, Customs, Immigration and graduate trainee aptitude tests", timeZone: "Africa/Lagos",
+    audience: "a Nigerian applicant preparing for a government agency or company recruitment aptitude test (reasoning, English, maths, general knowledge)",
   },
   PLAB: {
     code: "PLAB", name: "PLAB 1 (UK GMC — doctors)", short: "PLAB 1", emoji: "⚕️", kind: "professional", region: "UK", currency: "GBP",

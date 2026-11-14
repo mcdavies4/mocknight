@@ -1,0 +1,520 @@
+[
+ {
+  "subject": "PHC",
+  "topic": "Constitution",
+  "body": "Which constitution is currently in force in the Philippines?",
+  "options": [
+   "The 1973 Constitution",
+   "The 1935 Constitution",
+   "The 1987 Constitution",
+   "The Malolos Constitution"
+  ],
+  "answer": 2,
+  "explanation": "It was ratified in a plebiscite in February 1987.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Constitution",
+  "body": "Which article of the 1987 Constitution contains the Bill of Rights?",
+  "options": [
+   "Article XII",
+   "Article III",
+   "Article VI",
+   "Article I"
+  ],
+  "answer": 1,
+  "explanation": "Article III lists the rights of every person.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Constitution",
+  "body": "How long is the term of the President of the Philippines?",
+  "options": [
+   "Six years, with one re-election",
+   "Four years, with one re-election",
+   "Five years, with no re-election",
+   "Six years, with no re-election"
+  ],
+  "answer": 3,
+  "explanation": "Article VII, Section 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Constitution",
+  "body": "How many senators are there in the Philippine Senate?",
+  "options": [
+   "30",
+   "12",
+   "24",
+   "48"
+  ],
+  "answer": 2,
+  "explanation": "Senators are elected at large by the whole country.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Constitution",
+  "body": "How long is the term of a senator?",
+  "options": [
+   "Three years",
+   "Six years",
+   "Five years",
+   "Four years"
+  ],
+  "answer": 1,
+  "explanation": "A senator may serve no more than two consecutive terms.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Constitution",
+  "body": "How long is the term of a member of the House of Representatives?",
+  "options": [
+   "Three years",
+   "Six years",
+   "Two years",
+   "Four years"
+  ],
+  "answer": 0,
+  "explanation": "Members may serve no more than three consecutive terms.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Constitution",
+  "body": "How many justices sit on the Supreme Court of the Philippines?",
+  "options": [
+   "21",
+   "9",
+   "15 (a Chief Justice and 14 Associate Justices)",
+   "12"
+  ],
+  "answer": 2,
+  "explanation": "Article VIII, Section 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Constitution",
+  "body": "What is the minimum voting age in the Philippines?",
+  "options": [
+   "25",
+   "18",
+   "16",
+   "21"
+  ],
+  "answer": 1,
+  "explanation": "Article V: citizens at least 18 years old.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Constitution",
+  "body": "Which body enforces and administers election laws?",
+  "options": [
+   "Commission on Audit",
+   "Commission on Elections (COMELEC)",
+   "Civil Service Commission",
+   "Office of the Ombudsman"
+  ],
+  "answer": 1,
+  "explanation": "COMELEC is one of the three constitutional commissions.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Constitution",
+  "body": "What are the three independent constitutional commissions?",
+  "options": [
+   "CHR, NEDA and COA",
+   "Ombudsman, Sandiganbayan and COMELEC",
+   "Senate, House and Supreme Court",
+   "Civil Service Commission, Commission on Elections and Commission on Audit"
+  ],
+  "answer": 3,
+  "explanation": "Article IX establishes all three.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Constitution",
+  "body": "Which body is the central personnel agency of the government?",
+  "options": [
+   "Department of Labor and Employment",
+   "Department of Budget and Management",
+   "Civil Service Commission",
+   "Commission on Audit"
+  ],
+  "answer": 2,
+  "explanation": "The CSC administers the Civil Service Exam.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Constitution",
+  "body": "Which office investigates and prosecutes erring public officials?",
+  "options": [
+   "Commission on Audit",
+   "COMELEC",
+   "Office of the Ombudsman",
+   "Department of Justice only"
+  ],
+  "answer": 2,
+  "explanation": "The Ombudsman acts as 'protector of the people'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Constitution",
+  "body": "Which special court hears graft and corruption cases against public officials?",
+  "options": [
+   "Sandiganbayan",
+   "Court of Tax Appeals",
+   "Court of Appeals",
+   "Regional Trial Court"
+  ],
+  "answer": 0,
+  "explanation": "It has jurisdiction over high-ranking officials' graft cases.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Constitution",
+  "body": "What are the official languages of the Philippines under the 1987 Constitution?",
+  "options": [
+   "Tagalog only",
+   "Filipino and English",
+   "English and Spanish",
+   "Filipino and Spanish"
+  ],
+  "answer": 1,
+  "explanation": "Filipino is the national language.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Constitution",
+  "body": "Who becomes President if the office becomes permanently vacant?",
+  "options": [
+   "The Chief Justice",
+   "The Speaker of the House",
+   "The Vice President",
+   "The Senate President"
+  ],
+  "answer": 2,
+  "explanation": "Next in line are the Senate President, then the Speaker.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Ethics",
+  "body": "Republic Act No. 6713 is also known as the",
+  "options": [
+   "Civil Service Law",
+   "Local Government Code",
+   "Anti-Graft and Corrupt Practices Act",
+   "Code of Conduct and Ethical Standards for Public Officials and Employees"
+  ],
+  "answer": 3,
+  "explanation": "It was enacted in 1989.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Ethics",
+  "body": "Which is one of the norms of conduct under RA 6713?",
+  "options": [
+   "Loyalty to one's party",
+   "Seniority above merit",
+   "Confidentiality of all records",
+   "Political neutrality"
+  ],
+  "answer": 3,
+  "explanation": "Others include professionalism, justness and sincerity, and simple living.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Ethics",
+  "body": "Under RA 6713, public officials must file which statement under oath?",
+  "options": [
+   "Daily Time Record",
+   "Personal Data Sheet only",
+   "Income Tax Return only",
+   "Statement of Assets, Liabilities and Net Worth (SALN)"
+  ],
+  "answer": 3,
+  "explanation": "The SALN discloses assets, liabilities and business interests.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Ethics",
+  "body": "Republic Act No. 3019 is the",
+  "options": [
+   "Code of Conduct for Public Officials",
+   "Anti-Red Tape Act",
+   "Data Privacy Act",
+   "Anti-Graft and Corrupt Practices Act"
+  ],
+  "answer": 3,
+  "explanation": "It was enacted in 1960.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Ethics",
+  "body": "The Ease of Doing Business Act (RA 11032) amended which law?",
+  "options": [
+   "The Local Government Code",
+   "The Labor Code",
+   "The Anti-Red Tape Act of 2007",
+   "The Civil Service Law"
+  ],
+  "answer": 2,
+  "explanation": "It sets processing deadlines for government services.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "History",
+  "body": "Where was Philippine independence from Spain declared on 12 June 1898?",
+  "options": [
+   "Malolos, Bulacan",
+   "Manila",
+   "Kawit, Cavite",
+   "Biak-na-Bato"
+  ],
+  "answer": 2,
+  "explanation": "Emilio Aguinaldo proclaimed it from his house in Kawit.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "History",
+  "body": "Who is the national hero of the Philippines?",
+  "options": [
+   "Apolinario Mabini",
+   "Andrés Bonifacio",
+   "Emilio Aguinaldo",
+   "José Rizal"
+  ],
+  "answer": 3,
+  "explanation": "He was executed on 30 December 1896.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "History",
+  "body": "Who founded the Katipunan in 1892?",
+  "options": [
+   "Marcelo H. del Pilar",
+   "Emilio Jacinto",
+   "Andrés Bonifacio",
+   "José Rizal"
+  ],
+  "answer": 2,
+  "explanation": "The Katipunan led the revolution against Spain.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "History",
+  "body": "Which two novels by José Rizal criticised Spanish rule?",
+  "options": [
+   "Florante at Laura and Ibong Adarna",
+   "Mi Último Adiós and Noli Me Tángere only",
+   "Kartilya ng Katipunan and La Solidaridad",
+   "Noli Me Tángere and El Filibusterismo"
+  ],
+  "answer": 3,
+  "explanation": "Published in 1887 and 1891.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "History",
+  "body": "Who killed Ferdinand Magellan at the Battle of Mactan in 1521?",
+  "options": [
+   "Sultan Kudarat",
+   "Diego Silang",
+   "Rajah Humabon's forces",
+   "Lapu-Lapu's forces"
+  ],
+  "answer": 3,
+  "explanation": "Lapu-Lapu is honoured as the first Filipino hero to resist colonisers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "History",
+  "body": "On what date did the United States recognise Philippine independence?",
+  "options": [
+   "12 June 1898",
+   "15 November 1935",
+   "21 September 1972",
+   "4 July 1946"
+  ],
+  "answer": 3,
+  "explanation": "Independence Day is now celebrated on 12 June.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "History",
+  "body": "Who was the first President of the Philippine Commonwealth (1935)?",
+  "options": [
+   "Emilio Aguinaldo",
+   "Sergio Osmeña",
+   "Manuel Roxas",
+   "Manuel L. Quezon"
+  ],
+  "answer": 3,
+  "explanation": "The Commonwealth was a transition to full independence.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "History",
+  "body": "The 1986 peaceful uprising that ended the Marcos regime is known as",
+  "options": [
+   "the Mendiola Massacre",
+   "the Cry of Pugad Lawin",
+   "the EDSA People Power Revolution",
+   "the First Quarter Storm"
+  ],
+  "answer": 2,
+  "explanation": "It took place along EDSA in February 1986.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Symbols",
+  "body": "What is the national anthem of the Philippines?",
+  "options": [
+   "Ako ay Pilipino",
+   "Bayan Ko",
+   "Pilipinas Kong Mahal",
+   "Lupang Hinirang"
+  ],
+  "answer": 3,
+  "explanation": "Music by Julian Felipe.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Symbols",
+  "body": "What is the national flower of the Philippines?",
+  "options": [
+   "Sampaguita",
+   "Waling-waling",
+   "Gumamela",
+   "Ilang-ilang"
+  ],
+  "answer": 0,
+  "explanation": "Jasminum sambac.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Symbols",
+  "body": "What is the national bird of the Philippines?",
+  "options": [
+   "Kingfisher",
+   "Maya",
+   "Philippine eagle",
+   "Hornbill"
+  ],
+  "answer": 2,
+  "explanation": "Pithecophaga jefferyi.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Symbols",
+  "body": "What is the national tree of the Philippines?",
+  "options": [
+   "Narra",
+   "Acacia",
+   "Mango",
+   "Molave"
+  ],
+  "answer": 0,
+  "explanation": "Pterocarpus indicus.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Geography",
+  "body": "What are the three main island groups of the Philippines?",
+  "options": [
+   "Luzon, Visayas and Mindanao",
+   "Luzon, Mindoro and Cebu",
+   "Visayas, Samar and Leyte",
+   "Luzon, Palawan and Mindanao"
+  ],
+  "answer": 0,
+  "explanation": "The country has more than 7,600 islands.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Geography",
+  "body": "What is the capital city of the Philippines?",
+  "options": [
+   "Davao City",
+   "Quezon City",
+   "Manila",
+   "Cebu City"
+  ],
+  "answer": 2,
+  "explanation": "Quezon City is the most populous city.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Geography",
+  "body": "What is the highest mountain in the Philippines?",
+  "options": [
+   "Mount Pulag",
+   "Mount Banahaw",
+   "Mayon Volcano",
+   "Mount Apo"
+  ],
+  "answer": 3,
+  "explanation": "Mount Apo is in Mindanao.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Environment",
+  "body": "Republic Act 9003 is the",
+  "options": [
+   "Climate Change Act",
+   "Clean Air Act",
+   "Ecological Solid Waste Management Act",
+   "Clean Water Act"
+  ],
+  "answer": 2,
+  "explanation": "It requires waste segregation at source.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PHC",
+  "topic": "Environment",
+  "body": "Republic Act 8749 is the",
+  "options": [
+   "Ecological Solid Waste Management Act",
+   "Clean Water Act",
+   "Wildlife Act",
+   "Philippine Clean Air Act"
+  ],
+  "answer": 3,
+  "explanation": "It was enacted in 1999.",
+  "difficulty": 1
+ }
+]

@@ -20,6 +20,7 @@ export const SUBJECTS: Record<string, string> = {
   NCX: "NCLEX-RN",
   PLB: "PLAB 1",
   OEH: "OET healthcare English",
+  PHC: "General information (Philippines)",
   UDM: "Decision making",
   USJ: "Situational judgement",
   ISC: "Integrated Science",
