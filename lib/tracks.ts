@@ -2,7 +2,7 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
 export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi" | "Asia/Manila" | "Africa/Johannesburg";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
@@ -714,6 +714,34 @@ export const TRACKS: Record<TrackCode, Track> = {
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["kcpa_pass"], tagline: "CPA (KASNEB) practice: accounting, business law, Kenyan tax and economics", timeZone: "Africa/Nairobi", timeLabel: "Kenya",
     audience: "a Kenyan student preparing for KASNEB CPA papers (foundation and intermediate levels)",
+  },
+  CARESR: {
+    code: "CARESR", name: "Senior carer: medication & the law (Level 3)", short: "Senior carer", emoji: "🩺", kind: "professional", region: "UK", currency: "GBP",
+    subjectMode: "single", subjects: ["CML"], compulsory: ["CML"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 25, minutes: 30, passPct: 80, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["caresr_pass", "caresr_pass_ngn"], tagline: "Step up to senior carer: medication, Mental Capacity Act, Care Act, CQC and spotting deterioration", timeZone: "Europe/London",
+    audience: "a UK care worker (often recently arrived from abroad) stepping up to senior carer or studying the Level 3 Diploma in Adult Care",
+  },
+  FIRSTAID: {
+    code: "FIRSTAID", name: "Emergency First Aid at Work", short: "First aid at work", emoji: "⛑️", kind: "professional", region: "UK", currency: "GBP",
+    subjectMode: "single", subjects: ["EFA"], compulsory: ["EFA"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 20, minutes: 20, passPct: 80, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["firstaid_pass"], tagline: "Emergency First Aid at Work revision: CPR, choking, bleeding, burns and medical emergencies", timeZone: "Europe/London",
+    audience: "a UK worker taking an Emergency First Aid at Work course, often for care, security, construction or warehouse jobs",
+  },
+  SERU: {
+    code: "SERU", name: "London private hire (SERU)", short: "SERU (private hire)", emoji: "🚕", kind: "professional", region: "UK", currency: "GBP",
+    subjectMode: "single", subjects: ["SRU"], compulsory: ["SRU"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 20, minutes: 30, passPct: 80, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["seru_pass"], tagline: "TfL SERU practice for London private hire (Uber, Bolt) drivers: licensing, equality and safeguarding", timeZone: "Europe/London",
+    audience: "someone applying for a London private hire (PHV) driver licence and preparing for TfL's SERU assessment",
+  },
+  HGV: {
+    code: "HGV", name: "HGV / LGV driver theory & Driver CPC", short: "HGV driver", emoji: "🚛", kind: "professional", region: "UK", currency: "GBP",
+    subjectMode: "single", subjects: ["LGV"], compulsory: ["LGV"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 30, minutes: 40, passPct: 80, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["hgv_pass"], tagline: "HGV/LGV theory and Driver CPC: drivers' hours, licence categories, speed limits, brakes and safety", timeZone: "Europe/London",
+    audience: "someone training as an HGV/LGV or bus driver in the UK, preparing for the theory test and Driver CPC",
   },
   ETEXIT: {
     code: "ETEXIT", name: "Ethiopia University Exit Exam", short: "Exit Exam Ethiopia", emoji: "🎓", kind: "professional", region: "ET", currency: "USD",

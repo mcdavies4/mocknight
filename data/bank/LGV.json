@@ -1,0 +1,212 @@
+[
+ {
+  "subject": "LGV",
+  "topic": "Drivers' hours",
+  "body": "Under GB/EU drivers' hours rules, the maximum daily driving time is normally",
+  "options": [
+   "8 hours",
+   "9 hours (extendable to 10 hours twice a week)",
+   "11 hours",
+   "13 hours"
+  ],
+  "answer": 1,
+  "explanation": "Breaks and rest periods must also be taken.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LGV",
+  "topic": "Drivers' hours",
+  "body": "After 4.5 hours of driving, a driver must take a break of at least",
+  "options": [
+   "1 hour",
+   "45 minutes (which may be split into 15 then 30 minutes)",
+   "15 minutes",
+   "30 minutes"
+  ],
+  "answer": 1,
+  "explanation": "The split must be 15 minutes first, then 30 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LGV",
+  "topic": "Drivers' hours",
+  "body": "The maximum driving in a single week under GB/EU rules is",
+  "options": [
+   "60 hours",
+   "48 hours",
+   "56 hours",
+   "90 hours"
+  ],
+  "answer": 2,
+  "explanation": "And no more than 90 hours in any two consecutive weeks.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LGV",
+  "topic": "Drivers' hours",
+  "body": "The maximum driving in any two consecutive weeks is",
+  "options": [
+   "90 hours",
+   "112 hours",
+   "56 hours",
+   "100 hours"
+  ],
+  "answer": 0,
+  "explanation": "This stops drivers doing 56 hours every week.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LGV",
+  "topic": "Drivers' hours",
+  "body": "A regular daily rest period is at least",
+  "options": [
+   "9 hours",
+   "8 hours",
+   "11 hours",
+   "13 hours"
+  ],
+  "answer": 2,
+  "explanation": "It can be reduced to 9 hours up to three times between weekly rests.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LGV",
+  "topic": "Driver CPC",
+  "body": "How many hours of periodic training must a professional driver complete every 5 years for Driver CPC?",
+  "options": [
+   "20 hours",
+   "35 hours",
+   "50 hours",
+   "7 hours"
+  ],
+  "answer": 1,
+  "explanation": "Usually done as five 7-hour courses.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LGV",
+  "topic": "Licences",
+  "body": "Which licence category covers vehicles between 3.5 and 7.5 tonnes?",
+  "options": [
+   "B",
+   "D1",
+   "C1",
+   "C"
+  ],
+  "answer": 2,
+  "explanation": "Category C covers vehicles over 3.5 tonnes; C+E adds a heavy trailer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LGV",
+  "topic": "Licences",
+  "body": "Category D covers",
+  "options": [
+   "motorcycles",
+   "tractors",
+   "lorries over 3.5 tonnes",
+   "buses with more than 8 passenger seats"
+  ],
+  "answer": 3,
+  "explanation": "D1 covers minibuses with up to 16 passenger seats.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LGV",
+  "topic": "Speed",
+  "body": "Goods vehicles over 3.5 tonnes must be fitted with a speed limiter set at",
+  "options": [
+   "56 mph (90 km/h)",
+   "60 mph",
+   "70 mph",
+   "50 mph"
+  ],
+  "answer": 0,
+  "explanation": "Limiters must be working and calibrated.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LGV",
+  "topic": "Speed",
+  "body": "In England and Wales, the speed limit for a goods vehicle over 7.5 tonnes on a single carriageway is",
+  "options": [
+   "60 mph",
+   "70 mph",
+   "40 mph",
+   "50 mph"
+  ],
+  "answer": 3,
+  "explanation": "It is 60 mph on dual carriageways and motorways.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LGV",
+  "topic": "Brakes",
+  "body": "On a lorry's air brake couplings, the red line is the",
+  "options": [
+   "fuel line",
+   "emergency (supply) line",
+   "service line",
+   "electrical line"
+  ],
+  "answer": 1,
+  "explanation": "The yellow line is the service line.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LGV",
+  "topic": "Checks",
+  "body": "A driver's daily walkaround check should be done",
+  "options": [
+   "before the vehicle is used at the start of each shift",
+   "once a month",
+   "by the mechanic only",
+   "only after an accident"
+  ],
+  "answer": 0,
+  "explanation": "Report and record any defects.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LGV",
+  "topic": "Safety",
+  "body": "Class V and Class VI mirrors on lorries help the driver see",
+  "options": [
+   "blind spots close to the cab, especially on the passenger side",
+   "the rear doors only",
+   "traffic lights ahead",
+   "the fuel tank"
+  ],
+  "answer": 0,
+  "explanation": "Cyclists and pedestrians are at risk in these areas.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LGV",
+  "topic": "Safety",
+  "body": "Before driving under a low bridge, a lorry driver must know",
+  "options": [
+   "the vehicle's full travelling height",
+   "the tyre brand",
+   "the radio frequency",
+   "the fuel level"
+  ],
+  "answer": 0,
+  "explanation": "Display the height in the cab, in feet and metres.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LGV",
+  "topic": "Tachographs",
+  "body": "A digital tachograph records",
+  "options": [
+   "fuel prices",
+   "driving time, other work, breaks and rest",
+   "insurance details",
+   "road tax payments"
+  ],
+  "answer": 1,
+  "explanation": "Drivers use a personal driver card.",
+  "difficulty": 2
+ }
+]

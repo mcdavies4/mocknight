@@ -1,0 +1,296 @@
+[
+ {
+  "subject": "CML",
+  "topic": "Mental Capacity Act",
+  "body": "Under the Mental Capacity Act 2005, what is the first principle?",
+  "options": [
+   "Family members decide for older people",
+   "Capacity is assessed once for all decisions",
+   "A person must be assumed to have capacity unless it is shown they lack it",
+   "Anyone with dementia lacks capacity"
+  ],
+  "answer": 2,
+  "explanation": "The five principles start with the presumption of capacity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CML",
+  "topic": "Mental Capacity Act",
+  "body": "Under the MCA, making an unwise decision means a person",
+  "options": [
+   "must be sectioned",
+   "must have a best-interests meeting",
+   "definitely lacks capacity",
+   "does not necessarily lack capacity"
+  ],
+  "answer": 3,
+  "explanation": "People have the right to make decisions others disagree with.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CML",
+  "topic": "Mental Capacity Act",
+  "body": "Capacity under the MCA is assessed",
+  "options": [
+   "only on admission",
+   "for a specific decision at a specific time",
+   "once a year for everything",
+   "only by a judge"
+  ],
+  "answer": 1,
+  "explanation": "Capacity can fluctuate and is decision-specific.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CML",
+  "topic": "Mental Capacity Act",
+  "body": "If a person lacks capacity, any decision made for them must be in their",
+  "options": [
+   "care home's interests",
+   "family's interests",
+   "best interests and the least restrictive option",
+   "doctor's convenience"
+  ],
+  "answer": 2,
+  "explanation": "These are the fourth and fifth principles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CML",
+  "topic": "Care Act",
+  "body": "Which Act sets out the six principles of adult safeguarding in England?",
+  "options": [
+   "Mental Health Act 1983",
+   "Health and Social Care Act 2008 only",
+   "Children Act 1989",
+   "Care Act 2014"
+  ],
+  "answer": 3,
+  "explanation": "Empowerment, prevention, proportionality, protection, partnership and accountability.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CML",
+  "topic": "Care Act",
+  "body": "Which is one of the six safeguarding principles of the Care Act 2014?",
+  "options": [
+   "Profitability",
+   "Secrecy",
+   "Punishment",
+   "Proportionality"
+  ],
+  "answer": 3,
+  "explanation": "Act in the least intrusive way appropriate to the risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CML",
+  "topic": "Regulation",
+  "body": "Which body regulates adult social care services in England?",
+  "options": [
+   "Care Quality Commission (CQC)",
+   "Ofsted",
+   "HSE only",
+   "NMC"
+  ],
+  "answer": 0,
+  "explanation": "Ofsted regulates children's services and education.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CML",
+  "topic": "Regulation",
+  "body": "CQC inspections ask five key questions: is the service safe, effective, caring, responsive and",
+  "options": [
+   "well-led",
+   "well-funded",
+   "well-staffed",
+   "well-known"
+  ],
+  "answer": 0,
+  "explanation": "Services are rated Outstanding, Good, Requires improvement or Inadequate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CML",
+  "topic": "Medication",
+  "body": "The 'rights' of medication administration include right person, right medicine, right dose, right time, right route and right",
+  "options": [
+   "pharmacy",
+   "documentation (record)",
+   "colour",
+   "price"
+  ],
+  "answer": 1,
+  "explanation": "Record every dose given or refused on the MAR chart.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CML",
+  "topic": "Medication",
+  "body": "What is a MAR chart?",
+  "options": [
+   "A fire risk assessment",
+   "A menu plan",
+   "A Medication Administration Record for each person",
+   "A staff rota"
+  ],
+  "answer": 2,
+  "explanation": "It records each dose given, refused or omitted.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CML",
+  "topic": "Medication",
+  "body": "PRN medication is given",
+  "options": [
+   "at the carer's choice without guidance",
+   "only at night",
+   "only when needed, following the person's PRN protocol",
+   "every morning without fail"
+  ],
+  "answer": 2,
+  "explanation": "PRN means 'pro re nata', as required.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CML",
+  "topic": "Medication",
+  "body": "Controlled drugs in a care home must be",
+  "options": [
+   "stored with food",
+   "stored in a locked controlled-drugs cabinet and recorded in a CD register, usually with two signatures",
+   "kept in the person's handbag",
+   "left on the medicine trolley"
+  ],
+  "answer": 1,
+  "explanation": "Strict storage and recording rules apply.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CML",
+  "topic": "Medication",
+  "body": "If a person refuses their medication, the carer should",
+  "options": [
+   "respect the refusal, record it and report it according to policy",
+   "force them to take it",
+   "hide it in their food",
+   "give double the next time"
+  ],
+  "answer": 0,
+  "explanation": "Covert medication needs a formal MCA best-interests process with the GP and pharmacist.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CML",
+  "topic": "Medication",
+  "body": "Giving medication hidden in food or drink without the person knowing is called",
+  "options": [
+   "PRN dosing",
+   "covert administration",
+   "a crushed tablet protocol",
+   "self-administration"
+  ],
+  "answer": 1,
+  "explanation": "It is only lawful after a capacity assessment and best-interests decision.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CML",
+  "topic": "Clinical",
+  "body": "NEWS2 is a tool used to",
+  "options": [
+   "write rotas",
+   "spot early signs of a person's health getting worse",
+   "plan meals",
+   "score fire safety"
+  ],
+  "answer": 1,
+  "explanation": "It scores observations such as pulse, breathing and temperature.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CML",
+  "topic": "Clinical",
+  "body": "SSKIN is a care bundle used to prevent",
+  "options": [
+   "infections",
+   "dehydration only",
+   "pressure ulcers",
+   "falls"
+  ],
+  "answer": 2,
+  "explanation": "Surface, Skin inspection, Keep moving, Incontinence/moisture, Nutrition.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CML",
+  "topic": "Clinical",
+  "body": "IDDSI levels describe",
+  "options": [
+   "food and drink textures for people with swallowing difficulties",
+   "medication strengths",
+   "staff grades",
+   "pressure ulcer stages"
+  ],
+  "answer": 0,
+  "explanation": "Levels run from 0 (thin drinks) to 7 (regular food).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CML",
+  "topic": "Clinical",
+  "body": "Signs such as confusion, fast breathing and very high or low temperature in an unwell person may indicate",
+  "options": [
+   "sepsis — escalate urgently",
+   "a cold",
+   "normal ageing",
+   "tiredness only"
+  ],
+  "answer": 0,
+  "explanation": "Sepsis is a medical emergency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CML",
+  "topic": "Rights",
+  "body": "How many protected characteristics are there under the Equality Act 2010?",
+  "options": [
+   "9",
+   "7",
+   "12",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "They include age, disability, race, religion or belief, sex and sexual orientation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CML",
+  "topic": "Rights",
+  "body": "Workers who report wrongdoing in the public interest are protected by",
+  "options": [
+   "the Data Protection Act only",
+   "the Mental Health Act",
+   "the Children Act",
+   "the Public Interest Disclosure Act 1998 (whistleblowing)"
+  ],
+  "answer": 3,
+  "explanation": "Raise concerns through your organisation or the CQC.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CML",
+  "topic": "Rights",
+  "body": "The duty of candour requires providers to",
+  "options": [
+   "be open and honest with people when something goes wrong",
+   "hide mistakes",
+   "apologise only if sued",
+   "only tell family members"
+  ],
+  "answer": 0,
+  "explanation": "It is a CQC regulation.",
+  "difficulty": 2
+ }
+]

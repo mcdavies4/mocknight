@@ -17,7 +17,7 @@ export const TRACK_GROUPS: TrackGroup[] = [
   { key: "tech", emoji: "💻", title: "Technology & digital skills", description: "Build practical IT, networking, cloud, data, security and programming knowledge.",
     codes: ["ITF", "CCST", "AWS", "AZF", "PYT", "SEC", "DAT", "AIA"] },
   { key: "uk", emoji: "🪪", title: "Workplace & licences", description: "Driving theory, site cards and structured workplace training.",
-    codes: ["DRIVE", "SALEARN", "CITB", "SIA", "FSE", "FSM", "FIRE", "CARE", "FOOD", "CAREW", "HSE"] },
+    codes: ["DRIVE", "SALEARN", "HGV", "SERU", "CARESR", "FIRSTAID", "CITB", "SIA", "FSE", "FSM", "FIRE", "CARE", "FOOD", "CAREW", "HSE"] },
 ];
 
 export const groupFor = (code: string) => TRACK_GROUPS.find((g) => g.codes.includes(code as TrackCode));
@@ -37,6 +37,8 @@ const ALIASES: Partial<Record<TrackCode, string>> = {
   ETEXIT: "ethiopia exit exam university graduate accounting computer science management economics", CSEE: "tanzania form four necta csee", UCE: "uganda senior four uneb uce o level",
   CMGCE: "cameroon gce o level anglophone",
   SALEARN: "south africa learners licence k53 driving", MATRIC: "south africa matric nsc grade 12", KCPA: "kenya cpa kasneb accounting icpak",
+  CARE: "care certificate care worker carer", CAREW: "care worker carer workforce essentials",
+  CARESR: "senior carer care worker level 3 diploma medication mar cqc mental capacity", FIRSTAID: "first aid at work efaw cpr", SERU: "uber bolt private hire phv tfl london driver seru", HGV: "hgv lgv lorry truck driver cpc class 1 class 2 bus",
   JAMB: "utme university nigeria", WAEC: "ssce waec nigeria", NECO: "ssce nigeria", PUTME: "post utme university nigeria", WASSCE_GH: "ghana shs wassce",
   BECE: "ghana jhs", KCSE: "kenya form 4", ETH: "ethiopia esslce grade 12", MDCAT: "pakistan medical", UCAT: "medicine dentistry uk university",
   SAT: "usa college", ELEVEN: "11 plus grammar school", SSC: "india cgl chsl government", IBPS: "india bank po sbi",

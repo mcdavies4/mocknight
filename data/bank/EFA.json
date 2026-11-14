@@ -1,0 +1,226 @@
+[
+ {
+  "subject": "EFA",
+  "topic": "Assessment",
+  "body": "When you find a casualty, what should you check first?",
+  "options": [
+   "Their pulse",
+   "Whether they have eaten",
+   "Their wallet for ID",
+   "Danger — make sure the area is safe"
+  ],
+  "answer": 3,
+  "explanation": "Use DR ABC: Danger, Response, Airway, Breathing, Circulation.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EFA",
+  "topic": "CPR",
+  "body": "For adult CPR, the ratio of chest compressions to rescue breaths is",
+  "options": [
+   "10:2",
+   "5:1",
+   "15:2",
+   "30:2"
+  ],
+  "answer": 3,
+  "explanation": "Hands-only CPR is fine if you are unwilling or unable to give breaths.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EFA",
+  "topic": "CPR",
+  "body": "Adult chest compressions should be at a rate of",
+  "options": [
+   "100–120 per minute",
+   "30–40 per minute",
+   "150–200 per minute",
+   "60 per minute"
+  ],
+  "answer": 0,
+  "explanation": "Push hard and fast in the centre of the chest.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EFA",
+  "topic": "CPR",
+  "body": "Adult chest compressions should be about how deep?",
+  "options": [
+   "Just touching the chest",
+   "10 cm",
+   "1–2 cm",
+   "5–6 cm"
+  ],
+  "answer": 3,
+  "explanation": "Allow full recoil between compressions.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EFA",
+  "topic": "CPR",
+  "body": "An AED is used to",
+  "options": [
+   "clear the airway",
+   "deliver a shock to restart a normal heart rhythm in cardiac arrest",
+   "measure blood pressure",
+   "stop bleeding"
+  ],
+  "answer": 1,
+  "explanation": "Follow its spoken instructions; anyone can use one.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EFA",
+  "topic": "Unresponsive",
+  "body": "An unresponsive casualty who is breathing normally should be placed",
+  "options": [
+   "sitting upright",
+   "flat on their back unattended",
+   "face down",
+   "in the recovery position"
+  ],
+  "answer": 3,
+  "explanation": "Keep checking their breathing.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EFA",
+  "topic": "Choking",
+  "body": "For an adult who is choking and cannot cough effectively, first give",
+  "options": [
+   "5 rescue breaths",
+   "CPR straight away",
+   "up to 5 back blows",
+   "water to drink"
+  ],
+  "answer": 2,
+  "explanation": "Then up to 5 abdominal thrusts, and repeat.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EFA",
+  "topic": "Bleeding",
+  "body": "The first treatment for severe external bleeding is",
+  "options": [
+   "raising the legs only",
+   "direct pressure on the wound",
+   "removing embedded objects",
+   "giving a drink"
+  ],
+  "answer": 1,
+  "explanation": "Call 999 for severe bleeding.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EFA",
+  "topic": "Shock",
+  "body": "A casualty in shock should be",
+  "options": [
+   "laid down with legs raised (if injuries allow) and kept warm",
+   "made to walk around",
+   "given food",
+   "sat in a cold room"
+  ],
+  "answer": 0,
+  "explanation": "Shock can be life-threatening — call 999.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EFA",
+  "topic": "Burns",
+  "body": "A burn should be cooled under cool running water for at least",
+  "options": [
+   "2 hours",
+   "30 seconds",
+   "2 minutes",
+   "20 minutes"
+  ],
+  "answer": 3,
+  "explanation": "Remove jewellery near the burn and cover with cling film.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EFA",
+  "topic": "Medical",
+  "body": "The FAST test is used to recognise a",
+  "options": [
+   "heart attack",
+   "seizure",
+   "stroke",
+   "diabetic emergency"
+  ],
+  "answer": 2,
+  "explanation": "Face, Arms, Speech, Time to call 999.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EFA",
+  "topic": "Medical",
+  "body": "During a seizure, you should",
+  "options": [
+   "give them water",
+   "hold them down",
+   "protect the person from injury and not restrain them",
+   "put something in their mouth"
+  ],
+  "answer": 2,
+  "explanation": "Time the seizure; call 999 if it lasts more than 5 minutes.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EFA",
+  "topic": "Medical",
+  "body": "A person with diabetes who is shaky, sweaty and confused (hypoglycaemia) should be given",
+  "options": [
+   "a salty snack",
+   "insulin",
+   "nothing at all",
+   "a sugary drink or sweets if they can swallow"
+  ],
+  "answer": 3,
+  "explanation": "Then a longer-acting carbohydrate when they improve.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EFA",
+  "topic": "Medical",
+  "body": "In anaphylaxis, an adrenaline auto-injector is given into the",
+  "options": [
+   "stomach",
+   "outer thigh",
+   "arm vein",
+   "chest"
+  ],
+  "answer": 1,
+  "explanation": "Call 999 immediately.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EFA",
+  "topic": "Medical",
+  "body": "During an asthma attack, help the person to",
+  "options": [
+   "breathe into a paper bag",
+   "drink milk",
+   "lie flat",
+   "use their reliever inhaler (usually blue) and sit upright"
+  ],
+  "answer": 3,
+  "explanation": "Call 999 if it does not improve.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EFA",
+  "topic": "Law",
+  "body": "Which regulations require employers to provide adequate first aid at work?",
+  "options": [
+   "RIDDOR 2013",
+   "Health and Safety (First-Aid) Regulations 1981",
+   "COSHH Regulations 2002",
+   "Working Time Regulations 1998"
+  ],
+  "answer": 1,
+  "explanation": "RIDDOR covers reporting certain injuries to the HSE.",
+  "difficulty": 1
+ }
+]

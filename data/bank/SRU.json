@@ -1,0 +1,170 @@
+[
+ {
+  "subject": "SRU",
+  "topic": "Licensing",
+  "body": "Who licenses private hire vehicles, drivers and operators in London?",
+  "options": [
+   "DVLA",
+   "Transport for London (TfL)",
+   "The Metropolitan Police",
+   "Local councils in each borough"
+  ],
+  "answer": 1,
+  "explanation": "Outside London, local councils license private hire.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SRU",
+  "topic": "Licensing",
+  "body": "A London private hire journey must be",
+  "options": [
+   "taken from a taxi rank",
+   "arranged by the driver directly with passers-by",
+   "pre-booked through a licensed operator",
+   "hailed on the street"
+  ],
+  "answer": 2,
+  "explanation": "Only taxis (black cabs) can be hailed or use ranks.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SRU",
+  "topic": "Licensing",
+  "body": "Approaching people to offer an unbooked ride (touting) is",
+  "options": [
+   "allowed late at night",
+   "a criminal offence",
+   "allowed if the fare is low",
+   "allowed near stations"
+  ],
+  "answer": 1,
+  "explanation": "Touting puts passengers at risk.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SRU",
+  "topic": "Licensing",
+  "body": "While working, a private hire driver must",
+  "options": [
+   "hide their badge",
+   "wear or display their TfL driver badge",
+   "only show it if asked by police",
+   "leave it at home"
+  ],
+  "answer": 1,
+  "explanation": "Passengers should be able to check the driver is licensed.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SRU",
+  "topic": "Equality",
+  "body": "Under the Equality Act 2010, a private hire driver must carry an assistance dog",
+  "options": [
+   "only in the boot",
+   "at no extra charge, unless they hold a medical exemption certificate",
+   "for an extra fee",
+   "only if there is space"
+  ],
+  "answer": 1,
+  "explanation": "Refusing is a criminal offence.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SRU",
+  "topic": "Equality",
+  "body": "A passenger who uses a wheelchair should be",
+  "options": [
+   "refused politely",
+   "charged a higher fare",
+   "told to book a bus",
+   "helped and not charged extra because of their disability"
+  ],
+  "answer": 3,
+  "explanation": "Discrimination is unlawful under the Equality Act 2010.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SRU",
+  "topic": "Safeguarding",
+  "body": "If you believe a passenger is in immediate danger, you should",
+  "options": [
+   "post it on social media",
+   "call 999",
+   "drive away",
+   "wait until the end of your shift"
+  ],
+  "answer": 1,
+  "explanation": "For non-urgent concerns, report through the proper channels.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SRU",
+  "topic": "Safeguarding",
+  "body": "Which may be a sign of child sexual exploitation or county lines?",
+  "options": [
+   "A parent collecting a child",
+   "A child travelling alone late at night with older adults or large amounts of cash",
+   "A family going on holiday",
+   "A student going to school"
+  ],
+  "answer": 1,
+  "explanation": "Drivers are often the eyes and ears of the community.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SRU",
+  "topic": "Safety",
+  "body": "Using a hand-held mobile phone while driving is",
+  "options": [
+   "illegal",
+   "allowed in traffic",
+   "allowed for satnav only if held",
+   "allowed at red lights"
+  ],
+  "answer": 0,
+  "explanation": "Use a hands-free holder set up before driving.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SRU",
+  "topic": "Safety",
+  "body": "Passengers should be dropped off",
+  "options": [
+   "in the middle of a junction",
+   "on a red route stopping restriction",
+   "somewhere safe and legal, where they can get out without risk",
+   "in a bus lane during its hours"
+  ],
+  "answer": 2,
+  "explanation": "Follow the Highway Code and parking rules.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SRU",
+  "topic": "Conduct",
+  "body": "If a passenger makes a complaint, the driver should",
+  "options": [
+   "refuse future bookings from the area",
+   "remain polite and let the operator handle it through its procedure",
+   "ignore it",
+   "argue with the passenger"
+  ],
+  "answer": 1,
+  "explanation": "Operators must keep records of complaints.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SRU",
+  "topic": "Requirements",
+  "body": "To get a London PHV driver licence, applicants must pass",
+  "options": [
+   "no checks",
+   "only a driving test",
+   "a university degree",
+   "an enhanced DBS check, a medical, and TfL's assessments"
+  ],
+  "answer": 3,
+  "explanation": "TfL also checks right to work and English language skills.",
+  "difficulty": 1
+ }
+]
