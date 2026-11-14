@@ -4,13 +4,14 @@
  */
 import "./load-env";
 import { Bot } from "grammy";
+import { ALLOWED_UPDATES } from "../lib/telegram-updates";
 
 const bot = new Bot(process.env.TELEGRAM_BOT_TOKEN!);
 const url = `${process.env.APP_URL!.replace(/\/$/, "")}/api/telegram`;
 
 await bot.api.setWebhook(url, {
   secret_token: process.env.TELEGRAM_WEBHOOK_SECRET!,
-  allowed_updates: ["message", "callback_query", "poll_answer", "my_chat_member"],
+  allowed_updates: [...ALLOWED_UPDATES],
   drop_pending_updates: true,
 });
 

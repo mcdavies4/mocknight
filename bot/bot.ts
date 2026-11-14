@@ -1,7 +1,7 @@
 import { Bot, Context, InlineKeyboard, type Api } from "grammy";
 import { env } from "@/lib/env";
 import { db, must } from "@/lib/supabase";
-import { accessKind, getStudentByTelegram, isPremium, trialDaysLeft, updateStudent, upsertStudent } from "@/lib/students";
+import { accessKind, getStudentByTelegram, isFounder, isPremium, trialDaysLeft, updateStudent, upsertStudent } from "@/lib/students";
 import { subjectName } from "@/lib/subjects";
 import { getTrack, regionsFor, timeLabelFor, TRACKS, variantsFor, type TrackCode } from "@/lib/tracks";
 import { getProgress } from "@/lib/progress";
@@ -10,7 +10,8 @@ import { completeLesson, courseStatus, getLessons, issueCertificate, nextLesson 
 import { formatHour, formatWat, nextSundayWat, watToUtc } from "@/lib/time";
 import { getOrCreateTodaySession, recordDrillAnswer, sendCurrentQuestion, streakDays } from "@/lib/drill";
 import { getLatestFinishedWeeklyMock, getOpenWeeklyMock, WEEKLY } from "@/lib/mock";
-import { createCheckout } from "@/lib/payments";
+import { applySuccessfulPayment, checkStarsCheckout, createCheckout, createStarsPayment, refundStarsPayment } from "@/lib/payments";
+import { STARS_ENABLED, starsFor } from "@/lib/stars";
 import { createGroup, getGroupByCode, groupsOwnedBy, joinGroup, joinLink, memberCount } from "@/lib/groups";
 import { signToken } from "@/lib/auth";
 import { attachReferrer, redeemLinkCode, referralCount, refLinks } from "@/lib/referrals";
@@ -253,11 +254,14 @@ async function sendPremium(api: Api, s: Student) {
     return api.sendMessage(s.telegram_id!, `🎉 ${t.short} is completely free right now — unlimited drills and practice tests. Tell your friends: /invite`, { reply_markup: menuKb(s) });
   }
   const kb = new InlineKeyboard();
-  for (const code of t.plans) kb.text(`${PLANS[code].label} · ${money(PLANS[code].amount, PLANS[code].currency)}`, `pay:${code}`).row();
+  for (const code of t.plans) {
+    kb.text(`💳 ${PLANS[code].label} · ${money(PLANS[code].amount, PLANS[code].currency)}`, `pay:${code}`).row();
+    if (STARS_ENABLED) kb.text(`⭐ Same with ${starsFor(PLANS[code])} Telegram Stars`, `stars:${code}`).row();
+  }
   const perks =
     t.subjectMode === "single"
-      ? [`• ${PREMIUM_DAILY_QUESTIONS} practice questions a day (free: ${FREE_DAILY_QUESTIONS})`, "• Unlimited full practice tests (free: 1 a week)", "• Readiness score and review of every mistake", "", "Pay securely by card via Stripe."]
-      : [`• ${PREMIUM_DAILY_QUESTIONS} drill questions a day (free: ${FREE_DAILY_QUESTIONS})`, "• Unlimited practice CBT mocks (free: 1 a week)", "• Mock Night stays free for everyone", "", "Pay with card, transfer or USSD via Paystack. A parent can pay — just forward them the link."];
+      ? [`• ${PREMIUM_DAILY_QUESTIONS} practice questions a day (free: ${FREE_DAILY_QUESTIONS})`, "• Unlimited full practice tests (free: 1 a week)", "• Readiness score and review of every mistake", "", STARS_ENABLED ? "Pay by card via Stripe, or with Telegram Stars ⭐ without leaving the chat." : "Pay securely by card via Stripe."]
+      : [`• ${PREMIUM_DAILY_QUESTIONS} drill questions a day (free: ${FREE_DAILY_QUESTIONS})`, "• Unlimited practice CBT mocks (free: 1 a week)", "• Mock Night stays free for everyone", "", "Pay with card, transfer or USSD via Paystack (a parent can pay — just forward them the link)" + (STARS_ENABLED ? ", or with Telegram Stars ⭐ right here in the chat." : ".")];
   return api.sendMessage(
     s.telegram_id!,
     [
@@ -678,7 +682,7 @@ function register(bot: Bot<Ctx>) {
     await ctx.answerCallbackQuery();
     return sendPremium(ctx.api, ctx.student!);
   });
-  bot.callbackQuery(/^pay:([a-z_]+)$/, async (ctx) => {
+  bot.callbackQuery(/^pay:([a-z0-9_]+)$/, async (ctx) => {
     const code = ctx.match[1];
     const plan = PLANS[code];
     if (!plan || !getTrack(ctx.student!.track).plans.includes(code)) return ctx.answerCallbackQuery();
@@ -688,6 +692,50 @@ function register(bot: Bot<Ctx>) {
     return ctx.reply(`${plan.label} — ${price}\nYou'll get a message here as soon as it's paid.`, {
       reply_markup: new InlineKeyboard().url(`Pay ${price}`, url),
     });
+  });
+
+  // ---- Telegram Stars --------------------------------------------------------
+  bot.callbackQuery(/^stars:([a-z0-9_]+)$/, async (ctx) => {
+    const code = ctx.match[1];
+    if (!STARS_ENABLED || !PLANS[code] || !getTrack(ctx.student!.track).plans.includes(code)) return ctx.answerCallbackQuery();
+    await ctx.answerCallbackQuery();
+    const { reference, stars, plan } = await createStarsPayment(ctx.student!, code);
+    return ctx.replyWithInvoice(
+      plan.label.slice(0, 32),
+      `${plan.label}. Full access for ${plan.days} days, added to any time you already have.`.slice(0, 255),
+      reference,
+      "XTR",
+      [{ label: plan.label.slice(0, 32), amount: stars }],
+    );
+  });
+
+  bot.on("pre_checkout_query", async (ctx) => {
+    const q = ctx.preCheckoutQuery;
+    const s = ctx.student ?? (await getStudentByTelegram(q.from.id));
+    const problem = s ? await checkStarsCheckout(q.invoice_payload, s.id, q.total_amount, q.currency) : "Please tap /start first.";
+    return problem ? ctx.answerPreCheckoutQuery(false, { error_message: problem }) : ctx.answerPreCheckoutQuery(true);
+  });
+
+  bot.on("message:successful_payment", async (ctx) => {
+    const p = ctx.message.successful_payment;
+    if (p.currency !== "XTR") return;
+    const applied = await applySuccessfulPayment(p.invoice_payload, p.total_amount, "XTR");
+    await db().from("payments").update({ telegram_charge_id: p.telegram_payment_charge_id }).eq("reference", p.invoice_payload);
+    if (!applied) return ctx.reply("We received your Stars but couldn't apply them automatically. Message support with this code and we'll sort it: " + p.telegram_payment_charge_id);
+    if (applied.kind === "premium") return ctx.reply(`⭐ Thank you! You're Premium until ${formatWat(applied.until)}. Let's go 🚀`, { reply_markup: menuKb(applied.student) });
+  });
+
+  /** Founder-only: /refund <telegram_payment_charge_id> */
+  bot.command("refund", async (ctx) => {
+    if (!isFounder(ctx.student!)) return;
+    const chargeId = ctx.match?.trim();
+    if (!chargeId) return ctx.reply("Usage: /refund <charge id>");
+    try {
+      const r = await refundStarsPayment(ctx.api, chargeId);
+      return ctx.reply(r ? `Refunded ${r.payment.amount_kobo} Stars to ${r.student.first_name ?? "the learner"} and removed the Premium days.` : "No successful Stars payment with that charge id.");
+    } catch (e) {
+      return ctx.reply(`Refund failed: ${(e as Error).message}`);
+    }
   });
 
   // ---- Drill answers --------------------------------------------------------

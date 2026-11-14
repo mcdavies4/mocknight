@@ -9,6 +9,8 @@ export interface Plan {
   currency: Currency;
   days: number;
   provider: "paystack" | "stripe" | "chapa";
+  /** Optional fixed price in Telegram Stars (otherwise derived from amount — see lib/stars.ts) */
+  stars?: number;
 }
 
 export const PLANS: Record<string, Plan> = {

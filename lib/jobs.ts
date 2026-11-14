@@ -1,3 +1,4 @@
+import { ALLOWED_UPDATES } from "./telegram-updates";
 import { InlineKeyboard, type Api } from "grammy";
 import { db, must } from "./supabase";
 import { env } from "./env";
@@ -24,7 +25,21 @@ async function activeStudents(extra?: (q: any) => any): Promise<Recipient[]> {
 }
 
 /** Runs every hour (Vercel cron or any external cron hitting /api/cron). */
+/** Make sure Telegram sends every update type we need (e.g. pre_checkout_query for Stars) without re-running set-webhook by hand. */
+async function ensureWebhookUpdates(api: Api) {
+  try {
+    const info = await api.getWebhookInfo();
+    const have = new Set(info.allowed_updates ?? []);
+    if (!info.url || ALLOWED_UPDATES.every((u) => have.has(u))) return;
+    await api.setWebhook(info.url, { secret_token: env.webhookSecret, allowed_updates: [...ALLOWED_UPDATES] });
+    console.log("webhook allowed_updates refreshed");
+  } catch (e) {
+    console.error("ensureWebhookUpdates failed", e);
+  }
+}
+
 export async function runHourly(api: Api) {
+  await ensureWebhookUpdates(api);
   const { date, hour, weekday } = watNow();
   const log: Record<string, unknown> = { date, hour, weekday };
 

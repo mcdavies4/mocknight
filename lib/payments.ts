@@ -2,6 +2,7 @@ import { createHmac, randomBytes, timingSafeEqual } from "node:crypto";
 import { env } from "./env";
 import { db, must } from "./supabase";
 import { PLANS, SEATS } from "./pricing";
+import { starsFor } from "./stars";
 import type { Student, TutorGroup } from "./types";
 
 /**
@@ -45,6 +46,43 @@ async function recordPending(
     }),
     "insert payment",
   );
+}
+
+// ---------------------------------------------------------------------------
+// Telegram Stars (XTR) — amounts are stored in whole Stars
+// ---------------------------------------------------------------------------
+export async function createStarsPayment(student: Student, planCode: string) {
+  const plan = PLANS[planCode];
+  if (!plan) throw new Error(`Unknown plan ${planCode}`);
+  const stars = starsFor(plan);
+  const reference = `mn_${Date.now()}_${randomBytes(4).toString("hex")}`;
+  await recordPending(reference, student, plan.code, stars, "XTR", "telegram_stars");
+  return { reference, stars, plan };
+}
+
+/** Called on pre_checkout_query: the payment must still be pending, belong to this learner and match the price. */
+export async function checkStarsCheckout(reference: string, studentId: string, amount: number, currency: string): Promise<string | null> {
+  const { data: p } = await db().from("payments").select("student_id, amount_kobo, currency, status").eq("reference", reference).maybeSingle();
+  if (!p || p.status !== "pending") return "This payment link has expired. Tap /premium to try again.";
+  if (p.student_id !== studentId) return "This invoice belongs to another account.";
+  if (currency !== "XTR" || amount !== p.amount_kobo) return "The price has changed. Tap /premium to get a new invoice.";
+  return null;
+}
+
+/** Refund a Stars payment and take back the Premium days it gave. Returns the payment, or null if not found. */
+export async function refundStarsPayment(api: { refundStarPayment: (userId: number, chargeId: string) => Promise<true> }, chargeId: string) {
+  const { data: p } = await db().from("payments").select("*").eq("telegram_charge_id", chargeId).eq("status", "success").maybeSingle();
+  if (!p) return null;
+  const student = must(await db().from("students").select("*").eq("id", p.student_id).single(), "refund student") as Student;
+  if (!student.telegram_id) return null;
+  await api.refundStarPayment(student.telegram_id, chargeId);
+  await db().from("payments").update({ status: "refunded" }).eq("reference", p.reference);
+  const days = PLANS[p.plan]?.days ?? 0;
+  if (student.premium_until && days) {
+    const back = new Date(new Date(student.premium_until).getTime() - days * 86400_000).toISOString();
+    await db().from("students").update({ premium_until: back }).eq("id", student.id);
+  }
+  return { payment: p, student };
 }
 
 // ---------------------------------------------------------------------------
