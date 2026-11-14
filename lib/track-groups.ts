@@ -16,8 +16,10 @@ export const TRACK_GROUPS: TrackGroup[] = [
     codes: ["OILGAS", "NDT", "WELDINSP", "APIINSP", "COATING", "IOSH"] },
   { key: "tech", emoji: "💻", title: "Technology & digital skills", description: "Build practical IT, networking, cloud, data, security and programming knowledge.",
     codes: ["ITF", "CCST", "AWS", "AZF", "PYT", "SEC", "DAT", "AIA"] },
-  { key: "uk", emoji: "🪪", title: "Workplace & licences", description: "Driving theory, site cards and structured workplace training.",
-    codes: ["DRIVE", "SALEARN", "HGV", "SERU", "CARESR", "FIRSTAID", "CITB", "SIA", "FSE", "FSM", "FIRE", "CARE", "FOOD", "CAREW", "HSE"] },
+  { key: "ukcare", emoji: "🩺", title: "UK care, health & education jobs", description: "Care work, NHS healthcare assistant, first aid, teaching assistant and food hygiene.",
+    codes: ["CARE", "CAREW", "CARESR", "NHSHCA", "FIRSTAID", "EYTA", "FOOD", "FSE", "FSM"] },
+  { key: "uk", emoji: "🪪", title: "Licences, trades & transport", description: "Driving and transport licences, site cards, security, trades and workplace safety.",
+    codes: ["DRIVE", "SALEARN", "HGV", "SERU", "ELEC18", "CITB", "SIA", "WAREHOUSE", "FIRE", "HSE"] },
 ];
 
 export const groupFor = (code: string) => TRACK_GROUPS.find((g) => g.codes.includes(code as TrackCode));
@@ -37,6 +39,7 @@ const ALIASES: Partial<Record<TrackCode, string>> = {
   ETEXIT: "ethiopia exit exam university graduate accounting computer science management economics", CSEE: "tanzania form four necta csee", UCE: "uganda senior four uneb uce o level",
   CMGCE: "cameroon gce o level anglophone",
   SALEARN: "south africa learners licence k53 driving", MATRIC: "south africa matric nsc grade 12", KCPA: "kenya cpa kasneb accounting icpak",
+  ELEC18: "electrician 18th edition bs 7671 wiring regulations 2382", EYTA: "teaching assistant nursery early years eyfs childcare school", WAREHOUSE: "warehouse forklift flt picker logistics", NHSHCA: "nhs healthcare assistant hca support worker hospital band 2 band 3",
   CARE: "care certificate care worker carer", CAREW: "care worker carer workforce essentials",
   CARESR: "senior carer care worker level 3 diploma medication mar cqc mental capacity", FIRSTAID: "first aid at work efaw cpr", SERU: "uber bolt private hire phv tfl london driver seru", HGV: "hgv lgv lorry truck driver cpc class 1 class 2 bus",
   JAMB: "utme university nigeria", WAEC: "ssce waec nigeria", NECO: "ssce nigeria", PUTME: "post utme university nigeria", WASSCE_GH: "ghana shs wassce",

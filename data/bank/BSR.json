@@ -1,0 +1,506 @@
+[
+ {
+  "subject": "BSR",
+  "topic": "General",
+  "body": "BS 7671:2018 (the 18th Edition) came into effect on",
+  "options": [
+   "1 January 2019",
+   "1 July 2018",
+   "1 January 2018",
+   "1 April 2020"
+  ],
+  "answer": 0,
+  "explanation": "Amendments have been issued since.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "General",
+  "body": "Which law places duties on people to prevent danger from electricity at work?",
+  "options": [
+   "Working Time Regulations 1998",
+   "COSHH Regulations 2002",
+   "Gas Safety Regulations 1998",
+   "Electricity at Work Regulations 1989"
+  ],
+  "answer": 3,
+  "explanation": "BS 7671 is a standard, not law, but complying with it helps meet these duties.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "General",
+  "body": "The nominal UK single-phase supply voltage is",
+  "options": [
+   "400 V",
+   "110 V",
+   "240 V",
+   "230 V"
+  ],
+  "answer": 3,
+  "explanation": "Three-phase line voltage is 400 V.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Earthing",
+  "body": "Which earthing system is commonly known as PME?",
+  "options": [
+   "TT",
+   "TN-S",
+   "IT",
+   "TN-C-S"
+  ],
+  "answer": 3,
+  "explanation": "The supply neutral and earth are combined in the supply cable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Earthing",
+  "body": "In a TT system, earth fault protection usually relies on",
+  "options": [
+   "the gas pipe",
+   "the installation's own earth electrode and an RCD",
+   "the supplier's cable sheath",
+   "a combined neutral and earth"
+  ],
+  "answer": 1,
+  "explanation": "The earth path through the ground has high impedance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Earthing",
+  "body": "The maximum Ze typically declared by DNOs for a TN-C-S supply is",
+  "options": [
+   "0.8 Ω",
+   "21 Ω",
+   "0.35 Ω",
+   "200 Ω"
+  ],
+  "answer": 2,
+  "explanation": "For TN-S it is typically 0.8 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Earthing",
+  "body": "Main protective bonding to gas and water pipes should be connected",
+  "options": [
+   "at the furthest point from the meter",
+   "as near as practicable to the point of entry, within 600 mm of the meter outlet where practicable",
+   "inside the consumer unit",
+   "only to plastic pipes"
+  ],
+  "answer": 1,
+  "explanation": "Use a suitable earth clamp with a warning label.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Protection",
+  "body": "Socket-outlets rated up to 32 A must generally have additional protection by an RCD of",
+  "options": [
+   "30 mA",
+   "5 mA",
+   "100 mA",
+   "300 mA"
+  ],
+  "answer": 0,
+  "explanation": "Exceptions are limited and must be documented.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Protection",
+  "body": "For TN systems, the maximum disconnection time for a 230 V final circuit up to 32 A is",
+  "options": [
+   "0.2 seconds",
+   "1 second",
+   "5 seconds",
+   "0.4 seconds"
+  ],
+  "answer": 3,
+  "explanation": "For TT systems it is 0.2 seconds.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Protection",
+  "body": "A 30 mA RCD tested at five times its rated current (150 mA) should trip within",
+  "options": [
+   "300 ms",
+   "40 ms",
+   "5 seconds",
+   "1 second"
+  ],
+  "answer": 1,
+  "explanation": "At its rated current it should trip within 300 ms.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Circuits",
+  "body": "A standard domestic ring final circuit uses 2.5 mm² cable protected by a device rated at",
+  "options": [
+   "6 A",
+   "32 A",
+   "45 A",
+   "16 A"
+  ],
+  "answer": 1,
+  "explanation": "It should serve a floor area of no more than 100 m².",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Circuits",
+  "body": "The recommended maximum floor area served by a 32 A ring final circuit is",
+  "options": [
+   "20 m²",
+   "200 m²",
+   "50 m²",
+   "100 m²"
+  ],
+  "answer": 3,
+  "explanation": "Use more circuits for larger areas.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Circuits",
+  "body": "Voltage drop from the origin should not exceed 3% for lighting and",
+  "options": [
+   "3% for other uses",
+   "5% for other uses",
+   "1% for other uses",
+   "10% for other uses"
+  ],
+  "answer": 1,
+  "explanation": "For 230 V that is 6.9 V and 11.5 V.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Cables",
+  "body": "In fixed wiring, the line conductor of a single-phase circuit is",
+  "options": [
+   "black",
+   "brown",
+   "red",
+   "blue"
+  ],
+  "answer": 1,
+  "explanation": "Neutral is blue; the protective conductor is green and yellow.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Cables",
+  "body": "The three line conductors in a three-phase circuit are coloured",
+  "options": [
+   "brown, blue and green",
+   "red, yellow and blue",
+   "black, white and red",
+   "brown, black and grey"
+  ],
+  "answer": 3,
+  "explanation": "The old red, yellow, blue colours are no longer used for new work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Locations",
+  "body": "In a bathroom, electrical equipment in zones 1 and 2 must be at least",
+  "options": [
+   "IPX4",
+   "IP2X",
+   "IPX0",
+   "IP20"
+  ],
+  "answer": 0,
+  "explanation": "Zone 0 equipment must be at least IPX7.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Locations",
+  "body": "Socket-outlets in a room containing a bath or shower must be at least how far from the boundary of zone 1?",
+  "options": [
+   "3 m",
+   "0.6 m",
+   "2 m",
+   "1 m"
+  ],
+  "answer": 0,
+  "explanation": "Shaver supply units are an exception.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Testing",
+  "body": "Which test is done first on a new installation?",
+  "options": [
+   "Functional testing",
+   "Continuity of protective conductors",
+   "RCD testing",
+   "Earth fault loop impedance"
+  ],
+  "answer": 1,
+  "explanation": "Dead tests come before live tests.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Testing",
+  "body": "Insulation resistance on 230 V circuits is tested at 500 V DC with a minimum acceptable value of",
+  "options": [
+   "2 Ω",
+   "0.5 MΩ",
+   "1 MΩ",
+   "100 MΩ"
+  ],
+  "answer": 2,
+  "explanation": "SELV/PELV circuits are tested at 250 V DC.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Testing",
+  "body": "Safe isolation is proved using",
+  "options": [
+   "the consumer unit labels",
+   "the back of your hand",
+   "a multimeter on the ohms range",
+   "an approved voltage indicator checked on a proving unit before and after testing"
+  ],
+  "answer": 3,
+  "explanation": "Test leads should meet HSE guidance GS38.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Certification",
+  "body": "On an EICR, observation code C1 means",
+  "options": [
+   "potentially dangerous — urgent action required",
+   "improvement recommended",
+   "further investigation required",
+   "danger present — immediate action required"
+  ],
+  "answer": 3,
+  "explanation": "C2 is potentially dangerous; C3 is improvement recommended; FI is further investigation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Certification",
+  "body": "Which certificate is used for adding a socket to an existing circuit?",
+  "options": [
+   "EICR",
+   "Minor Electrical Installation Works Certificate",
+   "Electrical Installation Certificate",
+   "Gas Safe certificate"
+  ],
+  "answer": 1,
+  "explanation": "A new circuit needs an Electrical Installation Certificate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Certification",
+  "body": "In England, private landlords must have the electrical installation inspected and tested at least every",
+  "options": [
+   "10 years",
+   "3 years",
+   "5 years",
+   "1 year"
+  ],
+  "answer": 2,
+  "explanation": "Under the 2020 Private Rented Sector regulations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Regulations",
+  "body": "In England, notifiable domestic electrical work falls under",
+  "options": [
+   "The Gas Safety Regulations",
+   "The Equality Act",
+   "Part L only",
+   "Part P of the Building Regulations"
+  ],
+  "answer": 3,
+  "explanation": "Examples include new circuits and consumer unit replacements.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BSR",
+  "topic": "Calculations",
+  "body": "A resistive load draws 4 A from 230 V. What is its resistance? (R = V ÷ I)",
+  "options": [
+   "63.5 Ω",
+   "920 Ω",
+   "57.5 Ω",
+   "100 Ω"
+  ],
+  "answer": 2,
+  "explanation": "230 ÷ 4 = 57.5 Ω.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BSR",
+  "topic": "Calculations",
+  "body": "A 920 W heater runs on 230 V. What current does it draw? (I = P ÷ V)",
+  "options": [
+   "0.25 A",
+   "4 A",
+   "2.3 A",
+   "211.6 A"
+  ],
+  "answer": 1,
+  "explanation": "920 ÷ 230 = 4 A.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BSR",
+  "topic": "Calculations",
+  "body": "A resistive load draws 5 A from 230 V. What is its resistance? (R = V ÷ I)",
+  "options": [
+   "51 Ω",
+   "46 Ω",
+   "80 Ω",
+   "1150 Ω"
+  ],
+  "answer": 1,
+  "explanation": "230 ÷ 5 = 46 Ω.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BSR",
+  "topic": "Calculations",
+  "body": "A resistive load draws 10 A from 230 V. What is its resistance? (R = V ÷ I)",
+  "options": [
+   "40 Ω",
+   "23 Ω",
+   "25 Ω",
+   "2300 Ω"
+  ],
+  "answer": 1,
+  "explanation": "230 ÷ 10 = 23 Ω.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BSR",
+  "topic": "Calculations",
+  "body": "A load draws 4 A at 230 V. What is its power? (P = V × I)",
+  "options": [
+   "3680 W",
+   "920 W",
+   "57.5 W",
+   "1600 W"
+  ],
+  "answer": 1,
+  "explanation": "230 × 4 = 920 W.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BSR",
+  "topic": "Calculations",
+  "body": "A resistive load draws 2 A from 230 V. What is its resistance? (R = V ÷ I)",
+  "options": [
+   "115 Ω",
+   "200 Ω",
+   "127 Ω",
+   "460 Ω"
+  ],
+  "answer": 0,
+  "explanation": "230 ÷ 2 = 115 Ω.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BSR",
+  "topic": "Calculations",
+  "body": "A load draws 20 A at 230 V. What is its power? (P = V × I)",
+  "options": [
+   "8000 W",
+   "11.5 W",
+   "92,000 W",
+   "4600 W"
+  ],
+  "answer": 3,
+  "explanation": "230 × 20 = 4600 W.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BSR",
+  "topic": "Calculations",
+  "body": "A load draws 13 A at 230 V. What is its power? (P = V × I)",
+  "options": [
+   "38,870 W",
+   "17.7 W",
+   "2990 W",
+   "5200 W"
+  ],
+  "answer": 2,
+  "explanation": "230 × 13 = 2990 W.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BSR",
+  "topic": "Calculations",
+  "body": "A load draws 10 A at 230 V. What is its power? (P = V × I)",
+  "options": [
+   "23,000 W",
+   "2300 W",
+   "4000 W",
+   "23 W"
+  ],
+  "answer": 1,
+  "explanation": "230 × 10 = 2300 W.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BSR",
+  "topic": "Calculations",
+  "body": "A 2300 W heater runs on 230 V. What current does it draw? (I = P ÷ V)",
+  "options": [
+   "529 A",
+   "5.75 A",
+   "10 A",
+   "0.1 A"
+  ],
+  "answer": 2,
+  "explanation": "2300 ÷ 230 = 10 A.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BSR",
+  "topic": "Calculations",
+  "body": "On a 230 V supply, what is the maximum voltage drop allowed for a power (non-lighting) circuit (5%)?",
+  "options": [
+   "20 V",
+   "6.9 V",
+   "5 V",
+   "11.5 V"
+  ],
+  "answer": 3,
+  "explanation": "5% of 230 V = 11.5 V.",
+  "difficulty": 1
+ },
+ {
+  "subject": "BSR",
+  "topic": "Calculations",
+  "body": "On a 230 V supply, what is the maximum voltage drop allowed for a lighting circuit (3%)?",
+  "options": [
+   "3 V",
+   "11.5 V",
+   "12 V",
+   "6.9 V"
+  ],
+  "answer": 3,
+  "explanation": "3% of 230 V = 6.9 V.",
+  "difficulty": 1
+ }
+]

@@ -2,7 +2,7 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV" | "ELEC18" | "EYTA" | "WAREHOUSE" | "NHSHCA";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
 export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi" | "Asia/Manila" | "Africa/Johannesburg";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
@@ -742,6 +742,34 @@ export const TRACKS: Record<TrackCode, Track> = {
     mock: { total: 30, minutes: 40, passPct: 80, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
     plans: ["hgv_pass"], tagline: "HGV/LGV theory and Driver CPC: drivers' hours, licence categories, speed limits, brakes and safety", timeZone: "Europe/London",
     audience: "someone training as an HGV/LGV or bus driver in the UK, preparing for the theory test and Driver CPC",
+  },
+  ELEC18: {
+    code: "ELEC18", name: "18th Edition wiring regulations (BS 7671)", short: "18th Edition", emoji: "⚡", kind: "professional", region: "UK", currency: "GBP",
+    subjectMode: "single", subjects: ["BSR"], compulsory: ["BSR"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 30, minutes: 60, passPct: 60, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["elec_pass"], tagline: "18th Edition (BS 7671) practice: earthing, protection, circuits, special locations, testing and certification", timeZone: "Europe/London",
+    audience: "a UK electrician or electrical trainee preparing for the 18th Edition (BS 7671) wiring regulations exam",
+  },
+  EYTA: {
+    code: "EYTA", name: "Teaching assistant & Early Years (Level 3)", short: "Teaching assistant", emoji: "🧸", kind: "professional", region: "UK", currency: "GBP",
+    subjectMode: "single", subjects: ["EYT"], compulsory: ["EYT"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 25, minutes: 30, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["eyta_pass"], tagline: "Teaching assistant and nursery practice: EYFS, safeguarding, SEND, phonics and child development", timeZone: "Europe/London",
+    audience: "someone working or training as a teaching assistant or early years practitioner in England (Level 3)",
+  },
+  WAREHOUSE: {
+    code: "WAREHOUSE", name: "Warehouse & forklift (theory)", short: "Warehouse & forklift", emoji: "📦", kind: "professional", region: "UK", currency: "GBP",
+    subjectMode: "single", subjects: ["WHF"], compulsory: ["WHF"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 20, minutes: 20, passPct: 80, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["warehouse_pass"], tagline: "Warehouse and forklift theory: LOLER, manual handling, safe truck operation, racking and stock control", timeZone: "Europe/London",
+    audience: "someone starting warehouse or forklift work in the UK",
+  },
+  NHSHCA: {
+    code: "NHSHCA", name: "NHS healthcare assistant (role & interview)", short: "NHS healthcare assistant", emoji: "🏥", kind: "professional", region: "UK", currency: "GBP",
+    subjectMode: "single", subjects: ["HCA"], compulsory: ["HCA"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 20, minutes: 25, passPct: 80, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["hca_pass", "hca_pass_ngn"], tagline: "Get ready for NHS healthcare assistant jobs: values, observations, infection control and interview answers", timeZone: "Europe/London",
+    audience: "someone applying for or starting an NHS healthcare assistant (HCA) role, often recently arrived in the UK",
   },
   ETEXIT: {
     code: "ETEXIT", name: "Ethiopia University Exit Exam", short: "Exit Exam Ethiopia", emoji: "🎓", kind: "professional", region: "ET", currency: "USD",

@@ -1,0 +1,226 @@
+[
+ {
+  "subject": "HCA",
+  "topic": "Values",
+  "body": "The '6Cs' of nursing and care are care, compassion, competence, communication, courage and",
+  "options": [
+   "control",
+   "commitment",
+   "cleanliness",
+   "cost"
+  ],
+  "answer": 1,
+  "explanation": "They underpin NHS care values.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HCA",
+  "topic": "Values",
+  "body": "Which is one of the NHS Constitution's values?",
+  "options": [
+   "Respect and dignity",
+   "Speed over safety",
+   "Profit first",
+   "Seniority"
+  ],
+  "answer": 0,
+  "explanation": "Others include compassion and 'everyone counts'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HCA",
+  "topic": "Interview",
+  "body": "The STAR method for interview answers stands for",
+  "options": [
+   "Skill, Training, Attitude, Role",
+   "Start, Think, Answer, Review",
+   "Situation, Task, Action, Result",
+   "Safety, Team, Action, Reflection"
+  ],
+  "answer": 2,
+  "explanation": "Use real examples from work, study or volunteering.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HCA",
+  "topic": "Observations",
+  "body": "A normal resting heart rate for an adult is about",
+  "options": [
+   "20–40 beats per minute",
+   "200 beats per minute",
+   "120–160 beats per minute",
+   "60–100 beats per minute"
+  ],
+  "answer": 3,
+  "explanation": "Report readings outside the normal range.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HCA",
+  "topic": "Observations",
+  "body": "A normal adult respiratory rate is about",
+  "options": [
+   "30–40 breaths per minute",
+   "60 breaths per minute",
+   "12–20 breaths per minute",
+   "4–8 breaths per minute"
+  ],
+  "answer": 2,
+  "explanation": "Rapid breathing can be an early warning sign.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HCA",
+  "topic": "Observations",
+  "body": "For most adults, the target oxygen saturation (SpO₂) is",
+  "options": [
+   "94–98%",
+   "80–85%",
+   "50–60%",
+   "100% always"
+  ],
+  "answer": 0,
+  "explanation": "Some people with COPD have a lower target of 88–92%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HCA",
+  "topic": "Observations",
+  "body": "NEWS2 scores are used to",
+  "options": [
+   "book appointments",
+   "detect deterioration and decide when to escalate",
+   "plan meals",
+   "measure staff performance"
+  ],
+  "answer": 1,
+  "explanation": "A higher score needs a more urgent response.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HCA",
+  "topic": "Infection control",
+  "body": "How many 'moments for hand hygiene' does the WHO describe?",
+  "options": [
+   "5",
+   "1",
+   "10",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "Before and after touching a patient are two of them.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HCA",
+  "topic": "Infection control",
+  "body": "'Bare below the elbows' means",
+  "options": [
+   "no uniform",
+   "rolled-up trousers",
+   "no gloves ever",
+   "short sleeves, no wrist watches or jewellery except a plain band"
+  ],
+  "answer": 3,
+  "explanation": "It allows effective hand washing.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HCA",
+  "topic": "Infection control",
+  "body": "After use, needles should be",
+  "options": [
+   "disposed of straight into a sharps bin without re-sheathing",
+   "re-sheathed by hand",
+   "put in a general waste bag",
+   "left on the tray"
+  ],
+  "answer": 0,
+  "explanation": "Never overfill a sharps bin.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HCA",
+  "topic": "Nutrition",
+  "body": "The MUST tool is used to screen for",
+  "options": [
+   "malnutrition",
+   "falls risk",
+   "pain",
+   "dementia"
+  ],
+  "answer": 0,
+  "explanation": "Malnutrition Universal Screening Tool.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HCA",
+  "topic": "Continence",
+  "body": "The Bristol Stool Chart classifies stools into how many types?",
+  "options": [
+   "5",
+   "10",
+   "7",
+   "3"
+  ],
+  "answer": 2,
+  "explanation": "Types 1–2 suggest constipation; 6–7 diarrhoea.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HCA",
+  "topic": "Skin",
+  "body": "Pressure ulcers are graded in categories from",
+  "options": [
+   "mild or severe only",
+   "A to Z",
+   "1 to 10",
+   "1 to 4 (plus unstageable and deep tissue injury)"
+  ],
+  "answer": 3,
+  "explanation": "Category 1 is non-blanching redness of intact skin.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HCA",
+  "topic": "Confidentiality",
+  "body": "The Caldicott principles guide",
+  "options": [
+   "drug doses",
+   "the use and sharing of confidential patient information",
+   "staff uniforms",
+   "car parking"
+  ],
+  "answer": 1,
+  "explanation": "Every NHS organisation has a Caldicott Guardian.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HCA",
+  "topic": "Role",
+  "body": "New healthcare assistants in England are expected to complete",
+  "options": [
+   "a driving test",
+   "a nursing degree first",
+   "the Care Certificate",
+   "no training"
+  ],
+  "answer": 2,
+  "explanation": "It sets out 15 standards for health and care support workers.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HCA",
+  "topic": "Role",
+  "body": "Most NHS healthcare assistant posts are paid on Agenda for Change",
+  "options": [
+   "Band 8a",
+   "Band 7",
+   "Band 2 or 3",
+   "Band 9"
+  ],
+  "answer": 2,
+  "explanation": "Senior HCAs are often Band 3.",
+  "difficulty": 1
+ }
+]

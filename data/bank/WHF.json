@@ -1,0 +1,240 @@
+[
+ {
+  "subject": "WHF",
+  "topic": "Law",
+  "body": "Which regulations cover lifting equipment such as forklifts, including thorough examinations?",
+  "options": [
+   "COSHH 2002",
+   "RIDDOR 2013",
+   "LOLER 1998",
+   "Working Time Regulations 1998"
+  ],
+  "answer": 2,
+  "explanation": "PUWER 1998 also applies to all work equipment.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WHF",
+  "topic": "Law",
+  "body": "Under LOLER, a forklift truck that does not lift people must have a thorough examination at least every",
+  "options": [
+   "1 month",
+   "5 years",
+   "12 months",
+   "never"
+  ],
+  "answer": 2,
+  "explanation": "Equipment for lifting people, and lifting accessories, need examining every 6 months.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WHF",
+  "topic": "Law",
+  "body": "Which HSE Approved Code of Practice covers training for rider-operated lift trucks?",
+  "options": [
+   "L117",
+   "L8",
+   "GS38",
+   "HSG65"
+  ],
+  "answer": 0,
+  "explanation": "It sets out basic, specific and familiarisation training.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WHF",
+  "topic": "Manual handling",
+  "body": "Under the Manual Handling Operations Regulations 1992, the first step is to",
+  "options": [
+   "work alone",
+   "wear gloves",
+   "avoid hazardous manual handling where reasonably practicable",
+   "lift faster"
+  ],
+  "answer": 2,
+  "explanation": "Then assess unavoidable tasks and reduce the risk.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WHF",
+  "topic": "Manual handling",
+  "body": "The TILE(O) approach to manual handling assessment stands for",
+  "options": [
+   "Time, Item, Lift, Effort",
+   "Training, Inspection, Lifting, Emergencies",
+   "Truck, Inventory, Labour, Equipment",
+   "Task, Individual, Load, Environment (Other factors)"
+  ],
+  "answer": 3,
+  "explanation": "Each factor is assessed for risk.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WHF",
+  "topic": "Forklift",
+  "body": "Where can you find a forklift's maximum rated capacity?",
+  "options": [
+   "On the fuel tank",
+   "On the truck's data (capacity) plate",
+   "On the tyres",
+   "In the canteen"
+  ],
+  "answer": 1,
+  "explanation": "Capacity falls as the load centre or lift height increases.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WHF",
+  "topic": "Forklift",
+  "body": "When travelling with a load, the forks should be",
+  "options": [
+   "raised high for visibility",
+   "lowered close to the ground and tilted back",
+   "tilted forward",
+   "fully extended sideways"
+  ],
+  "answer": 1,
+  "explanation": "This keeps the centre of gravity low.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WHF",
+  "topic": "Forklift",
+  "body": "When driving a loaded counterbalance truck on a slope, the load should face",
+  "options": [
+   "downhill",
+   "sideways",
+   "it doesn't matter",
+   "uphill"
+  ],
+  "answer": 3,
+  "explanation": "Never turn on a slope.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WHF",
+  "topic": "Forklift",
+  "body": "If a counterbalance truck starts to tip over sideways, the operator should",
+  "options": [
+   "lean towards the fall",
+   "raise the forks",
+   "jump out",
+   "stay in the seat with the seatbelt on, hold the wheel, brace and lean away from the fall"
+  ],
+  "answer": 3,
+  "explanation": "Jumping out often leads to being crushed.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WHF",
+  "topic": "Forklift",
+  "body": "Carrying passengers on a forklift is",
+  "options": [
+   "allowed on the forks",
+   "allowed for short distances",
+   "allowed for supervisors",
+   "not allowed unless the truck is designed for it"
+  ],
+  "answer": 3,
+  "explanation": "Never use the forks as a work platform.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WHF",
+  "topic": "Forklift",
+  "body": "Before using a forklift each shift, the operator should",
+  "options": [
+   "carry out and record pre-use checks",
+   "ask a pedestrian to test it",
+   "skip checks if the truck was used yesterday",
+   "only check the fuel"
+  ],
+  "answer": 0,
+  "explanation": "Report defects and do not use an unsafe truck.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WHF",
+  "topic": "Forklift",
+  "body": "Forklift battery charging areas must be well ventilated because charging can release",
+  "options": [
+   "hydrogen gas",
+   "carbon monoxide",
+   "chlorine",
+   "oxygen"
+  ],
+  "answer": 0,
+  "explanation": "Hydrogen is highly flammable.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WHF",
+  "topic": "Storage",
+  "body": "Pallet racking should be inspected by a technically competent person at least",
+  "options": [
+   "never",
+   "every 12 months",
+   "every 10 years",
+   "only after a collision"
+  ],
+  "answer": 1,
+  "explanation": "Staff should also report damage daily.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WHF",
+  "topic": "Storage",
+  "body": "In racking damage assessment, 'red' damage means",
+  "options": [
+   "repair within 4 weeks",
+   "off-load immediately and isolate until repaired",
+   "no action needed",
+   "monitor only"
+  ],
+  "answer": 1,
+  "explanation": "Amber means hazardous but can be off-loaded and repaired soon.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WHF",
+  "topic": "Operations",
+  "body": "FIFO stock rotation means",
+  "options": [
+   "final inventory, final order",
+   "fast in, fast out",
+   "first in, first out",
+   "full items first out"
+  ],
+  "answer": 2,
+  "explanation": "Older stock is used before newer stock.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WHF",
+  "topic": "Operations",
+  "body": "The usual order of warehouse operations is",
+  "options": [
+   "goods-in, put-away, picking, packing, despatch",
+   "packing, picking, goods-in, despatch",
+   "despatch, goods-in, picking",
+   "put-away, despatch, goods-in"
+  ],
+  "answer": 0,
+  "explanation": "A WMS tracks stock through each stage.",
+  "difficulty": 1
+ },
+ {
+  "subject": "WHF",
+  "topic": "Safety",
+  "body": "In a warehouse, pedestrians and vehicles should be",
+  "options": [
+   "allowed to cross anywhere",
+   "separated with marked walkways and barriers wherever possible",
+   "kept in the same lanes",
+   "mixed freely"
+  ],
+  "answer": 1,
+  "explanation": "Segregation is a key control in HSE guidance.",
+  "difficulty": 1
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "subject": "EYT",
+  "topic": "EYFS",
+  "body": "The Early Years Foundation Stage (EYFS) covers children from",
+  "options": [
+   "birth to 3 years",
+   "3 to 7 years",
+   "birth to 5 years",
+   "5 to 11 years"
+  ],
+  "answer": 2,
+  "explanation": "It sets standards for learning, development and care.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EYT",
+  "topic": "EYFS",
+  "body": "Which is one of the three prime areas of learning in the EYFS?",
+  "options": [
+   "Literacy",
+   "Understanding the world",
+   "Mathematics",
+   "Communication and language"
+  ],
+  "answer": 3,
+  "explanation": "The others are physical development and personal, social and emotional development.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EYT",
+  "topic": "EYFS",
+  "body": "Which is one of the four specific areas of learning in the EYFS?",
+  "options": [
+   "Communication and language",
+   "Physical development",
+   "Personal, social and emotional development",
+   "Expressive arts and design"
+  ],
+  "answer": 3,
+  "explanation": "The others are literacy, mathematics and understanding the world.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EYT",
+  "topic": "EYFS",
+  "body": "In group settings in England, the staff-to-child ratio for children under 2 is",
+  "options": [
+   "1:13",
+   "1:8",
+   "1:5",
+   "1:3"
+  ],
+  "answer": 3,
+  "explanation": "For 2-year-olds it is 1:5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EYT",
+  "topic": "EYFS",
+  "body": "The EYFS requires at least one person on the premises with a",
+  "options": [
+   "teaching degree",
+   "food hygiene certificate only",
+   "driving licence",
+   "paediatric first aid certificate"
+  ],
+  "answer": 3,
+  "explanation": "And on outings.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EYT",
+  "topic": "Safeguarding",
+  "body": "What is the statutory safeguarding guidance for schools and colleges in England?",
+  "options": [
+   "Keeping Children Safe in Education (KCSIE)",
+   "The Highway Code",
+   "Ofsted handbook only",
+   "The Care Certificate"
+  ],
+  "answer": 0,
+  "explanation": "All staff must read at least Part One.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EYT",
+  "topic": "Safeguarding",
+  "body": "If a child tells you they are being abused, you should",
+  "options": [
+   "promise to keep it secret",
+   "investigate yourself",
+   "ask leading questions",
+   "listen, not promise to keep it secret, and report to the Designated Safeguarding Lead straight away"
+  ],
+  "answer": 3,
+  "explanation": "Record what was said in the child's own words.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EYT",
+  "topic": "Safeguarding",
+  "body": "Allegations that a member of staff may have harmed a child are referred to the",
+  "options": [
+   "school governors only",
+   "CQC",
+   "child's classmates",
+   "LADO (Local Authority Designated Officer)"
+  ],
+  "answer": 3,
+  "explanation": "Follow the school's allegations procedure.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EYT",
+  "topic": "Safeguarding",
+  "body": "The Prevent duty is about",
+  "options": [
+   "preventing illness",
+   "protecting people from being drawn into terrorism",
+   "preventing absence",
+   "preventing bullying only"
+  ],
+  "answer": 1,
+  "explanation": "Concerns go to the DSL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EYT",
+  "topic": "SEND",
+  "body": "Who coordinates special educational needs provision in a school?",
+  "options": [
+   "The SENCO",
+   "The caretaker",
+   "The bursar",
+   "The PE teacher"
+  ],
+  "answer": 0,
+  "explanation": "Special Educational Needs Coordinator.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EYT",
+  "topic": "SEND",
+  "body": "The SEND Code of Practice's graduated approach follows the cycle",
+  "options": [
+   "observe, report, punish, reward",
+   "assess, plan, do, review",
+   "plan, teach, test, mark",
+   "identify, label, exclude, refer"
+  ],
+  "answer": 1,
+  "explanation": "It keeps support under regular review.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EYT",
+  "topic": "SEND",
+  "body": "A legal document setting out a child's special educational needs and the support they must get is an",
+  "options": [
+   "Education, Health and Care (EHC) plan",
+   "attendance report",
+   "IEP only",
+   "school report"
+  ],
+  "answer": 0,
+  "explanation": "EHC plans cover ages 0–25.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EYT",
+  "topic": "Curriculum",
+  "body": "In England, Key Stage 1 covers",
+  "options": [
+   "Years 1 and 2 (ages 5–7)",
+   "Years 7 to 9",
+   "Reception only",
+   "Years 3 to 6"
+  ],
+  "answer": 0,
+  "explanation": "Key Stage 2 is Years 3 to 6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EYT",
+  "topic": "Curriculum",
+  "body": "The phonics screening check is taken in",
+  "options": [
+   "Reception",
+   "Year 6",
+   "Year 1",
+   "Year 4"
+  ],
+  "answer": 2,
+  "explanation": "Children who do not meet the standard retake it in Year 2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EYT",
+  "topic": "Curriculum",
+  "body": "In phonics, a grapheme is",
+  "options": [
+   "a letter or group of letters representing a sound",
+   "a type of sentence",
+   "a whole word",
+   "a single sound"
+  ],
+  "answer": 0,
+  "explanation": "A phoneme is the sound itself.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EYT",
+  "topic": "Development",
+  "body": "In Piaget's theory, the pre-operational stage covers roughly ages",
+  "options": [
+   "2 to 7",
+   "7 to 11",
+   "11 and over",
+   "0 to 2"
+  ],
+  "answer": 0,
+  "explanation": "It is followed by the concrete operational stage.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EYT",
+  "topic": "Development",
+  "body": "Vygotsky's 'zone of proximal development' is",
+  "options": [
+   "what a child can do with help but not yet alone",
+   "what a child can never learn",
+   "a classroom layout",
+   "a behaviour sanction"
+  ],
+  "answer": 0,
+  "explanation": "Adults support learning through scaffolding.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EYT",
+  "topic": "Development",
+  "body": "Bowlby is best known for his theory of",
+  "options": [
+   "attachment",
+   "phonics",
+   "multiple intelligences",
+   "operant conditioning"
+  ],
+  "answer": 0,
+  "explanation": "Secure attachment supports emotional development.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EYT",
+  "topic": "Inspection",
+  "body": "Which body inspects schools and early years settings in England?",
+  "options": [
+   "HSE",
+   "CQC",
+   "the DBS",
+   "Ofsted"
+  ],
+  "answer": 3,
+  "explanation": "The CQC inspects health and adult social care.",
+  "difficulty": 1
+ },
+ {
+  "subject": "EYT",
+  "topic": "Role",
+  "body": "A teaching assistant who works closely with children needs which check?",
+  "options": [
+   "A credit check",
+   "No check",
+   "A driving licence check",
+   "An enhanced DBS check (with barred list check for regulated activity)"
+  ],
+  "answer": 3,
+  "explanation": "Schools also check right to work and references.",
+  "difficulty": 1
+ }
+]
