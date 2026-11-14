@@ -390,5 +390,173 @@
   "answer": 1,
   "explanation": "It must spread and seep into openings.",
   "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Types",
+  "body": "Type I penetrants are",
+  "options": [
+   "dual-mode only",
+   "fluorescent",
+   "visible (colour contrast)",
+   "magnetic"
+  ],
+  "answer": 1,
+  "explanation": "Type II penetrants are visible (usually red).",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Types",
+  "body": "In penetrant classification, Method C is",
+  "options": [
+   "post-emulsifiable lipophilic",
+   "water-washable",
+   "post-emulsifiable hydrophilic",
+   "solvent-removable"
+  ],
+  "answer": 3,
+  "explanation": "Method A is water-washable; B is lipophilic; D is hydrophilic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Types",
+  "body": "Method A penetrant is",
+  "options": [
+   "dry powder",
+   "solvent-removable",
+   "water-washable",
+   "post-emulsifiable"
+  ],
+  "answer": 2,
+  "explanation": "It contains its own emulsifier.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Cleaning",
+  "body": "Why should abrasive blasting generally be avoided immediately before PT?",
+  "options": [
+   "It changes the penetrant colour",
+   "It magnetises the part",
+   "It makes the surface too clean",
+   "It can smear metal over cracks and close them"
+  ],
+  "answer": 3,
+  "explanation": "Chemical cleaning or etching is preferred.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Cleaning",
+  "body": "Vapour degreasing and solvent cleaning before PT are used to remove",
+  "options": [
+   "magnetism",
+   "the base metal",
+   "fluorescence",
+   "oils and greases"
+  ],
+  "answer": 3,
+  "explanation": "Contaminants stop penetrant entering defects.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Cleaning",
+  "body": "After solvent pre-cleaning, the surface must be",
+  "options": [
+   "painted",
+   "completely dry before applying penetrant",
+   "heated above 100 °C",
+   "still wet with solvent"
+  ],
+  "answer": 1,
+  "explanation": "Solvent in defects dilutes or blocks penetrant.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Process",
+  "body": "Low part temperatures generally require",
+  "options": [
+   "no developer",
+   "a longer penetrant dwell time",
+   "a shorter dwell time",
+   "fluorescent light only"
+  ],
+  "answer": 1,
+  "explanation": "Penetrant becomes more viscous when cold.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Process",
+  "body": "When removing solvent-removable penetrant, the solvent should be",
+  "options": [
+   "poured into the defect",
+   "applied to a cloth, not sprayed directly on the surface",
+   "sprayed heavily onto the part",
+   "skipped entirely"
+  ],
+  "answer": 1,
+  "explanation": "Direct spraying washes penetrant out of defects.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Process",
+  "body": "Once a part has been tested with visible penetrant, it should not be retested with",
+  "options": [
+   "the same visible penetrant",
+   "fluorescent penetrant",
+   "a cleaner",
+   "a developer"
+  ],
+  "answer": 1,
+  "explanation": "Visible dye residues can quench fluorescence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Process",
+  "body": "Mercury-vapour UV-A lamps generally need",
+  "options": [
+   "no warm-up at all",
+   "to be cooled in water",
+   "a warm-up period before use",
+   "to be used without filters"
+  ],
+  "answer": 2,
+  "explanation": "LED UV lamps reach full output much faster.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Interpretation",
+  "body": "If an indication is unclear, the inspector can",
+  "options": [
+   "ignore it",
+   "magnetise the part",
+   "wipe the area with a solvent-dampened swab and watch whether it bleeds out again",
+   "paint over it"
+  ],
+  "answer": 2,
+  "explanation": "Real discontinuities usually bleed out again.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NPT",
+  "topic": "Applications",
+  "body": "Penetrant testing can be used for leak detection by",
+  "options": [
+   "magnetising it",
+   "X-raying the part",
+   "measuring its hardness",
+   "applying penetrant to one side and developer to the other"
+  ],
+  "answer": 3,
+  "explanation": "Penetrant passes through the through-wall leak path.",
+  "difficulty": 2
  }
 ]

@@ -390,5 +390,173 @@
   "answer": 1,
   "explanation": "Damaged filters let through harmful short-wave UV.",
   "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Technique",
+  "body": "To inspect the inside surface of a tube for longitudinal cracks, use",
+  "options": [
+   "a coil around the outside",
+   "a yoke on the outside only",
+   "a central conductor (threader bar) to create a circular field",
+   "no magnetisation"
+  ],
+  "answer": 2,
+  "explanation": "The circular field crosses longitudinal cracks on the bore.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Technique",
+  "body": "Placing a part inside an energised coil produces",
+  "options": [
+   "no field",
+   "a longitudinal field",
+   "an X-ray",
+   "a circular field"
+  ],
+  "answer": 1,
+  "explanation": "Longitudinal fields find transverse cracks.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Technique",
+  "body": "Half-wave rectified DC is often used with dry powder because it",
+  "options": [
+   "finds only surface cracks",
+   "improves detection of slightly subsurface defects and helps particle mobility",
+   "demagnetises the part",
+   "needs no power"
+  ],
+  "answer": 1,
+  "explanation": "The pulsing current agitates the powder.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Technique",
+  "body": "Wet MT particles are suspended in",
+  "options": [
+   "seawater",
+   "water with conditioners or a light petroleum distillate",
+   "crude oil",
+   "paint thinner with pigment"
+  ],
+  "answer": 1,
+  "explanation": "Conditioners help wetting and prevent corrosion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Technique",
+  "body": "An MT yoke's lifting power should be checked",
+  "options": [
+   "never",
+   "only when it is new",
+   "before use, at the frequency set by the procedure",
+   "after the inspection is complete only"
+  ],
+  "answer": 2,
+  "explanation": "It confirms the yoke can produce an adequate field.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Technique",
+  "body": "Head shots and prods are examples of",
+  "options": [
+   "radiographic techniques",
+   "demagnetisation",
+   "indirect magnetisation",
+   "direct magnetisation (current through the part)"
+  ],
+  "answer": 3,
+  "explanation": "Coils and yokes give indirect magnetisation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Particles",
+  "body": "A mix of elongated and spherical dry particles is used because",
+  "options": [
+   "elongated particles align with leakage fields and spherical ones flow easily",
+   "it reduces magnetism",
+   "it looks better",
+   "it is cheaper"
+  ],
+  "answer": 0,
+  "explanation": "Both shape and size affect sensitivity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Particles",
+  "body": "Before using a wet fluorescent bath, it should also be checked for",
+  "options": [
+   "radioactivity",
+   "hardness",
+   "salt content only",
+   "contamination and loss of fluorescence"
+  ],
+  "answer": 3,
+  "explanation": "Compare against a reference standard.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Related methods",
+  "body": "Magnetic flux leakage (MFL) is widely used to scan",
+  "options": [
+   "concrete walls",
+   "plastic pipes",
+   "storage tank floors and pipelines for corrosion",
+   "wooden structures"
+  ],
+  "answer": 2,
+  "explanation": "MFL uses the same leakage principle without particles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Interpretation",
+  "body": "Indications at a sharp change of section that do not correspond to a discontinuity are",
+  "options": [
+   "non-relevant indications",
+   "always laminations",
+   "false indications from dirt",
+   "rejectable cracks"
+  ],
+  "answer": 0,
+  "explanation": "Geometry concentrates the field.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Interpretation",
+  "body": "Subsurface defect indications in MT tend to look",
+  "options": [
+   "sharp and crisp",
+   "bright red under white light only",
+   "invisible under all conditions",
+   "broad and fuzzy"
+  ],
+  "answer": 3,
+  "explanation": "Surface cracks give sharp, well-defined lines.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NMT",
+  "topic": "Demagnetising",
+  "body": "Demagnetising with AC through a coil works best when the part is",
+  "options": [
+   "heated to 100 °C",
+   "painted first",
+   "withdrawn slowly from the coil while current flows",
+   "left still inside with current off"
+  ],
+  "answer": 2,
+  "explanation": "The field reverses and gradually weakens.",
+  "difficulty": 2
  }
 ]

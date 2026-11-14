@@ -1146,5 +1146,873 @@
   "answer": 3,
   "explanation": "1.3 × 300 × 1.07 = 417.3 psi.",
   "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Design",
+  "body": "For a Type 1 butt joint with full radiography under ASME VIII Div. 1, the joint efficiency E is",
+  "options": [
+   "0.60",
+   "1.0",
+   "0.85",
+   "0.70"
+  ],
+  "answer": 1,
+  "explanation": "Spot radiography gives 0.85; no radiography gives 0.70.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Design",
+  "body": "For a Type 1 butt joint with spot radiography, E is",
+  "options": [
+   "1.0",
+   "0.70",
+   "0.50",
+   "0.85"
+  ],
+  "answer": 3,
+  "explanation": "Full RT gives 1.0; no RT gives 0.70.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Design",
+  "body": "For a Type 1 butt joint with no radiography, E is",
+  "options": [
+   "0.90",
+   "1.0",
+   "0.70",
+   "0.85"
+  ],
+  "answer": 2,
+  "explanation": "Less examination means a lower allowed stress.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Design",
+  "body": "The ASME VIII Div. 1 formula t = PR ÷ (2SE + 0.4P) is for",
+  "options": [
+   "nozzle reinforcement",
+   "a hemispherical head",
+   "circumferential stress (longitudinal joints)",
+   "longitudinal stress (circumferential joints) in a cylindrical shell"
+  ],
+  "answer": 3,
+  "explanation": "Circumferential stress, t = PR ÷ (SE − 0.6P), usually governs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Design",
+  "body": "For a 2:1 ellipsoidal head, ASME VIII Div. 1 required thickness is",
+  "options": [
+   "t = PD ÷ 2(SE + PY)",
+   "t = PD ÷ (2SE − 0.2P)",
+   "t = PL ÷ (2SE − 0.2P)",
+   "t = PR ÷ (SE − 0.6P)"
+  ],
+  "answer": 1,
+  "explanation": "PL ÷ (2SE − 0.2P) is for a hemispherical head.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Testing",
+  "body": "Under ASME VIII Div. 1, a pneumatic test pressure is",
+  "options": [
+   "1.1 × MAWP × stress ratio",
+   "1.3 × MAWP × stress ratio",
+   "1.5 × MAWP",
+   "2 × MAWP"
+  ],
+  "answer": 0,
+  "explanation": "Pneumatic tests store much more energy than hydrotests.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Corrosion rates",
+  "body": "The short-term corrosion rate is calculated from",
+  "options": [
+   "the hydrotest pressure",
+   "the nominal thickness only",
+   "the two most recent thickness readings",
+   "the original and latest readings"
+  ],
+  "answer": 2,
+  "explanation": "The long-term rate uses the initial (or earliest) and latest readings.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Corrosion rates",
+  "body": "The long-term corrosion rate is calculated from",
+  "options": [
+   "the initial (or earliest) and most recent thickness readings",
+   "the hydrotest results",
+   "the two most recent readings",
+   "the design pressure"
+  ],
+  "answer": 0,
+  "explanation": "The inspector selects the rate that best reflects current conditions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Intervals",
+  "body": "Under API 510, on-stream inspection may replace an internal inspection when, among other conditions, the general corrosion rate is below",
+  "options": [
+   "any rate if the vessel is painted",
+   "5 mm/yr",
+   "0.125 mm/yr (0.005 in/yr) and remaining life exceeds 10 years",
+   "1 mm/yr and remaining life exceeds 1 year"
+  ],
+  "answer": 2,
+  "explanation": "Other conditions include no stress cracking and no lining.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Intervals",
+  "body": "Under API 510, pressure relief devices in typical process service should be tested at intervals not exceeding",
+  "options": [
+   "1 year",
+   "5 years",
+   "15 years",
+   "20 years"
+  ],
+  "answer": 1,
+  "explanation": "Up to 10 years for clean, non-fouling, non-corrosive service.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Intervals",
+  "body": "Under API 510, PRDs in clean, non-fouling, non-corrosive service may go up to",
+  "options": [
+   "20 years",
+   "5 years",
+   "2 years",
+   "10 years"
+  ],
+  "answer": 3,
+  "explanation": "Typical process service is limited to 5 years.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Piping",
+  "body": "Most on-site process piping in a refinery is typically",
+  "options": [
+   "Class 3",
+   "Class 1",
+   "Class 2",
+   "Class 4"
+  ],
+  "answer": 2,
+  "explanation": "Class 1 covers the highest-consequence services.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Piping",
+  "body": "On a pipe elbow, wall loss from erosion is usually greatest on the",
+  "options": [
+   "flange face",
+   "pipe support",
+   "inner radius (intrados)",
+   "outer radius (extrados)"
+  ],
+  "answer": 3,
+  "explanation": "Flow impinges on the outside of the bend.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Piping",
+  "body": "An injection point circuit covers piping where",
+  "options": [
+   "the line is out of service",
+   "chemicals or water are injected into the process stream",
+   "the pipe is buried",
+   "steam tracing is installed"
+  ],
+  "answer": 1,
+  "explanation": "Injection points can cause severe localised corrosion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "CUI",
+  "body": "Which location is especially prone to CUI?",
+  "options": [
+   "Uninsulated pipe in dry indoor areas",
+   "Stainless steel in vacuum service only",
+   "Insulation penetrations and damaged jacketing where water can enter",
+   "Pipe operating above 400 °C"
+  ],
+  "answer": 2,
+  "explanation": "Low points and supports are also hot spots.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Damage",
+  "body": "Polythionic acid stress corrosion cracking typically affects",
+  "options": [
+   "titanium in seawater",
+   "carbon steel in hot service",
+   "copper in fresh water",
+   "sensitised austenitic stainless steels during shutdowns"
+  ],
+  "answer": 3,
+  "explanation": "Soda ash washes or nitrogen purges help prevent it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Damage",
+  "body": "Sulfidation of carbon steel becomes significant above about",
+  "options": [
+   "60 °C",
+   "1,000 °C only",
+   "260 °C (500 °F)",
+   "0 °C"
+  ],
+  "answer": 2,
+  "explanation": "It is common in hot crude and vacuum units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Damage",
+  "body": "Naphthenic acid corrosion is mainly found in",
+  "options": [
+   "fire water lines",
+   "high-temperature crude and vacuum units processing acidic crudes",
+   "cooling water systems",
+   "storage tank roofs"
+  ],
+  "answer": 1,
+  "explanation": "Measured by the crude's total acid number (TAN).",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Damage",
+  "body": "Caustic stress corrosion cracking is a risk where carbon steel is exposed to",
+  "options": [
+   "dry air",
+   "fresh water at ambient temperature",
+   "pure nitrogen",
+   "hot caustic (NaOH) solutions"
+  ],
+  "answer": 3,
+  "explanation": "PWHT reduces the risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Damage",
+  "body": "Hydrogen blistering in carbon steel results from",
+  "options": [
+   "high-temperature oxidation",
+   "UV exposure",
+   "atomic hydrogen collecting at laminations and inclusions in wet H₂S service",
+   "mechanical impact"
+  ],
+  "answer": 2,
+  "explanation": "Blisters can be found by visual and UT examination.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Repairs",
+  "body": "Weld repairs on pressure vessels should use procedures and welders qualified to",
+  "options": [
+   "ASME Section V",
+   "ASME Section IX",
+   "API 1104",
+   "AWS D1.1"
+  ],
+  "answer": 1,
+  "explanation": "The construction code may add extra requirements.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Records",
+  "body": "Which records must the owner-user keep under API 510/570?",
+  "options": [
+   "No records are required",
+   "Only the paint colour",
+   "Inspection history, thickness data, repairs, alterations and calculations",
+   "Only the purchase invoice"
+  ],
+  "answer": 2,
+  "explanation": "Records support corrosion rates and intervals.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Thickness readings at one CML: 2008: 12.7 mm (initial), 2018: 11.9 mm, 2022: 11 mm. What is the short-term corrosion rate?",
+  "options": [
+   "0.225 mm/yr",
+   "0.121 mm/yr",
+   "0.425 mm/yr",
+   "0.08 mm/yr"
+  ],
+  "answer": 0,
+  "explanation": "Short-term = (11.9 − 11) ÷ (2022 − 2018) = 0.225 mm/yr.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Thickness readings at one CML: 2008: 15.9 mm (initial), 2018: 15.1 mm, 2023: 13.9 mm. What is the long-term corrosion rate?",
+  "options": [
+   "0.08 mm/yr",
+   "0.4 mm/yr",
+   "0.24 mm/yr",
+   "0.133 mm/yr"
+  ],
+  "answer": 3,
+  "explanation": "Long-term = (15.9 − 13.9) ÷ (2023 − 2008) = 0.133 mm/yr.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Thickness readings at one CML: 2004: 19.1 mm (initial), 2014: 18.5 mm, 2018: 17.9 mm. What is the short-term corrosion rate?",
+  "options": [
+   "1.15 mm/yr",
+   "0.15 mm/yr",
+   "0.3 mm/yr",
+   "0.06 mm/yr"
+  ],
+  "answer": 1,
+  "explanation": "Short-term = (18.5 − 17.9) ÷ (2018 − 2014) = 0.15 mm/yr.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Thickness readings at one CML: 2004: 19.1 mm (initial), 2010: 18.3 mm, 2015: 16.8 mm. What is the long-term corrosion rate?",
+  "options": [
+   "0.3 mm/yr",
+   "0.209 mm/yr",
+   "0.133 mm/yr",
+   "0.46 mm/yr"
+  ],
+  "answer": 1,
+  "explanation": "Long-term = (19.1 − 16.8) ÷ (2015 − 2004) = 0.209 mm/yr.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Thickness readings at one CML: 2004: 19.1 mm (initial), 2014: 18.1 mm, 2019: 17.5 mm. What is the short-term corrosion rate?",
+  "options": [
+   "1.12 mm/yr",
+   "0.1 mm/yr",
+   "0.12 mm/yr",
+   "0.32 mm/yr"
+  ],
+  "answer": 2,
+  "explanation": "Short-term = (18.1 − 17.5) ÷ (2019 − 2014) = 0.12 mm/yr.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Thickness readings at one CML: 2008: 12.7 mm (initial), 2018: 12.1 mm, 2022: 10.6 mm. What is the short-term corrosion rate?",
+  "options": [
+   "0.06 mm/yr",
+   "0.375 mm/yr",
+   "0.525 mm/yr",
+   "0.15 mm/yr"
+  ],
+  "answer": 1,
+  "explanation": "Short-term = (12.1 − 10.6) ÷ (2022 − 2018) = 0.375 mm/yr.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Thickness readings at one CML: 2004: 15.9 mm (initial), 2012: 15.1 mm, 2015: 14.5 mm. What is the long-term corrosion rate?",
+  "options": [
+   "0.467 mm/yr",
+   "0.1 mm/yr",
+   "0.127 mm/yr",
+   "0.2 mm/yr"
+  ],
+  "answer": 2,
+  "explanation": "Long-term = (15.9 − 14.5) ÷ (2015 − 2004) = 0.127 mm/yr.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Thickness readings at one CML: 2010: 19.1 mm (initial), 2018: 18.1 mm, 2023: 16.6 mm. What is the short-term corrosion rate?",
+  "options": [
+   "0.5 mm/yr",
+   "0.3 mm/yr",
+   "1.3 mm/yr",
+   "0.6 mm/yr"
+  ],
+  "answer": 1,
+  "explanation": "Short-term = (18.1 − 16.6) ÷ (2023 − 2018) = 0.3 mm/yr.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Thickness readings at one CML: 2010: 12.7 mm (initial), 2020: 11.9 mm, 2023: 10.7 mm. What is the long-term corrosion rate?",
+  "options": [
+   "0.08 mm/yr",
+   "0.667 mm/yr",
+   "0.4 mm/yr",
+   "0.154 mm/yr"
+  ],
+  "answer": 3,
+  "explanation": "Long-term = (12.7 − 10.7) ÷ (2023 − 2010) = 0.154 mm/yr.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "Thickness readings at one CML: 2008: 19.1 mm (initial), 2016: 18.1 mm, 2021: 16.6 mm. What is the long-term corrosion rate?",
+  "options": [
+   "0.3 mm/yr",
+   "0.192 mm/yr",
+   "0.5 mm/yr",
+   "0.125 mm/yr"
+  ],
+  "answer": 1,
+  "explanation": "Long-term = (19.1 − 16.6) ÷ (2021 − 2008) = 0.192 mm/yr.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A shell is 9.5 mm thick today and corroding at 0.2 mm/yr. What thickness is expected at the next inspection in 4 years?",
+  "options": [
+   "9.3 mm",
+   "8.7 mm",
+   "7.9 mm",
+   "10.3 mm"
+  ],
+  "answer": 1,
+  "explanation": "9.5 − 0.2 × 4 = 8.7 mm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A shell is 10.2 mm thick today and corroding at 0.2 mm/yr. What thickness is expected at the next inspection in 5 years?",
+  "options": [
+   "10 mm",
+   "9.2 mm",
+   "11.2 mm",
+   "8.2 mm"
+  ],
+  "answer": 1,
+  "explanation": "10.2 − 0.2 × 5 = 9.2 mm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A shell is 12 mm thick today and corroding at 0.15 mm/yr. What thickness is expected at the next inspection in 3 years?",
+  "options": [
+   "11.85 mm",
+   "11.1 mm",
+   "11.55 mm",
+   "12.45 mm"
+  ],
+  "answer": 2,
+  "explanation": "12 − 0.15 × 3 = 11.55 mm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A shell is 9.5 mm thick today and corroding at 0.2 mm/yr. What thickness is expected at the next inspection in 5 years?",
+  "options": [
+   "8.5 mm",
+   "10.5 mm",
+   "7.5 mm",
+   "9.3 mm"
+  ],
+  "answer": 0,
+  "explanation": "9.5 − 0.2 × 5 = 8.5 mm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A shell is 11.4 mm thick today and corroding at 0.25 mm/yr. What thickness is expected at the next inspection in 6 years?",
+  "options": [
+   "11.15 mm",
+   "9.9 mm",
+   "8.4 mm",
+   "12.9 mm"
+  ],
+  "answer": 1,
+  "explanation": "11.4 − 0.25 × 6 = 9.9 mm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A shell is 11.4 mm thick today and corroding at 0.25 mm/yr. What thickness is expected at the next inspection in 3 years?",
+  "options": [
+   "12.15 mm",
+   "10.65 mm",
+   "11.15 mm",
+   "9.9 mm"
+  ],
+  "answer": 1,
+  "explanation": "11.4 − 0.25 × 3 = 10.65 mm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A shell is 12 mm thick today and corroding at 0.15 mm/yr. What thickness is expected at the next inspection in 6 years?",
+  "options": [
+   "12.9 mm",
+   "11.85 mm",
+   "11.1 mm",
+   "10.2 mm"
+  ],
+  "answer": 2,
+  "explanation": "12 − 0.15 × 6 = 11.1 mm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "A shell is 9.5 mm thick today and corroding at 0.15 mm/yr. What thickness is expected at the next inspection in 4 years?",
+  "options": [
+   "10.1 mm",
+   "8.9 mm",
+   "9.35 mm",
+   "8.3 mm"
+  ],
+  "answer": 1,
+  "explanation": "9.5 − 0.15 × 4 = 8.9 mm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "2:1 ellipsoidal head: P = 150 psi, inside diameter D = 72 in, S = 17,500 psi, E = 0.85. Find t using t = PD ÷ (2SE − 0.2P).",
+  "options": [
+   "0.73 in",
+   "0.436 in",
+   "0.363 in",
+   "0.182 in"
+  ],
+  "answer": 2,
+  "explanation": "t = 150 × 72 ÷ (2 × 17500 × 0.85 − 0.2 × 150) = 0.363 in.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "2:1 ellipsoidal head: P = 150 psi, inside diameter D = 48 in, S = 17,500 psi, E = 0.85. Find t using t = PD ÷ (2SE − 0.2P).",
+  "options": [
+   "0.487 in",
+   "0.121 in",
+   "0.242 in",
+   "0.29 in"
+  ],
+  "answer": 2,
+  "explanation": "t = 150 × 48 ÷ (2 × 17500 × 0.85 − 0.2 × 150) = 0.242 in.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "2:1 ellipsoidal head: P = 200 psi, inside diameter D = 72 in, S = 20,000 psi, E = 0.85. Find t using t = PD ÷ (2SE − 0.2P).",
+  "options": [
+   "0.212 in",
+   "0.424 in",
+   "1.424 in",
+   "0.853 in"
+  ],
+  "answer": 1,
+  "explanation": "t = 200 × 72 ÷ (2 × 20000 × 0.85 − 0.2 × 200) = 0.424 in.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "2:1 ellipsoidal head: P = 200 psi, inside diameter D = 48 in, S = 20,000 psi, E = 0.85. Find t using t = PD ÷ (2SE − 0.2P).",
+  "options": [
+   "0.141 in",
+   "0.283 in",
+   "0.569 in",
+   "1.283 in"
+  ],
+  "answer": 1,
+  "explanation": "t = 200 × 48 ÷ (2 × 20000 × 0.85 − 0.2 × 200) = 0.283 in.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "2:1 ellipsoidal head: P = 250 psi, inside diameter D = 72 in, S = 17,500 psi, E = 1. Find t using t = PD ÷ (2SE − 0.2P).",
+  "options": [
+   "1.037 in",
+   "0.258 in",
+   "0.515 in",
+   "1.515 in"
+  ],
+  "answer": 2,
+  "explanation": "t = 250 × 72 ÷ (2 × 17500 × 1 − 0.2 × 250) = 0.515 in.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "2:1 ellipsoidal head: P = 200 psi, inside diameter D = 60 in, S = 20,000 psi, E = 1. Find t using t = PD ÷ (2SE − 0.2P).",
+  "options": [
+   "0.15 in",
+   "1.3 in",
+   "0.3 in",
+   "0.36 in"
+  ],
+  "answer": 2,
+  "explanation": "t = 200 × 60 ÷ (2 × 20000 × 1 − 0.2 × 200) = 0.3 in.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "2:1 ellipsoidal head: P = 250 psi, inside diameter D = 60 in, S = 20,000 psi, E = 1. Find t using t = PD ÷ (2SE − 0.2P).",
+  "options": [
+   "0.45 in",
+   "0.188 in",
+   "0.375 in",
+   "0.756 in"
+  ],
+  "answer": 2,
+  "explanation": "t = 250 × 60 ÷ (2 × 20000 × 1 − 0.2 × 250) = 0.375 in.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "2:1 ellipsoidal head: P = 150 psi, inside diameter D = 72 in, S = 20,000 psi, E = 1. Find t using t = PD ÷ (2SE − 0.2P).",
+  "options": [
+   "1.27 in",
+   "2.27 in",
+   "0.54 in",
+   "0.27 in"
+  ],
+  "answer": 3,
+  "explanation": "t = 150 × 72 ÷ (2 × 20000 × 1 − 0.2 × 150) = 0.27 in.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME VIII Div. 1 pneumatic test: MAWP 150 psi, stress ratio 1.1. Minimum test pressure? (1.1 × MAWP × stress ratio)",
+  "options": [
+   "181.5 psi",
+   "214.5 psi",
+   "225 psi",
+   "165 psi"
+  ],
+  "answer": 0,
+  "explanation": "1.1 × 150 × 1.1 = 181.5 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME VIII Div. 1 pneumatic test: MAWP 150 psi, stress ratio 1.05. Minimum test pressure? (1.1 × MAWP × stress ratio)",
+  "options": [
+   "204.8 psi",
+   "165 psi",
+   "173.3 psi",
+   "225 psi"
+  ],
+  "answer": 2,
+  "explanation": "1.1 × 150 × 1.05 = 173.3 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME VIII Div. 1 pneumatic test: MAWP 200 psi, stress ratio 1. Minimum test pressure? (1.1 × MAWP × stress ratio)",
+  "options": [
+   "300 psi",
+   "200 psi",
+   "260 psi",
+   "220 psi"
+  ],
+  "answer": 3,
+  "explanation": "1.1 × 200 × 1 = 220 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME VIII Div. 1 pneumatic test: MAWP 250 psi, stress ratio 1. Minimum test pressure? (1.1 × MAWP × stress ratio)",
+  "options": [
+   "250 psi",
+   "275 psi",
+   "325 psi",
+   "375 psi"
+  ],
+  "answer": 1,
+  "explanation": "1.1 × 250 × 1 = 275 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME VIII Div. 1 pneumatic test: MAWP 200 psi, stress ratio 1.1. Minimum test pressure? (1.1 × MAWP × stress ratio)",
+  "options": [
+   "242 psi",
+   "286 psi",
+   "300 psi",
+   "220 psi"
+  ],
+  "answer": 0,
+  "explanation": "1.1 × 200 × 1.1 = 242 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "ASME VIII Div. 1 pneumatic test: MAWP 100 psi, stress ratio 1. Minimum test pressure? (1.1 × MAWP × stress ratio)",
+  "options": [
+   "110 psi",
+   "130 psi",
+   "100 psi",
+   "150 psi"
+  ],
+  "answer": 0,
+  "explanation": "1.1 × 100 × 1 = 110 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "In 2024, a CML measures 9.6 mm. Required thickness is 6.6 mm and the corrosion rate is 0.2 mm/yr. In which year will it reach the required thickness (rounded down)?",
+  "options": [
+   "2044",
+   "2031",
+   "2072",
+   "2039"
+  ],
+  "answer": 3,
+  "explanation": "Remaining life = (9.6 − 6.6) ÷ 0.2 = 15 years → 2024 + 15 ≈ 2039.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "In 2025, a CML measures 10.2 mm. Required thickness is 7.2 mm and the corrosion rate is 0.3 mm/yr. In which year will it reach the required thickness (rounded down)?",
+  "options": [
+   "2035",
+   "2030",
+   "2040",
+   "2059"
+  ],
+  "answer": 0,
+  "explanation": "Remaining life = (10.2 − 7.2) ÷ 0.3 = 10 years → 2025 + 10 ≈ 2035.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "In 2026, a CML measures 10.2 mm. Required thickness is 6 mm and the corrosion rate is 0.15 mm/yr. In which year will it reach the required thickness (rounded down)?",
+  "options": [
+   "2054",
+   "2040",
+   "2059",
+   "2094"
+  ],
+  "answer": 0,
+  "explanation": "Remaining life = (10.2 − 6) ÷ 0.15 = 28 years → 2026 + 28 ≈ 2054.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "In 2025, a CML measures 8.4 mm. Required thickness is 6.6 mm and the corrosion rate is 0.12 mm/yr. In which year will it reach the required thickness (rounded down)?",
+  "options": [
+   "2032",
+   "2095",
+   "2040",
+   "2045"
+  ],
+  "answer": 2,
+  "explanation": "Remaining life = (8.4 − 6.6) ÷ 0.12 = 15 years → 2025 + 15 ≈ 2040.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "In 2024, a CML measures 8.4 mm. Required thickness is 6.6 mm and the corrosion rate is 0.15 mm/yr. In which year will it reach the required thickness (rounded down)?",
+  "options": [
+   "2030",
+   "2041",
+   "2080",
+   "2036"
+  ],
+  "answer": 3,
+  "explanation": "Remaining life = (8.4 − 6.6) ÷ 0.15 = 12 years → 2024 + 12 ≈ 2036.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "In 2025, a CML measures 9 mm. Required thickness is 6.6 mm and the corrosion rate is 0.15 mm/yr. In which year will it reach the required thickness (rounded down)?",
+  "options": [
+   "2033",
+   "2041",
+   "2085",
+   "2046"
+  ],
+  "answer": 1,
+  "explanation": "Remaining life = (9 − 6.6) ÷ 0.15 = 16 years → 2025 + 16 ≈ 2041.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "In 2024, a CML measures 9.6 mm. Required thickness is 6.6 mm and the corrosion rate is 0.15 mm/yr. In which year will it reach the required thickness (rounded down)?",
+  "options": [
+   "2044",
+   "2088",
+   "2034",
+   "2049"
+  ],
+  "answer": 0,
+  "explanation": "Remaining life = (9.6 − 6.6) ÷ 0.15 = 20 years → 2024 + 20 ≈ 2044.",
+  "difficulty": 3
+ },
+ {
+  "subject": "INS",
+  "topic": "Calculations",
+  "body": "In 2026, a CML measures 9.6 mm. Required thickness is 7.2 mm and the corrosion rate is 0.12 mm/yr. In which year will it reach the required thickness (rounded down)?",
+  "options": [
+   "2051",
+   "2036",
+   "2046",
+   "2106"
+  ],
+  "answer": 2,
+  "explanation": "Remaining life = (9.6 − 7.2) ÷ 0.12 = 20 years → 2026 + 20 ≈ 2046.",
+  "difficulty": 3
  }
 ]
