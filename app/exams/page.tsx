@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { TRACKS, type TrackCode } from "@/lib/tracks";
+import { TRACK_GROUPS } from "@/lib/track-groups";
 
 export const metadata = {
   title: "Explore exam pathways — Mock Night",
@@ -60,33 +61,7 @@ const PATHS: Record<TrackCode, string> = {
   BKP: "/app?track=BKP",
 };
 
-const GROUPS: { title: string; description: string; codes: TrackCode[] }[] = [
-  {
-    title: "Moving abroad",
-    description: "Citizenship tests, English and professional licensing for doctors and nurses relocating.",
-    codes: ["LUK", "USCIT", "CANCIT", "AUSCIT", "IELTS", "OET", "PLAB", "NMC", "NCLEX", "GULFN"],
-  },
-  {
-    title: "Academic & admissions exams",
-    description: "Prepare for school-leaving, university-entry and national examinations.",
-    codes: ["JAMB", "WAEC", "NECO", "PUTME", "WASSCE_GH", "KCSE", "BECE", "ETH", "MDCAT", "SAT", "UCAT", "ELEVEN"],
-  },
-  {
-    title: "Professional & career exams",
-    description: "Practise for professional qualifications, graduate assessments and career progression tests.",
-    codes: ["PM", "ACCA", "ICAN", "GRAD", "IBPS", "SSC", "ITIL", "SIXSIG", "BKP", "CON"],
-  },
-  {
-    title: "Technology & digital skills",
-    description: "Build practical IT, networking, cloud, data, security and programming knowledge.",
-    codes: ["ITF", "CCST", "AWS", "AZF", "PYT", "SEC", "DAT", "AIA"],
-  },
-  {
-    title: "UK workplace & licences",
-    description: "Build confidence for UK tests and structured workplace training.",
-    codes: ["DRIVE", "CITB", "SIA", "FSE", "FSM", "FIRE", "CARE", "FOOD", "CAREW", "HSE"],
-  },
-];
+const GROUPS = TRACK_GROUPS.map((g) => ({ title: `${g.emoji} ${g.title}`, description: g.description, codes: g.codes }));
 
 export default function ExamsPage() {
   return (

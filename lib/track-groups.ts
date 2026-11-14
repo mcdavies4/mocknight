@@ -1,0 +1,58 @@
+// One list of exam categories, shared by the website (/exams) and the Telegram picker.
+import { TRACK_LIST, TRACKS, type Track, type TrackCode } from "./tracks";
+
+export interface TrackGroup { key: string; emoji: string; title: string; description: string; codes: TrackCode[] }
+
+export const TRACK_GROUPS: TrackGroup[] = [
+  { key: "school", emoji: "🎓", title: "School & admissions", description: "Prepare for school-leaving, university-entry and national examinations.",
+    codes: ["JAMB", "WAEC", "NECO", "PUTME", "WASSCE_GH", "BECE", "KCSE", "ETH", "MDCAT", "SAT", "UCAT", "ELEVEN"] },
+  { key: "abroad", emoji: "✈️", title: "Moving abroad", description: "Citizenship tests, English and professional licensing for doctors and nurses relocating.",
+    codes: ["LUK", "USCIT", "CANCIT", "AUSCIT", "IELTS", "OET", "PLAB", "NMC", "NCLEX", "GULFN"] },
+  { key: "career", emoji: "💼", title: "Professional & career", description: "Practise for professional qualifications, graduate assessments and career progression tests.",
+    codes: ["PM", "ACCA", "ICAN", "GRAD", "IBPS", "SSC", "ITIL", "SIXSIG", "BKP", "CON"] },
+  { key: "tech", emoji: "💻", title: "Technology & digital skills", description: "Build practical IT, networking, cloud, data, security and programming knowledge.",
+    codes: ["ITF", "CCST", "AWS", "AZF", "PYT", "SEC", "DAT", "AIA"] },
+  { key: "uk", emoji: "🇬🇧", title: "UK workplace & licences", description: "Build confidence for UK tests and structured workplace training.",
+    codes: ["DRIVE", "CITB", "SIA", "FSE", "FSM", "FIRE", "CARE", "FOOD", "CAREW", "HSE"] },
+];
+
+export const groupFor = (code: string) => TRACK_GROUPS.find((g) => g.codes.includes(code as TrackCode));
+
+// Extra words people type that aren't in the exam's name.
+const ALIASES: Partial<Record<TrackCode, string>> = {
+  NMC: "nursing nurse cbt uk nurse", NCLEX: "nursing nurse usa america rn", GULFN: "nursing nurse dubai uae saudi qatar prometric dha haad moh",
+  OET: "nursing nurse doctor english occupational", PLAB: "doctor gmc medical uk", IELTS: "english band ielts ukvi",
+  LUK: "citizenship british settlement ilr", USCIT: "usa america naturalization uscis citizenship", CANCIT: "canada citizenship", AUSCIT: "australia citizenship",
+  JAMB: "utme university nigeria", WAEC: "ssce waec nigeria", NECO: "ssce nigeria", PUTME: "post utme university nigeria", WASSCE_GH: "ghana shs wassce",
+  BECE: "ghana jhs", KCSE: "kenya form 4", ETH: "ethiopia esslce grade 12", MDCAT: "pakistan medical", UCAT: "medicine dentistry uk university",
+  SAT: "usa college", ELEVEN: "11 plus grammar school", SSC: "india cgl chsl government", IBPS: "india bank po sbi",
+  PM: "project management prince2 apm capm", ACCA: "accounting accountant", ICAN: "accounting accountant nigeria", GRAD: "aptitude shl graduate job test",
+  DRIVE: "driving theory car licence dvsa", SIA: "security door supervisor", CITB: "cscs construction site", FIRE: "fire marshal warden",
+  AWS: "amazon cloud", AZF: "microsoft azure cloud", PYT: "python programming coding", SEC: "cyber security", DAT: "data analytics excel sql", AIA: "ai artificial intelligence automation",
+};
+
+const norm = (s: string) => s.toLowerCase().replace(/[^a-z0-9+ ]/g, " ").replace(/\s+/g, " ").trim();
+
+/** Find exams matching what someone typed, best match first. */
+export function searchTracks(query: string, limit = 8): Track[] {
+  const q = norm(query);
+  if (!q) return [];
+  const STOP = new Set(["the", "in", "of", "and", "for", "a", "an", "to", "test", "exam", "exams", "practice", "my"]);
+  const words = q.split(" ").filter((w) => !STOP.has(w));
+  if (!words.length) return [];
+  const has = (hay: string, w: string) => ` ${hay} `.includes(` ${w}`);
+  const scored = TRACK_LIST.map((t) => {
+    const code = t.code.toLowerCase().replace("_", " ");
+    const hay = norm(`${t.code} ${t.short} ${t.name} ${ALIASES[t.code] ?? ""}`);
+    let score = 0;
+    if (q === code || q === norm(t.short)) score += 100;
+    if (norm(t.short).startsWith(q) || norm(t.name).startsWith(q)) score += 40;
+    for (const w of words) if (w.length >= 2 && has(hay, w)) score += 10;
+    if (words.length > 1 && words.every((w) => has(hay, w))) score += 15;
+    return { t, score };
+  }).filter((x) => x.score >= 10).sort((a, b) => b.score - a.score);
+  const top = scored[0]?.score ?? 0;
+  return scored.filter((x) => x.score >= top * 0.6).slice(0, limit).map((x) => x.t);
+}
+
+export const tracksIn = (g: TrackGroup) => g.codes.map((c) => TRACKS[c]).filter(Boolean);

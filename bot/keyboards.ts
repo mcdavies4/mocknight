@@ -4,13 +4,39 @@ import { formatHour } from "@/lib/time";
 import { getTrack, regionsFor, TRACK_LIST, TECH_TRACK_CODES, variantsFor } from "@/lib/tracks";
 import type { Student } from "@/lib/types";
 import { env } from "@/lib/env";
+import { TRACK_GROUPS, tracksIn, type TrackGroup } from "@/lib/track-groups";
+import type { Track } from "@/lib/tracks";
 
 export const DRILL_HOURS = [6, 7, 16, 17, 18, 19, 20, 21];
 
-export function trackKb() {
+export const TRACK_PROMPT = "What are you preparing for?\n\nPick a category, or just type the exam's name (e.g. IELTS, JAMB, UCAT, nursing).";
+
+/** Step 1 of the exam picker: a short list of categories (the full list is too long for one message). */
+export function trackKb(current?: string | null) {
   const kb = new InlineKeyboard();
-  TRACK_LIST.forEach((t) => kb.text(`${t.emoji} ${t.name}`, `ob:track:${t.code}`).row());
+  const now = current ? getTrack(current) : null;
+  if (now && current) kb.text(`✅ Keep ${now.emoji} ${now.short}`, "ob:keep").row();
+  TRACK_GROUPS.forEach((g, i) => {
+    if (i) kb.row();
+    kb.text(`${g.emoji} ${g.title} (${g.codes.length})`, `ob:cat:${i}`);
+  });
   return kb;
+}
+
+/** Exams as compact two-column buttons. */
+export function tracksGridKb(tracks: Track[], back = true) {
+  const kb = new InlineKeyboard();
+  tracks.forEach((t, i) => {
+    if (i && i % 2 === 0) kb.row();
+    kb.text(`${t.emoji} ${t.short}`, `ob:track:${t.code}`);
+  });
+  if (back) kb.row().text("⬅️ All categories", "ob:cats");
+  return kb;
+}
+
+/** Step 2: exams within one category. */
+export function groupKb(g: TrackGroup) {
+  return tracksGridKb(tracksIn(g));
 }
 
 export function techTrackKb() {

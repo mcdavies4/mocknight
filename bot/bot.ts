@@ -21,7 +21,8 @@ import { attachReferrer, redeemLinkCode, referralCount, refLinks } from "@/lib/r
 import { REFERRAL_DAYS } from "@/lib/pricing";
 import { money, PLANS, SEATS, FREE_DAILY_QUESTIONS, PREMIUM_DAILY_QUESTIONS } from "@/lib/pricing";
 import type { Student } from "@/lib/types";
-import { menuKb, statesKb, subjectsKb, techTrackKb, timeKb, trackKb } from "./keyboards";
+import { groupKb, menuKb, statesKb, subjectsKb, techTrackKb, timeKb, trackKb, tracksGridKb, TRACK_PROMPT } from "./keyboards";
+import { searchTracks, TRACK_GROUPS } from "@/lib/track-groups";
 
 type Ctx = Context & { student?: Student };
 const zoneLabel = (s: Student) => timeLabelFor(getTrack(s.track));
@@ -46,7 +47,7 @@ async function promptStep(api: Api, s: Student) {
   const chat = s.telegram_id!;
   switch (s.onboarding_step) {
     case "exam":
-      return api.sendMessage(chat, "What are you preparing for?", { reply_markup: trackKb() });
+      return api.sendMessage(chat, TRACK_PROMPT, { reply_markup: trackKb(s.track) });
     case "subjects":
       return api.sendMessage(chat, subjectsText(s), { reply_markup: subjectsKb(s) });
     case "state":
@@ -620,14 +621,33 @@ function register(bot: Bot<Ctx>) {
   });
 
   // ---- Onboarding callbacks -----------------------------------------------
-  bot.callbackQuery(/^ob:track:([A-Z]+)$/, async (ctx) => {
+  bot.callbackQuery(/^ob:cat:(\d+)$/, async (ctx) => {
+    const g = TRACK_GROUPS[Number(ctx.match[1])];
+    await ctx.answerCallbackQuery();
+    if (!g) return;
+    return ctx.editMessageText(`${g.emoji} ${g.title}\n${g.description}\n\nPick your exam:`, { reply_markup: groupKb(g) }).catch(() => undefined);
+  });
+  bot.callbackQuery("ob:cats", async (ctx) => {
+    await ctx.answerCallbackQuery();
+    return ctx.editMessageText(TRACK_PROMPT, { reply_markup: trackKb(ctx.student!.track) }).catch(() => undefined);
+  });
+  bot.callbackQuery("ob:keep", async (ctx) => {
+    await ctx.answerCallbackQuery();
+    const s = ctx.student!;
+    if (!s.track) return ctx.editMessageText(TRACK_PROMPT, { reply_markup: trackKb() }).catch(() => undefined);
+    const t = getTrack(s.track);
+    await ctx.editMessageText(`${t.emoji} ${t.name} ✅`).catch(() => undefined);
+    const u = s.subjects?.length ? await updateStudent(s.id, { onboarding_step: "done" }) : await updateStudent(s.id, { onboarding_step: t.subjectMode === "single" ? "time" : "subjects" });
+    return u.onboarding_step === "done" ? ctx.reply("No changes — you're all set ✅", { reply_markup: menuKb(u) }) : promptStep(ctx.api, u);
+  });
+  bot.callbackQuery(/^ob:track:([A-Z_]+)$/, async (ctx) => {
     const code = ctx.match[1] as TrackCode;
     if (!TRACKS[code]) return ctx.answerCallbackQuery();
     const t = TRACKS[code];
     const s = ctx.student!;
     await ctx.answerCallbackQuery();
     if (t.subjectMode === "single") {
-      const returning = s.onboarding_step === "exam" && !!s.track;
+      const returning = !!s.track && (s.onboarding_step === "exam" || s.onboarding_step === "done");
       const u = await updateStudent(s.id, { track: code, subjects: t.subjects, onboarding_step: returning ? "done" : t.askSchool ? "school" : "time" });
       await ctx.editMessageText(`${t.emoji} ${t.name} ✅`);
       return u.onboarding_step === "done" ? ctx.reply("Settings saved ✅", { reply_markup: menuKb(u) }) : promptStep(ctx.api, u);
@@ -695,7 +715,17 @@ function register(bot: Bot<Ctx>) {
       const u = await updateStudent(s.id, { school: ctx.message.text.trim().slice(0, 80), onboarding_step: "time" });
       return promptStep(ctx.api, u);
     }
+    if (s.onboarding_step === "exam") {
+      const found = searchTracks(ctx.message.text);
+      if (!found.length) return ctx.reply(`No exam matched “${ctx.message.text.slice(0, 40)}”. Pick a category instead:`, { reply_markup: trackKb(s.track) });
+      return ctx.reply(found.length === 1 ? "Is this the one? Tap to choose:" : "Here's what I found — tap yours:", { reply_markup: tracksGridKb(found) });
+    }
     if (s.onboarding_step !== "done") return promptStep(ctx.api, s);
+    // Typing an exam's name from the main menu also works
+    const hit = searchTracks(ctx.message.text, 4);
+    if (hit.length && hit[0].code !== s.track && ctx.message.text.trim().length >= 3) {
+      return ctx.reply("Looking for another exam? Tap to switch, or use the menu below.", { reply_markup: tracksGridKb(hit, false).row().text("🏠 Menu", "menu") });
+    }
     return ctx.reply("Tap an option below 👇", { reply_markup: menuKb(s) });
   });
 
