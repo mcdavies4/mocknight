@@ -45,15 +45,31 @@ export async function bankStatus(): Promise<{ code: string; live: number; target
   return out.sort((a, b) => a.live / a.target - b.live / b.target);
 }
 
+// Money symbol per region. Shared subjects are written in naira and converted per country
+// at display time by lib/localise.ts, so one question works for every exam that uses it.
+const REGION_MONEY: Record<string, string> = {
+  NG: "Nigerian naira (₦)", GH: "Ghanaian cedis (GH₵)", KE: "Kenyan shillings (KSh)", ZA: "South African rand (R)", IN: "Indian rupees (₹)",
+  PK: "Pakistani rupees (Rs)", PH: "Philippine pesos (₱)", UK: "British pounds (£)", US: "US dollars ($)", CA: "Canadian dollars (C$)",
+  AU: "Australian dollars (A$)", ET: "Ethiopian birr (Br)", TZ: "Tanzanian shillings (TSh)", UG: "Ugandan shillings (USh)", CM: "CFA francs (FCFA)",
+};
+
 function subjectInfo(code: string, exams: string[]): SubjectInfo {
   const tracks = TRACK_LIST.filter((t) => t.subjects.includes(code));
   const main = tracks[0];
+  const regions = [...new Set(tracks.map((t) => t.region))];
+  const shared = tracks.length > 1;
+  const money = regions.length === 1 && regions[0] !== "GLOBAL" ? REGION_MONEY[regions[0]] : shared ? REGION_MONEY.NG : undefined;
+  const audience = !main
+    ? "an adult learner preparing for a professional exam"
+    : shared
+      ? `learners preparing for any of these exams: ${tracks.map((t) => t.name).join("; ")}. Keep questions to the shared international syllabus — do NOT tie them to one country's tax rates, laws, institutions or curriculum details`
+      : main.audience ?? (main.kind === "school" ? "a secondary school student preparing for national exams" : "an adult learner preparing for a professional exam");
   return {
     code,
     name: subjectName(code),
     exams,
     trackNames: tracks.map((t) => t.name),
-    audience: main?.audience ?? (main?.kind === "school" ? "a West African secondary school student preparing for JAMB/WAEC exams" : "an adult learner preparing for a professional exam"),
+    audience: money ? `${audience}. For any money amounts, use ${money}${shared && regions.length > 1 ? " — the app converts currency for each country automatically" : ""}` : audience,
     optionCount: code === "PLB" ? 5 : 4,
   };
 }
