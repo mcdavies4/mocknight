@@ -12,6 +12,7 @@ import { getOrCreateTodaySession, recordDrillAnswer, sendCurrentQuestion, streak
 import { getLatestFinishedWeeklyMock, getOpenWeeklyMock, WEEKLY } from "@/lib/mock";
 import { applySuccessfulPayment, checkStarsCheckout, createCheckout, createStarsPayment, refundStarsPayment } from "@/lib/payments";
 import { STARS_ENABLED, starsFor } from "@/lib/stars";
+import { bankStatus, reportQuestion } from "@/lib/grow";
 import { BATTLE_DEFAULT_QUESTIONS, BATTLE_MAX, BATTLE_MIN, endBattle, onPollClosed, recordBattleAnswer, runningBattle, skipQuestion, startBattle } from "@/lib/battle";
 import { createGroup, getGroupByCode, groupsOwnedBy, joinGroup, joinLink, memberCount } from "@/lib/groups";
 import { signToken } from "@/lib/auth";
@@ -802,7 +803,7 @@ function register(bot: Bot<Ctx>) {
     await afterAnswer(ctx.api, s, res.question.explanation, true);
     if (!res.correct) {
       await ctx.api.sendMessage(s.telegram_id!, "Not quite — want it explained?", {
-        reply_markup: new InlineKeyboard().text("🤖 Explain it to me", `ex:${res.question.id}`),
+        reply_markup: new InlineKeyboard().text("🤖 Explain it to me", `ex:${res.question.id}`).text("🚩 Report", `rp:${res.question.id}`),
         disable_notification: true,
       });
     }
@@ -822,7 +823,7 @@ function register(bot: Bot<Ctx>) {
       : `\n\n❌ You chose ${LETTERS[Number(ctx.match[2])]}. Answer: ${LETTERS[q.answer_index]}. ${q.options[q.answer_index]}`;
     const base = ctx.callbackQuery.message && "text" in ctx.callbackQuery.message ? ctx.callbackQuery.message.text ?? "" : "";
     await ctx.editMessageText((base + verdict + (q.explanation ? `\n💡 ${q.explanation}` : "")).slice(0, 4096), {
-      reply_markup: res.correct ? undefined : new InlineKeyboard().text("🤖 Explain it to me", `ex:${q.id}`),
+      reply_markup: res.correct ? undefined : new InlineKeyboard().text("🤖 Explain it to me", `ex:${q.id}`).text("🚩 Report", `rp:${q.id}`),
     });
     await sendCurrentQuestion(ctx.api, s, res.session);
   });
@@ -906,6 +907,53 @@ function register(bot: Bot<Ctx>) {
     }[r.error];
     return ctx.reply(msg);
   };
+  // ---- Question quality ---------------------------------------------------------
+  bot.callbackQuery(/^rp:([0-9a-f-]{36})$/, async (ctx) => {
+    await reportQuestion(ctx.match[1], ctx.student!.id);
+    await ctx.answerCallbackQuery({ text: "Thanks — we'll check this question. 🙏", show_alert: false });
+  });
+
+  /** Founder: how full each question bank is. */
+  bot.command("bank", async (ctx) => {
+    if (!isFounder(ctx.student!)) return;
+    const rows = await bankStatus();
+    const lines = rows.map((r) => `${r.live >= r.target ? "✅" : r.live / r.target < 0.3 ? "🔴" : "🟡"} ${r.code.padEnd(5)} ${String(r.live).padStart(5)} / ${r.target}`);
+    return ctx.reply(`*Question banks (live / target)*\n\`\`\`\n${lines.join("\n")}\n\`\`\``, { parse_mode: "Markdown" });
+  });
+
+  /** Founder: spot-check unreviewed AI or reported questions one at a time. */
+  const sendReviewItem = async (ctx: Ctx) => {
+    const { data: reported } = await db().from("question_reports").select("question_id").limit(1);
+    let q: any = null;
+    if (reported?.[0]) q = (await db().from("questions").select("*").eq("id", reported[0].question_id).eq("reviewed", false).maybeSingle()).data;
+    if (!q) {
+      const base = () => db().from("questions").select("*", { count: "exact" }).eq("reviewed", false).like("source", "ai-grow%").eq("practice_published", true);
+      const { count: n } = await base().limit(1);
+      const offset = Math.floor(Math.random() * Math.max(1, n ?? 1));
+      const { data } = await base().range(offset, offset);
+      q = data?.[0];
+    }
+    if (!q) return ctx.reply("Nothing waiting for review 🎉");
+    const { count } = await db().from("question_reports").select("*", { count: "exact", head: true }).eq("question_id", q.id);
+    return ctx.reply(
+      [`🔎 ${subjectName(q.subject_code)} · ${q.topic ?? ""}${count ? ` · 🚩 ${count} report(s)` : ""}`, "", q.body, "", ...q.options.map((o: string, i: number) => `${i === q.answer_index ? "✅" : "▫️"} ${LETTERS[i]}. ${o}`), "", `💡 ${q.explanation ?? ""}`].join("\n"),
+      { reply_markup: new InlineKeyboard().text("✅ Correct — keep", `rv:ok:${q.id}`).text("❌ Remove", `rv:no:${q.id}`).row().text("⏭ Skip", "rv:next") },
+    );
+  };
+  bot.command("review", async (ctx) => (isFounder(ctx.student!) ? sendReviewItem(ctx) : undefined));
+  bot.callbackQuery(/^rv:(ok|no):([0-9a-f-]{36})$/, async (ctx) => {
+    if (!isFounder(ctx.student!)) return ctx.answerCallbackQuery();
+    const [, verdict, id] = ctx.match;
+    await db().from("questions").update(verdict === "ok" ? { reviewed: true, practice_published: true } : { practice_published: false, reviewed: false }).eq("id", id);
+    await db().from("question_reports").delete().eq("question_id", id);
+    await ctx.answerCallbackQuery({ text: verdict === "ok" ? "Marked as reviewed" : "Removed from practice" });
+    return sendReviewItem(ctx);
+  });
+  bot.callbackQuery("rv:next", async (ctx) => {
+    await ctx.answerCallbackQuery();
+    return isFounder(ctx.student!) ? sendReviewItem(ctx) : undefined;
+  });
+
   bot.callbackQuery(/^ex:([0-9a-f-]{36})$/, async (ctx) => {
     await ctx.answerCallbackQuery();
     return sendExplanation(ctx, ctx.match[1]);
