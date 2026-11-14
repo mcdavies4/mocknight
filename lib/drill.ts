@@ -106,7 +106,7 @@ export async function getOrCreateTodaySession(student: Student): Promise<DrillSe
   return data as DrillSession;
 }
 
-function fitsPoll(q: Question, header: string) {
+export function fitsPoll(q: Question, header: string) {
   return (
     header.length + q.body.length <= POLL_QUESTION_MAX &&
     q.options.every((o) => o.length <= POLL_OPTION_MAX) &&

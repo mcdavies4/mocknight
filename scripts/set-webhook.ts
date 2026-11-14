@@ -25,6 +25,7 @@ await bot.api.setMyCommands([
   { command: "lesson", description: "Next course module (Fire Marshal)" },
   { command: "certificate", description: "Get your course certificate" },
   { command: "explain", description: "Explain my last wrong answer" },
+  { command: "battle", description: "Quiz battle in a group chat" },
   { command: "invite", description: "Invite friends, earn Premium" },
   { command: "parent", description: "Weekly report for a parent" },
   { command: "settings", description: "Course, subjects, region" },

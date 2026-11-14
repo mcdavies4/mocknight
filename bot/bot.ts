@@ -12,6 +12,7 @@ import { getOrCreateTodaySession, recordDrillAnswer, sendCurrentQuestion, streak
 import { getLatestFinishedWeeklyMock, getOpenWeeklyMock, WEEKLY } from "@/lib/mock";
 import { applySuccessfulPayment, checkStarsCheckout, createCheckout, createStarsPayment, refundStarsPayment } from "@/lib/payments";
 import { STARS_ENABLED, starsFor } from "@/lib/stars";
+import { BATTLE_DEFAULT_QUESTIONS, BATTLE_MAX, BATTLE_MIN, endBattle, onPollClosed, recordBattleAnswer, runningBattle, skipQuestion, startBattle } from "@/lib/battle";
 import { createGroup, getGroupByCode, groupsOwnedBy, joinGroup, joinLink, memberCount } from "@/lib/groups";
 import { signToken } from "@/lib/auth";
 import { attachReferrer, redeemLinkCode, referralCount, refLinks } from "@/lib/referrals";
@@ -415,6 +416,7 @@ function register(bot: Bot<Ctx>) {
         "/explain — get the last question explained",
         "/lesson — next course module (Fire Marshal)",
         "/certificate — get your course certificate",
+        "/battle — start a quiz battle in a group chat",
         "",
         "*Tutors & tutorial centres*",
         "/newgroup Name — create a group with a join link",
@@ -426,6 +428,53 @@ function register(bot: Bot<Ctx>) {
       { parse_mode: "Markdown" },
     ),
   );
+
+  // ---- Group quiz battles -----------------------------------------------------
+  const canControlBattle = async (ctx: Ctx, startedBy: string | null) => {
+    if (startedBy && startedBy === ctx.student?.id) return true;
+    if (!ctx.chat || !ctx.from) return false;
+    const m = await ctx.api.getChatMember(ctx.chat.id, ctx.from.id).catch(() => null);
+    return m?.status === "creator" || m?.status === "administrator";
+  };
+  const launchBattle = async (ctx: Ctx, count: number) => {
+    const res = await startBattle(ctx.api, { id: ctx.chat!.id, title: "title" in ctx.chat! ? ctx.chat.title : undefined }, ctx.student!, count);
+    if ("battle" in res) return;
+    if (res.error === "NO_TRACK")
+      return ctx.reply(`${ctx.from?.first_name ?? "You"}, pick your course first so I know which questions to use 👉 https://t.me/${env.botUsername}?start=battle`);
+    if (res.error === "RUNNING") return ctx.reply("A battle is already running here. Finish it first, or an admin can send /battle stop.");
+    return ctx.reply("Not enough questions for a battle in that course yet — try another course.");
+  };
+
+  bot.command("battle", async (ctx) => {
+    if (isPrivate(ctx)) {
+      return ctx.reply("⚔️ Quiz battles run in group chats. Add me to your class or study group, then send /battle there.\n\nTip: /battle 15 for 15 questions.", {
+        reply_markup: new InlineKeyboard().url("➕ Add me to a group", `https://t.me/${env.botUsername}?startgroup=battle`),
+      });
+    }
+    const arg = (ctx.match ?? "").trim().toLowerCase();
+    if (arg === "stop" || arg === "end") {
+      const b = await runningBattle(ctx.chat.id);
+      if (!b) return ctx.reply("No battle is running.");
+      if (!(await canControlBattle(ctx, b.started_by))) return ctx.reply("Only the person who started the battle or a group admin can stop it.");
+      return endBattle(ctx.api, b.id);
+    }
+    const n = Math.min(BATTLE_MAX, Math.max(BATTLE_MIN, Number.parseInt(arg, 10) || BATTLE_DEFAULT_QUESTIONS));
+    return launchBattle(ctx, n);
+  });
+  bot.callbackQuery(/^bt:(next|end):([0-9a-f-]+)$/, async (ctx) => {
+    const [, action, id] = ctx.match;
+    const { data: b } = await db().from("battles").select("started_by, status").eq("id", id).maybeSingle();
+    if (!b || b.status !== "running") return ctx.answerCallbackQuery({ text: "This battle has finished." });
+    if (!(await canControlBattle(ctx, b.started_by))) return ctx.answerCallbackQuery({ text: "Only the starter or an admin can do that.", show_alert: true });
+    await ctx.answerCallbackQuery();
+    return action === "next" ? skipQuestion(ctx.api, id) : endBattle(ctx.api, id);
+  });
+  bot.callbackQuery("bt:again", async (ctx) => {
+    await ctx.answerCallbackQuery();
+    if (!ctx.chat || isPrivate(ctx)) return;
+    return launchBattle(ctx, BATTLE_DEFAULT_QUESTIONS);
+  });
+  bot.on("poll", (ctx) => onPollClosed(ctx.api, ctx.poll));
 
   bot.command("drill", (ctx) => (isPrivate(ctx) ? startDrill(ctx.api, ctx.student!) : undefined));
   bot.command("stats", (ctx) => (isPrivate(ctx) ? sendStats(ctx.api, ctx.student!) : undefined));
@@ -741,6 +790,7 @@ function register(bot: Bot<Ctx>) {
   // ---- Drill answers --------------------------------------------------------
   // Quiz poll answers
   bot.on("poll_answer", async (ctx) => {
+    if (await recordBattleAnswer(ctx.pollAnswer, ctx.student?.id ?? null)) return;
     const s = ctx.student ?? (await getStudentByTelegram(ctx.pollAnswer.user!.id));
     if (!s) return;
     const chosen = ctx.pollAnswer.option_ids[0];
@@ -878,6 +928,10 @@ function register(bot: Bot<Ctx>) {
   bot.on("my_chat_member", async (ctx) => {
     if (ctx.chat.type === "private" && ctx.myChatMember.new_chat_member.status === "kicked" && ctx.student) {
       await db().from("students").update({ blocked: true }).eq("id", ctx.student.id);
+    }
+    const was = ctx.myChatMember.old_chat_member.status, now = ctx.myChatMember.new_chat_member.status;
+    if (ctx.chat.type !== "private" && (was === "left" || was === "kicked") && (now === "member" || now === "administrator")) {
+      await ctx.reply("👋 Hi everyone! I'm Mock Night. Send /battle to start a live quiz battle — fastest correct answers win. /battle 15 for a longer one.");
     }
   });
 

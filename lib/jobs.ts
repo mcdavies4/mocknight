@@ -1,4 +1,5 @@
 import { ALLOWED_UPDATES } from "./telegram-updates";
+import { expireStaleBattles } from "./battle";
 import { InlineKeyboard, type Api } from "grammy";
 import { db, must } from "./supabase";
 import { env } from "./env";
@@ -40,6 +41,7 @@ async function ensureWebhookUpdates(api: Api) {
 
 export async function runHourly(api: Api) {
   await ensureWebhookUpdates(api);
+  await expireStaleBattles().catch((e) => console.error("expireStaleBattles", e));
   const { date, hour, weekday } = watNow();
   const log: Record<string, unknown> = { date, hour, weekday };
 
