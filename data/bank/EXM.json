@@ -502,5 +502,201 @@
   "answer": 0,
   "explanation": "30000 ÷ (60 − 20) = 750 units.",
   "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Principles",
+  "body": "Henri Fayol's principle of 'unity of command' means",
+  "options": [
+   "everyone shares one goal",
+   "there is one department only",
+   "all decisions are made by one person",
+   "each employee should receive orders from only one superior"
+  ],
+  "answer": 3,
+  "explanation": "Fayol set out 14 principles of management.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Principles",
+  "body": "Centralisation means",
+  "options": [
+   "there are no managers",
+   "decisions are pushed down to lower levels",
+   "decision-making authority is concentrated at the top",
+   "work is outsourced"
+  ],
+  "answer": 2,
+  "explanation": "Decentralisation spreads authority downwards.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Principles",
+  "body": "Delegation means",
+  "options": [
+   "doing all tasks yourself",
+   "removing a manager",
+   "hiring consultants",
+   "assigning authority and responsibility for a task to a subordinate"
+  ],
+  "answer": 3,
+  "explanation": "The manager remains accountable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Planning",
+  "body": "A plan used only once for a specific purpose, such as a project, is a",
+  "options": [
+   "standing plan",
+   "policy",
+   "single-use plan",
+   "procedure"
+  ],
+  "answer": 2,
+  "explanation": "Policies and procedures are standing plans.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Planning",
+  "body": "SMART objectives are specific, measurable, achievable, relevant and",
+  "options": [
+   "time-bound",
+   "timeless",
+   "tested",
+   "technical"
+  ],
+  "answer": 0,
+  "explanation": "SMART objectives are easier to monitor.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Decision making",
+  "body": "Bounded rationality, the idea that decision-makers have limited information and time, is associated with",
+  "options": [
+   "Abraham Maslow",
+   "Herbert Simon",
+   "Frederick Taylor",
+   "Henri Fayol"
+  ],
+  "answer": 1,
+  "explanation": "Managers often 'satisfice' rather than optimise.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Control",
+  "body": "Feedforward control acts",
+  "options": [
+   "never",
+   "during annual audits only",
+   "before an activity, to prevent problems",
+   "only after results are known"
+  ],
+  "answer": 2,
+  "explanation": "Concurrent control acts during the activity; feedback control after.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Motivation",
+  "body": "Vroom's expectancy theory says motivation depends on expectancy, instrumentality and",
+  "options": [
+   "hygiene",
+   "authority",
+   "valence",
+   "salary only"
+  ],
+  "answer": 2,
+  "explanation": "Valence is how much the person values the reward.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Motivation",
+  "body": "Adams' equity theory suggests employees are motivated by",
+  "options": [
+   "only their own needs",
+   "fairness compared with others' inputs and rewards",
+   "job security only",
+   "fear of punishment"
+  ],
+  "answer": 1,
+  "explanation": "Perceived unfairness reduces effort.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Leadership",
+  "body": "Transformational leaders",
+  "options": [
+   "never communicate",
+   "rely only on rewards and punishments",
+   "inspire followers to go beyond self-interest for a shared vision",
+   "avoid making decisions"
+  ],
+  "answer": 2,
+  "explanation": "Transactional leaders focus on exchanges of rewards for performance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Leadership",
+  "body": "Fiedler's contingency model says effective leadership depends on",
+  "options": [
+   "matching leadership style to the situation",
+   "one best style for all situations",
+   "the number of employees only",
+   "the leader's height"
+  ],
+  "answer": 0,
+  "explanation": "Situational favourableness matters.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Organisation",
+  "body": "A matrix structure means employees report to",
+  "options": [
+   "nobody",
+   "only the CEO",
+   "both a functional manager and a project manager",
+   "customers"
+  ],
+  "answer": 2,
+  "explanation": "It improves coordination but can confuse authority.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Change",
+  "body": "Lewin's change model has three stages:",
+  "options": [
+   "buy, sell and hold",
+   "hire, train and fire",
+   "unfreeze, change and refreeze",
+   "plan, do and check"
+  ],
+  "answer": 2,
+  "explanation": "Refreezing embeds the new way of working.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXM",
+  "topic": "Quality",
+  "body": "Total Quality Management (TQM) emphasises",
+  "options": [
+   "cutting staff",
+   "ignoring customers",
+   "inspection only at the end",
+   "continuous improvement and customer focus across the organisation"
+  ],
+  "answer": 3,
+  "explanation": "Deming and Juran were key figures.",
+  "difficulty": 2
  }
 ]

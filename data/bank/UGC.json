@@ -208,5 +208,103 @@
   "answer": 3,
   "explanation": "Buganda's parliament is the Lukiiko.",
   "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "History",
+  "body": "Uganda was a British protectorate from",
+  "options": [
+   "1884",
+   "1962",
+   "1894",
+   "1914"
+  ],
+  "answer": 2,
+  "explanation": "It became independent in 1962.",
+  "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "Geography",
+  "body": "Which lake is shared by Uganda, Kenya and Tanzania?",
+  "options": [
+   "Lake Victoria",
+   "Lake Albert",
+   "Lake Edward",
+   "Lake Kyoga"
+  ],
+  "answer": 0,
+  "explanation": "It is Africa's largest lake by area.",
+  "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "Geography",
+  "body": "Uganda is often called",
+  "options": [
+   "the Pearl of Africa",
+   "the Land of a Thousand Hills",
+   "Africa in miniature",
+   "the Giant of Africa"
+  ],
+  "answer": 0,
+  "explanation": "Winston Churchill popularised the phrase.",
+  "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "Geography",
+  "body": "Which national park is famous for mountain gorillas?",
+  "options": [
+   "Queen Elizabeth National Park",
+   "Bwindi Impenetrable National Park",
+   "Kidepo Valley National Park",
+   "Murchison Falls National Park"
+  ],
+  "answer": 1,
+  "explanation": "Mgahinga also has gorillas.",
+  "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "Civics",
+  "body": "In Uganda, the voting age is",
+  "options": [
+   "21",
+   "25",
+   "16",
+   "18"
+  ],
+  "answer": 3,
+  "explanation": "Citizens aged 18 and over can vote.",
+  "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "Civics",
+  "body": "Uganda's legislature is",
+  "options": [
+   "the Lukiiko",
+   "Parliament (unicameral)",
+   "the Senate and House",
+   "the Bunge"
+  ],
+  "answer": 1,
+  "explanation": "The Lukiiko is Buganda's kingdom parliament.",
+  "difficulty": 1
+ },
+ {
+  "subject": "UGC",
+  "topic": "Economy",
+  "body": "What currency does Uganda use?",
+  "options": [
+   "The Ugandan shilling",
+   "The naira",
+   "The franc",
+   "The Kenyan shilling"
+  ],
+  "answer": 0,
+  "explanation": "Its code is UGX.",
+  "difficulty": 1
  }
 ]

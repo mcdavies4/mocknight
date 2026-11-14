@@ -404,5 +404,313 @@
   "answer": 1,
   "explanation": "1 ÷ (1 − 0.5) = 2.",
   "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Micro",
+  "body": "When a good's income elasticity of demand is negative, it is",
+  "options": [
+   "an inferior good",
+   "a normal good",
+   "a luxury good",
+   "a public good"
+  ],
+  "answer": 0,
+  "explanation": "Demand falls as income rises.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Micro",
+  "body": "Goods that are rivalrous and excludable are",
+  "options": [
+   "private goods",
+   "club goods",
+   "public goods",
+   "common resources"
+  ],
+  "answer": 0,
+  "explanation": "Public goods are non-rival and non-excludable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Micro",
+  "body": "The free-rider problem is mainly associated with",
+  "options": [
+   "private goods",
+   "public goods",
+   "luxury goods",
+   "inferior goods"
+  ],
+  "answer": 1,
+  "explanation": "People can benefit without paying.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Micro",
+  "body": "A negative externality, such as pollution, leads a free market to produce",
+  "options": [
+   "too little of the good",
+   "exactly the right amount",
+   "too much of the good",
+   "nothing"
+  ],
+  "answer": 2,
+  "explanation": "Taxes can correct negative externalities.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Micro",
+  "body": "A price ceiling set below the equilibrium price causes",
+  "options": [
+   "a surplus",
+   "higher prices",
+   "no change",
+   "a shortage"
+  ],
+  "answer": 3,
+  "explanation": "Quantity demanded exceeds quantity supplied.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Micro",
+  "body": "A price floor set above equilibrium, such as a minimum wage, can cause",
+  "options": [
+   "no change",
+   "a shortage",
+   "lower prices",
+   "a surplus"
+  ],
+  "answer": 3,
+  "explanation": "In the labour market, the surplus is unemployment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Micro",
+  "body": "Economies of scale occur when",
+  "options": [
+   "average cost falls as output increases",
+   "a firm shrinks",
+   "total cost falls to zero",
+   "prices rise with output"
+  ],
+  "answer": 0,
+  "explanation": "Diseconomies of scale are the opposite.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Micro",
+  "body": "In the long run in perfect competition, firms earn",
+  "options": [
+   "supernormal profit",
+   "monopoly profit",
+   "normal profit",
+   "losses forever"
+  ],
+  "answer": 2,
+  "explanation": "Entry and exit remove supernormal profit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Macro",
+  "body": "Stagflation is",
+  "options": [
+   "high inflation together with high unemployment and slow growth",
+   "low inflation with full employment",
+   "falling prices with rapid growth",
+   "a type of tax"
+  ],
+  "answer": 0,
+  "explanation": "It challenged simple Phillips curve thinking.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Macro",
+  "body": "The Phillips curve originally showed a trade-off between",
+  "options": [
+   "taxes and spending",
+   "inflation and unemployment",
+   "savings and investment",
+   "exports and imports"
+  ],
+  "answer": 1,
+  "explanation": "The long-run curve is thought to be vertical.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Macro",
+  "body": "Open market operations involve the central bank",
+  "options": [
+   "printing textbooks",
+   "buying and selling government securities",
+   "setting tax rates",
+   "building roads"
+  ],
+  "answer": 1,
+  "explanation": "They change the money supply.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Macro",
+  "body": "A depreciation of the birr would usually make Ethiopian exports",
+  "options": [
+   "more expensive for foreign buyers",
+   "cheaper for foreign buyers",
+   "unchanged in price",
+   "illegal"
+  ],
+  "answer": 1,
+  "explanation": "Imports become more expensive.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Trade",
+  "body": "A tariff is",
+  "options": [
+   "a tax on imports",
+   "a subsidy to exporters",
+   "a type of exchange rate",
+   "a limit on the number of imports"
+  ],
+  "answer": 0,
+  "explanation": "A quota limits the quantity of imports.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Development",
+  "body": "The Human Development Index (HDI) combines",
+  "options": [
+   "inflation, unemployment and interest",
+   "health, education and income",
+   "exports, imports and tariffs",
+   "population, land and capital"
+  ],
+  "answer": 1,
+  "explanation": "It is published by the UNDP.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "When the price of good B rises by 20%, demand for good A falls by 10%. What is the cross elasticity of demand?",
+  "options": [
+   "2",
+   "-0.5",
+   "0.5",
+   "-2"
+  ],
+  "answer": 1,
+  "explanation": "XED = −10% ÷ 20% = -0.5, so the goods are complements.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "When the price of good B rises by 20%, demand for good A rises by 20%. What is the cross elasticity of demand?",
+  "options": [
+   "2",
+   "1",
+   "0",
+   "-1"
+  ],
+  "answer": 1,
+  "explanation": "XED = +20% ÷ 20% = 1, so the goods are substitutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "When the price of good B rises by 5%, demand for good A rises by 20%. What is the cross elasticity of demand?",
+  "options": [
+   "-4",
+   "4",
+   "5",
+   "0.25"
+  ],
+  "answer": 1,
+  "explanation": "XED = +20% ÷ 5% = 4, so the goods are substitutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "When the price of good B rises by 5%, demand for good A falls by 20%. What is the cross elasticity of demand?",
+  "options": [
+   "-4",
+   "4",
+   "0.25",
+   "-0.25"
+  ],
+  "answer": 0,
+  "explanation": "XED = −20% ÷ 5% = -4, so the goods are complements.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "When the price of good B rises by 20%, demand for good A rises by 10%. What is the cross elasticity of demand?",
+  "options": [
+   "-0.5",
+   "2",
+   "1.5",
+   "0.5"
+  ],
+  "answer": 3,
+  "explanation": "XED = +10% ÷ 20% = 0.5, so the goods are substitutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "When the price of good B rises by 10%, demand for good A falls by 15%. What is the cross elasticity of demand?",
+  "options": [
+   "-0.67",
+   "-1.5",
+   "0.67",
+   "1.5"
+  ],
+  "answer": 1,
+  "explanation": "XED = −15% ÷ 10% = -1.5, so the goods are complements.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "When the price of good B rises by 20%, demand for good A falls by 30%. What is the cross elasticity of demand?",
+  "options": [
+   "-1.5",
+   "-0.67",
+   "0.67",
+   "1.5"
+  ],
+  "answer": 0,
+  "explanation": "XED = −30% ÷ 20% = -1.5, so the goods are complements.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EXE",
+  "topic": "Calculations",
+  "body": "When the price of good B rises by 5%, demand for good A falls by 15%. What is the cross elasticity of demand?",
+  "options": [
+   "0.33",
+   "-0.33",
+   "-3",
+   "3"
+  ],
+  "answer": 2,
+  "explanation": "XED = −15% ÷ 5% = -3, so the goods are complements.",
+  "difficulty": 2
  }
 ]

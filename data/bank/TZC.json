@@ -222,5 +222,103 @@
   "answer": 0,
   "explanation": "English is also used in government and secondary education.",
   "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "History",
+  "body": "Zanzibar's revolution took place on",
+  "options": [
+   "26 April 1964",
+   "7 July 1954",
+   "9 December 1961",
+   "12 January 1964"
+  ],
+  "answer": 3,
+  "explanation": "Abeid Amani Karume became President of Zanzibar.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "History",
+  "body": "TANU, the party that led Tanganyika to independence, was founded in",
+  "options": [
+   "1977",
+   "1954",
+   "1964",
+   "1961"
+  ],
+  "answer": 1,
+  "explanation": "Its leader was Julius Nyerere.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "History",
+  "body": "After the First World War, Tanganyika was administered by",
+  "options": [
+   "France",
+   "Germany",
+   "Portugal",
+   "Britain"
+  ],
+  "answer": 3,
+  "explanation": "It was a League of Nations mandate, later a UN trust territory.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "Geography",
+  "body": "Which lake forms part of Tanzania's border with Malawi and Mozambique?",
+  "options": [
+   "Lake Tanganyika",
+   "Lake Nyasa",
+   "Lake Eyasi",
+   "Lake Victoria"
+  ],
+  "answer": 1,
+  "explanation": "It is also called Lake Malawi.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "Geography",
+  "body": "Which is Tanzania's main port city?",
+  "options": [
+   "Dodoma",
+   "Arusha",
+   "Dar es Salaam",
+   "Mwanza"
+  ],
+  "answer": 2,
+  "explanation": "Tanga and Mtwara are other ports.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "Civics",
+  "body": "In Tanzania, the voting age is",
+  "options": [
+   "25",
+   "16",
+   "18",
+   "21"
+  ],
+  "answer": 2,
+  "explanation": "Citizens aged 18 and over can vote.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TZC",
+  "topic": "Civics",
+  "body": "The head of state and government in Tanzania is the",
+  "options": [
+   "President",
+   "Speaker",
+   "Chief Justice",
+   "Prime Minister"
+  ],
+  "answer": 0,
+  "explanation": "The Prime Minister leads government business in the Bunge.",
+  "difficulty": 1
  }
 ]

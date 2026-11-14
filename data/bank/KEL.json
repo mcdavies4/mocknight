@@ -1,0 +1,296 @@
+[
+ {
+  "subject": "KEL",
+  "topic": "Tax",
+  "body": "What is the standard VAT rate in Kenya?",
+  "options": [
+   "16%",
+   "15%",
+   "14%",
+   "18%"
+  ],
+  "answer": 0,
+  "explanation": "Some supplies are zero-rated or exempt.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KEL",
+  "topic": "Tax",
+  "body": "What is the corporate income tax rate for a resident company in Kenya?",
+  "options": [
+   "25%",
+   "20%",
+   "35%",
+   "30%"
+  ],
+  "answer": 3,
+  "explanation": "Some sectors and newly listed companies have lower rates.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KEL",
+  "topic": "Tax",
+  "body": "Which body administers tax in Kenya?",
+  "options": [
+   "KASNEB",
+   "Kenya Revenue Authority (KRA)",
+   "Central Bank of Kenya",
+   "Capital Markets Authority"
+  ],
+  "answer": 1,
+  "explanation": "Returns are filed online through iTax.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KEL",
+  "topic": "Tax",
+  "body": "PAYE is",
+  "options": [
+   "a property rates charge",
+   "a tax on company profits only",
+   "income tax deducted from employees' pay by the employer",
+   "a tax on imports"
+  ],
+  "answer": 2,
+  "explanation": "Pay As You Earn.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KEL",
+  "topic": "Tax",
+  "body": "The Affordable Housing Levy is charged at",
+  "options": [
+   "5% paid by the employer only",
+   "1.5% of gross salary, paid by both employee and employer",
+   "1% of turnover",
+   "10% of profits"
+  ],
+  "answer": 1,
+  "explanation": "It funds affordable housing projects.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KEL",
+  "topic": "Tax",
+  "body": "Kenya's NHIF was replaced by the",
+  "options": [
+   "KRA",
+   "Housing Fund",
+   "Social Health Insurance Fund (SHIF)",
+   "NSSF"
+  ],
+  "answer": 2,
+  "explanation": "SHIF contributions are deducted from pay.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KEL",
+  "topic": "Profession",
+  "body": "Which body examines the CPA qualification in Kenya?",
+  "options": [
+   "KASNEB",
+   "ICPAK",
+   "KRA",
+   "CMA"
+  ],
+  "answer": 0,
+  "explanation": "ICPAK is the professional body that registers accountants.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KEL",
+  "topic": "Profession",
+  "body": "Which body regulates and registers professional accountants in Kenya?",
+  "options": [
+   "KASNEB",
+   "ICPAK",
+   "NSE",
+   "KRA"
+  ],
+  "answer": 1,
+  "explanation": "Under the Accountants Act, 2008.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KEL",
+  "topic": "Company law",
+  "body": "Which Act governs companies in Kenya?",
+  "options": [
+   "The Insolvency Act, 1990",
+   "The Companies Act, 1948",
+   "The Companies Act, 2015",
+   "The Partnerships Act, 2012"
+  ],
+  "answer": 2,
+  "explanation": "It replaced the old Companies Act (Cap 486).",
+  "difficulty": 2
+ },
+ {
+  "subject": "KEL",
+  "topic": "Company law",
+  "body": "Insolvency of companies and individuals in Kenya is mainly governed by",
+  "options": [
+   "The Sale of Goods Act",
+   "The Companies Act, 1948",
+   "The Employment Act",
+   "The Insolvency Act, 2015"
+  ],
+  "answer": 3,
+  "explanation": "It covers administration, liquidation and bankruptcy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KEL",
+  "topic": "Company law",
+  "body": "A company's constitution regulating its internal affairs is mainly its",
+  "options": [
+   "articles of association",
+   "annual return",
+   "certificate of incorporation only",
+   "share certificate"
+  ],
+  "answer": 0,
+  "explanation": "The articles set out directors' powers and members' rights.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KEL",
+  "topic": "Company law",
+  "body": "A company has 'separate legal personality', which means",
+  "options": [
+   "shareholders are personally liable for all debts",
+   "it cannot own property",
+   "it ends when a director dies",
+   "the company is a legal person distinct from its members"
+  ],
+  "answer": 3,
+  "explanation": "Established in Salomon v Salomon & Co (1897).",
+  "difficulty": 2
+ },
+ {
+  "subject": "KEL",
+  "topic": "Contract",
+  "body": "Which is NOT an essential element of a valid contract?",
+  "options": [
+   "Writing in every case",
+   "Intention to create legal relations",
+   "Offer and acceptance",
+   "Consideration"
+  ],
+  "answer": 0,
+  "explanation": "Many contracts are valid orally; some must be in writing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KEL",
+  "topic": "Contract",
+  "body": "An invitation to treat, such as goods displayed in a shop window, is",
+  "options": [
+   "an acceptance",
+   "a binding offer",
+   "a contract",
+   "not an offer but an invitation to make offers"
+  ],
+  "answer": 3,
+  "explanation": "The customer makes the offer at the till.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KEL",
+  "topic": "Contract",
+  "body": "Acceptance of an offer must generally be",
+  "options": [
+   "silent",
+   "a counter-offer",
+   "made after the offer lapses",
+   "unconditional and communicated to the offeror"
+  ],
+  "answer": 3,
+  "explanation": "A counter-offer rejects the original offer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KEL",
+  "topic": "Contract",
+  "body": "A contract made by a minor for necessaries is generally",
+  "options": [
+   "illegal",
+   "always void",
+   "always fully enforceable",
+   "binding to the extent of a reasonable price"
+  ],
+  "answer": 3,
+  "explanation": "Capacity rules protect minors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KEL",
+  "topic": "Contract",
+  "body": "A contract induced by a false statement of fact is affected by",
+  "options": [
+   "novation",
+   "frustration",
+   "misrepresentation",
+   "consideration"
+  ],
+  "answer": 2,
+  "explanation": "The innocent party may be able to rescind it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KEL",
+  "topic": "Constitution",
+  "body": "Kenya's current constitution was promulgated in",
+  "options": [
+   "1963",
+   "2010",
+   "1992",
+   "2002"
+  ],
+  "answer": 1,
+  "explanation": "It created devolved county governments.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KEL",
+  "topic": "Constitution",
+  "body": "How many counties does Kenya have under the 2010 Constitution?",
+  "options": [
+   "50",
+   "47",
+   "8",
+   "42"
+  ],
+  "answer": 1,
+  "explanation": "Each county has a governor and an assembly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KEL",
+  "topic": "Markets",
+  "body": "Which body regulates the capital markets in Kenya?",
+  "options": [
+   "Capital Markets Authority (CMA)",
+   "KRA",
+   "ICPAK",
+   "Central Bank of Kenya"
+  ],
+  "answer": 0,
+  "explanation": "Shares trade on the Nairobi Securities Exchange (NSE).",
+  "difficulty": 2
+ },
+ {
+  "subject": "KEL",
+  "topic": "Partnership",
+  "body": "Partnerships in Kenya are mainly governed by",
+  "options": [
+   "The Insolvency Act, 2015",
+   "The Employment Act, 2007",
+   "The Companies Act, 2015",
+   "The Partnerships Act, 2012"
+  ],
+  "answer": 3,
+  "explanation": "It also provides for limited liability partnerships.",
+  "difficulty": 2
+ }
+]

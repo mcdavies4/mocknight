@@ -2,9 +2,9 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
-export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi" | "Asia/Manila";
+export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi" | "Asia/Manila" | "Africa/Johannesburg";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
 export interface Marking { correct: number; wrong: number }
 
@@ -26,7 +26,7 @@ export interface Track {
   short: string;
   emoji: string;
   kind: "school" | "citizenship" | "work" | "professional";
-  region: "NG" | "GH" | "WA" | "UK" | "GLOBAL" | "ET" | "IN" | "US" | "CA" | "AU" | "GULF" | "KE" | "PK" | "PH" | "TZ" | "UG" | "CM";
+  region: "NG" | "GH" | "WA" | "UK" | "GLOBAL" | "ET" | "IN" | "US" | "CA" | "AU" | "GULF" | "KE" | "PK" | "PH" | "TZ" | "UG" | "CM" | "ZA";
   currency: "NGN" | "GBP" | "ETB" | "INR" | "USD";
   subjectMode: "multi" | "single";
   subjects: string[];
@@ -684,6 +684,36 @@ export const TRACKS: Record<TrackCode, Track> = {
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["pm_pass", "pm_pass_ngn"], tagline: "PRINCE2 Foundation, Scrum PSM I and CAPM practice tests", timeZone: "Europe/London",
     audience: "a working professional preparing for project management certifications (PRINCE2 7 Foundation, Scrum.org PSM I, PMI CAPM)",
+  },
+  SALEARN: {
+    code: "SALEARN", name: "South Africa learner's licence (K53)", short: "Learner's licence SA", emoji: "🚗", kind: "professional", region: "ZA", currency: "USD",
+    subjectMode: "single", subjects: ["K53"], compulsory: ["K53"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 30, minutes: 30, passPct: 80, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["k53_pass"], tagline: "Learner's licence practice: rules of the road, road signs and vehicle controls", timeZone: "Africa/Johannesburg", timeLabel: "South Africa",
+    audience: "a South African preparing for the K53 learner's licence test (rules of the road, road signs, vehicle controls)",
+  },
+  MATRIC: {
+    code: "MATRIC", name: "South Africa Matric (NSC Grade 12)", short: "Matric SA", emoji: "🇿🇦", kind: "school", region: "ZA", currency: "USD",
+    subjectMode: "multi", subjects: ["ENG", "MTH", "PHY", "CHM", "BIO", "GEO", "ACC", "ECO"], compulsory: ["ENG", "MTH"], minSubjects: 3, maxSubjects: 8,
+    subjectNote: "English and Maths plus Physical Sciences, Life Sciences, Geography, Accounting or Economics",
+    mock: { perSubject: 15, minutes: 30, scoreStyle: "percent", maxSubjects: 4 }, weeklyMock: false, askState: false, askSchool: true,
+    plans: ["matric_season"], tagline: "Matric (NSC) revision: English, Maths, Physical and Life Sciences, Geography, Accounting and Economics", timeZone: "Africa/Johannesburg", timeLabel: "South Africa",
+    audience: "a South African Grade 12 learner preparing for the National Senior Certificate (Matric) exams",
+  },
+  KCPA: {
+    code: "KCPA", name: "Kenya CPA (KASNEB)", short: "CPA Kenya", emoji: "📒", kind: "professional", region: "KE", currency: "USD",
+    subjectMode: "multi", subjects: ["AFA", "AMA", "ABT", "EXE", "KEL"], compulsory: [], minSubjects: 1, maxSubjects: 5,
+    subjectNote: "Financial and management accounting, business, economics, and Kenyan law and tax",
+    mock: { perSubject: 15, minutes: 60, passPct: 50, scoreStyle: "passfail", maxSubjects: 3 },
+    mockVariants: [
+      { key: "FA", label: "Financial Accounting", short: "Financial Acc", subjects: ["AFA"], total: 40, minutes: 60, passPct: 50, note: "40 questions · 60 min" },
+      { key: "MA", label: "Management Accounting", short: "Management Acc", subjects: ["AMA"], total: 40, minutes: 60, passPct: 50, note: "40 questions · 60 min" },
+      { key: "LAW", label: "Business Law & Tax (Kenya)", short: "Law & Tax", subjects: ["KEL"], total: 30, minutes: 45, passPct: 50, note: "30 questions · 45 min" },
+      { key: "ECON", label: "Economics", short: "Economics", subjects: ["EXE"], total: 30, minutes: 45, passPct: 50, note: "30 questions · 45 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["kcpa_pass"], tagline: "CPA (KASNEB) practice: accounting, business law, Kenyan tax and economics", timeZone: "Africa/Nairobi", timeLabel: "Kenya",
+    audience: "a Kenyan student preparing for KASNEB CPA papers (foundation and intermediate levels)",
   },
   ETEXIT: {
     code: "ETEXIT", name: "Ethiopia University Exit Exam", short: "Exit Exam Ethiopia", emoji: "🎓", kind: "professional", region: "ET", currency: "USD",

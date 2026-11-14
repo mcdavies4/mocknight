@@ -194,5 +194,103 @@
   "answer": 3,
   "explanation": "It has nearly every African climate and landscape.",
   "difficulty": 1
+ },
+ {
+  "subject": "CMC",
+  "topic": "History",
+  "body": "The UN plebiscite that decided the future of British Cameroons took place in",
+  "options": [
+   "January 1960",
+   "October 1982",
+   "May 1972",
+   "February 1961"
+  ],
+  "answer": 3,
+  "explanation": "Southern Cameroons voted to join Cameroun; Northern Cameroons joined Nigeria.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CMC",
+  "topic": "History",
+  "body": "Paul Biya became President of Cameroon in",
+  "options": [
+   "1960",
+   "1982",
+   "1972",
+   "1990"
+  ],
+  "answer": 1,
+  "explanation": "He succeeded Ahmadou Ahidjo.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CMC",
+  "topic": "Geography",
+  "body": "Which is Cameroon's largest city and main port?",
+  "options": [
+   "Douala",
+   "Yaoundé",
+   "Garoua",
+   "Limbe"
+  ],
+  "answer": 0,
+  "explanation": "Yaoundé is the capital.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CMC",
+  "topic": "Geography",
+  "body": "Buea, at the foot of Mount Cameroon, is the capital of which region?",
+  "options": [
+   "Littoral",
+   "North-West",
+   "South-West",
+   "Centre"
+  ],
+  "answer": 2,
+  "explanation": "Bamenda is the capital of the North-West.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CMC",
+  "topic": "Region",
+  "body": "Cameroon is a member of which regional economic community?",
+  "options": [
+   "SADC",
+   "ECOWAS",
+   "EAC",
+   "CEMAC"
+  ],
+  "answer": 3,
+  "explanation": "The Economic and Monetary Community of Central Africa.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CMC",
+  "topic": "Civics",
+  "body": "In Cameroon, the voting age is",
+  "options": [
+   "18",
+   "25",
+   "16",
+   "20"
+  ],
+  "answer": 3,
+  "explanation": "Cameroon's voting age is higher than in many countries.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CMC",
+  "topic": "Culture",
+  "body": "Cameroon's national football team is nicknamed",
+  "options": [
+   "the Indomitable Lions",
+   "the Super Eagles",
+   "the Elephants",
+   "the Black Stars"
+  ],
+  "answer": 0,
+  "explanation": "They reached the World Cup quarter-finals in 1990.",
+  "difficulty": 1
  }
 ]

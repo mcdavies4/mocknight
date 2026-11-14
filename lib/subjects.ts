@@ -43,6 +43,8 @@ export const SUBJECTS: Record<string, string> = {
   TZC: "Civics (Tanzania)",
   UGC: "Uganda general knowledge",
   CMC: "Cameroon general knowledge",
+  K53: "Learner's licence (K53)",
+  KEL: "Business law & tax (Kenya)",
   UDM: "Decision making",
   USJ: "Situational judgement",
   ISC: "Integrated Science",

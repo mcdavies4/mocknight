@@ -1,0 +1,380 @@
+[
+ {
+  "subject": "K53",
+  "topic": "Speed limits",
+  "body": "Unless a sign shows otherwise, the general speed limit on a public road in an urban area is",
+  "options": [
+   "100 km/h",
+   "80 km/h",
+   "40 km/h",
+   "60 km/h"
+  ],
+  "answer": 3,
+  "explanation": "Outside urban areas it is 100 km/h; on freeways 120 km/h.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Speed limits",
+  "body": "Unless a sign shows otherwise, the general speed limit on a public road outside an urban area (not a freeway) is",
+  "options": [
+   "120 km/h",
+   "80 km/h",
+   "60 km/h",
+   "100 km/h"
+  ],
+  "answer": 3,
+  "explanation": "Freeways are 120 km/h.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Speed limits",
+  "body": "Unless a sign shows otherwise, the general speed limit on a freeway is",
+  "options": [
+   "140 km/h",
+   "120 km/h",
+   "80 km/h",
+   "100 km/h"
+  ],
+  "answer": 1,
+  "explanation": "Always adjust speed to conditions.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Alcohol",
+  "body": "The legal blood alcohol limit for ordinary drivers is",
+  "options": [
+   "less than 0.08 g per 100 ml",
+   "less than 0.5 g per 100 ml",
+   "less than 0.05 g per 100 ml of blood",
+   "zero for everyone"
+  ],
+  "answer": 2,
+  "explanation": "For professional drivers it is less than 0.02 g per 100 ml.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Alcohol",
+  "body": "The legal blood alcohol limit for professional drivers is",
+  "options": [
+   "less than 0.02 g per 100 ml of blood",
+   "less than 0.08 g per 100 ml",
+   "there is no limit",
+   "less than 0.05 g per 100 ml"
+  ],
+  "answer": 0,
+  "explanation": "Professional drivers hold a PrDP.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Learner's licence",
+  "body": "A learner driver of a light motor vehicle must be accompanied by",
+  "options": [
+   "any passenger over 16",
+   "a person with a valid licence for that vehicle class, seated beside them",
+   "another learner",
+   "nobody, if driving slowly"
+  ],
+  "answer": 1,
+  "explanation": "The accompanying driver must be licensed for that class.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Learner's licence",
+  "body": "How long is a learner's licence valid?",
+  "options": [
+   "6 months",
+   "12 months",
+   "5 years",
+   "24 months"
+  ],
+  "answer": 3,
+  "explanation": "You must pass the driving test before it expires or rewrite the learner's test.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Learner's licence",
+  "body": "The minimum age to apply for a learner's licence for a light motor vehicle (learner's code 2) is",
+  "options": [
+   "17",
+   "16",
+   "18",
+   "21"
+  ],
+  "answer": 0,
+  "explanation": "You must be 18 to get a driving licence for a light motor vehicle.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Rules",
+  "body": "In South Africa, you drive on the",
+  "options": [
+   "left side of the road and overtake on the right",
+   "either side",
+   "right side and overtake on the left",
+   "middle of the road"
+  ],
+  "answer": 0,
+  "explanation": "Keep left unless overtaking.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Rules",
+  "body": "At a four-way stop, who goes first?",
+  "options": [
+   "The vehicle that stopped first",
+   "The largest vehicle",
+   "The vehicle on the right always",
+   "The fastest vehicle"
+  ],
+  "answer": 0,
+  "explanation": "Proceed in the order of arrival, once it is safe.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Rules",
+  "body": "At a traffic circle, you must yield to",
+  "options": [
+   "vehicles already in the circle (approaching from the right)",
+   "vehicles entering after you",
+   "nobody",
+   "pedestrians only"
+  ],
+  "answer": 0,
+  "explanation": "Enter only when the way is clear.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Rules",
+  "body": "A solid white line in the middle of the road (no-overtaking line) means",
+  "options": [
+   "you may overtake carefully",
+   "it marks a bus lane",
+   "you may not cross or straddle it",
+   "it is a parking bay"
+  ],
+  "answer": 2,
+  "explanation": "A broken line may be crossed when safe.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Rules",
+  "body": "Using a hand-held cellphone while driving is",
+  "options": [
+   "allowed at traffic lights",
+   "against the law",
+   "allowed for short calls",
+   "allowed at low speed"
+  ],
+  "answer": 1,
+  "explanation": "Use a hands-free kit or pull over safely.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Rules",
+  "body": "Who must wear a seatbelt in a vehicle where one is fitted?",
+  "options": [
+   "Only front-seat passengers",
+   "Only the driver",
+   "Nobody on short trips",
+   "The driver and all passengers"
+  ],
+  "answer": 3,
+  "explanation": "Children must use suitable restraints.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Rules",
+  "body": "When an emergency vehicle approaches with sirens and lights on, you must",
+  "options": [
+   "follow it closely",
+   "speed up",
+   "give way, moving left and stopping if necessary",
+   "stop in the middle of the road"
+  ],
+  "answer": 2,
+  "explanation": "Never block an emergency vehicle.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Rules",
+  "body": "The 'two-second rule' helps you keep",
+  "options": [
+   "your fuel consumption low",
+   "a safe following distance",
+   "your speed below the limit",
+   "a safe parking distance"
+  ],
+  "answer": 1,
+  "explanation": "Increase it in rain, fog or at night.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Signs",
+  "body": "A red octagonal sign means",
+  "options": [
+   "yield",
+   "stop",
+   "danger ahead",
+   "no entry"
+  ],
+  "answer": 1,
+  "explanation": "You must come to a complete stop.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Signs",
+  "body": "An inverted (upside-down) triangle sign with a red border means",
+  "options": [
+   "yield",
+   "stop",
+   "road works",
+   "no overtaking"
+  ],
+  "answer": 0,
+  "explanation": "Give way to traffic on the road you are entering.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Signs",
+  "body": "Signs with a red circle (often with a red diagonal bar) are",
+  "options": [
+   "guidance signs",
+   "prohibition signs",
+   "warning signs",
+   "information signs"
+  ],
+  "answer": 1,
+  "explanation": "They tell you what you may not do.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Signs",
+  "body": "Signs shaped as a triangle with a red border usually",
+  "options": [
+   "give an instruction you must obey",
+   "warn of a hazard ahead",
+   "show tourist information",
+   "show distances to towns"
+  ],
+  "answer": 1,
+  "explanation": "Slow down and look out for the hazard.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Signs",
+  "body": "A blue circular sign usually",
+  "options": [
+   "shows a tourist attraction",
+   "gives a command you must follow",
+   "warns of danger",
+   "marks the end of a freeway"
+  ],
+  "answer": 1,
+  "explanation": "For example, 'keep left' or 'pedestrians only'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Signals",
+  "body": "A flashing red traffic light should be treated as",
+  "options": [
+   "a green light",
+   "an instruction to speed up",
+   "a stop sign",
+   "a yield sign"
+  ],
+  "answer": 2,
+  "explanation": "Stop, then go when safe.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Signals",
+  "body": "A steady amber traffic light means",
+  "options": [
+   "stop, unless you are so close that stopping would be unsafe",
+   "go faster to beat the red",
+   "the lights are broken",
+   "pedestrians must stop"
+  ],
+  "answer": 0,
+  "explanation": "Amber comes before red.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Controls",
+  "body": "In a manual car, which pedal is pressed to change gear?",
+  "options": [
+   "The handbrake",
+   "The clutch (left pedal)",
+   "The accelerator (right pedal)",
+   "The brake (middle pedal)"
+  ],
+  "answer": 1,
+  "explanation": "The order from left is clutch, brake, accelerator.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Controls",
+  "body": "Which control is used to warn other road users of your presence in an emergency?",
+  "options": [
+   "The gear lever",
+   "The hooter",
+   "The handbrake",
+   "The clutch"
+  ],
+  "answer": 1,
+  "explanation": "Do not use it unnecessarily.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Controls",
+  "body": "Which control keeps a parked vehicle from moving?",
+  "options": [
+   "The hooter",
+   "The parking brake (handbrake)",
+   "The clutch",
+   "The indicator"
+  ],
+  "answer": 1,
+  "explanation": "Apply it whenever you park.",
+  "difficulty": 1
+ },
+ {
+  "subject": "K53",
+  "topic": "Controls",
+  "body": "Indicators (flickers) are used to",
+  "options": [
+   "unlock the doors",
+   "switch on headlights",
+   "warn of rain",
+   "show other road users which way you intend to turn or move"
+  ],
+  "answer": 3,
+  "explanation": "Signal in good time before turning.",
+  "difficulty": 1
+ }
+]
