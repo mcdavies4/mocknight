@@ -1,0 +1,646 @@
+[
+ {
+  "subject": "XLQ",
+  "topic": "References",
+  "body": "Which reference stays fixed when a formula is copied anywhere?",
+  "options": [
+   "A1",
+   "A$1",
+   "$A$1",
+   "$A1"
+  ],
+  "answer": 2,
+  "explanation": "Dollar signs lock the column and row.",
+  "difficulty": 2
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Lookups",
+  "body": "One advantage of XLOOKUP over VLOOKUP is that XLOOKUP",
+  "options": [
+   "can return values from columns to the left of the lookup column",
+   "only works on numbers",
+   "requires sorted data",
+   "can't do exact matches"
+  ],
+  "answer": 0,
+  "explanation": "It also defaults to an exact match.",
+  "difficulty": 2
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Lookups",
+  "body": "In VLOOKUP, the last argument FALSE means",
+  "options": [
+   "return blank",
+   "approximate match",
+   "case-sensitive match",
+   "exact match"
+  ],
+  "answer": 3,
+  "explanation": "TRUE (approximate) needs sorted data.",
+  "difficulty": 2
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Errors",
+  "body": "Which function returns a chosen value when a formula errors?",
+  "options": [
+   "IFS",
+   "ISBLANK",
+   "ERRORTYPE",
+   "IFERROR"
+  ],
+  "answer": 3,
+  "explanation": "For example =IFERROR(VLOOKUP(…),\"Not found\").",
+  "difficulty": 2
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Errors",
+  "body": "The #DIV/0! error means",
+  "options": [
+   "a reference was deleted",
+   "a name is unknown",
+   "a formula divided by zero or an empty cell",
+   "text was found"
+  ],
+  "answer": 2,
+  "explanation": "#REF! means an invalid reference; #NAME? means an unknown function or name.",
+  "difficulty": 2
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Analysis",
+  "body": "Which tool summarises large data by dragging fields into rows, columns and values?",
+  "options": [
+   "PivotTable",
+   "Goal Seek",
+   "Data validation",
+   "Flash Fill"
+  ],
+  "answer": 0,
+  "explanation": "PivotCharts visualise them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Analysis",
+  "body": "Which feature restricts what users can enter in a cell, such as a dropdown list?",
+  "options": [
+   "Freeze panes",
+   "Text to columns",
+   "Data validation",
+   "Conditional formatting"
+  ],
+  "answer": 2,
+  "explanation": "It helps keep data clean.",
+  "difficulty": 2
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Analysis",
+  "body": "Which tool imports, cleans and reshapes data with repeatable steps?",
+  "options": [
+   "Sparklines",
+   "Goal Seek",
+   "Power Query",
+   "Scenario Manager"
+  ],
+  "answer": 2,
+  "explanation": "Each step is recorded and can be refreshed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Analysis",
+  "body": "COUNTA differs from COUNT because COUNTA",
+  "options": [
+   "counts only numbers",
+   "counts all non-empty cells, including text",
+   "adds up values",
+   "counts blank cells"
+  ],
+  "answer": 1,
+  "explanation": "COUNTBLANK counts empty cells.",
+  "difficulty": 2
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Exam",
+  "body": "Microsoft's Excel Associate certification exam is",
+  "options": [
+   "AZ-900",
+   "PL-300",
+   "MO-200",
+   "DP-900"
+  ],
+  "answer": 2,
+  "explanation": "MO-201 is Excel Expert.",
+  "difficulty": 2
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Ada · North · 17\nRow 3: Hana · North · 7\nRow 4: Dayo · South · 28\nRow 5: Grace · North · 10\nRow 6: Cara · North · 28\n\nWhat does =COUNTIF(C2:C6,\">20\") return?",
+  "options": [
+   "2",
+   "5",
+   "3",
+   "1"
+  ],
+  "answer": 0,
+  "explanation": "2 values are greater than 20.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Logic",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Dayo · North · 14\nRow 3: Eve · North · 19\nRow 4: Femi · South · 27\nRow 5: Cara · South · 30\nRow 6: Grace · East · 20\n\nRow 4 contains =IF(C4>=15,\"High\",\"Low\"). What does it show?",
+  "options": [
+   "Low",
+   "High",
+   "#VALUE!",
+   "TRUE"
+  ],
+  "answer": 1,
+  "explanation": "C4 is 27, which is at least 15.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Logic",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Ada · South · 30\nRow 3: Dayo · South · 19\nRow 4: Cara · South · 3\nRow 5: Ben · North · 14\nRow 6: Hana · South · 7\n\nRow 2 contains =IF(C2>=20,\"High\",\"Low\"). What does it show?",
+  "options": [
+   "High",
+   "Low",
+   "#VALUE!",
+   "TRUE"
+  ],
+  "answer": 0,
+  "explanation": "C2 is 30, which is at least 20.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Hana · North · 25\nRow 3: Ada · East · 7\nRow 4: Cara · East · 13\nRow 5: Eve · South · 17\nRow 6: Ben · North · 5\n\nWhat does =COUNTIF(C2:C6,\">20\") return?",
+  "options": [
+   "1",
+   "2",
+   "0",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "1 values are greater than 20.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Ada · East · 13\nRow 3: Femi · South · 9\nRow 4: Ben · East · 18\nRow 5: Dayo · South · 4\nRow 6: Grace · South · 11\n\nWhat does =MAX(C2:C6) return?",
+  "options": [
+   "4",
+   "18",
+   "13",
+   "55"
+  ],
+  "answer": 1,
+  "explanation": "The largest value in C2:C6 is 18.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Logic",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Hana · South · 26\nRow 3: Cara · North · 12\nRow 4: Grace · North · 10\nRow 5: Dayo · North · 21\nRow 6: Ada · East · 8\n\nRow 3 contains =IF(C3>=10,\"High\",\"Low\"). What does it show?",
+  "options": [
+   "Low",
+   "#VALUE!",
+   "TRUE",
+   "High"
+  ],
+  "answer": 3,
+  "explanation": "C3 is 12, which is at least 10.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Logic",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Grace · South · 21\nRow 3: Cara · North · 19\nRow 4: Ben · North · 6\nRow 5: Eve · North · 10\nRow 6: Hana · East · 3\n\nRow 5 contains =IF(C5>=15,\"High\",\"Low\"). What does it show?",
+  "options": [
+   "High",
+   "Low",
+   "TRUE",
+   "#VALUE!"
+  ],
+  "answer": 1,
+  "explanation": "C5 is 10, which is below 15.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Hana · South · 27\nRow 3: Femi · East · 29\nRow 4: Ben · South · 15\nRow 5: Dayo · South · 16\nRow 6: Ada · South · 12\n\nWhat does =MAX(C2:C6) return?",
+  "options": [
+   "29",
+   "99",
+   "12",
+   "27"
+  ],
+  "answer": 0,
+  "explanation": "The largest value in C2:C6 is 29.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Ben · South · 21\nRow 3: Dayo · North · 25\nRow 4: Eve · East · 11\nRow 5: Grace · South · 18\nRow 6: Hana · North · 29\n\nWhat does =MAX(C2:C6) return?",
+  "options": [
+   "104",
+   "29",
+   "21",
+   "11"
+  ],
+  "answer": 1,
+  "explanation": "The largest value in C2:C6 is 29.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Lookups",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Eve · North · 3\nRow 3: Grace · North · 20\nRow 4: Femi · North · 21\nRow 5: Ben · South · 10\nRow 6: Cara · East · 19\n\nWhat does =XLOOKUP(\"Ben\",A2:A6,C2:C6) return?",
+  "options": [
+   "10",
+   "20",
+   "21",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "XLOOKUP finds \"Ben\" in A and returns the matching value in C: 10.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Ada · East · 6\nRow 3: Dayo · East · 21\nRow 4: Eve · South · 20\nRow 5: Femi · East · 11\nRow 6: Ben · North · 13\n\nWhat does =COUNTIF(C2:C6,\">10\") return?",
+  "options": [
+   "5",
+   "4",
+   "8",
+   "3"
+  ],
+  "answer": 1,
+  "explanation": "4 values are greater than 10.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Grace · South · 26\nRow 3: Femi · South · 14\nRow 4: Ada · North · 21\nRow 5: Eve · North · 17\nRow 6: Ben · North · 13\n\nWhat does =AVERAGEIF(B2:B6,\"South\",C2:C6) return?",
+  "options": [
+   "2",
+   "20",
+   "40",
+   "18.2"
+  ],
+  "answer": 1,
+  "explanation": "Average of C where B is \"South\" = 20.",
+  "difficulty": 2
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Logic",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Cara · South · 21\nRow 3: Hana · North · 28\nRow 4: Ada · East · 10\nRow 5: Femi · East · 4\nRow 6: Dayo · North · 9\n\nRow 6 contains =IF(C6>=20,\"High\",\"Low\"). What does it show?",
+  "options": [
+   "TRUE",
+   "Low",
+   "High",
+   "#VALUE!"
+  ],
+  "answer": 1,
+  "explanation": "C6 is 9, which is below 20.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Ben · North · 17\nRow 3: Hana · South · 9\nRow 4: Cara · East · 12\nRow 5: Grace · North · 22\nRow 6: Dayo · South · 4\n\nWhat does =MAX(C2:C6) return?",
+  "options": [
+   "4",
+   "17",
+   "64",
+   "22"
+  ],
+  "answer": 3,
+  "explanation": "The largest value in C2:C6 is 22.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Lookups",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Dayo · East · 3\nRow 3: Hana · North · 27\nRow 4: Ada · North · 24\nRow 5: Cara · South · 4\nRow 6: Ben · North · 14\n\nWhat does =XLOOKUP(\"Dayo\",A2:A6,C2:C6) return?",
+  "options": [
+   "27",
+   "4",
+   "3",
+   "24"
+  ],
+  "answer": 2,
+  "explanation": "XLOOKUP finds \"Dayo\" in A and returns the matching value in C: 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Grace · East · 20\nRow 3: Eve · East · 24\nRow 4: Dayo · South · 24\nRow 5: Ben · North · 16\nRow 6: Ada · South · 20\n\nWhat does =MAX(C2:C6) return?",
+  "options": [
+   "16",
+   "24",
+   "20",
+   "104"
+  ],
+  "answer": 1,
+  "explanation": "The largest value in C2:C6 is 24.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Femi · South · 19\nRow 3: Cara · East · 4\nRow 4: Eve · North · 21\nRow 5: Dayo · North · 26\nRow 6: Ben · East · 12\n\nWhat does =COUNTIFS(B2:B6,\"North\",C2:C6,\">20\") return?",
+  "options": [
+   "4",
+   "3",
+   "2",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "Rows that are \"North\" AND over 20: 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Logic",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Dayo · East · 27\nRow 3: Hana · East · 21\nRow 4: Eve · South · 6\nRow 5: Ben · South · 18\nRow 6: Femi · East · 25\n\nRow 3 contains =IF(C3>=20,\"High\",\"Low\"). What does it show?",
+  "options": [
+   "TRUE",
+   "High",
+   "Low",
+   "#VALUE!"
+  ],
+  "answer": 1,
+  "explanation": "C3 is 21, which is at least 20.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Cara · South · 25\nRow 3: Femi · East · 8\nRow 4: Ada · North · 8\nRow 5: Ben · East · 5\nRow 6: Hana · North · 6\n\nWhat does =COUNTIFS(B2:B6,\"South\",C2:C6,\">10\") return?",
+  "options": [
+   "2",
+   "3",
+   "0",
+   "1"
+  ],
+  "answer": 3,
+  "explanation": "Rows that are \"South\" AND over 10: 1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Femi · South · 6\nRow 3: Dayo · South · 6\nRow 4: Hana · North · 29\nRow 5: Ada · North · 21\nRow 6: Eve · South · 29\n\nWhat does =SUMIF(B2:B6,\"North\",C2:C6) return?",
+  "options": [
+   "2",
+   "91",
+   "53",
+   "50"
+  ],
+  "answer": 3,
+  "explanation": "Add C where B is \"North\": 50.",
+  "difficulty": 2
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "What does =ROUND(16.43,1) return?",
+  "options": [
+   "16.4",
+   "16.5",
+   "16.43",
+   "16"
+  ],
+  "answer": 0,
+  "explanation": "Rounding 16.43 to 1 decimal place gives 16.4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Eve · East · 14\nRow 3: Cara · South · 4\nRow 4: Grace · East · 27\nRow 5: Dayo · South · 19\nRow 6: Hana · South · 21\n\nWhat does =COUNTIFS(B2:B6,\"North\",C2:C6,\">15\") return?",
+  "options": [
+   "0",
+   "2",
+   "1",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "Rows that are \"North\" AND over 15: 0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Logic",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Hana · South · 17\nRow 3: Grace · South · 12\nRow 4: Ben · South · 17\nRow 5: Cara · North · 24\nRow 6: Ada · South · 6\n\nRow 2 contains =IF(C2>=20,\"High\",\"Low\"). What does it show?",
+  "options": [
+   "Low",
+   "TRUE",
+   "High",
+   "#VALUE!"
+  ],
+  "answer": 0,
+  "explanation": "C2 is 17, which is below 20.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Lookups",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Hana · East · 8\nRow 3: Ada · South · 10\nRow 4: Eve · South · 20\nRow 5: Dayo · South · 29\nRow 6: Cara · North · 14\n\nWhat does =XLOOKUP(\"Eve\",A2:A6,C2:C6) return?",
+  "options": [
+   "29",
+   "10",
+   "20",
+   "8"
+  ],
+  "answer": 2,
+  "explanation": "XLOOKUP finds \"Eve\" in A and returns the matching value in C: 20.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "What does =ROUND(64.77,1) return?",
+  "options": [
+   "64.7",
+   "64.77",
+   "64.8",
+   "65"
+  ],
+  "answer": 2,
+  "explanation": "Rounding 64.77 to 1 decimal place gives 64.8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Lookups",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Cara · South · 25\nRow 3: Ben · South · 11\nRow 4: Ada · South · 20\nRow 5: Eve · East · 24\nRow 6: Hana · North · 14\n\nWhat does =XLOOKUP(\"Cara\",A2:A6,C2:C6) return?",
+  "options": [
+   "11",
+   "20",
+   "24",
+   "25"
+  ],
+  "answer": 3,
+  "explanation": "XLOOKUP finds \"Cara\" in A and returns the matching value in C: 25.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Cara · South · 18\nRow 3: Femi · North · 11\nRow 4: Dayo · East · 18\nRow 5: Ben · North · 10\nRow 6: Hana · East · 14\n\nWhat does =COUNTIFS(B2:B6,\"North\",C2:C6,\">15\") return?",
+  "options": [
+   "2",
+   "3",
+   "0",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "Rows that are \"North\" AND over 15: 0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Logic",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Grace · East · 10\nRow 3: Hana · South · 15\nRow 4: Eve · South · 12\nRow 5: Femi · South · 17\nRow 6: Dayo · East · 14\n\nRow 3 contains =IF(C3>=15,\"High\",\"Low\"). What does it show?",
+  "options": [
+   "TRUE",
+   "Low",
+   "High",
+   "#VALUE!"
+  ],
+  "answer": 2,
+  "explanation": "C3 is 15, which is at least 15.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Logic",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Hana · North · 10\nRow 3: Ada · North · 23\nRow 4: Grace · South · 22\nRow 5: Dayo · East · 12\nRow 6: Femi · North · 14\n\nRow 3 contains =IF(C3>=20,\"High\",\"Low\"). What does it show?",
+  "options": [
+   "TRUE",
+   "#VALUE!",
+   "Low",
+   "High"
+  ],
+  "answer": 3,
+  "explanation": "C3 is 23, which is at least 20.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Ada · South · 15\nRow 3: Grace · South · 17\nRow 4: Cara · North · 30\nRow 5: Ben · South · 19\nRow 6: Femi · North · 26\n\nWhat does =SUMIF(B2:B6,\"South\",C2:C6) return?",
+  "options": [
+   "3",
+   "54",
+   "51",
+   "107"
+  ],
+  "answer": 2,
+  "explanation": "Add C where B is \"South\": 51.",
+  "difficulty": 2
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Logic",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Femi · South · 28\nRow 3: Dayo · South · 8\nRow 4: Cara · South · 30\nRow 5: Ben · North · 6\nRow 6: Grace · North · 27\n\nRow 2 contains =IF(C2>=10,\"High\",\"Low\"). What does it show?",
+  "options": [
+   "#VALUE!",
+   "High",
+   "TRUE",
+   "Low"
+  ],
+  "answer": 1,
+  "explanation": "C2 is 28, which is at least 10.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Logic",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Femi · North · 30\nRow 3: Ben · East · 20\nRow 4: Dayo · South · 7\nRow 5: Ada · East · 21\nRow 6: Cara · North · 26\n\nRow 4 contains =IF(C4>=15,\"High\",\"Low\"). What does it show?",
+  "options": [
+   "Low",
+   "High",
+   "#VALUE!",
+   "TRUE"
+  ],
+  "answer": 0,
+  "explanation": "C4 is 7, which is below 15.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Dayo · East · 4\nRow 3: Eve · East · 25\nRow 4: Ada · North · 10\nRow 5: Cara · South · 20\nRow 6: Ben · East · 6\n\nWhat does =MAX(C2:C6) return?",
+  "options": [
+   "65",
+   "4",
+   "25",
+   "28"
+  ],
+  "answer": 2,
+  "explanation": "The largest value in C2:C6 is 25.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Grace · North · 3\nRow 3: Hana · North · 3\nRow 4: Ben · East · 27\nRow 5: Cara · South · 14\nRow 6: Dayo · South · 22\n\nWhat does =SUMIF(B2:B6,\"East\",C2:C6) return?",
+  "options": [
+   "30",
+   "1",
+   "27",
+   "69"
+  ],
+  "answer": 2,
+  "explanation": "Add C where B is \"East\": 27.",
+  "difficulty": 2
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Hana · North · 8\nRow 3: Grace · East · 7\nRow 4: Dayo · South · 30\nRow 5: Ada · East · 12\nRow 6: Cara · East · 26\n\nWhat does =COUNTIF(C2:C6,\">10\") return?",
+  "options": [
+   "5",
+   "4",
+   "3",
+   "2"
+  ],
+  "answer": 2,
+  "explanation": "3 values are greater than 10.",
+  "difficulty": 1
+ },
+ {
+  "subject": "XLQ",
+  "topic": "Functions",
+  "body": "A: Name · B: Region · C: Sales\nRow 2: Grace · North · 6\nRow 3: Dayo · North · 14\nRow 4: Ben · East · 11\nRow 5: Ada · North · 21\nRow 6: Eve · North · 27\n\nWhat does =SUMIF(B2:B6,\"South\",C2:C6) return?",
+  "options": [
+   "79",
+   "1",
+   "3",
+   "0"
+  ],
+  "answer": 3,
+  "explanation": "Add C where B is \"South\": 0.",
+  "difficulty": 2
+ }
+]

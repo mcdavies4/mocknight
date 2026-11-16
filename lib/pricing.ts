@@ -117,7 +117,8 @@ export const PLANS: Record<string, Plan> = {
   python_pass: { code: "python_pass", label: "Python Foundations — 90 days", amount: 999, currency: "USD", days: 90, provider: "stripe", stars: 500 },
 
   sec_pass: { code: "sec_pass", label: "Cybersecurity Fundamentals — 90 days", amount: 1299, currency: "USD", days: 90, provider: "stripe", stars: 650 },
-  dat_pass: { code: "dat_pass", label: "Data Analytics Foundations — 90 days", amount: 1299, currency: "USD", days: 90, provider: "stripe", stars: 650 },
+  dat_pass: { code: "dat_pass", label: "Data Analyst — 90 days", amount: 1299, currency: "USD", days: 90, provider: "stripe", stars: 650 },
+  dat_pass_ngn: { code: "dat_pass_ngn", label: "Data Analyst — 90 days (pay in naira)", amount: 10_000_00, currency: "NGN", days: 90, provider: "paystack", stars: 300 },
   aia_pass: { code: "aia_pass", label: "AI & Workplace Automation — 90 days", amount: 999, currency: "USD", days: 90, provider: "stripe", stars: 500 },
   con_pass: { code: "con_pass", label: "Construction & Site Management — 90 days", amount: 799, currency: "GBP", days: 90, provider: "stripe", stars: 500 },
   bkp_pass: { code: "bkp_pass", label: "Bookkeeping & Payroll — 90 days", amount: 799, currency: "GBP", days: 90, provider: "stripe", stars: 500 },

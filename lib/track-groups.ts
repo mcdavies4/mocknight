@@ -48,7 +48,7 @@ const ALIASES: Partial<Record<TrackCode, string>> = {
   SAT: "usa college", ELEVEN: "11 plus grammar school", SSC: "india cgl chsl government", IBPS: "india bank po sbi",
   PM: "project management prince2 apm pfq agile scrum pspo product owner capm pmp pmi-acp", ACCA: "accounting accountant", ICAN: "accounting accountant nigeria", GRAD: "aptitude shl graduate job test",
   DRIVE: "driving theory car licence dvsa", SIA: "security door supervisor", CITB: "cscs construction site", FIRE: "fire marshal warden",
-  AWS: "amazon cloud", AZF: "microsoft azure cloud", PYT: "python programming coding", SEC: "cyber security", DAT: "data analytics excel sql", AIA: "ai artificial intelligence automation",
+  AWS: "amazon cloud", AZF: "microsoft azure cloud", PYT: "python programming coding", SEC: "cyber security", DAT: "data analyst analysis analytics sql excel power bi pl-300 tableau statistics", AIA: "ai artificial intelligence automation",
 };
 
 const norm = (s: string) => s.toLowerCase().replace(/[^a-z0-9+ ]/g, " ").replace(/\s+/g, " ").trim();

@@ -1,0 +1,534 @@
+[
+ {
+  "subject": "STQ",
+  "topic": "Concepts",
+  "body": "In a right-skewed distribution (a long tail of high values), the mean is usually",
+  "options": [
+   "greater than the median",
+   "equal to the median",
+   "zero",
+   "less than the median"
+  ],
+  "answer": 0,
+  "explanation": "Outliers pull the mean towards the tail.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Concepts",
+  "body": "For skewed data like incomes, which average is usually more representative?",
+  "options": [
+   "Mean",
+   "Range",
+   "Median",
+   "Sum"
+  ],
+  "answer": 2,
+  "explanation": "The median is resistant to outliers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Concepts",
+  "body": "In a normal distribution, about what percentage of values lie within one standard deviation of the mean?",
+  "options": [
+   "68%",
+   "99.7%",
+   "95%",
+   "50%"
+  ],
+  "answer": 0,
+  "explanation": "About 95% lie within two and 99.7% within three (the empirical rule).",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Concepts",
+  "body": "A strong correlation between two variables shows that",
+  "options": [
+   "they move together, but not that one causes the other",
+   "one definitely causes the other",
+   "the data is wrong",
+   "they are unrelated"
+  ],
+  "answer": 0,
+  "explanation": "Correlation is not causation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Concepts",
+  "body": "A correlation coefficient of −0.9 indicates",
+  "options": [
+   "a weak positive relationship",
+   "no relationship",
+   "a perfect positive relationship",
+   "a strong negative relationship"
+  ],
+  "answer": 3,
+  "explanation": "Values near −1 or +1 are strong.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Concepts",
+  "body": "A p-value below 0.05 usually means",
+  "options": [
+   "the data is invalid",
+   "the result is statistically significant at the 5% level",
+   "the effect is large",
+   "the hypothesis is proven true"
+  ],
+  "answer": 1,
+  "explanation": "It does not measure the size of an effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Concepts",
+  "body": "Surveying only people who visit your website to learn about all customers risks",
+  "options": [
+   "sampling bias",
+   "a type II error",
+   "perfect accuracy",
+   "overfitting"
+  ],
+  "answer": 0,
+  "explanation": "Random sampling reduces bias.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Concepts",
+  "body": "An A/B test compares",
+  "options": [
+   "two versions to see which performs better on a chosen metric",
+   "two charts' colours only",
+   "two employees",
+   "two databases"
+  ],
+  "answer": 0,
+  "explanation": "Users are randomly assigned to each version.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "What is the mean of 25, 27, 40, 7, 22?",
+  "options": [
+   "121",
+   "24.2",
+   "25",
+   "30.25"
+  ],
+  "answer": 1,
+  "explanation": "121 ÷ 5 = 24.2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "A course grade weights coursework 20% (score 68), a test 30% (score 60) and the exam 50% (score 84). What is the weighted average?",
+  "options": [
+   "70.7",
+   "84",
+   "73.6",
+   "64"
+  ],
+  "answer": 2,
+  "explanation": "(20×68 + 30×60 + 50×84) ÷ 100 = 73.6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "What is the range of 12, 10, 28, 27, 6, 22?",
+  "options": [
+   "17",
+   "28",
+   "22",
+   "105"
+  ],
+  "answer": 2,
+  "explanation": "28 − 6 = 22.",
+  "difficulty": 1
+ },
+ {
+  "subject": "STQ",
+  "topic": "Percentages",
+  "body": "Monthly sales went from 500 to 600. What is the percentage change?",
+  "options": [
+   "16.7%",
+   "20%",
+   "100%",
+   "120%"
+  ],
+  "answer": 1,
+  "explanation": "(600 − 500) ÷ 500 × 100 = 20%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "What is the range of 26, 8, 30, 30, 16, 37?",
+  "options": [
+   "29",
+   "37",
+   "147",
+   "14"
+  ],
+  "answer": 0,
+  "explanation": "37 − 8 = 29.",
+  "difficulty": 1
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "What is the range of 40, 3, 27, 36, 33, 23, 6?",
+  "options": [
+   "168",
+   "37",
+   "40",
+   "30"
+  ],
+  "answer": 1,
+  "explanation": "40 − 3 = 37.",
+  "difficulty": 1
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "What is the range of 11, 20, 13, 7, 38?",
+  "options": [
+   "31",
+   "9",
+   "89",
+   "38"
+  ],
+  "answer": 0,
+  "explanation": "38 − 7 = 31.",
+  "difficulty": 1
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "What is the mean of 37, 4, 34, 32, 13?",
+  "options": [
+   "120",
+   "32",
+   "24",
+   "30"
+  ],
+  "answer": 2,
+  "explanation": "120 ÷ 5 = 24.",
+  "difficulty": 1
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "What is the range of 9, 25, 22, 36, 18?",
+  "options": [
+   "7",
+   "36",
+   "27",
+   "110"
+  ],
+  "answer": 2,
+  "explanation": "36 − 9 = 27.",
+  "difficulty": 1
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "What is the median of 29, 21, 9, 14, 4, 26, 40?",
+  "options": [
+   "14",
+   "21",
+   "20.4",
+   "40"
+  ],
+  "answer": 1,
+  "explanation": "Sorted: 4, 9, 14, 21, 26, 29, 40. The median is 21.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Distributions",
+  "body": "Scores have a mean of 50 and a standard deviation of 8. What is the z-score of 58?",
+  "options": [
+   "1",
+   "7.25",
+   "0.13",
+   "8"
+  ],
+  "answer": 0,
+  "explanation": "z = (58 − 50) ÷ 8 = 1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "What is the median of 11, 12, 28, 18, 14, 27, 9?",
+  "options": [
+   "18",
+   "14",
+   "17",
+   "28"
+  ],
+  "answer": 1,
+  "explanation": "Sorted: 9, 11, 12, 14, 18, 27, 28. The median is 14.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "A course grade weights coursework 20% (score 82), a test 30% (score 84) and the exam 50% (score 64). What is the weighted average?",
+  "options": [
+   "64",
+   "73.6",
+   "76.7",
+   "83"
+  ],
+  "answer": 1,
+  "explanation": "(20×82 + 30×84 + 50×64) ÷ 100 = 73.6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Distributions",
+  "body": "Scores have a mean of 60 and a standard deviation of 5. What is the z-score of 67.5?",
+  "options": [
+   "1.5",
+   "13.5",
+   "0.3",
+   "7.5"
+  ],
+  "answer": 0,
+  "explanation": "z = (67.5 − 60) ÷ 5 = 1.5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "What is the range of 5, 8, 18, 26, 7?",
+  "options": [
+   "26",
+   "64",
+   "21",
+   "11"
+  ],
+  "answer": 2,
+  "explanation": "26 − 5 = 21.",
+  "difficulty": 1
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "What is the range of 31, 2, 19, 18, 16?",
+  "options": [
+   "3",
+   "86",
+   "29",
+   "31"
+  ],
+  "answer": 2,
+  "explanation": "31 − 2 = 29.",
+  "difficulty": 1
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "What is the range of 17, 10, 28, 16, 34, 35?",
+  "options": [
+   "140",
+   "25",
+   "35",
+   "18"
+  ],
+  "answer": 1,
+  "explanation": "35 − 10 = 25.",
+  "difficulty": 1
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "What is the median of 23, 32, 38, 8, 40?",
+  "options": [
+   "28.2",
+   "40",
+   "32",
+   "38"
+  ],
+  "answer": 2,
+  "explanation": "Sorted: 8, 23, 32, 38, 40. The median is 32.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Distributions",
+  "body": "Scores have a mean of 60 and a standard deviation of 10. What is the z-score of 70?",
+  "options": [
+   "10",
+   "0.1",
+   "7",
+   "1"
+  ],
+  "answer": 3,
+  "explanation": "z = (70 − 60) ÷ 10 = 1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "What is the median of 10, 25, 38, 40, 14?",
+  "options": [
+   "40",
+   "25",
+   "25.4",
+   "38"
+  ],
+  "answer": 1,
+  "explanation": "Sorted: 10, 14, 25, 38, 40. The median is 25.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "What is the median of 30, 37, 17, 14, 37, 19?",
+  "options": [
+   "25.7",
+   "14",
+   "24.5",
+   "37"
+  ],
+  "answer": 2,
+  "explanation": "Sorted: 14, 17, 19, 30, 37, 37. The median is 24.5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "What is the mean of 36, 20, 23, 7, 38?",
+  "options": [
+   "124",
+   "24.8",
+   "31",
+   "23"
+  ],
+  "answer": 1,
+  "explanation": "124 ÷ 5 = 24.8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "What is the median of 23, 34, 29, 19, 26?",
+  "options": [
+   "34",
+   "26.2",
+   "29",
+   "26"
+  ],
+  "answer": 3,
+  "explanation": "Sorted: 19, 23, 26, 29, 34. The median is 26.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "What is the mean of 2, 22, 13, 2, 16, 7?",
+  "options": [
+   "62",
+   "12.4",
+   "10.33",
+   "13"
+  ],
+  "answer": 2,
+  "explanation": "62 ÷ 6 = 10.33.",
+  "difficulty": 1
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "What is the mean of 18, 15, 17, 21, 30, 9?",
+  "options": [
+   "22",
+   "18.33",
+   "110",
+   "18"
+  ],
+  "answer": 1,
+  "explanation": "110 ÷ 6 = 18.33.",
+  "difficulty": 1
+ },
+ {
+  "subject": "STQ",
+  "topic": "Percentages",
+  "body": "Monthly sales went from 400 to 450. What is the percentage change?",
+  "options": [
+   "50%",
+   "11.1%",
+   "112.5%",
+   "12.5%"
+  ],
+  "answer": 3,
+  "explanation": "(450 − 400) ÷ 400 × 100 = 12.5%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "What is the median of 22, 37, 36, 24, 20, 12, 11?",
+  "options": [
+   "37",
+   "24",
+   "22",
+   "23.1"
+  ],
+  "answer": 2,
+  "explanation": "Sorted: 11, 12, 20, 22, 24, 36, 37. The median is 22.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Distributions",
+  "body": "Scores have a mean of 70 and a standard deviation of 8. What is the z-score of 94?",
+  "options": [
+   "0.38",
+   "11.75",
+   "24",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "z = (94 − 70) ÷ 8 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "A course grade weights coursework 30% (score 51), a test 30% (score 84) and the exam 40% (score 77). What is the weighted average?",
+  "options": [
+   "77",
+   "67.5",
+   "71.3",
+   "70.7"
+  ],
+  "answer": 2,
+  "explanation": "(30×51 + 30×84 + 40×77) ÷ 100 = 71.3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "STQ",
+  "topic": "Descriptive statistics",
+  "body": "A course grade weights coursework 20% (score 72), a test 30% (score 88) and the exam 50% (score 61). What is the weighted average?",
+  "options": [
+   "61",
+   "73.7",
+   "71.3",
+   "80"
+  ],
+  "answer": 2,
+  "explanation": "(20×72 + 30×88 + 50×61) ÷ 100 = 71.3.",
+  "difficulty": 2
+ }
+]

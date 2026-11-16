@@ -1,0 +1,828 @@
+[
+ {
+  "subject": "SQQ",
+  "topic": "Concepts",
+  "body": "In what order does SQL logically process these clauses?",
+  "options": [
+   "FROM → WHERE → GROUP BY → HAVING → SELECT → ORDER BY",
+   "WHERE → FROM → SELECT → GROUP BY",
+   "ORDER BY → SELECT → FROM → WHERE",
+   "SELECT → FROM → WHERE → ORDER BY"
+  ],
+  "answer": 0,
+  "explanation": "That is why you can't use a SELECT alias in WHERE.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Concepts",
+  "body": "What is the difference between WHERE and HAVING?",
+  "options": [
+   "HAVING filters rows before grouping",
+   "They are identical",
+   "WHERE filters rows before grouping; HAVING filters groups after aggregation",
+   "WHERE can only be used with joins"
+  ],
+  "answer": 2,
+  "explanation": "Use HAVING with aggregate conditions like SUM(qty) > 10.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Concepts",
+  "body": "How do you correctly find rows where email has no value?",
+  "options": [
+   "WHERE email = NULL",
+   "WHERE NULL(email)",
+   "WHERE email IS NULL",
+   "WHERE email == ''"
+  ],
+  "answer": 2,
+  "explanation": "Comparisons with = never match NULL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Concepts",
+  "body": "COUNT(column) differs from COUNT(*) because COUNT(column)",
+  "options": [
+   "only works on numbers",
+   "ignores NULL values in that column",
+   "counts NULLs twice",
+   "always returns 1"
+  ],
+  "answer": 1,
+  "explanation": "COUNT(*) counts every row.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Concepts",
+  "body": "UNION differs from UNION ALL because UNION",
+  "options": [
+   "sorts nothing",
+   "keeps duplicates",
+   "joins columns side by side",
+   "removes duplicate rows"
+  ],
+  "answer": 3,
+  "explanation": "UNION ALL is faster because it skips de-duplication.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Concepts",
+  "body": "A LEFT JOIN returns",
+  "options": [
+   "all rows from the left table, with matching right-table rows or NULLs",
+   "no NULLs ever",
+   "only matching rows",
+   "all rows from the right table only"
+  ],
+  "answer": 0,
+  "explanation": "An INNER JOIN returns only matches.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Concepts",
+  "body": "Which window function numbers rows within each group without gaps?",
+  "options": [
+   "COUNT(*)",
+   "GROUP BY",
+   "ROW_NUMBER() OVER (PARTITION BY …)",
+   "DISTINCT"
+  ],
+  "answer": 2,
+  "explanation": "RANK() can leave gaps after ties.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Concepts",
+  "body": "A primary key must be",
+  "options": [
+   "optional",
+   "repeated across rows",
+   "text only",
+   "unique and not NULL"
+  ],
+  "answer": 3,
+  "explanation": "It identifies each row.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Concepts",
+  "body": "A CTE is defined with",
+  "options": [
+   "TEMP JOIN",
+   "WITH name AS (SELECT …)",
+   "DECLARE TABLE",
+   "CREATE VIEW only"
+  ],
+  "answer": 1,
+  "explanation": "Common table expressions make queries easier to read.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Filtering",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | East | Rice | 7 | 8\n2 | East | Rice | 5 | 10\n3 | South | Soap | 2 | 10\n4 | East | Tea | 12 | 8\n5 | North | Tea | 9 | 12\n6 | East | Tea | 3 | 12\n7 | East | Tea | 5 | 20\n\nWhat does this return?\nSELECT COUNT(*) FROM sales WHERE region = 'North';",
+  "options": [
+   "1",
+   "7",
+   "0",
+   "2"
+  ],
+  "answer": 0,
+  "explanation": "1 rows have region = 'North'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Filtering",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | East | Tea | 8 | 20\n2 | North | Rice | 4 | 8\n3 | East | Tea | 1 | 5\n4 | South | Rice | 7 | 10\n5 | South | Soap | 3 | 20\n6 | South | Tea | 11 | 8\n7 | East | Rice | 9 | 8\n\nWhat does this return?\nSELECT COUNT(*) FROM sales WHERE price BETWEEN 8 AND 12;",
+  "options": [
+   "4",
+   "2",
+   "1",
+   "7"
+  ],
+  "answer": 0,
+  "explanation": "BETWEEN includes both ends, so 4 rows match.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Filtering",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | North | Soap | 7 | 8\n2 | East | Tea | 3 | 20\n3 | North | Tea | 2 | 10\n4 | South | Rice | 2 | 10\n5 | South | Soap | 12 | 15\n6 | East | Soap | 8 | 15\n7 | South | Soap | 9 | 20\n\nWhat does this return?\nSELECT COUNT(*) FROM sales WHERE price BETWEEN 5 AND 12;",
+  "options": [
+   "1",
+   "7",
+   "3",
+   "4"
+  ],
+  "answer": 2,
+  "explanation": "BETWEEN includes both ends, so 3 rows match.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Sorting",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | North | Rice | 12 | 12\n2 | South | Rice | 7 | 8\n3 | South | Tea | 5 | 5\n4 | North | Rice | 3 | 5\n5 | North | Rice | 4 | 8\n6 | South | Tea | 12 | 5\n7 | South | Rice | 8 | 8\n\nWhich id does this return?\nSELECT id FROM sales ORDER BY price DESC LIMIT 1;",
+  "options": [
+   "4",
+   "2",
+   "6",
+   "1"
+  ],
+  "answer": 3,
+  "explanation": "The highest price is 12, in row 1.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Aggregation",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | South | Tea | 2 | 12\n2 | East | Soap | 12 | 20\n3 | North | Soap | 10 | 5\n4 | East | Tea | 11 | 5\n5 | South | Rice | 11 | 20\n6 | East | Soap | 9 | 12\n7 | South | Soap | 5 | 12\n\nWhat does this return?\nSELECT COUNT(DISTINCT product) FROM sales;",
+  "options": [
+   "3",
+   "2",
+   "4",
+   "7"
+  ],
+  "answer": 0,
+  "explanation": "The distinct products are Tea, Soap, Rice.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Aggregation",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | South | Rice | 8 | 15\n2 | South | Rice | 9 | 10\n3 | North | Tea | 11 | 15\n4 | East | Rice | 3 | 12\n5 | East | Rice | 9 | 8\n6 | North | Soap | 1 | 20\n7 | East | Soap | 1 | 5\n\nWhat does this return?\nSELECT COUNT(DISTINCT product) FROM sales;",
+  "options": [
+   "2",
+   "4",
+   "7",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "The distinct products are Rice, Tea, Soap.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Sorting",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | South | Soap | 4 | 15\n2 | East | Rice | 12 | 15\n3 | South | Rice | 2 | 8\n4 | South | Rice | 11 | 15\n5 | East | Tea | 7 | 8\n6 | East | Tea | 12 | 20\n7 | South | Tea | 10 | 15\n\nWhich id does this return?\nSELECT id FROM sales ORDER BY price DESC LIMIT 1;",
+  "options": [
+   "1",
+   "4",
+   "3",
+   "6"
+  ],
+  "answer": 3,
+  "explanation": "The highest price is 20, in row 6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Aggregation",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | North | Soap | 5 | 12\n2 | East | Soap | 5 | 20\n3 | North | Soap | 7 | 20\n4 | North | Tea | 4 | 12\n5 | North | Tea | 6 | 15\n6 | East | Rice | 12 | 8\n7 | South | Rice | 9 | 8\n\nWhat does this return?\nSELECT MAX(qty * price) FROM sales;",
+  "options": [
+   "12",
+   "140",
+   "20",
+   "606"
+  ],
+  "answer": 1,
+  "explanation": "The largest qty × price in any row is 140.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Filtering",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | East | Tea | 3 | 5\n2 | North | Soap | 3 | 12\n3 | South | Tea | 7 | 20\n4 | North | Soap | 3 | 15\n5 | South | Soap | 4 | 15\n6 | North | Tea | 10 | 5\n7 | East | Rice | 6 | 10\n\nWhat does this return?\nSELECT COUNT(*) FROM sales WHERE region = 'North';",
+  "options": [
+   "4",
+   "2",
+   "7",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "3 rows have region = 'North'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Filtering",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | South | Tea | 12 | 10\n2 | East | Soap | 10 | 10\n3 | South | Soap | 12 | 10\n4 | South | Rice | 2 | 15\n5 | North | Rice | 10 | 10\n6 | North | Rice | 11 | 8\n7 | North | Rice | 6 | 20\n\nWhat does this return?\nSELECT COUNT(*) FROM sales WHERE price BETWEEN 8 AND 12;",
+  "options": [
+   "4",
+   "3",
+   "5",
+   "7"
+  ],
+  "answer": 2,
+  "explanation": "BETWEEN includes both ends, so 5 rows match.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Aggregation",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | South | Soap | 5 | 8\n2 | South | Rice | 4 | 8\n3 | South | Soap | 4 | 10\n4 | North | Tea | 8 | 5\n5 | South | Soap | 5 | 10\n6 | East | Tea | 8 | 15\n7 | South | Rice | 8 | 8\n\nWhat does this return?\nSELECT COUNT(DISTINCT product) FROM sales;",
+  "options": [
+   "7",
+   "4",
+   "3",
+   "2"
+  ],
+  "answer": 2,
+  "explanation": "The distinct products are Soap, Rice, Tea.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Filtering",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | East | Tea | 8 | 20\n2 | North | Soap | 6 | 15\n3 | East | Soap | 1 | 20\n4 | North | Tea | 9 | 8\n5 | East | Tea | 11 | 20\n6 | North | Soap | 4 | 8\n7 | North | Rice | 3 | 8\n\nWhat does this return?\nSELECT COUNT(*) FROM sales WHERE price BETWEEN 5 AND 15;",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "7"
+  ],
+  "answer": 2,
+  "explanation": "BETWEEN includes both ends, so 4 rows match.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Aggregation",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | North | Rice | 1 | 12\n2 | North | Tea | 12 | 15\n3 | South | Tea | 2 | 12\n4 | South | Tea | 4 | 8\n5 | South | Soap | 4 | 12\n6 | East | Rice | 9 | 10\n7 | East | Rice | 8 | 15\n\nWhat does this return?\nSELECT MAX(qty * price) FROM sales;",
+  "options": [
+   "15",
+   "180",
+   "12",
+   "506"
+  ],
+  "answer": 1,
+  "explanation": "The largest qty × price in any row is 180.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Filtering",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | North | Soap | 1 | 5\n2 | South | Soap | 1 | 8\n3 | North | Soap | 7 | 20\n4 | South | Soap | 5 | 5\n5 | North | Tea | 3 | 12\n6 | East | Tea | 3 | 10\n7 | North | Rice | 10 | 15\n\nWhat does this return?\nSELECT COUNT(*) FROM sales WHERE region = 'South';",
+  "options": [
+   "7",
+   "2",
+   "3",
+   "1"
+  ],
+  "answer": 1,
+  "explanation": "2 rows have region = 'South'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Aggregation",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | South | Tea | 11 | 20\n2 | East | Rice | 12 | 10\n3 | North | Rice | 4 | 5\n4 | South | Tea | 12 | 20\n5 | North | Rice | 10 | 5\n6 | North | Tea | 5 | 5\n7 | North | Tea | 3 | 10\n\nWhat does this return?\nSELECT MAX(qty * price) FROM sales;",
+  "options": [
+   "12",
+   "20",
+   "705",
+   "240"
+  ],
+  "answer": 3,
+  "explanation": "The largest qty × price in any row is 240.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Aggregation",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | East | Tea | 10 | 12\n2 | North | Soap | 9 | 15\n3 | East | Tea | 2 | 8\n4 | East | Rice | 11 | 15\n5 | South | Tea | 7 | 15\n6 | East | Soap | 11 | 5\n7 | East | Soap | 10 | 12\n\nWhat does this return?\nSELECT COUNT(DISTINCT product) FROM sales;",
+  "options": [
+   "3",
+   "4",
+   "2",
+   "7"
+  ],
+  "answer": 0,
+  "explanation": "The distinct products are Tea, Soap, Rice.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Aggregation",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | East | Rice | 12 | 10\n2 | East | Rice | 12 | 12\n3 | South | Rice | 4 | 12\n4 | East | Rice | 4 | 12\n5 | South | Rice | 4 | 15\n6 | East | Soap | 9 | 8\n7 | North | Soap | 7 | 15\n\nWhat does this return?\nSELECT COUNT(DISTINCT product) FROM sales;",
+  "options": [
+   "7",
+   "3",
+   "2",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "The distinct products are Rice, Soap.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Filtering",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | East | Tea | 4 | 15\n2 | North | Rice | 6 | 20\n3 | South | Tea | 9 | 10\n4 | East | Tea | 1 | 5\n5 | South | Tea | 10 | 10\n6 | North | Tea | 10 | 10\n7 | East | Soap | 3 | 8\n\nWhat does this return?\nSELECT COUNT(*) FROM sales WHERE region = 'North';",
+  "options": [
+   "2",
+   "3",
+   "7",
+   "1"
+  ],
+  "answer": 0,
+  "explanation": "2 rows have region = 'North'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Aggregation",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | East | Tea | 4 | 10\n2 | North | Rice | 11 | 8\n3 | East | Rice | 5 | 20\n4 | East | Soap | 12 | 20\n5 | North | Rice | 11 | 5\n6 | East | Rice | 3 | 8\n7 | South | Rice | 7 | 8\n\nWhat does this return?\nSELECT SUM(qty) FROM sales WHERE product = 'Tea';",
+  "options": [
+   "4",
+   "53",
+   "6",
+   "1"
+  ],
+  "answer": 0,
+  "explanation": "Add qty for rows where product = 'Tea': 4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Filtering",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | South | Soap | 1 | 15\n2 | South | Rice | 4 | 12\n3 | East | Tea | 4 | 15\n4 | East | Rice | 7 | 12\n5 | South | Tea | 3 | 15\n6 | East | Soap | 5 | 8\n7 | North | Tea | 4 | 15\n\nWhat does this return?\nSELECT COUNT(*) FROM sales WHERE price BETWEEN 5 AND 15;",
+  "options": [
+   "3",
+   "5",
+   "8",
+   "7"
+  ],
+  "answer": 3,
+  "explanation": "BETWEEN includes both ends, so 7 rows match.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Grouping",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | South | Tea | 8 | 10\n2 | East | Rice | 3 | 15\n3 | East | Tea | 4 | 15\n4 | South | Tea | 5 | 20\n5 | East | Soap | 5 | 5\n6 | South | Soap | 10 | 12\n7 | South | Rice | 4 | 10\n\nHow many rows does this return?\nSELECT region, SUM(qty) FROM sales GROUP BY region HAVING SUM(qty) > 15;",
+  "options": [
+   "0",
+   "2",
+   "1",
+   "3"
+  ],
+  "answer": 2,
+  "explanation": "Totals by region: South 27, East 12. 1 exceeds 15.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Filtering",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | South | Tea | 4 | 8\n2 | South | Rice | 4 | 8\n3 | North | Rice | 2 | 10\n4 | South | Tea | 9 | 8\n5 | North | Tea | 5 | 12\n6 | South | Soap | 3 | 15\n7 | East | Rice | 2 | 8\n\nWhat does this return?\nSELECT COUNT(*) FROM sales WHERE price BETWEEN 8 AND 12;",
+  "options": [
+   "4",
+   "6",
+   "7",
+   "1"
+  ],
+  "answer": 1,
+  "explanation": "BETWEEN includes both ends, so 6 rows match.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Aggregation",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | South | Tea | 6 | 15\n2 | North | Soap | 6 | 12\n3 | South | Soap | 9 | 8\n4 | East | Rice | 2 | 8\n5 | South | Rice | 11 | 10\n6 | South | Soap | 7 | 10\n7 | East | Rice | 11 | 10\n\nWhat does this return?\nSELECT COUNT(DISTINCT product) FROM sales;",
+  "options": [
+   "4",
+   "2",
+   "3",
+   "7"
+  ],
+  "answer": 2,
+  "explanation": "The distinct products are Tea, Soap, Rice.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Aggregation",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | East | Tea | 10 | 12\n2 | South | Soap | 8 | 15\n3 | East | Rice | 2 | 20\n4 | North | Soap | 11 | 10\n5 | North | Soap | 7 | 5\n6 | South | Rice | 8 | 10\n7 | North | Rice | 1 | 5\n\nWhat does this return?\nSELECT SUM(qty) FROM sales WHERE product = 'Rice';",
+  "options": [
+   "13",
+   "11",
+   "47",
+   "3"
+  ],
+  "answer": 1,
+  "explanation": "Add qty for rows where product = 'Rice': 11.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Filtering",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | North | Tea | 2 | 5\n2 | South | Rice | 7 | 12\n3 | South | Soap | 2 | 5\n4 | East | Rice | 8 | 12\n5 | East | Rice | 7 | 12\n6 | South | Tea | 10 | 20\n7 | South | Rice | 10 | 12\n\nWhat does this return?\nSELECT COUNT(*) FROM sales WHERE price BETWEEN 8 AND 15;",
+  "options": [
+   "7",
+   "2",
+   "5",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": "BETWEEN includes both ends, so 4 rows match.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Sorting",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | South | Tea | 9 | 10\n2 | North | Soap | 6 | 12\n3 | East | Soap | 7 | 5\n4 | South | Rice | 1 | 20\n5 | South | Tea | 5 | 8\n6 | North | Tea | 4 | 10\n7 | North | Rice | 12 | 5\n\nWhich id does this return?\nSELECT id FROM sales ORDER BY price DESC LIMIT 1;",
+  "options": [
+   "5",
+   "6",
+   "2",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": "The highest price is 20, in row 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Aggregation",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | North | Soap | 1 | 10\n2 | East | Soap | 12 | 15\n3 | East | Rice | 5 | 8\n4 | East | Tea | 6 | 20\n5 | East | Soap | 8 | 12\n6 | East | Tea | 8 | 10\n7 | South | Soap | 2 | 10\n\nWhat does this return?\nSELECT AVG(price) FROM sales WHERE region = 'East';",
+  "options": [
+   "13",
+   "5",
+   "65",
+   "12.14"
+  ],
+  "answer": 0,
+  "explanation": "Average price of the 5 'East' rows = 13.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Sorting",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | South | Rice | 12 | 12\n2 | East | Rice | 10 | 8\n3 | South | Rice | 6 | 20\n4 | South | Tea | 8 | 12\n5 | East | Tea | 10 | 8\n6 | South | Rice | 12 | 12\n7 | South | Rice | 7 | 15\n\nWhich id does this return?\nSELECT id FROM sales ORDER BY price DESC LIMIT 1;",
+  "options": [
+   "1",
+   "5",
+   "3",
+   "2"
+  ],
+  "answer": 2,
+  "explanation": "The highest price is 20, in row 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Aggregation",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | South | Tea | 5 | 15\n2 | East | Rice | 5 | 12\n3 | East | Soap | 10 | 12\n4 | North | Soap | 2 | 5\n5 | East | Soap | 2 | 15\n6 | South | Tea | 6 | 5\n7 | North | Tea | 11 | 8\n\nWhat does this return?\nSELECT AVG(price) FROM sales WHERE region = 'East';",
+  "options": [
+   "3",
+   "13",
+   "10.29",
+   "39"
+  ],
+  "answer": 1,
+  "explanation": "Average price of the 3 'East' rows = 13.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Filtering",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | North | Tea | 11 | 20\n2 | North | Soap | 9 | 20\n3 | South | Tea | 6 | 10\n4 | North | Tea | 1 | 15\n5 | North | Tea | 6 | 12\n6 | South | Tea | 10 | 10\n7 | East | Tea | 12 | 10\n\nWhat does this return?\nSELECT COUNT(*) FROM sales WHERE region = 'North';",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "7"
+  ],
+  "answer": 1,
+  "explanation": "4 rows have region = 'North'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Aggregation",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | South | Rice | 4 | 15\n2 | North | Soap | 9 | 5\n3 | South | Tea | 8 | 10\n4 | North | Rice | 6 | 10\n5 | South | Rice | 2 | 12\n6 | South | Tea | 1 | 12\n7 | South | Tea | 2 | 15\n\nWhat does this return?\nSELECT COUNT(DISTINCT product) FROM sales;",
+  "options": [
+   "7",
+   "2",
+   "4",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "The distinct products are Rice, Soap, Tea.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Aggregation",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | North | Rice | 4 | 15\n2 | East | Rice | 4 | 8\n3 | South | Rice | 1 | 10\n4 | North | Soap | 4 | 5\n5 | South | Rice | 10 | 10\n6 | South | Rice | 8 | 12\n7 | North | Tea | 11 | 15\n\nWhat does this return?\nSELECT COUNT(DISTINCT product) FROM sales;",
+  "options": [
+   "2",
+   "3",
+   "7",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "The distinct products are Rice, Soap, Tea.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Grouping",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | North | Tea | 9 | 5\n2 | North | Soap | 7 | 20\n3 | North | Soap | 11 | 10\n4 | South | Tea | 5 | 20\n5 | North | Soap | 7 | 10\n6 | South | Soap | 1 | 5\n7 | North | Tea | 1 | 12\n\nHow many rows does this return?\nSELECT region, SUM(qty) FROM sales GROUP BY region HAVING SUM(qty) > 10;",
+  "options": [
+   "1",
+   "3",
+   "0",
+   "2"
+  ],
+  "answer": 0,
+  "explanation": "Totals by region: North 35, South 6. 1 exceeds 10.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Aggregation",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | East | Rice | 5 | 8\n2 | North | Rice | 3 | 5\n3 | East | Soap | 5 | 12\n4 | South | Tea | 11 | 12\n5 | South | Rice | 1 | 20\n6 | North | Rice | 12 | 10\n7 | North | Tea | 2 | 15\n\nWhat does this return?\nSELECT COUNT(DISTINCT product) FROM sales;",
+  "options": [
+   "4",
+   "7",
+   "2",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "The distinct products are Rice, Soap, Tea.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Aggregation",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | North | Soap | 6 | 20\n2 | East | Rice | 7 | 20\n3 | North | Tea | 7 | 12\n4 | South | Soap | 8 | 8\n5 | East | Soap | 9 | 15\n6 | South | Rice | 12 | 12\n7 | South | Soap | 10 | 8\n\nWhat does this return?\nSELECT MAX(qty * price) FROM sales;",
+  "options": [
+   "20",
+   "767",
+   "144",
+   "12"
+  ],
+  "answer": 2,
+  "explanation": "The largest qty × price in any row is 144.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Aggregation",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | North | Rice | 8 | 8\n2 | North | Tea | 6 | 5\n3 | North | Soap | 7 | 15\n4 | North | Rice | 6 | 5\n5 | East | Soap | 2 | 20\n6 | South | Rice | 2 | 20\n7 | East | Tea | 1 | 5\n\nWhat does this return?\nSELECT SUM(qty) FROM sales WHERE product = 'Tea';",
+  "options": [
+   "32",
+   "2",
+   "9",
+   "7"
+  ],
+  "answer": 3,
+  "explanation": "Add qty for rows where product = 'Tea': 7.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Grouping",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | East | Tea | 6 | 10\n2 | East | Tea | 1 | 15\n3 | North | Tea | 7 | 10\n4 | South | Tea | 7 | 8\n5 | South | Rice | 12 | 10\n6 | South | Tea | 11 | 12\n7 | East | Tea | 3 | 8\n\nHow many rows does this return?\nSELECT region, SUM(qty) FROM sales GROUP BY region HAVING SUM(qty) > 15;",
+  "options": [
+   "2",
+   "0",
+   "1",
+   "3"
+  ],
+  "answer": 2,
+  "explanation": "Totals by region: North 7, South 30, East 10. 1 exceeds 15.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Filtering",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | East | Soap | 7 | 20\n2 | South | Tea | 3 | 12\n3 | North | Soap | 5 | 10\n4 | East | Soap | 7 | 15\n5 | East | Tea | 11 | 10\n6 | North | Soap | 9 | 12\n7 | North | Soap | 2 | 10\n\nWhat does this return?\nSELECT COUNT(*) FROM sales WHERE region = 'South';",
+  "options": [
+   "1",
+   "2",
+   "7",
+   "0"
+  ],
+  "answer": 0,
+  "explanation": "1 rows have region = 'South'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Aggregation",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | East | Soap | 6 | 10\n2 | South | Rice | 8 | 12\n3 | North | Soap | 10 | 8\n4 | North | Soap | 9 | 15\n5 | North | Soap | 10 | 15\n6 | South | Tea | 9 | 15\n7 | East | Soap | 5 | 20\n\nWhat does this return?\nSELECT AVG(price) FROM sales WHERE region = 'East';",
+  "options": [
+   "2",
+   "13.57",
+   "30",
+   "15"
+  ],
+  "answer": 3,
+  "explanation": "Average price of the 2 'East' rows = 15.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Aggregation",
+  "body": "Table sales:\nid | region | product | qty | price\n1 | South | Soap | 11 | 5\n2 | East | Rice | 7 | 8\n3 | East | Tea | 6 | 15\n4 | South | Rice | 12 | 10\n5 | East | Rice | 6 | 15\n6 | North | Tea | 4 | 10\n7 | South | Tea | 6 | 8\n\nWhat does this return?\nSELECT COUNT(DISTINCT product) FROM sales;",
+  "options": [
+   "3",
+   "4",
+   "2",
+   "7"
+  ],
+  "answer": 0,
+  "explanation": "The distinct products are Soap, Rice, Tea.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Joins",
+  "body": "customers:\nid | name\n1 | Femi\n2 | Cara\n3 | Grace\n4 | Dayo\n5 | Ben\n\norders:\norder_id | customer_id\n100 | 6\n101 | 4\n102 | 1\n103 | 1\n104 | 3\n105 | 6\n106 | 2\n\nHow many rows does this return?\nSELECT * FROM customers c LEFT JOIN orders o ON o.customer_id = c.id;",
+  "options": [
+   "7",
+   "12",
+   "6",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "LEFT JOIN keeps every customer; customers with no orders appear once with NULLs: 6 rows.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Joins",
+  "body": "customers:\nid | name\n1 | Grace\n2 | Eve\n3 | Cara\n4 | Ada\n5 | Hana\n\norders:\norder_id | customer_id\n100 | 6\n101 | 4\n102 | 1\n103 | 6\n104 | 5\n105 | 4\n\nHow many rows does this return?\nSELECT * FROM customers c LEFT JOIN orders o ON o.customer_id = c.id;",
+  "options": [
+   "5",
+   "6",
+   "7",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "LEFT JOIN keeps every customer; customers with no orders appear once with NULLs: 6 rows.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Joins",
+  "body": "customers:\nid | name\n1 | Hana\n2 | Ben\n3 | Grace\n4 | Ada\n5 | Eve\n\norders:\norder_id | customer_id\n100 | 2\n101 | 6\n102 | 5\n103 | 6\n104 | 4\n\nHow many rows does this return?\nSELECT * FROM customers c INNER JOIN orders o ON o.customer_id = c.id;",
+  "options": [
+   "5",
+   "3",
+   "2",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "INNER JOIN keeps only orders whose customer exists: 3 rows.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Joins",
+  "body": "customers:\nid | name\n1 | Hana\n2 | Ben\n3 | Grace\n4 | Femi\n5 | Ada\n\norders:\norder_id | customer_id\n100 | 3\n101 | 5\n102 | 4\n103 | 4\n\nHow many rows does this return?\nSELECT * FROM customers c INNER JOIN orders o ON o.customer_id = c.id;",
+  "options": [
+   "6",
+   "4",
+   "3",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": "INNER JOIN keeps only orders whose customer exists: 4 rows.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Joins",
+  "body": "customers:\nid | name\n1 | Ada\n2 | Dayo\n3 | Hana\n4 | Grace\n5 | Ben\n\norders:\norder_id | customer_id\n100 | 4\n101 | 3\n102 | 6\n103 | 4\n104 | 6\n105 | 1\n106 | 5\n\nHow many rows does this return?\nSELECT * FROM customers c INNER JOIN orders o ON o.customer_id = c.id;",
+  "options": [
+   "6",
+   "4",
+   "7",
+   "5"
+  ],
+  "answer": 3,
+  "explanation": "INNER JOIN keeps only orders whose customer exists: 5 rows.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Joins",
+  "body": "customers:\nid | name\n1 | Hana\n2 | Dayo\n3 | Cara\n4 | Ada\n5 | Eve\n\norders:\norder_id | customer_id\n100 | 3\n101 | 5\n102 | 6\n103 | 1\n104 | 1\n\nHow many rows does this return?\nSELECT * FROM customers c INNER JOIN orders o ON o.customer_id = c.id;",
+  "options": [
+   "3",
+   "5",
+   "4",
+   "6"
+  ],
+  "answer": 2,
+  "explanation": "INNER JOIN keeps only orders whose customer exists: 4 rows.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Joins",
+  "body": "customers:\nid | name\n1 | Grace\n2 | Eve\n3 | Hana\n4 | Ada\n5 | Ben\n\norders:\norder_id | customer_id\n100 | 2\n101 | 6\n102 | 6\n103 | 6\n104 | 1\n\nHow many rows does this return?\nSELECT * FROM customers c LEFT JOIN orders o ON o.customer_id = c.id;",
+  "options": [
+   "5",
+   "4",
+   "6",
+   "2"
+  ],
+  "answer": 0,
+  "explanation": "LEFT JOIN keeps every customer; customers with no orders appear once with NULLs: 5 rows.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Joins",
+  "body": "customers:\nid | name\n1 | Eve\n2 | Dayo\n3 | Hana\n4 | Femi\n5 | Ada\n\norders:\norder_id | customer_id\n100 | 5\n101 | 3\n102 | 6\n103 | 1\n104 | 1\n105 | 6\n\nHow many rows does this return?\nSELECT * FROM customers c LEFT JOIN orders o ON o.customer_id = c.id;",
+  "options": [
+   "6",
+   "5",
+   "4",
+   "7"
+  ],
+  "answer": 0,
+  "explanation": "LEFT JOIN keeps every customer; customers with no orders appear once with NULLs: 6 rows.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Joins",
+  "body": "customers:\nid | name\n1 | Ben\n2 | Dayo\n3 | Hana\n4 | Eve\n5 | Ada\n\norders:\norder_id | customer_id\n100 | 1\n101 | 6\n102 | 6\n103 | 2\n104 | 4\n105 | 4\n106 | 2\n\nHow many rows does this return?\nSELECT * FROM customers c LEFT JOIN orders o ON o.customer_id = c.id;",
+  "options": [
+   "5",
+   "6",
+   "8",
+   "7"
+  ],
+  "answer": 3,
+  "explanation": "LEFT JOIN keeps every customer; customers with no orders appear once with NULLs: 7 rows.",
+  "difficulty": 3
+ },
+ {
+  "subject": "SQQ",
+  "topic": "Joins",
+  "body": "customers:\nid | name\n1 | Ada\n2 | Grace\n3 | Dayo\n4 | Ben\n5 | Hana\n\norders:\norder_id | customer_id\n100 | 3\n101 | 5\n102 | 1\n103 | 1\n104 | 5\n105 | 2\n106 | 2\n\nHow many rows does this return?\nSELECT * FROM customers c INNER JOIN orders o ON o.customer_id = c.id;",
+  "options": [
+   "7",
+   "6",
+   "8",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "INNER JOIN keeps only orders whose customer exists: 7 rows.",
+  "difficulty": 3
+ }
+]

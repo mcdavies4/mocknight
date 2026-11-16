@@ -1,0 +1,184 @@
+[
+ {
+  "subject": "TBL",
+  "topic": "Fields",
+  "body": "In Tableau, blue fields are",
+  "options": [
+   "hidden",
+   "continuous",
+   "calculated only",
+   "discrete"
+  ],
+  "answer": 3,
+  "explanation": "Green fields are continuous.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TBL",
+  "topic": "Fields",
+  "body": "Dimensions in Tableau usually contain",
+  "options": [
+   "only numbers to aggregate",
+   "only calculations",
+   "colours",
+   "qualitative values like names, dates or categories"
+  ],
+  "answer": 3,
+  "explanation": "Measures contain quantitative values that are aggregated.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TBL",
+  "topic": "Calculations",
+  "body": "Which LOD expression computes a value at a specified level regardless of the view?",
+  "options": [
+   "FIXED",
+   "INCLUDE",
+   "WINDOW_SUM",
+   "EXCLUDE"
+  ],
+  "answer": 0,
+  "explanation": "INCLUDE and EXCLUDE adjust relative to the view's level.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TBL",
+  "topic": "Calculations",
+  "body": "Table calculations such as running total are computed",
+  "options": [
+   "only in extracts",
+   "before filters are applied",
+   "on the data already in the view",
+   "in the data source"
+  ],
+  "answer": 2,
+  "explanation": "Change 'Compute Using' to control direction.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TBL",
+  "topic": "Filters",
+  "body": "Which Tableau filter is applied first in the order of operations?",
+  "options": [
+   "Table calculation filters",
+   "Dimension filters",
+   "Measure filters",
+   "Extract filters"
+  ],
+  "answer": 3,
+  "explanation": "Then data source, context, dimension, measure and table calc filters.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TBL",
+  "topic": "Filters",
+  "body": "Context filters are used to",
+  "options": [
+   "change colours",
+   "create an independent filter that other filters depend on",
+   "publish workbooks",
+   "sort data"
+  ],
+  "answer": 1,
+  "explanation": "They also feed Top N and FIXED calculations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TBL",
+  "topic": "Data",
+  "body": "A Tableau extract (.hyper) is",
+  "options": [
+   "a calculated field",
+   "a saved snapshot of data for fast performance",
+   "a dashboard",
+   "a live connection"
+  ],
+  "answer": 1,
+  "explanation": "Live connections query the source directly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TBL",
+  "topic": "Data",
+  "body": "Relationships (the 'noodle') in Tableau's data model differ from joins because they",
+  "options": [
+   "are only for extracts",
+   "can only join two tables",
+   "keep tables separate and combine them at the right level for each view",
+   "always duplicate rows"
+  ],
+  "answer": 2,
+  "explanation": "Joins merge tables into one before analysis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TBL",
+  "topic": "Data",
+  "body": "Data blending combines data",
+  "options": [
+   "by stacking tables",
+   "from different sources at the aggregated level, using a primary and secondary source",
+   "only within one database",
+   "row by row before aggregation"
+  ],
+  "answer": 1,
+  "explanation": "Linking fields connect the sources.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TBL",
+  "topic": "Visuals",
+  "body": "The Marks card controls",
+  "options": [
+   "colour, size, label, detail and tooltip for the marks in a view",
+   "user permissions",
+   "data refresh",
+   "the data source"
+  ],
+  "answer": 0,
+  "explanation": "It is central to building visuals.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TBL",
+  "topic": "Visuals",
+  "body": "Which chart type compares a measure against a target with bars?",
+  "options": [
+   "Tree map",
+   "Bullet graph",
+   "Pie chart",
+   "Scatter plot"
+  ],
+  "answer": 1,
+  "explanation": "Show Me suggests charts based on your fields.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TBL",
+  "topic": "Dashboards",
+  "body": "Dashboard actions let users",
+  "options": [
+   "write SQL",
+   "change licences",
+   "edit extracts",
+   "filter or highlight other views by interacting with one view"
+  ],
+  "answer": 3,
+  "explanation": "Filter, highlight, URL, parameter and set actions exist.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TBL",
+  "topic": "Exam",
+  "body": "The Tableau Desktop Specialist exam has",
+  "options": [
+   "10 questions in 10 minutes",
+   "100 questions in 3 hours",
+   "a hands-on project only",
+   "45 questions in 60 minutes"
+  ],
+  "answer": 3,
+  "explanation": "It is an entry-level certification.",
+  "difficulty": 2
+ }
+]

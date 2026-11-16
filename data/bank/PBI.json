@@ -1,0 +1,254 @@
+[
+ {
+  "subject": "PBI",
+  "topic": "Modelling",
+  "body": "Power BI models work best with which schema?",
+  "options": [
+   "Snowflake with no relationships",
+   "Star schema (fact tables linked to dimension tables)",
+   "Random tables",
+   "One huge flat table only"
+  ],
+  "answer": 1,
+  "explanation": "It is simpler and faster.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Modelling",
+  "body": "A fact table usually contains",
+  "options": [
+   "numeric measurements of events, such as sales amounts",
+   "report visuals",
+   "descriptive attributes like product names only",
+   "only dates"
+  ],
+  "answer": 0,
+  "explanation": "Dimension tables describe the facts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Modelling",
+  "body": "The most common relationship cardinality between a dimension and a fact table is",
+  "options": [
+   "none",
+   "one-to-one",
+   "many-to-many",
+   "one-to-many"
+  ],
+  "answer": 3,
+  "explanation": "The dimension is on the 'one' side.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Modelling",
+  "body": "A date table should be marked as a date table to",
+  "options": [
+   "hide it",
+   "make it bigger",
+   "turn off relationships",
+   "enable time intelligence functions reliably"
+  ],
+  "answer": 3,
+  "explanation": "It needs a continuous column of unique dates.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX",
+  "body": "What is the difference between a measure and a calculated column?",
+  "options": [
+   "Measures are stored in the table",
+   "They are identical",
+   "Calculated columns respond to slicers instantly without storage",
+   "A measure is calculated at query time in the filter context; a calculated column is stored row by row"
+  ],
+  "answer": 3,
+  "explanation": "Prefer measures for aggregations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX",
+  "body": "Which DAX function changes the filter context of a calculation?",
+  "options": [
+   "FORMAT",
+   "RELATED",
+   "SUMX only",
+   "CALCULATE"
+  ],
+  "answer": 3,
+  "explanation": "For example CALCULATE(SUM(Sales[Amount]), Region[Name] = \"North\").",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX",
+  "body": "Which DAX function returns a value from the 'one' side of a relationship into the 'many' side?",
+  "options": [
+   "LOOKUPVALUE only",
+   "ALL",
+   "RELATED",
+   "RELATEDTABLE"
+  ],
+  "answer": 2,
+  "explanation": "RELATEDTABLE goes the other way.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX",
+  "body": "SUMX differs from SUM because SUMX",
+  "options": [
+   "evaluates an expression row by row and then adds the results",
+   "ignores filters",
+   "returns text",
+   "only adds a single column"
+  ],
+  "answer": 0,
+  "explanation": "It is an iterator.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX",
+  "body": "ALL() in DAX is used to",
+  "options": [
+   "add filters",
+   "sort data",
+   "remove filters from a table or column",
+   "create relationships"
+  ],
+  "answer": 2,
+  "explanation": "Useful for percentage-of-total calculations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Power Query",
+  "body": "Power Query transformations are written in which language?",
+  "options": [
+   "DAX",
+   "M",
+   "SQL only",
+   "Python only"
+  ],
+  "answer": 1,
+  "explanation": "The Advanced Editor shows the M code.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Power Query",
+  "body": "Turning many monthly columns into rows of month and value is",
+  "options": [
+   "merging",
+   "pivoting",
+   "appending",
+   "unpivoting"
+  ],
+  "answer": 3,
+  "explanation": "Unpivot creates a tidy, long table.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Power Query",
+  "body": "Combining two tables with the same columns, one under the other, is",
+  "options": [
+   "append",
+   "join on keys only",
+   "merge",
+   "pivot"
+  ],
+  "answer": 0,
+  "explanation": "Merge joins tables side by side on a key.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Storage",
+  "body": "Import mode differs from DirectQuery because Import",
+  "options": [
+   "can't be refreshed",
+   "queries the source live every time",
+   "has no size limits",
+   "loads a copy of the data into the model for fast queries"
+  ],
+  "answer": 3,
+  "explanation": "DirectQuery sends queries to the source live.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Service",
+  "body": "To refresh data from an on-premises SQL Server in the Power BI service, you need",
+  "options": [
+   "Power Query in Excel",
+   "an on-premises data gateway",
+   "nothing extra",
+   "a VPN on every PC"
+  ],
+  "answer": 1,
+  "explanation": "The gateway connects the cloud service to local data.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Security",
+  "body": "Row-level security (RLS) is used to",
+  "options": [
+   "hide whole reports",
+   "encrypt the file",
+   "restrict which rows of data each user can see",
+   "speed up refresh"
+  ],
+  "answer": 2,
+  "explanation": "Roles use DAX filter expressions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Service",
+  "body": "A Power BI app is used to",
+  "options": [
+   "distribute a packaged set of reports and dashboards to many users",
+   "edit DAX",
+   "run Python",
+   "build data models"
+  ],
+  "answer": 0,
+  "explanation": "Apps are published from workspaces.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Visuals",
+  "body": "Which visual best shows a trend over time?",
+  "options": [
+   "Table",
+   "Line chart",
+   "Pie chart",
+   "Card"
+  ],
+  "answer": 1,
+  "explanation": "Use bar or column charts for comparing categories.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Exam",
+  "body": "The PL-300 exam leads to which certification?",
+  "options": [
+   "Microsoft Certified: Power BI Data Analyst Associate",
+   "Data Engineer Associate",
+   "Azure Administrator",
+   "Excel Expert"
+  ],
+  "answer": 0,
+  "explanation": "The passing score is 700.",
+  "difficulty": 2
+ }
+]
