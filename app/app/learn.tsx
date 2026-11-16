@@ -5,6 +5,7 @@ import { useSearchParams } from "next/navigation";
 import { browserDb, browserDbReady, configureBrowserDb } from "@/lib/supabase-browser";
 import { api, shareLink } from "@/lib/client-api";
 import { ExplainButton } from "@/components/explain";
+import { InstallButton, ReminderCard } from "@/components/pwa";
 
 const LETTERS = ["A", "B", "C", "D", "E"];
 
@@ -45,6 +46,8 @@ interface Me {
 interface DrillQ { done: false; messageId: number; position: number; total: number; isReview: boolean; subject: string; topic: string | null; body: string; options: string[] }
 interface Summary { correct: number; total: number; pct: number; streak: number; reviewBox: number; premium: boolean }
 
+let wentToDrill = false;
+
 export default function Learn({ sbUrl, sbKey }: { sbUrl: string; sbKey: string }) {
   configureBrowserDb(sbUrl, sbKey);
   const ready = browserDbReady();
@@ -60,11 +63,13 @@ export default function Learn({ sbUrl, sbKey }: { sbUrl: string; sbKey: string }
       const m = await api<Me>("/api/app/me");
       setMe(m);
       if (!m.student.onboarded || !m.track) setView("onboard");
+      // Opened from a reminder notification or the app shortcut: go straight to today's questions
+      else if (params.get("go") === "drill" && !m.today?.finished && !wentToDrill) { wentToDrill = true; setView("drill"); }
     } catch (e: any) {
       if (e.message === "UNAUTHORIZED") setSession("out");
       else setError("Couldn't load your account. Check your connection and refresh.");
     }
-  }, []);
+  }, [params]);
 
   useEffect(() => {
     const ref = params.get("ref");
@@ -319,6 +324,9 @@ function Home({ me, reload, onDrill, onSettings, onLesson }: { me: Me; reload: (
         <p className="muted small" style={{ margin: "4px 0 10px" }}>Short, every day. Anything you miss comes back until you get it right.</p>
         <button className="btn block" onClick={onDrill} disabled={me.today?.finished}>{todayLabel}</button>
       </div>
+
+      <ReminderCard />
+      <div style={{ marginBottom: 12 }}><InstallButton /></div>
 
       {t.mockVariants.length > 0 ? (
         <div className="card">

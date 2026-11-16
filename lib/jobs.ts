@@ -10,6 +10,7 @@ import { watNow, formatHour } from "./time";
 import { closeExpiredAttempts, ensureWeeklyMock, WEEKLY } from "./mock";
 import type { Mock, TutorGroup } from "./types";
 import { maybeSendAdminDigest } from "./admin";
+import { sendPush } from "./push";
 import { SCHOOL_TRACKS, tracksByZone } from "./tracks";
 
 type Recipient = { id: string; telegram_id: number; first_name: string | null };
@@ -74,6 +75,28 @@ export async function runHourly(api: Api) {
         reply_markup: new InlineKeyboard().text("Start drill ▶️", "drill:start"),
       }),
     );
+  }
+
+  // 1b. Web-app learners (no Telegram) who turned on reminders get a phone notification instead
+  try {
+    const { data: webDue } = await db()
+      .from("students")
+      .select("id, first_name")
+      .eq("onboarding_step", "done")
+      .is("telegram_id", null)
+      .or([...zoneClauses, `and(track.is.null,drill_hour.eq.${hour})`].join(","))
+      .or(`last_drill_prompt.is.null,last_drill_prompt.lt.${date}`)
+      .limit(5000);
+    if (webDue?.length) {
+      const { data: subs } = await db().from("push_subscriptions").select("student_id").in("student_id", webDue.map((s) => s.id));
+      const ids = [...new Set((subs ?? []).map((s) => s.student_id as string))];
+      if (ids.length) {
+        await db().from("students").update({ last_drill_prompt: date }).in("id", ids);
+        log.webPush = await sendPush(ids, { title: "📝 Your daily questions are ready", body: "A few minutes now keeps your streak going 🔥", url: "/app?go=drill", tag: "daily" });
+      }
+    }
+  } catch (e) {
+    console.error("web push reminders", e);
   }
 
   // 2. Sunday: create Mock Night, remind, open
