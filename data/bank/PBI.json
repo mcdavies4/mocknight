@@ -250,5 +250,593 @@
   "answer": 0,
   "explanation": "The passing score is 700.",
   "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX",
+  "body": "Which DAX function divides safely and returns BLANK (or an alternate result) when the denominator is zero?",
+  "options": [
+   "SWITCH",
+   "QUOTIENT",
+   "MOD",
+   "DIVIDE"
+  ],
+  "answer": 3,
+  "explanation": "DIVIDE(numerator, denominator, alternate) avoids errors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX",
+  "body": "Which function lets a measure ignore filters on one column but keep all other filters?",
+  "options": [
+   "SELECTEDVALUE",
+   "FILTER(ALL(Table))",
+   "VALUES",
+   "ALL(Table[Column]) inside CALCULATE (or REMOVEFILTERS)"
+  ],
+  "answer": 3,
+  "explanation": "Useful for share-of-total calculations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX",
+  "body": "Which function returns the value of a column when exactly one value is selected?",
+  "options": [
+   "DISTINCT",
+   "VALUES",
+   "EARLIER",
+   "SELECTEDVALUE"
+  ],
+  "answer": 3,
+  "explanation": "It returns BLANK (or an alternate) when there are several.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX",
+  "body": "Which time intelligence function calculates a year-to-date total?",
+  "options": [
+   "SAMEPERIODLASTYEAR only",
+   "PARALLELPERIOD only",
+   "TOTALYTD (or DATESYTD inside CALCULATE)",
+   "DATEADD only"
+  ],
+  "answer": 2,
+  "explanation": "It needs a proper date table.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX",
+  "body": "Which function shifts dates to compare with the same period last year?",
+  "options": [
+   "EOMONTH",
+   "TOTALYTD",
+   "CALENDARAUTO",
+   "SAMEPERIODLASTYEAR"
+  ],
+  "answer": 3,
+  "explanation": "Often used for year-on-year growth.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX",
+  "body": "Variables in DAX are declared with",
+  "options": [
+   "LET … IN",
+   "VAR … RETURN",
+   "SET … =",
+   "DIM … AS"
+  ],
+  "answer": 1,
+  "explanation": "Variables make measures faster and easier to read.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX",
+  "body": "What is 'context transition'?",
+  "options": [
+   "When CALCULATE turns the current row context into a filter context",
+   "Changing the report theme",
+   "Moving a visual to another page",
+   "Refreshing a dataset"
+  ],
+  "answer": 0,
+  "explanation": "It happens when a measure is used inside an iterator or calculated column.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Modelling",
+  "body": "Cross-filter direction 'Both' on a relationship means",
+  "options": [
+   "the tables are merged",
+   "the relationship is inactive",
+   "filters flow in both directions between the tables",
+   "only one table can be filtered"
+  ],
+  "answer": 2,
+  "explanation": "Use it carefully; it can cause ambiguity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Modelling",
+  "body": "An inactive relationship can be used in a measure with",
+  "options": [
+   "USERELATIONSHIP inside CALCULATE",
+   "LOOKUPVALUE",
+   "TREATAS only",
+   "RELATED"
+  ],
+  "answer": 0,
+  "explanation": "Common for multiple date columns (order date, ship date).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Modelling",
+  "body": "A role-playing dimension is",
+  "options": [
+   "a calculated column",
+   "one dimension table used for several relationships, such as Date for order date and ship date",
+   "a hidden table",
+   "a table of security roles"
+  ],
+  "answer": 1,
+  "explanation": "Only one of the relationships can be active.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Modelling",
+  "body": "Why should you avoid many high-cardinality calculated columns?",
+  "options": [
+   "They can't be used in visuals",
+   "They increase model size and memory use",
+   "They disable refresh",
+   "They break DAX"
+  ],
+  "answer": 1,
+  "explanation": "Prefer measures or Power Query columns where possible.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Power Query",
+  "body": "In Power Query, 'Merge queries' is used to",
+  "options": [
+   "join two tables on matching key columns",
+   "change data types",
+   "stack tables vertically",
+   "remove duplicates"
+  ],
+  "answer": 0,
+  "explanation": "Join kinds include left outer, inner and full outer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Power Query",
+  "body": "Query folding means",
+  "options": [
+   "Power Query steps are translated into the data source's own query language",
+   "data is compressed",
+   "queries are deleted",
+   "visuals are folded away"
+  ],
+  "answer": 0,
+  "explanation": "Folding improves refresh performance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Power Query",
+  "body": "Which Power Query feature creates a profile of column values, errors and empties?",
+  "options": [
+   "Drillthrough",
+   "Bookmarks",
+   "Quick measures",
+   "Column quality and column distribution (data profiling)"
+  ],
+  "answer": 3,
+  "explanation": "Found on the View tab.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Visuals",
+  "body": "Drillthrough lets users",
+  "options": [
+   "right-click a data point to open a detail page filtered to it",
+   "edit the data model",
+   "export to Excel only",
+   "change the theme"
+  ],
+  "answer": 0,
+  "explanation": "Set drillthrough fields on the target page.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Visuals",
+  "body": "Bookmarks are used to",
+  "options": [
+   "store data",
+   "create relationships",
+   "schedule refresh",
+   "save a report state, such as filters and visible visuals"
+  ],
+  "answer": 3,
+  "explanation": "Often used with buttons for navigation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Visuals",
+  "body": "Which visual shows how a value changes from a start to an end value through positive and negative steps?",
+  "options": [
+   "Card",
+   "Gauge",
+   "Pie chart",
+   "Waterfall chart"
+  ],
+  "answer": 3,
+  "explanation": "Good for profit bridges.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Service",
+  "body": "Scheduled refresh in the Power BI service is configured on the",
+  "options": [
+   "dashboard tile",
+   "semantic model (dataset)",
+   "visual",
+   "report page"
+  ],
+  "answer": 1,
+  "explanation": "Pro licences allow up to 8 refreshes a day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Service",
+  "body": "Which workspace role can publish content but not manage access?",
+  "options": [
+   "Viewer",
+   "Admin",
+   "Contributor",
+   "Member only"
+  ],
+  "answer": 2,
+  "explanation": "Admins manage access; Members can share; Viewers can only view.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Service",
+  "body": "A dashboard in the Power BI service is",
+  "options": [
+   "a single canvas of pinned tiles from one or more reports",
+   "a Power Query step",
+   "the same as a multi-page report",
+   "a data model"
+  ],
+  "answer": 0,
+  "explanation": "Dashboards are only in the service, not Desktop.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Performance",
+  "body": "Which tool records how long each visual's DAX query takes?",
+  "options": [
+   "Quick insights",
+   "Sync slicers",
+   "Performance analyzer",
+   "Q&A"
+  ],
+  "answer": 2,
+  "explanation": "Use it to find slow visuals.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "Security",
+  "body": "Static RLS differs from dynamic RLS because dynamic RLS",
+  "options": [
+   "filters data using the signed-in user, such as USERPRINCIPALNAME()",
+   "encrypts the dataset",
+   "hides whole pages",
+   "uses fixed values for every role"
+  ],
+  "answer": 0,
+  "explanation": "One dynamic role can serve many users.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX results",
+  "body": "Sales:\nRegion | Category | Amount | Units\nEast | Food | 300 | 4\nSouth | Home | 150 | 4\nNorth | Home | 300 | 9\nEast | Home | 250 | 7\nNorth | Toys | 250 | 2\nEast | Home | 150 | 9\n\nWhat does this measure return?\nSUMX(Sales, Sales[Amount] * Sales[Units])",
+  "options": [
+   "8100",
+   "49,000",
+   "1400",
+   "35"
+  ],
+  "answer": 0,
+  "explanation": "SUMX multiplies row by row, then adds: 8100.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX results",
+  "body": "Sales:\nRegion | Category | Amount | Units\nNorth | Home | 250 | 8\nEast | Toys | 100 | 6\nSouth | Food | 500 | 5\nSouth | Food | 100 | 4\nNorth | Toys | 300 | 7\nEast | Home | 500 | 8\n\nWhat does this measure return?\nSUMX(Sales, Sales[Amount] * Sales[Units])",
+  "options": [
+   "66,500",
+   "11,600",
+   "38",
+   "1750"
+  ],
+  "answer": 1,
+  "explanation": "SUMX multiplies row by row, then adds: 11600.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX results",
+  "body": "Sales:\nRegion | Category | Amount | Units\nNorth | Toys | 400 | 7\nSouth | Food | 200 | 6\nNorth | Home | 300 | 9\nSouth | Toys | 500 | 1\nNorth | Food | 300 | 5\nEast | Food | 100 | 1\n\nWhat does this measure return?\nSUMX(Sales, Sales[Amount] * Sales[Units])",
+  "options": [
+   "29",
+   "52,200",
+   "8800",
+   "1800"
+  ],
+  "answer": 2,
+  "explanation": "SUMX multiplies row by row, then adds: 8800.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX results",
+  "body": "Sales:\nRegion | Category | Amount | Units\nNorth | Food | 200 | 3\nNorth | Toys | 500 | 9\nNorth | Home | 100 | 2\nEast | Home | 400 | 3\nNorth | Home | 500 | 8\nNorth | Home | 400 | 2\n\nWhat does this measure return?\nSUMX(Sales, Sales[Amount] * Sales[Units])",
+  "options": [
+   "27",
+   "11,300",
+   "2100",
+   "56,700"
+  ],
+  "answer": 1,
+  "explanation": "SUMX multiplies row by row, then adds: 11300.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX results",
+  "body": "Sales:\nRegion | Category | Amount | Units\nNorth | Food | 500 | 3\nEast | Toys | 150 | 5\nSouth | Food | 250 | 7\nEast | Home | 300 | 4\nSouth | Toys | 300 | 7\nNorth | Toys | 150 | 2\n\nWhat does this measure return?\nSUMX(Sales, Sales[Amount] * Sales[Units])",
+  "options": [
+   "46,200",
+   "28",
+   "1650",
+   "7600"
+  ],
+  "answer": 3,
+  "explanation": "SUMX multiplies row by row, then adds: 7600.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX results",
+  "body": "Sales:\nRegion | Category | Amount | Units\nNorth | Toys | 100 | 1\nEast | Home | 200 | 1\nEast | Home | 100 | 1\nEast | Home | 250 | 6\nNorth | Home | 500 | 4\nEast | Toys | 300 | 5\n\nFiltered to Region = East, what does this measure return?\nDIVIDE(SUM(Sales[Amount]), SUM(Sales[Units]))",
+  "options": [
+   "13",
+   "850",
+   "72.38",
+   "65.38"
+  ],
+  "answer": 3,
+  "explanation": "850 ÷ 13 = 65.38.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX results",
+  "body": "Sales:\nRegion | Category | Amount | Units\nNorth | Food | 150 | 3\nEast | Home | 150 | 1\nNorth | Toys | 400 | 5\nNorth | Home | 500 | 8\nEast | Toys | 100 | 9\nSouth | Home | 150 | 7\n\nIn a table visual, the row for Region = North shows this measure as a percentage. What value appears?\nDIVIDE(SUM(Sales[Amount]), CALCULATE(SUM(Sales[Amount]), ALL(Sales[Region])))",
+  "options": [
+   "72.4%",
+   "262.5%",
+   "100%",
+   "33.3%"
+  ],
+  "answer": 0,
+  "explanation": "ALL removes the region filter from the denominator: 1050 ÷ 1450 = 72.4%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX results",
+  "body": "Sales:\nRegion | Category | Amount | Units\nEast | Home | 300 | 8\nNorth | Food | 250 | 5\nEast | Home | 250 | 7\nEast | Food | 250 | 5\nEast | Toys | 250 | 5\nNorth | Food | 100 | 1\n\nWhat does this measure return?\nSUMX(Sales, Sales[Amount] * Sales[Units])",
+  "options": [
+   "43,400",
+   "8000",
+   "31",
+   "1400"
+  ],
+  "answer": 1,
+  "explanation": "SUMX multiplies row by row, then adds: 8000.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX results",
+  "body": "Sales:\nRegion | Category | Amount | Units\nEast | Food | 150 | 4\nNorth | Home | 500 | 3\nEast | Food | 400 | 6\nEast | Home | 200 | 8\nNorth | Home | 500 | 9\nSouth | Home | 400 | 5\n\nIn a table visual, the row for Region = North shows this measure as a percentage. What value appears?\nDIVIDE(SUM(Sales[Amount]), CALCULATE(SUM(Sales[Amount]), ALL(Sales[Region])))",
+  "options": [
+   "46.5%",
+   "87%",
+   "33.3%",
+   "100%"
+  ],
+  "answer": 0,
+  "explanation": "ALL removes the region filter from the denominator: 1000 ÷ 2150 = 46.5%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX results",
+  "body": "Sales:\nRegion | Category | Amount | Units\nEast | Home | 100 | 9\nSouth | Food | 400 | 7\nNorth | Toys | 500 | 7\nSouth | Toys | 400 | 7\nSouth | Toys | 100 | 3\nSouth | Toys | 100 | 1\n\nIn a table visual, the row for Region = North shows this measure as a percentage. What value appears?\nDIVIDE(SUM(Sales[Amount]), CALCULATE(SUM(Sales[Amount]), ALL(Sales[Region])))",
+  "options": [
+   "31.3%",
+   "45.5%",
+   "33.3%",
+   "100%"
+  ],
+  "answer": 0,
+  "explanation": "ALL removes the region filter from the denominator: 500 ÷ 1600 = 31.3%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX results",
+  "body": "Sales:\nRegion | Category | Amount | Units\nSouth | Food | 100 | 3\nSouth | Home | 400 | 1\nEast | Food | 250 | 8\nSouth | Toys | 500 | 5\nNorth | Food | 200 | 8\nNorth | Toys | 300 | 5\n\nIn a table visual, the row for Region = East shows this measure as a percentage. What value appears?\nDIVIDE(SUM(Sales[Amount]), CALCULATE(SUM(Sales[Amount]), ALL(Sales[Region])))",
+  "options": [
+   "16.7%",
+   "33.3%",
+   "14.3%",
+   "100%"
+  ],
+  "answer": 2,
+  "explanation": "ALL removes the region filter from the denominator: 250 ÷ 1750 = 14.3%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX results",
+  "body": "Sales:\nRegion | Category | Amount | Units\nEast | Food | 250 | 4\nNorth | Food | 250 | 2\nSouth | Toys | 200 | 5\nEast | Toys | 200 | 6\nEast | Food | 400 | 9\nEast | Home | 300 | 6\n\nWhat does this measure return in a card with no other filters?\nCALCULATE(SUM(Sales[Amount]), Sales[Region] = \"East\")",
+  "options": [
+   "4",
+   "1150",
+   "1600",
+   "1250"
+  ],
+  "answer": 1,
+  "explanation": "Sum of Amount where Region is East: 1150.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX results",
+  "body": "Sales:\nRegion | Category | Amount | Units\nEast | Food | 100 | 7\nNorth | Food | 400 | 9\nEast | Food | 400 | 7\nNorth | Toys | 150 | 2\nEast | Home | 250 | 1\nEast | Food | 500 | 6\n\nWhat does this measure return?\nSUMX(Sales, Sales[Amount] * Sales[Units])",
+  "options": [
+   "32",
+   "1800",
+   "10,650",
+   "57,600"
+  ],
+  "answer": 2,
+  "explanation": "SUMX multiplies row by row, then adds: 10650.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX results",
+  "body": "Sales:\nRegion | Category | Amount | Units\nNorth | Food | 200 | 4\nSouth | Food | 300 | 4\nNorth | Toys | 500 | 2\nSouth | Toys | 500 | 4\nEast | Toys | 100 | 3\nSouth | Home | 400 | 5\n\nFiltered to Region = South, what does this measure return?\nDIVIDE(SUM(Sales[Amount]), SUM(Sales[Units]))",
+  "options": [
+   "1200",
+   "13",
+   "101.31",
+   "92.31"
+  ],
+  "answer": 3,
+  "explanation": "1200 ÷ 13 = 92.31.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX results",
+  "body": "Sales:\nRegion | Category | Amount | Units\nNorth | Home | 100 | 5\nNorth | Toys | 100 | 2\nNorth | Toys | 250 | 6\nNorth | Home | 500 | 7\nEast | Home | 150 | 4\nNorth | Home | 500 | 9\n\nWhat does this measure return?\nCALCULATE(COUNTROWS(Sales), Sales[Category] = \"Home\")",
+  "options": [
+   "4",
+   "25",
+   "5",
+   "6"
+  ],
+  "answer": 0,
+  "explanation": "4 rows have Category Home.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX results",
+  "body": "Sales:\nRegion | Category | Amount | Units\nNorth | Home | 200 | 7\nNorth | Home | 500 | 4\nEast | Food | 400 | 3\nEast | Food | 500 | 3\nSouth | Home | 400 | 7\nSouth | Toys | 300 | 8\n\nWhat does this measure return?\nCALCULATE(COUNTROWS(Sales), Sales[Category] = \"Toys\")",
+  "options": [
+   "6",
+   "1",
+   "8",
+   "2"
+  ],
+  "answer": 1,
+  "explanation": "1 rows have Category Toys.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX results",
+  "body": "Sales:\nRegion | Category | Amount | Units\nSouth | Food | 150 | 6\nSouth | Home | 100 | 1\nSouth | Food | 400 | 5\nNorth | Food | 200 | 4\nEast | Home | 200 | 5\nSouth | Food | 250 | 6\n\nFiltered to Region = North, what does this measure return?\nDIVIDE(SUM(Sales[Amount]), SUM(Sales[Units]))",
+  "options": [
+   "4",
+   "0.02",
+   "50",
+   "200"
+  ],
+  "answer": 2,
+  "explanation": "200 ÷ 4 = 50.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX results",
+  "body": "Sales:\nRegion | Category | Amount | Units\nNorth | Toys | 150 | 2\nSouth | Toys | 300 | 8\nNorth | Food | 150 | 8\nNorth | Food | 100 | 8\nNorth | Home | 300 | 8\nSouth | Toys | 500 | 7\n\nWhat does this measure return?\nSUMX(Sales, Sales[Amount] * Sales[Units])",
+  "options": [
+   "41",
+   "10,600",
+   "61,500",
+   "1500"
+  ],
+  "answer": 1,
+  "explanation": "SUMX multiplies row by row, then adds: 10600.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX results",
+  "body": "Sales:\nRegion | Category | Amount | Units\nEast | Home | 500 | 7\nEast | Home | 500 | 6\nNorth | Food | 400 | 9\nEast | Toys | 150 | 6\nSouth | Home | 500 | 7\nEast | Food | 100 | 4\n\nIn a table visual, the row for Region = South shows this measure as a percentage. What value appears?\nDIVIDE(SUM(Sales[Amount]), CALCULATE(SUM(Sales[Amount]), ALL(Sales[Region])))",
+  "options": [
+   "23.3%",
+   "33.3%",
+   "30.3%",
+   "100%"
+  ],
+  "answer": 0,
+  "explanation": "ALL removes the region filter from the denominator: 500 ÷ 2150 = 23.3%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "PBI",
+  "topic": "DAX results",
+  "body": "Sales:\nRegion | Category | Amount | Units\nEast | Home | 200 | 3\nSouth | Toys | 100 | 6\nNorth | Toys | 200 | 1\nEast | Home | 150 | 6\nEast | Home | 400 | 7\nSouth | Food | 400 | 2\n\nWhat does this measure return in a card with no other filters?\nCALCULATE(SUM(Sales[Amount]), Sales[Region] = \"East\")",
+  "options": [
+   "750",
+   "3",
+   "850",
+   "1450"
+  ],
+  "answer": 0,
+  "explanation": "Sum of Amount where Region is East: 750.",
+  "difficulty": 2
  }
 ]
