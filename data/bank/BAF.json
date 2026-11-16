@@ -1,0 +1,254 @@
+[
+ {
+  "subject": "BAF",
+  "topic": "Frameworks",
+  "body": "In IIBA's BABOK Guide, the Business Analysis Core Concept Model (BACCM) has six concepts: Change, Need, Solution, Stakeholder, Value and",
+  "options": [
+   "Context",
+   "Cost",
+   "Code",
+   "Control"
+  ],
+  "answer": 0,
+  "explanation": "BABOK v3 is the IIBA's standard.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BAF",
+  "topic": "Frameworks",
+  "body": "In the BCS POPIT model, the 'I' stands for",
+  "options": [
+   "Investment",
+   "Information",
+   "Innovation",
+   "Inspection"
+  ],
+  "answer": 1,
+  "explanation": "People, Organisation, Process, Information, Technology.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BAF",
+  "topic": "Frameworks",
+  "body": "CATWOE is used to",
+  "options": [
+   "analyse different stakeholder perspectives on a business system",
+   "write code",
+   "test software",
+   "estimate costs"
+  ],
+  "answer": 0,
+  "explanation": "Customers, Actors, Transformation, Weltanschauung, Owner, Environment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BAF",
+  "topic": "Frameworks",
+  "body": "In CATWOE, 'W' (Weltanschauung) means",
+  "options": [
+   "the weekly plan",
+   "the warranty",
+   "the world view that makes the transformation meaningful",
+   "the workload"
+  ],
+  "answer": 2,
+  "explanation": "It explains why the change matters to a stakeholder.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BAF",
+  "topic": "Strategy",
+  "body": "PESTLE analysis examines",
+  "options": [
+   "external political, economic, social, technological, legal and environmental factors",
+   "a single process",
+   "internal staff skills only",
+   "software defects"
+  ],
+  "answer": 0,
+  "explanation": "SWOT combines internal and external factors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BAF",
+  "topic": "Requirements",
+  "body": "A non-functional requirement describes",
+  "options": [
+   "the team's names",
+   "what the system does",
+   "the project budget",
+   "how well the system performs, such as speed, security or usability"
+  ],
+  "answer": 3,
+  "explanation": "Functional requirements describe behaviour.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BAF",
+  "topic": "Requirements",
+  "body": "In BABOK, requirements that describe what is needed to move from the current to the future state (such as data migration or training) are",
+  "options": [
+   "business requirements",
+   "non-functional requirements",
+   "transition requirements",
+   "stakeholder requirements"
+  ],
+  "answer": 2,
+  "explanation": "They are temporary.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BAF",
+  "topic": "Requirements",
+  "body": "A requirements traceability matrix links",
+  "options": [
+   "risks to insurers",
+   "staff to salaries",
+   "servers to rooms",
+   "requirements to their sources, designs and tests"
+  ],
+  "answer": 3,
+  "explanation": "It shows coverage and impact of change.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BAF",
+  "topic": "Requirements",
+  "body": "Acceptance criteria define",
+  "options": [
+   "the test team's hours",
+   "the conditions a requirement or story must meet to be accepted",
+   "the budget",
+   "the sprint length"
+  ],
+  "answer": 1,
+  "explanation": "They make requirements testable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BAF",
+  "topic": "Elicitation",
+  "body": "Which elicitation technique involves watching people do their work?",
+  "options": [
+   "Observation (shadowing)",
+   "Document analysis",
+   "Questionnaires",
+   "Brainstorming"
+  ],
+  "answer": 0,
+  "explanation": "It reveals tacit knowledge.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BAF",
+  "topic": "Elicitation",
+  "body": "Which technique is best for gathering views from many people spread out geographically?",
+  "options": [
+   "One-to-one interviews only",
+   "Workshops in one room",
+   "Shadowing",
+   "Questionnaires (surveys)"
+  ],
+  "answer": 3,
+  "explanation": "They scale well but give less depth.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BAF",
+  "topic": "Elicitation",
+  "body": "Building an early model of a screen for users to react to is",
+  "options": [
+   "auditing",
+   "regression testing",
+   "prototyping",
+   "benchmarking"
+  ],
+  "answer": 2,
+  "explanation": "It helps uncover requirements.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BAF",
+  "topic": "Analysis",
+  "body": "Gap analysis compares",
+  "options": [
+   "the current state with the desired future state",
+   "budget and actuals only",
+   "two test results",
+   "two competitors' prices"
+  ],
+  "answer": 0,
+  "explanation": "The gap shows what must change.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BAF",
+  "topic": "Analysis",
+  "body": "A fishbone (Ishikawa) diagram is used to",
+  "options": [
+   "track budgets",
+   "schedule tasks",
+   "model data",
+   "explore the root causes of a problem"
+  ],
+  "answer": 3,
+  "explanation": "The '5 whys' is another root-cause technique.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BAF",
+  "topic": "Modelling",
+  "body": "BPMN is a standard notation for",
+  "options": [
+   "financial statements",
+   "business process models",
+   "database design",
+   "network diagrams"
+  ],
+  "answer": 1,
+  "explanation": "Business Process Model and Notation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BAF",
+  "topic": "Modelling",
+  "body": "A use case describes",
+  "options": [
+   "the system's hardware",
+   "a test script only",
+   "how an actor interacts with a system to achieve a goal",
+   "the project budget"
+  ],
+  "answer": 2,
+  "explanation": "Use case diagrams show actors and use cases.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BAF",
+  "topic": "Stakeholders",
+  "body": "On a power/interest grid, stakeholders with high power but low interest should be",
+  "options": [
+   "monitored only",
+   "kept informed",
+   "managed closely",
+   "kept satisfied"
+  ],
+  "answer": 3,
+  "explanation": "Low power, high interest: keep informed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "BAF",
+  "topic": "Certification",
+  "body": "The IIBA's entry-level business analysis certification is the",
+  "options": [
+   "CISSP",
+   "PMP",
+   "ECBA",
+   "CBAP"
+  ],
+  "answer": 2,
+  "explanation": "CCBA and CBAP are for experienced analysts.",
+  "difficulty": 2
+ }
+]

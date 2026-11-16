@@ -2,7 +2,7 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV" | "ELEC18" | "EYTA" | "WAREHOUSE" | "NHSHCA";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV" | "ELEC18" | "EYTA" | "WAREHOUSE" | "NHSHCA" | "BA" | "ISC2CC" | "AWSSAA" | "AICERT" | "SFADMIN";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
 export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi" | "Asia/Manila" | "Africa/Johannesburg";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
@@ -672,18 +672,20 @@ export const TRACKS: Record<TrackCode, Track> = {
     audience: "an internationally educated nurse (often from Nigeria, Ghana, the Philippines or India) preparing for the US NCLEX-RN, using US units and US nursing practice",
   },
   PM: {
-    code: "PM", name: "Project Management (PRINCE2, Scrum, CAPM, PMP)", short: "Project Management", emoji: "📋", kind: "professional", region: "GLOBAL", currency: "GBP",
-    subjectMode: "multi", subjects: ["PRN", "SCR", "PMF", "PMP"], compulsory: [], minSubjects: 1, maxSubjects: 4, subjectNote: "Pick the certifications you're preparing for",
+    code: "PM", name: "Project Management (PRINCE2, APM, Scrum, Agile, CAPM, PMP)", short: "Project Management", emoji: "📋", kind: "professional", region: "GLOBAL", currency: "GBP",
+    subjectMode: "multi", subjects: ["PRN", "APM", "SCR", "AGP", "PMF", "PMP"], compulsory: [], minSubjects: 1, maxSubjects: 6, subjectNote: "Pick the certifications you're preparing for",
     mock: { total: 60, minutes: 60, passPct: 60, scoreStyle: "passfail", maxSubjects: 1 },
     mockVariants: [
       { key: "PRN", label: "PRINCE2® 7 Foundation", short: "PRINCE2", subjects: ["PRN"], total: 60, minutes: 60, passPct: 60, note: "60 questions · 60 min · 36 to pass" },
+      { key: "APM", label: "APM PFQ", short: "APM PFQ", subjects: ["APM"], total: 60, minutes: 60, passPct: 60, note: "60 questions · 60 min · 60% to pass" },
       { key: "SCR", label: "Scrum — PSM I style", short: "Scrum", subjects: ["SCR"], total: 80, minutes: 60, passPct: 85, note: "80 questions · 60 min · 85% to pass" },
+      { key: "AGP", label: "Agile & Product Owner (PSPO / PMI-ACP style)", short: "Agile / PSPO", subjects: ["AGP", "SCR"], total: 20, minutes: 45, passPct: 75, note: "40 questions · 45 min" },
       { key: "PMF", label: "CAPM-style fundamentals", short: "CAPM", subjects: ["PMF"], total: 50, minutes: 60, passPct: 70, note: "50 questions · 60 min · practice target 70%" },
       { key: "PMP", label: "PMP-style practice", short: "PMP", subjects: ["PMP", "PMF"], total: 45, minutes: 120, passPct: 65, note: "90 questions · 2 hours · situational + calculations" },
     ],
     weeklyMock: false, askState: false, askSchool: false,
-    plans: ["pm_pass", "pm_pass_ngn"], tagline: "PRINCE2 Foundation, Scrum PSM I and CAPM practice tests", timeZone: "Europe/London",
-    audience: "a working professional preparing for project management certifications (PRINCE2 7 Foundation, Scrum.org PSM I, PMI CAPM)",
+    plans: ["pm_pass", "pm_pass_ngn"], tagline: "PRINCE2, APM PFQ, Scrum PSM I, Agile/PSPO, CAPM and PMP practice tests", timeZone: "Europe/London",
+    audience: "a working professional preparing for project management certifications (PRINCE2 7 Foundation, APM PFQ, Scrum.org PSM I and PSPO, PMI CAPM, PMI-ACP and PMP)",
   },
   SALEARN: {
     code: "SALEARN", name: "South Africa learner's licence (K53)", short: "Learner's licence SA", emoji: "🚗", kind: "professional", region: "ZA", currency: "USD",
@@ -770,6 +772,41 @@ export const TRACKS: Record<TrackCode, Track> = {
     mock: { total: 20, minutes: 25, passPct: 80, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
     plans: ["hca_pass", "hca_pass_ngn"], tagline: "Get ready for NHS healthcare assistant jobs: values, observations, infection control and interview answers", timeZone: "Europe/London",
     audience: "someone applying for or starting an NHS healthcare assistant (HCA) role, often recently arrived in the UK",
+  },
+  BA: {
+    code: "BA", name: "Business Analyst (BCS Foundation / IIBA ECBA)", short: "Business Analyst", emoji: "🧭", kind: "professional", region: "UK", currency: "GBP",
+    subjectMode: "single", subjects: ["BAF"], compulsory: ["BAF"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 40, minutes: 60, passPct: 65, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["ba_pass", "ba_pass_ngn"], tagline: "Business analysis practice: BABOK, POPIT, CATWOE, requirements, elicitation and modelling", timeZone: "Europe/London", timeLabel: "UK",
+    audience: "someone moving into business analysis, preparing for the BCS Foundation Certificate in Business Analysis or IIBA ECBA",
+  },
+  ISC2CC: {
+    code: "ISC2CC", name: "ISC2 Certified in Cybersecurity (CC)", short: "ISC2 CC", emoji: "🔐", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["ICC"], compulsory: ["ICC"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 50, minutes: 60, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["isc2_pass", "isc2_pass_ngn"], tagline: "ISC2 CC practice across all five domains: principles, continuity, access control, network security and operations", timeZone: "UTC", timeLabel: "UTC",
+    audience: "a beginner starting a cybersecurity career and preparing for the ISC2 Certified in Cybersecurity exam",
+  },
+  AWSSAA: {
+    code: "AWSSAA", name: "AWS Solutions Architect Associate (SAA-C03)", short: "AWS Solutions Architect", emoji: "🏗️", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["SAA"], compulsory: ["SAA"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 65, minutes: 130, passPct: 72, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["saa_pass", "saa_pass_ngn"], tagline: "SAA-C03 practice: storage, databases, networking, security, decoupling and Well-Architected design", timeZone: "UTC", timeLabel: "UTC",
+    audience: "a cloud learner preparing for the AWS Certified Solutions Architect – Associate (SAA-C03) exam",
+  },
+  AICERT: {
+    code: "AICERT", name: "AI certifications (AI-900 / AWS AI Practitioner)", short: "AI certifications", emoji: "🤖", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["AIF"], compulsory: ["AIF"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 40, minutes: 45, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["aicert_pass"], tagline: "AI fundamentals for Microsoft AI-900 and AWS AI Practitioner: ML, generative AI, responsible AI and cloud AI services", timeZone: "UTC", timeLabel: "UTC",
+    audience: "someone preparing for Microsoft Azure AI Fundamentals (AI-900) or AWS Certified AI Practitioner",
+  },
+  SFADMIN: {
+    code: "SFADMIN", name: "Salesforce Administrator", short: "Salesforce Admin", emoji: "☁️", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["SFA"], compulsory: ["SFA"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 60, minutes: 105, passPct: 65, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["sfa_pass"], tagline: "Salesforce Administrator practice: security and sharing, data model, Flow automation, data and reports", timeZone: "UTC", timeLabel: "UTC",
+    audience: "a career changer or admin preparing for the Salesforce Certified Administrator exam",
   },
   ETEXIT: {
     code: "ETEXIT", name: "Ethiopia University Exit Exam", short: "Exit Exam Ethiopia", emoji: "🎓", kind: "professional", region: "ET", currency: "USD",

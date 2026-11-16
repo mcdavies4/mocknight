@@ -1,0 +1,478 @@
+[
+ {
+  "subject": "AIF",
+  "topic": "ML basics",
+  "body": "Training a model with labelled examples is",
+  "options": [
+   "supervised learning",
+   "rule-based programming",
+   "reinforcement learning",
+   "unsupervised learning"
+  ],
+  "answer": 0,
+  "explanation": "Unsupervised learning finds patterns in unlabelled data.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIF",
+  "topic": "ML basics",
+  "body": "Grouping customers into segments without labels is an example of",
+  "options": [
+   "classification",
+   "translation",
+   "clustering",
+   "regression"
+  ],
+  "answer": 2,
+  "explanation": "Clustering is unsupervised.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIF",
+  "topic": "ML basics",
+  "body": "Predicting a house price is an example of",
+  "options": [
+   "classification",
+   "object detection",
+   "regression",
+   "clustering"
+  ],
+  "answer": 2,
+  "explanation": "Regression predicts a number.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIF",
+  "topic": "ML basics",
+  "body": "Predicting whether an email is spam or not is",
+  "options": [
+   "clustering",
+   "dimensionality reduction",
+   "classification",
+   "regression"
+  ],
+  "answer": 2,
+  "explanation": "Classification predicts a category.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIF",
+  "topic": "ML basics",
+  "body": "A model that performs very well on training data but poorly on new data is",
+  "options": [
+   "overfitting",
+   "well-generalised",
+   "underfitting",
+   "unsupervised"
+  ],
+  "answer": 0,
+  "explanation": "More data or regularisation can help.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIF",
+  "topic": "ML basics",
+  "body": "Learning by trial and error with rewards and penalties is",
+  "options": [
+   "unsupervised learning",
+   "supervised learning",
+   "reinforcement learning",
+   "transfer learning"
+  ],
+  "answer": 2,
+  "explanation": "Used in game playing and robotics.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIF",
+  "topic": "Generative AI",
+  "body": "In a large language model, a 'token' is",
+  "options": [
+   "a piece of text such as a word or part of a word",
+   "a password",
+   "a type of database",
+   "a GPU"
+  ],
+  "answer": 0,
+  "explanation": "Models read and write tokens.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIF",
+  "topic": "Generative AI",
+  "body": "Raising the 'temperature' setting of an LLM makes its output",
+  "options": [
+   "more accurate always",
+   "more random and creative",
+   "more deterministic",
+   "shorter only"
+  ],
+  "answer": 1,
+  "explanation": "Lower temperature gives more predictable answers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIF",
+  "topic": "Generative AI",
+  "body": "Retrieval-augmented generation (RAG) improves answers by",
+  "options": [
+   "retraining the model every query",
+   "removing the prompt",
+   "giving the model relevant documents retrieved at query time",
+   "making the model smaller"
+  ],
+  "answer": 2,
+  "explanation": "It reduces hallucinations and uses up-to-date data.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIF",
+  "topic": "Generative AI",
+  "body": "When an AI model confidently produces false information, this is called",
+  "options": [
+   "tokenisation",
+   "overfitting",
+   "hallucination",
+   "fine-tuning"
+  ],
+  "answer": 2,
+  "explanation": "Grounding and RAG help reduce it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIF",
+  "topic": "Generative AI",
+  "body": "Embeddings represent text as",
+  "options": [
+   "numerical vectors that capture meaning",
+   "images",
+   "passwords",
+   "spreadsheets"
+  ],
+  "answer": 0,
+  "explanation": "Similar meanings have similar vectors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIF",
+  "topic": "Responsible AI",
+  "body": "Which is one of Microsoft's six responsible AI principles?",
+  "options": [
+   "Secrecy",
+   "Speed",
+   "Fairness",
+   "Profitability"
+  ],
+  "answer": 2,
+  "explanation": "The others: reliability and safety, privacy and security, inclusiveness, transparency, accountability.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIF",
+  "topic": "Vision",
+  "body": "Finding and locating multiple objects in an image with bounding boxes is",
+  "options": [
+   "sentiment analysis",
+   "object detection",
+   "OCR",
+   "image classification"
+  ],
+  "answer": 1,
+  "explanation": "Classification labels the whole image.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIF",
+  "topic": "Vision",
+  "body": "Extracting printed or handwritten text from images is",
+  "options": [
+   "optical character recognition (OCR)",
+   "object detection",
+   "clustering",
+   "speech synthesis"
+  ],
+  "answer": 0,
+  "explanation": "Used for receipts and forms.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIF",
+  "topic": "Language",
+  "body": "Identifying people, places and organisations in text is",
+  "options": [
+   "sentiment analysis",
+   "named entity recognition",
+   "translation",
+   "speech recognition"
+  ],
+  "answer": 1,
+  "explanation": "Sentiment analysis detects positive or negative tone.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIF",
+  "topic": "AWS services",
+  "body": "Which AWS service gives access to foundation models through an API?",
+  "options": [
+   "Amazon Rekognition",
+   "Amazon Polly",
+   "AWS Glue",
+   "Amazon Bedrock"
+  ],
+  "answer": 3,
+  "explanation": "SageMaker is for building and training your own models.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIF",
+  "topic": "AWS services",
+  "body": "Which AWS service converts text into lifelike speech?",
+  "options": [
+   "Amazon Lex",
+   "Amazon Transcribe",
+   "Amazon Polly",
+   "Amazon Comprehend"
+  ],
+  "answer": 2,
+  "explanation": "Transcribe does speech-to-text.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIF",
+  "topic": "AWS services",
+  "body": "Which AWS service extracts text and data from scanned documents?",
+  "options": [
+   "Amazon Translate",
+   "Amazon Polly",
+   "Amazon Textract",
+   "Amazon Lex"
+  ],
+  "answer": 2,
+  "explanation": "It also reads forms and tables.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIF",
+  "topic": "Azure services",
+  "body": "Which Azure service provides access to OpenAI models such as GPT?",
+  "options": [
+   "Azure OpenAI Service",
+   "Azure AI Vision",
+   "Azure Blob Storage",
+   "Azure DevOps"
+  ],
+  "answer": 0,
+  "explanation": "Azure AI Language handles text analytics.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIF",
+  "topic": "Evaluation",
+  "body": "Data used only to estimate performance on unseen data after training is the",
+  "options": [
+   "training set",
+   "label set",
+   "test set",
+   "feature store"
+  ],
+  "answer": 2,
+  "explanation": "A validation set helps tune the model during development.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AIF",
+  "topic": "Evaluation",
+  "body": "A classifier's confusion matrix: TP = 55, FP = 22, FN = 18, TN = 70. What is its recall?",
+  "options": [
+   "75.8%",
+   "76.1%",
+   "75.3%",
+   "71.4%"
+  ],
+  "answer": 2,
+  "explanation": "Recall = TP ÷ (TP + FN) = 55 ÷ 73 = 75.3%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AIF",
+  "topic": "Evaluation",
+  "body": "A classifier's confusion matrix: TP = 83, FP = 21, FN = 23, TN = 144. What is its accuracy?",
+  "options": [
+   "78.3%",
+   "87.3%",
+   "83.8%",
+   "79.8%"
+  ],
+  "answer": 2,
+  "explanation": "Accuracy = (TP + TN) ÷ total = 227 ÷ 271 = 83.8%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AIF",
+  "topic": "Evaluation",
+  "body": "A classifier's confusion matrix: TP = 46, FP = 7, FN = 12, TN = 149. What is its precision?",
+  "options": [
+   "91.1%",
+   "79.3%",
+   "95.5%",
+   "86.8%"
+  ],
+  "answer": 3,
+  "explanation": "Precision = TP ÷ (TP + FP) = 46 ÷ 53 = 86.8%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AIF",
+  "topic": "Evaluation",
+  "body": "A classifier's confusion matrix: TP = 38, FP = 12, FN = 8, TN = 81. What is its accuracy?",
+  "options": [
+   "76%",
+   "82.6%",
+   "85.6%",
+   "87.1%"
+  ],
+  "answer": 2,
+  "explanation": "Accuracy = (TP + TN) ÷ total = 119 ÷ 139 = 85.6%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AIF",
+  "topic": "Evaluation",
+  "body": "A classifier's confusion matrix: TP = 78, FP = 22, FN = 18, TN = 55. What is its precision?",
+  "options": [
+   "81.3%",
+   "76.9%",
+   "71.4%",
+   "78%"
+  ],
+  "answer": 3,
+  "explanation": "Precision = TP ÷ (TP + FP) = 78 ÷ 100 = 78%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AIF",
+  "topic": "Evaluation",
+  "body": "A classifier's confusion matrix: TP = 63, FP = 19, FN = 13, TN = 53. What is its recall?",
+  "options": [
+   "78.4%",
+   "76.8%",
+   "82.9%",
+   "73.6%"
+  ],
+  "answer": 2,
+  "explanation": "Recall = TP ÷ (TP + FN) = 63 ÷ 76 = 82.9%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AIF",
+  "topic": "Evaluation",
+  "body": "A classifier's confusion matrix: TP = 42, FP = 13, FN = 25, TN = 74. What is its precision?",
+  "options": [
+   "76.4%",
+   "75.3%",
+   "85.1%",
+   "62.7%"
+  ],
+  "answer": 0,
+  "explanation": "Precision = TP ÷ (TP + FP) = 42 ÷ 55 = 76.4%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AIF",
+  "topic": "Evaluation",
+  "body": "A classifier's confusion matrix: TP = 65, FP = 9, FN = 30, TN = 107. What is its precision?",
+  "options": [
+   "92.2%",
+   "87.8%",
+   "81.5%",
+   "68.4%"
+  ],
+  "answer": 1,
+  "explanation": "Precision = TP ÷ (TP + FP) = 65 ÷ 74 = 87.8%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AIF",
+  "topic": "Evaluation",
+  "body": "A classifier's confusion matrix: TP = 63, FP = 26, FN = 20, TN = 71. What is its precision?",
+  "options": [
+   "70.8%",
+   "75.9%",
+   "74.4%",
+   "73.2%"
+  ],
+  "answer": 0,
+  "explanation": "Precision = TP ÷ (TP + FP) = 63 ÷ 89 = 70.8%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AIF",
+  "topic": "Evaluation",
+  "body": "A classifier's confusion matrix: TP = 30, FP = 22, FN = 11, TN = 123. What is its accuracy?",
+  "options": [
+   "73.2%",
+   "84.8%",
+   "57.7%",
+   "82.3%"
+  ],
+  "answer": 3,
+  "explanation": "Accuracy = (TP + TN) ÷ total = 153 ÷ 186 = 82.3%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AIF",
+  "topic": "Evaluation",
+  "body": "A classifier's confusion matrix: TP = 90, FP = 17, FN = 22, TN = 143. What is its accuracy?",
+  "options": [
+   "84.1%",
+   "80.4%",
+   "85.7%",
+   "89.4%"
+  ],
+  "answer": 2,
+  "explanation": "Accuracy = (TP + TN) ÷ total = 233 ÷ 272 = 85.7%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AIF",
+  "topic": "Evaluation",
+  "body": "A classifier's confusion matrix: TP = 33, FP = 10, FN = 30, TN = 129. What is its recall?",
+  "options": [
+   "80.2%",
+   "76.7%",
+   "92.8%",
+   "52.4%"
+  ],
+  "answer": 3,
+  "explanation": "Recall = TP ÷ (TP + FN) = 33 ÷ 63 = 52.4%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AIF",
+  "topic": "Evaluation",
+  "body": "A classifier's confusion matrix: TP = 46, FP = 16, FN = 27, TN = 127. What is its precision?",
+  "options": [
+   "63%",
+   "74.2%",
+   "88.8%",
+   "80.1%"
+  ],
+  "answer": 1,
+  "explanation": "Precision = TP ÷ (TP + FP) = 46 ÷ 62 = 74.2%.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AIF",
+  "topic": "Evaluation",
+  "body": "A classifier's confusion matrix: TP = 71, FP = 25, FN = 5, TN = 58. What is its precision?",
+  "options": [
+   "69.9%",
+   "74%",
+   "93.4%",
+   "81.1%"
+  ],
+  "answer": 1,
+  "explanation": "Precision = TP ÷ (TP + FP) = 71 ÷ 96 = 74%.",
+  "difficulty": 3
+ }
+]

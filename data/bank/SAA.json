@@ -1,0 +1,338 @@
+[
+ {
+  "subject": "SAA",
+  "topic": "Storage",
+  "body": "Which S3 storage class is cheapest for long-term archives that can wait hours to retrieve?",
+  "options": [
+   "S3 Express One Zone",
+   "S3 Standard",
+   "S3 Glacier Deep Archive",
+   "S3 Standard-IA"
+  ],
+  "answer": 2,
+  "explanation": "Retrieval can take up to 12 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Storage",
+  "body": "Which S3 class automatically moves objects between access tiers based on usage?",
+  "options": [
+   "S3 One Zone-IA",
+   "S3 Intelligent-Tiering",
+   "S3 Glacier Flexible Retrieval",
+   "S3 Standard"
+  ],
+  "answer": 1,
+  "explanation": "Good for unknown or changing access patterns.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Storage",
+  "body": "Which storage can be mounted by many EC2 instances at once as a shared Linux file system?",
+  "options": [
+   "Amazon EFS",
+   "S3 Glacier",
+   "Instance store",
+   "Amazon EBS (standard volume)"
+  ],
+  "answer": 0,
+  "explanation": "EBS volumes normally attach to one instance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Storage",
+  "body": "Data on an EC2 instance store volume is",
+  "options": [
+   "kept forever",
+   "backed up automatically to S3",
+   "replicated across regions",
+   "lost when the instance stops or terminates"
+  ],
+  "answer": 3,
+  "explanation": "It is temporary, high-performance storage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Databases",
+  "body": "RDS Multi-AZ deployments are mainly for",
+  "options": [
+   "cross-region analytics",
+   "cheaper storage",
+   "high availability with automatic failover",
+   "scaling read traffic"
+  ],
+  "answer": 2,
+  "explanation": "Read replicas scale reads.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Databases",
+  "body": "RDS read replicas are mainly used to",
+  "options": [
+   "encrypt data",
+   "provide synchronous failover",
+   "reduce storage",
+   "scale read-heavy workloads"
+  ],
+  "answer": 3,
+  "explanation": "Replication to read replicas is asynchronous.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Databases",
+  "body": "Which service is a fully managed NoSQL key-value database with single-digit millisecond latency?",
+  "options": [
+   "Amazon DynamoDB",
+   "Amazon Redshift",
+   "Amazon Aurora",
+   "Amazon RDS"
+  ],
+  "answer": 0,
+  "explanation": "DAX adds an in-memory cache.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Databases",
+  "body": "Which service is a petabyte-scale data warehouse?",
+  "options": [
+   "Amazon SQS",
+   "Amazon ElastiCache",
+   "Amazon Redshift",
+   "Amazon DynamoDB"
+  ],
+  "answer": 2,
+  "explanation": "Used for analytics.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Networking",
+  "body": "Which load balancer works at layer 7 and supports path-based routing?",
+  "options": [
+   "Network Load Balancer",
+   "Classic Load Balancer only",
+   "Application Load Balancer",
+   "Gateway Load Balancer"
+  ],
+  "answer": 2,
+  "explanation": "NLB works at layer 4 with very low latency and static IPs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Networking",
+  "body": "Instances in a private subnet need outbound internet access for updates. Use a",
+  "options": [
+   "NAT gateway in a public subnet",
+   "Direct Connect only",
+   "VPC peering",
+   "internet gateway attached to the private subnet"
+  ],
+  "answer": 0,
+  "explanation": "NAT allows outbound but not inbound connections.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Networking",
+  "body": "Security groups are",
+  "options": [
+   "stateful and apply at the instance level",
+   "only for S3",
+   "the same as NACLs",
+   "stateless and apply at the subnet level"
+  ],
+  "answer": 0,
+  "explanation": "Network ACLs are stateless and apply at the subnet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Networking",
+  "body": "VPC peering connections are",
+  "options": [
+   "only between regions",
+   "always transitive",
+   "not transitive",
+   "the same as a VPN"
+  ],
+  "answer": 2,
+  "explanation": "Use Transit Gateway to connect many VPCs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Networking",
+  "body": "Which Route 53 routing policy sends users to the region with the lowest latency?",
+  "options": [
+   "Simple routing",
+   "Failover routing",
+   "Weighted routing",
+   "Latency-based routing"
+  ],
+  "answer": 3,
+  "explanation": "Geolocation routes by user location.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Networking",
+  "body": "Which service is AWS's content delivery network?",
+  "options": [
+   "Amazon CloudFront",
+   "AWS Direct Connect",
+   "Amazon API Gateway",
+   "Amazon Route 53"
+  ],
+  "answer": 0,
+  "explanation": "It caches content at edge locations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Security",
+  "body": "The secure way for an EC2 application to access S3 is",
+  "options": [
+   "the root account",
+   "access keys stored in code",
+   "a public bucket",
+   "an IAM role attached to the instance"
+  ],
+  "answer": 3,
+  "explanation": "Roles provide temporary credentials.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Security",
+  "body": "Which service rotates database credentials automatically?",
+  "options": [
+   "Amazon Inspector",
+   "AWS Shield",
+   "AWS Secrets Manager",
+   "AWS KMS"
+  ],
+  "answer": 2,
+  "explanation": "KMS manages encryption keys.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Integration",
+  "body": "To decouple application components with a message queue, use",
+  "options": [
+   "AWS Config",
+   "Amazon Kinesis Video Streams",
+   "Amazon SQS",
+   "Amazon SNS only"
+  ],
+  "answer": 2,
+  "explanation": "SNS is publish/subscribe; SQS is a queue.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Integration",
+  "body": "An SQS FIFO queue guarantees",
+  "options": [
+   "email delivery",
+   "ordering and exactly-once processing",
+   "streaming video",
+   "unlimited throughput with no order"
+  ],
+  "answer": 1,
+  "explanation": "Standard queues offer at-least-once, best-effort ordering.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Compute",
+  "body": "What is the maximum run time of an AWS Lambda function?",
+  "options": [
+   "24 hours",
+   "5 minutes",
+   "1 hour",
+   "15 minutes"
+  ],
+  "answer": 3,
+  "explanation": "Use other services for longer jobs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Compute",
+  "body": "Which EC2 purchase option gives the biggest discount but can be interrupted?",
+  "options": [
+   "Reserved Instances",
+   "Dedicated Hosts",
+   "On-Demand",
+   "Spot Instances"
+  ],
+  "answer": 3,
+  "explanation": "Up to about 90% off On-Demand prices.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Design",
+  "body": "The AWS Well-Architected Framework has how many pillars?",
+  "options": [
+   "5",
+   "4",
+   "8",
+   "6"
+  ],
+  "answer": 3,
+  "explanation": "Including sustainability, added in 2021.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Design",
+  "body": "Which is a pillar of the Well-Architected Framework?",
+  "options": [
+   "Marketing",
+   "Hiring",
+   "Branding",
+   "Cost optimisation"
+  ],
+  "answer": 3,
+  "explanation": "Others: operational excellence, security, reliability, performance efficiency, sustainability.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Migration",
+  "body": "To move tens of terabytes into AWS where network transfer is too slow, use",
+  "options": [
+   "Amazon SQS",
+   "AWS Snowball",
+   "Amazon Route 53",
+   "AWS Lambda"
+  ],
+  "answer": 1,
+  "explanation": "Physical devices shipped to and from AWS.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SAA",
+  "topic": "Exam",
+  "body": "The SAA-C03 exam has",
+  "options": [
+   "a hands-on lab only",
+   "100 questions in 3 hours",
+   "65 questions in 130 minutes, with a passing score of 720",
+   "40 questions in 60 minutes"
+  ],
+  "answer": 2,
+  "explanation": "Scored from 100 to 1000.",
+  "difficulty": 2
+ }
+]

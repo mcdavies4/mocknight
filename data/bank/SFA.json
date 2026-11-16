@@ -1,0 +1,240 @@
+[
+ {
+  "subject": "SFA",
+  "topic": "Security",
+  "body": "Organisation-wide defaults (OWD) set",
+  "options": [
+   "page layouts",
+   "object permissions",
+   "the most restrictive baseline record access",
+   "field labels"
+  ],
+  "answer": 2,
+  "explanation": "Roles and sharing rules then open access up.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SFA",
+  "topic": "Security",
+  "body": "The role hierarchy mainly",
+  "options": [
+   "restricts access below OWD",
+   "controls login hours",
+   "opens up record access to users higher in the hierarchy",
+   "controls field permissions"
+  ],
+  "answer": 2,
+  "explanation": "Managers can see their team's records.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SFA",
+  "topic": "Security",
+  "body": "Profiles and permission sets control",
+  "options": [
+   "object and field permissions (what users can do)",
+   "the role hierarchy",
+   "report folders only",
+   "which records users own"
+  ],
+  "answer": 0,
+  "explanation": "Sharing controls which records they can see.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SFA",
+  "topic": "Security",
+  "body": "How many profiles can a user have?",
+  "options": [
+   "One",
+   "Unlimited",
+   "None",
+   "Two"
+  ],
+  "answer": 0,
+  "explanation": "Use permission sets to grant extra permissions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SFA",
+  "topic": "Security",
+  "body": "Sharing rules are used to",
+  "options": [
+   "restrict access below OWD",
+   "delete records",
+   "create users",
+   "extend record access beyond OWD and the role hierarchy"
+  ],
+  "answer": 3,
+  "explanation": "They can be based on owner or criteria.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SFA",
+  "topic": "Data model",
+  "body": "A master-detail relationship",
+  "options": [
+   "cannot be reported on",
+   "has no ownership impact",
+   "allows roll-up summary fields and cascades deletes to the detail records",
+   "is always optional"
+  ],
+  "answer": 2,
+  "explanation": "Detail records inherit sharing from the master.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SFA",
+  "topic": "Data model",
+  "body": "Which relationship type is loosely coupled and does not cascade deletes by default?",
+  "options": [
+   "Master-detail",
+   "Roll-up",
+   "Hierarchical only",
+   "Lookup"
+  ],
+  "answer": 3,
+  "explanation": "Lookups can be optional.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SFA",
+  "topic": "Data model",
+  "body": "Record types let you",
+  "options": [
+   "write Apex",
+   "offer different page layouts and picklist values for different processes",
+   "change the role hierarchy",
+   "import data"
+  ],
+  "answer": 1,
+  "explanation": "For example, different sales processes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SFA",
+  "topic": "Automation",
+  "body": "Salesforce's recommended tool for declarative automation is",
+  "options": [
+   "Workflow Rules",
+   "Flow",
+   "Process Builder",
+   "S-Controls"
+  ],
+  "answer": 1,
+  "explanation": "Workflow Rules and Process Builder are being retired.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SFA",
+  "topic": "Automation",
+  "body": "A validation rule",
+  "options": [
+   "sends emails automatically",
+   "assigns leads",
+   "builds dashboards",
+   "prevents saving a record when data does not meet criteria"
+  ],
+  "answer": 3,
+  "explanation": "It returns an error message.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SFA",
+  "topic": "Data",
+  "body": "The Data Import Wizard can import up to",
+  "options": [
+   "5 million records",
+   "1 billion records",
+   "500 records",
+   "50,000 records at a time"
+  ],
+  "answer": 3,
+  "explanation": "Data Loader handles up to 5 million.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SFA",
+  "topic": "Data",
+  "body": "Field history tracking can track up to how many fields per object?",
+  "options": [
+   "Unlimited",
+   "20",
+   "50",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": "Field Audit Trail extends this.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SFA",
+  "topic": "Sales",
+  "body": "Converting a lead creates",
+  "options": [
+   "an account and a contact, and optionally an opportunity",
+   "only a case",
+   "a quote only",
+   "a campaign"
+  ],
+  "answer": 0,
+  "explanation": "The lead record is then marked converted.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SFA",
+  "topic": "Reports",
+  "body": "Which report format groups rows and columns?",
+  "options": [
+   "Summary",
+   "Joined only",
+   "Tabular",
+   "Matrix"
+  ],
+  "answer": 3,
+  "explanation": "Summary groups rows; joined combines report blocks.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SFA",
+  "topic": "Environments",
+  "body": "Which sandbox type copies all production data and metadata?",
+  "options": [
+   "Partial Copy",
+   "Developer",
+   "Developer Pro",
+   "Full sandbox"
+  ],
+  "answer": 3,
+  "explanation": "Partial Copy includes a sample of data.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SFA",
+  "topic": "Service",
+  "body": "Queues are used to",
+  "options": [
+   "schedule reports",
+   "store files",
+   "change OWD",
+   "hold records such as cases or leads until a user takes ownership"
+  ],
+  "answer": 3,
+  "explanation": "Teams can share work from a queue.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SFA",
+  "topic": "Exam",
+  "body": "The Salesforce Administrator exam has",
+  "options": [
+   "a practical project",
+   "40 questions in 60 minutes",
+   "60 questions in 105 minutes, with a 65% pass mark",
+   "100 questions in 3 hours"
+  ],
+  "answer": 2,
+  "explanation": "Up to five unscored questions may be added.",
+  "difficulty": 2
+ }
+]

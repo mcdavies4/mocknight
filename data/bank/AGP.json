@@ -1,0 +1,464 @@
+[
+ {
+  "subject": "AGP",
+  "topic": "Agile values",
+  "body": "The Agile Manifesto values 'working software' over",
+  "options": [
+   "customer collaboration",
+   "individuals and interactions",
+   "comprehensive documentation",
+   "responding to change"
+  ],
+  "answer": 2,
+  "explanation": "The items on the right still have value, but the left is valued more.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Agile values",
+  "body": "The Agile Manifesto values 'responding to change' over",
+  "options": [
+   "individuals",
+   "following a plan",
+   "customer collaboration",
+   "working software"
+  ],
+  "answer": 1,
+  "explanation": "It was published in 2001.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Agile values",
+  "body": "How many principles sit behind the Agile Manifesto?",
+  "options": [
+   "12",
+   "4",
+   "7",
+   "10"
+  ],
+  "answer": 0,
+  "explanation": "There are 4 values and 12 principles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Scrum",
+  "body": "Under the 2020 Scrum Guide, what are the three accountabilities in a Scrum Team?",
+  "options": [
+   "Team lead, architect and coder",
+   "Project manager, tester and analyst",
+   "Sponsor, user and supplier",
+   "Developers, Product Owner and Scrum Master"
+  ],
+  "answer": 3,
+  "explanation": "There are no other titles in Scrum.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Product owner",
+  "body": "Who is accountable for ordering the Product Backlog?",
+  "options": [
+   "The Developers",
+   "The stakeholders",
+   "The Product Owner",
+   "The Scrum Master"
+  ],
+  "answer": 2,
+  "explanation": "The PO may delegate work but remains accountable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Product owner",
+  "body": "The commitment for the Product Backlog in the 2020 Scrum Guide is the",
+  "options": [
+   "Velocity",
+   "Definition of Done",
+   "Product Goal",
+   "Sprint Goal"
+  ],
+  "answer": 2,
+  "explanation": "The Sprint Backlog's is the Sprint Goal; the Increment's is the Definition of Done.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Product owner",
+  "body": "The Product Owner's main focus is",
+  "options": [
+   "writing all the code",
+   "managing the team's hours",
+   "maximising the value of the product",
+   "running the Daily Scrum"
+  ],
+  "answer": 2,
+  "explanation": "They decide what to build and in what order.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Scrum",
+  "body": "The maximum length of a Sprint is",
+  "options": [
+   "two weeks",
+   "one month",
+   "there is no limit",
+   "three months"
+  ],
+  "answer": 1,
+  "explanation": "Shorter Sprints are common.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Scrum",
+  "body": "The Daily Scrum is time-boxed to",
+  "options": [
+   "15 minutes",
+   "1 hour",
+   "30 minutes",
+   "5 minutes"
+  ],
+  "answer": 0,
+  "explanation": "It is for the Developers to plan the next day's work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Scrum",
+  "body": "A Scrum Team is typically",
+  "options": [
+   "exactly 12 people",
+   "one person",
+   "at least 20 people",
+   "10 or fewer people"
+  ],
+  "answer": 3,
+  "explanation": "Smaller teams communicate better.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "User stories",
+  "body": "The INVEST criteria for good user stories include Independent, Negotiable, Valuable, Estimable, Small and",
+  "options": [
+   "Testable",
+   "Tracked",
+   "Timeboxed",
+   "Technical"
+  ],
+  "answer": 0,
+  "explanation": "Coined by Bill Wake.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "User stories",
+  "body": "The '3 Cs' of user stories are",
+  "options": [
+   "Cost, Cash and Credit",
+   "Card, Conversation and Confirmation",
+   "Code, Compile and Commit",
+   "Create, Check and Close"
+  ],
+  "answer": 1,
+  "explanation": "Ron Jeffries' model.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Prioritisation",
+  "body": "In MoSCoW prioritisation, 'W' stands for",
+  "options": [
+   "Wish list",
+   "Will have",
+   "Won't have this time",
+   "Weekly"
+  ],
+  "answer": 2,
+  "explanation": "Must, Should, Could, Won't.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Product",
+  "body": "An MVP (minimum viable product) is built to",
+  "options": [
+   "deliver every feature at once",
+   "avoid feedback",
+   "learn from real users with the least effort",
+   "replace testing"
+  ],
+  "answer": 2,
+  "explanation": "It tests key assumptions early.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Kanban",
+  "body": "WIP limits in Kanban are used to",
+  "options": [
+   "increase multitasking",
+   "remove the board",
+   "set salaries",
+   "limit work in progress and improve flow"
+  ],
+  "answer": 3,
+  "explanation": "Finishing beats starting.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Practices",
+  "body": "Test-driven development (TDD) means",
+  "options": [
+   "writing a failing test before the code that makes it pass",
+   "manual testing only",
+   "testing only at the end",
+   "skipping tests"
+  ],
+  "answer": 0,
+  "explanation": "Red, green, refactor.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Practices",
+  "body": "An 'information radiator' is",
+  "options": [
+   "a highly visible display of project information, such as a task board",
+   "a server",
+   "a heater",
+   "a private report"
+  ],
+  "answer": 0,
+  "explanation": "It supports transparency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Practices",
+  "body": "A spike in agile is",
+  "options": [
+   "a short time-boxed investigation to reduce uncertainty",
+   "a cost overrun",
+   "a holiday",
+   "a sudden bug"
+  ],
+  "answer": 0,
+  "explanation": "Used before estimating unclear work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Leadership",
+  "body": "Servant leadership in agile means the leader",
+  "options": [
+   "avoids the team",
+   "works alone",
+   "commands every task",
+   "removes obstacles and supports the team"
+  ],
+  "answer": 3,
+  "explanation": "The Scrum Master is a servant leader.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Forecasting",
+  "body": "A team's last three velocities were 25, 30, 22 points. About how many Sprints will a 200-point backlog take (rounded up, using the average)?",
+  "options": [
+   "10 Sprints",
+   "8 Sprints",
+   "20 Sprints",
+   "7 Sprints"
+  ],
+  "answer": 1,
+  "explanation": "Average velocity ≈ 26; 200 ÷ 26 ≈ 7.7 → 8 Sprints.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Forecasting",
+  "body": "A team's last three velocities were 23, 27, 21 points. About how many Sprints will a 200-point backlog take (rounded up, using the average)?",
+  "options": [
+   "20 Sprints",
+   "8 Sprints",
+   "10 Sprints",
+   "9 Sprints"
+  ],
+  "answer": 3,
+  "explanation": "Average velocity ≈ 24; 200 ÷ 24 ≈ 8.3 → 9 Sprints.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Forecasting",
+  "body": "A team's last three velocities were 29, 27, 25 points. About how many Sprints will a 200-point backlog take (rounded up, using the average)?",
+  "options": [
+   "8 Sprints",
+   "7 Sprints",
+   "10 Sprints",
+   "20 Sprints"
+  ],
+  "answer": 0,
+  "explanation": "Average velocity ≈ 27; 200 ÷ 27 ≈ 7.4 → 8 Sprints.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Forecasting",
+  "body": "A team's last three velocities were 29, 26, 19 points. About how many Sprints will a 150-point backlog take (rounded up, using the average)?",
+  "options": [
+   "15 Sprints",
+   "8 Sprints",
+   "6 Sprints",
+   "7 Sprints"
+  ],
+  "answer": 2,
+  "explanation": "Average velocity ≈ 25; 150 ÷ 25 ≈ 6 → 6 Sprints.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Forecasting",
+  "body": "A team's last three velocities were 28, 21, 24 points. About how many Sprints will a 180-point backlog take (rounded up, using the average)?",
+  "options": [
+   "9 Sprints",
+   "8 Sprints",
+   "18 Sprints",
+   "7 Sprints"
+  ],
+  "answer": 1,
+  "explanation": "Average velocity ≈ 24; 180 ÷ 24 ≈ 7.5 → 8 Sprints.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Forecasting",
+  "body": "A team's last three velocities were 24, 20, 21 points. About how many Sprints will a 180-point backlog take (rounded up, using the average)?",
+  "options": [
+   "11 Sprints",
+   "18 Sprints",
+   "8 Sprints",
+   "9 Sprints"
+  ],
+  "answer": 3,
+  "explanation": "Average velocity ≈ 22; 180 ÷ 22 ≈ 8.2 → 9 Sprints.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Forecasting",
+  "body": "A team's last three velocities were 25, 24, 20 points. About how many Sprints will a 240-point backlog take (rounded up, using the average)?",
+  "options": [
+   "12 Sprints",
+   "10 Sprints",
+   "11 Sprints",
+   "24 Sprints"
+  ],
+  "answer": 2,
+  "explanation": "Average velocity ≈ 23; 240 ÷ 23 ≈ 10.4 → 11 Sprints.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Forecasting",
+  "body": "A team's last three velocities were 23, 30, 21 points. About how many Sprints will a 240-point backlog take (rounded up, using the average)?",
+  "options": [
+   "24 Sprints",
+   "10 Sprints",
+   "8 Sprints",
+   "12 Sprints"
+  ],
+  "answer": 1,
+  "explanation": "Average velocity ≈ 25; 240 ÷ 25 ≈ 9.6 → 10 Sprints.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Flow",
+  "body": "A Kanban team has 12 items in progress and finishes 5 items a day. Using Little's Law, what is the average cycle time?",
+  "options": [
+   "2.4 days",
+   "0.42 days",
+   "60 days",
+   "17 days"
+  ],
+  "answer": 0,
+  "explanation": "Cycle time = WIP ÷ throughput = 12 ÷ 5 = 2.4 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Flow",
+  "body": "A Kanban team has 8 items in progress and finishes 2 items a day. Using Little's Law, what is the average cycle time?",
+  "options": [
+   "4 days",
+   "0.25 days",
+   "16 days",
+   "10 days"
+  ],
+  "answer": 0,
+  "explanation": "Cycle time = WIP ÷ throughput = 8 ÷ 2 = 4 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Flow",
+  "body": "A Kanban team has 6 items in progress and finishes 4 items a day. Using Little's Law, what is the average cycle time?",
+  "options": [
+   "0.67 days",
+   "1.5 days",
+   "10 days",
+   "24 days"
+  ],
+  "answer": 1,
+  "explanation": "Cycle time = WIP ÷ throughput = 6 ÷ 4 = 1.5 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Flow",
+  "body": "A Kanban team has 10 items in progress and finishes 2 items a day. Using Little's Law, what is the average cycle time?",
+  "options": [
+   "5 days",
+   "20 days",
+   "12 days",
+   "0.2 days"
+  ],
+  "answer": 0,
+  "explanation": "Cycle time = WIP ÷ throughput = 10 ÷ 2 = 5 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Flow",
+  "body": "A Kanban team has 8 items in progress and finishes 5 items a day. Using Little's Law, what is the average cycle time?",
+  "options": [
+   "0.63 days",
+   "1.6 days",
+   "13 days",
+   "40 days"
+  ],
+  "answer": 1,
+  "explanation": "Cycle time = WIP ÷ throughput = 8 ÷ 5 = 1.6 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AGP",
+  "topic": "Flow",
+  "body": "A Kanban team has 10 items in progress and finishes 3 items a day. Using Little's Law, what is the average cycle time?",
+  "options": [
+   "13 days",
+   "0.3 days",
+   "30 days",
+   "3.3 days"
+  ],
+  "answer": 3,
+  "explanation": "Cycle time = WIP ÷ throughput = 10 ÷ 3 = 3.3 days.",
+  "difficulty": 2
+ }
+]

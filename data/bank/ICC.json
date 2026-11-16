@@ -1,0 +1,352 @@
+[
+ {
+  "subject": "ICC",
+  "topic": "Principles",
+  "body": "The CIA triad stands for",
+  "options": [
+   "certification, inspection and approval",
+   "cyber, internet and audit",
+   "control, identity and access",
+   "confidentiality, integrity and availability"
+  ],
+  "answer": 3,
+  "explanation": "These are the core security objectives.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Principles",
+  "body": "Non-repudiation means",
+  "options": [
+   "users can reset passwords",
+   "someone cannot deny having performed an action",
+   "data is always available",
+   "data is encrypted"
+  ],
+  "answer": 1,
+  "explanation": "Digital signatures support it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Principles",
+  "body": "Using a password and a code from a phone app is an example of",
+  "options": [
+   "multi-factor authentication",
+   "separation of duties",
+   "least privilege",
+   "single sign-on"
+  ],
+  "answer": 0,
+  "explanation": "Factors: something you know, have or are.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Principles",
+  "body": "A fingerprint scan is which authentication factor?",
+  "options": [
+   "Something you are",
+   "Somewhere you are",
+   "Something you know",
+   "Something you have"
+  ],
+  "answer": 0,
+  "explanation": "Biometrics are 'something you are'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Principles",
+  "body": "Least privilege means",
+  "options": [
+   "removing all access",
+   "sharing passwords",
+   "giving everyone admin rights",
+   "giving users only the access they need to do their job"
+  ],
+  "answer": 3,
+  "explanation": "It limits damage if an account is compromised.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Risk",
+  "body": "Buying cyber insurance is an example of which risk treatment?",
+  "options": [
+   "Mitigate",
+   "Accept",
+   "Avoid",
+   "Transfer"
+  ],
+  "answer": 3,
+  "explanation": "Mitigation reduces likelihood or impact.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Risk",
+  "body": "Choosing not to do a risky activity at all is",
+  "options": [
+   "risk acceptance",
+   "risk mitigation",
+   "risk transfer",
+   "risk avoidance"
+  ],
+  "answer": 3,
+  "explanation": "It removes the risk entirely.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Governance",
+  "body": "How many canons are in the ISC2 Code of Ethics?",
+  "options": [
+   "5",
+   "4",
+   "3",
+   "10"
+  ],
+  "answer": 1,
+  "explanation": "The first is to protect society, the common good and the infrastructure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "BC/DR",
+  "body": "RTO (recovery time objective) is",
+  "options": [
+   "the maximum acceptable time to restore a service after disruption",
+   "the backup schedule",
+   "the cost of recovery",
+   "the maximum data loss measured in time"
+  ],
+  "answer": 0,
+  "explanation": "RPO is the maximum acceptable data loss.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "BC/DR",
+  "body": "RPO (recovery point objective) is",
+  "options": [
+   "the maximum acceptable amount of data loss, measured in time",
+   "the number of servers",
+   "the response team size",
+   "the time to restore service"
+  ],
+  "answer": 0,
+  "explanation": "It drives backup frequency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "BC/DR",
+  "body": "A business continuity plan focuses on",
+  "options": [
+   "only restoring IT systems",
+   "keeping critical business functions running during a disruption",
+   "hiring",
+   "marketing"
+  ],
+  "answer": 1,
+  "explanation": "A disaster recovery plan focuses on restoring IT.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Incident response",
+  "body": "In the NIST incident response life cycle, the phase after detection and analysis is",
+  "options": [
+   "post-incident activity",
+   "containment, eradication and recovery",
+   "preparation",
+   "procurement"
+  ],
+  "answer": 1,
+  "explanation": "Then post-incident activity (lessons learned).",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Access control",
+  "body": "Access based on a user's job role is",
+  "options": [
+   "mandatory access control",
+   "role-based access control (RBAC)",
+   "discretionary access control",
+   "rule-free access"
+  ],
+  "answer": 1,
+  "explanation": "MAC uses labels; DAC lets owners decide.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Access control",
+  "body": "Mandatory access control (MAC) grants access based on",
+  "options": [
+   "the data owner's choice",
+   "the user's job title only",
+   "security labels and clearances set by the system",
+   "time of day only"
+  ],
+  "answer": 2,
+  "explanation": "Common in military systems.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Network",
+  "body": "Which port does SSH use by default?",
+  "options": [
+   "23",
+   "22",
+   "80",
+   "3389"
+  ],
+  "answer": 1,
+  "explanation": "Telnet uses 23 and sends data in clear text.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Network",
+  "body": "Which port is used by RDP (Remote Desktop)?",
+  "options": [
+   "3389",
+   "22",
+   "53",
+   "443"
+  ],
+  "answer": 0,
+  "explanation": "Exposed RDP is a common attack target.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Network",
+  "body": "DNS uses which port?",
+  "options": [
+   "443",
+   "110",
+   "25",
+   "53"
+  ],
+  "answer": 3,
+  "explanation": "SMTP uses 25; HTTPS uses 443.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Network",
+  "body": "The difference between an IDS and an IPS is that an IPS",
+  "options": [
+   "encrypts traffic",
+   "is a type of firewall rule",
+   "can actively block malicious traffic",
+   "only logs traffic"
+  ],
+  "answer": 2,
+  "explanation": "An IDS detects and alerts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Network",
+  "body": "A DMZ is",
+  "options": [
+   "a password policy",
+   "a network segment between the internet and the internal network for public-facing services",
+   "a type of malware",
+   "an encryption method"
+  ],
+  "answer": 1,
+  "explanation": "Web servers are often placed there.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Network",
+  "body": "Zero trust means",
+  "options": [
+   "no passwords are needed",
+   "trust everything inside the network",
+   "never trust by default; always verify every request",
+   "turn off firewalls"
+  ],
+  "answer": 2,
+  "explanation": "It assumes the network may already be compromised.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Operations",
+  "body": "Hashing is mainly used to verify",
+  "options": [
+   "integrity",
+   "authorisation",
+   "confidentiality",
+   "availability"
+  ],
+  "answer": 0,
+  "explanation": "Any change to data changes the hash.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Operations",
+  "body": "Asymmetric encryption uses",
+  "options": [
+   "a public key and a private key",
+   "only passwords",
+   "no keys",
+   "one shared secret key"
+  ],
+  "answer": 0,
+  "explanation": "RSA is an example.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Operations",
+  "body": "A SIEM system",
+  "options": [
+   "encrypts hard drives",
+   "replaces firewalls",
+   "collects and correlates logs to detect security events",
+   "backs up data"
+  ],
+  "answer": 2,
+  "explanation": "Security Information and Event Management.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Operations",
+  "body": "Degaussing destroys data on",
+  "options": [
+   "paper",
+   "magnetic media",
+   "optical discs only",
+   "cloud storage"
+  ],
+  "answer": 1,
+  "explanation": "Physical destruction is also used.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ICC",
+  "topic": "Exam",
+  "body": "The ISC2 CC exam has",
+  "options": [
+   "50 questions in 1 hour",
+   "200 questions in 6 hours",
+   "100 questions in 2 hours, with a passing score of 700 out of 1000",
+   "a practical lab only"
+  ],
+  "answer": 2,
+  "explanation": "It covers five domains.",
+  "difficulty": 2
+ }
+]
