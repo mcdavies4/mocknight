@@ -24,6 +24,7 @@ import type { Student } from "@/lib/types";
 import { groupKb, menuKb, statesKb, subjectsKb, techTrackKb, timeKb, trackKb, tracksGridKb, TRACK_PROMPT } from "./keyboards";
 import { searchTracks, TRACK_GROUPS } from "@/lib/track-groups";
 import { welcomeText } from "@/lib/intro";
+import { adminStats, formatStats } from "@/lib/admin";
 
 type Ctx = Context & { student?: Student };
 const zoneLabel = (s: Student) => timeLabelFor(getTrack(s.track));
@@ -994,6 +995,17 @@ function register(bot: Bot<Ctx>) {
     );
   };
   bot.command("review", async (ctx) => (isFounder(ctx.student!) ? sendReviewItem(ctx) : undefined));
+  // Founder dashboard
+  bot.command("admin", async (ctx) => {
+    if (!isFounder(ctx.student!)) return;
+    await ctx.replyWithChatAction("typing");
+    try {
+      return ctx.reply(formatStats(await adminStats()), { link_preview_options: { is_disabled: true } });
+    } catch (e) {
+      console.error("admin stats", e);
+      return ctx.reply("Couldn't load stats — check that migration 0027 (admin_stats) is applied.");
+    }
+  });
   bot.callbackQuery(/^rv:(ok|no):([0-9a-f-]{36})$/, async (ctx) => {
     if (!isFounder(ctx.student!)) return ctx.answerCallbackQuery();
     const [, verdict, id] = ctx.match;

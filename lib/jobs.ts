@@ -9,6 +9,7 @@ import { sendCertificateReminders } from "./courses";
 import { watNow, formatHour } from "./time";
 import { closeExpiredAttempts, ensureWeeklyMock, WEEKLY } from "./mock";
 import type { Mock, TutorGroup } from "./types";
+import { maybeSendAdminDigest } from "./admin";
 import { SCHOOL_TRACKS, tracksByZone } from "./tracks";
 
 type Recipient = { id: string; telegram_id: number; first_name: string | null };
@@ -53,8 +54,9 @@ async function ensureWebhookUpdates(api: Api) {
 export async function runHourly(api: Api) {
   await ensureWebhookUpdates(api);
   await expireStaleBattles().catch((e) => console.error("expireStaleBattles", e));
+  const adminDigest = await maybeSendAdminDigest(api).catch((e) => { console.error("admin digest", e); return "error"; });
   const { date, hour, weekday } = watNow();
-  const log: Record<string, unknown> = { date, hour, weekday };
+  const log: Record<string, unknown> = { date, hour, weekday, adminDigest };
 
   // 1. Daily drill prompts for students whose drill hour is now
   // Each track's drill hour is in its own local time (WAT, UK, Ethiopia, India…).
