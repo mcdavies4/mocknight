@@ -35,13 +35,21 @@ export function SiteHeader({ bot }: { bot: string }) {
           <BrandMark />
           <span className="site-brand-text">
             <span className="site-name">Mock Night</span>
-            <span className="site-tagline">Prepare Smarter. Perform Better.</span>
+            <span className="site-tagline"><span>Prepare Smarter.</span> <span>Perform Better.</span></span>
           </span>
         </Link>
         <nav className="site-nav">
           <Link href="/exams" className="site-link">Exams</Link>
           <Link href="/app" className="site-link">Web app</Link>
-          {bot && <a href={`https://t.me/${bot}`} className="site-cta">Open in Telegram</a>}
+          {bot && (
+            <a href={`https://t.me/${bot}`} className="site-cta" aria-label="Open Mock Night in Telegram">
+              <svg className="site-cta-icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                <path fill="currentColor" d="M21.9 4.3 18.8 19c-.2 1-.9 1.3-1.8.8l-4.8-3.5-2.3 2.2c-.3.3-.5.5-1 .5l.3-4.9 8.9-8c.4-.3-.1-.5-.6-.2L6.5 12.8 1.8 11.3c-1-.3-1-1 .2-1.5L20.5 2.9c.9-.3 1.6.2 1.4 1.4Z" />
+              </svg>
+              <span className="cta-long">Open in Telegram</span>
+              <span className="cta-short">Telegram</span>
+            </a>
+          )}
         </nav>
       </div>
     </header>
