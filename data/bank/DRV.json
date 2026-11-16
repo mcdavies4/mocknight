@@ -1,0 +1,3418 @@
+[
+ {
+  "subject": "DRV",
+  "topic": "Alertness",
+  "body": "You feel tired on a motorway journey. What should you do?",
+  "options": [
+   "Turn the radio up",
+   "Stop on the hard shoulder for a sleep",
+   "Leave at the next exit or services and take a proper rest",
+   "Open the window and carry on"
+  ],
+  "answer": 2,
+  "explanation": "Opening a window only helps for a very short time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Alertness",
+  "body": "How often does the Highway Code recommend taking a break on a long journey?",
+  "options": [
+   "At least 15 minutes every two hours",
+   "Once a day",
+   "Every five hours",
+   "Only when you feel tired"
+  ],
+  "answer": 0,
+  "explanation": "Plan rest stops before you set off.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Alertness",
+  "body": "Before pulling out from a parked position, you should",
+  "options": [
+   "rely on your mirrors only",
+   "sound the horn",
+   "pull out quickly to save time",
+   "check mirrors and look over your shoulder into the blind spot"
+  ],
+  "answer": 3,
+  "explanation": "The blind spot is not covered by your mirrors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Alertness",
+  "body": "Before you move off, when should you use your mirrors?",
+  "options": [
+   "Only after you have moved off",
+   "Only when reversing",
+   "Before signalling and before moving off",
+   "Never in town"
+  ],
+  "answer": 2,
+  "explanation": "Mirrors – signal – manoeuvre.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Alertness",
+  "body": "Your passenger wants to chat while you approach a busy junction. You should",
+  "options": [
+   "turn to face them",
+   "slow to walking pace in the junction",
+   "keep talking and steer with one hand",
+   "concentrate on the road and ask them to wait"
+  ],
+  "answer": 3,
+  "explanation": "Distractions increase the risk of a collision.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Alertness",
+  "body": "Using a satnav while driving, you should",
+  "options": [
+   "watch it instead of the road",
+   "set it before your journey and only glance at it when safe",
+   "programme it while moving",
+   "hold it in your hand"
+  ],
+  "answer": 1,
+  "explanation": "If you need to change the route, stop somewhere safe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Alertness",
+  "body": "Which can cause dazzle from oncoming headlights to last longer?",
+  "options": [
+   "A clean windscreen",
+   "Driving slowly",
+   "Wearing glasses for driving",
+   "A dirty windscreen"
+  ],
+  "answer": 3,
+  "explanation": "Keep the windscreen clean inside and out.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Alertness",
+  "body": "Approaching a bend, a car is overtaking a cyclist towards you. You should",
+  "options": [
+   "sound your horn continuously",
+   "flash your headlights",
+   "speed up to get past quickly",
+   "slow down and be ready to stop"
+  ],
+  "answer": 3,
+  "explanation": "Expect the unexpected on bends.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Attitude",
+  "body": "A driver behind you is following too closely. What should you do?",
+  "options": [
+   "Wave them past while braking",
+   "Increase the gap in front of you so you can brake more gently",
+   "Speed up",
+   "Brake sharply to warn them"
+  ],
+  "answer": 1,
+  "explanation": "A bigger gap ahead gives you and them more time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Attitude",
+  "body": "At a pedestrian crossing, a pedestrian is slow to cross. You should",
+  "options": [
+   "rev your engine",
+   "sound your horn",
+   "be patient and wait",
+   "edge forward"
+  ],
+  "answer": 2,
+  "explanation": "Elderly and disabled people may need more time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Attitude",
+  "body": "When should you flash your headlights at other road users?",
+  "options": [
+   "To show annoyance",
+   "To give way",
+   "Only to let them know you are there",
+   "To tell them to go"
+  ],
+  "answer": 2,
+  "explanation": "Never assume a flash means it is safe to go.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Attitude",
+  "body": "A long, slow-moving vehicle is ahead on a narrow road. You should",
+  "options": [
+   "flash your lights to make it pull over",
+   "stay well back and wait for a safe place to overtake",
+   "overtake on the next bend",
+   "drive very close so you can see past"
+  ],
+  "answer": 1,
+  "explanation": "Being patient is part of safe driving.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Attitude",
+  "body": "Another driver makes a mistake that affects you. You should",
+  "options": [
+   "sound your horn repeatedly",
+   "stay calm and not react aggressively",
+   "chase them",
+   "flash your lights and gesture"
+  ],
+  "answer": 1,
+  "explanation": "Road rage puts everyone at risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Attitude",
+  "body": "Which is an example of 'tailgating'?",
+  "options": [
+   "Parking at the kerb",
+   "Following another vehicle too closely",
+   "Overtaking on the right",
+   "Driving with the window down"
+  ],
+  "answer": 1,
+  "explanation": "Tailgating is dangerous and intimidating.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Attitude",
+  "body": "A horse rider is ahead on a country road. How should you pass?",
+  "options": [
+   "At 30 mph with a 1 metre gap",
+   "Quickly to get past",
+   "Close, sounding your horn",
+   "Wide and slow — at no more than 10 mph and at least 2 metres away"
+  ],
+  "answer": 3,
+  "explanation": "Horses can be startled easily.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Attitude",
+  "body": "You are in a queue of traffic and a vehicle wants to join from a side road. You should",
+  "options": [
+   "sound your horn",
+   "block it",
+   "let it in if it is safe and the traffic is slow",
+   "flash your lights to show annoyance"
+  ],
+  "answer": 2,
+  "explanation": "Courtesy helps traffic flow safely.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety and your vehicle",
+  "body": "The minimum legal tread depth for car tyres is",
+  "options": [
+   "2 mm in the centre only",
+   "3 mm on the outer edges",
+   "1 mm across the whole tyre",
+   "1.6 mm across the central three-quarters, all the way round"
+  ],
+  "answer": 3,
+  "explanation": "Many experts recommend replacing tyres well before this.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety and your vehicle",
+  "body": "When should you check tyre pressures?",
+  "options": [
+   "Only at your MOT",
+   "When the tyres are hot",
+   "When the tyres are cold",
+   "After a long motorway trip"
+  ],
+  "answer": 2,
+  "explanation": "Pressures read higher when tyres are warm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety and your vehicle",
+  "body": "A head restraint should be adjusted so that",
+  "options": [
+   "it is as low as possible",
+   "it touches your shoulders",
+   "the rigid part is at least as high as your eyes or the top of your ears and close to your head",
+   "it is removed for comfort"
+  ],
+  "answer": 2,
+  "explanation": "It reduces whiplash injuries.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety and your vehicle",
+  "body": "Anti-lock brakes (ABS) mainly help you",
+  "options": [
+   "drive faster on ice",
+   "keep steering control while braking hard",
+   "avoid ever skidding",
+   "stop in a much shorter distance on every surface"
+  ],
+  "answer": 1,
+  "explanation": "Stopping distances still increase on wet or icy roads.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety and your vehicle",
+  "body": "A catalytic converter is fitted to reduce",
+  "options": [
+   "harmful exhaust gases",
+   "tyre wear",
+   "fuel consumption",
+   "noise"
+  ],
+  "answer": 0,
+  "explanation": "It cleans exhaust emissions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety and your vehicle",
+  "body": "Which driving style saves fuel?",
+  "options": [
+   "Carrying a roof box all the time",
+   "Accelerating gently and planning ahead to avoid harsh braking",
+   "Revving the engine in each gear",
+   "Braking late and hard"
+  ],
+  "answer": 1,
+  "explanation": "Smooth driving is eco-driving.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety and your vehicle",
+  "body": "How can you reduce fuel consumption on a long journey?",
+  "options": [
+   "Drive with the windows open at high speed",
+   "Remove an unused roof rack or box",
+   "Under-inflate the tyres",
+   "Keep the air conditioning on full"
+  ],
+  "answer": 1,
+  "explanation": "Extra drag and weight use more fuel.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety and your vehicle",
+  "body": "When checking the engine oil level, the car should be",
+  "options": [
+   "on level ground with the engine off",
+   "running",
+   "just after a long drive at speed",
+   "on a slope"
+  ],
+  "answer": 0,
+  "explanation": "Wait for the oil to settle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety and your vehicle",
+  "body": "When must a car first have an MOT in Great Britain?",
+  "options": [
+   "Every year from new",
+   "When it is one year old",
+   "When it is three years old",
+   "When it is five years old"
+  ],
+  "answer": 2,
+  "explanation": "Then it needs one every year. In Northern Ireland it is four years.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety and your vehicle",
+  "body": "Coasting (driving with the clutch down or in neutral) is dangerous because",
+  "options": [
+   "it switches off the lights",
+   "it damages the tyres",
+   "it uses more fuel",
+   "it reduces your control of the vehicle"
+  ],
+  "answer": 3,
+  "explanation": "You lose engine braking and steering response.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety and your vehicle",
+  "body": "Who is legally responsible for making sure a child under 14 wears a seat belt or suitable restraint?",
+  "options": [
+   "The driver",
+   "The child",
+   "The front-seat passenger",
+   "The child's parent if they are not in the car"
+  ],
+  "answer": 0,
+  "explanation": "Passengers aged 14 and over are responsible for themselves.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety and your vehicle",
+  "body": "Children must use a suitable child seat until they are",
+  "options": [
+   "12 years old or 135 cm tall, whichever comes first",
+   "5 years old",
+   "150 cm tall",
+   "8 years old only"
+  ],
+  "answer": 0,
+  "explanation": "The seat must suit the child's weight or height.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety and your vehicle",
+  "body": "A rear-facing baby seat must never be used in a front seat that has",
+  "options": [
+   "a head restraint",
+   "air conditioning",
+   "an active frontal airbag",
+   "a seat belt"
+  ],
+  "answer": 2,
+  "explanation": "The airbag could seriously injure the baby.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety and your vehicle",
+  "body": "A warning light shows on the dashboard while driving. You should",
+  "options": [
+   "check what it means in the vehicle handbook and act on it",
+   "ignore it until the next service",
+   "cover it up",
+   "speed up to get home"
+  ],
+  "answer": 0,
+  "explanation": "Red lights usually mean stop as soon as it is safe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "In good, dry conditions, the gap you should leave behind the vehicle in front is at least",
+  "options": [
+   "a five-second gap",
+   "a two-second gap",
+   "one car length",
+   "a one-second gap"
+  ],
+  "answer": 1,
+  "explanation": "Pick a fixed point and count 'Only a fool breaks the two-second rule'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "On wet roads, your gap from the vehicle in front should be at least",
+  "options": [
+   "halved",
+   "doubled",
+   "ten times bigger",
+   "unchanged"
+  ],
+  "answer": 1,
+  "explanation": "Stopping distances at least double in the wet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "On icy roads, braking distances can be up to",
+  "options": [
+   "twice as long",
+   "ten times longer than normal",
+   "the same",
+   "half as long"
+  ],
+  "answer": 1,
+  "explanation": "Drive slowly and gently.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "Your car begins to aquaplane on a flooded road. What should you do?",
+  "options": [
+   "Steer sharply",
+   "Ease off the accelerator and let the car slow down",
+   "Brake hard",
+   "Accelerate through it"
+  ],
+  "answer": 1,
+  "explanation": "Aquaplaning means the tyres have lost contact with the road.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "The back of your car skids to the right. What should you do?",
+  "options": [
+   "Accelerate hard",
+   "Steer to the left",
+   "Steer to the right",
+   "Brake hard"
+  ],
+  "answer": 2,
+  "explanation": "Steer gently into the skid.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "When driving in snow, you should",
+  "options": [
+   "use first gear at high revs",
+   "brake hard to test the grip",
+   "follow closely to use the car's tracks",
+   "use the highest gear possible and accelerate and brake gently"
+  ],
+  "answer": 3,
+  "explanation": "Gentle inputs keep the tyres gripping.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "After driving through a flood, you should",
+  "options": [
+   "pump the brakes hard",
+   "test your brakes gently",
+   "drive fast to dry the engine",
+   "switch off the engine"
+  ],
+  "answer": 1,
+  "explanation": "Wet brakes may not work properly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "In strong winds, which road users are most likely to be affected?",
+  "options": [
+   "Trains",
+   "Cyclists, motorcyclists, high-sided vehicles and caravans",
+   "Pedestrians on pavements only",
+   "Large saloon cars only"
+  ],
+  "answer": 1,
+  "explanation": "Give them more room.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "Driving downhill on a long steep hill, you should",
+  "options": [
+   "coast in neutral",
+   "ride the brakes all the way",
+   "switch off the engine",
+   "select a lower gear to use engine braking"
+  ],
+  "answer": 3,
+  "explanation": "Overusing brakes makes them fade.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "What is the typical stopping distance at 30 mph in good conditions?",
+  "options": [
+   "23 metres (about six car lengths)",
+   "53 metres",
+   "12 metres",
+   "36 metres"
+  ],
+  "answer": 0,
+  "explanation": "Thinking distance 9 m plus braking distance 14 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Hazard awareness",
+  "body": "A ball bounces into the road ahead. What should you do?",
+  "options": [
+   "Speed up past it",
+   "Slow down and be ready to stop for a child",
+   "Swerve around it",
+   "Sound your horn and continue"
+  ],
+  "answer": 1,
+  "explanation": "A child may run out after it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Hazard awareness",
+  "body": "You are passing a bus that has stopped at a bus stop. You should",
+  "options": [
+   "watch for pedestrians stepping out from in front of it",
+   "speed up to pass quickly",
+   "flash your lights",
+   "sound your horn"
+  ],
+  "answer": 0,
+  "explanation": "People often cross in front of buses.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Hazard awareness",
+  "body": "An ice-cream van is parked ahead. Why should you take extra care?",
+  "options": [
+   "It may be selling fuel",
+   "Children may run into the road",
+   "The van may reverse quickly",
+   "The road may be icy"
+  ],
+  "answer": 1,
+  "explanation": "Children may be excited and not look.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Hazard awareness",
+  "body": "Some prescription medicines can affect your driving. What should you do?",
+  "options": [
+   "Drink coffee to counter the effects",
+   "Check the leaflet or ask your doctor or pharmacist before driving",
+   "Drive if you feel fine",
+   "Drive only at night"
+  ],
+  "answer": 1,
+  "explanation": "Driving while impaired by drugs is an offence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Hazard awareness",
+  "body": "Why should you be careful when passing parked cars?",
+  "options": [
+   "The road is always narrower",
+   "They block your mirrors",
+   "Parked cars always pull out",
+   "A door may open or a pedestrian may step out"
+  ],
+  "answer": 3,
+  "explanation": "Leave room for doors opening.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Hazard awareness",
+  "body": "A road marking says 'SLOW' ahead. You should",
+  "options": [
+   "speed up",
+   "reduce speed because there is a hazard",
+   "change lanes immediately",
+   "stop completely"
+  ],
+  "answer": 1,
+  "explanation": "Look for the hazard and be ready.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Hazard awareness",
+  "body": "You see a vehicle with flashing amber beacons on a dual carriageway. It is probably",
+  "options": [
+   "a police car",
+   "a fire engine",
+   "a slow-moving vehicle",
+   "an ambulance on a call"
+  ],
+  "answer": 2,
+  "explanation": "For example a gritter or maintenance vehicle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Hazard awareness",
+  "body": "Which of these may make it harder for you to see hazards at night?",
+  "options": [
+   "Street lights",
+   "Reflective road signs",
+   "Cat's eyes",
+   "Dazzle from oncoming headlights"
+  ],
+  "answer": 3,
+  "explanation": "Slow down or stop if you are dazzled.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Hazard awareness",
+  "body": "Approaching a junction where your view is restricted, you should",
+  "options": [
+   "slow down and creep forward until you can see clearly",
+   "accelerate across it",
+   "rely on others to stop",
+   "sound your horn and go"
+  ],
+  "answer": 0,
+  "explanation": "Look, assess and decide.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Hazard awareness",
+  "body": "After drinking alcohol the night before, you should",
+  "options": [
+   "drive normally after a cold shower",
+   "only drive short distances",
+   "drink coffee and drive",
+   "be aware you may still be over the limit the next morning"
+  ],
+  "answer": 3,
+  "explanation": "Alcohol takes time to leave your body.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vulnerable road users",
+  "body": "When overtaking a cyclist at speeds up to 30 mph, the Highway Code advises leaving at least",
+  "options": [
+   "3 metres",
+   "1 metre",
+   "1.5 metres",
+   "0.5 metres"
+  ],
+  "answer": 2,
+  "explanation": "Leave more room at higher speeds.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vulnerable road users",
+  "body": "The Highway Code's 'hierarchy of road users' means that",
+  "options": [
+   "cars always have priority",
+   "those who can cause the greatest harm have the greatest responsibility to reduce danger",
+   "cyclists must give way to everyone",
+   "pedestrians must always wait"
+  ],
+  "answer": 1,
+  "explanation": "Drivers have more responsibility than cyclists and pedestrians.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vulnerable road users",
+  "body": "You are turning into a side road and pedestrians are waiting to cross it. You should",
+  "options": [
+   "give way to them",
+   "turn quickly before they step out",
+   "sound your horn and turn",
+   "wave them back"
+  ],
+  "answer": 0,
+  "explanation": "Rule H2 of the Highway Code.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vulnerable road users",
+  "body": "A pedestrian has a white cane with a red band. This means they are",
+  "options": [
+   "a road worker",
+   "elderly",
+   "a learner",
+   "deaf and blind"
+  ],
+  "answer": 3,
+  "explanation": "A plain white cane means visually impaired.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vulnerable road users",
+  "body": "When passing pedestrians walking in the road (for example where there is no pavement), the Highway Code advises",
+  "options": [
+   "leaving 50 cm",
+   "passing as fast as possible",
+   "sounding your horn",
+   "allowing at least 2 metres and passing at low speed"
+  ],
+  "answer": 3,
+  "explanation": "Rule 206.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vulnerable road users",
+  "body": "The 'Dutch reach' is",
+  "options": [
+   "opening the car door with the hand furthest from it so you look back for cyclists",
+   "a seat adjustment",
+   "a way of turning right",
+   "a parking technique"
+  ],
+  "answer": 0,
+  "explanation": "It helps prevent 'dooring' cyclists.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vulnerable road users",
+  "body": "Why should you look carefully for motorcyclists at junctions?",
+  "options": [
+   "They must give way to you",
+   "They are small and easy to miss",
+   "They use the pavement",
+   "They always travel slowly"
+  ],
+  "answer": 1,
+  "explanation": "'Think bike' before pulling out.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vulnerable road users",
+  "body": "You see older pedestrians about to cross the road. You should",
+  "options": [
+   "sound your horn",
+   "speed up to pass first",
+   "be patient — they may be slower and misjudge your speed",
+   "flash your lights"
+  ],
+  "answer": 2,
+  "explanation": "Give them time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vulnerable road users",
+  "body": "A cyclist ahead is approaching a roundabout in the left lane but intends to go right. You should",
+  "options": [
+   "follow very closely",
+   "give them plenty of room — they may stay in the left lane",
+   "sound your horn",
+   "overtake them on the roundabout"
+  ],
+  "answer": 1,
+  "explanation": "Cyclists may keep left for safety.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vulnerable road users",
+  "body": "Near a school with 'school keep clear' zigzag markings, you must not",
+  "options": [
+   "slow down",
+   "stop or park on the markings",
+   "drive at 20 mph",
+   "use your mirrors"
+  ],
+  "answer": 1,
+  "explanation": "Children need to see and be seen.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Other types of vehicle",
+  "body": "A long vehicle is signalling left but has moved out to the right before a junction. You should",
+  "options": [
+   "pass on the right quickly",
+   "overtake on the left",
+   "stay back — it needs room to turn left",
+   "sound your horn"
+  ],
+  "answer": 2,
+  "explanation": "Long vehicles swing wide to turn.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Other types of vehicle",
+  "body": "Why should you take extra care near trams?",
+  "options": [
+   "They cannot steer to avoid you",
+   "They give way to cars",
+   "They have no brakes",
+   "They are always slow"
+  ],
+  "answer": 0,
+  "explanation": "Trams run on fixed rails.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Other types of vehicle",
+  "body": "In a built-up area, a bus signals to pull out from a bus stop. You should",
+  "options": [
+   "speed up to pass it",
+   "give way to it if it is safe to do so",
+   "sound your horn",
+   "flash your lights"
+  ],
+  "answer": 1,
+  "explanation": "Rule 223 of the Highway Code.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Other types of vehicle",
+  "body": "When following a large lorry, why should you keep well back?",
+  "options": [
+   "To save fuel only",
+   "Because lorries are always slow",
+   "To see past it and so the driver can see you in their mirrors",
+   "Because it is illegal to follow lorries"
+  ],
+  "answer": 2,
+  "explanation": "If you can't see its mirrors, the driver can't see you.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Other types of vehicle",
+  "body": "A vehicle with a flashing green beacon is likely to be",
+  "options": [
+   "a breakdown truck",
+   "a police car",
+   "a doctor on an emergency call",
+   "a bin lorry"
+  ],
+  "answer": 2,
+  "explanation": "Give way if you can do so safely.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Other types of vehicle",
+  "body": "Powered vehicles used by disabled people that are restricted to 8 mph on the road are",
+  "options": [
+   "learner vehicles",
+   "Class 3 invalid carriages (mobility scooters)",
+   "Class 1 vehicles",
+   "trams"
+  ],
+  "answer": 1,
+  "explanation": "They may use dual carriageways but must show an amber light.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Other types of vehicle",
+  "body": "Overtaking a large vehicle in wet weather, you should be aware that",
+  "options": [
+   "it will always pull over",
+   "it has no blind spots",
+   "it travels faster in the wet",
+   "spray may reduce your view"
+  ],
+  "answer": 3,
+  "explanation": "Use wipers and keep a safe gap.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle handling",
+  "body": "When should you use fog lights?",
+  "options": [
+   "To dazzle following drivers",
+   "Whenever it is dark",
+   "When visibility is seriously reduced, generally to less than 100 metres",
+   "In light rain"
+  ],
+  "answer": 2,
+  "explanation": "Switch them off when visibility improves.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle handling",
+  "body": "You must use headlights at night when",
+  "options": [
+   "parking in a garage",
+   "stopping at traffic lights only",
+   "driving in a 20 mph zone with street lights only",
+   "driving on a road without street lights"
+  ],
+  "answer": 3,
+  "explanation": "Use dipped headlights in built-up areas with street lights.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle handling",
+  "body": "Traffic-calming measures such as speed humps are used to",
+  "options": [
+   "mark parking bays",
+   "slow traffic down",
+   "speed traffic up",
+   "show bus routes"
+  ],
+  "answer": 1,
+  "explanation": "Keep to a low speed over them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle handling",
+  "body": "You should not overtake when approaching",
+  "options": [
+   "a motorway",
+   "a long straight road",
+   "a bend, a junction or the brow of a hill",
+   "a dual carriageway"
+  ],
+  "answer": 2,
+  "explanation": "You cannot see what is coming.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle handling",
+  "body": "Your car stalls on a level crossing. What should you do first?",
+  "options": [
+   "Get everyone out and clear of the crossing",
+   "Wait in the car for help",
+   "Push the car across alone",
+   "Try to restart the engine repeatedly"
+  ],
+  "answer": 0,
+  "explanation": "Then use the railway phone to tell the signal operator.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle handling",
+  "body": "At a level crossing, the amber light comes on followed by twin flashing red lights. You must",
+  "options": [
+   "zigzag around the barriers",
+   "carry on if no train is visible",
+   "speed up to cross",
+   "stop"
+  ],
+  "answer": 3,
+  "explanation": "Keep waiting if the lights keep flashing after a train passes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle handling",
+  "body": "When driving in fog, you should",
+  "options": [
+   "use dipped headlights and slow down",
+   "drive with sidelights only",
+   "follow the tail lights in front closely",
+   "use full beam"
+  ],
+  "answer": 0,
+  "explanation": "Full beam reflects off fog.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle handling",
+  "body": "When reversing, you should",
+  "options": [
+   "rely only on your mirrors",
+   "look all around and mainly through the rear window",
+   "reverse further than necessary",
+   "reverse into a main road"
+  ],
+  "answer": 1,
+  "explanation": "Pedestrians and children are hard to see.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Motorway rules",
+  "body": "A red X is shown above your lane on a motorway. You must",
+  "options": [
+   "stop on the hard shoulder",
+   "not drive in that lane",
+   "slow to 50 mph",
+   "move into that lane"
+  ],
+  "answer": 1,
+  "explanation": "Driving under a red X is an offence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Motorway rules",
+  "body": "A speed limit shown in a red circle on a motorway gantry is",
+  "options": [
+   "only for the hard shoulder",
+   "mandatory",
+   "only for lorries",
+   "advisory"
+  ],
+  "answer": 1,
+  "explanation": "Variable limits in red circles must be obeyed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Motorway rules",
+  "body": "On a motorway, the reflective studs between the hard shoulder and the left lane are",
+  "options": [
+   "red",
+   "green",
+   "amber",
+   "white"
+  ],
+  "answer": 0,
+  "explanation": "White studs mark lanes; amber marks the central reservation; green marks slip roads.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Motorway rules",
+  "body": "Green reflective studs on a motorway mark",
+  "options": [
+   "the central reservation",
+   "the hard shoulder edge",
+   "lane lines",
+   "the edge of slip roads and lay-bys"
+  ],
+  "answer": 3,
+  "explanation": "They show where you can leave or join.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Motorway rules",
+  "body": "Amber reflective studs on a motorway mark",
+  "options": [
+   "slip roads",
+   "lane dividers",
+   "the edge of the central reservation",
+   "the hard shoulder"
+  ],
+  "answer": 2,
+  "explanation": "They are on the right-hand edge of the carriageway.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Motorway rules",
+  "body": "Learner car drivers may drive on a motorway only",
+  "options": [
+   "after dark",
+   "with any adult passenger",
+   "never under any circumstances",
+   "with an approved driving instructor in a car with dual controls"
+  ],
+  "answer": 3,
+  "explanation": "The law changed in June 2018.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Motorway rules",
+  "body": "On a motorway with three or more lanes, which vehicles may NOT use the right-hand lane (except in some circumstances)?",
+  "options": [
+   "Motorcycles",
+   "Cars",
+   "Vehicles towing trailers and goods vehicles over 7.5 tonnes",
+   "Coaches with fewer than 8 seats"
+  ],
+  "answer": 2,
+  "explanation": "They must use the left two lanes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Motorway rules",
+  "body": "Countdown markers before a motorway exit are placed at",
+  "options": [
+   "1000, 500 and 100 metres",
+   "3, 2 and 1 miles",
+   "30, 20 and 10 metres",
+   "300, 200 and 100 yards"
+  ],
+  "answer": 3,
+  "explanation": "Each bar represents 100 yards.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Motorway rules",
+  "body": "You miss your motorway exit. What should you do?",
+  "options": [
+   "Do a U-turn through the central reservation",
+   "Stop and wait",
+   "Reverse on the hard shoulder",
+   "Carry on to the next exit"
+  ],
+  "answer": 3,
+  "explanation": "Never reverse on a motorway.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Motorway rules",
+  "body": "Your car breaks down on a smart motorway with no hard shoulder. If possible you should",
+  "options": [
+   "stop in lane 3",
+   "stop as soon as anything feels wrong",
+   "walk across the lanes to the central reservation",
+   "get to an emergency area, the next exit or services"
+  ],
+  "answer": 3,
+  "explanation": "If stuck in a live lane, switch on hazard lights and call 999.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Motorway rules",
+  "body": "On a motorway, marker posts on the hard shoulder show",
+  "options": [
+   "the distance to London",
+   "the speed limit",
+   "the direction to the nearest emergency telephone",
+   "the next exit name"
+  ],
+  "answer": 2,
+  "explanation": "Posts are every 100 metres.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Motorway rules",
+  "body": "You should overtake on a motorway",
+  "options": [
+   "on the right, after checking mirrors and blind spots",
+   "on the left whenever there is space",
+   "on the hard shoulder",
+   "in any lane at any time"
+  ],
+  "answer": 0,
+  "explanation": "Only pass on the left if traffic in lanes is moving slowly in queues.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Motorway rules",
+  "body": "Joining a motorway from a slip road, you should",
+  "options": [
+   "force your way in",
+   "join in the right-hand lane",
+   "stop at the end of the slip road",
+   "give priority to traffic already on the motorway and match its speed"
+  ],
+  "answer": 3,
+  "explanation": "Use the slip road to build up speed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Motorway rules",
+  "body": "When can you stop on the hard shoulder?",
+  "options": [
+   "Only in an emergency",
+   "To look at a map",
+   "To rest when tired",
+   "To take a phone call"
+  ],
+  "answer": 0,
+  "explanation": "Leave at the next exit if you need to rest.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "At a roundabout, you should normally give priority to traffic",
+  "options": [
+   "behind you",
+   "approaching from your left",
+   "on the slip road",
+   "approaching from your right"
+  ],
+  "answer": 3,
+  "explanation": "Unless signs or markings show otherwise.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "When leaving a roundabout, signal left",
+  "options": [
+   "never",
+   "as you enter the roundabout",
+   "after you have left the roundabout",
+   "after you pass the exit before the one you want"
+  ],
+  "answer": 3,
+  "explanation": "This tells others where you are going.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "You may enter a yellow box junction only if",
+  "options": [
+   "there are no pedestrians",
+   "the lights are green",
+   "you are turning left",
+   "your exit road or lane is clear"
+  ],
+  "answer": 3,
+  "explanation": "You may wait in it when turning right if blocked only by oncoming traffic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "You must not park within how many metres of a junction (unless in a marked bay)?",
+  "options": [
+   "2 metres",
+   "10 metres",
+   "20 metres",
+   "5 metres"
+  ],
+  "answer": 1,
+  "explanation": "Rule 243 of the Highway Code.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "When parking at night on a road with a speed limit over 30 mph, you must",
+  "options": [
+   "park facing oncoming traffic",
+   "leave your headlights on full beam",
+   "leave the engine running",
+   "use your parking lights"
+  ],
+  "answer": 3,
+  "explanation": "Always park facing the direction of traffic at night.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "In a built-up area, you must not use your horn between",
+  "options": [
+   "midnight and 6 am only on Sundays",
+   "9 pm and 9 am",
+   "7 am and 11.30 pm",
+   "11.30 pm and 7 am, unless another road user poses a danger"
+  ],
+  "answer": 3,
+  "explanation": "And never while stationary, except in danger.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "The national speed limit sign is",
+  "options": [
+   "a white circle with a black diagonal stripe",
+   "a red triangle",
+   "a blue circle with a white arrow",
+   "a red circle with '60'"
+  ],
+  "answer": 0,
+  "explanation": "The limit depends on the road and vehicle type.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "Double white lines where the line nearer to you is solid mean",
+  "options": [
+   "you must not cross or straddle them, except in specific situations",
+   "you may park",
+   "it is a bus lane",
+   "you may overtake if clear"
+  ],
+  "answer": 0,
+  "explanation": "Exceptions include passing a stationary vehicle or overtaking a cyclist or horse at 10 mph or less.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "Zigzag lines at a pedestrian crossing mean you must not",
+  "options": [
+   "stop for pedestrians",
+   "use your indicators",
+   "drive over them at all",
+   "park or overtake the lead vehicle approaching the crossing"
+  ],
+  "answer": 3,
+  "explanation": "They keep the view of the crossing clear.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "Double yellow lines along the edge of the road mean",
+  "options": [
+   "bus stop",
+   "loading only",
+   "no waiting at any time",
+   "no waiting during the day only"
+  ],
+  "answer": 2,
+  "explanation": "Check signs for seasonal restrictions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "You may use a bus lane",
+  "options": [
+   "whenever it is empty",
+   "at any time",
+   "only outside the times shown on the signs (or not at all if no times are shown)",
+   "if you are turning left in 200 m"
+  ],
+  "answer": 2,
+  "explanation": "Signs show when the lane is in operation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "Driving in Wales, what is the default speed limit on most restricted roads (with street lights)?",
+  "options": [
+   "20 mph",
+   "15 mph",
+   "30 mph",
+   "40 mph"
+  ],
+  "answer": 0,
+  "explanation": "This changed in September 2023.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "At a zebra crossing, you must",
+  "options": [
+   "wave pedestrians across",
+   "sound your horn to warn them",
+   "give way to pedestrians who are on the crossing",
+   "overtake slow vehicles on the crossing"
+  ],
+  "answer": 2,
+  "explanation": "Look for people waiting and be ready to stop.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "At a pelican crossing, a flashing amber light means",
+  "options": [
+   "give way to pedestrians on the crossing, then go if it is clear",
+   "the lights are broken",
+   "speed up",
+   "stop and wait for green"
+  ],
+  "answer": 0,
+  "explanation": "Puffin crossings do not have a flashing amber phase.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "A toucan crossing can be used by",
+  "options": [
+   "horse riders only",
+   "pedestrians and cyclists",
+   "pedestrians only",
+   "buses only"
+  ],
+  "answer": 1,
+  "explanation": "Pegasus crossings are for horse riders.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "Road signs in circles generally",
+  "options": [
+   "give warnings",
+   "show directions",
+   "give information",
+   "give orders"
+  ],
+  "answer": 3,
+  "explanation": "Triangles warn; rectangles inform.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "Most triangular road signs",
+  "options": [
+   "show motorway exits",
+   "give orders",
+   "show tourist attractions",
+   "give warnings"
+  ],
+  "answer": 3,
+  "explanation": "They have a red border.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "Blue circular signs usually",
+  "options": [
+   "tell you what you must not do",
+   "show tourist information",
+   "warn of hazards",
+   "tell you what you must do"
+  ],
+  "answer": 3,
+  "explanation": "For example 'turn left' or 'keep left'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "Red circular signs usually",
+  "options": [
+   "tell you what you must not do",
+   "show distances",
+   "tell you what you must do",
+   "give directions"
+  ],
+  "answer": 0,
+  "explanation": "For example 'no entry' or speed limits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "What shape is a stop sign?",
+  "options": [
+   "Rectangular",
+   "Octagonal (eight-sided)",
+   "Circular",
+   "Triangular"
+  ],
+  "answer": 1,
+  "explanation": "Its unique shape can be recognised even if covered in snow.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "A 'give way' sign is",
+  "options": [
+   "a blue circle",
+   "a green rectangle",
+   "a red octagon",
+   "an upside-down triangle"
+  ],
+  "answer": 3,
+  "explanation": "Give way to traffic on the major road.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "Brown road signs show",
+  "options": [
+   "motorway routes",
+   "primary routes",
+   "tourist attractions",
+   "hazards"
+  ],
+  "answer": 2,
+  "explanation": "Green backgrounds show primary routes; blue shows motorways.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "Direction signs with a blue background are used on",
+  "options": [
+   "local roads",
+   "motorways",
+   "primary routes",
+   "tourist routes"
+  ],
+  "answer": 1,
+  "explanation": "Primary routes use green backgrounds.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "What is the sequence of UK traffic lights after red?",
+  "options": [
+   "Flashing amber, then green",
+   "Amber, then green",
+   "Green, then amber",
+   "Red and amber, then green"
+  ],
+  "answer": 3,
+  "explanation": "Red and amber together means stop; do not go until green.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "A steady amber traffic light means",
+  "options": [
+   "go if the way is clear",
+   "give way to the right",
+   "speed up",
+   "stop, unless you have crossed the stop line or are so close that stopping might cause a collision"
+  ],
+  "answer": 3,
+  "explanation": "Red follows amber.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "A green filter arrow at traffic lights means",
+  "options": [
+   "stop",
+   "give way to oncoming traffic only",
+   "the lights are broken",
+   "you may go in that direction, even if the main light is red"
+  ],
+  "answer": 3,
+  "explanation": "Only move into that lane if you intend to go that way.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "A school crossing patrol shows a 'stop for children' sign. You must",
+  "options": [
+   "slow down and drive past carefully",
+   "stop",
+   "overtake the patrol",
+   "sound your horn"
+  ],
+  "answer": 1,
+  "explanation": "It is an offence not to stop.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Documents",
+  "body": "Someone supervising a learner driver must be at least",
+  "options": [
+   "21 years old and have held a full licence for that type of vehicle for 3 years",
+   "17 years old with a provisional licence",
+   "25 years old with a licence for 1 year",
+   "18 years old with any licence"
+  ],
+  "answer": 0,
+  "explanation": "They must also be qualified to drive that type of vehicle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Documents",
+  "body": "What is the minimum level of motor insurance required by law?",
+  "options": [
+   "No insurance if the car is rarely used",
+   "Third party",
+   "Fully comprehensive",
+   "Third party, fire and theft"
+  ],
+  "answer": 1,
+  "explanation": "It covers injury or damage to others.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Documents",
+  "body": "Who must you tell when you change your address?",
+  "options": [
+   "The DVLA",
+   "The local library",
+   "The police",
+   "Your MOT garage"
+  ],
+  "answer": 0,
+  "explanation": "Update your licence and vehicle log book (V5C).",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Documents",
+  "body": "New drivers who get 6 or more penalty points within 2 years of passing their test will",
+  "options": [
+   "have to pay a £100 fine only",
+   "have their licence revoked",
+   "get a warning letter",
+   "have to take a theory test online only"
+  ],
+  "answer": 1,
+  "explanation": "They must reapply for a provisional licence and pass both tests again.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Documents",
+  "body": "Using a hand-held phone while driving can result in",
+  "options": [
+   "no penalty if stopped at traffic lights",
+   "a warning only",
+   "6 penalty points and a £200 fine",
+   "3 points and a £60 fine"
+  ],
+  "answer": 2,
+  "explanation": "It is illegal even while stopped at lights or queuing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Documents",
+  "body": "The UK car theory test multiple-choice part has 50 questions. What is the pass mark?",
+  "options": [
+   "40",
+   "35",
+   "45",
+   "43"
+  ],
+  "answer": 3,
+  "explanation": "You have 57 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Documents",
+  "body": "In the hazard perception part of the theory test, how many video clips are there?",
+  "options": [
+   "20",
+   "50",
+   "10",
+   "14"
+  ],
+  "answer": 3,
+  "explanation": "One clip has two developing hazards, so there are 15 to score; the pass mark is 44 out of 75.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Documents",
+  "body": "The legal drink-drive limit in England, Wales and Northern Ireland is",
+  "options": [
+   "80 mg of alcohol per 100 ml of blood",
+   "20 mg per 100 ml of blood",
+   "100 mg per 100 ml of blood",
+   "50 mg per 100 ml of blood"
+  ],
+  "answer": 0,
+  "explanation": "In Scotland it is 50 mg per 100 ml of blood.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Documents",
+  "body": "The legal drink-drive limit in Scotland is",
+  "options": [
+   "35 mg per 100 ml of blood",
+   "0 mg",
+   "80 mg per 100 ml of blood",
+   "50 mg of alcohol per 100 ml of blood"
+  ],
+  "answer": 3,
+  "explanation": "The breath limit in Scotland is 22 micrograms per 100 ml.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Documents",
+  "body": "A car must have a valid MOT certificate (if one is required) before you can",
+  "options": [
+   "tax it",
+   "sell it to a dealer",
+   "wash it",
+   "insure it"
+  ],
+  "answer": 0,
+  "explanation": "Tax, MOT and insurance are all legal requirements.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Documents",
+  "body": "With a car (category B) licence, you can generally tow a trailer up to a maximum authorised mass of",
+  "options": [
+   "7,500 kg",
+   "3,500 kg",
+   "unlimited weight",
+   "750 kg only"
+  ],
+  "answer": 1,
+  "explanation": "Since 2021, car licence holders automatically have B+E entitlement.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Incidents and emergencies",
+  "body": "You are involved in a collision that damages another vehicle. You must",
+  "options": [
+   "only tell your insurer",
+   "stop and give your name, address and registration to anyone with reasonable grounds to ask",
+   "leave a note and drive off",
+   "drive on if the damage is minor"
+  ],
+  "answer": 1,
+  "explanation": "If you cannot exchange details, report it to the police as soon as possible and within 24 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Incidents and emergencies",
+  "body": "If you break down on a normal road, a warning triangle should be placed at least",
+  "options": [
+   "on the roof",
+   "45 metres behind your vehicle",
+   "5 metres behind",
+   "10 metres in front"
+  ],
+  "answer": 1,
+  "explanation": "Do not use a warning triangle on a motorway.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Incidents and emergencies",
+  "body": "At the scene of a crash, you should",
+  "options": [
+   "move injured people immediately",
+   "switch off engines, warn other traffic and call emergency services",
+   "remove a motorcyclist's helmet straight away",
+   "give injured people a drink"
+  ],
+  "answer": 1,
+  "explanation": "Only move casualties if they are in further danger.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Incidents and emergencies",
+  "body": "An injured motorcyclist is lying unconscious. You should",
+  "options": [
+   "not remove their helmet unless it is essential",
+   "give them a drink",
+   "move them to the pavement",
+   "remove the helmet straight away"
+  ],
+  "answer": 0,
+  "explanation": "Removing it could cause spinal injury.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Incidents and emergencies",
+  "body": "When are hazard warning lights used while moving?",
+  "options": [
+   "When parking illegally",
+   "When driving in rain",
+   "To thank another driver",
+   "Briefly on a motorway or unrestricted dual carriageway to warn of a hazard ahead"
+  ],
+  "answer": 3,
+  "explanation": "Otherwise use them only when stationary and causing an obstruction.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Incidents and emergencies",
+  "body": "For CPR on an adult, the Highway Code advises chest compressions at a rate of",
+  "options": [
+   "200 per minute",
+   "30 per minute",
+   "60 per minute",
+   "100–120 per minute"
+  ],
+  "answer": 3,
+  "explanation": "Press down 5–6 cm in the centre of the chest.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Incidents and emergencies",
+  "body": "A casualty has a burn. You should",
+  "options": [
+   "apply butter",
+   "cool it with clean, cool water for at least 10 minutes",
+   "burst any blisters",
+   "remove clothing stuck to the burn"
+  ],
+  "answer": 1,
+  "explanation": "Do not remove anything stuck to the burn.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Incidents and emergencies",
+  "body": "If your vehicle catches fire, you should",
+  "options": [
+   "open the bonnet to check",
+   "keep driving to a garage",
+   "get everyone out and away, then call the fire service",
+   "stay in the car"
+  ],
+  "answer": 2,
+  "explanation": "Do not attempt to tackle a large fire.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Incidents and emergencies",
+  "body": "You break down in a tunnel. You should",
+  "options": [
+   "put a warning triangle in the next lane",
+   "switch on hazard lights, get out and call for help from an emergency point",
+   "stay in the car with the engine running",
+   "reverse out of the tunnel"
+  ],
+  "answer": 1,
+  "explanation": "Follow the tunnel's emergency signs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle loading",
+  "body": "A caravan starts to snake (swerve from side to side). You should",
+  "options": [
+   "ease off the accelerator slowly",
+   "steer sharply",
+   "accelerate to straighten it",
+   "brake hard"
+  ],
+  "answer": 0,
+  "explanation": "Let the speed fall gradually.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle loading",
+  "body": "When carrying a heavy load, you may need to",
+  "options": [
+   "adjust your tyre pressures and headlight aim",
+   "turn off the lights",
+   "remove the seat belts",
+   "drive faster to save time"
+  ],
+  "answer": 0,
+  "explanation": "Check the vehicle handbook.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle loading",
+  "body": "Who is responsible for making sure a vehicle is not overloaded?",
+  "options": [
+   "The owner of the goods only",
+   "The police",
+   "The passengers",
+   "The driver"
+  ],
+  "answer": 3,
+  "explanation": "Overloading affects handling and braking.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle loading",
+  "body": "A roof rack load should be",
+  "options": [
+   "securely fastened and not too heavy",
+   "loose so it can move",
+   "as high as possible",
+   "left uncovered in rain"
+  ],
+  "answer": 0,
+  "explanation": "Roof loads make the car less stable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle loading",
+  "body": "Pets in a car should be",
+  "options": [
+   "loose on the back seat",
+   "on the driver's lap",
+   "suitably restrained so they cannot distract you",
+   "in the boot of a saloon"
+  ],
+  "answer": 2,
+  "explanation": "A seat belt harness, carrier or dog guard is suitable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle loading",
+  "body": "A car towing a caravan or trailer on a motorway has a speed limit of",
+  "options": [
+   "60 mph",
+   "40 mph",
+   "50 mph",
+   "70 mph"
+  ],
+  "answer": 0,
+  "explanation": "It is 50 mph on single carriageways.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "According to the Highway Code, what is the typical overall stopping distance at 20 mph in good conditions?",
+  "options": [
+   "36 metres",
+   "23 metres",
+   "53 metres",
+   "12 metres"
+  ],
+  "answer": 3,
+  "explanation": "Thinking distance 6 m + braking distance 6 m = 12 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "According to the Highway Code, what is the typical thinking distance at 20 mph?",
+  "options": [
+   "15 metres",
+   "6 metres",
+   "12 metres",
+   "9 metres"
+  ],
+  "answer": 1,
+  "explanation": "At 20 mph the thinking distance is 6 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "According to the Highway Code, what is the typical braking distance at 20 mph on a dry road?",
+  "options": [
+   "6 metres",
+   "14 metres",
+   "38 metres",
+   "24 metres"
+  ],
+  "answer": 0,
+  "explanation": "At 20 mph the braking distance is 6 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "According to the Highway Code, what is the typical overall stopping distance at 30 mph in good conditions?",
+  "options": [
+   "36 metres",
+   "12 metres",
+   "23 metres",
+   "53 metres"
+  ],
+  "answer": 2,
+  "explanation": "Thinking distance 9 m + braking distance 14 m = 23 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "According to the Highway Code, what is the typical thinking distance at 30 mph?",
+  "options": [
+   "6 metres",
+   "15 metres",
+   "9 metres",
+   "12 metres"
+  ],
+  "answer": 2,
+  "explanation": "At 30 mph the thinking distance is 9 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "According to the Highway Code, what is the typical braking distance at 30 mph on a dry road?",
+  "options": [
+   "14 metres",
+   "38 metres",
+   "6 metres",
+   "24 metres"
+  ],
+  "answer": 0,
+  "explanation": "At 30 mph the braking distance is 14 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "According to the Highway Code, what is the typical overall stopping distance at 40 mph in good conditions?",
+  "options": [
+   "53 metres",
+   "12 metres",
+   "36 metres",
+   "23 metres"
+  ],
+  "answer": 2,
+  "explanation": "Thinking distance 12 m + braking distance 24 m = 36 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "According to the Highway Code, what is the typical thinking distance at 40 mph?",
+  "options": [
+   "12 metres",
+   "15 metres",
+   "9 metres",
+   "6 metres"
+  ],
+  "answer": 0,
+  "explanation": "At 40 mph the thinking distance is 12 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "According to the Highway Code, what is the typical braking distance at 40 mph on a dry road?",
+  "options": [
+   "24 metres",
+   "38 metres",
+   "14 metres",
+   "6 metres"
+  ],
+  "answer": 0,
+  "explanation": "At 40 mph the braking distance is 24 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "According to the Highway Code, what is the typical overall stopping distance at 50 mph in good conditions?",
+  "options": [
+   "36 metres",
+   "53 metres",
+   "12 metres",
+   "23 metres"
+  ],
+  "answer": 1,
+  "explanation": "Thinking distance 15 m + braking distance 38 m = 53 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "According to the Highway Code, what is the typical thinking distance at 50 mph?",
+  "options": [
+   "15 metres",
+   "6 metres",
+   "12 metres",
+   "9 metres"
+  ],
+  "answer": 0,
+  "explanation": "At 50 mph the thinking distance is 15 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "According to the Highway Code, what is the typical braking distance at 50 mph on a dry road?",
+  "options": [
+   "24 metres",
+   "38 metres",
+   "6 metres",
+   "14 metres"
+  ],
+  "answer": 1,
+  "explanation": "At 50 mph the braking distance is 38 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "According to the Highway Code, what is the typical overall stopping distance at 60 mph in good conditions?",
+  "options": [
+   "73 metres",
+   "23 metres",
+   "36 metres",
+   "12 metres"
+  ],
+  "answer": 0,
+  "explanation": "Thinking distance 18 m + braking distance 55 m = 73 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "According to the Highway Code, what is the typical thinking distance at 60 mph?",
+  "options": [
+   "9 metres",
+   "12 metres",
+   "6 metres",
+   "18 metres"
+  ],
+  "answer": 3,
+  "explanation": "At 60 mph the thinking distance is 18 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "According to the Highway Code, what is the typical braking distance at 60 mph on a dry road?",
+  "options": [
+   "24 metres",
+   "6 metres",
+   "55 metres",
+   "14 metres"
+  ],
+  "answer": 2,
+  "explanation": "At 60 mph the braking distance is 55 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "According to the Highway Code, what is the typical overall stopping distance at 70 mph in good conditions?",
+  "options": [
+   "12 metres",
+   "96 metres",
+   "36 metres",
+   "23 metres"
+  ],
+  "answer": 1,
+  "explanation": "Thinking distance 21 m + braking distance 75 m = 96 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "According to the Highway Code, what is the typical thinking distance at 70 mph?",
+  "options": [
+   "21 metres",
+   "9 metres",
+   "6 metres",
+   "12 metres"
+  ],
+  "answer": 0,
+  "explanation": "At 70 mph the thinking distance is 21 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "According to the Highway Code, what is the typical braking distance at 70 mph on a dry road?",
+  "options": [
+   "75 metres",
+   "6 metres",
+   "24 metres",
+   "14 metres"
+  ],
+  "answer": 0,
+  "explanation": "At 70 mph the braking distance is 75 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "Unless signs show otherwise, what is the speed limit for a car on a built-up area with street lights (England)?",
+  "options": [
+   "20 mph",
+   "30 mph",
+   "50 mph",
+   "40 mph"
+  ],
+  "answer": 1,
+  "explanation": "The limit for cars on a built-up area with street lights (England) is 30 mph.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle loading",
+  "body": "Unless signs show otherwise, what is the speed limit for a car towing a caravan or trailer on a built-up area with street lights (England)?",
+  "options": [
+   "30 mph",
+   "60 mph",
+   "50 mph",
+   "40 mph"
+  ],
+  "answer": 0,
+  "explanation": "Cars towing are limited to 30 mph on a built-up area with street lights (England).",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "Unless signs show otherwise, what is the speed limit for a car on a single carriageway?",
+  "options": [
+   "30 mph",
+   "20 mph",
+   "40 mph",
+   "60 mph"
+  ],
+  "answer": 3,
+  "explanation": "The limit for cars on a single carriageway is 60 mph.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle loading",
+  "body": "Unless signs show otherwise, what is the speed limit for a car towing a caravan or trailer on a single carriageway?",
+  "options": [
+   "60 mph",
+   "50 mph",
+   "30 mph",
+   "40 mph"
+  ],
+  "answer": 1,
+  "explanation": "Cars towing are limited to 50 mph on a single carriageway.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "Unless signs show otherwise, what is the speed limit for a car on a dual carriageway?",
+  "options": [
+   "70 mph",
+   "20 mph",
+   "40 mph",
+   "30 mph"
+  ],
+  "answer": 0,
+  "explanation": "The limit for cars on a dual carriageway is 70 mph.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle loading",
+  "body": "Unless signs show otherwise, what is the speed limit for a car towing a caravan or trailer on a dual carriageway?",
+  "options": [
+   "30 mph",
+   "50 mph",
+   "60 mph",
+   "40 mph"
+  ],
+  "answer": 2,
+  "explanation": "Cars towing are limited to 60 mph on a dual carriageway.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "Unless signs show otherwise, what is the speed limit for a car on a motorway?",
+  "options": [
+   "70 mph",
+   "40 mph",
+   "20 mph",
+   "30 mph"
+  ],
+  "answer": 0,
+  "explanation": "The limit for cars on a motorway is 70 mph.",
+  "difficulty": 1
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle loading",
+  "body": "Unless signs show otherwise, what is the speed limit for a car towing a caravan or trailer on a motorway?",
+  "options": [
+   "60 mph",
+   "50 mph",
+   "30 mph",
+   "40 mph"
+  ],
+  "answer": 0,
+  "explanation": "Cars towing are limited to 60 mph on a motorway.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "The typical stopping distance at 30 mph is 23 m in the dry. Roughly how far could it be on a wet road?",
+  "options": [
+   "About 23 metres",
+   "About 46 metres",
+   "About 230 metres",
+   "About 12 metres"
+  ],
+  "answer": 1,
+  "explanation": "Stopping distances at least double in the wet: 23 × 2 ≈ 46 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "The typical stopping distance at 50 mph is 53 m in the dry. Roughly how far could it be on a wet road?",
+  "options": [
+   "About 530 metres",
+   "About 27 metres",
+   "About 53 metres",
+   "About 106 metres"
+  ],
+  "answer": 3,
+  "explanation": "Stopping distances at least double in the wet: 53 × 2 ≈ 106 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "The typical stopping distance at 70 mph is 96 m in the dry. Roughly how far could it be on a wet road?",
+  "options": [
+   "About 192 metres",
+   "About 960 metres",
+   "About 96 metres",
+   "About 48 metres"
+  ],
+  "answer": 0,
+  "explanation": "Stopping distances at least double in the wet: 96 × 2 ≈ 192 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "The typical stopping distance at 60 mph is 73 m in the dry. Roughly how far could it be on a wet road?",
+  "options": [
+   "About 73 metres",
+   "About 146 metres",
+   "About 37 metres",
+   "About 730 metres"
+  ],
+  "answer": 1,
+  "explanation": "Stopping distances at least double in the wet: 73 × 2 ≈ 146 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "The typical stopping distance at 40 mph is 36 m in the dry. Roughly how far could it be on a wet road?",
+  "options": [
+   "About 72 metres",
+   "About 18 metres",
+   "About 360 metres",
+   "About 36 metres"
+  ],
+  "answer": 0,
+  "explanation": "Stopping distances at least double in the wet: 36 × 2 ≈ 72 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety margins",
+  "body": "The typical stopping distance at 20 mph is 12 m in the dry. Roughly how far could it be on a wet road?",
+  "options": [
+   "About 6 metres",
+   "About 24 metres",
+   "About 120 metres",
+   "About 12 metres"
+  ],
+  "answer": 1,
+  "explanation": "Stopping distances at least double in the wet: 12 × 2 ≈ 24 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "When turning right at a crossroads where an oncoming vehicle is also turning right, the Highway Code's usual method is to",
+  "options": [
+   "wait until the junction is completely empty every time",
+   "turn in front of it as fast as possible",
+   "pass offside to offside (keep the other vehicle on your right)",
+   "pass nearside to nearside without looking"
+  ],
+  "answer": 2,
+  "explanation": "Road layout or markings may make nearside to nearside necessary; check for oncoming traffic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "On a two-lane dual carriageway, you should normally drive in",
+  "options": [
+   "whichever lane is emptiest",
+   "the left-hand lane, using the right-hand lane for overtaking or turning right",
+   "the middle of both lanes",
+   "the right-hand lane"
+  ],
+  "answer": 1,
+  "explanation": "Return to the left lane when it is safe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "At an unmarked crossroads, who has priority?",
+  "options": [
+   "Traffic from the right",
+   "The larger vehicle",
+   "No one",
+   "Traffic going straight on"
+  ],
+  "answer": 2,
+  "explanation": "Treat it with great care and be ready to give way.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "At a 'stop' sign with a solid white line, you must",
+  "options": [
+   "stop at the line even if the road looks clear",
+   "sound your horn and proceed",
+   "slow down and go if clear",
+   "give way only to lorries"
+  ],
+  "answer": 0,
+  "explanation": "Then go when it is safe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "You are waiting to turn right from a main road into a side road. Where should you position your car?",
+  "options": [
+   "Close to the left kerb",
+   "In the oncoming lane",
+   "Just left of the centre of the road",
+   "On the pavement"
+  ],
+  "answer": 2,
+  "explanation": "This lets traffic pass on your left.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "On a mini-roundabout, you should",
+  "options": [
+   "drive straight over the middle",
+   "give way to traffic from the right and avoid driving over the central marking if possible",
+   "always stop",
+   "give priority to traffic from the left"
+  ],
+  "answer": 1,
+  "explanation": "Large vehicles may have to drive over it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "Where is the safest place to overtake a cyclist?",
+  "options": [
+   "Near a junction",
+   "On a narrow bridge",
+   "On a straight, clear road where you can leave at least 1.5 m",
+   "On a bend"
+  ],
+  "answer": 2,
+  "explanation": "Wait behind if you can't pass safely.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "A one-way street has two lanes. To turn right at the end, you should normally use",
+  "options": [
+   "either lane",
+   "the left-hand lane",
+   "the bus lane",
+   "the right-hand lane"
+  ],
+  "answer": 3,
+  "explanation": "Choose your lane early.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "When may you overtake on the left?",
+  "options": [
+   "Never",
+   "On a motorway whenever you want",
+   "Whenever traffic is slow",
+   "When the vehicle ahead is signalling to turn right and there is room"
+  ],
+  "answer": 3,
+  "explanation": "Also in slow-moving queues where the left lane moves faster.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "When should you use the right-hand lane of a three-lane motorway?",
+  "options": [
+   "Only for overtaking",
+   "For cruising at 70 mph",
+   "When towing",
+   "For leaving at the next exit"
+  ],
+  "answer": 0,
+  "explanation": "Return to the left when you have passed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "You should use dipped headlights during the day when",
+  "options": [
+   "visibility is seriously reduced",
+   "you are in a 20 mph zone",
+   "you are parked",
+   "it is sunny"
+  ],
+  "answer": 0,
+  "explanation": "Make sure others can see you.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "A police officer in a car behind you flashes headlights and points to the left. You should",
+  "options": [
+   "ignore it",
+   "speed up",
+   "turn left at the next junction",
+   "pull up on the left when it is safe"
+  ],
+  "answer": 3,
+  "explanation": "Stop safely as soon as you can.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "An arm signal moved up and down from the driver's window means",
+  "options": [
+   "you can overtake",
+   "I intend to slow down or stop",
+   "I intend to turn right",
+   "I intend to turn left"
+  ],
+  "answer": 1,
+  "explanation": "Arm signals can back up indicators.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "You should signal",
+  "options": [
+   "after you have turned",
+   "only when another car is very close",
+   "never on roundabouts",
+   "to let other road users know your intentions, in good time"
+  ],
+  "answer": 3,
+  "explanation": "Cancel the signal afterwards.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "Emergency vehicles approach with blue lights. You should",
+  "options": [
+   "mount the pavement immediately",
+   "help them pass, without breaking the law or putting others at risk",
+   "brake sharply in the middle of a junction",
+   "go through a red light"
+  ],
+  "answer": 1,
+  "explanation": "Stay calm and look for a safe place to pull over.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "Where must you NOT park?",
+  "options": [
+   "In a lay-by",
+   "In a marked parking bay",
+   "On the zigzag lines of a pedestrian crossing",
+   "In a car park"
+  ],
+  "answer": 2,
+  "explanation": "Other places include near the brow of a hill and opposite a junction.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "When parking on a hill facing downhill with a kerb, you should",
+  "options": [
+   "turn the wheels away from the kerb",
+   "leave the engine running",
+   "leave the car in neutral",
+   "turn the wheels towards the kerb and apply the parking brake"
+  ],
+  "answer": 3,
+  "explanation": "If the brake fails, the kerb stops the car.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "Before you get out of a parked car, you should",
+  "options": [
+   "check for cyclists and other traffic before opening the door",
+   "sound the horn",
+   "use your mirrors only",
+   "open the door quickly"
+  ],
+  "answer": 0,
+  "explanation": "The 'Dutch reach' helps.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Rules of the road",
+  "body": "At night, you must not park on a road facing",
+  "options": [
+   "against the direction of traffic",
+   "the same direction as traffic",
+   "a bus stop sign",
+   "a lamp post"
+  ],
+  "answer": 0,
+  "explanation": "Your rear reflectors must face oncoming traffic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "A white line across the road at a junction with 'Give Way' markings (broken double white lines) means",
+  "options": [
+   "give way to traffic on the major road",
+   "you have priority",
+   "stop always",
+   "no entry"
+  ],
+  "answer": 0,
+  "explanation": "An inverted triangle may also be painted on the road.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "A long white line with short gaps in the centre of the road is a",
+  "options": [
+   "no-overtaking line",
+   "lane line",
+   "parking marking",
+   "hazard warning line"
+  ],
+  "answer": 3,
+  "explanation": "Do not cross it unless you can see the road is clear well ahead.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "A sign showing a red circle with a white horizontal bar means",
+  "options": [
+   "bus lane",
+   "no entry for vehicular traffic",
+   "one-way street",
+   "no parking"
+  ],
+  "answer": 1,
+  "explanation": "Do not enter from this direction.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "A blue circle with a white arrow pointing left means",
+  "options": [
+   "turn left (ahead)",
+   "one-way traffic",
+   "keep right",
+   "no left turn"
+  ],
+  "answer": 0,
+  "explanation": "Blue circles give mandatory instructions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "A rectangular blue sign with a white arrow pointing up shows",
+  "options": [
+   "a one-way street",
+   "a motorway",
+   "no entry",
+   "ahead only (mandatory)"
+  ],
+  "answer": 0,
+  "explanation": "Blue rectangles give information.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "Red and white chevron signs on a bend show",
+  "options": [
+   "a speed camera",
+   "a level crossing",
+   "a sharp deviation of the route",
+   "the end of a motorway"
+  ],
+  "answer": 2,
+  "explanation": "Slow down before the bend.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "A sign with a red border triangle showing a children symbol warns of",
+  "options": [
+   "a zebra crossing only",
+   "a school or area where children may be crossing",
+   "a hospital",
+   "a playground for adults"
+  ],
+  "answer": 1,
+  "explanation": "Slow down and be ready to stop.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "A triangular warning sign showing a gate before a railway symbol means",
+  "options": [
+   "a level crossing without a barrier",
+   "a toll road",
+   "a level crossing with a barrier or gate ahead",
+   "a tram stop"
+  ],
+  "answer": 2,
+  "explanation": "A steam-train symbol shows a crossing without a barrier.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "Yellow lines painted across the road (rumble or 'yellow bar' markings) on the approach to a roundabout are there to",
+  "options": [
+   "make you aware of your speed",
+   "mark a box junction",
+   "mark parking spaces",
+   "show a bus lane"
+  ],
+  "answer": 0,
+  "explanation": "They encourage you to slow down.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "Traffic lights showing red and amber together mean",
+  "options": [
+   "stop — do not go until green shows",
+   "the lights are faulty",
+   "give way to the right",
+   "go if the junction is clear"
+  ],
+  "answer": 0,
+  "explanation": "Green comes next.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Road and traffic signs",
+  "body": "Flashing red lights at a fire station, level crossing or swing bridge mean",
+  "options": [
+   "give way to the left",
+   "you must stop",
+   "proceed with caution",
+   "slow down"
+  ],
+  "answer": 1,
+  "explanation": "Wait until they stop flashing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Motorway rules",
+  "body": "Which of these must NOT use a motorway?",
+  "options": [
+   "Learner motorcyclists",
+   "Cars towing caravans",
+   "Vans",
+   "Coaches"
+  ],
+  "answer": 0,
+  "explanation": "Also pedestrians, cyclists, horse riders and slow vehicles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Motorway rules",
+  "body": "Flashing amber lights on a motorway gantry warn of",
+  "options": [
+   "a service area",
+   "a hazard ahead — the speed limit shown may be lower",
+   "a speed camera only",
+   "the end of the motorway"
+  ],
+  "answer": 1,
+  "explanation": "Adjust your speed and look out for the hazard.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Motorway rules",
+  "body": "On a smart motorway, emergency areas are marked with",
+  "options": [
+   "green signs",
+   "a red X",
+   "brown tourist signs",
+   "orange signs and an orange surface"
+  ],
+  "answer": 3,
+  "explanation": "They have an SOS phone.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Motorway rules",
+  "body": "If you break down on a motorway hard shoulder, you should",
+  "options": [
+   "try to repair it in the lane",
+   "get out on the passenger side and wait behind the barrier if safe",
+   "stay in the driver's seat",
+   "walk along the carriageway"
+  ],
+  "answer": 1,
+  "explanation": "Leave animals in the car unless in an emergency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Motorway rules",
+  "body": "Driving in heavy motorway traffic, you notice a ramp meter (traffic lights) on the slip road. They are there to",
+  "options": [
+   "stop traffic for pedestrians",
+   "show a closed exit",
+   "mark a toll booth",
+   "control the flow of traffic joining the motorway"
+  ],
+  "answer": 3,
+  "explanation": "Wait for green.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Motorway rules",
+  "body": "Why should you leave a large gap from the vehicle in front on a motorway?",
+  "options": [
+   "To save fuel only",
+   "To let others cut in",
+   "To have enough time to react and stop safely at high speed",
+   "Because the law requires 100 m"
+  ],
+  "answer": 2,
+  "explanation": "Use the two-second rule.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle handling",
+  "body": "When driving at night, you should",
+  "options": [
+   "drive with lights off in towns",
+   "use dipped headlights if dazzling other road users with full beam",
+   "use only sidelights",
+   "always use full beam"
+  ],
+  "answer": 1,
+  "explanation": "Dip your lights for oncoming and preceding traffic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle handling",
+  "body": "If you are dazzled by oncoming headlights at night, you should",
+  "options": [
+   "flash your lights back",
+   "speed up",
+   "close your eyes briefly",
+   "slow down or stop"
+  ],
+  "answer": 3,
+  "explanation": "Never retaliate with full beam.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle handling",
+  "body": "On a wet road where aquaplaning is a risk, the safest thing to do beforehand is",
+  "options": [
+   "steer sharply",
+   "brake hard in the water",
+   "increase speed to get through water",
+   "reduce speed"
+  ],
+  "answer": 3,
+  "explanation": "Slower speeds reduce aquaplaning risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle handling",
+  "body": "In icy conditions, the steering feels very light. This probably means",
+  "options": [
+   "your steering is broken",
+   "the tyres have lost grip on ice",
+   "the brakes are too strong",
+   "your tyres are over-inflated"
+  ],
+  "answer": 1,
+  "explanation": "Ease off and avoid sudden movements.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle handling",
+  "body": "When driving through deep water, you should",
+  "options": [
+   "drive slowly in a low gear",
+   "drive fast to create a bow wave",
+   "stop in the middle",
+   "use cruise control"
+  ],
+  "answer": 0,
+  "explanation": "Test your brakes afterwards.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle handling",
+  "body": "When following another vehicle in fog, you should",
+  "options": [
+   "follow its tail lights closely",
+   "overtake at once",
+   "keep a safe distance and be able to stop within the distance you can see",
+   "use full beam"
+  ],
+  "answer": 2,
+  "explanation": "Slow down; fog can thicken quickly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vehicle handling",
+  "body": "Your windscreen mists up. You should",
+  "options": [
+   "ignore it",
+   "wipe a small hole and drive",
+   "use the demister and wait until it is clear before driving",
+   "drive with the window down only"
+  ],
+  "answer": 2,
+  "explanation": "You must be able to see clearly through all windows.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Hazard awareness",
+  "body": "You are driving past a line of parked cars and see a ball bounce between them. What hazard should you expect?",
+  "options": [
+   "A car pulling out",
+   "A traffic light changing",
+   "A child running out",
+   "A cyclist overtaking"
+  ],
+  "answer": 2,
+  "explanation": "Slow down and be ready to stop.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Hazard awareness",
+  "body": "Driving near a school at going-home time, you should",
+  "options": [
+   "speed up to get past",
+   "sound your horn as you pass",
+   "slow down and watch for children and parked cars",
+   "overtake buses"
+  ],
+  "answer": 2,
+  "explanation": "Children may be distracted.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Hazard awareness",
+  "body": "A car ahead is driving erratically and drifting across the lane. You should",
+  "options": [
+   "overtake it closely",
+   "follow very closely",
+   "flash your lights repeatedly",
+   "stay well back and report it to the police if necessary"
+  ],
+  "answer": 3,
+  "explanation": "The driver may be ill, tired or impaired.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Hazard awareness",
+  "body": "Approaching a narrow bridge with traffic lights, the lights are red. You should",
+  "options": [
+   "wait until they turn green",
+   "sound your horn and go",
+   "reverse",
+   "go if no traffic is coming"
+  ],
+  "answer": 0,
+  "explanation": "The bridge may only allow one-way traffic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Hazard awareness",
+  "body": "Which is most likely to make you tired while driving?",
+  "options": [
+   "Fresh air from the vents",
+   "A short journey in the morning",
+   "Regular breaks",
+   "A long journey in a warm car at night"
+  ],
+  "answer": 3,
+  "explanation": "Plan breaks and stop if tired.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Hazard awareness",
+  "body": "Why should you avoid sudden braking on a downhill road?",
+  "options": [
+   "It saves fuel",
+   "You could lose control and skid",
+   "It is illegal",
+   "It always improves grip"
+  ],
+  "answer": 1,
+  "explanation": "Brake gently and early.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vulnerable road users",
+  "body": "When should you take extra care for motorcyclists?",
+  "options": [
+   "Only at night",
+   "At junctions and when changing lanes",
+   "Never — they are always visible",
+   "Only on motorways"
+  ],
+  "answer": 1,
+  "explanation": "Look twice for bikes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vulnerable road users",
+  "body": "A horse rider is in the left lane approaching a roundabout and signalling right. You should",
+  "options": [
+   "pull alongside",
+   "be prepared for them to stay in the left lane and keep well back",
+   "sound your horn",
+   "overtake on the right"
+  ],
+  "answer": 1,
+  "explanation": "Horse riders often keep left at roundabouts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vulnerable road users",
+  "body": "Before turning left across a cycle lane, you should",
+  "options": [
+   "check for cyclists on your left and give way to them",
+   "use only your right mirror",
+   "turn quickly",
+   "sound your horn"
+  ],
+  "answer": 0,
+  "explanation": "Do not cut across cyclists going straight ahead.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vulnerable road users",
+  "body": "Why should you be cautious near an animal-drawn vehicle or a flock of sheep?",
+  "options": [
+   "They always move fast",
+   "They are never on roads",
+   "They have right of way only at night",
+   "Animals can behave unpredictably"
+  ],
+  "answer": 3,
+  "explanation": "Drive slowly and do not sound your horn.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Vulnerable road users",
+  "body": "You see a person with a guide dog at the kerb. You should",
+  "options": [
+   "sound your horn to warn them",
+   "speed up",
+   "be ready to stop — they may intend to cross",
+   "wave them across"
+  ],
+  "answer": 2,
+  "explanation": "Be patient and give them time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety and your vehicle",
+  "body": "Driving with under-inflated tyres can",
+  "options": [
+   "reduce tyre wear",
+   "make steering lighter and safer",
+   "increase fuel consumption and reduce grip",
+   "improve braking"
+  ],
+  "answer": 2,
+  "explanation": "Check pressures regularly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety and your vehicle",
+  "body": "Your vehicle pulls to one side when braking. This is likely to be",
+  "options": [
+   "caused by low fuel",
+   "caused by a dirty windscreen",
+   "normal",
+   "a brake fault"
+  ],
+  "answer": 3,
+  "explanation": "Have it checked as soon as possible.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety and your vehicle",
+  "body": "Which lights must work on your car?",
+  "options": [
+   "Only brake lights",
+   "All required lights, including headlights, brake lights and indicators",
+   "Only lights you use at night",
+   "Only headlights"
+  ],
+  "answer": 1,
+  "explanation": "Check them regularly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety and your vehicle",
+  "body": "Why is it dangerous to leave items loose on a parcel shelf?",
+  "options": [
+   "They could fly forward and injure someone in a sudden stop",
+   "They use more fuel",
+   "They set off alarms",
+   "They block the radio"
+  ],
+  "answer": 0,
+  "explanation": "Secure loose items.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety and your vehicle",
+  "body": "Before a long journey, which checks should you make?",
+  "options": [
+   "Only the radio",
+   "Fuel, oil, water, tyres and lights",
+   "None if the car is new",
+   "Only the fuel"
+  ],
+  "answer": 1,
+  "explanation": "Remember the acronym POWDER: petrol, oil, water, damage, electrics, rubber.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Safety and your vehicle",
+  "body": "Who is responsible for making sure a vehicle is roadworthy?",
+  "options": [
+   "The DVLA",
+   "The garage that last serviced it",
+   "The driver",
+   "The passengers"
+  ],
+  "answer": 2,
+  "explanation": "Drivers can be prosecuted for unroadworthy vehicles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Documents",
+  "body": "Which document shows who is the registered keeper of a vehicle?",
+  "options": [
+   "The V5C (vehicle log book)",
+   "The driving licence",
+   "The insurance certificate",
+   "The MOT certificate"
+  ],
+  "answer": 0,
+  "explanation": "Keep it up to date.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Documents",
+  "body": "How long must a learner driver hold a provisional licence before taking the practical test?",
+  "options": [
+   "1 year",
+   "6 months",
+   "There is no minimum time — they must first pass the theory test",
+   "2 years"
+  ],
+  "answer": 2,
+  "explanation": "The theory test pass is valid for 2 years.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Documents",
+  "body": "A theory test pass certificate is valid for",
+  "options": [
+   "5 years",
+   "life",
+   "6 months",
+   "2 years"
+  ],
+  "answer": 3,
+  "explanation": "You must pass the practical test within this time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Documents",
+  "body": "Driving without insurance can lead to",
+  "options": [
+   "a £10 fine",
+   "no penalty for first-time drivers",
+   "a warning letter only",
+   "an unlimited fine, penalty points and the vehicle being seized"
+  ],
+  "answer": 3,
+  "explanation": "It is also unfair on other road users.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Documents",
+  "body": "Your car fails its MOT on a dangerous fault. You",
+  "options": [
+   "must not drive it until the fault is repaired",
+   "can drive it for 30 days",
+   "can drive it until your old MOT expires",
+   "can drive it if you go slowly"
+  ],
+  "answer": 0,
+  "explanation": "Dangerous faults make the vehicle illegal to drive.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Incidents and emergencies",
+  "body": "At the scene of an incident, an injured person is not breathing. You should",
+  "options": [
+   "wait without acting",
+   "give them water",
+   "call 999 and start CPR",
+   "move them into the road"
+  ],
+  "answer": 2,
+  "explanation": "Use an AED if one is available.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Incidents and emergencies",
+  "body": "A casualty is bleeding heavily from a leg. You should",
+  "options": [
+   "leave them alone",
+   "give them a drink",
+   "apply firm pressure to the wound",
+   "remove any embedded objects"
+  ],
+  "answer": 2,
+  "explanation": "Raise the limb if no bones are broken.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Incidents and emergencies",
+  "body": "A casualty is in shock. You should",
+  "options": [
+   "give them a hot drink",
+   "keep them warm, reassure them and not give them anything to drink",
+   "leave them alone",
+   "make them walk"
+  ],
+  "answer": 1,
+  "explanation": "Call for help.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Incidents and emergencies",
+  "body": "Your car breaks down on a level crossing and a train is coming. You should",
+  "options": [
+   "get everyone out and away immediately",
+   "push it across",
+   "stay inside with seat belts on",
+   "try to restart the car"
+  ],
+  "answer": 0,
+  "explanation": "Move well clear of the crossing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DRV",
+  "topic": "Incidents and emergencies",
+  "body": "If a tyre bursts while driving, you should",
+  "options": [
+   "accelerate",
+   "steer sharply",
+   "hold the steering wheel firmly and let the car slow down gradually",
+   "brake hard immediately"
+  ],
+  "answer": 2,
+  "explanation": "Stop in a safe place.",
+  "difficulty": 2
+ }
+]
