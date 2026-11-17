@@ -1,0 +1,132 @@
+// Growth batch for the thinnest Gulf banks: dental (DEN), physiotherapy (PHT), lab (LAB),
+// Dubai Person in Charge food safety (PIC) and Dubai SIRA security guard (SRA).
+// Standard textbook and international practice only.
+import { mcq, Q } from "./lib";
+
+type F = [string, string, string, string[], string];
+const facts = (code: string, list: F[], d: 1 | 2 | 3 = 2) => list.map(([t, b, c, x, e]) => mcq(code, t, b, c, x, e, d));
+
+const DEN: F[] = [
+  ["Dental anatomy", "Which permanent tooth usually has the longest root?", "maxillary canine", ["mandibular central incisor", "maxillary first molar", "mandibular second premolar"], "Its long root makes it a strong abutment."],
+  ["Dental anatomy", "The maxillary first molar usually has how many roots?", "3", ["1", "2", "4"], "Two buccal roots and one palatal root."],
+  ["Dental anatomy", "The mandibular first molar usually has how many roots?", "2", ["1", "3", "4"], "A mesial and a distal root."],
+  ["Dental anatomy", "The Carabelli cusp is usually found on the", "palatal surface of the maxillary first molar", ["lower canine", "lower first premolar", "upper central incisor"], "It is a minor extra cusp."],
+  ["Dental anatomy", "Which tissue attaches the tooth root to the alveolar bone?", "periodontal ligament", ["enamel", "pulp", "gingival epithelium"], "Its fibres insert into cementum and bone."],
+  ["Dental anatomy", "In FDI notation, tooth 36 is the", "lower left first molar", ["upper right first molar", "lower right first molar", "upper left canine"], "Quadrant 3 is lower left; tooth 6 is the first molar."],
+  ["Cariology", "The critical pH below which enamel begins to dissolve is about", "5.5", ["7.4", "8.5", "3.0"], "Frequent sugar intake keeps plaque pH low for longer."],
+  ["Cariology", "Pit and fissure sealants are mainly placed on", "the occlusal surfaces of molars", ["the labial surfaces of incisors", "root surfaces", "the palate"], "They protect deep grooves from caries."],
+  ["Operative", "Dental amalgam is mainly an alloy of mercury with", "silver, tin and copper", ["gold and platinum", "iron and zinc", "aluminium and lead"], "High-copper alloys resist corrosion."],
+  ["Operative", "Composite resin is typically set by", "blue light curing", ["heating in an oven", "mixing with water", "ultrasound"], "Most use camphorquinone as the photoinitiator."],
+  ["Operative", "Etching enamel with phosphoric acid before bonding is usually done with a concentration of about", "35–37%", ["1–2%", "70–80%", "100%"], "It creates micro-retention for the resin."],
+  ["Operative", "A Class V cavity is found on", "the cervical third of facial or lingual surfaces", ["occlusal pits", "proximal surfaces of molars", "incisal edges"], "Common with abrasion or root caries."],
+  ["Endodontics", "Calcium hydroxide is commonly used as", "an intracanal medicament and pulp-capping agent", ["a root filling material on its own", "an impression material", "an anaesthetic"], "MTA is another pulp-capping material."],
+  ["Endodontics", "An abscess at the root apex usually shows on a radiograph as", "a periapical radiolucency", ["a radiopaque crown", "an enlarged pulp chamber only", "nothing visible ever"], "Bone loss appears dark."],
+  ["Periodontics", "The bacterium most associated with chronic periodontitis is", "Porphyromonas gingivalis", ["Streptococcus mutans", "Lactobacillus", "Candida albicans"], "It is a Gram-negative anaerobe."],
+  ["Periodontics", "Scaling and root planing removes", "calculus and plaque from tooth and root surfaces", ["enamel", "the periodontal ligament", "healthy gingiva"], "It is the core non-surgical periodontal treatment."],
+  ["Periodontics", "Chlorhexidine mouthwash is commonly used at a concentration of", "0.12–0.2%", ["5%", "20%", "50%"], "Long-term use can stain teeth."],
+  ["Local anaesthesia", "The most commonly used dental local anaesthetic is", "lidocaine (lignocaine) with adrenaline", ["morphine", "propofol", "ketamine"], "Articaine is also widely used."],
+  ["Local anaesthesia", "Adrenaline is added to local anaesthetic to", "constrict blood vessels and prolong the anaesthetic effect", ["speed up the onset of pain", "reverse the anaesthesia", "act as an antibiotic"], "It also reduces bleeding."],
+  ["Radiology", "Bitewing radiographs are mainly used to detect", "interproximal caries and crestal bone levels", ["jaw fractures only", "the full skull", "wisdom tooth roots only"], "Periapicals show the whole tooth and apex."],
+  ["Prosthodontics", "Alginate is an", "irreversible hydrocolloid impression material", ["elastomer", "cement", "denture base resin"], "Pour models quickly because it distorts."],
+  ["Medical emergencies", "The most common medical emergency in the dental chair is", "vasovagal syncope (fainting)", ["anaphylaxis", "cardiac arrest", "stroke"], "Lay the patient flat and raise the legs."],
+  ["Medical emergencies", "For anaphylaxis in an adult, the first-line drug is", "intramuscular adrenaline 0.5 mg (1:1000)", ["oral antihistamine", "IV paracetamol", "aspirin"], "Give into the anterolateral thigh and call for help."],
+  ["Infection control", "A standard steam autoclave cycle is commonly", "134 °C for at least 3 minutes", ["60 °C for 1 minute", "100 °C for 30 seconds", "200 °C for 2 hours"], "121 °C cycles need about 15 minutes."],
+];
+
+const PHT: F[] = [
+  ["Musculoskeletal", "Normal knee flexion range of motion is about", "0–135 degrees", ["0–45 degrees", "0–90 degrees", "0–200 degrees"], "Full extension is 0 degrees."],
+  ["Musculoskeletal", "The anterior drawer test of the ankle assesses the", "anterior talofibular ligament", ["Achilles tendon", "deltoid ligament", "plantar fascia"], "It is often torn in inversion sprains."],
+  ["Musculoskeletal", "Thompson's (Simmonds') test checks for", "Achilles tendon rupture", ["ACL rupture", "meniscal tear", "rotator cuff tear"], "Squeezing the calf normally plantarflexes the foot."],
+  ["Musculoskeletal", "Phalen's test is used to assess", "carpal tunnel syndrome", ["tennis elbow", "De Quervain's tenosynovitis", "frozen shoulder"], "Hold the wrists in full flexion."],
+  ["Musculoskeletal", "Finkelstein's test is positive in", "De Quervain's tenosynovitis", ["carpal tunnel syndrome", "golfer's elbow", "trigger finger"], "It affects abductor pollicis longus and extensor pollicis brevis."],
+  ["Musculoskeletal", "The straight leg raise test mainly assesses", "lumbar nerve root irritation", ["hip osteoarthritis", "knee ligament stability", "shoulder impingement"], "Pain between about 30 and 70 degrees suggests sciatica."],
+  ["Musculoskeletal", "The Hawkins–Kennedy test assesses", "subacromial (shoulder) impingement", ["ACL rupture", "ankle instability", "carpal tunnel"], "Internal rotation with the arm at 90 degrees flexion."],
+  ["Musculoskeletal", "The primary action of the quadriceps is", "knee extension", ["knee flexion", "hip extension", "ankle plantarflexion"], "Rectus femoris also flexes the hip."],
+  ["Musculoskeletal", "The muscle that initiates shoulder abduction is the", "supraspinatus", ["latissimus dorsi", "pectoralis major", "teres major"], "The deltoid takes over after the first 15 degrees or so."],
+  ["Peripheral nerves", "Claw hand is classically caused by a lesion of the", "ulnar nerve", ["radial nerve", "axillary nerve", "musculocutaneous nerve"], "The intrinsic hand muscles are weak."],
+  ["Peripheral nerves", "Winged scapula is caused by weakness of serratus anterior, supplied by the", "long thoracic nerve", ["suprascapular nerve", "axillary nerve", "radial nerve"], "Often injured in surgery or heavy lifting."],
+  ["Peripheral nerves", "Klumpke's palsy involves nerve roots", "C8–T1", ["C5–C6", "L4–L5", "S1–S2"], "It causes a claw hand."],
+  ["Neurology", "After a stroke, increased tone with a velocity-dependent resistance to stretch is", "spasticity", ["flaccidity", "ataxia", "rigidity"], "Rigidity is not velocity-dependent."],
+  ["Neurology", "Intention tremor and poor coordination suggest damage to the", "cerebellum", ["basal ganglia", "spinal cord only", "peripheral nerves"], "Ataxia is a cerebellar sign."],
+  ["Neurology", "The Berg Balance Scale is scored out of", "56", ["10", "20", "100"], "Scores below about 45 suggest a higher falls risk."],
+  ["Cardiorespiratory", "Postural drainage uses positioning to", "drain secretions from specific lung segments", ["lower blood pressure", "strengthen leg muscles", "improve vision"], "Gravity helps clear sputum."],
+  ["Cardiorespiratory", "Normal adult resting respiratory rate is about", "12–20 breaths per minute", ["4–6 breaths per minute", "30–40 breaths per minute", "60 breaths per minute"], "Watch for rates above 20 at rest."],
+  ["Cardiorespiratory", "Maximum heart rate is commonly estimated as", "220 minus age", ["180 minus age", "100 plus age", "age multiplied by 2"], "Training zones are a percentage of this."],
+  ["Electrotherapy", "Cryotherapy (ice) in the acute phase of injury mainly", "reduces pain and limits swelling", ["increases blood flow", "speeds up inflammation", "heats deep tissue"], "Protect the skin with a cloth."],
+  ["Electrotherapy", "Heat therapy is contraindicated over", "an acute injury with active inflammation", ["chronic stiff muscles", "healthy skin", "a stiff joint"], "Heat increases blood flow and swelling."],
+  ["Exercise", "Isometric exercise means the muscle", "contracts without changing length or moving the joint", ["lengthens under load", "shortens under load", "does not contract"], "Useful early after injury."],
+  ["Exercise", "An eccentric contraction is one where the muscle", "lengthens while under tension", ["shortens", "stays the same length", "relaxes completely"], "Used in tendinopathy programmes."],
+  ["Gait", "The stance phase of normal walking makes up about", "60% of the gait cycle", ["20%", "40%", "90%"], "Swing is about 40%."],
+  ["Mobility aids", "When using a cane, the patient should hold it", "in the hand opposite the affected leg", ["in the hand on the same side as the affected leg", "with both hands", "under the arm"], "Move it forward with the affected leg."],
+];
+
+const LAB: F[] = [
+  ["Clinical chemistry", "Raised ALT and AST mainly indicate", "liver cell damage", ["kidney failure", "thyroid disease", "bone disease"], "ALT is more liver-specific."],
+  ["Clinical chemistry", "A high TSH with a low free T4 indicates", "primary hypothyroidism", ["hyperthyroidism", "normal thyroid function", "Cushing's syndrome"], "The pituitary is trying to stimulate a failing thyroid."],
+  ["Clinical chemistry", "A fasting plasma glucose of 7.0 mmol/L or more on two occasions suggests", "diabetes mellitus", ["normal glucose", "hypoglycaemia", "anaemia"], "HbA1c of 48 mmol/mol (6.5%) or more also indicates diabetes."],
+  ["Clinical chemistry", "Bilirubin is a breakdown product of", "haemoglobin", ["glucose", "urea", "cholesterol"], "Raised levels cause jaundice."],
+  ["Clinical chemistry", "Serum samples should be protected from light when testing for", "bilirubin", ["sodium", "potassium", "urea"], "Light breaks bilirubin down."],
+  ["Haematology", "The normal adult platelet count is about", "150–400 × 10⁹/L", ["10–50 × 10⁹/L", "1,000–2,000 × 10⁹/L", "4–11 × 10⁹/L"], "4–11 × 10⁹/L is the normal white cell count."],
+  ["Haematology", "Neutrophilia (raised neutrophils) commonly suggests", "bacterial infection", ["viral infection only", "allergy", "parasitic infection only"], "Eosinophilia suggests allergy or parasites."],
+  ["Haematology", "Malaria parasites are identified on", "thick and thin Giemsa-stained blood films", ["Gram stain", "urine culture", "Ziehl–Neelsen stain"], "Rapid antigen tests also exist."],
+  ["Haematology", "The ESR measures", "how fast red cells settle in a tube over one hour", ["red cell size", "platelet function", "clotting time"], "It rises in inflammation."],
+  ["Coagulation", "Warfarin therapy is monitored with the", "INR (international normalised ratio)", ["APTT only", "platelet count", "D-dimer"], "Unfractionated heparin is monitored with APTT."],
+  ["Coagulation", "A citrate tube for coagulation must be filled correctly because", "the blood-to-anticoagulant ratio must be 9:1", ["overfilling clots the sample", "it doesn't matter", "citrate is a preservative only"], "Underfilled tubes give falsely long clotting times."],
+  ["Urinalysis", "Glucose in the urine (glycosuria) commonly suggests", "high blood glucose, as in diabetes", ["kidney stones only", "dehydration only", "a normal finding always"], "The renal threshold is about 10 mmol/L."],
+  ["Urinalysis", "A midstream urine sample for culture should reach the lab within", "about 2 hours, or be refrigerated", ["1 week", "48 hours at room temperature", "any time"], "Bacteria multiply at room temperature."],
+  ["Blood bank", "Before a transfusion, a crossmatch checks", "compatibility between donor red cells and recipient plasma", ["the donor's blood sugar", "the recipient's platelet count", "nothing"], "It prevents haemolytic reactions."],
+  ["Microbiology", "Coagulase-positive staphylococci are usually", "Staphylococcus aureus", ["Staphylococcus epidermidis", "Streptococcus pyogenes", "E. coli"], "Catalase separates staphylococci from streptococci."],
+  ["Microbiology", "Antibiotic susceptibility testing by disc diffusion is commonly done on", "Mueller–Hinton agar", ["MacConkey agar", "chocolate agar", "blood culture broth"], "Measure the zone of inhibition."],
+  ["Safety", "Most clinical specimens are handled at biosafety level", "2", ["1", "3", "4"], "Use a biosafety cabinet for aerosol-generating work."],
+  ["Quality control", "The Westgard 2-2s rule is violated when", "two consecutive control values exceed the same ±2 SD limit", ["one control is within 1 SD", "the mean changes slightly", "controls are not run"], "It suggests systematic error; reject the run."],
+];
+
+const PIC: F[] = [
+  ["Temperature control", "Chilled food should be kept at", "5 °C or below", ["10 °C or below", "15 °C or below", "room temperature"], "Check fridge temperatures and record them."],
+  ["Temperature control", "Frozen food should be stored at", "−18 °C or below", ["0 °C", "−5 °C", "5 °C"], "Freezing stops bacterial growth but doesn't kill most bacteria."],
+  ["Temperature control", "Hot food on display should be kept at", "60 °C or above", ["40 °C", "50 °C", "30 °C"], "Below that it enters the danger zone."],
+  ["Temperature control", "The core temperature for safely cooking poultry and minced meat is commonly", "75 °C or above", ["50 °C", "60 °C", "40 °C"], "Check the thickest part with a probe."],
+  ["Temperature control", "Food should not be reheated", "more than once", ["at all", "above 75 °C", "in a microwave"], "Reheat thoroughly to at least 75 °C."],
+  ["Receiving", "When food deliveries arrive, the PIC should check", "temperature, packaging, labels and expiry dates", ["only the price", "only the driver's name", "nothing if the supplier is regular"], "Reject anything unsafe."],
+  ["Receiving", "Food should only be bought from", "approved and licensed suppliers", ["street vendors", "any supplier offering a discount", "unlabelled sources"], "Traceability matters in a recall."],
+  ["Allergens", "Food businesses must be able to tell customers", "which allergens are in their dishes", ["only the price", "nothing about ingredients", "only the calories"], "Common allergens include peanuts, tree nuts, milk, eggs, wheat (gluten), fish, shellfish and soy."],
+  ["Allergens", "To avoid allergen cross-contact, staff should", "use clean, separate equipment and wash hands", ["use the same board for everything", "just remove the allergen by hand", "rely on cooking to destroy it"], "Cooking does not destroy allergens."],
+  ["Hazards", "Bacteria multiply most quickly in food that is", "moist, high-protein and held in the danger zone", ["dry and frozen", "very acidic and cold", "salted and dried"], "Time and temperature are the key controls."],
+  ["Hazards", "Spore-forming bacteria like Clostridium perfringens are a risk when", "large batches of cooked food are cooled too slowly", ["food is frozen quickly", "salads are washed", "food is kept at 75 °C"], "Spores survive cooking."],
+  ["Hazards", "A food handler's cut should be covered with", "a brightly coloured waterproof dressing", ["nothing", "a tissue", "a normal fabric plaster"], "Coloured dressings are easy to spot if they fall into food."],
+  ["Cleaning", "The correct order of cleaning a food contact surface is", "pre-clean, wash, rinse, sanitise, dry", ["sanitise, wash, rinse", "rinse only", "dry, wash, sanitise"], "Sanitisers work poorly on dirty surfaces."],
+  ["Cleaning", "Colour-coded chopping boards help to", "prevent cross-contamination between raw and ready-to-eat food", ["make the kitchen look nice", "speed up cooking", "reduce cleaning"], "Keep a separate board for raw meat."],
+  ["Storage", "Dry food should be stored", "off the floor in clean, sealed, labelled containers", ["on the floor", "in open sacks", "next to chemicals"], "Keep the store cool, dry and pest-free."],
+  ["Storage", "Opened food moved to another container should be labelled with", "the product name and date of opening or preparation", ["nothing", "the staff member's age", "only the price"], "This supports FIFO and shelf-life control."],
+  ["Personal hygiene", "Hands should be washed for at least", "20 seconds with soap and warm water", ["2 seconds", "5 minutes", "only with water"], "Dry with a disposable towel."],
+  ["Personal hygiene", "Smoking, eating and chewing gum in food preparation areas are", "not allowed", ["allowed during breaks at the counter", "allowed if gloves are worn", "allowed for senior staff"], "They can contaminate food."],
+  ["Pests", "If pests are found, the PIC should", "call a licensed pest control company and protect food", ["use any household spray on food surfaces", "ignore it", "close the business permanently"], "Keep records of pest control visits."],
+  ["Records", "Temperature logs and cleaning records help to", "show food safety controls are working", ["increase sales", "reduce staff", "replace training"], "Inspectors may ask to see them."],
+];
+
+const SRA: F[] = [
+  ["Emergencies", "In the UAE, the emergency number for police is", "999", ["997", "998", "911"], "998 is ambulance and 997 is civil defence."],
+  ["Emergencies", "In the UAE, the emergency number for an ambulance is", "998", ["999", "997", "112"], "Give the exact location and the casualty's condition."],
+  ["Emergencies", "A carbon dioxide (CO₂) extinguisher is best for", "electrical fires", ["paper and wood fires", "cooking oil fires", "metal fires"], "Don't touch the horn; it gets very cold."],
+  ["Emergencies", "A water extinguisher must never be used on", "electrical or burning oil fires", ["paper fires", "wood fires", "textile fires"], "Water conducts electricity and spreads burning oil."],
+  ["Emergencies", "The PASS technique for using an extinguisher stands for", "Pull, Aim, Squeeze, Sweep", ["Push, Alert, Spray, Stop", "Pull, Alarm, Shout, Spray", "Point, Aim, Shoot, Sweep"], "Aim at the base of the fire."],
+  ["Emergencies", "During a fire, people should not use", "lifts", ["stairs", "fire exits", "assembly points"], "Lifts can fail or open onto the fire floor."],
+  ["First aid", "If someone is unresponsive and not breathing normally, you should", "call for help and start CPR", ["give them water", "wait to see if they recover", "put them in the recovery position and leave"], "Use an AED as soon as one is available."],
+  ["First aid", "An unconscious casualty who is breathing normally should be placed", "in the recovery position", ["flat on their back with the head raised", "sitting up", "face down"], "Keep checking their breathing."],
+  ["Duties", "A guard's powers are generally", "the same as an ordinary member of the public, unless the law grants more", ["the same as police officers", "unlimited on private property", "enough to search anyone by force"], "Call the police for arrests and investigations."],
+  ["Duties", "When searching bags with consent, a guard should", "follow site policy and ask the person to open the bag themselves", ["grab the bag", "search without asking", "keep items they like"], "Always be respectful."],
+  ["Duties", "Keys and access cards held by security should be", "signed in and out in a key register", ["left in the guard room unlocked", "given to anyone who asks", "taken home"], "This keeps them traceable."],
+  ["Duties", "Before starting a patrol, a guard should", "check equipment such as the radio and torch", ["switch off the radio", "leave the logbook behind", "skip the briefing"], "Know the site layout and hazards."],
+  ["Communication", "In radio communication, 'Roger' means", "message received and understood", ["repeat the message", "emergency", "stop talking"], "'Over' means you've finished and expect a reply."],
+  ["Communication", "When using a two-way radio, you should", "think before speaking, keep messages short and clear", ["talk over others", "use slang and jokes", "keep the button pressed"], "Clear radio use saves time in emergencies."],
+  ["Conduct", "Guards should not accept", "gifts or bribes from visitors or contractors", ["their salary", "training", "uniforms"], "This protects their integrity."],
+  ["Conduct", "If a guard sees a colleague sleeping on duty, they should", "report it to their supervisor", ["ignore it", "post it online", "leave the site too"], "Unprotected posts create risk."],
+  ["Reporting", "Corrections in a logbook should be made by", "drawing a single line through the error and initialling it", ["tearing out the page", "using correction fluid", "rewriting the whole book"], "The original entry must stay readable."],
+  ["Crime scene", "To protect evidence at a crime scene, a guard should", "not touch or move anything and note who enters", ["tidy up", "remove items for safekeeping", "let curious people look"], "Police need the scene untouched."],
+  ["Customer service", "When a person with a disability needs help evacuating, guards should", "follow the personal evacuation plan and assist them safely", ["leave them behind", "use the lift", "ask them to wait until last without help"], "Refuge points and evacuation chairs may be available."],
+  ["Health and safety", "A guard who sees a wet floor in a public area should", "put up a warning sign and report it for cleaning", ["ignore it", "walk around it", "wait for someone to slip"], "Prevent slips, trips and falls."],
+];
+
+export function mideast2(): Record<string, Q[]> {
+  return { DEN: facts("DEN", DEN), PHT: facts("PHT", PHT), LAB: facts("LAB", LAB), PIC: facts("PIC", PIC), SRA: facts("SRA", SRA) };
+}

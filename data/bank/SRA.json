@@ -264,5 +264,285 @@
   "answer": 1,
   "explanation": "Footage may be evidence and must be handled carefully.",
   "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Emergencies",
+  "body": "In the UAE, the emergency number for police is",
+  "options": [
+   "997",
+   "998",
+   "911",
+   "999"
+  ],
+  "answer": 3,
+  "explanation": "998 is ambulance and 997 is civil defence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Emergencies",
+  "body": "In the UAE, the emergency number for an ambulance is",
+  "options": [
+   "112",
+   "997",
+   "998",
+   "999"
+  ],
+  "answer": 2,
+  "explanation": "Give the exact location and the casualty's condition.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Emergencies",
+  "body": "A carbon dioxide (CO₂) extinguisher is best for",
+  "options": [
+   "cooking oil fires",
+   "metal fires",
+   "paper and wood fires",
+   "electrical fires"
+  ],
+  "answer": 3,
+  "explanation": "Don't touch the horn; it gets very cold.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Emergencies",
+  "body": "A water extinguisher must never be used on",
+  "options": [
+   "paper fires",
+   "electrical or burning oil fires",
+   "textile fires",
+   "wood fires"
+  ],
+  "answer": 1,
+  "explanation": "Water conducts electricity and spreads burning oil.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Emergencies",
+  "body": "The PASS technique for using an extinguisher stands for",
+  "options": [
+   "Pull, Alarm, Shout, Spray",
+   "Pull, Aim, Squeeze, Sweep",
+   "Push, Alert, Spray, Stop",
+   "Point, Aim, Shoot, Sweep"
+  ],
+  "answer": 1,
+  "explanation": "Aim at the base of the fire.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Emergencies",
+  "body": "During a fire, people should not use",
+  "options": [
+   "stairs",
+   "assembly points",
+   "lifts",
+   "fire exits"
+  ],
+  "answer": 2,
+  "explanation": "Lifts can fail or open onto the fire floor.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "First aid",
+  "body": "If someone is unresponsive and not breathing normally, you should",
+  "options": [
+   "call for help and start CPR",
+   "give them water",
+   "put them in the recovery position and leave",
+   "wait to see if they recover"
+  ],
+  "answer": 0,
+  "explanation": "Use an AED as soon as one is available.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "First aid",
+  "body": "An unconscious casualty who is breathing normally should be placed",
+  "options": [
+   "flat on their back with the head raised",
+   "sitting up",
+   "face down",
+   "in the recovery position"
+  ],
+  "answer": 3,
+  "explanation": "Keep checking their breathing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Duties",
+  "body": "A guard's powers are generally",
+  "options": [
+   "unlimited on private property",
+   "the same as police officers",
+   "enough to search anyone by force",
+   "the same as an ordinary member of the public, unless the law grants more"
+  ],
+  "answer": 3,
+  "explanation": "Call the police for arrests and investigations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Duties",
+  "body": "When searching bags with consent, a guard should",
+  "options": [
+   "keep items they like",
+   "search without asking",
+   "grab the bag",
+   "follow site policy and ask the person to open the bag themselves"
+  ],
+  "answer": 3,
+  "explanation": "Always be respectful.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Duties",
+  "body": "Keys and access cards held by security should be",
+  "options": [
+   "left in the guard room unlocked",
+   "taken home",
+   "given to anyone who asks",
+   "signed in and out in a key register"
+  ],
+  "answer": 3,
+  "explanation": "This keeps them traceable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Duties",
+  "body": "Before starting a patrol, a guard should",
+  "options": [
+   "switch off the radio",
+   "leave the logbook behind",
+   "skip the briefing",
+   "check equipment such as the radio and torch"
+  ],
+  "answer": 3,
+  "explanation": "Know the site layout and hazards.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Communication",
+  "body": "In radio communication, 'Roger' means",
+  "options": [
+   "stop talking",
+   "message received and understood",
+   "repeat the message",
+   "emergency"
+  ],
+  "answer": 1,
+  "explanation": "'Over' means you've finished and expect a reply.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Communication",
+  "body": "When using a two-way radio, you should",
+  "options": [
+   "talk over others",
+   "keep the button pressed",
+   "think before speaking, keep messages short and clear",
+   "use slang and jokes"
+  ],
+  "answer": 2,
+  "explanation": "Clear radio use saves time in emergencies.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Conduct",
+  "body": "Guards should not accept",
+  "options": [
+   "their salary",
+   "gifts or bribes from visitors or contractors",
+   "uniforms",
+   "training"
+  ],
+  "answer": 1,
+  "explanation": "This protects their integrity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Conduct",
+  "body": "If a guard sees a colleague sleeping on duty, they should",
+  "options": [
+   "leave the site too",
+   "post it online",
+   "report it to their supervisor",
+   "ignore it"
+  ],
+  "answer": 2,
+  "explanation": "Unprotected posts create risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Reporting",
+  "body": "Corrections in a logbook should be made by",
+  "options": [
+   "tearing out the page",
+   "drawing a single line through the error and initialling it",
+   "rewriting the whole book",
+   "using correction fluid"
+  ],
+  "answer": 1,
+  "explanation": "The original entry must stay readable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Crime scene",
+  "body": "To protect evidence at a crime scene, a guard should",
+  "options": [
+   "not touch or move anything and note who enters",
+   "remove items for safekeeping",
+   "let curious people look",
+   "tidy up"
+  ],
+  "answer": 0,
+  "explanation": "Police need the scene untouched.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Customer service",
+  "body": "When a person with a disability needs help evacuating, guards should",
+  "options": [
+   "follow the personal evacuation plan and assist them safely",
+   "use the lift",
+   "ask them to wait until last without help",
+   "leave them behind"
+  ],
+  "answer": 0,
+  "explanation": "Refuge points and evacuation chairs may be available.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Health and safety",
+  "body": "A guard who sees a wet floor in a public area should",
+  "options": [
+   "ignore it",
+   "put up a warning sign and report it for cleaning",
+   "walk around it",
+   "wait for someone to slip"
+  ],
+  "answer": 1,
+  "explanation": "Prevent slips, trips and falls.",
+  "difficulty": 2
  }
 ]

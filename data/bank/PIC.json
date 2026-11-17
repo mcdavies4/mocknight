@@ -306,5 +306,285 @@
   "answer": 2,
   "explanation": "Report pests immediately and use a licensed pest control company.",
   "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Temperature control",
+  "body": "Chilled food should be kept at",
+  "options": [
+   "room temperature",
+   "10 °C or below",
+   "5 °C or below",
+   "15 °C or below"
+  ],
+  "answer": 2,
+  "explanation": "Check fridge temperatures and record them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Temperature control",
+  "body": "Frozen food should be stored at",
+  "options": [
+   "−5 °C",
+   "−18 °C or below",
+   "5 °C",
+   "0 °C"
+  ],
+  "answer": 1,
+  "explanation": "Freezing stops bacterial growth but doesn't kill most bacteria.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Temperature control",
+  "body": "Hot food on display should be kept at",
+  "options": [
+   "50 °C",
+   "40 °C",
+   "30 °C",
+   "60 °C or above"
+  ],
+  "answer": 3,
+  "explanation": "Below that it enters the danger zone.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Temperature control",
+  "body": "The core temperature for safely cooking poultry and minced meat is commonly",
+  "options": [
+   "50 °C",
+   "75 °C or above",
+   "60 °C",
+   "40 °C"
+  ],
+  "answer": 1,
+  "explanation": "Check the thickest part with a probe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Temperature control",
+  "body": "Food should not be reheated",
+  "options": [
+   "more than once",
+   "in a microwave",
+   "at all",
+   "above 75 °C"
+  ],
+  "answer": 0,
+  "explanation": "Reheat thoroughly to at least 75 °C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Receiving",
+  "body": "When food deliveries arrive, the PIC should check",
+  "options": [
+   "nothing if the supplier is regular",
+   "only the driver's name",
+   "only the price",
+   "temperature, packaging, labels and expiry dates"
+  ],
+  "answer": 3,
+  "explanation": "Reject anything unsafe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Receiving",
+  "body": "Food should only be bought from",
+  "options": [
+   "approved and licensed suppliers",
+   "any supplier offering a discount",
+   "unlabelled sources",
+   "street vendors"
+  ],
+  "answer": 0,
+  "explanation": "Traceability matters in a recall.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Allergens",
+  "body": "Food businesses must be able to tell customers",
+  "options": [
+   "only the price",
+   "which allergens are in their dishes",
+   "only the calories",
+   "nothing about ingredients"
+  ],
+  "answer": 1,
+  "explanation": "Common allergens include peanuts, tree nuts, milk, eggs, wheat (gluten), fish, shellfish and soy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Allergens",
+  "body": "To avoid allergen cross-contact, staff should",
+  "options": [
+   "use the same board for everything",
+   "use clean, separate equipment and wash hands",
+   "rely on cooking to destroy it",
+   "just remove the allergen by hand"
+  ],
+  "answer": 1,
+  "explanation": "Cooking does not destroy allergens.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Hazards",
+  "body": "Bacteria multiply most quickly in food that is",
+  "options": [
+   "moist, high-protein and held in the danger zone",
+   "very acidic and cold",
+   "salted and dried",
+   "dry and frozen"
+  ],
+  "answer": 0,
+  "explanation": "Time and temperature are the key controls.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Hazards",
+  "body": "Spore-forming bacteria like Clostridium perfringens are a risk when",
+  "options": [
+   "salads are washed",
+   "food is kept at 75 °C",
+   "large batches of cooked food are cooled too slowly",
+   "food is frozen quickly"
+  ],
+  "answer": 2,
+  "explanation": "Spores survive cooking.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Hazards",
+  "body": "A food handler's cut should be covered with",
+  "options": [
+   "nothing",
+   "a brightly coloured waterproof dressing",
+   "a normal fabric plaster",
+   "a tissue"
+  ],
+  "answer": 1,
+  "explanation": "Coloured dressings are easy to spot if they fall into food.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Cleaning",
+  "body": "The correct order of cleaning a food contact surface is",
+  "options": [
+   "dry, wash, sanitise",
+   "sanitise, wash, rinse",
+   "pre-clean, wash, rinse, sanitise, dry",
+   "rinse only"
+  ],
+  "answer": 2,
+  "explanation": "Sanitisers work poorly on dirty surfaces.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Cleaning",
+  "body": "Colour-coded chopping boards help to",
+  "options": [
+   "make the kitchen look nice",
+   "reduce cleaning",
+   "prevent cross-contamination between raw and ready-to-eat food",
+   "speed up cooking"
+  ],
+  "answer": 2,
+  "explanation": "Keep a separate board for raw meat.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Storage",
+  "body": "Dry food should be stored",
+  "options": [
+   "off the floor in clean, sealed, labelled containers",
+   "next to chemicals",
+   "in open sacks",
+   "on the floor"
+  ],
+  "answer": 0,
+  "explanation": "Keep the store cool, dry and pest-free.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Storage",
+  "body": "Opened food moved to another container should be labelled with",
+  "options": [
+   "only the price",
+   "the staff member's age",
+   "nothing",
+   "the product name and date of opening or preparation"
+  ],
+  "answer": 3,
+  "explanation": "This supports FIFO and shelf-life control.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Personal hygiene",
+  "body": "Hands should be washed for at least",
+  "options": [
+   "only with water",
+   "5 minutes",
+   "2 seconds",
+   "20 seconds with soap and warm water"
+  ],
+  "answer": 3,
+  "explanation": "Dry with a disposable towel.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Personal hygiene",
+  "body": "Smoking, eating and chewing gum in food preparation areas are",
+  "options": [
+   "allowed if gloves are worn",
+   "allowed for senior staff",
+   "not allowed",
+   "allowed during breaks at the counter"
+  ],
+  "answer": 2,
+  "explanation": "They can contaminate food.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Pests",
+  "body": "If pests are found, the PIC should",
+  "options": [
+   "call a licensed pest control company and protect food",
+   "ignore it",
+   "use any household spray on food surfaces",
+   "close the business permanently"
+  ],
+  "answer": 0,
+  "explanation": "Keep records of pest control visits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Records",
+  "body": "Temperature logs and cleaning records help to",
+  "options": [
+   "increase sales",
+   "show food safety controls are working",
+   "reduce staff",
+   "replace training"
+  ],
+  "answer": 1,
+  "explanation": "Inspectors may ask to see them.",
+  "difficulty": 2
  }
 ]

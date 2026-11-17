@@ -278,5 +278,341 @@
   "answer": 0,
   "explanation": "Follow standard infection control precautions.",
   "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Dental anatomy",
+  "body": "Which permanent tooth usually has the longest root?",
+  "options": [
+   "maxillary canine",
+   "mandibular central incisor",
+   "maxillary first molar",
+   "mandibular second premolar"
+  ],
+  "answer": 0,
+  "explanation": "Its long root makes it a strong abutment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Dental anatomy",
+  "body": "The maxillary first molar usually has how many roots?",
+  "options": [
+   "4",
+   "2",
+   "1",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "Two buccal roots and one palatal root.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Dental anatomy",
+  "body": "The mandibular first molar usually has how many roots?",
+  "options": [
+   "1",
+   "3",
+   "2",
+   "4"
+  ],
+  "answer": 2,
+  "explanation": "A mesial and a distal root.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Dental anatomy",
+  "body": "The Carabelli cusp is usually found on the",
+  "options": [
+   "lower canine",
+   "palatal surface of the maxillary first molar",
+   "lower first premolar",
+   "upper central incisor"
+  ],
+  "answer": 1,
+  "explanation": "It is a minor extra cusp.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Dental anatomy",
+  "body": "Which tissue attaches the tooth root to the alveolar bone?",
+  "options": [
+   "periodontal ligament",
+   "gingival epithelium",
+   "enamel",
+   "pulp"
+  ],
+  "answer": 0,
+  "explanation": "Its fibres insert into cementum and bone.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Dental anatomy",
+  "body": "In FDI notation, tooth 36 is the",
+  "options": [
+   "upper right first molar",
+   "lower left first molar",
+   "upper left canine",
+   "lower right first molar"
+  ],
+  "answer": 1,
+  "explanation": "Quadrant 3 is lower left; tooth 6 is the first molar.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Cariology",
+  "body": "The critical pH below which enamel begins to dissolve is about",
+  "options": [
+   "7.4",
+   "5.5",
+   "3.0",
+   "8.5"
+  ],
+  "answer": 1,
+  "explanation": "Frequent sugar intake keeps plaque pH low for longer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Cariology",
+  "body": "Pit and fissure sealants are mainly placed on",
+  "options": [
+   "the occlusal surfaces of molars",
+   "the labial surfaces of incisors",
+   "root surfaces",
+   "the palate"
+  ],
+  "answer": 0,
+  "explanation": "They protect deep grooves from caries.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Operative",
+  "body": "Dental amalgam is mainly an alloy of mercury with",
+  "options": [
+   "iron and zinc",
+   "silver, tin and copper",
+   "gold and platinum",
+   "aluminium and lead"
+  ],
+  "answer": 1,
+  "explanation": "High-copper alloys resist corrosion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Operative",
+  "body": "Composite resin is typically set by",
+  "options": [
+   "ultrasound",
+   "mixing with water",
+   "blue light curing",
+   "heating in an oven"
+  ],
+  "answer": 2,
+  "explanation": "Most use camphorquinone as the photoinitiator.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Operative",
+  "body": "Etching enamel with phosphoric acid before bonding is usually done with a concentration of about",
+  "options": [
+   "35–37%",
+   "1–2%",
+   "70–80%",
+   "100%"
+  ],
+  "answer": 0,
+  "explanation": "It creates micro-retention for the resin.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Operative",
+  "body": "A Class V cavity is found on",
+  "options": [
+   "incisal edges",
+   "occlusal pits",
+   "the cervical third of facial or lingual surfaces",
+   "proximal surfaces of molars"
+  ],
+  "answer": 2,
+  "explanation": "Common with abrasion or root caries.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Endodontics",
+  "body": "Calcium hydroxide is commonly used as",
+  "options": [
+   "a root filling material on its own",
+   "an impression material",
+   "an anaesthetic",
+   "an intracanal medicament and pulp-capping agent"
+  ],
+  "answer": 3,
+  "explanation": "MTA is another pulp-capping material.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Endodontics",
+  "body": "An abscess at the root apex usually shows on a radiograph as",
+  "options": [
+   "nothing visible ever",
+   "a periapical radiolucency",
+   "an enlarged pulp chamber only",
+   "a radiopaque crown"
+  ],
+  "answer": 1,
+  "explanation": "Bone loss appears dark.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Periodontics",
+  "body": "The bacterium most associated with chronic periodontitis is",
+  "options": [
+   "Candida albicans",
+   "Porphyromonas gingivalis",
+   "Lactobacillus",
+   "Streptococcus mutans"
+  ],
+  "answer": 1,
+  "explanation": "It is a Gram-negative anaerobe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Periodontics",
+  "body": "Scaling and root planing removes",
+  "options": [
+   "healthy gingiva",
+   "calculus and plaque from tooth and root surfaces",
+   "enamel",
+   "the periodontal ligament"
+  ],
+  "answer": 1,
+  "explanation": "It is the core non-surgical periodontal treatment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Periodontics",
+  "body": "Chlorhexidine mouthwash is commonly used at a concentration of",
+  "options": [
+   "50%",
+   "0.12–0.2%",
+   "20%",
+   "5%"
+  ],
+  "answer": 1,
+  "explanation": "Long-term use can stain teeth.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Local anaesthesia",
+  "body": "The most commonly used dental local anaesthetic is",
+  "options": [
+   "morphine",
+   "lidocaine (lignocaine) with adrenaline",
+   "propofol",
+   "ketamine"
+  ],
+  "answer": 1,
+  "explanation": "Articaine is also widely used.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Local anaesthesia",
+  "body": "Adrenaline is added to local anaesthetic to",
+  "options": [
+   "reverse the anaesthesia",
+   "act as an antibiotic",
+   "speed up the onset of pain",
+   "constrict blood vessels and prolong the anaesthetic effect"
+  ],
+  "answer": 3,
+  "explanation": "It also reduces bleeding.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Radiology",
+  "body": "Bitewing radiographs are mainly used to detect",
+  "options": [
+   "interproximal caries and crestal bone levels",
+   "jaw fractures only",
+   "wisdom tooth roots only",
+   "the full skull"
+  ],
+  "answer": 0,
+  "explanation": "Periapicals show the whole tooth and apex.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Prosthodontics",
+  "body": "Alginate is an",
+  "options": [
+   "denture base resin",
+   "irreversible hydrocolloid impression material",
+   "cement",
+   "elastomer"
+  ],
+  "answer": 1,
+  "explanation": "Pour models quickly because it distorts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Medical emergencies",
+  "body": "The most common medical emergency in the dental chair is",
+  "options": [
+   "anaphylaxis",
+   "stroke",
+   "vasovagal syncope (fainting)",
+   "cardiac arrest"
+  ],
+  "answer": 2,
+  "explanation": "Lay the patient flat and raise the legs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Medical emergencies",
+  "body": "For anaphylaxis in an adult, the first-line drug is",
+  "options": [
+   "IV paracetamol",
+   "oral antihistamine",
+   "aspirin",
+   "intramuscular adrenaline 0.5 mg (1:1000)"
+  ],
+  "answer": 3,
+  "explanation": "Give into the anterolateral thigh and call for help.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Infection control",
+  "body": "A standard steam autoclave cycle is commonly",
+  "options": [
+   "134 °C for at least 3 minutes",
+   "100 °C for 30 seconds",
+   "60 °C for 1 minute",
+   "200 °C for 2 hours"
+  ],
+  "answer": 0,
+  "explanation": "121 °C cycles need about 15 minutes.",
+  "difficulty": 2
  }
 ]

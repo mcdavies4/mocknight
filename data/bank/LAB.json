@@ -502,5 +502,257 @@
   "answer": 3,
   "explanation": "C1V1 = C2V2: V1 = 25 × 50 ÷ 100 = 12.5 mL.",
   "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Clinical chemistry",
+  "body": "Raised ALT and AST mainly indicate",
+  "options": [
+   "thyroid disease",
+   "kidney failure",
+   "bone disease",
+   "liver cell damage"
+  ],
+  "answer": 3,
+  "explanation": "ALT is more liver-specific.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Clinical chemistry",
+  "body": "A high TSH with a low free T4 indicates",
+  "options": [
+   "primary hypothyroidism",
+   "Cushing's syndrome",
+   "hyperthyroidism",
+   "normal thyroid function"
+  ],
+  "answer": 0,
+  "explanation": "The pituitary is trying to stimulate a failing thyroid.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Clinical chemistry",
+  "body": "A fasting plasma glucose of 7.0 mmol/L or more on two occasions suggests",
+  "options": [
+   "anaemia",
+   "normal glucose",
+   "diabetes mellitus",
+   "hypoglycaemia"
+  ],
+  "answer": 2,
+  "explanation": "HbA1c of 48 mmol/mol (6.5%) or more also indicates diabetes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Clinical chemistry",
+  "body": "Bilirubin is a breakdown product of",
+  "options": [
+   "haemoglobin",
+   "cholesterol",
+   "urea",
+   "glucose"
+  ],
+  "answer": 0,
+  "explanation": "Raised levels cause jaundice.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Clinical chemistry",
+  "body": "Serum samples should be protected from light when testing for",
+  "options": [
+   "potassium",
+   "bilirubin",
+   "urea",
+   "sodium"
+  ],
+  "answer": 1,
+  "explanation": "Light breaks bilirubin down.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Haematology",
+  "body": "The normal adult platelet count is about",
+  "options": [
+   "4–11 × 10⁹/L",
+   "10–50 × 10⁹/L",
+   "150–400 × 10⁹/L",
+   "1,000–2,000 × 10⁹/L"
+  ],
+  "answer": 2,
+  "explanation": "4–11 × 10⁹/L is the normal white cell count.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Haematology",
+  "body": "Neutrophilia (raised neutrophils) commonly suggests",
+  "options": [
+   "parasitic infection only",
+   "viral infection only",
+   "bacterial infection",
+   "allergy"
+  ],
+  "answer": 2,
+  "explanation": "Eosinophilia suggests allergy or parasites.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Haematology",
+  "body": "Malaria parasites are identified on",
+  "options": [
+   "Ziehl–Neelsen stain",
+   "urine culture",
+   "thick and thin Giemsa-stained blood films",
+   "Gram stain"
+  ],
+  "answer": 2,
+  "explanation": "Rapid antigen tests also exist.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Haematology",
+  "body": "The ESR measures",
+  "options": [
+   "clotting time",
+   "red cell size",
+   "how fast red cells settle in a tube over one hour",
+   "platelet function"
+  ],
+  "answer": 2,
+  "explanation": "It rises in inflammation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Coagulation",
+  "body": "Warfarin therapy is monitored with the",
+  "options": [
+   "platelet count",
+   "INR (international normalised ratio)",
+   "APTT only",
+   "D-dimer"
+  ],
+  "answer": 1,
+  "explanation": "Unfractionated heparin is monitored with APTT.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Coagulation",
+  "body": "A citrate tube for coagulation must be filled correctly because",
+  "options": [
+   "the blood-to-anticoagulant ratio must be 9:1",
+   "citrate is a preservative only",
+   "it doesn't matter",
+   "overfilling clots the sample"
+  ],
+  "answer": 0,
+  "explanation": "Underfilled tubes give falsely long clotting times.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Urinalysis",
+  "body": "Glucose in the urine (glycosuria) commonly suggests",
+  "options": [
+   "dehydration only",
+   "a normal finding always",
+   "high blood glucose, as in diabetes",
+   "kidney stones only"
+  ],
+  "answer": 2,
+  "explanation": "The renal threshold is about 10 mmol/L.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Urinalysis",
+  "body": "A midstream urine sample for culture should reach the lab within",
+  "options": [
+   "1 week",
+   "any time",
+   "about 2 hours, or be refrigerated",
+   "48 hours at room temperature"
+  ],
+  "answer": 2,
+  "explanation": "Bacteria multiply at room temperature.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Blood bank",
+  "body": "Before a transfusion, a crossmatch checks",
+  "options": [
+   "the recipient's platelet count",
+   "nothing",
+   "the donor's blood sugar",
+   "compatibility between donor red cells and recipient plasma"
+  ],
+  "answer": 3,
+  "explanation": "It prevents haemolytic reactions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Microbiology",
+  "body": "Coagulase-positive staphylococci are usually",
+  "options": [
+   "Staphylococcus aureus",
+   "E. coli",
+   "Streptococcus pyogenes",
+   "Staphylococcus epidermidis"
+  ],
+  "answer": 0,
+  "explanation": "Catalase separates staphylococci from streptococci.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Microbiology",
+  "body": "Antibiotic susceptibility testing by disc diffusion is commonly done on",
+  "options": [
+   "Mueller–Hinton agar",
+   "blood culture broth",
+   "MacConkey agar",
+   "chocolate agar"
+  ],
+  "answer": 0,
+  "explanation": "Measure the zone of inhibition.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Safety",
+  "body": "Most clinical specimens are handled at biosafety level",
+  "options": [
+   "4",
+   "3",
+   "1",
+   "2"
+  ],
+  "answer": 3,
+  "explanation": "Use a biosafety cabinet for aerosol-generating work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Quality control",
+  "body": "The Westgard 2-2s rule is violated when",
+  "options": [
+   "the mean changes slightly",
+   "two consecutive control values exceed the same ±2 SD limit",
+   "one control is within 1 SD",
+   "controls are not run"
+  ],
+  "answer": 1,
+  "explanation": "It suggests systematic error; reject the run.",
+  "difficulty": 2
  }
 ]

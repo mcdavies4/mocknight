@@ -306,5 +306,341 @@
   "answer": 3,
   "explanation": "Deep breathing re-expands collapsed alveoli.",
   "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Musculoskeletal",
+  "body": "Normal knee flexion range of motion is about",
+  "options": [
+   "0–90 degrees",
+   "0–200 degrees",
+   "0–45 degrees",
+   "0–135 degrees"
+  ],
+  "answer": 3,
+  "explanation": "Full extension is 0 degrees.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Musculoskeletal",
+  "body": "The anterior drawer test of the ankle assesses the",
+  "options": [
+   "plantar fascia",
+   "anterior talofibular ligament",
+   "deltoid ligament",
+   "Achilles tendon"
+  ],
+  "answer": 1,
+  "explanation": "It is often torn in inversion sprains.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Musculoskeletal",
+  "body": "Thompson's (Simmonds') test checks for",
+  "options": [
+   "meniscal tear",
+   "rotator cuff tear",
+   "ACL rupture",
+   "Achilles tendon rupture"
+  ],
+  "answer": 3,
+  "explanation": "Squeezing the calf normally plantarflexes the foot.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Musculoskeletal",
+  "body": "Phalen's test is used to assess",
+  "options": [
+   "carpal tunnel syndrome",
+   "De Quervain's tenosynovitis",
+   "tennis elbow",
+   "frozen shoulder"
+  ],
+  "answer": 0,
+  "explanation": "Hold the wrists in full flexion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Musculoskeletal",
+  "body": "Finkelstein's test is positive in",
+  "options": [
+   "carpal tunnel syndrome",
+   "De Quervain's tenosynovitis",
+   "golfer's elbow",
+   "trigger finger"
+  ],
+  "answer": 1,
+  "explanation": "It affects abductor pollicis longus and extensor pollicis brevis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Musculoskeletal",
+  "body": "The straight leg raise test mainly assesses",
+  "options": [
+   "shoulder impingement",
+   "lumbar nerve root irritation",
+   "knee ligament stability",
+   "hip osteoarthritis"
+  ],
+  "answer": 1,
+  "explanation": "Pain between about 30 and 70 degrees suggests sciatica.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Musculoskeletal",
+  "body": "The Hawkins–Kennedy test assesses",
+  "options": [
+   "ankle instability",
+   "ACL rupture",
+   "subacromial (shoulder) impingement",
+   "carpal tunnel"
+  ],
+  "answer": 2,
+  "explanation": "Internal rotation with the arm at 90 degrees flexion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Musculoskeletal",
+  "body": "The primary action of the quadriceps is",
+  "options": [
+   "knee flexion",
+   "ankle plantarflexion",
+   "hip extension",
+   "knee extension"
+  ],
+  "answer": 3,
+  "explanation": "Rectus femoris also flexes the hip.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Musculoskeletal",
+  "body": "The muscle that initiates shoulder abduction is the",
+  "options": [
+   "pectoralis major",
+   "teres major",
+   "supraspinatus",
+   "latissimus dorsi"
+  ],
+  "answer": 2,
+  "explanation": "The deltoid takes over after the first 15 degrees or so.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Peripheral nerves",
+  "body": "Claw hand is classically caused by a lesion of the",
+  "options": [
+   "radial nerve",
+   "axillary nerve",
+   "ulnar nerve",
+   "musculocutaneous nerve"
+  ],
+  "answer": 2,
+  "explanation": "The intrinsic hand muscles are weak.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Peripheral nerves",
+  "body": "Winged scapula is caused by weakness of serratus anterior, supplied by the",
+  "options": [
+   "suprascapular nerve",
+   "axillary nerve",
+   "long thoracic nerve",
+   "radial nerve"
+  ],
+  "answer": 2,
+  "explanation": "Often injured in surgery or heavy lifting.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Peripheral nerves",
+  "body": "Klumpke's palsy involves nerve roots",
+  "options": [
+   "S1–S2",
+   "C5–C6",
+   "C8–T1",
+   "L4–L5"
+  ],
+  "answer": 2,
+  "explanation": "It causes a claw hand.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Neurology",
+  "body": "After a stroke, increased tone with a velocity-dependent resistance to stretch is",
+  "options": [
+   "ataxia",
+   "spasticity",
+   "rigidity",
+   "flaccidity"
+  ],
+  "answer": 1,
+  "explanation": "Rigidity is not velocity-dependent.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Neurology",
+  "body": "Intention tremor and poor coordination suggest damage to the",
+  "options": [
+   "cerebellum",
+   "spinal cord only",
+   "basal ganglia",
+   "peripheral nerves"
+  ],
+  "answer": 0,
+  "explanation": "Ataxia is a cerebellar sign.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Neurology",
+  "body": "The Berg Balance Scale is scored out of",
+  "options": [
+   "100",
+   "10",
+   "20",
+   "56"
+  ],
+  "answer": 3,
+  "explanation": "Scores below about 45 suggest a higher falls risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Cardiorespiratory",
+  "body": "Postural drainage uses positioning to",
+  "options": [
+   "strengthen leg muscles",
+   "improve vision",
+   "lower blood pressure",
+   "drain secretions from specific lung segments"
+  ],
+  "answer": 3,
+  "explanation": "Gravity helps clear sputum.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Cardiorespiratory",
+  "body": "Normal adult resting respiratory rate is about",
+  "options": [
+   "60 breaths per minute",
+   "4–6 breaths per minute",
+   "30–40 breaths per minute",
+   "12–20 breaths per minute"
+  ],
+  "answer": 3,
+  "explanation": "Watch for rates above 20 at rest.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Cardiorespiratory",
+  "body": "Maximum heart rate is commonly estimated as",
+  "options": [
+   "age multiplied by 2",
+   "100 plus age",
+   "180 minus age",
+   "220 minus age"
+  ],
+  "answer": 3,
+  "explanation": "Training zones are a percentage of this.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Electrotherapy",
+  "body": "Cryotherapy (ice) in the acute phase of injury mainly",
+  "options": [
+   "heats deep tissue",
+   "increases blood flow",
+   "reduces pain and limits swelling",
+   "speeds up inflammation"
+  ],
+  "answer": 2,
+  "explanation": "Protect the skin with a cloth.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Electrotherapy",
+  "body": "Heat therapy is contraindicated over",
+  "options": [
+   "an acute injury with active inflammation",
+   "a stiff joint",
+   "healthy skin",
+   "chronic stiff muscles"
+  ],
+  "answer": 0,
+  "explanation": "Heat increases blood flow and swelling.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Exercise",
+  "body": "Isometric exercise means the muscle",
+  "options": [
+   "lengthens under load",
+   "shortens under load",
+   "does not contract",
+   "contracts without changing length or moving the joint"
+  ],
+  "answer": 3,
+  "explanation": "Useful early after injury.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Exercise",
+  "body": "An eccentric contraction is one where the muscle",
+  "options": [
+   "lengthens while under tension",
+   "shortens",
+   "stays the same length",
+   "relaxes completely"
+  ],
+  "answer": 0,
+  "explanation": "Used in tendinopathy programmes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Gait",
+  "body": "The stance phase of normal walking makes up about",
+  "options": [
+   "60% of the gait cycle",
+   "40%",
+   "20%",
+   "90%"
+  ],
+  "answer": 0,
+  "explanation": "Swing is about 40%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Mobility aids",
+  "body": "When using a cane, the patient should hold it",
+  "options": [
+   "in the hand opposite the affected leg",
+   "under the arm",
+   "in the hand on the same side as the affected leg",
+   "with both hands"
+  ],
+  "answer": 0,
+  "explanation": "Move it forward with the affected leg.",
+  "difficulty": 2
  }
 ]
