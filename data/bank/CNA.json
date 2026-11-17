@@ -1,0 +1,968 @@
+[
+ {
+  "subject": "CNA",
+  "topic": "Infection control",
+  "body": "The single most important way to prevent the spread of infection is",
+  "options": [
+   "giving antibiotics",
+   "opening windows",
+   "hand hygiene",
+   "wearing a gown"
+  ],
+  "answer": 2,
+  "explanation": "Wash hands before and after every resident contact.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Infection control",
+  "body": "When washing hands with soap and water, scrub for at least",
+  "options": [
+   "2 minutes",
+   "20 seconds",
+   "1 second",
+   "5 seconds"
+  ],
+  "answer": 1,
+  "explanation": "Clean between fingers, under nails and the wrists.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Infection control",
+  "body": "Standard precautions treat",
+  "options": [
+   "all blood and body fluids as potentially infectious",
+   "only visitors",
+   "only patients with known infections",
+   "only blood"
+  ],
+  "answer": 0,
+  "explanation": "They apply to every resident.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Infection control",
+  "body": "When removing PPE, which item usually comes off first?",
+  "options": [
+   "Goggles",
+   "Gown ties at the neck",
+   "Gloves",
+   "Mask"
+  ],
+  "answer": 2,
+  "explanation": "Gloves are the most contaminated.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Infection control",
+  "body": "Used needles and sharps go into",
+  "options": [
+   "the sink",
+   "a puncture-resistant sharps container",
+   "a laundry bag",
+   "the regular trash"
+  ],
+  "answer": 1,
+  "explanation": "Never recap a used needle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Resident rights",
+  "body": "A resident refuses a bath. You should",
+  "options": [
+   "give the bath anyway",
+   "ignore it and leave the room",
+   "respect the refusal and report it to the nurse",
+   "tell the family to make them"
+  ],
+  "answer": 2,
+  "explanation": "Residents have the right to refuse care.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Resident rights",
+  "body": "Before giving care, the nurse aide should",
+  "options": [
+   "only speak to the nurse",
+   "start immediately to save time",
+   "knock, introduce themselves and explain the procedure",
+   "ask the family's permission"
+  ],
+  "answer": 2,
+  "explanation": "This respects privacy and dignity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Resident rights",
+  "body": "Sharing a resident's health information with a friend breaks",
+  "options": [
+   "confidentiality (HIPAA)",
+   "nothing if the friend is kind",
+   "OBRA staffing rules",
+   "the scope of the nurse"
+  ],
+  "answer": 0,
+  "explanation": "Only share information with the care team.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Resident rights",
+  "body": "If you suspect a resident is being abused, you must",
+  "options": [
+   "tell other residents",
+   "wait until you are sure",
+   "confront the abuser",
+   "report it to the nurse or supervisor right away"
+  ],
+  "answer": 3,
+  "explanation": "Nurse aides are mandated reporters.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Resident rights",
+  "body": "Restraints can only be used",
+  "options": [
+   "with a doctor's order, as a last resort",
+   "as punishment",
+   "to save staff time",
+   "whenever a resident wanders"
+  ],
+  "answer": 0,
+  "explanation": "Residents have the right to be free from unnecessary restraints.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Safety",
+  "body": "To prevent falls, the bed should be left",
+  "options": [
+   "with all side rails up always",
+   "with wheels unlocked",
+   "in the lowest position with wheels locked",
+   "at the highest position"
+  ],
+  "answer": 2,
+  "explanation": "Keep the call light within reach too.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Safety",
+  "body": "The call light should always be",
+  "options": [
+   "within the resident's reach",
+   "turned off",
+   "on the nightstand across the room",
+   "removed at night"
+  ],
+  "answer": 0,
+  "explanation": "It is the resident's way to ask for help.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Safety",
+  "body": "In a fire, the first step in RACE is",
+  "options": [
+   "Alarm",
+   "Contain",
+   "Extinguish",
+   "Rescue anyone in immediate danger"
+  ],
+  "answer": 3,
+  "explanation": "RACE: Rescue, Alarm, Contain, Extinguish/Evacuate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Safety",
+  "body": "PASS for using a fire extinguisher stands for",
+  "options": [
+   "Push, Aim, Spray, Stop",
+   "Pull, Aim, Squeeze, Sweep",
+   "Point, Aim, Shoot, Stop",
+   "Pull, Alarm, Spray, Sweep"
+  ],
+  "answer": 1,
+  "explanation": "Aim at the base of the fire.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Safety",
+  "body": "A resident is choking and cannot speak or cough. You should",
+  "options": [
+   "give them water",
+   "call for help and give abdominal thrusts",
+   "slap them on the face",
+   "wait for it to pass"
+  ],
+  "answer": 1,
+  "explanation": "If they become unresponsive, start CPR and activate emergency response.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Mobility",
+  "body": "When helping a resident walk, use",
+  "options": [
+   "a gait (transfer) belt",
+   "their clothing",
+   "no support",
+   "the resident's arm only"
+  ],
+  "answer": 0,
+  "explanation": "Stand on the resident's weaker side.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Mobility",
+  "body": "When dressing a resident with weakness on one side, dress",
+  "options": [
+   "the weak side first",
+   "both sides at once",
+   "the strong side first",
+   "only the strong side"
+  ],
+  "answer": 0,
+  "explanation": "Undress the strong side first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Mobility",
+  "body": "Turning a resident at least every 2 hours helps prevent",
+  "options": [
+   "hearing loss",
+   "infection of the eyes",
+   "pressure ulcers",
+   "dehydration"
+  ],
+  "answer": 2,
+  "explanation": "Check bony areas such as heels, hips and the sacrum.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Positioning",
+  "body": "Fowler's position is",
+  "options": [
+   "lying on the stomach",
+   "lying flat on the back",
+   "sitting with the head of the bed raised about 45–60 degrees",
+   "lying on the left side"
+  ],
+  "answer": 2,
+  "explanation": "It helps breathing and eating.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Positioning",
+  "body": "Lying flat on the back is the",
+  "options": [
+   "Sims' position",
+   "Fowler's position",
+   "supine position",
+   "prone position"
+  ],
+  "answer": 2,
+  "explanation": "Prone is lying on the stomach.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Positioning",
+  "body": "Sims' position is",
+  "options": [
+   "lying on the stomach",
+   "lying on the left side with the upper leg bent",
+   "sitting upright",
+   "lying flat on the back"
+  ],
+  "answer": 1,
+  "explanation": "It is used for enemas and rectal care.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Vital signs",
+  "body": "A normal adult resting pulse is",
+  "options": [
+   "110–150 beats per minute",
+   "12–20 beats per minute",
+   "30–50 beats per minute",
+   "60–100 beats per minute"
+  ],
+  "answer": 3,
+  "explanation": "12–20 is the normal breathing rate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Vital signs",
+  "body": "A normal adult respiratory rate is",
+  "options": [
+   "4–8 breaths per minute",
+   "60–100 breaths per minute",
+   "30–40 breaths per minute",
+   "12–20 breaths per minute"
+  ],
+  "answer": 3,
+  "explanation": "Count for a full minute if irregular.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Vital signs",
+  "body": "A normal oral temperature is about",
+  "options": [
+   "104 °F (40 °C)",
+   "95 °F (35 °C)",
+   "98.6 °F (37 °C)",
+   "101 °F (38.3 °C)"
+  ],
+  "answer": 2,
+  "explanation": "Report a fever to the nurse.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Vital signs",
+  "body": "The most accurate site for a temperature reading is usually",
+  "options": [
+   "oral",
+   "the forehead with your hand",
+   "axillary",
+   "rectal"
+  ],
+  "answer": 3,
+  "explanation": "Axillary (armpit) is the least accurate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Personal care",
+  "body": "A urinary drainage bag should be kept",
+  "options": [
+   "below the level of the bladder",
+   "on the bed",
+   "on the floor",
+   "above the bladder"
+  ],
+  "answer": 0,
+  "explanation": "This stops urine flowing back and causing infection.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Personal care",
+  "body": "When giving perineal care to a female resident, wipe",
+  "options": [
+   "in any direction",
+   "from front to back",
+   "in circles",
+   "from back to front"
+  ],
+  "answer": 1,
+  "explanation": "This prevents bacteria spreading to the urethra.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Personal care",
+  "body": "When giving mouth care to an unconscious resident, position them",
+  "options": [
+   "prone",
+   "on their side with the head turned",
+   "flat on their back",
+   "sitting fully upright"
+  ],
+  "answer": 1,
+  "explanation": "This prevents aspiration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Nutrition",
+  "body": "Intake and output (I&O) records track",
+  "options": [
+   "fluids taken in and fluids lost",
+   "weight only",
+   "calories eaten only",
+   "visitors"
+  ],
+  "answer": 0,
+  "explanation": "Report big differences to the nurse.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Communication",
+  "body": "When talking to a resident with dementia, it helps to",
+  "options": [
+   "use short, simple sentences and stay calm",
+   "speak quickly",
+   "argue to correct them",
+   "ask many questions at once"
+  ],
+  "answer": 0,
+  "explanation": "Approach from the front and use their name.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Communication",
+  "body": "For a resident with a hearing loss, you should",
+  "options": [
+   "cover your mouth",
+   "shout",
+   "face them and speak clearly in a normal tone",
+   "talk from behind them"
+  ],
+  "answer": 2,
+  "explanation": "Reduce background noise.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Role",
+  "body": "Which task is outside a nurse aide's scope?",
+  "options": [
+   "Giving medications",
+   "Making an occupied bed",
+   "Taking vital signs",
+   "Helping with meals"
+  ],
+  "answer": 0,
+  "explanation": "Medication administration needs a licensed nurse (or a medication aide where allowed).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Measurement",
+  "body": "A resident drinks 4 oz of juice. How many mL is that? (1 oz = 30 mL)",
+  "options": [
+   "400 mL",
+   "120 mL",
+   "12 mL",
+   "40 mL"
+  ],
+  "answer": 1,
+  "explanation": "4 × 30 = 120 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CNA",
+  "topic": "Measurement",
+  "body": "A resident drinks 16 oz of juice. How many mL is that? (1 oz = 30 mL)",
+  "options": [
+   "1600 mL",
+   "480 mL",
+   "160 mL",
+   "48 mL"
+  ],
+  "answer": 1,
+  "explanation": "16 × 30 = 480 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CNA",
+  "topic": "Measurement",
+  "body": "A resident drinks 10 oz of juice. How many mL is that? (1 oz = 30 mL)",
+  "options": [
+   "30 mL",
+   "300 mL",
+   "100 mL",
+   "1000 mL"
+  ],
+  "answer": 1,
+  "explanation": "10 × 30 = 300 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CNA",
+  "topic": "Measurement",
+  "body": "A resident drinks 180 mL at breakfast, 150 mL mid-morning and 300 mL at lunch. What is the total intake?",
+  "options": [
+   "630 mL",
+   "480 mL",
+   "530 mL",
+   "730 mL"
+  ],
+  "answer": 0,
+  "explanation": "180 + 150 + 300 = 630 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CNA",
+  "topic": "Measurement",
+  "body": "A resident drinks 12 oz of juice. How many mL is that? (1 oz = 30 mL)",
+  "options": [
+   "36 mL",
+   "360 mL",
+   "1200 mL",
+   "120 mL"
+  ],
+  "answer": 1,
+  "explanation": "12 × 30 = 360 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CNA",
+  "topic": "Measurement",
+  "body": "A resident drinks 8 oz of juice. How many mL is that? (1 oz = 30 mL)",
+  "options": [
+   "800 mL",
+   "80 mL",
+   "240 mL",
+   "24 mL"
+  ],
+  "answer": 2,
+  "explanation": "8 × 30 = 240 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CNA",
+  "topic": "Measurement",
+  "body": "A resident drinks 230 mL at breakfast, 200 mL mid-morning and 160 mL at lunch. What is the total intake?",
+  "options": [
+   "490 mL",
+   "390 mL",
+   "590 mL",
+   "690 mL"
+  ],
+  "answer": 2,
+  "explanation": "230 + 200 + 160 = 590 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CNA",
+  "topic": "Measurement",
+  "body": "A resident drinks 130 mL at breakfast, 110 mL mid-morning and 210 mL at lunch. What is the total intake?",
+  "options": [
+   "550 mL",
+   "340 mL",
+   "450 mL",
+   "350 mL"
+  ],
+  "answer": 2,
+  "explanation": "130 + 110 + 210 = 450 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CNA",
+  "topic": "Measurement",
+  "body": "A resident drinks 140 mL at breakfast, 140 mL mid-morning and 330 mL at lunch. What is the total intake?",
+  "options": [
+   "510 mL",
+   "710 mL",
+   "610 mL",
+   "470 mL"
+  ],
+  "answer": 2,
+  "explanation": "140 + 140 + 330 = 610 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CNA",
+  "topic": "Measurement",
+  "body": "A resident drinks 240 mL at breakfast, 190 mL mid-morning and 170 mL at lunch. What is the total intake?",
+  "options": [
+   "500 mL",
+   "600 mL",
+   "410 mL",
+   "700 mL"
+  ],
+  "answer": 1,
+  "explanation": "240 + 190 + 170 = 600 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CNA",
+  "topic": "Measurement",
+  "body": "A resident drinks 170 mL at breakfast, 70 mL mid-morning and 110 mL at lunch. What is the total intake?",
+  "options": [
+   "450 mL",
+   "250 mL",
+   "350 mL",
+   "280 mL"
+  ],
+  "answer": 2,
+  "explanation": "170 + 70 + 110 = 350 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CNA",
+  "topic": "Measurement",
+  "body": "A resident drinks 120 mL at breakfast, 140 mL mid-morning and 290 mL at lunch. What is the total intake?",
+  "options": [
+   "550 mL",
+   "650 mL",
+   "450 mL",
+   "410 mL"
+  ],
+  "answer": 0,
+  "explanation": "120 + 140 + 290 = 550 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CNA",
+  "topic": "Measurement",
+  "body": "A resident drinks 190 mL at breakfast, 210 mL mid-morning and 200 mL at lunch. What is the total intake?",
+  "options": [
+   "390 mL",
+   "700 mL",
+   "500 mL",
+   "600 mL"
+  ],
+  "answer": 3,
+  "explanation": "190 + 210 + 200 = 600 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CNA",
+  "topic": "Measurement",
+  "body": "A resident drinks 130 mL at breakfast, 190 mL mid-morning and 300 mL at lunch. What is the total intake?",
+  "options": [
+   "520 mL",
+   "720 mL",
+   "620 mL",
+   "430 mL"
+  ],
+  "answer": 2,
+  "explanation": "130 + 190 + 300 = 620 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "CNA",
+  "topic": "Infection control",
+  "body": "When putting on PPE, which is usually put on last?",
+  "options": [
+   "Gown",
+   "Goggles",
+   "Gloves",
+   "Mask"
+  ],
+  "answer": 2,
+  "explanation": "Gloves go on last so they cover the gown cuffs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Infection control",
+  "body": "Hand sanitiser does NOT work well against",
+  "options": [
+   "flu viruses",
+   "C. difficile spores",
+   "common cold viruses",
+   "most bacteria on clean hands"
+  ],
+  "answer": 1,
+  "explanation": "Wash with soap and water for C. diff.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Infection control",
+  "body": "Soiled linen should be",
+  "options": [
+   "carried against your chest",
+   "held away from your uniform and placed in the laundry hamper",
+   "shaken out to remove debris",
+   "put on the floor"
+  ],
+  "answer": 1,
+  "explanation": "Shaking spreads microorganisms.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Infection control",
+  "body": "A resident on airborne precautions (for example, tuberculosis) needs staff to wear",
+  "options": [
+   "gloves only",
+   "no mask",
+   "a fitted N95 respirator",
+   "a surgical cap only"
+  ],
+  "answer": 2,
+  "explanation": "They are cared for in a negative-pressure room.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Resident rights",
+  "body": "The 1987 federal law that set standards for nursing homes and nurse aide training is",
+  "options": [
+   "OSHA",
+   "HIPAA",
+   "OBRA",
+   "ADA"
+  ],
+  "answer": 2,
+  "explanation": "OBRA requires training and a competency exam.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Resident rights",
+  "body": "Taking a resident's money without permission is",
+  "options": [
+   "a medication error",
+   "neglect",
+   "allowed if small",
+   "misappropriation of property (theft)"
+  ],
+  "answer": 3,
+  "explanation": "It must be reported.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Resident rights",
+  "body": "Failing to give a resident needed care, such as leaving them wet for hours, is",
+  "options": [
+   "dignity",
+   "an incident report",
+   "range of motion",
+   "neglect"
+  ],
+  "answer": 3,
+  "explanation": "Neglect is a form of abuse.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Resident rights",
+  "body": "Keeping a resident in their room against their will is",
+  "options": [
+   "privacy",
+   "isolation precautions",
+   "a care plan",
+   "involuntary seclusion"
+  ],
+  "answer": 3,
+  "explanation": "It is a form of abuse.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Safety",
+  "body": "Before moving a resident, you should first",
+  "options": [
+   "check the care plan and explain what you will do",
+   "lift them quickly",
+   "call the family",
+   "remove the call light"
+  ],
+  "answer": 0,
+  "explanation": "Use correct body mechanics and get help if needed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Safety",
+  "body": "Good body mechanics include",
+  "options": [
+   "bending your knees and keeping the load close to your body",
+   "lifting with straight legs",
+   "twisting while lifting",
+   "bending at the waist"
+  ],
+  "answer": 0,
+  "explanation": "Keep a wide base of support.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Safety",
+  "body": "If a resident starts to fall while walking, you should",
+  "options": [
+   "pull them by the arm",
+   "try to hold them upright",
+   "ease them gently to the floor while protecting their head",
+   "let go and get help"
+  ],
+  "answer": 2,
+  "explanation": "Then call for the nurse and don't move them until checked.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Safety",
+  "body": "A resident has a seizure. You should",
+  "options": [
+   "put a spoon in their mouth",
+   "hold them down",
+   "protect their head, move objects away and not put anything in their mouth",
+   "give them water"
+  ],
+  "answer": 2,
+  "explanation": "Note how long it lasts and call the nurse.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Nutrition",
+  "body": "A resident with dysphagia has difficulty",
+  "options": [
+   "swallowing",
+   "seeing",
+   "walking",
+   "speaking"
+  ],
+  "answer": 0,
+  "explanation": "They may need thickened liquids and must sit upright to eat.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Nutrition",
+  "body": "When feeding a resident, they should be positioned",
+  "options": [
+   "lying flat",
+   "sitting upright at 90 degrees if possible",
+   "on their left side",
+   "on their stomach"
+  ],
+  "answer": 1,
+  "explanation": "This reduces the risk of choking and aspiration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Nutrition",
+  "body": "NPO means the resident should have",
+  "options": [
+   "no pillows",
+   "no visitors",
+   "nothing by mouth",
+   "normal portions only"
+  ],
+  "answer": 2,
+  "explanation": "It is often ordered before surgery or tests.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Vital signs",
+  "body": "Blood pressure is written as",
+  "options": [
+   "diastolic over systolic",
+   "systolic over diastolic",
+   "pulse over breaths",
+   "temperature over pulse"
+  ],
+  "answer": 1,
+  "explanation": "For example 120/80 mmHg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Vital signs",
+  "body": "Where is the radial pulse taken?",
+  "options": [
+   "At the neck",
+   "Behind the knee",
+   "On the thumb side of the inner wrist",
+   "On the top of the foot"
+  ],
+  "answer": 2,
+  "explanation": "It is the most common site for routine checks.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Personal care",
+  "body": "When shaving a resident with a safety razor, shave",
+  "options": [
+   "in the direction the hair grows",
+   "against the hair growth",
+   "in circles",
+   "without water"
+  ],
+  "answer": 0,
+  "explanation": "Residents on blood thinners usually need an electric razor.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Personal care",
+  "body": "Before giving a bath, check that the water temperature is",
+  "options": [
+   "cold",
+   "safe, around 105 °F (40.5 °C), and test it",
+   "as hot as possible",
+   "untested"
+  ],
+  "answer": 1,
+  "explanation": "Elderly skin burns easily.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Personal care",
+  "body": "Range of motion exercises help",
+  "options": [
+   "replace meals",
+   "lower blood sugar",
+   "stop infections",
+   "keep joints moving and prevent contractures"
+  ],
+  "answer": 3,
+  "explanation": "Never force a joint past the point of pain.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Communication",
+  "body": "If a resident is angry, you should",
+  "options": [
+   "argue back",
+   "threaten to report them",
+   "stay calm, listen and not argue",
+   "leave them alone for the shift"
+  ],
+  "answer": 2,
+  "explanation": "Report the behaviour to the nurse.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "Role",
+  "body": "If you are asked to do a task you were not trained for, you should",
+  "options": [
+   "ask another resident",
+   "do it anyway",
+   "tell the nurse you have not been trained to do it",
+   "guess"
+  ],
+  "answer": 2,
+  "explanation": "Work only within your scope of practice.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CNA",
+  "topic": "End of life",
+  "body": "Hearing is often",
+  "options": [
+   "the last sense to be lost when a person is dying",
+   "unaffected by anything",
+   "not important",
+   "lost first"
+  ],
+  "answer": 0,
+  "explanation": "Keep speaking calmly and kindly to the resident.",
+  "difficulty": 2
+ }
+]

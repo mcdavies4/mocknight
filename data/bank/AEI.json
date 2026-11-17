@@ -1,0 +1,646 @@
+[
+ {
+  "subject": "AEI",
+  "topic": "Units",
+  "body": "Electrical resistance is measured in",
+  "options": [
+   "watts",
+   "volts",
+   "amperes",
+   "ohms"
+  ],
+  "answer": 3,
+  "explanation": "The symbol is Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Units",
+  "body": "Electric current is measured in",
+  "options": [
+   "farads",
+   "amperes (amps)",
+   "volts",
+   "ohms"
+  ],
+  "answer": 1,
+  "explanation": "Measured with an ammeter connected in series.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Units",
+  "body": "Electrical power is measured in",
+  "options": [
+   "amps",
+   "watts",
+   "henries",
+   "ohms"
+  ],
+  "answer": 1,
+  "explanation": "Power = voltage × current.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Units",
+  "body": "Capacitance is measured in",
+  "options": [
+   "teslas",
+   "ohms",
+   "farads",
+   "henries"
+  ],
+  "answer": 2,
+  "explanation": "Inductance is measured in henries.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Units",
+  "body": "The frequency of household AC power in the United States is",
+  "options": [
+   "100 Hz",
+   "60 Hz",
+   "50 Hz",
+   "120 Hz"
+  ],
+  "answer": 1,
+  "explanation": "Standard outlets supply about 120 V.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Components",
+  "body": "A device that stores electric charge is a",
+  "options": [
+   "resistor",
+   "diode",
+   "fuse",
+   "capacitor"
+  ],
+  "answer": 3,
+  "explanation": "It blocks DC and passes AC.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Components",
+  "body": "A diode allows current to flow",
+  "options": [
+   "in both directions equally",
+   "only in AC circuits",
+   "in one direction only",
+   "only when cold"
+  ],
+  "answer": 2,
+  "explanation": "It is used to rectify AC into DC.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Components",
+  "body": "A transistor is mainly used to",
+  "options": [
+   "measure resistance",
+   "generate light only",
+   "amplify or switch signals",
+   "store charge"
+  ],
+  "answer": 2,
+  "explanation": "Transistors are the basis of modern electronics.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Components",
+  "body": "A fuse protects a circuit by",
+  "options": [
+   "storing extra current",
+   "melting and breaking the circuit when current is too high",
+   "increasing the voltage",
+   "cooling the wires"
+  ],
+  "answer": 1,
+  "explanation": "A circuit breaker does the same job and can be reset.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Components",
+  "body": "A transformer is used to",
+  "options": [
+   "store charge",
+   "change AC voltage",
+   "measure current",
+   "convert AC to DC"
+  ],
+  "answer": 1,
+  "explanation": "It works only with AC.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Materials",
+  "body": "Which material is the best electrical conductor?",
+  "options": [
+   "Dry wood",
+   "Glass",
+   "Copper",
+   "Rubber"
+  ],
+  "answer": 2,
+  "explanation": "Silver is better still but costs more.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Materials",
+  "body": "Rubber and plastic are used to cover wires because they are",
+  "options": [
+   "conductors",
+   "magnets",
+   "semiconductors",
+   "insulators"
+  ],
+  "answer": 3,
+  "explanation": "Insulators resist the flow of current.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Materials",
+  "body": "Silicon is a",
+  "options": [
+   "magnet",
+   "semiconductor",
+   "insulator",
+   "conductor"
+  ],
+  "answer": 1,
+  "explanation": "Semiconductors are used to make diodes and transistors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Circuits",
+  "body": "In a series circuit, if one bulb breaks",
+  "options": [
+   "the others get brighter",
+   "all the bulbs go out",
+   "nothing changes",
+   "only that bulb goes out"
+  ],
+  "answer": 1,
+  "explanation": "There is only one path for current.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Circuits",
+  "body": "In a parallel circuit, the voltage across each branch is",
+  "options": [
+   "doubled",
+   "the same",
+   "zero",
+   "shared out between branches"
+  ],
+  "answer": 1,
+  "explanation": "Current splits between the branches.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Circuits",
+  "body": "Adding more resistors in parallel makes the total resistance",
+  "options": [
+   "smaller",
+   "larger",
+   "zero only if two are added",
+   "unchanged"
+  ],
+  "answer": 0,
+  "explanation": "More paths let more current flow.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Safety",
+  "body": "In US household wiring, the green (or bare) wire is the",
+  "options": [
+   "hot wire",
+   "signal wire",
+   "neutral wire",
+   "ground"
+  ],
+  "answer": 3,
+  "explanation": "Black is usually hot and white is neutral.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Safety",
+  "body": "A GFCI outlet is designed to",
+  "options": [
+   "convert AC to DC",
+   "increase the voltage",
+   "cut power when current leaks to ground",
+   "store power"
+  ],
+  "answer": 2,
+  "explanation": "They are used near water in kitchens and bathrooms.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Magnetism",
+  "body": "A coil of wire carrying current creates",
+  "options": [
+   "a magnetic field",
+   "light",
+   "sound",
+   "static electricity"
+  ],
+  "answer": 0,
+  "explanation": "This is the basis of electromagnets and motors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Magnetism",
+  "body": "A generator turns",
+  "options": [
+   "mechanical energy into electrical energy",
+   "light into heat",
+   "AC into DC",
+   "electrical energy into motion"
+  ],
+  "answer": 0,
+  "explanation": "A motor does the reverse.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Ohm's law",
+  "body": "A 60 V supply drives 5 A through a resistor. What is its resistance?",
+  "options": [
+   "13 Ω",
+   "300 Ω",
+   "12 Ω",
+   "60 Ω"
+  ],
+  "answer": 2,
+  "explanation": "R = V ÷ I = 60 ÷ 5 = 12 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Ohm's law",
+  "body": "A 10 V source is connected across a 20 Ω resistor. What current flows?",
+  "options": [
+   "200 A",
+   "0.5 A",
+   "10 A",
+   "2 A"
+  ],
+  "answer": 1,
+  "explanation": "I = V ÷ R = 10 ÷ 20 = 0.5 A.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Ohm's law",
+  "body": "A 40 V supply drives 4 A through a resistor. What is its resistance?",
+  "options": [
+   "10 Ω",
+   "0.1 Ω",
+   "160 Ω",
+   "40 Ω"
+  ],
+  "answer": 0,
+  "explanation": "R = V ÷ I = 40 ÷ 4 = 10 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Ohm's law",
+  "body": "A 6 V source is connected across a 6 Ω resistor. What current flows?",
+  "options": [
+   "1 A",
+   "36 A",
+   "2 A",
+   "6 A"
+  ],
+  "answer": 0,
+  "explanation": "I = V ÷ R = 6 ÷ 6 = 1 A.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Ohm's law",
+  "body": "A current of 4 A flows through a 24 Ω resistor. What is the voltage across it?",
+  "options": [
+   "28 V",
+   "6 V",
+   "96 V",
+   "106 V"
+  ],
+  "answer": 2,
+  "explanation": "V = I × R = 4 × 24 = 96 V.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Ohm's law",
+  "body": "A current of 1 A flows through a 4 Ω resistor. What is the voltage across it?",
+  "options": [
+   "4 V",
+   "5 V",
+   "3 V",
+   "0.25 V"
+  ],
+  "answer": 0,
+  "explanation": "V = I × R = 1 × 4 = 4 V.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Ohm's law",
+  "body": "A current of 4 A flows through a 10 Ω resistor. What is the voltage across it?",
+  "options": [
+   "14 V",
+   "0.4 V",
+   "2.5 V",
+   "40 V"
+  ],
+  "answer": 3,
+  "explanation": "V = I × R = 4 × 10 = 40 V.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Ohm's law",
+  "body": "A 18 V supply drives 3 A through a resistor. What is its resistance?",
+  "options": [
+   "6 Ω",
+   "7 Ω",
+   "54 Ω",
+   "18 Ω"
+  ],
+  "answer": 0,
+  "explanation": "R = V ÷ I = 18 ÷ 3 = 6 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Ohm's law",
+  "body": "A 12 V source is connected across a 24 Ω resistor. What current flows?",
+  "options": [
+   "2 A",
+   "288 A",
+   "0.5 A",
+   "12 A"
+  ],
+  "answer": 2,
+  "explanation": "I = V ÷ R = 12 ÷ 24 = 0.5 A.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Ohm's law",
+  "body": "A current of 0.5 A flows through a 24 Ω resistor. What is the voltage across it?",
+  "options": [
+   "13 V",
+   "12 V",
+   "24.5 V",
+   "48 V"
+  ],
+  "answer": 1,
+  "explanation": "V = I × R = 0.5 × 24 = 12 V.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Power",
+  "body": "A device draws 2 A from a 240 V supply. How much power does it use?",
+  "options": [
+   "480 W",
+   "528 W",
+   "120 W",
+   "242 W"
+  ],
+  "answer": 0,
+  "explanation": "P = V × I = 240 × 2 = 480 W.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Power",
+  "body": "A device draws 10 A from a 120 V supply. How much power does it use?",
+  "options": [
+   "130 W",
+   "12 W",
+   "1320 W",
+   "1200 W"
+  ],
+  "answer": 3,
+  "explanation": "P = V × I = 120 × 10 = 1200 W.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Power",
+  "body": "A device draws 0.5 A from a 120 V supply. How much power does it use?",
+  "options": [
+   "60 W",
+   "66 W",
+   "240 W",
+   "120.5 W"
+  ],
+  "answer": 0,
+  "explanation": "P = V × I = 120 × 0.5 = 60 W.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Power",
+  "body": "A device draws 2 A from a 120 V supply. How much power does it use?",
+  "options": [
+   "122 W",
+   "240 W",
+   "264 W",
+   "60 W"
+  ],
+  "answer": 1,
+  "explanation": "P = V × I = 120 × 2 = 240 W.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Power",
+  "body": "A device draws 1 A from a 12 V supply. How much power does it use?",
+  "options": [
+   "13 W",
+   "24 W",
+   "11 W",
+   "12 W"
+  ],
+  "answer": 3,
+  "explanation": "P = V × I = 12 × 1 = 12 W.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Power",
+  "body": "A device draws 0.5 A from a 12 V supply. How much power does it use?",
+  "options": [
+   "7 W",
+   "12.5 W",
+   "6 W",
+   "24 W"
+  ],
+  "answer": 2,
+  "explanation": "P = V × I = 12 × 0.5 = 6 W.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Power",
+  "body": "A device draws 5 A from a 120 V supply. How much power does it use?",
+  "options": [
+   "24 W",
+   "600 W",
+   "660 W",
+   "125 W"
+  ],
+  "answer": 1,
+  "explanation": "P = V × I = 120 × 5 = 600 W.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Power",
+  "body": "A device draws 10 A from a 240 V supply. How much power does it use?",
+  "options": [
+   "2640 W",
+   "2400 W",
+   "24 W",
+   "250 W"
+  ],
+  "answer": 1,
+  "explanation": "P = V × I = 240 × 10 = 2400 W.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Series and parallel",
+  "body": "What is the total resistance of 2 Ω and 12 Ω in parallel?",
+  "options": [
+   "24 Ω",
+   "7 Ω",
+   "1.71 Ω",
+   "14 Ω"
+  ],
+  "answer": 2,
+  "explanation": "In parallel: (2 × 12) ÷ (2 + 12) = 1.71 Ω.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AEI",
+  "topic": "Series and parallel",
+  "body": "What is the total resistance of 4 Ω and 2 Ω in series?",
+  "options": [
+   "2 Ω",
+   "1.33 Ω",
+   "8 Ω",
+   "6 Ω"
+  ],
+  "answer": 3,
+  "explanation": "In series, add them: 4 + 2 = 6 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Series and parallel",
+  "body": "What is the total resistance of 2 Ω and 2 Ω in parallel?",
+  "options": [
+   "1 Ω",
+   "0 Ω",
+   "4 Ω",
+   "2 Ω"
+  ],
+  "answer": 0,
+  "explanation": "In parallel: (2 × 2) ÷ (2 + 2) = 1 Ω.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AEI",
+  "topic": "Series and parallel",
+  "body": "What is the total resistance of 6 Ω and 2 Ω in series?",
+  "options": [
+   "4 Ω",
+   "8 Ω",
+   "12 Ω",
+   "1.5 Ω"
+  ],
+  "answer": 1,
+  "explanation": "In series, add them: 6 + 2 = 8 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Series and parallel",
+  "body": "What is the total resistance of 2 Ω and 4 Ω in parallel?",
+  "options": [
+   "8 Ω",
+   "6 Ω",
+   "1.33 Ω",
+   "3 Ω"
+  ],
+  "answer": 2,
+  "explanation": "In parallel: (2 × 4) ÷ (2 + 4) = 1.33 Ω.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AEI",
+  "topic": "Series and parallel",
+  "body": "What is the total resistance of 4 Ω and 12 Ω in parallel?",
+  "options": [
+   "8 Ω",
+   "3 Ω",
+   "16 Ω",
+   "48 Ω"
+  ],
+  "answer": 1,
+  "explanation": "In parallel: (4 × 12) ÷ (4 + 12) = 3 Ω.",
+  "difficulty": 3
+ },
+ {
+  "subject": "AEI",
+  "topic": "Series and parallel",
+  "body": "What is the total resistance of 4 Ω and 15 Ω in series?",
+  "options": [
+   "11 Ω",
+   "60 Ω",
+   "3.16 Ω",
+   "19 Ω"
+  ],
+  "answer": 3,
+  "explanation": "In series, add them: 4 + 15 = 19 Ω.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEI",
+  "topic": "Series and parallel",
+  "body": "What is the total resistance of 3 Ω and 4 Ω in parallel?",
+  "options": [
+   "3.5 Ω",
+   "7 Ω",
+   "12 Ω",
+   "1.71 Ω"
+  ],
+  "answer": 3,
+  "explanation": "In parallel: (3 × 4) ÷ (3 + 4) = 1.71 Ω.",
+  "difficulty": 3
+ }
+]

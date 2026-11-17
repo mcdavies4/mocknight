@@ -1,0 +1,786 @@
+[
+ {
+  "subject": "GSC",
+  "topic": "Life science",
+  "body": "Photosynthesis takes place in the",
+  "options": [
+   "nucleus",
+   "ribosomes",
+   "mitochondria",
+   "chloroplasts"
+  ],
+  "answer": 3,
+  "explanation": "Chlorophyll in chloroplasts captures light energy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Life science",
+  "body": "Cellular respiration releases energy in the",
+  "options": [
+   "chloroplasts",
+   "vacuole",
+   "mitochondria",
+   "cell wall"
+  ],
+  "answer": 2,
+  "explanation": "Mitochondria are called the powerhouse of the cell.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Life science",
+  "body": "Plants take in which gas for photosynthesis?",
+  "options": [
+   "Hydrogen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Oxygen"
+  ],
+  "answer": 1,
+  "explanation": "They release oxygen as a by-product.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Life science",
+  "body": "The genetic material in cells is",
+  "options": [
+   "cellulose",
+   "glucose",
+   "DNA",
+   "ATP"
+  ],
+  "answer": 2,
+  "explanation": "Genes are sections of DNA.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Life science",
+  "body": "Cell division that makes two identical body cells is",
+  "options": [
+   "fertilisation",
+   "mitosis",
+   "osmosis",
+   "meiosis"
+  ],
+  "answer": 1,
+  "explanation": "Meiosis makes sex cells with half the chromosomes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Life science",
+  "body": "Organisms that make their own food are",
+  "options": [
+   "decomposers",
+   "producers",
+   "consumers",
+   "predators"
+  ],
+  "answer": 1,
+  "explanation": "Plants and algae are producers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Life science",
+  "body": "Bacteria and fungi that break down dead matter are",
+  "options": [
+   "parasites",
+   "producers",
+   "herbivores",
+   "decomposers"
+  ],
+  "answer": 3,
+  "explanation": "They recycle nutrients into the soil.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Life science",
+  "body": "The body keeping a stable internal environment is called",
+  "options": [
+   "evolution",
+   "homeostasis",
+   "metabolism",
+   "adaptation"
+  ],
+  "answer": 1,
+  "explanation": "Body temperature regulation is an example.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Life science",
+  "body": "Natural selection means organisms with helpful traits",
+  "options": [
+   "choose to change their genes",
+   "never die",
+   "stop evolving",
+   "are more likely to survive and reproduce"
+  ],
+  "answer": 3,
+  "explanation": "This is Darwin's theory of evolution.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Life science",
+  "body": "A dominant allele is",
+  "options": [
+   "only expressed with two copies",
+   "never expressed",
+   "expressed when at least one copy is present",
+   "found only in males"
+  ],
+  "answer": 2,
+  "explanation": "Recessive traits need two copies.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Physical science",
+  "body": "Newton's first law says an object keeps its motion unless",
+  "options": [
+   "it is moving fast",
+   "it is heavy",
+   "a net force acts on it",
+   "it is in space"
+  ],
+  "answer": 2,
+  "explanation": "This is the law of inertia.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Physical science",
+  "body": "Newton's second law is",
+  "options": [
+   "V = IR",
+   "F = ma",
+   "E = mc²",
+   "P = mv only"
+  ],
+  "answer": 1,
+  "explanation": "Force equals mass times acceleration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Physical science",
+  "body": "For every action there is an equal and opposite reaction. This is Newton's",
+  "options": [
+   "second law",
+   "law of gravity",
+   "third law",
+   "first law"
+  ],
+  "answer": 2,
+  "explanation": "Rocket engines rely on it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Physical science",
+  "body": "Energy stored because of an object's height is",
+  "options": [
+   "gravitational potential energy",
+   "kinetic energy",
+   "thermal energy",
+   "sound energy"
+  ],
+  "answer": 0,
+  "explanation": "It turns into kinetic energy as the object falls.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Physical science",
+  "body": "Energy cannot be created or destroyed, only changed in form. This is the",
+  "options": [
+   "law of gravity",
+   "law of inertia",
+   "law of demand",
+   "law of conservation of energy"
+  ],
+  "answer": 3,
+  "explanation": "Total energy in a closed system stays the same.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Physical science",
+  "body": "The change from liquid to gas is",
+  "options": [
+   "freezing",
+   "evaporation",
+   "melting",
+   "condensation"
+  ],
+  "answer": 1,
+  "explanation": "Condensation is gas to liquid.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Physical science",
+  "body": "Heat transfer through direct contact is",
+  "options": [
+   "insulation",
+   "convection",
+   "radiation",
+   "conduction"
+  ],
+  "answer": 3,
+  "explanation": "Convection moves heat through fluids; radiation through waves.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Physical science",
+  "body": "On the pH scale, a solution with pH 2 is",
+  "options": [
+   "neutral",
+   "strongly basic",
+   "strongly acidic",
+   "weakly basic"
+  ],
+  "answer": 2,
+  "explanation": "pH 7 is neutral; below 7 is acidic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Physical science",
+  "body": "A substance made of only one type of atom is",
+  "options": [
+   "a solution",
+   "an element",
+   "a compound",
+   "a mixture"
+  ],
+  "answer": 1,
+  "explanation": "Compounds contain two or more elements chemically joined.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Earth and space",
+  "body": "The theory that Earth's crust is made of moving plates is",
+  "options": [
+   "erosion theory",
+   "continental gravity",
+   "the big bang",
+   "plate tectonics"
+  ],
+  "answer": 3,
+  "explanation": "Plate movement causes earthquakes and volcanoes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Earth and space",
+  "body": "The layer of Earth we live on is the",
+  "options": [
+   "outer core",
+   "crust",
+   "mantle",
+   "inner core"
+  ],
+  "answer": 1,
+  "explanation": "It is the thinnest layer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Earth and space",
+  "body": "Earth's seasons are caused by",
+  "options": [
+   "the Moon's phases",
+   "ocean currents",
+   "Earth's distance from the Sun",
+   "the tilt of Earth's axis"
+  ],
+  "answer": 3,
+  "explanation": "The tilt changes how directly sunlight hits each hemisphere.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Earth and space",
+  "body": "One full spin of Earth on its axis takes about",
+  "options": [
+   "28 days",
+   "365 days",
+   "12 hours",
+   "24 hours"
+  ],
+  "answer": 3,
+  "explanation": "One orbit of the Sun takes about 365 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Earth and space",
+  "body": "Which gas makes up most of Earth's atmosphere?",
+  "options": [
+   "Oxygen",
+   "Argon",
+   "Carbon dioxide",
+   "Nitrogen"
+  ],
+  "answer": 3,
+  "explanation": "About 78% nitrogen and 21% oxygen.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Earth and space",
+  "body": "The main greenhouse gas released by burning fossil fuels is",
+  "options": [
+   "oxygen",
+   "helium",
+   "carbon dioxide",
+   "nitrogen"
+  ],
+  "answer": 2,
+  "explanation": "It traps heat in the atmosphere.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Scientific method",
+  "body": "In an experiment, the variable the scientist changes on purpose is the",
+  "options": [
+   "control variable",
+   "constant",
+   "dependent variable",
+   "independent variable"
+  ],
+  "answer": 3,
+  "explanation": "The dependent variable is what is measured.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Scientific method",
+  "body": "The group in an experiment that does not get the treatment is the",
+  "options": [
+   "control group",
+   "experimental group",
+   "hypothesis",
+   "sample"
+  ],
+  "answer": 0,
+  "explanation": "It gives a baseline for comparison.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Scientific method",
+  "body": "A testable prediction is a",
+  "options": [
+   "theory",
+   "hypothesis",
+   "conclusion",
+   "law"
+  ],
+  "answer": 1,
+  "explanation": "A theory is a well-tested explanation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "An object has a mass of 5 g and a volume of 2 cm³. What is its density?",
+  "options": [
+   "2.5 g/cm³",
+   "10 g/cm³",
+   "0.4 g/cm³",
+   "7 g/cm³"
+  ],
+  "answer": 0,
+  "explanation": "Density = mass ÷ volume = 5 ÷ 2 = 2.5 g/cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "An object has a mass of 19 g and a volume of 2 cm³. What is its density?",
+  "options": [
+   "38 g/cm³",
+   "9.5 g/cm³",
+   "0.11 g/cm³",
+   "21 g/cm³"
+  ],
+  "answer": 1,
+  "explanation": "Density = mass ÷ volume = 19 ÷ 2 = 9.5 g/cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "An object has a mass of 4 g and a volume of 6 cm³. What is its density?",
+  "options": [
+   "1.5 g/cm³",
+   "10 g/cm³",
+   "24 g/cm³",
+   "0.67 g/cm³"
+  ],
+  "answer": 3,
+  "explanation": "Density = mass ÷ volume = 4 ÷ 6 = 0.67 g/cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "An object has a mass of 14 g and a volume of 4 cm³. What is its density?",
+  "options": [
+   "18 g/cm³",
+   "56 g/cm³",
+   "0.29 g/cm³",
+   "3.5 g/cm³"
+  ],
+  "answer": 3,
+  "explanation": "Density = mass ÷ volume = 14 ÷ 4 = 3.5 g/cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "An object has a mass of 5 g and a volume of 4 cm³. What is its density?",
+  "options": [
+   "20 g/cm³",
+   "9 g/cm³",
+   "1.25 g/cm³",
+   "0.8 g/cm³"
+  ],
+  "answer": 2,
+  "explanation": "Density = mass ÷ volume = 5 ÷ 4 = 1.25 g/cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "An object has a mass of 3 g and a volume of 2 cm³. What is its density?",
+  "options": [
+   "0.67 g/cm³",
+   "6 g/cm³",
+   "1.5 g/cm³",
+   "5 g/cm³"
+  ],
+  "answer": 2,
+  "explanation": "Density = mass ÷ volume = 3 ÷ 2 = 1.5 g/cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "An object has a mass of 2 g and a volume of 8 cm³. What is its density?",
+  "options": [
+   "0.25 g/cm³",
+   "16 g/cm³",
+   "4 g/cm³",
+   "10 g/cm³"
+  ],
+  "answer": 0,
+  "explanation": "Density = mass ÷ volume = 2 ÷ 8 = 0.25 g/cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "An object has a mass of 17 g and a volume of 10 cm³. What is its density?",
+  "options": [
+   "27 g/cm³",
+   "0.59 g/cm³",
+   "1.7 g/cm³",
+   "170 g/cm³"
+  ],
+  "answer": 2,
+  "explanation": "Density = mass ÷ volume = 17 ÷ 10 = 1.7 g/cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "A car travels 200 miles in 2 hours. What is its average speed?",
+  "options": [
+   "100 mph",
+   "0.01 mph",
+   "400 mph",
+   "198 mph"
+  ],
+  "answer": 0,
+  "explanation": "Speed = distance ÷ time = 200 ÷ 2 = 100 mph.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "A car travels 260 miles in 5 hours. What is its average speed?",
+  "options": [
+   "52 mph",
+   "1300 mph",
+   "57 mph",
+   "255 mph"
+  ],
+  "answer": 0,
+  "explanation": "Speed = distance ÷ time = 260 ÷ 5 = 52 mph.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "A car travels 240 miles in 4 hours. What is its average speed?",
+  "options": [
+   "960 mph",
+   "236 mph",
+   "66 mph",
+   "60 mph"
+  ],
+  "answer": 3,
+  "explanation": "Speed = distance ÷ time = 240 ÷ 4 = 60 mph.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "A car travels 200 miles in 5 hours. What is its average speed?",
+  "options": [
+   "1000 mph",
+   "195 mph",
+   "44 mph",
+   "40 mph"
+  ],
+  "answer": 3,
+  "explanation": "Speed = distance ÷ time = 200 ÷ 5 = 40 mph.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "A car travels 230 miles in 5 hours. What is its average speed?",
+  "options": [
+   "51 mph",
+   "46 mph",
+   "1150 mph",
+   "225 mph"
+  ],
+  "answer": 1,
+  "explanation": "Speed = distance ÷ time = 230 ÷ 5 = 46 mph.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "A car travels 70 miles in 4 hours. What is its average speed?",
+  "options": [
+   "280 mph",
+   "17.5 mph",
+   "19.5 mph",
+   "66 mph"
+  ],
+  "answer": 1,
+  "explanation": "Speed = distance ÷ time = 70 ÷ 4 = 17.5 mph.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "A car travels 160 miles in 4 hours. What is its average speed?",
+  "options": [
+   "44 mph",
+   "640 mph",
+   "40 mph",
+   "156 mph"
+  ],
+  "answer": 2,
+  "explanation": "Speed = distance ÷ time = 160 ÷ 4 = 40 mph.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "A car travels 40 miles in 10 hours. What is its average speed?",
+  "options": [
+   "4 mph",
+   "30 mph",
+   "400 mph",
+   "0.25 mph"
+  ],
+  "answer": 0,
+  "explanation": "Speed = distance ÷ time = 40 ÷ 10 = 4 mph.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "What net force is needed to accelerate a 7 kg object at 6 m/s²?",
+  "options": [
+   "13 N",
+   "1.17 N",
+   "84 N",
+   "42 N"
+  ],
+  "answer": 3,
+  "explanation": "F = ma = 7 × 6 = 42 N.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "What net force is needed to accelerate a 12 kg object at 6 m/s²?",
+  "options": [
+   "72 N",
+   "18 N",
+   "2 N",
+   "144 N"
+  ],
+  "answer": 0,
+  "explanation": "F = ma = 12 × 6 = 72 N.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "What net force is needed to accelerate a 2 kg object at 2 m/s²?",
+  "options": [
+   "4 N",
+   "8 N",
+   "1 N",
+   "5 N"
+  ],
+  "answer": 0,
+  "explanation": "F = ma = 2 × 2 = 4 N.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "What net force is needed to accelerate a 7 kg object at 7 m/s²?",
+  "options": [
+   "49 N",
+   "14 N",
+   "98 N",
+   "1 N"
+  ],
+  "answer": 0,
+  "explanation": "F = ma = 7 × 7 = 49 N.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "What net force is needed to accelerate a 4 kg object at 4 m/s²?",
+  "options": [
+   "1 N",
+   "16 N",
+   "32 N",
+   "8 N"
+  ],
+  "answer": 1,
+  "explanation": "F = ma = 4 × 4 = 16 N.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "What net force is needed to accelerate a 8 kg object at 3 m/s²?",
+  "options": [
+   "24 N",
+   "48 N",
+   "11 N",
+   "2.67 N"
+  ],
+  "answer": 0,
+  "explanation": "F = ma = 8 × 3 = 24 N.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "What net force is needed to accelerate a 11 kg object at 7 m/s²?",
+  "options": [
+   "154 N",
+   "18 N",
+   "77 N",
+   "1.57 N"
+  ],
+  "answer": 2,
+  "explanation": "F = ma = 11 × 7 = 77 N.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Calculations",
+  "body": "What net force is needed to accelerate a 4 kg object at 6 m/s²?",
+  "options": [
+   "24 N",
+   "0.67 N",
+   "10 N",
+   "48 N"
+  ],
+  "answer": 0,
+  "explanation": "F = ma = 4 × 6 = 24 N.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Genetics",
+  "body": "Tall (T) is dominant over short (t). Two plants, Tt × Tt, are crossed. What percentage of offspring are expected to be short?",
+  "options": [
+   "50%",
+   "0%",
+   "75%",
+   "25%"
+  ],
+  "answer": 3,
+  "explanation": "Draw a Punnett square: short plants need tt. For Tt × Tt that is 25% of the offspring.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Genetics",
+  "body": "Tall (T) is dominant over short (t). Two plants, Tt × tt, are crossed. What percentage of offspring are expected to be short?",
+  "options": [
+   "50%",
+   "25%",
+   "0%",
+   "75%"
+  ],
+  "answer": 0,
+  "explanation": "Draw a Punnett square: short plants need tt. For Tt × tt that is 50% of the offspring.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Genetics",
+  "body": "Tall (T) is dominant over short (t). Two plants, TT × tt, are crossed. What percentage of offspring are expected to be short?",
+  "options": [
+   "0%",
+   "25%",
+   "50%",
+   "75%"
+  ],
+  "answer": 0,
+  "explanation": "Draw a Punnett square: short plants need tt. For TT × tt that is 0% of the offspring.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSC",
+  "topic": "Genetics",
+  "body": "Tall (T) is dominant over short (t). Two plants, Tt × TT, are crossed. What percentage of offspring are expected to be short?",
+  "options": [
+   "0%",
+   "50%",
+   "75%",
+   "25%"
+  ],
+  "answer": 0,
+  "explanation": "Draw a Punnett square: short plants need tt. For Tt × TT that is 0% of the offspring.",
+  "difficulty": 2
+ }
+]

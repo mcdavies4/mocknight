@@ -1,0 +1,786 @@
+[
+ {
+  "subject": "TSC",
+  "topic": "Cardiovascular",
+  "body": "How many chambers does the human heart have?",
+  "options": [
+   "4",
+   "6",
+   "3",
+   "2"
+  ],
+  "answer": 0,
+  "explanation": "Two atria and two ventricles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Cardiovascular",
+  "body": "Which chamber pumps oxygenated blood to the body?",
+  "options": [
+   "Right atrium",
+   "Right ventricle",
+   "Left atrium",
+   "Left ventricle"
+  ],
+  "answer": 3,
+  "explanation": "It has the thickest muscular wall.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Cardiovascular",
+  "body": "Deoxygenated blood returns to the heart through the vena cava into the",
+  "options": [
+   "left atrium",
+   "left ventricle",
+   "aorta",
+   "right atrium"
+  ],
+  "answer": 3,
+  "explanation": "It then passes to the right ventricle and on to the lungs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Cardiovascular",
+  "body": "Blood vessels that carry blood away from the heart are",
+  "options": [
+   "arteries",
+   "capillaries",
+   "venules",
+   "veins"
+  ],
+  "answer": 0,
+  "explanation": "Veins carry blood back to the heart.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Cardiovascular",
+  "body": "The pulmonary artery carries",
+  "options": [
+   "deoxygenated blood to the lungs",
+   "oxygenated blood to the heart",
+   "oxygenated blood to the body",
+   "lymph"
+  ],
+  "answer": 0,
+  "explanation": "It is the only artery carrying deoxygenated blood (after birth).",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Cardiovascular",
+  "body": "Gas and nutrient exchange with tissues happens in the",
+  "options": [
+   "capillaries",
+   "aorta",
+   "veins",
+   "arteries"
+  ],
+  "answer": 0,
+  "explanation": "Capillary walls are one cell thick.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Blood",
+  "body": "Red blood cells carry oxygen using",
+  "options": [
+   "antibodies",
+   "fibrin",
+   "insulin",
+   "haemoglobin"
+  ],
+  "answer": 3,
+  "explanation": "Haemoglobin contains iron.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Blood",
+  "body": "Platelets mainly help with",
+  "options": [
+   "blood clotting",
+   "fighting infection",
+   "carrying oxygen",
+   "making hormones"
+  ],
+  "answer": 0,
+  "explanation": "White blood cells fight infection.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Respiratory",
+  "body": "Gas exchange in the lungs happens in the",
+  "options": [
+   "alveoli",
+   "larynx",
+   "trachea",
+   "bronchi"
+  ],
+  "answer": 0,
+  "explanation": "Oxygen diffuses into capillaries around the alveoli.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Respiratory",
+  "body": "The main muscle of breathing is the",
+  "options": [
+   "biceps",
+   "diaphragm",
+   "intercostal fat",
+   "pectoralis major"
+  ],
+  "answer": 1,
+  "explanation": "It contracts and flattens to draw air in.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Digestive",
+  "body": "Most nutrient absorption happens in the",
+  "options": [
+   "small intestine",
+   "stomach",
+   "oesophagus",
+   "large intestine"
+  ],
+  "answer": 0,
+  "explanation": "Villi increase its surface area.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Digestive",
+  "body": "Bile is made by the liver and stored in the",
+  "options": [
+   "stomach",
+   "spleen",
+   "gallbladder",
+   "pancreas"
+  ],
+  "answer": 2,
+  "explanation": "Bile emulsifies fats.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Digestive",
+  "body": "Salivary amylase begins the digestion of",
+  "options": [
+   "fats",
+   "vitamins",
+   "proteins",
+   "carbohydrates (starch)"
+  ],
+  "answer": 3,
+  "explanation": "Pepsin in the stomach starts protein digestion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Digestive",
+  "body": "The large intestine mainly absorbs",
+  "options": [
+   "glucose",
+   "protein",
+   "bile",
+   "water"
+  ],
+  "answer": 3,
+  "explanation": "It forms and stores faeces.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Urinary",
+  "body": "The functional unit of the kidney is the",
+  "options": [
+   "villus",
+   "nephron",
+   "neuron",
+   "alveolus"
+  ],
+  "answer": 1,
+  "explanation": "Nephrons filter blood and form urine.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Urinary",
+  "body": "Urine passes from the kidneys to the bladder through the",
+  "options": [
+   "renal artery",
+   "urethra",
+   "nephrons",
+   "ureters"
+  ],
+  "answer": 3,
+  "explanation": "The urethra carries urine out of the body.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Endocrine",
+  "body": "Insulin is produced by the",
+  "options": [
+   "adrenal glands",
+   "liver",
+   "thyroid",
+   "pancreas"
+  ],
+  "answer": 3,
+  "explanation": "It lowers blood glucose.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Endocrine",
+  "body": "The gland often called the 'master gland' is the",
+  "options": [
+   "thyroid",
+   "pituitary",
+   "pineal",
+   "adrenal"
+  ],
+  "answer": 1,
+  "explanation": "It controls many other glands.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Endocrine",
+  "body": "The thyroid gland mainly regulates",
+  "options": [
+   "vision",
+   "blood clotting",
+   "metabolism",
+   "digestion of fat"
+  ],
+  "answer": 2,
+  "explanation": "Thyroid hormones set the metabolic rate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Endocrine",
+  "body": "Adrenaline (epinephrine) is released by the",
+  "options": [
+   "adrenal glands",
+   "ovaries",
+   "pituitary",
+   "pancreas"
+  ],
+  "answer": 0,
+  "explanation": "It drives the fight-or-flight response.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Nervous",
+  "body": "The basic cell of the nervous system is the",
+  "options": [
+   "erythrocyte",
+   "nephron",
+   "osteocyte",
+   "neuron"
+  ],
+  "answer": 3,
+  "explanation": "Dendrites receive signals; the axon sends them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Nervous",
+  "body": "The central nervous system is made up of",
+  "options": [
+   "the brain and spinal cord",
+   "the heart and lungs",
+   "the nerves in the limbs",
+   "the eyes and ears"
+  ],
+  "answer": 0,
+  "explanation": "The peripheral nervous system is everything else.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Nervous",
+  "body": "The part of the brain that coordinates balance and movement is the",
+  "options": [
+   "cerebellum",
+   "medulla",
+   "hypothalamus",
+   "cerebrum"
+  ],
+  "answer": 0,
+  "explanation": "The medulla controls breathing and heart rate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Skeletal and muscular",
+  "body": "How many bones are in the adult human body?",
+  "options": [
+   "206",
+   "212",
+   "106",
+   "300"
+  ],
+  "answer": 0,
+  "explanation": "Babies are born with more, which fuse.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Skeletal and muscular",
+  "body": "The longest bone in the body is the",
+  "options": [
+   "spine",
+   "humerus",
+   "tibia",
+   "femur"
+  ],
+  "answer": 3,
+  "explanation": "It is the thigh bone.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Skeletal and muscular",
+  "body": "Muscles are attached to bones by",
+  "options": [
+   "ligaments",
+   "cartilage",
+   "tendons",
+   "nerves"
+  ],
+  "answer": 2,
+  "explanation": "Ligaments join bone to bone.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Skeletal and muscular",
+  "body": "Muscle found only in the heart is",
+  "options": [
+   "voluntary muscle",
+   "cardiac muscle",
+   "skeletal muscle",
+   "smooth muscle"
+  ],
+  "answer": 1,
+  "explanation": "It contracts without conscious control.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Integumentary",
+  "body": "The largest organ of the human body is the",
+  "options": [
+   "lungs",
+   "skin",
+   "liver",
+   "brain"
+  ],
+  "answer": 1,
+  "explanation": "It protects, regulates temperature and senses.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Immune",
+  "body": "Antibodies are produced by",
+  "options": [
+   "B lymphocytes (B cells)",
+   "red blood cells",
+   "neurons",
+   "platelets"
+  ],
+  "answer": 0,
+  "explanation": "They target specific antigens.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Reproductive",
+  "body": "Fertilisation in humans usually takes place in the",
+  "options": [
+   "cervix",
+   "uterus",
+   "fallopian tube",
+   "ovary"
+  ],
+  "answer": 2,
+  "explanation": "The embryo then implants in the uterus.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Anatomical terms",
+  "body": "In anatomical terms, 'distal' means",
+  "options": [
+   "farther from the point of attachment",
+   "toward the back",
+   "closer to the midline",
+   "toward the head"
+  ],
+  "answer": 0,
+  "explanation": "The hand is distal to the elbow.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Anatomical terms",
+  "body": "'Proximal' means",
+  "options": [
+   "on the side",
+   "toward the feet",
+   "toward the front",
+   "closer to the point of attachment"
+  ],
+  "answer": 3,
+  "explanation": "The knee is proximal to the ankle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Anatomical terms",
+  "body": "'Anterior' means",
+  "options": [
+   "toward the back",
+   "toward the front of the body",
+   "toward the head",
+   "toward the side"
+  ],
+  "answer": 1,
+  "explanation": "Posterior means toward the back.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Anatomical terms",
+  "body": "'Medial' means",
+  "options": [
+   "toward the feet",
+   "toward the surface",
+   "away from the midline",
+   "toward the midline of the body"
+  ],
+  "answer": 3,
+  "explanation": "Lateral means away from the midline.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Anatomical terms",
+  "body": "The plane that divides the body into left and right parts is the",
+  "options": [
+   "sagittal plane",
+   "coronal plane",
+   "transverse plane",
+   "frontal plane"
+  ],
+  "answer": 0,
+  "explanation": "The frontal (coronal) plane divides front and back.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Anatomical terms",
+  "body": "The plane that divides the body into upper and lower parts is the",
+  "options": [
+   "transverse plane",
+   "frontal plane",
+   "sagittal plane",
+   "median plane"
+  ],
+  "answer": 0,
+  "explanation": "It is also called the horizontal plane.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Chemistry",
+  "body": "The particle in the nucleus with no charge is the",
+  "options": [
+   "ion",
+   "neutron",
+   "proton",
+   "electron"
+  ],
+  "answer": 1,
+  "explanation": "Protons are positive; electrons are negative.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Chemistry",
+  "body": "The atomic number of an element is its number of",
+  "options": [
+   "neutrons",
+   "electrons in the outer shell",
+   "protons",
+   "isotopes"
+  ],
+  "answer": 2,
+  "explanation": "Mass number = protons + neutrons.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Chemistry",
+  "body": "A bond formed when atoms share electrons is",
+  "options": [
+   "hydrogen",
+   "ionic",
+   "covalent",
+   "metallic"
+  ],
+  "answer": 2,
+  "explanation": "Ionic bonds form when electrons are transferred.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Chemistry",
+  "body": "A solution with pH 9 is",
+  "options": [
+   "basic (alkaline)",
+   "acidic",
+   "a salt",
+   "neutral"
+  ],
+  "answer": 0,
+  "explanation": "Above 7 is basic; below 7 is acidic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Chemistry",
+  "body": "Which is a physical change?",
+  "options": [
+   "Ice melting",
+   "Milk souring",
+   "Wood burning",
+   "Iron rusting"
+  ],
+  "answer": 0,
+  "explanation": "No new substance forms in a physical change.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Scientific reasoning",
+  "body": "A conclusion is most reliable when an experiment is",
+  "options": [
+   "done once",
+   "done without a control",
+   "repeated with consistent results",
+   "changed between trials"
+  ],
+  "answer": 2,
+  "explanation": "Replication reduces chance effects.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TSC",
+  "topic": "Measurement",
+  "body": "Convert 2 kg to g.",
+  "options": [
+   "200 g",
+   "2000 g",
+   "20,000 g",
+   "2200 g"
+  ],
+  "answer": 1,
+  "explanation": "1 kg = 1000 g, so 2 × 1000 = 2000 g.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TSC",
+  "topic": "Measurement",
+  "body": "Convert 4 cm to mm.",
+  "options": [
+   "0.4 mm",
+   "40 mm",
+   "4 mm",
+   "400 mm"
+  ],
+  "answer": 1,
+  "explanation": "1 cm = 10 mm, so 4 × 10 = 40 mm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TSC",
+  "topic": "Measurement",
+  "body": "Convert 2.5 cm to mm.",
+  "options": [
+   "25 mm",
+   "2.5 mm",
+   "0.25 mm",
+   "250 mm"
+  ],
+  "answer": 0,
+  "explanation": "1 cm = 10 mm, so 2.5 × 10 = 25 mm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TSC",
+  "topic": "Measurement",
+  "body": "Convert 7.5 cm to mm.",
+  "options": [
+   "7.5 mm",
+   "75 mm",
+   "750 mm",
+   "0.75 mm"
+  ],
+  "answer": 1,
+  "explanation": "1 cm = 10 mm, so 7.5 × 10 = 75 mm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TSC",
+  "topic": "Measurement",
+  "body": "Convert 1.5 L to mL.",
+  "options": [
+   "1650 mL",
+   "150 mL",
+   "1500 mL",
+   "15,000 mL"
+  ],
+  "answer": 2,
+  "explanation": "1 L = 1000 mL, so 1.5 × 1000 = 1500 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TSC",
+  "topic": "Measurement",
+  "body": "Convert 3.2 L to mL.",
+  "options": [
+   "320 mL",
+   "32,000 mL",
+   "3200 mL",
+   "3520 mL"
+  ],
+  "answer": 2,
+  "explanation": "1 L = 1000 mL, so 3.2 × 1000 = 3200 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TSC",
+  "topic": "Measurement",
+  "body": "Convert 3.2 m to cm.",
+  "options": [
+   "32 cm",
+   "3200 cm",
+   "352 cm",
+   "320 cm"
+  ],
+  "answer": 3,
+  "explanation": "1 m = 100 cm, so 3.2 × 100 = 320 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TSC",
+  "topic": "Measurement",
+  "body": "Convert 2.5 m to cm.",
+  "options": [
+   "25 cm",
+   "250 cm",
+   "275 cm",
+   "2500 cm"
+  ],
+  "answer": 1,
+  "explanation": "1 m = 100 cm, so 2.5 × 100 = 250 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TSC",
+  "topic": "Measurement",
+  "body": "Convert 3.2 cm to mm.",
+  "options": [
+   "32 mm",
+   "0.32 mm",
+   "320 mm",
+   "3.2 mm"
+  ],
+  "answer": 0,
+  "explanation": "1 cm = 10 mm, so 3.2 × 10 = 32 mm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TSC",
+  "topic": "Measurement",
+  "body": "Convert 7.5 L to mL.",
+  "options": [
+   "8250 mL",
+   "750 mL",
+   "75,000 mL",
+   "7500 mL"
+  ],
+  "answer": 3,
+  "explanation": "1 L = 1000 mL, so 7.5 × 1000 = 7500 mL.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TSC",
+  "topic": "Measurement",
+  "body": "Convert 0.25 g to mg.",
+  "options": [
+   "2500 mg",
+   "25 mg",
+   "250 mg",
+   "275 mg"
+  ],
+  "answer": 2,
+  "explanation": "1 g = 1000 mg, so 0.25 × 1000 = 250 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TSC",
+  "topic": "Measurement",
+  "body": "Convert 2 m to cm.",
+  "options": [
+   "20 cm",
+   "200 cm",
+   "0.02 cm",
+   "2000 cm"
+  ],
+  "answer": 1,
+  "explanation": "1 m = 100 cm, so 2 × 100 = 200 cm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TSC",
+  "topic": "Measurement",
+  "body": "Convert 0.5 cm to mm.",
+  "options": [
+   "5 mm",
+   "0.5 mm",
+   "50 mm",
+   "0.05 mm"
+  ],
+  "answer": 0,
+  "explanation": "1 cm = 10 mm, so 0.5 × 10 = 5 mm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "TSC",
+  "topic": "Measurement",
+  "body": "Convert 7.5 kg to g.",
+  "options": [
+   "750 g",
+   "8250 g",
+   "75,000 g",
+   "7500 g"
+  ],
+  "answer": 3,
+  "explanation": "1 kg = 1000 g, so 7.5 × 1000 = 7500 g.",
+  "difficulty": 1
+ }
+]

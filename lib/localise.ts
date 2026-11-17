@@ -24,6 +24,13 @@ const RULES: Record<string, ReturnType<typeof rules>> = {
   CMGCE: rules("FCFA ", "francs", "centimes"),
   MATRIC: rules("R ", "rand", "cents"),
   KCPA: rules("KSh ", "shillings", "cents"),
+  GED: rules("$", "dollars", "cents"),
+  TEAS: rules("$", "dollars", "cents"),
+  ASVAB: rules("$", "dollars", "cents"),
+  CTET: rules("₹", "rupees", "paise"),
+  CAT: rules("₹", "rupees", "paise"),
+  UPSC: rules("₹", "rupees", "paise"),
+  RRB: rules("₹", "rupees", "paise"),
 };
 const NIGERIAN_TRACKS = new Set(["JAMB", "WAEC", "PUTME", "NECO", "ICAN", "NGREC", "NCEE", "JSCE", "NGCS", "OILGAS"]);
 const NIGERIA_ONLY = /\b(Nigeria|Nigerian|Lagos|Abuja|Kano|Ibadan|Port Harcourt|CBN|NNPC|INEC)\b/;

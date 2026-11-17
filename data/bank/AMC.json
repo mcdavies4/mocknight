@@ -1,0 +1,674 @@
+[
+ {
+  "subject": "AMC",
+  "topic": "Levers",
+  "body": "A see-saw is an example of a",
+  "options": [
+   "first-class lever",
+   "third-class lever",
+   "pulley",
+   "second-class lever"
+  ],
+  "answer": 0,
+  "explanation": "In a first-class lever the fulcrum is between the effort and the load.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Levers",
+  "body": "A wheelbarrow is a",
+  "options": [
+   "first-class lever",
+   "wedge",
+   "third-class lever",
+   "second-class lever"
+  ],
+  "answer": 3,
+  "explanation": "The load is between the fulcrum (wheel) and the effort.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Levers",
+  "body": "Tweezers and a fishing rod are",
+  "options": [
+   "inclined planes",
+   "second-class levers",
+   "third-class levers",
+   "first-class levers"
+  ],
+  "answer": 2,
+  "explanation": "The effort is between the fulcrum and the load.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Levers",
+  "body": "Moving the fulcrum closer to the load makes the load",
+  "options": [
+   "harder to lift",
+   "lighter in mass",
+   "heavier",
+   "easier to lift"
+  ],
+  "answer": 3,
+  "explanation": "A longer effort arm gives more mechanical advantage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Gears",
+  "body": "Two meshing gears turn",
+  "options": [
+   "in opposite directions",
+   "in the same direction",
+   "without touching",
+   "at the same speed always"
+  ],
+  "answer": 0,
+  "explanation": "Add an idler gear to make the output turn the same way.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Gears",
+  "body": "When a small gear drives a larger gear, the larger gear turns",
+  "options": [
+   "at the same speed",
+   "faster with less torque",
+   "slower with more torque",
+   "backwards only"
+  ],
+  "answer": 2,
+  "explanation": "Speed and torque trade off.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Pulleys",
+  "body": "A single fixed pulley",
+  "options": [
+   "removes friction",
+   "halves the effort",
+   "doubles the load",
+   "changes the direction of the force but gives no mechanical advantage"
+  ],
+  "answer": 3,
+  "explanation": "Mechanical advantage = 1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Pulleys",
+  "body": "A single movable pulley gives a mechanical advantage of",
+  "options": [
+   "0.5",
+   "2",
+   "4",
+   "1"
+  ],
+  "answer": 1,
+  "explanation": "Two rope sections support the load.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Simple machines",
+  "body": "A ramp is an example of",
+  "options": [
+   "a lever",
+   "an inclined plane",
+   "a pulley",
+   "a gear"
+  ],
+  "answer": 1,
+  "explanation": "It lets you use less force over a longer distance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Simple machines",
+  "body": "An axe blade is a",
+  "options": [
+   "pulley",
+   "screw",
+   "wedge",
+   "lever"
+  ],
+  "answer": 2,
+  "explanation": "A wedge is two inclined planes back to back.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Simple machines",
+  "body": "A screw is",
+  "options": [
+   "a first-class lever",
+   "a gear train",
+   "an inclined plane wrapped around a cylinder",
+   "a type of pulley"
+  ],
+  "answer": 2,
+  "explanation": "Finer threads give more mechanical advantage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Forces",
+  "body": "Friction always acts",
+  "options": [
+   "against the direction of motion",
+   "upward",
+   "in the direction of motion",
+   "only in liquids"
+  ],
+  "answer": 0,
+  "explanation": "Lubricants reduce friction.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Forces",
+  "body": "Pressure equals",
+  "options": [
+   "force divided by area",
+   "area divided by force",
+   "force times area",
+   "mass times speed"
+  ],
+  "answer": 0,
+  "explanation": "A smaller area gives a higher pressure for the same force.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Fluids",
+  "body": "In a hydraulic system, pressure applied to a liquid is",
+  "options": [
+   "doubled at each pipe",
+   "only felt at the bottom",
+   "transmitted equally throughout the liquid",
+   "lost at the pistons"
+  ],
+  "answer": 2,
+  "explanation": "This is Pascal's principle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Fluids",
+  "body": "Water flowing through a pipe that narrows will",
+  "options": [
+   "slow down",
+   "stop",
+   "reverse direction",
+   "speed up"
+  ],
+  "answer": 3,
+  "explanation": "The same volume has to pass through a smaller area.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Structures",
+  "body": "A triangle is used in bridges and roof trusses because it",
+  "options": [
+   "bends easily",
+   "is the lightest shape",
+   "keeps its shape under load",
+   "uses no materials"
+  ],
+  "answer": 2,
+  "explanation": "Triangles are rigid.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Levers",
+  "body": "A 60 lb load sits 1 ft from the fulcrum. How much effort is needed 2 ft from the fulcrum on the other side to balance it?",
+  "options": [
+   "120 lb",
+   "58 lb",
+   "33 lb",
+   "30 lb"
+  ],
+  "answer": 3,
+  "explanation": "Effort × effort arm = load × load arm: E × 2 = 60 × 1, so E = 30 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Levers",
+  "body": "A 80 lb load sits 1 ft from the fulcrum. How much effort is needed 3 ft from the fulcrum on the other side to balance it?",
+  "options": [
+   "240 lb",
+   "77 lb",
+   "40 lb",
+   "26.67 lb"
+  ],
+  "answer": 3,
+  "explanation": "Effort × effort arm = load × load arm: E × 3 = 80 × 1, so E = 26.67 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Levers",
+  "body": "A 80 lb load sits 1 ft from the fulcrum. How much effort is needed 2 ft from the fulcrum on the other side to balance it?",
+  "options": [
+   "78 lb",
+   "44 lb",
+   "40 lb",
+   "160 lb"
+  ],
+  "answer": 2,
+  "explanation": "Effort × effort arm = load × load arm: E × 2 = 80 × 1, so E = 40 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Levers",
+  "body": "A 200 lb load sits 3 ft from the fulcrum. How much effort is needed 15 ft from the fulcrum on the other side to balance it?",
+  "options": [
+   "1000 lb",
+   "40 lb",
+   "100 lb",
+   "185 lb"
+  ],
+  "answer": 1,
+  "explanation": "Effort × effort arm = load × load arm: E × 15 = 200 × 3, so E = 40 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Levers",
+  "body": "A 120 lb load sits 2 ft from the fulcrum. How much effort is needed 10 ft from the fulcrum on the other side to balance it?",
+  "options": [
+   "110 lb",
+   "24 lb",
+   "600 lb",
+   "60 lb"
+  ],
+  "answer": 1,
+  "explanation": "Effort × effort arm = load × load arm: E × 10 = 120 × 2, so E = 24 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Levers",
+  "body": "A 80 lb load sits 2 ft from the fulcrum. How much effort is needed 8 ft from the fulcrum on the other side to balance it?",
+  "options": [
+   "320 lb",
+   "72 lb",
+   "20 lb",
+   "40 lb"
+  ],
+  "answer": 2,
+  "explanation": "Effort × effort arm = load × load arm: E × 8 = 80 × 2, so E = 20 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Levers",
+  "body": "A 150 lb load sits 1 ft from the fulcrum. How much effort is needed 5 ft from the fulcrum on the other side to balance it?",
+  "options": [
+   "145 lb",
+   "75 lb",
+   "750 lb",
+   "30 lb"
+  ],
+  "answer": 3,
+  "explanation": "Effort × effort arm = load × load arm: E × 5 = 150 × 1, so E = 30 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Levers",
+  "body": "A 100 lb load sits 2 ft from the fulcrum. How much effort is needed 4 ft from the fulcrum on the other side to balance it?",
+  "options": [
+   "200 lb",
+   "50 lb",
+   "55 lb",
+   "96 lb"
+  ],
+  "answer": 1,
+  "explanation": "Effort × effort arm = load × load arm: E × 4 = 100 × 2, so E = 50 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Levers",
+  "body": "A 80 lb load sits 3 ft from the fulcrum. How much effort is needed 6 ft from the fulcrum on the other side to balance it?",
+  "options": [
+   "74 lb",
+   "44 lb",
+   "40 lb",
+   "160 lb"
+  ],
+  "answer": 2,
+  "explanation": "Effort × effort arm = load × load arm: E × 6 = 80 × 3, so E = 40 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Levers",
+  "body": "A 120 lb load sits 3 ft from the fulcrum. How much effort is needed 12 ft from the fulcrum on the other side to balance it?",
+  "options": [
+   "108 lb",
+   "60 lb",
+   "480 lb",
+   "30 lb"
+  ],
+  "answer": 3,
+  "explanation": "Effort × effort arm = load × load arm: E × 12 = 120 × 3, so E = 30 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Gears",
+  "body": "A 10-tooth gear turning at 120 rpm drives a 20-tooth gear. How fast does the larger gear turn?",
+  "options": [
+   "240 rpm",
+   "120 rpm",
+   "100 rpm",
+   "60 rpm"
+  ],
+  "answer": 3,
+  "explanation": "Speed ratio = 10 ÷ 20, so 120 × 10 ÷ 20 = 60 rpm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Gears",
+  "body": "A 12-tooth gear turning at 90 rpm drives a 48-tooth gear. How fast does the larger gear turn?",
+  "options": [
+   "90 rpm",
+   "360 rpm",
+   "42 rpm",
+   "22.5 rpm"
+  ],
+  "answer": 3,
+  "explanation": "Speed ratio = 12 ÷ 48, so 90 × 12 ÷ 48 = 22.5 rpm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Gears",
+  "body": "A 10-tooth gear turning at 90 rpm drives a 40-tooth gear. How fast does the larger gear turn?",
+  "options": [
+   "50 rpm",
+   "360 rpm",
+   "90 rpm",
+   "22.5 rpm"
+  ],
+  "answer": 3,
+  "explanation": "Speed ratio = 10 ÷ 40, so 90 × 10 ÷ 40 = 22.5 rpm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Gears",
+  "body": "A 12-tooth gear turning at 120 rpm drives a 36-tooth gear. How fast does the larger gear turn?",
+  "options": [
+   "40 rpm",
+   "120 rpm",
+   "360 rpm",
+   "84 rpm"
+  ],
+  "answer": 0,
+  "explanation": "Speed ratio = 12 ÷ 36, so 120 × 12 ÷ 36 = 40 rpm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Gears",
+  "body": "A 20-tooth gear turning at 60 rpm drives a 80-tooth gear. How fast does the larger gear turn?",
+  "options": [
+   "15 rpm",
+   "60 rpm",
+   "240 rpm",
+   "17 rpm"
+  ],
+  "answer": 0,
+  "explanation": "Speed ratio = 20 ÷ 80, so 60 × 20 ÷ 80 = 15 rpm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Gears",
+  "body": "A 12-tooth gear turning at 240 rpm drives a 24-tooth gear. How fast does the larger gear turn?",
+  "options": [
+   "240 rpm",
+   "120 rpm",
+   "216 rpm",
+   "480 rpm"
+  ],
+  "answer": 1,
+  "explanation": "Speed ratio = 12 ÷ 24, so 240 × 12 ÷ 24 = 120 rpm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Gears",
+  "body": "A 12-tooth gear turning at 90 rpm drives a 24-tooth gear. How fast does the larger gear turn?",
+  "options": [
+   "45 rpm",
+   "180 rpm",
+   "90 rpm",
+   "66 rpm"
+  ],
+  "answer": 0,
+  "explanation": "Speed ratio = 12 ÷ 24, so 90 × 12 ÷ 24 = 45 rpm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Gears",
+  "body": "A 20-tooth gear turning at 90 rpm drives a 40-tooth gear. How fast does the larger gear turn?",
+  "options": [
+   "50 rpm",
+   "180 rpm",
+   "45 rpm",
+   "90 rpm"
+  ],
+  "answer": 2,
+  "explanation": "Speed ratio = 20 ÷ 40, so 90 × 20 ÷ 40 = 45 rpm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Pulleys",
+  "body": "A pulley system has 3 rope sections supporting a 300 lb load. Ignoring friction, how much effort is needed?",
+  "options": [
+   "300 lb",
+   "900 lb",
+   "150 lb",
+   "100 lb"
+  ],
+  "answer": 3,
+  "explanation": "Mechanical advantage = 3, so effort = 300 ÷ 3 = 100 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Pulleys",
+  "body": "A pulley system has 2 rope sections supporting a 240 lb load. Ignoring friction, how much effort is needed?",
+  "options": [
+   "120 lb",
+   "60 lb",
+   "240 lb",
+   "480 lb"
+  ],
+  "answer": 0,
+  "explanation": "Mechanical advantage = 2, so effort = 240 ÷ 2 = 120 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Pulleys",
+  "body": "A pulley system has 5 rope sections supporting a 200 lb load. Ignoring friction, how much effort is needed?",
+  "options": [
+   "40 lb",
+   "1000 lb",
+   "100 lb",
+   "200 lb"
+  ],
+  "answer": 0,
+  "explanation": "Mechanical advantage = 5, so effort = 200 ÷ 5 = 40 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Pulleys",
+  "body": "A pulley system has 2 rope sections supporting a 120 lb load. Ignoring friction, how much effort is needed?",
+  "options": [
+   "240 lb",
+   "30 lb",
+   "120 lb",
+   "60 lb"
+  ],
+  "answer": 3,
+  "explanation": "Mechanical advantage = 2, so effort = 120 ÷ 2 = 60 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Pulleys",
+  "body": "A pulley system has 2 rope sections supporting a 100 lb load. Ignoring friction, how much effort is needed?",
+  "options": [
+   "100 lb",
+   "200 lb",
+   "25 lb",
+   "50 lb"
+  ],
+  "answer": 3,
+  "explanation": "Mechanical advantage = 2, so effort = 100 ÷ 2 = 50 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Pulleys",
+  "body": "A pulley system has 5 rope sections supporting a 120 lb load. Ignoring friction, how much effort is needed?",
+  "options": [
+   "60 lb",
+   "600 lb",
+   "120 lb",
+   "24 lb"
+  ],
+  "answer": 3,
+  "explanation": "Mechanical advantage = 5, so effort = 120 ÷ 5 = 24 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Pulleys",
+  "body": "A pulley system has 3 rope sections supporting a 100 lb load. Ignoring friction, how much effort is needed?",
+  "options": [
+   "100 lb",
+   "300 lb",
+   "33.33 lb",
+   "50 lb"
+  ],
+  "answer": 2,
+  "explanation": "Mechanical advantage = 3, so effort = 100 ÷ 3 = 33.33 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Pulleys",
+  "body": "A pulley system has 5 rope sections supporting a 100 lb load. Ignoring friction, how much effort is needed?",
+  "options": [
+   "500 lb",
+   "100 lb",
+   "50 lb",
+   "20 lb"
+  ],
+  "answer": 3,
+  "explanation": "Mechanical advantage = 5, so effort = 100 ÷ 5 = 20 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Inclined planes",
+  "body": "A 200 lb box is pushed up a ramp 15 ft long to a height of 3 ft. Ignoring friction, what force is needed?",
+  "options": [
+   "100 lb",
+   "1000 lb",
+   "40 lb",
+   "200 lb"
+  ],
+  "answer": 2,
+  "explanation": "Force × length = weight × height: F = 200 × 3 ÷ 15 = 40 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Inclined planes",
+  "body": "A 100 lb box is pushed up a ramp 15 ft long to a height of 3 ft. Ignoring friction, what force is needed?",
+  "options": [
+   "100 lb",
+   "50 lb",
+   "20 lb",
+   "500 lb"
+  ],
+  "answer": 2,
+  "explanation": "Force × length = weight × height: F = 100 × 3 ÷ 15 = 20 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Inclined planes",
+  "body": "A 300 lb box is pushed up a ramp 16 ft long to a height of 4 ft. Ignoring friction, what force is needed?",
+  "options": [
+   "1200 lb",
+   "75 lb",
+   "150 lb",
+   "300 lb"
+  ],
+  "answer": 1,
+  "explanation": "Force × length = weight × height: F = 300 × 4 ÷ 16 = 75 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Inclined planes",
+  "body": "A 100 lb box is pushed up a ramp 16 ft long to a height of 4 ft. Ignoring friction, what force is needed?",
+  "options": [
+   "400 lb",
+   "50 lb",
+   "25 lb",
+   "100 lb"
+  ],
+  "answer": 2,
+  "explanation": "Force × length = weight × height: F = 100 × 4 ÷ 16 = 25 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Inclined planes",
+  "body": "A 100 lb box is pushed up a ramp 6 ft long to a height of 2 ft. Ignoring friction, what force is needed?",
+  "options": [
+   "300 lb",
+   "33.33 lb",
+   "50 lb",
+   "100 lb"
+  ],
+  "answer": 1,
+  "explanation": "Force × length = weight × height: F = 100 × 2 ÷ 6 = 33.33 lb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AMC",
+  "topic": "Inclined planes",
+  "body": "A 300 lb box is pushed up a ramp 20 ft long to a height of 5 ft. Ignoring friction, what force is needed?",
+  "options": [
+   "1200 lb",
+   "150 lb",
+   "300 lb",
+   "75 lb"
+  ],
+  "answer": 3,
+  "explanation": "Force × length = weight × height: F = 300 × 5 ÷ 20 = 75 lb.",
+  "difficulty": 2
+ }
+]

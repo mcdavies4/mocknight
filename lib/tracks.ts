@@ -2,7 +2,7 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV" | "ELEC18" | "EYTA" | "WAREHOUSE" | "NHSHCA" | "BA" | "ISC2CC" | "AWSSAA" | "AICERT" | "SFADMIN";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV" | "ELEC18" | "EYTA" | "WAREHOUSE" | "NHSHCA" | "BA" | "ISC2CC" | "AWSSAA" | "AICERT" | "SFADMIN" | "GED" | "TEAS" | "CNA" | "ASVAB" | "UPSC" | "RRB" | "CTET" | "CAT";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
 export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi" | "Asia/Manila" | "Africa/Johannesburg";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
@@ -787,6 +787,105 @@ export const TRACKS: Record<TrackCode, Track> = {
     mock: { total: 40, minutes: 60, passPct: 65, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
     plans: ["ba_pass", "ba_pass_ngn"], tagline: "Business analysis practice: BABOK, POPIT, CATWOE, requirements, elicitation and modelling", timeZone: "Europe/London", timeLabel: "UK",
     audience: "someone moving into business analysis, preparing for the BCS Foundation Certificate in Business Analysis or IIBA ECBA",
+  },
+  GED: {
+    code: "GED", name: "GED (US high school equivalency)", short: "GED", emoji: "🎓", kind: "school", region: "US", currency: "USD",
+    subjectMode: "multi", subjects: ["MTH", "ENG", "GSS", "GSC"], compulsory: ["MTH", "ENG", "GSS", "GSC"], minSubjects: 4, maxSubjects: 4, subjectNote: "All four GED subjects: Math, Reasoning Through Language Arts, Social Studies and Science",
+    mock: { perSubject: 15, minutes: 80, scoreStyle: "percent", maxSubjects: 4 },
+    mockVariants: [
+      { key: "MATH", label: "Mathematical Reasoning practice", short: "Math", subjects: ["MTH"], total: 30, minutes: 60, note: "30 questions · 60 min" },
+      { key: "RLA", label: "Language Arts practice", short: "Language Arts", subjects: ["ENG"], total: 30, minutes: 45, note: "30 questions · 45 min" },
+      { key: "SS", label: "Social Studies practice", short: "Social Studies", subjects: ["GSS"], total: 30, minutes: 45, note: "30 questions · 45 min" },
+      { key: "SCI", label: "Science practice", short: "Science", subjects: ["GSC"], total: 30, minutes: 45, note: "30 questions · 45 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["ged_pass"], tagline: "GED practice for all four subjects: Math, Language Arts, Social Studies and Science", timeZone: "America/New_York", timeLabel: "US Eastern",
+    audience: "an adult in the United States studying for the GED high school equivalency test",
+  },
+  TEAS: {
+    code: "TEAS", name: "ATI TEAS (nursing school entrance)", short: "ATI TEAS", emoji: "🩺", kind: "professional", region: "US", currency: "USD",
+    subjectMode: "multi", subjects: ["TSC", "MTH", "ENG", "VRB"], compulsory: ["TSC", "MTH", "ENG", "VRB"], minSubjects: 4, maxSubjects: 4, subjectNote: "Science, Math, English and Reading",
+    mock: { perSubject: 15, minutes: 75, scoreStyle: "percent", maxSubjects: 4 },
+    mockVariants: [
+      { key: "FULL", label: "TEAS mixed practice", short: "Mixed", subjects: ["TSC", "MTH", "ENG", "VRB"], total: 15, minutes: 75, note: "60 questions · 75 min" },
+      { key: "SCI", label: "Science sectional", short: "Science", subjects: ["TSC"], total: 50, minutes: 60, note: "50 questions · 60 min" },
+      { key: "MATH", label: "Math sectional", short: "Math", subjects: ["MTH"], total: 38, minutes: 57, note: "38 questions · 57 min" },
+      { key: "ENG", label: "English sectional", short: "English", subjects: ["ENG"], total: 37, minutes: 37, note: "37 questions · 37 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["teas_pass"], tagline: "ATI TEAS practice for nursing school: anatomy and physiology, science, math and English", timeZone: "America/New_York", timeLabel: "US Eastern",
+    audience: "a US student applying to nursing school and preparing for the ATI TEAS (science, anatomy and physiology, math, English and reading)",
+  },
+  CNA: {
+    code: "CNA", name: "CNA (certified nursing assistant) written exam", short: "CNA", emoji: "🤝", kind: "professional", region: "US", currency: "USD",
+    subjectMode: "single", subjects: ["CNA"], compulsory: ["CNA"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 60, minutes: 90, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["cna_pass"], tagline: "CNA written exam practice: infection control, resident rights, safety, vital signs and personal care", timeZone: "America/New_York", timeLabel: "US Eastern",
+    audience: "a nurse aide trainee in the United States preparing for the state CNA written (knowledge) exam",
+  },
+  ASVAB: {
+    code: "ASVAB", name: "ASVAB (US military entrance)", short: "ASVAB", emoji: "🎖️", kind: "professional", region: "US", currency: "USD",
+    subjectMode: "multi", subjects: ["MTH", "ENG", "GSC", "AMC", "AEI"], compulsory: ["MTH", "ENG", "GSC", "AMC", "AEI"], minSubjects: 5, maxSubjects: 5, subjectNote: "AFQT (math and verbal) plus science, mechanical and electronics",
+    mock: { perSubject: 12, minutes: 70, scoreStyle: "percent", maxSubjects: 5 },
+    mockVariants: [
+      { key: "AFQT", label: "AFQT practice (math and verbal)", short: "AFQT", subjects: ["MTH", "ENG"], total: 25, minutes: 60, note: "50 questions · 60 min" },
+      { key: "TECH", label: "Mechanical and electronics", short: "Mech & elec", subjects: ["AMC", "AEI"], total: 20, minutes: 40, note: "40 questions · 40 min" },
+      { key: "SCI", label: "General Science", short: "Science", subjects: ["GSC"], total: 25, minutes: 20, note: "25 questions · 20 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["asvab_pass"], tagline: "ASVAB practice: AFQT math and verbal, general science, mechanical comprehension and electronics", timeZone: "America/New_York", timeLabel: "US Eastern",
+    audience: "a US applicant preparing for the ASVAB to join the military",
+  },
+  UPSC: {
+    code: "UPSC", name: "UPSC Civil Services Prelims (India)", short: "UPSC Prelims", emoji: "🏛️", kind: "professional", region: "IN", currency: "INR",
+    subjectMode: "multi", subjects: ["IPL", "HIS", "GEO", "IEC", "ENV", "GAI", "APT", "QNT", "ENG"], compulsory: ["IPL", "HIS", "GEO", "IEC", "ENV", "GAI", "APT", "QNT", "ENG"], minSubjects: 9, maxSubjects: 9, subjectNote: "General Studies Paper I and CSAT",
+    mock: { perSubject: 11, minutes: 120, scoreStyle: "marks", maxSubjects: 9, marking: { correct: 2, wrong: 0.66 } },
+    mockVariants: [
+      { key: "GS1", label: "General Studies Paper I", short: "GS Paper I", subjects: ["IPL", "HIS", "GEO", "IEC", "ENV", "GAI"], total: 17, minutes: 120, marking: { correct: 2, wrong: 0.66 }, note: "102 questions · 2 hours · +2 / −0.66" },
+      { key: "CSAT", label: "CSAT (Paper II)", short: "CSAT", subjects: ["APT", "QNT", "ENG"], total: 27, minutes: 120, marking: { correct: 2.5, wrong: 0.83 }, note: "81 questions · 2 hours · qualifying at 33%" },
+      { key: "POL", label: "Polity sectional", short: "Polity", subjects: ["IPL"], total: 30, minutes: 35, marking: { correct: 2, wrong: 0.66 }, note: "30 questions · 35 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["upsc_quarter", "upsc_year"], tagline: "UPSC Prelims practice: polity, history, geography, economy, environment and CSAT with negative marking", timeZone: "Asia/Kolkata", timeLabel: "India (IST)",
+    audience: "an Indian aspirant preparing for the UPSC Civil Services Preliminary Examination (General Studies Paper I and CSAT)",
+  },
+  RRB: {
+    code: "RRB", name: "RRB NTPC / Group D (Indian Railways)", short: "Railways (RRB)", emoji: "🚆", kind: "professional", region: "IN", currency: "INR",
+    subjectMode: "multi", subjects: ["GAI", "QNT", "APT"], compulsory: ["GAI", "QNT", "APT"], minSubjects: 3, maxSubjects: 3, subjectNote: "General Awareness, Mathematics and Reasoning",
+    mock: { perSubject: 33, minutes: 90, scoreStyle: "marks", maxSubjects: 3, marking: { correct: 1, wrong: 0.33 } },
+    mockVariants: [
+      { key: "CBT1", label: "CBT-1 full mock", short: "Full mock", subjects: ["GAI", "QNT", "APT"], total: 33, minutes: 90, marking: { correct: 1, wrong: 0.33 }, note: "99 questions · 90 min · +1 / −⅓" },
+      { key: "MATH", label: "Mathematics sectional", short: "Maths", subjects: ["QNT"], total: 30, minutes: 25, marking: { correct: 1, wrong: 0.33 }, note: "30 questions · 25 min" },
+      { key: "GA", label: "General Awareness sectional", short: "General Awareness", subjects: ["GAI"], total: 40, minutes: 25, marking: { correct: 1, wrong: 0.33 }, note: "40 questions · 25 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["rrb_quarter", "rrb_year"], tagline: "Railway exam mocks with negative marking: general awareness, maths and reasoning", timeZone: "Asia/Kolkata", timeLabel: "India (IST)",
+    audience: "an Indian candidate preparing for Railway Recruitment Board exams such as RRB NTPC and Group D",
+  },
+  CTET: {
+    code: "CTET", name: "CTET (India teacher eligibility)", short: "CTET", emoji: "🧑‍🏫", kind: "professional", region: "IN", currency: "INR",
+    subjectMode: "multi", subjects: ["CDP", "ENG", "QNT"], compulsory: ["CDP", "ENG", "QNT"], minSubjects: 3, maxSubjects: 3, subjectNote: "Child Development & Pedagogy, English and Mathematics",
+    mock: { perSubject: 30, minutes: 90, scoreStyle: "percent", maxSubjects: 3 },
+    mockVariants: [
+      { key: "MIX", label: "CTET mixed mock", short: "Mixed mock", subjects: ["CDP", "ENG", "QNT"], total: 30, minutes: 90, note: "90 questions · 90 min · no negative marking" },
+      { key: "CDP", label: "Child Development & Pedagogy", short: "CDP", subjects: ["CDP"], total: 30, minutes: 30, note: "30 questions · 30 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["ctet_quarter", "ctet_year"], tagline: "CTET practice: child development and pedagogy (Piaget, Vygotsky, RTE, NEP), English and maths", timeZone: "Asia/Kolkata", timeLabel: "India (IST)",
+    audience: "an Indian teacher candidate preparing for CTET or a state TET (child development and pedagogy, language and mathematics)",
+  },
+  CAT: {
+    code: "CAT", name: "CAT (IIM MBA entrance)", short: "CAT", emoji: "📈", kind: "school", region: "IN", currency: "INR",
+    subjectMode: "multi", subjects: ["ENG", "APT", "QNT"], compulsory: ["ENG", "APT", "QNT"], minSubjects: 3, maxSubjects: 3, subjectNote: "Verbal ability, logical reasoning and quantitative aptitude",
+    mock: { perSubject: 22, minutes: 120, scoreStyle: "marks", maxSubjects: 3, marking: { correct: 3, wrong: 1 } },
+    mockVariants: [
+      { key: "FULL", label: "CAT-style full mock", short: "Full mock", subjects: ["ENG", "APT", "QNT"], total: 22, minutes: 120, marking: { correct: 3, wrong: 1 }, note: "66 questions · 2 hours · +3 / −1" },
+      { key: "QA", label: "Quantitative Ability sectional", short: "QA", subjects: ["QNT"], total: 22, minutes: 40, marking: { correct: 3, wrong: 1 }, note: "22 questions · 40 min" },
+      { key: "LR", label: "Logical Reasoning sectional", short: "LR", subjects: ["APT"], total: 22, minutes: 40, marking: { correct: 3, wrong: 1 }, note: "22 questions · 40 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["cat_quarter", "cat_year"], tagline: "CAT practice with +3 / −1 marking: verbal ability, logical reasoning and quantitative aptitude", timeZone: "Asia/Kolkata", timeLabel: "India (IST)",
+    audience: "an Indian graduate preparing for the CAT exam for IIM and other MBA admissions",
   },
   ISC2CC: {
     code: "ISC2CC", name: "ISC2 Certified in Cybersecurity (CC)", short: "ISC2 CC", emoji: "🔐", kind: "professional", region: "GLOBAL", currency: "USD",

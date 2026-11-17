@@ -4,6 +4,10 @@ import { TRACK_LIST, TRACKS, type Track, type TrackCode } from "./tracks";
 export interface TrackGroup { key: string; emoji: string; title: string; description: string; codes: TrackCode[] }
 
 export const TRACK_GROUPS: TrackGroup[] = [
+  { key: "us", emoji: "🇺🇸", title: "United States", description: "GED, nursing school (TEAS), CNA, military (ASVAB), SAT, NCLEX and the citizenship test.",
+    codes: ["GED", "TEAS", "CNA", "ASVAB", "SAT", "NCLEX", "USCIT"] },
+  { key: "india", emoji: "🇮🇳", title: "India", description: "UPSC, SSC, banking, railways, teaching (CTET), MBA (CAT), NEET and JEE.",
+    codes: ["UPSC", "SSC", "IBPS", "RRB", "CTET", "CAT", "NEET", "JEE"] },
   { key: "school", emoji: "🌍", title: "African school exams", description: "School-leaving and national exams across Nigeria, Ghana, Kenya, Tanzania, Uganda, Cameroon, South Africa and Ethiopia.",
     codes: ["NCEE", "JSCE", "JAMB", "WAEC", "NECO", "PUTME", "WASSCE_GH", "BECE", "KCSE", "CSEE", "UCE", "CMGCE", "MATRIC", "ETH"] },
   { key: "admissions", emoji: "🎓", title: "Admissions & entrance tests", description: "University, medical, engineering and grammar-school entrance tests.",
@@ -42,6 +46,8 @@ const ALIASES: Partial<Record<TrackCode, string>> = {
   ELEC18: "electrician 18th edition bs 7671 wiring regulations 2382", EYTA: "teaching assistant nursery early years eyfs childcare school", WAREHOUSE: "warehouse forklift flt picker logistics", NHSHCA: "nhs healthcare assistant hca support worker hospital band 2 band 3",
   CARE: "care certificate care worker carer", CAREW: "care worker carer workforce essentials",
   CARESR: "senior carer care worker level 3 diploma medication mar cqc mental capacity", FIRSTAID: "first aid at work efaw cpr", SERU: "uber bolt private hire phv tfl london driver seru", HGV: "hgv lgv lorry truck driver cpc class 1 class 2 bus",
+  GED: "ged high school equivalency diploma usa adult", TEAS: "ati teas nursing school entrance nurse usa", CNA: "cna certified nursing assistant nurse aide usa", ASVAB: "asvab army navy air force marines military afqt",
+  UPSC: "upsc ias ips civil services prelims csat gs", RRB: "rrb railway railways ntpc group d", CTET: "ctet tet teacher eligibility b.ed teaching", CAT: "cat iim mba management entrance",
   BA: "business analyst analysis bcs iiba ecba babok", ISC2CC: "isc2 cc certified in cybersecurity cyber security entry", AWSSAA: "aws solutions architect associate saa cloud", AICERT: "ai ai-900 azure ai aws ai practitioner machine learning artificial intelligence", SFADMIN: "salesforce admin administrator crm",
   JAMB: "utme university nigeria", WAEC: "ssce waec nigeria", NECO: "ssce nigeria", PUTME: "post utme university nigeria", WASSCE_GH: "ghana shs wassce",
   BECE: "ghana jhs", KCSE: "kenya form 4", ETH: "ethiopia esslce grade 12", MDCAT: "pakistan medical", UCAT: "medicine dentistry uk university",

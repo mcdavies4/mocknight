@@ -1,0 +1,786 @@
+[
+ {
+  "subject": "GSS",
+  "topic": "Founding documents",
+  "body": "The Declaration of Independence was adopted in",
+  "options": [
+   "1791",
+   "1787",
+   "1812",
+   "1776"
+  ],
+  "answer": 3,
+  "explanation": "It was adopted on 4 July 1776; Thomas Jefferson was its main author.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Founding documents",
+  "body": "Who was the main author of the Declaration of Independence?",
+  "options": [
+   "Thomas Jefferson",
+   "George Washington",
+   "John Adams",
+   "Benjamin Franklin"
+  ],
+  "answer": 0,
+  "explanation": "Franklin and Adams helped edit it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Founding documents",
+  "body": "The first ten amendments to the US Constitution are called",
+  "options": [
+   "the Preamble",
+   "the Bill of Rights",
+   "the Articles of Confederation",
+   "the Federalist Papers"
+  ],
+  "answer": 1,
+  "explanation": "They were ratified in 1791.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Founding documents",
+  "body": "The First Amendment protects",
+  "options": [
+   "the right to vote at 18",
+   "freedom of speech, religion, the press, assembly and petition",
+   "the right to bear arms",
+   "the right to a jury trial only"
+  ],
+  "answer": 1,
+  "explanation": "The Second Amendment covers the right to bear arms.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Founding documents",
+  "body": "The government that came before the Constitution was set up by the",
+  "options": [
+   "Articles of Confederation",
+   "Bill of Rights",
+   "Mayflower Compact",
+   "Emancipation Proclamation"
+  ],
+  "answer": 0,
+  "explanation": "Its weak central government led to the Constitutional Convention of 1787.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Founding documents",
+  "body": "The idea that government gets its power from the people is called",
+  "options": [
+   "federalism",
+   "manifest destiny",
+   "judicial review",
+   "popular sovereignty"
+  ],
+  "answer": 3,
+  "explanation": "The Constitution opens with 'We the People'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Government",
+  "body": "Dividing power between the federal government and the states is called",
+  "options": [
+   "popular sovereignty",
+   "federalism",
+   "checks and balances",
+   "separation of powers"
+  ],
+  "answer": 1,
+  "explanation": "Some powers are shared; others belong to one level.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Government",
+  "body": "The president can veto a bill, and Congress can override the veto. This is an example of",
+  "options": [
+   "judicial review",
+   "federalism",
+   "due process",
+   "checks and balances"
+  ],
+  "answer": 3,
+  "explanation": "Each branch can limit the others.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Government",
+  "body": "Which branch of government makes federal laws?",
+  "options": [
+   "The Supreme Court",
+   "The president",
+   "The cabinet",
+   "Congress (the legislative branch)"
+  ],
+  "answer": 3,
+  "explanation": "Congress is the Senate plus the House of Representatives.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Government",
+  "body": "How many voting members does the House of Representatives have?",
+  "options": [
+   "435",
+   "538",
+   "100",
+   "50"
+  ],
+  "answer": 0,
+  "explanation": "Seats are shared out by state population.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Government",
+  "body": "How many US senators are there?",
+  "options": [
+   "538",
+   "50",
+   "100",
+   "435"
+  ],
+  "answer": 2,
+  "explanation": "Each state has two senators.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Government",
+  "body": "A US senator is elected for",
+  "options": [
+   "4 years",
+   "8 years",
+   "2 years",
+   "6 years"
+  ],
+  "answer": 3,
+  "explanation": "Representatives serve 2 years and the president 4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Government",
+  "body": "Members of the House of Representatives are elected for",
+  "options": [
+   "4 years",
+   "2 years",
+   "6 years",
+   "life"
+  ],
+  "answer": 1,
+  "explanation": "The whole House is elected every two years.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Government",
+  "body": "How many justices sit on the Supreme Court?",
+  "options": [
+   "12",
+   "7",
+   "11",
+   "9"
+  ],
+  "answer": 3,
+  "explanation": "The number is set by Congress and has been nine since 1869.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Government",
+  "body": "The power of courts to strike down laws that break the Constitution is",
+  "options": [
+   "executive order",
+   "judicial review",
+   "filibuster",
+   "impeachment"
+  ],
+  "answer": 1,
+  "explanation": "It was established in Marbury v. Madison (1803).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Government",
+  "body": "Who becomes president if the president can no longer serve?",
+  "options": [
+   "The vice president",
+   "The Chief Justice",
+   "The Secretary of State",
+   "The Speaker of the House"
+  ],
+  "answer": 0,
+  "explanation": "The Speaker is next after the vice president.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Government",
+  "body": "The president is chosen by",
+  "options": [
+   "the Senate",
+   "the Supreme Court",
+   "the Electoral College",
+   "a direct national vote only"
+  ],
+  "answer": 2,
+  "explanation": "A candidate needs 270 of the 538 electoral votes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Government",
+  "body": "The House of Representatives' power to bring charges against a federal official is called",
+  "options": [
+   "veto",
+   "impeachment",
+   "ratification",
+   "filibuster"
+  ],
+  "answer": 1,
+  "explanation": "The Senate then holds the trial.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Amendments",
+  "body": "Which amendment abolished slavery?",
+  "options": [
+   "The 14th Amendment",
+   "The 15th Amendment",
+   "The 13th Amendment",
+   "The 19th Amendment"
+  ],
+  "answer": 2,
+  "explanation": "It was ratified in 1865.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Amendments",
+  "body": "Which amendment gave women the right to vote?",
+  "options": [
+   "The 19th Amendment",
+   "The 13th Amendment",
+   "The 26th Amendment",
+   "The 15th Amendment"
+  ],
+  "answer": 0,
+  "explanation": "It was ratified in 1920.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Amendments",
+  "body": "The 14th Amendment guarantees citizens",
+  "options": [
+   "the vote at 18",
+   "the right to bear arms",
+   "equal protection of the laws",
+   "freedom of religion"
+  ],
+  "answer": 2,
+  "explanation": "It was ratified in 1868.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Amendments",
+  "body": "The 26th Amendment lowered the voting age to",
+  "options": [
+   "18",
+   "21",
+   "25",
+   "16"
+  ],
+  "answer": 0,
+  "explanation": "It was ratified in 1971.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "History",
+  "body": "The US Civil War was fought from",
+  "options": [
+   "1914 to 1918",
+   "1861 to 1865",
+   "1812 to 1815",
+   "1776 to 1783"
+  ],
+  "answer": 1,
+  "explanation": "The Union defeated the Confederacy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "History",
+  "body": "The Emancipation Proclamation was issued by",
+  "options": [
+   "Ulysses S. Grant",
+   "Thomas Jefferson",
+   "George Washington",
+   "Abraham Lincoln"
+  ],
+  "answer": 3,
+  "explanation": "It was issued in 1863.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "History",
+  "body": "The Louisiana Purchase of 1803 bought land from",
+  "options": [
+   "Mexico",
+   "Britain",
+   "Spain",
+   "France"
+  ],
+  "answer": 3,
+  "explanation": "It roughly doubled the size of the United States.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "History",
+  "body": "The Great Depression began with the stock market crash of",
+  "options": [
+   "1941",
+   "1919",
+   "1945",
+   "1929"
+  ],
+  "answer": 3,
+  "explanation": "It lasted through the 1930s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "History",
+  "body": "The New Deal programmes of the 1930s were led by",
+  "options": [
+   "Herbert Hoover",
+   "Woodrow Wilson",
+   "Franklin D. Roosevelt",
+   "Harry Truman"
+  ],
+  "answer": 2,
+  "explanation": "They aimed at relief, recovery and reform.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "History",
+  "body": "The US entered World War II after the attack on",
+  "options": [
+   "Fort Sumter",
+   "Pearl Harbor",
+   "Normandy",
+   "the Lusitania"
+  ],
+  "answer": 1,
+  "explanation": "Japan attacked Pearl Harbor on 7 December 1941.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "History",
+  "body": "Brown v. Board of Education (1954) ruled that",
+  "options": [
+   "the president could be impeached",
+   "women could vote",
+   "slavery was illegal",
+   "racial segregation in public schools was unconstitutional"
+  ],
+  "answer": 3,
+  "explanation": "It overturned 'separate but equal' in public education.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "History",
+  "body": "The Civil Rights Act of 1964 banned",
+  "options": [
+   "voting under 21",
+   "child labour",
+   "discrimination based on race, colour, religion, sex or national origin",
+   "slavery"
+  ],
+  "answer": 2,
+  "explanation": "It was signed by Lyndon B. Johnson.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "History",
+  "body": "The Cold War was mainly a rivalry between the United States and",
+  "options": [
+   "Japan",
+   "the Soviet Union",
+   "Britain",
+   "Germany"
+  ],
+  "answer": 1,
+  "explanation": "It lasted from about 1947 to 1991.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Economics",
+  "body": "When the price of a good rises and everything else stays the same, the quantity demanded usually",
+  "options": [
+   "doubles",
+   "rises",
+   "stays the same",
+   "falls"
+  ],
+  "answer": 3,
+  "explanation": "This is the law of demand.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Economics",
+  "body": "The value of the next best alternative you give up is the",
+  "options": [
+   "interest",
+   "profit",
+   "sunk cost",
+   "opportunity cost"
+  ],
+  "answer": 3,
+  "explanation": "Every choice has an opportunity cost.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Economics",
+  "body": "A general rise in prices over time is",
+  "options": [
+   "a surplus",
+   "deflation",
+   "inflation",
+   "recession"
+  ],
+  "answer": 2,
+  "explanation": "It reduces what money can buy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Economics",
+  "body": "The central bank of the United States is the",
+  "options": [
+   "Securities and Exchange Commission",
+   "Internal Revenue Service",
+   "Treasury",
+   "Federal Reserve"
+  ],
+  "answer": 3,
+  "explanation": "It sets monetary policy, including interest rates.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Economics",
+  "body": "When supply is greater than demand at the current price, there is a",
+  "options": [
+   "tariff",
+   "monopoly",
+   "surplus",
+   "shortage"
+  ],
+  "answer": 2,
+  "explanation": "Prices tend to fall until the market clears.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Economics",
+  "body": "A tax on imported goods is a",
+  "options": [
+   "tariff",
+   "quota",
+   "dividend",
+   "subsidy"
+  ],
+  "answer": 0,
+  "explanation": "A quota limits the quantity imported instead.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Economics",
+  "body": "The total value of goods and services produced in a country in a year is",
+  "options": [
+   "gross domestic product (GDP)",
+   "the national debt",
+   "the inflation rate",
+   "the trade balance"
+  ],
+  "answer": 0,
+  "explanation": "Two quarters of falling GDP is a common definition of recession.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Geography",
+  "body": "Lines of latitude measure distance",
+  "options": [
+   "east or west of the Prime Meridian",
+   "between time zones only",
+   "north or south of the equator",
+   "above sea level"
+  ],
+  "answer": 2,
+  "explanation": "Longitude measures east or west.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Geography",
+  "body": "The longest river system in the United States is the",
+  "options": [
+   "Hudson",
+   "Missouri–Mississippi",
+   "Rio Grande",
+   "Colorado"
+  ],
+  "answer": 1,
+  "explanation": "It drains much of the central US.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Reading data",
+  "body": "A chart shows exports ($ millions) went from 880 in one year to 440 the next. What was the percentage change?",
+  "options": [
+   "−100%",
+   "−440%",
+   "−50%",
+   "+50%"
+  ],
+  "answer": 2,
+  "explanation": "Change = 440 ÷ 880 = 50%, a decrease.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Reading data",
+  "body": "A chart shows housing permits went from 310 in one year to 279 the next. What was the percentage change?",
+  "options": [
+   "−10%",
+   "−31%",
+   "+10%",
+   "−20%"
+  ],
+  "answer": 0,
+  "explanation": "Change = 31 ÷ 310 = 10%, a decrease.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Reading data",
+  "body": "A chart shows voter turnout (thousands) went from 360 in one year to 288 the next. What was the percentage change?",
+  "options": [
+   "−72%",
+   "−40%",
+   "−20%",
+   "+20%"
+  ],
+  "answer": 2,
+  "explanation": "Change = 72 ÷ 360 = 20%, a decrease.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Reading data",
+  "body": "A chart shows voter turnout (thousands) went from 480 in one year to 528 the next. What was the percentage change?",
+  "options": [
+   "+20%",
+   "+48%",
+   "+10%",
+   "−10%"
+  ],
+  "answer": 2,
+  "explanation": "Change = 48 ÷ 480 = 10%, an increase.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Reading data",
+  "body": "A chart shows voter turnout (thousands) went from 220 in one year to 176 the next. What was the percentage change?",
+  "options": [
+   "−20%",
+   "−40%",
+   "−44%",
+   "+20%"
+  ],
+  "answer": 0,
+  "explanation": "Change = 44 ÷ 220 = 20%, a decrease.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Reading data",
+  "body": "A chart shows voter turnout (thousands) went from 640 in one year to 480 the next. What was the percentage change?",
+  "options": [
+   "−50%",
+   "+25%",
+   "−160%",
+   "−25%"
+  ],
+  "answer": 3,
+  "explanation": "Change = 160 ÷ 640 = 25%, a decrease.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Reading data",
+  "body": "A chart shows voter turnout (thousands) went from 770 in one year to 1078 the next. What was the percentage change?",
+  "options": [
+   "+40%",
+   "−40%",
+   "+80%",
+   "+308%"
+  ],
+  "answer": 0,
+  "explanation": "Change = 308 ÷ 770 = 40%, an increase.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Reading data",
+  "body": "A chart shows unemployment claims went from 380 in one year to 342 the next. What was the percentage change?",
+  "options": [
+   "+10%",
+   "−20%",
+   "−10%",
+   "−38%"
+  ],
+  "answer": 2,
+  "explanation": "Change = 38 ÷ 380 = 10%, a decrease.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Reading data",
+  "body": "A chart shows housing permits went from 320 in one year to 256 the next. What was the percentage change?",
+  "options": [
+   "+20%",
+   "−40%",
+   "−64%",
+   "−20%"
+  ],
+  "answer": 3,
+  "explanation": "Change = 64 ÷ 320 = 20%, a decrease.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Reading data",
+  "body": "A chart shows unemployment claims went from 250 in one year to 375 the next. What was the percentage change?",
+  "options": [
+   "+100%",
+   "−50%",
+   "+125%",
+   "+50%"
+  ],
+  "answer": 3,
+  "explanation": "Change = 125 ÷ 250 = 50%, an increase.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Reading data",
+  "body": "A chart shows unemployment claims went from 490 in one year to 245 the next. What was the percentage change?",
+  "options": [
+   "−50%",
+   "−100%",
+   "+50%",
+   "−245%"
+  ],
+  "answer": 0,
+  "explanation": "Change = 245 ÷ 490 = 50%, a decrease.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Reading data",
+  "body": "A chart shows housing permits went from 600 in one year to 750 the next. What was the percentage change?",
+  "options": [
+   "−25%",
+   "+50%",
+   "+25%",
+   "+150%"
+  ],
+  "answer": 2,
+  "explanation": "Change = 150 ÷ 600 = 25%, an increase.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Reading data",
+  "body": "A chart shows exports ($ millions) went from 630 in one year to 472.5 the next. What was the percentage change?",
+  "options": [
+   "−25%",
+   "+25%",
+   "−50%",
+   "−158%"
+  ],
+  "answer": 0,
+  "explanation": "Change = 157.5 ÷ 630 = 25%, a decrease.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Reading data",
+  "body": "A chart shows exports ($ millions) went from 550 in one year to 275 the next. What was the percentage change?",
+  "options": [
+   "+50%",
+   "−100%",
+   "−275%",
+   "−50%"
+  ],
+  "answer": 3,
+  "explanation": "Change = 275 ÷ 550 = 50%, a decrease.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Reading data",
+  "body": "A chart shows voter turnout (thousands) went from 770 in one year to 385 the next. What was the percentage change?",
+  "options": [
+   "−50%",
+   "−385%",
+   "+50%",
+   "−100%"
+  ],
+  "answer": 0,
+  "explanation": "Change = 385 ÷ 770 = 50%, a decrease.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GSS",
+  "topic": "Reading data",
+  "body": "A chart shows housing permits went from 480 in one year to 600 the next. What was the percentage change?",
+  "options": [
+   "+25%",
+   "+120%",
+   "−25%",
+   "+50%"
+  ],
+  "answer": 0,
+  "explanation": "Change = 120 ÷ 480 = 25%, an increase.",
+  "difficulty": 2
+ }
+]

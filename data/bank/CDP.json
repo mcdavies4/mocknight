@@ -1,0 +1,702 @@
+[
+ {
+  "subject": "CDP",
+  "topic": "Piaget",
+  "body": "According to Piaget, the stage from birth to about 2 years is the",
+  "options": [
+   "concrete operational stage",
+   "formal operational stage",
+   "preoperational stage",
+   "sensorimotor stage"
+  ],
+  "answer": 3,
+  "explanation": "Children learn through senses and actions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Piaget",
+  "body": "Object permanence develops in Piaget's",
+  "options": [
+   "preoperational stage",
+   "sensorimotor stage",
+   "formal operational stage",
+   "concrete operational stage"
+  ],
+  "answer": 1,
+  "explanation": "The child knows objects exist when out of sight.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Piaget",
+  "body": "Egocentrism is typical of the",
+  "options": [
+   "sensorimotor stage",
+   "preoperational stage (about 2–7 years)",
+   "concrete operational stage",
+   "formal operational stage"
+  ],
+  "answer": 1,
+  "explanation": "Children struggle to see another person's view.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Piaget",
+  "body": "Conservation is mastered during the",
+  "options": [
+   "sensorimotor stage",
+   "formal operational stage",
+   "concrete operational stage (about 7–11 years)",
+   "preoperational stage"
+  ],
+  "answer": 2,
+  "explanation": "The child knows quantity stays the same when shape changes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Piaget",
+  "body": "Abstract and hypothetical reasoning appears in the",
+  "options": [
+   "formal operational stage",
+   "concrete operational stage",
+   "preoperational stage",
+   "sensorimotor stage"
+  ],
+  "answer": 0,
+  "explanation": "From about 11 years onwards.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Piaget",
+  "body": "Fitting new information into an existing schema is",
+  "options": [
+   "assimilation",
+   "accommodation",
+   "equilibration",
+   "scaffolding"
+  ],
+  "answer": 0,
+  "explanation": "Accommodation changes the schema itself.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Vygotsky",
+  "body": "The gap between what a child can do alone and with help is the",
+  "options": [
+   "schema",
+   "readiness",
+   "critical period",
+   "zone of proximal development"
+  ],
+  "answer": 3,
+  "explanation": "It is Vygotsky's key idea.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Vygotsky",
+  "body": "Temporary support from a teacher that is withdrawn as the child improves is",
+  "options": [
+   "conditioning",
+   "reinforcement",
+   "remediation",
+   "scaffolding"
+  ],
+  "answer": 3,
+  "explanation": "The term was introduced by Wood, Bruner and Ross, building on Vygotsky.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Vygotsky",
+  "body": "Vygotsky stressed that learning is shaped mainly by",
+  "options": [
+   "biological maturation alone",
+   "punishment",
+   "social interaction and culture",
+   "heredity alone"
+  ],
+  "answer": 2,
+  "explanation": "Language plays a central role.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Kohlberg",
+  "body": "Kohlberg's theory is about",
+  "options": [
+   "moral development",
+   "physical growth",
+   "intelligence testing",
+   "language development"
+  ],
+  "answer": 0,
+  "explanation": "It has pre-conventional, conventional and post-conventional levels.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Learning theories",
+  "body": "Pavlov's experiments with dogs demonstrated",
+  "options": [
+   "insight learning",
+   "social learning",
+   "operant conditioning",
+   "classical conditioning"
+  ],
+  "answer": 3,
+  "explanation": "A neutral stimulus became linked with food.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Learning theories",
+  "body": "Skinner is associated with",
+  "options": [
+   "operant conditioning",
+   "multiple intelligences",
+   "the zone of proximal development",
+   "classical conditioning"
+  ],
+  "answer": 0,
+  "explanation": "Behaviour is shaped by reinforcement.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Learning theories",
+  "body": "Thorndike's laws of learning include readiness, exercise and",
+  "options": [
+   "effect",
+   "imitation",
+   "insight",
+   "assimilation"
+  ],
+  "answer": 0,
+  "explanation": "Satisfying outcomes strengthen a response.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Learning theories",
+  "body": "Bandura's Bobo doll experiment showed learning through",
+  "options": [
+   "punishment only",
+   "observation and imitation",
+   "insight",
+   "trial and error"
+  ],
+  "answer": 1,
+  "explanation": "This is social learning theory.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Learning theories",
+  "body": "Köhler's experiments with chimpanzees demonstrated",
+  "options": [
+   "operant conditioning",
+   "rote learning",
+   "classical conditioning",
+   "insight learning"
+  ],
+  "answer": 3,
+  "explanation": "The solution appears suddenly after understanding the problem.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Intelligence",
+  "body": "The theory of multiple intelligences was proposed by",
+  "options": [
+   "Jean Piaget",
+   "B. F. Skinner",
+   "Howard Gardner",
+   "Lev Vygotsky"
+  ],
+  "answer": 2,
+  "explanation": "Examples include linguistic, logical-mathematical and interpersonal intelligence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Language",
+  "body": "Chomsky proposed that children are born with a",
+  "options": [
+   "language acquisition device",
+   "single learning style",
+   "fixed vocabulary",
+   "blank slate for language"
+  ],
+  "answer": 0,
+  "explanation": "He argued language ability is innate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Inclusive education",
+  "body": "Difficulty with reading is",
+  "options": [
+   "dysgraphia",
+   "dyslexia",
+   "dyscalculia",
+   "dyspraxia"
+  ],
+  "answer": 1,
+  "explanation": "Dyscalculia affects maths; dysgraphia affects writing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Inclusive education",
+  "body": "Difficulty with writing is",
+  "options": [
+   "dysgraphia",
+   "aphasia",
+   "dyscalculia",
+   "dyslexia"
+  ],
+  "answer": 0,
+  "explanation": "It can affect handwriting and spelling.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Inclusive education",
+  "body": "Difficulty understanding numbers and maths is",
+  "options": [
+   "dyscalculia",
+   "dyslexia",
+   "dysphasia",
+   "dysgraphia"
+  ],
+  "answer": 0,
+  "explanation": "Teachers can use concrete materials to help.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Inclusive education",
+  "body": "Inclusive education means",
+  "options": [
+   "exams decide who attends",
+   "only gifted children are taught",
+   "children with diverse needs learn together in the same classroom",
+   "separate schools for every disability"
+  ],
+  "answer": 2,
+  "explanation": "Teachers adapt teaching so all can take part.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Assessment",
+  "body": "Assessment during learning to guide teaching is",
+  "options": [
+   "placement only",
+   "summative assessment",
+   "formative assessment",
+   "norm-referenced testing"
+  ],
+  "answer": 2,
+  "explanation": "Summative assessment comes at the end of a unit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Assessment",
+  "body": "Continuous and Comprehensive Evaluation (CCE) assesses",
+  "options": [
+   "only sports",
+   "both scholastic and co-scholastic areas throughout the year",
+   "only final exams",
+   "only attendance"
+  ],
+  "answer": 1,
+  "explanation": "It aims to reduce exam stress.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Policy",
+  "body": "The Right of Children to Free and Compulsory Education Act was passed in",
+  "options": [
+   "2020",
+   "2002",
+   "2009",
+   "2005"
+  ],
+  "answer": 2,
+  "explanation": "It covers children aged 6 to 14.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Policy",
+  "body": "Under the RTE Act, private unaided schools must reserve what share of entry-level seats for disadvantaged children?",
+  "options": [
+   "10%",
+   "15%",
+   "25%",
+   "50%"
+  ],
+  "answer": 2,
+  "explanation": "The state reimburses the costs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Policy",
+  "body": "The National Education Policy 2020 replaces 10+2 with a",
+  "options": [
+   "8+4 structure",
+   "6+3+3 structure",
+   "5+3+3+4 structure",
+   "4+4+4 structure"
+  ],
+  "answer": 2,
+  "explanation": "It starts with five foundational years.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Policy",
+  "body": "The National Curriculum Framework 2005 stressed",
+  "options": [
+   "more homework",
+   "fewer subjects",
+   "connecting knowledge to life outside school",
+   "rote learning"
+  ],
+  "answer": 2,
+  "explanation": "It moved away from learning by memorisation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Pedagogy",
+  "body": "John Dewey is best known for the idea of",
+  "options": [
+   "learning by doing",
+   "intelligence testing",
+   "punishment-based discipline",
+   "learning by rote"
+  ],
+  "answer": 0,
+  "explanation": "He shaped progressive education.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Pedagogy",
+  "body": "Froebel is known as the founder of",
+  "options": [
+   "the Montessori method",
+   "the Dalton plan",
+   "the kindergarten",
+   "programmed learning"
+  ],
+  "answer": 2,
+  "explanation": "He saw play as central to learning.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Pedagogy",
+  "body": "A child-centred classroom",
+  "options": [
+   "uses only textbooks",
+   "builds on children's interests and active participation",
+   "ranks children every week",
+   "relies on the teacher talking all the time"
+  ],
+  "answer": 1,
+  "explanation": "Learners construct understanding actively.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Development",
+  "body": "Development follows the principle of proceeding from",
+  "options": [
+   "head to toe (cephalocaudal)",
+   "random order",
+   "toe to head",
+   "outside to inside only"
+  ],
+  "answer": 0,
+  "explanation": "It also proceeds from the centre outwards (proximodistal).",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Development",
+  "body": "Development is the result of",
+  "options": [
+   "heredity only",
+   "environment only",
+   "schooling only",
+   "interaction between heredity and environment"
+  ],
+  "answer": 3,
+  "explanation": "Both nature and nurture matter.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Development",
+  "body": "Growth refers to",
+  "options": [
+   "qualitative change only",
+   "only emotional change",
+   "quantitative change, such as height and weight",
+   "changes in intelligence only"
+  ],
+  "answer": 2,
+  "explanation": "Development includes qualitative changes too.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Development",
+  "body": "Early childhood is generally considered",
+  "options": [
+   "birth to 2 weeks",
+   "about 2 to 6 years",
+   "20 to 40 years",
+   "13 to 19 years"
+  ],
+  "answer": 1,
+  "explanation": "Adolescence is roughly 12 to 18 years.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Development",
+  "body": "Socialisation is the process by which children",
+  "options": [
+   "learn only maths",
+   "grow taller",
+   "inherit traits",
+   "learn the norms and values of their society"
+  ],
+  "answer": 3,
+  "explanation": "Family is the primary agent of socialisation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Development",
+  "body": "Gender bias in the classroom is best reduced by",
+  "options": [
+   "assigning chores by gender",
+   "giving all children equal opportunities and challenging stereotypes",
+   "seating boys and girls apart",
+   "ignoring the issue"
+  ],
+  "answer": 1,
+  "explanation": "Use inclusive examples and materials.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Learning",
+  "body": "Learning that a teacher plans to make meaningful by linking to what children already know uses",
+  "options": [
+   "competition only",
+   "punishment",
+   "rote memorisation",
+   "prior knowledge"
+  ],
+  "answer": 3,
+  "explanation": "Ausubel stressed meaningful learning.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Learning",
+  "body": "Mistakes made by children are best seen as",
+  "options": [
+   "signs of low intelligence",
+   "reasons for punishment",
+   "windows into their thinking",
+   "things to ignore"
+  ],
+  "answer": 2,
+  "explanation": "Errors show how children are reasoning.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Learning",
+  "body": "Intrinsic motivation comes from",
+  "options": [
+   "interest and enjoyment of the task itself",
+   "prizes",
+   "fear of punishment",
+   "marks only"
+  ],
+  "answer": 0,
+  "explanation": "Extrinsic motivation comes from outside rewards.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Learning",
+  "body": "Bruner's discovery learning encourages children to",
+  "options": [
+   "find out principles for themselves",
+   "work silently alone",
+   "memorise definitions",
+   "copy the teacher"
+  ],
+  "answer": 0,
+  "explanation": "Bruner also described enactive, iconic and symbolic modes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Learning",
+  "body": "The 'law of effect' was proposed by",
+  "options": [
+   "Kohlberg",
+   "Pavlov",
+   "Thorndike",
+   "Piaget"
+  ],
+  "answer": 2,
+  "explanation": "Responses followed by satisfaction are strengthened.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Kohlberg",
+  "body": "At Kohlberg's pre-conventional level, children's moral choices are driven by",
+  "options": [
+   "avoiding punishment and getting rewards",
+   "universal ethical principles",
+   "law and order",
+   "social contracts"
+  ],
+  "answer": 0,
+  "explanation": "Conventional morality focuses on approval and rules.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Intelligence",
+  "body": "IQ was traditionally calculated as",
+  "options": [
+   "mental age ÷ chronological age × 100",
+   "age × 100",
+   "marks ÷ total × 100",
+   "chronological age ÷ mental age × 100"
+  ],
+  "answer": 0,
+  "explanation": "This is the ratio IQ formula.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Intelligence",
+  "body": "Emotional intelligence was popularised by",
+  "options": [
+   "Daniel Goleman",
+   "Howard Gardner",
+   "Alfred Binet",
+   "Charles Spearman"
+  ],
+  "answer": 0,
+  "explanation": "Spearman proposed the 'g' factor of general intelligence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Inclusive education",
+  "body": "A child who is gifted needs",
+  "options": [
+   "to be held back",
+   "enrichment and challenging tasks",
+   "only repetitive drills",
+   "to be ignored"
+  ],
+  "answer": 1,
+  "explanation": "Differentiated instruction helps every learner.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Inclusive education",
+  "body": "The Rights of Persons with Disabilities Act was passed in",
+  "options": [
+   "2009",
+   "2020",
+   "1995",
+   "2016"
+  ],
+  "answer": 3,
+  "explanation": "It replaced the Persons with Disabilities Act, 1995.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Assessment",
+  "body": "Assessment 'for' learning is mainly used to",
+  "options": [
+   "rank students at year end",
+   "award certificates",
+   "select for jobs",
+   "improve teaching and learning while it is happening"
+  ],
+  "answer": 3,
+  "explanation": "Assessment 'of' learning is summative.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Assessment",
+  "body": "A portfolio in assessment is",
+  "options": [
+   "a seating plan",
+   "a single final test",
+   "a collection of a child's work over time",
+   "a timetable"
+  ],
+  "answer": 2,
+  "explanation": "It shows progress across the year.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Pedagogy",
+  "body": "Montessori education emphasises",
+  "options": [
+   "self-directed activity using specially designed materials",
+   "large lectures",
+   "competitive ranking",
+   "strict rote learning"
+  ],
+  "answer": 0,
+  "explanation": "Maria Montessori developed the method.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDP",
+  "topic": "Pedagogy",
+  "body": "Children learn best in a classroom where",
+  "options": [
+   "they can ask questions without fear",
+   "silence is always required",
+   "only the teacher speaks",
+   "mistakes are punished"
+  ],
+  "answer": 0,
+  "explanation": "A safe climate supports inquiry.",
+  "difficulty": 2
+ }
+]

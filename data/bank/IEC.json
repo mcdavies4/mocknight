@@ -1,0 +1,646 @@
+[
+ {
+  "subject": "IEC",
+  "topic": "Banking",
+  "body": "The Reserve Bank of India was established in",
+  "options": [
+   "1949",
+   "1947",
+   "1935",
+   "1969"
+  ],
+  "answer": 2,
+  "explanation": "It was nationalised in 1949.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Banking",
+  "body": "The rate at which the RBI lends short-term money to commercial banks is the",
+  "options": [
+   "bank rate",
+   "reverse repo rate",
+   "repo rate",
+   "CRR"
+  ],
+  "answer": 2,
+  "explanation": "Raising the repo rate tends to reduce borrowing and inflation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Banking",
+  "body": "The share of deposits banks must keep with the RBI as cash is the",
+  "options": [
+   "capital adequacy ratio",
+   "repo rate",
+   "statutory liquidity ratio (SLR)",
+   "cash reserve ratio (CRR)"
+  ],
+  "answer": 3,
+  "explanation": "SLR is held as liquid assets such as government securities.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Banking",
+  "body": "India's Monetary Policy Committee has how many members?",
+  "options": [
+   "7",
+   "9",
+   "5",
+   "6"
+  ],
+  "answer": 3,
+  "explanation": "Three from the RBI and three appointed by the government.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Banking",
+  "body": "The first major round of bank nationalisation took place in",
+  "options": [
+   "1980",
+   "1991",
+   "1949",
+   "1969"
+  ],
+  "answer": 3,
+  "explanation": "Fourteen major banks were nationalised.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Banking",
+  "body": "NABARD mainly finances",
+  "options": [
+   "agriculture and rural development",
+   "foreign trade",
+   "defence",
+   "the stock market"
+  ],
+  "answer": 0,
+  "explanation": "It was set up in 1982.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Planning",
+  "body": "NITI Aayog replaced the Planning Commission in",
+  "options": [
+   "1991",
+   "2017",
+   "2015",
+   "2010"
+  ],
+  "answer": 2,
+  "explanation": "The Prime Minister chairs NITI Aayog.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Planning",
+  "body": "India's First Five-Year Plan began in",
+  "options": [
+   "1947",
+   "1961",
+   "1956",
+   "1951"
+  ],
+  "answer": 3,
+  "explanation": "It focused on agriculture.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Reforms",
+  "body": "India's major economic reforms of liberalisation, privatisation and globalisation began in",
+  "options": [
+   "1969",
+   "1980",
+   "2000",
+   "1991"
+  ],
+  "answer": 3,
+  "explanation": "They followed a balance of payments crisis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Taxation",
+  "body": "GST in India came into force on",
+  "options": [
+   "1 April 2016",
+   "1 July 2017",
+   "15 August 2017",
+   "1 January 2018"
+  ],
+  "answer": 1,
+  "explanation": "It replaced many indirect taxes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Taxation",
+  "body": "Income tax is an example of a",
+  "options": [
+   "tariff",
+   "customs duty",
+   "indirect tax",
+   "direct tax"
+  ],
+  "answer": 3,
+  "explanation": "GST is an indirect tax.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Taxation",
+  "body": "A tax whose rate rises as income rises is",
+  "options": [
+   "regressive",
+   "flat",
+   "progressive",
+   "proportional"
+  ],
+  "answer": 2,
+  "explanation": "India's income tax slabs are progressive.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Budget",
+  "body": "Since 2017 the Union Budget has normally been presented on",
+  "options": [
+   "31 March",
+   "1 April",
+   "1 February",
+   "28 February"
+  ],
+  "answer": 2,
+  "explanation": "The financial year runs from 1 April to 31 March.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Budget",
+  "body": "Fiscal deficit means",
+  "options": [
+   "exports minus imports",
+   "money printed by the RBI",
+   "total expenditure minus total receipts other than borrowings",
+   "revenue receipts minus capital receipts"
+  ],
+  "answer": 2,
+  "explanation": "It shows how much the government needs to borrow.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Budget",
+  "body": "Revenue deficit means",
+  "options": [
+   "capital spending exceeds tax",
+   "imports exceed exports",
+   "revenue expenditure is greater than revenue receipts",
+   "inflation is above target"
+  ],
+  "answer": 2,
+  "explanation": "It shows borrowing used for day-to-day spending.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Inflation",
+  "body": "The RBI targets inflation measured by the",
+  "options": [
+   "Wholesale Price Index (WPI)",
+   "GDP deflator",
+   "Sensex",
+   "Consumer Price Index (CPI)"
+  ],
+  "answer": 3,
+  "explanation": "The flexible target is 4% with a band of ±2%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Inflation",
+  "body": "Inflation caused by rising production costs is",
+  "options": [
+   "cost-push inflation",
+   "demand-pull inflation",
+   "deflation",
+   "stagflation"
+  ],
+  "answer": 0,
+  "explanation": "Demand-pull happens when demand exceeds supply.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "National income",
+  "body": "GDP measures the value of final goods and services produced",
+  "options": [
+   "by the government only",
+   "within a country's borders in a year",
+   "by a country's citizens worldwide",
+   "for export only"
+  ],
+  "answer": 1,
+  "explanation": "GNP adds net income from abroad.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Markets",
+  "body": "The regulator of India's securities market is",
+  "options": [
+   "IRDAI",
+   "RBI",
+   "NABARD",
+   "SEBI"
+  ],
+  "answer": 3,
+  "explanation": "SEBI got statutory powers in 1992.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Markets",
+  "body": "The regulator of the insurance sector is",
+  "options": [
+   "PFRDA",
+   "RBI",
+   "SEBI",
+   "IRDAI"
+  ],
+  "answer": 3,
+  "explanation": "PFRDA regulates pensions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Schemes",
+  "body": "Pradhan Mantri Jan Dhan Yojana (2014) aims at",
+  "options": [
+   "financial inclusion through bank accounts for all",
+   "building roads",
+   "crop insurance only",
+   "free housing"
+  ],
+  "answer": 0,
+  "explanation": "It is one of the world's largest financial inclusion schemes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Schemes",
+  "body": "MGNREGA guarantees rural households",
+  "options": [
+   "a pension at 60",
+   "100 days of wage employment a year",
+   "free electricity",
+   "land ownership"
+  ],
+  "answer": 1,
+  "explanation": "It became law in 2005.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Sectors",
+  "body": "Agriculture belongs to the",
+  "options": [
+   "secondary sector",
+   "tertiary sector",
+   "primary sector",
+   "quaternary sector"
+  ],
+  "answer": 2,
+  "explanation": "Manufacturing is secondary; services are tertiary.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Trade",
+  "body": "When a country's imports exceed its exports, it has a",
+  "options": [
+   "budget surplus",
+   "trade surplus",
+   "fiscal surplus",
+   "trade deficit"
+  ],
+  "answer": 3,
+  "explanation": "It is part of the current account.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "GDP rises from ₹1670 lakh crore to ₹1803.6 lakh crore. What is the growth rate?",
+  "options": [
+   "7.4%",
+   "9%",
+   "8%",
+   "7%"
+  ],
+  "answer": 2,
+  "explanation": "Growth = (1803.6 − 1670) ÷ 1670 × 100 = 8%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "GDP rises from ₹2020 lakh crore to ₹2222 lakh crore. What is the growth rate?",
+  "options": [
+   "9%",
+   "10%",
+   "9.1%",
+   "11%"
+  ],
+  "answer": 1,
+  "explanation": "Growth = (2222 − 2020) ÷ 2020 × 100 = 10%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "GDP rises from ₹2630 lakh crore to ₹2787.8 lakh crore. What is the growth rate?",
+  "options": [
+   "5.7%",
+   "5%",
+   "6%",
+   "7%"
+  ],
+  "answer": 2,
+  "explanation": "Growth = (2787.8 − 2630) ÷ 2630 × 100 = 6%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "GDP rises from ₹1840 lakh crore to ₹1968.8 lakh crore. What is the growth rate?",
+  "options": [
+   "7%",
+   "6.5%",
+   "6%",
+   "8%"
+  ],
+  "answer": 0,
+  "explanation": "Growth = (1968.8 − 1840) ÷ 1840 × 100 = 7%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "GDP rises from ₹1700 lakh crore to ₹1870 lakh crore. What is the growth rate?",
+  "options": [
+   "10%",
+   "11%",
+   "9.1%",
+   "9%"
+  ],
+  "answer": 0,
+  "explanation": "Growth = (1870 − 1700) ÷ 1700 × 100 = 10%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "GDP rises from ₹1820 lakh crore to ₹1965.6 lakh crore. What is the growth rate?",
+  "options": [
+   "7%",
+   "8%",
+   "9%",
+   "7.4%"
+  ],
+  "answer": 1,
+  "explanation": "Growth = (1965.6 − 1820) ÷ 1820 × 100 = 8%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "GDP rises from ₹2100 lakh crore to ₹2184 lakh crore. What is the growth rate?",
+  "options": [
+   "3.8%",
+   "3%",
+   "4%",
+   "5%"
+  ],
+  "answer": 2,
+  "explanation": "Growth = (2184 − 2100) ÷ 2100 × 100 = 4%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "GDP rises from ₹2480 lakh crore to ₹2604 lakh crore. What is the growth rate?",
+  "options": [
+   "4.8%",
+   "6%",
+   "5%",
+   "4%"
+  ],
+  "answer": 2,
+  "explanation": "Growth = (2604 − 2480) ÷ 2480 × 100 = 5%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "A fixed deposit pays 7% a year while inflation is 4%. What is the approximate real interest rate?",
+  "options": [
+   "7%",
+   "3%",
+   "4%",
+   "11%"
+  ],
+  "answer": 1,
+  "explanation": "Real rate ≈ nominal − inflation = 7 − 4 = 3%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "A fixed deposit pays 9% a year while inflation is 4%. What is the approximate real interest rate?",
+  "options": [
+   "5%",
+   "9%",
+   "4%",
+   "13%"
+  ],
+  "answer": 0,
+  "explanation": "Real rate ≈ nominal − inflation = 9 − 4 = 5%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "A fixed deposit pays 10% a year while inflation is 6%. What is the approximate real interest rate?",
+  "options": [
+   "10%",
+   "6%",
+   "4%",
+   "16%"
+  ],
+  "answer": 2,
+  "explanation": "Real rate ≈ nominal − inflation = 10 − 6 = 4%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "A fixed deposit pays 10% a year while inflation is 5%. What is the approximate real interest rate?",
+  "options": [
+   "10%",
+   "5%",
+   "6%",
+   "15%"
+  ],
+  "answer": 1,
+  "explanation": "Real rate ≈ nominal − inflation = 10 − 5 = 5%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "A fixed deposit pays 9% a year while inflation is 6%. What is the approximate real interest rate?",
+  "options": [
+   "9%",
+   "15%",
+   "3%",
+   "6%"
+  ],
+  "answer": 2,
+  "explanation": "Real rate ≈ nominal − inflation = 9 − 6 = 3%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "A fixed deposit pays 8% a year while inflation is 4%. What is the approximate real interest rate?",
+  "options": [
+   "4%",
+   "5%",
+   "8%",
+   "12%"
+  ],
+  "answer": 0,
+  "explanation": "Real rate ≈ nominal − inflation = 8 − 4 = 4%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "A fixed deposit pays 7% a year while inflation is 5%. What is the approximate real interest rate?",
+  "options": [
+   "12%",
+   "7%",
+   "5%",
+   "2%"
+  ],
+  "answer": 3,
+  "explanation": "Real rate ≈ nominal − inflation = 7 − 5 = 2%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "A fixed deposit pays 6% a year while inflation is 6%. What is the approximate real interest rate?",
+  "options": [
+   "6%",
+   "0%",
+   "1%",
+   "12%"
+  ],
+  "answer": 1,
+  "explanation": "Real rate ≈ nominal − inflation = 6 − 6 = 0%.",
+  "difficulty": 1
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "A government's total expenditure is ₹41,000 crore and its total receipts other than borrowings are ₹27,000 crore. What is the fiscal deficit?",
+  "options": [
+   "₹41,000 crore",
+   "₹14,000 crore",
+   "₹68,000 crore",
+   "₹27,000 crore"
+  ],
+  "answer": 1,
+  "explanation": "Fiscal deficit = expenditure − non-debt receipts = ₹14,000 crore.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "A government's total expenditure is ₹44,000 crore and its total receipts other than borrowings are ₹26,000 crore. What is the fiscal deficit?",
+  "options": [
+   "₹70,000 crore",
+   "₹26,000 crore",
+   "₹44,000 crore",
+   "₹18,000 crore"
+  ],
+  "answer": 3,
+  "explanation": "Fiscal deficit = expenditure − non-debt receipts = ₹18,000 crore.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "A government's total expenditure is ₹45,000 crore and its total receipts other than borrowings are ₹27,000 crore. What is the fiscal deficit?",
+  "options": [
+   "₹45,000 crore",
+   "₹72,000 crore",
+   "₹27,000 crore",
+   "₹18,000 crore"
+  ],
+  "answer": 3,
+  "explanation": "Fiscal deficit = expenditure − non-debt receipts = ₹18,000 crore.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "A government's total expenditure is ₹41,000 crore and its total receipts other than borrowings are ₹25,000 crore. What is the fiscal deficit?",
+  "options": [
+   "₹25,000 crore",
+   "₹66,000 crore",
+   "₹16,000 crore",
+   "₹41,000 crore"
+  ],
+  "answer": 2,
+  "explanation": "Fiscal deficit = expenditure − non-debt receipts = ₹16,000 crore.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "A government's total expenditure is ₹48,000 crore and its total receipts other than borrowings are ₹33,000 crore. What is the fiscal deficit?",
+  "options": [
+   "₹33,000 crore",
+   "₹81,000 crore",
+   "₹15,000 crore",
+   "₹48,000 crore"
+  ],
+  "answer": 2,
+  "explanation": "Fiscal deficit = expenditure − non-debt receipts = ₹15,000 crore.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IEC",
+  "topic": "Calculations",
+  "body": "A government's total expenditure is ₹50,000 crore and its total receipts other than borrowings are ₹33,000 crore. What is the fiscal deficit?",
+  "options": [
+   "₹33,000 crore",
+   "₹50,000 crore",
+   "₹17,000 crore",
+   "₹83,000 crore"
+  ],
+  "answer": 2,
+  "explanation": "Fiscal deficit = expenditure − non-debt receipts = ₹17,000 crore.",
+  "difficulty": 2
+ }
+]

@@ -1,0 +1,870 @@
+[
+ {
+  "subject": "IPL",
+  "topic": "Making of the Constitution",
+  "body": "The Constitution of India came into force on",
+  "options": [
+   "26 January 1950",
+   "15 August 1947",
+   "26 November 1949",
+   "2 October 1950"
+  ],
+  "answer": 0,
+  "explanation": "It was adopted on 26 November 1949, now celebrated as Constitution Day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Making of the Constitution",
+  "body": "Who chaired the Drafting Committee of the Constituent Assembly?",
+  "options": [
+   "Jawaharlal Nehru",
+   "Rajendra Prasad",
+   "B. R. Ambedkar",
+   "Sardar Vallabhbhai Patel"
+  ],
+  "answer": 2,
+  "explanation": "Rajendra Prasad was President of the Constituent Assembly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Making of the Constitution",
+  "body": "Who was the President of the Constituent Assembly?",
+  "options": [
+   "Rajendra Prasad",
+   "Maulana Azad",
+   "B. R. Ambedkar",
+   "Jawaharlal Nehru"
+  ],
+  "answer": 0,
+  "explanation": "He later became India's first President.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Preamble",
+  "body": "The words 'socialist' and 'secular' were added to the Preamble by the",
+  "options": [
+   "1st Amendment (1951)",
+   "73rd Amendment (1992)",
+   "42nd Amendment (1976)",
+   "44th Amendment (1978)"
+  ],
+  "answer": 2,
+  "explanation": "The 42nd Amendment also added 'integrity'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Sources",
+  "body": "The idea of Directive Principles of State Policy was borrowed from the constitution of",
+  "options": [
+   "Canada",
+   "the USA",
+   "the UK",
+   "Ireland"
+  ],
+  "answer": 3,
+  "explanation": "Fundamental Rights draw on the US Bill of Rights.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Sources",
+  "body": "India's parliamentary system of government is based on the system of",
+  "options": [
+   "Australia",
+   "Germany",
+   "the USA",
+   "the United Kingdom"
+  ],
+  "answer": 3,
+  "explanation": "The UK also inspired the rule of law and single citizenship.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Sources",
+  "body": "The concurrent list idea was borrowed from",
+  "options": [
+   "Ireland",
+   "Australia",
+   "Canada",
+   "Japan"
+  ],
+  "answer": 1,
+  "explanation": "Canada inspired a federation with a strong centre.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Fundamental Rights",
+  "body": "Fundamental Rights are in which Part of the Constitution?",
+  "options": [
+   "Part III",
+   "Part IV-A",
+   "Part IV",
+   "Part V"
+  ],
+  "answer": 0,
+  "explanation": "Directive Principles are in Part IV.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Fundamental Rights",
+  "body": "Article 14 guarantees",
+  "options": [
+   "freedom of speech",
+   "equality before the law",
+   "abolition of untouchability",
+   "right to education"
+  ],
+  "answer": 1,
+  "explanation": "Articles 14–18 form the right to equality.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Fundamental Rights",
+  "body": "Untouchability is abolished by",
+  "options": [
+   "Article 14",
+   "Article 21",
+   "Article 32",
+   "Article 17"
+  ],
+  "answer": 3,
+  "explanation": "Its practice in any form is an offence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Fundamental Rights",
+  "body": "Article 21 protects",
+  "options": [
+   "freedom of religion",
+   "the right to property",
+   "the right to life and personal liberty",
+   "the right to vote"
+  ],
+  "answer": 2,
+  "explanation": "Courts have read many rights into it, including privacy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Fundamental Rights",
+  "body": "The right to free and compulsory education for children aged 6–14 is in",
+  "options": [
+   "Article 45",
+   "Article 14",
+   "Article 21A",
+   "Article 51A"
+  ],
+  "answer": 2,
+  "explanation": "It was added by the 86th Amendment (2002).",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Fundamental Rights",
+  "body": "B. R. Ambedkar called which article the 'heart and soul' of the Constitution?",
+  "options": [
+   "Article 14",
+   "Article 21",
+   "Article 368",
+   "Article 32 (right to constitutional remedies)"
+  ],
+  "answer": 3,
+  "explanation": "It lets citizens go directly to the Supreme Court.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Fundamental Rights",
+  "body": "The right to property was removed from the Fundamental Rights by the",
+  "options": [
+   "86th Amendment",
+   "44th Amendment (1978)",
+   "42nd Amendment",
+   "1st Amendment"
+  ],
+  "answer": 1,
+  "explanation": "It is now a legal right under Article 300A.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Fundamental Duties",
+  "body": "Fundamental Duties were added by the 42nd Amendment and are in",
+  "options": [
+   "Article 368",
+   "Article 51A",
+   "Article 32",
+   "Article 21A"
+  ],
+  "answer": 1,
+  "explanation": "They were recommended by the Swaran Singh Committee.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Directive Principles",
+  "body": "A Uniform Civil Code is mentioned in",
+  "options": [
+   "Article 32",
+   "Article 14",
+   "Article 44",
+   "Article 370"
+  ],
+  "answer": 2,
+  "explanation": "It is a Directive Principle, not enforceable by courts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "President",
+  "body": "The minimum age to become President of India is",
+  "options": [
+   "25 years",
+   "40 years",
+   "30 years",
+   "35 years"
+  ],
+  "answer": 3,
+  "explanation": "The minimum age for the Lok Sabha is 25 and for the Rajya Sabha 30.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "President",
+  "body": "The President's power to grant pardons is in",
+  "options": [
+   "Article 356",
+   "Article 123",
+   "Article 161",
+   "Article 72"
+  ],
+  "answer": 3,
+  "explanation": "Governors have a similar power under Article 161.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "President",
+  "body": "The President can issue ordinances when Parliament is not in session under",
+  "options": [
+   "Article 213",
+   "Article 123",
+   "Article 110",
+   "Article 352"
+  ],
+  "answer": 1,
+  "explanation": "Governors issue ordinances under Article 213.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Parliament",
+  "body": "The ex officio Chairman of the Rajya Sabha is the",
+  "options": [
+   "Speaker",
+   "President",
+   "Prime Minister",
+   "Vice-President"
+  ],
+  "answer": 3,
+  "explanation": "The Speaker presides over the Lok Sabha.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Parliament",
+  "body": "The President can nominate how many members to the Rajya Sabha?",
+  "options": [
+   "25",
+   "2",
+   "10",
+   "12"
+  ],
+  "answer": 3,
+  "explanation": "They have special knowledge of literature, science, art or social service.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Parliament",
+  "body": "A Money Bill is defined in",
+  "options": [
+   "Article 110",
+   "Article 112",
+   "Article 368",
+   "Article 280"
+  ],
+  "answer": 0,
+  "explanation": "It can only be introduced in the Lok Sabha.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Parliament",
+  "body": "The annual financial statement (the Budget) is covered by",
+  "options": [
+   "Article 112",
+   "Article 110",
+   "Article 280",
+   "Article 266"
+  ],
+  "answer": 0,
+  "explanation": "The Constitution does not use the word 'budget'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Amendment",
+  "body": "The procedure for amending the Constitution is in",
+  "options": [
+   "Article 32",
+   "Article 1",
+   "Article 368",
+   "Article 352"
+  ],
+  "answer": 2,
+  "explanation": "Some amendments also need ratification by half the states.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Judiciary",
+  "body": "The 'basic structure' doctrine was laid down in",
+  "options": [
+   "Minerva Mills case",
+   "Kesavananda Bharati v. State of Kerala (1973)",
+   "Golaknath case",
+   "Maneka Gandhi v. Union of India"
+  ],
+  "answer": 1,
+  "explanation": "Parliament cannot amend the basic structure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Judiciary",
+  "body": "The Supreme Court is established under",
+  "options": [
+   "Article 124",
+   "Article 32",
+   "Article 148",
+   "Article 214"
+  ],
+  "answer": 0,
+  "explanation": "High Courts are under Article 214.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Emergency",
+  "body": "A national emergency is proclaimed under",
+  "options": [
+   "Article 365",
+   "Article 360",
+   "Article 352",
+   "Article 356"
+  ],
+  "answer": 2,
+  "explanation": "Article 356 is President's rule; Article 360 is financial emergency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Emergency",
+  "body": "President's rule in a state is imposed under",
+  "options": [
+   "Article 356",
+   "Article 360",
+   "Article 352",
+   "Article 370"
+  ],
+  "answer": 0,
+  "explanation": "It follows the failure of constitutional machinery in a state.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Bodies",
+  "body": "The Election Commission of India is set up under",
+  "options": [
+   "Article 324",
+   "Article 315",
+   "Article 148",
+   "Article 280"
+  ],
+  "answer": 0,
+  "explanation": "It conducts elections to Parliament, state legislatures, President and Vice-President.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Bodies",
+  "body": "The Comptroller and Auditor General (CAG) is under",
+  "options": [
+   "Article 148",
+   "Article 324",
+   "Article 280",
+   "Article 76"
+  ],
+  "answer": 0,
+  "explanation": "The CAG audits government accounts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Bodies",
+  "body": "The Finance Commission is constituted under",
+  "options": [
+   "Article 324",
+   "Article 112",
+   "Article 280",
+   "Article 148"
+  ],
+  "answer": 2,
+  "explanation": "It recommends how taxes are shared between the Union and states.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Bodies",
+  "body": "The highest law officer of the Government of India is the",
+  "options": [
+   "Law Minister",
+   "Chief Justice",
+   "Attorney General (Article 76)",
+   "Solicitor General"
+  ],
+  "answer": 2,
+  "explanation": "The Advocate General is the state equivalent.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Federalism",
+  "body": "The division of powers into Union, State and Concurrent Lists is in the",
+  "options": [
+   "Ninth Schedule",
+   "Seventh Schedule",
+   "Eighth Schedule",
+   "Tenth Schedule"
+  ],
+  "answer": 1,
+  "explanation": "The Eighth Schedule lists the official languages.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Federalism",
+  "body": "How many languages are in the Eighth Schedule?",
+  "options": [
+   "22",
+   "18",
+   "24",
+   "14"
+  ],
+  "answer": 0,
+  "explanation": "The original Constitution listed 14.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Federalism",
+  "body": "The anti-defection law is in the",
+  "options": [
+   "Twelfth Schedule",
+   "Seventh Schedule",
+   "Tenth Schedule",
+   "Eighth Schedule"
+  ],
+  "answer": 2,
+  "explanation": "It was added by the 52nd Amendment (1985).",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Local government",
+  "body": "Panchayati Raj institutions got constitutional status through the",
+  "options": [
+   "73rd Amendment (1992)",
+   "42nd Amendment",
+   "61st Amendment",
+   "74th Amendment"
+  ],
+  "answer": 0,
+  "explanation": "The 74th Amendment covers urban local bodies.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Local government",
+  "body": "The 61st Amendment (1988) lowered the voting age from",
+  "options": [
+   "25 to 21",
+   "18 to 16",
+   "20 to 18",
+   "21 to 18"
+  ],
+  "answer": 3,
+  "explanation": "It took effect in 1989.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Economy and Constitution",
+  "body": "GST was introduced through the",
+  "options": [
+   "99th Amendment",
+   "73rd Amendment",
+   "101st Amendment (2016)",
+   "86th Amendment"
+  ],
+  "answer": 2,
+  "explanation": "GST came into effect on 1 July 2017.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Preamble",
+  "body": "The Preamble describes India as a",
+  "options": [
+   "confederation of states",
+   "federal monarchy",
+   "sovereign, socialist, secular, democratic republic",
+   "unitary empire"
+  ],
+  "answer": 2,
+  "explanation": "These words set out the nature of the state.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Citizenship",
+  "body": "Citizenship is covered in which Part of the Constitution?",
+  "options": [
+   "Part II",
+   "Part V",
+   "Part I",
+   "Part III"
+  ],
+  "answer": 0,
+  "explanation": "Part I covers the Union and its territory.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Fundamental Rights",
+  "body": "Freedom of speech and expression is protected under",
+  "options": [
+   "Article 25",
+   "Article 14",
+   "Article 19",
+   "Article 21"
+  ],
+  "answer": 2,
+  "explanation": "Article 19 lists six freedoms with reasonable restrictions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Fundamental Rights",
+  "body": "Freedom of religion is covered by",
+  "options": [
+   "Articles 36–51",
+   "Articles 29–30",
+   "Articles 14–18",
+   "Articles 25–28"
+  ],
+  "answer": 3,
+  "explanation": "Articles 29–30 cover cultural and educational rights.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Fundamental Rights",
+  "body": "Protection of the interests of minorities to run their own educational institutions is in",
+  "options": [
+   "Article 30",
+   "Article 17",
+   "Article 45",
+   "Article 25"
+  ],
+  "answer": 0,
+  "explanation": "It is part of cultural and educational rights.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Fundamental Rights",
+  "body": "A writ asking an authority to produce a detained person before the court is",
+  "options": [
+   "quo warranto",
+   "certiorari",
+   "habeas corpus",
+   "mandamus"
+  ],
+  "answer": 2,
+  "explanation": "Mandamus orders a public official to do their duty.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Fundamental Rights",
+  "body": "A writ asking 'by what authority' a person holds a public office is",
+  "options": [
+   "habeas corpus",
+   "mandamus",
+   "prohibition",
+   "quo warranto"
+  ],
+  "answer": 3,
+  "explanation": "It prevents illegal occupation of a public office.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Fundamental Rights",
+  "body": "The prohibition of child labour in factories and hazardous work for children under 14 is in",
+  "options": [
+   "Article 23",
+   "Article 24",
+   "Article 45",
+   "Article 21A"
+  ],
+  "answer": 1,
+  "explanation": "Article 23 prohibits human trafficking and forced labour.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Directive Principles",
+  "body": "Equal pay for equal work for men and women is a",
+  "options": [
+   "Fundamental Duty",
+   "Directive Principle (Article 39)",
+   "schedule entry",
+   "Fundamental Right under Article 14 only"
+  ],
+  "answer": 1,
+  "explanation": "Courts have linked it with Articles 14 and 16.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Directive Principles",
+  "body": "Organisation of village panchayats is a Directive Principle under",
+  "options": [
+   "Article 44",
+   "Article 40",
+   "Article 51",
+   "Article 48"
+  ],
+  "answer": 1,
+  "explanation": "The 73rd Amendment later gave panchayats constitutional status.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "President",
+  "body": "The President of India is elected by",
+  "options": [
+   "an electoral college of elected MPs and elected MLAs",
+   "the Lok Sabha alone",
+   "the Supreme Court",
+   "direct popular vote"
+  ],
+  "answer": 0,
+  "explanation": "Nominated members do not vote.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "President",
+  "body": "The President can be removed by",
+  "options": [
+   "the Chief Justice",
+   "a Lok Sabha resolution alone",
+   "impeachment for violation of the Constitution",
+   "the Prime Minister"
+  ],
+  "answer": 2,
+  "explanation": "Both Houses must pass the charge by a two-thirds majority.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Prime Minister",
+  "body": "The Council of Ministers is collectively responsible to the",
+  "options": [
+   "Lok Sabha",
+   "Rajya Sabha",
+   "President",
+   "Supreme Court"
+  ],
+  "answer": 0,
+  "explanation": "A no-confidence motion can only be moved in the Lok Sabha.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Parliament",
+  "body": "Parliament consists of the President, the Lok Sabha and the",
+  "options": [
+   "Supreme Court",
+   "Rajya Sabha",
+   "Election Commission",
+   "Council of Ministers"
+  ],
+  "answer": 1,
+  "explanation": "This is under Article 79.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Parliament",
+  "body": "A joint sitting of both Houses is presided over by the",
+  "options": [
+   "President",
+   "Speaker of the Lok Sabha",
+   "Vice-President",
+   "Prime Minister"
+  ],
+  "answer": 1,
+  "explanation": "Joint sittings resolve deadlocks on ordinary bills.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Parliament",
+  "body": "The Rajya Sabha is a permanent House, with one-third of its members retiring every",
+  "options": [
+   "6 months",
+   "5 years",
+   "4 years",
+   "2 years"
+  ],
+  "answer": 3,
+  "explanation": "Each member serves a six-year term.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Parliament",
+  "body": "Zero Hour in Parliament",
+  "options": [
+   "happens only in joint sittings",
+   "is the budget debate",
+   "is set by Article 110",
+   "is an Indian innovation not mentioned in the rules of procedure"
+  ],
+  "answer": 3,
+  "explanation": "It follows Question Hour.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Judiciary",
+  "body": "The Supreme Court's power to hear disputes between the Centre and states is its",
+  "options": [
+   "writ jurisdiction only",
+   "appellate jurisdiction",
+   "original jurisdiction",
+   "advisory jurisdiction"
+  ],
+  "answer": 2,
+  "explanation": "This is under Article 131.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Judiciary",
+  "body": "The President can seek the Supreme Court's opinion on a question of law under",
+  "options": [
+   "Article 143",
+   "Article 226",
+   "Article 137",
+   "Article 32"
+  ],
+  "answer": 0,
+  "explanation": "This is its advisory jurisdiction.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Judiciary",
+  "body": "High Courts issue writs under",
+  "options": [
+   "Article 143",
+   "Article 124",
+   "Article 32",
+   "Article 226"
+  ],
+  "answer": 3,
+  "explanation": "Their writ power is wider than the Supreme Court's under Article 32.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Bodies",
+  "body": "The Union Public Service Commission is provided for in",
+  "options": [
+   "Article 148",
+   "Article 280",
+   "Article 315",
+   "Article 324"
+  ],
+  "answer": 2,
+  "explanation": "State PSCs are covered by the same Part.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Bodies",
+  "body": "The National Commission for Scheduled Castes is a",
+  "options": [
+   "private body",
+   "statutory body",
+   "constitutional body (Article 338)",
+   "executive body"
+  ],
+  "answer": 2,
+  "explanation": "NITI Aayog, by contrast, is an executive body.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "State government",
+  "body": "The Governor of a state is appointed by the",
+  "options": [
+   "Chief Justice",
+   "state legislature",
+   "Chief Minister",
+   "President"
+  ],
+  "answer": 3,
+  "explanation": "Governors hold office during the pleasure of the President.",
+  "difficulty": 2
+ },
+ {
+  "subject": "IPL",
+  "topic": "Federalism",
+  "body": "New states can be created by Parliament under",
+  "options": [
+   "Article 368",
+   "Article 3",
+   "Article 1",
+   "Article 356"
+  ],
+  "answer": 1,
+  "explanation": "A simple majority is enough.",
+  "difficulty": 2
+ }
+]
