@@ -376,5 +376,313 @@
   "answer": 3,
   "explanation": "Deductible $500 + 30% of $4,500 = $1,850.",
   "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Policy provisions",
+  "body": "The free look period lets a new policyholder",
+  "options": [
+   "return the policy for a full refund within a set time",
+   "skip premiums",
+   "change the insured",
+   "borrow cash value"
+  ],
+  "answer": 0,
+  "explanation": "It's often 10 to 30 days, depending on the state and policy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Policy provisions",
+  "body": "If a policy lapses, a reinstatement provision usually lets the owner",
+  "options": [
+   "nothing",
+   "switch to a new insurer",
+   "get a full refund",
+   "restore it within a set period, often with proof of insurability and back premiums"
+  ],
+  "answer": 3,
+  "explanation": "Typically up to 3 years.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Policy provisions",
+  "body": "The entire contract provision says",
+  "options": [
+   "the insurer can change terms any time",
+   "nothing applies",
+   "the policy and the attached application make up the whole contract",
+   "the agent's verbal promises are binding"
+  ],
+  "answer": 2,
+  "explanation": "Nothing outside it can be added.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Policy provisions",
+  "body": "The misstatement of age provision lets the insurer",
+  "options": [
+   "cancel the policy",
+   "adjust the death benefit to what the premiums would have bought at the correct age",
+   "double the premium",
+   "deny all claims"
+  ],
+  "answer": 1,
+  "explanation": "It doesn't void the policy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Beneficiaries",
+  "body": "A primary beneficiary is",
+  "options": [
+   "the insurer",
+   "the person who pays premiums",
+   "the agent",
+   "the first in line to receive the death benefit"
+  ],
+  "answer": 3,
+  "explanation": "A contingent beneficiary receives it if the primary has died.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Beneficiaries",
+  "body": "An irrevocable beneficiary",
+  "options": [
+   "never receives benefits",
+   "cannot be changed without their consent",
+   "is always the insurer",
+   "can be changed any time"
+  ],
+  "answer": 1,
+  "explanation": "The owner's rights are limited.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Riders",
+  "body": "An accidental death benefit rider pays",
+  "options": [
+   "cash value only",
+   "an extra benefit if death is caused by an accident",
+   "only for illness",
+   "a refund of premiums"
+  ],
+  "answer": 1,
+  "explanation": "Double indemnity is a common form.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Riders",
+  "body": "A waiver of premium rider",
+  "options": [
+   "cancels the policy",
+   "waives premiums if the insured becomes totally disabled",
+   "pays a death benefit",
+   "doubles the premium"
+  ],
+  "answer": 1,
+  "explanation": "There is usually a waiting period.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Nonforfeiture",
+  "body": "Nonforfeiture options protect",
+  "options": [
+   "the agent's commission",
+   "term policies only",
+   "the insurer's profits",
+   "the cash value of a permanent policy if premiums stop"
+  ],
+  "answer": 3,
+  "explanation": "Options include cash surrender, reduced paid-up and extended term.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Life insurance",
+  "body": "Death benefits paid in a lump sum to a beneficiary are generally",
+  "options": [
+   "free of federal income tax",
+   "taxed at 50%",
+   "taxed as ordinary income",
+   "taxed as capital gains"
+  ],
+  "answer": 0,
+  "explanation": "Interest earned on them can be taxable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Life insurance",
+  "body": "A modified endowment contract (MEC) results when",
+  "options": [
+   "the owner changes beneficiary",
+   "the policy is term",
+   "a policy fails the 7-pay test because of too much premium too soon",
+   "the insured dies early"
+  ],
+  "answer": 2,
+  "explanation": "Withdrawals lose some tax advantages.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Health insurance",
+  "body": "A copayment is",
+  "options": [
+   "the deductible",
+   "a fixed amount paid for a specific service, like a doctor visit",
+   "the yearly premium",
+   "a percentage of costs"
+  ],
+  "answer": 1,
+  "explanation": "Coinsurance is a percentage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Health insurance",
+  "body": "A PPO plan usually",
+  "options": [
+   "lets members see out-of-network providers at a higher cost",
+   "has no network",
+   "requires referrals for everything",
+   "covers only emergencies"
+  ],
+  "answer": 0,
+  "explanation": "HMOs usually require in-network care.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Health insurance",
+  "body": "The out-of-pocket maximum is",
+  "options": [
+   "the first payment",
+   "the most the insured pays for covered services in a year",
+   "the monthly premium",
+   "the lifetime benefit"
+  ],
+  "answer": 1,
+  "explanation": "After it's reached, the plan pays 100% of covered costs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Health insurance",
+  "body": "Coordination of benefits prevents",
+  "options": [
+   "being paid more than 100% of costs when covered by two plans",
+   "pre-existing conditions",
+   "family coverage",
+   "any claims being paid"
+  ],
+  "answer": 0,
+  "explanation": "It sets primary and secondary plans.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Medicare",
+  "body": "Medicare Part B covers",
+  "options": [
+   "doctor services and outpatient care",
+   "long-term custodial care",
+   "prescription drugs only",
+   "hospital inpatient care only"
+  ],
+  "answer": 0,
+  "explanation": "Most people pay a monthly premium for Part B.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Medicare",
+  "body": "Medicare Advantage plans are",
+  "options": [
+   "supplemental cash plans",
+   "Part D only",
+   "Medicaid",
+   "Medicare Part C plans offered by private insurers"
+  ],
+  "answer": 3,
+  "explanation": "They replace Parts A and B coverage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Medicare",
+  "body": "Medicaid is",
+  "options": [
+   "private insurance",
+   "workers' compensation",
+   "a joint federal and state program for people with limited income and resources",
+   "federal insurance for everyone 65+"
+  ],
+  "answer": 2,
+  "explanation": "Eligibility varies by state.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Disability",
+  "body": "An 'own occupation' definition of disability pays if",
+  "options": [
+   "the insured can't work any job at all",
+   "the insured changes jobs",
+   "the insured can't perform the duties of their own job",
+   "the insured is retired"
+  ],
+  "answer": 2,
+  "explanation": "It's more generous than 'any occupation'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Annuities",
+  "body": "During the annuitization (payout) phase, the annuitant",
+  "options": [
+   "receives regular income payments",
+   "must buy life insurance",
+   "pays premiums",
+   "can't receive anything"
+  ],
+  "answer": 0,
+  "explanation": "Payments may be for life or a set period.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Annuities",
+  "body": "Withdrawals from a deferred annuity before age 59½ are usually subject to",
+  "options": [
+   "no tax",
+   "a 10% federal tax penalty on the earnings",
+   "only state tax",
+   "a 50% penalty"
+  ],
+  "answer": 1,
+  "explanation": "Surrender charges may also apply.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Underwriting",
+  "body": "The Medical Information Bureau (MIB) helps insurers",
+  "options": [
+   "sell policies",
+   "pay claims",
+   "set premium rates",
+   "detect omissions or misstatements on applications"
+  ],
+  "answer": 3,
+  "explanation": "It shares coded medical information among members.",
+  "difficulty": 2
  }
 ]

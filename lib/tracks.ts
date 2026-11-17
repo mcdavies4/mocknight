@@ -1163,7 +1163,7 @@ export const TRACKS: Record<TrackCode, Track> = {
   LIFEINS: {
     code: "LIFEINS", name: "Life and health insurance producer licence", short: "Life & Health Insurance", emoji: "🛡️", kind: "professional", region: "US", currency: "USD",
     subjectMode: "single", subjects: ["LHI"], compulsory: ["LHI"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
-    mock: { total: 20, minutes: 30, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 },
+    mock: { total: 30, minutes: 45, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 },
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["lifeins_pass"], tagline: "Life and health insurance licence practice: policy types, provisions, health plans, Medicare, annuities and ethics", timeZone: "America/New_York", timeLabel: "US Eastern",
     audience: "a US insurance producer candidate preparing for a state life and health licensing exam",
@@ -1216,7 +1216,7 @@ export const TRACKS: Record<TrackCode, Track> = {
   SIE: {
     code: "SIE", name: "Securities Industry Essentials (SIE)", short: "SIE", emoji: "📈", kind: "professional", region: "US", currency: "USD",
     subjectMode: "single", subjects: ["SIE"], compulsory: ["SIE"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
-    mock: { total: 20, minutes: 28, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 },
+    mock: { total: 30, minutes: 42, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 },
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["sie_pass"], tagline: "SIE practice: securities regulation, products, trading, customer accounts and compliance", timeZone: "America/New_York", timeLabel: "US Eastern",
     audience: "a candidate preparing for the FINRA Securities Industry Essentials exam for a finance career",

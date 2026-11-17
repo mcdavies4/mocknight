@@ -376,5 +376,285 @@
   "answer": 3,
   "explanation": "300 ÷ 6 = 50 bpm.",
   "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Vital signs",
+  "body": "A normal adult respiratory rate is",
+  "options": [
+   "25–35 breaths per minute",
+   "4–8 breaths per minute",
+   "40–60 breaths per minute",
+   "12–20 breaths per minute"
+  ],
+  "answer": 3,
+  "explanation": "Count for a full minute if irregular.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Vital signs",
+  "body": "Normal oral body temperature is about",
+  "options": [
+   "95 °F (35 °C)",
+   "101 °F (38.3 °C)",
+   "98.6 °F (37 °C)",
+   "104 °F (40 °C)"
+  ],
+  "answer": 2,
+  "explanation": "Rectal readings are about 1 °F higher.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Vital signs",
+  "body": "Pulse oximetry measures",
+  "options": [
+   "heart rhythm",
+   "blood pressure",
+   "blood glucose",
+   "oxygen saturation of the blood"
+  ],
+  "answer": 3,
+  "explanation": "A normal reading is about 95–100%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Vital signs",
+  "body": "Using a blood pressure cuff that is too small gives",
+  "options": [
+   "a falsely low reading",
+   "a falsely high reading",
+   "an accurate reading",
+   "no reading"
+  ],
+  "answer": 1,
+  "explanation": "The bladder should cover about 80% of the arm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Anatomy",
+  "body": "The largest organ of the body is the",
+  "options": [
+   "heart",
+   "skin",
+   "liver",
+   "brain"
+  ],
+  "answer": 1,
+  "explanation": "The liver is the largest internal organ.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Anatomy",
+  "body": "Insulin is produced by the",
+  "options": [
+   "pancreas",
+   "adrenal glands",
+   "thyroid",
+   "liver"
+  ],
+  "answer": 0,
+  "explanation": "Beta cells in the islets of Langerhans.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Terminology",
+  "body": "The suffix '-itis' means",
+  "options": [
+   "pain",
+   "study of",
+   "removal",
+   "inflammation"
+  ],
+  "answer": 3,
+  "explanation": "For example, appendicitis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Terminology",
+  "body": "The suffix '-ectomy' means",
+  "options": [
+   "visual examination",
+   "inflammation",
+   "repair",
+   "surgical removal"
+  ],
+  "answer": 3,
+  "explanation": "For example, appendectomy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Terminology",
+  "body": "The prefix 'brady-' means",
+  "options": [
+   "fast",
+   "slow",
+   "large",
+   "painful"
+  ],
+  "answer": 1,
+  "explanation": "Bradycardia is a slow heart rate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Terminology",
+  "body": "'Hyperglycemia' means",
+  "options": [
+   "low blood pressure",
+   "low blood sugar",
+   "high blood pressure",
+   "high blood sugar"
+  ],
+  "answer": 3,
+  "explanation": "Hypo- means low.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Injections",
+  "body": "A common needle gauge for an adult intramuscular injection is",
+  "options": [
+   "30 gauge, 1/4 inch",
+   "14 gauge, 2 inches",
+   "22–25 gauge, 1–1.5 inches",
+   "16 gauge, 3 inches"
+  ],
+  "answer": 2,
+  "explanation": "Choose length based on the patient and site.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Injections",
+  "body": "The deltoid muscle site should usually receive no more than",
+  "options": [
+   "10 mL",
+   "1 mL",
+   "3 mL",
+   "5 mL"
+  ],
+  "answer": 1,
+  "explanation": "Larger volumes go to the ventrogluteal or vastus lateralis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Injections",
+  "body": "The preferred IM injection site for infants is the",
+  "options": [
+   "ventrogluteal",
+   "vastus lateralis",
+   "dorsogluteal",
+   "deltoid"
+  ],
+  "answer": 1,
+  "explanation": "It is a large, well-developed muscle in infants.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Medication safety",
+  "body": "The 'rights' of medication administration include right patient, drug, dose, route and",
+  "options": [
+   "color",
+   "time",
+   "manufacturer",
+   "price"
+  ],
+  "answer": 1,
+  "explanation": "Documentation is also a right.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Infection control",
+  "body": "Hand hygiene with alcohol-based rub is not enough when",
+  "options": [
+   "hands are visibly soiled",
+   "after touching a pen",
+   "before a handshake",
+   "hands look clean"
+  ],
+  "answer": 0,
+  "explanation": "Use soap and water instead.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Infection control",
+  "body": "Used needles should be",
+  "options": [
+   "thrown in regular trash",
+   "bent before disposal",
+   "recapped with two hands",
+   "placed in a sharps container right away without recapping"
+  ],
+  "answer": 3,
+  "explanation": "Replace containers when they're about three-quarters full.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Law and ethics",
+  "body": "Informed consent requires the patient to understand",
+  "options": [
+   "only the cost",
+   "only the doctor's name",
+   "the procedure, its risks, benefits and alternatives",
+   "nothing"
+  ],
+  "answer": 2,
+  "explanation": "The provider explains; the MA may witness.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Law and ethics",
+  "body": "OSHA's Bloodborne Pathogens Standard requires employers to offer workers at risk",
+  "options": [
+   "free lunch",
+   "the hepatitis B vaccine at no cost",
+   "a pay rise",
+   "the flu vaccine only"
+  ],
+  "answer": 1,
+  "explanation": "It also requires an exposure control plan.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Front office",
+  "body": "The CMS-1500 form is used to",
+  "options": [
+   "schedule appointments",
+   "order lab tests",
+   "record vital signs",
+   "bill insurance for provider services"
+  ],
+  "answer": 3,
+  "explanation": "Hospitals use the UB-04.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Emergencies",
+  "body": "The universal sign of choking is",
+  "options": [
+   "pointing to the chest",
+   "lying down",
+   "waving both arms",
+   "hands clutched to the throat"
+  ],
+  "answer": 3,
+  "explanation": "Ask 'Are you choking?' and give abdominal thrusts if needed.",
+  "difficulty": 2
  }
 ]

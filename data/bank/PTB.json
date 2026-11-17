@@ -502,5 +502,313 @@
   "answer": 1,
   "explanation": "2 × 5 mL × 3 × 7 = 210 mL.",
   "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Law",
+  "body": "Schedule I controlled substances",
+  "options": [
+   "have high abuse potential and no currently accepted medical use in the US",
+   "are all antibiotics",
+   "have the lowest abuse potential",
+   "are sold over the counter"
+  ],
+  "answer": 0,
+  "explanation": "Examples include heroin and LSD.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Law",
+  "body": "Under federal law, Schedule III–V prescriptions may be refilled",
+  "options": [
+   "up to 12 times in 2 years",
+   "unlimited times",
+   "up to 5 times within 6 months of the date written",
+   "never"
+  ],
+  "answer": 2,
+  "explanation": "Schedule II prescriptions cannot be refilled.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Law",
+  "body": "HIPAA protects",
+  "options": [
+   "patients' individually identifiable health information",
+   "drug prices",
+   "manufacturers' patents",
+   "pharmacy opening hours"
+  ],
+  "answer": 0,
+  "explanation": "Share only the minimum necessary.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Law",
+  "body": "The Poison Prevention Packaging Act requires most prescription drugs to be dispensed in",
+  "options": [
+   "child-resistant containers, unless the patient or prescriber requests otherwise",
+   "paper envelopes",
+   "blister packs only",
+   "glass bottles only"
+  ],
+  "answer": 0,
+  "explanation": "Sublingual nitroglycerin is a common exemption.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Law",
+  "body": "A drug recall that could cause serious harm or death is",
+  "options": [
+   "a voluntary sale",
+   "a Class II recall",
+   "a Class I recall",
+   "a Class III recall"
+  ],
+  "answer": 2,
+  "explanation": "Class III is unlikely to cause harm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Law",
+  "body": "USP <795> covers",
+  "options": [
+   "drug advertising",
+   "nonsterile compounding",
+   "sterile compounding",
+   "radiopharmaceuticals"
+  ],
+  "answer": 1,
+  "explanation": "USP <800> covers hazardous drugs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Sterile compounding",
+  "body": "A laminar airflow workbench should be cleaned with",
+  "options": [
+   "water only",
+   "70% isopropyl alcohol, from back to front and top to bottom",
+   "nothing; the airflow cleans it",
+   "bleach from front to back"
+  ],
+  "answer": 1,
+  "explanation": "Work at least 6 inches inside the hood.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "How many milliliters are in one teaspoon?",
+  "options": [
+   "15 mL",
+   "5 mL",
+   "1 mL",
+   "30 mL"
+  ],
+  "answer": 1,
+  "explanation": "One tablespoon is 15 mL; one fluid ounce is about 30 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "One kilogram equals about",
+  "options": [
+   "0.45 pounds",
+   "2.2 pounds",
+   "1 pound",
+   "5 pounds"
+  ],
+  "answer": 1,
+  "explanation": "One pound is about 454 grams.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "One grain is approximately",
+  "options": [
+   "500 mg",
+   "1 mg",
+   "1 g",
+   "65 mg"
+  ],
+  "answer": 3,
+  "explanation": "Used for some older drugs like aspirin and phenobarbital.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "A prescription for 1 tablet BID for 30 days needs how many tablets?",
+  "options": [
+   "60",
+   "90",
+   "30",
+   "120"
+  ],
+  "answer": 0,
+  "explanation": "Twice a day times 30 days.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Sig codes",
+  "body": "'AC' on a prescription means",
+  "options": [
+   "at bedtime",
+   "before meals",
+   "as needed",
+   "after meals"
+  ],
+  "answer": 1,
+  "explanation": "'PC' means after meals.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Sig codes",
+  "body": "'QID' means",
+  "options": [
+   "three times a day",
+   "every day",
+   "every other day",
+   "four times a day"
+  ],
+  "answer": 3,
+  "explanation": "'QD' is avoided because it can be misread.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Sig codes",
+  "body": "'SL' means",
+  "options": [
+   "subcutaneous",
+   "slowly",
+   "sublingual (under the tongue)",
+   "as needed"
+  ],
+  "answer": 2,
+  "explanation": "Nitroglycerin tablets are taken SL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Drugs",
+  "body": "Lisinopril is an",
+  "options": [
+   "statin",
+   "antidepressant",
+   "ACE inhibitor used for high blood pressure",
+   "antibiotic"
+  ],
+  "answer": 2,
+  "explanation": "Drugs ending in -pril are ACE inhibitors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Drugs",
+  "body": "Metoprolol belongs to which class?",
+  "options": [
+   "diuretics",
+   "ACE inhibitors",
+   "calcium channel blockers",
+   "beta blockers"
+  ],
+  "answer": 3,
+  "explanation": "Drugs ending in -olol are beta blockers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Drugs",
+  "body": "Amlodipine (Norvasc) is a",
+  "options": [
+   "statin",
+   "calcium channel blocker",
+   "proton pump inhibitor",
+   "beta blocker"
+  ],
+  "answer": 1,
+  "explanation": "Used for hypertension and angina.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Drugs",
+  "body": "Albuterol is used to",
+  "options": [
+   "relieve bronchospasm in asthma",
+   "lower cholesterol",
+   "thin the blood",
+   "treat infections"
+  ],
+  "answer": 0,
+  "explanation": "It is a short-acting beta-2 agonist.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Drugs",
+  "body": "Amoxicillin belongs to which class?",
+  "options": [
+   "penicillins",
+   "macrolides",
+   "cephalosporins",
+   "fluoroquinolones"
+  ],
+  "answer": 0,
+  "explanation": "Check for penicillin allergy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Drugs",
+  "body": "Furosemide (Lasix) is a",
+  "options": [
+   "loop diuretic",
+   "anticoagulant",
+   "antiemetic",
+   "beta blocker"
+  ],
+  "answer": 0,
+  "explanation": "It can lower potassium.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Drugs",
+  "body": "Insulin should be stored before opening",
+  "options": [
+   "in a hot car",
+   "in direct sunlight",
+   "in the refrigerator, not frozen",
+   "in the freezer"
+  ],
+  "answer": 2,
+  "explanation": "Opened vials can usually be kept at room temperature for a limited time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Safety",
+  "body": "Look-alike/sound-alike drug errors can be reduced by",
+  "options": [
+   "relying on memory",
+   "Tall Man lettering, separating stock and checking the NDC",
+   "removing labels",
+   "storing them together"
+  ],
+  "answer": 1,
+  "explanation": "Always scan barcodes when available.",
+  "difficulty": 2
  }
 ]

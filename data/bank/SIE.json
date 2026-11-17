@@ -390,5 +390,313 @@
   "answer": 0,
   "explanation": "Annual interest $40 ÷ price $900 = 4.44%.",
   "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Regulation",
+  "body": "The Investment Company Act of 1940 regulates",
+  "options": [
+   "banks",
+   "real estate agents",
+   "mutual funds and other investment companies",
+   "insurance policies only"
+  ],
+  "answer": 2,
+  "explanation": "The Investment Advisers Act of 1940 regulates advisers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Regulation",
+  "body": "State securities laws are often called",
+  "options": [
+   "sunshine laws",
+   "blue-sky laws",
+   "red-flag laws",
+   "green laws"
+  ],
+  "answer": 1,
+  "explanation": "They are administered by state securities regulators.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Regulation",
+  "body": "A registered representative who wants to do outside business activity must",
+  "options": [
+   "tell FINRA after a year",
+   "tell only customers",
+   "do nothing",
+   "give their firm prior written notice"
+  ],
+  "answer": 3,
+  "explanation": "Firms may restrict the activity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Regulation",
+  "body": "Selling securities that aren't held or recorded by the firm (private securities transactions) without approval is called",
+  "options": [
+   "free-riding",
+   "selling away",
+   "front running",
+   "churning"
+  ],
+  "answer": 1,
+  "explanation": "Prior written notice and firm approval are required.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "A bond's coupon rate is",
+  "options": [
+   "the fixed annual interest rate based on par value",
+   "the yield to maturity always",
+   "the current market price",
+   "the tax rate"
+  ],
+  "answer": 0,
+  "explanation": "Par is usually $1,000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "When a bond trades below par, its current yield is",
+  "options": [
+   "equal to its coupon rate",
+   "higher than its coupon rate",
+   "zero",
+   "lower than its coupon rate"
+  ],
+  "answer": 1,
+  "explanation": "Discount bonds have yields above the coupon.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "General obligation municipal bonds are backed by",
+  "options": [
+   "corporate profits",
+   "revenue from a specific project only",
+   "the federal government",
+   "the issuer's taxing power"
+  ],
+  "answer": 3,
+  "explanation": "Revenue bonds are backed by project revenues.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "Treasury notes have maturities of",
+  "options": [
+   "exactly 1 month",
+   "2 to 10 years",
+   "20 to 30 years",
+   "under 1 year"
+  ],
+  "answer": 1,
+  "explanation": "Treasury bonds run 20 or 30 years.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "TIPS protect investors against",
+  "options": [
+   "currency risk",
+   "interest rate rises",
+   "default by the issuer",
+   "inflation"
+  ],
+  "answer": 3,
+  "explanation": "Principal adjusts with CPI.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "A call option gives the holder the right to",
+  "options": [
+   "sell the underlying at the strike price",
+   "receive dividends",
+   "vote the shares",
+   "buy the underlying at the strike price"
+  ],
+  "answer": 3,
+  "explanation": "A put gives the right to sell.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "Exchange-traded funds (ETFs) trade",
+  "options": [
+   "only directly with the fund",
+   "only at the end-of-day NAV",
+   "on an exchange throughout the day at market prices",
+   "only once a month"
+  ],
+  "answer": 2,
+  "explanation": "Mutual funds are priced once a day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "A REIT must distribute at least what share of its taxable income to avoid corporate tax?",
+  "options": [
+   "10%",
+   "100%",
+   "90%",
+   "50%"
+  ],
+  "answer": 2,
+  "explanation": "It gives investors real estate exposure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Risk",
+  "body": "The risk that rising interest rates lower bond prices is",
+  "options": [
+   "interest rate risk",
+   "liquidity risk",
+   "business risk",
+   "currency risk"
+  ],
+  "answer": 0,
+  "explanation": "Longer maturities have more interest rate risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Risk",
+  "body": "The risk that an investment can't be sold quickly at a fair price is",
+  "options": [
+   "inflation risk",
+   "reinvestment risk",
+   "liquidity risk",
+   "credit risk"
+  ],
+  "answer": 2,
+  "explanation": "Thinly traded securities carry it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Risk",
+  "body": "Systematic risk is",
+  "options": [
+   "company-specific risk",
+   "market risk that diversification cannot remove",
+   "the same as fraud",
+   "always avoidable"
+  ],
+  "answer": 1,
+  "explanation": "Unsystematic risk can be diversified away.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Trading",
+  "body": "A buy limit order is executed",
+  "options": [
+   "only at the close",
+   "at the limit price or higher",
+   "at any price",
+   "at the limit price or lower"
+  ],
+  "answer": 3,
+  "explanation": "A sell limit executes at the limit or higher.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Trading",
+  "body": "A buy stop order is placed",
+  "options": [
+   "above the current market price",
+   "only after hours",
+   "below the current market price",
+   "at the current price"
+  ],
+  "answer": 0,
+  "explanation": "It's often used to protect a short position.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Trading",
+  "body": "The ex-dividend date for stock is",
+  "options": [
+   "the same business day as the record date, under T+1 settlement",
+   "two business days after the record date",
+   "the payment date",
+   "the declaration date"
+  ],
+  "answer": 0,
+  "explanation": "Buyers on or after the ex-date don't get the dividend.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Compliance",
+  "body": "Placing structured cash deposits to avoid the $10,000 reporting threshold is",
+  "options": [
+   "called rebating",
+   "legal tax planning",
+   "required by law",
+   "structuring, which is illegal"
+  ],
+  "answer": 3,
+  "explanation": "It is a money laundering red flag.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Compliance",
+  "body": "The three stages of money laundering are",
+  "options": [
+   "deposit, withdrawal and transfer",
+   "buy, hold and sell",
+   "placement, layering and integration",
+   "open, trade and close"
+  ],
+  "answer": 2,
+  "explanation": "File a SAR for suspicious activity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Compliance",
+  "body": "Trading for your own account ahead of a large customer order is",
+  "options": [
+   "matched orders",
+   "front running",
+   "selling away",
+   "churning"
+  ],
+  "answer": 1,
+  "explanation": "It is prohibited.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Taxes",
+  "body": "Long-term capital gains apply to investments held",
+  "options": [
+   "more than ten years",
+   "more than one month",
+   "more than one year",
+   "any length of time"
+  ],
+  "answer": 2,
+  "explanation": "Short-term gains are taxed as ordinary income.",
+  "difficulty": 2
  }
 ]

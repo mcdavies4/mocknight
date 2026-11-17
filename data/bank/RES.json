@@ -544,5 +544,313 @@
   "answer": 2,
   "explanation": "Value = NOI ÷ cap rate = $60,000 ÷ 0.06 = $1,000,000.",
   "difficulty": 3
+ },
+ {
+  "subject": "RES",
+  "topic": "Ownership",
+  "body": "A life estate ends",
+  "options": [
+   "never",
+   "when the person whose life measures it dies",
+   "after 99 years",
+   "when the property is sold"
+  ],
+  "answer": 1,
+  "explanation": "The property then passes to the remainderman.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Ownership",
+  "body": "Real property includes",
+  "options": [
+   "only cars",
+   "only cash",
+   "land, anything permanently attached to it and the rights that go with it",
+   "only furniture"
+  ],
+  "answer": 2,
+  "explanation": "Personal property is movable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Ownership",
+  "body": "An item of personal property permanently attached to real property becomes a",
+  "options": [
+   "fixture",
+   "lien",
+   "chattel",
+   "easement"
+  ],
+  "answer": 0,
+  "explanation": "Tests include method of attachment and intent.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Ownership",
+  "body": "Property passing to the state when an owner dies with no will and no heirs is",
+  "options": [
+   "eminent domain",
+   "foreclosure",
+   "escheat",
+   "adverse possession"
+  ],
+  "answer": 2,
+  "explanation": "It is a government power.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Ownership",
+  "body": "An encroachment is",
+  "options": [
+   "a zoning permit",
+   "an improvement that extends illegally onto another's land",
+   "a type of mortgage",
+   "a deed restriction"
+  ],
+  "answer": 1,
+  "explanation": "A survey can reveal it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Liens",
+  "body": "A lien that has priority over all others is usually a",
+  "options": [
+   "property tax lien",
+   "mechanic's lien",
+   "judgment lien",
+   "mortgage lien"
+  ],
+  "answer": 0,
+  "explanation": "Real estate tax liens are special liens with top priority.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Agency",
+  "body": "A dual agent represents",
+  "options": [
+   "only the lender",
+   "nobody",
+   "both the buyer and the seller in the same transaction, with written consent",
+   "only the seller"
+  ],
+  "answer": 2,
+  "explanation": "Some states prohibit it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Agency",
+  "body": "Commingling means",
+  "options": [
+   "sharing commissions",
+   "listing two properties",
+   "mixing client funds with the broker's own money",
+   "advertising jointly"
+  ],
+  "answer": 2,
+  "explanation": "Earnest money goes in a trust (escrow) account.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Listings",
+  "body": "An exclusive right-to-sell listing pays the broker a commission",
+  "options": [
+   "only if the broker finds the buyer",
+   "only if the owner sells it",
+   "no matter who sells the property during the listing term",
+   "never"
+  ],
+  "answer": 2,
+  "explanation": "It's the most common listing type.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Listings",
+  "body": "An open listing",
+  "options": [
+   "gives one broker exclusive rights",
+   "is illegal",
+   "guarantees the broker a commission",
+   "pays only the broker who brings the buyer, and the owner can sell it themselves"
+  ],
+  "answer": 3,
+  "explanation": "Multiple brokers can hold open listings.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Contracts",
+  "body": "A contract that is missing an essential element, such as a legal purpose, is",
+  "options": [
+   "voidable",
+   "void",
+   "valid",
+   "executed"
+  ],
+  "answer": 1,
+  "explanation": "A voidable contract can be cancelled by one party.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Contracts",
+  "body": "A contract signed by a minor is usually",
+  "options": [
+   "void",
+   "voidable by the minor",
+   "valid and binding on the minor",
+   "illegal"
+  ],
+  "answer": 1,
+  "explanation": "The minor may cancel it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Contracts",
+  "body": "An option contract gives the buyer",
+  "options": [
+   "ownership immediately",
+   "a mortgage",
+   "the obligation to buy",
+   "the right, but not the obligation, to buy at a set price within a set time"
+  ],
+  "answer": 3,
+  "explanation": "The seller is bound if the option is exercised.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Finance",
+  "body": "Loan-to-value (LTV) ratio is",
+  "options": [
+   "the interest rate times the term",
+   "taxes divided by value",
+   "the loan amount divided by the property value",
+   "the down payment divided by income"
+  ],
+  "answer": 2,
+  "explanation": "An 80% LTV means a 20% down payment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Finance",
+  "body": "An amortized loan means",
+  "options": [
+   "a balloon payment is always due",
+   "the balance grows",
+   "each payment covers interest and part of the principal until it's paid off",
+   "only interest is paid"
+  ],
+  "answer": 2,
+  "explanation": "Early payments are mostly interest.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Finance",
+  "body": "FHA loans are",
+  "options": [
+   "insured by the Federal Housing Administration",
+   "made only by the government",
+   "for commercial property only",
+   "guaranteed by the VA"
+  ],
+  "answer": 0,
+  "explanation": "VA loans are guaranteed for eligible veterans.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Finance",
+  "body": "The Truth in Lending Act (Regulation Z) requires lenders to disclose",
+  "options": [
+   "the APR and finance charges",
+   "the appraiser's fee only",
+   "the seller's income",
+   "nothing"
+  ],
+  "answer": 0,
+  "explanation": "It lets borrowers compare loans.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Valuation",
+  "body": "The income approach to value is most used for",
+  "options": [
+   "income-producing property such as apartments",
+   "single-family homes",
+   "churches",
+   "vacant land"
+  ],
+  "answer": 0,
+  "explanation": "Value = net operating income ÷ cap rate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Valuation",
+  "body": "The cost approach is most useful for",
+  "options": [
+   "rental income property",
+   "vacant land only",
+   "older homes with many sales",
+   "new or special-purpose buildings, like schools or churches"
+  ],
+  "answer": 3,
+  "explanation": "Land value plus cost to build minus depreciation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Valuation",
+  "body": "Functional obsolescence is a loss in value caused by",
+  "options": [
+   "nearby noise or pollution",
+   "physical wear",
+   "high interest rates",
+   "outdated design or features"
+  ],
+  "answer": 3,
+  "explanation": "External obsolescence comes from outside the property.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Law",
+  "body": "The federal law requiring disclosure of known lead-based paint hazards applies to housing built",
+  "options": [
+   "before 1978",
+   "before 1900 only",
+   "after 2000",
+   "after 1978"
+  ],
+  "answer": 0,
+  "explanation": "Buyers get a 10-day inspection opportunity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Fair housing",
+  "body": "Refusing to lend in certain areas because of the residents' race is",
+  "options": [
+   "blockbusting",
+   "redlining",
+   "steering",
+   "puffing"
+  ],
+  "answer": 1,
+  "explanation": "It is illegal.",
+  "difficulty": 2
  }
 ]
