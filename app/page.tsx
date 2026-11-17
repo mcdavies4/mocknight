@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { JsonLd } from "@/components/json-ld";
 import { SITE_URL } from "@/lib/site";
+import { sortedPosts } from "@/lib/blog";
 
 export default function Home() {
   const bot = process.env.TELEGRAM_BOT_USERNAME ?? "";
@@ -85,6 +86,19 @@ export default function Home() {
         👩🏾‍🏫 <b>Tutors, schools and training providers:</b> one link for your learners, a dashboard of who&apos;s practising, and weekly results.
         {bot && <> Message <a href={`https://t.me/${bot}`}>@{bot}</a> and send <code>/newgroup</code>.</>}
       </div>
+      <section style={{ marginTop: 28 }}>
+        <h2>📚 Guides and study tips</h2>
+        <div className="post-list">
+          {sortedPosts().slice(0, 3).map((p) => (
+            <Link key={p.slug} href={`/blog/${p.slug}`} className="card post-card">
+              <div className="muted small">{p.tag} · {p.readMins} min read</div>
+              <h3>{p.title}</h3>
+              <p className="muted small" style={{ marginBottom: 0 }}>{p.description}</p>
+            </Link>
+          ))}
+        </div>
+        <p><Link className="btn secondary" href="/blog">Read all guides</Link></p>
+      </section>
     </main>
   );
 }

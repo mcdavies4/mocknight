@@ -40,6 +40,7 @@ export function SiteHeader({ bot }: { bot: string }) {
         </Link>
         <nav className="site-nav">
           <Link href="/exams" className="site-link">Exams</Link>
+          <Link href="/blog" className="site-link">Blog</Link>
           <Link href="/app" className="site-link">Web app</Link>
           {bot && (
             <a href={`https://t.me/${bot}`} className="site-cta" aria-label="Open Mock Night in Telegram">
@@ -65,6 +66,11 @@ export function SiteFooter() {
           <BrandMark size={28} />
           <span><b>Mock Night</b> · Prepare Smarter. Perform Better.</span>
         </div>
+        <nav className="site-footer-links" aria-label="Footer">
+          <Link href="/exams">All exams</Link>
+          <Link href="/blog">Blog</Link>
+          <Link href="/app">Web app</Link>
+        </nav>
         <span className="muted small">A product of The 36th Solutions Ltd.</span>
       </div>
     </footer>

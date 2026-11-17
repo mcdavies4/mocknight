@@ -212,3 +212,18 @@ a { color: var(--accent); }
 @media (max-width: 330px) { .site-tagline { display: none; } }
 a.btn { text-decoration: none; }
 a.btn:hover { filter: brightness(1.06); }
+
+/* Blog */
+.prose { font-size: 17px; line-height: 1.65; }
+.prose h2 { margin: 28px 0 8px; font-size: 22px; }
+.prose ul { padding-left: 22px; }
+.prose li { margin: 6px 0; }
+.prose a, .post-card h2, .post-card h3 { color: var(--mn-forest); }
+.post-list { display: grid; gap: 12px; }
+.post-card { display: block; text-decoration: none; color: inherit; }
+.post-card h2 { margin: 6px 0; font-size: 20px; }
+.post-card h3 { margin: 6px 0 0; font-size: 17px; }
+.post-card:hover { border-color: var(--mn-forest); }
+.faq summary { cursor: pointer; }
+.site-footer-links { display: flex; gap: 14px; flex-wrap: wrap; }
+.site-footer-links a { color: var(--mn-forest); font-weight: 600; text-decoration: none; font-size: 14px; }
