@@ -5,25 +5,25 @@ export interface TrackGroup { key: string; emoji: string; title: string; descrip
 
 export const TRACK_GROUPS: TrackGroup[] = [
   { key: "us", emoji: "🇺🇸", title: "United States", description: "GED, nursing school (TEAS), CNA, military (ASVAB), SAT, NCLEX and the citizenship test.",
-    codes: ["GED", "TEAS", "CNA", "ASVAB", "SAT", "NCLEX", "USCIT"] },
+    codes: ["GED", "TEAS", "CNA", "ASVAB", "CDL", "USMLE", "SAT", "NCLEX", "USCIT"] },
   { key: "india", emoji: "🇮🇳", title: "India", description: "UPSC, SSC, banking, railways, teaching (CTET), MBA (CAT), NEET and JEE.",
     codes: ["UPSC", "SSC", "IBPS", "RRB", "CTET", "CAT", "NEET", "JEE"] },
   { key: "school", emoji: "🌍", title: "African school exams", description: "School-leaving and national exams across Nigeria, Ghana, Kenya, Tanzania, Uganda, Cameroon, South Africa and Ethiopia.",
-    codes: ["NCEE", "JSCE", "JAMB", "WAEC", "NECO", "PUTME", "WASSCE_GH", "BECE", "KCSE", "CSEE", "UCE", "CMGCE", "MATRIC", "ETH"] },
+    codes: ["NCEE", "JSCE", "JAMB", "WAEC", "NECO", "NABTEB", "PUTME", "JUPEB", "WASSCE_GH", "BECE", "KCSE", "CSEE", "UCE", "CMGCE", "MATRIC", "ETH"] },
   { key: "admissions", emoji: "🎓", title: "Admissions & entrance tests", description: "University, medical, engineering and grammar-school entrance tests.",
     codes: ["MDCAT", "NEET", "JEE", "SAT", "UCAT", "GRE", "ELEVEN"] },
   { key: "abroad", emoji: "✈️", title: "Moving abroad", description: "Citizenship tests, English and professional licensing for doctors and nurses relocating.",
-    codes: ["LUK", "USCIT", "CANCIT", "AUSCIT", "IELTS", "PTE", "CELPIP", "OET", "PLAB", "NMC", "NCLEX", "GULFN"] },
+    codes: ["LUK", "USCIT", "CANCIT", "AUSCIT", "IELTS", "TOEFL", "DUOLINGO", "PTE", "CELPIP", "OET", "PLAB", "USMLE", "NMC", "NCLEX", "GULFN", "GULFDR", "GULFPH"] },
   { key: "career", emoji: "💼", title: "Professional & career", description: "Practise for professional qualifications, graduate assessments and career progression tests.",
-    codes: ["PM", "ACCA", "ICAN", "GRAD", "IBPS", "SSC", "ITIL", "SIXSIG", "BA", "ETEXIT", "KCPA", "AAT", "CSEPH", "NGREC", "NGCS", "BKP", "CON"] },
+    codes: ["PM", "ACCA", "ICAN", "GRAD", "CSJT", "NMCN", "IBPS", "SSC", "ITIL", "SIXSIG", "BA", "ETEXIT", "KCPA", "AAT", "CSEPH", "NGREC", "NGCS", "BKP", "CON"] },
   { key: "energy", emoji: "🛢️", title: "Oil, gas & inspection", description: "HSE, industry knowledge and inspection certifications for oil, gas and fabrication careers.",
     codes: ["OILGAS", "NDT", "WELDINSP", "APIINSP", "COATING", "IOSH"] },
   { key: "tech", emoji: "💻", title: "Technology & digital skills", description: "Build practical IT, networking, cloud, data, security and programming knowledge.",
-    codes: ["AWS", "AWSSAA", "AZF", "AICERT", "ISC2CC", "SEC", "ITF", "CCST", "PYT", "DAT", "SFADMIN", "AIA"] },
+    codes: ["AWS", "AWSSAA", "AZF", "AICERT", "ISC2CC", "SEC", "APLUS", "CCNA", "ITF", "CCST", "PYT", "DAT", "SFADMIN", "AIA"] },
   { key: "ukcare", emoji: "🩺", title: "UK care, health & education jobs", description: "Care work, NHS healthcare assistant, first aid, teaching assistant and food hygiene.",
-    codes: ["CARE", "CAREW", "CARESR", "NHSHCA", "FIRSTAID", "EYTA", "FOOD", "FSE", "FSM"] },
+    codes: ["CARE", "CAREW", "CARESR", "NHSHCA", "FIRSTAID", "EYTA", "GCSE", "FOOD", "FSE", "FSM"] },
   { key: "uk", emoji: "🪪", title: "Licences, trades & transport", description: "Driving and transport licences, site cards, security, trades and workplace safety.",
-    codes: ["DRIVE", "SALEARN", "HGV", "SERU", "ELEC18", "CITB", "SIA", "WAREHOUSE", "FIRE", "HSE"] },
+    codes: ["DRIVE", "SALEARN", "G1ON", "CDL", "HGV", "SERU", "ELEC18", "CITB", "SIA", "WAREHOUSE", "FIRE", "HSE"] },
 ];
 
 export const groupFor = (code: string) => TRACK_GROUPS.find((g) => g.codes.includes(code as TrackCode));
@@ -46,6 +46,10 @@ const ALIASES: Partial<Record<TrackCode, string>> = {
   ELEC18: "electrician 18th edition bs 7671 wiring regulations 2382", EYTA: "teaching assistant nursery early years eyfs childcare school", WAREHOUSE: "warehouse forklift flt picker logistics", NHSHCA: "nhs healthcare assistant hca support worker hospital band 2 band 3",
   CARE: "care certificate care worker carer", CAREW: "care worker carer workforce essentials",
   CARESR: "senior carer care worker level 3 diploma medication mar cqc mental capacity", FIRSTAID: "first aid at work efaw cpr", SERU: "uber bolt private hire phv tfl london driver seru", HGV: "hgv lgv lorry truck driver cpc class 1 class 2 bus",
+  GCSE: "gcse maths english resit grade 4 uk", CSJT: "civil service judgement test cs jt uk government job", TOEFL: "toefl ibt english study abroad", DUOLINGO: "duolingo det english test",
+  CDL: "cdl commercial driver truck trucking usa", G1ON: "g1 ontario driving test canada licence", APLUS: "comptia a+ a plus it support 220-1101 220-1102", CCNA: "ccna cisco networking 200-301",
+  JUPEB: "jupeb direct entry a level nigeria", NABTEB: "nabteb technical nigeria", NMCN: "nmcn nursing council nigeria licensing exam nurse", USMLE: "usmle step 1 doctor usa medical",
+  GULFPH: "pharmacist pharmacy prometric dha haad saudi qatar", GULFDR: "doctor gp prometric dha haad saudi qatar dubai",
   GED: "ged high school equivalency diploma usa adult", TEAS: "ati teas nursing school entrance nurse usa", CNA: "cna certified nursing assistant nurse aide usa", ASVAB: "asvab army navy air force marines military afqt",
   UPSC: "upsc ias ips civil services prelims csat gs", RRB: "rrb railway railways ntpc group d", CTET: "ctet tet teacher eligibility b.ed teaching", CAT: "cat iim mba management entrance",
   BA: "business analyst analysis bcs iiba ecba babok", ISC2CC: "isc2 cc certified in cybersecurity cyber security entry", AWSSAA: "aws solutions architect associate saa cloud", AICERT: "ai ai-900 azure ai aws ai practitioner machine learning artificial intelligence", SFADMIN: "salesforce admin administrator crm",
@@ -54,7 +58,7 @@ const ALIASES: Partial<Record<TrackCode, string>> = {
   SAT: "usa college", ELEVEN: "11 plus grammar school", SSC: "india cgl chsl government", IBPS: "india bank po sbi",
   PM: "project management prince2 apm pfq agile scrum pspo product owner capm pmp pmi-acp", ACCA: "accounting accountant", ICAN: "accounting accountant nigeria", GRAD: "aptitude shl graduate job test",
   DRIVE: "driving theory car licence dvsa", SIA: "security door supervisor", CITB: "cscs construction site", FIRE: "fire marshal warden",
-  AWS: "amazon cloud", AZF: "microsoft azure cloud", PYT: "python programming coding", SEC: "cyber security", DAT: "data analyst analysis analytics sql excel power bi pl-300 tableau statistics", AIA: "ai artificial intelligence automation",
+  AWS: "amazon cloud", AZF: "microsoft azure cloud", PYT: "python programming coding", SEC: "cyber security comptia security+ sy0-701", DAT: "data analyst analysis analytics sql excel power bi pl-300 tableau statistics", AIA: "ai artificial intelligence automation",
 };
 
 const norm = (s: string) => s.toLowerCase().replace(/[^a-z0-9+ ]/g, " ").replace(/\s+/g, " ").trim();

@@ -1,0 +1,814 @@
+[
+ {
+  "subject": "USM",
+  "topic": "Biochemistry",
+  "body": "The rate-limiting enzyme of glycolysis is",
+  "options": [
+   "glucose-6-phosphatase",
+   "pyruvate kinase",
+   "phosphofructokinase-1",
+   "hexokinase"
+  ],
+  "answer": 2,
+  "explanation": "It is inhibited by ATP and citrate and activated by AMP and fructose-2,6-bisphosphate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Biochemistry",
+  "body": "The rate-limiting enzyme of cholesterol synthesis is",
+  "options": [
+   "carnitine acyltransferase I",
+   "HMG-CoA reductase",
+   "acetyl-CoA carboxylase",
+   "glycogen phosphorylase"
+  ],
+  "answer": 1,
+  "explanation": "Statins inhibit it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Biochemistry",
+  "body": "Deficiency of vitamin B1 (thiamine) causes",
+  "options": [
+   "scurvy",
+   "Wernicke–Korsakoff syndrome and beriberi",
+   "pellagra",
+   "rickets"
+  ],
+  "answer": 1,
+  "explanation": "Pellagra is niacin (B3) deficiency; scurvy is vitamin C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Biochemistry",
+  "body": "Vitamin C deficiency impairs synthesis of",
+  "options": [
+   "collagen (hydroxylation of proline and lysine)",
+   "haemoglobin",
+   "insulin",
+   "myelin"
+  ],
+  "answer": 0,
+  "explanation": "It causes scurvy: bleeding gums and poor wound healing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Genetics",
+  "body": "Cystic fibrosis is inherited in which pattern?",
+  "options": [
+   "X-linked recessive",
+   "Autosomal dominant",
+   "Autosomal recessive",
+   "Mitochondrial"
+  ],
+  "answer": 2,
+  "explanation": "Most common mutation: ΔF508 in the CFTR gene.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Genetics",
+  "body": "Huntington disease is caused by",
+  "options": [
+   "a deletion on chromosome 15",
+   "a CGG repeat on the X chromosome",
+   "a CAG trinucleotide repeat expansion (autosomal dominant)",
+   "a GAA repeat"
+  ],
+  "answer": 2,
+  "explanation": "It shows anticipation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Genetics",
+  "body": "Trisomy 21 causes",
+  "options": [
+   "Down syndrome",
+   "Edwards syndrome",
+   "Patau syndrome",
+   "Turner syndrome"
+  ],
+  "answer": 0,
+  "explanation": "Edwards is trisomy 18; Patau is trisomy 13.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Microbiology",
+  "body": "The bacterium with no cell wall that causes atypical pneumonia is",
+  "options": [
+   "Staphylococcus aureus",
+   "Mycoplasma pneumoniae",
+   "Klebsiella pneumoniae",
+   "Streptococcus pneumoniae"
+  ],
+  "answer": 1,
+  "explanation": "Beta-lactams do not work; use macrolides.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Microbiology",
+  "body": "Gram-positive bacteria stain purple because they have",
+  "options": [
+   "a thick peptidoglycan layer",
+   "no cell wall",
+   "an outer membrane with LPS",
+   "mycolic acids only"
+  ],
+  "answer": 0,
+  "explanation": "Gram-negatives have a thin layer and an outer membrane.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Microbiology",
+  "body": "Lipopolysaccharide (endotoxin) is found in",
+  "options": [
+   "Gram-negative bacteria",
+   "fungi",
+   "viruses",
+   "Gram-positive bacteria"
+  ],
+  "answer": 0,
+  "explanation": "Lipid A causes septic shock.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Microbiology",
+  "body": "Plasmodium falciparum malaria is diagnosed by",
+  "options": [
+   "a skin biopsy",
+   "a thick and thin blood smear",
+   "a throat swab",
+   "urine culture"
+  ],
+  "answer": 1,
+  "explanation": "Rapid diagnostic tests are also used.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Pharmacology",
+  "body": "Aspirin works by irreversibly inhibiting",
+  "options": [
+   "thromboxane receptors only",
+   "vitamin K epoxide reductase",
+   "phospholipase A2",
+   "cyclooxygenase (COX-1 and COX-2)"
+  ],
+  "answer": 3,
+  "explanation": "Its antiplatelet effect lasts for the platelet's lifetime.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Pharmacology",
+  "body": "Warfarin inhibits",
+  "options": [
+   "thrombin directly",
+   "factor Xa directly",
+   "platelet COX",
+   "vitamin K epoxide reductase"
+  ],
+  "answer": 3,
+  "explanation": "Monitor with the INR.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Pharmacology",
+  "body": "The antidote for heparin is",
+  "options": [
+   "flumazenil",
+   "vitamin K",
+   "naloxone",
+   "protamine sulfate"
+  ],
+  "answer": 3,
+  "explanation": "Vitamin K reverses warfarin.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Pharmacology",
+  "body": "The antidote for opioid overdose is",
+  "options": [
+   "naloxone",
+   "flumazenil",
+   "atropine",
+   "N-acetylcysteine"
+  ],
+  "answer": 0,
+  "explanation": "Flumazenil reverses benzodiazepines.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Pharmacology",
+  "body": "The antidote for paracetamol (acetaminophen) overdose is",
+  "options": [
+   "fomepizole",
+   "deferoxamine",
+   "naloxone",
+   "N-acetylcysteine"
+  ],
+  "answer": 3,
+  "explanation": "It replenishes glutathione.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Pharmacology",
+  "body": "ACE inhibitors can cause a dry cough because they increase",
+  "options": [
+   "renin",
+   "aldosterone",
+   "bradykinin",
+   "histamine release from mast cells"
+  ],
+  "answer": 2,
+  "explanation": "Switch to an ARB if the cough is troublesome.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Physiology",
+  "body": "Most sodium is reabsorbed in which part of the nephron?",
+  "options": [
+   "Loop of Henle",
+   "Collecting duct",
+   "Distal convoluted tubule",
+   "Proximal convoluted tubule"
+  ],
+  "answer": 3,
+  "explanation": "About two-thirds of filtered sodium.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Physiology",
+  "body": "Loop diuretics such as furosemide act on the",
+  "options": [
+   "Na⁺/Cl⁻ cotransporter in the DCT",
+   "aldosterone receptor",
+   "Na⁺/K⁺/2Cl⁻ cotransporter in the thick ascending limb",
+   "carbonic anhydrase in the PCT"
+  ],
+  "answer": 2,
+  "explanation": "Thiazides act on the DCT.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Physiology",
+  "body": "Cardiac output equals",
+  "options": [
+   "stroke volume ÷ heart rate",
+   "stroke volume × heart rate",
+   "blood pressure × resistance",
+   "preload × afterload"
+  ],
+  "answer": 1,
+  "explanation": "Mean arterial pressure = cardiac output × total peripheral resistance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Physiology",
+  "body": "Surfactant is produced by",
+  "options": [
+   "type II pneumocytes",
+   "type I pneumocytes",
+   "goblet cells",
+   "alveolar macrophages"
+  ],
+  "answer": 0,
+  "explanation": "It lowers alveolar surface tension.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Pathology",
+  "body": "Caseous necrosis is characteristic of",
+  "options": [
+   "gangrene",
+   "tuberculosis",
+   "myocardial infarction",
+   "acute pancreatitis"
+  ],
+  "answer": 1,
+  "explanation": "MI typically shows coagulative necrosis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Pathology",
+  "body": "Reed–Sternberg cells are seen in",
+  "options": [
+   "Hodgkin lymphoma",
+   "chronic myeloid leukaemia",
+   "Burkitt lymphoma",
+   "multiple myeloma"
+  ],
+  "answer": 0,
+  "explanation": "They are large binucleate 'owl's eye' cells.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Immunology",
+  "body": "Type I hypersensitivity is mediated by",
+  "options": [
+   "immune complexes",
+   "T cells",
+   "IgE and mast cells",
+   "IgG and complement"
+  ],
+  "answer": 2,
+  "explanation": "Anaphylaxis is a type I reaction.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Immunology",
+  "body": "HIV infects cells with the receptor",
+  "options": [
+   "CD4",
+   "CD19",
+   "CD8",
+   "CD20"
+  ],
+  "answer": 0,
+  "explanation": "It also uses CCR5 or CXCR4 co-receptors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Physiology",
+  "body": "Stroke volume is 70 mL and heart rate is 80 beats/min. What is cardiac output?",
+  "options": [
+   "5.6 L/min",
+   "0.88 L/min",
+   "11.2 L/min",
+   "150 L/min"
+  ],
+  "answer": 0,
+  "explanation": "CO = SV × HR = 70 × 80 = 5600 mL/min = 5.6 L/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Physiology",
+  "body": "Stroke volume is 80 mL and heart rate is 80 beats/min. What is cardiac output?",
+  "options": [
+   "6.4 L/min",
+   "12.8 L/min",
+   "1 L/min",
+   "160 L/min"
+  ],
+  "answer": 0,
+  "explanation": "CO = SV × HR = 80 × 80 = 6400 mL/min = 6.4 L/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Physiology",
+  "body": "Stroke volume is 60 mL and heart rate is 70 beats/min. What is cardiac output?",
+  "options": [
+   "0.86 L/min",
+   "130 L/min",
+   "4.2 L/min",
+   "8.4 L/min"
+  ],
+  "answer": 2,
+  "explanation": "CO = SV × HR = 60 × 70 = 4200 mL/min = 4.2 L/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Physiology",
+  "body": "Stroke volume is 70 mL and heart rate is 90 beats/min. What is cardiac output?",
+  "options": [
+   "6.3 L/min",
+   "160 L/min",
+   "12.6 L/min",
+   "0.78 L/min"
+  ],
+  "answer": 0,
+  "explanation": "CO = SV × HR = 70 × 90 = 6300 mL/min = 6.3 L/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Physiology",
+  "body": "Stroke volume is 60 mL and heart rate is 60 beats/min. What is cardiac output?",
+  "options": [
+   "1 L/min",
+   "7.2 L/min",
+   "120 L/min",
+   "3.6 L/min"
+  ],
+  "answer": 3,
+  "explanation": "CO = SV × HR = 60 × 60 = 3600 mL/min = 3.6 L/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Physiology",
+  "body": "Stroke volume is 60 mL and heart rate is 80 beats/min. What is cardiac output?",
+  "options": [
+   "0.75 L/min",
+   "9.6 L/min",
+   "4.8 L/min",
+   "140 L/min"
+  ],
+  "answer": 2,
+  "explanation": "CO = SV × HR = 60 × 80 = 4800 mL/min = 4.8 L/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Physiology",
+  "body": "Stroke volume is 60 mL and heart rate is 90 beats/min. What is cardiac output?",
+  "options": [
+   "0.67 L/min",
+   "5.4 L/min",
+   "150 L/min",
+   "10.8 L/min"
+  ],
+  "answer": 1,
+  "explanation": "CO = SV × HR = 60 × 90 = 5400 mL/min = 5.4 L/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Physiology",
+  "body": "Stroke volume is 80 mL and heart rate is 60 beats/min. What is cardiac output?",
+  "options": [
+   "4.8 L/min",
+   "140 L/min",
+   "1.33 L/min",
+   "9.6 L/min"
+  ],
+  "answer": 0,
+  "explanation": "CO = SV × HR = 80 × 60 = 4800 mL/min = 4.8 L/min.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Biochemistry",
+  "body": "Phenylketonuria is caused by deficiency of",
+  "options": [
+   "tyrosinase",
+   "homogentisate oxidase",
+   "phenylalanine hydroxylase",
+   "hexosaminidase A"
+  ],
+  "answer": 2,
+  "explanation": "Tyrosine becomes essential; avoid phenylalanine and aspartame.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Biochemistry",
+  "body": "Tay–Sachs disease is caused by deficiency of",
+  "options": [
+   "sphingomyelinase",
+   "alpha-galactosidase A",
+   "hexosaminidase A",
+   "glucocerebrosidase"
+  ],
+  "answer": 2,
+  "explanation": "It shows a cherry-red macula with no hepatosplenomegaly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Biochemistry",
+  "body": "Glucose-6-phosphate dehydrogenase deficiency leads to",
+  "options": [
+   "iron deficiency",
+   "haemolytic anaemia after oxidant stress",
+   "polycythaemia",
+   "megaloblastic anaemia"
+  ],
+  "answer": 1,
+  "explanation": "Triggers include fava beans, sulfa drugs and primaquine; Heinz bodies and bite cells.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Biochemistry",
+  "body": "Folate deficiency causes",
+  "options": [
+   "megaloblastic anaemia without neurological signs",
+   "haemolytic anaemia",
+   "microcytic anaemia",
+   "megaloblastic anaemia with subacute combined degeneration"
+  ],
+  "answer": 0,
+  "explanation": "B12 deficiency also causes neurological signs and raised methylmalonic acid.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Genetics",
+  "body": "Fragile X syndrome is caused by",
+  "options": [
+   "a CAG repeat in HTT",
+   "trisomy 13",
+   "a CGG repeat expansion in FMR1",
+   "a deletion of 22q11"
+  ],
+  "answer": 2,
+  "explanation": "Features: intellectual disability, long face and macroorchidism.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Genetics",
+  "body": "Duchenne muscular dystrophy is inherited in which pattern?",
+  "options": [
+   "Autosomal recessive",
+   "Autosomal dominant",
+   "X-linked recessive",
+   "Mitochondrial"
+  ],
+  "answer": 2,
+  "explanation": "Caused by frameshift deletions in the dystrophin gene; Gowers sign.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Microbiology",
+  "body": "The organism that causes 'rice-water' diarrhoea is",
+  "options": [
+   "Clostridioides difficile",
+   "Vibrio cholerae",
+   "Salmonella Typhi",
+   "Shigella"
+  ],
+  "answer": 1,
+  "explanation": "Cholera toxin raises cAMP.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Microbiology",
+  "body": "Pseudomembranous colitis after antibiotics is caused by",
+  "options": [
+   "Bacillus cereus",
+   "Clostridium perfringens",
+   "Clostridioides difficile",
+   "E. coli O157:H7"
+  ],
+  "answer": 2,
+  "explanation": "Treat with oral vancomycin or fidaximicin.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Microbiology",
+  "body": "Rheumatic fever follows infection with",
+  "options": [
+   "group A Streptococcus (Streptococcus pyogenes)",
+   "Streptococcus agalactiae",
+   "Enterococcus",
+   "Staphylococcus aureus"
+  ],
+  "answer": 0,
+  "explanation": "It is a type II hypersensitivity reaction.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Microbiology",
+  "body": "The causative agent of syphilis is",
+  "options": [
+   "Treponema pallidum",
+   "Chlamydia trachomatis",
+   "Neisseria gonorrhoeae",
+   "Haemophilus ducreyi"
+  ],
+  "answer": 0,
+  "explanation": "Treat with penicillin G.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Pharmacology",
+  "body": "Beta-lactam antibiotics work by",
+  "options": [
+   "inhibiting bacterial cell wall synthesis",
+   "blocking the 30S ribosome",
+   "blocking folate synthesis",
+   "inhibiting DNA gyrase"
+  ],
+  "answer": 0,
+  "explanation": "They bind penicillin-binding proteins.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Pharmacology",
+  "body": "Fluoroquinolones inhibit",
+  "options": [
+   "cell wall synthesis",
+   "mycolic acid synthesis",
+   "DNA gyrase (topoisomerase II) and topoisomerase IV",
+   "the 50S ribosome"
+  ],
+  "answer": 2,
+  "explanation": "Side effects include tendon rupture.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Pharmacology",
+  "body": "Aminoglycosides can cause",
+  "options": [
+   "red man syndrome",
+   "disulfiram-like reactions",
+   "nephrotoxicity and ototoxicity",
+   "tooth discolouration"
+  ],
+  "answer": 2,
+  "explanation": "They bind the 30S ribosomal subunit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Pharmacology",
+  "body": "The antidote for benzodiazepine overdose is",
+  "options": [
+   "atropine",
+   "physostigmine",
+   "naloxone",
+   "flumazenil"
+  ],
+  "answer": 3,
+  "explanation": "Use with caution: it can trigger seizures.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Pharmacology",
+  "body": "The antidote for organophosphate poisoning is",
+  "options": [
+   "naloxone",
+   "atropine plus pralidoxime",
+   "flumazenil",
+   "N-acetylcysteine"
+  ],
+  "answer": 1,
+  "explanation": "Organophosphates inhibit acetylcholinesterase.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Physiology",
+  "body": "Antidiuretic hormone acts on the",
+  "options": [
+   "glomerulus to raise filtration",
+   "proximal tubule to absorb glucose",
+   "loop of Henle to secrete potassium",
+   "collecting duct to insert aquaporin-2 channels"
+  ],
+  "answer": 3,
+  "explanation": "It increases water reabsorption.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Physiology",
+  "body": "Aldosterone increases",
+  "options": [
+   "potassium reabsorption",
+   "glucose reabsorption",
+   "calcium excretion only",
+   "sodium reabsorption and potassium secretion"
+  ],
+  "answer": 3,
+  "explanation": "It acts on principal cells of the collecting duct.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Physiology",
+  "body": "The oxygen–haemoglobin curve shifts to the right with",
+  "options": [
+   "carbon monoxide",
+   "foetal haemoglobin",
+   "increased CO₂, acidity, temperature and 2,3-BPG",
+   "decreased temperature"
+  ],
+  "answer": 2,
+  "explanation": "A right shift means oxygen is released more easily.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Pathology",
+  "body": "Hallmark cells in the lungs of a patient with heart failure are",
+  "options": [
+   "haemosiderin-laden macrophages ('heart failure cells')",
+   "Langhans giant cells only",
+   "Reed–Sternberg cells",
+   "Aschoff bodies"
+  ],
+  "answer": 0,
+  "explanation": "They show old alveolar haemorrhage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Pathology",
+  "body": "Aschoff bodies are characteristic of",
+  "options": [
+   "viral myocarditis",
+   "infective endocarditis",
+   "rheumatic heart disease",
+   "myocardial infarction"
+  ],
+  "answer": 2,
+  "explanation": "Anitschkow cells are also seen.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Pathology",
+  "body": "Psammoma bodies are seen in",
+  "options": [
+   "papillary thyroid carcinoma",
+   "follicular thyroid carcinoma",
+   "anaplastic carcinoma",
+   "medullary thyroid carcinoma"
+  ],
+  "answer": 0,
+  "explanation": "Also in serous ovarian tumours and meningioma.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Immunology",
+  "body": "Type II hypersensitivity involves",
+  "options": [
+   "delayed T-cell responses",
+   "IgE on mast cells",
+   "immune complexes deposited in tissues",
+   "antibodies against cell-surface antigens"
+  ],
+  "answer": 3,
+  "explanation": "Examples: Goodpasture syndrome and haemolytic disease of the newborn.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Immunology",
+  "body": "The tuberculin skin test is an example of",
+  "options": [
+   "type III hypersensitivity",
+   "type I hypersensitivity",
+   "type IV (delayed) hypersensitivity",
+   "type II hypersensitivity"
+  ],
+  "answer": 2,
+  "explanation": "It is T-cell mediated.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Endocrinology",
+  "body": "Primary hyperaldosteronism (Conn syndrome) causes",
+  "options": [
+   "hypertension with hypokalaemia",
+   "hypotension with hyperkalaemia",
+   "hypercalcaemia",
+   "hypoglycaemia"
+  ],
+  "answer": 0,
+  "explanation": "Renin levels are low.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USM",
+  "topic": "Endocrinology",
+  "body": "Addison disease causes",
+  "options": [
+   "hypokalaemia",
+   "weight gain and hypertension",
+   "moon face",
+   "hyperpigmentation, hypotension and hyperkalaemia"
+  ],
+  "answer": 3,
+  "explanation": "It is primary adrenal insufficiency with high ACTH.",
+  "difficulty": 2
+ }
+]

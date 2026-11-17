@@ -1,0 +1,898 @@
+[
+ {
+  "subject": "GCM",
+  "topic": "Percentages",
+  "body": "Decrease £80 by 25%.",
+  "options": [
+   "£60",
+   "£20",
+   "£100",
+   "£55"
+  ],
+  "answer": 0,
+  "explanation": "Multiplier = 0.75; £80 × 0.75 = £60.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Percentages",
+  "body": "Decrease £120 by 10%.",
+  "options": [
+   "£110",
+   "£132",
+   "£12",
+   "£108"
+  ],
+  "answer": 3,
+  "explanation": "Multiplier = 0.9; £120 × 0.9 = £108.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Percentages",
+  "body": "Increase £240 by 25%.",
+  "options": [
+   "£300",
+   "£265",
+   "£180",
+   "£60"
+  ],
+  "answer": 0,
+  "explanation": "Multiplier = 1.25; £240 × 1.25 = £300.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Percentages",
+  "body": "Decrease £120 by 25%.",
+  "options": [
+   "£90",
+   "£95",
+   "£150",
+   "£30"
+  ],
+  "answer": 0,
+  "explanation": "Multiplier = 0.75; £120 × 0.75 = £90.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Percentages",
+  "body": "Increase £150 by 35%.",
+  "options": [
+   "£52.50",
+   "£97.50",
+   "£185",
+   "£202.50"
+  ],
+  "answer": 3,
+  "explanation": "Multiplier = 1.35; £150 × 1.35 = £202.50.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Percentages",
+  "body": "Increase £120 by 25%.",
+  "options": [
+   "£145",
+   "£30",
+   "£90",
+   "£150"
+  ],
+  "answer": 3,
+  "explanation": "Multiplier = 1.25; £120 × 1.25 = £150.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Percentages",
+  "body": "Increase £120 by 35%.",
+  "options": [
+   "£42",
+   "£78",
+   "£162",
+   "£155"
+  ],
+  "answer": 2,
+  "explanation": "Multiplier = 1.35; £120 × 1.35 = £162.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Percentages",
+  "body": "Increase £120 by 15%.",
+  "options": [
+   "£102",
+   "£135",
+   "£18",
+   "£138"
+  ],
+  "answer": 3,
+  "explanation": "Multiplier = 1.15; £120 × 1.15 = £138.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Percentages",
+  "body": "Decrease £120 by 35%.",
+  "options": [
+   "£162",
+   "£78",
+   "£42",
+   "£85"
+  ],
+  "answer": 1,
+  "explanation": "Multiplier = 0.65; £120 × 0.65 = £78.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Percentages",
+  "body": "Increase £240 by 10%.",
+  "options": [
+   "£250",
+   "£24",
+   "£216",
+   "£264"
+  ],
+  "answer": 3,
+  "explanation": "Multiplier = 1.1; £240 × 1.1 = £264.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Ratio",
+  "body": "Share £45 in the ratio 1 : 2. How much is the larger share?",
+  "options": [
+   "£15",
+   "£22.50",
+   "£30",
+   "£45"
+  ],
+  "answer": 2,
+  "explanation": "1 + 2 = 3 parts; one part = £15; larger share = 2 × £15.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Ratio",
+  "body": "Share £240 in the ratio 5 : 7. How much is the larger share?",
+  "options": [
+   "£140",
+   "£120",
+   "£100",
+   "£160"
+  ],
+  "answer": 0,
+  "explanation": "5 + 7 = 12 parts; one part = £20; larger share = 7 × £20.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Ratio",
+  "body": "Share £135 in the ratio 2 : 7. How much is the larger share?",
+  "options": [
+   "£67.50",
+   "£120",
+   "£30",
+   "£105"
+  ],
+  "answer": 3,
+  "explanation": "2 + 7 = 9 parts; one part = £15; larger share = 7 × £15.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Ratio",
+  "body": "Share £220 in the ratio 4 : 7. How much is the larger share?",
+  "options": [
+   "£80",
+   "£110",
+   "£160",
+   "£140"
+  ],
+  "answer": 3,
+  "explanation": "4 + 7 = 11 parts; one part = £20; larger share = 7 × £20.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Ratio",
+  "body": "Share £64 in the ratio 5 : 3. How much is the larger share?",
+  "options": [
+   "£48",
+   "£32",
+   "£24",
+   "£40"
+  ],
+  "answer": 3,
+  "explanation": "5 + 3 = 8 parts; one part = £8; larger share = 5 × £8.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Ratio",
+  "body": "Share £140 in the ratio 1 : 6. How much is the larger share?",
+  "options": [
+   "£20",
+   "£70",
+   "£140",
+   "£120"
+  ],
+  "answer": 3,
+  "explanation": "1 + 6 = 7 parts; one part = £20; larger share = 6 × £20.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Ratio",
+  "body": "Share £110 in the ratio 5 : 6. How much is the larger share?",
+  "options": [
+   "£70",
+   "£55",
+   "£60",
+   "£50"
+  ],
+  "answer": 2,
+  "explanation": "5 + 6 = 11 parts; one part = £10; larger share = 6 × £10.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Ratio",
+  "body": "Share £88 in the ratio 5 : 6. How much is the larger share?",
+  "options": [
+   "£44",
+   "£40",
+   "£56",
+   "£48"
+  ],
+  "answer": 3,
+  "explanation": "5 + 6 = 11 parts; one part = £8; larger share = 6 × £8.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Ratio",
+  "body": "Share £40 in the ratio 2 : 3. How much is the larger share?",
+  "options": [
+   "£16",
+   "£20",
+   "£24",
+   "£32"
+  ],
+  "answer": 2,
+  "explanation": "2 + 3 = 5 parts; one part = £8; larger share = 3 × £8.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Ratio",
+  "body": "Share £64 in the ratio 2 : 6. How much is the larger share?",
+  "options": [
+   "£16",
+   "£32",
+   "£48",
+   "£56"
+  ],
+  "answer": 2,
+  "explanation": "2 + 6 = 8 parts; one part = £8; larger share = 6 × £8.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Compound interest",
+  "body": "£1,000 is invested at 4% compound interest per year. What is it worth after 3 years?",
+  "options": [
+   "£1,134.86",
+   "£1,124.86",
+   "£1,120",
+   "£120"
+  ],
+  "answer": 1,
+  "explanation": "£1,000 × 1.04^3 = £1,124.86.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Compound interest",
+  "body": "£5,000 is invested at 4% compound interest per year. What is it worth after 3 years?",
+  "options": [
+   "£5,600",
+   "£600",
+   "£5,634.32",
+   "£5,624.32"
+  ],
+  "answer": 3,
+  "explanation": "£5,000 × 1.04^3 = £5,624.32.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Compound interest",
+  "body": "£1,000 is invested at 4% compound interest per year. What is it worth after 2 years?",
+  "options": [
+   "£1,081.60",
+   "£1,091.60",
+   "£80",
+   "£1,080"
+  ],
+  "answer": 0,
+  "explanation": "£1,000 × 1.04^2 = £1,081.60.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Compound interest",
+  "body": "£2,000 is invested at 3% compound interest per year. What is it worth after 2 years?",
+  "options": [
+   "£2,120",
+   "£2,131.80",
+   "£120",
+   "£2,121.80"
+  ],
+  "answer": 3,
+  "explanation": "£2,000 × 1.03^2 = £2,121.80.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Compound interest",
+  "body": "£1,000 is invested at 2% compound interest per year. What is it worth after 2 years?",
+  "options": [
+   "£1,050.40",
+   "£40",
+   "£1,040.40",
+   "£1,040"
+  ],
+  "answer": 2,
+  "explanation": "£1,000 × 1.02^2 = £1,040.40.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Compound interest",
+  "body": "£2,000 is invested at 4% compound interest per year. What is it worth after 2 years?",
+  "options": [
+   "£2,173.20",
+   "£160",
+   "£2,160",
+   "£2,163.20"
+  ],
+  "answer": 3,
+  "explanation": "£2,000 × 1.04^2 = £2,163.20.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Compound interest",
+  "body": "£1,000 is invested at 5% compound interest per year. What is it worth after 2 years?",
+  "options": [
+   "£1,100",
+   "£1,112.50",
+   "£1,102.50",
+   "£100"
+  ],
+  "answer": 2,
+  "explanation": "£1,000 × 1.05^2 = £1,102.50.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Compound interest",
+  "body": "£5,000 is invested at 2% compound interest per year. What is it worth after 2 years?",
+  "options": [
+   "£200",
+   "£5,202",
+   "£5,212",
+   "£5,200"
+  ],
+  "answer": 1,
+  "explanation": "£5,000 × 1.02^2 = £5,202.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Probability",
+  "body": "A bag has 2 red, 3 blue and 4 green counters. One is picked at random. What is the probability it is blue?",
+  "options": [
+   "1/3",
+   "1/9",
+   "2/9",
+   "3/10"
+  ],
+  "answer": 0,
+  "explanation": "P(blue) = 3 ÷ 9 = 1/3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Probability",
+  "body": "A bag has 3 red, 5 blue and 4 green counters. One is picked at random. What is the probability it is blue?",
+  "options": [
+   "5/12",
+   "5/13",
+   "1/4",
+   "1/12"
+  ],
+  "answer": 0,
+  "explanation": "P(blue) = 5 ÷ 12 = 5/12.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Probability",
+  "body": "A bag has 7 red, 8 blue and 1 green counters. One is picked at random. What is the probability it is blue?",
+  "options": [
+   "1/16",
+   "7/16",
+   "8/17",
+   "1/2"
+  ],
+  "answer": 3,
+  "explanation": "P(blue) = 8 ÷ 16 = 1/2.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Probability",
+  "body": "A bag has 2 red, 7 blue and 1 green counters. One is picked at random. What is the probability it is blue?",
+  "options": [
+   "1/10",
+   "1/5",
+   "7/10",
+   "7/11"
+  ],
+  "answer": 2,
+  "explanation": "P(blue) = 7 ÷ 10 = 7/10.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Probability",
+  "body": "A bag has 3 red, 3 blue and 4 green counters. One is picked at random. What is the probability it is blue?",
+  "options": [
+   "3/10",
+   "3/7",
+   "3/11",
+   "1/10"
+  ],
+  "answer": 0,
+  "explanation": "P(blue) = 3 ÷ 10 = 3/10.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Probability",
+  "body": "A bag has 4 red, 4 blue and 2 green counters. One is picked at random. What is the probability it is blue?",
+  "options": [
+   "4/11",
+   "1/10",
+   "2/5",
+   "4/6"
+  ],
+  "answer": 2,
+  "explanation": "P(blue) = 4 ÷ 10 = 2/5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Probability",
+  "body": "A bag has 6 red, 7 blue and 2 green counters. One is picked at random. What is the probability it is blue?",
+  "options": [
+   "7/16",
+   "1/15",
+   "7/15",
+   "2/5"
+  ],
+  "answer": 2,
+  "explanation": "P(blue) = 7 ÷ 15 = 7/15.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Probability",
+  "body": "A bag has 5 red, 6 blue and 3 green counters. One is picked at random. What is the probability it is blue?",
+  "options": [
+   "5/14",
+   "6/15",
+   "3/7",
+   "1/14"
+  ],
+  "answer": 2,
+  "explanation": "P(blue) = 6 ÷ 14 = 3/7.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Pythagoras",
+  "body": "A right-angled triangle has shorter sides 6 cm and 8 cm. How long is the hypotenuse?",
+  "options": [
+   "14 cm",
+   "5.29 cm",
+   "10 cm",
+   "11 cm"
+  ],
+  "answer": 2,
+  "explanation": "c² = 6² + 8² = 100, so c = 10 cm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Pythagoras",
+  "body": "A right-angled triangle has shorter sides 9 cm and 12 cm. How long is the hypotenuse?",
+  "options": [
+   "15 cm",
+   "21 cm",
+   "16 cm",
+   "7.94 cm"
+  ],
+  "answer": 0,
+  "explanation": "c² = 9² + 12² = 225, so c = 15 cm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Pythagoras",
+  "body": "A right-angled triangle has shorter sides 3 cm and 4 cm. How long is the hypotenuse?",
+  "options": [
+   "2.65 cm",
+   "7 cm",
+   "6 cm",
+   "5 cm"
+  ],
+  "answer": 3,
+  "explanation": "c² = 3² + 4² = 25, so c = 5 cm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Pythagoras",
+  "body": "A right-angled triangle has shorter sides 8 cm and 15 cm. How long is the hypotenuse?",
+  "options": [
+   "18 cm",
+   "17 cm",
+   "12.69 cm",
+   "23 cm"
+  ],
+  "answer": 1,
+  "explanation": "c² = 8² + 15² = 289, so c = 17 cm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Pythagoras",
+  "body": "A right-angled triangle has shorter sides 7 cm and 24 cm. How long is the hypotenuse?",
+  "options": [
+   "22.96 cm",
+   "26 cm",
+   "31 cm",
+   "25 cm"
+  ],
+  "answer": 3,
+  "explanation": "c² = 7² + 24² = 625, so c = 25 cm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Pythagoras",
+  "body": "A right-angled triangle has shorter sides 5 cm and 12 cm. How long is the hypotenuse?",
+  "options": [
+   "10.91 cm",
+   "14 cm",
+   "17 cm",
+   "13 cm"
+  ],
+  "answer": 3,
+  "explanation": "c² = 5² + 12² = 169, so c = 13 cm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Standard form",
+  "body": "Write 0.000407 in standard form.",
+  "options": [
+   "4.07 × 10^-3",
+   "4.07 × 10^-4",
+   "40.7 × 10^-5",
+   "4.07 × 10^-5"
+  ],
+  "answer": 1,
+  "explanation": "Move the decimal point so 1 ≤ a < 10: 4.07 × 10^-4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Standard form",
+  "body": "Write 0.00035 in standard form.",
+  "options": [
+   "3.5 × 10^-5",
+   "3.5 × 10^-3",
+   "3.5 × 10^-4",
+   "35 × 10^-5"
+  ],
+  "answer": 2,
+  "explanation": "Move the decimal point so 1 ≤ a < 10: 3.5 × 10^-4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Standard form",
+  "body": "Write 3500 in standard form.",
+  "options": [
+   "3.5 × 10^4",
+   "35 × 10^2",
+   "3.5 × 10^2",
+   "3.5 × 10^3"
+  ],
+  "answer": 3,
+  "explanation": "Move the decimal point so 1 ≤ a < 10: 3.5 × 10^3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Standard form",
+  "body": "Write 4,070,000 in standard form.",
+  "options": [
+   "4.07 × 10^6",
+   "40.7 × 10^5",
+   "4.07 × 10^5",
+   "4.07 × 10^7"
+  ],
+  "answer": 0,
+  "explanation": "Move the decimal point so 1 ≤ a < 10: 4.07 × 10^6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Standard form",
+  "body": "Write 3,500,000 in standard form.",
+  "options": [
+   "3.5 × 10^6",
+   "3.5 × 10^7",
+   "3.5 × 10^5",
+   "35 × 10^5"
+  ],
+  "answer": 0,
+  "explanation": "Move the decimal point so 1 ≤ a < 10: 3.5 × 10^6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Standard form",
+  "body": "Write 120,000 in standard form.",
+  "options": [
+   "1.2 × 10^6",
+   "1.2 × 10^4",
+   "1.2 × 10^5",
+   "12 × 10^4"
+  ],
+  "answer": 2,
+  "explanation": "Move the decimal point so 1 ≤ a < 10: 1.2 × 10^5.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Standard form",
+  "body": "Write 4070 in standard form.",
+  "options": [
+   "4.07 × 10^3",
+   "4.07 × 10^4",
+   "40.7 × 10^2",
+   "4.07 × 10^2"
+  ],
+  "answer": 0,
+  "explanation": "Move the decimal point so 1 ≤ a < 10: 4.07 × 10^3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Standard form",
+  "body": "Write 64,000 in standard form.",
+  "options": [
+   "6.4 × 10^5",
+   "64 × 10^3",
+   "6.4 × 10^4",
+   "6.4 × 10^3"
+  ],
+  "answer": 2,
+  "explanation": "Move the decimal point so 1 ≤ a < 10: 6.4 × 10^4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCM",
+  "topic": "Algebra",
+  "body": "Solve 2x + 3 = 17.",
+  "options": [
+   "x = 10",
+   "x = 7",
+   "x = 8",
+   "x = 14"
+  ],
+  "answer": 1,
+  "explanation": "Subtract 3: 2x = 14; divide by 2: x = 7.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Algebra",
+  "body": "Solve 7x + 7 = 28.",
+  "options": [
+   "x = 5",
+   "x = 21",
+   "x = 4",
+   "x = 3"
+  ],
+  "answer": 3,
+  "explanation": "Subtract 7: 7x = 21; divide by 7: x = 3.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Algebra",
+  "body": "Solve 2x + 11 = 25.",
+  "options": [
+   "x = 7",
+   "x = 18",
+   "x = 8",
+   "x = 14"
+  ],
+  "answer": 0,
+  "explanation": "Subtract 11: 2x = 14; divide by 2: x = 7.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Algebra",
+  "body": "Solve 7x + 9 = 51.",
+  "options": [
+   "x = 6",
+   "x = 7",
+   "x = 42",
+   "x = 8.57"
+  ],
+  "answer": 0,
+  "explanation": "Subtract 9: 7x = 42; divide by 7: x = 6.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Algebra",
+  "body": "Solve 6x + 6 = 60.",
+  "options": [
+   "x = 9",
+   "x = 54",
+   "x = 10",
+   "x = 11"
+  ],
+  "answer": 0,
+  "explanation": "Subtract 6: 6x = 54; divide by 6: x = 9.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Algebra",
+  "body": "Solve 5x + 10 = 30.",
+  "options": [
+   "x = 5",
+   "x = 20",
+   "x = 4",
+   "x = 8"
+  ],
+  "answer": 2,
+  "explanation": "Subtract 10: 5x = 20; divide by 5: x = 4.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Algebra",
+  "body": "Solve 4x + 12 = 48.",
+  "options": [
+   "x = 10",
+   "x = 9",
+   "x = 36",
+   "x = 15"
+  ],
+  "answer": 1,
+  "explanation": "Subtract 12: 4x = 36; divide by 4: x = 9.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Algebra",
+  "body": "Solve 4x + 1 = 33.",
+  "options": [
+   "x = 9",
+   "x = 8",
+   "x = 8.5",
+   "x = 32"
+  ],
+  "answer": 1,
+  "explanation": "Subtract 1: 4x = 32; divide by 4: x = 8.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Volume",
+  "body": "A cuboid is 10 cm by 3 cm by 3 cm. What is its volume?",
+  "options": [
+   "90 cm³",
+   "138 cm³",
+   "16 cm³",
+   "30 cm³"
+  ],
+  "answer": 0,
+  "explanation": "Volume = 10 × 3 × 3 = 90 cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Volume",
+  "body": "A cuboid is 11 cm by 7 cm by 3 cm. What is its volume?",
+  "options": [
+   "21 cm³",
+   "77 cm³",
+   "231 cm³",
+   "262 cm³"
+  ],
+  "answer": 2,
+  "explanation": "Volume = 11 × 7 × 3 = 231 cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Volume",
+  "body": "A cuboid is 10 cm by 7 cm by 5 cm. What is its volume?",
+  "options": [
+   "350 cm³",
+   "70 cm³",
+   "310 cm³",
+   "22 cm³"
+  ],
+  "answer": 0,
+  "explanation": "Volume = 10 × 7 × 5 = 350 cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Volume",
+  "body": "A cuboid is 7 cm by 7 cm by 6 cm. What is its volume?",
+  "options": [
+   "20 cm³",
+   "266 cm³",
+   "49 cm³",
+   "294 cm³"
+  ],
+  "answer": 3,
+  "explanation": "Volume = 7 × 7 × 6 = 294 cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Volume",
+  "body": "A cuboid is 12 cm by 4 cm by 5 cm. What is its volume?",
+  "options": [
+   "21 cm³",
+   "240 cm³",
+   "256 cm³",
+   "48 cm³"
+  ],
+  "answer": 1,
+  "explanation": "Volume = 12 × 4 × 5 = 240 cm³.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GCM",
+  "topic": "Volume",
+  "body": "A cuboid is 7 cm by 8 cm by 5 cm. What is its volume?",
+  "options": [
+   "20 cm³",
+   "262 cm³",
+   "280 cm³",
+   "56 cm³"
+  ],
+  "answer": 2,
+  "explanation": "Volume = 7 × 8 × 5 = 280 cm³.",
+  "difficulty": 1
+ }
+]

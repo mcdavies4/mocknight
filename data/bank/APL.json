@@ -1,0 +1,548 @@
+[
+ {
+  "subject": "APL",
+  "topic": "Ports",
+  "body": "Which port does HTTPS use by default?",
+  "options": [
+   "443",
+   "21",
+   "80",
+   "25"
+  ],
+  "answer": 0,
+  "explanation": "HTTP uses port 80.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Ports",
+  "body": "Which port does SSH use?",
+  "options": [
+   "23",
+   "110",
+   "3389",
+   "22"
+  ],
+  "answer": 3,
+  "explanation": "Telnet uses 23 and is not encrypted.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Ports",
+  "body": "Remote Desktop Protocol (RDP) uses port",
+  "options": [
+   "22",
+   "8080",
+   "3389",
+   "445"
+  ],
+  "answer": 2,
+  "explanation": "RDP lets you control a Windows PC remotely.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Ports",
+  "body": "DNS uses port",
+  "options": [
+   "161",
+   "443",
+   "67",
+   "53"
+  ],
+  "answer": 3,
+  "explanation": "DHCP uses 67 and 68.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Ports",
+  "body": "SMTP, used to send email, uses port",
+  "options": [
+   "53",
+   "143",
+   "110",
+   "25"
+  ],
+  "answer": 3,
+  "explanation": "POP3 is 110 and IMAP is 143.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Ports",
+  "body": "SMB file sharing uses port",
+  "options": [
+   "21",
+   "445",
+   "139 only",
+   "389"
+  ],
+  "answer": 1,
+  "explanation": "LDAP uses 389.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Hardware",
+  "body": "RAID 1 provides",
+  "options": [
+   "faster boot only",
+   "mirroring for redundancy",
+   "striping with no redundancy",
+   "parity across three disks"
+  ],
+  "answer": 1,
+  "explanation": "RAID 0 is striping with no fault tolerance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Hardware",
+  "body": "RAID 5 needs a minimum of",
+  "options": [
+   "1 drive",
+   "3 drives",
+   "2 drives",
+   "4 drives"
+  ],
+  "answer": 1,
+  "explanation": "It uses striping with distributed parity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Hardware",
+  "body": "Which memory is volatile?",
+  "options": [
+   "RAM",
+   "hard disk",
+   "ROM",
+   "SSD"
+  ],
+  "answer": 0,
+  "explanation": "RAM loses its contents when power is off.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Hardware",
+  "body": "Which connector is used for most modern internal SSDs on a motherboard slot?",
+  "options": [
+   "PS/2",
+   "Molex",
+   "VGA",
+   "M.2"
+  ],
+  "answer": 3,
+  "explanation": "M.2 drives can use SATA or NVMe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Hardware",
+  "body": "A laser printer's fuser",
+  "options": [
+   "melts toner onto the paper",
+   "stores print jobs",
+   "charges the drum",
+   "cleans the paper"
+  ],
+  "answer": 0,
+  "explanation": "Steps include charge, expose, develop, transfer, fuse and clean.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Networking",
+  "body": "Which address range is APIPA?",
+  "options": [
+   "169.254.x.x",
+   "10.x.x.x",
+   "192.168.x.x",
+   "127.0.0.1"
+  ],
+  "answer": 0,
+  "explanation": "A PC gets an APIPA address when it can't reach a DHCP server.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Networking",
+  "body": "Which Wi-Fi standard is also called Wi-Fi 6?",
+  "options": [
+   "802.11ac",
+   "802.11ax",
+   "802.11n",
+   "802.11g"
+  ],
+  "answer": 1,
+  "explanation": "Wi-Fi 5 is 802.11ac.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Networking",
+  "body": "Which cable is most resistant to electromagnetic interference?",
+  "options": [
+   "Coaxial",
+   "Fibre optic",
+   "Unshielded twisted pair",
+   "Telephone cable"
+  ],
+  "answer": 1,
+  "explanation": "Fibre carries light, not electricity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Operating systems",
+  "body": "Which Windows command shows the IP configuration?",
+  "options": [
+   "netstat -r only",
+   "ifconfig",
+   "chkdsk",
+   "ipconfig"
+  ],
+  "answer": 3,
+  "explanation": "Linux traditionally uses ifconfig or ip addr.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Operating systems",
+  "body": "Which Windows tool checks a disk for file system errors?",
+  "options": [
+   "diskpart",
+   "gpupdate",
+   "sfc",
+   "chkdsk"
+  ],
+  "answer": 3,
+  "explanation": "sfc checks protected system files.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Operating systems",
+  "body": "Which Windows command repairs corrupted system files?",
+  "options": [
+   "format",
+   "ping",
+   "ipconfig /release",
+   "sfc /scannow"
+  ],
+  "answer": 3,
+  "explanation": "System File Checker.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Operating systems",
+  "body": "On Linux, which command changes file permissions?",
+  "options": [
+   "ls",
+   "grep",
+   "chmod",
+   "chown"
+  ],
+  "answer": 2,
+  "explanation": "chown changes the owner.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Security",
+  "body": "Requiring a password and a code from a phone app is",
+  "options": [
+   "encryption at rest",
+   "a firewall",
+   "single sign-on",
+   "multifactor authentication"
+  ],
+  "answer": 3,
+  "explanation": "Something you know plus something you have.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Security",
+  "body": "A fake email that tries to trick users into giving passwords is",
+  "options": [
+   "tailgating",
+   "phishing",
+   "a DDoS attack",
+   "a rootkit"
+  ],
+  "answer": 1,
+  "explanation": "Train users to check links and senders.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Troubleshooting",
+  "body": "The first step of the CompTIA troubleshooting method is to",
+  "options": [
+   "document findings",
+   "identify the problem",
+   "implement the solution",
+   "establish a theory"
+  ],
+  "answer": 1,
+  "explanation": "Documenting findings is the last step.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Troubleshooting",
+  "body": "A PC beeps and does not display anything at power-on. A likely cause is",
+  "options": [
+   "a printer jam",
+   "a full hard drive",
+   "a wrong desktop wallpaper",
+   "a RAM or video card problem detected by POST"
+  ],
+  "answer": 3,
+  "explanation": "POST beep codes point to hardware faults.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Safety",
+  "body": "Before working inside a PC, you should protect components from static by",
+  "options": [
+   "using an anti-static wrist strap",
+   "working on carpet",
+   "touching the screen",
+   "wearing wool gloves"
+  ],
+  "answer": 0,
+  "explanation": "ESD can damage components.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Cloud",
+  "body": "Software delivered over the internet, such as webmail, is",
+  "options": [
+   "SaaS",
+   "PaaS",
+   "on-premises",
+   "IaaS"
+  ],
+  "answer": 0,
+  "explanation": "IaaS provides virtual machines; PaaS provides a platform.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Ports",
+  "body": "FTP uses ports",
+  "options": [
+   "80 and 443",
+   "22 and 23",
+   "67 and 68",
+   "20 and 21"
+  ],
+  "answer": 3,
+  "explanation": "SFTP runs over SSH on port 22.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Ports",
+  "body": "DHCP uses ports",
+  "options": [
+   "161 and 162",
+   "67 and 68",
+   "20 and 21",
+   "53 and 54"
+  ],
+  "answer": 1,
+  "explanation": "SNMP uses 161 and 162.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Ports",
+  "body": "IMAP uses port",
+  "options": [
+   "110",
+   "993 only",
+   "25",
+   "143"
+  ],
+  "answer": 3,
+  "explanation": "IMAPS uses 993; POP3S uses 995.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Hardware",
+  "body": "Which type of display uses a backlight?",
+  "options": [
+   "OLED",
+   "LCD",
+   "e-ink only",
+   "CRT"
+  ],
+  "answer": 1,
+  "explanation": "OLED pixels produce their own light.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Hardware",
+  "body": "Which is the fastest type of storage for a typical desktop?",
+  "options": [
+   "DVD",
+   "NVMe SSD",
+   "SATA HDD",
+   "USB 2.0 flash drive"
+  ],
+  "answer": 1,
+  "explanation": "NVMe uses PCIe lanes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Hardware",
+  "body": "A UPS provides",
+  "options": [
+   "extra RAM",
+   "cooling",
+   "faster internet",
+   "battery backup power during outages"
+  ],
+  "answer": 3,
+  "explanation": "It also protects against brownouts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Hardware",
+  "body": "Which printer type uses a ribbon and pins to print multipart forms?",
+  "options": [
+   "Laser",
+   "Inkjet",
+   "Impact (dot matrix)",
+   "Thermal"
+  ],
+  "answer": 2,
+  "explanation": "Thermal printers use heat-sensitive paper.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Mobile",
+  "body": "Which mobile feature lets a phone share its internet connection?",
+  "options": [
+   "a hotspot (tethering)",
+   "airplane mode",
+   "Bluetooth pairing only",
+   "NFC"
+  ],
+  "answer": 0,
+  "explanation": "It can drain the battery quickly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Mobile",
+  "body": "NFC is commonly used for",
+  "options": [
+   "contactless payments",
+   "long-range Wi-Fi",
+   "GPS",
+   "charging only"
+  ],
+  "answer": 0,
+  "explanation": "It works over a few centimetres.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Virtualisation",
+  "body": "A hypervisor that runs directly on hardware is",
+  "options": [
+   "Type 1",
+   "Type 2",
+   "a container",
+   "an emulator only"
+  ],
+  "answer": 0,
+  "explanation": "Type 2 hypervisors run on a host operating system.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Operating systems",
+  "body": "Which Windows tool shows running processes and performance?",
+  "options": [
+   "Disk Management",
+   "Device Manager",
+   "Event Viewer",
+   "Task Manager"
+  ],
+  "answer": 3,
+  "explanation": "Event Viewer shows logs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Operating systems",
+  "body": "Which Windows file system supports permissions and large files?",
+  "options": [
+   "ext4",
+   "exFAT only",
+   "FAT32",
+   "NTFS"
+  ],
+  "answer": 3,
+  "explanation": "FAT32 has a 4 GB file size limit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Operating systems",
+  "body": "On macOS, the tool for backups is",
+  "options": [
+   "Finder Sync",
+   "System Restore",
+   "BitLocker",
+   "Time Machine"
+  ],
+  "answer": 3,
+  "explanation": "System Restore is a Windows feature.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Security",
+  "body": "BitLocker is used to",
+  "options": [
+   "create backups",
+   "remove malware",
+   "encrypt Windows drives",
+   "speed up boot"
+  ],
+  "answer": 2,
+  "explanation": "FileVault does this on macOS.",
+  "difficulty": 2
+ },
+ {
+  "subject": "APL",
+  "topic": "Troubleshooting",
+  "body": "A user can reach websites by IP address but not by name. The likely problem is",
+  "options": [
+   "DNS",
+   "the network cable",
+   "the monitor",
+   "DHCP"
+  ],
+  "answer": 0,
+  "explanation": "Check the DNS server settings.",
+  "difficulty": 2
+ }
+]

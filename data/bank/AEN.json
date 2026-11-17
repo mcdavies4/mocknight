@@ -1,0 +1,408 @@
+[
+ {
+  "subject": "AEN",
+  "topic": "Vocabulary in context",
+  "body": "'The results were ambiguous, so the team ran the test again.' 'Ambiguous' means",
+  "options": [
+   "very clear",
+   "wrong",
+   "exciting",
+   "unclear or open to more than one interpretation"
+  ],
+  "answer": 3,
+  "explanation": "Ambiguous results can be read in different ways.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Vocabulary in context",
+  "body": "'The drug mitigated the symptoms.' 'Mitigated' means",
+  "options": [
+   "caused",
+   "hid",
+   "made less severe",
+   "made worse"
+  ],
+  "answer": 2,
+  "explanation": "To mitigate is to reduce the harm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Vocabulary in context",
+  "body": "'The evidence corroborates the theory.' 'Corroborates' means",
+  "options": [
+   "ignores",
+   "supports or confirms",
+   "replaces",
+   "contradicts"
+  ],
+  "answer": 1,
+  "explanation": "Corroborating evidence strengthens a claim.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Vocabulary in context",
+  "body": "'Resources were scarce after the drought.' 'Scarce' means",
+  "options": [
+   "expensive",
+   "in short supply",
+   "plentiful",
+   "wasted"
+  ],
+  "answer": 1,
+  "explanation": "Scarcity means not enough to meet demand.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Vocabulary in context",
+  "body": "'The population grew exponentially.' This means it grew",
+  "options": [
+   "by the same amount each year",
+   "slowly",
+   "then fell",
+   "faster and faster over time"
+  ],
+  "answer": 3,
+  "explanation": "Exponential growth multiplies at a rate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Vocabulary in context",
+  "body": "'The author's tone is skeptical.' A skeptical tone is",
+  "options": [
+   "neutral",
+   "angry",
+   "doubtful",
+   "enthusiastic"
+  ],
+  "answer": 2,
+  "explanation": "Skeptics question claims.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Vocabulary in context",
+  "body": "'Inevitable' most nearly means",
+  "options": [
+   "unlikely",
+   "certain to happen",
+   "optional",
+   "unexpected"
+  ],
+  "answer": 1,
+  "explanation": "Something inevitable cannot be avoided.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Vocabulary in context",
+  "body": "'Subsequent' most nearly means",
+  "options": [
+   "coming before",
+   "unrelated",
+   "coming after",
+   "at the same time"
+  ],
+  "answer": 2,
+  "explanation": "Subsequent events follow earlier ones.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Academic phrases",
+  "body": "Which phrase introduces a contrasting point?",
+  "options": [
+   "Furthermore",
+   "For example",
+   "As a result",
+   "On the other hand"
+  ],
+  "answer": 3,
+  "explanation": "Also: however, nevertheless, in contrast.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Academic phrases",
+  "body": "Which phrase shows a result?",
+  "options": [
+   "Similarly",
+   "Although",
+   "Consequently",
+   "For instance"
+  ],
+  "answer": 2,
+  "explanation": "Also: therefore, as a result, thus.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Academic phrases",
+  "body": "Which phrase adds a supporting point?",
+  "options": [
+   "Otherwise",
+   "Instead",
+   "Nevertheless",
+   "Moreover"
+  ],
+  "answer": 3,
+  "explanation": "Also: in addition, furthermore.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Collocations",
+  "body": "Which is the natural academic collocation?",
+  "options": [
+   "make research",
+   "do a research",
+   "conduct research",
+   "perform a researches"
+  ],
+  "answer": 2,
+  "explanation": "Research is uncountable: 'conduct research', 'carry out research'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Collocations",
+  "body": "Which is correct?",
+  "options": [
+   "a strong growing",
+   "a significant increase",
+   "a big raise of",
+   "a heavy increasing"
+  ],
+  "answer": 1,
+  "explanation": "Significant / sharp / steady increase.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Grammar",
+  "body": "Which sentence is correct?",
+  "options": [
+   "The data suggest that sleep improves memory.",
+   "The data suggests that sleep improve memory.",
+   "The data suggest that sleep improving memory.",
+   "The data suggesting sleep improves memory."
+  ],
+  "answer": 0,
+  "explanation": "In formal academic English, 'data' is often plural.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Grammar",
+  "body": "Choose the correct form: 'If the temperature ___, the ice melts.'",
+  "options": [
+   "would rise",
+   "rose",
+   "rises",
+   "will have risen"
+  ],
+  "answer": 2,
+  "explanation": "A zero conditional uses the present simple in both clauses.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Grammar",
+  "body": "Which sentence is in the passive voice?",
+  "options": [
+   "The samples were analysed in the lab.",
+   "The scientists analysed the samples.",
+   "They are analysing samples.",
+   "Scientists analyse samples daily."
+  ],
+  "answer": 0,
+  "explanation": "Passive: be + past participle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Reading skills",
+  "body": "A question asking what the author 'implies' wants you to",
+  "options": [
+   "work out a meaning that is suggested but not stated",
+   "find an exact quote",
+   "summarise the title",
+   "count the paragraphs"
+  ],
+  "answer": 0,
+  "explanation": "This is an inference question.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Reading skills",
+  "body": "The main idea of a paragraph is most often found in the",
+  "options": [
+   "title only",
+   "last word",
+   "footnote",
+   "topic sentence, usually near the start"
+  ],
+  "answer": 3,
+  "explanation": "Supporting details follow it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Test facts",
+  "body": "The TOEFL iBT tests which four skills?",
+  "options": [
+   "Reading, Listening, Speaking and Writing",
+   "Reading, Writing, Maths and Logic",
+   "Grammar, Vocabulary, Spelling and Reading",
+   "Listening, Speaking, Translation and Culture"
+  ],
+  "answer": 0,
+  "explanation": "Each skill is scored separately.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Test facts",
+  "body": "The Duolingo English Test is taken",
+  "options": [
+   "by phone",
+   "only at test centres",
+   "on paper by post",
+   "online at home on a computer"
+  ],
+  "answer": 3,
+  "explanation": "It is adaptive and gives an overall score.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Vocabulary in context",
+  "body": "'The data were insufficient to draw a conclusion.' 'Insufficient' means",
+  "options": [
+   "not enough",
+   "too much",
+   "confusing",
+   "accurate"
+  ],
+  "answer": 0,
+  "explanation": "The opposite is sufficient.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Vocabulary in context",
+  "body": "'The policy had a profound effect on education.' 'Profound' means",
+  "options": [
+   "very great or deep",
+   "slight",
+   "negative",
+   "temporary"
+  ],
+  "answer": 0,
+  "explanation": "A profound effect is significant.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Vocabulary in context",
+  "body": "'The species is indigenous to Brazil.' 'Indigenous' means",
+  "options": [
+   "dangerous in",
+   "native to",
+   "extinct in",
+   "imported from"
+  ],
+  "answer": 1,
+  "explanation": "Indigenous species occur naturally there.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Vocabulary in context",
+  "body": "'The scientist sought to verify the claim.' 'Verify' means",
+  "options": [
+   "reject",
+   "publish",
+   "check that it is true",
+   "invent"
+  ],
+  "answer": 2,
+  "explanation": "Verification confirms accuracy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Vocabulary in context",
+  "body": "'Rapid urbanisation has many implications.' 'Implications' means",
+  "options": [
+   "statistics",
+   "laws",
+   "possible effects or results",
+   "causes only"
+  ],
+  "answer": 2,
+  "explanation": "What follows from something.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Academic phrases",
+  "body": "Which phrase introduces an example?",
+  "options": [
+   "For instance",
+   "Nevertheless",
+   "In conclusion",
+   "Conversely"
+  ],
+  "answer": 0,
+  "explanation": "Also: for example, such as.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Academic phrases",
+  "body": "Which phrase introduces a conclusion?",
+  "options": [
+   "In summary",
+   "Moreover",
+   "For example",
+   "Despite this"
+  ],
+  "answer": 0,
+  "explanation": "Also: to conclude, overall.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Grammar",
+  "body": "Choose the correct word: 'The number of applicants ___ increased.'",
+  "options": [
+   "have",
+   "were",
+   "are",
+   "has"
+  ],
+  "answer": 3,
+  "explanation": "'The number' is singular; 'a number of' takes a plural verb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AEN",
+  "topic": "Reading skills",
+  "body": "A writer's 'purpose' is",
+  "options": [
+   "the number of words",
+   "why they wrote the text, such as to inform or persuade",
+   "the publication date",
+   "the title"
+  ],
+  "answer": 1,
+  "explanation": "Look at tone and language choices.",
+  "difficulty": 2
+ }
+]

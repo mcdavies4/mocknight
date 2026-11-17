@@ -1,0 +1,562 @@
+[
+ {
+  "subject": "CSJ",
+  "topic": "Working together",
+  "body": "A colleague is struggling to meet a deadline that affects your team. What is the most effective response?",
+  "options": [
+   "Offer to help and agree priorities with them",
+   "Ignore it because it is not your work",
+   "Redo their work without telling them",
+   "Tell your manager they are underperforming"
+  ],
+  "answer": 0,
+  "explanation": "Working Together: support colleagues and share the load.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Working together",
+  "body": "Two team members disagree about how to do a task. As the team lead, the best first step is to",
+  "options": [
+   "listen to both views and find common ground",
+   "tell them to sort it out themselves",
+   "choose your friend's approach",
+   "report both to HR"
+  ],
+  "answer": 0,
+  "explanation": "Resolve conflict early and fairly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Working together",
+  "body": "A new starter keeps asking you questions while you are busy. The most effective response is to",
+  "options": [
+   "complain to the manager",
+   "tell them to stop asking",
+   "arrange a set time to go through their questions",
+   "ignore their messages"
+  ],
+  "answer": 2,
+  "explanation": "It supports them while protecting your time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Delivering at pace",
+  "body": "You realise you will miss an important deadline. What should you do?",
+  "options": [
+   "Blame IT problems",
+   "Submit unfinished work without comment",
+   "Tell your manager early and suggest a revised plan",
+   "Say nothing and hope it is fine"
+  ],
+  "answer": 2,
+  "explanation": "Raise risks early and offer solutions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Delivering at pace",
+  "body": "You have three urgent tasks and can only finish two today. You should",
+  "options": [
+   "prioritise by impact and agree the plan with your manager",
+   "do the easiest two",
+   "do all three badly",
+   "pick at random"
+  ],
+  "answer": 0,
+  "explanation": "Prioritise and communicate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Making effective decisions",
+  "body": "You must recommend an option but some data is missing. The most effective action is to",
+  "options": [
+   "wait indefinitely for perfect data",
+   "use the best available evidence and be clear about the gaps",
+   "refuse to make any recommendation",
+   "guess and present it as certain"
+  ],
+  "answer": 1,
+  "explanation": "Make evidence-based decisions and flag uncertainty.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Making effective decisions",
+  "body": "You spot an error in a report that has already gone to senior leaders. You should",
+  "options": [
+   "keep quiet",
+   "wait to see if anyone notices",
+   "tell your manager and arrange for a correction to be issued",
+   "quietly change the original file"
+  ],
+  "answer": 2,
+  "explanation": "Honesty and integrity are Civil Service values.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Seeing the big picture",
+  "body": "A policy you work on will affect a group you hadn't considered. The best response is to",
+  "options": [
+   "assess the impact and involve the right stakeholders",
+   "drop the policy",
+   "carry on as planned",
+   "tell no one"
+  ],
+  "answer": 0,
+  "explanation": "Understand how your work fits wider priorities.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Communicating and influencing",
+  "body": "You need to explain a complex change to members of the public. You should",
+  "options": [
+   "send a long legal document",
+   "use plain English and check they have understood",
+   "use technical jargon",
+   "avoid explaining"
+  ],
+  "answer": 1,
+  "explanation": "Tailor your message to your audience.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Communicating and influencing",
+  "body": "A stakeholder strongly disagrees with your proposal. The most effective response is to",
+  "options": [
+   "escalate straight away",
+   "listen to their concerns and address them with evidence",
+   "dismiss their view",
+   "change everything to please them"
+  ],
+  "answer": 1,
+  "explanation": "Influence by understanding and evidence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Changing and improving",
+  "body": "You notice a process that wastes time. You should",
+  "options": [
+   "complain to colleagues",
+   "keep doing it the old way",
+   "suggest an improvement to your manager with the benefits",
+   "change it without telling anyone"
+  ],
+  "answer": 2,
+  "explanation": "Look for ways to improve services.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Changing and improving",
+  "body": "A new IT system is introduced and colleagues are resisting it. As a team member, you should",
+  "options": [
+   "keep using the old system in secret",
+   "refuse to use it",
+   "learn it and help others adapt",
+   "complain on social media"
+  ],
+  "answer": 2,
+  "explanation": "Embrace and support change.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Leadership",
+  "body": "A team member's performance has dropped suddenly. The best first step is to",
+  "options": [
+   "have a private, supportive conversation to understand why",
+   "ignore it",
+   "start a formal disciplinary",
+   "criticise them in a team meeting"
+  ],
+  "answer": 0,
+  "explanation": "There may be personal reasons; support first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Values",
+  "body": "A friend asks you to look up their neighbour's details on a government system. You should",
+  "options": [
+   "ask a colleague to do it",
+   "do it but not tell anyone",
+   "do it if it is quick",
+   "refuse, because it is a misuse of official information"
+  ],
+  "answer": 3,
+  "explanation": "Integrity: use information only for official purposes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Values",
+  "body": "The four Civil Service core values are",
+  "options": [
+   "integrity, honesty, objectivity and impartiality",
+   "loyalty, obedience, secrecy and power",
+   "speed, cost, quality and scope",
+   "efficiency, profit, growth and innovation"
+  ],
+  "answer": 0,
+  "explanation": "Set out in the Civil Service Code.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Values",
+  "body": "During an election period, a minister's adviser asks you to help with party campaign material. You should",
+  "options": [
+   "help if it is after hours",
+   "help anonymously",
+   "help if your manager agrees",
+   "decline, because civil servants must stay politically impartial"
+  ],
+  "answer": 3,
+  "explanation": "Civil servants serve the government of the day impartially.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Values",
+  "body": "A supplier offers you an expensive gift while a contract is being decided. You should",
+  "options": [
+   "accept it quietly",
+   "accept and share it with the team",
+   "decline it and record or report the offer",
+   "ask for cash instead"
+  ],
+  "answer": 2,
+  "explanation": "Avoid any conflict of interest.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Managing a quality service",
+  "body": "A member of the public complains about poor service from your team. The most effective response is to",
+  "options": [
+   "pass them to another department without explanation",
+   "listen, apologise where appropriate and agree what will happen next",
+   "ignore the complaint",
+   "argue that they are wrong"
+  ],
+  "answer": 1,
+  "explanation": "Put customers at the heart of service.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Managing a quality service",
+  "body": "You are asked to cut a corner that would breach data protection rules. You should",
+  "options": [
+   "do it to save time",
+   "do it but delete the evidence",
+   "explain the risk and find a compliant way to meet the need",
+   "refuse to discuss it"
+  ],
+  "answer": 2,
+  "explanation": "Quality includes meeting legal standards.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Developing self and others",
+  "body": "You receive critical feedback on your work. The most effective response is to",
+  "options": [
+   "reflect on it and agree specific improvements",
+   "complain to colleagues",
+   "argue with the reviewer",
+   "ignore it"
+  ],
+  "answer": 0,
+  "explanation": "Use feedback to develop.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Working together",
+  "body": "A colleague takes credit for your idea in a meeting. The most effective response is to",
+  "options": [
+   "say nothing and resent it",
+   "speak to them privately and agree how to credit shared work in future",
+   "call them out angrily in the meeting",
+   "complain to everyone in the team"
+  ],
+  "answer": 1,
+  "explanation": "Address it calmly and directly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Working together",
+  "body": "Your team is split across offices and communication is poor. You should",
+  "options": [
+   "only talk to people in your office",
+   "send more long emails",
+   "suggest a regular check-in and a shared place to track work",
+   "wait for the manager to fix it"
+  ],
+  "answer": 2,
+  "explanation": "Build inclusive ways of working.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Working together",
+  "body": "A colleague makes an inappropriate joke about another person's background. You should",
+  "options": [
+   "challenge it calmly and report it if it continues",
+   "share it with others",
+   "ignore it",
+   "laugh along"
+  ],
+  "answer": 0,
+  "explanation": "Everyone should feel respected at work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Delivering at pace",
+  "body": "Your manager is away and an urgent decision is needed within your authority. You should",
+  "options": [
+   "make the decision using the guidance available and record your reasons",
+   "wait until they return",
+   "pass it to a junior colleague",
+   "ask a friend outside work"
+  ],
+  "answer": 0,
+  "explanation": "Take ownership within your remit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Delivering at pace",
+  "body": "A project is behind because a supplier is late. The most effective action is to",
+  "options": [
+   "escalate the risk, agree a recovery plan and update stakeholders",
+   "blame the supplier publicly",
+   "cancel the project",
+   "hide the delay"
+  ],
+  "answer": 0,
+  "explanation": "Manage risks openly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Making effective decisions",
+  "body": "You are asked to choose between two options with similar costs. You should",
+  "options": [
+   "compare them against the agreed criteria and record your reasoning",
+   "delay the decision",
+   "toss a coin",
+   "pick the one your manager seems to like"
+  ],
+  "answer": 0,
+  "explanation": "Decisions should be transparent and evidence-based.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Making effective decisions",
+  "body": "A senior colleague asks you to approve a payment that skips the usual checks. You should",
+  "options": [
+   "approve half of it",
+   "decline and explain the process that must be followed",
+   "approve it and tell no one",
+   "approve it because they are senior"
+  ],
+  "answer": 1,
+  "explanation": "Follow controls and protect public money.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Seeing the big picture",
+  "body": "You learn that another team is working on something very similar to your project. You should",
+  "options": [
+   "copy their work without asking",
+   "compete to finish first",
+   "ignore them",
+   "contact them to share information and avoid duplication"
+  ],
+  "answer": 3,
+  "explanation": "Join up work across government.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Communicating and influencing",
+  "body": "You must give your team some unwelcome news about a change. The best approach is to",
+  "options": [
+   "explain the reasons honestly and give them a chance to ask questions",
+   "send a short email and leave",
+   "blame senior leaders",
+   "let them hear it from rumours"
+  ],
+  "answer": 0,
+  "explanation": "Clear, honest communication builds trust.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Communicating and influencing",
+  "body": "A minister's office needs a briefing by tomorrow but your expert is on leave. You should",
+  "options": [
+   "copy an old briefing without checking",
+   "make up the missing details",
+   "refuse to write it",
+   "use the best available sources, flag any gaps and offer a follow-up"
+  ],
+  "answer": 3,
+  "explanation": "Be accurate and open about limitations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Changing and improving",
+  "body": "Customers keep making the same mistake on an online form. You should",
+  "options": [
+   "do nothing",
+   "suggest clearer wording or design and test it with users",
+   "remove the form",
+   "blame the customers"
+  ],
+  "answer": 1,
+  "explanation": "Design services around users.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Changing and improving",
+  "body": "A colleague suggests a new idea you think won't work. The most effective response is to",
+  "options": [
+   "discuss it openly and test it if the risk is low",
+   "dismiss it immediately",
+   "agree and then ignore it",
+   "report them"
+  ],
+  "answer": 0,
+  "explanation": "Encourage innovation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Leadership",
+  "body": "Your team is under heavy pressure and morale is low. As a manager you should",
+  "options": [
+   "acknowledge the pressure, reprioritise work and check on wellbeing",
+   "take holiday",
+   "ignore it until the project ends",
+   "tell them to work harder"
+  ],
+  "answer": 0,
+  "explanation": "Leaders support wellbeing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Leadership",
+  "body": "A team member regularly arrives late, affecting others. The best first step is to",
+  "options": [
+   "shout at them in front of others",
+   "ignore it",
+   "dock their pay immediately",
+   "talk to them privately to understand the reason and agree expectations"
+  ],
+  "answer": 3,
+  "explanation": "Address issues early and fairly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Values",
+  "body": "You find that a colleague has been sharing confidential information with a journalist. You should",
+  "options": [
+   "tell the journalist yourself",
+   "report it through the proper channels",
+   "confront them publicly",
+   "ignore it"
+  ],
+  "answer": 1,
+  "explanation": "Use the Civil Service Code's routes for raising concerns.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Values",
+  "body": "You are asked to give advice that you know is not supported by the evidence. You should",
+  "options": [
+   "say what the minister wants to hear",
+   "refuse to give any advice",
+   "give your honest, evidence-based advice",
+   "leave the evidence out"
+  ],
+  "answer": 2,
+  "explanation": "Objectivity: base advice on rigorous analysis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Values",
+  "body": "A family member is bidding for a contract you are involved in. You should",
+  "options": [
+   "declare the conflict of interest and step back from the decision",
+   "help them win",
+   "share the other bids with them",
+   "keep quiet and stay neutral"
+  ],
+  "answer": 0,
+  "explanation": "Declare interests openly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Managing a quality service",
+  "body": "A vulnerable caller is distressed and confused about your service. You should",
+  "options": [
+   "take time to explain clearly and signpost further help",
+   "transfer them repeatedly",
+   "tell them to read the website",
+   "end the call quickly"
+  ],
+  "answer": 0,
+  "explanation": "Treat people with fairness and compassion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Developing self and others",
+  "body": "You have been asked to take on a task outside your experience. The most effective approach is to",
+  "options": [
+   "refuse outright",
+   "pretend you know how",
+   "accept, ask for support and find learning resources",
+   "delegate it all"
+  ],
+  "answer": 2,
+  "explanation": "Take opportunities to grow.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CSJ",
+  "topic": "Developing self and others",
+  "body": "A junior colleague makes a mistake that you could easily fix. The most effective response is to",
+  "options": [
+   "fix it secretly",
+   "report them to the manager",
+   "help them understand the error and how to fix it themselves",
+   "laugh about it"
+  ],
+  "answer": 2,
+  "explanation": "Develop others' capability.",
+  "difficulty": 2
+ }
+]

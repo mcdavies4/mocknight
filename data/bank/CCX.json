@@ -1,0 +1,688 @@
+[
+ {
+  "subject": "CCX",
+  "topic": "Switching",
+  "body": "VLANs are used to",
+  "options": [
+   "increase cable length",
+   "route between the internet and LAN",
+   "split one switch into separate broadcast domains",
+   "encrypt traffic"
+  ],
+  "answer": 2,
+  "explanation": "Routing is needed between VLANs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Switching",
+  "body": "A link that carries traffic for multiple VLANs is a",
+  "options": [
+   "console port",
+   "loopback",
+   "access port",
+   "trunk"
+  ],
+  "answer": 3,
+  "explanation": "802.1Q adds a VLAN tag.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Switching",
+  "body": "Spanning Tree Protocol prevents",
+  "options": [
+   "routing loops at Layer 3",
+   "IP address conflicts",
+   "duplex mismatches",
+   "Layer 2 loops"
+  ],
+  "answer": 3,
+  "explanation": "It blocks redundant paths.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Switching",
+  "body": "The STP root bridge is the switch with the lowest",
+  "options": [
+   "bridge ID (priority, then MAC address)",
+   "port count",
+   "IP address",
+   "uptime"
+  ],
+  "answer": 0,
+  "explanation": "Default priority is 32768.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Routing",
+  "body": "OSPF is a",
+  "options": [
+   "static route",
+   "link-state routing protocol",
+   "path-vector protocol",
+   "distance-vector protocol"
+  ],
+  "answer": 1,
+  "explanation": "It uses Dijkstra's algorithm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Routing",
+  "body": "The default administrative distance of OSPF is",
+  "options": [
+   "90",
+   "120",
+   "1",
+   "110"
+  ],
+  "answer": 3,
+  "explanation": "EIGRP internal is 90, RIP is 120 and static is 1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Routing",
+  "body": "A directly connected route has an administrative distance of",
+  "options": [
+   "255",
+   "1",
+   "110",
+   "0"
+  ],
+  "answer": 3,
+  "explanation": "Lower administrative distance is preferred.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Routing",
+  "body": "The route 0.0.0.0/0 is the",
+  "options": [
+   "broadcast route",
+   "default route",
+   "multicast route",
+   "loopback route"
+  ],
+  "answer": 1,
+  "explanation": "It matches any destination.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Services",
+  "body": "NAT is mainly used to",
+  "options": [
+   "resolve names to addresses",
+   "translate private IP addresses to public addresses",
+   "assign IP addresses automatically",
+   "prevent loops"
+  ],
+  "answer": 1,
+  "explanation": "PAT lets many hosts share one public IP.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Services",
+  "body": "DHCP uses which process to assign addresses?",
+  "options": [
+   "Syn, Syn-Ack, Ack",
+   "Hello, Update, Ack",
+   "Request, Reply, Confirm, Close",
+   "Discover, Offer, Request, Acknowledge"
+  ],
+  "answer": 3,
+  "explanation": "Known as DORA.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Security",
+  "body": "A standard ACL filters traffic based only on",
+  "options": [
+   "MAC addresses",
+   "source and destination ports",
+   "the source IP address",
+   "the destination IP only"
+  ],
+  "answer": 2,
+  "explanation": "Place standard ACLs close to the destination.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Security",
+  "body": "Every ACL ends with an implicit",
+  "options": [
+   "redirect",
+   "log all",
+   "permit any",
+   "deny any"
+  ],
+  "answer": 3,
+  "explanation": "Traffic not matched is dropped.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "IPv6",
+  "body": "An IPv6 address is",
+  "options": [
+   "128 bits long",
+   "48 bits long",
+   "32 bits long",
+   "64 bits long"
+  ],
+  "answer": 0,
+  "explanation": "Written as eight groups of four hex digits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "IPv6",
+  "body": "IPv6 link-local addresses start with",
+  "options": [
+   "::1/128",
+   "FE80::/10",
+   "2001::/16",
+   "FF00::/8"
+  ],
+  "answer": 1,
+  "explanation": "FF00::/8 is multicast and ::1 is loopback.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Models",
+  "body": "Which OSI layer do routers mainly work at?",
+  "options": [
+   "Layer 2 (Data Link)",
+   "Layer 3 (Network)",
+   "Layer 4 (Transport)",
+   "Layer 1 (Physical)"
+  ],
+  "answer": 1,
+  "explanation": "Switches work mainly at Layer 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Models",
+  "body": "TCP is described as",
+  "options": [
+   "a Layer 3 protocol",
+   "only used for video",
+   "connection-oriented and reliable",
+   "connectionless"
+  ],
+  "answer": 2,
+  "explanation": "UDP is connectionless.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Wireless",
+  "body": "A WLC (wireless LAN controller) is used to",
+  "options": [
+   "assign VLANs to switches only",
+   "centrally manage lightweight access points",
+   "replace DHCP",
+   "route between ISPs"
+  ],
+  "answer": 1,
+  "explanation": "Lightweight APs use CAPWAP to talk to the controller.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Automation",
+  "body": "REST APIs commonly exchange data using",
+  "options": [
+   "JSON",
+   "Telnet",
+   "SNMPv1 only",
+   "FTP"
+  ],
+  "answer": 0,
+  "explanation": "Used in network automation and controllers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /20 subnet?",
+  "options": [
+   "2048",
+   "4094",
+   "8188",
+   "4096"
+  ],
+  "answer": 1,
+  "explanation": "2^(32 − 20) − 2 = 4094.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /25 subnet?",
+  "options": [
+   "128",
+   "126",
+   "64",
+   "252"
+  ],
+  "answer": 1,
+  "explanation": "2^(32 − 25) − 2 = 126.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /23 subnet?",
+  "options": [
+   "510",
+   "512",
+   "1020",
+   "256"
+  ],
+  "answer": 0,
+  "explanation": "2^(32 − 23) − 2 = 510.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /22 subnet?",
+  "options": [
+   "512",
+   "1024",
+   "1022",
+   "2044"
+  ],
+  "answer": 2,
+  "explanation": "2^(32 − 22) − 2 = 1022.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /26 subnet?",
+  "options": [
+   "32",
+   "62",
+   "124",
+   "64"
+  ],
+  "answer": 1,
+  "explanation": "2^(32 − 26) − 2 = 62.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /29 subnet?",
+  "options": [
+   "12",
+   "4",
+   "6",
+   "8"
+  ],
+  "answer": 2,
+  "explanation": "2^(32 − 29) − 2 = 6.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /27 subnet?",
+  "options": [
+   "30",
+   "32",
+   "60",
+   "16"
+  ],
+  "answer": 0,
+  "explanation": "2^(32 − 27) − 2 = 30.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /21 subnet?",
+  "options": [
+   "2048",
+   "2046",
+   "1024",
+   "4092"
+  ],
+  "answer": 1,
+  "explanation": "2^(32 − 21) − 2 = 2046.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /24 subnet?",
+  "options": [
+   "128",
+   "508",
+   "256",
+   "254"
+  ],
+  "answer": 3,
+  "explanation": "2^(32 − 24) − 2 = 254.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /30 subnet?",
+  "options": [
+   "4",
+   "2",
+   "1",
+   "3"
+  ],
+  "answer": 1,
+  "explanation": "2^(32 − 30) − 2 = 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "How many usable host addresses are in a /28 subnet?",
+  "options": [
+   "14",
+   "16",
+   "8",
+   "28"
+  ],
+  "answer": 0,
+  "explanation": "2^(32 − 28) − 2 = 14.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "What is the subnet mask for /29?",
+  "options": [
+   "255.255.255.252",
+   "255.255.255.224",
+   "255.255.255.248",
+   "255.255.255.240"
+  ],
+  "answer": 2,
+  "explanation": "/29 means 29 network bits: 255.255.255.248.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "What is the subnet mask for /22?",
+  "options": [
+   "255.255.248.0",
+   "255.255.240.0",
+   "255.255.252.0",
+   "255.255.254.0"
+  ],
+  "answer": 2,
+  "explanation": "/22 means 22 network bits: 255.255.252.0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "What is the subnet mask for /27?",
+  "options": [
+   "255.255.255.192",
+   "255.255.255.240",
+   "255.255.255.224",
+   "255.255.255.128"
+  ],
+  "answer": 2,
+  "explanation": "/27 means 27 network bits: 255.255.255.224.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "What is the subnet mask for /17?",
+  "options": [
+   "255.254.0.0",
+   "255.255.192.0",
+   "255.255.0.0",
+   "255.255.128.0"
+  ],
+  "answer": 3,
+  "explanation": "/17 means 17 network bits: 255.255.128.0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "What is the subnet mask for /20?",
+  "options": [
+   "255.255.248.0",
+   "255.255.192.0",
+   "255.255.240.0",
+   "255.255.224.0"
+  ],
+  "answer": 2,
+  "explanation": "/20 means 20 network bits: 255.255.240.0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "What is the subnet mask for /28?",
+  "options": [
+   "255.255.255.240",
+   "255.255.255.192",
+   "255.255.255.248",
+   "255.255.255.224"
+  ],
+  "answer": 0,
+  "explanation": "/28 means 28 network bits: 255.255.255.240.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "What is the subnet mask for /26?",
+  "options": [
+   "255.255.255.128",
+   "255.255.255.0",
+   "255.255.255.224",
+   "255.255.255.192"
+  ],
+  "answer": 3,
+  "explanation": "/26 means 26 network bits: 255.255.255.192.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "What is the subnet mask for /23?",
+  "options": [
+   "255.255.255.0",
+   "255.255.248.0",
+   "255.255.254.0",
+   "255.255.252.0"
+  ],
+  "answer": 2,
+  "explanation": "/23 means 23 network bits: 255.255.254.0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "What is the subnet mask for /21?",
+  "options": [
+   "255.255.240.0",
+   "255.255.252.0",
+   "255.255.248.0",
+   "255.255.224.0"
+  ],
+  "answer": 2,
+  "explanation": "/21 means 21 network bits: 255.255.248.0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "What is the subnet mask for /18?",
+  "options": [
+   "255.255.0.0",
+   "255.255.128.0",
+   "255.255.224.0",
+   "255.255.192.0"
+  ],
+  "answer": 3,
+  "explanation": "/18 means 18 network bits: 255.255.192.0.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.14.174/26?",
+  "options": [
+   "192.168.14.128",
+   "192.168.14.192",
+   "192.168.14.174",
+   "192.168.14.64"
+  ],
+  "answer": 0,
+  "explanation": "/26 has a block size of 64; 174 falls in the block starting at 128.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.7.65/27?",
+  "options": [
+   "192.168.7.32",
+   "192.168.7.65",
+   "192.168.7.96",
+   "192.168.7.64"
+  ],
+  "answer": 3,
+  "explanation": "/27 has a block size of 32; 65 falls in the block starting at 64.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.18.136/29?",
+  "options": [
+   "192.168.18.128",
+   "192.168.18.144",
+   "192.168.18.136",
+   "192.168.18.0"
+  ],
+  "answer": 2,
+  "explanation": "/29 has a block size of 8; 136 falls in the block starting at 136.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.11.207/29?",
+  "options": [
+   "192.168.11.207",
+   "192.168.11.192",
+   "192.168.11.208",
+   "192.168.11.200"
+  ],
+  "answer": 3,
+  "explanation": "/29 has a block size of 8; 207 falls in the block starting at 200.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.11.118/27?",
+  "options": [
+   "192.168.11.64",
+   "192.168.11.128",
+   "192.168.11.96",
+   "192.168.11.118"
+  ],
+  "answer": 2,
+  "explanation": "/27 has a block size of 32; 118 falls in the block starting at 96.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.7.204/26?",
+  "options": [
+   "192.168.7.204",
+   "192.168.7.192",
+   "192.168.7.256",
+   "192.168.7.128"
+  ],
+  "answer": 1,
+  "explanation": "/26 has a block size of 64; 204 falls in the block starting at 192.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.10.224/27?",
+  "options": [
+   "192.168.10.224",
+   "192.168.10.192",
+   "192.168.10.0",
+   "192.168.10.256"
+  ],
+  "answer": 0,
+  "explanation": "/27 has a block size of 32; 224 falls in the block starting at 224.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.20.64/27?",
+  "options": [
+   "192.168.20.32",
+   "192.168.20.96",
+   "192.168.20.0",
+   "192.168.20.64"
+  ],
+  "answer": 3,
+  "explanation": "/27 has a block size of 32; 64 falls in the block starting at 64.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.19.137/28?",
+  "options": [
+   "192.168.19.144",
+   "192.168.19.137",
+   "192.168.19.112",
+   "192.168.19.128"
+  ],
+  "answer": 3,
+  "explanation": "/28 has a block size of 16; 137 falls in the block starting at 128.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CCX",
+  "topic": "Subnetting",
+  "body": "What is the network address of 192.168.4.105/28?",
+  "options": [
+   "192.168.4.112",
+   "192.168.4.96",
+   "192.168.4.80",
+   "192.168.4.105"
+  ],
+  "answer": 1,
+  "explanation": "/28 has a block size of 16; 105 falls in the block starting at 96.",
+  "difficulty": 3
+ }
+]

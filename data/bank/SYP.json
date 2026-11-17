@@ -1,0 +1,436 @@
+[
+ {
+  "subject": "SYP",
+  "topic": "Concepts",
+  "body": "The CIA triad stands for",
+  "options": [
+   "confidentiality, inspection and audit",
+   "confidentiality, integrity and availability",
+   "compliance, integrity and authorisation",
+   "control, identity and access"
+  ],
+  "answer": 1,
+  "explanation": "These are the core goals of security.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Concepts",
+  "body": "Non-repudiation means",
+  "options": [
+   "data is encrypted",
+   "systems never fail",
+   "a sender cannot deny sending a message",
+   "users cannot log in twice"
+  ],
+  "answer": 2,
+  "explanation": "Digital signatures provide non-repudiation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Cryptography",
+  "body": "Which algorithm is symmetric?",
+  "options": [
+   "ECC",
+   "RSA",
+   "Diffie-Hellman",
+   "AES"
+  ],
+  "answer": 3,
+  "explanation": "Symmetric encryption uses one shared key.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Cryptography",
+  "body": "Hashing is used to verify",
+  "options": [
+   "confidentiality",
+   "availability",
+   "authorisation",
+   "integrity"
+  ],
+  "answer": 3,
+  "explanation": "A changed file produces a different hash.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Cryptography",
+  "body": "In public key cryptography, to send a confidential message to Alice you encrypt it with",
+  "options": [
+   "Alice's private key",
+   "Alice's public key",
+   "a shared password",
+   "your private key"
+  ],
+  "answer": 1,
+  "explanation": "Only Alice's private key can decrypt it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Cryptography",
+  "body": "A digital signature is created with the sender's",
+  "options": [
+   "private key",
+   "session key",
+   "public key",
+   "password"
+  ],
+  "answer": 0,
+  "explanation": "Anyone can verify it with the sender's public key.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Cryptography",
+  "body": "Adding random data to a password before hashing is called",
+  "options": [
+   "padding",
+   "salting",
+   "key stretching",
+   "peppering only"
+  ],
+  "answer": 1,
+  "explanation": "Salts defeat rainbow tables.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "PKI",
+  "body": "A list of certificates revoked before expiry is a",
+  "options": [
+   "CRL",
+   "CA",
+   "HSM",
+   "CSR"
+  ],
+  "answer": 0,
+  "explanation": "OCSP checks revocation status in real time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Attacks",
+  "body": "An attacker inserts code into a web form to read the database. This is",
+  "options": [
+   "a replay attack",
+   "ARP poisoning",
+   "cross-site scripting",
+   "SQL injection"
+  ],
+  "answer": 3,
+  "explanation": "Use parameterised queries and input validation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Attacks",
+  "body": "Malware that encrypts files and demands payment is",
+  "options": [
+   "adware",
+   "ransomware",
+   "a worm",
+   "spyware"
+  ],
+  "answer": 1,
+  "explanation": "Offline backups are a key defence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Attacks",
+  "body": "Following an authorised person through a secure door is",
+  "options": [
+   "vishing",
+   "tailgating",
+   "shoulder surfing",
+   "phishing"
+  ],
+  "answer": 1,
+  "explanation": "Mantraps and security awareness help prevent it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Attacks",
+  "body": "Phishing by voice call is",
+  "options": [
+   "whaling",
+   "vishing",
+   "pharming",
+   "smishing"
+  ],
+  "answer": 1,
+  "explanation": "Smishing is by SMS; whaling targets executives.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Attacks",
+  "body": "Malware that spreads by itself across a network is a",
+  "options": [
+   "logic bomb",
+   "Trojan",
+   "worm",
+   "keylogger"
+  ],
+  "answer": 2,
+  "explanation": "A Trojan pretends to be legitimate software.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Attacks",
+  "body": "An attack that floods a service from many compromised machines is",
+  "options": [
+   "privilege escalation",
+   "a DDoS attack",
+   "a brute-force attack",
+   "a zero-day"
+  ],
+  "answer": 1,
+  "explanation": "Botnets are often used.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Controls",
+  "body": "A firewall rule is an example of a",
+  "options": [
+   "physical control",
+   "managerial control",
+   "operational control only",
+   "technical control"
+  ],
+  "answer": 3,
+  "explanation": "Policies are managerial; locks are physical.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Controls",
+  "body": "Giving users only the access they need to do their job is",
+  "options": [
+   "least privilege",
+   "defence in depth",
+   "separation of duties",
+   "job rotation"
+  ],
+  "answer": 0,
+  "explanation": "It limits the damage from compromised accounts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Controls",
+  "body": "Requiring two people to complete a sensitive task is",
+  "options": [
+   "least privilege",
+   "implicit deny",
+   "mandatory vacation",
+   "separation of duties"
+  ],
+  "answer": 3,
+  "explanation": "It reduces the risk of fraud.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Architecture",
+  "body": "Zero trust means",
+  "options": [
+   "no passwords are needed",
+   "trust everything inside the network",
+   "only physical security matters",
+   "never trust by default; always verify"
+  ],
+  "answer": 3,
+  "explanation": "Every request is authenticated and authorised.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Architecture",
+  "body": "A network segment that hosts public-facing servers is a",
+  "options": [
+   "honeypot",
+   "VLAN trunk",
+   "air gap",
+   "screened subnet (DMZ)"
+  ],
+  "answer": 3,
+  "explanation": "It separates public services from the internal network.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Operations",
+  "body": "The incident response phase that comes after detection and analysis is",
+  "options": [
+   "preparation",
+   "recovery only",
+   "lessons learned",
+   "containment"
+  ],
+  "answer": 3,
+  "explanation": "Then eradication and recovery, then lessons learned.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Operations",
+  "body": "A SIEM is used to",
+  "options": [
+   "issue certificates",
+   "scan for open ports only",
+   "encrypt hard drives",
+   "collect and correlate security logs and alerts"
+  ],
+  "answer": 3,
+  "explanation": "It helps detect incidents.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Risk",
+  "body": "Buying cyber insurance is an example of risk",
+  "options": [
+   "transference",
+   "acceptance",
+   "mitigation",
+   "avoidance"
+  ],
+  "answer": 0,
+  "explanation": "The financial impact moves to another party.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Risk",
+  "body": "Annualised loss expectancy (ALE) equals",
+  "options": [
+   "risk × threat",
+   "asset value ÷ exposure factor",
+   "ARO ÷ SLE",
+   "single loss expectancy × annualised rate of occurrence"
+  ],
+  "answer": 3,
+  "explanation": "SLE = asset value × exposure factor.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Risk",
+  "body": "An asset is worth $20,000. A threat would destroy 10% of it and is expected 4 time(s) a year. What is the ALE?",
+  "options": [
+   "$80,000",
+   "$16,000",
+   "$8000",
+   "$2000"
+  ],
+  "answer": 2,
+  "explanation": "SLE = 20,000 × 0.1 = $2000; ALE = SLE × ARO = $8000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Risk",
+  "body": "An asset is worth $100,000. A threat would destroy 10% of it and is expected 2 time(s) a year. What is the ALE?",
+  "options": [
+   "$10,000",
+   "$200,000",
+   "$40,000",
+   "$20,000"
+  ],
+  "answer": 3,
+  "explanation": "SLE = 100,000 × 0.1 = $10,000; ALE = SLE × ARO = $20,000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Risk",
+  "body": "An asset is worth $20,000. A threat would destroy 20% of it and is expected 4 time(s) a year. What is the ALE?",
+  "options": [
+   "$80,000",
+   "$16,000",
+   "$32,000",
+   "$4000"
+  ],
+  "answer": 1,
+  "explanation": "SLE = 20,000 × 0.2 = $4000; ALE = SLE × ARO = $16,000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Risk",
+  "body": "An asset is worth $10,000. A threat would destroy 20% of it and is expected 4 time(s) a year. What is the ALE?",
+  "options": [
+   "$8000",
+   "$40,000",
+   "$16,000",
+   "$2000"
+  ],
+  "answer": 0,
+  "explanation": "SLE = 10,000 × 0.2 = $2000; ALE = SLE × ARO = $8000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Risk",
+  "body": "An asset is worth $50,000. A threat would destroy 20% of it and is expected 4 time(s) a year. What is the ALE?",
+  "options": [
+   "$200,000",
+   "$10,000",
+   "$80,000",
+   "$40,000"
+  ],
+  "answer": 3,
+  "explanation": "SLE = 50,000 × 0.2 = $10,000; ALE = SLE × ARO = $40,000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Risk",
+  "body": "An asset is worth $10,000. A threat would destroy 10% of it and is expected 2 time(s) a year. What is the ALE?",
+  "options": [
+   "$1000",
+   "$2000",
+   "$4000",
+   "$20,000"
+  ],
+  "answer": 1,
+  "explanation": "SLE = 10,000 × 0.1 = $1000; ALE = SLE × ARO = $2000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Risk",
+  "body": "An asset is worth $100,000. A threat would destroy 25% of it and is expected 4 time(s) a year. What is the ALE?",
+  "options": [
+   "$25,000",
+   "$200,000",
+   "$400,000",
+   "$100,000"
+  ],
+  "answer": 3,
+  "explanation": "SLE = 100,000 × 0.25 = $25,000; ALE = SLE × ARO = $100,000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SYP",
+  "topic": "Risk",
+  "body": "An asset is worth $20,000. A threat would destroy 10% of it and is expected 2 time(s) a year. What is the ALE?",
+  "options": [
+   "$8000",
+   "$2000",
+   "$4000",
+   "$40,000"
+  ],
+  "answer": 2,
+  "explanation": "SLE = 20,000 × 0.1 = $2000; ALE = SLE × ARO = $4000.",
+  "difficulty": 2
+ }
+]

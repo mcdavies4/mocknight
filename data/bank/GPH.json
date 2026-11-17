@@ -1,0 +1,772 @@
+[
+ {
+  "subject": "GPH",
+  "topic": "Pharmacology",
+  "body": "Metformin is contraindicated in severe renal impairment because of the risk of",
+  "options": [
+   "hyperkalaemia",
+   "hypoglycaemia",
+   "lactic acidosis",
+   "weight gain"
+  ],
+  "answer": 2,
+  "explanation": "Metformin rarely causes hypoglycaemia on its own.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmacology",
+  "body": "Which drug class ends in '-pril'?",
+  "options": [
+   "ACE inhibitors",
+   "beta blockers",
+   "proton pump inhibitors",
+   "statins"
+  ],
+  "answer": 0,
+  "explanation": "Beta blockers end in '-olol'; statins in '-statin'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmacology",
+  "body": "Which drug class ends in '-sartan'?",
+  "options": [
+   "calcium channel blockers",
+   "ACE inhibitors",
+   "diuretics",
+   "angiotensin II receptor blockers"
+  ],
+  "answer": 3,
+  "explanation": "For example losartan.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmacology",
+  "body": "A common side effect of statins to warn patients about is",
+  "options": [
+   "hair growth",
+   "muscle pain (myopathy)",
+   "constipation only",
+   "increased appetite"
+  ],
+  "answer": 1,
+  "explanation": "Rarely rhabdomyolysis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmacology",
+  "body": "Grapefruit juice can raise levels of some drugs because it inhibits",
+  "options": [
+   "CYP3A4",
+   "CYP2D6",
+   "P-glycoprotein only in the brain",
+   "MAO"
+  ],
+  "answer": 0,
+  "explanation": "For example simvastatin.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmacology",
+  "body": "Digoxin toxicity is more likely with",
+  "options": [
+   "hypercalcaemia only with diuretics stopped",
+   "hyperkalaemia",
+   "hypokalaemia",
+   "hypernatraemia"
+  ],
+  "answer": 2,
+  "explanation": "Low potassium increases digoxin binding.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmacology",
+  "body": "Which antibiotic class should generally be avoided in children because of effects on teeth and bones?",
+  "options": [
+   "Cephalosporins",
+   "Macrolides",
+   "Tetracyclines",
+   "Penicillins"
+  ],
+  "answer": 2,
+  "explanation": "They cause tooth discolouration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmacology",
+  "body": "Isotretinoin requires a pregnancy prevention programme because it is",
+  "options": [
+   "addictive",
+   "teratogenic",
+   "nephrotoxic",
+   "a controlled drug"
+  ],
+  "answer": 1,
+  "explanation": "Similar caution applies to valproate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmacology",
+  "body": "Warfarin's effect is monitored using the",
+  "options": [
+   "HbA1c",
+   "eGFR",
+   "INR",
+   "aPTT only"
+  ],
+  "answer": 2,
+  "explanation": "Many foods and drugs interact with warfarin.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmacology",
+  "body": "The first-line treatment for anaphylaxis is",
+  "options": [
+   "IV hydrocortisone alone",
+   "salbutamol inhaler",
+   "oral antihistamine",
+   "intramuscular adrenaline (epinephrine)"
+  ],
+  "answer": 3,
+  "explanation": "Give it into the anterolateral thigh.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Clinical pharmacy",
+  "body": "Which is a sign of opioid toxicity?",
+  "options": [
+   "Pinpoint pupils and slow breathing",
+   "High blood pressure and agitation",
+   "Dilated pupils and fever",
+   "Diarrhoea and sweating"
+  ],
+  "answer": 0,
+  "explanation": "Treat with naloxone.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Clinical pharmacy",
+  "body": "Paracetamol overdose mainly damages the",
+  "options": [
+   "liver",
+   "heart",
+   "lungs",
+   "kidneys only"
+  ],
+  "answer": 0,
+  "explanation": "Treat with N-acetylcysteine.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmaceutics",
+  "body": "Enteric-coated tablets should not be crushed because",
+  "options": [
+   "they taste bad",
+   "they dissolve too slowly",
+   "it is illegal",
+   "the coating protects the drug or stomach from acid"
+  ],
+  "answer": 3,
+  "explanation": "Modified-release tablets also shouldn't be crushed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmaceutics",
+  "body": "A drug with a narrow therapeutic index",
+  "options": [
+   "has no side effects",
+   "has a small margin between effective and toxic doses",
+   "is always safe",
+   "works in all patients"
+  ],
+  "answer": 1,
+  "explanation": "Examples: lithium, digoxin, warfarin, phenytoin.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmacokinetics",
+  "body": "Half-life is the time for",
+  "options": [
+   "the plasma concentration to fall by half",
+   "the dose to double",
+   "all of the drug to be removed",
+   "the drug to start working"
+  ],
+  "answer": 0,
+  "explanation": "It takes about 4–5 half-lives to reach steady state.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmacokinetics",
+  "body": "Drugs with high first-pass metabolism",
+  "options": [
+   "have 100% oral bioavailability",
+   "have low oral bioavailability",
+   "are always excreted unchanged",
+   "cannot be given IV"
+  ],
+  "answer": 1,
+  "explanation": "IV bioavailability is 100%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "A child weighs 12 kg. The dose is 15 mg/kg. What dose should be given?",
+  "options": [
+   "360 mg",
+   "0.8 mg",
+   "180 mg",
+   "27 mg"
+  ],
+  "answer": 2,
+  "explanation": "12 × 15 = 180 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "A child weighs 12 kg. The dose is 20 mg/kg. What dose should be given?",
+  "options": [
+   "0.6 mg",
+   "240 mg",
+   "480 mg",
+   "32 mg"
+  ],
+  "answer": 1,
+  "explanation": "12 × 20 = 240 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "A child weighs 15 kg. The dose is 15 mg/kg. What dose should be given?",
+  "options": [
+   "1 mg",
+   "30 mg",
+   "450 mg",
+   "225 mg"
+  ],
+  "answer": 3,
+  "explanation": "15 × 15 = 225 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "A child weighs 10 kg. The dose is 20 mg/kg. What dose should be given?",
+  "options": [
+   "0.5 mg",
+   "200 mg",
+   "30 mg",
+   "400 mg"
+  ],
+  "answer": 1,
+  "explanation": "10 × 20 = 200 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "A child weighs 20 kg. The dose is 20 mg/kg. What dose should be given?",
+  "options": [
+   "800 mg",
+   "1 mg",
+   "40 mg",
+   "400 mg"
+  ],
+  "answer": 3,
+  "explanation": "20 × 20 = 400 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "A child weighs 15 kg. The dose is 20 mg/kg. What dose should be given?",
+  "options": [
+   "35 mg",
+   "0.75 mg",
+   "600 mg",
+   "300 mg"
+  ],
+  "answer": 3,
+  "explanation": "15 × 20 = 300 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "A child weighs 25 kg. The dose is 5 mg/kg. What dose should be given?",
+  "options": [
+   "125 mg",
+   "30 mg",
+   "5 mg",
+   "250 mg"
+  ],
+  "answer": 0,
+  "explanation": "25 × 5 = 125 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "A child weighs 10 kg. The dose is 5 mg/kg. What dose should be given?",
+  "options": [
+   "50 mg",
+   "2 mg",
+   "100 mg",
+   "15 mg"
+  ],
+  "answer": 0,
+  "explanation": "10 × 5 = 50 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "A child weighs 15 kg. The dose is 10 mg/kg. What dose should be given?",
+  "options": [
+   "300 mg",
+   "150 mg",
+   "25 mg",
+   "1.5 mg"
+  ],
+  "answer": 1,
+  "explanation": "15 × 10 = 150 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "A child weighs 25 kg. The dose is 10 mg/kg. What dose should be given?",
+  "options": [
+   "2.5 mg",
+   "35 mg",
+   "500 mg",
+   "250 mg"
+  ],
+  "answer": 3,
+  "explanation": "25 × 10 = 250 mg.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "An oral suspension contains 250 mg/5 mL. How many mL give a 250 mg dose?",
+  "options": [
+   "10 mL",
+   "5 mL",
+   "1 mL",
+   "6 mL"
+  ],
+  "answer": 1,
+  "explanation": "(250 ÷ 250) × 5 = 5 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "An oral suspension contains 125 mg/5 mL. How many mL give a 500 mg dose?",
+  "options": [
+   "1.25 mL",
+   "20 mL",
+   "40 mL",
+   "4 mL"
+  ],
+  "answer": 1,
+  "explanation": "(500 ÷ 125) × 5 = 20 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "An oral suspension contains 125 mg/5 mL. How many mL give a 375 mg dose?",
+  "options": [
+   "3 mL",
+   "1.67 mL",
+   "15 mL",
+   "30 mL"
+  ],
+  "answer": 2,
+  "explanation": "(375 ÷ 125) × 5 = 15 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "An oral suspension contains 250 mg/5 mL. How many mL give a 375 mg dose?",
+  "options": [
+   "7.5 mL",
+   "15 mL",
+   "3.33 mL",
+   "1.5 mL"
+  ],
+  "answer": 0,
+  "explanation": "(375 ÷ 250) × 5 = 7.5 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "An oral suspension contains 125 mg/5 mL. How many mL give a 250 mg dose?",
+  "options": [
+   "2 mL",
+   "10 mL",
+   "2.5 mL",
+   "20 mL"
+  ],
+  "answer": 1,
+  "explanation": "(250 ÷ 125) × 5 = 10 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "An oral suspension contains 250 mg/5 mL. How many mL give a 500 mg dose?",
+  "options": [
+   "20 mL",
+   "2 mL",
+   "10 mL",
+   "2.5 mL"
+  ],
+  "answer": 2,
+  "explanation": "(500 ÷ 250) × 5 = 10 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "How many grams of drug are in 50 mL of a 10% w/v solution?",
+  "options": [
+   "50 g",
+   "5 g",
+   "500 g",
+   "0.5 g"
+  ],
+  "answer": 1,
+  "explanation": "10% w/v = 10 g per 100 mL, so 50 mL contains 5 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "How many grams of drug are in 250 mL of a 5% w/v solution?",
+  "options": [
+   "125 g",
+   "12.5 g",
+   "1.25 g",
+   "1250 g"
+  ],
+  "answer": 1,
+  "explanation": "5% w/v = 5 g per 100 mL, so 250 mL contains 12.5 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "How many grams of drug are in 100 mL of a 2% w/v solution?",
+  "options": [
+   "0.2 g",
+   "200 g",
+   "20 g",
+   "2 g"
+  ],
+  "answer": 3,
+  "explanation": "2% w/v = 2 g per 100 mL, so 100 mL contains 2 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "How many grams of drug are in 250 mL of a 2% w/v solution?",
+  "options": [
+   "0.5 g",
+   "500 g",
+   "5 g",
+   "50 g"
+  ],
+  "answer": 2,
+  "explanation": "2% w/v = 2 g per 100 mL, so 250 mL contains 5 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "How many grams of drug are in 100 mL of a 10% w/v solution?",
+  "options": [
+   "10 g",
+   "1000 g",
+   "100 g",
+   "1 g"
+  ],
+  "answer": 0,
+  "explanation": "10% w/v = 10 g per 100 mL, so 100 mL contains 10 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "How many grams of drug are in 500 mL of a 2% w/v solution?",
+  "options": [
+   "1 g",
+   "1000 g",
+   "100 g",
+   "10 g"
+  ],
+  "answer": 3,
+  "explanation": "2% w/v = 2 g per 100 mL, so 500 mL contains 10 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "How many grams of drug are in 500 mL of a 5% w/v solution?",
+  "options": [
+   "2.5 g",
+   "25 g",
+   "250 g",
+   "2500 g"
+  ],
+  "answer": 1,
+  "explanation": "5% w/v = 5 g per 100 mL, so 500 mL contains 25 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Calculations",
+  "body": "How many grams of drug are in 50 mL of a 1% w/v solution?",
+  "options": [
+   "0.5 g",
+   "0.05 g",
+   "5 g",
+   "50 g"
+  ],
+  "answer": 0,
+  "explanation": "1% w/v = 1 g per 100 mL, so 50 mL contains 0.5 g.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmacology",
+  "body": "Which drug class ends in '-prazole'?",
+  "options": [
+   "proton pump inhibitors",
+   "H2 receptor antagonists",
+   "antacids",
+   "prokinetics"
+  ],
+  "answer": 0,
+  "explanation": "For example omeprazole.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmacology",
+  "body": "Long-term use of proton pump inhibitors can lead to",
+  "options": [
+   "low magnesium and vitamin B12 levels",
+   "high blood sugar",
+   "hair loss",
+   "high potassium"
+  ],
+  "answer": 0,
+  "explanation": "Review long-term use regularly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmacology",
+  "body": "Combining a nitrate with sildenafil is dangerous because it can cause",
+  "options": [
+   "hypertension",
+   "severe hypotension",
+   "hypoglycaemia",
+   "bradycardia only"
+  ],
+  "answer": 1,
+  "explanation": "Both increase cGMP-mediated vasodilation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmacology",
+  "body": "Serotonin syndrome is a risk when combining",
+  "options": [
+   "amoxicillin with paracetamol",
+   "metformin with insulin",
+   "paracetamol with ibuprofen",
+   "an SSRI with tramadol or an MAOI"
+  ],
+  "answer": 3,
+  "explanation": "Signs: agitation, fever, clonus and hyperreflexia.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmacology",
+  "body": "Clopidogrel works by blocking the",
+  "options": [
+   "P2Y12 ADP receptor on platelets",
+   "COX enzyme",
+   "thrombin directly",
+   "vitamin K pathway"
+  ],
+  "answer": 0,
+  "explanation": "It is a prodrug activated by CYP2C19.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmacology",
+  "body": "Lithium toxicity is more likely with",
+  "options": [
+   "drinking more water",
+   "dehydration and diuretics such as thiazides",
+   "high salt intake",
+   "taking it with food"
+  ],
+  "answer": 1,
+  "explanation": "Monitor lithium levels and renal function.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmacology",
+  "body": "A key side effect of amiodarone is",
+  "options": [
+   "gum overgrowth",
+   "hair growth",
+   "hyperglycaemia only",
+   "thyroid dysfunction"
+  ],
+  "answer": 3,
+  "explanation": "Also pulmonary fibrosis and photosensitivity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmacology",
+  "body": "Gingival (gum) overgrowth is a known side effect of",
+  "options": [
+   "paracetamol",
+   "phenytoin",
+   "lisinopril",
+   "metformin"
+  ],
+  "answer": 1,
+  "explanation": "Also seen with ciclosporin and nifedipine.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Clinical pharmacy",
+  "body": "In pregnancy, which antihypertensive is commonly used?",
+  "options": [
+   "spironolactone",
+   "methyldopa or labetalol",
+   "losartan",
+   "lisinopril"
+  ],
+  "answer": 1,
+  "explanation": "ACE inhibitors and ARBs are contraindicated in pregnancy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Clinical pharmacy",
+  "body": "The usual maximum daily dose of paracetamol for a healthy adult is",
+  "options": [
+   "1 g",
+   "10 g",
+   "4 g",
+   "500 mg"
+  ],
+  "answer": 2,
+  "explanation": "Lower doses are used in low body weight or liver disease.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Clinical pharmacy",
+  "body": "Which vaccine type should be avoided in severely immunocompromised patients?",
+  "options": [
+   "mRNA vaccines",
+   "live attenuated vaccines",
+   "toxoid vaccines",
+   "inactivated vaccines"
+  ],
+  "answer": 1,
+  "explanation": "For example MMR and yellow fever.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmaceutics",
+  "body": "Insulin should generally be stored before opening",
+  "options": [
+   "in a refrigerator (2–8 °C), not frozen",
+   "in direct sunlight",
+   "in a freezer",
+   "at 40 °C"
+  ],
+  "answer": 0,
+  "explanation": "In-use pens can usually be kept at room temperature for a set time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Pharmaceutics",
+  "body": "Bioequivalence studies compare",
+  "options": [
+   "the price of two drugs",
+   "the rate and extent of absorption of two formulations",
+   "the colour of tablets",
+   "the taste of syrups"
+  ],
+  "answer": 1,
+  "explanation": "Key measures are AUC and Cmax.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Law and ethics",
+  "body": "A prescription with a potentially dangerous dosing error should be",
+  "options": [
+   "changed by the pharmacist without telling anyone",
+   "clarified with the prescriber before dispensing",
+   "dispensed as written",
+   "returned to the patient unexplained"
+  ],
+  "answer": 1,
+  "explanation": "Patient safety comes first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GPH",
+  "topic": "Law and ethics",
+  "body": "Counselling a patient on a new medicine should include",
+  "options": [
+   "nothing if it is printed on the box",
+   "the manufacturer's history",
+   "how and when to take it, key side effects and what to avoid",
+   "only the price"
+  ],
+  "answer": 2,
+  "explanation": "Check the patient's understanding.",
+  "difficulty": 2
+ }
+]

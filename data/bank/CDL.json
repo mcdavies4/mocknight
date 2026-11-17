@@ -1,0 +1,632 @@
+[
+ {
+  "subject": "CDL",
+  "topic": "Alcohol and drugs",
+  "body": "The blood alcohol concentration (BAC) limit for drivers of commercial motor vehicles is",
+  "options": [
+   "0.10%",
+   "0.04%",
+   "0.08%",
+   "0.02%"
+  ],
+  "answer": 1,
+  "explanation": "It is lower than the 0.08% limit for most car drivers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Hours of service",
+  "body": "Property-carrying drivers may drive a maximum of",
+  "options": [
+   "11 hours after 10 consecutive hours off duty",
+   "8 hours after 6 hours off",
+   "14 hours of driving",
+   "16 hours of driving"
+  ],
+  "answer": 0,
+  "explanation": "The 11 hours must fall within a 14-hour window.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Hours of service",
+  "body": "After 8 cumulative hours of driving, a property-carrying driver must take",
+  "options": [
+   "a 2-hour break",
+   "a 30-minute break",
+   "a 10-hour break",
+   "no break"
+  ],
+  "answer": 1,
+  "explanation": "This is an FMCSA hours-of-service rule.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Inspection",
+  "body": "The minimum tread depth for steer (front) tires is",
+  "options": [
+   "4/32 inch",
+   "1/32 inch",
+   "6/32 inch",
+   "2/32 inch"
+  ],
+  "answer": 0,
+  "explanation": "Other tires need at least 2/32 inch.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Inspection",
+  "body": "During a pre-trip inspection, you should check that the steering wheel play is not more than about",
+  "options": [
+   "90 degrees",
+   "zero degrees",
+   "45 degrees",
+   "10 degrees (about 2 inches on a 20-inch wheel)"
+  ],
+  "answer": 3,
+  "explanation": "Excessive play makes steering hard to control.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Inspection",
+  "body": "Which item must be checked during the pre-trip inspection?",
+  "options": [
+   "Only the radio",
+   "Only the mirrors",
+   "Brakes, lights, tires and coupling devices",
+   "Only the fuel level"
+  ],
+  "answer": 2,
+  "explanation": "A full walkaround follows a set pattern.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Space management",
+  "body": "The basic rule for following distance in a large vehicle under 40 mph is",
+  "options": [
+   "2 seconds total",
+   "1 car length",
+   "100 feet always",
+   "1 second for every 10 feet of vehicle length"
+  ],
+  "answer": 3,
+  "explanation": "Add 1 second when going over 40 mph.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Space management",
+  "body": "Why is it dangerous to drive alongside other vehicles?",
+  "options": [
+   "They may change lanes into you and you have less room to escape",
+   "It reduces blind spots",
+   "It is required on highways",
+   "It saves fuel"
+  ],
+  "answer": 0,
+  "explanation": "Keep space on all sides.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Emergencies",
+  "body": "When stopped on a two-lane road with traffic both ways, warning triangles go",
+  "options": [
+   "500 feet ahead only",
+   "10 feet, 100 feet behind and 100 feet ahead",
+   "only 10 feet behind",
+   "inside the cab"
+  ],
+  "answer": 1,
+  "explanation": "Place them within 10 minutes of stopping.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Emergencies",
+  "body": "If your brakes fail on a downgrade, you should look for",
+  "options": [
+   "a sharp bend",
+   "a parking lot",
+   "an escape ramp",
+   "the nearest exit at full speed"
+  ],
+  "answer": 2,
+  "explanation": "Escape ramps use soft gravel or sand to stop runaway trucks.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Emergencies",
+  "body": "The correct response to a front-wheel skid is to",
+  "options": [
+   "brake hard",
+   "turn the wheel sharply",
+   "speed up",
+   "take your foot off the accelerator and let the vehicle slow"
+  ],
+  "answer": 3,
+  "explanation": "Front-wheel skids are often caused by driving too fast.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Driving",
+  "body": "Total stopping distance is made up of",
+  "options": [
+   "only braking distance",
+   "perception distance, reaction distance and braking distance",
+   "reaction distance only",
+   "speed times weight"
+  ],
+  "answer": 1,
+  "explanation": "Heavier vehicles take longer to stop.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Driving",
+  "body": "When going down a long, steep downgrade, you should",
+  "options": [
+   "speed up to get it over quickly",
+   "ride the brakes the whole way",
+   "use a low gear and the engine's braking effect",
+   "shift to neutral"
+  ],
+  "answer": 2,
+  "explanation": "Select the gear before starting down the hill.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Driving",
+  "body": "Before backing a large vehicle, the safest action is to",
+  "options": [
+   "rely only on mirrors",
+   "honk and go",
+   "back quickly",
+   "get out and check the area, and use a helper if possible"
+  ],
+  "answer": 3,
+  "explanation": "Back toward the driver's side when you can.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Hazardous materials",
+  "body": "Placards are used to",
+  "options": [
+   "advertise the company",
+   "show the driver's licence class",
+   "show the weight of the load",
+   "warn others of the hazardous materials being carried"
+  ],
+  "answer": 3,
+  "explanation": "Placards go on all four sides of the vehicle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Cargo",
+  "body": "Who is responsible for checking cargo is secure?",
+  "options": [
+   "Only the shipper",
+   "Only the loader",
+   "The driver",
+   "The police"
+  ],
+  "answer": 2,
+  "explanation": "Recheck cargo early in the trip and after breaks.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Railroad crossings",
+  "body": "Which vehicles must stop at all railroad crossings?",
+  "options": [
+   "Motorcycles",
+   "All cars",
+   "Only empty trucks",
+   "Buses carrying passengers and vehicles carrying placarded hazardous materials"
+  ],
+  "answer": 3,
+  "explanation": "Stop 15 to 50 feet from the nearest rail.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Space management",
+  "body": "You are driving a 60-foot vehicle at 35 mph. What is the minimum following distance by the seconds rule?",
+  "options": [
+   "6 seconds",
+   "2 seconds",
+   "7 seconds",
+   "5 seconds"
+  ],
+  "answer": 0,
+  "explanation": "1 second per 10 feet = 6 s: 6 seconds.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Space management",
+  "body": "You are driving a 40-foot vehicle at 35 mph. What is the minimum following distance by the seconds rule?",
+  "options": [
+   "4 seconds",
+   "2 seconds",
+   "3 seconds",
+   "5 seconds"
+  ],
+  "answer": 0,
+  "explanation": "1 second per 10 feet = 4 s: 4 seconds.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Space management",
+  "body": "You are driving a 70-foot vehicle at 35 mph. What is the minimum following distance by the seconds rule?",
+  "options": [
+   "2 seconds",
+   "6 seconds",
+   "8 seconds",
+   "7 seconds"
+  ],
+  "answer": 3,
+  "explanation": "1 second per 10 feet = 7 s: 7 seconds.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Space management",
+  "body": "You are driving a 70-foot vehicle at 55 mph. What is the minimum following distance by the seconds rule?",
+  "options": [
+   "8 seconds",
+   "7 seconds",
+   "2 seconds",
+   "9 seconds"
+  ],
+  "answer": 0,
+  "explanation": "1 second per 10 feet = 7 s, plus 1 second because you are over 40 mph: 8 seconds.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Space management",
+  "body": "You are driving a 60-foot vehicle at 55 mph. What is the minimum following distance by the seconds rule?",
+  "options": [
+   "7 seconds",
+   "6 seconds",
+   "2 seconds",
+   "8 seconds"
+  ],
+  "answer": 0,
+  "explanation": "1 second per 10 feet = 6 s, plus 1 second because you are over 40 mph: 7 seconds.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Space management",
+  "body": "You are driving a 40-foot vehicle at 55 mph. What is the minimum following distance by the seconds rule?",
+  "options": [
+   "6 seconds",
+   "2 seconds",
+   "4 seconds",
+   "5 seconds"
+  ],
+  "answer": 3,
+  "explanation": "1 second per 10 feet = 4 s, plus 1 second because you are over 40 mph: 5 seconds.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Space management",
+  "body": "You are driving a 50-foot vehicle at 55 mph. What is the minimum following distance by the seconds rule?",
+  "options": [
+   "7 seconds",
+   "2 seconds",
+   "6 seconds",
+   "5 seconds"
+  ],
+  "answer": 2,
+  "explanation": "1 second per 10 feet = 5 s, plus 1 second because you are over 40 mph: 6 seconds.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Space management",
+  "body": "You are driving a 50-foot vehicle at 35 mph. What is the minimum following distance by the seconds rule?",
+  "options": [
+   "5 seconds",
+   "4 seconds",
+   "2 seconds",
+   "6 seconds"
+  ],
+  "answer": 0,
+  "explanation": "1 second per 10 feet = 5 s: 5 seconds.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Air brakes",
+  "body": "The air pressure at which the low-pressure warning must come on is at or above",
+  "options": [
+   "125 psi",
+   "60 psi",
+   "20 psi",
+   "100 psi"
+  ],
+  "answer": 1,
+  "explanation": "It must activate before pressure drops below 60 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Air brakes",
+  "body": "With the engine at fast idle, air pressure should build from 85 to 100 psi within about",
+  "options": [
+   "10 seconds in all systems",
+   "5 minutes",
+   "45 seconds in dual air systems",
+   "2 hours"
+  ],
+  "answer": 2,
+  "explanation": "Check your vehicle's specifications.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Air brakes",
+  "body": "Air tanks should be drained to remove",
+  "options": [
+   "brake fluid",
+   "coolant",
+   "water and oil",
+   "fuel"
+  ],
+  "answer": 2,
+  "explanation": "Moisture can freeze and cause brake failure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Air brakes",
+  "body": "Spring brakes come on automatically when air pressure",
+  "options": [
+   "is tested",
+   "drops to a low level",
+   "rises too high",
+   "is perfectly normal"
+  ],
+  "answer": 1,
+  "explanation": "They act as parking and emergency brakes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Driving",
+  "body": "Hydroplaning is most likely when",
+  "options": [
+   "driving fast on a wet road with low tire pressure or worn tread",
+   "driving slowly on dry roads",
+   "parking",
+   "driving uphill"
+  ],
+  "answer": 0,
+  "explanation": "Slow down and avoid hard braking.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Driving",
+  "body": "When driving at night you should",
+  "options": [
+   "keep high beams on at all times",
+   "use low beams when within 500 feet of an oncoming vehicle",
+   "turn off dash lights",
+   "drive faster to reduce time on the road"
+  ],
+  "answer": 1,
+  "explanation": "Also dim when following another vehicle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Driving",
+  "body": "The safest way to handle a tire blowout is to",
+  "options": [
+   "brake hard immediately",
+   "hold the steering wheel firmly and stay off the brake until the vehicle slows",
+   "steer sharply to the shoulder",
+   "speed up"
+  ],
+  "answer": 1,
+  "explanation": "Braking hard can cause loss of control.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Driving",
+  "body": "Before changing lanes you should",
+  "options": [
+   "only check the left mirror",
+   "change lanes quickly without signalling",
+   "check mirrors, signal early and check again",
+   "rely on other drivers to see you"
+  ],
+  "answer": 2,
+  "explanation": "Large vehicles have big blind spots.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Driving",
+  "body": "When you are driving downhill, your vehicle's speed will",
+  "options": [
+   "only change if loaded",
+   "stay the same",
+   "increase because of gravity",
+   "decrease naturally"
+  ],
+  "answer": 2,
+  "explanation": "Select a low gear before the downgrade.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Driving",
+  "body": "If you are being tailgated, you should",
+  "options": [
+   "pull over on a curve",
+   "increase your following distance ahead and avoid quick changes",
+   "brake suddenly",
+   "speed up"
+  ],
+  "answer": 1,
+  "explanation": "Give the tailgater room to pass.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Cargo",
+  "body": "Overloading a vehicle can cause",
+  "options": [
+   "better fuel economy",
+   "poor steering, braking and speed control",
+   "smoother handling",
+   "shorter stopping distances"
+  ],
+  "answer": 1,
+  "explanation": "Respect weight limits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Cargo",
+  "body": "A high centre of gravity makes a vehicle more likely to",
+  "options": [
+   "stop more quickly",
+   "use less fuel",
+   "tip over in curves",
+   "handle better"
+  ],
+  "answer": 2,
+  "explanation": "Keep heavy cargo low and centred.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Inspection",
+  "body": "If you find a defect during an inspection that makes the vehicle unsafe, you should",
+  "options": [
+   "report it next week",
+   "ignore minor brake problems",
+   "drive slowly to the next stop",
+   "not drive it until it is repaired"
+  ],
+  "answer": 3,
+  "explanation": "Driving an unsafe vehicle risks lives and penalties.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Emergencies",
+  "body": "If your vehicle catches fire, the first step is to",
+  "options": [
+   "open the cargo doors",
+   "keep driving to the next exit",
+   "pour water on a fuel fire",
+   "get off the road and stop in an open area"
+  ],
+  "answer": 3,
+  "explanation": "Use the right type of extinguisher.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Emergencies",
+  "body": "A B:C fire extinguisher is designed for",
+  "options": [
+   "electrical and burning liquid fires",
+   "metal fires",
+   "only tire fires",
+   "only wood and paper fires"
+  ],
+  "answer": 0,
+  "explanation": "Know the class of extinguisher you carry.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Alcohol and drugs",
+  "body": "If you are found with any detectable alcohol (under 0.04%) while driving a CMV, you will be placed",
+  "options": [
+   "nowhere; it is legal",
+   "out of service for 24 hours",
+   "in jail automatically",
+   "on probation for a year"
+  ],
+  "answer": 1,
+  "explanation": "0.04% or more is a federal violation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Hazardous materials",
+  "body": "Shipping papers for hazardous materials must be kept",
+  "options": [
+   "at the depot only",
+   "in the glove box of another truck",
+   "within reach of the driver while driving",
+   "in the trailer"
+  ],
+  "answer": 2,
+  "explanation": "When out of the vehicle, leave them on the driver's seat or in the door pouch.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Railroad crossings",
+  "body": "You should never",
+  "options": [
+   "look both ways",
+   "stop at a crossing",
+   "shift gears while crossing railroad tracks",
+   "slow down near tracks"
+  ],
+  "answer": 2,
+  "explanation": "Select a gear that lets you cross without shifting.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Licensing",
+  "body": "A CDL is required to drive a vehicle with a gross vehicle weight rating of",
+  "options": [
+   "26,001 pounds or more",
+   "10,000 pounds or more",
+   "any car with a trailer",
+   "5,000 pounds or more"
+  ],
+  "answer": 0,
+  "explanation": "Also for vehicles carrying 16 or more people or placarded hazmat.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CDL",
+  "topic": "Licensing",
+  "body": "Which endorsement is needed to carry hazardous materials?",
+  "options": [
+   "T",
+   "P",
+   "H",
+   "S"
+  ],
+  "answer": 2,
+  "explanation": "P is passenger, S is school bus and T is double/triple trailers.",
+  "difficulty": 2
+ }
+]

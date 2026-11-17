@@ -1,0 +1,155 @@
+// Second batch for the thinnest wave 3 banks: CSJ, CDL, OG1, USM, GPH, APL, AEN.
+import { mcq, Q } from "./lib";
+
+type F = [string, string, string, string[], string];
+const facts = (code: string, list: F[], d: 1 | 2 | 3 = 2) => list.map(([t, b, c, x, e]) => mcq(code, t, b, c, x, e, d));
+
+const CSJ: F[] = [
+  ["Working together", "A colleague takes credit for your idea in a meeting. The most effective response is to", "speak to them privately and agree how to credit shared work in future", ["call them out angrily in the meeting", "say nothing and resent it", "complain to everyone in the team"], "Address it calmly and directly."],
+  ["Working together", "Your team is split across offices and communication is poor. You should", "suggest a regular check-in and a shared place to track work", ["only talk to people in your office", "send more long emails", "wait for the manager to fix it"], "Build inclusive ways of working."],
+  ["Working together", "A colleague makes an inappropriate joke about another person's background. You should", "challenge it calmly and report it if it continues", ["laugh along", "ignore it", "share it with others"], "Everyone should feel respected at work."],
+  ["Delivering at pace", "Your manager is away and an urgent decision is needed within your authority. You should", "make the decision using the guidance available and record your reasons", ["wait until they return", "ask a friend outside work", "pass it to a junior colleague"], "Take ownership within your remit."],
+  ["Delivering at pace", "A project is behind because a supplier is late. The most effective action is to", "escalate the risk, agree a recovery plan and update stakeholders", ["hide the delay", "cancel the project", "blame the supplier publicly"], "Manage risks openly."],
+  ["Making effective decisions", "You are asked to choose between two options with similar costs. You should", "compare them against the agreed criteria and record your reasoning", ["pick the one your manager seems to like", "toss a coin", "delay the decision"], "Decisions should be transparent and evidence-based."],
+  ["Making effective decisions", "A senior colleague asks you to approve a payment that skips the usual checks. You should", "decline and explain the process that must be followed", ["approve it because they are senior", "approve it and tell no one", "approve half of it"], "Follow controls and protect public money."],
+  ["Seeing the big picture", "You learn that another team is working on something very similar to your project. You should", "contact them to share information and avoid duplication", ["compete to finish first", "ignore them", "copy their work without asking"], "Join up work across government."],
+  ["Communicating and influencing", "You must give your team some unwelcome news about a change. The best approach is to", "explain the reasons honestly and give them a chance to ask questions", ["send a short email and leave", "let them hear it from rumours", "blame senior leaders"], "Clear, honest communication builds trust."],
+  ["Communicating and influencing", "A minister's office needs a briefing by tomorrow but your expert is on leave. You should", "use the best available sources, flag any gaps and offer a follow-up", ["refuse to write it", "make up the missing details", "copy an old briefing without checking"], "Be accurate and open about limitations."],
+  ["Changing and improving", "Customers keep making the same mistake on an online form. You should", "suggest clearer wording or design and test it with users", ["blame the customers", "do nothing", "remove the form"], "Design services around users."],
+  ["Changing and improving", "A colleague suggests a new idea you think won't work. The most effective response is to", "discuss it openly and test it if the risk is low", ["dismiss it immediately", "agree and then ignore it", "report them"], "Encourage innovation."],
+  ["Leadership", "Your team is under heavy pressure and morale is low. As a manager you should", "acknowledge the pressure, reprioritise work and check on wellbeing", ["tell them to work harder", "ignore it until the project ends", "take holiday"], "Leaders support wellbeing."],
+  ["Leadership", "A team member regularly arrives late, affecting others. The best first step is to", "talk to them privately to understand the reason and agree expectations", ["shout at them in front of others", "dock their pay immediately", "ignore it"], "Address issues early and fairly."],
+  ["Values", "You find that a colleague has been sharing confidential information with a journalist. You should", "report it through the proper channels", ["confront them publicly", "tell the journalist yourself", "ignore it"], "Use the Civil Service Code's routes for raising concerns."],
+  ["Values", "You are asked to give advice that you know is not supported by the evidence. You should", "give your honest, evidence-based advice", ["say what the minister wants to hear", "refuse to give any advice", "leave the evidence out"], "Objectivity: base advice on rigorous analysis."],
+  ["Values", "A family member is bidding for a contract you are involved in. You should", "declare the conflict of interest and step back from the decision", ["help them win", "keep quiet and stay neutral", "share the other bids with them"], "Declare interests openly."],
+  ["Managing a quality service", "A vulnerable caller is distressed and confused about your service. You should", "take time to explain clearly and signpost further help", ["end the call quickly", "transfer them repeatedly", "tell them to read the website"], "Treat people with fairness and compassion."],
+  ["Developing self and others", "You have been asked to take on a task outside your experience. The most effective approach is to", "accept, ask for support and find learning resources", ["refuse outright", "pretend you know how", "delegate it all"], "Take opportunities to grow."],
+  ["Developing self and others", "A junior colleague makes a mistake that you could easily fix. The most effective response is to", "help them understand the error and how to fix it themselves", ["fix it secretly", "report them to the manager", "laugh about it"], "Develop others' capability."],
+];
+
+const CDL: F[] = [
+  ["Air brakes", "The air pressure at which the low-pressure warning must come on is at or above", "60 psi", ["20 psi", "100 psi", "125 psi"], "It must activate before pressure drops below 60 psi."],
+  ["Air brakes", "With the engine at fast idle, air pressure should build from 85 to 100 psi within about", "45 seconds in dual air systems", ["5 minutes", "10 seconds in all systems", "2 hours"], "Check your vehicle's specifications."],
+  ["Air brakes", "Air tanks should be drained to remove", "water and oil", ["brake fluid", "fuel", "coolant"], "Moisture can freeze and cause brake failure."],
+  ["Air brakes", "Spring brakes come on automatically when air pressure", "drops to a low level", ["rises too high", "is perfectly normal", "is tested"], "They act as parking and emergency brakes."],
+  ["Driving", "Hydroplaning is most likely when", "driving fast on a wet road with low tire pressure or worn tread", ["driving slowly on dry roads", "parking", "driving uphill"], "Slow down and avoid hard braking."],
+  ["Driving", "When driving at night you should", "use low beams when within 500 feet of an oncoming vehicle", ["keep high beams on at all times", "drive faster to reduce time on the road", "turn off dash lights"], "Also dim when following another vehicle."],
+  ["Driving", "The safest way to handle a tire blowout is to", "hold the steering wheel firmly and stay off the brake until the vehicle slows", ["brake hard immediately", "steer sharply to the shoulder", "speed up"], "Braking hard can cause loss of control."],
+  ["Driving", "Before changing lanes you should", "check mirrors, signal early and check again", ["only check the left mirror", "change lanes quickly without signalling", "rely on other drivers to see you"], "Large vehicles have big blind spots."],
+  ["Driving", "When you are driving downhill, your vehicle's speed will", "increase because of gravity", ["decrease naturally", "stay the same", "only change if loaded"], "Select a low gear before the downgrade."],
+  ["Driving", "If you are being tailgated, you should", "increase your following distance ahead and avoid quick changes", ["brake suddenly", "speed up", "pull over on a curve"], "Give the tailgater room to pass."],
+  ["Cargo", "Overloading a vehicle can cause", "poor steering, braking and speed control", ["better fuel economy", "smoother handling", "shorter stopping distances"], "Respect weight limits."],
+  ["Cargo", "A high centre of gravity makes a vehicle more likely to", "tip over in curves", ["stop more quickly", "use less fuel", "handle better"], "Keep heavy cargo low and centred."],
+  ["Inspection", "If you find a defect during an inspection that makes the vehicle unsafe, you should", "not drive it until it is repaired", ["drive slowly to the next stop", "report it next week", "ignore minor brake problems"], "Driving an unsafe vehicle risks lives and penalties."],
+  ["Emergencies", "If your vehicle catches fire, the first step is to", "get off the road and stop in an open area", ["keep driving to the next exit", "open the cargo doors", "pour water on a fuel fire"], "Use the right type of extinguisher."],
+  ["Emergencies", "A B:C fire extinguisher is designed for", "electrical and burning liquid fires", ["only wood and paper fires", "metal fires", "only tire fires"], "Know the class of extinguisher you carry."],
+  ["Alcohol and drugs", "If you are found with any detectable alcohol (under 0.04%) while driving a CMV, you will be placed", "out of service for 24 hours", ["on probation for a year", "in jail automatically", "nowhere; it is legal"], "0.04% or more is a federal violation."],
+  ["Hazardous materials", "Shipping papers for hazardous materials must be kept", "within reach of the driver while driving", ["in the trailer", "at the depot only", "in the glove box of another truck"], "When out of the vehicle, leave them on the driver's seat or in the door pouch."],
+  ["Railroad crossings", "You should never", "shift gears while crossing railroad tracks", ["stop at a crossing", "look both ways", "slow down near tracks"], "Select a gear that lets you cross without shifting."],
+  ["Licensing", "A CDL is required to drive a vehicle with a gross vehicle weight rating of", "26,001 pounds or more", ["5,000 pounds or more", "10,000 pounds or more", "any car with a trailer"], "Also for vehicles carrying 16 or more people or placarded hazmat."],
+  ["Licensing", "Which endorsement is needed to carry hazardous materials?", "H", ["P", "S", "T"], "P is passenger, S is school bus and T is double/triple trailers."],
+];
+
+const OG1: F[] = [
+  ["Signs", "A sign with a red circle and a diagonal line means", "the action shown is not allowed", ["the action is required", "a hospital is ahead", "a pedestrian crossing"], "For example, no left turn."],
+  ["Signs", "A diamond-shaped yellow sign is", "a warning sign", ["a regulatory sign", "a guide sign", "a school sign only"], "It warns of hazards ahead."],
+  ["Signs", "A pentagon (five-sided) sign shows", "a school zone", ["a railway crossing", "a stop ahead", "a construction zone"], "Watch for children."],
+  ["Signs", "A white X-shaped sign with red borders marks", "a railway crossing", ["a four-way stop", "a hospital", "a no-parking zone"], "Look and listen for trains."],
+  ["Signs", "A green arrow at a traffic light means", "you may turn in the direction of the arrow", ["stop", "turn only after stopping", "the light is broken"], "Yield to pedestrians still crossing."],
+  ["Signs", "A solid line on your side of the centre line means", "do not pass", ["passing is allowed", "you must stop", "parking is allowed"], "A broken line means you may pass when safe."],
+  ["Rules of the road", "When turning left at an intersection, you must yield to", "oncoming traffic and pedestrians", ["only buses", "nobody", "vehicles behind you"], "Wait until it is safe."],
+  ["Rules of the road", "At a red light, you may turn right after a complete stop unless", "a sign prohibits it", ["it is daytime", "you are in a hurry", "there is a pedestrian far away"], "Yield to pedestrians and traffic."],
+  ["Rules of the road", "When parking uphill with a curb, turn your front wheels", "away from the curb", ["toward the curb", "straight ahead", "either way"], "Turn them toward the curb when parking downhill."],
+  ["Rules of the road", "You must not park within how many metres of a fire hydrant?", "3 metres", ["1 metre", "10 metres", "30 metres"], "Fire crews need clear access."],
+  ["Rules of the road", "Unless directed otherwise, you should drive", "in the right-hand lane except when passing", ["in the left lane always", "in the centre of the road", "on the shoulder"], "Keep right except to pass."],
+  ["Rules of the road", "If you miss your exit on a highway, you should", "continue to the next exit", ["reverse on the shoulder", "stop and back up", "make a U-turn across the median"], "Never reverse on a highway."],
+  ["Rules of the road", "When a streetcar stops to let passengers on or off where there is no safety island, you must", "stop at least 2 metres behind the rear doors", ["pass on the left", "honk and pass", "drive around quickly"], "Wait until passengers reach the curb."],
+  ["Safety", "The safest way to handle a skid is to", "ease off the gas and steer where you want to go", ["brake hard", "turn the wheel sharply the other way", "accelerate"], "Don't overcorrect."],
+  ["Safety", "In fog, you should use", "low-beam headlights", ["high-beam headlights", "parking lights only", "no lights"], "High beams reflect off fog and reduce visibility."],
+  ["Safety", "Using a handheld phone while driving in Ontario is", "against the law", ["allowed at red lights", "allowed under 50 km/h", "allowed for texting only"], "Hands-free use is permitted."],
+  ["Licensing", "Ontario's graduated licensing system has", "two stages before a full G licence: G1 and G2", ["one stage", "four stages", "no stages"], "Pass the G2 road test, then the G road test."],
+  ["Licensing", "The minimum age to apply for a G1 licence is", "16", ["14", "18", "21"], "You must pass a vision test and the knowledge test."],
+  ["Licensing", "You must tell the Ministry of Transportation about a change of address within", "6 days", ["30 days", "1 year", "never"], "Keep your licence details up to date."],
+  ["Collisions", "If you are in a collision with injuries, you must", "stay at the scene and call police and ambulance", ["leave if it was not your fault", "move the injured people immediately", "drive to the hospital"], "Give help but don't move injured people unless in danger."],
+];
+
+const USM: F[] = [
+  ["Biochemistry", "Phenylketonuria is caused by deficiency of", "phenylalanine hydroxylase", ["tyrosinase", "homogentisate oxidase", "hexosaminidase A"], "Tyrosine becomes essential; avoid phenylalanine and aspartame."],
+  ["Biochemistry", "Tay–Sachs disease is caused by deficiency of", "hexosaminidase A", ["glucocerebrosidase", "sphingomyelinase", "alpha-galactosidase A"], "It shows a cherry-red macula with no hepatosplenomegaly."],
+  ["Biochemistry", "Glucose-6-phosphate dehydrogenase deficiency leads to", "haemolytic anaemia after oxidant stress", ["megaloblastic anaemia", "iron deficiency", "polycythaemia"], "Triggers include fava beans, sulfa drugs and primaquine; Heinz bodies and bite cells."],
+  ["Biochemistry", "Folate deficiency causes", "megaloblastic anaemia without neurological signs", ["microcytic anaemia", "megaloblastic anaemia with subacute combined degeneration", "haemolytic anaemia"], "B12 deficiency also causes neurological signs and raised methylmalonic acid."],
+  ["Genetics", "Fragile X syndrome is caused by", "a CGG repeat expansion in FMR1", ["a CAG repeat in HTT", "a deletion of 22q11", "trisomy 13"], "Features: intellectual disability, long face and macroorchidism."],
+  ["Genetics", "Duchenne muscular dystrophy is inherited in which pattern?", "X-linked recessive", ["Autosomal dominant", "Autosomal recessive", "Mitochondrial"], "Caused by frameshift deletions in the dystrophin gene; Gowers sign."],
+  ["Microbiology", "The organism that causes 'rice-water' diarrhoea is", "Vibrio cholerae", ["Shigella", "Salmonella Typhi", "Clostridioides difficile"], "Cholera toxin raises cAMP."],
+  ["Microbiology", "Pseudomembranous colitis after antibiotics is caused by", "Clostridioides difficile", ["Clostridium perfringens", "E. coli O157:H7", "Bacillus cereus"], "Treat with oral vancomycin or fidaximicin."],
+  ["Microbiology", "Rheumatic fever follows infection with", "group A Streptococcus (Streptococcus pyogenes)", ["Staphylococcus aureus", "Streptococcus agalactiae", "Enterococcus"], "It is a type II hypersensitivity reaction."],
+  ["Microbiology", "The causative agent of syphilis is", "Treponema pallidum", ["Neisseria gonorrhoeae", "Chlamydia trachomatis", "Haemophilus ducreyi"], "Treat with penicillin G."],
+  ["Pharmacology", "Beta-lactam antibiotics work by", "inhibiting bacterial cell wall synthesis", ["blocking the 30S ribosome", "inhibiting DNA gyrase", "blocking folate synthesis"], "They bind penicillin-binding proteins."],
+  ["Pharmacology", "Fluoroquinolones inhibit", "DNA gyrase (topoisomerase II) and topoisomerase IV", ["cell wall synthesis", "the 50S ribosome", "mycolic acid synthesis"], "Side effects include tendon rupture."],
+  ["Pharmacology", "Aminoglycosides can cause", "nephrotoxicity and ototoxicity", ["tooth discolouration", "red man syndrome", "disulfiram-like reactions"], "They bind the 30S ribosomal subunit."],
+  ["Pharmacology", "The antidote for benzodiazepine overdose is", "flumazenil", ["naloxone", "atropine", "physostigmine"], "Use with caution: it can trigger seizures."],
+  ["Pharmacology", "The antidote for organophosphate poisoning is", "atropine plus pralidoxime", ["naloxone", "flumazenil", "N-acetylcysteine"], "Organophosphates inhibit acetylcholinesterase."],
+  ["Physiology", "Antidiuretic hormone acts on the", "collecting duct to insert aquaporin-2 channels", ["proximal tubule to absorb glucose", "loop of Henle to secrete potassium", "glomerulus to raise filtration"], "It increases water reabsorption."],
+  ["Physiology", "Aldosterone increases", "sodium reabsorption and potassium secretion", ["potassium reabsorption", "calcium excretion only", "glucose reabsorption"], "It acts on principal cells of the collecting duct."],
+  ["Physiology", "The oxygen–haemoglobin curve shifts to the right with", "increased CO₂, acidity, temperature and 2,3-BPG", ["decreased temperature", "carbon monoxide", "foetal haemoglobin"], "A right shift means oxygen is released more easily."],
+  ["Pathology", "Hallmark cells in the lungs of a patient with heart failure are", "haemosiderin-laden macrophages ('heart failure cells')", ["Reed–Sternberg cells", "Langhans giant cells only", "Aschoff bodies"], "They show old alveolar haemorrhage."],
+  ["Pathology", "Aschoff bodies are characteristic of", "rheumatic heart disease", ["infective endocarditis", "myocardial infarction", "viral myocarditis"], "Anitschkow cells are also seen."],
+  ["Pathology", "Psammoma bodies are seen in", "papillary thyroid carcinoma", ["follicular thyroid carcinoma", "medullary thyroid carcinoma", "anaplastic carcinoma"], "Also in serous ovarian tumours and meningioma."],
+  ["Immunology", "Type II hypersensitivity involves", "antibodies against cell-surface antigens", ["IgE on mast cells", "immune complexes deposited in tissues", "delayed T-cell responses"], "Examples: Goodpasture syndrome and haemolytic disease of the newborn."],
+  ["Immunology", "The tuberculin skin test is an example of", "type IV (delayed) hypersensitivity", ["type I hypersensitivity", "type II hypersensitivity", "type III hypersensitivity"], "It is T-cell mediated."],
+  ["Endocrinology", "Primary hyperaldosteronism (Conn syndrome) causes", "hypertension with hypokalaemia", ["hypotension with hyperkalaemia", "hypoglycaemia", "hypercalcaemia"], "Renin levels are low."],
+  ["Endocrinology", "Addison disease causes", "hyperpigmentation, hypotension and hyperkalaemia", ["weight gain and hypertension", "hypokalaemia", "moon face"], "It is primary adrenal insufficiency with high ACTH."],
+];
+
+const GPH: F[] = [
+  ["Pharmacology", "Which drug class ends in '-prazole'?", "proton pump inhibitors", ["H2 receptor antagonists", "antacids", "prokinetics"], "For example omeprazole."],
+  ["Pharmacology", "Long-term use of proton pump inhibitors can lead to", "low magnesium and vitamin B12 levels", ["high blood sugar", "hair loss", "high potassium"], "Review long-term use regularly."],
+  ["Pharmacology", "Combining a nitrate with sildenafil is dangerous because it can cause", "severe hypotension", ["hypertension", "hypoglycaemia", "bradycardia only"], "Both increase cGMP-mediated vasodilation."],
+  ["Pharmacology", "Serotonin syndrome is a risk when combining", "an SSRI with tramadol or an MAOI", ["paracetamol with ibuprofen", "amoxicillin with paracetamol", "metformin with insulin"], "Signs: agitation, fever, clonus and hyperreflexia."],
+  ["Pharmacology", "Clopidogrel works by blocking the", "P2Y12 ADP receptor on platelets", ["COX enzyme", "vitamin K pathway", "thrombin directly"], "It is a prodrug activated by CYP2C19."],
+  ["Pharmacology", "Lithium toxicity is more likely with", "dehydration and diuretics such as thiazides", ["high salt intake", "drinking more water", "taking it with food"], "Monitor lithium levels and renal function."],
+  ["Pharmacology", "A key side effect of amiodarone is", "thyroid dysfunction", ["hair growth", "hyperglycaemia only", "gum overgrowth"], "Also pulmonary fibrosis and photosensitivity."],
+  ["Pharmacology", "Gingival (gum) overgrowth is a known side effect of", "phenytoin", ["lisinopril", "paracetamol", "metformin"], "Also seen with ciclosporin and nifedipine."],
+  ["Clinical pharmacy", "In pregnancy, which antihypertensive is commonly used?", "methyldopa or labetalol", ["lisinopril", "losartan", "spironolactone"], "ACE inhibitors and ARBs are contraindicated in pregnancy."],
+  ["Clinical pharmacy", "The usual maximum daily dose of paracetamol for a healthy adult is", "4 g", ["1 g", "10 g", "500 mg"], "Lower doses are used in low body weight or liver disease."],
+  ["Clinical pharmacy", "Which vaccine type should be avoided in severely immunocompromised patients?", "live attenuated vaccines", ["inactivated vaccines", "toxoid vaccines", "mRNA vaccines"], "For example MMR and yellow fever."],
+  ["Pharmaceutics", "Insulin should generally be stored before opening", "in a refrigerator (2–8 °C), not frozen", ["in a freezer", "in direct sunlight", "at 40 °C"], "In-use pens can usually be kept at room temperature for a set time."],
+  ["Pharmaceutics", "Bioequivalence studies compare", "the rate and extent of absorption of two formulations", ["the price of two drugs", "the colour of tablets", "the taste of syrups"], "Key measures are AUC and Cmax."],
+  ["Law and ethics", "A prescription with a potentially dangerous dosing error should be", "clarified with the prescriber before dispensing", ["dispensed as written", "changed by the pharmacist without telling anyone", "returned to the patient unexplained"], "Patient safety comes first."],
+  ["Law and ethics", "Counselling a patient on a new medicine should include", "how and when to take it, key side effects and what to avoid", ["only the price", "the manufacturer's history", "nothing if it is printed on the box"], "Check the patient's understanding."],
+];
+
+const APL: F[] = [
+  ["Ports", "FTP uses ports", "20 and 21", ["22 and 23", "80 and 443", "67 and 68"], "SFTP runs over SSH on port 22."],
+  ["Ports", "DHCP uses ports", "67 and 68", ["53 and 54", "20 and 21", "161 and 162"], "SNMP uses 161 and 162."],
+  ["Ports", "IMAP uses port", "143", ["110", "25", "993 only"], "IMAPS uses 993; POP3S uses 995."],
+  ["Hardware", "Which type of display uses a backlight?", "LCD", ["OLED", "CRT", "e-ink only"], "OLED pixels produce their own light."],
+  ["Hardware", "Which is the fastest type of storage for a typical desktop?", "NVMe SSD", ["SATA HDD", "USB 2.0 flash drive", "DVD"], "NVMe uses PCIe lanes."],
+  ["Hardware", "A UPS provides", "battery backup power during outages", ["extra RAM", "faster internet", "cooling"], "It also protects against brownouts."],
+  ["Hardware", "Which printer type uses a ribbon and pins to print multipart forms?", "Impact (dot matrix)", ["Laser", "Inkjet", "Thermal"], "Thermal printers use heat-sensitive paper."],
+  ["Mobile", "Which mobile feature lets a phone share its internet connection?", "a hotspot (tethering)", ["NFC", "Bluetooth pairing only", "airplane mode"], "It can drain the battery quickly."],
+  ["Mobile", "NFC is commonly used for", "contactless payments", ["long-range Wi-Fi", "GPS", "charging only"], "It works over a few centimetres."],
+  ["Virtualisation", "A hypervisor that runs directly on hardware is", "Type 1", ["Type 2", "a container", "an emulator only"], "Type 2 hypervisors run on a host operating system."],
+  ["Operating systems", "Which Windows tool shows running processes and performance?", "Task Manager", ["Disk Management", "Device Manager", "Event Viewer"], "Event Viewer shows logs."],
+  ["Operating systems", "Which Windows file system supports permissions and large files?", "NTFS", ["FAT32", "exFAT only", "ext4"], "FAT32 has a 4 GB file size limit."],
+  ["Operating systems", "On macOS, the tool for backups is", "Time Machine", ["System Restore", "BitLocker", "Finder Sync"], "System Restore is a Windows feature."],
+  ["Security", "BitLocker is used to", "encrypt Windows drives", ["remove malware", "create backups", "speed up boot"], "FileVault does this on macOS."],
+  ["Troubleshooting", "A user can reach websites by IP address but not by name. The likely problem is", "DNS", ["DHCP", "the network cable", "the monitor"], "Check the DNS server settings."],
+];
+
+const AEN: F[] = [
+  ["Vocabulary in context", "'The data were insufficient to draw a conclusion.' 'Insufficient' means", "not enough", ["too much", "accurate", "confusing"], "The opposite is sufficient."],
+  ["Vocabulary in context", "'The policy had a profound effect on education.' 'Profound' means", "very great or deep", ["slight", "temporary", "negative"], "A profound effect is significant."],
+  ["Vocabulary in context", "'The species is indigenous to Brazil.' 'Indigenous' means", "native to", ["imported from", "extinct in", "dangerous in"], "Indigenous species occur naturally there."],
+  ["Vocabulary in context", "'The scientist sought to verify the claim.' 'Verify' means", "check that it is true", ["reject", "publish", "invent"], "Verification confirms accuracy."],
+  ["Vocabulary in context", "'Rapid urbanisation has many implications.' 'Implications' means", "possible effects or results", ["laws", "causes only", "statistics"], "What follows from something."],
+  ["Academic phrases", "Which phrase introduces an example?", "For instance", ["Nevertheless", "In conclusion", "Conversely"], "Also: for example, such as."],
+  ["Academic phrases", "Which phrase introduces a conclusion?", "In summary", ["Moreover", "For example", "Despite this"], "Also: to conclude, overall."],
+  ["Grammar", "Which sentence is correct?", "Neither the students nor the teacher was late.", ["Neither the students nor the teacher were late.", "Neither the students or the teacher was late.", "Neither students nor the teacher late."], "With neither/nor, the verb agrees with the nearer subject."],
+  ["Grammar", "Choose the correct word: 'The number of applicants ___ increased.'", "has", ["have", "are", "were"], "'The number' is singular; 'a number of' takes a plural verb."],
+  ["Reading skills", "A writer's 'purpose' is", "why they wrote the text, such as to inform or persuade", ["the number of words", "the title", "the publication date"], "Look at tone and language choices."],
+];
+
+export function wave3b(): Record<string, Q[]> {
+  return { CSJ: facts("CSJ", CSJ), CDL: facts("CDL", CDL), OG1: facts("OG1", OG1), USM: facts("USM", USM), GPH: facts("GPH", GPH), APL: facts("APL", APL), AEN: facts("AEN", AEN) };
+}

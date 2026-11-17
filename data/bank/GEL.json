@@ -1,0 +1,394 @@
+[
+ {
+  "subject": "GEL",
+  "topic": "Language techniques",
+  "body": "'The wind howled through the trees' uses",
+  "options": [
+   "personification",
+   "hyperbole",
+   "alliteration",
+   "a simile"
+  ],
+  "answer": 0,
+  "explanation": "Giving human qualities to something non-human.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Language techniques",
+  "body": "'Her smile was as bright as the sun' is a",
+  "options": [
+   "oxymoron",
+   "metaphor",
+   "personification",
+   "simile"
+  ],
+  "answer": 3,
+  "explanation": "A simile compares using 'like' or 'as'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Language techniques",
+  "body": "'Time is a thief' is a",
+  "options": [
+   "simile",
+   "rhetorical question",
+   "onomatopoeia",
+   "metaphor"
+  ],
+  "answer": 3,
+  "explanation": "A metaphor says one thing is another.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Language techniques",
+  "body": "'Buzz', 'crash' and 'sizzle' are examples of",
+  "options": [
+   "alliteration",
+   "sibilance",
+   "assonance",
+   "onomatopoeia"
+  ],
+  "answer": 3,
+  "explanation": "Words that sound like what they describe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Language techniques",
+  "body": "'Peter Piper picked a peck' uses",
+  "options": [
+   "pathetic fallacy",
+   "assonance",
+   "a metaphor",
+   "alliteration"
+  ],
+  "answer": 3,
+  "explanation": "Repeated consonant sounds at the start of nearby words.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Language techniques",
+  "body": "'I've told you a million times' is an example of",
+  "options": [
+   "a simile",
+   "understatement",
+   "irony",
+   "hyperbole"
+  ],
+  "answer": 3,
+  "explanation": "Deliberate exaggeration for effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Language techniques",
+  "body": "Weather that reflects a character's mood is called",
+  "options": [
+   "pathetic fallacy",
+   "juxtaposition",
+   "foreshadowing",
+   "personification"
+  ],
+  "answer": 0,
+  "explanation": "For example, a storm during an argument.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Language techniques",
+  "body": "Placing two contrasting ideas side by side is",
+  "options": [
+   "alliteration",
+   "a cliffhanger",
+   "repetition",
+   "juxtaposition"
+  ],
+  "answer": 3,
+  "explanation": "It highlights the differences.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Language techniques",
+  "body": "'Deafening silence' is an example of",
+  "options": [
+   "hyperbole",
+   "a simile",
+   "onomatopoeia",
+   "an oxymoron"
+  ],
+  "answer": 3,
+  "explanation": "Two contradictory words together.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Language techniques",
+  "body": "A question asked for effect, not for an answer, is a",
+  "options": [
+   "tag question",
+   "direct question",
+   "rhetorical question",
+   "closed question"
+  ],
+  "answer": 2,
+  "explanation": "Common in persuasive writing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Structure",
+  "body": "Hinting at events that will happen later is",
+  "options": [
+   "foreshadowing",
+   "a flashback",
+   "a resolution",
+   "a cliffhanger"
+  ],
+  "answer": 0,
+  "explanation": "It builds suspense.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Structure",
+  "body": "A scene that goes back to earlier events is a",
+  "options": [
+   "flashback",
+   "monologue",
+   "foreshadowing",
+   "climax"
+  ],
+  "answer": 0,
+  "explanation": "It gives background information.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Structure",
+  "body": "A story told using 'I' is written in the",
+  "options": [
+   "omniscient voice",
+   "first person",
+   "second person",
+   "third person"
+  ],
+  "answer": 1,
+  "explanation": "Third person uses he, she or they.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Structure",
+  "body": "A very short sentence used for impact is often used to",
+  "options": [
+   "create tension or emphasis",
+   "slow the pace with detail",
+   "list information",
+   "introduce a quote"
+  ],
+  "answer": 0,
+  "explanation": "Short sentences speed up the pace.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Persuasive writing",
+  "body": "Which belongs in a formal letter?",
+  "options": [
+   "Slang",
+   "Text speak",
+   "A clear opening and a formal sign-off such as 'Yours sincerely'",
+   "Emojis"
+  ],
+  "answer": 2,
+  "explanation": "Use 'Yours faithfully' if you began 'Dear Sir or Madam'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Persuasive writing",
+  "body": "If a letter begins 'Dear Sir or Madam', it should end",
+  "options": [
+   "Cheers",
+   "Best wishes",
+   "Yours faithfully",
+   "Yours sincerely"
+  ],
+  "answer": 2,
+  "explanation": "Use 'Yours sincerely' when you use the person's name.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Persuasive writing",
+  "body": "Using facts and statistics in an argument mainly",
+  "options": [
+   "confuses the reader",
+   "removes the need for a conclusion",
+   "makes the argument more convincing",
+   "makes the text informal"
+  ],
+  "answer": 2,
+  "explanation": "Pair evidence with explanation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Punctuation",
+  "body": "Which sentence uses an apostrophe correctly?",
+  "options": [
+   "The dog wagged it's tail.",
+   "The dog wagged its tail.",
+   "The dogs' wagged their tails.",
+   "The dog's wagged it's tail."
+  ],
+  "answer": 1,
+  "explanation": "'It's' only means 'it is' or 'it has'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Punctuation",
+  "body": "Which sentence shows possession for more than one girl?",
+  "options": [
+   "The girls' coats were wet.",
+   "The girls's coats were wet.",
+   "The girls coats' were wet.",
+   "The girl's coats were wet."
+  ],
+  "answer": 0,
+  "explanation": "Plural ending in s: put the apostrophe after the s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Punctuation",
+  "body": "A semicolon can be used to",
+  "options": [
+   "join two closely linked main clauses",
+   "show possession",
+   "end a question",
+   "start a list"
+  ],
+  "answer": 0,
+  "explanation": "For example: 'It was late; we went home.'",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Punctuation",
+  "body": "A colon is often used to",
+  "options": [
+   "end a sentence",
+   "introduce a list or an explanation",
+   "show a missing letter",
+   "join two subjects"
+  ],
+  "answer": 1,
+  "explanation": "For example: 'You need three things: a pen, a ruler and paper.'",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Spelling",
+  "body": "Which is spelt correctly?",
+  "options": [
+   "neccessary",
+   "necesary",
+   "necessary",
+   "neccesary"
+  ],
+  "answer": 2,
+  "explanation": "One collar (c), two sleeves (ss).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Spelling",
+  "body": "Which is correct: 'They left ___ bags over ___.'?",
+  "options": [
+   "their, there",
+   "there, their",
+   "they're, there",
+   "their, they're"
+  ],
+  "answer": 0,
+  "explanation": "Their = belonging to them; there = place.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Grammar",
+  "body": "Which is correct?",
+  "options": [
+   "I should have went.",
+   "I should of gone.",
+   "I should have gone.",
+   "I should've went."
+  ],
+  "answer": 2,
+  "explanation": "'Should of' is a mishearing of 'should've'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Grammar",
+  "body": "A word that describes a noun is",
+  "options": [
+   "an adverb",
+   "an adjective",
+   "a pronoun",
+   "a verb"
+  ],
+  "answer": 1,
+  "explanation": "Adverbs describe verbs, adjectives or other adverbs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Grammar",
+  "body": "In 'She ran quickly', the word 'quickly' is",
+  "options": [
+   "a conjunction",
+   "an adjective",
+   "an adverb",
+   "a noun"
+  ],
+  "answer": 2,
+  "explanation": "It describes how she ran.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Exam skills",
+  "body": "When analysing language, the best approach is to",
+  "options": [
+   "give your opinion of the writer",
+   "retell the story",
+   "quote, name the technique and explain its effect",
+   "only list techniques"
+  ],
+  "answer": 2,
+  "explanation": "Zoom in on individual words for top marks.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GEL",
+  "topic": "Exam skills",
+  "body": "To pass GCSE English Language, the commonly required standard pass is",
+  "options": [
+   "grade 9 only",
+   "grade C+ only",
+   "grade 1",
+   "grade 4"
+  ],
+  "answer": 3,
+  "explanation": "Grade 5 is a 'strong pass'.",
+  "difficulty": 2
+ }
+]

@@ -1,0 +1,590 @@
+[
+ {
+  "subject": "OG1",
+  "topic": "G1 rules",
+  "body": "A G1 driver must be accompanied by a fully licensed driver with at least",
+  "options": [
+   "10 years",
+   "4 years of driving experience",
+   "1 year",
+   "2 years"
+  ],
+  "answer": 1,
+  "explanation": "The accompanying driver sits in the front passenger seat.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "G1 rules",
+  "body": "G1 drivers may NOT drive",
+  "options": [
+   "between midnight and 5 a.m.",
+   "on weekends",
+   "on city streets",
+   "in the rain"
+  ],
+  "answer": 0,
+  "explanation": "They also cannot drive on 400-series highways or high-speed expressways.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "G1 rules",
+  "body": "The blood alcohol level for a G1 driver must be",
+  "options": [
+   "under 0.08",
+   "zero",
+   "under 0.02",
+   "under 0.05"
+  ],
+  "answer": 1,
+  "explanation": "Novice drivers must have zero alcohol.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "G1 rules",
+  "body": "The accompanying driver's blood alcohol level must be under",
+  "options": [
+   "0.05",
+   "0.10",
+   "0.08",
+   "0.02"
+  ],
+  "answer": 0,
+  "explanation": "The accompanying driver must also be fit to drive.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "G1 rules",
+  "body": "The minimum time at the G1 level before taking the G2 road test is",
+  "options": [
+   "3 months",
+   "24 months",
+   "6 weeks",
+   "12 months, or 8 months with an approved driver education course"
+  ],
+  "answer": 3,
+  "explanation": "Driver education can shorten the wait.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Speed",
+  "body": "Unless otherwise posted, the maximum speed in cities, towns and villages in Ontario is",
+  "options": [
+   "50 km/h",
+   "60 km/h",
+   "80 km/h",
+   "40 km/h"
+  ],
+  "answer": 0,
+  "explanation": "Outside built-up areas the default is 80 km/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Speed",
+  "body": "Unless otherwise posted, the maximum speed outside cities, towns and villages is",
+  "options": [
+   "100 km/h",
+   "90 km/h",
+   "50 km/h",
+   "80 km/h"
+  ],
+  "answer": 3,
+  "explanation": "Many highways post 90 or 100 km/h.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "School buses",
+  "body": "When a school bus has its red lights flashing and you approach from behind, you must stop at least",
+  "options": [
+   "5 metres away",
+   "1 metre away",
+   "50 metres away",
+   "20 metres away"
+  ],
+  "answer": 3,
+  "explanation": "On roads without a median, traffic in both directions must stop.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Lights",
+  "body": "You must use headlights from",
+  "options": [
+   "only after midnight",
+   "only in winter",
+   "half an hour before sunset to half an hour after sunrise",
+   "only in rain"
+  ],
+  "answer": 2,
+  "explanation": "And whenever visibility is poor.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Lights",
+  "body": "You must dim your high beams when an oncoming vehicle is within",
+  "options": [
+   "500 metres",
+   "50 metres",
+   "1 kilometre",
+   "150 metres"
+  ],
+  "answer": 3,
+  "explanation": "Dim them when following within 60 metres.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Following distance",
+  "body": "In good conditions, keep a following distance of at least",
+  "options": [
+   "5 seconds",
+   "1 car length",
+   "1 second",
+   "2 seconds"
+  ],
+  "answer": 3,
+  "explanation": "Increase it in bad weather.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Pedestrians",
+  "body": "At a pedestrian crossover, drivers must",
+  "options": [
+   "only stop if the light is red",
+   "slow down and drive around them",
+   "stop and wait until the pedestrian has completely crossed the road",
+   "honk to warn them"
+  ],
+  "answer": 2,
+  "explanation": "Fines are doubled in community safety zones.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Emergency vehicles",
+  "body": "When an emergency vehicle with flashing lights or a siren approaches from any direction, you must",
+  "options": [
+   "pull to the right and stop",
+   "stop in the middle of the road",
+   "speed up",
+   "continue driving normally"
+  ],
+  "answer": 0,
+  "explanation": "Stay stopped until it has passed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Emergency vehicles",
+  "body": "When passing a stopped emergency vehicle or tow truck with lights flashing, you must",
+  "options": [
+   "slow down and move over a lane if it is safe",
+   "stop completely in your lane",
+   "honk",
+   "speed up to clear the area"
+  ],
+  "answer": 0,
+  "explanation": "This is Ontario's 'move over' law.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Children",
+  "body": "A child must use a booster seat until they reach any one of: age 8, weight 36 kg, or height",
+  "options": [
+   "120 cm",
+   "100 cm",
+   "160 cm",
+   "145 cm"
+  ],
+  "answer": 3,
+  "explanation": "The driver is responsible for passengers under 16 being buckled up.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Seatbelts",
+  "body": "Who is responsible for making sure passengers under 16 wear a seatbelt?",
+  "options": [
+   "The passenger",
+   "The passenger's parent only",
+   "The driver",
+   "The police"
+  ],
+  "answer": 2,
+  "explanation": "Passengers 16 and over are responsible for themselves.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Signs",
+  "body": "A red octagon sign means",
+  "options": [
+   "do not enter",
+   "school zone",
+   "yield",
+   "stop"
+  ],
+  "answer": 3,
+  "explanation": "Come to a complete stop.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Signs",
+  "body": "A downward-pointing triangle, red and white, means",
+  "options": [
+   "stop",
+   "railway crossing",
+   "no parking",
+   "yield the right-of-way"
+  ],
+  "answer": 3,
+  "explanation": "Slow down and let traffic with the right-of-way go first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Signs",
+  "body": "An orange sign usually indicates",
+  "options": [
+   "a tourist area",
+   "a hospital",
+   "a construction zone",
+   "a school zone"
+  ],
+  "answer": 2,
+  "explanation": "Fines are increased in construction zones when workers are present.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Intersections",
+  "body": "At a four-way stop, if two vehicles arrive at the same time, the right-of-way goes to",
+  "options": [
+   "the faster vehicle",
+   "the larger vehicle",
+   "the vehicle on the right",
+   "the vehicle on the left"
+  ],
+  "answer": 2,
+  "explanation": "Otherwise the first to stop goes first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Intersections",
+  "body": "A flashing red light means",
+  "options": [
+   "come to a complete stop, then go when safe",
+   "slow down only",
+   "the light is broken, so ignore it",
+   "speed up"
+  ],
+  "answer": 0,
+  "explanation": "Treat it like a stop sign.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Intersections",
+  "body": "A flashing yellow light means",
+  "options": [
+   "stop",
+   "turn right only",
+   "proceed with caution",
+   "no entry"
+  ],
+  "answer": 2,
+  "explanation": "Slow down and watch for hazards.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Signs",
+  "body": "A sign with a red circle and a diagonal line means",
+  "options": [
+   "the action shown is not allowed",
+   "a hospital is ahead",
+   "the action is required",
+   "a pedestrian crossing"
+  ],
+  "answer": 0,
+  "explanation": "For example, no left turn.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Signs",
+  "body": "A diamond-shaped yellow sign is",
+  "options": [
+   "a warning sign",
+   "a school sign only",
+   "a guide sign",
+   "a regulatory sign"
+  ],
+  "answer": 0,
+  "explanation": "It warns of hazards ahead.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Signs",
+  "body": "A pentagon (five-sided) sign shows",
+  "options": [
+   "a construction zone",
+   "a stop ahead",
+   "a school zone",
+   "a railway crossing"
+  ],
+  "answer": 2,
+  "explanation": "Watch for children.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Signs",
+  "body": "A white X-shaped sign with red borders marks",
+  "options": [
+   "a no-parking zone",
+   "a hospital",
+   "a railway crossing",
+   "a four-way stop"
+  ],
+  "answer": 2,
+  "explanation": "Look and listen for trains.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Signs",
+  "body": "A green arrow at a traffic light means",
+  "options": [
+   "turn only after stopping",
+   "stop",
+   "you may turn in the direction of the arrow",
+   "the light is broken"
+  ],
+  "answer": 2,
+  "explanation": "Yield to pedestrians still crossing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Signs",
+  "body": "A solid line on your side of the centre line means",
+  "options": [
+   "do not pass",
+   "passing is allowed",
+   "you must stop",
+   "parking is allowed"
+  ],
+  "answer": 0,
+  "explanation": "A broken line means you may pass when safe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Rules of the road",
+  "body": "When turning left at an intersection, you must yield to",
+  "options": [
+   "nobody",
+   "only buses",
+   "vehicles behind you",
+   "oncoming traffic and pedestrians"
+  ],
+  "answer": 3,
+  "explanation": "Wait until it is safe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Rules of the road",
+  "body": "At a red light, you may turn right after a complete stop unless",
+  "options": [
+   "it is daytime",
+   "there is a pedestrian far away",
+   "a sign prohibits it",
+   "you are in a hurry"
+  ],
+  "answer": 2,
+  "explanation": "Yield to pedestrians and traffic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Rules of the road",
+  "body": "When parking uphill with a curb, turn your front wheels",
+  "options": [
+   "either way",
+   "away from the curb",
+   "toward the curb",
+   "straight ahead"
+  ],
+  "answer": 1,
+  "explanation": "Turn them toward the curb when parking downhill.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Rules of the road",
+  "body": "You must not park within how many metres of a fire hydrant?",
+  "options": [
+   "30 metres",
+   "1 metre",
+   "3 metres",
+   "10 metres"
+  ],
+  "answer": 2,
+  "explanation": "Fire crews need clear access.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Rules of the road",
+  "body": "Unless directed otherwise, you should drive",
+  "options": [
+   "in the right-hand lane except when passing",
+   "in the left lane always",
+   "on the shoulder",
+   "in the centre of the road"
+  ],
+  "answer": 0,
+  "explanation": "Keep right except to pass.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Rules of the road",
+  "body": "If you miss your exit on a highway, you should",
+  "options": [
+   "stop and back up",
+   "continue to the next exit",
+   "reverse on the shoulder",
+   "make a U-turn across the median"
+  ],
+  "answer": 1,
+  "explanation": "Never reverse on a highway.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Rules of the road",
+  "body": "When a streetcar stops to let passengers on or off where there is no safety island, you must",
+  "options": [
+   "drive around quickly",
+   "stop at least 2 metres behind the rear doors",
+   "honk and pass",
+   "pass on the left"
+  ],
+  "answer": 1,
+  "explanation": "Wait until passengers reach the curb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Safety",
+  "body": "The safest way to handle a skid is to",
+  "options": [
+   "brake hard",
+   "accelerate",
+   "ease off the gas and steer where you want to go",
+   "turn the wheel sharply the other way"
+  ],
+  "answer": 2,
+  "explanation": "Don't overcorrect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Safety",
+  "body": "In fog, you should use",
+  "options": [
+   "low-beam headlights",
+   "no lights",
+   "high-beam headlights",
+   "parking lights only"
+  ],
+  "answer": 0,
+  "explanation": "High beams reflect off fog and reduce visibility.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Safety",
+  "body": "Using a handheld phone while driving in Ontario is",
+  "options": [
+   "against the law",
+   "allowed for texting only",
+   "allowed at red lights",
+   "allowed under 50 km/h"
+  ],
+  "answer": 0,
+  "explanation": "Hands-free use is permitted.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Licensing",
+  "body": "Ontario's graduated licensing system has",
+  "options": [
+   "two stages before a full G licence: G1 and G2",
+   "one stage",
+   "no stages",
+   "four stages"
+  ],
+  "answer": 0,
+  "explanation": "Pass the G2 road test, then the G road test.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Licensing",
+  "body": "The minimum age to apply for a G1 licence is",
+  "options": [
+   "21",
+   "18",
+   "16",
+   "14"
+  ],
+  "answer": 2,
+  "explanation": "You must pass a vision test and the knowledge test.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Licensing",
+  "body": "You must tell the Ministry of Transportation about a change of address within",
+  "options": [
+   "30 days",
+   "1 year",
+   "6 days",
+   "never"
+  ],
+  "answer": 2,
+  "explanation": "Keep your licence details up to date.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OG1",
+  "topic": "Collisions",
+  "body": "If you are in a collision with injuries, you must",
+  "options": [
+   "leave if it was not your fault",
+   "move the injured people immediately",
+   "drive to the hospital",
+   "stay at the scene and call police and ambulance"
+  ],
+  "answer": 3,
+  "explanation": "Give help but don't move injured people unless in danger.",
+  "difficulty": 2
+ }
+]
