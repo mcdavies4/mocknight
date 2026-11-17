@@ -1,7 +1,7 @@
 import { ImageResponse } from "next/og";
 
 // Preview image shown when a Mock Night link is shared (WhatsApp, X, LinkedIn, Google Discover).
-export const alt = "Mock Night — exam practice for 80+ exams";
+export const alt = "Mock Night — exam practice for 90+ exams";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -15,7 +15,7 @@ export default function OG() {
         </div>
         <div style={{ display: "flex", flexDirection: "column", gap: 18 }}>
           <div style={{ fontSize: 76, fontWeight: 800, lineHeight: 1.05 }}>Pass your exam with daily practice.</div>
-          <div style={{ fontSize: 34, color: "#BFD8C9" }}>Timed mock tests and clear explanations for 80+ exams: JAMB, WAEC, UK driving theory, Life in the UK, NMC CBT, PLAB, AWS and more.</div>
+          <div style={{ fontSize: 34, color: "#BFD8C9" }}>Timed mock tests and clear explanations for 90+ exams: JAMB, WAEC, UK driving theory, Life in the UK, NMC CBT, PLAB, AWS and more.</div>
         </div>
         <div style={{ fontSize: 28, color: "#8FB9A2" }}>On the web and Telegram · Free to start</div>
       </div>

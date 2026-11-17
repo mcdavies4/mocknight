@@ -5,7 +5,7 @@ export default function manifest(): MetadataRoute.Manifest {
   return {
     name: "Mock Night — exam practice",
     short_name: "Mock Night",
-    description: "Daily questions, timed practice tests and clear explanations for 80+ exams.",
+    description: "Daily questions, timed practice tests and clear explanations for 90+ exams.",
     id: "/app",
     start_url: "/app?source=pwa",
     scope: "/",

@@ -11,7 +11,7 @@ const GTM_ID = "GTM-NZNH49C5";
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: "Mock Night | Exam practice questions and timed mock tests",
-  description: "Practice questions, timed mock tests and clear explanations for 80+ exams: JAMB, WAEC, UK driving theory, Life in the UK, NMC CBT, PLAB, IELTS, AWS and more. On the web and Telegram.",
+  description: "Practice questions, timed mock tests and clear explanations for 90+ exams: JAMB, WAEC, UK driving theory, Life in the UK, NMC CBT, PLAB, IELTS, AWS and more. On the web and Telegram.",
   alternates: { canonical: "./" },
   openGraph: { type: "website", siteName: "Mock Night", locale: "en_GB" },
   twitter: { card: "summary_large_image" },
