@@ -1,0 +1,310 @@
+[
+ {
+  "subject": "PIC",
+  "topic": "PIC role",
+  "body": "Every food establishment in Dubai must have",
+  "options": [
+   "a PIC only during inspections",
+   "at least one certified Person in Charge (PIC)",
+   "a PIC only for large hotels",
+   "no food safety staff"
+  ],
+  "answer": 1,
+  "explanation": "The PIC supervises food safety on site.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "PIC role",
+  "body": "The Person in Charge should be",
+  "options": [
+   "on site during operating hours to supervise food safety",
+   "present once a month",
+   "the owner only",
+   "a delivery driver"
+  ],
+  "answer": 0,
+  "explanation": "They make sure food safety practices are followed every shift.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "HACCP",
+  "body": "The first principle of HACCP is to",
+  "options": [
+   "take corrective action",
+   "keep records",
+   "conduct a hazard analysis",
+   "set critical limits"
+  ],
+  "answer": 2,
+  "explanation": "Then identify critical control points.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "HACCP",
+  "body": "A critical control point (CCP) is",
+  "options": [
+   "a step where control is essential to prevent or remove a food safety hazard",
+   "the delivery entrance",
+   "any step in the kitchen",
+   "the menu price"
+  ],
+  "answer": 0,
+  "explanation": "Cooking is a common CCP.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "HACCP",
+  "body": "A critical limit is",
+  "options": [
+   "the maximum or minimum value that must be met at a CCP",
+   "the price of food",
+   "the shelf life of a product",
+   "the number of staff on duty"
+  ],
+  "answer": 0,
+  "explanation": "For example, a minimum core cooking temperature.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "HACCP",
+  "body": "When monitoring shows a critical limit has not been met, staff must",
+  "options": [
+   "ignore it",
+   "serve the food quickly",
+   "take the planned corrective action",
+   "change the record"
+  ],
+  "answer": 2,
+  "explanation": "Then record what was done.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "HACCP",
+  "body": "The seven HACCP principles end with",
+  "options": [
+   "record-keeping and documentation",
+   "staff rota",
+   "pricing",
+   "menu design"
+  ],
+  "answer": 0,
+  "explanation": "Verification is the sixth principle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Hazards",
+  "body": "A hair or piece of glass in food is a",
+  "options": [
+   "physical hazard",
+   "chemical hazard",
+   "allergenic hazard only",
+   "biological hazard"
+  ],
+  "answer": 0,
+  "explanation": "Biological hazards include bacteria and viruses.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Hazards",
+  "body": "Cleaning chemicals getting into food is a",
+  "options": [
+   "chemical hazard",
+   "physical hazard",
+   "biological hazard",
+   "temperature hazard"
+  ],
+  "answer": 0,
+  "explanation": "Store chemicals away from food.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Hazards",
+  "body": "Cross-contamination happens when",
+  "options": [
+   "hands are washed",
+   "food is chilled",
+   "food is cooked properly",
+   "harmful bacteria spread from raw food to ready-to-eat food"
+  ],
+  "answer": 3,
+  "explanation": "Separate raw and ready-to-eat foods, equipment and boards.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Temperature control",
+  "body": "The temperature 'danger zone', where bacteria grow fastest, is commonly defined as",
+  "options": [
+   "60 °C to 100 °C",
+   "−18 °C to 0 °C",
+   "5 °C to 60 °C",
+   "0 °C to 1 °C"
+  ],
+  "answer": 2,
+  "explanation": "Keep cold food cold and hot food hot.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Temperature control",
+  "body": "The safest way to thaw frozen meat is",
+  "options": [
+   "on the kitchen counter overnight",
+   "in warm water",
+   "in direct sunlight",
+   "in the refrigerator"
+  ],
+  "answer": 3,
+  "explanation": "Plan ahead and keep it below 5 °C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Temperature control",
+  "body": "Cooked food that will be stored should be",
+  "options": [
+   "left out to cool slowly",
+   "covered and left at room temperature",
+   "cooled quickly and refrigerated",
+   "kept warm all day"
+  ],
+  "answer": 2,
+  "explanation": "Slow cooling allows bacteria to grow.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Temperature control",
+  "body": "A probe thermometer should be",
+  "options": [
+   "stored in raw meat",
+   "cleaned and sanitised before and after use",
+   "used without cleaning",
+   "used only once a year"
+  ],
+  "answer": 1,
+  "explanation": "Check calibration regularly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Storage",
+  "body": "Stock should be rotated using",
+  "options": [
+   "first in, first out (FIFO)",
+   "last in, first out",
+   "random order",
+   "newest first"
+  ],
+  "answer": 0,
+  "explanation": "Use older stock first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Storage",
+  "body": "In a refrigerator, raw meat should be stored",
+  "options": [
+   "next to salads",
+   "on the bottom shelf, below ready-to-eat food",
+   "uncovered",
+   "on the top shelf"
+  ],
+  "answer": 1,
+  "explanation": "This prevents drips contaminating other food.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Storage",
+  "body": "A 'use by' date means",
+  "options": [
+   "the date it was delivered",
+   "the food must not be used after that date",
+   "the date it was made",
+   "the food is best quality before that date"
+  ],
+  "answer": 1,
+  "explanation": "'Best before' relates to quality, not safety.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Personal hygiene",
+  "body": "Food handlers must wash their hands",
+  "options": [
+   "before handling food, after using the toilet and after handling raw food or waste",
+   "only at the start of the shift",
+   "only when visibly dirty",
+   "only after breaks"
+  ],
+  "answer": 0,
+  "explanation": "Use soap and warm water and dry thoroughly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Personal hygiene",
+  "body": "A food handler with vomiting or diarrhoea should",
+  "options": [
+   "work but wear gloves",
+   "report it and stay away from food handling",
+   "only avoid serving customers",
+   "work if they feel able"
+  ],
+  "answer": 1,
+  "explanation": "They can spread foodborne illness.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Personal hygiene",
+  "body": "Food handlers should",
+  "options": [
+   "wear rings and watches",
+   "wear clean uniforms and hair restraints and avoid jewellery",
+   "touch their hair often",
+   "wear outdoor clothes"
+  ],
+  "answer": 1,
+  "explanation": "This reduces physical and biological hazards.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Cleaning",
+  "body": "Sanitising differs from cleaning because it",
+  "options": [
+   "only removes visible dirt",
+   "is not needed in kitchens",
+   "reduces microorganisms to a safe level",
+   "is done with water only"
+  ],
+  "answer": 2,
+  "explanation": "Clean first, then sanitise.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PIC",
+  "topic": "Pests",
+  "body": "Signs of a pest problem include",
+  "options": [
+   "clean floors",
+   "sealed containers",
+   "droppings, gnawed packaging and nesting material",
+   "cold storage"
+  ],
+  "answer": 2,
+  "explanation": "Report pests immediately and use a licensed pest control company.",
+  "difficulty": 2
+ }
+]

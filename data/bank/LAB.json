@@ -1,0 +1,506 @@
+[
+ {
+  "subject": "LAB",
+  "topic": "Specimen collection",
+  "body": "A full blood count (CBC) is collected in which tube?",
+  "options": [
+   "EDTA (lavender top)",
+   "sodium citrate (light blue)",
+   "fluoride oxalate (grey)",
+   "lithium heparin (green)"
+  ],
+  "answer": 0,
+  "explanation": "EDTA chelates calcium and preserves cell morphology.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Specimen collection",
+  "body": "Coagulation tests such as PT/INR use which tube?",
+  "options": [
+   "EDTA (lavender)",
+   "fluoride (grey)",
+   "serum (red/gold)",
+   "sodium citrate (light blue top)"
+  ],
+  "answer": 3,
+  "explanation": "The tube must be filled correctly for the 9:1 ratio.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Specimen collection",
+  "body": "Glucose is best preserved in which tube?",
+  "options": [
+   "fluoride oxalate (grey top)",
+   "plain serum tube",
+   "citrate (light blue)",
+   "EDTA (lavender)"
+  ],
+  "answer": 0,
+  "explanation": "Fluoride inhibits glycolysis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Specimen collection",
+  "body": "In the recommended order of draw, which is collected first?",
+  "options": [
+   "Fluoride tube",
+   "Blood culture bottles",
+   "EDTA tube",
+   "Serum tube"
+  ],
+  "answer": 1,
+  "explanation": "Then citrate, serum, heparin, EDTA, fluoride.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Specimen collection",
+  "body": "Haemolysis of a sample falsely increases",
+  "options": [
+   "sodium",
+   "potassium",
+   "albumin",
+   "glucose"
+  ],
+  "answer": 1,
+  "explanation": "Red cells contain high potassium.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Clinical chemistry",
+  "body": "HbA1c reflects average blood glucose over about",
+  "options": [
+   "2 weeks",
+   "2–3 days",
+   "2–3 months",
+   "1 year"
+  ],
+  "answer": 2,
+  "explanation": "It reflects red cell lifespan.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Clinical chemistry",
+  "body": "A raised troponin indicates",
+  "options": [
+   "liver disease",
+   "pancreatitis",
+   "heart muscle damage",
+   "kidney failure"
+  ],
+  "answer": 2,
+  "explanation": "It is the preferred marker for myocardial infarction.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Clinical chemistry",
+  "body": "Raised amylase and lipase suggest",
+  "options": [
+   "acute pancreatitis",
+   "myocardial infarction",
+   "hepatitis",
+   "gout"
+  ],
+  "answer": 0,
+  "explanation": "Lipase is more specific.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Clinical chemistry",
+  "body": "Creatinine is mainly used to assess",
+  "options": [
+   "liver function",
+   "thyroid function",
+   "clotting",
+   "kidney function"
+  ],
+  "answer": 3,
+  "explanation": "eGFR is calculated from it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Haematology",
+  "body": "The normal lifespan of a red blood cell is about",
+  "options": [
+   "30 days",
+   "7 days",
+   "120 days",
+   "1 year"
+  ],
+  "answer": 2,
+  "explanation": "Old cells are removed by the spleen.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Haematology",
+  "body": "Microcytic, hypochromic anaemia is most often caused by",
+  "options": [
+   "haemolysis only",
+   "folate deficiency",
+   "iron deficiency",
+   "vitamin B12 deficiency"
+  ],
+  "answer": 2,
+  "explanation": "Low MCV and MCH.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Haematology",
+  "body": "Macrocytic (high MCV) anaemia is typical of",
+  "options": [
+   "acute blood loss",
+   "thalassaemia trait",
+   "vitamin B12 or folate deficiency",
+   "iron deficiency"
+  ],
+  "answer": 2,
+  "explanation": "Hypersegmented neutrophils may be seen.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Blood bank",
+  "body": "The universal donor for red blood cells is",
+  "options": [
+   "AB Rh positive",
+   "A Rh negative",
+   "B Rh positive",
+   "O Rh negative"
+  ],
+  "answer": 3,
+  "explanation": "It has no A, B or D antigens.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Blood bank",
+  "body": "The universal donor for plasma is",
+  "options": [
+   "AB",
+   "A",
+   "B",
+   "O"
+  ],
+  "answer": 0,
+  "explanation": "AB plasma has no anti-A or anti-B.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Blood bank",
+  "body": "A person with blood group A has which antibodies in their plasma?",
+  "options": [
+   "anti-A",
+   "anti-B",
+   "anti-A and anti-B",
+   "none"
+  ],
+  "answer": 1,
+  "explanation": "Group O has both anti-A and anti-B.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Microbiology",
+  "body": "The correct order of Gram stain reagents is",
+  "options": [
+   "crystal violet, safranin, iodine, alcohol",
+   "crystal violet, iodine, decolouriser, safranin",
+   "iodine, crystal violet, safranin, alcohol",
+   "safranin, iodine, crystal violet, alcohol"
+  ],
+  "answer": 1,
+  "explanation": "Gram-positive organisms stay purple.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Microbiology",
+  "body": "Lactose-fermenting colonies on MacConkey agar appear",
+  "options": [
+   "colourless",
+   "green",
+   "black",
+   "pink"
+  ],
+  "answer": 3,
+  "explanation": "Non-fermenters are pale or colourless.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Microbiology",
+  "body": "Complete (clear) haemolysis on blood agar is called",
+  "options": [
+   "beta haemolysis",
+   "delta haemolysis",
+   "gamma haemolysis",
+   "alpha haemolysis"
+  ],
+  "answer": 0,
+  "explanation": "Alpha is partial (greenish); gamma is none.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Microbiology",
+  "body": "Acid-fast bacilli such as Mycobacterium tuberculosis are stained with",
+  "options": [
+   "Giemsa stain",
+   "Gram stain",
+   "Ziehl–Neelsen stain",
+   "India ink"
+  ],
+  "answer": 2,
+  "explanation": "They resist decolourisation with acid-alcohol.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Microbiology",
+  "body": "Chocolate agar is used to grow fastidious organisms such as",
+  "options": [
+   "E. coli only",
+   "Staphylococcus only",
+   "Haemophilus and Neisseria",
+   "fungi only"
+  ],
+  "answer": 2,
+  "explanation": "It is heated blood agar that releases growth factors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Quality control",
+  "body": "Under Westgard rules, a single control value beyond ±3 SD (1-3s) means",
+  "options": [
+   "accept the run",
+   "repeat the patient test without action",
+   "reject the run",
+   "a warning only"
+  ],
+  "answer": 2,
+  "explanation": "1-2s is a warning rule.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Quality control",
+  "body": "Accuracy describes how close a result is to the",
+  "options": [
+   "upper limit",
+   "true value",
+   "previous result",
+   "mean of the controls only"
+  ],
+  "answer": 1,
+  "explanation": "Precision describes repeatability.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Safety",
+  "body": "Before spinning tubes in a centrifuge, you must",
+  "options": [
+   "fill every slot",
+   "balance the load",
+   "spin it empty first",
+   "leave the lid open"
+  ],
+  "answer": 1,
+  "explanation": "An unbalanced centrifuge can be dangerous.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Calculations",
+  "body": "A glucose result is 180 mg/dL. What is it in mmol/L? (divide by 18)",
+  "options": [
+   "10 mmol/L",
+   "3240 mmol/L",
+   "20 mmol/L",
+   "18 mmol/L"
+  ],
+  "answer": 0,
+  "explanation": "180 ÷ 18 = 10 mmol/L.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LAB",
+  "topic": "Calculations",
+  "body": "A glucose result is 270 mg/dL. What is it in mmol/L? (divide by 18)",
+  "options": [
+   "30 mmol/L",
+   "15 mmol/L",
+   "4860 mmol/L",
+   "27 mmol/L"
+  ],
+  "answer": 1,
+  "explanation": "270 ÷ 18 = 15 mmol/L.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LAB",
+  "topic": "Calculations",
+  "body": "A glucose result is 126 mg/dL. What is it in mmol/L? (divide by 18)",
+  "options": [
+   "14 mmol/L",
+   "7 mmol/L",
+   "12.6 mmol/L",
+   "2268 mmol/L"
+  ],
+  "answer": 1,
+  "explanation": "126 ÷ 18 = 7 mmol/L.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LAB",
+  "topic": "Calculations",
+  "body": "A glucose result is 90 mg/dL. What is it in mmol/L? (divide by 18)",
+  "options": [
+   "10 mmol/L",
+   "9 mmol/L",
+   "1620 mmol/L",
+   "5 mmol/L"
+  ],
+  "answer": 3,
+  "explanation": "90 ÷ 18 = 5 mmol/L.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LAB",
+  "topic": "Calculations",
+  "body": "A glucose result is 216 mg/dL. What is it in mmol/L? (divide by 18)",
+  "options": [
+   "12 mmol/L",
+   "3888 mmol/L",
+   "24 mmol/L",
+   "21.6 mmol/L"
+  ],
+  "answer": 0,
+  "explanation": "216 ÷ 18 = 12 mmol/L.",
+  "difficulty": 1
+ },
+ {
+  "subject": "LAB",
+  "topic": "Calculations",
+  "body": "How much of a 500 mg/L stock is needed to make 100 mL of a 50 mg/L solution?",
+  "options": [
+   "1000 mL",
+   "90 mL",
+   "100 mL",
+   "10 mL"
+  ],
+  "answer": 3,
+  "explanation": "C1V1 = C2V2: V1 = 50 × 100 ÷ 500 = 10 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Calculations",
+  "body": "How much of a 100 mg/L stock is needed to make 250 mL of a 10 mg/L solution?",
+  "options": [
+   "25 mL",
+   "2500 mL",
+   "250 mL",
+   "225 mL"
+  ],
+  "answer": 0,
+  "explanation": "C1V1 = C2V2: V1 = 10 × 250 ÷ 100 = 25 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Calculations",
+  "body": "How much of a 200 mg/L stock is needed to make 250 mL of a 50 mg/L solution?",
+  "options": [
+   "1000 mL",
+   "187.5 mL",
+   "625 mL",
+   "62.5 mL"
+  ],
+  "answer": 3,
+  "explanation": "C1V1 = C2V2: V1 = 50 × 250 ÷ 200 = 62.5 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Calculations",
+  "body": "How much of a 1000 mg/L stock is needed to make 100 mL of a 100 mg/L solution?",
+  "options": [
+   "100 mL",
+   "10 mL",
+   "1000 mL",
+   "90 mL"
+  ],
+  "answer": 1,
+  "explanation": "C1V1 = C2V2: V1 = 100 × 100 ÷ 1000 = 10 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Calculations",
+  "body": "How much of a 1000 mg/L stock is needed to make 50 mL of a 200 mg/L solution?",
+  "options": [
+   "100 mL",
+   "250 mL",
+   "10 mL",
+   "40 mL"
+  ],
+  "answer": 2,
+  "explanation": "C1V1 = C2V2: V1 = 200 × 50 ÷ 1000 = 10 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Calculations",
+  "body": "How much of a 500 mg/L stock is needed to make 100 mL of a 100 mg/L solution?",
+  "options": [
+   "80 mL",
+   "200 mL",
+   "500 mL",
+   "20 mL"
+  ],
+  "answer": 3,
+  "explanation": "C1V1 = C2V2: V1 = 100 × 100 ÷ 500 = 20 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Calculations",
+  "body": "How much of a 100 mg/L stock is needed to make 250 mL of a 20 mg/L solution?",
+  "options": [
+   "50 mL",
+   "500 mL",
+   "200 mL",
+   "1250 mL"
+  ],
+  "answer": 0,
+  "explanation": "C1V1 = C2V2: V1 = 20 × 250 ÷ 100 = 50 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LAB",
+  "topic": "Calculations",
+  "body": "How much of a 100 mg/L stock is needed to make 50 mL of a 25 mg/L solution?",
+  "options": [
+   "200 mL",
+   "125 mL",
+   "37.5 mL",
+   "12.5 mL"
+  ],
+  "answer": 3,
+  "explanation": "C1V1 = C2V2: V1 = 25 × 50 ÷ 100 = 12.5 mL.",
+  "difficulty": 2
+ }
+]

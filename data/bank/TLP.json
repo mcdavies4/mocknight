@@ -1,0 +1,338 @@
+[
+ {
+  "subject": "TLP",
+  "topic": "Bloom's taxonomy",
+  "body": "In the revised Bloom's taxonomy, the highest level is",
+  "options": [
+   "analyse",
+   "remember",
+   "create",
+   "evaluate"
+  ],
+  "answer": 2,
+  "explanation": "Remember, understand, apply, analyse, evaluate, create.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Bloom's taxonomy",
+  "body": "Asking students to compare two historical sources mainly targets",
+  "options": [
+   "remembering",
+   "creating",
+   "analysis",
+   "understanding only"
+  ],
+  "answer": 2,
+  "explanation": "Comparing requires breaking information into parts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Bloom's taxonomy",
+  "body": "Which learning objective is at the 'remember' level?",
+  "options": [
+   "List the planets in order from the Sun.",
+   "Design a model of the solar system.",
+   "Compare two planets' climates.",
+   "Evaluate the evidence for a theory."
+  ],
+  "answer": 0,
+  "explanation": "Remembering is recalling facts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Planning",
+  "body": "A well-written learning objective should be",
+  "options": [
+   "only about the teacher's actions",
+   "specific and measurable (SMART)",
+   "the same for every lesson",
+   "vague so it fits any lesson"
+  ],
+  "answer": 1,
+  "explanation": "It describes what students will be able to do.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Planning",
+  "body": "Backward design (Wiggins and McTighe) starts by",
+  "options": [
+   "picking the textbook",
+   "choosing activities",
+   "identifying the desired results",
+   "writing the test last"
+  ],
+  "answer": 2,
+  "explanation": "Then plan assessment evidence, then learning activities.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Differentiation",
+  "body": "Differentiation means adapting",
+  "options": [
+   "nothing; one lesson fits all",
+   "only the seating plan",
+   "grades so everyone passes",
+   "content, process or product to meet different learners' needs"
+  ],
+  "answer": 3,
+  "explanation": "It is planned in response to assessment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Differentiation",
+  "body": "Universal Design for Learning (UDL) recommends",
+  "options": [
+   "multiple means of engagement, representation and expression",
+   "removing assessment",
+   "one method for all learners",
+   "teaching only to the middle"
+  ],
+  "answer": 0,
+  "explanation": "It plans for variability from the start.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Inclusion",
+  "body": "In the UAE, the term used for people with disabilities is",
+  "options": [
+   "People of Determination",
+   "the disabled group",
+   "special people",
+   "slow learners"
+  ],
+  "answer": 0,
+  "explanation": "It reflects the UAE's inclusive education policy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Inclusion",
+  "body": "An Individual Education Plan (IEP) sets out",
+  "options": [
+   "the school timetable",
+   "staff salaries",
+   "exam dates only",
+   "specific goals and support for a learner with additional needs"
+  ],
+  "answer": 3,
+  "explanation": "It is reviewed regularly with parents.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Inclusion",
+  "body": "Supporting students learning in a second language works best with",
+  "options": [
+   "visuals, modelling and key vocabulary taught explicitly",
+   "avoiding group work",
+   "speaking faster",
+   "only written instructions"
+  ],
+  "answer": 0,
+  "explanation": "Scaffold language as well as content.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Assessment",
+  "body": "Formative assessment is mainly used to",
+  "options": [
+   "rank students at the end of the year",
+   "award certificates",
+   "adjust teaching during learning",
+   "report to the ministry only"
+  ],
+  "answer": 2,
+  "explanation": "Examples: exit tickets, questioning, mini whiteboards.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Assessment",
+  "body": "A rubric helps by",
+  "options": [
+   "removing the need for objectives",
+   "replacing feedback",
+   "hiding expectations",
+   "making success criteria clear and marking consistent"
+  ],
+  "answer": 3,
+  "explanation": "Share it with students before the task.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Assessment",
+  "body": "Effective feedback is",
+  "options": [
+   "a grade only",
+   "given weeks later",
+   "specific, timely and tells the learner how to improve",
+   "general praise only"
+  ],
+  "answer": 2,
+  "explanation": "Feedback should move learning forward.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Questioning",
+  "body": "Waiting a few seconds after asking a question ('wait time')",
+  "options": [
+   "only helps the fastest students",
+   "leads to more thoughtful answers from more students",
+   "wastes lesson time",
+   "confuses students"
+  ],
+  "answer": 1,
+  "explanation": "Aim for at least three seconds.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Questioning",
+  "body": "Which is an open question?",
+  "options": [
+   "Is this sentence correct?",
+   "What year did it happen?",
+   "Why do you think the character made that choice?",
+   "What is 6 × 7?"
+  ],
+  "answer": 2,
+  "explanation": "Open questions invite reasoning and longer answers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Classroom management",
+  "body": "The most effective way to prevent behaviour problems is to",
+  "options": [
+   "shout when students misbehave",
+   "set clear routines and expectations from the start",
+   "ignore all behaviour",
+   "give extra homework as punishment"
+  ],
+  "answer": 1,
+  "explanation": "Proactive management beats reactive.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Classroom management",
+  "body": "Praising a specific positive behaviour is an example of",
+  "options": [
+   "negative punishment",
+   "modelling only",
+   "positive reinforcement",
+   "extinction"
+  ],
+  "answer": 2,
+  "explanation": "It makes the behaviour more likely to happen again.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Strategies",
+  "body": "In a jigsaw activity, students",
+  "options": [
+   "take a test first",
+   "copy the teacher's notes",
+   "each learn one part and teach it to their group",
+   "work alone in silence"
+  ],
+  "answer": 2,
+  "explanation": "It builds interdependence and accountability.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Strategies",
+  "body": "In a flipped classroom, students",
+  "options": [
+   "only listen to lectures in class",
+   "do homework only in class",
+   "never use technology",
+   "study new content at home and practise in class"
+  ],
+  "answer": 3,
+  "explanation": "Class time is used for active learning.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Strategies",
+  "body": "Inquiry-based learning begins with",
+  "options": [
+   "a question or problem for students to investigate",
+   "a test",
+   "memorising definitions",
+   "a lecture"
+  ],
+  "answer": 0,
+  "explanation": "Students build understanding through investigation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Strategies",
+  "body": "Metacognition means",
+  "options": [
+   "learning by repetition only",
+   "group work",
+   "thinking about your own thinking and learning",
+   "memorising facts"
+  ],
+  "answer": 2,
+  "explanation": "Teach students to plan, monitor and evaluate their learning.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Theory",
+  "body": "The idea that ability can grow with effort is called a",
+  "options": [
+   "growth mindset",
+   "learning style",
+   "multiple intelligence",
+   "fixed mindset"
+  ],
+  "answer": 0,
+  "explanation": "Carol Dweck's research.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Theory",
+  "body": "Kolb's experiential learning cycle includes concrete experience, reflection, conceptualisation and",
+  "options": [
+   "standardised testing",
+   "active experimentation",
+   "punishment",
+   "memorisation"
+  ],
+  "answer": 1,
+  "explanation": "Learning comes from transforming experience.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TLP",
+  "topic": "Professional practice",
+  "body": "Safeguarding concerns about a student should be",
+  "options": [
+   "investigated alone by the teacher",
+   "discussed with other students",
+   "reported to the designated safeguarding lead without delay",
+   "kept secret"
+  ],
+  "answer": 2,
+  "explanation": "Follow the school's child protection policy.",
+  "difficulty": 2
+ }
+]

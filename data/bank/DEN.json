@@ -1,0 +1,282 @@
+[
+ {
+  "subject": "DEN",
+  "topic": "Dental anatomy",
+  "body": "How many permanent teeth does an adult usually have?",
+  "options": [
+   "36",
+   "20",
+   "28 always",
+   "32"
+  ],
+  "answer": 3,
+  "explanation": "Including third molars.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Dental anatomy",
+  "body": "How many primary (deciduous) teeth are there?",
+  "options": [
+   "24",
+   "20",
+   "32",
+   "16"
+  ],
+  "answer": 1,
+  "explanation": "There are no premolars in the primary dentition.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Dental anatomy",
+  "body": "In FDI notation, tooth 11 is the",
+  "options": [
+   "lower right central incisor",
+   "upper right central incisor",
+   "upper left central incisor",
+   "upper right first molar"
+  ],
+  "answer": 1,
+  "explanation": "The first digit is the quadrant; the second is the tooth.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Dental anatomy",
+  "body": "The first permanent molars usually erupt at about age",
+  "options": [
+   "2",
+   "18",
+   "6",
+   "12"
+  ],
+  "answer": 2,
+  "explanation": "Second molars erupt around 12.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Dental anatomy",
+  "body": "The hardest substance in the human body is",
+  "options": [
+   "enamel",
+   "dentine",
+   "bone",
+   "cementum"
+  ],
+  "answer": 0,
+  "explanation": "It is highly mineralised hydroxyapatite.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Cariology",
+  "body": "The bacterium most associated with dental caries is",
+  "options": [
+   "Porphyromonas gingivalis",
+   "Staphylococcus aureus",
+   "Candida albicans",
+   "Streptococcus mutans"
+  ],
+  "answer": 3,
+  "explanation": "It ferments sugars and produces acid.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Cariology",
+  "body": "Fluoride helps prevent caries mainly by",
+  "options": [
+   "whitening teeth",
+   "increasing saliva",
+   "promoting remineralisation and forming fluorapatite",
+   "killing all oral bacteria"
+  ],
+  "answer": 2,
+  "explanation": "Fluorapatite is more acid-resistant.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Operative",
+  "body": "In G.V. Black's classification, a Class II cavity involves",
+  "options": [
+   "proximal surfaces of anterior teeth without the incisal angle",
+   "pits and fissures only",
+   "the proximal surfaces of premolars and molars",
+   "the cervical third"
+  ],
+  "answer": 2,
+  "explanation": "Class I is pits and fissures; Class V is cervical.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Operative",
+  "body": "A Class IV cavity involves",
+  "options": [
+   "occlusal pits",
+   "the cervical third only",
+   "posterior proximal surfaces",
+   "proximal surfaces of anterior teeth including the incisal angle"
+  ],
+  "answer": 3,
+  "explanation": "Class III does not include the incisal angle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Operative",
+  "body": "Glass ionomer cement is useful because it",
+  "options": [
+   "releases fluoride and bonds chemically to tooth structure",
+   "contains mercury",
+   "never needs isolation",
+   "is the strongest posterior material"
+  ],
+  "answer": 0,
+  "explanation": "Often used in children and for cervical lesions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Endodontics",
+  "body": "Pain that lingers after a cold stimulus suggests",
+  "options": [
+   "reversible pulpitis",
+   "gingivitis",
+   "irreversible pulpitis",
+   "a healthy pulp"
+  ],
+  "answer": 2,
+  "explanation": "Reversible pulpitis pain stops when the stimulus is removed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Endodontics",
+  "body": "The most commonly used root canal irrigant is",
+  "options": [
+   "hydrogen peroxide only",
+   "sodium hypochlorite",
+   "saline only",
+   "alcohol"
+  ],
+  "answer": 1,
+  "explanation": "It dissolves organic tissue and is antimicrobial.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Endodontics",
+  "body": "Root canals are most commonly filled (obturated) with",
+  "options": [
+   "gutta-percha and sealer",
+   "amalgam",
+   "composite only",
+   "glass ionomer only"
+  ],
+  "answer": 0,
+  "explanation": "This seals the canal system.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Periodontics",
+  "body": "The key difference between periodontitis and gingivitis is",
+  "options": [
+   "pain in gingivitis",
+   "loss of attachment and bone in periodontitis",
+   "bleeding only in periodontitis",
+   "no plaque in periodontitis"
+  ],
+  "answer": 1,
+  "explanation": "Gingivitis is reversible.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Periodontics",
+  "body": "A healthy gingival sulcus probing depth is usually",
+  "options": [
+   "1–3 mm",
+   "8–10 mm",
+   "5–7 mm",
+   "0 mm"
+  ],
+  "answer": 0,
+  "explanation": "Deeper pockets suggest periodontal disease.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Oral surgery",
+  "body": "Dry socket (alveolar osteitis) usually appears",
+  "options": [
+   "during the extraction",
+   "after 6 months",
+   "only in children",
+   "2–4 days after an extraction"
+  ],
+  "answer": 3,
+  "explanation": "It presents with severe pain and an empty socket.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Oral surgery",
+  "body": "An inferior alveolar nerve block anaesthetises",
+  "options": [
+   "maxillary teeth",
+   "mandibular teeth on that side",
+   "the whole tongue on both sides",
+   "the upper lip"
+  ],
+  "answer": 1,
+  "explanation": "The lingual nerve is often anaesthetised too.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Orthodontics",
+  "body": "In Angle's classification, Class II malocclusion means the lower first molar is",
+  "options": [
+   "in a normal relationship",
+   "distal to the upper first molar",
+   "mesial to the upper first molar",
+   "missing"
+  ],
+  "answer": 1,
+  "explanation": "Class III is the reverse.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Paediatric dentistry",
+  "body": "An avulsed permanent tooth should be",
+  "options": [
+   "replanted as soon as possible, or stored in milk",
+   "scrubbed clean and kept dry",
+   "stored in tap water for days",
+   "thrown away"
+  ],
+  "answer": 0,
+  "explanation": "Handle it by the crown, not the root.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DEN",
+  "topic": "Infection control",
+  "body": "Dental handpieces should be",
+  "options": [
+   "sterilised between patients",
+   "reused without cleaning",
+   "soaked in mouthwash",
+   "wiped with water only"
+  ],
+  "answer": 0,
+  "explanation": "Follow standard infection control precautions.",
+  "difficulty": 2
+ }
+]

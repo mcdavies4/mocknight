@@ -1,0 +1,492 @@
+[
+ {
+  "subject": "UDR",
+  "topic": "Rules of the road",
+  "body": "In the UAE, vehicles drive on the",
+  "options": [
+   "left-hand side",
+   "either side",
+   "middle of the road",
+   "right-hand side of the road"
+  ],
+  "answer": 3,
+  "explanation": "Overtake on the left.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Rules of the road",
+  "body": "On a multi-lane highway, you should normally",
+  "options": [
+   "drive on the shoulder when busy",
+   "change lanes often",
+   "drive in the far-left lane",
+   "keep to the right and use the left lane for overtaking"
+  ],
+  "answer": 3,
+  "explanation": "The left lane is the fast lane.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Rules of the road",
+  "body": "At a roundabout, you must give way to",
+  "options": [
+   "vehicles already in the roundabout",
+   "vehicles waiting to enter",
+   "nobody",
+   "only buses"
+  ],
+  "answer": 0,
+  "explanation": "Use your indicator when leaving.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Rules of the road",
+  "body": "Overtaking is NOT allowed",
+  "options": [
+   "on a two-lane highway",
+   "when the road ahead is clear",
+   "on bends, at the top of hills, at pedestrian crossings or over a solid line",
+   "on straight roads with a broken line"
+  ],
+  "answer": 2,
+  "explanation": "You must be able to see the road ahead is clear.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Rules of the road",
+  "body": "When an ambulance, police car or fire engine approaches with lights and siren, you should",
+  "options": [
+   "move aside safely and let it pass",
+   "stop in your lane immediately",
+   "follow closely behind it",
+   "speed up to stay ahead"
+  ],
+  "answer": 0,
+  "explanation": "Never block emergency vehicles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Rules of the road",
+  "body": "When a school bus stops and extends its stop sign, drivers must",
+  "options": [
+   "stop and wait until the sign is withdrawn",
+   "pass carefully on the left",
+   "slow down only",
+   "sound the horn and continue"
+  ],
+  "answer": 0,
+  "explanation": "Children may be crossing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Rules of the road",
+  "body": "At a pedestrian crossing with people waiting, you must",
+  "options": [
+   "sound your horn",
+   "stop and let them cross",
+   "flash your lights and continue",
+   "speed up to pass first"
+  ],
+  "answer": 1,
+  "explanation": "Pedestrians have priority at crossings.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Safety",
+  "body": "In the UAE, seatbelts must be worn by",
+  "options": [
+   "only on highways",
+   "only front-seat occupants",
+   "only the driver",
+   "the driver and all passengers, front and rear"
+  ],
+  "answer": 3,
+  "explanation": "This has been required since 2017.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Safety",
+  "body": "Young children (aged 4 and under) must travel in",
+  "options": [
+   "any seat without restraint",
+   "a suitable child safety seat",
+   "the front seat on an adult's lap",
+   "the front seat with a belt"
+  ],
+  "answer": 1,
+  "explanation": "Children under 10 or shorter than 145 cm should not sit in the front seat.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Safety",
+  "body": "The legal blood alcohol limit for driving in the UAE is",
+  "options": [
+   "0.08%",
+   "0.05%",
+   "0.02%",
+   "zero"
+  ],
+  "answer": 3,
+  "explanation": "The UAE has zero tolerance for drink-driving.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Safety",
+  "body": "Using a handheld mobile phone while driving is",
+  "options": [
+   "an offence that brings fines and black points",
+   "allowed for calls only",
+   "allowed below 40 km/h",
+   "allowed at traffic lights"
+  ],
+  "answer": 0,
+  "explanation": "Use hands-free only when safe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Safety",
+  "body": "Tailgating (following too closely) is dangerous because",
+  "options": [
+   "it helps traffic flow",
+   "it saves fuel",
+   "you won't have time to stop if the vehicle ahead brakes",
+   "it is required on highways"
+  ],
+  "answer": 2,
+  "explanation": "Keep at least a two-second gap, more in poor conditions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Weather",
+  "body": "In fog, you should",
+  "options": [
+   "speed up to get out of it",
+   "drive close to the car in front",
+   "use high beams",
+   "slow down, use low-beam headlights and increase your following distance"
+  ],
+  "answer": 3,
+  "explanation": "High beams reflect off fog and reduce visibility.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Weather",
+  "body": "During a sandstorm, the safest action is to",
+  "options": [
+   "slow down, turn on your lights and keep a long distance",
+   "switch off your lights",
+   "drive faster",
+   "overtake slow vehicles"
+  ],
+  "answer": 0,
+  "explanation": "If visibility is very poor, pull over safely away from traffic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Weather",
+  "body": "Roads are most slippery",
+  "options": [
+   "at night only",
+   "just after rain starts, when oil and dust mix with water",
+   "on dry sunny days",
+   "after hours of heavy rain"
+  ],
+  "answer": 1,
+  "explanation": "Reduce speed when it starts to rain.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Licensing",
+  "body": "The UAE uses a black points system. Collecting 24 black points leads to",
+  "options": [
+   "a free driving course",
+   "suspension of your driving licence",
+   "a reward",
+   "a warning only"
+  ],
+  "answer": 1,
+  "explanation": "Points are recorded for serious violations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Licensing",
+  "body": "Dubai's road toll system is called",
+  "options": [
+   "Salik",
+   "Darb",
+   "Tasjeel",
+   "Nol"
+  ],
+  "answer": 0,
+  "explanation": "Abu Dhabi's toll system is Darb; Nol is Dubai's transport card.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Signs",
+  "body": "A red octagonal sign means",
+  "options": [
+   "end of road",
+   "give way",
+   "stop completely",
+   "no entry"
+  ],
+  "answer": 2,
+  "explanation": "Stop at the line, then go when safe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Signs",
+  "body": "An inverted (upside-down) red and white triangle means",
+  "options": [
+   "danger ahead",
+   "give way",
+   "stop",
+   "no parking"
+  ],
+  "answer": 1,
+  "explanation": "Let traffic on the main road go first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Signs",
+  "body": "A blue circular sign usually gives",
+  "options": [
+   "a prohibition",
+   "a warning",
+   "a mandatory instruction",
+   "tourist information"
+  ],
+  "answer": 2,
+  "explanation": "For example, 'keep right'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Signs",
+  "body": "A red circle sign usually shows",
+  "options": [
+   "a hospital",
+   "a warning",
+   "a mandatory instruction",
+   "something that is prohibited"
+  ],
+  "answer": 3,
+  "explanation": "For example, 'no U-turn'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Signs",
+  "body": "A triangular sign with a red border is",
+  "options": [
+   "a warning sign",
+   "a direction sign",
+   "a mandatory sign",
+   "a parking sign"
+  ],
+  "answer": 0,
+  "explanation": "It warns of a hazard ahead.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Emergencies",
+  "body": "If your car breaks down on a highway, you should",
+  "options": [
+   "walk across the highway",
+   "leave the car in a live lane",
+   "move to the hard shoulder if possible, switch on hazard lights and place a warning triangle",
+   "stop in the fast lane"
+  ],
+  "answer": 2,
+  "explanation": "Stay safe away from traffic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Emergencies",
+  "body": "In the UAE, the emergency number for the police is",
+  "options": [
+   "997",
+   "911",
+   "999",
+   "998"
+  ],
+  "answer": 2,
+  "explanation": "998 is ambulance and 997 is civil defence (fire).",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Emergencies",
+  "body": "In the UAE, the emergency number for an ambulance is",
+  "options": [
+   "998",
+   "112",
+   "997",
+   "999"
+  ],
+  "answer": 0,
+  "explanation": "999 is police.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Following distance",
+  "body": "At 60 km/h, how far does a car travel in a 2-second gap?",
+  "options": [
+   "66.6 m",
+   "16.7 m",
+   "33.3 m",
+   "120 m"
+  ],
+  "answer": 2,
+  "explanation": "60 km/h ÷ 3.6 = 16.67 m/s; × 2 s = 33.3 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Following distance",
+  "body": "At 72 km/h, how far does a car travel in a 3-second gap?",
+  "options": [
+   "60 m",
+   "216 m",
+   "120 m",
+   "20 m"
+  ],
+  "answer": 0,
+  "explanation": "72 km/h ÷ 3.6 = 20 m/s; × 3 s = 60 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Following distance",
+  "body": "At 120 km/h, how far does a car travel in a 2-second gap?",
+  "options": [
+   "66.7 m",
+   "240 m",
+   "133.4 m",
+   "33.3 m"
+  ],
+  "answer": 0,
+  "explanation": "120 km/h ÷ 3.6 = 33.33 m/s; × 2 s = 66.7 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Following distance",
+  "body": "At 108 km/h, how far does a car travel in a 2-second gap?",
+  "options": [
+   "30 m",
+   "216 m",
+   "60 m",
+   "120 m"
+  ],
+  "answer": 2,
+  "explanation": "108 km/h ÷ 3.6 = 30 m/s; × 2 s = 60 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Following distance",
+  "body": "At 90 km/h, how far does a car travel in a 2-second gap?",
+  "options": [
+   "25 m",
+   "50 m",
+   "100 m",
+   "180 m"
+  ],
+  "answer": 1,
+  "explanation": "90 km/h ÷ 3.6 = 25 m/s; × 2 s = 50 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Following distance",
+  "body": "At 60 km/h, how far does a car travel in a 3-second gap?",
+  "options": [
+   "16.7 m",
+   "100 m",
+   "50 m",
+   "180 m"
+  ],
+  "answer": 2,
+  "explanation": "60 km/h ÷ 3.6 = 16.67 m/s; × 3 s = 50 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Following distance",
+  "body": "At 108 km/h, how far does a car travel in a 3-second gap?",
+  "options": [
+   "324 m",
+   "90 m",
+   "30 m",
+   "180 m"
+  ],
+  "answer": 1,
+  "explanation": "108 km/h ÷ 3.6 = 30 m/s; × 3 s = 90 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Following distance",
+  "body": "At 72 km/h, how far does a car travel in a 2-second gap?",
+  "options": [
+   "40 m",
+   "20 m",
+   "80 m",
+   "144 m"
+  ],
+  "answer": 0,
+  "explanation": "72 km/h ÷ 3.6 = 20 m/s; × 2 s = 40 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Following distance",
+  "body": "At 90 km/h, how far does a car travel in a 3-second gap?",
+  "options": [
+   "150 m",
+   "25 m",
+   "270 m",
+   "75 m"
+  ],
+  "answer": 3,
+  "explanation": "90 km/h ÷ 3.6 = 25 m/s; × 3 s = 75 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "UDR",
+  "topic": "Following distance",
+  "body": "At 120 km/h, how far does a car travel in a 3-second gap?",
+  "options": [
+   "200 m",
+   "100 m",
+   "360 m",
+   "33.3 m"
+  ],
+  "answer": 1,
+  "explanation": "120 km/h ÷ 3.6 = 33.33 m/s; × 3 s = 100 m.",
+  "difficulty": 2
+ }
+]

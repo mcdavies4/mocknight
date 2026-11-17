@@ -1,0 +1,268 @@
+[
+ {
+  "subject": "SRA",
+  "topic": "Regulation",
+  "body": "In Dubai, private security guards are licensed by",
+  "options": [
+   "the Security Industry Regulatory Agency (SIRA)",
+   "Dubai Municipality",
+   "the RTA",
+   "the Ministry of Education"
+  ],
+  "answer": 0,
+  "explanation": "Guards need a valid SIRA licence (security cadre card) to work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Regulation",
+  "body": "The law that regulates the security industry in Dubai is",
+  "options": [
+   "Law No. 12 of 2016, as amended by Law No. 3 of 2018",
+   "the Federal Traffic Law",
+   "the Dubai Food Code",
+   "the Labour Law only"
+  ],
+  "answer": 0,
+  "explanation": "It sets out SIRA's licensing role.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Emergencies",
+  "body": "In the UAE, the emergency number for civil defence (fire) is",
+  "options": [
+   "998",
+   "911",
+   "999",
+   "997"
+  ],
+  "answer": 3,
+  "explanation": "999 is police and 998 is ambulance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Emergencies",
+  "body": "On discovering a fire, a guard should first",
+  "options": [
+   "continue the patrol",
+   "lock all exits",
+   "raise the alarm and ensure people are evacuated safely",
+   "try to fight a large fire alone"
+  ],
+  "answer": 2,
+  "explanation": "Only use an extinguisher on small fires if trained and safe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Emergencies",
+  "body": "If you find a suspicious package, you should",
+  "options": [
+   "not touch it, clear the area and report it immediately",
+   "open it to check",
+   "ignore it",
+   "move it outside"
+  ],
+  "answer": 0,
+  "explanation": "Use radios at a safe distance, as per site procedure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Emergencies",
+  "body": "When taking a bomb threat call, you should",
+  "options": [
+   "keep the caller talking and note every detail",
+   "tell the caller you are recording",
+   "hang up immediately",
+   "ignore it"
+  ],
+  "answer": 0,
+  "explanation": "Note the caller's voice, background noise and exact words.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Emergencies",
+  "body": "During an evacuation, guards should direct people to",
+  "options": [
+   "the car park exits only",
+   "the assembly point using the safest route",
+   "stay at their desks",
+   "the lifts"
+  ],
+  "answer": 1,
+  "explanation": "Never use lifts in a fire.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Duties",
+  "body": "The main role of a security guard is to",
+  "options": [
+   "arrest suspects whenever possible",
+   "investigate crimes in depth",
+   "punish offenders",
+   "observe, deter and report"
+  ],
+  "answer": 3,
+  "explanation": "Guards protect people and property and report to the authorities.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Duties",
+  "body": "Patrols should be",
+  "options": [
+   "at the same time every night",
+   "varied in timing and route",
+   "only in the lobby",
+   "skipped when quiet"
+  ],
+  "answer": 1,
+  "explanation": "Predictable patrols are easy to avoid.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Duties",
+  "body": "Access control means",
+  "options": [
+   "checking that only authorised people enter an area",
+   "checking parking only",
+   "locking all doors permanently",
+   "letting everyone in quickly"
+  ],
+  "answer": 0,
+  "explanation": "Check ID and record visitors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Duties",
+  "body": "At shift handover, guards should",
+  "options": [
+   "leave without speaking",
+   "brief the next guard and update the logbook",
+   "take the keys home",
+   "delete the records"
+  ],
+  "answer": 1,
+  "explanation": "Continuity keeps the site secure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Reporting",
+  "body": "A good incident report answers",
+  "options": [
+   "who, what, when, where, why and how",
+   "only the guard's opinion",
+   "nothing in writing",
+   "only what"
+  ],
+  "answer": 0,
+  "explanation": "Keep it factual, clear and complete.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Reporting",
+  "body": "Notes in a security logbook should be",
+  "options": [
+   "kept in pencil and erased",
+   "full of personal opinions",
+   "written days later",
+   "accurate, factual and made at the time"
+  ],
+  "answer": 3,
+  "explanation": "They may be used as evidence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Crime scene",
+  "body": "If a crime has taken place, the guard should",
+  "options": [
+   "protect the scene and keep people out until police arrive",
+   "clean up the area",
+   "let witnesses leave without details",
+   "move evidence to a safe place"
+  ],
+  "answer": 0,
+  "explanation": "Preserve evidence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Conduct",
+  "body": "When dealing with an angry visitor, a guard should",
+  "options": [
+   "stay calm, listen and use a respectful tone",
+   "ignore them",
+   "shout back",
+   "use force immediately"
+  ],
+  "answer": 0,
+  "explanation": "De-escalation reduces risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Conduct",
+  "body": "A professional guard should",
+  "options": [
+   "share site information on social media",
+   "wear the correct uniform and licence and stay alert on duty",
+   "sleep on night shifts",
+   "use their phone for long periods"
+  ],
+  "answer": 1,
+  "explanation": "Professional conduct builds trust.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Conduct",
+  "body": "Information about the site and clients must be kept",
+  "options": [
+   "confidential",
+   "shared with friends",
+   "public",
+   "posted online"
+  ],
+  "answer": 0,
+  "explanation": "Guards often see sensitive information.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "Customer service",
+  "body": "If a child is reported missing in a mall, the guard should",
+  "options": [
+   "wait an hour",
+   "tell the parent to search alone",
+   "close the shift",
+   "follow the lost child procedure and alert colleagues immediately"
+  ],
+  "answer": 3,
+  "explanation": "Act quickly and cover exits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SRA",
+  "topic": "CCTV",
+  "body": "A CCTV operator should",
+  "options": [
+   "share footage with the public",
+   "monitor screens, record incidents and alert patrolling guards",
+   "switch off cameras at night",
+   "only watch the entrance"
+  ],
+  "answer": 1,
+  "explanation": "Footage may be evidence and must be handled carefully.",
+  "difficulty": 2
+ }
+]

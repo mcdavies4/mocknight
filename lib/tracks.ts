@@ -2,7 +2,7 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV" | "ELEC18" | "EYTA" | "WAREHOUSE" | "NHSHCA" | "BA" | "ISC2CC" | "AWSSAA" | "AICERT" | "SFADMIN" | "GED" | "TEAS" | "CNA" | "ASVAB" | "UPSC" | "RRB" | "CTET" | "CAT" | "GCSE" | "CSJT" | "TOEFL" | "DUOLINGO" | "CDL" | "G1ON" | "APLUS" | "CCNA" | "JUPEB" | "NABTEB" | "NMCN" | "USMLE" | "GULFPH" | "GULFDR";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV" | "ELEC18" | "EYTA" | "WAREHOUSE" | "NHSHCA" | "BA" | "ISC2CC" | "AWSSAA" | "AICERT" | "SFADMIN" | "GED" | "TEAS" | "CNA" | "ASVAB" | "UPSC" | "RRB" | "CTET" | "CAT" | "GCSE" | "CSJT" | "TOEFL" | "DUOLINGO" | "CDL" | "G1ON" | "APLUS" | "CCNA" | "JUPEB" | "NABTEB" | "NMCN" | "USMLE" | "GULFPH" | "GULFDR" | "UAEDRV" | "UAETLS" | "GULFLAB" | "GULFPT" | "GULFDEN" | "DUBAIPIC" | "SIRA";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
 export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi" | "Asia/Manila" | "Africa/Johannesburg";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
@@ -1002,6 +1002,62 @@ export const TRACKS: Record<TrackCode, Track> = {
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["gulfdr_pass"], tagline: "Prometric-style practice for doctors moving to the Gulf: clinical best-of-five plus basic sciences", timeZone: "Asia/Dubai", timeLabel: "Gulf time",
     audience: "a doctor preparing for a Gulf licensing exam (DHA, DOH, SCFHS, QCHP or MOH) delivered by Prometric",
+  },
+  UAEDRV: {
+    code: "UAEDRV", name: "UAE driving theory test (RTA / ITC)", short: "UAE Driving Theory", emoji: "🚗", kind: "work", region: "GULF", currency: "USD",
+    subjectMode: "single", subjects: ["UDR"], compulsory: ["UDR"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 30, minutes: 26, passPct: 66, scoreStyle: "passfail", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["uaedrv_pass"], tagline: "UAE driving theory practice: rules of the road, signs, safety, weather and emergencies", timeZone: "Asia/Dubai", timeLabel: "Gulf time",
+    audience: "a new driver or expat in the UAE preparing for the RTA (Dubai) or ITC (Abu Dhabi) driving theory test",
+  },
+  UAETLS: {
+    code: "UAETLS", name: "UAE Teacher Licence (TLS) — pedagogy", short: "UAE Teacher Licence", emoji: "🧑‍🏫", kind: "professional", region: "GULF", currency: "USD",
+    subjectMode: "single", subjects: ["TLP", "CDP"], compulsory: ["TLP", "CDP"], minSubjects: 2, maxSubjects: 2, subjectNote: "",
+    mock: { total: 40, minutes: 60, passPct: 65, scoreStyle: "percent", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["tls_pass"], tagline: "UAE Teacher Licensing System pedagogy practice: planning, assessment, differentiation, inclusion and child development", timeZone: "Asia/Dubai", timeLabel: "Gulf time",
+    audience: "a teacher in the UAE preparing for the Ministry of Education Teacher Licensing System (TLS) pedagogy test",
+  },
+  GULFLAB: {
+    code: "GULFLAB", name: "Gulf medical laboratory licence (DHA, DOH, MOH, QCHP — Prometric)", short: "Gulf Lab Technologist", emoji: "🧪", kind: "professional", region: "GULF", currency: "USD",
+    subjectMode: "single", subjects: ["LAB", "USM"], compulsory: ["LAB", "USM"], minSubjects: 2, maxSubjects: 2, subjectNote: "",
+    mock: { total: 40, minutes: 60, passPct: 50, scoreStyle: "passfail", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["gulflab_pass"], tagline: "Prometric-style practice for laboratory technologists and technicians: specimen collection, chemistry, haematology, blood bank, microbiology and QC", timeZone: "Asia/Dubai", timeLabel: "Gulf time",
+    audience: "a medical laboratory technologist or technician preparing for a Gulf licensing exam (DHA, DOH, MOH, QCHP or SCFHS) delivered by Prometric",
+  },
+  GULFPT: {
+    code: "GULFPT", name: "Gulf physiotherapy licence (DHA, DOH, MOH, QCHP — Prometric)", short: "Gulf Physiotherapist", emoji: "🦴", kind: "professional", region: "GULF", currency: "USD",
+    subjectMode: "single", subjects: ["PHT", "TSC"], compulsory: ["PHT", "TSC"], minSubjects: 2, maxSubjects: 2, subjectNote: "",
+    mock: { total: 40, minutes: 60, passPct: 50, scoreStyle: "passfail", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["gulfpt_pass"], tagline: "Prometric-style practice for physiotherapists: musculoskeletal tests, nerve injuries, neurology, electrotherapy and anatomy", timeZone: "Asia/Dubai", timeLabel: "Gulf time",
+    audience: "a physiotherapist preparing for a Gulf licensing exam (DHA, DOH, MOH, QCHP or SCFHS) delivered by Prometric",
+  },
+  GULFDEN: {
+    code: "GULFDEN", name: "Gulf dentist licence (DHA, DOH, MOH, QCHP — Prometric)", short: "Gulf Dentist", emoji: "🦷", kind: "professional", region: "GULF", currency: "USD",
+    subjectMode: "single", subjects: ["DEN", "USM"], compulsory: ["DEN", "USM"], minSubjects: 2, maxSubjects: 2, subjectNote: "",
+    mock: { total: 40, minutes: 60, passPct: 60, scoreStyle: "passfail", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["gulfden_pass"], tagline: "Prometric-style practice for general dentists: anatomy, caries, operative, endodontics, periodontics, oral surgery and orthodontics", timeZone: "Asia/Dubai", timeLabel: "Gulf time",
+    audience: "a general dentist preparing for a Gulf licensing exam (DHA, DOH, MOH, QCHP, SCFHS/SDLE) delivered by Prometric",
+  },
+  DUBAIPIC: {
+    code: "DUBAIPIC", name: "Dubai Person in Charge (PIC) food safety", short: "Dubai PIC Food Safety", emoji: "🍽️", kind: "work", region: "GULF", currency: "USD",
+    subjectMode: "single", subjects: ["PIC"], compulsory: ["PIC"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 20, minutes: 30, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["pic_pass"], tagline: "Dubai PIC food safety practice: HACCP, hazards, temperature control, storage, hygiene and the PIC's role", timeZone: "Asia/Dubai", timeLabel: "Gulf time",
+    audience: "a food business supervisor in Dubai preparing for the Dubai Municipality Person in Charge (PIC) food safety exam",
+  },
+  SIRA: {
+    code: "SIRA", name: "Dubai SIRA security guard licence", short: "SIRA Security Guard", emoji: "🛡️", kind: "work", region: "GULF", currency: "USD",
+    subjectMode: "single", subjects: ["SRA", "FIR"], compulsory: ["SRA", "FIR"], minSubjects: 2, maxSubjects: 2, subjectNote: "",
+    mock: { total: 40, minutes: 45, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["sira_pass"], tagline: "SIRA security guard practice: duties, access control, reporting, emergencies, fire safety and professional conduct", timeZone: "Asia/Dubai", timeLabel: "Gulf time",
+    audience: "a security guard in Dubai preparing for the SIRA security guard certification exam",
   },
   ISC2CC: {
     code: "ISC2CC", name: "ISC2 Certified in Cybersecurity (CC)", short: "ISC2 CC", emoji: "🔐", kind: "professional", region: "GLOBAL", currency: "USD",

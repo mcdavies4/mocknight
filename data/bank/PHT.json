@@ -1,0 +1,310 @@
+[
+ {
+  "subject": "PHT",
+  "topic": "Musculoskeletal",
+  "body": "The four rotator cuff muscles are",
+  "options": [
+   "rhomboids, levator scapulae, serratus anterior and trapezius",
+   "pectoralis major, latissimus dorsi, teres major and deltoid",
+   "deltoid, biceps, triceps and trapezius",
+   "supraspinatus, infraspinatus, teres minor and subscapularis"
+  ],
+  "answer": 3,
+  "explanation": "Remembered as 'SITS'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Musculoskeletal",
+  "body": "The Lachman test assesses the",
+  "options": [
+   "anterior cruciate ligament (ACL)",
+   "medial meniscus",
+   "patellar tendon",
+   "posterior cruciate ligament"
+  ],
+  "answer": 0,
+  "explanation": "It is the most sensitive clinical ACL test.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Musculoskeletal",
+  "body": "McMurray's test is used to assess",
+  "options": [
+   "meniscal tears",
+   "ACL tears",
+   "carpal tunnel syndrome",
+   "rotator cuff tears"
+  ],
+  "answer": 0,
+  "explanation": "A painful click suggests a tear.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Musculoskeletal",
+  "body": "The most commonly injured ligament in an ankle inversion sprain is the",
+  "options": [
+   "posterior talofibular ligament",
+   "deltoid ligament",
+   "calcaneofibular ligament only",
+   "anterior talofibular ligament (ATFL)"
+  ],
+  "answer": 3,
+  "explanation": "Inversion with plantarflexion stresses the ATFL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Musculoskeletal",
+  "body": "Tennis elbow (lateral epicondylalgia) mainly involves the",
+  "options": [
+   "extensor carpi radialis brevis",
+   "biceps brachii",
+   "flexor carpi ulnaris",
+   "pronator teres only"
+  ],
+  "answer": 0,
+  "explanation": "Golfer's elbow affects the medial flexor origin.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Musculoskeletal",
+  "body": "The capsular pattern of the shoulder (frozen shoulder) loses most",
+  "options": [
+   "flexion only",
+   "extension first",
+   "internal rotation first",
+   "external rotation, then abduction, then internal rotation"
+  ],
+  "answer": 3,
+  "explanation": "Adhesive capsulitis follows this pattern.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Musculoskeletal",
+  "body": "A positive Trendelenburg sign indicates weakness of the",
+  "options": [
+   "quadriceps",
+   "gluteus maximus",
+   "hamstrings",
+   "gluteus medius"
+  ],
+  "answer": 3,
+  "explanation": "The pelvis drops on the opposite side when standing on one leg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Musculoskeletal",
+  "body": "Osgood–Schlatter disease affects the",
+  "options": [
+   "femoral head",
+   "patella",
+   "calcaneus",
+   "tibial tuberosity"
+  ],
+  "answer": 3,
+  "explanation": "Common in active adolescents.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Musculoskeletal",
+  "body": "Normal shoulder flexion range of motion is about",
+  "options": [
+   "0–45 degrees",
+   "0–90 degrees",
+   "0–270 degrees",
+   "0–180 degrees"
+  ],
+  "answer": 3,
+  "explanation": "Measured with a goniometer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Peripheral nerves",
+  "body": "Wrist drop is caused by injury to the",
+  "options": [
+   "median nerve",
+   "radial nerve",
+   "ulnar nerve",
+   "axillary nerve"
+  ],
+  "answer": 1,
+  "explanation": "Often after a mid-shaft humerus fracture.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Peripheral nerves",
+  "body": "Foot drop is commonly caused by injury to the",
+  "options": [
+   "tibial nerve",
+   "femoral nerve",
+   "obturator nerve",
+   "common peroneal (fibular) nerve"
+  ],
+  "answer": 3,
+  "explanation": "It wraps around the fibular neck.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Peripheral nerves",
+  "body": "Carpal tunnel syndrome compresses the",
+  "options": [
+   "ulnar nerve",
+   "musculocutaneous nerve",
+   "median nerve",
+   "radial nerve"
+  ],
+  "answer": 2,
+  "explanation": "Phalen's and Tinel's tests are used.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Peripheral nerves",
+  "body": "Erb's palsy affects nerve roots",
+  "options": [
+   "T1–T2",
+   "C8–T1",
+   "C5–C6",
+   "L4–L5"
+  ],
+  "answer": 2,
+  "explanation": "The 'waiter's tip' posture.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Assessment",
+  "body": "In manual muscle testing, grade 3/5 means",
+  "options": [
+   "full strength",
+   "a flicker of contraction",
+   "full range of motion against gravity, but no added resistance",
+   "no contraction"
+  ],
+  "answer": 2,
+  "explanation": "Grade 5 is normal strength.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Assessment",
+  "body": "The Glasgow Coma Scale ranges from",
+  "options": [
+   "5 to 25",
+   "0 to 10",
+   "3 to 15",
+   "1 to 20"
+  ],
+  "answer": 2,
+  "explanation": "Eye, verbal and motor responses.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Assessment",
+  "body": "The modified Ashworth scale measures",
+  "options": [
+   "endurance",
+   "spasticity",
+   "pain",
+   "balance"
+  ],
+  "answer": 1,
+  "explanation": "It grades resistance to passive movement.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Assessment",
+  "body": "The Borg scale (6–20) measures",
+  "options": [
+   "joint range",
+   "rating of perceived exertion",
+   "muscle strength",
+   "pain"
+  ],
+  "answer": 1,
+  "explanation": "Used in cardiac rehabilitation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Neurology",
+  "body": "The Epley manoeuvre is used to treat",
+  "options": [
+   "benign paroxysmal positional vertigo (BPPV)",
+   "Bell's palsy",
+   "stroke",
+   "Parkinson's disease"
+  ],
+  "answer": 0,
+  "explanation": "The Dix–Hallpike test diagnoses posterior canal BPPV.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Neurology",
+  "body": "A shuffling gait, rigidity and resting tremor suggest",
+  "options": [
+   "multiple sclerosis",
+   "myasthenia gravis",
+   "stroke",
+   "Parkinson's disease"
+  ],
+  "answer": 3,
+  "explanation": "Caused by loss of dopamine in the substantia nigra.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Electrotherapy",
+  "body": "Therapeutic ultrasound should not be applied over",
+  "options": [
+   "healthy muscle",
+   "a ligament sprain",
+   "scar tissue",
+   "a pregnant uterus or a known malignancy"
+  ],
+  "answer": 3,
+  "explanation": "Always screen for contraindications.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Electrotherapy",
+  "body": "TENS is mainly used for",
+  "options": [
+   "pain relief",
+   "wound healing only",
+   "measuring nerve conduction",
+   "muscle strengthening only"
+  ],
+  "answer": 0,
+  "explanation": "It works partly through the pain gate mechanism.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHT",
+  "topic": "Cardiorespiratory",
+  "body": "Incentive spirometry after surgery helps to",
+  "options": [
+   "reduce pain medicine",
+   "strengthen leg muscles",
+   "lower blood pressure",
+   "prevent atelectasis by encouraging deep breaths"
+  ],
+  "answer": 3,
+  "explanation": "Deep breathing re-expands collapsed alveoli.",
+  "difficulty": 2
+ }
+]
