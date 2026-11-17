@@ -6,7 +6,7 @@ import { useEffect, useState } from "react";
 /** Pages that run as the Telegram Mini App (full-screen test UI) — no site header/footer there. */
 const BARE = [/^\/mock/, /^\/r\//];
 
-function useShowChrome() {
+export function useShowChrome() {
   const path = usePathname() ?? "/";
   const [inTelegram, setInTelegram] = useState(false);
   useEffect(() => {
@@ -54,6 +54,16 @@ export function SiteHeader({ bot }: { bot: string }) {
         </nav>
       </div>
     </header>
+  );
+}
+
+/** Thin credibility bar above the header: live question and exam counts. */
+export function StatsBar({ parts }: { parts: string[] | null }) {
+  if (!useShowChrome() || !parts?.length) return null;
+  return (
+    <div className="stats-bar" role="note">
+      <div className="site-inner"><span className="stats-dot" aria-hidden="true" /> {parts.slice(0, 2).join(" · ")}{parts[2] && <span className="stats-extra"> · {parts[2]}</span>}</div>
+    </div>
   );
 }
 

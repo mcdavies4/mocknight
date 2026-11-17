@@ -2,8 +2,10 @@ import Link from "next/link";
 import { JsonLd } from "@/components/json-ld";
 import { SITE_URL } from "@/lib/site";
 import { sortedPosts } from "@/lib/blog";
+import { getSiteStats, plus } from "@/lib/stats";
 
-export default function Home() {
+export default async function Home() {
+  const stats = await getSiteStats();
   const bot = process.env.TELEGRAM_BOT_USERNAME ?? "";
   return (
     <main className="wrap brand-home" style={{ maxWidth: 880 }}>
@@ -13,6 +15,19 @@ export default function Home() {
         <p className="muted">Mock Night brings academic exam practice and professional certification preparation together — with daily questions, timed mock exams, explanations and progress tracking on web and Telegram.</p>
         <p><Link className="btn" href="/exams">Explore all exam pathways</Link></p>
       </section>
+
+      {stats && (
+        <section className="stat-row" aria-label="Mock Night in numbers">
+          <div className="stat"><b>{plus(stats.questions)}</b><span>practice questions</span></div>
+          <div className="stat"><b>{stats.exams}</b><span>exams across {stats.countries} countries</span></div>
+          {stats.learners ? (
+            <div className="stat"><b>{plus(stats.learners)}</b><span>learners</span></div>
+          ) : (
+            <div className="stat"><b>100%</b><span>answers explained</span></div>
+          )}
+          <div className="stat"><b>14 days</b><span>free, everything unlocked</span></div>
+        </section>
+      )}
 
       <section className="card" style={{ marginBottom: 12 }}>
         <h2 style={{ marginTop: 0 }}>🌍 Technology & Digital Careers</h2>

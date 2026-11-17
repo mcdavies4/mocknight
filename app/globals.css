@@ -227,3 +227,14 @@ a.btn:hover { filter: brightness(1.06); }
 .faq summary { cursor: pointer; }
 .site-footer-links { display: flex; gap: 14px; flex-wrap: wrap; }
 .site-footer-links a { color: var(--mn-forest); font-weight: 600; text-decoration: none; font-size: 14px; }
+
+/* Live stats */
+.stats-bar { background: var(--mn-forest, #0B2F22); color: #E1F5C9; font-size: 13px; font-weight: 600; }
+.stats-bar .site-inner { padding-top: 7px; padding-bottom: 7px; justify-content: center; text-align: center; gap: 8px; }
+.stats-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #7BD88F; box-shadow: 0 0 0 3px rgba(123,216,143,.25); flex: 0 0 auto; }
+.stat-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 0 0 18px; }
+.stat { background: #fff; border: 1px solid #DCE7D5; border-radius: 14px; padding: 14px 12px; text-align: center; }
+.stat b { display: block; font-size: 26px; color: var(--mn-forest, #0B2F22); line-height: 1.1; }
+.stat span { display: block; font-size: 13px; color: #4b6457; margin-top: 4px; }
+@media (max-width: 720px) { .stat-row { grid-template-columns: repeat(2, 1fr); } .stat b { font-size: 22px; } .stats-bar { font-size: 12px; } }
+@media (max-width: 520px) { .stats-extra { display: none; } }

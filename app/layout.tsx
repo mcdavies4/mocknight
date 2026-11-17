@@ -1,7 +1,8 @@
 import type { Metadata, Viewport } from "next";
 import Script from "next/script";
 import "./globals.css";
-import { SiteFooter, SiteHeader } from "@/components/site-chrome";
+import { SiteFooter, SiteHeader, StatsBar } from "@/components/site-chrome";
+import { getSiteStats, plus } from "@/lib/stats";
 import { PwaRegister } from "@/components/pwa";
 import { SITE_URL } from "@/lib/site";
 
@@ -28,7 +29,14 @@ export const viewport: Viewport = {
   themeColor: "#0B2F22",
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+// Refresh the live question count about once an hour.
+export const revalidate = 3600;
+
+export default async function RootLayout({ children }: { children: React.ReactNode }) {
+  const stats = await getSiteStats();
+  const statsParts = stats
+    ? [`${plus(stats.questions)} practice questions`, `${stats.exams} exams`, stats.answers ? `${plus(stats.answers)} answers practised` : "new questions added every week"]
+    : null;
   return (
     <html lang="en">
       <head>
@@ -44,6 +52,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <noscript>
           <iframe src={`https://www.googletagmanager.com/ns.html?id=${GTM_ID}`} height="0" width="0" style={{ display: "none", visibility: "hidden" }} />
         </noscript>
+        <StatsBar parts={statsParts} />
         <SiteHeader bot={(process.env.TELEGRAM_BOT_USERNAME ?? "").replace(/^@/, "")} />
         {children}
         <SiteFooter />
