@@ -1,0 +1,520 @@
+[
+ {
+  "subject": "RSG",
+  "topic": "Road signs",
+  "body": "A red triangle sign is a",
+  "options": [
+   "direction sign",
+   "information sign",
+   "mandatory sign",
+   "warning sign"
+  ],
+  "answer": 3,
+  "explanation": "It warns of a hazard ahead.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Road signs",
+  "body": "A red circle sign usually",
+  "options": [
+   "shows a service",
+   "gives directions",
+   "warns of a hazard",
+   "prohibits something"
+  ],
+  "answer": 3,
+  "explanation": "For example, no entry, no overtaking or a speed limit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Road signs",
+  "body": "A blue circle sign",
+  "options": [
+   "shows a prohibition",
+   "shows a tourist site",
+   "warns of danger",
+   "tells you what you must do"
+  ],
+  "answer": 3,
+  "explanation": "For example, turn left only, or keep to this side.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Road signs",
+  "body": "An eight-sided (octagonal) red sign means",
+  "options": [
+   "parking",
+   "no entry",
+   "stop",
+   "give way"
+  ],
+  "answer": 2,
+  "explanation": "Stop completely at the line.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Road signs",
+  "body": "An upside-down triangle with a red border means",
+  "options": [
+   "give way",
+   "stop",
+   "end of road",
+   "warning"
+  ],
+  "answer": 0,
+  "explanation": "Slow down and give way to traffic on the main road.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Road signs",
+  "body": "A red circle with a white horizontal bar means",
+  "options": [
+   "no entry",
+   "parking",
+   "one-way street",
+   "hospital"
+  ],
+  "answer": 0,
+  "explanation": "Vehicles must not enter.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Road signs",
+  "body": "A red circle containing a number such as 50 means",
+  "options": [
+   "maximum speed 50 km/h",
+   "route 50",
+   "minimum speed 50 km/h",
+   "50 metres to a junction"
+  ],
+  "answer": 0,
+  "explanation": "Blue circles with a number show a minimum speed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Road signs",
+  "body": "A triangle sign showing children means",
+  "options": [
+   "no children allowed",
+   "playground for drivers",
+   "school or children crossing ahead",
+   "hospital"
+  ],
+  "answer": 2,
+  "explanation": "Slow down and be ready to stop.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Road signs",
+  "body": "A triangle with a train or a gate warns of",
+  "options": [
+   "a bus stop",
+   "a level crossing ahead",
+   "a station car park",
+   "a toll gate"
+  ],
+  "answer": 1,
+  "explanation": "Slow down and look both ways.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Road signs",
+  "body": "A sign showing two cars side by side inside a red circle means",
+  "options": [
+   "no overtaking",
+   "dual carriageway ahead",
+   "two-way traffic",
+   "car park"
+  ],
+  "answer": 0,
+  "explanation": "Don't overtake until the restriction ends.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Road markings",
+  "body": "A continuous (unbroken) centre line means",
+  "options": [
+   "bus lane",
+   "parking allowed",
+   "do not cross or straddle it",
+   "you may overtake"
+  ],
+  "answer": 2,
+  "explanation": "Broken lines may be crossed when safe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Road markings",
+  "body": "Zebra crossing stripes mark a place where",
+  "options": [
+   "buses stop",
+   "vehicles may park",
+   "pedestrians must wait for all cars",
+   "drivers must give way to pedestrians on the crossing"
+  ],
+  "answer": 3,
+  "explanation": "Never overtake near a zebra crossing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Traffic lights",
+  "body": "An amber (yellow) traffic light on its own means",
+  "options": [
+   "speed up to get through",
+   "turn only",
+   "stop, unless you are so close that stopping would be unsafe",
+   "go"
+  ],
+  "answer": 2,
+  "explanation": "Red follows amber.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Traffic lights",
+  "body": "A green traffic light means",
+  "options": [
+   "give way to everyone",
+   "stop",
+   "you must go at once",
+   "you may go if the way is clear"
+  ],
+  "answer": 3,
+  "explanation": "Watch for pedestrians still crossing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Traffic lights",
+  "body": "When a traffic police officer is directing traffic, you should",
+  "options": [
+   "ignore both",
+   "follow the officer's signals, even if they conflict with the lights",
+   "hoot and continue",
+   "follow the lights only"
+  ],
+  "answer": 1,
+  "explanation": "The officer's signal takes priority.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Safe driving",
+  "body": "The two-second rule is used to keep",
+  "options": [
+   "your mirrors adjusted",
+   "your engine cool",
+   "the right speed on bends",
+   "a safe gap behind the vehicle in front"
+  ],
+  "answer": 3,
+  "explanation": "Double it in rain.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Safe driving",
+  "body": "In wet weather your stopping distance",
+  "options": [
+   "gets shorter",
+   "increases, so you should slow down and leave a bigger gap",
+   "doesn't matter with good tyres",
+   "stays the same"
+  ],
+  "answer": 1,
+  "explanation": "It can be twice as long as in dry conditions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Safe driving",
+  "body": "When dazzled by oncoming headlights at night, you should",
+  "options": [
+   "speed up",
+   "slow down or stop and look towards the edge of the road",
+   "flash your full beam back",
+   "close your eyes briefly"
+  ],
+  "answer": 1,
+  "explanation": "Wait until your eyes adjust.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Safe driving",
+  "body": "You should dip your headlights",
+  "options": [
+   "only in towns",
+   "never at night",
+   "when meeting oncoming traffic or following another vehicle",
+   "only when parked"
+  ],
+  "answer": 2,
+  "explanation": "Full beam dazzles other drivers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Safe driving",
+  "body": "Before moving off from the roadside, you should",
+  "options": [
+   "rely on other drivers to stop",
+   "only sound the horn",
+   "check mirrors, look over your shoulder and signal if needed",
+   "move off quickly"
+  ],
+  "answer": 2,
+  "explanation": "Check your blind spot.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Safe driving",
+  "body": "Using a handheld phone while driving is",
+  "options": [
+   "allowed for short calls",
+   "dangerous and an offence",
+   "safe at low speed",
+   "allowed in traffic jams"
+  ],
+  "answer": 1,
+  "explanation": "Pull over safely to make a call.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Safe driving",
+  "body": "Alcohol affects driving by",
+  "options": [
+   "having no effect in small amounts",
+   "sharpening concentration",
+   "improving night vision",
+   "slowing reactions and impairing judgement"
+  ],
+  "answer": 3,
+  "explanation": "The safest choice is not to drink and drive.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Safe driving",
+  "body": "If you feel tired on a long journey, you should",
+  "options": [
+   "drive faster to arrive sooner",
+   "stop in a safe place and rest",
+   "turn the radio up",
+   "open the window and keep going"
+  ],
+  "answer": 1,
+  "explanation": "Plan a break every two hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Safe driving",
+  "body": "Seat belts",
+  "options": [
+   "are only for the driver",
+   "are optional in towns",
+   "are only for long journeys",
+   "must be worn by the driver and passengers where fitted"
+  ],
+  "answer": 3,
+  "explanation": "They reduce injury in a crash.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Safe driving",
+  "body": "Before overtaking, you should make sure",
+  "options": [
+   "you are near a junction",
+   "the road ahead is clear and you can return safely",
+   "a vehicle is coming towards you",
+   "you are on a bend"
+  ],
+  "answer": 1,
+  "explanation": "Never overtake on a bend, a hill crest or near a crossing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Hazards",
+  "body": "When approaching animals on the road, you should",
+  "options": [
+   "drive between them",
+   "hoot continuously",
+   "slow down, give them plenty of room and avoid hooting loudly",
+   "speed past"
+  ],
+  "answer": 2,
+  "explanation": "Animals can move unpredictably.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Hazards",
+  "body": "Near a school when children are around, you should",
+  "options": [
+   "slow down and be ready to stop",
+   "speed up to pass quickly",
+   "overtake buses",
+   "hoot to warn them"
+  ],
+  "answer": 0,
+  "explanation": "Children may run into the road.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Hazards",
+  "body": "When a vehicle behind you flashes its headlights to overtake, you should",
+  "options": [
+   "speed up",
+   "block the road",
+   "brake hard",
+   "stay in your lane, hold a steady speed and let them pass"
+  ],
+  "answer": 3,
+  "explanation": "Never speed up when being overtaken.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Vehicle",
+  "body": "Worn tyres",
+  "options": [
+   "improve braking",
+   "reduce grip and increase stopping distances",
+   "have no effect",
+   "save fuel safely"
+  ],
+  "answer": 1,
+  "explanation": "Check tread and pressure regularly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Vehicle",
+  "body": "Before a journey you should check",
+  "options": [
+   "nothing if the car started",
+   "only the fuel",
+   "tyres, lights, brakes, fuel, oil and water",
+   "only the radio"
+  ],
+  "answer": 2,
+  "explanation": "A quick check prevents breakdowns.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Emergencies",
+  "body": "At a crash scene, the first thing to do is",
+  "options": [
+   "take photos first",
+   "leave immediately",
+   "make the area safe: warn traffic and switch off engines",
+   "move injured people at once"
+  ],
+  "answer": 2,
+  "explanation": "Then call emergency services and help the injured.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Emergencies",
+  "body": "If your vehicle breaks down on the road, you should",
+  "options": [
+   "move it off the road if possible, switch on hazard lights and place warning triangles",
+   "leave it in the lane with no warning",
+   "stand behind it in the road",
+   "keep driving on a flat tyre"
+  ],
+  "answer": 0,
+  "explanation": "Warning triangles warn approaching drivers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Safe driving",
+  "body": "At 36 km/h a car travels about 10 metres every second. How far does it travel during a 2-second gap?",
+  "options": [
+   "40 m",
+   "20 m",
+   "10 m",
+   "13 m"
+  ],
+  "answer": 1,
+  "explanation": "10 m/s × 2 s = 20 m. That's why a 2-second gap grows with speed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Safe driving",
+  "body": "At 54 km/h a car travels about 15 metres every second. How far does it travel during a 2-second gap?",
+  "options": [
+   "15 m",
+   "18 m",
+   "60 m",
+   "30 m"
+  ],
+  "answer": 3,
+  "explanation": "15 m/s × 2 s = 30 m. That's why a 2-second gap grows with speed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Safe driving",
+  "body": "At 72 km/h a car travels about 20 metres every second. How far does it travel during a 2-second gap?",
+  "options": [
+   "80 m",
+   "20 m",
+   "23 m",
+   "40 m"
+  ],
+  "answer": 3,
+  "explanation": "20 m/s × 2 s = 40 m. That's why a 2-second gap grows with speed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Safe driving",
+  "body": "At 90 km/h a car travels about 25 metres every second. How far does it travel during a 2-second gap?",
+  "options": [
+   "25 m",
+   "50 m",
+   "28 m",
+   "100 m"
+  ],
+  "answer": 1,
+  "explanation": "25 m/s × 2 s = 50 m. That's why a 2-second gap grows with speed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RSG",
+  "topic": "Safe driving",
+  "body": "At 108 km/h a car travels about 30 metres every second. How far does it travel during a 2-second gap?",
+  "options": [
+   "33 m",
+   "30 m",
+   "120 m",
+   "60 m"
+  ],
+  "answer": 3,
+  "explanation": "30 m/s × 2 s = 60 m. That's why a 2-second gap grows with speed.",
+  "difficulty": 2
+ }
+]

@@ -1,0 +1,170 @@
+[
+ {
+  "subject": "EAL",
+  "topic": "Keep-left rules",
+  "body": "In Kenya, Uganda and Tanzania, vehicles drive on the",
+  "options": [
+   "either side",
+   "right side of the road",
+   "left side of the road",
+   "centre of the road"
+  ],
+  "answer": 2,
+  "explanation": "Keep left unless overtaking.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EAL",
+  "topic": "Keep-left rules",
+  "body": "On a road where traffic keeps left, you normally overtake",
+  "options": [
+   "on either side",
+   "on the left",
+   "on the shoulder",
+   "on the right"
+  ],
+  "answer": 3,
+  "explanation": "Overtaking on the left is only allowed in special cases, such as when the vehicle ahead is turning right.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EAL",
+  "topic": "Keep-left rules",
+  "body": "At a roundabout where traffic keeps left, you should",
+  "options": [
+   "give way to traffic coming from your right and go round clockwise",
+   "stop in the middle",
+   "give way to traffic from your left",
+   "go round anticlockwise"
+  ],
+  "answer": 0,
+  "explanation": "Signal left before your exit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EAL",
+  "topic": "Keep-left rules",
+  "body": "On a multi-lane road where traffic keeps left, slower vehicles should use",
+  "options": [
+   "the middle lane always",
+   "the right-hand lane",
+   "the left-hand lane",
+   "the shoulder"
+  ],
+  "answer": 2,
+  "explanation": "The right lane is for overtaking.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EAL",
+  "topic": "Keep-left rules",
+  "body": "When turning right at a junction, you should position your vehicle",
+  "options": [
+   "on the wrong side of the road",
+   "at the far left kerb",
+   "in the middle of the junction",
+   "just left of the centre line"
+  ],
+  "answer": 3,
+  "explanation": "Give way to oncoming traffic first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EAL",
+  "topic": "Keep-left rules",
+  "body": "When turning left, you should keep",
+  "options": [
+   "in the right lane",
+   "to the right of the centre line",
+   "close to the left-hand side of the road",
+   "in the middle"
+  ],
+  "answer": 2,
+  "explanation": "Watch for cyclists and pedestrians on your left.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EAL",
+  "topic": "Keep-left rules",
+  "body": "Before turning right, you should check",
+  "options": [
+   "nothing if the road is quiet",
+   "only the left mirror",
+   "only the rear-view mirror",
+   "your mirrors and the right-hand blind spot, and signal"
+  ],
+  "answer": 3,
+  "explanation": "Motorcycles may be overtaking you.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EAL",
+  "topic": "Keep-left rules",
+  "body": "When an emergency vehicle with siren and flashing lights approaches, you should",
+  "options": [
+   "pull over to the right",
+   "stop in the middle of the road",
+   "speed up",
+   "pull over to the left and let it pass"
+  ],
+  "answer": 3,
+  "explanation": "Don't block junctions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EAL",
+  "topic": "Keep-left rules",
+  "body": "When parking at night on a road where traffic keeps left, you should park",
+  "options": [
+   "on a bend",
+   "on the right facing oncoming traffic",
+   "in the middle of the road",
+   "on the left, facing the direction of traffic"
+  ],
+  "answer": 3,
+  "explanation": "Use parking lights if the road is unlit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EAL",
+  "topic": "Keep-left rules",
+  "body": "When you are being overtaken, you should",
+  "options": [
+   "accelerate",
+   "brake suddenly",
+   "keep to the left and not speed up",
+   "move to the right"
+  ],
+  "answer": 2,
+  "explanation": "Help the other driver pass safely.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EAL",
+  "topic": "Keep-left rules",
+  "body": "A motorcyclist in a country where traffic keeps left should ride",
+  "options": [
+   "on the left side of the lane they are using, but not too close to the edge",
+   "on the pavement",
+   "on the right edge",
+   "between lanes of oncoming traffic"
+  ],
+  "answer": 0,
+  "explanation": "Stay visible to other road users.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EAL",
+  "topic": "Keep-left rules",
+  "body": "At a junction with no signs or markings, you should",
+  "options": [
+   "drive straight across without looking",
+   "slow down, look both ways and give way to traffic already on the road",
+   "hoot and continue",
+   "always expect others to give way"
+  ],
+  "answer": 1,
+  "explanation": "Unmarked junctions need extra care.",
+  "difficulty": 2
+ }
+]

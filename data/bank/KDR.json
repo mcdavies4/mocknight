@@ -1,0 +1,226 @@
+[
+ {
+  "subject": "KDR",
+  "topic": "Kenya rules",
+  "body": "Driving licences in Kenya are issued under the",
+  "options": [
+   "Kenya Revenue Authority only",
+   "National Transport and Safety Authority (NTSA)",
+   "Kenya Power",
+   "Ministry of Health"
+  ],
+  "answer": 1,
+  "explanation": "Applications are made online.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KDR",
+  "topic": "Kenya rules",
+  "body": "To learn to drive in Kenya, you must hold",
+  "options": [
+   "a passport only",
+   "nothing",
+   "a full licence",
+   "a provisional driving licence (PDL)"
+  ],
+  "answer": 3,
+  "explanation": "Learn with a qualified instructor or licensed driver.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KDR",
+  "topic": "Kenya rules",
+  "body": "A learner driver in Kenya must display",
+  "options": [
+   "no plates",
+   "'L' plates on the front and back of the vehicle",
+   "a 'P' sticker only",
+   "a red flag"
+  ],
+  "answer": 1,
+  "explanation": "Other road users then know to take extra care.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KDR",
+  "topic": "Kenya rules",
+  "body": "The minimum age for a Kenyan licence to drive a car (light vehicle) is",
+  "options": [
+   "18",
+   "21",
+   "16",
+   "25"
+  ],
+  "answer": 0,
+  "explanation": "Larger vehicle classes have higher minimum ages.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KDR",
+  "topic": "Kenya rules",
+  "body": "In the Kenyan driving test, the model town board is used to test",
+  "options": [
+   "knowledge of road rules, signs and junction procedures",
+   "vehicle registration",
+   "first aid only",
+   "engine repair"
+  ],
+  "answer": 0,
+  "explanation": "Candidates explain how they'd move through the model town.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KDR",
+  "topic": "Kenya rules",
+  "body": "Unless signs show otherwise, the speed limit in Kenyan built-up areas is",
+  "options": [
+   "80 km/h",
+   "50 km/h",
+   "110 km/h",
+   "30 km/h"
+  ],
+  "answer": 1,
+  "explanation": "Watch for lower limits near schools.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KDR",
+  "topic": "Kenya rules",
+  "body": "Public service vehicles (PSVs) and commercial vehicles in Kenya are generally limited to",
+  "options": [
+   "no limit",
+   "30 km/h",
+   "120 km/h",
+   "80 km/h and must be fitted with speed governors"
+  ],
+  "answer": 3,
+  "explanation": "Speed governors became compulsory under the Michuki rules.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KDR",
+  "topic": "Kenya rules",
+  "body": "The 2003–04 'Michuki rules' in Kenya made compulsory",
+  "options": [
+   "free fuel",
+   "speed governors and seat belts in public service vehicles",
+   "tinted windows",
+   "loud music in matatus"
+  ],
+  "answer": 1,
+  "explanation": "They were named after Transport Minister John Michuki.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KDR",
+  "topic": "Kenya rules",
+  "body": "In Kenya, seat belts must be worn by",
+  "options": [
+   "drivers and passengers, including PSV passengers where belts are fitted",
+   "drivers only",
+   "nobody in town",
+   "front passengers only"
+  ],
+  "answer": 0,
+  "explanation": "PSV crews must ensure passengers belt up.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KDR",
+  "topic": "Kenya rules",
+  "body": "Boda boda (motorcycle) riders and passengers in Kenya must",
+  "options": [
+   "carry three passengers",
+   "ride without lights",
+   "ride on pavements",
+   "wear helmets and reflective jackets"
+  ],
+  "answer": 3,
+  "explanation": "Riders may carry only one passenger.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KDR",
+  "topic": "Kenya rules",
+  "body": "The legal alcohol limit for drivers in Kenya is",
+  "options": [
+   "0.5 g per 100 ml",
+   "0.08 g of alcohol per 100 ml of blood",
+   "any amount is allowed",
+   "0.8 g per 100 ml"
+  ],
+  "answer": 1,
+  "explanation": "Exceeding it is a serious offence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KDR",
+  "topic": "Kenya rules",
+  "body": "In Kenya, every motor vehicle used on a public road must have",
+  "options": [
+   "only theft cover",
+   "only fire insurance",
+   "at least third-party insurance",
+   "no insurance"
+  ],
+  "answer": 2,
+  "explanation": "It covers injury to other people.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KDR",
+  "topic": "Kenya rules",
+  "body": "Kenya's national emergency numbers include",
+  "options": [
+   "100 only",
+   "000",
+   "911 only",
+   "999 and 112"
+  ],
+  "answer": 3,
+  "explanation": "Call for police, fire or ambulance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KDR",
+  "topic": "Kenya rules",
+  "body": "Matatus and other PSVs in Kenya must stop to pick up and drop passengers",
+  "options": [
+   "in the middle of junctions",
+   "on zebra crossings",
+   "only at designated stages",
+   "anywhere on the road"
+  ],
+  "answer": 2,
+  "explanation": "Stopping anywhere causes congestion and danger.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KDR",
+  "topic": "Kenya rules",
+  "body": "Near a hospital in Kenya, drivers should",
+  "options": [
+   "drive faster",
+   "hoot to clear the way",
+   "park on the entrance",
+   "avoid using the horn"
+  ],
+  "answer": 3,
+  "explanation": "Sound the horn only to warn of danger.",
+  "difficulty": 2
+ },
+ {
+  "subject": "KDR",
+  "topic": "Kenya rules",
+  "body": "A Kenyan driver involved in a crash where someone is injured must",
+  "options": [
+   "move the cars and leave",
+   "only call a relative",
+   "stop, help and report it to the police",
+   "drive away"
+  ],
+  "answer": 2,
+  "explanation": "Leaving the scene is an offence.",
+  "difficulty": 2
+ }
+]

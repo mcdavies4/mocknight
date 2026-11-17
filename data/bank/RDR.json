@@ -1,0 +1,226 @@
+[
+ {
+  "subject": "RDR",
+  "topic": "Keep-right rules",
+  "body": "In Rwanda, vehicles drive on the",
+  "options": [
+   "right side of the road",
+   "left side of the road",
+   "either side",
+   "centre of the road"
+  ],
+  "answer": 0,
+  "explanation": "Rwanda drives on the right, unlike its neighbours Uganda, Kenya and Tanzania.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RDR",
+  "topic": "Keep-right rules",
+  "body": "Where traffic keeps right, you normally overtake",
+  "options": [
+   "on either side",
+   "on the shoulder",
+   "on the left",
+   "on the right"
+  ],
+  "answer": 2,
+  "explanation": "Return to the right when it is safe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RDR",
+  "topic": "Keep-right rules",
+  "body": "At an unmarked junction in Rwanda, you should give way to",
+  "options": [
+   "nobody",
+   "only buses",
+   "vehicles coming from your right",
+   "vehicles coming from your left"
+  ],
+  "answer": 2,
+  "explanation": "This is the 'priority to the right' rule.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RDR",
+  "topic": "Keep-right rules",
+  "body": "At a roundabout where traffic keeps right, traffic goes round",
+  "options": [
+   "through the middle",
+   "either way",
+   "anticlockwise",
+   "clockwise"
+  ],
+  "answer": 2,
+  "explanation": "Give way to vehicles already on the roundabout where signs show it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RDR",
+  "topic": "Keep-right rules",
+  "body": "Slower vehicles on a multi-lane road where traffic keeps right should use",
+  "options": [
+   "any lane",
+   "the left-hand lane",
+   "the shoulder",
+   "the right-hand lane"
+  ],
+  "answer": 3,
+  "explanation": "The left lane is for overtaking.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RDR",
+  "topic": "Keep-right rules",
+  "body": "When turning left at a junction where traffic keeps right, you should",
+  "options": [
+   "stop in the junction",
+   "turn from the far right kerb",
+   "cut across the corner",
+   "position just right of the centre line and give way to oncoming traffic"
+  ],
+  "answer": 3,
+  "explanation": "Signal in good time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RDR",
+  "topic": "Keep-right rules",
+  "body": "When an emergency vehicle with siren and flashing lights approaches in Rwanda, you should",
+  "options": [
+   "stop in the middle of the road",
+   "speed up",
+   "move to the left",
+   "move to the right and let it pass"
+  ],
+  "answer": 3,
+  "explanation": "Don't block junctions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RDR",
+  "topic": "Keep-right rules",
+  "body": "When parking where traffic keeps right, you should park",
+  "options": [
+   "on a pedestrian crossing",
+   "facing oncoming traffic on the left",
+   "on a bend",
+   "on the right, facing the direction of traffic"
+  ],
+  "answer": 3,
+  "explanation": "Use lights at night if the road is unlit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RDR",
+  "topic": "Keep-right rules",
+  "body": "When you are being overtaken where traffic keeps right, you should",
+  "options": [
+   "accelerate",
+   "brake suddenly",
+   "keep to the right and not speed up",
+   "move left"
+  ],
+  "answer": 2,
+  "explanation": "Help the other driver pass safely.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RDR",
+  "topic": "Rwanda rules",
+  "body": "In Rwanda, the driving theory test for a provisional licence is organised by",
+  "options": [
+   "the Rwanda Revenue Authority only",
+   "private schools only",
+   "the Ministry of Health",
+   "the Rwanda National Police"
+  ],
+  "answer": 3,
+  "explanation": "Pass it before taking the practical test.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RDR",
+  "topic": "Rwanda rules",
+  "body": "In Rwanda, motorcycle taxi riders and their passengers must",
+  "options": [
+   "wear helmets",
+   "ride on pavements",
+   "carry two passengers",
+   "ride without helmets in town"
+  ],
+  "answer": 0,
+  "explanation": "Riders carry only one passenger.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RDR",
+  "topic": "Rwanda rules",
+  "body": "In Rwanda, the police emergency number is",
+  "options": [
+   "999",
+   "112",
+   "911",
+   "000"
+  ],
+  "answer": 1,
+  "explanation": "113 is the traffic police; 912 is the ambulance service.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RDR",
+  "topic": "Rwanda rules",
+  "body": "In Rwanda, the number for an ambulance (SAMU) is",
+  "options": [
+   "912",
+   "999",
+   "112",
+   "100"
+  ],
+  "answer": 0,
+  "explanation": "Give the exact location.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RDR",
+  "topic": "Rwanda rules",
+  "body": "Speed governors fitted to Rwandan public transport and goods vehicles limit them to",
+  "options": [
+   "30 km/h",
+   "100 km/h",
+   "60 km/h",
+   "120 km/h"
+  ],
+  "answer": 2,
+  "explanation": "They were introduced to cut serious crashes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RDR",
+  "topic": "Rwanda rules",
+  "body": "Rwanda's legal blood alcohol limit for drivers is",
+  "options": [
+   "no limit",
+   "0.8 grams per litre of blood",
+   "0.08 grams per litre",
+   "8 grams per litre"
+  ],
+  "answer": 1,
+  "explanation": "Driving over the limit leads to fines and licence suspension.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RDR",
+  "topic": "Rwanda rules",
+  "body": "A learner driver in Rwanda must",
+  "options": [
+   "drive without a provisional licence",
+   "drive only with a qualified instructor or licensed driver",
+   "carry paying passengers",
+   "drive alone on highways"
+  ],
+  "answer": 1,
+  "explanation": "Practise before the practical test.",
+  "difficulty": 2
+ }
+]

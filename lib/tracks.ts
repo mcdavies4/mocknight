@@ -2,7 +2,7 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV" | "ELEC18" | "EYTA" | "WAREHOUSE" | "NHSHCA" | "BA" | "ISC2CC" | "AWSSAA" | "AICERT" | "SFADMIN" | "GED" | "TEAS" | "CNA" | "ASVAB" | "UPSC" | "RRB" | "CTET" | "CAT" | "GCSE" | "CSJT" | "TOEFL" | "DUOLINGO" | "CDL" | "G1ON" | "APLUS" | "CCNA" | "JUPEB" | "NABTEB" | "NMCN" | "USMLE" | "GULFPH" | "GULFDR" | "UAEDRV" | "UAETLS" | "GULFLAB" | "GULFPT" | "GULFDEN" | "DUBAIPIC" | "SIRA" | "DMVCA" | "DMVTX" | "DMVFL" | "DMVNY" | "DMVGA" | "PTCB" | "PHLEB" | "CCMA" | "CPC" | "NCLEXPN" | "HESI" | "REALEST" | "LIFEINS" | "SERVSAFE" | "EPA608" | "ACT" | "HISET" | "PRAXIS" | "SIE";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV" | "ELEC18" | "EYTA" | "WAREHOUSE" | "NHSHCA" | "BA" | "ISC2CC" | "AWSSAA" | "AICERT" | "SFADMIN" | "GED" | "TEAS" | "CNA" | "ASVAB" | "UPSC" | "RRB" | "CTET" | "CAT" | "GCSE" | "CSJT" | "TOEFL" | "DUOLINGO" | "CDL" | "G1ON" | "APLUS" | "CCNA" | "JUPEB" | "NABTEB" | "NMCN" | "USMLE" | "GULFPH" | "GULFDR" | "UAEDRV" | "UAETLS" | "GULFLAB" | "GULFPT" | "GULFDEN" | "DUBAIPIC" | "SIRA" | "DMVCA" | "DMVTX" | "DMVFL" | "DMVNY" | "DMVGA" | "PTCB" | "PHLEB" | "CCMA" | "CPC" | "NCLEXPN" | "HESI" | "REALEST" | "LIFEINS" | "SERVSAFE" | "EPA608" | "ACT" | "HISET" | "PRAXIS" | "SIE" | "UACE" | "ACSEE" | "RWA6" | "CPAUG" | "CPATZ" | "KEDRV" | "UGDRV" | "TZDRV" | "RWDRV";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
 export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi" | "Asia/Manila" | "Africa/Johannesburg";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
@@ -26,7 +26,7 @@ export interface Track {
   short: string;
   emoji: string;
   kind: "school" | "citizenship" | "work" | "professional";
-  region: "NG" | "GH" | "WA" | "UK" | "GLOBAL" | "ET" | "IN" | "US" | "CA" | "AU" | "GULF" | "KE" | "PK" | "PH" | "TZ" | "UG" | "CM" | "ZA";
+  region: "NG" | "GH" | "WA" | "UK" | "GLOBAL" | "ET" | "IN" | "US" | "CA" | "AU" | "GULF" | "KE" | "PK" | "PH" | "TZ" | "UG" | "CM" | "ZA" | "RW";
   currency: "NGN" | "GBP" | "ETB" | "INR" | "USD";
   subjectMode: "multi" | "single";
   subjects: string[];
@@ -1277,6 +1277,87 @@ export const TRACKS: Record<TrackCode, Track> = {
     mock: { perSubject: 15, minutes: 30, scoreStyle: "percent", maxSubjects: 4 }, weeklyMock: false, askState: false, askSchool: true,
     plans: ["uce_season"], tagline: "UCE (Senior Four) practice: English, Maths, sciences, Geography and Uganda general knowledge", timeZone: "Africa/Nairobi", timeLabel: "Uganda (EAT)",
     audience: "a Ugandan Senior Four student preparing for the UNEB Uganda Certificate of Education",
+  },
+  UACE: {
+    code: "UACE", name: "Uganda UACE (Senior Six / A-Level)", short: "UACE Uganda", emoji: "🇺🇬", kind: "school", region: "UG", currency: "USD",
+    subjectMode: "multi", subjects: ["ENG", "MTH", "PHY", "CHM", "BIO", "ECO", "GEO", "UGC"], compulsory: [], minSubjects: 3, maxSubjects: 5, subjectNote: "Pick your principal subjects plus subsidiaries",
+    mock: { perSubject: 15, minutes: 30, scoreStyle: "percent", maxSubjects: 4 }, weeklyMock: false, askState: false, askSchool: true,
+    plans: ["uace_season"], tagline: "UACE (A-Level) practice: Maths, sciences, Economics, Geography, English and Uganda general knowledge", timeZone: "Africa/Nairobi", timeLabel: "Uganda (EAT)",
+    audience: "a Ugandan Senior Six student preparing for the UNEB Uganda Advanced Certificate of Education",
+  },
+  ACSEE: {
+    code: "ACSEE", name: "Tanzania ACSEE (Form Six)", short: "ACSEE Tanzania", emoji: "🇹🇿", kind: "school", region: "TZ", currency: "USD",
+    subjectMode: "multi", subjects: ["ENG", "MTH", "PHY", "CHM", "BIO", "ECO", "GEO", "TZC"], compulsory: [], minSubjects: 3, maxSubjects: 5, subjectNote: "Pick your combination subjects plus General Studies",
+    mock: { perSubject: 15, minutes: 30, scoreStyle: "percent", maxSubjects: 4 }, weeklyMock: false, askState: false, askSchool: true,
+    plans: ["acsee_season"], tagline: "ACSEE (Form Six) practice: Maths, sciences, Economics, Geography, English and General Studies", timeZone: "Africa/Nairobi", timeLabel: "Tanzania (EAT)",
+    audience: "a Tanzanian Form Six student preparing for the NECTA Advanced Certificate of Secondary Education Examination",
+  },
+  RWA6: {
+    code: "RWA6", name: "Rwanda A-Level National Exam (S6)", short: "S6 Rwanda", emoji: "🇷🇼", kind: "school", region: "RW", currency: "USD",
+    subjectMode: "multi", subjects: ["ENG", "MTH", "PHY", "CHM", "BIO", "ECO", "GEO"], compulsory: [], minSubjects: 3, maxSubjects: 5, subjectNote: "Pick the subjects in your combination",
+    mock: { perSubject: 15, minutes: 30, scoreStyle: "percent", maxSubjects: 4 }, weeklyMock: false, askState: false, askSchool: true,
+    plans: ["rwa_season"], tagline: "Rwanda S6 national exam practice: Maths, Physics, Chemistry, Biology, Economics, Geography and English", timeZone: "Africa/Johannesburg", timeLabel: "Rwanda (CAT)",
+    audience: "a Rwandan Senior Six student preparing for the national A-Level examinations, taught in English",
+  },
+  CPAUG: {
+    code: "CPAUG", name: "Uganda CPA (ICPAU)", short: "CPA Uganda", emoji: "📒", kind: "professional", region: "UG", currency: "USD",
+    subjectMode: "multi", subjects: ["AFA", "AMA", "ABT", "EXE"], compulsory: [], minSubjects: 1, maxSubjects: 4,
+    subjectNote: "Financial and management accounting, business and economics",
+    mock: { perSubject: 15, minutes: 60, passPct: 50, scoreStyle: "passfail", maxSubjects: 3 },
+    mockVariants: [
+      { key: "FA", label: "Financial Accounting", short: "Financial Acc", subjects: ["AFA"], total: 40, minutes: 60, passPct: 50, note: "40 questions · 60 min" },
+      { key: "MA", label: "Management Accounting", short: "Management Acc", subjects: ["AMA"], total: 40, minutes: 60, passPct: 50, note: "40 questions · 60 min" },
+      { key: "ECON", label: "Economics", short: "Economics", subjects: ["EXE"], total: 30, minutes: 45, passPct: 50, note: "30 questions · 45 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["cpaug_pass"], tagline: "CPA Uganda practice: financial and management accounting, business and economics", timeZone: "Africa/Nairobi", timeLabel: "Uganda (EAT)",
+    audience: "a Ugandan accounting student preparing for the ICPAU Certified Public Accountant exams",
+  },
+  CPATZ: {
+    code: "CPATZ", name: "Tanzania CPA (NBAA)", short: "CPA Tanzania", emoji: "📒", kind: "professional", region: "TZ", currency: "USD",
+    subjectMode: "multi", subjects: ["AFA", "AMA", "ABT", "EXE"], compulsory: [], minSubjects: 1, maxSubjects: 4,
+    subjectNote: "Financial and management accounting, business and economics",
+    mock: { perSubject: 15, minutes: 60, passPct: 50, scoreStyle: "passfail", maxSubjects: 3 },
+    mockVariants: [
+      { key: "FA", label: "Financial Accounting", short: "Financial Acc", subjects: ["AFA"], total: 40, minutes: 60, passPct: 50, note: "40 questions · 60 min" },
+      { key: "MA", label: "Management Accounting", short: "Management Acc", subjects: ["AMA"], total: 40, minutes: 60, passPct: 50, note: "40 questions · 60 min" },
+      { key: "ECON", label: "Economics", short: "Economics", subjects: ["EXE"], total: 30, minutes: 45, passPct: 50, note: "30 questions · 45 min" },
+    ],
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["cpatz_pass"], tagline: "CPA Tanzania practice: financial and management accounting, business and economics", timeZone: "Africa/Nairobi", timeLabel: "Tanzania (EAT)",
+    audience: "a Tanzanian accounting student preparing for the NBAA Certified Public Accountant exams",
+  },
+  KEDRV: {
+    code: "KEDRV", name: "Kenya driving theory test (NTSA)", short: "Kenya driving test", emoji: "🚗", kind: "work", region: "KE", currency: "USD",
+    subjectMode: "single", subjects: ["RSG", "EAL", "KDR"], compulsory: ["RSG", "EAL", "KDR"], minSubjects: 3, maxSubjects: 3, subjectNote: "",
+    mock: { total: 30, minutes: 30, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["kedrv_pass"], tagline: "Kenya driving theory practice: road signs, keep-left rules, the model town and Kenyan traffic rules", timeZone: "Africa/Nairobi", timeLabel: "Kenya",
+    audience: "a learner driver in Kenya preparing for the NTSA driving test theory and model town board",
+  },
+  UGDRV: {
+    code: "UGDRV", name: "Uganda driving permit theory test", short: "Uganda driving test", emoji: "🚗", kind: "work", region: "UG", currency: "USD",
+    subjectMode: "single", subjects: ["RSG", "EAL"], compulsory: ["RSG", "EAL"], minSubjects: 2, maxSubjects: 2, subjectNote: "",
+    mock: { total: 25, minutes: 25, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["ugdrv_pass"], tagline: "Uganda driving theory practice: road signs, keep-left rules and safe driving", timeZone: "Africa/Nairobi", timeLabel: "Uganda (EAT)",
+    audience: "a learner driver in Uganda preparing for the driving permit theory test",
+  },
+  TZDRV: {
+    code: "TZDRV", name: "Tanzania driving licence theory test", short: "Tanzania driving test", emoji: "🚗", kind: "work", region: "TZ", currency: "USD",
+    subjectMode: "single", subjects: ["RSG", "EAL"], compulsory: ["RSG", "EAL"], minSubjects: 2, maxSubjects: 2, subjectNote: "",
+    mock: { total: 25, minutes: 25, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["tzdrv_pass"], tagline: "Tanzania driving theory practice: road signs, keep-left rules and safe driving", timeZone: "Africa/Nairobi", timeLabel: "Tanzania (EAT)",
+    audience: "a learner driver in Tanzania preparing for the driving licence theory test",
+  },
+  RWDRV: {
+    code: "RWDRV", name: "Rwanda provisional driving licence test", short: "Rwanda driving test", emoji: "🚗", kind: "work", region: "RW", currency: "USD",
+    subjectMode: "single", subjects: ["RSG", "RDR"], compulsory: ["RSG", "RDR"], minSubjects: 2, maxSubjects: 2, subjectNote: "",
+    mock: { total: 20, minutes: 20, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["rwdrv_pass"], tagline: "Rwanda provisional licence practice: road signs, keep-right and priority rules, and Rwandan traffic rules", timeZone: "Africa/Johannesburg", timeLabel: "Rwanda (CAT)",
+    audience: "a learner driver in Rwanda preparing for the Rwanda National Police provisional licence theory test",
   },
   CMGCE: {
     code: "CMGCE", name: "Cameroon GCE O Level", short: "GCE Cameroon", emoji: "🇨🇲", kind: "school", region: "CM", currency: "USD",
