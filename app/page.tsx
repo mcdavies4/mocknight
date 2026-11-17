@@ -1,9 +1,12 @@
 import Link from "next/link";
+import { JsonLd } from "@/components/json-ld";
+import { SITE_URL } from "@/lib/site";
 
 export default function Home() {
   const bot = process.env.TELEGRAM_BOT_USERNAME ?? "";
   return (
     <main className="wrap brand-home" style={{ maxWidth: 880 }}>
+      <JsonLd data={[{ "@context": "https://schema.org", "@type": "Organization", name: "Mock Night", url: SITE_URL, logo: `${SITE_URL}/icons/icon-512.png`, sameAs: ["https://t.me/MocknightNGbot"] }, { "@context": "https://schema.org", "@type": "WebSite", name: "Mock Night", url: SITE_URL }]} />
       <section className="hero">
         <h1>Prepare for the exams that move you forward.</h1>
         <p className="muted">Mock Night brings academic exam practice and professional certification preparation together — with daily questions, timed mock exams, explanations and progress tracking on web and Telegram.</p>
