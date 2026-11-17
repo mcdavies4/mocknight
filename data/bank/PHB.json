@@ -278,5 +278,145 @@
   "answer": 2,
   "explanation": "This is required by OSHA's Bloodborne Pathogens Standard.",
   "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Equipment",
+  "body": "The higher the needle gauge number,",
+  "options": [
+   "the smaller the needle bore",
+   "the sharper the needle",
+   "the larger the needle bore",
+   "the longer the needle"
+  ],
+  "answer": 0,
+  "explanation": "21 gauge is standard; 23 gauge butterflies are used for small veins.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Technique",
+  "body": "The tourniquet is placed about",
+  "options": [
+   "3 to 4 inches above the puncture site",
+   "on the wrist",
+   "directly over the site",
+   "12 inches above the site"
+  ],
+  "answer": 0,
+  "explanation": "Remove it before withdrawing the needle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Technique",
+  "body": "If a patient has an IV in one arm, you should",
+  "options": [
+   "draw just above the IV",
+   "refuse the draw",
+   "draw from the IV line yourself",
+   "draw from the other arm if possible"
+  ],
+  "answer": 3,
+  "explanation": "If you must use that arm, draw below the IV after it has been stopped for at least 2 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Technique",
+  "body": "Sites to avoid include",
+  "options": [
+   "the antecubital area",
+   "the median cubital vein",
+   "scars, burns, swollen (edematous) areas and arms with an AV fistula",
+   "the non-dominant arm"
+  ],
+  "answer": 2,
+  "explanation": "These can affect results or harm the patient.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Tubes",
+  "body": "A serum separator tube (SST) should be inverted about",
+  "options": [
+   "5 times",
+   "20 times",
+   "it should never be inverted",
+   "once"
+  ],
+  "answer": 0,
+  "explanation": "EDTA and heparin tubes need 8–10 inversions; citrate 3–4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Capillary",
+  "body": "In capillary (skin puncture) collection, which is collected first?",
+  "options": [
+   "glucose first",
+   "blood gases, then EDTA tubes",
+   "serum tubes first",
+   "any order"
+  ],
+  "answer": 1,
+  "explanation": "The order differs from venipuncture because platelets clump quickly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Special tests",
+  "body": "Blood cultures are usually collected",
+  "options": [
+   "from an existing IV line",
+   "without cleaning the skin",
+   "as two sets from separate sites, with careful skin antisepsis",
+   "into a lavender tube"
+  ],
+  "answer": 2,
+  "explanation": "This helps tell true infection from contamination.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Special tests",
+  "body": "A trough drug level is drawn",
+  "options": [
+   "at any time",
+   "one week later",
+   "just before the next dose is due",
+   "right after the dose"
+  ],
+  "answer": 2,
+  "explanation": "A peak level is drawn when the concentration is highest.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Complications",
+  "body": "Tiny red spots on the skin after applying a tourniquet are",
+  "options": [
+   "an allergy",
+   "edema",
+   "petechiae",
+   "a hematoma"
+  ],
+  "answer": 2,
+  "explanation": "They can indicate a clotting problem; the site may bleed longer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Labelling",
+  "body": "A specimen label should include",
+  "options": [
+   "the doctor's phone number",
+   "only the test name",
+   "only the room number",
+   "the patient's name and ID or date of birth, date, time and collector's initials"
+  ],
+  "answer": 3,
+  "explanation": "Follow your facility's policy.",
+  "difficulty": 2
  }
 ]

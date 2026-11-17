@@ -96,5 +96,61 @@
   "answer": 1,
   "explanation": "Stay stopped until the bus moves or signals.",
   "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "In Texas, texting while driving is",
+  "options": [
+   "banned statewide",
+   "allowed on rural roads",
+   "allowed for adults",
+   "allowed at red lights"
+  ],
+  "answer": 0,
+  "explanation": "Drivers under 18 may not use any wireless device while driving.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "In Texas, children younger than 8 must ride in a child safety seat unless they are",
+  "options": [
+   "taller than 4 feet 9 inches",
+   "over 40 pounds",
+   "on a short trip",
+   "in the back seat"
+  ],
+  "answer": 0,
+  "explanation": "Use a seat that fits the child's size.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "In Texas, having an open container of alcohol in the passenger area of a vehicle on a public road is",
+  "options": [
+   "legal on weekends",
+   "legal if the driver is sober",
+   "legal for passengers",
+   "an offense"
+  ],
+  "answer": 3,
+  "explanation": "It applies even if the vehicle is stopped on the roadway.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "Texas drivers under 18 with a provisional license may not",
+  "options": [
+   "drive with a parent",
+   "use a wireless communication device while driving, except in an emergency",
+   "drive alone in daylight",
+   "drive on highways"
+  ],
+  "answer": 1,
+  "explanation": "This includes hands-free use.",
+  "difficulty": 2
  }
 ]

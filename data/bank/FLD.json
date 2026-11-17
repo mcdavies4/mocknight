@@ -82,5 +82,61 @@
   "answer": 1,
   "explanation": "Children aged 4 and 5 may use a booster seat.",
   "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "Florida's Wireless Communications While Driving Law prohibits",
+  "options": [
+   "hands-free calls everywhere",
+   "texting while driving, and any handheld phone use in school and work zones",
+   "using GPS mounted on the dashboard",
+   "listening to the radio"
+  ],
+  "answer": 1,
+  "explanation": "Hands-free use is allowed outside those zones.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "During the first 3 months, a Florida learner license holder may drive",
+  "options": [
+   "at any time alone",
+   "only during daylight hours",
+   "only on highways",
+   "until midnight"
+  ],
+  "answer": 1,
+  "explanation": "After 3 months they may drive until 10 p.m., always with a licensed driver aged 21 or over.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "In Florida, seat belts must be worn by",
+  "options": [
+   "nobody on short trips",
+   "only children under 5",
+   "only the driver",
+   "the driver, front-seat passengers and all passengers under 18"
+  ],
+  "answer": 3,
+  "explanation": "The driver is responsible for passengers under 18.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "Florida is a 'no-fault' state, which means drivers must carry",
+  "options": [
+   "personal injury protection (PIP) and property damage liability insurance",
+   "no insurance",
+   "only uninsured motorist cover",
+   "only collision insurance"
+  ],
+  "answer": 0,
+  "explanation": "PIP pays your own medical costs regardless of fault.",
+  "difficulty": 2
  }
 ]

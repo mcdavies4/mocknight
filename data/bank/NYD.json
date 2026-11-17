@@ -82,5 +82,75 @@
   "answer": 3,
   "explanation": "You must pass a vision test and the written test.",
   "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "A New York learner permit holder must be supervised by a licensed driver aged",
+  "options": [
+   "25 or older",
+   "18 or older",
+   "21 or older",
+   "16 or older"
+  ],
+  "answer": 2,
+  "explanation": "The supervising driver sits in the front passenger seat.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "Before the road test, New York applicants must complete",
+  "options": [
+   "a 5-hour pre-licensing course (or an approved driver education course)",
+   "a first aid course",
+   "nothing",
+   "a 40-hour class"
+  ],
+  "answer": 0,
+  "explanation": "It covers highway safety and driver attitudes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "Drivers under 18 in New York must certify at least how many hours of supervised practice before the road test?",
+  "options": [
+   "10 hours",
+   "100 hours",
+   "50 hours, including 15 after sunset",
+   "20 hours"
+  ],
+  "answer": 2,
+  "explanation": "Practice with a supervising driver aged 21 or older.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "In New York, you must turn on your headlights when",
+  "options": [
+   "never in daylight",
+   "only on highways",
+   "only after midnight",
+   "your windshield wipers are on because of bad weather"
+  ],
+  "answer": 3,
+  "explanation": "Also from 30 minutes after sunset to 30 minutes before sunrise.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "Under New York's Leandra's Law, driving while intoxicated with a child aged 15 or younger in the vehicle is",
+  "options": [
+   "a traffic ticket",
+   "a felony",
+   "legal with a booster seat",
+   "a warning only"
+  ],
+  "answer": 1,
+  "explanation": "It also requires an ignition interlock device for convicted drivers.",
+  "difficulty": 2
  }
 ]

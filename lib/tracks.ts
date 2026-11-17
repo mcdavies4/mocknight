@@ -1126,7 +1126,7 @@ export const TRACKS: Record<TrackCode, Track> = {
   CPC: {
     code: "CPC", name: "Medical coding (AAPC CPC)", short: "Medical Coding (CPC)", emoji: "🧾", kind: "professional", region: "US", currency: "USD",
     subjectMode: "single", subjects: ["MCD"], compulsory: ["MCD"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
-    mock: { total: 15, minutes: 36, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 },
+    mock: { total: 20, minutes: 48, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 },
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["cpc_pass"], tagline: "CPC practice: ICD-10-CM, CPT and HCPCS rules, modifiers, E/M and compliance", timeZone: "America/New_York", timeLabel: "US Eastern",
     audience: "a US medical coding student preparing for the AAPC Certified Professional Coder (CPC) exam",
@@ -1171,7 +1171,7 @@ export const TRACKS: Record<TrackCode, Track> = {
   SERVSAFE: {
     code: "SERVSAFE", name: "ServSafe Food Protection Manager", short: "ServSafe Manager", emoji: "🍽️", kind: "work", region: "US", currency: "USD",
     subjectMode: "single", subjects: ["SSM"], compulsory: ["SSM"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
-    mock: { total: 15, minutes: 20, passPct: 75, scoreStyle: "passfail", maxSubjects: 1 },
+    mock: { total: 20, minutes: 27, passPct: 75, scoreStyle: "passfail", maxSubjects: 1 },
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["servsafe_pass"], tagline: "ServSafe Manager practice: cooking and holding temperatures, cooling, the Big Six, allergens, receiving, storage and cleaning", timeZone: "America/New_York", timeLabel: "US Eastern",
     audience: "a US restaurant manager or supervisor preparing for the ServSafe Food Protection Manager Certification exam",
@@ -1179,7 +1179,7 @@ export const TRACKS: Record<TrackCode, Track> = {
   EPA608: {
     code: "EPA608", name: "EPA Section 608 refrigerant certification", short: "EPA 608", emoji: "❄️", kind: "work", region: "US", currency: "USD",
     subjectMode: "single", subjects: ["EPA"], compulsory: ["EPA"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
-    mock: { total: 12, minutes: 15, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 },
+    mock: { total: 20, minutes: 25, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 },
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["epa608_pass"], tagline: "EPA 608 practice: Core, Type I, Type II and Type III", timeZone: "America/New_York", timeLabel: "US Eastern",
     audience: "an HVAC/R technician preparing for EPA Section 608 certification",

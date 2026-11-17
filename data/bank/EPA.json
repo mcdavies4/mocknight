@@ -222,5 +222,145 @@
   "answer": 1,
   "explanation": "Liquid refrigerant can cause frostbite.",
   "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Core",
+  "body": "Refrigerant blends with temperature glide (zeotropic blends such as R-407C) should be charged",
+  "options": [
+   "as either, it makes no difference",
+   "only by weight of vapor",
+   "as a vapor",
+   "as a liquid"
+  ],
+  "answer": 3,
+  "explanation": "Charging as vapor can change the blend composition (fractionation).",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Core",
+  "body": "Compared with R-22, R-410A operates at",
+  "options": [
+   "the same pressures",
+   "below atmospheric pressure",
+   "lower pressures",
+   "much higher pressures"
+  ],
+  "answer": 3,
+  "explanation": "Use gauges and hoses rated for R-410A.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Core",
+  "body": "ASHRAE Standard 34 safety group A1 means a refrigerant has",
+  "options": [
+   "is banned",
+   "high flammability",
+   "lower toxicity and no flame propagation",
+   "high toxicity"
+  ],
+  "answer": 2,
+  "explanation": "B is higher toxicity; 2 and 3 indicate flammability.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Core",
+  "body": "The stratospheric ozone layer protects Earth from",
+  "options": [
+   "visible light",
+   "harmful ultraviolet (UV-B) radiation",
+   "infrared heat",
+   "radio waves"
+  ],
+  "answer": 1,
+  "explanation": "Depletion increases skin cancer and cataracts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Core",
+  "body": "A refrigerant cylinder should never be",
+  "options": [
+   "heated with an open flame",
+   "labelled",
+   "weighed",
+   "stored upright"
+  ],
+  "answer": 0,
+  "explanation": "Overheating can cause it to rupture.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Type I",
+  "body": "Small appliance recovery equipment manufactured after November 15, 1993 must recover what percentage when the compressor is working?",
+  "options": [
+   "100%",
+   "50%",
+   "80%",
+   "90%"
+  ],
+  "answer": 3,
+  "explanation": "80% when the compressor is not working, or achieve a 4-inch vacuum.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Type I",
+  "body": "System-dependent (passive) recovery on small appliances",
+  "options": [
+   "uses the appliance's own compressor or pressure to recover refrigerant",
+   "is only for chillers",
+   "needs no equipment at all",
+   "is banned"
+  ],
+  "answer": 0,
+  "explanation": "Self-contained (active) recovery has its own compressor.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Type I",
+  "body": "The person at the end of the disposal chain for a small appliance (for example a scrap recycler) must",
+  "options": [
+   "send it to a landfill with refrigerant inside",
+   "ensure the refrigerant has been recovered before disposal",
+   "vent the refrigerant",
+   "ignore the refrigerant"
+  ],
+  "answer": 1,
+  "explanation": "They can recover it themselves or get signed verification.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Type III",
+  "body": "Low-pressure chillers use a purge unit to",
+  "options": [
+   "increase pressure",
+   "remove oil",
+   "add refrigerant",
+   "remove air and moisture (non-condensables) that leak in"
+  ],
+  "answer": 3,
+  "explanation": "Excessive purging can indicate a leak.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Safety",
+  "body": "ASHRAE Standard 15 requires machinery rooms to have",
+  "options": [
+   "windows only",
+   "no ventilation",
+   "open flames for heating",
+   "refrigerant sensors and alarms"
+  ],
+  "answer": 3,
+  "explanation": "Some refrigerants can displace oxygen.",
+  "difficulty": 2
  }
 ]

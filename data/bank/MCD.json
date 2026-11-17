@@ -236,5 +236,145 @@
   "answer": 2,
   "explanation": "History and exam are performed as medically appropriate.",
   "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "CPT",
+  "body": "CPT codes for procedures and services are",
+  "options": [
+   "5 characters long",
+   "always alphanumeric with a letter first",
+   "7 characters long",
+   "3 characters long"
+  ],
+  "answer": 0,
+  "explanation": "Category II and III codes end in F and T respectively.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "CPT",
+  "body": "Office visits for a new patient are reported with codes",
+  "options": [
+   "99211–99215",
+   "99221–99223",
+   "99281–99285",
+   "99202–99205"
+  ],
+  "answer": 3,
+  "explanation": "99211–99215 are established patient office visits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "Claims",
+  "body": "Physicians and other professionals bill on the",
+  "options": [
+   "CMS-1500 (837P) claim",
+   "1099 form",
+   "UB-04 (837I) claim",
+   "W-2 form"
+  ],
+  "answer": 0,
+  "explanation": "Hospitals and facilities use the UB-04.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "Claims",
+  "body": "A National Provider Identifier (NPI) is",
+  "options": [
+   "a 10-digit number identifying a health care provider",
+   "a patient's insurance number",
+   "a procedure code",
+   "a diagnosis code"
+  ],
+  "answer": 0,
+  "explanation": "It is required on HIPAA standard transactions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "ICD-10-CM",
+  "body": "Injury and poisoning codes are found in the range",
+  "options": [
+   "I00–I99",
+   "S00–T88",
+   "Z00–Z99",
+   "C00–D49"
+  ],
+  "answer": 1,
+  "explanation": "C00–D49 is neoplasms; I00–I99 is the circulatory system.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "ICD-10-CM",
+  "body": "Essential (primary) hypertension is coded",
+  "options": [
+   "I10",
+   "Z00.00",
+   "E11.9",
+   "J45.909"
+  ],
+  "answer": 0,
+  "explanation": "E11 codes are type 2 diabetes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "ICD-10-CM",
+  "body": "A combination code is",
+  "options": [
+   "a code with a modifier",
+   "a CPT and ICD code on one line",
+   "a single code that classifies two diagnoses, or a diagnosis with a complication",
+   "two codes always reported together"
+  ],
+  "answer": 2,
+  "explanation": "Use it when the classification provides one.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "ICD-10-CM",
+  "body": "The instruction 'code first' means",
+  "options": [
+   "this code must always be first-listed",
+   "the underlying condition should be sequenced before this code",
+   "do not code the condition",
+   "use a CPT code first"
+  ],
+  "answer": 1,
+  "explanation": "It appears with manifestation codes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "ICD-10-CM",
+  "body": "A sequela is",
+  "options": [
+   "a new injury",
+   "a screening exam",
+   "a symptom code",
+   "a residual effect after the acute phase of an illness or injury has ended"
+  ],
+  "answer": 3,
+  "explanation": "For injuries, it uses the 7th character 'S'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "Compliance",
+  "body": "Under HIPAA, the minimum necessary rule means",
+  "options": [
+   "only doctors may see records",
+   "share the full record with anyone who asks",
+   "use or disclose only the minimum information needed for the purpose",
+   "never share any information"
+  ],
+  "answer": 2,
+  "explanation": "It does not apply to disclosures for treatment.",
+  "difficulty": 2
  }
 ]

@@ -264,5 +264,145 @@
   "answer": 0,
   "explanation": "Work with a licensed pest control operator.",
   "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "TCS food",
+  "body": "Which is a TCS (time/temperature control for safety) food?",
+  "options": [
+   "unopened canned soup",
+   "bread",
+   "cooked rice",
+   "dry pasta"
+  ],
+  "answer": 2,
+  "explanation": "Others include dairy, eggs, meat, cut melons, cut tomatoes and cut leafy greens.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Time control",
+  "body": "Hot or cold TCS food held without temperature control under a written plan must be thrown out after",
+  "options": [
+   "12 hours",
+   "8 hours",
+   "4 hours",
+   "24 hours"
+  ],
+  "answer": 2,
+  "explanation": "Cold food can be held up to 6 hours if it starts at 41 °F or lower and stays at 70 °F or lower.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Cooling",
+  "body": "A safe way to cool a large pot of food quickly is to",
+  "options": [
+   "cover it tightly while hot",
+   "divide it into shallow pans no more than 2 inches deep",
+   "leave it on the counter overnight",
+   "put the whole pot in the freezer"
+  ],
+  "answer": 1,
+  "explanation": "Ice-water baths and ice paddles also help.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Thermometers",
+  "body": "A thermometer can be calibrated using the ice-point method, which should read",
+  "options": [
+   "41 °F",
+   "0 °F",
+   "212 °F",
+   "32 °F (0 °C)"
+  ],
+  "answer": 3,
+  "explanation": "Adjust the nut on a bimetallic stemmed thermometer if needed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Hygiene",
+  "body": "Single-use gloves should be changed",
+  "options": [
+   "once a day",
+   "when torn or dirty, between tasks, and at least every 4 hours of continuous use",
+   "only at the end of a shift",
+   "never if washed"
+  ],
+  "answer": 1,
+  "explanation": "Wash hands before putting on gloves.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Hygiene",
+  "body": "Bare-hand contact with ready-to-eat food is",
+  "options": [
+   "fine if hands look clean",
+   "allowed for bread only",
+   "allowed for chefs",
+   "not allowed; use gloves, utensils or deli tissue"
+  ],
+  "answer": 3,
+  "explanation": "Ready-to-eat food won't be cooked again.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Pathogens",
+  "body": "Scombroid poisoning from fish such as tuna is caused by",
+  "options": [
+   "Listeria",
+   "Norovirus",
+   "Salmonella",
+   "histamine, which cooking does not destroy"
+  ],
+  "answer": 3,
+  "explanation": "Buy from approved suppliers and control temperatures.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Pathogens",
+  "body": "Bacillus cereus is most often linked with",
+  "options": [
+   "poultry",
+   "ground beef",
+   "cooked rice held at the wrong temperature",
+   "raw oysters"
+  ],
+  "answer": 2,
+  "explanation": "Cool and hold rice properly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Pathogens",
+  "body": "Clostridium perfringens outbreaks are usually linked to",
+  "options": [
+   "food that was cooled or held improperly, such as large batches of meat or gravy",
+   "bottled water",
+   "ice",
+   "raw sprouts"
+  ],
+  "answer": 0,
+  "explanation": "Cool food quickly and hot-hold at 135 °F or higher.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Chemicals",
+  "body": "Cleaning chemicals should be stored",
+  "options": [
+   "above food prep areas",
+   "in unlabeled bottles",
+   "next to dry goods",
+   "away from and below food and food-contact surfaces"
+  ],
+  "answer": 3,
+  "explanation": "Keep Safety Data Sheets available.",
+  "difficulty": 2
  }
 ]

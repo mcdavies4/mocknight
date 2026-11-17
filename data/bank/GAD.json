@@ -82,5 +82,61 @@
   "answer": 1,
   "explanation": "It protects people working at the roadside.",
   "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "Under Georgia's Joshua's Law, 16-year-olds applying for a Class D license must complete",
+  "options": [
+   "an approved 30-hour driver education course and 40 hours of supervised driving",
+   "no driver education",
+   "a defensive driving course after the license",
+   "a 5-hour course only"
+  ],
+  "answer": 0,
+  "explanation": "Six of the 40 hours must be at night.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "Georgia Class D (intermediate) license holders may not drive between",
+  "options": [
+   "noon and 2 p.m.",
+   "midnight and 6 a.m.",
+   "8 p.m. and 6 a.m.",
+   "10 p.m. and 4 a.m."
+  ],
+  "answer": 1,
+  "explanation": "There are also limits on passengers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "Georgia's Super Speeder law adds an extra state fee for driving",
+  "options": [
+   "85 mph or faster on any road, or 75 mph or faster on a two-lane road",
+   "only in school zones",
+   "any speed over the limit",
+   "under the minimum speed"
+  ],
+  "answer": 0,
+  "explanation": "This is on top of the local fine.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "In Georgia, you must use your headlights when",
+  "options": [
+   "never in daylight",
+   "only after midnight",
+   "your windshield wipers are needed because of rain, fog or other conditions",
+   "only on interstates"
+  ],
+  "answer": 2,
+  "explanation": "Also from 30 minutes after sunset to 30 minutes before sunrise.",
+  "difficulty": 2
  }
 ]

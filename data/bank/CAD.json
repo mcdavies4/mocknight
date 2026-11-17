@@ -166,5 +166,89 @@
   "answer": 1,
   "explanation": "Children under 8 must ride in the back seat.",
   "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "In California, you must turn on your headlights when",
+  "options": [
+   "only on freeways",
+   "only after midnight",
+   "never during the day",
+   "your windshield wipers are on continuously because of weather"
+  ],
+  "answer": 3,
+  "explanation": "Also from 30 minutes after sunset to 30 minutes before sunrise.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "For the first 12 months, a California provisional license holder under 18 may not drive",
+  "options": [
+   "after 6 p.m.",
+   "on freeways at any time",
+   "between 11 p.m. and 5 a.m. without a licensed adult (with some exceptions)",
+   "on weekends"
+  ],
+  "answer": 2,
+  "explanation": "They also can't carry passengers under 20 unless accompanied.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "In California, you must report a collision to the DMV within 10 days if",
+  "options": [
+   "it happened at night",
+   "only if police attended",
+   "anyone was injured or killed, or property damage was over $1,000",
+   "you were not at fault"
+  ],
+  "answer": 2,
+  "explanation": "Use form SR-1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "In California, a diamond symbol painted on a lane marks",
+  "options": [
+   "a bike lane",
+   "a high-occupancy vehicle (HOV/carpool) lane",
+   "a school zone",
+   "a bus stop"
+  ],
+  "answer": 1,
+  "explanation": "Signs show the minimum number of occupants and hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "When parallel parking in California, your wheels must be within",
+  "options": [
+   "3 feet of the curb",
+   "36 inches of the curb",
+   "18 inches of the curb",
+   "6 inches of the center line"
+  ],
+  "answer": 2,
+  "explanation": "Set the parking brake.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "In California, smoking in a vehicle when a minor is present is",
+  "options": [
+   "legal on freeways",
+   "legal if the minor consents",
+   "legal with windows open",
+   "illegal"
+  ],
+  "answer": 3,
+  "explanation": "This applies whether the vehicle is moving or stopped.",
+  "difficulty": 2
  }
 ]
