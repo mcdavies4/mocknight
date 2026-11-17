@@ -80,6 +80,7 @@ export function SiteFooter() {
           <Link href="/exams">All exams</Link>
           <Link href="/blog">Blog</Link>
           <Link href="/app">Web app</Link>
+          <Link href="/privacy">Privacy</Link>
         </nav>
         <span className="muted small">A product of The 36th Solutions Ltd.</span>
       </div>
