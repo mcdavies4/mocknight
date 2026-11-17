@@ -138,5 +138,201 @@
   "answer": 2,
   "explanation": "Also from 30 minutes after sunset to 30 minutes before sunrise.",
   "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "To get a Georgia Class D license, you must be at least 16 and have held a learner permit for",
+  "options": [
+   "1 month",
+   "12 months and 1 day",
+   "3 months",
+   "2 years"
+  ],
+  "answer": 1,
+  "explanation": "You also need no major traffic violations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "During the first 6 months with a Georgia Class D license, you may carry",
+  "options": [
+   "only immediate family members as passengers",
+   "no passengers at all",
+   "up to three friends",
+   "any passengers"
+  ],
+  "answer": 0,
+  "explanation": "In the next 6 months, one non-family passenger under 21 is allowed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "A Georgia driver can get a full Class C license at age",
+  "options": [
+   "17",
+   "16",
+   "21",
+   "18"
+  ],
+  "answer": 3,
+  "explanation": "They must have no major violations in the previous 12 months.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "Georgia's Super Speeder fee is",
+  "options": [
+   "$20",
+   "$200, on top of the local fine",
+   "nothing",
+   "$1,000"
+  ],
+  "answer": 1,
+  "explanation": "It applies at 85 mph or more, or 75 mph or more on a two-lane road.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "Georgia teens under 18 must complete",
+  "options": [
+   "a motorcycle course",
+   "a CDL course",
+   "the Alcohol and Drug Awareness Program (ADAP)",
+   "a first aid course"
+  ],
+  "answer": 2,
+  "explanation": "It's required for a license.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "In Georgia, drivers with an instruction permit or Class D license",
+  "options": [
+   "may text at red lights",
+   "may hold a phone below 25 mph",
+   "may use a phone hands-free",
+   "may not use a phone at all while driving, even hands-free, except in emergencies"
+  ],
+  "answer": 3,
+  "explanation": "Adult drivers may use hands-free devices.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "In Georgia, children under 8 must ride",
+  "options": [
+   "in the rear seat in a child seat or booster, unless they are over 4 feet 9 inches tall",
+   "in an adult lap belt only",
+   "in the front seat",
+   "with no restraint"
+  ],
+  "answer": 0,
+  "explanation": "Follow the seat's height and weight limits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "Unless posted otherwise, the speed limit in a Georgia urban or residential district is",
+  "options": [
+   "45 mph",
+   "30 mph",
+   "55 mph",
+   "20 mph"
+  ],
+  "answer": 1,
+  "explanation": "Unpaved roads default to 35 mph.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "Georgia's 'slowpoke' law requires you to",
+  "options": [
+   "drive only in the left lane",
+   "use hazard lights in the left lane",
+   "drive below the limit",
+   "move out of the left lane when a faster vehicle comes up behind you"
+  ],
+  "answer": 3,
+  "explanation": "The left lane is for passing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "In Georgia, a driver under 21 has their license suspended for",
+  "options": [
+   "1 point in 5 years",
+   "no points",
+   "30 points in 2 years",
+   "4 or more points in any 12 months"
+  ],
+  "answer": 3,
+  "explanation": "Adults face suspension at 15 points in 24 months.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "In Georgia, a crash must be reported to police if anyone is hurt or killed, or property damage is",
+  "options": [
+   "$50,000 or more",
+   "$50 or more",
+   "$500 or more",
+   "$5,000 or more"
+  ],
+  "answer": 2,
+  "explanation": "Remain at the scene and exchange information.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "In Georgia, you may not park within how many feet of a fire hydrant?",
+  "options": [
+   "15 feet",
+   "5 feet",
+   "100 feet",
+   "50 feet"
+  ],
+  "answer": 0,
+  "explanation": "Also not within 20 feet of a crosswalk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "In Georgia, you may not park within how many feet of a railroad crossing?",
+  "options": [
+   "5 feet",
+   "100 feet",
+   "15 feet",
+   "50 feet"
+  ],
+  "answer": 3,
+  "explanation": "And not within 30 feet of a stop sign or traffic signal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "The legal BAC limit for commercial drivers in Georgia is",
+  "options": [
+   "0.04%",
+   "0.08%",
+   "0.15%",
+   "0.10%"
+  ],
+  "answer": 0,
+  "explanation": "Adults in private cars: 0.08%; under 21: 0.02%.",
+  "difficulty": 2
  }
 ]

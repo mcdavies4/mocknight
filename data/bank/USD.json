@@ -516,5 +516,425 @@
   "answer": 3,
   "explanation": "95 ft/s × 3 s ≈ 286 feet.",
   "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signs",
+  "body": "A white rectangular sign with black lettering is usually a",
+  "options": [
+   "regulatory sign, such as a speed limit",
+   "recreation sign",
+   "guide sign",
+   "warning sign"
+  ],
+  "answer": 0,
+  "explanation": "Regulatory signs tell you what you must or must not do.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signs",
+  "body": "Green signs show",
+  "options": [
+   "school crossings",
+   "work zones",
+   "directions, distances and destinations",
+   "warnings"
+  ],
+  "answer": 2,
+  "explanation": "Blue signs show motorist services; brown signs show recreation and cultural sites.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signs",
+  "body": "A blue sign usually shows",
+  "options": [
+   "a speed limit",
+   "a hazard ahead",
+   "motorist services such as gas, food or lodging",
+   "a school zone"
+  ],
+  "answer": 2,
+  "explanation": "Brown signs point to parks and recreation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signs",
+  "body": "A red circle with a diagonal slash on a sign means",
+  "options": [
+   "a detour",
+   "the action shown is not allowed",
+   "the action shown is required",
+   "the road ends"
+  ],
+  "answer": 1,
+  "explanation": "For example, a slashed U-turn arrow means no U-turns.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signs",
+  "body": "A white X-shaped crossbuck sign marks",
+  "options": [
+   "a railroad crossing; yield to trains",
+   "a four-way stop",
+   "a pedestrian crossing",
+   "a hospital"
+  ],
+  "answer": 0,
+  "explanation": "Treat it like a yield sign.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Pavement markings",
+  "body": "A center lane marked with a solid and a broken yellow line on each side is",
+  "options": [
+   "a bike lane",
+   "a passing lane",
+   "a bus lane",
+   "a shared center left-turn lane"
+  ],
+  "answer": 3,
+  "explanation": "Use it only to begin or finish a left turn.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Pavement markings",
+  "body": "White lane lines separate",
+  "options": [
+   "bike lanes only",
+   "lanes of traffic going in the same direction",
+   "traffic going in opposite directions",
+   "parking spaces only"
+  ],
+  "answer": 1,
+  "explanation": "Yellow lines separate traffic going in opposite directions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signals",
+  "body": "A green arrow signal means",
+  "options": [
+   "you must yield to oncoming traffic",
+   "you may turn in the direction of the arrow; oncoming traffic is stopped",
+   "the lane is closed",
+   "stop"
+  ],
+  "answer": 1,
+  "explanation": "It is a protected turn.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signals",
+  "body": "A red X over a lane means",
+  "options": [
+   "do not drive in that lane",
+   "speed up",
+   "the lane is for turning",
+   "the lane is about to open"
+  ],
+  "answer": 0,
+  "explanation": "A yellow X means the lane is about to close; leave it safely.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signals",
+  "body": "If a traffic light is completely out, you should",
+  "options": [
+   "drive through without stopping",
+   "yield only to trucks",
+   "treat the intersection as an all-way stop",
+   "turn around"
+  ],
+  "answer": 2,
+  "explanation": "Proceed when it is safe and your turn.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Right-of-way",
+  "body": "When entering a roundabout, you should",
+  "options": [
+   "expect traffic inside to yield to you",
+   "drive clockwise",
+   "yield to traffic already in the roundabout",
+   "stop inside the circle"
+  ],
+  "answer": 2,
+  "explanation": "In the US, traffic in a roundabout moves counterclockwise.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Right-of-way",
+  "body": "At an uncontrolled intersection, you should yield to",
+  "options": [
+   "vehicles behind you",
+   "nobody",
+   "only trucks",
+   "vehicles already in the intersection"
+  ],
+  "answer": 3,
+  "explanation": "If you arrive at the same time, yield to the vehicle on your right.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Right-of-way",
+  "body": "In a work zone, a flagger's instructions",
+  "options": [
+   "apply only to trucks",
+   "are only advice",
+   "must be obeyed, even over signs and signals",
+   "can be ignored if no workers are visible"
+  ],
+  "answer": 2,
+  "explanation": "Slow down and expect sudden stops.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signals",
+  "body": "The hand signal for a left turn is",
+  "options": [
+   "right arm out of the window",
+   "left arm straight out of the window",
+   "left arm pointing down",
+   "left arm bent upward"
+  ],
+  "answer": 1,
+  "explanation": "Arm bent up means right turn; arm down means slow or stop.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Freeways",
+  "body": "When entering a freeway, you should",
+  "options": [
+   "drive on the shoulder until there is a gap",
+   "use the on-ramp to speed up to match freeway traffic",
+   "stop at the end of the ramp",
+   "enter slowly to be safe"
+  ],
+  "answer": 1,
+  "explanation": "Merge into a safe gap.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Freeways",
+  "body": "If you miss your freeway exit, you should",
+  "options": [
+   "make a U-turn across the median",
+   "stop and wait",
+   "back up on the shoulder",
+   "go on to the next exit"
+  ],
+  "answer": 3,
+  "explanation": "Never reverse on a freeway.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Railroads",
+  "body": "If your vehicle stalls on railroad tracks with a train coming, you should",
+  "options": [
+   "try to restart the engine until the train arrives",
+   "run along the tracks away from the train",
+   "get everyone out and move away from the tracks at an angle toward the train",
+   "stay in the car"
+  ],
+  "answer": 2,
+  "explanation": "Moving toward the train at an angle avoids flying debris.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Railroads",
+  "body": "You should never",
+  "options": [
+   "cross after a train has passed and the way is clear",
+   "slow down at a crossing",
+   "look both ways at a crossing",
+   "stop on railroad tracks"
+  ],
+  "answer": 3,
+  "explanation": "Make sure there is room to clear the tracks before you cross.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "If your vehicle has anti-lock brakes (ABS), in an emergency stop you should",
+  "options": [
+   "pump the brake rapidly",
+   "press the brake firmly and hold it",
+   "use the parking brake",
+   "release the brake and steer"
+  ],
+  "answer": 1,
+  "explanation": "You may feel pulsing; keep pressing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "If another driver is tailgating you, you should",
+  "options": [
+   "speed up",
+   "increase your following distance ahead and let them pass",
+   "stop in the road",
+   "brake suddenly"
+  ],
+  "answer": 1,
+  "explanation": "Change lanes if you safely can.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "'Overdriving your headlights' means",
+  "options": [
+   "driving so fast you can't stop within the distance your lights show",
+   "driving without headlights",
+   "using headlights in daylight",
+   "using high beams in fog"
+  ],
+  "answer": 0,
+  "explanation": "Slow down at night.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "You should avoid driving through moving water because",
+  "options": [
+   "it improves braking",
+   "as little as 6 inches can cause a car to lose control or stall",
+   "it is always illegal",
+   "it cleans the tires"
+  ],
+  "answer": 1,
+  "explanation": "About a foot of moving water can float many vehicles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "When dealing with an aggressive driver, you should",
+  "options": [
+   "follow them",
+   "gesture back",
+   "avoid eye contact and get out of their way",
+   "challenge them"
+  ],
+  "answer": 2,
+  "explanation": "Report dangerous driving when safe to do so.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "If you feel drowsy while driving, the best thing to do is",
+  "options": [
+   "turn up the radio",
+   "pull over somewhere safe and rest",
+   "open the window and keep going",
+   "drive faster to get home sooner"
+  ],
+  "answer": 1,
+  "explanation": "Fatigue slows reactions like alcohol does.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "Some over-the-counter medicines, such as cold remedies,",
+  "options": [
+   "improve reaction time",
+   "can make you drowsy and affect your driving",
+   "never affect driving",
+   "cancel out alcohol"
+  ],
+  "answer": 1,
+  "explanation": "Read the label for warnings.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Passing",
+  "body": "After passing a vehicle, you should return to your lane when",
+  "options": [
+   "your front bumper passes theirs",
+   "after one mile",
+   "immediately",
+   "you can see the vehicle you passed in your rear-view mirror"
+  ],
+  "answer": 3,
+  "explanation": "Signal before returning.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Sharing the road",
+  "body": "Motorcycles are entitled to",
+  "options": [
+   "the full width of a lane",
+   "half of a lane",
+   "no lane",
+   "the shoulder only"
+  ],
+  "answer": 0,
+  "explanation": "Never share a lane with a motorcycle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Sharing the road",
+  "body": "Shared-lane markings (a bicycle with two chevrons) show that",
+  "options": [
+   "bicycles are banned",
+   "the lane is a turning lane",
+   "bicyclists and motorists share the lane",
+   "the lane is for buses"
+  ],
+  "answer": 2,
+  "explanation": "Give bicyclists room.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Parking",
+  "body": "When parking uphill on a road with no curb, turn your front wheels",
+  "options": [
+   "toward the center of the road",
+   "straight ahead",
+   "toward the edge of the road",
+   "either way"
+  ],
+  "answer": 2,
+  "explanation": "If the car rolls, it rolls away from traffic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Emergencies",
+  "body": "If your car breaks down on the highway, you should",
+  "options": [
+   "move off the road if you can and turn on your hazard lights",
+   "walk across the freeway",
+   "stop in the lane and wait",
+   "leave the lights off"
+  ],
+  "answer": 0,
+  "explanation": "Stay out of traffic lanes.",
+  "difficulty": 2
  }
 ]

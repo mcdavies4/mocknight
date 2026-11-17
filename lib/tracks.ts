@@ -1078,7 +1078,7 @@ export const TRACKS: Record<TrackCode, Track> = {
   DMVFL: {
     code: "DMVFL", name: "Florida DMV permit test", short: "Florida permit test", emoji: "🚗", kind: "work", region: "US", currency: "USD",
     subjectMode: "single", subjects: ["USD", "FLD"], compulsory: ["USD", "FLD"], minSubjects: 2, maxSubjects: 2, subjectNote: "",
-    mock: { total: 35, minutes: 35, passPct: 80, scoreStyle: "passfail", maxSubjects: 1 },
+    mock: { total: 50, minutes: 50, passPct: 80, scoreStyle: "passfail", maxSubjects: 1 },
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["dmv_pass"], tagline: "Florida permit test practice: road signs, rules of the road, alcohol laws and Florida-specific rules", timeZone: "America/New_York", timeLabel: "US Eastern",
     audience: "a new driver or newcomer in Florida preparing for the state's written driver's knowledge (permit) test",
@@ -1094,7 +1094,7 @@ export const TRACKS: Record<TrackCode, Track> = {
   DMVGA: {
     code: "DMVGA", name: "Georgia DMV permit test", short: "Georgia permit test", emoji: "🚗", kind: "work", region: "US", currency: "USD",
     subjectMode: "single", subjects: ["USD", "GAD"], compulsory: ["USD", "GAD"], minSubjects: 2, maxSubjects: 2, subjectNote: "",
-    mock: { total: 30, minutes: 30, passPct: 75, scoreStyle: "passfail", maxSubjects: 1 },
+    mock: { total: 40, minutes: 40, passPct: 75, scoreStyle: "passfail", maxSubjects: 1 },
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["dmv_pass"], tagline: "Georgia permit test practice: road signs, rules of the road, alcohol laws and Georgia-specific rules", timeZone: "America/New_York", timeLabel: "US Eastern",
     audience: "a new driver or newcomer in Georgia preparing for the state's written driver's knowledge (permit) test",

@@ -250,5 +250,257 @@
   "answer": 3,
   "explanation": "This applies whether the vehicle is moving or stopped.",
   "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "In California, you must tell the DMV about a change of address within",
+  "options": [
+   "30 days",
+   "60 days",
+   "10 days",
+   "1 year"
+  ],
+  "answer": 2,
+  "explanation": "You can do it online.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "California teens under 18 must hold a learner permit for at least",
+  "options": [
+   "2 years",
+   "no minimum time",
+   "1 month",
+   "6 months before taking the driving test"
+  ],
+  "answer": 3,
+  "explanation": "They also need 50 hours of practice, 10 of them at night.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "In California, a white curb means",
+  "options": [
+   "commercial loading only",
+   "disabled parking",
+   "no stopping at any time",
+   "stop only long enough to pick up or drop off passengers or mail"
+  ],
+  "answer": 3,
+  "explanation": "Green means limited-time parking; yellow means loading.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "In California, a green curb means",
+  "options": [
+   "parking for a limited time",
+   "no stopping",
+   "disabled parking only",
+   "passenger loading only"
+  ],
+  "answer": 0,
+  "explanation": "The time limit is posted or painted on the curb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "Unless posted otherwise, the speed limit within 100 feet of a railroad crossing where you can't see 400 feet in both directions is",
+  "options": [
+   "25 mph",
+   "35 mph",
+   "15 mph",
+   "5 mph"
+  ],
+  "answer": 2,
+  "explanation": "The same 15 mph applies at blind intersections.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "Near a California school with children present, the speed limit is usually",
+  "options": [
+   "15 mph everywhere",
+   "25 mph",
+   "45 mph",
+   "35 mph"
+  ],
+  "answer": 1,
+  "explanation": "Some local zones may be as low as 15 or 20 mph when posted.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "In California, the speed limit when towing a vehicle or trailer is",
+  "options": [
+   "45 mph",
+   "55 mph",
+   "65 mph",
+   "70 mph"
+  ],
+  "answer": 1,
+  "explanation": "Towing vehicles also use the right-hand lane or a posted truck lane.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "Unless posted otherwise, the maximum speed on most California highways is",
+  "options": [
+   "65 mph",
+   "75 mph",
+   "55 mph",
+   "80 mph"
+  ],
+  "answer": 0,
+  "explanation": "Some highways are posted at 70 mph.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "In California, you may not drive in a center left-turn lane for more than",
+  "options": [
+   "50 feet",
+   "500 feet",
+   "1 mile",
+   "200 feet"
+  ],
+  "answer": 3,
+  "explanation": "Use it only to start or finish a left turn.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "In California, before turning right you may enter a bike lane no more than",
+  "options": [
+   "never",
+   "10 feet before the turn",
+   "500 feet before the turn",
+   "200 feet before the turn"
+  ],
+  "answer": 3,
+  "explanation": "Yield to bicyclists first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "California law requires you to pass a bicyclist with at least",
+  "options": [
+   "10 feet",
+   "3 feet of space",
+   "1 foot",
+   "6 inches"
+  ],
+  "answer": 1,
+  "explanation": "If you can't, slow down and wait.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "In California, a left turn on red is allowed only",
+  "options": [
+   "only at night",
+   "at any intersection after stopping",
+   "never",
+   "from a one-way street onto another one-way street, after stopping, unless a sign prohibits it"
+  ],
+  "answer": 3,
+  "explanation": "Yield to pedestrians and traffic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "At a California railroad crossing with a train coming, you must stop",
+  "options": [
+   "right on the tracks",
+   "100 feet away",
+   "between 15 and 50 feet from the nearest rail",
+   "less than 5 feet from the rail"
+  ],
+  "answer": 2,
+  "explanation": "Wait until the crossing is clear.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "In California, a child 6 or younger may not be left alone in a vehicle",
+  "options": [
+   "only in summer",
+   "when conditions are unsafe or the engine is running, without someone at least 12 years old",
+   "only at night",
+   "at any time, even with an adult"
+  ],
+  "answer": 1,
+  "explanation": "Heat can kill quickly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "California drivers may not wear",
+  "options": [
+   "a seat belt",
+   "a headset or earplugs in both ears while driving",
+   "sunglasses",
+   "hearing aids"
+  ],
+  "answer": 1,
+  "explanation": "Hearing aids are allowed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "In California, children under 2 must ride",
+  "options": [
+   "in an adult seat belt",
+   "in a booster seat",
+   "in the front seat",
+   "in a rear-facing car seat, unless they weigh 40 pounds or more or are 40 inches or taller"
+  ],
+  "answer": 3,
+  "explanation": "They must ride in the back seat if possible.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "In California, an open container of alcohol must be kept",
+  "options": [
+   "under the driver's seat",
+   "in the glove box",
+   "in the cup holder",
+   "in the trunk or an area where passengers don't sit"
+  ],
+  "answer": 3,
+  "explanation": "This applies to any container that has been opened, even if it has been closed again.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "In California, motorcyclists riding between lanes (lane splitting) is",
+  "options": [
+   "legal, and drivers must not block or impede them",
+   "allowed only for police",
+   "allowed only on city streets",
+   "illegal"
+  ],
+  "answer": 0,
+  "explanation": "Check your mirrors before changing lanes.",
+  "difficulty": 2
  }
 ]

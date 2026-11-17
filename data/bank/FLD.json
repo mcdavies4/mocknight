@@ -138,5 +138,201 @@
   "answer": 0,
   "explanation": "PIP pays your own medical costs regardless of fault.",
   "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "The minimum age for a Florida learner license is",
+  "options": [
+   "14",
+   "18",
+   "15",
+   "16"
+  ],
+  "answer": 2,
+  "explanation": "You must pass the vision and hearing tests and the knowledge exam.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "A Florida driver under 18 must hold a learner license for at least",
+  "options": [
+   "12 months (or until age 18)",
+   "3 months",
+   "1 month",
+   "no minimum"
+  ],
+  "answer": 0,
+  "explanation": "They need 50 hours of practice, 10 of them at night.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "A 16-year-old with a Florida intermediate license may drive between 11 p.m. and 6 a.m. only",
+  "options": [
+   "with any passenger",
+   "on weekends",
+   "with a licensed driver aged 21 or older, or when driving to or from work",
+   "never"
+  ],
+  "answer": 2,
+  "explanation": "At 17 the restricted hours are 1 a.m. to 5 a.m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "Unless posted otherwise, the speed limit on Florida municipal, business and residential streets is",
+  "options": [
+   "45 mph",
+   "30 mph",
+   "55 mph",
+   "20 mph"
+  ],
+  "answer": 1,
+  "explanation": "Rural interstates can be posted up to 70 mph.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "Florida's minimum required personal injury protection (PIP) is",
+  "options": [
+   "$50,000",
+   "$10,000",
+   "$100,000",
+   "$1,000"
+  ],
+  "answer": 1,
+  "explanation": "Property damage liability of $10,000 is also required.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "In Florida, a crash must be reported to police if anyone is hurt or killed, or property damage is at least",
+  "options": [
+   "$500",
+   "$10,000",
+   "$50",
+   "$2,500"
+  ],
+  "answer": 0,
+  "explanation": "Exchange information with the other driver.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "In Florida, children aged 4 and 5 must ride in",
+  "options": [
+   "nothing special",
+   "the front seat with no restraint",
+   "a separate carrier, an integrated child seat or a booster seat",
+   "an adult lap belt only"
+  ],
+  "answer": 2,
+  "explanation": "Children 3 and under need a separate carrier or integrated seat.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "On a Florida divided highway with a raised barrier or an unpaved median at least 5 feet wide, traffic going the opposite way from a stopped school bus",
+  "options": [
+   "must pass at speed",
+   "must reverse",
+   "must stop",
+   "does not have to stop"
+  ],
+  "answer": 3,
+  "explanation": "Traffic behind the bus must still stop.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "Florida law requires you to pass a bicyclist with at least",
+  "options": [
+   "6 inches",
+   "1 foot",
+   "3 feet of space",
+   "10 feet"
+  ],
+  "answer": 2,
+  "explanation": "Slow down when passing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "In Florida, refusing a breath test for the first time leads to",
+  "options": [
+   "a warning only",
+   "a license suspension of 1 year",
+   "a 1-week suspension",
+   "no penalty"
+  ],
+  "answer": 1,
+  "explanation": "A second refusal is a misdemeanor and an 18-month suspension.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "Florida suspends a license for 30 days if a driver gets",
+  "options": [
+   "12 points within 12 months",
+   "50 points",
+   "3 points within 3 years",
+   "1 point within a year"
+  ],
+  "answer": 0,
+  "explanation": "More points over longer periods bring longer suspensions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "In Florida, you may not park within how many feet of a fire hydrant?",
+  "options": [
+   "5 feet",
+   "50 feet",
+   "15 feet",
+   "100 feet"
+  ],
+  "answer": 2,
+  "explanation": "Also not within 50 feet of a railroad crossing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "In Florida, a funeral procession led by an escort vehicle",
+  "options": [
+   "must yield to all traffic",
+   "can be passed on the right",
+   "must stop at every light",
+   "has the right-of-way; don't join or cut through it"
+  ],
+  "answer": 3,
+  "explanation": "Pull over or wait until it passes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "After becoming a Florida resident, you must get a Florida driver license within",
+  "options": [
+   "1 year",
+   "7 days",
+   "30 days",
+   "6 months"
+  ],
+  "answer": 2,
+  "explanation": "This applies if you hold a valid license from another state.",
+  "difficulty": 2
  }
 ]

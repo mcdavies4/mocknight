@@ -152,5 +152,215 @@
   "answer": 1,
   "explanation": "This includes hands-free use.",
   "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "In Texas, the person supervising a learner license holder must be",
+  "options": [
+   "a licensed driver aged 21 or older sitting in the front seat",
+   "any passenger",
+   "aged 16 or older",
+   "aged 18 or older in the back seat"
+  ],
+  "answer": 0,
+  "explanation": "They must have at least one year of driving experience.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "Before a Texas road test, new drivers must complete",
+  "options": [
+   "a CDL course",
+   "the Impact Texas Drivers (ITD) program",
+   "a first aid course",
+   "a motorcycle course"
+  ],
+  "answer": 1,
+  "explanation": "Teens complete Impact Texas Teen Drivers (ITTD).",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "A Texas provisional license holder under 18 may not drive between",
+  "options": [
+   "noon and 3 p.m.",
+   "8 p.m. and 6 a.m.",
+   "6 p.m. and midnight",
+   "midnight and 5 a.m., unless for work, school or a medical emergency"
+  ],
+  "answer": 3,
+  "explanation": "This applies during the first year.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "A Texas provisional license holder under 18 may carry",
+  "options": [
+   "no more than one passenger under 21 who is not a family member",
+   "no passengers at all",
+   "any number of passengers",
+   "up to five friends"
+  ],
+  "answer": 0,
+  "explanation": "This applies during the first year.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "Texas requires seat belts for",
+  "options": [
+   "only children",
+   "every person in the vehicle",
+   "only front-seat passengers",
+   "only the driver"
+  ],
+  "answer": 1,
+  "explanation": "Drivers can be fined for unbelted children.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "Texas minimum liability insurance is",
+  "options": [
+   "no insurance needed",
+   "$30,000 per person, $60,000 per crash for injuries and $25,000 for property damage",
+   "$5,000 per person",
+   "$10,000 total"
+  ],
+  "answer": 1,
+  "explanation": "It's known as 30/60/25.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "Unless posted otherwise, the speed limit on a numbered Texas highway outside an urban district is",
+  "options": [
+   "55 mph",
+   "70 mph",
+   "80 mph",
+   "60 mph"
+  ],
+  "answer": 1,
+  "explanation": "Some highways are posted higher.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "Unless posted otherwise, the speed limit in a Texas alley is",
+  "options": [
+   "25 mph",
+   "5 mph",
+   "30 mph",
+   "15 mph"
+  ],
+  "answer": 3,
+  "explanation": "Urban districts default to 30 mph.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "In Texas, using a handheld phone in an active school zone is",
+  "options": [
+   "allowed when stopped in traffic",
+   "allowed for adults",
+   "allowed with one hand",
+   "illegal"
+  ],
+  "answer": 3,
+  "explanation": "Hands-free use is allowed for drivers 18 and over.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "Texas's 'Steer It, Clear It' law says that after a minor crash with no injuries you should",
+  "options": [
+   "move the vehicles out of the main lanes if they can be driven",
+   "leave them exactly where they stopped",
+   "drive home and report later",
+   "wait in the lane for police"
+  ],
+  "answer": 0,
+  "explanation": "This prevents secondary crashes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "In Texas, you must signal at least how far before turning?",
+  "options": [
+   "10 feet",
+   "500 feet",
+   "100 feet",
+   "50 feet"
+  ],
+  "answer": 2,
+  "explanation": "Signal before changing lanes too.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "In Texas, you may not park within how many feet of a railroad crossing?",
+  "options": [
+   "100 feet",
+   "50 feet",
+   "5 feet",
+   "15 feet"
+  ],
+  "answer": 1,
+  "explanation": "You also may not park within 15 feet of a fire hydrant.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "In Texas, you may not park within how many feet of a stop sign or traffic signal?",
+  "options": [
+   "100 feet",
+   "5 feet",
+   "10 feet",
+   "30 feet"
+  ],
+  "answer": 3,
+  "explanation": "And not within 20 feet of a crosswalk at an intersection.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "In Texas, motorcycle riders under 21 must",
+  "options": [
+   "carry a passenger",
+   "ride only at night",
+   "have a CDL",
+   "wear a helmet"
+  ],
+  "answer": 3,
+  "explanation": "Riders 21 and over may ride without one if they meet training or insurance conditions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "In Texas, a right turn on a red light is allowed",
+  "options": [
+   "without stopping",
+   "never",
+   "only at night",
+   "after a complete stop, unless a sign prohibits it"
+  ],
+  "answer": 3,
+  "explanation": "Yield to pedestrians and cross traffic.",
+  "difficulty": 2
  }
 ]

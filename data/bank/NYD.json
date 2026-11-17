@@ -152,5 +152,201 @@
   "answer": 1,
   "explanation": "It also requires an ignition interlock device for convicted drivers.",
   "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "A New York junior license holder (under 18)",
+  "options": [
+   "may drive anywhere at any time",
+   "may drive only in New York City",
+   "may not drive in New York City's five boroughs",
+   "may drive only on highways"
+  ],
+  "answer": 2,
+  "explanation": "There are also limits on Long Island and elsewhere.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "Unless posted otherwise, the statewide speed limit in New York is",
+  "options": [
+   "55 mph",
+   "45 mph",
+   "70 mph",
+   "65 mph"
+  ],
+  "answer": 0,
+  "explanation": "New York City defaults to 25 mph.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "In New York, when stopping for a school bus with red lights flashing, stay at least",
+  "options": [
+   "20 feet away",
+   "100 feet away",
+   "1 foot away",
+   "5 feet away"
+  ],
+  "answer": 0,
+  "explanation": "Don't move until the lights stop flashing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "In New York, your license may be suspended if you get",
+  "options": [
+   "2 points in a year",
+   "5 points in 5 years",
+   "50 points",
+   "11 or more points in 18 months"
+  ],
+  "answer": 3,
+  "explanation": "Points are charged for moving violations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "In New York, you must file a report (MV-104) within 10 days if a crash caused injury, death, or property damage over",
+  "options": [
+   "$5,000",
+   "$1,000",
+   "$10,000",
+   "$100"
+  ],
+  "answer": 1,
+  "explanation": "Report to police right away if anyone is hurt.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "New York requires everyone aged 16 or older to wear a seat belt",
+  "options": [
+   "only in the front seat",
+   "only on highways",
+   "in the front and back seats",
+   "only at night"
+  ],
+  "answer": 2,
+  "explanation": "Younger passengers need child restraints or belts too.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "In New York, children must ride in an appropriate child restraint system until their",
+  "options": [
+   "12th birthday",
+   "2nd birthday",
+   "4th birthday",
+   "8th birthday"
+  ],
+  "answer": 3,
+  "explanation": "Children under 4 need a child safety seat.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "In New York, Driving While Ability Impaired (DWAI) by alcohol applies at a BAC of",
+  "options": [
+   "0.20% only",
+   "more than 0.05% but not more than 0.07%",
+   "exactly 0.08%",
+   "under 0.01%"
+  ],
+  "answer": 1,
+  "explanation": "0.08% or more is DWI.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "In New York, Aggravated DWI applies at a BAC of",
+  "options": [
+   "0.50% or more",
+   "0.18% or more",
+   "0.02% or more",
+   "0.08% or more"
+  ],
+  "answer": 1,
+  "explanation": "Penalties are tougher than for DWI.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "In New York, you may not park within how many feet of a fire hydrant?",
+  "options": [
+   "50 feet",
+   "5 feet",
+   "15 feet",
+   "100 feet"
+  ],
+  "answer": 2,
+  "explanation": "Also not within 20 feet of a crosswalk at an intersection.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "In New York, you may not park within how many feet of a railroad crossing?",
+  "options": [
+   "50 feet",
+   "100 feet",
+   "5 feet",
+   "15 feet"
+  ],
+  "answer": 0,
+  "explanation": "And not within 30 feet of a stop sign or traffic signal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "Outside New York City, a right turn on red is",
+  "options": [
+   "allowed only for trucks",
+   "allowed after a full stop, unless a sign prohibits it",
+   "never allowed",
+   "allowed without stopping"
+  ],
+  "answer": 1,
+  "explanation": "In New York City it's not allowed unless a sign permits it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "In New York, using a handheld phone or texting while driving",
+  "options": [
+   "has no penalty",
+   "is illegal and adds points to your license",
+   "is allowed for adults",
+   "is allowed at red lights"
+  ],
+  "answer": 1,
+  "explanation": "Hands-free use is allowed for adults.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "New York's Move Over law applies to vehicles stopped on the roadside with",
+  "options": [
+   "red, white, blue or amber flashing lights",
+   "only headlights on",
+   "only police lights",
+   "no lights at all"
+  ],
+  "answer": 0,
+  "explanation": "This includes tow trucks and hazard vehicles.",
+  "difficulty": 2
  }
 ]
