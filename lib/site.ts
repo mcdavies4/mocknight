@@ -1,5 +1,5 @@
 // Public site address used for sitemaps, canonical links and social previews.
-export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || "https://mocknight.vercel.app").replace(/\/$/, "");
+export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || "https://mocknight.online").replace(/\/$/, "");
 
 /** Hand-built landing pages (everything else lives at /exam/CODE). */
 export const STATIC_PAGES = [
