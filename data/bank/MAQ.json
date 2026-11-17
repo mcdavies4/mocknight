@@ -1,0 +1,380 @@
+[
+ {
+  "subject": "MAQ",
+  "topic": "Injections",
+  "body": "Intramuscular (IM) injections are given at an angle of",
+  "options": [
+   "30 degrees",
+   "45 degrees",
+   "90 degrees",
+   "10–15 degrees"
+  ],
+  "answer": 2,
+  "explanation": "The deltoid is common for small-volume vaccines.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Injections",
+  "body": "Subcutaneous injections, such as insulin, are usually given at",
+  "options": [
+   "5 degrees",
+   "45 degrees (or 90 degrees with a short needle)",
+   "180 degrees",
+   "10–15 degrees"
+  ],
+  "answer": 1,
+  "explanation": "The abdomen is a common site.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Injections",
+  "body": "A tuberculin (TB) skin test is given",
+  "options": [
+   "orally",
+   "intramuscularly",
+   "intradermally at 10–15 degrees",
+   "subcutaneously at 45 degrees"
+  ],
+  "answer": 2,
+  "explanation": "It forms a small wheal under the skin.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Injections",
+  "body": "The Z-track method is used to",
+  "options": [
+   "give eye drops",
+   "take a pulse",
+   "measure height",
+   "stop irritating medication leaking out of an IM site"
+  ],
+  "answer": 3,
+  "explanation": "Pull the skin aside before injecting, then release.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "ECG",
+  "body": "Lead V1 is placed at the",
+  "options": [
+   "5th intercostal space, left midclavicular line",
+   "4th intercostal space, right of the sternum",
+   "right ankle",
+   "left shoulder"
+  ],
+  "answer": 1,
+  "explanation": "V2 is at the 4th intercostal space, left of the sternum.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "ECG",
+  "body": "Lead V4 is placed at the",
+  "options": [
+   "the left ankle",
+   "5th intercostal space, left midclavicular line",
+   "4th intercostal space, right sternal border",
+   "the right wrist"
+  ],
+  "answer": 1,
+  "explanation": "V3 goes midway between V2 and V4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "ECG",
+  "body": "Small, irregular baseline waves on an ECG caused by patient movement are",
+  "options": [
+   "a normal P wave",
+   "atrial fibrillation",
+   "a heart block",
+   "somatic tremor artifact"
+  ],
+  "answer": 3,
+  "explanation": "Help the patient relax and stay still.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Vital signs",
+  "body": "A normal adult resting heart rate is",
+  "options": [
+   "40–50",
+   "12–20",
+   "60–100 beats per minute",
+   "100–140"
+  ],
+  "answer": 2,
+  "explanation": "12–20 is the normal respiratory rate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Vital signs",
+  "body": "The most common site for taking a pulse in adults is the",
+  "options": [
+   "femoral artery",
+   "dorsalis pedis artery",
+   "radial artery",
+   "popliteal artery"
+  ],
+  "answer": 2,
+  "explanation": "The apical pulse is used for infants.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Vital signs",
+  "body": "A blood pressure of 120/80: the top number is the",
+  "options": [
+   "pulse pressure",
+   "diastolic pressure",
+   "systolic pressure",
+   "mean arterial pressure"
+  ],
+  "answer": 2,
+  "explanation": "Systolic is when the heart contracts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Infection control",
+  "body": "Autoclaves sterilize instruments using",
+  "options": [
+   "cold water",
+   "steam under pressure",
+   "ultraviolet light only",
+   "dry ice"
+  ],
+  "answer": 1,
+  "explanation": "Indicator tape changes colour to show exposure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Infection control",
+  "body": "Medical asepsis aims to",
+  "options": [
+   "replace sterile technique",
+   "remove all microorganisms",
+   "reduce the number and spread of microorganisms",
+   "only protect the provider"
+  ],
+  "answer": 2,
+  "explanation": "Surgical asepsis aims to remove all microorganisms.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Law and ethics",
+  "body": "Sharing a patient's health information without authorization violates",
+  "options": [
+   "CLIA",
+   "the ADA",
+   "OSHA",
+   "HIPAA"
+  ],
+  "answer": 3,
+  "explanation": "Share only the minimum necessary for treatment, payment or operations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Law and ethics",
+  "body": "Which task is usually outside a medical assistant's scope?",
+  "options": [
+   "Scheduling appointments",
+   "Diagnosing a patient's condition",
+   "Recording a patient history",
+   "Taking vital signs"
+  ],
+  "answer": 1,
+  "explanation": "Diagnosis is for licensed providers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Documentation",
+  "body": "In a SOAP note, the 'S' stands for",
+  "options": [
+   "systolic pressure",
+   "surgical plan",
+   "subjective information the patient reports",
+   "standard procedure"
+  ],
+  "answer": 2,
+  "explanation": "Subjective, Objective, Assessment, Plan.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Documentation",
+  "body": "A chief complaint should be recorded",
+  "options": [
+   "only by the doctor",
+   "after the visit",
+   "in the patient's own words where possible",
+   "using a diagnosis code"
+  ],
+  "answer": 2,
+  "explanation": "Keep it brief and accurate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Front office",
+  "body": "Wave scheduling means",
+  "options": [
+   "one patient per hour only",
+   "booking only on Mondays",
+   "booking several patients at the start of each hour and seeing them in order of arrival",
+   "no appointments at all"
+  ],
+  "answer": 2,
+  "explanation": "It helps absorb late arrivals.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Vision",
+  "body": "In Snellen notation, 20/40 means the patient",
+  "options": [
+   "is legally blind",
+   "sees at 20 feet what a normal eye sees at 40 feet",
+   "has perfect vision",
+   "sees at 40 feet what a normal eye sees at 20 feet"
+  ],
+  "answer": 1,
+  "explanation": "20/20 is normal vision.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Conversions",
+  "body": "Convert 40 °C to Fahrenheit.",
+  "options": [
+   "94 °F",
+   "54.2 °F",
+   "72 °F",
+   "104 °F"
+  ],
+  "answer": 3,
+  "explanation": "°F = °C × 9/5 + 32 = 104 °F.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Conversions",
+  "body": "Convert 39 °C to Fahrenheit.",
+  "options": [
+   "102.2 °F",
+   "71 °F",
+   "92.2 °F",
+   "53.7 °F"
+  ],
+  "answer": 0,
+  "explanation": "°F = °C × 9/5 + 32 = 102.2 °F.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Conversions",
+  "body": "Convert 37 °C to Fahrenheit.",
+  "options": [
+   "52.6 °F",
+   "98.6 °F",
+   "69 °F",
+   "88.6 °F"
+  ],
+  "answer": 1,
+  "explanation": "°F = °C × 9/5 + 32 = 98.6 °F.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Conversions",
+  "body": "Convert 36 °C to Fahrenheit.",
+  "options": [
+   "52 °F",
+   "96.8 °F",
+   "68 °F",
+   "86.8 °F"
+  ],
+  "answer": 1,
+  "explanation": "°F = °C × 9/5 + 32 = 96.8 °F.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MAQ",
+  "topic": "Conversions",
+  "body": "Convert 38 °C to Fahrenheit.",
+  "options": [
+   "53.1 °F",
+   "100.4 °F",
+   "90.4 °F",
+   "70 °F"
+  ],
+  "answer": 1,
+  "explanation": "°F = °C × 9/5 + 32 = 100.4 °F.",
+  "difficulty": 1
+ },
+ {
+  "subject": "MAQ",
+  "topic": "ECG",
+  "body": "On a regular ECG rhythm there are 3 large boxes between R waves. What is the heart rate? (300 ÷ number of large boxes)",
+  "options": [
+   "500 bpm",
+   "120 bpm",
+   "100 bpm",
+   "90 bpm"
+  ],
+  "answer": 2,
+  "explanation": "300 ÷ 3 = 100 bpm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "ECG",
+  "body": "On a regular ECG rhythm there are 4 large boxes between R waves. What is the heart rate? (300 ÷ number of large boxes)",
+  "options": [
+   "75 bpm",
+   "95 bpm",
+   "120 bpm",
+   "375 bpm"
+  ],
+  "answer": 0,
+  "explanation": "300 ÷ 4 = 75 bpm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "ECG",
+  "body": "On a regular ECG rhythm there are 5 large boxes between R waves. What is the heart rate? (300 ÷ number of large boxes)",
+  "options": [
+   "300 bpm",
+   "80 bpm",
+   "150 bpm",
+   "60 bpm"
+  ],
+  "answer": 3,
+  "explanation": "300 ÷ 5 = 60 bpm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MAQ",
+  "topic": "ECG",
+  "body": "On a regular ECG rhythm there are 6 large boxes between R waves. What is the heart rate? (300 ÷ number of large boxes)",
+  "options": [
+   "180 bpm",
+   "70 bpm",
+   "250 bpm",
+   "50 bpm"
+  ],
+  "answer": 3,
+  "explanation": "300 ÷ 6 = 50 bpm.",
+  "difficulty": 2
+ }
+]

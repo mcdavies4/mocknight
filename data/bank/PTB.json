@@ -1,0 +1,506 @@
+[
+ {
+  "subject": "PTB",
+  "topic": "Law",
+  "body": "DEA Form 222 is used to",
+  "options": [
+   "report theft of drugs",
+   "order Schedule II controlled substances",
+   "destroy controlled substances",
+   "register a pharmacy"
+  ],
+  "answer": 1,
+  "explanation": "Form 106 reports theft or loss; Form 41 records destruction.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Law",
+  "body": "Which schedule has the highest potential for abuse but an accepted medical use?",
+  "options": [
+   "Schedule I",
+   "Schedule V",
+   "Schedule IV",
+   "Schedule II"
+  ],
+  "answer": 3,
+  "explanation": "Schedule I drugs have no accepted medical use.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Law",
+  "body": "Oxycodone is a Schedule",
+  "options": [
+   "I controlled substance",
+   "II controlled substance",
+   "V controlled substance",
+   "IV controlled substance"
+  ],
+  "answer": 1,
+  "explanation": "Schedule II prescriptions cannot be refilled.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Law",
+  "body": "The Combat Methamphetamine Epidemic Act limits sales of",
+  "options": [
+   "insulin",
+   "pseudoephedrine",
+   "amoxicillin",
+   "ibuprofen"
+  ],
+  "answer": 1,
+  "explanation": "Products are kept behind the counter and sales are logged.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Law",
+  "body": "USP <797> covers",
+  "options": [
+   "drug pricing",
+   "sterile compounding",
+   "nonsterile compounding",
+   "hazardous drug handling only"
+  ],
+  "answer": 1,
+  "explanation": "USP <795> is nonsterile; USP <800> covers hazardous drugs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Labels",
+  "body": "An NDC number identifies the",
+  "options": [
+   "patient",
+   "labeler, product and package size",
+   "prescriber's license",
+   "pharmacy address"
+  ],
+  "answer": 1,
+  "explanation": "It has 10 digits in three segments.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Labels",
+  "body": "Tall Man lettering, such as hydrOXYzine and hydrALAZINE, is used to",
+  "options": [
+   "mark controlled drugs",
+   "reduce mix-ups between look-alike drug names",
+   "show brand names",
+   "show generic status"
+  ],
+  "answer": 1,
+  "explanation": "It highlights the differences.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Sig codes",
+  "body": "'PO' on a prescription means",
+  "options": [
+   "as needed",
+   "every hour",
+   "by mouth",
+   "after meals"
+  ],
+  "answer": 2,
+  "explanation": "From the Latin 'per os'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Sig codes",
+  "body": "'BID' means",
+  "options": [
+   "at bedtime",
+   "three times a day",
+   "twice a day",
+   "four times a day"
+  ],
+  "answer": 2,
+  "explanation": "TID is three times a day and QID four times a day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Sig codes",
+  "body": "'PRN' means",
+  "options": [
+   "by mouth",
+   "as needed",
+   "every night",
+   "before meals"
+  ],
+  "answer": 1,
+  "explanation": "The patient takes it only when required.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Sig codes",
+  "body": "'QHS' means",
+  "options": [
+   "every hour",
+   "at bedtime",
+   "after meals",
+   "every morning"
+  ],
+  "answer": 1,
+  "explanation": "'AC' means before meals and 'PC' after meals.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Drugs",
+  "body": "Atorvastatin is the generic name for",
+  "options": [
+   "Lipitor",
+   "Zocor",
+   "Norvasc",
+   "Crestor"
+  ],
+  "answer": 0,
+  "explanation": "Zocor is simvastatin; Crestor is rosuvastatin.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Drugs",
+  "body": "Metformin is used to treat",
+  "options": [
+   "type 2 diabetes",
+   "infections",
+   "high cholesterol",
+   "hypertension only"
+  ],
+  "answer": 0,
+  "explanation": "Brand name Glucophage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Drugs",
+  "body": "Levothyroxine (Synthroid) treats",
+  "options": [
+   "diabetes",
+   "hyperthyroidism",
+   "hypothyroidism",
+   "asthma"
+  ],
+  "answer": 2,
+  "explanation": "Taken on an empty stomach in the morning.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Drugs",
+  "body": "Omeprazole (Prilosec) belongs to which class?",
+  "options": [
+   "antacids",
+   "H2 blockers",
+   "proton pump inhibitors",
+   "beta blockers"
+  ],
+  "answer": 2,
+  "explanation": "It reduces stomach acid.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Drugs",
+  "body": "Sertraline (Zoloft) is an",
+  "options": [
+   "antihistamine",
+   "anticoagulant",
+   "antibiotic",
+   "SSRI antidepressant"
+  ],
+  "answer": 3,
+  "explanation": "Selective serotonin reuptake inhibitor.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Drugs",
+  "body": "Warfarin (Coumadin) is an",
+  "options": [
+   "antihypertensive",
+   "analgesic",
+   "anticoagulant",
+   "antibiotic"
+  ],
+  "answer": 2,
+  "explanation": "Monitored with the INR.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "References",
+  "body": "The FDA Orange Book lists",
+  "options": [
+   "poison control numbers",
+   "drug prices",
+   "approved drugs and therapeutic equivalence ratings",
+   "pharmacy locations"
+  ],
+  "answer": 2,
+  "explanation": "It helps decide generic substitution.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "A prescription is for #90 tablets, 1 tablet three times daily. What is the days' supply?",
+  "options": [
+   "90 days",
+   "270 days",
+   "30 days",
+   "40 days"
+  ],
+  "answer": 2,
+  "explanation": "90 ÷ 3 per day = 30 days.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "A prescription is for #60 tablets, 1 tablet three times daily. What is the days' supply?",
+  "options": [
+   "180 days",
+   "20 days",
+   "60 days",
+   "30 days"
+  ],
+  "answer": 1,
+  "explanation": "60 ÷ 3 per day = 20 days.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "A prescription is for #30 tablets, 1 tablet twice daily. What is the days' supply?",
+  "options": [
+   "60 days",
+   "25 days",
+   "15 days",
+   "30 days"
+  ],
+  "answer": 2,
+  "explanation": "30 ÷ 2 per day = 15 days.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "A prescription is for #60 tablets, 1 tablet twice daily. What is the days' supply?",
+  "options": [
+   "40 days",
+   "120 days",
+   "30 days",
+   "60 days"
+  ],
+  "answer": 2,
+  "explanation": "60 ÷ 2 per day = 30 days.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "A prescription is for #90 tablets, 1 tablet once daily. What is the days' supply?",
+  "options": [
+   "90 days",
+   "99 days",
+   "100 days",
+   "81 days"
+  ],
+  "answer": 0,
+  "explanation": "90 ÷ 1 per day = 90 days.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "A prescription is for #120 tablets, 1 tablet twice daily. What is the days' supply?",
+  "options": [
+   "70 days",
+   "120 days",
+   "60 days",
+   "240 days"
+  ],
+  "answer": 2,
+  "explanation": "120 ÷ 2 per day = 60 days.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "A prescription is for #30 tablets, 1 tablet three times daily. What is the days' supply?",
+  "options": [
+   "90 days",
+   "30 days",
+   "10 days",
+   "20 days"
+  ],
+  "answer": 2,
+  "explanation": "30 ÷ 3 per day = 10 days.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "A prescription is for #120 tablets, 1 tablet three times daily. What is the days' supply?",
+  "options": [
+   "360 days",
+   "40 days",
+   "50 days",
+   "120 days"
+  ],
+  "answer": 1,
+  "explanation": "120 ÷ 3 per day = 40 days.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "A prescription is for #60 tablets, 1 tablet once daily. What is the days' supply?",
+  "options": [
+   "66 days",
+   "60 days",
+   "54 days",
+   "70 days"
+  ],
+  "answer": 1,
+  "explanation": "60 ÷ 1 per day = 60 days.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "A prescription is for #90 tablets, 1 tablet twice daily. What is the days' supply?",
+  "options": [
+   "55 days",
+   "45 days",
+   "180 days",
+   "90 days"
+  ],
+  "answer": 1,
+  "explanation": "90 ÷ 2 per day = 45 days.",
+  "difficulty": 1
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "Sig: 3 tsp 3 times a day for 7 days. How many mL should be dispensed? (1 tsp = 5 mL)",
+  "options": [
+   "365 mL",
+   "63 mL",
+   "315 mL",
+   "157.5 mL"
+  ],
+  "answer": 2,
+  "explanation": "3 × 5 mL × 3 × 7 = 315 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "Sig: 2 tsp 3 times a day for 10 days. How many mL should be dispensed? (1 tsp = 5 mL)",
+  "options": [
+   "150 mL",
+   "300 mL",
+   "60 mL",
+   "350 mL"
+  ],
+  "answer": 1,
+  "explanation": "2 × 5 mL × 3 × 10 = 300 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "Sig: 3 tsp 2 times a day for 7 days. How many mL should be dispensed? (1 tsp = 5 mL)",
+  "options": [
+   "42 mL",
+   "210 mL",
+   "105 mL",
+   "260 mL"
+  ],
+  "answer": 1,
+  "explanation": "3 × 5 mL × 2 × 7 = 210 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "Sig: 3 tsp 3 times a day for 10 days. How many mL should be dispensed? (1 tsp = 5 mL)",
+  "options": [
+   "500 mL",
+   "225 mL",
+   "450 mL",
+   "90 mL"
+  ],
+  "answer": 2,
+  "explanation": "3 × 5 mL × 3 × 10 = 450 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "Sig: 1 tsp 4 times a day for 10 days. How many mL should be dispensed? (1 tsp = 5 mL)",
+  "options": [
+   "200 mL",
+   "100 mL",
+   "250 mL",
+   "40 mL"
+  ],
+  "answer": 0,
+  "explanation": "1 × 5 mL × 4 × 10 = 200 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "Sig: 3 tsp 3 times a day for 5 days. How many mL should be dispensed? (1 tsp = 5 mL)",
+  "options": [
+   "225 mL",
+   "45 mL",
+   "112.5 mL",
+   "275 mL"
+  ],
+  "answer": 0,
+  "explanation": "3 × 5 mL × 3 × 5 = 225 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "Sig: 2 tsp 2 times a day for 10 days. How many mL should be dispensed? (1 tsp = 5 mL)",
+  "options": [
+   "100 mL",
+   "40 mL",
+   "250 mL",
+   "200 mL"
+  ],
+  "answer": 3,
+  "explanation": "2 × 5 mL × 2 × 10 = 200 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PTB",
+  "topic": "Calculations",
+  "body": "Sig: 2 tsp 3 times a day for 7 days. How many mL should be dispensed? (1 tsp = 5 mL)",
+  "options": [
+   "42 mL",
+   "210 mL",
+   "105 mL",
+   "260 mL"
+  ],
+  "answer": 1,
+  "explanation": "2 × 5 mL × 3 × 7 = 210 mL.",
+  "difficulty": 2
+ }
+]

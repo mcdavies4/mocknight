@@ -1,0 +1,282 @@
+[
+ {
+  "subject": "PHB",
+  "topic": "Order of draw",
+  "body": "In the CLSI order of draw, which comes first?",
+  "options": [
+   "Blood culture bottles",
+   "Lavender (EDTA)",
+   "Gray (fluoride)",
+   "Green (heparin)"
+  ],
+  "answer": 0,
+  "explanation": "Then light blue, red/gold, green, lavender, gray.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Order of draw",
+  "body": "Which tube is drawn immediately after blood cultures?",
+  "options": [
+   "Green (heparin)",
+   "Light blue (sodium citrate)",
+   "Lavender (EDTA)",
+   "Gray (sodium fluoride)"
+  ],
+  "answer": 1,
+  "explanation": "Citrate comes early to avoid contamination with other additives.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Order of draw",
+  "body": "Which tube is drawn last in the standard order of draw?",
+  "options": [
+   "Green",
+   "Gray (sodium fluoride/potassium oxalate)",
+   "Light blue",
+   "Red"
+  ],
+  "answer": 1,
+  "explanation": "EDTA (lavender) comes just before gray.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Tubes",
+  "body": "A lavender (EDTA) tube is used for",
+  "options": [
+   "coagulation studies",
+   "blood cultures",
+   "a complete blood count (CBC)",
+   "glucose only"
+  ],
+  "answer": 2,
+  "explanation": "EDTA preserves cell shape.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Tubes",
+  "body": "A light blue tube must be",
+  "options": [
+   "shaken vigorously",
+   "drawn last",
+   "half-filled",
+   "filled to the correct level to keep the 9:1 blood-to-additive ratio"
+  ],
+  "answer": 3,
+  "explanation": "Underfilling gives wrong coagulation results.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Tubes",
+  "body": "Tubes with additives should be mixed by",
+  "options": [
+   "not mixing at all",
+   "vigorous shaking",
+   "spinning by hand",
+   "gentle inversion"
+  ],
+  "answer": 3,
+  "explanation": "Shaking can cause haemolysis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Venipuncture",
+  "body": "The first-choice vein for venipuncture is usually the",
+  "options": [
+   "femoral vein",
+   "dorsal hand veins",
+   "median cubital vein",
+   "basilic vein"
+  ],
+  "answer": 2,
+  "explanation": "It is large, well anchored and away from nerves and arteries.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Venipuncture",
+  "body": "A tourniquet should not be left on for more than",
+  "options": [
+   "5 minutes",
+   "30 seconds is not enough time",
+   "10 minutes",
+   "1 minute"
+  ],
+  "answer": 3,
+  "explanation": "Longer causes haemoconcentration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Venipuncture",
+  "body": "The usual needle insertion angle for venipuncture is",
+  "options": [
+   "90 degrees",
+   "15–30 degrees",
+   "5 degrees",
+   "45–60 degrees"
+  ],
+  "answer": 1,
+  "explanation": "Bevel facing up.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Venipuncture",
+  "body": "The site is usually cleaned with",
+  "options": [
+   "iodine for every draw",
+   "water",
+   "soap only",
+   "70% isopropyl alcohol and allowed to air dry"
+  ],
+  "answer": 3,
+  "explanation": "Drawing through wet alcohol can cause haemolysis and stinging.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Venipuncture",
+  "body": "Before collecting, the patient must be identified using",
+  "options": [
+   "the wristband colour",
+   "the room number only",
+   "asking 'Are you John?'",
+   "at least two identifiers, such as full name and date of birth"
+  ],
+  "answer": 3,
+  "explanation": "Ask the patient to state their details.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Venipuncture",
+  "body": "Specimen tubes should be labeled",
+  "options": [
+   "before the draw at the nurses' station",
+   "at the bedside, in front of the patient, after collection",
+   "back in the lab",
+   "by the patient"
+  ],
+  "answer": 1,
+  "explanation": "This prevents mislabeling.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Venipuncture",
+  "body": "You should avoid drawing blood from the arm",
+  "options": [
+   "on the dominant side",
+   "with the best vein",
+   "the patient prefers",
+   "on the same side as a mastectomy"
+  ],
+  "answer": 3,
+  "explanation": "Lymph flow may be impaired.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Complications",
+  "body": "A hematoma is",
+  "options": [
+   "an allergic reaction",
+   "a type of tube",
+   "a fainting episode",
+   "blood leaking into the tissue around the puncture site"
+  ],
+  "answer": 3,
+  "explanation": "Apply pressure and don't bend the arm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Complications",
+  "body": "If a patient feels faint during a draw, you should",
+  "options": [
+   "finish the draw quickly",
+   "leave the room",
+   "remove the tourniquet and needle, and lower the patient's head",
+   "give them coffee"
+  ],
+  "answer": 2,
+  "explanation": "Call for help and monitor them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Special handling",
+  "body": "Which specimen should be protected from light?",
+  "options": [
+   "CBC",
+   "Glucose",
+   "Bilirubin",
+   "Potassium"
+  ],
+  "answer": 2,
+  "explanation": "Light breaks down bilirubin.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Special handling",
+  "body": "Which specimen is commonly transported on ice?",
+  "options": [
+   "Bilirubin",
+   "Ammonia",
+   "Blood type",
+   "CBC"
+  ],
+  "answer": 1,
+  "explanation": "Chilling slows metabolic changes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Special handling",
+  "body": "Drug testing specimens require",
+  "options": [
+   "no paperwork",
+   "the patient to carry them",
+   "a documented chain of custody",
+   "freezing at home"
+  ],
+  "answer": 2,
+  "explanation": "It proves the specimen wasn't tampered with.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Capillary",
+  "body": "For an infant heel stick, the puncture should be on",
+  "options": [
+   "the medial or lateral plantar surface of the heel",
+   "the back of the heel",
+   "the center of the heel",
+   "the toes"
+  ],
+  "answer": 0,
+  "explanation": "Avoid the bone in the center.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHB",
+  "topic": "Safety",
+  "body": "Used needles must be",
+  "options": [
+   "put in regular trash",
+   "recapped with two hands",
+   "activated with the safety device and put straight into a sharps container",
+   "bent before disposal"
+  ],
+  "answer": 2,
+  "explanation": "This is required by OSHA's Bloodborne Pathogens Standard.",
+  "difficulty": 2
+ }
+]

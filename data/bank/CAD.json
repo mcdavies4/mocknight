@@ -1,0 +1,170 @@
+[
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "In California, the knowledge test pass mark is",
+  "options": [
+   "50%",
+   "80% or more",
+   "100%",
+   "60%"
+  ],
+  "answer": 1,
+  "explanation": "Adults typically answer 36 questions and need 30 correct.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "California's hands-free law means drivers 18 and over may",
+  "options": [
+   "not hold a phone while driving, even at a red light",
+   "text at red lights",
+   "use the phone below 25 mph",
+   "hold the phone for calls"
+  ],
+  "answer": 0,
+  "explanation": "Mount the phone and use one touch or voice only.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "Drivers under 18 in California may use a cell phone while driving",
+  "options": [
+   "only for navigation",
+   "only hands-free",
+   "only at red lights",
+   "not at all, even hands-free (except emergencies)"
+  ],
+  "answer": 3,
+  "explanation": "Minors cannot use wireless devices while driving.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "Unless posted otherwise, the speed limit in a California alley is",
+  "options": [
+   "5 mph",
+   "25 mph",
+   "35 mph",
+   "15 mph"
+  ],
+  "answer": 3,
+  "explanation": "Residential and school zones are usually 25 mph.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "Unless posted otherwise, the speed limit in a business or residential district in California is",
+  "options": [
+   "35 mph",
+   "25 mph",
+   "15 mph",
+   "45 mph"
+  ],
+  "answer": 1,
+  "explanation": "The basic speed law still applies: never drive faster than is safe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "Unless posted otherwise, the maximum speed on a two-lane undivided highway in California is",
+  "options": [
+   "65 mph",
+   "70 mph",
+   "55 mph",
+   "45 mph"
+  ],
+  "answer": 2,
+  "explanation": "Vehicles towing trailers are also limited to 55 mph.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "California's 'basic speed law' says you must",
+  "options": [
+   "drive 10 mph under the limit",
+   "only slow down at night",
+   "never drive faster than is safe for current conditions",
+   "always drive at the posted limit"
+  ],
+  "answer": 2,
+  "explanation": "Even below the posted limit you can be cited.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "In California, you must signal at least how far before turning?",
+  "options": [
+   "500 feet",
+   "10 feet",
+   "50 feet",
+   "100 feet"
+  ],
+  "answer": 3,
+  "explanation": "Signal before changing lanes too.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "A red-painted curb in California means",
+  "options": [
+   "no stopping, standing or parking",
+   "parking for people with disabilities",
+   "passenger loading only",
+   "loading only"
+  ],
+  "answer": 0,
+  "explanation": "Yellow is loading, white is passenger loading, green is limited time and blue is disabled parking.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "A blue-painted curb in California is for",
+  "options": [
+   "short-term parking",
+   "loading",
+   "parking for people with disabilities who display a placard or plate",
+   "taxis"
+  ],
+  "answer": 2,
+  "explanation": "Fines for misuse are high.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "In California, drivers under 21 must not drive with a BAC of",
+  "options": [
+   "0.05% or more",
+   "0.10% or more",
+   "0.08% or more",
+   "0.01% or more"
+  ],
+  "answer": 3,
+  "explanation": "California has a zero tolerance law for under-21 drivers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAD",
+  "topic": "California rules",
+  "body": "In California, children must ride in a car seat or booster seat until they are",
+  "options": [
+   "12 years old only",
+   "8 years old or 4 feet 9 inches tall",
+   "2 years old",
+   "5 years old"
+  ],
+  "answer": 1,
+  "explanation": "Children under 8 must ride in the back seat.",
+  "difficulty": 2
+ }
+]

@@ -1,0 +1,226 @@
+[
+ {
+  "subject": "EPA",
+  "topic": "Core",
+  "body": "Section 608 of which law regulates refrigerant handling?",
+  "options": [
+   "the Toxic Substances Control Act",
+   "the Clean Air Act",
+   "OSHA",
+   "the Clean Water Act"
+  ],
+  "answer": 1,
+  "explanation": "It prohibits venting refrigerants.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Core",
+  "body": "The international treaty that phases out ozone-depleting substances is the",
+  "options": [
+   "Kyoto Protocol",
+   "Montreal Protocol",
+   "Paris Agreement",
+   "Geneva Convention"
+  ],
+  "answer": 1,
+  "explanation": "It was signed in 1987.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Core",
+  "body": "Which refrigerants have the highest ozone depletion potential?",
+  "options": [
+   "CFCs (such as R-12)",
+   "natural refrigerants like CO₂",
+   "HFCs (such as R-134a)",
+   "HFOs"
+  ],
+  "answer": 0,
+  "explanation": "HCFCs (such as R-22) have lower ODP; HFCs have none.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Core",
+  "body": "Ozone depletion is mainly caused by which element released from CFCs?",
+  "options": [
+   "nitrogen",
+   "fluorine",
+   "chlorine",
+   "carbon"
+  ],
+  "answer": 2,
+  "explanation": "Chlorine atoms break down ozone in the stratosphere.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Core",
+  "body": "Knowingly venting refrigerant during service is",
+  "options": [
+   "allowed for HFCs",
+   "illegal",
+   "required for safety",
+   "allowed if small"
+  ],
+  "answer": 1,
+  "explanation": "De minimis releases during good-practice recovery are not violations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Core",
+  "body": "Recovery cylinders for refrigerant are colored",
+  "options": [
+   "green with a white top",
+   "gray with a yellow top",
+   "blue",
+   "all red"
+  ],
+  "answer": 1,
+  "explanation": "Department of Transportation standard.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Core",
+  "body": "Refrigerant recovery cylinders should not be filled above",
+  "options": [
+   "50%",
+   "80% of their liquid capacity",
+   "100%",
+   "95%"
+  ],
+  "answer": 1,
+  "explanation": "Leave room for liquid expansion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Core",
+  "body": "Returning refrigerant to new-product purity standards (AHRI 700) is",
+  "options": [
+   "recycling",
+   "recovering",
+   "venting",
+   "reclaiming"
+  ],
+  "answer": 3,
+  "explanation": "Recycling is basic cleaning for reuse; recovering is removing it into a cylinder.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Core",
+  "body": "To pressurize a system for leak testing, use",
+  "options": [
+   "oxygen",
+   "dry nitrogen",
+   "compressed air",
+   "propane"
+  ],
+  "answer": 1,
+  "explanation": "Oxygen with oil can explode.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Core",
+  "body": "The purpose of evacuating (dehydrating) a system is to remove",
+  "options": [
+   "oil only",
+   "air and moisture",
+   "copper filings",
+   "refrigerant only"
+  ],
+  "answer": 1,
+  "explanation": "Use a vacuum pump and micron gauge.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Type I",
+  "body": "Type I certification covers",
+  "options": [
+   "low-pressure chillers",
+   "motor vehicle A/C",
+   "small appliances with 5 pounds of refrigerant or less",
+   "high-pressure systems"
+  ],
+  "answer": 2,
+  "explanation": "For example, domestic refrigerators and window units.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Type II",
+  "body": "Type II certification covers",
+  "options": [
+   "car air conditioners",
+   "high-pressure and very high-pressure appliances",
+   "small appliances only",
+   "low-pressure chillers"
+  ],
+  "answer": 1,
+  "explanation": "Common refrigerants include R-22 and R-410A.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Type III",
+  "body": "Type III certification covers",
+  "options": [
+   "window air conditioners",
+   "low-pressure appliances such as chillers using R-123",
+   "home refrigerators",
+   "car A/C"
+  ],
+  "answer": 1,
+  "explanation": "Low-pressure systems can operate below atmospheric pressure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Type III",
+  "body": "Because low-pressure chillers operate below atmospheric pressure, leaks tend to",
+  "options": [
+   "raise the boiling point",
+   "release refrigerant only",
+   "stop the compressor permanently",
+   "let air and moisture into the system"
+  ],
+  "answer": 3,
+  "explanation": "Purge units remove non-condensables.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Records",
+  "body": "Technicians and owners should keep refrigerant service records for at least",
+  "options": [
+   "10 years",
+   "1 year",
+   "30 days",
+   "3 years"
+  ],
+  "answer": 3,
+  "explanation": "Recordkeeping requirements apply to many appliances.",
+  "difficulty": 2
+ },
+ {
+  "subject": "EPA",
+  "topic": "Safety",
+  "body": "When handling refrigerant, you should wear",
+  "options": [
+   "only a dust mask",
+   "safety glasses and gloves",
+   "nothing special",
+   "sandals"
+  ],
+  "answer": 1,
+  "explanation": "Liquid refrigerant can cause frostbite.",
+  "difficulty": 2
+ }
+]

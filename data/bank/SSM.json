@@ -1,0 +1,268 @@
+[
+ {
+  "subject": "SSM",
+  "topic": "Temperatures",
+  "body": "Poultry must be cooked to a minimum internal temperature of",
+  "options": [
+   "135 °F",
+   "145 °F for 15 seconds",
+   "165 °F for less than 1 second",
+   "155 °F for 17 seconds"
+  ],
+  "answer": 2,
+  "explanation": "This also applies to stuffing and stuffed meats.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Temperatures",
+  "body": "Ground beef must be cooked to at least",
+  "options": [
+   "135 °F",
+   "145 °F for 4 minutes",
+   "155 °F for 17 seconds",
+   "165 °F for 1 minute"
+  ],
+  "answer": 2,
+  "explanation": "Grinding spreads bacteria through the meat.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Temperatures",
+  "body": "Seafood, steaks and pork chops must be cooked to at least",
+  "options": [
+   "165 °F",
+   "145 °F for 15 seconds",
+   "135 °F",
+   "155 °F for 17 seconds"
+  ],
+  "answer": 1,
+  "explanation": "Roasts have different time options.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Temperatures",
+  "body": "Hot TCS food must be held at",
+  "options": [
+   "70 °F",
+   "135 °F or higher",
+   "100 °F",
+   "120 °F or higher"
+  ],
+  "answer": 1,
+  "explanation": "Cold TCS food must be held at 41 °F or lower.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Temperatures",
+  "body": "Cold TCS food must be held at",
+  "options": [
+   "41 °F or lower",
+   "60 °F or lower",
+   "32 °F exactly",
+   "50 °F or lower"
+  ],
+  "answer": 0,
+  "explanation": "The temperature danger zone is 41–135 °F.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Temperatures",
+  "body": "Cooked TCS food must be cooled from 135 °F to 70 °F within",
+  "options": [
+   "4 hours",
+   "2 hours",
+   "30 minutes",
+   "6 hours"
+  ],
+  "answer": 1,
+  "explanation": "Then from 70 °F to 41 °F within the next 4 hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Temperatures",
+  "body": "TCS food reheated for hot-holding must reach",
+  "options": [
+   "145 °F within 4 hours",
+   "165 °F for 15 seconds within 2 hours",
+   "120 °F",
+   "135 °F within 6 hours"
+  ],
+  "answer": 1,
+  "explanation": "Commercially processed food can be reheated to 135 °F.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Pathogens",
+  "body": "Which is one of the 'Big Six' pathogens?",
+  "options": [
+   "Mould",
+   "Listeria only",
+   "Yeast",
+   "Norovirus"
+  ],
+  "answer": 3,
+  "explanation": "Shigella, Salmonella Typhi, nontyphoidal Salmonella, Shiga toxin-producing E. coli, hepatitis A and Norovirus.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Pathogens",
+  "body": "A food handler with jaundice should be",
+  "options": [
+   "allowed to work with gloves",
+   "sent home for an hour",
+   "moved to the dish area",
+   "excluded from the operation and reported to the regulatory authority"
+  ],
+  "answer": 3,
+  "explanation": "Jaundice can indicate hepatitis A.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Allergens",
+  "body": "How many major food allergens are recognised in the US?",
+  "options": [
+   "8",
+   "9",
+   "14",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": "Sesame was added as the ninth in 2023.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Hygiene",
+  "body": "The whole handwashing process should take at least",
+  "options": [
+   "2 minutes",
+   "1 minute of scrubbing alone",
+   "20 seconds",
+   "5 seconds"
+  ],
+  "answer": 2,
+  "explanation": "Scrub for 10–15 seconds.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Receiving",
+  "body": "Live shellfish must be received with shellstock tags, which must be kept for",
+  "options": [
+   "90 days after the container is emptied",
+   "1 year",
+   "they can be discarded immediately",
+   "7 days"
+  ],
+  "answer": 0,
+  "explanation": "This allows trace-back in an outbreak.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Receiving",
+  "body": "Cold TCS food should be received at",
+  "options": [
+   "50 °F",
+   "any temperature",
+   "41 °F or lower, unless otherwise specified",
+   "60 °F"
+  ],
+  "answer": 2,
+  "explanation": "Reject food in the danger zone.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Storage",
+  "body": "Stock should be rotated using",
+  "options": [
+   "newest first",
+   "LIFO",
+   "random order",
+   "FIFO (first in, first out)"
+  ],
+  "answer": 3,
+  "explanation": "Use the oldest stock first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Storage",
+  "body": "Raw ground meat should be stored",
+  "options": [
+   "below seafood and whole cuts of meat, but above poultry",
+   "above ready-to-eat food",
+   "next to salads",
+   "on the top shelf"
+  ],
+  "answer": 0,
+  "explanation": "Order is based on minimum cooking temperature.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Thawing",
+  "body": "An acceptable way to thaw food is",
+  "options": [
+   "on the counter",
+   "in hot water",
+   "in a refrigerator at 41 °F or lower",
+   "outside"
+  ],
+  "answer": 2,
+  "explanation": "Also under running water at 70 °F or lower, in the microwave if cooked straight away, or as part of cooking.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Cleaning",
+  "body": "In a three-compartment sink, the correct order is",
+  "options": [
+   "rinse, wash, sanitize, towel-dry",
+   "wash, rinse, sanitize, then air-dry",
+   "wash, sanitize, rinse",
+   "sanitize, wash, rinse"
+  ],
+  "answer": 1,
+  "explanation": "Scrape or rinse items before washing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "HACCP",
+  "body": "The first HACCP principle is to",
+  "options": [
+   "set critical limits",
+   "verify the system",
+   "establish record-keeping",
+   "conduct a hazard analysis"
+  ],
+  "answer": 3,
+  "explanation": "Then identify critical control points.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SSM",
+  "topic": "Pests",
+  "body": "Integrated pest management (IPM) relies first on",
+  "options": [
+   "denying pests access, food and shelter",
+   "spraying pesticides daily",
+   "keeping a cat",
+   "ignoring signs"
+  ],
+  "answer": 0,
+  "explanation": "Work with a licensed pest control operator.",
+  "difficulty": 2
+ }
+]

@@ -1,0 +1,520 @@
+[
+ {
+  "subject": "USD",
+  "topic": "Signs",
+  "body": "An eight-sided red sign means",
+  "options": [
+   "yield",
+   "stop",
+   "railroad crossing",
+   "do not enter"
+  ],
+  "answer": 1,
+  "explanation": "Come to a complete stop at the stop line, crosswalk or intersection.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signs",
+  "body": "A downward-pointing red and white triangle means",
+  "options": [
+   "no passing",
+   "yield",
+   "stop",
+   "school zone"
+  ],
+  "answer": 1,
+  "explanation": "Slow down and give the right-of-way.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signs",
+  "body": "A yellow diamond-shaped sign is a",
+  "options": [
+   "guide sign",
+   "construction detour only",
+   "regulatory sign",
+   "warning sign"
+  ],
+  "answer": 3,
+  "explanation": "It warns of a hazard or change ahead.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signs",
+  "body": "A five-sided (pentagon) sign warns of",
+  "options": [
+   "a no-passing zone",
+   "a school zone or school crossing",
+   "a hospital",
+   "a railroad crossing"
+  ],
+  "answer": 1,
+  "explanation": "Watch for children.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signs",
+  "body": "A round yellow sign with an X and two R's warns of",
+  "options": [
+   "a railroad crossing ahead",
+   "a road closure",
+   "a rest area",
+   "a roundabout"
+  ],
+  "answer": 0,
+  "explanation": "Slow down, look and listen.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signs",
+  "body": "A pennant-shaped yellow sign on the left side of the road means",
+  "options": [
+   "no passing zone",
+   "merge ahead",
+   "end of road",
+   "two-way traffic"
+  ],
+  "answer": 0,
+  "explanation": "It marks the start of a no-passing zone.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signs",
+  "body": "Orange signs are used in",
+  "options": [
+   "hospital zones",
+   "school zones",
+   "parks",
+   "work zones"
+  ],
+  "answer": 3,
+  "explanation": "Fines are often higher in work zones.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signals",
+  "body": "A flashing red traffic light means",
+  "options": [
+   "stop, then go when it is safe",
+   "yield only to pedestrians",
+   "the light is broken; ignore it",
+   "slow down and proceed"
+  ],
+  "answer": 0,
+  "explanation": "Treat it like a stop sign.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signals",
+  "body": "A flashing yellow light means",
+  "options": [
+   "slow down and proceed with caution",
+   "stop completely",
+   "speed up",
+   "turn only"
+  ],
+  "answer": 0,
+  "explanation": "Watch for hazards.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signals",
+  "body": "A steady yellow light means",
+  "options": [
+   "the light is about to turn red; stop if you can do so safely",
+   "go only if turning",
+   "the road is closed",
+   "speed up to beat the red"
+  ],
+  "answer": 0,
+  "explanation": "Don't enter the intersection if you can stop safely.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Pavement markings",
+  "body": "A solid yellow line on your side of the center line means",
+  "options": [
+   "you may not pass",
+   "you may pass if safe",
+   "the lane is for buses",
+   "parking is allowed"
+  ],
+  "answer": 0,
+  "explanation": "Broken yellow means passing is allowed when safe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Pavement markings",
+  "body": "Two solid yellow lines in the center of the road mean",
+  "options": [
+   "a bike lane",
+   "passing allowed both ways",
+   "a turning lane",
+   "no passing for traffic in either direction"
+  ],
+  "answer": 3,
+  "explanation": "You may cross them only to turn left into a driveway where allowed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Right-of-way",
+  "body": "At a four-way stop, if two vehicles arrive at the same time, the right-of-way goes to",
+  "options": [
+   "the vehicle going straight always",
+   "the vehicle on the right",
+   "the vehicle on the left",
+   "the larger vehicle"
+  ],
+  "answer": 1,
+  "explanation": "The first to stop goes first otherwise.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Right-of-way",
+  "body": "When turning left, you must yield to",
+  "options": [
+   "vehicles behind you",
+   "nobody if your signal is on",
+   "parked cars",
+   "oncoming traffic and pedestrians"
+  ],
+  "answer": 3,
+  "explanation": "Wait in the intersection only if safe and legal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Right-of-way",
+  "body": "When an emergency vehicle with lights and siren approaches, you should",
+  "options": [
+   "speed up",
+   "keep driving normally",
+   "stop in the middle of the road",
+   "pull to the right edge of the road and stop"
+  ],
+  "answer": 3,
+  "explanation": "Stay stopped until it passes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Right-of-way",
+  "body": "Pedestrians who are blind may be identified by",
+  "options": [
+   "a white cane or a guide dog",
+   "a yellow vest",
+   "a red flag",
+   "a blue badge"
+  ],
+  "answer": 0,
+  "explanation": "Always yield to them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "School buses",
+  "body": "When a school bus has its red lights flashing and stop arm out on a two-lane road, you must",
+  "options": [
+   "stop, whichever direction you are traveling",
+   "honk and continue",
+   "pass on the left",
+   "slow down and pass"
+  ],
+  "answer": 0,
+  "explanation": "Stay stopped until the lights stop flashing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "The legal blood alcohol concentration (BAC) limit for adult drivers (21+) in every US state except Utah is",
+  "options": [
+   "0.08%",
+   "0.02%",
+   "0.10%",
+   "0.05%"
+  ],
+  "answer": 0,
+  "explanation": "Utah uses 0.05%; drivers under 21 face much lower limits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "Implied consent means that by driving you have agreed to",
+  "options": [
+   "pay all tolls",
+   "chemical testing for alcohol or drugs if lawfully asked",
+   "give up your license",
+   "any search of your car"
+  ],
+  "answer": 1,
+  "explanation": "Refusing usually leads to license suspension.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "The only thing that sobers up a drinker is",
+  "options": [
+   "coffee",
+   "time",
+   "a cold shower",
+   "fresh air"
+  ],
+  "answer": 1,
+  "explanation": "The body removes alcohol at a fixed rate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "A good minimum following distance in normal conditions is",
+  "options": [
+   "one car length at any speed",
+   "10 feet",
+   "at least 3 seconds",
+   "1 second"
+  ],
+  "answer": 2,
+  "explanation": "Increase it in bad weather or at night.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "If your vehicle starts to skid, you should",
+  "options": [
+   "ease off the gas and steer in the direction you want to go",
+   "accelerate",
+   "turn the wheel sharply the other way",
+   "slam on the brakes"
+  ],
+  "answer": 0,
+  "explanation": "Avoid overcorrecting.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "Hydroplaning is most likely",
+  "options": [
+   "at higher speeds on wet roads",
+   "only at night",
+   "at low speeds on dry roads",
+   "only on ice"
+  ],
+  "answer": 0,
+  "explanation": "Slow down in rain and keep tires in good condition.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "When driving in fog, you should use",
+  "options": [
+   "low-beam headlights",
+   "high-beam headlights",
+   "parking lights only",
+   "no lights"
+  ],
+  "answer": 0,
+  "explanation": "High beams reflect off fog.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "You must dim your high beams when an oncoming vehicle is within",
+  "options": [
+   "2,000 feet",
+   "500 feet",
+   "1 mile",
+   "50 feet"
+  ],
+  "answer": 1,
+  "explanation": "Also dim them within 300 feet when following a vehicle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "Blind spots are best checked by",
+  "options": [
+   "turning your head to look over your shoulder",
+   "honking",
+   "using only the rear-view mirror",
+   "slowing down"
+  ],
+  "answer": 0,
+  "explanation": "Mirrors don't show everything.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Parking",
+  "body": "When parking downhill next to a curb, turn your front wheels",
+  "options": [
+   "straight ahead",
+   "either way",
+   "toward the curb",
+   "away from the curb"
+  ],
+  "answer": 2,
+  "explanation": "Uphill with a curb: turn them away from the curb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Parking",
+  "body": "You should not park within how many feet of a fire hydrant in most states?",
+  "options": [
+   "5 feet",
+   "15 feet",
+   "100 feet",
+   "50 feet"
+  ],
+  "answer": 1,
+  "explanation": "Check your state handbook for exact distances.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Sharing the road",
+  "body": "Large trucks have large blind spots called",
+  "options": [
+   "buffers",
+   "cushions",
+   "no-zones",
+   "safe zones"
+  ],
+  "answer": 2,
+  "explanation": "If you can't see the truck's mirrors, the driver can't see you.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Sharing the road",
+  "body": "When passing a bicyclist, you should",
+  "options": [
+   "follow closely",
+   "give them plenty of space and pass only when safe",
+   "speed past",
+   "honk and pass closely"
+  ],
+  "answer": 1,
+  "explanation": "Many states require at least 3 feet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Sharing the road",
+  "body": "A 'Move Over' law requires drivers to",
+  "options": [
+   "move over or slow down for stopped emergency and service vehicles with flashing lights",
+   "stop for all trucks",
+   "move to the left lane at all times",
+   "use high beams"
+  ],
+  "answer": 0,
+  "explanation": "All states have a version of this law.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Emergencies",
+  "body": "If your brakes fail, first try",
+  "options": [
+   "pumping the brake pedal",
+   "shifting to neutral at high speed",
+   "jumping out",
+   "turning off the engine"
+  ],
+  "answer": 0,
+  "explanation": "Then use the parking brake gently and shift to a lower gear.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Emergencies",
+  "body": "If a tire blows out, you should",
+  "options": [
+   "accelerate",
+   "grip the wheel firmly and slow down gradually",
+   "brake hard immediately",
+   "steer sharply to the shoulder"
+  ],
+  "answer": 1,
+  "explanation": "Pull off the road when you have slowed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "At 45 mph you travel about 66 feet per second. How far do you travel during a 3-second following gap?",
+  "options": [
+   "About 198 feet",
+   "About 135 feet",
+   "About 396 feet",
+   "About 66 feet"
+  ],
+  "answer": 0,
+  "explanation": "66 ft/s × 3 s ≈ 198 feet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "At 55 mph you travel about 81 feet per second. How far do you travel during a 3-second following gap?",
+  "options": [
+   "About 81 feet",
+   "About 165 feet",
+   "About 242 feet",
+   "About 484 feet"
+  ],
+  "answer": 2,
+  "explanation": "81 ft/s × 3 s ≈ 242 feet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "At 30 mph you travel about 44 feet per second. How far do you travel during a 3-second following gap?",
+  "options": [
+   "About 44 feet",
+   "About 264 feet",
+   "About 90 feet",
+   "About 132 feet"
+  ],
+  "answer": 3,
+  "explanation": "44 ft/s × 3 s ≈ 132 feet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "At 65 mph you travel about 95 feet per second. How far do you travel during a 3-second following gap?",
+  "options": [
+   "About 195 feet",
+   "About 95 feet",
+   "About 572 feet",
+   "About 286 feet"
+  ],
+  "answer": 3,
+  "explanation": "95 ft/s × 3 s ≈ 286 feet.",
+  "difficulty": 2
+ }
+]

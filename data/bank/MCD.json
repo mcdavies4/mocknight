@@ -1,0 +1,240 @@
+[
+ {
+  "subject": "MCD",
+  "topic": "Code sets",
+  "body": "ICD-10-CM codes are used to report",
+  "options": [
+   "drug prices",
+   "ambulance supplies",
+   "diagnoses",
+   "procedures in physician offices"
+  ],
+  "answer": 2,
+  "explanation": "CPT reports procedures and services.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "Code sets",
+  "body": "HCPCS Level II codes cover items such as",
+  "options": [
+   "surgical procedures only",
+   "hospital room numbers",
+   "diagnoses",
+   "supplies, durable medical equipment, drugs and ambulance services"
+  ],
+  "answer": 3,
+  "explanation": "They are alphanumeric, e.g. starting with A, E, J.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "Code sets",
+  "body": "CPT Category II codes are used for",
+  "options": [
+   "emerging technology",
+   "surgery",
+   "diagnoses",
+   "performance measurement"
+  ],
+  "answer": 3,
+  "explanation": "Category III is emerging technology; Category I covers procedures and services.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "Modifiers",
+  "body": "Modifier 25 indicates",
+  "options": [
+   "the professional component",
+   "a significant, separately identifiable E/M service on the same day as a procedure",
+   "a distinct procedural service",
+   "a bilateral procedure"
+  ],
+  "answer": 1,
+  "explanation": "Documentation must support the separate E/M service.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "Modifiers",
+  "body": "Modifier 59 indicates",
+  "options": [
+   "a bilateral procedure",
+   "a repeat procedure by the same physician",
+   "a distinct procedural service",
+   "an assistant surgeon"
+  ],
+  "answer": 2,
+  "explanation": "Use only when no more specific modifier applies (such as XE, XS, XP or XU).",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "Modifiers",
+  "body": "Modifier 26 indicates",
+  "options": [
+   "a bilateral procedure",
+   "multiple procedures",
+   "the professional component of a service",
+   "the technical component"
+  ],
+  "answer": 2,
+  "explanation": "Modifier TC is the technical component.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "Modifiers",
+  "body": "Modifier 50 indicates",
+  "options": [
+   "a reduced service",
+   "a discontinued procedure",
+   "multiple procedures",
+   "a bilateral procedure"
+  ],
+  "answer": 3,
+  "explanation": "Modifier 51 is for multiple procedures.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "ICD-10-CM",
+  "body": "ICD-10-CM codes are",
+  "options": [
+   "2 characters",
+   "exactly 5 digits",
+   "always numeric",
+   "3 to 7 characters long"
+  ],
+  "answer": 3,
+  "explanation": "The first character is always a letter.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "ICD-10-CM",
+  "body": "For injury codes, the 7th character 'A' means",
+  "options": [
+   "sequela",
+   "subsequent encounter",
+   "anatomical side",
+   "initial encounter"
+  ],
+  "answer": 3,
+  "explanation": "'D' is subsequent encounter and 'S' is sequela.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "ICD-10-CM",
+  "body": "When a code needs a 7th character but has fewer than 6 characters, coders use",
+  "options": [
+   "the placeholder 'X'",
+   "the letter Z",
+   "a dash",
+   "a zero"
+  ],
+  "answer": 0,
+  "explanation": "This keeps the 7th character in the right position.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "ICD-10-CM",
+  "body": "An Excludes1 note means",
+  "options": [
+   "use an additional code",
+   "the two conditions cannot be coded together",
+   "code the other condition first",
+   "the conditions can be coded together"
+  ],
+  "answer": 1,
+  "explanation": "Excludes2 means not included here, but both may be reported.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "ICD-10-CM",
+  "body": "In outpatient coding, a diagnosis documented as 'rule out' or 'probable' should be",
+  "options": [
+   "left uncoded entirely with nothing reported",
+   "not coded; code the signs and symptoms instead",
+   "coded with a question mark",
+   "coded as if confirmed"
+  ],
+  "answer": 1,
+  "explanation": "Inpatient rules are different.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "ICD-10-CM",
+  "body": "Z codes describe",
+  "options": [
+   "neoplasms",
+   "factors influencing health status and contact with health services",
+   "drug names",
+   "external causes of injury"
+  ],
+  "answer": 1,
+  "explanation": "For example, a routine check-up.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "Surgery",
+  "body": "A surgical package with a 90-day global period is usually a",
+  "options": [
+   "major surgery",
+   "E/M visit",
+   "laboratory test",
+   "minor procedure"
+  ],
+  "answer": 0,
+  "explanation": "Minor procedures have 0- or 10-day global periods.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "Compliance",
+  "body": "Billing separately for services that should be reported with one comprehensive code is",
+  "options": [
+   "upcoding",
+   "unbundling",
+   "modifier use",
+   "downcoding"
+  ],
+  "answer": 1,
+  "explanation": "NCCI edits help identify it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "Compliance",
+  "body": "Reporting a higher-level service than was documented is",
+  "options": [
+   "querying",
+   "unbundling",
+   "upcoding",
+   "bundling"
+  ],
+  "answer": 2,
+  "explanation": "It is a form of fraud.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MCD",
+  "topic": "E/M",
+  "body": "Since 2021, office E/M visit levels are chosen based on",
+  "options": [
+   "the patient's age",
+   "the number of diagnoses only",
+   "medical decision making or total time",
+   "the history and exam only"
+  ],
+  "answer": 2,
+  "explanation": "History and exam are performed as medically appropriate.",
+  "difficulty": 2
+ }
+]

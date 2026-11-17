@@ -32,6 +32,10 @@ const RULES: Record<string, ReturnType<typeof rules>> = {
   UPSC: rules("₹", "rupees", "paise"),
   RRB: rules("₹", "rupees", "paise"),
   GCSE: rules("£", "pounds", "pence"),
+  ACT: rules("$", "dollars", "cents"),
+  HISET: rules("$", "dollars", "cents"),
+  PRAXIS: rules("$", "dollars", "cents"),
+  HESI: rules("$", "dollars", "cents"),
 };
 const NIGERIAN_TRACKS = new Set(["JAMB", "WAEC", "PUTME", "NECO", "ICAN", "NGREC", "NCEE", "JSCE", "NGCS", "OILGAS"]);
 const NIGERIA_ONLY = /\b(Nigeria|Nigerian|Lagos|Abuja|Kano|Ibadan|Port Harcourt|CBN|NNPC|INEC)\b/;

@@ -1,0 +1,394 @@
+[
+ {
+  "subject": "SIE",
+  "topic": "Regulation",
+  "body": "The Securities Act of 1933 mainly regulates",
+  "options": [
+   "mutual fund structure",
+   "secondary market trading",
+   "new issues of securities (the primary market)",
+   "investment advisers"
+  ],
+  "answer": 2,
+  "explanation": "It requires registration and a prospectus.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Regulation",
+  "body": "The Securities Exchange Act of 1934",
+  "options": [
+   "covers municipal bonds only",
+   "regulates the secondary market and created the SEC",
+   "regulates insurance companies",
+   "created FINRA's predecessor only"
+  ],
+  "answer": 1,
+  "explanation": "It also regulates broker-dealers and exchanges.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Regulation",
+  "body": "Municipal securities rules are written by the",
+  "options": [
+   "Federal Reserve",
+   "SEC only",
+   "MSRB",
+   "FDIC"
+  ],
+  "answer": 2,
+  "explanation": "FINRA and bank regulators enforce MSRB rules.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Regulation",
+  "body": "FINRA is a",
+  "options": [
+   "government agency",
+   "self-regulatory organization for broker-dealers",
+   "bank",
+   "stock exchange"
+  ],
+  "answer": 1,
+  "explanation": "It is overseen by the SEC.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Regulation",
+  "body": "SIPC protects customer accounts at a failed broker-dealer up to",
+  "options": [
+   "unlimited amounts",
+   "$500,000, including up to $250,000 in cash",
+   "$1 million in cash",
+   "$250,000 total"
+  ],
+  "answer": 1,
+  "explanation": "It does not protect against market losses.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Regulation",
+  "body": "Most US stock trades settle",
+  "options": [
+   "one business day after the trade (T+1)",
+   "one week after",
+   "the same day always",
+   "three business days after"
+  ],
+  "answer": 0,
+  "explanation": "T+1 began in May 2024.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "Bond prices and interest rates move",
+  "options": [
+   "independently",
+   "in the same direction",
+   "in opposite directions",
+   "only when rates fall"
+  ],
+  "answer": 2,
+  "explanation": "When rates rise, existing bond prices fall.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "Interest on most municipal bonds is",
+  "options": [
+   "exempt from all taxes everywhere",
+   "paid only at maturity",
+   "exempt from federal income tax",
+   "taxed at a higher rate"
+  ],
+  "answer": 2,
+  "explanation": "State tax treatment varies.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "Treasury bills are",
+  "options": [
+   "short-term government securities issued at a discount",
+   "stocks",
+   "municipal bonds",
+   "long-term corporate bonds"
+  ],
+  "answer": 0,
+  "explanation": "They mature in one year or less.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "Preferred stockholders usually",
+  "options": [
+   "own the company's debt",
+   "receive no dividends",
+   "receive dividends before common stockholders",
+   "have more voting rights than common stockholders"
+  ],
+  "answer": 2,
+  "explanation": "They usually don't vote.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "The maximum loss for the buyer of a call or put option is",
+  "options": [
+   "the strike price",
+   "the premium paid",
+   "zero",
+   "unlimited"
+  ],
+  "answer": 1,
+  "explanation": "Buyers can lose only what they paid.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "Open-end mutual fund shares are bought and redeemed at",
+  "options": [
+   "face value",
+   "a price set by trading on an exchange during the day",
+   "a random price",
+   "net asset value (plus any sales charge when buying)"
+  ],
+  "answer": 3,
+  "explanation": "ETFs trade on exchanges throughout the day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "An American Depositary Receipt (ADR) represents",
+  "options": [
+   "a mutual fund",
+   "shares of a foreign company traded in the US",
+   "a US government bond",
+   "a futures contract"
+  ],
+  "answer": 1,
+  "explanation": "ADRs trade in US dollars.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Trading",
+  "body": "Under Regulation T, the initial margin requirement for buying stock is",
+  "options": [
+   "10%",
+   "100%",
+   "50%",
+   "25%"
+  ],
+  "answer": 2,
+  "explanation": "Customers can borrow up to half the purchase price.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Compliance",
+  "body": "Cash transactions over $10,000 must be reported on a",
+  "options": [
+   "Form U4",
+   "Form 1099",
+   "Suspicious Activity Report only",
+   "Currency Transaction Report (CTR)"
+  ],
+  "answer": 3,
+  "explanation": "SARs report suspicious activity regardless of amount.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Compliance",
+  "body": "Trading on material, non-public information is",
+  "options": [
+   "front running only",
+   "arbitrage",
+   "insider trading",
+   "churning"
+  ],
+  "answer": 2,
+  "explanation": "It is illegal for insiders and those they tip.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Compliance",
+  "body": "Excessive trading in a customer account to generate commissions is",
+  "options": [
+   "churning",
+   "rebalancing",
+   "insider trading",
+   "front running"
+  ],
+  "answer": 0,
+  "explanation": "It is a sales practice violation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Compliance",
+  "body": "Regulation Best Interest requires broker-dealers to",
+  "options": [
+   "act in the retail customer's best interest when recommending",
+   "only sell bonds",
+   "guarantee profits",
+   "charge no commissions"
+  ],
+  "answer": 0,
+  "explanation": "It applies to recommendations to retail customers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "A $1,000 bond with a 4% coupon trades at $1000. What is its current yield?",
+  "options": [
+   "5%",
+   "25%",
+   "3%",
+   "4%"
+  ],
+  "answer": 3,
+  "explanation": "Annual interest $40 ÷ price $1000 = 4%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "A $1,000 bond with a 8% coupon trades at $1100. What is its current yield?",
+  "options": [
+   "7.27%",
+   "8%",
+   "13.75%",
+   "8.27%"
+  ],
+  "answer": 0,
+  "explanation": "Annual interest $80 ÷ price $1100 = 7.27%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "A $1,000 bond with a 4% coupon trades at $1100. What is its current yield?",
+  "options": [
+   "4.64%",
+   "27.5%",
+   "3.64%",
+   "4%"
+  ],
+  "answer": 2,
+  "explanation": "Annual interest $40 ÷ price $1100 = 3.64%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "A $1,000 bond with a 6% coupon trades at $800. What is its current yield?",
+  "options": [
+   "7.5%",
+   "8.5%",
+   "6%",
+   "13.33%"
+  ],
+  "answer": 0,
+  "explanation": "Annual interest $60 ÷ price $800 = 7.5%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "A $1,000 bond with a 8% coupon trades at $900. What is its current yield?",
+  "options": [
+   "8%",
+   "9.89%",
+   "8.89%",
+   "11.25%"
+  ],
+  "answer": 2,
+  "explanation": "Annual interest $80 ÷ price $900 = 8.89%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "A $1,000 bond with a 6% coupon trades at $1250. What is its current yield?",
+  "options": [
+   "6%",
+   "5.8%",
+   "20.83%",
+   "4.8%"
+  ],
+  "answer": 3,
+  "explanation": "Annual interest $60 ÷ price $1250 = 4.8%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "A $1,000 bond with a 5% coupon trades at $1000. What is its current yield?",
+  "options": [
+   "4%",
+   "5%",
+   "6%",
+   "20%"
+  ],
+  "answer": 1,
+  "explanation": "Annual interest $50 ÷ price $1000 = 5%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "A $1,000 bond with a 8% coupon trades at $1000. What is its current yield?",
+  "options": [
+   "12.5%",
+   "8%",
+   "7%",
+   "9%"
+  ],
+  "answer": 1,
+  "explanation": "Annual interest $80 ÷ price $1000 = 8%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "A $1,000 bond with a 5% coupon trades at $1100. What is its current yield?",
+  "options": [
+   "5%",
+   "5.55%",
+   "4.55%",
+   "22%"
+  ],
+  "answer": 2,
+  "explanation": "Annual interest $50 ÷ price $1100 = 4.55%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIE",
+  "topic": "Products",
+  "body": "A $1,000 bond with a 4% coupon trades at $900. What is its current yield?",
+  "options": [
+   "4.44%",
+   "5.44%",
+   "22.5%",
+   "4%"
+  ],
+  "answer": 0,
+  "explanation": "Annual interest $40 ÷ price $900 = 4.44%.",
+  "difficulty": 2
+ }
+]

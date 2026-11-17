@@ -1,0 +1,380 @@
+[
+ {
+  "subject": "LHI",
+  "topic": "Life insurance",
+  "body": "Term life insurance",
+  "options": [
+   "is an annuity",
+   "lasts for life",
+   "builds cash value",
+   "covers a set period and has no cash value"
+  ],
+  "answer": 3,
+  "explanation": "It is usually the cheapest form of life cover.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Life insurance",
+  "body": "Whole life insurance",
+  "options": [
+   "expires after 10 years",
+   "provides lifetime cover with guaranteed cash value growth",
+   "covers only accidents",
+   "has no cash value"
+  ],
+  "answer": 1,
+  "explanation": "Premiums are usually level.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Life insurance",
+  "body": "Universal life insurance offers",
+  "options": [
+   "fixed premiums only",
+   "no death benefit",
+   "flexible premiums and an adjustable death benefit",
+   "health cover"
+  ],
+  "answer": 2,
+  "explanation": "Cash value earns a credited interest rate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Life insurance",
+  "body": "To buy life insurance on someone, you must have",
+  "options": [
+   "an insurable interest in their life",
+   "a joint bank account",
+   "their medical records",
+   "a court order"
+  ],
+  "answer": 0,
+  "explanation": "Insurable interest must exist when the policy is issued.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Life insurance",
+  "body": "The incontestability clause usually prevents the insurer from contesting the policy after",
+  "options": [
+   "30 days",
+   "2 years",
+   "6 months",
+   "10 years"
+  ],
+  "answer": 1,
+  "explanation": "Except for non-payment of premium.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Life insurance",
+  "body": "The grace period on a life insurance policy is typically",
+  "options": [
+   "7 days",
+   "30 or 31 days",
+   "1 year",
+   "none"
+  ],
+  "answer": 1,
+  "explanation": "Coverage continues if premium is paid within it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Health insurance",
+  "body": "A deductible is",
+  "options": [
+   "the amount the insured pays before the insurer starts paying",
+   "the insurer's share of costs",
+   "the monthly premium",
+   "a fixed fee per visit"
+  ],
+  "answer": 0,
+  "explanation": "A copay is a fixed fee per visit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Health insurance",
+  "body": "Coinsurance is",
+  "options": [
+   "the percentage of costs shared after the deductible",
+   "a flat fee",
+   "the premium",
+   "the maximum benefit"
+  ],
+  "answer": 0,
+  "explanation": "For example, 80/20 coinsurance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Health insurance",
+  "body": "In an HMO, members usually need",
+  "options": [
+   "a primary care physician who refers them to specialists",
+   "no doctor at all",
+   "to see any doctor without referral",
+   "to pay all costs themselves"
+  ],
+  "answer": 0,
+  "explanation": "PPOs allow out-of-network care at a higher cost.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Health insurance",
+  "body": "COBRA lets employees keep group health cover after leaving a job, usually for up to",
+  "options": [
+   "18 months",
+   "5 years",
+   "6 months",
+   "life"
+  ],
+  "answer": 0,
+  "explanation": "The employee pays the full premium plus up to 2%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Medicare",
+  "body": "Medicare Part A covers",
+  "options": [
+   "hospital inpatient care",
+   "doctor visits only",
+   "prescription drugs",
+   "dental care"
+  ],
+  "answer": 0,
+  "explanation": "Part B covers doctor and outpatient care; Part D covers drugs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Medicare",
+  "body": "Medicare Part D covers",
+  "options": [
+   "vision only",
+   "prescription drugs",
+   "hospital stays",
+   "long-term custodial care"
+  ],
+  "answer": 1,
+  "explanation": "Part C is Medicare Advantage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Disability",
+  "body": "The elimination period in disability income insurance is",
+  "options": [
+   "the free-look period",
+   "the time benefits are paid",
+   "the waiting time before benefits start",
+   "the grace period"
+  ],
+  "answer": 2,
+  "explanation": "A longer elimination period lowers premiums.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Long-term care",
+  "body": "Long-term care benefits are usually triggered by",
+  "options": [
+   "reaching age 50",
+   "any hospital visit",
+   "a job change",
+   "inability to perform a set number of activities of daily living (ADLs) or cognitive impairment"
+  ],
+  "answer": 3,
+  "explanation": "ADLs include bathing, dressing and eating.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Annuities",
+  "body": "During the accumulation phase of an annuity, the owner",
+  "options": [
+   "pays tax every year on growth",
+   "cannot add money",
+   "receives lifetime income",
+   "pays in and the value grows tax-deferred"
+  ],
+  "answer": 3,
+  "explanation": "The payout phase is annuitization.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Ethics",
+  "body": "Persuading a client to replace a policy with misleading information is",
+  "options": [
+   "underwriting",
+   "twisting",
+   "rebating",
+   "churning only"
+  ],
+  "answer": 1,
+  "explanation": "It is an unfair trade practice.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Ethics",
+  "body": "Giving part of your commission to a client as an inducement to buy is",
+  "options": [
+   "rebating",
+   "coinsurance",
+   "twisting",
+   "sliding"
+  ],
+  "answer": 0,
+  "explanation": "It is illegal in most states.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Health insurance",
+  "body": "A patient has a $2,000 covered bill, a $1,000 deductible and 80/20 coinsurance. How much does the patient pay?",
+  "options": [
+   "$1,200",
+   "$400",
+   "$2,200",
+   "$1,000"
+  ],
+  "answer": 0,
+  "explanation": "Deductible $1,000 + 20% of $1,000 = $1,200.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Health insurance",
+  "body": "A patient has a $8,000 covered bill, a $500 deductible and 80/20 coinsurance. How much does the patient pay?",
+  "options": [
+   "$2,500",
+   "$500",
+   "$2,000",
+   "$1,600"
+  ],
+  "answer": 2,
+  "explanation": "Deductible $500 + 20% of $7,500 = $2,000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Health insurance",
+  "body": "A patient has a $10,000 covered bill, a $500 deductible and 70/30 coinsurance. How much does the patient pay?",
+  "options": [
+   "$500",
+   "$3,850",
+   "$3,000",
+   "$3,350"
+  ],
+  "answer": 3,
+  "explanation": "Deductible $500 + 30% of $9,500 = $3,350.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Health insurance",
+  "body": "A patient has a $2,000 covered bill, a $500 deductible and 80/20 coinsurance. How much does the patient pay?",
+  "options": [
+   "$400",
+   "$500",
+   "$800",
+   "$1,300"
+  ],
+  "answer": 2,
+  "explanation": "Deductible $500 + 20% of $1,500 = $800.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Health insurance",
+  "body": "A patient has a $8,000 covered bill, a $500 deductible and 70/30 coinsurance. How much does the patient pay?",
+  "options": [
+   "$2,750",
+   "$3,250",
+   "$500",
+   "$2,400"
+  ],
+  "answer": 0,
+  "explanation": "Deductible $500 + 30% of $7,500 = $2,750.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Health insurance",
+  "body": "A patient has a $5,000 covered bill, a $500 deductible and 80/20 coinsurance. How much does the patient pay?",
+  "options": [
+   "$500",
+   "$1,900",
+   "$1,400",
+   "$1,000"
+  ],
+  "answer": 2,
+  "explanation": "Deductible $500 + 20% of $4,500 = $1,400.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Health insurance",
+  "body": "A patient has a $8,000 covered bill, a $1,000 deductible and 70/30 coinsurance. How much does the patient pay?",
+  "options": [
+   "$4,100",
+   "$2,400",
+   "$3,100",
+   "$1,000"
+  ],
+  "answer": 2,
+  "explanation": "Deductible $1,000 + 30% of $7,000 = $3,100.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Health insurance",
+  "body": "A patient has a $10,000 covered bill, a $1,000 deductible and 70/30 coinsurance. How much does the patient pay?",
+  "options": [
+   "$1,000",
+   "$3,000",
+   "$4,700",
+   "$3,700"
+  ],
+  "answer": 3,
+  "explanation": "Deductible $1,000 + 30% of $9,000 = $3,700.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Health insurance",
+  "body": "A patient has a $10,000 covered bill, a $500 deductible and 80/20 coinsurance. How much does the patient pay?",
+  "options": [
+   "$2,400",
+   "$2,900",
+   "$500",
+   "$2,000"
+  ],
+  "answer": 0,
+  "explanation": "Deductible $500 + 20% of $9,500 = $2,400.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LHI",
+  "topic": "Health insurance",
+  "body": "A patient has a $5,000 covered bill, a $500 deductible and 70/30 coinsurance. How much does the patient pay?",
+  "options": [
+   "$1,500",
+   "$2,350",
+   "$500",
+   "$1,850"
+  ],
+  "answer": 3,
+  "explanation": "Deductible $500 + 30% of $4,500 = $1,850.",
+  "difficulty": 2
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "The New York permit test has 20 questions. To pass you need",
+  "options": [
+   "10 correct",
+   "all 20 correct",
+   "18 correct",
+   "14 correct, including at least 2 of the 4 road sign questions"
+  ],
+  "answer": 3,
+  "explanation": "It covers road signs, rules of the road and alcohol and drug laws.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "In New York City, unless otherwise posted, the speed limit is",
+  "options": [
+   "35 mph",
+   "25 mph",
+   "30 mph",
+   "40 mph"
+  ],
+  "answer": 1,
+  "explanation": "Outside the city the statewide default is 55 mph.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "In New York City, a right turn on a red light is",
+  "options": [
+   "always allowed after stopping",
+   "allowed for taxis only",
+   "not allowed unless a sign permits it",
+   "allowed only at night"
+  ],
+  "answer": 2,
+  "explanation": "Elsewhere in New York, a right on red is usually allowed after a full stop unless a sign prohibits it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "New York's Zero Tolerance Law applies to drivers under 21 with a BAC of",
+  "options": [
+   "0.15% or more",
+   "0.10% or more",
+   "0.02% to 0.07%",
+   "0.08% or more only"
+  ],
+  "answer": 2,
+  "explanation": "It leads to license suspension.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "In New York, when a school bus stops with red lights flashing, you must stop",
+  "options": [
+   "only if behind the bus",
+   "only on two-lane roads",
+   "only if children are visible",
+   "whether you are approaching from the front or the rear, even on a divided highway"
+  ],
+  "answer": 3,
+  "explanation": "Stay at least 20 feet away.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NYD",
+  "topic": "New York rules",
+  "body": "In New York, you can apply for a learner permit at age",
+  "options": [
+   "14",
+   "15",
+   "18",
+   "16"
+  ],
+  "answer": 3,
+  "explanation": "You must pass a vision test and the written test.",
+  "difficulty": 2
+ }
+]

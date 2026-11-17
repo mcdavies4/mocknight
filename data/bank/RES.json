@@ -1,0 +1,548 @@
+[
+ {
+  "subject": "RES",
+  "topic": "Ownership",
+  "body": "The most complete form of ownership is",
+  "options": [
+   "easement",
+   "leasehold",
+   "life estate",
+   "fee simple absolute"
+  ],
+  "answer": 3,
+  "explanation": "It lasts indefinitely and can be sold or inherited.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Ownership",
+  "body": "Joint tenancy includes the right of",
+  "options": [
+   "partition only",
+   "survivorship",
+   "first refusal",
+   "redemption"
+  ],
+  "answer": 1,
+  "explanation": "A deceased owner's share passes to the surviving owners.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Ownership",
+  "body": "In a tenancy in common, a deceased owner's share",
+  "options": [
+   "goes to the state",
+   "passes to their heirs",
+   "goes to the other owners",
+   "is lost"
+  ],
+  "answer": 1,
+  "explanation": "There is no right of survivorship.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Ownership",
+  "body": "A right to use another person's land for a specific purpose, such as a driveway, is an",
+  "options": [
+   "encroachment",
+   "easement",
+   "escheat",
+   "lien"
+  ],
+  "answer": 1,
+  "explanation": "An encroachment is something built over the boundary.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Ownership",
+  "body": "The government's power to take private property for public use with just compensation is",
+  "options": [
+   "taxation",
+   "eminent domain",
+   "escheat",
+   "police power"
+  ],
+  "answer": 1,
+  "explanation": "The process is called condemnation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Deeds",
+  "body": "The deed that gives the buyer the greatest protection is a",
+  "options": [
+   "special warranty deed",
+   "bargain and sale deed without covenants",
+   "quitclaim deed",
+   "general warranty deed"
+  ],
+  "answer": 3,
+  "explanation": "A quitclaim gives no warranties.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Agency",
+  "body": "An agent's fiduciary duties include",
+  "options": [
+   "obedience, loyalty, disclosure, confidentiality, accounting and reasonable care",
+   "only marketing the property",
+   "representing both sides secretly",
+   "guaranteeing the sale price"
+  ],
+  "answer": 0,
+  "explanation": "Often remembered as OLDCAR.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Fair housing",
+  "body": "The federal Fair Housing Act protects against discrimination based on",
+  "options": [
+   "credit score",
+   "income only",
+   "occupation",
+   "race, color, religion, national origin, sex, familial status and disability"
+  ],
+  "answer": 3,
+  "explanation": "These are the seven federally protected classes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Fair housing",
+  "body": "Directing buyers toward or away from neighborhoods based on a protected class is",
+  "options": [
+   "redlining",
+   "puffing",
+   "steering",
+   "blockbusting"
+  ],
+  "answer": 2,
+  "explanation": "It is illegal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Fair housing",
+  "body": "Encouraging owners to sell by suggesting a protected group is moving in is",
+  "options": [
+   "panic buying",
+   "redlining",
+   "blockbusting",
+   "steering"
+  ],
+  "answer": 2,
+  "explanation": "It is illegal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Contracts",
+  "body": "The Statute of Frauds requires real estate sale contracts to be",
+  "options": [
+   "in writing to be enforceable",
+   "notarised",
+   "signed by three witnesses",
+   "recorded within a day"
+  ],
+  "answer": 0,
+  "explanation": "Oral contracts for land generally can't be enforced.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Contracts",
+  "body": "An offer becomes a binding contract when",
+  "options": [
+   "the appraisal is done",
+   "the buyer views the house",
+   "the agent lists the property",
+   "acceptance is communicated to the offeror"
+  ],
+  "answer": 3,
+  "explanation": "A counteroffer rejects the original offer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Finance",
+  "body": "One discount point equals",
+  "options": [
+   "$1,000",
+   "0.1% of the loan",
+   "1% of the loan amount",
+   "1% of the sale price"
+  ],
+  "answer": 2,
+  "explanation": "Points can lower the interest rate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Finance",
+  "body": "Private mortgage insurance (PMI) is usually required on conventional loans when the loan-to-value ratio is above",
+  "options": [
+   "80%",
+   "50%",
+   "95% only",
+   "100%"
+  ],
+  "answer": 0,
+  "explanation": "It protects the lender.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Valuation",
+  "body": "The appraisal approach most used for single-family homes is the",
+  "options": [
+   "gross rent multiplier only",
+   "sales comparison approach",
+   "cost approach",
+   "income approach"
+  ],
+  "answer": 1,
+  "explanation": "The income approach suits rental and commercial property.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Law",
+  "body": "RESPA mainly regulates",
+  "options": [
+   "building codes",
+   "property taxes",
+   "settlement (closing) procedures and bans kickbacks",
+   "zoning"
+  ],
+  "answer": 2,
+  "explanation": "Real Estate Settlement Procedures Act.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Law",
+  "body": "Zoning is an example of the government's",
+  "options": [
+   "escheat",
+   "police power",
+   "eminent domain",
+   "taxation power"
+  ],
+  "answer": 1,
+  "explanation": "It regulates land use for public welfare.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A home sells for $400,000 with a 6% commission split 50/50 between the listing and selling brokers. How much does the selling broker receive?",
+  "options": [
+   "$6,000",
+   "$24,000",
+   "$13,000",
+   "$12,000"
+  ],
+  "answer": 3,
+  "explanation": "$400,000 × 6% = $24,000; half is $12,000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A home sells for $400,000 with a 5% commission split 50/50 between the listing and selling brokers. How much does the selling broker receive?",
+  "options": [
+   "$11,000",
+   "$6,000",
+   "$20,000",
+   "$10,000"
+  ],
+  "answer": 3,
+  "explanation": "$400,000 × 5% = $20,000; half is $10,000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A home sells for $320,000 with a 5% commission split 50/50 between the listing and selling brokers. How much does the selling broker receive?",
+  "options": [
+   "$4,800",
+   "$9,000",
+   "$16,000",
+   "$8,000"
+  ],
+  "answer": 3,
+  "explanation": "$320,000 × 5% = $16,000; half is $8,000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A home sells for $475,000 with a 6% commission split 50/50 between the listing and selling brokers. How much does the selling broker receive?",
+  "options": [
+   "$7,125",
+   "$15,250",
+   "$28,500",
+   "$14,250"
+  ],
+  "answer": 3,
+  "explanation": "$475,000 × 6% = $28,500; half is $14,250.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A home sells for $475,000 with a 5% commission split 50/50 between the listing and selling brokers. How much does the selling broker receive?",
+  "options": [
+   "$12,875",
+   "$11,875",
+   "$7,125",
+   "$23,750"
+  ],
+  "answer": 1,
+  "explanation": "$475,000 × 5% = $23,750; half is $11,875.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A home sells for $250,000 with a 6% commission split 50/50 between the listing and selling brokers. How much does the selling broker receive?",
+  "options": [
+   "$7,500",
+   "$15,000",
+   "$3,750",
+   "$8,500"
+  ],
+  "answer": 0,
+  "explanation": "$250,000 × 6% = $15,000; half is $7,500.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A home sells for $250,000 with a 5% commission split 50/50 between the listing and selling brokers. How much does the selling broker receive?",
+  "options": [
+   "$6,250",
+   "$3,750",
+   "$7,250",
+   "$12,500"
+  ],
+  "answer": 0,
+  "explanation": "$250,000 × 5% = $12,500; half is $6,250.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A home sells for $320,000 with a 6% commission split 50/50 between the listing and selling brokers. How much does the selling broker receive?",
+  "options": [
+   "$9,600",
+   "$19,200",
+   "$10,600",
+   "$4,800"
+  ],
+  "answer": 0,
+  "explanation": "$320,000 × 6% = $19,200; half is $9,600.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A buyer pays $400,000 with 25% down and pays 2 discount point(s) on the loan. How much do the points cost?",
+  "options": [
+   "$300,000",
+   "$12,000",
+   "$6,000",
+   "$8,000"
+  ],
+  "answer": 2,
+  "explanation": "Loan = $300,000; 2% of the loan = $6,000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A buyer pays $300,000 with 10% down and pays 2 discount point(s) on the loan. How much do the points cost?",
+  "options": [
+   "$5,400",
+   "$270,000",
+   "$6,000",
+   "$10,800"
+  ],
+  "answer": 0,
+  "explanation": "Loan = $270,000; 2% of the loan = $5,400.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A buyer pays $400,000 with 20% down and pays 2 discount point(s) on the loan. How much do the points cost?",
+  "options": [
+   "$12,800",
+   "$320,000",
+   "$6,400",
+   "$8,000"
+  ],
+  "answer": 2,
+  "explanation": "Loan = $320,000; 2% of the loan = $6,400.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A buyer pays $300,000 with 20% down and pays 2 discount point(s) on the loan. How much do the points cost?",
+  "options": [
+   "$240,000",
+   "$6,000",
+   "$4,800",
+   "$9,600"
+  ],
+  "answer": 2,
+  "explanation": "Loan = $240,000; 2% of the loan = $4,800.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A buyer pays $200,000 with 20% down and pays 2 discount point(s) on the loan. How much do the points cost?",
+  "options": [
+   "$3,200",
+   "$6,400",
+   "$4,000",
+   "$160,000"
+  ],
+  "answer": 0,
+  "explanation": "Loan = $160,000; 2% of the loan = $3,200.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A buyer pays $300,000 with 25% down and pays 1 discount point(s) on the loan. How much do the points cost?",
+  "options": [
+   "$225,000",
+   "$3,000",
+   "$4,500",
+   "$2,250"
+  ],
+  "answer": 3,
+  "explanation": "Loan = $225,000; 1% of the loan = $2,250.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A buyer pays $200,000 with 25% down and pays 2 discount point(s) on the loan. How much do the points cost?",
+  "options": [
+   "$150,000",
+   "$4,000",
+   "$6,000",
+   "$3,000"
+  ],
+  "answer": 3,
+  "explanation": "Loan = $150,000; 2% of the loan = $3,000.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A buyer pays $400,000 with 10% down and pays 2 discount point(s) on the loan. How much do the points cost?",
+  "options": [
+   "$360,000",
+   "$14,400",
+   "$7,200",
+   "$8,000"
+  ],
+  "answer": 2,
+  "explanation": "Loan = $360,000; 2% of the loan = $7,200.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A property's net operating income is $36,000 a year. At a 8% capitalization rate, what is its value?",
+  "options": [
+   "$360,000",
+   "$288,000",
+   "$450,000",
+   "$225,000"
+  ],
+  "answer": 2,
+  "explanation": "Value = NOI ÷ cap rate = $36,000 ÷ 0.08 = $450,000.",
+  "difficulty": 3
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A property's net operating income is $60,000 a year. At a 8% capitalization rate, what is its value?",
+  "options": [
+   "$480,000",
+   "$375,000",
+   "$750,000",
+   "$600,000"
+  ],
+  "answer": 2,
+  "explanation": "Value = NOI ÷ cap rate = $60,000 ÷ 0.08 = $750,000.",
+  "difficulty": 3
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A property's net operating income is $48,000 a year. At a 8% capitalization rate, what is its value?",
+  "options": [
+   "$600,000",
+   "$384,000",
+   "$300,000",
+   "$480,000"
+  ],
+  "answer": 0,
+  "explanation": "Value = NOI ÷ cap rate = $48,000 ÷ 0.08 = $600,000.",
+  "difficulty": 3
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A property's net operating income is $24,000 a year. At a 8% capitalization rate, what is its value?",
+  "options": [
+   "$192,000",
+   "$150,000",
+   "$240,000",
+   "$300,000"
+  ],
+  "answer": 3,
+  "explanation": "Value = NOI ÷ cap rate = $24,000 ÷ 0.08 = $300,000.",
+  "difficulty": 3
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A property's net operating income is $24,000 a year. At a 6% capitalization rate, what is its value?",
+  "options": [
+   "$400,000",
+   "$200,000",
+   "$240,000",
+   "$144,000"
+  ],
+  "answer": 0,
+  "explanation": "Value = NOI ÷ cap rate = $24,000 ÷ 0.06 = $400,000.",
+  "difficulty": 3
+ },
+ {
+  "subject": "RES",
+  "topic": "Math",
+  "body": "A property's net operating income is $60,000 a year. At a 6% capitalization rate, what is its value?",
+  "options": [
+   "$360,000",
+   "$500,000",
+   "$1,000,000",
+   "$600,000"
+  ],
+  "answer": 2,
+  "explanation": "Value = NOI ÷ cap rate = $60,000 ÷ 0.06 = $1,000,000.",
+  "difficulty": 3
+ }
+]

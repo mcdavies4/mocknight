@@ -1,0 +1,86 @@
+[
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "Georgia's knowledge exam has two parts of 20 questions each: road signs and road rules. To pass you need",
+  "options": [
+   "15 correct overall",
+   "20 correct in each part",
+   "at least 15 correct in each part",
+   "30 correct in one part"
+  ],
+  "answer": 2,
+  "explanation": "If you fail one part, you only retake that part.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "In Georgia, you can apply for a Class CP instructional permit at age",
+  "options": [
+   "15",
+   "18",
+   "14",
+   "16"
+  ],
+  "answer": 0,
+  "explanation": "You must pass the knowledge exam and a vision test.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "Under Georgia's Hands-Free law, drivers may not",
+  "options": [
+   "use any GPS",
+   "listen to music",
+   "use voice-to-text",
+   "hold or support a phone with any part of their body while driving"
+  ],
+  "answer": 3,
+  "explanation": "Hands-free use is allowed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "In Georgia, drivers under 21 can be charged with DUI with a BAC of",
+  "options": [
+   "0.02% or more",
+   "0.08% or more only",
+   "0.15% or more",
+   "0.10% or more"
+  ],
+  "answer": 0,
+  "explanation": "Georgia has a zero tolerance law for under-21 drivers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "In Georgia, on a divided highway with a median, traffic going in the opposite direction from a stopped school bus",
+  "options": [
+   "must always stop",
+   "does not have to stop",
+   "must stop and wait 5 minutes",
+   "must honk"
+  ],
+  "answer": 1,
+  "explanation": "Traffic behind the bus must always stop.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GAD",
+  "topic": "Georgia rules",
+  "body": "Georgia's Move Over law requires drivers approaching a stopped emergency, tow or utility vehicle with flashing lights to",
+  "options": [
+   "stop in the lane",
+   "move over a lane if safe, or slow down below the limit and be ready to stop",
+   "use high beams",
+   "speed up"
+  ],
+  "answer": 1,
+  "explanation": "It protects people working at the roadside.",
+  "difficulty": 2
+ }
+]

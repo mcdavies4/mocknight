@@ -1,0 +1,100 @@
+[
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "The Texas knowledge test passing score is",
+  "options": [
+   "70%",
+   "80%",
+   "50%",
+   "100%"
+  ],
+  "answer": 0,
+  "explanation": "Practice tests usually use 30 questions, needing 21 correct.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "In Texas, you can apply for a Class C learner license at age",
+  "options": [
+   "18",
+   "15",
+   "16",
+   "14"
+  ],
+  "answer": 1,
+  "explanation": "You must complete the classroom part of driver education and pass a vision test.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "In Texas, a driver under 21 commits an offense if they drive with",
+  "options": [
+   "any detectable amount of alcohol",
+   "a BAC of 0.05% or more",
+   "only if they cause a crash",
+   "a BAC of 0.08% or more"
+  ],
+  "answer": 0,
+  "explanation": "Texas has a zero tolerance policy for minors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "Texas law requires headlights to be on",
+  "options": [
+   "only on highways",
+   "only in rain",
+   "only after midnight",
+   "from 30 minutes after sunset to 30 minutes before sunrise"
+  ],
+  "answer": 3,
+  "explanation": "Also when visibility is poor.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "Unless posted otherwise, the speed limit in a Texas urban district is",
+  "options": [
+   "30 mph",
+   "20 mph",
+   "45 mph",
+   "55 mph"
+  ],
+  "answer": 0,
+  "explanation": "Speed limits are posted on most roads.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "Texas's Move Over/Slow Down law requires you to vacate the lane closest to a stopped emergency vehicle or",
+  "options": [
+   "speed up to pass quickly",
+   "stop completely",
+   "slow to 20 mph below the posted limit",
+   "turn on hazard lights only"
+  ],
+  "answer": 2,
+  "explanation": "It also covers tow trucks and TxDOT vehicles with lights on.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TXD",
+  "topic": "Texas rules",
+  "body": "On a Texas road where a school bus is stopped with red lights flashing, traffic in both directions must stop unless",
+  "options": [
+   "no children are visible",
+   "the road is divided by a median or barrier",
+   "you are in a hurry",
+   "it is after 5 p.m."
+  ],
+  "answer": 1,
+  "explanation": "Stay stopped until the bus moves or signals.",
+  "difficulty": 2
+ }
+]

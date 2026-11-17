@@ -1,0 +1,86 @@
+[
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "Florida's Class E knowledge exam has 50 questions. You need",
+  "options": [
+   "25 correct",
+   "40 correct (80%)",
+   "30 correct",
+   "45 correct"
+  ],
+  "answer": 1,
+  "explanation": "Questions cover road signs and road rules.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "Before getting a Florida learner license, new drivers must complete",
+  "options": [
+   "a Traffic Law and Substance Abuse Education (TLSAE) course",
+   "a CDL course",
+   "nothing",
+   "a motorcycle course"
+  ],
+  "answer": 0,
+  "explanation": "Teens can get a learner license from age 15.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "In Florida, drivers under 21 face penalties if their BAC is",
+  "options": [
+   "0.08% or higher only",
+   "0.02% or higher",
+   "0.10% or higher",
+   "0.15% or higher"
+  ],
+  "answer": 1,
+  "explanation": "Florida has a zero tolerance law for under-21 drivers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "In Florida, you must turn on your headlights when",
+  "options": [
+   "never during the day",
+   "only after midnight",
+   "it rains and your windshield wipers are on, and from sunset to sunrise",
+   "only on highways"
+  ],
+  "answer": 2,
+  "explanation": "Also in smoke or fog.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "Florida's Move Over law requires you to move over a lane or",
+  "options": [
+   "slow to 20 mph below the posted speed limit",
+   "flash your high beams",
+   "speed up",
+   "stop in your lane"
+  ],
+  "answer": 0,
+  "explanation": "It covers emergency, sanitation, utility and service vehicles and disabled vehicles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FLD",
+  "topic": "Florida rules",
+  "body": "In Florida, children aged 5 and under must ride in",
+  "options": [
+   "the front seat with a lap belt",
+   "a federally approved child restraint",
+   "an adult's lap",
+   "no restraint if in the back"
+  ],
+  "answer": 1,
+  "explanation": "Children aged 4 and 5 may use a booster seat.",
+  "difficulty": 2
+ }
+]

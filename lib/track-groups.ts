@@ -4,8 +4,8 @@ import { TRACK_LIST, TRACKS, type Track, type TrackCode } from "./tracks";
 export interface TrackGroup { key: string; emoji: string; title: string; description: string; codes: TrackCode[] }
 
 export const TRACK_GROUPS: TrackGroup[] = [
-  { key: "us", emoji: "🇺🇸", title: "United States", description: "GED, nursing school (TEAS), CNA, military (ASVAB), SAT, NCLEX and the citizenship test.",
-    codes: ["GED", "TEAS", "CNA", "ASVAB", "CDL", "USMLE", "SAT", "NCLEX", "USCIT"] },
+  { key: "us", emoji: "🇺🇸", title: "United States", description: "DMV permit tests, GED and HiSET, ACT and SAT, healthcare jobs (CNA, phlebotomy, medical assistant, pharmacy tech, coding, NCLEX), licences (real estate, insurance, ServSafe, EPA 608), finance (SIE), teaching (Praxis), military and citizenship.",
+    codes: ["DMVCA", "DMVTX", "DMVFL", "DMVNY", "DMVGA", "GED", "HISET", "ACT", "SAT", "TEAS", "HESI", "CNA", "PHLEB", "CCMA", "PTCB", "CPC", "NCLEXPN", "NCLEX", "USMLE", "SERVSAFE", "EPA608", "REALEST", "LIFEINS", "SIE", "PRAXIS", "ASVAB", "CDL", "USCIT"] },
   { key: "india", emoji: "🇮🇳", title: "India", description: "UPSC, SSC, banking, railways, teaching (CTET), MBA (CAT), NEET and JEE.",
     codes: ["UPSC", "SSC", "IBPS", "RRB", "CTET", "CAT", "NEET", "JEE"] },
   { key: "school", emoji: "🌍", title: "African school exams", description: "School-leaving and national exams across Nigeria, Ghana, Kenya, Tanzania, Uganda, Cameroon, South Africa and Ethiopia.",
@@ -48,6 +48,9 @@ const ALIASES: Partial<Record<TrackCode, string>> = {
   ELEC18: "electrician 18th edition bs 7671 wiring regulations 2382", EYTA: "teaching assistant nursery early years eyfs childcare school", WAREHOUSE: "warehouse forklift flt picker logistics", NHSHCA: "nhs healthcare assistant hca support worker hospital band 2 band 3",
   CARE: "care certificate care worker carer", CAREW: "care worker carer workforce essentials",
   CARESR: "senior carer care worker level 3 diploma medication mar cqc mental capacity", FIRSTAID: "first aid at work efaw cpr", SERU: "uber bolt private hire phv tfl london driver seru", HGV: "hgv lgv lorry truck driver cpc class 1 class 2 bus",
+  DMVCA: "dmv permit test california ca drivers license knowledge", DMVTX: "dmv permit test texas tx dps learner license", DMVFL: "dmv permit test florida fl class e learner", DMVNY: "dmv permit test new york ny nyc learner permit", DMVGA: "dds permit test georgia ga learner",
+  PTCB: "ptcb ptce pharmacy technician tech", PHLEB: "phlebotomy phlebotomist nha cpt blood draw", CCMA: "ccma medical assistant nha", CPC: "cpc medical coding coder billing aapc", NCLEXPN: "nclex pn lpn lvn practical nurse", HESI: "hesi a2 nursing school entrance",
+  REALEST: "real estate realtor salesperson license", LIFEINS: "life health insurance agent producer license", SERVSAFE: "servsafe food manager restaurant", EPA608: "epa 608 hvac refrigerant universal", ACT: "act college admission", HISET: "hiset high school equivalency", PRAXIS: "praxis core teacher certification", SIE: "sie finra securities finance stockbroker",
   UAEDRV: "uae dubai abu dhabi rta itc driving theory licence test", UAETLS: "uae teacher licence tls moe pedagogy teaching dubai abu dhabi", GULFLAB: "lab laboratory technologist technician dha haad moh qchp prometric", GULFPT: "physiotherapy physiotherapist physio dha haad moh qchp prometric", GULFDEN: "dentist dental dha haad moh qchp sdle prometric",
   DUBAIPIC: "dubai pic person in charge food safety municipality haccp", SIRA: "sira security guard dubai licence card",
   GCSE: "gcse maths english resit grade 4 uk", CSJT: "civil service judgement test cs jt uk government job", TOEFL: "toefl ibt english study abroad", DUOLINGO: "duolingo det english test",
