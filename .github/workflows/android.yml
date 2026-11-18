@@ -48,6 +48,8 @@ jobs:
         if: env.ANDROID_KEYSTORE_PATH == ''
         run: |
           mkdir -p /tmp/out && cp android/app/build/outputs/bundle/release/*.aab /tmp/out/
+          # Stop Vercel trying to deploy this artifact-only branch.
+          echo '{"git":{"deploymentEnabled":false}}' > /tmp/out/vercel.json
           cd /tmp/out
           git init -q -b android-builds
           git config user.name "github-actions" && git config user.email "actions@github.com"
