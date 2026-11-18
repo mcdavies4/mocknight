@@ -313,8 +313,8 @@
   "body": "Which Excel function is used for finding a value in one range and returning the matching value from another?",
   "options": [
    "CONCAT (or &)",
-   "AVERAGEIF",
-   "SUMIFS",
+   "IF",
+   "UNIQUE",
    "XLOOKUP"
   ],
   "answer": 3,
@@ -327,9 +327,9 @@
   "body": "Which Excel function is used for adding values that meet several conditions?",
   "options": [
    "SUMIFS",
-   "XLOOKUP",
+   "UNIQUE",
    "COUNTIF",
-   "TRIM"
+   "AVERAGEIF"
   ],
   "answer": 0,
   "explanation": "SUMIFS: adding values that meet several conditions.",
@@ -340,10 +340,10 @@
   "topic": "Excel",
   "body": "Which Excel function is used for counting cells that meet one condition?",
   "options": [
-   "UNIQUE",
-   "IFERROR",
+   "AVERAGEIF",
+   "SUMIFS",
    "COUNTIF",
-   "XLOOKUP"
+   "CONCAT (or &)"
   ],
   "answer": 2,
   "explanation": "COUNTIF: counting cells that meet one condition.",
@@ -354,8 +354,8 @@
   "topic": "Excel",
   "body": "Which Excel function is used for returning one value if a test is true and another if it is false?",
   "options": [
-   "CONCAT (or &)",
-   "AVERAGEIF",
+   "UNIQUE",
+   "IFERROR",
    "XLOOKUP",
    "IF"
   ],
@@ -371,7 +371,7 @@
    "COUNTIF",
    "SUMIFS",
    "CONCAT (or &)",
-   "IF"
+   "TRIM"
   ],
   "answer": 2,
   "explanation": "CONCAT (or &): joining text from several cells.",
@@ -382,10 +382,10 @@
   "topic": "Excel",
   "body": "Which Excel function is used for removing extra spaces from text?",
   "options": [
-   "IFERROR",
-   "IF",
+   "CONCAT (or &)",
+   "XLOOKUP",
    "TRIM",
-   "SUMIFS"
+   "IFERROR"
   ],
   "answer": 2,
   "explanation": "TRIM: removing extra spaces from text.",
@@ -396,10 +396,10 @@
   "topic": "Excel",
   "body": "Which Excel function is used for averaging values that meet a condition?",
   "options": [
-   "TRIM",
-   "COUNTIF",
+   "UNIQUE",
+   "SUMIFS",
    "AVERAGEIF",
-   "SUMIFS"
+   "COUNTIF"
   ],
   "answer": 2,
   "explanation": "AVERAGEIF: averaging values that meet a condition.",
@@ -410,10 +410,10 @@
   "topic": "Excel",
   "body": "Which Excel function is used for showing a chosen value instead of an error?",
   "options": [
-   "TRIM",
-   "CONCAT (or &)",
+   "ROUND",
+   "XLOOKUP",
    "IFERROR",
-   "ROUND"
+   "IF"
   ],
   "answer": 2,
   "explanation": "IFERROR: showing a chosen value instead of an error.",
@@ -424,10 +424,10 @@
   "topic": "Excel",
   "body": "Which Excel function is used for returning the distinct values in a range?",
   "options": [
-   "TRIM",
-   "CONCAT (or &)",
+   "XLOOKUP",
+   "IF",
    "UNIQUE",
-   "COUNTIF"
+   "AVERAGEIF"
   ],
   "answer": 2,
   "explanation": "UNIQUE: returning the distinct values in a range.",

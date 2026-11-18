@@ -18,9 +18,9 @@
   "topic": "Extinguishers",
   "body": "What colour is the band on a foam extinguisher?",
   "options": [
-   "Red",
-   "Yellow",
+   "Blue",
    "Black",
+   "Red",
    "Cream"
   ],
   "answer": 3,
@@ -33,9 +33,9 @@
   "body": "What colour is the band on a carbon dioxide (CO2) extinguisher?",
   "options": [
    "Black",
-   "Yellow",
+   "Blue",
    "Cream",
-   "Blue"
+   "Red"
   ],
   "answer": 0,
   "explanation": "Carbon dioxide (CO2) = black band. It is suitable for electrical equipment fires and Class B flammable liquids.",
@@ -46,9 +46,9 @@
   "topic": "Extinguishers",
   "body": "What colour is the band on a dry powder extinguisher?",
   "options": [
-   "Red",
    "Cream",
-   "Yellow",
+   "Red",
+   "Black",
    "Blue"
   ],
   "answer": 3,
@@ -61,9 +61,9 @@
   "body": "What colour is the band on a wet chemical extinguisher?",
   "options": [
    "Yellow",
-   "Black",
-   "Blue",
-   "Red"
+   "Cream",
+   "Red",
+   "Blue"
   ],
   "answer": 0,
   "explanation": "Wet chemical = yellow band. It is suitable for Class F fires (cooking oils and fats).",
@@ -88,10 +88,10 @@
   "topic": "Extinguishers",
   "body": "A foam extinguisher is mainly suitable for",
   "options": [
-   "Class A fires (paper, wood, textiles)",
+   "electrical equipment fires and Class B flammable liquids",
    "Class A and Class B fires (solids and flammable liquids)",
-   "Class F fires (cooking oils and fats)",
-   "Class A, B and C fires, including flammable gases"
+   "Class A, B and C fires, including flammable gases",
+   "Class A fires (paper, wood, textiles)"
   ],
   "answer": 1,
   "explanation": "Foam (cream band): Class A and Class B fires (solids and flammable liquids).",
@@ -102,10 +102,10 @@
   "topic": "Extinguishers",
   "body": "A carbon dioxide (CO2) extinguisher is mainly suitable for",
   "options": [
-   "Class F fires (cooking oils and fats)",
-   "Class A and Class B fires (solids and flammable liquids)",
+   "Class A fires (paper, wood, textiles)",
+   "Class A, B and C fires, including flammable gases",
    "electrical equipment fires and Class B flammable liquids",
-   "Class A fires (paper, wood, textiles)"
+   "Class A and Class B fires (solids and flammable liquids)"
   ],
   "answer": 2,
   "explanation": "Carbon dioxide (CO2) (black band): electrical equipment fires and Class B flammable liquids.",
@@ -117,9 +117,9 @@
   "body": "A dry powder extinguisher is mainly suitable for",
   "options": [
    "Class A and Class B fires (solids and flammable liquids)",
-   "electrical equipment fires and Class B flammable liquids",
+   "Class A fires (paper, wood, textiles)",
    "Class A, B and C fires, including flammable gases",
-   "Class F fires (cooking oils and fats)"
+   "electrical equipment fires and Class B flammable liquids"
   ],
   "answer": 2,
   "explanation": "Dry powder (blue band): Class A, B and C fires, including flammable gases.",
@@ -131,8 +131,8 @@
   "body": "A wet chemical extinguisher is mainly suitable for",
   "options": [
    "Class A fires (paper, wood, textiles)",
-   "electrical equipment fires and Class B flammable liquids",
    "Class A, B and C fires, including flammable gases",
+   "Class A and Class B fires (solids and flammable liquids)",
    "Class F fires (cooking oils and fats)"
   ],
   "answer": 3,
@@ -144,7 +144,7 @@
   "topic": "Extinguishers",
   "body": "An extinguisher with a red band contains",
   "options": [
-   "Carbon dioxide (CO2)",
+   "Wet chemical",
    "Dry powder",
    "Foam",
    "Water"
@@ -160,8 +160,8 @@
   "options": [
    "Foam",
    "Water",
-   "Dry powder",
-   "Wet chemical"
+   "Carbon dioxide (CO2)",
+   "Dry powder"
   ],
   "answer": 0,
   "explanation": "Cream band = Foam.",
@@ -172,9 +172,9 @@
   "topic": "Extinguishers",
   "body": "An extinguisher with a black band contains",
   "options": [
+   "Dry powder",
    "Foam",
    "Water",
-   "Dry powder",
    "Carbon dioxide (CO2)"
   ],
   "answer": 3,
@@ -186,7 +186,7 @@
   "topic": "Extinguishers",
   "body": "An extinguisher with a blue band contains",
   "options": [
-   "Wet chemical",
+   "Water",
    "Foam",
    "Carbon dioxide (CO2)",
    "Dry powder"
@@ -200,9 +200,9 @@
   "topic": "Extinguishers",
   "body": "An extinguisher with a yellow band contains",
   "options": [
-   "Dry powder",
    "Foam",
-   "Carbon dioxide (CO2)",
+   "Water",
+   "Dry powder",
    "Wet chemical"
   ],
   "answer": 3,
@@ -242,7 +242,7 @@
   "topic": "Extinguishers",
   "body": "Class C fires involve",
   "options": [
-   "cooking oils and fats, for example in a deep-fat fryer",
+   "solid materials such as paper, wood and textiles",
    "flammable gases such as propane and butane",
    "flammable liquids such as petrol, paint and solvents",
    "burning metals such as magnesium and aluminium swarf"
@@ -256,10 +256,10 @@
   "topic": "Extinguishers",
   "body": "Class D fires involve",
   "options": [
-   "cooking oils and fats, for example in a deep-fat fryer",
    "flammable liquids such as petrol, paint and solvents",
+   "solid materials such as paper, wood and textiles",
    "burning metals such as magnesium and aluminium swarf",
-   "solid materials such as paper, wood and textiles"
+   "flammable gases such as propane and butane"
   ],
   "answer": 2,
   "explanation": "Class D: burning metals such as magnesium and aluminium swarf.",
@@ -270,9 +270,9 @@
   "topic": "Extinguishers",
   "body": "Class F fires involve",
   "options": [
-   "flammable gases such as propane and butane",
-   "cooking oils and fats, for example in a deep-fat fryer",
    "flammable liquids such as petrol, paint and solvents",
+   "cooking oils and fats, for example in a deep-fat fryer",
+   "flammable gases such as propane and butane",
    "burning metals such as magnesium and aluminium swarf"
   ],
   "answer": 1,
@@ -285,7 +285,7 @@
   "body": "A fire involving solid materials such as paper, wood and textiles is classed as",
   "options": [
    "Class D",
-   "Class F",
+   "Class B",
    "Class A",
    "Class C"
   ],
@@ -299,8 +299,8 @@
   "body": "A fire involving flammable liquids such as petrol, paint and solvents is classed as",
   "options": [
    "Class B",
+   "Class A",
    "Class D",
-   "Class F",
    "Class C"
   ],
   "answer": 0,
@@ -312,10 +312,10 @@
   "topic": "Extinguishers",
   "body": "A fire involving flammable gases such as propane and butane is classed as",
   "options": [
-   "Class A",
-   "Class C",
    "Class B",
-   "Class D"
+   "Class C",
+   "Class D",
+   "Class A"
   ],
   "answer": 1,
   "explanation": "Flammable gases such as propane and butane → Class C.",
@@ -327,8 +327,8 @@
   "body": "A fire involving burning metals such as magnesium and aluminium swarf is classed as",
   "options": [
    "Class C",
+   "Class B",
    "Class A",
-   "Class F",
    "Class D"
   ],
   "answer": 3,
@@ -341,8 +341,8 @@
   "body": "A fire involving cooking oils and fats, for example in a deep-fat fryer is classed as",
   "options": [
    "Class B",
-   "Class C",
    "Class A",
+   "Class C",
    "Class F"
   ],
   "answer": 3,
@@ -354,9 +354,9 @@
   "topic": "Doors, routes & signs",
   "body": "What does a green rectangular or square sign indicate?",
   "options": [
-   "a prohibited action, such as 'Do not use lift'",
-   "a warning of a hazard",
+   "the location of fire-fighting equipment",
    "a mandatory action, such as 'Fire door keep shut'",
+   "a warning of a hazard",
    "a safe condition, such as a fire exit or escape route"
   ],
   "answer": 3,
@@ -368,10 +368,10 @@
   "topic": "Doors, routes & signs",
   "body": "What does a red rectangular or square sign indicate?",
   "options": [
-   "a safe condition, such as a fire exit or escape route",
-   "a prohibited action, such as 'Do not use lift'",
+   "a warning of a hazard",
+   "a mandatory action, such as 'Fire door keep shut'",
    "the location of fire-fighting equipment",
-   "a warning of a hazard"
+   "a safe condition, such as a fire exit or escape route"
   ],
   "answer": 2,
   "explanation": "A red rectangular or square sign: the location of fire-fighting equipment.",
@@ -384,8 +384,8 @@
   "options": [
    "a prohibited action, such as 'Do not use lift'",
    "a mandatory action, such as 'Fire door keep shut'",
-   "a warning of a hazard",
-   "a safe condition, such as a fire exit or escape route"
+   "a safe condition, such as a fire exit or escape route",
+   "the location of fire-fighting equipment"
   ],
   "answer": 1,
   "explanation": "A blue circular sign: a mandatory action, such as 'Fire door keep shut'.",
@@ -396,7 +396,7 @@
   "topic": "Doors, routes & signs",
   "body": "What does a yellow triangular sign indicate?",
   "options": [
-   "a prohibited action, such as 'Do not use lift'",
+   "a safe condition, such as a fire exit or escape route",
    "a warning of a hazard",
    "the location of fire-fighting equipment",
    "a mandatory action, such as 'Fire door keep shut'"
@@ -410,10 +410,10 @@
   "topic": "Doors, routes & signs",
   "body": "What does a red circle with a diagonal line indicate?",
   "options": [
-   "the location of fire-fighting equipment",
    "a mandatory action, such as 'Fire door keep shut'",
+   "the location of fire-fighting equipment",
    "a prohibited action, such as 'Do not use lift'",
-   "a warning of a hazard"
+   "a safe condition, such as a fire exit or escape route"
   ],
   "answer": 2,
   "explanation": "A red circle with a diagonal line: a prohibited action, such as 'Do not use lift'.",
@@ -426,7 +426,7 @@
   "options": [
    "A blue circular sign",
    "A yellow triangular sign",
-   "A red circle with a diagonal line",
+   "A red rectangular or square sign",
    "A green rectangular or square sign"
   ],
   "answer": 3,
@@ -439,9 +439,9 @@
   "body": "Which type of sign shows the location of fire-fighting equipment?",
   "options": [
    "A red rectangular or square sign",
-   "A red circle with a diagonal line",
+   "A green rectangular or square sign",
    "A blue circular sign",
-   "A green rectangular or square sign"
+   "A yellow triangular sign"
   ],
   "answer": 0,
   "explanation": "A red rectangular or square sign: the location of fire-fighting equipment.",
@@ -452,9 +452,9 @@
   "topic": "Doors, routes & signs",
   "body": "Which type of sign shows a mandatory action, such as 'Fire door keep shut'?",
   "options": [
-   "A red rectangular or square sign",
    "A green rectangular or square sign",
-   "A yellow triangular sign",
+   "A red rectangular or square sign",
+   "A red circle with a diagonal line",
    "A blue circular sign"
   ],
   "answer": 3,
@@ -466,10 +466,10 @@
   "topic": "Doors, routes & signs",
   "body": "Which type of sign shows a warning of a hazard?",
   "options": [
-   "A red circle with a diagonal line",
+   "A blue circular sign",
    "A yellow triangular sign",
-   "A green rectangular or square sign",
-   "A red rectangular or square sign"
+   "A red rectangular or square sign",
+   "A green rectangular or square sign"
   ],
   "answer": 1,
   "explanation": "A yellow triangular sign: a warning of a hazard.",
@@ -481,8 +481,8 @@
   "body": "Which type of sign shows a prohibited action, such as 'Do not use lift'?",
   "options": [
    "A red circle with a diagonal line",
-   "A yellow triangular sign",
    "A green rectangular or square sign",
+   "A yellow triangular sign",
    "A blue circular sign"
   ],
   "answer": 0,

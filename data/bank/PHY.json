@@ -4344,9 +4344,9 @@
   "topic": "Units",
   "body": "What is the SI unit of force?",
   "options": [
+   "newton second (N s)",
    "candela (cd)",
    "joule per kilogram kelvin (J/kg K)",
-   "coulomb (C)",
    "newton (N)"
   ],
   "answer": 3,
@@ -4358,10 +4358,10 @@
   "topic": "Units",
   "body": "What is the SI unit of work?",
   "options": [
-   "pascal (Pa)",
+   "joule per kilogram kelvin (J/kg K)",
    "joule (J)",
-   "metre per second squared (m/s²)",
-   "watt (W)"
+   "pascal (Pa)",
+   "metre per second squared (m/s²)"
   ],
   "answer": 1,
   "explanation": "The SI unit of work is the joule (J).",
@@ -4401,9 +4401,9 @@
   "body": "What is the SI unit of electric charge?",
   "options": [
    "coulomb (C)",
-   "kilogram per cubic metre (kg/m³)",
-   "kelvin (K)",
-   "metre per second squared (m/s²)"
+   "metre per second squared (m/s²)",
+   "ampere (A)",
+   "kelvin (K)"
   ],
   "answer": 0,
   "explanation": "The SI unit of electric charge is the coulomb (C).",
@@ -4415,8 +4415,8 @@
   "body": "What is the SI unit of electric current?",
   "options": [
    "ampere (A)",
-   "pascal (Pa)",
    "coulomb (C)",
+   "pascal (Pa)",
    "henry (H)"
   ],
   "answer": 0,
@@ -4470,9 +4470,9 @@
   "topic": "Units",
   "body": "What is the SI unit of mass?",
   "options": [
-   "hertz (Hz)",
    "joule per kilogram kelvin (J/kg K)",
-   "joule (J)",
+   "kilogram metre per second (kg m/s)",
+   "kilogram per cubic metre (kg/m³)",
    "kilogram (kg)"
   ],
   "answer": 3,
@@ -4484,10 +4484,10 @@
   "topic": "Units",
   "body": "What is the SI unit of thermodynamic temperature?",
   "options": [
-   "kilogram (kg)",
-   "kelvin (K)",
    "kilogram per cubic metre (kg/m³)",
-   "watt (W)"
+   "kelvin (K)",
+   "watt (W)",
+   "joule per kilogram kelvin (J/kg K)"
   ],
   "answer": 1,
   "explanation": "The SI unit of thermodynamic temperature is the kelvin (K).",
@@ -4527,9 +4527,9 @@
   "body": "What is the SI unit of magnetic flux?",
   "options": [
    "weber (Wb)",
-   "ohm (Ω)",
-   "candela (cd)",
-   "ampere (A)"
+   "ampere (A)",
+   "tesla (T)",
+   "candela (cd)"
   ],
   "answer": 0,
   "explanation": "The SI unit of magnetic flux is the weber (Wb).",
@@ -4542,8 +4542,8 @@
   "options": [
    "tesla (T)",
    "weber (Wb)",
-   "metre per second squared (m/s²)",
-   "henry (H)"
+   "henry (H)",
+   "kilogram per cubic metre (kg/m³)"
   ],
   "answer": 0,
   "explanation": "The SI unit of magnetic flux density is the tesla (T).",
@@ -4582,10 +4582,10 @@
   "topic": "Units",
   "body": "What is the SI unit of momentum?",
   "options": [
-   "tesla (T)",
+   "kilogram (kg)",
    "kilogram metre per second (kg m/s)",
-   "newton second (N s)",
-   "kelvin (K)"
+   "metre per second squared (m/s²)",
+   "kilogram per cubic metre (kg/m³)"
   ],
   "answer": 1,
   "explanation": "The SI unit of momentum is the kilogram metre per second (kg m/s).",
@@ -4596,10 +4596,10 @@
   "topic": "Units",
   "body": "What is the SI unit of acceleration?",
   "options": [
-   "newton (N)",
+   "newton second (N s)",
    "metre per second squared (m/s²)",
-   "ampere (A)",
-   "volt (V)"
+   "kilogram per cubic metre (kg/m³)",
+   "kilogram metre per second (kg m/s)"
   ],
   "answer": 1,
   "explanation": "The SI unit of acceleration is the metre per second squared (m/s²).",
@@ -4612,8 +4612,8 @@
   "options": [
    "tesla (T)",
    "kilogram per cubic metre (kg/m³)",
-   "ohm (Ω)",
-   "volt (V)"
+   "kilogram metre per second (kg m/s)",
+   "kilogram (kg)"
   ],
   "answer": 1,
   "explanation": "The SI unit of density is the kilogram per cubic metre (kg/m³).",
@@ -4625,9 +4625,9 @@
   "body": "What is the SI unit of specific heat capacity?",
   "options": [
    "joule per kilogram kelvin (J/kg K)",
-   "ampere (A)",
-   "candela (cd)",
-   "volt (V)"
+   "kilogram (kg)",
+   "joule (J)",
+   "kelvin (K)"
   ],
   "answer": 0,
   "explanation": "The SI unit of specific heat capacity is the joule per kilogram kelvin (J/kg K).",
@@ -4639,9 +4639,9 @@
   "body": "What is the SI unit of impulse?",
   "options": [
    "newton second (N s)",
-   "joule (J)",
-   "hertz (Hz)",
-   "kelvin (K)"
+   "metre per second squared (m/s²)",
+   "newton (N)",
+   "kilogram metre per second (kg m/s)"
   ],
   "answer": 0,
   "explanation": "The SI unit of impulse is the newton second (N s).",

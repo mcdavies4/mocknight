@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import { examCountLabel } from "@/lib/exam-count";
 import Script from "next/script";
 import "./globals.css";
 import { SiteFooter, SiteHeader, StatsBar } from "@/components/site-chrome";
@@ -11,7 +12,7 @@ const GTM_ID = "GTM-NZNH49C5";
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: "Mock Night | Exam practice questions and timed mock tests",
-  description: "Practice questions, timed mock tests and clear explanations for 90+ exams: JAMB, WAEC, UK driving theory, Life in the UK, NMC CBT, PLAB, IELTS, AWS and more. On the web and Telegram.",
+  description: `Practice questions, timed mock tests and clear explanations for ${examCountLabel()} exams: JAMB, WAEC, KCSE, driving theory, Life in the UK, NMC CBT, NCLEX, IELTS and more. On the web and Telegram.`,
   alternates: { canonical: "./" },
   openGraph: { type: "website", siteName: "Mock Night", locale: "en_GB" },
   twitter: { card: "summary_large_image" },

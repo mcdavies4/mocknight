@@ -5,9 +5,9 @@
   "body": "Which PRINCE2 principle means there is a justifiable reason to start the project and it remains valid throughout?",
   "options": [
    "Ensure continued business justification",
-   "Manage by stages",
+   "Tailor to suit the project",
    "Learn from experience",
-   "Define roles, responsibilities and relationships"
+   "Manage by stages"
   ],
   "answer": 0,
   "explanation": "Ensure continued business justification: there is a justifiable reason to start the project and it remains valid throughout.",
@@ -18,10 +18,10 @@
   "topic": "Principles",
   "body": "Which PRINCE2 principle means lessons are sought, recorded and acted on throughout the project?",
   "options": [
-   "Define roles, responsibilities and relationships",
    "Focus on products",
+   "Tailor to suit the project",
    "Learn from experience",
-   "Manage by exception"
+   "Ensure continued business justification"
   ],
   "answer": 2,
   "explanation": "Learn from experience: lessons are sought, recorded and acted on throughout the project.",
@@ -32,9 +32,9 @@
   "topic": "Principles",
   "body": "Which PRINCE2 principle means everyone knows who is accountable for what and how they interact?",
   "options": [
-   "Manage by exception",
    "Learn from experience",
    "Manage by stages",
+   "Manage by exception",
    "Define roles, responsibilities and relationships"
   ],
   "answer": 3,
@@ -47,9 +47,9 @@
   "body": "Which PRINCE2 principle means the project is planned, monitored and controlled one management stage at a time?",
   "options": [
    "Manage by stages",
-   "Ensure continued business justification",
-   "Define roles, responsibilities and relationships",
-   "Manage by exception"
+   "Learn from experience",
+   "Manage by exception",
+   "Tailor to suit the project"
   ],
   "answer": 0,
   "explanation": "Manage by stages: the project is planned, monitored and controlled one management stage at a time.",
@@ -60,10 +60,10 @@
   "topic": "Principles",
   "body": "Which PRINCE2 principle means tolerances are set so each level of management only escalates when they are forecast to be exceeded?",
   "options": [
-   "Manage by stages",
-   "Learn from experience",
+   "Define roles, responsibilities and relationships",
+   "Ensure continued business justification",
    "Manage by exception",
-   "Ensure continued business justification"
+   "Manage by stages"
   ],
   "answer": 2,
   "explanation": "Manage by exception: tolerances are set so each level of management only escalates when they are forecast to be exceeded.",
@@ -74,10 +74,10 @@
   "topic": "Principles",
   "body": "Which PRINCE2 principle means the project concentrates on the definition and delivery of products and their quality requirements?",
   "options": [
-   "Manage by exception",
    "Learn from experience",
+   "Tailor to suit the project",
    "Focus on products",
-   "Tailor to suit the project"
+   "Manage by stages"
   ],
   "answer": 2,
   "explanation": "Focus on products: the project concentrates on the definition and delivery of products and their quality requirements.",
@@ -89,9 +89,9 @@
   "body": "Which PRINCE2 principle means the method is adapted to the project's size, complexity, risk and environment?",
   "options": [
    "Tailor to suit the project",
-   "Manage by exception",
    "Learn from experience",
-   "Ensure continued business justification"
+   "Focus on products",
+   "Manage by stages"
   ],
   "answer": 0,
   "explanation": "Tailor to suit the project: the method is adapted to the project's size, complexity, risk and environment.",
@@ -103,9 +103,9 @@
   "body": "The principle 'ensure continued business justification' means",
   "options": [
    "there is a justifiable reason to start the project and it remains valid throughout",
-   "everyone knows who is accountable for what and how they interact",
+   "the method is adapted to the project's size, complexity, risk and environment",
    "the project concentrates on the definition and delivery of products and their quality requirements",
-   "tolerances are set so each level of management only escalates when they are forecast to be exceeded"
+   "lessons are sought, recorded and acted on throughout the project"
   ],
   "answer": 0,
   "explanation": "Ensure continued business justification: there is a justifiable reason to start the project and it remains valid throughout.",
@@ -116,9 +116,9 @@
   "topic": "Principles",
   "body": "The principle 'learn from experience' means",
   "options": [
-   "tolerances are set so each level of management only escalates when they are forecast to be exceeded",
-   "lessons are sought, recorded and acted on throughout the project",
    "the project is planned, monitored and controlled one management stage at a time",
+   "lessons are sought, recorded and acted on throughout the project",
+   "there is a justifiable reason to start the project and it remains valid throughout",
    "the method is adapted to the project's size, complexity, risk and environment"
   ],
   "answer": 1,
@@ -132,8 +132,8 @@
   "options": [
    "everyone knows who is accountable for what and how they interact",
    "the method is adapted to the project's size, complexity, risk and environment",
-   "lessons are sought, recorded and acted on throughout the project",
-   "tolerances are set so each level of management only escalates when they are forecast to be exceeded"
+   "tolerances are set so each level of management only escalates when they are forecast to be exceeded",
+   "lessons are sought, recorded and acted on throughout the project"
   ],
   "answer": 0,
   "explanation": "Define roles, responsibilities and relationships: everyone knows who is accountable for what and how they interact.",
@@ -144,10 +144,10 @@
   "topic": "Principles",
   "body": "The principle 'manage by stages' means",
   "options": [
-   "lessons are sought, recorded and acted on throughout the project",
-   "everyone knows who is accountable for what and how they interact",
+   "tolerances are set so each level of management only escalates when they are forecast to be exceeded",
+   "the project concentrates on the definition and delivery of products and their quality requirements",
    "the project is planned, monitored and controlled one management stage at a time",
-   "tolerances are set so each level of management only escalates when they are forecast to be exceeded"
+   "lessons are sought, recorded and acted on throughout the project"
   ],
   "answer": 2,
   "explanation": "Manage by stages: the project is planned, monitored and controlled one management stage at a time.",
@@ -159,9 +159,9 @@
   "body": "The principle 'manage by exception' means",
   "options": [
    "tolerances are set so each level of management only escalates when they are forecast to be exceeded",
+   "the project is planned, monitored and controlled one management stage at a time",
    "there is a justifiable reason to start the project and it remains valid throughout",
-   "lessons are sought, recorded and acted on throughout the project",
-   "the project concentrates on the definition and delivery of products and their quality requirements"
+   "everyone knows who is accountable for what and how they interact"
   ],
   "answer": 0,
   "explanation": "Manage by exception: tolerances are set so each level of management only escalates when they are forecast to be exceeded.",
@@ -172,10 +172,10 @@
   "topic": "Principles",
   "body": "The principle 'focus on products' means",
   "options": [
-   "everyone knows who is accountable for what and how they interact",
-   "there is a justifiable reason to start the project and it remains valid throughout",
+   "the method is adapted to the project's size, complexity, risk and environment",
+   "lessons are sought, recorded and acted on throughout the project",
    "the project concentrates on the definition and delivery of products and their quality requirements",
-   "tolerances are set so each level of management only escalates when they are forecast to be exceeded"
+   "the project is planned, monitored and controlled one management stage at a time"
   ],
   "answer": 2,
   "explanation": "Focus on products: the project concentrates on the definition and delivery of products and their quality requirements.",
@@ -186,10 +186,10 @@
   "topic": "Principles",
   "body": "The principle 'tailor to suit the project' means",
   "options": [
-   "everyone knows who is accountable for what and how they interact",
-   "the method is adapted to the project's size, complexity, risk and environment",
    "the project concentrates on the definition and delivery of products and their quality requirements",
-   "tolerances are set so each level of management only escalates when they are forecast to be exceeded"
+   "the method is adapted to the project's size, complexity, risk and environment",
+   "the project is planned, monitored and controlled one management stage at a time",
+   "lessons are sought, recorded and acted on throughout the project"
   ],
   "answer": 1,
   "explanation": "Tailor to suit the project: the method is adapted to the project's size, complexity, risk and environment.",
@@ -201,9 +201,9 @@
   "body": "Which PRINCE2 7 practice addresses whether the project is (and remains) desirable, viable and achievable?",
   "options": [
    "Business case",
+   "Organizing",
    "Plans",
-   "Risk",
-   "Organizing"
+   "Risk"
   ],
   "answer": 0,
   "explanation": "The business case practice: whether the project is (and remains) desirable, viable and achievable.",
@@ -214,9 +214,9 @@
   "topic": "Practices",
   "body": "Which PRINCE2 7 practice addresses the project's roles, responsibilities and relationships between people?",
   "options": [
-   "Risk",
-   "Quality",
+   "Business case",
    "Progress",
+   "Risk",
    "Organizing"
   ],
   "answer": 3,
@@ -229,9 +229,9 @@
   "body": "Which PRINCE2 7 practice addresses what is to be delivered, how, by whom, when and at what cost?",
   "options": [
    "Business case",
-   "Issues",
+   "Progress",
    "Plans",
-   "Progress"
+   "Issues"
   ],
   "answer": 2,
   "explanation": "The plans practice: what is to be delivered, how, by whom, when and at what cost.",
@@ -256,10 +256,10 @@
   "topic": "Practices",
   "body": "Which PRINCE2 7 practice addresses identifying, assessing and controlling uncertainty?",
   "options": [
-   "Plans",
    "Business case",
+   "Progress",
    "Risk",
-   "Quality"
+   "Plans"
   ],
   "answer": 2,
   "explanation": "The risk practice: identifying, assessing and controlling uncertainty.",
@@ -284,10 +284,10 @@
   "topic": "Practices",
   "body": "Which PRINCE2 7 practice addresses monitoring and comparing actual achievement against plans, and controlling deviations?",
   "options": [
-   "Quality",
+   "Risk",
    "Progress",
-   "Issues",
-   "Organizing"
+   "Quality",
+   "Plans"
   ],
   "answer": 1,
   "explanation": "The progress practice: monitoring and comparing actual achievement against plans, and controlling deviations.",
@@ -312,10 +312,10 @@
   "topic": "Practices",
   "body": "The purpose of the organizing practice is to address",
   "options": [
-   "defining and implementing the means to create and verify fit-for-purpose products",
+   "whether the project is (and remains) desirable, viable and achievable",
    "the project's roles, responsibilities and relationships between people",
-   "identifying, assessing and controlling uncertainty",
-   "handling unplanned events such as requests for change, off-specifications and problems"
+   "handling unplanned events such as requests for change, off-specifications and problems",
+   "defining and implementing the means to create and verify fit-for-purpose products"
   ],
   "answer": 1,
   "explanation": "The organizing practice: the project's roles, responsibilities and relationships between people.",
@@ -326,10 +326,10 @@
   "topic": "Practices",
   "body": "The purpose of the plans practice is to address",
   "options": [
+   "identifying, assessing and controlling uncertainty",
    "the project's roles, responsibilities and relationships between people",
-   "defining and implementing the means to create and verify fit-for-purpose products",
    "what is to be delivered, how, by whom, when and at what cost",
-   "identifying, assessing and controlling uncertainty"
+   "monitoring and comparing actual achievement against plans, and controlling deviations"
   ],
   "answer": 2,
   "explanation": "The plans practice: what is to be delivered, how, by whom, when and at what cost.",
@@ -354,9 +354,9 @@
   "topic": "Practices",
   "body": "The purpose of the risk practice is to address",
   "options": [
-   "the project's roles, responsibilities and relationships between people",
    "handling unplanned events such as requests for change, off-specifications and problems",
    "what is to be delivered, how, by whom, when and at what cost",
+   "monitoring and comparing actual achievement against plans, and controlling deviations",
    "identifying, assessing and controlling uncertainty"
   ],
   "answer": 3,
@@ -383,9 +383,9 @@
   "body": "The purpose of the progress practice is to address",
   "options": [
    "monitoring and comparing actual achievement against plans, and controlling deviations",
+   "identifying, assessing and controlling uncertainty",
    "defining and implementing the means to create and verify fit-for-purpose products",
-   "the project's roles, responsibilities and relationships between people",
-   "identifying, assessing and controlling uncertainty"
+   "what is to be delivered, how, by whom, when and at what cost"
   ],
   "answer": 0,
   "explanation": "The progress practice: monitoring and comparing actual achievement against plans, and controlling deviations.",
@@ -396,10 +396,10 @@
   "topic": "Processes",
   "body": "Which process is concerned with ensuring prerequisites are in place and deciding whether the project is worthwhile, producing the project brief?",
   "options": [
-   "Managing a stage boundary",
    "Managing product delivery",
+   "Closing a project",
    "Starting up a project",
-   "Closing a project"
+   "Initiating a project"
   ],
   "answer": 2,
   "explanation": "Starting up a project: ensuring prerequisites are in place and deciding whether the project is worthwhile, producing the project brief.",
@@ -411,8 +411,8 @@
   "body": "Which process is concerned with enabling the project board to be accountable through key decisions and overall control?",
   "options": [
    "Closing a project",
+   "Initiating a project",
    "Managing product delivery",
-   "Starting up a project",
    "Directing a project"
   ],
   "answer": 3,
@@ -424,9 +424,9 @@
   "topic": "Processes",
   "body": "Which process is concerned with establishing solid foundations and producing the project initiation documentation (PID)?",
   "options": [
-   "Starting up a project",
-   "Controlling a stage",
    "Managing product delivery",
+   "Closing a project",
+   "Starting up a project",
    "Initiating a project"
   ],
   "answer": 3,
@@ -439,9 +439,9 @@
   "body": "Which process is concerned with assigning work, monitoring it, dealing with issues and reporting during a stage?",
   "options": [
    "Controlling a stage",
-   "Starting up a project",
-   "Closing a project",
-   "Initiating a project"
+   "Initiating a project",
+   "Managing a stage boundary",
+   "Managing product delivery"
   ],
   "answer": 0,
   "explanation": "Controlling a stage: assigning work, monitoring it, dealing with issues and reporting during a stage.",
@@ -453,9 +453,9 @@
   "body": "Which process is concerned with controlling the link between the project manager and the team manager(s)?",
   "options": [
    "Managing product delivery",
+   "Directing a project",
    "Initiating a project",
-   "Managing a stage boundary",
-   "Directing a project"
+   "Closing a project"
   ],
   "answer": 0,
   "explanation": "Managing product delivery: controlling the link between the project manager and the team manager(s).",
@@ -466,10 +466,10 @@
   "topic": "Processes",
   "body": "Which process is concerned with reviewing the current stage, planning the next and updating the business case?",
   "options": [
-   "Directing a project",
-   "Closing a project",
+   "Controlling a stage",
+   "Managing product delivery",
    "Managing a stage boundary",
-   "Controlling a stage"
+   "Closing a project"
   ],
   "answer": 2,
   "explanation": "Managing a stage boundary: reviewing the current stage, planning the next and updating the business case.",
@@ -480,9 +480,9 @@
   "topic": "Processes",
   "body": "Which process is concerned with confirming acceptance of the project product and providing a fixed point for project closure?",
   "options": [
-   "Managing a stage boundary",
+   "Directing a project",
+   "Initiating a project",
    "Managing product delivery",
-   "Controlling a stage",
    "Closing a project"
   ],
   "answer": 3,
@@ -494,9 +494,9 @@
   "topic": "Processes",
   "body": "What is the purpose of 'starting up a project'?",
   "options": [
-   "Establishing solid foundations and producing the project initiation documentation (PID)",
    "Confirming acceptance of the project product and providing a fixed point for project closure",
-   "Assigning work, monitoring it, dealing with issues and reporting during a stage",
+   "Establishing solid foundations and producing the project initiation documentation (PID)",
+   "Controlling the link between the project manager and the team manager(s)",
    "Ensuring prerequisites are in place and deciding whether the project is worthwhile, producing the project brief"
   ],
   "answer": 3,
@@ -508,9 +508,9 @@
   "topic": "Processes",
   "body": "What is the purpose of 'directing a project'?",
   "options": [
-   "Ensuring prerequisites are in place and deciding whether the project is worthwhile, producing the project brief",
+   "Controlling the link between the project manager and the team manager(s)",
    "Confirming acceptance of the project product and providing a fixed point for project closure",
-   "Assigning work, monitoring it, dealing with issues and reporting during a stage",
+   "Establishing solid foundations and producing the project initiation documentation (PID)",
    "Enabling the project board to be accountable through key decisions and overall control"
   ],
   "answer": 3,
@@ -522,9 +522,9 @@
   "topic": "Processes",
   "body": "What is the purpose of 'initiating a project'?",
   "options": [
-   "Confirming acceptance of the project product and providing a fixed point for project closure",
    "Enabling the project board to be accountable through key decisions and overall control",
-   "Assigning work, monitoring it, dealing with issues and reporting during a stage",
+   "Ensuring prerequisites are in place and deciding whether the project is worthwhile, producing the project brief",
+   "Confirming acceptance of the project product and providing a fixed point for project closure",
    "Establishing solid foundations and producing the project initiation documentation (PID)"
   ],
   "answer": 3,
@@ -537,9 +537,9 @@
   "body": "What is the purpose of 'controlling a stage'?",
   "options": [
    "Assigning work, monitoring it, dealing with issues and reporting during a stage",
-   "Controlling the link between the project manager and the team manager(s)",
-   "Establishing solid foundations and producing the project initiation documentation (PID)",
-   "Confirming acceptance of the project product and providing a fixed point for project closure"
+   "Reviewing the current stage, planning the next and updating the business case",
+   "Confirming acceptance of the project product and providing a fixed point for project closure",
+   "Controlling the link between the project manager and the team manager(s)"
   ],
   "answer": 0,
   "explanation": "Controlling a stage: assigning work, monitoring it, dealing with issues and reporting during a stage.",
@@ -553,7 +553,7 @@
    "Confirming acceptance of the project product and providing a fixed point for project closure",
    "Establishing solid foundations and producing the project initiation documentation (PID)",
    "Controlling the link between the project manager and the team manager(s)",
-   "Reviewing the current stage, planning the next and updating the business case"
+   "Enabling the project board to be accountable through key decisions and overall control"
   ],
   "answer": 2,
   "explanation": "Managing product delivery: controlling the link between the project manager and the team manager(s).",
@@ -564,9 +564,9 @@
   "topic": "Processes",
   "body": "What is the purpose of 'managing a stage boundary'?",
   "options": [
-   "Enabling the project board to be accountable through key decisions and overall control",
-   "Controlling the link between the project manager and the team manager(s)",
    "Ensuring prerequisites are in place and deciding whether the project is worthwhile, producing the project brief",
+   "Controlling the link between the project manager and the team manager(s)",
+   "Assigning work, monitoring it, dealing with issues and reporting during a stage",
    "Reviewing the current stage, planning the next and updating the business case"
   ],
   "answer": 3,
@@ -579,9 +579,9 @@
   "body": "What is the purpose of 'closing a project'?",
   "options": [
    "Controlling the link between the project manager and the team manager(s)",
-   "Ensuring prerequisites are in place and deciding whether the project is worthwhile, producing the project brief",
+   "Establishing solid foundations and producing the project initiation documentation (PID)",
    "Confirming acceptance of the project product and providing a fixed point for project closure",
-   "Reviewing the current stage, planning the next and updating the business case"
+   "Enabling the project board to be accountable through key decisions and overall control"
   ],
   "answer": 2,
   "explanation": "Closing a project: confirming acceptance of the project product and providing a fixed point for project closure.",
@@ -593,9 +593,9 @@
   "body": "Which role is ultimately accountable for the project and owns the business case?",
   "options": [
    "Executive",
+   "Project assurance",
    "Project manager",
-   "Team manager",
-   "Senior supplier"
+   "Senior user"
   ],
   "answer": 0,
   "explanation": "The executive is ultimately accountable for the project and owns the business case.",
@@ -606,10 +606,10 @@
   "topic": "People & organizing",
   "body": "Which role specifies user needs and is accountable for the benefits being realized?",
   "options": [
-   "Executive",
    "Project manager",
+   "Executive",
    "Senior user",
-   "Project support"
+   "Senior supplier"
   ],
   "answer": 2,
   "explanation": "The senior user specifies user needs and is accountable for the benefits being realized.",
@@ -620,7 +620,7 @@
   "topic": "People & organizing",
   "body": "Which role represents those designing, developing and delivering the products and provides resources?",
   "options": [
-   "Change authority",
+   "Team manager",
    "Project support",
    "Senior user",
    "Senior supplier"
@@ -635,9 +635,9 @@
   "body": "Which role manages the project day to day within the constraints set by the project board?",
   "options": [
    "Project manager",
-   "Senior user",
-   "Team manager",
-   "Senior supplier"
+   "Executive",
+   "Change authority",
+   "Project assurance"
   ],
   "answer": 0,
   "explanation": "The project manager manages the project day to day within the constraints set by the project board.",
@@ -648,8 +648,8 @@
   "topic": "People & organizing",
   "body": "Which role ensures production of the products allocated in work packages?",
   "options": [
-   "Change authority",
-   "Project support",
+   "Project manager",
+   "Project assurance",
    "Team manager",
    "Senior supplier"
   ],
@@ -662,10 +662,10 @@
   "topic": "People & organizing",
   "body": "Which role monitors the project on behalf of the project board, independently of the project manager?",
   "options": [
-   "Change authority",
    "Project manager",
+   "Executive",
    "Project assurance",
-   "Executive"
+   "Change authority"
   ],
   "answer": 2,
   "explanation": "The project assurance monitors the project on behalf of the project board, independently of the project manager.",
@@ -676,10 +676,10 @@
   "topic": "People & organizing",
   "body": "Which role provides administrative services such as configuration management?",
   "options": [
-   "Senior supplier",
-   "Team manager",
+   "Project manager",
+   "Executive",
    "Project support",
-   "Change authority"
+   "Project assurance"
   ],
   "answer": 2,
   "explanation": "The project support provides administrative services such as configuration management.",
@@ -690,9 +690,9 @@
   "topic": "People & organizing",
   "body": "Which role is delegated by the project board to approve requests for change and off-specifications?",
   "options": [
-   "Senior user",
+   "Executive",
    "Change authority",
-   "Project support",
+   "Project assurance",
    "Project manager"
   ],
   "answer": 1,
@@ -704,10 +704,10 @@
   "topic": "People & organizing",
   "body": "The executive",
   "options": [
-   "provides administrative services such as configuration management",
    "monitors the project on behalf of the project board, independently of the project manager",
+   "manages the project day to day within the constraints set by the project board",
    "is ultimately accountable for the project and owns the business case",
-   "ensures production of the products allocated in work packages"
+   "provides administrative services such as configuration management"
   ],
   "answer": 2,
   "explanation": "The executive is ultimately accountable for the project and owns the business case.",
@@ -719,9 +719,9 @@
   "body": "The senior user",
   "options": [
    "is ultimately accountable for the project and owns the business case",
-   "manages the project day to day within the constraints set by the project board",
+   "represents those designing, developing and delivering the products and provides resources",
    "specifies user needs and is accountable for the benefits being realized",
-   "monitors the project on behalf of the project board, independently of the project manager"
+   "manages the project day to day within the constraints set by the project board"
   ],
   "answer": 2,
   "explanation": "The senior user specifies user needs and is accountable for the benefits being realized.",
@@ -732,9 +732,9 @@
   "topic": "People & organizing",
   "body": "The senior supplier",
   "options": [
-   "provides administrative services such as configuration management",
+   "specifies user needs and is accountable for the benefits being realized",
    "represents those designing, developing and delivering the products and provides resources",
-   "manages the project day to day within the constraints set by the project board",
+   "provides administrative services such as configuration management",
    "ensures production of the products allocated in work packages"
   ],
   "answer": 1,
@@ -746,10 +746,10 @@
   "topic": "People & organizing",
   "body": "The project manager",
   "options": [
-   "represents those designing, developing and delivering the products and provides resources",
    "is ultimately accountable for the project and owns the business case",
+   "monitors the project on behalf of the project board, independently of the project manager",
    "manages the project day to day within the constraints set by the project board",
-   "provides administrative services such as configuration management"
+   "is delegated by the project board to approve requests for change and off-specifications"
   ],
   "answer": 2,
   "explanation": "The project manager manages the project day to day within the constraints set by the project board.",
@@ -761,9 +761,9 @@
   "body": "The team manager",
   "options": [
    "ensures production of the products allocated in work packages",
-   "provides administrative services such as configuration management",
    "manages the project day to day within the constraints set by the project board",
-   "specifies user needs and is accountable for the benefits being realized"
+   "monitors the project on behalf of the project board, independently of the project manager",
+   "represents those designing, developing and delivering the products and provides resources"
   ],
   "answer": 0,
   "explanation": "The team manager ensures production of the products allocated in work packages.",
@@ -774,9 +774,9 @@
   "topic": "People & organizing",
   "body": "The project assurance",
   "options": [
-   "is delegated by the project board to approve requests for change and off-specifications",
-   "provides administrative services such as configuration management",
    "is ultimately accountable for the project and owns the business case",
+   "manages the project day to day within the constraints set by the project board",
+   "is delegated by the project board to approve requests for change and off-specifications",
    "monitors the project on behalf of the project board, independently of the project manager"
   ],
   "answer": 3,
@@ -788,10 +788,10 @@
   "topic": "People & organizing",
   "body": "The project support",
   "options": [
-   "monitors the project on behalf of the project board, independently of the project manager",
+   "manages the project day to day within the constraints set by the project board",
    "provides administrative services such as configuration management",
-   "is delegated by the project board to approve requests for change and off-specifications",
-   "represents those designing, developing and delivering the products and provides resources"
+   "is ultimately accountable for the project and owns the business case",
+   "monitors the project on behalf of the project board, independently of the project manager"
   ],
   "answer": 1,
   "explanation": "The project support provides administrative services such as configuration management.",
@@ -802,10 +802,10 @@
   "topic": "People & organizing",
   "body": "The change authority",
   "options": [
-   "specifies user needs and is accountable for the benefits being realized",
-   "provides administrative services such as configuration management",
+   "manages the project day to day within the constraints set by the project board",
+   "monitors the project on behalf of the project board, independently of the project manager",
    "is delegated by the project board to approve requests for change and off-specifications",
-   "ensures production of the products allocated in work packages"
+   "is ultimately accountable for the project and owns the business case"
   ],
   "answer": 2,
   "explanation": "The change authority is delegated by the project board to approve requests for change and off-specifications.",
@@ -816,10 +816,10 @@
   "topic": "Management products",
   "body": "Which report is sent by the project manager to the project board at regular intervals on stage progress?",
   "options": [
-   "Checkpoint report",
-   "Highlight report",
    "End stage report",
-   "Exception report"
+   "Highlight report",
+   "Exception report",
+   "End project report"
   ],
   "answer": 1,
   "explanation": "Highlight report: from the project manager to the project board at regular intervals on stage progress.",
@@ -833,7 +833,7 @@
    "Checkpoint report",
    "Highlight report",
    "End stage report",
-   "Exception report"
+   "End project report"
   ],
   "answer": 0,
   "explanation": "Checkpoint report: from the team manager to the project manager on work package progress.",
@@ -845,9 +845,9 @@
   "body": "Which report is sent by the project manager to the project board when stage tolerances are forecast to be exceeded?",
   "options": [
    "Exception report",
-   "End stage report",
    "End project report",
-   "Highlight report"
+   "Highlight report",
+   "End stage report"
   ],
   "answer": 0,
   "explanation": "Exception report: from the project manager to the project board when stage tolerances are forecast to be exceeded.",
@@ -860,8 +860,8 @@
   "options": [
    "End stage report",
    "Highlight report",
-   "Checkpoint report",
-   "Exception report"
+   "Exception report",
+   "End project report"
   ],
   "answer": 0,
   "explanation": "End stage report: from the project manager to the project board at the end of each management stage.",
@@ -872,10 +872,10 @@
   "topic": "Management products",
   "body": "Which report is sent by the project manager to the project board when closing the project?",
   "options": [
-   "Checkpoint report",
+   "End stage report",
    "Highlight report",
    "End project report",
-   "End stage report"
+   "Exception report"
   ],
   "answer": 2,
   "explanation": "End project report: from the project manager to the project board when closing the project.",
@@ -888,8 +888,8 @@
   "options": [
    "the project manager to the project board at regular intervals on stage progress",
    "the project manager to the project board when closing the project",
-   "the project manager to the project board when stage tolerances are forecast to be exceeded",
-   "the project manager to the project board at the end of each management stage"
+   "the project manager to the project board at the end of each management stage",
+   "the project manager to the project board when stage tolerances are forecast to be exceeded"
   ],
   "answer": 0,
   "explanation": "Highlight report: from the project manager to the project board at regular intervals on stage progress.",
@@ -900,10 +900,10 @@
   "topic": "Management products",
   "body": "A checkpoint report is sent from",
   "options": [
-   "the project manager to the project board at the end of each management stage",
+   "the project manager to the project board when closing the project",
    "the project manager to the project board at regular intervals on stage progress",
    "the team manager to the project manager on work package progress",
-   "the project manager to the project board when stage tolerances are forecast to be exceeded"
+   "the project manager to the project board at the end of each management stage"
   ],
   "answer": 2,
   "explanation": "Checkpoint report: from the team manager to the project manager on work package progress.",
@@ -914,7 +914,7 @@
   "topic": "Management products",
   "body": "A exception report is sent from",
   "options": [
-   "the team manager to the project manager on work package progress",
+   "the project manager to the project board at the end of each management stage",
    "the project manager to the project board at regular intervals on stage progress",
    "the project manager to the project board when closing the project",
    "the project manager to the project board when stage tolerances are forecast to be exceeded"
@@ -931,7 +931,7 @@
    "the project manager to the project board at the end of each management stage",
    "the project manager to the project board when stage tolerances are forecast to be exceeded",
    "the project manager to the project board when closing the project",
-   "the team manager to the project manager on work package progress"
+   "the project manager to the project board at regular intervals on stage progress"
   ],
   "answer": 0,
   "explanation": "End stage report: from the project manager to the project board at the end of each management stage.",
@@ -942,10 +942,10 @@
   "topic": "Management products",
   "body": "A end project report is sent from",
   "options": [
-   "the project manager to the project board at regular intervals on stage progress",
+   "the project manager to the project board at the end of each management stage",
    "the project manager to the project board when stage tolerances are forecast to be exceeded",
    "the project manager to the project board when closing the project",
-   "the team manager to the project manager on work package progress"
+   "the project manager to the project board at regular intervals on stage progress"
   ],
   "answer": 2,
   "explanation": "End project report: from the project manager to the project board when closing the project.",

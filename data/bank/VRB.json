@@ -3098,9 +3098,9 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “ambiguous”?",
   "options": [
-   "dull and ordinary",
-   "dealing with things practically",
-   "possible to do",
+   "more merciful than expected",
+   "using more words than needed",
+   "more than is needed",
    "open to more than one interpretation"
   ],
   "answer": 3,
@@ -3112,10 +3112,10 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “ambiguous”?",
   "options": [
-   "essential",
-   "provoke",
+   "concise",
+   "necessary",
    "clear",
-   "incriminate"
+   "strict"
   ],
   "answer": 2,
   "explanation": "“ambiguous” means open to more than one interpretation; the opposite is “clear”.",
@@ -3182,10 +3182,10 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “diligent”?",
   "options": [
-   "frank and honest",
    "no longer needed",
+   "careful with money",
    "careful and hard-working",
-   "hide"
+   "careful not to attract attention"
   ],
   "answer": 2,
   "explanation": "“diligent” means careful and hard-working.",
@@ -3196,9 +3196,9 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “diligent”?",
   "options": [
-   "concise",
-   "necessary",
    "stable",
+   "indiscreet",
+   "extravagant",
    "careless"
   ],
   "answer": 3,
@@ -3210,9 +3210,9 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “ephemeral”?",
   "options": [
-   "not easily convinced",
-   "cautious about possible danger",
-   "make difficult; obstruct",
+   "very great or deep",
+   "using very few words",
+   "in short supply",
    "lasting a very short time"
   ],
   "answer": 3,
@@ -3225,9 +3225,9 @@
   "body": "Which word is most nearly OPPOSITE in meaning to “ephemeral”?",
   "options": [
    "permanent",
-   "reasoned",
-   "inarticulate",
-   "extraordinary"
+   "plentiful",
+   "superficial",
+   "wordy"
   ],
   "answer": 0,
   "explanation": "“ephemeral” means lasting a very short time; the opposite is “permanent”.",
@@ -3238,10 +3238,10 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “frugal”?",
   "options": [
-   "based on observation or experiment",
+   "careful and hard-working",
    "careful with money",
-   "fluent and persuasive in speech",
-   "possible to do"
+   "acting with care for the future",
+   "careful not to attract attention"
   ],
   "answer": 1,
   "explanation": "“frugal” means careful with money.",
@@ -3252,10 +3252,10 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “frugal”?",
   "options": [
-   "impractical",
-   "avoidable",
+   "reckless",
+   "indiscreet",
    "extravagant",
-   "worsen"
+   "careless"
   ],
   "answer": 2,
   "explanation": "“frugal” means careful with money; the opposite is “extravagant”.",
@@ -3378,10 +3378,10 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “meticulous”?",
   "options": [
-   "cautious about possible danger",
+   "showing great enthusiasm",
    "showing great attention to detail",
-   "reluctant to share thoughts",
-   "acting with care for the future"
+   "careful not to attract attention",
+   "very great or deep"
   ],
   "answer": 1,
   "explanation": "“meticulous” means showing great attention to detail.",
@@ -3392,10 +3392,10 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “meticulous”?",
   "options": [
-   "friendly",
+   "indiscreet",
    "sloppy",
-   "improve",
-   "current"
+   "apathetic",
+   "superficial"
   ],
   "answer": 1,
   "explanation": "“meticulous” means showing great attention to detail; the opposite is “sloppy”.",
@@ -3462,9 +3462,9 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “prudent”?",
   "options": [
-   "careful not to attract attention",
-   "based on chance rather than reason",
-   "able to recover quickly",
+   "dealing with things practically",
+   "hopeful about the future",
+   "careful with money",
    "acting with care for the future"
   ],
   "answer": 3,
@@ -3476,10 +3476,10 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “prudent”?",
   "options": [
-   "glance at",
-   "entertaining",
+   "pessimistic",
+   "extravagant",
    "reckless",
-   "current"
+   "idealistic"
   ],
   "answer": 2,
   "explanation": "“prudent” means acting with care for the future; the opposite is “reckless”.",
@@ -3602,10 +3602,10 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “verbose”?",
   "options": [
-   "clear of blame",
+   "more merciful than expected",
    "using more words than needed",
-   "examine closely",
-   "plentiful"
+   "open to more than one interpretation",
+   "more than is needed"
   ],
   "answer": 1,
   "explanation": "“verbose” means using more words than needed.",
@@ -3616,10 +3616,10 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “verbose”?",
   "options": [
-   "stable",
-   "scarce",
+   "necessary",
+   "strict",
    "concise",
-   "expert"
+   "clear"
   ],
   "answer": 2,
   "explanation": "“verbose” means using more words than needed; the opposite is “concise”.",
@@ -3630,9 +3630,9 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “wary”?",
   "options": [
+   "possible to do",
    "certain to happen",
-   "not certain or fixed",
-   "able to recover quickly",
+   "hopeful about the future",
    "cautious about possible danger"
   ],
   "answer": 3,
@@ -3644,9 +3644,9 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “wary”?",
   "options": [
-   "assist",
-   "glance at",
+   "pessimistic",
    "permanent",
+   "impractical",
    "trusting"
   ],
   "answer": 3,
@@ -3714,10 +3714,10 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “alleviate”?",
   "options": [
-   "hopeful about the future",
-   "make less severe",
    "reluctant to share thoughts",
-   "agree"
+   "make less severe",
+   "agree",
+   "make difficult; obstruct"
   ],
   "answer": 1,
   "explanation": "“alleviate” means make less severe.",
@@ -3729,9 +3729,9 @@
   "body": "Which word is most nearly OPPOSITE in meaning to “alleviate”?",
   "options": [
    "worsen",
-   "ally",
    "disjointed",
-   "dispute"
+   "dispute",
+   "assist"
   ],
   "answer": 0,
   "explanation": "“alleviate” means make less severe; the opposite is “worsen”.",
@@ -3742,9 +3742,9 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “arbitrary”?",
   "options": [
-   "make worse",
-   "no longer in use",
-   "frank and honest",
+   "more than is needed",
+   "more merciful than expected",
+   "based on observation or experiment",
    "based on chance rather than reason"
   ],
   "answer": 3,
@@ -3756,9 +3756,9 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “arbitrary”?",
   "options": [
-   "scarce",
-   "entertaining",
-   "wordy",
+   "necessary",
+   "clear",
+   "theoretical",
    "reasoned"
   ],
   "answer": 3,
@@ -3826,10 +3826,10 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “deteriorate”?",
   "options": [
-   "more merciful than expected",
-   "become worse",
    "holding firmly; persistent",
-   "hide"
+   "become worse",
+   "hide",
+   "make worse"
   ],
   "answer": 1,
   "explanation": "“deteriorate” means become worse.",
@@ -3840,9 +3840,9 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “deteriorate”?",
   "options": [
-   "talkative",
-   "theoretical",
    "opaque",
+   "talkative",
+   "ease",
    "improve"
   ],
   "answer": 3,
@@ -3855,9 +3855,9 @@
   "body": "Which is closest in meaning to “discreet”?",
   "options": [
    "careful not to attract attention",
-   "plentiful",
-   "not easily convinced",
-   "using more words than needed"
+   "careful and hard-working",
+   "careful with money",
+   "showing great attention to detail"
   ],
   "answer": 0,
   "explanation": "“discreet” means careful not to attract attention.",
@@ -3868,10 +3868,10 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “discreet”?",
   "options": [
-   "sloppy",
-   "credulous",
+   "careless",
+   "extravagant",
    "indiscreet",
-   "worthwhile"
+   "sloppy"
   ],
   "answer": 2,
   "explanation": "“discreet” means careful not to attract attention; the opposite is “indiscreet”.",
@@ -3910,10 +3910,10 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “feasible”?",
   "options": [
+   "cautious about possible danger",
    "frank and honest",
-   "able to recover quickly",
    "possible to do",
-   "reluctant to share thoughts"
+   "able to recover quickly"
   ],
   "answer": 2,
   "explanation": "“feasible” means possible to do.",
@@ -3924,10 +3924,10 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “feasible”?",
   "options": [
-   "extravagant",
+   "indiscreet",
    "impractical",
-   "inarticulate",
-   "indiscreet"
+   "trusting",
+   "inarticulate"
   ],
   "answer": 1,
   "explanation": "“feasible” means possible to do; the opposite is “impractical”.",
@@ -3966,9 +3966,9 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “hinder”?",
   "options": [
-   "certain to happen",
-   "dealing with things practically",
-   "fluent and persuasive in speech",
+   "make less angry",
+   "make worse",
+   "make less serious",
    "make difficult; obstruct"
   ],
   "answer": 3,
@@ -3980,10 +3980,10 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “hinder”?",
   "options": [
-   "careless",
-   "plentiful",
+   "ease",
+   "worsen",
    "assist",
-   "fragile"
+   "provoke"
   ],
   "answer": 2,
   "explanation": "“hinder” means make difficult; obstruct; the opposite is “assist”.",
@@ -3994,9 +3994,9 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “inevitable”?",
   "options": [
-   "agree",
-   "lasting a very short time",
    "become worse",
+   "agree",
+   "not certain or fixed",
    "certain to happen"
   ],
   "answer": 3,
@@ -4008,9 +4008,9 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “inevitable”?",
   "options": [
-   "superficial",
-   "unproductive",
    "apathetic",
+   "definite",
+   "unproductive",
    "avoidable"
   ],
   "answer": 3,
@@ -4023,9 +4023,9 @@
   "body": "Which is closest in meaning to “lenient”?",
   "options": [
    "more merciful than expected",
-   "fond of company",
-   "showing great attention to detail",
-   "no longer in use"
+   "more than is needed",
+   "using more words than needed",
+   "open to more than one interpretation"
   ],
   "answer": 0,
   "explanation": "“lenient” means more merciful than expected.",
@@ -4036,10 +4036,10 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “lenient”?",
   "options": [
-   "inarticulate",
-   "strict",
    "clear",
-   "extraordinary"
+   "strict",
+   "concise",
+   "necessary"
   ],
   "answer": 1,
   "explanation": "“lenient” means more merciful than expected; the opposite is “strict”.",
@@ -4050,9 +4050,9 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “mitigate”?",
   "options": [
-   "no longer in use",
-   "more merciful than expected",
+   "make difficult; obstruct",
    "not easily convinced",
+   "no longer in use",
    "make less serious"
   ],
   "answer": 3,
@@ -4064,10 +4064,10 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “mitigate”?",
   "options": [
-   "theoretical",
-   "clear",
+   "assist",
+   "superficial",
    "aggravate",
-   "superficial"
+   "theoretical"
   ],
   "answer": 2,
   "explanation": "“mitigate” means make less serious; the opposite is “aggravate”.",
@@ -4135,9 +4135,9 @@
   "body": "Which is closest in meaning to “optimistic”?",
   "options": [
    "hopeful about the future",
-   "careful with money",
-   "frank and honest",
-   "make less angry"
+   "acting with care for the future",
+   "make less angry",
+   "cautious about possible danger"
   ],
   "answer": 0,
   "explanation": "“optimistic” means hopeful about the future.",
@@ -4149,9 +4149,9 @@
   "body": "Which word is most nearly OPPOSITE in meaning to “optimistic”?",
   "options": [
    "pessimistic",
-   "concise",
-   "trusting",
-   "apathetic"
+   "reckless",
+   "apathetic",
+   "trusting"
   ],
   "answer": 0,
   "explanation": "“optimistic” means hopeful about the future; the opposite is “pessimistic”.",
@@ -4162,10 +4162,10 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “pragmatic”?",
   "options": [
-   "holding firmly; persistent",
-   "make less serious",
+   "careful with money",
+   "acting with care for the future",
    "dealing with things practically",
-   "using very few words"
+   "holding firmly; persistent"
   ],
   "answer": 2,
   "explanation": "“pragmatic” means dealing with things practically.",
@@ -4176,10 +4176,10 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “pragmatic”?",
   "options": [
-   "ally",
+   "reckless",
    "idealistic",
-   "reasoned",
-   "expert"
+   "extravagant",
+   "reasoned"
   ],
   "answer": 1,
   "explanation": "“pragmatic” means dealing with things practically; the opposite is “idealistic”.",
@@ -4190,9 +4190,9 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “profound”?",
   "options": [
+   "lasting a very short time",
+   "showing great enthusiasm",
    "using very few words",
-   "fluent and persuasive in speech",
-   "hopeful about the future",
    "very great or deep"
   ],
   "answer": 3,
@@ -4205,9 +4205,9 @@
   "body": "Which word is most nearly OPPOSITE in meaning to “profound”?",
   "options": [
    "superficial",
-   "avoidable",
-   "trusting",
-   "disjointed"
+   "apathetic",
+   "permanent",
+   "wordy"
   ],
   "answer": 0,
   "explanation": "“profound” means very great or deep; the opposite is “superficial”.",
@@ -4218,10 +4218,10 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “redundant”?",
   "options": [
-   "examine closely",
+   "using more words than needed",
    "no longer needed",
-   "fond of company",
-   "producing a lot"
+   "producing a lot",
+   "examine closely"
   ],
   "answer": 1,
   "explanation": "“redundant” means no longer needed.",
@@ -4232,10 +4232,10 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “redundant”?",
   "options": [
-   "reckless",
+   "concise",
    "essential",
-   "solitary",
-   "worsen"
+   "worsen",
+   "reckless"
   ],
   "answer": 1,
   "explanation": "“redundant” means no longer needed; the opposite is “essential”.",
@@ -4274,10 +4274,10 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “scarce”?",
   "options": [
-   "holding firmly; persistent",
+   "lasting a very short time",
    "in short supply",
-   "based on observation or experiment",
-   "cautious about possible danger"
+   "cautious about possible danger",
+   "holding firmly; persistent"
   ],
   "answer": 1,
   "explanation": "“scarce” means in short supply.",
@@ -4289,9 +4289,9 @@
   "body": "Which word is most nearly OPPOSITE in meaning to “scarce”?",
   "options": [
    "plentiful",
-   "concise",
    "reckless",
-   "talkative"
+   "permanent",
+   "concise"
   ],
   "answer": 0,
   "explanation": "“scarce” means in short supply; the opposite is “plentiful”.",
@@ -4358,9 +4358,9 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “superfluous”?",
   "options": [
-   "reluctant to share thoughts",
-   "based on chance rather than reason",
-   "an opponent",
+   "open to more than one interpretation",
+   "more merciful than expected",
+   "using more words than needed",
    "more than is needed"
   ],
   "answer": 3,
@@ -4372,10 +4372,10 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “superfluous”?",
   "options": [
-   "entertaining",
+   "clear",
    "necessary",
-   "definite",
-   "aggravate"
+   "strict",
+   "concise"
   ],
   "answer": 1,
   "explanation": "“superfluous” means more than is needed; the opposite is “necessary”.",
@@ -4386,10 +4386,10 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “tentative”?",
   "options": [
-   "holding firmly; persistent",
-   "kind and generous",
+   "certain to happen",
+   "reluctant to share thoughts",
    "not certain or fixed",
-   "reluctant to share thoughts"
+   "holding firmly; persistent"
   ],
   "answer": 2,
   "explanation": "“tentative” means not certain or fixed.",
@@ -4400,10 +4400,10 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “tentative”?",
   "options": [
-   "current",
    "assist",
+   "avoidable",
    "definite",
-   "disjointed"
+   "current"
   ],
   "answer": 2,
   "explanation": "“tentative” means not certain or fixed; the opposite is “definite”.",
@@ -4414,9 +4414,9 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “transparent”?",
   "options": [
-   "plentiful",
    "make less angry",
-   "careful with money",
+   "open to more than one interpretation",
+   "plentiful",
    "open; easy to see through"
   ],
   "answer": 3,
@@ -4429,9 +4429,9 @@
   "body": "Which word is most nearly OPPOSITE in meaning to “transparent”?",
   "options": [
    "opaque",
+   "malicious",
    "current",
-   "assist",
-   "malicious"
+   "clear"
   ],
   "answer": 0,
   "explanation": "“transparent” means open; easy to see through; the opposite is “opaque”.",
@@ -4442,10 +4442,10 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “vindicate”?",
   "options": [
-   "using more words than needed",
    "frank and honest",
+   "weaken gradually",
    "clear of blame",
-   "weaken gradually"
+   "open to more than one interpretation"
   ],
   "answer": 2,
   "explanation": "“vindicate” means clear of blame.",
@@ -4456,9 +4456,9 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “vindicate”?",
   "options": [
+   "clear",
    "definite",
    "fragile",
-   "confusing",
    "incriminate"
   ],
   "answer": 3,
@@ -4499,9 +4499,9 @@
   "body": "Which is closest in meaning to “zealous”?",
   "options": [
    "showing great enthusiasm",
-   "no longer needed",
-   "hide",
-   "producing a lot"
+   "very great or deep",
+   "producing a lot",
+   "showing great attention to detail"
   ],
   "answer": 0,
   "explanation": "“zealous” means showing great enthusiasm.",
@@ -4512,10 +4512,10 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “zealous”?",
   "options": [
-   "aggravate",
+   "superficial",
    "apathetic",
-   "definite",
-   "evasive"
+   "evasive",
+   "sloppy"
   ],
   "answer": 1,
   "explanation": "“zealous” means showing great enthusiasm; the opposite is “apathetic”.",
@@ -4666,10 +4666,10 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “empirical”?",
   "options": [
-   "clear of blame",
+   "agree",
    "based on observation or experiment",
-   "very great or deep",
-   "agree"
+   "clear of blame",
+   "based on chance rather than reason"
   ],
   "answer": 1,
   "explanation": "“empirical” means based on observation or experiment.",
@@ -4680,10 +4680,10 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “empirical”?",
   "options": [
-   "improve",
+   "significant",
    "theoretical",
-   "reveal",
-   "significant"
+   "improve",
+   "reasoned"
   ],
   "answer": 1,
   "explanation": "“empirical” means based on observation or experiment; the opposite is “theoretical”.",
@@ -4695,8 +4695,8 @@
   "body": "Which is closest in meaning to “exacerbate”?",
   "options": [
    "become worse",
-   "logical and consistent",
    "more than is needed",
+   "make difficult; obstruct",
    "make worse"
   ],
   "answer": 3,
@@ -4708,8 +4708,8 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “exacerbate”?",
   "options": [
-   "pessimistic",
    "expert",
+   "assist",
    "ease",
    "improve"
   ],
@@ -4722,10 +4722,10 @@
   "topic": "Vocabulary",
   "body": "Which is closest in meaning to “laconic”?",
   "options": [
-   "producing a lot",
-   "not easily convinced",
+   "of considerable size",
+   "lasting a very short time",
    "using very few words",
-   "of considerable size"
+   "very great or deep"
   ],
   "answer": 2,
   "explanation": "“laconic” means using very few words.",
@@ -4737,9 +4737,9 @@
   "body": "Which word is most nearly OPPOSITE in meaning to “laconic”?",
   "options": [
    "wordy",
-   "plentiful",
-   "friendly",
-   "improve"
+   "permanent",
+   "improve",
+   "superficial"
   ],
   "answer": 0,
   "explanation": "“laconic” means using very few words; the opposite is “wordy”.",
@@ -4751,9 +4751,9 @@
   "body": "Which is closest in meaning to “placate”?",
   "options": [
    "make less angry",
-   "showing great enthusiasm",
    "certain to happen",
-   "reluctant to share thoughts"
+   "reluctant to share thoughts",
+   "make difficult; obstruct"
   ],
   "answer": 0,
   "explanation": "“placate” means make less angry.",
@@ -4764,9 +4764,9 @@
   "topic": "Vocabulary",
   "body": "Which word is most nearly OPPOSITE in meaning to “placate”?",
   "options": [
+   "assist",
    "strict",
    "improve",
-   "vigilant",
    "provoke"
   ],
   "answer": 3,

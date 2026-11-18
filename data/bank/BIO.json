@@ -46,7 +46,7 @@
   "topic": "Cell biology",
   "body": "The main function of the nucleus is",
   "options": [
-   "removing excess water in Amoeba",
+   "transporting materials within the cell",
    "controlling what enters and leaves the cell",
    "storing cell sap and keeping the cell turgid",
    "controlling the activities of the cell"
@@ -60,10 +60,10 @@
   "topic": "Cell biology",
   "body": "The main function of the cell membrane is",
   "options": [
-   "forming spindle fibres during animal cell division",
+   "storing cell sap and keeping the cell turgid",
    "controlling what enters and leaves the cell",
-   "packaging and secreting substances",
-   "protein synthesis"
+   "controlling the activities of the cell",
+   "giving the plant cell shape and support"
   ],
   "answer": 1,
   "explanation": "Cell membrane: controlling what enters and leaves the cell.",
@@ -75,9 +75,9 @@
   "body": "The main function of the cell wall is",
   "options": [
    "giving the plant cell shape and support",
-   "release of energy by aerobic respiration",
-   "removing excess water in Amoeba",
-   "controlling what enters and leaves the cell"
+   "controlling the activities of the cell",
+   "controlling what enters and leaves the cell",
+   "storing cell sap and keeping the cell turgid"
   ],
   "answer": 0,
   "explanation": "Cell wall: giving the plant cell shape and support.",
@@ -88,9 +88,9 @@
   "topic": "Cell biology",
   "body": "The main function of the vacuole is",
   "options": [
+   "controlling the activities of the cell",
    "giving the plant cell shape and support",
-   "forming spindle fibres during animal cell division",
-   "photosynthesis",
+   "transporting materials within the cell",
    "storing cell sap and keeping the cell turgid"
   ],
   "answer": 3,
@@ -130,10 +130,10 @@
   "topic": "Cell biology",
   "body": "The main function of the centriole is",
   "options": [
-   "controlling what enters and leaves the cell",
+   "controlling the activities of the cell",
    "storing cell sap and keeping the cell turgid",
    "forming spindle fibres during animal cell division",
-   "giving the plant cell shape and support"
+   "controlling what enters and leaves the cell"
   ],
   "answer": 2,
   "explanation": "Centriole: forming spindle fibres during animal cell division.",
@@ -144,10 +144,10 @@
   "topic": "Cell biology",
   "body": "The main function of the endoplasmic reticulum is",
   "options": [
-   "packaging and secreting substances",
+   "controlling what enters and leaves the cell",
    "transporting materials within the cell",
-   "photosynthesis",
-   "forming spindle fibres during animal cell division"
+   "controlling the activities of the cell",
+   "storing cell sap and keeping the cell turgid"
   ],
   "answer": 1,
   "explanation": "Endoplasmic reticulum: transporting materials within the cell.",
@@ -158,10 +158,10 @@
   "topic": "Cell biology",
   "body": "The main function of the contractile vacuole is",
   "options": [
-   "photosynthesis",
    "giving the plant cell shape and support",
+   "release of energy by aerobic respiration",
    "removing excess water in Amoeba",
-   "release of energy by aerobic respiration"
+   "storing cell sap and keeping the cell turgid"
   ],
   "answer": 2,
   "explanation": "Contractile vacuole: removing excess water in Amoeba.",
@@ -214,9 +214,9 @@
   "topic": "Cell biology",
   "body": "Which cell structure is responsible for controlling the activities of the cell?",
   "options": [
-   "Lysosome",
+   "Vacuole",
    "Nucleus",
-   "Ribosome",
+   "Cell wall",
    "Cell membrane"
   ],
   "answer": 1,
@@ -228,9 +228,9 @@
   "topic": "Cell biology",
   "body": "Which cell structure is responsible for controlling what enters and leaves the cell?",
   "options": [
-   "Ribosome",
-   "Lysosome",
-   "Chloroplast",
+   "Vacuole",
+   "Cell wall",
+   "Nucleus",
    "Cell membrane"
   ],
   "answer": 3,
@@ -243,9 +243,9 @@
   "body": "Which cell structure is responsible for giving the plant cell shape and support?",
   "options": [
    "Cell wall",
-   "Mitochondrion",
-   "Endoplasmic reticulum",
-   "Cell membrane"
+   "Cell membrane",
+   "Vacuole",
+   "Nucleus"
   ],
   "answer": 0,
   "explanation": "Cell wall: giving the plant cell shape and support.",
@@ -256,10 +256,10 @@
   "topic": "Cell biology",
   "body": "Which cell structure is responsible for storing cell sap and keeping the cell turgid?",
   "options": [
-   "Golgi body",
+   "Cell wall",
    "Vacuole",
-   "Contractile vacuole",
-   "Cell wall"
+   "Nucleus",
+   "Contractile vacuole"
   ],
   "answer": 1,
   "explanation": "Vacuole: storing cell sap and keeping the cell turgid.",
@@ -298,10 +298,10 @@
   "topic": "Cell biology",
   "body": "Which cell structure is responsible for forming spindle fibres during animal cell division?",
   "options": [
-   "Endoplasmic reticulum",
+   "Vacuole",
    "Centriole",
-   "Mitochondrion",
-   "Contractile vacuole"
+   "Endoplasmic reticulum",
+   "Nucleus"
   ],
   "answer": 1,
   "explanation": "Centriole: forming spindle fibres during animal cell division.",
@@ -313,9 +313,9 @@
   "body": "Which cell structure is responsible for transporting materials within the cell?",
   "options": [
    "Endoplasmic reticulum",
-   "Golgi body",
+   "Vacuole",
    "Nucleus",
-   "Chloroplast"
+   "Cell wall"
   ],
   "answer": 0,
   "explanation": "Endoplasmic reticulum: transporting materials within the cell.",
@@ -326,9 +326,9 @@
   "topic": "Cell biology",
   "body": "Which cell structure is responsible for removing excess water in Amoeba?",
   "options": [
-   "Ribosome",
    "Golgi body",
    "Chloroplast",
+   "Vacuole",
    "Contractile vacuole"
   ],
   "answer": 3,
@@ -340,9 +340,9 @@
   "topic": "Nutrition",
   "body": "Deficiency of vitamin A in the diet causes",
   "options": [
-   "rickets",
-   "anaemia",
    "pernicious anaemia",
+   "scurvy",
+   "rickets",
    "night blindness"
   ],
   "answer": 3,
@@ -354,10 +354,10 @@
   "topic": "Nutrition",
   "body": "Deficiency of vitamin B1 (thiamine) in the diet causes",
   "options": [
-   "kwashiorkor",
+   "rickets",
    "beriberi",
-   "poor blood clotting",
-   "night blindness"
+   "night blindness",
+   "scurvy"
   ],
   "answer": 1,
   "explanation": "Lack of vitamin B1 (thiamine) → beriberi.",
@@ -368,10 +368,10 @@
   "topic": "Nutrition",
   "body": "Deficiency of vitamin B3 (niacin) in the diet causes",
   "options": [
-   "scurvy",
+   "pernicious anaemia",
    "pellagra",
-   "poor blood clotting",
-   "pernicious anaemia"
+   "scurvy",
+   "rickets"
   ],
   "answer": 1,
   "explanation": "Lack of vitamin B3 (niacin) → pellagra.",
@@ -382,10 +382,10 @@
   "topic": "Nutrition",
   "body": "Deficiency of vitamin C in the diet causes",
   "options": [
-   "pellagra",
+   "rickets",
    "scurvy",
-   "pernicious anaemia",
-   "beriberi"
+   "beriberi",
+   "pellagra"
   ],
   "answer": 1,
   "explanation": "Lack of vitamin C → scurvy.",
@@ -398,8 +398,8 @@
   "options": [
    "pernicious anaemia",
    "rickets",
-   "pellagra",
-   "scurvy"
+   "scurvy",
+   "pellagra"
   ],
   "answer": 1,
   "explanation": "Lack of vitamin D → rickets.",
@@ -411,9 +411,9 @@
   "body": "Deficiency of vitamin K in the diet causes",
   "options": [
    "poor blood clotting",
-   "goitre",
    "pellagra",
-   "beriberi"
+   "scurvy",
+   "rickets"
   ],
   "answer": 0,
   "explanation": "Lack of vitamin K → poor blood clotting.",
@@ -424,10 +424,10 @@
   "topic": "Nutrition",
   "body": "Deficiency of vitamin B12 in the diet causes",
   "options": [
-   "beriberi",
+   "scurvy",
    "pernicious anaemia",
    "anaemia",
-   "pellagra"
+   "rickets"
   ],
   "answer": 1,
   "explanation": "Lack of vitamin B12 → pernicious anaemia.",
@@ -440,8 +440,8 @@
   "options": [
    "poor blood clotting",
    "anaemia",
-   "goitre",
-   "pernicious anaemia"
+   "pernicious anaemia",
+   "goitre"
   ],
   "answer": 1,
   "explanation": "Lack of iron → anaemia.",
@@ -480,8 +480,8 @@
   "topic": "Nutrition",
   "body": "Night blindness is caused by a deficiency of",
   "options": [
-   "iron",
    "vitamin B12",
+   "vitamin D",
    "vitamin C",
    "vitamin A"
   ],
@@ -494,10 +494,10 @@
   "topic": "Nutrition",
   "body": "Beriberi is caused by a deficiency of",
   "options": [
-   "protein",
+   "vitamin C",
    "vitamin B1 (thiamine)",
-   "vitamin B12",
-   "vitamin K"
+   "vitamin D",
+   "vitamin B12"
   ],
   "answer": 1,
   "explanation": "Beriberi results from lack of vitamin B1 (thiamine).",
@@ -508,10 +508,10 @@
   "topic": "Nutrition",
   "body": "Pellagra is caused by a deficiency of",
   "options": [
+   "vitamin D",
    "vitamin A",
-   "vitamin C",
    "vitamin B3 (niacin)",
-   "vitamin D"
+   "vitamin C"
   ],
   "answer": 2,
   "explanation": "Pellagra results from lack of vitamin B3 (niacin).",
@@ -523,9 +523,9 @@
   "body": "Scurvy is caused by a deficiency of",
   "options": [
    "vitamin C",
-   "iron",
-   "protein",
-   "vitamin K"
+   "vitamin B3 (niacin)",
+   "vitamin A",
+   "vitamin D"
   ],
   "answer": 0,
   "explanation": "Scurvy results from lack of vitamin C.",
@@ -537,8 +537,8 @@
   "body": "Rickets is caused by a deficiency of",
   "options": [
    "vitamin D",
+   "vitamin C",
    "vitamin B3 (niacin)",
-   "iodine",
    "vitamin B12"
   ],
   "answer": 0,
@@ -550,10 +550,10 @@
   "topic": "Nutrition",
   "body": "Poor blood clotting is caused by a deficiency of",
   "options": [
-   "vitamin B12",
+   "vitamin B1 (thiamine)",
    "vitamin K",
-   "protein",
-   "vitamin B1 (thiamine)"
+   "vitamin D",
+   "vitamin C"
   ],
   "answer": 1,
   "explanation": "Poor blood clotting results from lack of vitamin K.",
@@ -564,10 +564,10 @@
   "topic": "Nutrition",
   "body": "Pernicious anaemia is caused by a deficiency of",
   "options": [
-   "vitamin B3 (niacin)",
+   "iron",
    "vitamin D",
    "vitamin B12",
-   "iodine"
+   "vitamin C"
   ],
   "answer": 2,
   "explanation": "Pernicious anaemia results from lack of vitamin B12.",
@@ -578,10 +578,10 @@
   "topic": "Nutrition",
   "body": "Anaemia is caused by a deficiency of",
   "options": [
-   "vitamin D",
    "vitamin B12",
+   "vitamin B1 (thiamine)",
    "iron",
-   "vitamin B1 (thiamine)"
+   "vitamin D"
   ],
   "answer": 2,
   "explanation": "Anaemia results from lack of iron.",
@@ -760,10 +760,10 @@
   "topic": "Hormones",
   "body": "The function of insulin is that it",
   "options": [
+   "controls the rate of metabolism",
    "increases water reabsorption in the kidney",
-   "stimulates the development of follicles in the ovary",
    "lowers blood glucose level",
-   "controls the rate of metabolism"
+   "raises blood glucose level"
   ],
   "answer": 2,
   "explanation": "Insulin lowers blood glucose level.",
@@ -788,9 +788,9 @@
   "topic": "Hormones",
   "body": "The function of adrenaline is that it",
   "options": [
-   "maintains the lining of the uterus during pregnancy",
-   "develops female secondary sexual characteristics",
-   "develops male secondary sexual characteristics",
+   "increases water reabsorption in the kidney",
+   "controls the rate of metabolism",
+   "promotes growth of the body",
    "prepares the body for 'fight or flight'"
   ],
   "answer": 3,
@@ -802,9 +802,9 @@
   "topic": "Hormones",
   "body": "The function of thyroxine is that it",
   "options": [
-   "develops female secondary sexual characteristics",
-   "prepares the body for 'fight or flight'",
    "increases water reabsorption in the kidney",
+   "prepares the body for 'fight or flight'",
+   "promotes growth of the body",
    "controls the rate of metabolism"
   ],
   "answer": 3,
@@ -818,8 +818,8 @@
   "options": [
    "increases water reabsorption in the kidney",
    "stimulates the development of follicles in the ovary",
-   "controls the rate of metabolism",
-   "develops female secondary sexual characteristics"
+   "promotes growth of the body",
+   "controls the rate of metabolism"
   ],
   "answer": 0,
   "explanation": "Antidiuretic hormone (ADH) increases water reabsorption in the kidney.",
@@ -830,10 +830,10 @@
   "topic": "Hormones",
   "body": "The function of growth hormone is that it",
   "options": [
-   "develops male secondary sexual characteristics",
+   "increases water reabsorption in the kidney",
    "promotes growth of the body",
-   "develops female secondary sexual characteristics",
-   "increases water reabsorption in the kidney"
+   "stimulates the development of follicles in the ovary",
+   "prepares the body for 'fight or flight'"
   ],
   "answer": 1,
   "explanation": "Growth hormone promotes growth of the body.",
@@ -844,10 +844,10 @@
   "topic": "Hormones",
   "body": "The function of oestrogen is that it",
   "options": [
-   "lowers blood glucose level",
+   "develops male secondary sexual characteristics",
    "develops female secondary sexual characteristics",
-   "raises blood glucose level",
-   "develops male secondary sexual characteristics"
+   "maintains the lining of the uterus during pregnancy",
+   "stimulates the development of follicles in the ovary"
   ],
   "answer": 1,
   "explanation": "Oestrogen develops female secondary sexual characteristics.",
@@ -858,10 +858,10 @@
   "topic": "Hormones",
   "body": "The function of testosterone is that it",
   "options": [
-   "lowers blood glucose level",
+   "controls the rate of metabolism",
    "develops male secondary sexual characteristics",
-   "raises blood glucose level",
-   "controls the rate of metabolism"
+   "lowers blood glucose level",
+   "develops female secondary sexual characteristics"
   ],
   "answer": 1,
   "explanation": "Testosterone develops male secondary sexual characteristics.",
@@ -873,9 +873,9 @@
   "body": "The function of progesterone is that it",
   "options": [
    "maintains the lining of the uterus during pregnancy",
-   "develops female secondary sexual characteristics",
-   "increases water reabsorption in the kidney",
-   "controls the rate of metabolism"
+   "stimulates the development of follicles in the ovary",
+   "controls the rate of metabolism",
+   "develops female secondary sexual characteristics"
   ],
   "answer": 0,
   "explanation": "Progesterone maintains the lining of the uterus during pregnancy.",
@@ -888,8 +888,8 @@
   "options": [
    "controls the rate of metabolism",
    "stimulates the development of follicles in the ovary",
-   "maintains the lining of the uterus during pregnancy",
-   "raises blood glucose level"
+   "promotes growth of the body",
+   "increases water reabsorption in the kidney"
   ],
   "answer": 1,
   "explanation": "Follicle-stimulating hormone (FSH) stimulates the development of follicles in the ovary.",
@@ -1139,9 +1139,9 @@
   "body": "The causative organism of malaria is",
   "options": [
    "Plasmodium",
+   "Trypanosoma",
    "yellow fever virus",
-   "Neisseria gonorrhoeae",
-   "HIV"
+   "Entamoeba histolytica"
   ],
   "answer": 0,
   "explanation": "Malaria is caused by Plasmodium.",
@@ -1152,9 +1152,9 @@
   "topic": "Diseases",
   "body": "The causative organism of cholera is",
   "options": [
-   "Onchocerca volvulus",
-   "yellow fever virus",
-   "Trypanosoma",
+   "Treponema pallidum",
+   "Mycobacterium tuberculosis",
+   "Neisseria gonorrhoeae",
    "Vibrio cholerae"
   ],
   "answer": 3,
@@ -1167,9 +1167,9 @@
   "body": "The causative organism of tuberculosis is",
   "options": [
    "Mycobacterium tuberculosis",
-   "HIV",
-   "Neisseria gonorrhoeae",
-   "Plasmodium"
+   "Treponema pallidum",
+   "Vibrio cholerae",
+   "Neisseria gonorrhoeae"
   ],
   "answer": 0,
   "explanation": "Tuberculosis is caused by Mycobacterium tuberculosis.",
@@ -1180,10 +1180,10 @@
   "topic": "Diseases",
   "body": "The causative organism of typhoid fever is",
   "options": [
-   "Plasmodium",
+   "Clostridium tetani",
    "Salmonella typhi",
-   "Mycobacterium tuberculosis",
-   "Clostridium tetani"
+   "Lassa virus",
+   "Mycobacterium tuberculosis"
   ],
   "answer": 1,
   "explanation": "Typhoid fever is caused by Salmonella typhi.",
@@ -1194,10 +1194,10 @@
   "topic": "Diseases",
   "body": "The causative organism of gonorrhoea is",
   "options": [
-   "Lassa virus",
-   "Mycobacterium tuberculosis",
+   "Clostridium tetani",
+   "Treponema pallidum",
    "Neisseria gonorrhoeae",
-   "Clostridium tetani"
+   "Mycobacterium tuberculosis"
   ],
   "answer": 2,
   "explanation": "Gonorrhoea is caused by Neisseria gonorrhoeae.",
@@ -1208,8 +1208,8 @@
   "topic": "Diseases",
   "body": "The causative organism of syphilis is",
   "options": [
-   "Lassa virus",
-   "Trypanosoma",
+   "Mycobacterium tuberculosis",
+   "Vibrio cholerae",
    "Treponema pallidum",
    "Clostridium tetani"
   ],
@@ -1223,9 +1223,9 @@
   "body": "The causative organism of AIDS is",
   "options": [
    "HIV",
-   "yellow fever virus",
-   "Neisseria gonorrhoeae",
-   "Onchocerca volvulus"
+   "measles virus",
+   "Lassa virus",
+   "poliovirus"
   ],
   "answer": 0,
   "explanation": "AIDS is caused by HIV.",
@@ -1238,8 +1238,8 @@
   "options": [
    "poliovirus",
    "measles virus",
-   "Mycobacterium tuberculosis",
-   "Wuchereria bancrofti"
+   "Lassa virus",
+   "HIV"
   ],
   "answer": 1,
   "explanation": "Measles is caused by measles virus.",
@@ -1251,9 +1251,9 @@
   "body": "The causative organism of poliomyelitis is",
   "options": [
    "poliovirus",
-   "Vibrio cholerae",
-   "Lassa virus",
-   "Onchocerca volvulus"
+   "measles virus",
+   "HIV",
+   "Lassa virus"
   ],
   "answer": 0,
   "explanation": "Poliomyelitis is caused by poliovirus.",
@@ -1264,10 +1264,10 @@
   "topic": "Diseases",
   "body": "The causative organism of yellow fever is",
   "options": [
-   "poliovirus",
+   "HIV",
    "yellow fever virus",
-   "Vibrio cholerae",
-   "Salmonella typhi"
+   "measles virus",
+   "Lassa virus"
   ],
   "answer": 1,
   "explanation": "Yellow fever is caused by yellow fever virus.",
@@ -1279,8 +1279,8 @@
   "body": "The causative organism of ringworm is",
   "options": [
    "Mycobacterium tuberculosis",
-   "Wuchereria bancrofti",
-   "Trypanosoma",
+   "measles virus",
+   "HIV",
    "Trichophyton"
   ],
   "answer": 3,
@@ -1292,9 +1292,9 @@
   "topic": "Diseases",
   "body": "The causative organism of sleeping sickness is",
   "options": [
+   "Plasmodium",
+   "Entamoeba histolytica",
    "yellow fever virus",
-   "Clostridium tetani",
-   "Trichophyton",
    "Trypanosoma"
   ],
   "answer": 3,
@@ -1306,10 +1306,10 @@
   "topic": "Diseases",
   "body": "The causative organism of river blindness is",
   "options": [
-   "Trichophyton",
+   "Mycobacterium tuberculosis",
    "Onchocerca volvulus",
-   "Plasmodium",
-   "Mycobacterium tuberculosis"
+   "Wuchereria bancrofti",
+   "Plasmodium"
   ],
   "answer": 1,
   "explanation": "River blindness is caused by Onchocerca volvulus.",
@@ -1320,10 +1320,10 @@
   "topic": "Diseases",
   "body": "The causative organism of elephantiasis is",
   "options": [
-   "Salmonella typhi",
-   "measles virus",
+   "yellow fever virus",
+   "Onchocerca volvulus",
    "Wuchereria bancrofti",
-   "HIV"
+   "Plasmodium"
   ],
   "answer": 2,
   "explanation": "Elephantiasis is caused by Wuchereria bancrofti.",
@@ -1334,9 +1334,9 @@
   "topic": "Diseases",
   "body": "The causative organism of amoebic dysentery is",
   "options": [
-   "Mycobacterium tuberculosis",
-   "Onchocerca volvulus",
    "measles virus",
+   "HIV",
+   "Mycobacterium tuberculosis",
    "Entamoeba histolytica"
   ],
   "answer": 3,
@@ -1348,10 +1348,10 @@
   "topic": "Diseases",
   "body": "The causative organism of Lassa fever is",
   "options": [
-   "Mycobacterium tuberculosis",
-   "Treponema pallidum",
+   "poliovirus",
+   "HIV",
    "Lassa virus",
-   "Clostridium tetani"
+   "measles virus"
   ],
   "answer": 2,
   "explanation": "Lassa fever is caused by Lassa virus.",
@@ -1362,10 +1362,10 @@
   "topic": "Diseases",
   "body": "The causative organism of tetanus is",
   "options": [
-   "poliovirus",
+   "Treponema pallidum",
    "Clostridium tetani",
-   "Wuchereria bancrofti",
-   "measles virus"
+   "Mycobacterium tuberculosis",
+   "Neisseria gonorrhoeae"
   ],
   "answer": 1,
   "explanation": "Tetanus is caused by Clostridium tetani.",
@@ -2020,9 +2020,9 @@
   "topic": "Digestion",
   "body": "The enzyme salivary amylase (ptyalin) acts on",
   "options": [
-   "milk protein (caseinogen)",
-   "starch",
    "maltose",
+   "starch",
+   "milk protein (caseinogen)",
    "proteins"
   ],
   "answer": 1,
@@ -2035,9 +2035,9 @@
   "body": "The enzyme pepsin acts on",
   "options": [
    "proteins",
-   "fats and oils",
-   "lactose",
-   "maltose"
+   "maltose",
+   "milk protein (caseinogen)",
+   "lactose"
   ],
   "answer": 0,
   "explanation": "Pepsin breaks down proteins into peptides (polypeptides) in the stomach.",
@@ -2049,9 +2049,9 @@
   "body": "The enzyme rennin acts on",
   "options": [
    "milk protein (caseinogen)",
-   "sucrose",
-   "fats and oils",
-   "starch"
+   "proteins",
+   "starch",
+   "sucrose"
   ],
   "answer": 0,
   "explanation": "Rennin breaks down milk protein (caseinogen) into curdled milk (casein) in the stomach.",
@@ -2062,10 +2062,10 @@
   "topic": "Digestion",
   "body": "The enzyme trypsin acts on",
   "options": [
-   "lactose",
    "maltose",
+   "milk protein (caseinogen)",
    "proteins",
-   "milk protein (caseinogen)"
+   "fats and oils"
   ],
   "answer": 2,
   "explanation": "Trypsin breaks down proteins into peptides in the duodenum (from pancreas).",
@@ -2077,9 +2077,9 @@
   "body": "The enzyme lipase acts on",
   "options": [
    "fats and oils",
-   "sucrose",
    "maltose",
-   "proteins"
+   "proteins",
+   "sucrose"
   ],
   "answer": 0,
   "explanation": "Lipase breaks down fats and oils into fatty acids and glycerol in the duodenum (from pancreas).",
@@ -2090,10 +2090,10 @@
   "topic": "Digestion",
   "body": "The enzyme maltase acts on",
   "options": [
+   "lactose",
    "sucrose",
-   "proteins",
    "maltose",
-   "fats and oils"
+   "starch"
   ],
   "answer": 2,
   "explanation": "Maltase breaks down maltose into glucose in the ileum.",
@@ -2104,10 +2104,10 @@
   "topic": "Digestion",
   "body": "The enzyme sucrase acts on",
   "options": [
-   "maltose",
-   "sucrose",
    "proteins",
-   "starch"
+   "sucrose",
+   "maltose",
+   "lactose"
   ],
   "answer": 1,
   "explanation": "Sucrase breaks down sucrose into glucose and fructose in the ileum.",
@@ -2118,10 +2118,10 @@
   "topic": "Digestion",
   "body": "The enzyme lactase acts on",
   "options": [
-   "milk protein (caseinogen)",
+   "maltose",
    "lactose",
-   "proteins",
-   "starch"
+   "sucrose",
+   "milk protein (caseinogen)"
   ],
   "answer": 1,
   "explanation": "Lactase breaks down lactose into glucose and galactose in the ileum.",
@@ -2132,10 +2132,10 @@
   "topic": "Digestion",
   "body": "The product of the action of salivary amylase (ptyalin) on starch is",
   "options": [
-   "glucose and galactose",
-   "maltose",
    "peptides",
-   "fatty acids and glycerol"
+   "maltose",
+   "fatty acids and glycerol",
+   "glucose"
   ],
   "answer": 1,
   "explanation": "Salivary amylase (ptyalin): starch → maltose.",
@@ -2146,10 +2146,10 @@
   "topic": "Digestion",
   "body": "The product of the action of pepsin on proteins is",
   "options": [
-   "fatty acids and glycerol",
+   "peptides",
    "peptides (polypeptides)",
-   "glucose and fructose",
-   "glucose and galactose"
+   "fatty acids and glycerol",
+   "curdled milk (casein)"
   ],
   "answer": 1,
   "explanation": "Pepsin: proteins → peptides (polypeptides).",
@@ -2160,10 +2160,10 @@
   "topic": "Digestion",
   "body": "The product of the action of rennin on milk protein (caseinogen) is",
   "options": [
+   "peptides (polypeptides)",
    "glucose and fructose",
-   "glucose",
    "curdled milk (casein)",
-   "glucose and galactose"
+   "glucose"
   ],
   "answer": 2,
   "explanation": "Rennin: milk protein (caseinogen) → curdled milk (casein).",
@@ -2175,9 +2175,9 @@
   "body": "The product of the action of trypsin on proteins is",
   "options": [
    "peptides",
-   "curdled milk (casein)",
-   "maltose",
-   "glucose"
+   "fatty acids and glycerol",
+   "peptides (polypeptides)",
+   "curdled milk (casein)"
   ],
   "answer": 0,
   "explanation": "Trypsin: proteins → peptides.",
@@ -2188,10 +2188,10 @@
   "topic": "Digestion",
   "body": "The product of the action of lipase on fats and oils is",
   "options": [
-   "peptides",
-   "fatty acids and glycerol",
    "glucose",
-   "curdled milk (casein)"
+   "fatty acids and glycerol",
+   "curdled milk (casein)",
+   "peptides"
   ],
   "answer": 1,
   "explanation": "Lipase: fats and oils → fatty acids and glycerol.",
@@ -2202,9 +2202,9 @@
   "topic": "Digestion",
   "body": "The product of the action of maltase on maltose is",
   "options": [
-   "fatty acids and glycerol",
-   "glucose and galactose",
    "maltose",
+   "glucose and galactose",
+   "glucose and fructose",
    "glucose"
   ],
   "answer": 3,
@@ -2216,10 +2216,10 @@
   "topic": "Digestion",
   "body": "The product of the action of sucrase on sucrose is",
   "options": [
-   "curdled milk (casein)",
-   "peptides",
+   "glucose",
+   "glucose and galactose",
    "glucose and fructose",
-   "maltose"
+   "curdled milk (casein)"
   ],
   "answer": 2,
   "explanation": "Sucrase: sucrose → glucose and fructose.",
@@ -2230,10 +2230,10 @@
   "topic": "Digestion",
   "body": "The product of the action of lactase on lactose is",
   "options": [
-   "maltose",
-   "glucose and fructose",
+   "curdled milk (casein)",
+   "glucose",
    "glucose and galactose",
-   "curdled milk (casein)"
+   "glucose and fructose"
   ],
   "answer": 2,
   "explanation": "Lactase: lactose → glucose and galactose.",
@@ -2244,9 +2244,9 @@
   "topic": "Food tests",
   "body": "Which reagent is used to test for starch?",
   "options": [
-   "Biuret test (sodium hydroxide + copper(II) tetraoxosulphate(VI))",
-   "iodine solution",
    "Sudan III",
+   "iodine solution",
+   "Biuret test (sodium hydroxide + copper(II) tetraoxosulphate(VI))",
    "Benedict's (or Fehling's) solution, heated"
   ],
   "answer": 1,
@@ -2259,9 +2259,9 @@
   "body": "Which reagent is used to test for reducing sugar?",
   "options": [
    "Benedict's (or Fehling's) solution, heated",
-   "Sudan III",
+   "iodine solution",
    "Biuret test (sodium hydroxide + copper(II) tetraoxosulphate(VI))",
-   "iodine solution"
+   "Sudan III"
   ],
   "answer": 0,
   "explanation": "Reducing sugar: Benedict's (or Fehling's) solution, heated → brick-red precipitate.",
@@ -2301,8 +2301,8 @@
   "body": "A positive test for starch gives",
   "options": [
    "blue-black colour",
-   "red-stained layer",
    "purple (violet) colour",
+   "red-stained layer",
    "brick-red precipitate"
   ],
   "answer": 0,
@@ -2314,10 +2314,10 @@
   "topic": "Food tests",
   "body": "A positive test for reducing sugar gives",
   "options": [
-   "red-stained layer",
+   "blue-black colour",
    "brick-red precipitate",
    "purple (violet) colour",
-   "blue-black colour"
+   "red-stained layer"
   ],
   "answer": 1,
   "explanation": "Reducing sugar: Benedict's (or Fehling's) solution, heated → brick-red precipitate.",
@@ -2356,10 +2356,10 @@
   "topic": "Ecology",
   "body": "A producer is best described as",
   "options": [
-   "an instrument for measuring wind speed",
+   "interconnected food chains in an ecosystem",
    "an organism that makes its own food by photosynthesis",
-   "an instrument for measuring the turbidity of water",
-   "the gradual change in species composition of a community over time"
+   "an organism that feeds on dead organic matter",
+   "an organism that breaks down dead matter and returns nutrients to the soil"
   ],
   "answer": 1,
   "explanation": "A producer: an organism that makes its own food by photosynthesis.",
@@ -2370,10 +2370,10 @@
   "topic": "Ecology",
   "body": "A decomposer is best described as",
   "options": [
-   "a frame used to estimate the population of plants in an area",
+   "an organism that feeds on dead organic matter",
    "an organism that breaks down dead matter and returns nutrients to the soil",
-   "an association in which one benefits and the other is unaffected",
-   "interconnected food chains in an ecosystem"
+   "one organism killing and eating another",
+   "an organism that makes its own food by photosynthesis"
   ],
   "answer": 1,
   "explanation": "A decomposer: an organism that breaks down dead matter and returns nutrients to the soil.",
@@ -2384,9 +2384,9 @@
   "topic": "Ecology",
   "body": "A habitat is best described as",
   "options": [
-   "the non-living components of an environment",
+   "one organism killing and eating another",
    "an organism that makes its own food by photosynthesis",
-   "an instrument for measuring wind speed",
+   "the role an organism plays in its habitat",
    "the place where an organism lives"
   ],
   "answer": 3,
@@ -2398,9 +2398,9 @@
   "topic": "Ecology",
   "body": "A niche is best described as",
   "options": [
-   "an instrument for measuring rainfall",
-   "an organism that feeds on dead organic matter",
-   "an instrument for measuring wind speed",
+   "one organism killing and eating another",
+   "an organism that makes its own food by photosynthesis",
+   "the place where an organism lives",
    "the role an organism plays in its habitat"
   ],
   "answer": 3,
@@ -2412,10 +2412,10 @@
   "topic": "Ecology",
   "body": "A population is best described as",
   "options": [
-   "an association in which one organism benefits and the other is harmed",
+   "an association in which both organisms benefit",
    "all the organisms of one species in an area",
-   "an instrument for measuring the turbidity of water",
-   "one organism killing and eating another"
+   "all the populations of different species living in an area",
+   "a frame used to estimate the population of plants in an area"
   ],
   "answer": 1,
   "explanation": "A population: all the organisms of one species in an area.",
@@ -2428,8 +2428,8 @@
   "options": [
    "all the populations of different species living in an area",
    "a community of organisms interacting with their non-living environment",
-   "an apparatus for extracting small organisms from soil or leaf litter",
-   "an instrument for measuring wind speed"
+   "the gradual change in species composition of a community over time",
+   "all the organisms of one species in an area"
   ],
   "answer": 0,
   "explanation": "A community: all the populations of different species living in an area.",
@@ -2441,8 +2441,8 @@
   "body": "An ecosystem is best described as",
   "options": [
    "all the populations of different species living in an area",
-   "an organism that breaks down dead matter and returns nutrients to the soil",
-   "the place where an organism lives",
+   "the non-living components of an environment",
+   "the living components of an environment",
    "a community of organisms interacting with their non-living environment"
   ],
   "answer": 3,
@@ -2454,10 +2454,10 @@
   "topic": "Ecology",
   "body": "A food web is best described as",
   "options": [
-   "a device for collecting small insects",
+   "an organism that makes its own food by photosynthesis",
    "interconnected food chains in an ecosystem",
-   "an organism that feeds on dead organic matter",
-   "a community of organisms interacting with their non-living environment"
+   "a community of organisms interacting with their non-living environment",
+   "a device for collecting small insects"
   ],
   "answer": 1,
   "explanation": "A food web: interconnected food chains in an ecosystem.",
@@ -2468,9 +2468,9 @@
   "topic": "Ecology",
   "body": "Mutualism is best described as",
   "options": [
-   "an organism that feeds on dead organic matter",
-   "the place where an organism lives",
-   "the non-living components of an environment",
+   "an association in which one benefits and the other is unaffected",
+   "all the organisms of one species in an area",
+   "an association in which one organism benefits and the other is harmed",
    "an association in which both organisms benefit"
   ],
   "answer": 3,
@@ -2482,10 +2482,10 @@
   "topic": "Ecology",
   "body": "Parasitism is best described as",
   "options": [
-   "a community of organisms interacting with their non-living environment",
-   "an apparatus for extracting small organisms from soil or leaf litter",
+   "one organism killing and eating another",
+   "an association in which both organisms benefit",
    "an association in which one organism benefits and the other is harmed",
-   "an organism that makes its own food by photosynthesis"
+   "an association in which one benefits and the other is unaffected"
   ],
   "answer": 2,
   "explanation": "Parasitism: an association in which one organism benefits and the other is harmed.",
@@ -2496,9 +2496,9 @@
   "topic": "Ecology",
   "body": "Commensalism is best described as",
   "options": [
+   "an association in which one organism benefits and the other is harmed",
    "the non-living components of an environment",
-   "the place where an organism lives",
-   "an instrument for showing wind direction",
+   "an association in which both organisms benefit",
    "an association in which one benefits and the other is unaffected"
   ],
   "answer": 3,
@@ -2510,9 +2510,9 @@
   "topic": "Ecology",
   "body": "Predation is best described as",
   "options": [
-   "all the organisms of one species in an area",
+   "the place where an organism lives",
+   "an organism that makes its own food by photosynthesis",
    "the role an organism plays in its habitat",
-   "an instrument for measuring the turbidity of water",
    "one organism killing and eating another"
   ],
   "answer": 3,
@@ -2525,9 +2525,9 @@
   "body": "A saprophyte is best described as",
   "options": [
    "an organism that feeds on dead organic matter",
-   "a community of organisms interacting with their non-living environment",
-   "an association in which one organism benefits and the other is harmed",
-   "all the populations of different species living in an area"
+   "an organism that makes its own food by photosynthesis",
+   "an organism that breaks down dead matter and returns nutrients to the soil",
+   "the role an organism plays in its habitat"
   ],
   "answer": 0,
   "explanation": "A saprophyte: an organism that feeds on dead organic matter.",
@@ -2538,10 +2538,10 @@
   "topic": "Ecology",
   "body": "Ecological succession is best described as",
   "options": [
-   "the non-living components of an environment",
-   "a frame used to estimate the population of plants in an area",
+   "all the populations of different species living in an area",
+   "a community of organisms interacting with their non-living environment",
    "the gradual change in species composition of a community over time",
-   "an instrument for showing wind direction"
+   "all the organisms of one species in an area"
   ],
   "answer": 2,
   "explanation": "Ecological succession: the gradual change in species composition of a community over time.",
@@ -2553,9 +2553,9 @@
   "body": "Biotic factors is best described as",
   "options": [
    "the living components of an environment",
-   "a device for collecting small insects",
-   "an organism that makes its own food by photosynthesis",
-   "an instrument for measuring the turbidity of water"
+   "all the populations of different species living in an area",
+   "a community of organisms interacting with their non-living environment",
+   "the non-living components of an environment"
   ],
   "answer": 0,
   "explanation": "Biotic factors: the living components of an environment.",
@@ -2566,10 +2566,10 @@
   "topic": "Ecology",
   "body": "Abiotic factors is best described as",
   "options": [
-   "the place where an organism lives",
+   "the living components of an environment",
    "the non-living components of an environment",
-   "an instrument for measuring rainfall",
-   "a frame used to estimate the population of plants in an area"
+   "a community of organisms interacting with their non-living environment",
+   "all the populations of different species living in an area"
   ],
   "answer": 1,
   "explanation": "Abiotic factors: the non-living components of an environment.",
@@ -2580,10 +2580,10 @@
   "topic": "Ecology",
   "body": "A quadrat is best described as",
   "options": [
-   "an association in which one organism benefits and the other is harmed",
-   "a frame used to estimate the population of plants in an area",
    "an instrument for measuring relative humidity",
-   "interconnected food chains in an ecosystem"
+   "a frame used to estimate the population of plants in an area",
+   "all the organisms of one species in an area",
+   "all the populations of different species living in an area"
   ],
   "answer": 1,
   "explanation": "A quadrat: a frame used to estimate the population of plants in an area.",
@@ -2594,9 +2594,9 @@
   "topic": "Ecology",
   "body": "A Tullgren funnel is best described as",
   "options": [
-   "one organism killing and eating another",
-   "a community of organisms interacting with their non-living environment",
-   "the living components of an environment",
+   "an association in which both organisms benefit",
+   "all the organisms of one species in an area",
+   "a device for collecting small insects",
    "an apparatus for extracting small organisms from soil or leaf litter"
   ],
   "answer": 3,
@@ -2608,9 +2608,9 @@
   "topic": "Ecology",
   "body": "A pooter is best described as",
   "options": [
-   "a community of organisms interacting with their non-living environment",
-   "an instrument for measuring relative humidity",
    "an organism that breaks down dead matter and returns nutrients to the soil",
+   "an apparatus for extracting small organisms from soil or leaf litter",
+   "an instrument for measuring relative humidity",
    "a device for collecting small insects"
   ],
   "answer": 3,
@@ -2622,10 +2622,10 @@
   "topic": "Ecology",
   "body": "A Secchi disc is best described as",
   "options": [
-   "an organism that makes its own food by photosynthesis",
+   "an instrument for measuring relative humidity",
    "an instrument for measuring the turbidity of water",
-   "an instrument for measuring rainfall",
-   "a frame used to estimate the population of plants in an area"
+   "an instrument for measuring wind speed",
+   "an instrument for measuring rainfall"
   ],
   "answer": 1,
   "explanation": "A Secchi disc: an instrument for measuring the turbidity of water.",
@@ -2636,10 +2636,10 @@
   "topic": "Ecology",
   "body": "An anemometer is best described as",
   "options": [
-   "the role an organism plays in its habitat",
+   "an instrument for measuring relative humidity",
    "an instrument for measuring wind speed",
-   "a frame used to estimate the population of plants in an area",
-   "an association in which one organism benefits and the other is harmed"
+   "an instrument for measuring rainfall",
+   "an instrument for showing wind direction"
   ],
   "answer": 1,
   "explanation": "An anemometer: an instrument for measuring wind speed.",
@@ -2651,9 +2651,9 @@
   "body": "A hygrometer is best described as",
   "options": [
    "an instrument for measuring relative humidity",
-   "an organism that makes its own food by photosynthesis",
    "an instrument for measuring the turbidity of water",
-   "an instrument for showing wind direction"
+   "an instrument for measuring wind speed",
+   "an instrument for measuring rainfall"
   ],
   "answer": 0,
   "explanation": "A hygrometer: an instrument for measuring relative humidity.",
@@ -2664,10 +2664,10 @@
   "topic": "Ecology",
   "body": "A rain gauge is best described as",
   "options": [
-   "one organism killing and eating another",
+   "an instrument for measuring relative humidity",
    "an instrument for measuring rainfall",
-   "the place where an organism lives",
-   "an association in which one benefits and the other is unaffected"
+   "an instrument for measuring the turbidity of water",
+   "an instrument for measuring wind speed"
   ],
   "answer": 1,
   "explanation": "A rain gauge: an instrument for measuring rainfall.",
@@ -2678,10 +2678,10 @@
   "topic": "Ecology",
   "body": "A wind vane is best described as",
   "options": [
-   "all the populations of different species living in an area",
-   "the place where an organism lives",
+   "an instrument for measuring rainfall",
+   "an instrument for measuring wind speed",
    "an instrument for showing wind direction",
-   "an association in which one organism benefits and the other is harmed"
+   "an instrument for measuring relative humidity"
   ],
   "answer": 2,
   "explanation": "A wind vane: an instrument for showing wind direction.",
@@ -2692,9 +2692,9 @@
   "topic": "Ecology",
   "body": "What is the term for an organism that makes its own food by photosynthesis?",
   "options": [
-   "Secchi disc",
-   "Hygrometer",
-   "Ecological succession",
+   "Decomposer",
+   "Saprophyte",
+   "Food web",
    "Producer"
   ],
   "answer": 3,
@@ -2706,10 +2706,10 @@
   "topic": "Ecology",
   "body": "What is the term for an organism that breaks down dead matter and returns nutrients to the soil?",
   "options": [
-   "Producer",
+   "Saprophyte",
    "Decomposer",
    "Predation",
-   "Population"
+   "Producer"
   ],
   "answer": 1,
   "explanation": "A decomposer: an organism that breaks down dead matter and returns nutrients to the soil.",
@@ -2720,9 +2720,9 @@
   "topic": "Ecology",
   "body": "What is the term for the place where an organism lives?",
   "options": [
-   "Tullgren funnel",
-   "Wind vane",
-   "Quadrat",
+   "Predation",
+   "Niche",
+   "Producer",
    "Habitat"
   ],
   "answer": 3,
@@ -2734,10 +2734,10 @@
   "topic": "Ecology",
   "body": "What is the term for the role an organism plays in its habitat?",
   "options": [
-   "Rain gauge",
    "Predation",
+   "Habitat",
    "Niche",
-   "Decomposer"
+   "Producer"
   ],
   "answer": 2,
   "explanation": "A niche: the role an organism plays in its habitat.",
@@ -2748,10 +2748,10 @@
   "topic": "Ecology",
   "body": "What is the term for all the organisms of one species in an area?",
   "options": [
-   "Abiotic factors",
-   "Tullgren funnel",
+   "Quadrat",
+   "Community",
    "Population",
-   "Ecosystem"
+   "Mutualism"
   ],
   "answer": 2,
   "explanation": "A population: all the organisms of one species in an area.",
@@ -2762,10 +2762,10 @@
   "topic": "Ecology",
   "body": "What is the term for all the populations of different species living in an area?",
   "options": [
-   "Abiotic factors",
+   "Ecological succession",
    "Community",
-   "Niche",
-   "Rain gauge"
+   "Ecosystem",
+   "Population"
   ],
   "answer": 1,
   "explanation": "A community: all the populations of different species living in an area.",
@@ -2776,10 +2776,10 @@
   "topic": "Ecology",
   "body": "What is the term for a community of organisms interacting with their non-living environment?",
   "options": [
-   "Mutualism",
-   "Commensalism",
+   "Biotic factors",
+   "Abiotic factors",
    "Ecosystem",
-   "Anemometer"
+   "Community"
   ],
   "answer": 2,
   "explanation": "An ecosystem: a community of organisms interacting with their non-living environment.",
@@ -2790,10 +2790,10 @@
   "topic": "Ecology",
   "body": "What is the term for interconnected food chains in an ecosystem?",
   "options": [
-   "Biotic factors",
+   "Ecosystem",
    "Food web",
-   "Decomposer",
-   "Abiotic factors"
+   "Abiotic factors",
+   "Producer"
   ],
   "answer": 1,
   "explanation": "A food web: interconnected food chains in an ecosystem.",
@@ -2804,9 +2804,9 @@
   "topic": "Ecology",
   "body": "What is the term for an association in which both organisms benefit?",
   "options": [
-   "Niche",
-   "Abiotic factors",
-   "Food web",
+   "Parasitism",
+   "Commensalism",
+   "Population",
    "Mutualism"
   ],
   "answer": 3,
@@ -2818,10 +2818,10 @@
   "topic": "Ecology",
   "body": "What is the term for an association in which one organism benefits and the other is harmed?",
   "options": [
-   "Quadrat",
-   "Secchi disc",
+   "Niche",
+   "Commensalism",
    "Parasitism",
-   "Anemometer"
+   "Mutualism"
   ],
   "answer": 2,
   "explanation": "Parasitism: an association in which one organism benefits and the other is harmed.",
@@ -2832,10 +2832,10 @@
   "topic": "Ecology",
   "body": "What is the term for an association in which one benefits and the other is unaffected?",
   "options": [
-   "Saprophyte",
-   "Commensalism",
    "Food web",
-   "Producer"
+   "Commensalism",
+   "Parasitism",
+   "Mutualism"
   ],
   "answer": 1,
   "explanation": "Commensalism: an association in which one benefits and the other is unaffected.",
@@ -2846,10 +2846,10 @@
   "topic": "Ecology",
   "body": "What is the term for one organism killing and eating another?",
   "options": [
-   "Producer",
+   "Habitat",
    "Predation",
-   "Secchi disc",
-   "Abiotic factors"
+   "Producer",
+   "Niche"
   ],
   "answer": 1,
   "explanation": "Predation: one organism killing and eating another.",
@@ -2860,9 +2860,9 @@
   "topic": "Ecology",
   "body": "What is the term for an organism that feeds on dead organic matter?",
   "options": [
-   "Commensalism",
-   "Parasitism",
+   "Habitat",
    "Decomposer",
+   "Producer",
    "Saprophyte"
   ],
   "answer": 3,
@@ -2875,9 +2875,9 @@
   "body": "What is the term for the gradual change in species composition of a community over time?",
   "options": [
    "Ecological succession",
+   "Population",
    "Community",
-   "Hygrometer",
-   "Quadrat"
+   "Ecosystem"
   ],
   "answer": 0,
   "explanation": "Ecological succession: the gradual change in species composition of a community over time.",
@@ -2888,10 +2888,10 @@
   "topic": "Ecology",
   "body": "What is the term for the living components of an environment?",
   "options": [
-   "Ecological succession",
+   "Community",
    "Biotic factors",
-   "Quadrat",
-   "Habitat"
+   "Ecosystem",
+   "Abiotic factors"
   ],
   "answer": 1,
   "explanation": "Biotic factors: the living components of an environment.",
@@ -2902,8 +2902,8 @@
   "topic": "Ecology",
   "body": "What is the term for the non-living components of an environment?",
   "options": [
-   "Niche",
-   "Hygrometer",
+   "Biotic factors",
+   "Ecosystem",
    "Community",
    "Abiotic factors"
   ],
@@ -2917,9 +2917,9 @@
   "body": "What is the term for a frame used to estimate the population of plants in an area?",
   "options": [
    "Quadrat",
+   "Population",
    "Decomposer",
-   "Predation",
-   "Abiotic factors"
+   "Community"
   ],
   "answer": 0,
   "explanation": "A quadrat: a frame used to estimate the population of plants in an area.",
@@ -2930,10 +2930,10 @@
   "topic": "Ecology",
   "body": "What is the term for an apparatus for extracting small organisms from soil or leaf litter?",
   "options": [
-   "Saprophyte",
+   "Pooter",
    "Tullgren funnel",
-   "Commensalism",
-   "Ecological succession"
+   "Mutualism",
+   "Population"
   ],
   "answer": 1,
   "explanation": "A Tullgren funnel: an apparatus for extracting small organisms from soil or leaf litter.",
@@ -2944,10 +2944,10 @@
   "topic": "Ecology",
   "body": "What is the term for a device for collecting small insects?",
   "options": [
+   "Abiotic factors",
    "Secchi disc",
-   "Tullgren funnel",
    "Pooter",
-   "Abiotic factors"
+   "Tullgren funnel"
   ],
   "answer": 2,
   "explanation": "A pooter: a device for collecting small insects.",
@@ -2959,9 +2959,9 @@
   "body": "What is the term for an instrument for measuring the turbidity of water?",
   "options": [
    "Secchi disc",
-   "Niche",
-   "Tullgren funnel",
-   "Hygrometer"
+   "Hygrometer",
+   "Anemometer",
+   "Rain gauge"
   ],
   "answer": 0,
   "explanation": "A Secchi disc: an instrument for measuring the turbidity of water.",
@@ -2975,7 +2975,7 @@
    "Anemometer",
    "Rain gauge",
    "Hygrometer",
-   "Population"
+   "Wind vane"
   ],
   "answer": 0,
   "explanation": "An anemometer: an instrument for measuring wind speed.",
@@ -2986,10 +2986,10 @@
   "topic": "Ecology",
   "body": "What is the term for an instrument for measuring relative humidity?",
   "options": [
-   "Biotic factors",
-   "Wind vane",
+   "Secchi disc",
+   "Rain gauge",
    "Hygrometer",
-   "Commensalism"
+   "Anemometer"
   ],
   "answer": 2,
   "explanation": "A hygrometer: an instrument for measuring relative humidity.",
@@ -3000,10 +3000,10 @@
   "topic": "Ecology",
   "body": "What is the term for an instrument for measuring rainfall?",
   "options": [
-   "Ecological succession",
-   "Predation",
+   "Secchi disc",
+   "Anemometer",
    "Rain gauge",
-   "Niche"
+   "Hygrometer"
   ],
   "answer": 2,
   "explanation": "A rain gauge: an instrument for measuring rainfall.",
@@ -3015,9 +3015,9 @@
   "body": "What is the term for an instrument for showing wind direction?",
   "options": [
    "Wind vane",
+   "Anemometer",
    "Hygrometer",
-   "Abiotic factors",
-   "Ecological succession"
+   "Rain gauge"
   ],
   "answer": 0,
   "explanation": "A wind vane: an instrument for showing wind direction.",

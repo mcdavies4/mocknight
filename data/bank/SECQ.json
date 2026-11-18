@@ -467,9 +467,9 @@
   "body": "Which attack involves fraudulent emails that trick people into revealing credentials or clicking malicious links?",
   "options": [
    "Phishing",
-   "A trojan",
-   "Ransomware",
-   "An on-path (man-in-the-middle) attack"
+   "Cross-site scripting (XSS)",
+   "SQL injection",
+   "Smishing"
   ],
   "answer": 0,
   "explanation": "Phishing: fraudulent emails that trick people into revealing credentials or clicking malicious links.",
@@ -480,10 +480,10 @@
   "topic": "Threats",
   "body": "Which attack involves a targeted phishing attack aimed at a specific person or organisation?",
   "options": [
-   "Phishing",
-   "Cross-site scripting (XSS)",
+   "A brute-force attack",
+   "An on-path (man-in-the-middle) attack",
    "Spear phishing",
-   "A trojan"
+   "Smishing"
   ],
   "answer": 2,
   "explanation": "Spear phishing: a targeted phishing attack aimed at a specific person or organisation.",
@@ -508,10 +508,10 @@
   "topic": "Threats",
   "body": "Which attack involves phishing delivered by SMS text message?",
   "options": [
-   "Ransomware",
-   "Cross-site scripting (XSS)",
+   "Spear phishing",
+   "Phishing",
    "Smishing",
-   "Vishing"
+   "Ransomware"
   ],
   "answer": 2,
   "explanation": "Smishing: phishing delivered by SMS text message.",
@@ -522,10 +522,10 @@
   "topic": "Threats",
   "body": "Which attack involves malware that encrypts data and demands payment?",
   "options": [
-   "Cross-site scripting (XSS)",
+   "Phishing",
    "Ransomware",
-   "A trojan",
-   "Credential stuffing"
+   "A worm",
+   "A trojan"
   ],
   "answer": 1,
   "explanation": "Ransomware: malware that encrypts data and demands payment.",
@@ -536,9 +536,9 @@
   "topic": "Threats",
   "body": "Which attack involves malware disguised as legitimate software?",
   "options": [
-   "Credential stuffing",
-   "A DDoS attack",
+   "A worm",
    "An on-path (man-in-the-middle) attack",
+   "Ransomware",
    "A trojan"
   ],
   "answer": 3,
@@ -551,9 +551,9 @@
   "body": "Which attack involves malware that spreads by itself across networks without user action?",
   "options": [
    "A worm",
-   "Cross-site scripting (XSS)",
-   "Vishing",
-   "A trojan"
+   "A trojan",
+   "Phishing",
+   "Ransomware"
   ],
   "answer": 0,
   "explanation": "A worm: malware that spreads by itself across networks without user action.",
@@ -565,9 +565,9 @@
   "body": "Which attack involves flooding a service with traffic from many machines to make it unavailable?",
   "options": [
    "A DDoS attack",
-   "Smishing",
-   "A worm",
-   "Ransomware"
+   "A brute-force attack",
+   "Credential stuffing",
+   "Spear phishing"
   ],
   "answer": 0,
   "explanation": "A DDoS attack: flooding a service with traffic from many machines to make it unavailable.",
@@ -578,9 +578,9 @@
   "topic": "Threats",
   "body": "Which attack involves inserting malicious database commands into an application's input fields?",
   "options": [
-   "A brute-force attack",
-   "Spear phishing",
+   "Phishing",
    "Vishing",
+   "Cross-site scripting (XSS)",
    "SQL injection"
   ],
   "answer": 3,
@@ -592,9 +592,9 @@
   "topic": "Threats",
   "body": "Which attack involves injecting malicious scripts into web pages viewed by other users?",
   "options": [
-   "A worm",
-   "A DDoS attack",
-   "Ransomware",
+   "SQL injection",
+   "Phishing",
+   "Credential stuffing",
    "Cross-site scripting (XSS)"
   ],
   "answer": 3,
@@ -608,8 +608,8 @@
   "options": [
    "An on-path (man-in-the-middle) attack",
    "A DDoS attack",
-   "Smishing",
-   "Vishing"
+   "A brute-force attack",
+   "Spear phishing"
   ],
   "answer": 0,
   "explanation": "An on-path (man-in-the-middle) attack: secretly intercepting and possibly altering communications between two parties.",
@@ -620,9 +620,9 @@
   "topic": "Threats",
   "body": "Which attack involves using username/password pairs leaked from one site to log in to others?",
   "options": [
-   "Phishing",
-   "Pretexting",
-   "A worm",
+   "A brute-force attack",
+   "A DDoS attack",
+   "Cross-site scripting (XSS)",
    "Credential stuffing"
   ],
   "answer": 3,
@@ -635,8 +635,8 @@
   "body": "Which attack involves trying every possible password until one works?",
   "options": [
    "A brute-force attack",
-   "SQL injection",
-   "Vishing",
+   "An on-path (man-in-the-middle) attack",
+   "Credential stuffing",
    "Spear phishing"
   ],
   "answer": 0,

@@ -2300,8 +2300,8 @@
   "topic": "Basic concepts",
   "body": "Scarcity can best be described as",
   "options": [
-   "a tax paid directly to government by the person on whom it is imposed",
-   "short-term unemployment of people moving between jobs",
+   "a list of wants arranged in order of importance",
+   "concentrating on producing a limited range of goods or tasks",
    "limited resources relative to unlimited wants",
    "man-made resources used in further production"
   ],
@@ -2315,9 +2315,9 @@
   "body": "Opportunity cost can best be described as",
   "options": [
    "inflation caused by rising costs of production",
-   "an economy where both private and public sectors own and control resources",
+   "producing a good at a lower opportunity cost than another country",
    "the next best alternative forgone",
-   "producing a good at a lower opportunity cost than another country"
+   "falling average cost as the scale of production increases"
   ],
   "answer": 2,
   "explanation": "Opportunity cost: the next best alternative forgone.",
@@ -2329,9 +2329,9 @@
   "body": "Scale of preference can best be described as",
   "options": [
    "a list of wants arranged in order of importance",
-   "a maximum price fixed by government",
+   "falling average cost as the scale of production increases",
    "the need for each party in a trade to want what the other has",
-   "a market with a single seller of a product with no close substitutes"
+   "limited resources relative to unlimited wants"
   ],
   "answer": 0,
   "explanation": "Scale of preference: a list of wants arranged in order of importance.",
@@ -2343,9 +2343,9 @@
   "body": "Effective demand can best be described as",
   "options": [
    "desire backed by the ability and willingness to pay",
-   "the buying and selling of government securities by the central bank",
-   "the price at which quantity demanded equals quantity supplied",
-   "a tax that takes a larger share of income from the poor than the rich"
+   "an inferior good whose demand rises as its price rises",
+   "a good whose demand falls as income rises",
+   "unemployment caused by seasonal changes in demand or weather"
   ],
   "answer": 0,
   "explanation": "Effective demand: desire backed by the ability and willingness to pay.",
@@ -2356,10 +2356,10 @@
   "topic": "Basic concepts",
   "body": "Complementary goods can best be described as",
   "options": [
-   "a market with a single seller of a product with no close substitutes",
-   "an inferior good whose demand rises as its price rises",
+   "the direct exchange of goods for goods",
+   "goods that can be used in place of each other, such as tea and coffee",
    "goods that are used together, such as cars and petrol",
-   "the population size that gives the highest income per head"
+   "a tax on imported goods"
   ],
   "answer": 2,
   "explanation": "Complementary goods: goods that are used together, such as cars and petrol.",
@@ -2370,10 +2370,10 @@
   "topic": "Basic concepts",
   "body": "Substitute goods can best be described as",
   "options": [
-   "the responsiveness of quantity supplied to a change in price",
+   "the need for each party in a trade to want what the other has",
    "goods that can be used in place of each other, such as tea and coffee",
-   "the direct exchange of goods for goods",
-   "falling average cost as the scale of production increases"
+   "goods that are used together, such as cars and petrol",
+   "the factor that organises the other factors and bears the risk"
   ],
   "answer": 1,
   "explanation": "Substitute goods: goods that can be used in place of each other, such as tea and coffee.",
@@ -2384,9 +2384,9 @@
   "topic": "Basic concepts",
   "body": "An inferior good can best be described as",
   "options": [
-   "man-made resources used in further production",
-   "limited resources relative to unlimited wants",
-   "a tax on imported goods",
+   "an inferior good whose demand rises as its price rises",
+   "a tax whose rate rises as income rises",
+   "a tax charged as a percentage of the value of a good",
    "a good whose demand falls as income rises"
   ],
   "answer": 3,
@@ -2398,9 +2398,9 @@
   "topic": "Basic concepts",
   "body": "A Giffen good can best be described as",
   "options": [
-   "the total value of goods and services produced within a country in a year",
-   "the population size that gives the highest income per head",
-   "the difference between what a consumer is willing to pay and what they actually pay",
+   "a minimum price fixed by government",
+   "a good whose demand falls as income rises",
+   "a tax whose rate rises as income rises",
    "an inferior good whose demand rises as its price rises"
   ],
   "answer": 3,
@@ -2412,10 +2412,10 @@
   "topic": "Basic concepts",
   "body": "Equilibrium price can best be described as",
   "options": [
-   "a tax on goods and services, paid through prices",
+   "the quantity producers are willing and able to offer for sale at a given price",
    "the price at which quantity demanded equals quantity supplied",
-   "a list of wants arranged in order of importance",
-   "the quantity producers are willing and able to offer for sale at a given price"
+   "the responsiveness of quantity supplied to a change in price",
+   "a minimum price fixed by government"
   ],
   "answer": 1,
   "explanation": "Equilibrium price: the price at which quantity demanded equals quantity supplied.",
@@ -2426,10 +2426,10 @@
   "topic": "Basic concepts",
   "body": "A price ceiling can best be described as",
   "options": [
-   "a tax on goods and services, paid through prices",
-   "high inflation combined with high unemployment and slow growth",
+   "a persistent rise in the general price level",
+   "a persistent fall in the general price level",
    "a maximum price fixed by government",
-   "a tax whose rate rises as income rises"
+   "a minimum price fixed by government"
   ],
   "answer": 2,
   "explanation": "A price ceiling: a maximum price fixed by government.",
@@ -2440,10 +2440,10 @@
   "topic": "Basic concepts",
   "body": "A price floor can best be described as",
   "options": [
-   "concentrating on producing a limited range of goods or tasks",
+   "a business owned and controlled by government",
    "a minimum price fixed by government",
-   "the price at which quantity demanded equals quantity supplied",
-   "high inflation combined with high unemployment and slow growth"
+   "a persistent fall in the general price level",
+   "a maximum price fixed by government"
   ],
   "answer": 1,
   "explanation": "A price floor: a minimum price fixed by government.",
@@ -2455,9 +2455,9 @@
   "body": "Consumer surplus can best be described as",
   "options": [
    "the difference between what a consumer is willing to pay and what they actually pay",
-   "the ease with which an asset can be turned into cash",
-   "an economy where the state makes the key decisions on production",
-   "the buying and selling of government securities by the central bank"
+   "short-term unemployment of people moving between jobs",
+   "the need for each party in a trade to want what the other has",
+   "the quantity producers are willing and able to offer for sale at a given price"
   ],
   "answer": 0,
   "explanation": "Consumer surplus: the difference between what a consumer is willing to pay and what they actually pay.",
@@ -2468,10 +2468,10 @@
   "topic": "Basic concepts",
   "body": "Marginal utility can best be described as",
   "options": [
-   "the direct exchange of goods for goods",
-   "the ratio of export prices to import prices",
+   "a tax that takes a larger share of income from the poor than the rich",
+   "a tax that takes the same percentage from all incomes",
    "the extra satisfaction from consuming one more unit",
-   "high inflation combined with high unemployment and slow growth"
+   "the satisfaction derived from consuming a good or service"
   ],
   "answer": 2,
   "explanation": "Marginal utility: the extra satisfaction from consuming one more unit.",
@@ -2482,9 +2482,9 @@
   "topic": "Basic concepts",
   "body": "Division of labour can best be described as",
   "options": [
-   "the responsiveness of quantity supplied to a change in price",
-   "a tax on imported goods",
-   "a deliberate reduction in the official value of a currency",
+   "man-made resources used in further production",
+   "inflation caused by rising costs of production",
+   "an economy where the state makes the key decisions on production",
    "breaking production into separate tasks done by different workers"
   ],
   "answer": 3,
@@ -2497,9 +2497,9 @@
   "body": "Economies of scale can best be described as",
   "options": [
    "falling average cost as the scale of production increases",
-   "limited resources relative to unlimited wants",
-   "goods that are used together, such as cars and petrol",
-   "a tax whose rate rises as income rises"
+   "man-made resources used in further production",
+   "selling goods abroad below their cost of production",
+   "inflation caused by rising costs of production"
   ],
   "answer": 0,
   "explanation": "Economies of scale: falling average cost as the scale of production increases.",
@@ -2510,9 +2510,9 @@
   "topic": "Basic concepts",
   "body": "Fixed cost can best be described as",
   "options": [
-   "unemployment caused by a downturn in the trade cycle",
-   "inflation caused by too much money chasing too few goods",
-   "a tax paid directly to government by the person on whom it is imposed",
+   "a minimum price fixed by government",
+   "cost that changes with the level of output",
+   "a group of firms that agree to fix prices or output",
    "cost that does not change with the level of output"
   ],
   "answer": 3,
@@ -2524,10 +2524,10 @@
   "topic": "Basic concepts",
   "body": "Variable cost can best be described as",
   "options": [
-   "a tax paid directly to government by the person on whom it is imposed",
+   "cost that does not change with the level of output",
    "a limit on the quantity of a good that can be imported",
    "cost that changes with the level of output",
-   "man-made resources used in further production"
+   "a group of firms that agree to fix prices or output"
   ],
   "answer": 2,
   "explanation": "Variable cost: cost that changes with the level of output.",
@@ -2538,9 +2538,9 @@
   "topic": "Basic concepts",
   "body": "Monopoly can best be described as",
   "options": [
-   "the total value of goods and services produced within a country in a year",
-   "desire backed by the ability and willingness to pay",
-   "unemployment caused by a downturn in the trade cycle",
+   "a market dominated by a few large sellers",
+   "a complete ban on trade with a country or in a product",
+   "a market with many buyers and sellers of an identical product",
    "a market with a single seller of a product with no close substitutes"
   ],
   "answer": 3,
@@ -2552,10 +2552,10 @@
   "topic": "Basic concepts",
   "body": "Oligopoly can best be described as",
   "options": [
-   "the transfer of government-owned enterprises to private owners",
-   "an inferior good whose demand rises as its price rises",
+   "a market with many buyers and sellers of an identical product",
+   "a market with a single seller of a product with no close substitutes",
    "a market dominated by a few large sellers",
-   "concentrating on producing a limited range of goods or tasks"
+   "the buying and selling of government securities by the central bank"
   ],
   "answer": 2,
   "explanation": "Oligopoly: a market dominated by a few large sellers.",
@@ -2567,8 +2567,8 @@
   "body": "Perfect competition can best be described as",
   "options": [
    "a market with many buyers and sellers of an identical product",
-   "a record of a country's transactions with the rest of the world",
-   "an economy where the state makes the key decisions on production",
+   "a market dominated by a few large sellers",
+   "a complete ban on trade with a country or in a product",
    "a market with a single seller of a product with no close substitutes"
   ],
   "answer": 0,
@@ -2580,10 +2580,10 @@
   "topic": "Basic concepts",
   "body": "A cartel can best be described as",
   "options": [
+   "cost that changes with the level of output",
    "cost that does not change with the level of output",
-   "producing a good at a lower opportunity cost than another country",
    "a group of firms that agree to fix prices or output",
-   "a maximum price fixed by government"
+   "an extremely rapid and out-of-control rise in prices"
   ],
   "answer": 2,
   "explanation": "A cartel: a group of firms that agree to fix prices or output.",
@@ -2594,10 +2594,10 @@
   "topic": "Basic concepts",
   "body": "Inflation can best be described as",
   "options": [
+   "a persistent fall in the general price level",
    "a minimum price fixed by government",
-   "a maximum price fixed by government",
    "a persistent rise in the general price level",
-   "the ratio of export prices to import prices"
+   "a maximum price fixed by government"
   ],
   "answer": 2,
   "explanation": "Inflation: a persistent rise in the general price level.",
@@ -2608,10 +2608,10 @@
   "topic": "Basic concepts",
   "body": "Deflation can best be described as",
   "options": [
-   "a tax on imported goods",
-   "a list of wants arranged in order of importance",
+   "a minimum price fixed by government",
+   "a persistent rise in the general price level",
    "a persistent fall in the general price level",
-   "a good whose demand falls as income rises"
+   "a maximum price fixed by government"
   ],
   "answer": 2,
   "explanation": "Deflation: a persistent fall in the general price level.",
@@ -2623,9 +2623,9 @@
   "body": "Stagflation can best be described as",
   "options": [
    "high inflation combined with high unemployment and slow growth",
-   "a tax on goods and services, paid through prices",
-   "an extremely rapid and out-of-control rise in prices",
-   "a business owned and controlled by one person"
+   "a persistent rise in the general price level",
+   "unemployment caused by seasonal changes in demand or weather",
+   "a complete ban on trade with a country or in a product"
   ],
   "answer": 0,
   "explanation": "Stagflation: high inflation combined with high unemployment and slow growth.",
@@ -2636,10 +2636,10 @@
   "topic": "Basic concepts",
   "body": "Devaluation can best be described as",
   "options": [
-   "the direct exchange of goods for goods",
-   "limited resources relative to unlimited wants",
+   "a tax paid directly to government by the person on whom it is imposed",
+   "the total value of goods and services produced within a country in a year",
    "a deliberate reduction in the official value of a currency",
-   "a tax paid directly to government by the person on whom it is imposed"
+   "a tax charged as a percentage of the value of a good"
   ],
   "answer": 2,
   "explanation": "Devaluation: a deliberate reduction in the official value of a currency.",
@@ -2651,9 +2651,9 @@
   "body": "Gross Domestic Product can best be described as",
   "options": [
    "the total value of goods and services produced within a country in a year",
-   "inflation caused by too much money chasing too few goods",
-   "an extremely rapid and out-of-control rise in prices",
-   "man-made resources used in further production"
+   "a tax on goods produced within the country",
+   "a tax on goods and services, paid through prices",
+   "a complete ban on trade with a country or in a product"
   ],
   "answer": 0,
   "explanation": "Gross Domestic Product: the total value of goods and services produced within a country in a year.",
@@ -2664,9 +2664,9 @@
   "topic": "Basic concepts",
   "body": "Barter can best be described as",
   "options": [
-   "a complete ban on trade with a country or in a product",
-   "desire backed by the ability and willingness to pay",
-   "unemployment caused by a downturn in the trade cycle",
+   "a tax on goods and services, paid through prices",
+   "a tax on imported goods",
+   "a tax on goods produced within the country",
    "the direct exchange of goods for goods"
   ],
   "answer": 3,
@@ -2678,10 +2678,10 @@
   "topic": "Basic concepts",
   "body": "Double coincidence of wants can best be described as",
   "options": [
-   "a tax paid directly to government by the person on whom it is imposed",
+   "unemployment caused by a downturn in the trade cycle",
    "the need for each party in a trade to want what the other has",
-   "a deliberate reduction in the official value of a currency",
-   "a tax that takes the same percentage from all incomes"
+   "the ratio of export prices to import prices",
+   "goods that can be used in place of each other, such as tea and coffee"
   ],
   "answer": 1,
   "explanation": "Double coincidence of wants: the need for each party in a trade to want what the other has.",
@@ -2693,9 +2693,9 @@
   "body": "Liquidity can best be described as",
   "options": [
    "the ease with which an asset can be turned into cash",
-   "producing a good at a lower opportunity cost than another country",
-   "unemployment caused by a downturn in the trade cycle",
-   "inflation caused by rising costs of production"
+   "the price at which quantity demanded equals quantity supplied",
+   "a complete ban on trade with a country or in a product",
+   "cost that changes with the level of output"
   ],
   "answer": 0,
   "explanation": "Liquidity: the ease with which an asset can be turned into cash.",
@@ -2706,9 +2706,9 @@
   "topic": "Basic concepts",
   "body": "Open market operations can best be described as",
   "options": [
-   "a business owned and controlled by one person",
-   "a persistent rise in the general price level",
-   "a tax on goods and services, paid through prices",
+   "a minimum price fixed by government",
+   "a maximum price fixed by government",
+   "a market dominated by a few large sellers",
    "the buying and selling of government securities by the central bank"
   ],
   "answer": 3,
@@ -2721,9 +2721,9 @@
   "body": "A direct tax can best be described as",
   "options": [
    "a tax paid directly to government by the person on whom it is imposed",
-   "the ratio of export prices to import prices",
-   "producing a good at a lower opportunity cost than another country",
-   "a market dominated by a few large sellers"
+   "a minimum price fixed by government",
+   "a maximum price fixed by government",
+   "the direct exchange of goods for goods"
   ],
   "answer": 0,
   "explanation": "A direct tax: a tax paid directly to government by the person on whom it is imposed.",
@@ -2734,10 +2734,10 @@
   "topic": "Basic concepts",
   "body": "An indirect tax can best be described as",
   "options": [
-   "a group of firms that agree to fix prices or output",
+   "the total value of goods and services produced within a country in a year",
    "a tax on goods and services, paid through prices",
-   "producing a good at a lower opportunity cost than another country",
-   "a tax on goods produced within the country"
+   "a tax on imported goods",
+   "the direct exchange of goods for goods"
   ],
   "answer": 1,
   "explanation": "An indirect tax: a tax on goods and services, paid through prices.",
@@ -2748,9 +2748,9 @@
   "topic": "Basic concepts",
   "body": "A progressive tax can best be described as",
   "options": [
-   "concentrating on producing a limited range of goods or tasks",
-   "the transfer of government-owned enterprises to private owners",
-   "a market with a single seller of a product with no close substitutes",
+   "a good whose demand falls as income rises",
+   "an inferior good whose demand rises as its price rises",
+   "the population size that gives the highest income per head",
    "a tax whose rate rises as income rises"
   ],
   "answer": 3,
@@ -2762,9 +2762,9 @@
   "topic": "Basic concepts",
   "body": "A regressive tax can best be described as",
   "options": [
-   "a minimum price fixed by government",
-   "the next best alternative forgone",
-   "a complete ban on trade with a country or in a product",
+   "the population size that gives the highest income per head",
+   "a tax whose rate rises as income rises",
+   "a tax that takes the same percentage from all incomes",
    "a tax that takes a larger share of income from the poor than the rich"
   ],
   "answer": 3,
@@ -2776,10 +2776,10 @@
   "topic": "Basic concepts",
   "body": "A proportional tax can best be described as",
   "options": [
-   "the extra satisfaction from consuming one more unit",
+   "a tax charged as a percentage of the value of a good",
    "a tax that takes the same percentage from all incomes",
-   "a limit on the quantity of a good that can be imported",
-   "a list of wants arranged in order of importance"
+   "a tax that takes a larger share of income from the poor than the rich",
+   "a limit on the quantity of a good that can be imported"
   ],
   "answer": 1,
   "explanation": "A proportional tax: a tax that takes the same percentage from all incomes.",
@@ -2790,10 +2790,10 @@
   "topic": "Basic concepts",
   "body": "A budget deficit can best be described as",
   "options": [
-   "the direct exchange of goods for goods",
+   "a minimum price fixed by government",
    "when government expenditure exceeds revenue",
-   "inflation caused by too much money chasing too few goods",
-   "a persistent rise in the general price level"
+   "a maximum price fixed by government",
+   "a business owned and controlled by government"
   ],
   "answer": 1,
   "explanation": "A budget deficit: when government expenditure exceeds revenue.",
@@ -2805,9 +2805,9 @@
   "body": "Balance of payments can best be described as",
   "options": [
    "a record of a country's transactions with the rest of the world",
-   "unemployment caused by long-term changes in the structure of industries",
-   "a tax that takes a larger share of income from the poor than the rich",
-   "a business owned and run by its members for their mutual benefit"
+   "a tax on goods produced within the country",
+   "cost that changes with the level of output",
+   "a complete ban on trade with a country or in a product"
   ],
   "answer": 0,
   "explanation": "Balance of payments: a record of a country's transactions with the rest of the world.",
@@ -2818,9 +2818,9 @@
   "topic": "Basic concepts",
   "body": "Terms of trade can best be described as",
   "options": [
-   "an inferior good whose demand rises as its price rises",
-   "inflation caused by too much money chasing too few goods",
-   "the need for each party in a trade to want what the other has",
+   "unemployment caused by a downturn in the trade cycle",
+   "a tax on goods and services, paid through prices",
+   "a complete ban on trade with a country or in a product",
    "the ratio of export prices to import prices"
   ],
   "answer": 3,
@@ -2833,9 +2833,9 @@
   "body": "A tariff can best be described as",
   "options": [
    "a tax on imported goods",
-   "the total value of goods and services produced within a country in a year",
-   "the factor that organises the other factors and bears the risk",
-   "desire backed by the ability and willingness to pay"
+   "a limit on the quantity of a good that can be imported",
+   "a tax on goods produced within the country",
+   "the direct exchange of goods for goods"
   ],
   "answer": 0,
   "explanation": "A tariff: a tax on imported goods.",
@@ -2847,9 +2847,9 @@
   "body": "A quota can best be described as",
   "options": [
    "a limit on the quantity of a good that can be imported",
-   "a record of a country's transactions with the rest of the world",
-   "a market dominated by a few large sellers",
-   "short-term unemployment of people moving between jobs"
+   "a tax charged as a percentage of the value of a good",
+   "a tax on imported goods",
+   "the responsiveness of quantity supplied to a change in price"
   ],
   "answer": 0,
   "explanation": "A quota: a limit on the quantity of a good that can be imported.",
@@ -2860,9 +2860,9 @@
   "topic": "Basic concepts",
   "body": "An embargo can best be described as",
   "options": [
-   "unemployment caused by seasonal changes in demand or weather",
-   "producing a good at a lower opportunity cost than another country",
-   "the next best alternative forgone",
+   "a market with many buyers and sellers of an identical product",
+   "a market with a single seller of a product with no close substitutes",
+   "a record of a country's transactions with the rest of the world",
    "a complete ban on trade with a country or in a product"
   ],
   "answer": 3,
@@ -2874,10 +2874,10 @@
   "topic": "Basic concepts",
   "body": "Dumping can best be described as",
   "options": [
-   "an economy where the state makes the key decisions on production",
+   "falling average cost as the scale of production increases",
    "selling goods abroad below their cost of production",
-   "the extra satisfaction from consuming one more unit",
-   "cost that does not change with the level of output"
+   "a tax on imported goods",
+   "inflation caused by rising costs of production"
   ],
   "answer": 1,
   "explanation": "Dumping: selling goods abroad below their cost of production.",
@@ -2888,9 +2888,9 @@
   "topic": "Basic concepts",
   "body": "Comparative advantage can best be described as",
   "options": [
-   "cost that does not change with the level of output",
-   "a tax on imported goods",
-   "a tax that takes the same percentage from all incomes",
+   "a limit on the quantity of a good that can be imported",
+   "the next best alternative forgone",
+   "a tax charged as a percentage of the value of a good",
    "producing a good at a lower opportunity cost than another country"
   ],
   "answer": 3,
@@ -2902,10 +2902,10 @@
   "topic": "Basic concepts",
   "body": "Optimum population can best be described as",
   "options": [
-   "unemployment caused by a downturn in the trade cycle",
+   "a tax whose rate rises as income rises",
    "the population size that gives the highest income per head",
-   "a maximum price fixed by government",
-   "a minimum price fixed by government"
+   "a tax that takes a larger share of income from the poor than the rich",
+   "a limit on the quantity of a good that can be imported"
   ],
   "answer": 1,
   "explanation": "Optimum population: the population size that gives the highest income per head.",
@@ -2916,10 +2916,10 @@
   "topic": "Basic concepts",
   "body": "Privatisation can best be described as",
   "options": [
-   "the population size that gives the highest income per head",
-   "a record of a country's transactions with the rest of the world",
+   "a maximum price fixed by government",
+   "a minimum price fixed by government",
    "the transfer of government-owned enterprises to private owners",
-   "goods that are used together, such as cars and petrol"
+   "a business owned and controlled by government"
   ],
   "answer": 2,
   "explanation": "Privatisation: the transfer of government-owned enterprises to private owners.",
@@ -2931,9 +2931,9 @@
   "body": "A cooperative society can best be described as",
   "options": [
    "a business owned and run by its members for their mutual benefit",
-   "selling goods abroad below their cost of production",
-   "the population size that gives the highest income per head",
-   "a tax that takes a larger share of income from the poor than the rich"
+   "a business owned and controlled by government",
+   "a business owned and controlled by one person",
+   "the transfer of government-owned enterprises to private owners"
   ],
   "answer": 0,
   "explanation": "A cooperative society: a business owned and run by its members for their mutual benefit.",
@@ -2945,9 +2945,9 @@
   "body": "A sole proprietorship can best be described as",
   "options": [
    "a business owned and controlled by one person",
-   "inflation caused by too much money chasing too few goods",
-   "the direct exchange of goods for goods",
-   "a market with a single seller of a product with no close substitutes"
+   "a business owned and controlled by government",
+   "a business owned and run by its members for their mutual benefit",
+   "the transfer of government-owned enterprises to private owners"
   ],
   "answer": 0,
   "explanation": "A sole proprietorship: a business owned and controlled by one person.",
@@ -2958,9 +2958,9 @@
   "topic": "Basic concepts",
   "body": "A public corporation can best be described as",
   "options": [
-   "a maximum price fixed by government",
+   "a business owned and run by its members for their mutual benefit",
+   "the transfer of government-owned enterprises to private owners",
    "a business owned and controlled by one person",
-   "the population size that gives the highest income per head",
    "a business owned and controlled by government"
   ],
   "answer": 3,
@@ -2972,9 +2972,9 @@
   "topic": "Basic concepts",
   "body": "Specialisation can best be described as",
   "options": [
-   "the ratio of export prices to import prices",
-   "a minimum price fixed by government",
-   "unemployment caused by long-term changes in the structure of industries",
+   "limited resources relative to unlimited wants",
+   "the direct exchange of goods for goods",
+   "a tax on imported goods",
    "concentrating on producing a limited range of goods or tasks"
   ],
   "answer": 3,
@@ -2986,9 +2986,9 @@
   "topic": "Basic concepts",
   "body": "Elasticity of supply can best be described as",
   "options": [
-   "concentrating on producing a limited range of goods or tasks",
-   "man-made resources used in further production",
+   "a maximum price fixed by government",
    "the quantity producers are willing and able to offer for sale at a given price",
+   "the price at which quantity demanded equals quantity supplied",
    "the responsiveness of quantity supplied to a change in price"
   ],
   "answer": 3,
@@ -3000,9 +3000,9 @@
   "topic": "Basic concepts",
   "body": "Capital can best be described as",
   "options": [
-   "goods that can be used in place of each other, such as tea and coffee",
-   "the responsiveness of quantity supplied to a change in price",
-   "a market dominated by a few large sellers",
+   "limited resources relative to unlimited wants",
+   "falling average cost as the scale of production increases",
+   "inflation caused by rising costs of production",
    "man-made resources used in further production"
   ],
   "answer": 3,
@@ -3015,9 +3015,9 @@
   "body": "The entrepreneur can best be described as",
   "options": [
    "the factor that organises the other factors and bears the risk",
-   "an inferior good whose demand rises as its price rises",
-   "cost that does not change with the level of output",
-   "the price at which quantity demanded equals quantity supplied"
+   "goods that can be used in place of each other, such as tea and coffee",
+   "cost that changes with the level of output",
+   "a limit on the quantity of a good that can be imported"
   ],
   "answer": 0,
   "explanation": "The entrepreneur: the factor that organises the other factors and bears the risk.",
@@ -3028,10 +3028,10 @@
   "topic": "Basic concepts",
   "body": "Frictional unemployment can best be described as",
   "options": [
-   "high inflation combined with high unemployment and slow growth",
-   "a minimum price fixed by government",
+   "unemployment caused by seasonal changes in demand or weather",
+   "unemployment caused by long-term changes in the structure of industries",
    "short-term unemployment of people moving between jobs",
-   "goods that can be used in place of each other, such as tea and coffee"
+   "unemployment caused by a downturn in the trade cycle"
   ],
   "answer": 2,
   "explanation": "Frictional unemployment: short-term unemployment of people moving between jobs.",
@@ -3043,9 +3043,9 @@
   "body": "Structural unemployment can best be described as",
   "options": [
    "unemployment caused by long-term changes in the structure of industries",
-   "cost that does not change with the level of output",
-   "a tax on goods and services, paid through prices",
-   "an economy where both private and public sectors own and control resources"
+   "short-term unemployment of people moving between jobs",
+   "unemployment caused by a downturn in the trade cycle",
+   "unemployment caused by seasonal changes in demand or weather"
   ],
   "answer": 0,
   "explanation": "Structural unemployment: unemployment caused by long-term changes in the structure of industries.",
@@ -3056,10 +3056,10 @@
   "topic": "Basic concepts",
   "body": "Seasonal unemployment can best be described as",
   "options": [
-   "a limit on the quantity of a good that can be imported",
+   "unemployment caused by long-term changes in the structure of industries",
    "unemployment caused by seasonal changes in demand or weather",
-   "a maximum price fixed by government",
-   "a market with many buyers and sellers of an identical product"
+   "unemployment caused by a downturn in the trade cycle",
+   "inflation caused by too much money chasing too few goods"
   ],
   "answer": 1,
   "explanation": "Seasonal unemployment: unemployment caused by seasonal changes in demand or weather.",
@@ -3071,9 +3071,9 @@
   "body": "Cyclical unemployment can best be described as",
   "options": [
    "unemployment caused by a downturn in the trade cycle",
-   "the direct exchange of goods for goods",
-   "goods that are used together, such as cars and petrol",
-   "a tax whose rate rises as income rises"
+   "the ratio of export prices to import prices",
+   "unemployment caused by seasonal changes in demand or weather",
+   "unemployment caused by long-term changes in the structure of industries"
   ],
   "answer": 0,
   "explanation": "Cyclical unemployment: unemployment caused by a downturn in the trade cycle.",
@@ -3084,9 +3084,9 @@
   "topic": "Basic concepts",
   "body": "Demand-pull inflation can best be described as",
   "options": [
-   "falling average cost as the scale of production increases",
-   "the factor that organises the other factors and bears the risk",
-   "a tax on goods and services, paid through prices",
+   "a tax on imported goods",
+   "unemployment caused by seasonal changes in demand or weather",
+   "inflation caused by rising costs of production",
    "inflation caused by too much money chasing too few goods"
   ],
   "answer": 3,
@@ -3098,9 +3098,9 @@
   "topic": "Basic concepts",
   "body": "Cost-push inflation can best be described as",
   "options": [
-   "the satisfaction derived from consuming a good or service",
-   "unemployment caused by seasonal changes in demand or weather",
-   "man-made resources used in further production",
+   "inflation caused by too much money chasing too few goods",
+   "selling goods abroad below their cost of production",
+   "falling average cost as the scale of production increases",
    "inflation caused by rising costs of production"
   ],
   "answer": 3,
@@ -3112,10 +3112,10 @@
   "topic": "Basic concepts",
   "body": "Hyperinflation can best be described as",
   "options": [
-   "limited resources relative to unlimited wants",
-   "an economy where both private and public sectors own and control resources",
+   "a persistent rise in the general price level",
+   "the ratio of export prices to import prices",
    "an extremely rapid and out-of-control rise in prices",
-   "a market dominated by a few large sellers"
+   "a tax on goods and services, paid through prices"
   ],
   "answer": 2,
   "explanation": "Hyperinflation: an extremely rapid and out-of-control rise in prices.",
@@ -3126,10 +3126,10 @@
   "topic": "Basic concepts",
   "body": "Utility can best be described as",
   "options": [
-   "man-made resources used in further production",
+   "the extra satisfaction from consuming one more unit",
    "the satisfaction derived from consuming a good or service",
-   "a maximum price fixed by government",
-   "an economy where the state makes the key decisions on production"
+   "a limit on the quantity of a good that can be imported",
+   "a tax charged as a percentage of the value of a good"
   ],
   "answer": 1,
   "explanation": "Utility: the satisfaction derived from consuming a good or service.",
@@ -3140,9 +3140,9 @@
   "topic": "Basic concepts",
   "body": "Supply can best be described as",
   "options": [
-   "a good whose demand falls as income rises",
-   "unemployment caused by long-term changes in the structure of industries",
-   "cost that changes with the level of output",
+   "the responsiveness of quantity supplied to a change in price",
+   "the price at which quantity demanded equals quantity supplied",
+   "a minimum price fixed by government",
    "the quantity producers are willing and able to offer for sale at a given price"
   ],
   "answer": 3,
@@ -3154,10 +3154,10 @@
   "topic": "Basic concepts",
   "body": "Excise duty can best be described as",
   "options": [
-   "a list of wants arranged in order of importance",
-   "a market dominated by a few large sellers",
+   "the direct exchange of goods for goods",
+   "a tax on imported goods",
    "a tax on goods produced within the country",
-   "a market with many buyers and sellers of an identical product"
+   "the total value of goods and services produced within a country in a year"
   ],
   "answer": 2,
   "explanation": "Excise duty: a tax on goods produced within the country.",
@@ -3168,9 +3168,9 @@
   "topic": "Basic concepts",
   "body": "An ad valorem tax can best be described as",
   "options": [
-   "the price at which quantity demanded equals quantity supplied",
-   "falling average cost as the scale of production increases",
-   "a market dominated by a few large sellers",
+   "an inferior good whose demand rises as its price rises",
+   "a deliberate reduction in the official value of a currency",
+   "a limit on the quantity of a good that can be imported",
    "a tax charged as a percentage of the value of a good"
   ],
   "answer": 3,
@@ -3182,9 +3182,9 @@
   "topic": "Basic concepts",
   "body": "Mixed economy can best be described as",
   "options": [
-   "a tax that takes a larger share of income from the poor than the rich",
-   "the extra satisfaction from consuming one more unit",
-   "a minimum price fixed by government",
+   "limited resources relative to unlimited wants",
+   "man-made resources used in further production",
+   "an economy where the state makes the key decisions on production",
    "an economy where both private and public sectors own and control resources"
   ],
   "answer": 3,
@@ -3197,9 +3197,9 @@
   "body": "Command economy can best be described as",
   "options": [
    "an economy where the state makes the key decisions on production",
-   "the transfer of government-owned enterprises to private owners",
-   "a tax paid directly to government by the person on whom it is imposed",
-   "goods that can be used in place of each other, such as tea and coffee"
+   "man-made resources used in further production",
+   "an economy where both private and public sectors own and control resources",
+   "falling average cost as the scale of production increases"
   ],
   "answer": 0,
   "explanation": "Command economy: an economy where the state makes the key decisions on production.",
@@ -3210,10 +3210,10 @@
   "topic": "Basic concepts",
   "body": "What term describes limited resources relative to unlimited wants?",
   "options": [
-   "Opportunity cost",
-   "Terms of trade",
+   "Capital",
+   "Specialisation",
    "Scarcity",
-   "Proportional tax"
+   "Scale of preference"
   ],
   "answer": 2,
   "explanation": "This is the definition of scarcity.",
@@ -3224,10 +3224,10 @@
   "topic": "Basic concepts",
   "body": "What term describes the next best alternative forgone?",
   "options": [
-   "Progressive tax",
-   "Cyclical unemployment",
+   "Cost-push inflation",
+   "Economies of scale",
    "Opportunity cost",
-   "Embargo"
+   "Comparative advantage"
   ],
   "answer": 2,
   "explanation": "This is the definition of opportunity cost.",
@@ -3239,9 +3239,9 @@
   "body": "What term describes a list of wants arranged in order of importance?",
   "options": [
    "Scale of preference",
-   "Division of labour",
-   "Regressive tax",
-   "Comparative advantage"
+   "Double coincidence of wants",
+   "Scarcity",
+   "Economies of scale"
   ],
   "answer": 0,
   "explanation": "This is the definition of scale of preference.",
@@ -3252,10 +3252,10 @@
   "topic": "Basic concepts",
   "body": "What term describes desire backed by the ability and willingness to pay?",
   "options": [
-   "Double coincidence of wants",
-   "Excise duty",
+   "Seasonal unemployment",
+   "Inferior good",
    "Effective demand",
-   "Equilibrium price"
+   "Giffen good"
   ],
   "answer": 2,
   "explanation": "This is the definition of effective demand.",
@@ -3267,9 +3267,9 @@
   "body": "What term describes goods that are used together, such as cars and petrol?",
   "options": [
    "Complementary goods",
-   "Budget deficit",
-   "Double coincidence of wants",
-   "Gross Domestic Product"
+   "Substitute goods",
+   "Barter",
+   "Tariff"
   ],
   "answer": 0,
   "explanation": "This is the definition of complementary goods.",
@@ -3281,9 +3281,9 @@
   "body": "What term describes goods that can be used in place of each other, such as tea and coffee?",
   "options": [
    "Substitute goods",
-   "Marginal utility",
-   "Scarcity",
-   "Privatisation"
+   "Complementary goods",
+   "Entrepreneur",
+   "Double coincidence of wants"
   ],
   "answer": 0,
   "explanation": "This is the definition of substitute goods.",
@@ -3294,9 +3294,9 @@
   "topic": "Basic concepts",
   "body": "What term describes a good whose demand falls as income rises?",
   "options": [
-   "Price floor",
-   "Fixed cost",
-   "Consumer surplus",
+   "Progressive tax",
+   "Giffen good",
+   "Ad valorem tax",
    "Inferior good"
   ],
   "answer": 3,
@@ -3308,10 +3308,10 @@
   "topic": "Basic concepts",
   "body": "What term describes an inferior good whose demand rises as its price rises?",
   "options": [
-   "Effective demand",
+   "Inferior good",
    "Giffen good",
-   "Mixed economy",
-   "Supply"
+   "Progressive tax",
+   "Price ceiling"
   ],
   "answer": 1,
   "explanation": "This is the definition of giffen good.",
@@ -3322,10 +3322,10 @@
   "topic": "Basic concepts",
   "body": "What term describes the price at which quantity demanded equals quantity supplied?",
   "options": [
-   "Budget deficit",
-   "Division of labour",
+   "Elasticity of supply",
+   "Supply",
    "Equilibrium price",
-   "Structural unemployment"
+   "Price ceiling"
   ],
   "answer": 2,
   "explanation": "This is the definition of equilibrium price.",
@@ -3336,9 +3336,9 @@
   "topic": "Basic concepts",
   "body": "What term describes a maximum price fixed by government?",
   "options": [
-   "Entrepreneur",
-   "Demand-pull inflation",
-   "Hyperinflation",
+   "Inflation",
+   "Deflation",
+   "Price floor",
    "Price ceiling"
   ],
   "answer": 3,
@@ -3351,9 +3351,9 @@
   "body": "What term describes a minimum price fixed by government?",
   "options": [
    "Price floor",
-   "Progressive tax",
-   "Stagflation",
-   "Complementary goods"
+   "Price ceiling",
+   "Deflation",
+   "Public corporation"
   ],
   "answer": 0,
   "explanation": "This is the definition of price floor.",
@@ -3364,10 +3364,10 @@
   "topic": "Basic concepts",
   "body": "What term describes the difference between what a consumer is willing to pay and what they actually pay?",
   "options": [
-   "Embargo",
-   "Scale of preference",
+   "Double coincidence of wants",
+   "Supply",
    "Consumer surplus",
-   "Optimum population"
+   "Frictional unemployment"
   ],
   "answer": 2,
   "explanation": "This is the definition of consumer surplus.",
@@ -3378,10 +3378,10 @@
   "topic": "Basic concepts",
   "body": "What term describes the extra satisfaction from consuming one more unit?",
   "options": [
-   "Entrepreneur",
+   "Regressive tax",
    "Marginal utility",
-   "Dumping",
-   "Elasticity of supply"
+   "Utility",
+   "Proportional tax"
   ],
   "answer": 1,
   "explanation": "This is the definition of marginal utility.",
@@ -3393,9 +3393,9 @@
   "body": "What term describes breaking production into separate tasks done by different workers?",
   "options": [
    "Division of labour",
-   "Ad valorem tax",
-   "Dumping",
-   "Mixed economy"
+   "Capital",
+   "Economies of scale",
+   "Cost-push inflation"
   ],
   "answer": 0,
   "explanation": "This is the definition of division of labour.",
@@ -3407,9 +3407,9 @@
   "body": "What term describes falling average cost as the scale of production increases?",
   "options": [
    "Economies of scale",
-   "Elasticity of supply",
-   "Seasonal unemployment",
-   "Price floor"
+   "Cost-push inflation",
+   "Capital",
+   "Dumping"
   ],
   "answer": 0,
   "explanation": "This is the definition of economies of scale.",
@@ -3420,10 +3420,10 @@
   "topic": "Basic concepts",
   "body": "What term describes cost that does not change with the level of output?",
   "options": [
-   "Capital",
+   "Cartel",
    "Fixed cost",
-   "Gross Domestic Product",
-   "Substitute goods"
+   "Variable cost",
+   "Price ceiling"
   ],
   "answer": 1,
   "explanation": "This is the definition of fixed cost.",
@@ -3434,9 +3434,9 @@
   "topic": "Basic concepts",
   "body": "What term describes cost that changes with the level of output?",
   "options": [
-   "Elasticity of supply",
-   "Dumping",
-   "Oligopoly",
+   "Inflation",
+   "Fixed cost",
+   "Cartel",
    "Variable cost"
   ],
   "answer": 3,
@@ -3449,9 +3449,9 @@
   "body": "What term describes a market with a single seller of a product with no close substitutes?",
   "options": [
    "Monopoly",
-   "Liquidity",
-   "Division of labour",
-   "Price ceiling"
+   "Oligopoly",
+   "Embargo",
+   "Perfect competition"
   ],
   "answer": 0,
   "explanation": "This is the definition of monopoly.",
@@ -3462,10 +3462,10 @@
   "topic": "Basic concepts",
   "body": "What term describes a market dominated by a few large sellers?",
   "options": [
-   "Proportional tax",
-   "Inflation",
+   "Perfect competition",
+   "Monopoly",
    "Oligopoly",
-   "Economies of scale"
+   "Open market operations"
   ],
   "answer": 2,
   "explanation": "This is the definition of oligopoly.",
@@ -3476,10 +3476,10 @@
   "topic": "Basic concepts",
   "body": "What term describes a market with many buyers and sellers of an identical product?",
   "options": [
-   "Opportunity cost",
-   "Hyperinflation",
+   "Monopoly",
+   "Oligopoly",
    "Perfect competition",
-   "Mixed economy"
+   "Embargo"
   ],
   "answer": 2,
   "explanation": "This is the definition of perfect competition.",
@@ -3491,9 +3491,9 @@
   "body": "What term describes a group of firms that agree to fix prices or output?",
   "options": [
    "Cartel",
-   "Division of labour",
+   "Variable cost",
    "Indirect tax",
-   "Scarcity"
+   "Fixed cost"
   ],
   "answer": 0,
   "explanation": "This is the definition of cartel.",
@@ -3504,10 +3504,10 @@
   "topic": "Basic concepts",
   "body": "What term describes a persistent rise in the general price level?",
   "options": [
-   "Gross Domestic Product",
+   "Deflation",
    "Inflation",
-   "Demand-pull inflation",
-   "Elasticity of supply"
+   "Price ceiling",
+   "Price floor"
   ],
   "answer": 1,
   "explanation": "This is the definition of inflation.",
@@ -3518,10 +3518,10 @@
   "topic": "Basic concepts",
   "body": "What term describes a persistent fall in the general price level?",
   "options": [
-   "Excise duty",
-   "Consumer surplus",
+   "Price ceiling",
+   "Price floor",
    "Deflation",
-   "Price ceiling"
+   "Inflation"
   ],
   "answer": 2,
   "explanation": "This is the definition of deflation.",
@@ -3532,9 +3532,9 @@
   "topic": "Basic concepts",
   "body": "What term describes high inflation combined with high unemployment and slow growth?",
   "options": [
-   "Cyclical unemployment",
-   "Dumping",
    "Inflation",
+   "Cyclical unemployment",
+   "Embargo",
    "Stagflation"
   ],
   "answer": 3,
@@ -3547,9 +3547,9 @@
   "body": "What term describes a deliberate reduction in the official value of a currency?",
   "options": [
    "Devaluation",
-   "Liquidity",
-   "Tariff",
-   "Ad valorem tax"
+   "Ad valorem tax",
+   "Gross Domestic Product",
+   "Liquidity"
   ],
   "answer": 0,
   "explanation": "This is the definition of devaluation.",
@@ -3561,9 +3561,9 @@
   "body": "What term describes the total value of goods and services produced within a country in a year?",
   "options": [
    "Gross Domestic Product",
-   "Demand-pull inflation",
-   "Scale of preference",
-   "Economies of scale"
+   "Excise duty",
+   "Indirect tax",
+   "Embargo"
   ],
   "answer": 0,
   "explanation": "This is the definition of gross domestic product.",
@@ -3574,9 +3574,9 @@
   "topic": "Basic concepts",
   "body": "What term describes the direct exchange of goods for goods?",
   "options": [
-   "Ad valorem tax",
+   "Tariff",
+   "Excise duty",
    "Indirect tax",
-   "Price ceiling",
    "Barter"
   ],
   "answer": 3,
@@ -3589,9 +3589,9 @@
   "body": "What term describes the need for each party in a trade to want what the other has?",
   "options": [
    "Double coincidence of wants",
-   "Privatisation",
-   "Proportional tax",
-   "Oligopoly"
+   "Terms of trade",
+   "Substitute goods",
+   "Scarcity"
   ],
   "answer": 0,
   "explanation": "This is the definition of double coincidence of wants.",
@@ -3602,10 +3602,10 @@
   "topic": "Basic concepts",
   "body": "What term describes the ease with which an asset can be turned into cash?",
   "options": [
-   "Scarcity",
+   "Embargo",
    "Liquidity",
-   "Mixed economy",
-   "Devaluation"
+   "Equilibrium price",
+   "Variable cost"
   ],
   "answer": 1,
   "explanation": "This is the definition of liquidity.",
@@ -3616,10 +3616,10 @@
   "topic": "Basic concepts",
   "body": "What term describes the buying and selling of government securities by the central bank?",
   "options": [
-   "Hyperinflation",
-   "Cartel",
+   "Price floor",
+   "Oligopoly",
    "Open market operations",
-   "Devaluation"
+   "Price ceiling"
   ],
   "answer": 2,
   "explanation": "This is the definition of open market operations.",
@@ -3630,9 +3630,9 @@
   "topic": "Basic concepts",
   "body": "What term describes a tax paid directly to government by the person on whom it is imposed?",
   "options": [
-   "Gross Domestic Product",
-   "Liquidity",
-   "Variable cost",
+   "Price ceiling",
+   "Barter",
+   "Price floor",
    "Direct tax"
   ],
   "answer": 3,
@@ -3644,10 +3644,10 @@
   "topic": "Basic concepts",
   "body": "What term describes a tax on goods and services, paid through prices?",
   "options": [
-   "Gross Domestic Product",
+   "Barter",
    "Indirect tax",
-   "Oligopoly",
-   "Sole proprietorship"
+   "Tariff",
+   "Gross Domestic Product"
   ],
   "answer": 1,
   "explanation": "This is the definition of indirect tax.",
@@ -3658,10 +3658,10 @@
   "topic": "Basic concepts",
   "body": "What term describes a tax whose rate rises as income rises?",
   "options": [
-   "Excise duty",
-   "Elasticity of supply",
+   "Giffen good",
+   "Inferior good",
    "Progressive tax",
-   "Specialisation"
+   "Optimum population"
   ],
   "answer": 2,
   "explanation": "This is the definition of progressive tax.",
@@ -3672,10 +3672,10 @@
   "topic": "Basic concepts",
   "body": "What term describes a tax that takes a larger share of income from the poor than the rich?",
   "options": [
+   "Progressive tax",
    "Optimum population",
-   "Economies of scale",
    "Regressive tax",
-   "Command economy"
+   "Proportional tax"
   ],
   "answer": 2,
   "explanation": "This is the definition of regressive tax.",
@@ -3686,9 +3686,9 @@
   "topic": "Basic concepts",
   "body": "What term describes a tax that takes the same percentage from all incomes?",
   "options": [
-   "Equilibrium price",
-   "Barter",
-   "Demand-pull inflation",
+   "Ad valorem tax",
+   "Quota",
+   "Regressive tax",
    "Proportional tax"
   ],
   "answer": 3,
@@ -3700,10 +3700,10 @@
   "topic": "Basic concepts",
   "body": "What term describes when government expenditure exceeds revenue?",
   "options": [
-   "Stagflation",
+   "Price ceiling",
    "Budget deficit",
-   "Inferior good",
-   "Mixed economy"
+   "Public corporation",
+   "Price floor"
   ],
   "answer": 1,
   "explanation": "This is the definition of budget deficit.",
@@ -3715,9 +3715,9 @@
   "body": "What term describes a record of a country's transactions with the rest of the world?",
   "options": [
    "Balance of payments",
-   "Optimum population",
-   "Entrepreneur",
-   "Liquidity"
+   "Variable cost",
+   "Excise duty",
+   "Embargo"
   ],
   "answer": 0,
   "explanation": "This is the definition of balance of payments.",
@@ -3728,10 +3728,10 @@
   "topic": "Basic concepts",
   "body": "What term describes the ratio of export prices to import prices?",
   "options": [
-   "Privatisation",
+   "Indirect tax",
    "Terms of trade",
-   "Cost-push inflation",
-   "Cartel"
+   "Cyclical unemployment",
+   "Hyperinflation"
   ],
   "answer": 1,
   "explanation": "This is the definition of terms of trade.",
@@ -3742,10 +3742,10 @@
   "topic": "Basic concepts",
   "body": "What term describes a tax on imported goods?",
   "options": [
-   "Price floor",
-   "Regressive tax",
+   "Indirect tax",
+   "Barter",
    "Tariff",
-   "Scarcity"
+   "Quota"
   ],
   "answer": 2,
   "explanation": "This is the definition of tariff.",
@@ -3756,9 +3756,9 @@
   "topic": "Basic concepts",
   "body": "What term describes a limit on the quantity of a good that can be imported?",
   "options": [
-   "Comparative advantage",
-   "Inflation",
-   "Division of labour",
+   "Elasticity of supply",
+   "Tariff",
+   "Ad valorem tax",
    "Quota"
   ],
   "answer": 3,
@@ -3770,10 +3770,10 @@
   "topic": "Basic concepts",
   "body": "What term describes a complete ban on trade with a country or in a product?",
   "options": [
-   "Specialisation",
-   "Privatisation",
+   "Monopoly",
+   "Balance of payments",
    "Embargo",
-   "Comparative advantage"
+   "Perfect competition"
   ],
   "answer": 2,
   "explanation": "This is the definition of embargo.",
@@ -3784,10 +3784,10 @@
   "topic": "Basic concepts",
   "body": "What term describes selling goods abroad below their cost of production?",
   "options": [
-   "Budget deficit",
-   "Progressive tax",
+   "Economies of scale",
+   "Cost-push inflation",
    "Dumping",
-   "Frictional unemployment"
+   "Tariff"
   ],
   "answer": 2,
   "explanation": "This is the definition of dumping.",
@@ -3799,9 +3799,9 @@
   "body": "What term describes producing a good at a lower opportunity cost than another country?",
   "options": [
    "Comparative advantage",
-   "Privatisation",
-   "Elasticity of supply",
-   "Regressive tax"
+   "Ad valorem tax",
+   "Opportunity cost",
+   "Quota"
   ],
   "answer": 0,
   "explanation": "This is the definition of comparative advantage.",
@@ -3812,10 +3812,10 @@
   "topic": "Basic concepts",
   "body": "What term describes the population size that gives the highest income per head?",
   "options": [
-   "Command economy",
+   "Quota",
    "Optimum population",
-   "Price floor",
-   "Effective demand"
+   "Regressive tax",
+   "Progressive tax"
   ],
   "answer": 1,
   "explanation": "This is the definition of optimum population.",
@@ -3826,10 +3826,10 @@
   "topic": "Basic concepts",
   "body": "What term describes the transfer of government-owned enterprises to private owners?",
   "options": [
-   "Perfect competition",
-   "Frictional unemployment",
+   "Public corporation",
+   "Price floor",
    "Privatisation",
-   "Hyperinflation"
+   "Price ceiling"
   ],
   "answer": 2,
   "explanation": "This is the definition of privatisation.",
@@ -3840,10 +3840,10 @@
   "topic": "Basic concepts",
   "body": "What term describes a business owned and run by its members for their mutual benefit?",
   "options": [
-   "Proportional tax",
-   "Direct tax",
+   "Public corporation",
+   "Privatisation",
    "Cooperative society",
-   "Scale of preference"
+   "Sole proprietorship"
   ],
   "answer": 2,
   "explanation": "This is the definition of cooperative society.",
@@ -3855,9 +3855,9 @@
   "body": "What term describes a business owned and controlled by one person?",
   "options": [
    "Sole proprietorship",
-   "Indirect tax",
-   "Double coincidence of wants",
-   "Terms of trade"
+   "Privatisation",
+   "Cooperative society",
+   "Public corporation"
   ],
   "answer": 0,
   "explanation": "This is the definition of sole proprietorship.",
@@ -3869,9 +3869,9 @@
   "body": "What term describes a business owned and controlled by government?",
   "options": [
    "Public corporation",
-   "Sole proprietorship",
-   "Mixed economy",
-   "Command economy"
+   "Cooperative society",
+   "Privatisation",
+   "Sole proprietorship"
   ],
   "answer": 0,
   "explanation": "This is the definition of public corporation.",
@@ -3882,9 +3882,9 @@
   "topic": "Basic concepts",
   "body": "What term describes concentrating on producing a limited range of goods or tasks?",
   "options": [
-   "Price ceiling",
-   "Monopoly",
-   "Embargo",
+   "Barter",
+   "Tariff",
+   "Scarcity",
    "Specialisation"
   ],
   "answer": 3,
@@ -3896,10 +3896,10 @@
   "topic": "Basic concepts",
   "body": "What term describes the responsiveness of quantity supplied to a change in price?",
   "options": [
-   "Progressive tax",
+   "Equilibrium price",
    "Elasticity of supply",
-   "Effective demand",
-   "Quota"
+   "Price floor",
+   "Supply"
   ],
   "answer": 1,
   "explanation": "This is the definition of elasticity of supply.",
@@ -3911,9 +3911,9 @@
   "body": "What term describes man-made resources used in further production?",
   "options": [
    "Capital",
-   "Optimum population",
-   "Demand-pull inflation",
-   "Marginal utility"
+   "Scarcity",
+   "Cost-push inflation",
+   "Economies of scale"
   ],
   "answer": 0,
   "explanation": "This is the definition of capital.",
@@ -3924,10 +3924,10 @@
   "topic": "Basic concepts",
   "body": "What term describes the factor that organises the other factors and bears the risk?",
   "options": [
-   "Complementary goods",
+   "Substitute goods",
    "Entrepreneur",
-   "Equilibrium price",
-   "Liquidity"
+   "Cartel",
+   "Quota"
   ],
   "answer": 1,
   "explanation": "This is the definition of entrepreneur.",
@@ -3939,9 +3939,9 @@
   "body": "What term describes short-term unemployment of people moving between jobs?",
   "options": [
    "Frictional unemployment",
-   "Price ceiling",
-   "Substitute goods",
-   "Entrepreneur"
+   "Seasonal unemployment",
+   "Structural unemployment",
+   "Cyclical unemployment"
   ],
   "answer": 0,
   "explanation": "This is the definition of frictional unemployment.",
@@ -3952,10 +3952,10 @@
   "topic": "Basic concepts",
   "body": "What term describes unemployment caused by long-term changes in the structure of industries?",
   "options": [
-   "Devaluation",
+   "Cyclical unemployment",
    "Structural unemployment",
-   "Balance of payments",
-   "Privatisation"
+   "Frictional unemployment",
+   "Seasonal unemployment"
   ],
   "answer": 1,
   "explanation": "This is the definition of structural unemployment.",
@@ -3966,9 +3966,9 @@
   "topic": "Basic concepts",
   "body": "What term describes unemployment caused by seasonal changes in demand or weather?",
   "options": [
-   "Opportunity cost",
-   "Progressive tax",
-   "Direct tax",
+   "Cyclical unemployment",
+   "Structural unemployment",
+   "Demand-pull inflation",
    "Seasonal unemployment"
   ],
   "answer": 3,
@@ -3980,10 +3980,10 @@
   "topic": "Basic concepts",
   "body": "What term describes unemployment caused by a downturn in the trade cycle?",
   "options": [
-   "Optimum population",
-   "Indirect tax",
+   "Structural unemployment",
+   "Seasonal unemployment",
    "Cyclical unemployment",
-   "Cartel"
+   "Embargo"
   ],
   "answer": 2,
   "explanation": "This is the definition of cyclical unemployment.",
@@ -3994,10 +3994,10 @@
   "topic": "Basic concepts",
   "body": "What term describes inflation caused by too much money chasing too few goods?",
   "options": [
-   "Optimum population",
+   "Cost-push inflation",
    "Demand-pull inflation",
-   "Embargo",
-   "Fixed cost"
+   "Tariff",
+   "Seasonal unemployment"
   ],
   "answer": 1,
   "explanation": "This is the definition of demand-pull inflation.",
@@ -4008,10 +4008,10 @@
   "topic": "Basic concepts",
   "body": "What term describes inflation caused by rising costs of production?",
   "options": [
-   "Cartel",
+   "Demand-pull inflation",
    "Cost-push inflation",
-   "Supply",
-   "Embargo"
+   "Economies of scale",
+   "Dumping"
   ],
   "answer": 1,
   "explanation": "This is the definition of cost-push inflation.",
@@ -4022,10 +4022,10 @@
   "topic": "Basic concepts",
   "body": "What term describes an extremely rapid and out-of-control rise in prices?",
   "options": [
-   "Comparative advantage",
+   "Inflation",
    "Hyperinflation",
-   "Mixed economy",
-   "Budget deficit"
+   "Indirect tax",
+   "Terms of trade"
   ],
   "answer": 1,
   "explanation": "This is the definition of hyperinflation.",
@@ -4036,10 +4036,10 @@
   "topic": "Basic concepts",
   "body": "What term describes the satisfaction derived from consuming a good or service?",
   "options": [
-   "Dumping",
-   "Inferior good",
+   "Marginal utility",
+   "Ad valorem tax",
    "Utility",
-   "Proportional tax"
+   "Quota"
   ],
   "answer": 2,
   "explanation": "This is the definition of utility.",
@@ -4050,10 +4050,10 @@
   "topic": "Basic concepts",
   "body": "What term describes the quantity producers are willing and able to offer for sale at a given price?",
   "options": [
-   "Privatisation",
-   "Budget deficit",
+   "Price ceiling",
+   "Elasticity of supply",
    "Supply",
-   "Stagflation"
+   "Equilibrium price"
   ],
   "answer": 2,
   "explanation": "This is the definition of supply.",
@@ -4064,10 +4064,10 @@
   "topic": "Basic concepts",
   "body": "What term describes a tax on goods produced within the country?",
   "options": [
-   "Optimum population",
-   "Fixed cost",
+   "Gross Domestic Product",
+   "Barter",
    "Excise duty",
-   "Specialisation"
+   "Tariff"
   ],
   "answer": 2,
   "explanation": "This is the definition of excise duty.",
@@ -4079,9 +4079,9 @@
   "body": "What term describes a tax charged as a percentage of the value of a good?",
   "options": [
    "Ad valorem tax",
-   "Oligopoly",
-   "Supply",
-   "Excise duty"
+   "Quota",
+   "Devaluation",
+   "Inferior good"
   ],
   "answer": 0,
   "explanation": "This is the definition of ad valorem tax.",
@@ -4092,10 +4092,10 @@
   "topic": "Basic concepts",
   "body": "What term describes an economy where both private and public sectors own and control resources?",
   "options": [
-   "Balance of payments",
-   "Privatisation",
+   "Hyperinflation",
+   "Capital",
    "Mixed economy",
-   "Quota"
+   "Command economy"
   ],
   "answer": 2,
   "explanation": "This is the definition of mixed economy.",
@@ -4106,10 +4106,10 @@
   "topic": "Basic concepts",
   "body": "What term describes an economy where the state makes the key decisions on production?",
   "options": [
-   "Seasonal unemployment",
+   "Cost-push inflation",
    "Command economy",
-   "Fixed cost",
-   "Monopoly"
+   "Mixed economy",
+   "Capital"
   ],
   "answer": 1,
   "explanation": "This is the definition of command economy.",

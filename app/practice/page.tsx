@@ -1,3 +1,4 @@
+import { examCountLabel } from "@/lib/exam-count";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { TRACKS } from "@/lib/tracks";
@@ -5,7 +6,7 @@ import { TRACK_GROUPS } from "@/lib/track-groups";
 import { examSlug } from "@/lib/practice";
 
 export const metadata: Metadata = {
-  title: "Free practice questions with answers for 140+ exams | Mock Night",
+  title: `Free practice questions with answers for ${examCountLabel()} exams | Mock Night`,
   description: "Free sample questions with answers and explanations for JAMB, WAEC, KCSE, driving theory tests, NCLEX, NMC CBT, Life in the UK, US DMV permit tests, CPA and more.",
   alternates: { canonical: "/practice" },
 };

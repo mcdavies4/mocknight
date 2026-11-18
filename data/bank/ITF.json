@@ -858,9 +858,9 @@
   "topic": "Hardware",
   "body": "Which component temporarily holds data and programs currently in use and is cleared when power is lost?",
   "options": [
-   "NIC",
-   "Motherboard",
-   "GPU",
+   "HDD",
+   "PSU",
+   "SSD",
    "RAM"
   ],
   "answer": 3,
@@ -872,9 +872,9 @@
   "topic": "Hardware",
   "body": "Which component stores data permanently using flash memory with no moving parts?",
   "options": [
-   "BIOS/UEFI firmware",
-   "GPU",
-   "PSU",
+   "Motherboard",
+   "RAM",
+   "HDD",
    "SSD"
   ],
   "answer": 3,
@@ -886,9 +886,9 @@
   "topic": "Hardware",
   "body": "Which component stores data permanently on spinning magnetic platters?",
   "options": [
-   "Motherboard",
+   "RAM",
+   "SSD",
    "GPU",
-   "BIOS/UEFI firmware",
    "HDD"
   ],
   "answer": 3,
@@ -914,9 +914,9 @@
   "topic": "Hardware",
   "body": "Which component connects the CPU, memory, storage and expansion cards?",
   "options": [
-   "HDD",
-   "CPU",
    "BIOS/UEFI firmware",
+   "SSD",
+   "NIC",
    "Motherboard"
   ],
   "answer": 3,
@@ -928,10 +928,10 @@
   "topic": "Hardware",
   "body": "Which component converts mains AC power into the DC voltages the computer uses?",
   "options": [
-   "Motherboard",
-   "PSU",
    "RAM",
-   "CPU"
+   "PSU",
+   "NIC",
+   "Motherboard"
   ],
   "answer": 1,
   "explanation": "The PSU converts mains AC power into the DC voltages the computer uses.",
@@ -942,10 +942,10 @@
   "topic": "Hardware",
   "body": "Which component connects a computer to a network?",
   "options": [
-   "BIOS/UEFI firmware",
+   "Motherboard",
    "NIC",
    "PSU",
-   "SSD"
+   "BIOS/UEFI firmware"
   ],
   "answer": 1,
   "explanation": "The NIC connects a computer to a network.",

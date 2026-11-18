@@ -100,9 +100,26 @@ export function numOpts(correct: number, plausible: number[], unit = "", allowNe
 }
 
 /** Distractors drawn from other items' answers (for fact tables). */
+const simWords = (t: unknown) => new Set(JSON.stringify(t).toLowerCase().match(/[a-z]{4,}/g) ?? []);
+
+/**
+ * Distractors drawn from the same list, closest first: items whose wording overlaps most with
+ * the correct one (an organism → other organisms, an instrument → other instruments), so wrong
+ * options are plausible. Uses the same random draws as before, so other generated questions don't change.
+ */
 export function others<T>(items: readonly T[], self: T, get: (t: T) => string, n = 6): string[] {
   const own = get(self);
-  return shuffle(items.filter((i) => i !== self).map(get)).filter((v, i, a) => v !== own && a.indexOf(v) === i).slice(0, n);
+  const me = simWords(self);
+  const pool = items.filter((i) => i !== self);
+  const shuffled = shuffle(pool.map((_, k) => k));
+  const score = (k: number) => {
+    const w = simWords(pool[k]);
+    let shared = 0;
+    for (const x of w) if (me.has(x)) shared++;
+    return shared / Math.sqrt(Math.max(1, w.size * me.size));
+  };
+  const ranked = shuffled.map((k, pos) => ({ k, pos, sc: score(k) })).sort((a, b) => b.sc - a.sc || a.pos - b.pos);
+  return ranked.map((r) => get(pool[r.k])).filter((v, i, a) => v !== own && a.indexOf(v) === i).slice(0, n);
 }
 
 /** Generate up to `count` unique-bodied questions from a template. */

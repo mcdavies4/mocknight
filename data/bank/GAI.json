@@ -1769,9 +1769,9 @@
   "body": "What is the capital of Madhya Pradesh?",
   "options": [
    "Bhopal",
+   "Shimla",
    "Kolkata",
-   "Dispur",
-   "Bengaluru"
+   "Lucknow"
   ],
   "answer": 0,
   "explanation": "Bhopal is the capital of Madhya Pradesh.",
@@ -1783,9 +1783,9 @@
   "body": "What is the capital of Uttar Pradesh?",
   "options": [
    "Lucknow",
-   "Imphal",
-   "Patna",
-   "Raipur"
+   "Raipur",
+   "Bhopal",
+   "Shimla"
   ],
   "answer": 0,
   "explanation": "Lucknow is the capital of Uttar Pradesh.",
@@ -1852,10 +1852,10 @@
   "topic": "Geography",
   "body": "What is the capital of Himachal Pradesh?",
   "options": [
-   "Gandhinagar",
-   "Mumbai",
+   "Lucknow",
+   "Bhopal",
    "Shimla",
-   "Dehradun"
+   "Gandhinagar"
   ],
   "answer": 2,
   "explanation": "Shimla is the capital of Himachal Pradesh.",

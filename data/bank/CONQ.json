@@ -312,8 +312,8 @@
   "topic": "CDM 2015",
   "body": "Under CDM 2015, which duty holder plans, manages and coordinates health and safety in the pre-construction phase?",
   "options": [
+   "Principal contractor",
    "Contractor",
-   "Client",
    "Principal designer",
    "Designer"
   ],
@@ -327,9 +327,9 @@
   "body": "Under CDM 2015, which duty holder plans, manages and coordinates health and safety during the construction phase?",
   "options": [
    "Principal contractor",
-   "Client",
-   "Designer",
-   "Principal designer"
+   "Contractor",
+   "Principal designer",
+   "Designer"
   ],
   "answer": 0,
   "explanation": "Principal contractor: plans, manages and coordinates health and safety during the construction phase.",
@@ -340,10 +340,10 @@
   "topic": "CDM 2015",
   "body": "Under CDM 2015, which duty holder eliminates, reduces or controls foreseeable risks through their design?",
   "options": [
+   "Principal designer",
    "Contractor",
-   "Client",
    "Designer",
-   "Principal contractor"
+   "Client"
   ],
   "answer": 2,
   "explanation": "Designer: eliminates, reduces or controls foreseeable risks through their design.",
@@ -354,9 +354,9 @@
   "topic": "CDM 2015",
   "body": "Under CDM 2015, which duty holder plans, manages and monitors their own work and workers?",
   "options": [
-   "Designer",
    "Principal contractor",
    "Principal designer",
+   "Designer",
    "Contractor"
   ],
   "answer": 3,

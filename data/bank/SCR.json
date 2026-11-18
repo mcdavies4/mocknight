@@ -4,9 +4,9 @@
   "topic": "Events",
   "body": "Which Scrum event is a fixed-length event of one month or less that contains all the other events?",
   "options": [
-   "Sprint Planning",
-   "Daily Scrum",
+   "Sprint Retrospective",
    "Sprint Review",
+   "Sprint Planning",
    "Sprint"
   ],
   "answer": 3,
@@ -18,10 +18,10 @@
   "topic": "Events",
   "body": "Which Scrum event is the event that lays out the work to be performed for the Sprint?",
   "options": [
-   "Sprint Review",
+   "Sprint Retrospective",
    "Sprint Planning",
-   "Daily Scrum",
-   "Sprint Retrospective"
+   "Sprint",
+   "Sprint Review"
   ],
   "answer": 1,
   "explanation": "Sprint Planning: the event that lays out the work to be performed for the Sprint.",
@@ -32,10 +32,10 @@
   "topic": "Events",
   "body": "Which Scrum event is a 15-minute event for the Developers to inspect progress toward the Sprint Goal?",
   "options": [
+   "Sprint Retrospective",
    "Sprint",
-   "Sprint Planning",
    "Daily Scrum",
-   "Sprint Review"
+   "Sprint Planning"
   ],
   "answer": 2,
   "explanation": "The Daily Scrum: a 15-minute event for the Developers to inspect progress toward the Sprint Goal.",
@@ -46,8 +46,8 @@
   "topic": "Events",
   "body": "Which Scrum event is the event where the outcome of the Sprint is inspected and future adaptations determined with stakeholders?",
   "options": [
-   "Sprint Planning",
    "Sprint",
+   "Sprint Planning",
    "Sprint Review",
    "Sprint Retrospective"
   ],
@@ -60,10 +60,10 @@
   "topic": "Events",
   "body": "Which Scrum event is the event to plan ways to increase quality and effectiveness?",
   "options": [
-   "Sprint Review",
-   "Daily Scrum",
+   "Sprint",
+   "Sprint Planning",
    "Sprint Retrospective",
-   "Sprint"
+   "Sprint Review"
   ],
   "answer": 2,
   "explanation": "The Sprint Retrospective: the event to plan ways to increase quality and effectiveness.",
@@ -74,9 +74,9 @@
   "topic": "Events",
   "body": "What is the maximum time-box for the Sprint?",
   "options": [
-   "8 hours for a one-month Sprint",
    "4 hours for a one-month Sprint",
-   "15 minutes",
+   "3 hours for a one-month Sprint",
+   "8 hours for a one-month Sprint",
    "One month or less"
   ],
   "answer": 3,
@@ -88,8 +88,8 @@
   "topic": "Events",
   "body": "What is the maximum time-box for Sprint Planning?",
   "options": [
-   "15 minutes",
    "4 hours for a one-month Sprint",
+   "One month or less",
    "3 hours for a one-month Sprint",
    "8 hours for a one-month Sprint"
   ],
@@ -102,10 +102,10 @@
   "topic": "Events",
   "body": "What is the maximum time-box for the Daily Scrum?",
   "options": [
-   "3 hours for a one-month Sprint",
+   "8 hours for a one-month Sprint",
    "15 minutes",
    "One month or less",
-   "4 hours for a one-month Sprint"
+   "3 hours for a one-month Sprint"
   ],
   "answer": 1,
   "explanation": "The Daily Scrum is time-boxed to 15 minutes. Shorter Sprints usually have shorter events.",
@@ -117,9 +117,9 @@
   "body": "What is the maximum time-box for the Sprint Review?",
   "options": [
    "4 hours for a one-month Sprint",
-   "15 minutes",
-   "One month or less",
-   "8 hours for a one-month Sprint"
+   "3 hours for a one-month Sprint",
+   "8 hours for a one-month Sprint",
+   "One month or less"
   ],
   "answer": 0,
   "explanation": "The Sprint Review is time-boxed to 4 hours for a one-month Sprint. Shorter Sprints usually have shorter events.",
@@ -133,7 +133,7 @@
    "8 hours for a one-month Sprint",
    "One month or less",
    "3 hours for a one-month Sprint",
-   "15 minutes"
+   "4 hours for a one-month Sprint"
   ],
   "answer": 2,
   "explanation": "The Sprint Retrospective is time-boxed to 3 hours for a one-month Sprint. Shorter Sprints usually have shorter events.",
@@ -145,8 +145,8 @@
   "body": "Which commitment belongs to the Product Backlog?",
   "options": [
    "Velocity",
-   "Definition of Done",
    "Sprint Goal",
+   "Definition of Done",
    "Product Goal"
   ],
   "answer": 3,

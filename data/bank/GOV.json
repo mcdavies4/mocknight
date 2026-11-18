@@ -4,10 +4,10 @@
   "topic": "Concepts",
   "body": "Democracy can best be described as",
   "options": [
-   "a parliament in which no party has an overall majority",
-   "the process by which people acquire political values and beliefs",
+   "the desire of a people for self-government and independence",
+   "the acceptance of a government's right to rule by the people",
    "government of the people, by the people, for the people",
-   "government by religious leaders"
+   "government by elders"
   ],
   "answer": 2,
   "explanation": "Democracy: government of the people, by the people, for the people.",
@@ -18,10 +18,10 @@
   "topic": "Concepts",
   "body": "Sovereignty can best be described as",
   "options": [
-   "the power of the executive to reject a bill",
-   "a system in which the state controls every aspect of life",
+   "the ability to make others act in a desired way, backed by sanctions",
+   "the power of the courts to declare laws or actions unconstitutional",
    "the supreme power of a state to make and enforce laws",
-   "an election to choose a party's candidate"
+   "the power of the executive to reject a bill"
   ],
   "answer": 2,
   "explanation": "Sovereignty: the supreme power of a state to make and enforce laws.",
@@ -33,9 +33,9 @@
   "body": "Legitimacy can best be described as",
   "options": [
    "the acceptance of a government's right to rule by the people",
-   "the people qualified to vote in an election",
-   "the attitudes, beliefs and values of a society towards politics",
-   "a legislature with one chamber"
+   "government of the people, by the people, for the people",
+   "the right to vote",
+   "the desire of a people for self-government and independence"
   ],
   "answer": 0,
   "explanation": "Legitimacy: the acceptance of a government's right to rule by the people.",
@@ -47,9 +47,9 @@
   "body": "Power can best be described as",
   "options": [
    "the ability to make others act in a desired way, backed by sanctions",
-   "the desire of a people for self-government and independence",
-   "the supremacy of law and equality of all before the law",
-   "the principle that government power is limited by a constitution"
+   "the control of each arm of government by the others to prevent abuse of power",
+   "the supreme power of a state to make and enforce laws",
+   "the power of the executive to reject a bill"
   ],
   "answer": 0,
   "explanation": "Power: the ability to make others act in a desired way, backed by sanctions.",
@@ -61,9 +61,9 @@
   "body": "Authority can best be described as",
   "options": [
    "the legal right to exercise power",
-   "government by religious leaders",
+   "the power of the executive to reject a bill",
    "the right to vote",
-   "the removal of an elected representative by the voters before the end of his term"
+   "the acceptance of a government's right to rule by the people"
   ],
   "answer": 0,
   "explanation": "Authority: the legal right to exercise power.",
@@ -74,9 +74,9 @@
   "topic": "Concepts",
   "body": "The rule of law can best be described as",
   "options": [
-   "the British system of governing through traditional rulers",
    "the formal ending of a parliament before fresh elections",
-   "government by elders",
+   "the removal of an elected representative by the voters before the end of his term",
+   "the acceptance of a government's right to rule by the people",
    "the supremacy of law and equality of all before the law"
   ],
   "answer": 3,
@@ -88,10 +88,10 @@
   "topic": "Concepts",
   "body": "Separation of powers can best be described as",
   "options": [
-   "a system in which the state controls every aspect of life",
+   "a system in which the executive is drawn from and responsible to the legislature",
    "the division of government functions among the legislature, executive and judiciary",
-   "a group of people bound by common history, culture and language",
-   "an administrative system with a hierarchy of officials following fixed rules"
+   "the parties in the legislature that are not in government",
+   "a motion showing the legislature no longer supports the government"
   ],
   "answer": 1,
   "explanation": "Separation of powers: the division of government functions among the legislature, executive and judiciary.",
@@ -102,10 +102,10 @@
   "topic": "Concepts",
   "body": "Checks and balances can best be described as",
   "options": [
-   "the supreme power of a state to make and enforce laws",
+   "a system in which power is concentrated in the central government",
    "the control of each arm of government by the others to prevent abuse of power",
-   "the principle that ministers share responsibility for cabinet decisions",
-   "a legislature with two chambers"
+   "the ability to make others act in a desired way, backed by sanctions",
+   "the principle that government power is limited by a constitution"
   ],
   "answer": 1,
   "explanation": "Checks and balances: the control of each arm of government by the others to prevent abuse of power.",
@@ -116,10 +116,10 @@
   "topic": "Concepts",
   "body": "Federalism can best be described as",
   "options": [
-   "a government formed by two or more parties",
+   "a system in which the president is both head of state and head of government",
    "a system in which power is shared between a central government and component units",
-   "the attitudes, beliefs and values of a society towards politics",
-   "an organised group that seeks to gain control of government"
+   "the transfer of power from the central government to lower levels",
+   "a system in which power is concentrated in the central government"
   ],
   "answer": 1,
   "explanation": "Federalism: a system in which power is shared between a central government and component units.",
@@ -130,10 +130,10 @@
   "topic": "Concepts",
   "body": "A unitary system can best be described as",
   "options": [
-   "the legal right to exercise power",
+   "a system in which power is shared between a central government and component units",
    "a system in which power is concentrated in the central government",
-   "government by a few for their own interest",
-   "a party official who ensures members attend and vote as the party directs"
+   "the transfer of power from the central government to lower levels",
+   "a system in which the president is both head of state and head of government"
   ],
   "answer": 1,
   "explanation": "A unitary system: a system in which power is concentrated in the central government.",
@@ -144,10 +144,10 @@
   "topic": "Concepts",
   "body": "A confederation can best be described as",
   "options": [
-   "the British system of governing through traditional rulers",
-   "an official who investigates complaints against public officials",
+   "a legislature with one chamber",
+   "a state with no official religion",
    "a union of sovereign states with a weak central authority",
-   "the attitudes, beliefs and values of a society towards politics"
+   "a legislature with two chambers"
   ],
   "answer": 2,
   "explanation": "A confederation: a union of sovereign states with a weak central authority.",
@@ -158,9 +158,9 @@
   "topic": "Concepts",
   "body": "A rigid constitution can best be described as",
   "options": [
-   "citizenship acquired by a foreigner after meeting residency and other conditions",
-   "the process of removing a president or governor from office by the legislature",
-   "a group of people bound by common history, culture and language",
+   "a constitution not contained in a single document",
+   "the principle that government power is limited by a constitution",
+   "a constitution that can be amended like an ordinary law",
    "a constitution that requires a special procedure to amend"
   ],
   "answer": 3,
@@ -172,9 +172,9 @@
   "topic": "Concepts",
   "body": "A flexible constitution can best be described as",
   "options": [
-   "a legislature with one chamber",
-   "a legislature with two chambers",
-   "the manipulation of constituency boundaries to favour a party",
+   "a constitution not contained in a single document",
+   "a constitution that requires a special procedure to amend",
+   "the principle that government power is limited by a constitution",
    "a constitution that can be amended like an ordinary law"
   ],
   "answer": 3,
@@ -186,10 +186,10 @@
   "topic": "Concepts",
   "body": "An unwritten constitution can best be described as",
   "options": [
-   "the French colonial policy of turning Africans into French citizens",
-   "the attitudes, beliefs and values of a society towards politics",
+   "the principle that government power is limited by a constitution",
+   "a document setting out a party's programmes and policies",
    "a constitution not contained in a single document",
-   "a draft of a proposed law"
+   "a constitution that can be amended like an ordinary law"
   ],
   "answer": 2,
   "explanation": "An unwritten constitution: a constitution not contained in a single document.",
@@ -200,9 +200,9 @@
   "topic": "Concepts",
   "body": "The presidential system can best be described as",
   "options": [
-   "government of the people, by the people, for the people",
-   "the acceptance of a government's right to rule by the people",
-   "a constitution that can be amended like an ordinary law",
+   "a system in which power is concentrated in the central government",
+   "a system in which the state controls every aspect of life",
+   "a system in which the state owns the major means of production",
    "a system in which the president is both head of state and head of government"
   ],
   "answer": 3,
@@ -215,9 +215,9 @@
   "body": "The parliamentary system can best be described as",
   "options": [
    "a system in which the executive is drawn from and responsible to the legislature",
-   "an organised group that seeks to influence government policy without seeking power",
-   "government by a few for their own interest",
-   "a draft of a proposed law"
+   "the process of removing a president or governor from office by the legislature",
+   "a system in which power is concentrated in the central government",
+   "a system in which the state controls every aspect of life"
   ],
   "answer": 0,
   "explanation": "The parliamentary system: a system in which the executive is drawn from and responsible to the legislature.",
@@ -228,9 +228,9 @@
   "topic": "Concepts",
   "body": "Franchise can best be described as",
   "options": [
-   "the principle that government power is limited by a constitution",
-   "the French colonial policy of turning Africans into French citizens",
-   "a group of people bound by common history, culture and language",
+   "the right of all qualified adults to vote",
+   "the people qualified to vote in an election",
+   "the legal right to exercise power",
    "the right to vote"
   ],
   "answer": 3,
@@ -242,10 +242,10 @@
   "topic": "Concepts",
   "body": "Universal adult suffrage can best be described as",
   "options": [
-   "the process by which people acquire political values and beliefs",
+   "the right to vote",
    "the right of all qualified adults to vote",
-   "a parliament in which no party has an overall majority",
-   "the acceptance of a government's right to rule by the people"
+   "the legal right to exercise power",
+   "the people qualified to vote in an election"
   ],
   "answer": 1,
   "explanation": "Universal adult suffrage: the right of all qualified adults to vote.",
@@ -256,9 +256,9 @@
   "topic": "Concepts",
   "body": "Proportional representation can best be described as",
   "options": [
-   "an area that elects a representative to the legislature",
-   "the body of permanent officials who implement government policies",
-   "the attitudes, beliefs and values of a society towards politics",
+   "a system in which the state owns the major means of production",
+   "a system in which power is concentrated in the central government",
+   "a system in which the state controls every aspect of life",
    "an electoral system in which parties win seats in proportion to their votes"
   ],
   "answer": 3,
@@ -270,10 +270,10 @@
   "topic": "Concepts",
   "body": "Gerrymandering can best be described as",
   "options": [
-   "the legal right to exercise power",
+   "a document setting out a party's programmes and policies",
    "the manipulation of constituency boundaries to favour a party",
-   "the French colonial policy of turning Africans into French citizens",
-   "the British system of governing through traditional rulers"
+   "an election to choose a party's candidate",
+   "an area that elects a representative to the legislature"
   ],
   "answer": 1,
   "explanation": "Gerrymandering: the manipulation of constituency boundaries to favour a party.",
@@ -284,9 +284,9 @@
   "topic": "Concepts",
   "body": "A referendum can best be described as",
   "options": [
-   "the right of all qualified adults to vote",
-   "the principle that ministers share responsibility for cabinet decisions",
-   "the desire of a people for self-government and independence",
+   "the people qualified to vote in an election",
+   "government of the people, by the people, for the people",
+   "the right to vote",
    "a direct vote by the people on a specific issue"
   ],
   "answer": 3,
@@ -299,9 +299,9 @@
   "body": "Recall can best be described as",
   "options": [
    "the removal of an elected representative by the voters before the end of his term",
-   "a party official who ensures members attend and vote as the party directs",
-   "a group of people bound by common history, culture and language",
-   "the desire of a people for self-government and independence"
+   "the formal ending of a parliament before fresh elections",
+   "an area that elects a representative to the legislature",
+   "the supremacy of law and equality of all before the law"
   ],
   "answer": 0,
   "explanation": "Recall: the removal of an elected representative by the voters before the end of his term.",
@@ -313,9 +313,9 @@
   "body": "Bicameral legislature can best be described as",
   "options": [
    "a legislature with two chambers",
-   "the right of all qualified adults to vote",
-   "an electoral system in which parties win seats in proportion to their votes",
-   "an authoritarian ultranationalist system that suppresses opposition"
+   "a state with no official religion",
+   "the parties in the legislature that are not in government",
+   "a legislature with one chamber"
   ],
   "answer": 0,
   "explanation": "Bicameral legislature: a legislature with two chambers.",
@@ -326,10 +326,10 @@
   "topic": "Concepts",
   "body": "Unicameral legislature can best be described as",
   "options": [
-   "the process by which people acquire political values and beliefs",
-   "the legal right to exercise power",
+   "a state with no official religion",
+   "a legislature with two chambers",
    "a legislature with one chamber",
-   "a system in which power is shared between a central government and component units"
+   "the parties in the legislature that are not in government"
   ],
   "answer": 2,
   "explanation": "Unicameral legislature: a legislature with one chamber.",
@@ -340,10 +340,10 @@
   "topic": "Concepts",
   "body": "A political party can best be described as",
   "options": [
-   "a system in which the president is both head of state and head of government",
+   "the parties in the legislature that are not in government",
    "an organised group that seeks to gain control of government",
-   "the desire of a people for self-government and independence",
-   "an election to choose a party's candidate"
+   "an organised group that seeks to influence government policy without seeking power",
+   "the principle that government power is limited by a constitution"
   ],
   "answer": 1,
   "explanation": "A political party: an organised group that seeks to gain control of government.",
@@ -355,9 +355,9 @@
   "body": "A pressure group can best be described as",
   "options": [
    "an organised group that seeks to influence government policy without seeking power",
-   "the attitudes, beliefs and values of a society towards politics",
-   "a system based on land ownership and obligations between lords and vassals",
-   "the ability to make others act in a desired way, backed by sanctions"
+   "the principle that government power is limited by a constitution",
+   "the parties in the legislature that are not in government",
+   "an organised group that seeks to gain control of government"
   ],
   "answer": 0,
   "explanation": "A pressure group: an organised group that seeks to influence government policy without seeking power.",
@@ -368,10 +368,10 @@
   "topic": "Concepts",
   "body": "Public opinion can best be described as",
   "options": [
-   "an organised group that seeks to gain control of government",
+   "the French colonial policy of turning Africans into French citizens",
    "the views of the majority of citizens on public issues",
-   "government headed by a hereditary ruler",
-   "the manipulation of constituency boundaries to favour a party"
+   "an official who investigates complaints against public officials",
+   "a parliament in which no party has an overall majority"
   ],
   "answer": 1,
   "explanation": "Public opinion: the views of the majority of citizens on public issues.",
@@ -382,10 +382,10 @@
   "topic": "Concepts",
   "body": "The civil service can best be described as",
   "options": [
-   "a population living in a defined territory under a sovereign government",
+   "government of the people, by the people, for the people",
    "the body of permanent officials who implement government policies",
-   "a document setting out a party's programmes and policies",
-   "the division of government functions among the legislature, executive and judiciary"
+   "government by elders",
+   "government by a few for their own interest"
   ],
   "answer": 1,
   "explanation": "The civil service: the body of permanent officials who implement government policies.",
@@ -397,9 +397,9 @@
   "body": "The ombudsman can best be described as",
   "options": [
    "an official who investigates complaints against public officials",
-   "a government formed by two or more parties",
-   "government of the people, by the people, for the people",
-   "the principle that government power is limited by a constitution"
+   "the views of the majority of citizens on public issues",
+   "the body of permanent officials who implement government policies",
+   "a state with no official religion"
   ],
   "answer": 0,
   "explanation": "The ombudsman: an official who investigates complaints against public officials.",
@@ -411,9 +411,9 @@
   "body": "Delegated legislation can best be described as",
   "options": [
    "laws made by bodies other than the legislature under its authority",
-   "government by a privileged few regarded as the best",
-   "a system in which power is concentrated in the central government",
-   "an economic system based on private ownership of the means of production"
+   "a legislature with two chambers",
+   "a legislature with one chamber",
+   "the legal right to exercise power"
   ],
   "answer": 0,
   "explanation": "Delegated legislation: laws made by bodies other than the legislature under its authority.",
@@ -425,9 +425,9 @@
   "body": "Judicial review can best be described as",
   "options": [
    "the power of the courts to declare laws or actions unconstitutional",
-   "government by a privileged few regarded as the best",
-   "the views of the majority of citizens on public issues",
-   "the body of permanent officials who implement government policies"
+   "the supreme power of a state to make and enforce laws",
+   "the power of the executive to reject a bill",
+   "the legal right to exercise power"
   ],
   "answer": 0,
   "explanation": "Judicial review: the power of the courts to declare laws or actions unconstitutional.",
@@ -439,9 +439,9 @@
   "body": "Impeachment can best be described as",
   "options": [
    "the process of removing a president or governor from office by the legislature",
-   "a constitution that can be amended like an ordinary law",
-   "a motion showing the legislature no longer supports the government",
-   "the legal right to exercise power"
+   "a system in which the executive is drawn from and responsible to the legislature",
+   "a legislature with two chambers",
+   "a legislature with one chamber"
   ],
   "answer": 0,
   "explanation": "Impeachment: the process of removing a president or governor from office by the legislature.",
@@ -453,9 +453,9 @@
   "body": "A bill can best be described as",
   "options": [
    "a draft of a proposed law",
-   "a constitution not contained in a single document",
-   "a system in which power is shared between a central government and component units",
-   "government headed by a hereditary ruler"
+   "the power of the executive to reject a bill",
+   "government headed by a hereditary ruler",
+   "a constitution not contained in a single document"
   ],
   "answer": 0,
   "explanation": "A bill: a draft of a proposed law.",
@@ -467,9 +467,9 @@
   "body": "Veto can best be described as",
   "options": [
    "the power of the executive to reject a bill",
-   "a constitution that can be amended like an ordinary law",
-   "a legislature with two chambers",
-   "a government formed by two or more parties"
+   "a draft of a proposed law",
+   "the legal right to exercise power",
+   "a system in which power is concentrated in the central government"
   ],
   "answer": 0,
   "explanation": "Veto: the power of the executive to reject a bill.",
@@ -481,9 +481,9 @@
   "body": "Quorum can best be described as",
   "options": [
    "the minimum number of members required to hold a valid meeting",
-   "the British system of governing through traditional rulers",
-   "an organised group that seeks to influence government policy without seeking power",
-   "a constitution that requires a special procedure to amend"
+   "a party official who ensures members attend and vote as the party directs",
+   "citizenship acquired by a foreigner after meeting residency and other conditions",
+   "the British system of governing through traditional rulers"
   ],
   "answer": 0,
   "explanation": "Quorum: the minimum number of members required to hold a valid meeting.",
@@ -494,10 +494,10 @@
   "topic": "Concepts",
   "body": "Citizenship by naturalisation can best be described as",
   "options": [
-   "a population living in a defined territory under a sovereign government",
+   "laws made by bodies other than the legislature under its authority",
    "citizenship acquired by a foreigner after meeting residency and other conditions",
-   "an authoritarian ultranationalist system that suppresses opposition",
-   "a system in which the state owns the major means of production"
+   "the minimum number of members required to hold a valid meeting",
+   "an authoritarian ultranationalist system that suppresses opposition"
   ],
   "answer": 1,
   "explanation": "Citizenship by naturalisation: citizenship acquired by a foreigner after meeting residency and other conditions.",
@@ -508,9 +508,9 @@
   "topic": "Concepts",
   "body": "Capitalism can best be described as",
   "options": [
-   "a government formed by two or more parties",
    "a system in which the state owns the major means of production",
-   "a system in which the executive is drawn from and responsible to the legislature",
+   "an authoritarian ultranationalist system that suppresses opposition",
+   "a system based on land ownership and obligations between lords and vassals",
    "an economic system based on private ownership of the means of production"
   ],
   "answer": 3,
@@ -522,10 +522,10 @@
   "topic": "Concepts",
   "body": "Socialism can best be described as",
   "options": [
-   "an organised group that seeks to influence government policy without seeking power",
+   "an economic system based on private ownership of the means of production",
    "a system in which the state owns the major means of production",
-   "an administrative system with a hierarchy of officials following fixed rules",
-   "the desire of a people for self-government and independence"
+   "a system in which the president is both head of state and head of government",
+   "a system in which the state controls every aspect of life"
   ],
   "answer": 1,
   "explanation": "Socialism: a system in which the state owns the major means of production.",
@@ -537,9 +537,9 @@
   "body": "Communism can best be described as",
   "options": [
    "a classless society in which property is commonly owned",
-   "a system in which the state owns the major means of production",
-   "an economic system based on private ownership of the means of production",
-   "the ability to make others act in a desired way, backed by sanctions"
+   "a system in which power is concentrated in the central government",
+   "a parliament in which no party has an overall majority",
+   "a system in which the state owns the major means of production"
   ],
   "answer": 0,
   "explanation": "Communism: a classless society in which property is commonly owned.",
@@ -550,10 +550,10 @@
   "topic": "Concepts",
   "body": "Fascism can best be described as",
   "options": [
-   "the acceptance of a government's right to rule by the people",
-   "a system in which the state owns the major means of production",
+   "an area that elects a representative to the legislature",
+   "a constitution that can be amended like an ordinary law",
    "an authoritarian ultranationalist system that suppresses opposition",
-   "a system based on land ownership and obligations between lords and vassals"
+   "the parties in the legislature that are not in government"
   ],
   "answer": 2,
   "explanation": "Fascism: an authoritarian ultranationalist system that suppresses opposition.",
@@ -564,10 +564,10 @@
   "topic": "Concepts",
   "body": "Totalitarianism can best be described as",
   "options": [
-   "the principle that ministers share responsibility for cabinet decisions",
-   "a legislature with two chambers",
+   "a system in which power is concentrated in the central government",
+   "a system in which the president is both head of state and head of government",
    "a system in which the state controls every aspect of life",
-   "government headed by a hereditary ruler"
+   "a system in which the state owns the major means of production"
   ],
   "answer": 2,
   "explanation": "Totalitarianism: a system in which the state controls every aspect of life.",
@@ -578,10 +578,10 @@
   "topic": "Concepts",
   "body": "Oligarchy can best be described as",
   "options": [
-   "a document setting out a party's programmes and policies",
+   "government by religious leaders",
    "government by a few for their own interest",
-   "the minimum number of members required to hold a valid meeting",
-   "a constitution that requires a special procedure to amend"
+   "government of the people, by the people, for the people",
+   "government by elders"
   ],
   "answer": 1,
   "explanation": "Oligarchy: government by a few for their own interest.",
@@ -593,9 +593,9 @@
   "body": "Aristocracy can best be described as",
   "options": [
    "government by a privileged few regarded as the best",
-   "a system in which the state controls every aspect of life",
-   "the supreme power of a state to make and enforce laws",
-   "government by elders"
+   "government by a few for their own interest",
+   "government by elders",
+   "government of the people, by the people, for the people"
   ],
   "answer": 0,
   "explanation": "Aristocracy: government by a privileged few regarded as the best.",
@@ -606,9 +606,9 @@
   "topic": "Concepts",
   "body": "Monarchy can best be described as",
   "options": [
-   "the power of the executive to reject a bill",
-   "the supreme power of a state to make and enforce laws",
-   "a government formed by two or more parties",
+   "government by a few for their own interest",
+   "government of the people, by the people, for the people",
+   "government by elders",
    "government headed by a hereditary ruler"
   ],
   "answer": 3,
@@ -620,9 +620,9 @@
   "topic": "Concepts",
   "body": "Theocracy can best be described as",
   "options": [
-   "the removal of an elected representative by the voters before the end of his term",
-   "an economic system based on private ownership of the means of production",
-   "a draft of a proposed law",
+   "government by a few for their own interest",
+   "government by elders",
+   "government of the people, by the people, for the people",
    "government by religious leaders"
   ],
   "answer": 3,
@@ -635,9 +635,9 @@
   "body": "Gerontocracy can best be described as",
   "options": [
    "government by elders",
-   "a constitution that requires a special procedure to amend",
-   "a legislature with two chambers",
-   "the supremacy of law and equality of all before the law"
+   "government by a few for their own interest",
+   "government of the people, by the people, for the people",
+   "government by religious leaders"
   ],
   "answer": 0,
   "explanation": "Gerontocracy: government by elders.",
@@ -649,9 +649,9 @@
   "body": "Feudalism can best be described as",
   "options": [
    "a system based on land ownership and obligations between lords and vassals",
-   "the body of permanent officials who implement government policies",
-   "the formal ending of a parliament before fresh elections",
-   "a motion showing the legislature no longer supports the government"
+   "a system in which power is shared between a central government and component units",
+   "an authoritarian ultranationalist system that suppresses opposition",
+   "an economic system based on private ownership of the means of production"
   ],
   "answer": 0,
   "explanation": "Feudalism: a system based on land ownership and obligations between lords and vassals.",
@@ -662,10 +662,10 @@
   "topic": "Concepts",
   "body": "Decentralisation can best be described as",
   "options": [
-   "laws made by bodies other than the legislature under its authority",
+   "the principle that government power is limited by a constitution",
    "the transfer of power from the central government to lower levels",
-   "an administrative system with a hierarchy of officials following fixed rules",
-   "an official who investigates complaints against public officials"
+   "a system in which power is concentrated in the central government",
+   "a system in which power is shared between a central government and component units"
   ],
   "answer": 1,
   "explanation": "Decentralisation: the transfer of power from the central government to lower levels.",
@@ -676,10 +676,10 @@
   "topic": "Concepts",
   "body": "Nationalism can best be described as",
   "options": [
-   "the power of the courts to declare laws or actions unconstitutional",
+   "government of the people, by the people, for the people",
    "the desire of a people for self-government and independence",
-   "a motion showing the legislature no longer supports the government",
-   "a government formed by two or more parties"
+   "government by elders",
+   "the acceptance of a government's right to rule by the people"
   ],
   "answer": 1,
   "explanation": "Nationalism: the desire of a people for self-government and independence.",
@@ -691,9 +691,9 @@
   "body": "Indirect rule can best be described as",
   "options": [
    "the British system of governing through traditional rulers",
-   "a system based on land ownership and obligations between lords and vassals",
-   "government of the people, by the people, for the people",
-   "the views of the majority of citizens on public issues"
+   "the supremacy of law and equality of all before the law",
+   "a system in which power is concentrated in the central government",
+   "the acceptance of a government's right to rule by the people"
   ],
   "answer": 0,
   "explanation": "Indirect rule: the British system of governing through traditional rulers.",
@@ -705,9 +705,9 @@
   "body": "The policy of assimilation can best be described as",
   "options": [
    "the French colonial policy of turning Africans into French citizens",
+   "the views of the majority of citizens on public issues",
    "the people qualified to vote in an election",
-   "the ability to make others act in a desired way, backed by sanctions",
-   "a group of people bound by common history, culture and language"
+   "an organised group that seeks to influence government policy without seeking power"
   ],
   "answer": 0,
   "explanation": "The policy of assimilation: the French colonial policy of turning Africans into French citizens.",
@@ -718,9 +718,9 @@
   "topic": "Concepts",
   "body": "A coalition government can best be described as",
   "options": [
-   "a draft of a proposed law",
-   "the desire of a people for self-government and independence",
-   "a system in which the executive is drawn from and responsible to the legislature",
+   "government by elders",
+   "the parties in the legislature that are not in government",
+   "government of the people, by the people, for the people",
    "a government formed by two or more parties"
   ],
   "answer": 3,
@@ -732,10 +732,10 @@
   "topic": "Concepts",
   "body": "A manifesto can best be described as",
   "options": [
-   "the British system of governing through traditional rulers",
+   "an election to choose a party's candidate",
    "a document setting out a party's programmes and policies",
-   "the right of all qualified adults to vote",
-   "a system in which the state controls every aspect of life"
+   "a constitution not contained in a single document",
+   "the manipulation of constituency boundaries to favour a party"
   ],
   "answer": 1,
   "explanation": "A manifesto: a document setting out a party's programmes and policies.",
@@ -747,9 +747,9 @@
   "body": "A constituency can best be described as",
   "options": [
    "an area that elects a representative to the legislature",
-   "the acceptance of a government's right to rule by the people",
    "a legislature with one chamber",
-   "government of the people, by the people, for the people"
+   "a legislature with two chambers",
+   "the parties in the legislature that are not in government"
   ],
   "answer": 0,
   "explanation": "A constituency: an area that elects a representative to the legislature.",
@@ -760,10 +760,10 @@
   "topic": "Concepts",
   "body": "The electorate can best be described as",
   "options": [
-   "a system in which the executive is drawn from and responsible to the legislature",
+   "the right to vote",
    "the people qualified to vote in an election",
-   "the attitudes, beliefs and values of a society towards politics",
-   "a population living in a defined territory under a sovereign government"
+   "the right of all qualified adults to vote",
+   "a direct vote by the people on a specific issue"
   ],
   "answer": 1,
   "explanation": "The electorate: the people qualified to vote in an election.",
@@ -774,10 +774,10 @@
   "topic": "Concepts",
   "body": "A nation can best be described as",
   "options": [
-   "a system based on land ownership and obligations between lords and vassals",
-   "the British system of governing through traditional rulers",
+   "the people qualified to vote in an election",
+   "the acceptance of a government's right to rule by the people",
    "a group of people bound by common history, culture and language",
-   "a document setting out a party's programmes and policies"
+   "government of the people, by the people, for the people"
   ],
   "answer": 2,
   "explanation": "A nation: a group of people bound by common history, culture and language.",
@@ -789,9 +789,9 @@
   "body": "A state can best be described as",
   "options": [
    "a population living in a defined territory under a sovereign government",
-   "the principle that government power is limited by a constitution",
-   "the transfer of power from the central government to lower levels",
-   "an electoral system in which parties win seats in proportion to their votes"
+   "a system in which the president is both head of state and head of government",
+   "government of the people, by the people, for the people",
+   "government by elders"
   ],
   "answer": 0,
   "explanation": "A state: a population living in a defined territory under a sovereign government.",
@@ -802,10 +802,10 @@
   "topic": "Concepts",
   "body": "Political culture can best be described as",
   "options": [
-   "a body of electors chosen to elect a leader",
-   "the desire of a people for self-government and independence",
+   "a group of people bound by common history, culture and language",
+   "the process by which people acquire political values and beliefs",
    "the attitudes, beliefs and values of a society towards politics",
-   "government by religious leaders"
+   "a classless society in which property is commonly owned"
   ],
   "answer": 2,
   "explanation": "Political culture: the attitudes, beliefs and values of a society towards politics.",
@@ -817,9 +817,9 @@
   "body": "Political socialisation can best be described as",
   "options": [
    "the process by which people acquire political values and beliefs",
-   "a legislature with one chamber",
-   "the body of permanent officials who implement government policies",
-   "government headed by a hereditary ruler"
+   "the people qualified to vote in an election",
+   "the attitudes, beliefs and values of a society towards politics",
+   "government of the people, by the people, for the people"
   ],
   "answer": 0,
   "explanation": "Political socialisation: the process by which people acquire political values and beliefs.",
@@ -830,9 +830,9 @@
   "topic": "Concepts",
   "body": "Bureaucracy can best be described as",
   "options": [
-   "the process of removing a president or governor from office by the legislature",
-   "government of the people, by the people, for the people",
-   "a system in which the state controls every aspect of life",
+   "a legislature with two chambers",
+   "a state with no official religion",
+   "a legislature with one chamber",
    "an administrative system with a hierarchy of officials following fixed rules"
   ],
   "answer": 3,
@@ -844,10 +844,10 @@
   "topic": "Concepts",
   "body": "Constitutionalism can best be described as",
   "options": [
-   "a group of people bound by common history, culture and language",
-   "a population living in a defined territory under a sovereign government",
+   "an organised group that seeks to influence government policy without seeking power",
+   "a constitution that can be amended like an ordinary law",
    "the principle that government power is limited by a constitution",
-   "the power of the executive to reject a bill"
+   "the parties in the legislature that are not in government"
   ],
   "answer": 2,
   "explanation": "Constitutionalism: the principle that government power is limited by a constitution.",
@@ -858,10 +858,10 @@
   "topic": "Concepts",
   "body": "A secular state can best be described as",
   "options": [
-   "the British system of governing through traditional rulers",
+   "a legislature with two chambers",
    "a state with no official religion",
-   "government by elders",
-   "a government formed by two or more parties"
+   "an official who investigates complaints against public officials",
+   "a legislature with one chamber"
   ],
   "answer": 1,
   "explanation": "A secular state: a state with no official religion.",
@@ -872,9 +872,9 @@
   "topic": "Concepts",
   "body": "An electoral college can best be described as",
   "options": [
-   "a draft of a proposed law",
    "the views of the majority of citizens on public issues",
-   "the manipulation of constituency boundaries to favour a party",
+   "the body of permanent officials who implement government policies",
+   "an electoral system in which parties win seats in proportion to their votes",
    "a body of electors chosen to elect a leader"
   ],
   "answer": 3,
@@ -886,9 +886,9 @@
   "topic": "Concepts",
   "body": "A by-election can best be described as",
   "options": [
+   "the people qualified to vote in an election",
    "the formal ending of a parliament before fresh elections",
-   "the attitudes, beliefs and values of a society towards politics",
-   "a classless society in which property is commonly owned",
+   "an election to choose a party's candidate",
    "an election held to fill a vacant seat"
   ],
   "answer": 3,
@@ -900,10 +900,10 @@
   "topic": "Concepts",
   "body": "A primary election can best be described as",
   "options": [
-   "government by a few for their own interest",
-   "the supreme power of a state to make and enforce laws",
+   "the people qualified to vote in an election",
+   "an election held to fill a vacant seat",
    "an election to choose a party's candidate",
-   "a government formed by two or more parties"
+   "a parliament in which no party has an overall majority"
   ],
   "answer": 2,
   "explanation": "A primary election: an election to choose a party's candidate.",
@@ -914,10 +914,10 @@
   "topic": "Concepts",
   "body": "The opposition can best be described as",
   "options": [
-   "an administrative system with a hierarchy of officials following fixed rules",
+   "a government formed by two or more parties",
    "the parties in the legislature that are not in government",
-   "a legislature with two chambers",
-   "a constitution not contained in a single document"
+   "an area that elects a representative to the legislature",
+   "the principle that government power is limited by a constitution"
   ],
   "answer": 1,
   "explanation": "The opposition: the parties in the legislature that are not in government.",
@@ -928,10 +928,10 @@
   "topic": "Concepts",
   "body": "The whip can best be described as",
   "options": [
-   "a union of sovereign states with a weak central authority",
+   "an election to choose a party's candidate",
    "a party official who ensures members attend and vote as the party directs",
-   "the process by which people acquire political values and beliefs",
-   "government by a few for their own interest"
+   "the right to vote",
+   "a state with no official religion"
   ],
   "answer": 1,
   "explanation": "The whip: a party official who ensures members attend and vote as the party directs.",
@@ -942,10 +942,10 @@
   "topic": "Concepts",
   "body": "A hung parliament can best be described as",
   "options": [
-   "government by a privileged few regarded as the best",
+   "the views of the majority of citizens on public issues",
    "a parliament in which no party has an overall majority",
-   "a system in which power is shared between a central government and component units",
-   "an election held to fill a vacant seat"
+   "a document setting out a party's programmes and policies",
+   "an election to choose a party's candidate"
   ],
   "answer": 1,
   "explanation": "A hung parliament: a parliament in which no party has an overall majority.",
@@ -957,9 +957,9 @@
   "body": "Collective responsibility can best be described as",
   "options": [
    "the principle that ministers share responsibility for cabinet decisions",
-   "the transfer of power from the central government to lower levels",
-   "the attitudes, beliefs and values of a society towards politics",
-   "a system in which power is shared between a central government and component units"
+   "an area that elects a representative to the legislature",
+   "the principle that government power is limited by a constitution",
+   "the parties in the legislature that are not in government"
   ],
   "answer": 0,
   "explanation": "Collective responsibility: the principle that ministers share responsibility for cabinet decisions.",
@@ -970,10 +970,10 @@
   "topic": "Concepts",
   "body": "A vote of no confidence can best be described as",
   "options": [
-   "an economic system based on private ownership of the means of production",
+   "the division of government functions among the legislature, executive and judiciary",
    "a motion showing the legislature no longer supports the government",
-   "laws made by bodies other than the legislature under its authority",
-   "the desire of a people for self-government and independence"
+   "government by elders",
+   "the parties in the legislature that are not in government"
   ],
   "answer": 1,
   "explanation": "A vote of no confidence: a motion showing the legislature no longer supports the government.",
@@ -984,9 +984,9 @@
   "topic": "Concepts",
   "body": "Dissolution can best be described as",
   "options": [
-   "a direct vote by the people on a specific issue",
-   "the minimum number of members required to hold a valid meeting",
-   "an electoral system in which parties win seats in proportion to their votes",
+   "the removal of an elected representative by the voters before the end of his term",
+   "a parliament in which no party has an overall majority",
+   "the supremacy of law and equality of all before the law",
    "the formal ending of a parliament before fresh elections"
   ],
   "answer": 3,
@@ -999,9 +999,9 @@
   "body": "What term describes government of the people, by the people, for the people?",
   "options": [
    "Democracy",
-   "Proportional representation",
-   "Recall",
-   "Gerrymandering"
+   "Nationalism",
+   "Legitimacy",
+   "Gerontocracy"
   ],
   "answer": 0,
   "explanation": "This is the meaning of democracy.",
@@ -1013,9 +1013,9 @@
   "body": "What term describes the supreme power of a state to make and enforce laws?",
   "options": [
    "Sovereignty",
-   "Manifesto",
-   "Referendum",
-   "Fascism"
+   "Power",
+   "Secular state",
+   "Judicial review"
   ],
   "answer": 0,
   "explanation": "This is the meaning of sovereignty.",
@@ -1026,10 +1026,10 @@
   "topic": "Concepts",
   "body": "What term describes the acceptance of a government's right to rule by the people?",
   "options": [
-   "Citizenship by naturalisation",
+   "Nationalism",
    "Legitimacy",
-   "Ombudsman",
-   "Theocracy"
+   "Gerontocracy",
+   "Democracy"
   ],
   "answer": 1,
   "explanation": "This is the meaning of legitimacy.",
@@ -1040,10 +1040,10 @@
   "topic": "Concepts",
   "body": "What term describes the ability to make others act in a desired way, backed by sanctions?",
   "options": [
-   "Recall",
-   "By-election",
+   "Checks and balances",
+   "Sovereignty",
    "Power",
-   "Confederation"
+   "Veto"
   ],
   "answer": 2,
   "explanation": "This is the meaning of power.",
@@ -1055,9 +1055,9 @@
   "body": "What term describes the legal right to exercise power?",
   "options": [
    "Authority",
-   "Democracy",
-   "Public opinion",
-   "Federalism"
+   "Legitimacy",
+   "Franchise",
+   "Veto"
   ],
   "answer": 0,
   "explanation": "This is the meaning of authority.",
@@ -1068,9 +1068,9 @@
   "topic": "Concepts",
   "body": "What term describes the supremacy of law and equality of all before the law?",
   "options": [
-   "Political party",
-   "Primary election",
-   "Citizenship by naturalisation",
+   "Recall",
+   "Dissolution",
+   "Legitimacy",
    "Rule of law"
   ],
   "answer": 3,
@@ -1082,10 +1082,10 @@
   "topic": "Concepts",
   "body": "What term describes the division of government functions among the legislature, executive and judiciary?",
   "options": [
-   "Nation",
-   "Power",
+   "Opposition",
+   "Vote of no confidence",
    "Separation of powers",
-   "Veto"
+   "Parliamentary system"
   ],
   "answer": 2,
   "explanation": "This is the meaning of separation of powers.",
@@ -1096,10 +1096,10 @@
   "topic": "Concepts",
   "body": "What term describes the control of each arm of government by the others to prevent abuse of power?",
   "options": [
-   "Recall",
+   "Constitutionalism",
    "Checks and balances",
-   "Whip",
-   "Totalitarianism"
+   "Unitary system",
+   "Power"
   ],
   "answer": 1,
   "explanation": "This is the meaning of checks and balances.",
@@ -1111,9 +1111,9 @@
   "body": "What term describes a system in which power is shared between a central government and component units?",
   "options": [
    "Presidential system",
-   "Civil service",
+   "Decentralisation",
    "Federalism",
-   "Quorum"
+   "Unitary system"
   ],
   "answer": 2,
   "explanation": "This is the meaning of federalism.",
@@ -1124,10 +1124,10 @@
   "topic": "Concepts",
   "body": "What term describes a system in which power is concentrated in the central government?",
   "options": [
-   "Constitutionalism",
+   "Federalism",
    "Unitary system",
-   "Parliamentary system",
-   "Rigid constitution"
+   "Decentralisation",
+   "Presidential system"
   ],
   "answer": 1,
   "explanation": "This is the meaning of unitary system.",
@@ -1138,9 +1138,9 @@
   "topic": "Concepts",
   "body": "What term describes a union of sovereign states with a weak central authority?",
   "options": [
-   "Federalism",
-   "Legitimacy",
+   "Bicameral legislature",
    "Authority",
+   "Unicameral legislature",
    "Confederation"
   ],
   "answer": 3,
@@ -1152,10 +1152,10 @@
   "topic": "Concepts",
   "body": "What term describes a constitution that requires a special procedure to amend?",
   "options": [
-   "Policy of assimilation",
-   "Rule of law",
+   "Flexible constitution",
+   "Constitutionalism",
    "Rigid constitution",
-   "State"
+   "Unwritten constitution"
   ],
   "answer": 2,
   "explanation": "This is the meaning of rigid constitution.",
@@ -1166,9 +1166,9 @@
   "topic": "Concepts",
   "body": "What term describes a constitution that can be amended like an ordinary law?",
   "options": [
-   "Monarchy",
-   "Unitary system",
-   "Hung parliament",
+   "Rigid constitution",
+   "Opposition",
+   "Constitutionalism",
    "Flexible constitution"
   ],
   "answer": 3,
@@ -1181,9 +1181,9 @@
   "body": "What term describes a constitution not contained in a single document?",
   "options": [
    "Unwritten constitution",
-   "Secular state",
+   "Constitutionalism",
    "Flexible constitution",
-   "Theocracy"
+   "Manifesto"
   ],
   "answer": 0,
   "explanation": "This is the meaning of unwritten constitution.",
@@ -1194,10 +1194,10 @@
   "topic": "Concepts",
   "body": "What term describes a system in which the president is both head of state and head of government?",
   "options": [
-   "Rule of law",
-   "Universal adult suffrage",
+   "Unitary system",
+   "Socialism",
    "Presidential system",
-   "Vote of no confidence"
+   "Totalitarianism"
   ],
   "answer": 2,
   "explanation": "This is the meaning of presidential system.",
@@ -1209,9 +1209,9 @@
   "body": "What term describes a system in which the executive is drawn from and responsible to the legislature?",
   "options": [
    "Parliamentary system",
-   "Communism",
-   "Authority",
-   "Checks and balances"
+   "Impeachment",
+   "Unitary system",
+   "Socialism"
   ],
   "answer": 0,
   "explanation": "This is the meaning of parliamentary system.",
@@ -1222,10 +1222,10 @@
   "topic": "Concepts",
   "body": "What term describes the right to vote?",
   "options": [
-   "Indirect rule",
+   "Universal adult suffrage",
    "Franchise",
-   "Proportional representation",
-   "Theocracy"
+   "Electorate",
+   "Authority"
   ],
   "answer": 1,
   "explanation": "This is the meaning of franchise.",
@@ -1236,10 +1236,10 @@
   "topic": "Concepts",
   "body": "What term describes the right of all qualified adults to vote?",
   "options": [
-   "State",
-   "Rule of law",
+   "Electorate",
+   "Franchise",
    "Universal adult suffrage",
-   "Bill"
+   "Authority"
   ],
   "answer": 2,
   "explanation": "This is the meaning of universal adult suffrage.",
@@ -1251,9 +1251,9 @@
   "body": "What term describes an electoral system in which parties win seats in proportion to their votes?",
   "options": [
    "Proportional representation",
-   "Electorate",
-   "Fascism",
-   "Civil service"
+   "Totalitarianism",
+   "Unitary system",
+   "Socialism"
   ],
   "answer": 0,
   "explanation": "This is the meaning of proportional representation.",
@@ -1264,10 +1264,10 @@
   "topic": "Concepts",
   "body": "What term describes the manipulation of constituency boundaries to favour a party?",
   "options": [
-   "Civil service",
-   "Monarchy",
+   "Hung parliament",
+   "Primary election",
    "Gerrymandering",
-   "Electoral college"
+   "Manifesto"
   ],
   "answer": 2,
   "explanation": "This is the meaning of gerrymandering.",
@@ -1278,10 +1278,10 @@
   "topic": "Concepts",
   "body": "What term describes a direct vote by the people on a specific issue?",
   "options": [
-   "Gerrymandering",
+   "Franchise",
    "Referendum",
-   "Checks and balances",
-   "Pressure group"
+   "Electorate",
+   "Democracy"
   ],
   "answer": 1,
   "explanation": "This is the meaning of referendum.",
@@ -1293,9 +1293,9 @@
   "body": "What term describes the removal of an elected representative by the voters before the end of his term?",
   "options": [
    "Recall",
-   "Civil service",
-   "Judicial review",
-   "Theocracy"
+   "Constituency",
+   "Rule of law",
+   "Dissolution"
   ],
   "answer": 0,
   "explanation": "This is the meaning of recall.",
@@ -1306,9 +1306,9 @@
   "topic": "Concepts",
   "body": "What term describes a legislature with two chambers?",
   "options": [
-   "Rigid constitution",
-   "Dissolution",
    "Unicameral legislature",
+   "Opposition",
+   "Secular state",
    "Bicameral legislature"
   ],
   "answer": 3,
@@ -1320,10 +1320,10 @@
   "topic": "Concepts",
   "body": "What term describes a legislature with one chamber?",
   "options": [
-   "Legitimacy",
-   "Oligarchy",
+   "Opposition",
+   "Secular state",
    "Unicameral legislature",
-   "Monarchy"
+   "Bicameral legislature"
   ],
   "answer": 2,
   "explanation": "This is the meaning of unicameral legislature.",
@@ -1335,9 +1335,9 @@
   "body": "What term describes an organised group that seeks to gain control of government?",
   "options": [
    "Political party",
-   "Bill",
-   "Citizenship by naturalisation",
-   "Policy of assimilation"
+   "Pressure group",
+   "Opposition",
+   "Constitutionalism"
   ],
   "answer": 0,
   "explanation": "This is the meaning of political party.",
@@ -1350,8 +1350,8 @@
   "options": [
    "Pressure group",
    "Opposition",
-   "Capitalism",
-   "Ombudsman"
+   "Constitutionalism",
+   "Political party"
   ],
   "answer": 0,
   "explanation": "This is the meaning of pressure group.",
@@ -1362,10 +1362,10 @@
   "topic": "Concepts",
   "body": "What term describes the views of the majority of citizens on public issues?",
   "options": [
-   "Nationalism",
+   "Policy of assimilation",
    "Public opinion",
-   "Hung parliament",
-   "Presidential system"
+   "Ombudsman",
+   "Hung parliament"
   ],
   "answer": 1,
   "explanation": "This is the meaning of public opinion.",
@@ -1376,10 +1376,10 @@
   "topic": "Concepts",
   "body": "What term describes the body of permanent officials who implement government policies?",
   "options": [
-   "Ombudsman",
-   "Unwritten constitution",
+   "Theocracy",
+   "Democracy",
    "Civil service",
-   "Electoral college"
+   "Gerontocracy"
   ],
   "answer": 2,
   "explanation": "This is the meaning of civil service.",
@@ -1391,9 +1391,9 @@
   "body": "What term describes an official who investigates complaints against public officials?",
   "options": [
    "Ombudsman",
-   "Franchise",
-   "Rule of law",
-   "Delegated legislation"
+   "Secular state",
+   "Public opinion",
+   "Whip"
   ],
   "answer": 0,
   "explanation": "This is the meaning of ombudsman.",
@@ -1404,9 +1404,9 @@
   "topic": "Concepts",
   "body": "What term describes laws made by bodies other than the legislature under its authority?",
   "options": [
-   "Communism",
-   "Coalition government",
-   "Fascism",
+   "Unicameral legislature",
+   "Bicameral legislature",
+   "Opposition",
    "Delegated legislation"
   ],
   "answer": 3,
@@ -1418,9 +1418,9 @@
   "topic": "Concepts",
   "body": "What term describes the power of the courts to declare laws or actions unconstitutional?",
   "options": [
-   "Proportional representation",
-   "Gerrymandering",
-   "Rule of law",
+   "Veto",
+   "Authority",
+   "Sovereignty",
    "Judicial review"
   ],
   "answer": 3,
@@ -1432,10 +1432,10 @@
   "topic": "Concepts",
   "body": "What term describes the process of removing a president or governor from office by the legislature?",
   "options": [
-   "Separation of powers",
+   "Bicameral legislature",
    "Impeachment",
-   "Hung parliament",
-   "Unitary system"
+   "Parliamentary system",
+   "Unicameral legislature"
   ],
   "answer": 1,
   "explanation": "This is the meaning of impeachment.",
@@ -1446,10 +1446,10 @@
   "topic": "Concepts",
   "body": "What term describes a draft of a proposed law?",
   "options": [
-   "Rigid constitution",
    "Impeachment",
+   "Veto",
    "Bill",
-   "Decentralisation"
+   "Rigid constitution"
   ],
   "answer": 2,
   "explanation": "This is the meaning of bill.",
@@ -1460,9 +1460,9 @@
   "topic": "Concepts",
   "body": "What term describes the power of the executive to reject a bill?",
   "options": [
-   "Opposition",
-   "Legitimacy",
-   "Collective responsibility",
+   "Bill",
+   "Authority",
+   "Power",
    "Veto"
   ],
   "answer": 3,
@@ -1474,9 +1474,9 @@
   "topic": "Concepts",
   "body": "What term describes the minimum number of members required to hold a valid meeting?",
   "options": [
+   "Whip",
+   "Citizenship by naturalisation",
    "Legitimacy",
-   "Flexible constitution",
-   "By-election",
    "Quorum"
   ],
   "answer": 3,
@@ -1489,9 +1489,9 @@
   "body": "What term describes citizenship acquired by a foreigner after meeting residency and other conditions?",
   "options": [
    "Citizenship by naturalisation",
-   "Nation",
-   "Whip",
-   "Communism"
+   "Quorum",
+   "Delegated legislation",
+   "Nation"
   ],
   "answer": 0,
   "explanation": "This is the meaning of citizenship by naturalisation.",
@@ -1502,10 +1502,10 @@
   "topic": "Concepts",
   "body": "What term describes an economic system based on private ownership of the means of production?",
   "options": [
-   "Unwritten constitution",
-   "Checks and balances",
+   "Feudalism",
+   "Unitary system",
    "Capitalism",
-   "Opposition"
+   "Socialism"
   ],
   "answer": 2,
   "explanation": "This is the meaning of capitalism.",
@@ -1516,10 +1516,10 @@
   "topic": "Concepts",
   "body": "What term describes a system in which the state owns the major means of production?",
   "options": [
-   "By-election",
-   "Theocracy",
+   "Capitalism",
+   "Presidential system",
    "Socialism",
-   "Separation of powers"
+   "Totalitarianism"
   ],
   "answer": 2,
   "explanation": "This is the meaning of socialism.",
@@ -1531,8 +1531,8 @@
   "body": "What term describes a classless society in which property is commonly owned?",
   "options": [
    "Communism",
-   "Public opinion",
-   "Unicameral legislature",
+   "Political culture",
+   "Hung parliament",
    "Unitary system"
   ],
   "answer": 0,
@@ -1545,9 +1545,9 @@
   "body": "What term describes an authoritarian ultranationalist system that suppresses opposition?",
   "options": [
    "Fascism",
-   "Legitimacy",
-   "Communism",
-   "State"
+   "Flexible constitution",
+   "Constituency",
+   "Opposition"
   ],
   "answer": 0,
   "explanation": "This is the meaning of fascism.",
@@ -1558,10 +1558,10 @@
   "topic": "Concepts",
   "body": "What term describes a system in which the state controls every aspect of life?",
   "options": [
-   "Delegated legislation",
+   "Socialism",
    "Totalitarianism",
-   "Veto",
-   "Rule of law"
+   "Unitary system",
+   "Presidential system"
   ],
   "answer": 1,
   "explanation": "This is the meaning of totalitarianism.",
@@ -1572,10 +1572,10 @@
   "topic": "Concepts",
   "body": "What term describes government by a few for their own interest?",
   "options": [
-   "Constitutionalism",
-   "Aristocracy",
+   "Democracy",
+   "Gerontocracy",
    "Oligarchy",
-   "Authority"
+   "Theocracy"
   ],
   "answer": 2,
   "explanation": "This is the meaning of oligarchy.",
@@ -1587,9 +1587,9 @@
   "body": "What term describes government by a privileged few regarded as the best?",
   "options": [
    "Aristocracy",
-   "Confederation",
-   "Socialism",
-   "Unwritten constitution"
+   "Gerontocracy",
+   "Oligarchy",
+   "Democracy"
   ],
   "answer": 0,
   "explanation": "This is the meaning of aristocracy.",
@@ -1600,10 +1600,10 @@
   "topic": "Concepts",
   "body": "What term describes government headed by a hereditary ruler?",
   "options": [
-   "Political culture",
-   "Impeachment",
+   "Oligarchy",
+   "Democracy",
    "Monarchy",
-   "Oligarchy"
+   "Gerontocracy"
   ],
   "answer": 2,
   "explanation": "This is the meaning of monarchy.",
@@ -1615,9 +1615,9 @@
   "body": "What term describes government by religious leaders?",
   "options": [
    "Theocracy",
-   "Decentralisation",
-   "Democracy",
-   "Dissolution"
+   "Oligarchy",
+   "Gerontocracy",
+   "Democracy"
   ],
   "answer": 0,
   "explanation": "This is the meaning of theocracy.",
@@ -1629,9 +1629,9 @@
   "body": "What term describes government by elders?",
   "options": [
    "Gerontocracy",
-   "By-election",
-   "Proportional representation",
-   "Dissolution"
+   "Theocracy",
+   "Oligarchy",
+   "Democracy"
   ],
   "answer": 0,
   "explanation": "This is the meaning of gerontocracy.",
@@ -1642,10 +1642,10 @@
   "topic": "Concepts",
   "body": "What term describes a system based on land ownership and obligations between lords and vassals?",
   "options": [
-   "Vote of no confidence",
+   "Fascism",
    "Feudalism",
-   "Public opinion",
-   "Proportional representation"
+   "Capitalism",
+   "Federalism"
   ],
   "answer": 1,
   "explanation": "This is the meaning of feudalism.",
@@ -1656,10 +1656,10 @@
   "topic": "Concepts",
   "body": "What term describes the transfer of power from the central government to lower levels?",
   "options": [
-   "Gerontocracy",
+   "Federalism",
    "Decentralisation",
-   "Checks and balances",
-   "Democracy"
+   "Constitutionalism",
+   "Unitary system"
   ],
   "answer": 1,
   "explanation": "This is the meaning of decentralisation.",
@@ -1670,9 +1670,9 @@
   "topic": "Concepts",
   "body": "What term describes the desire of a people for self-government and independence?",
   "options": [
-   "Flexible constitution",
-   "Manifesto",
-   "Policy of assimilation",
+   "Democracy",
+   "Legitimacy",
+   "Gerontocracy",
    "Nationalism"
   ],
   "answer": 3,
@@ -1684,10 +1684,10 @@
   "topic": "Concepts",
   "body": "What term describes the British system of governing through traditional rulers?",
   "options": [
-   "Parliamentary system",
-   "Political culture",
+   "Fascism",
+   "Legitimacy",
    "Indirect rule",
-   "Constituency"
+   "Rule of law"
   ],
   "answer": 2,
   "explanation": "This is the meaning of indirect rule.",
@@ -1698,10 +1698,10 @@
   "topic": "Concepts",
   "body": "What term describes the French colonial policy of turning Africans into French citizens?",
   "options": [
-   "Power",
+   "Constituency",
    "Policy of assimilation",
-   "Collective responsibility",
-   "Constituency"
+   "Pressure group",
+   "Public opinion"
   ],
   "answer": 1,
   "explanation": "This is the meaning of policy of assimilation.",
@@ -1712,9 +1712,9 @@
   "topic": "Concepts",
   "body": "What term describes a government formed by two or more parties?",
   "options": [
-   "Universal adult suffrage",
-   "Oligarchy",
-   "Confederation",
+   "Gerontocracy",
+   "Opposition",
+   "Democracy",
    "Coalition government"
   ],
   "answer": 3,
@@ -1726,9 +1726,9 @@
   "topic": "Concepts",
   "body": "What term describes a document setting out a party's programmes and policies?",
   "options": [
-   "Rule of law",
-   "Federalism",
-   "Public opinion",
+   "Gerrymandering",
+   "Primary election",
+   "Unwritten constitution",
    "Manifesto"
   ],
   "answer": 3,
@@ -1741,9 +1741,9 @@
   "body": "What term describes an area that elects a representative to the legislature?",
   "options": [
    "Constituency",
-   "State",
-   "Universal adult suffrage",
-   "Oligarchy"
+   "Bicameral legislature",
+   "Opposition",
+   "Unicameral legislature"
   ],
   "answer": 0,
   "explanation": "This is the meaning of constituency.",
@@ -1755,9 +1755,9 @@
   "body": "What term describes the people qualified to vote in an election?",
   "options": [
    "Electorate",
-   "Gerontocracy",
-   "Sovereignty",
-   "Universal adult suffrage"
+   "Referendum",
+   "Universal adult suffrage",
+   "Democracy"
   ],
   "answer": 0,
   "explanation": "This is the meaning of electorate.",
@@ -1768,10 +1768,10 @@
   "topic": "Concepts",
   "body": "What term describes a group of people bound by common history, culture and language?",
   "options": [
-   "Legitimacy",
-   "Aristocracy",
+   "Electorate",
+   "Democracy",
    "Nation",
-   "Authority"
+   "Legitimacy"
   ],
   "answer": 2,
   "explanation": "This is the meaning of nation.",
@@ -1782,10 +1782,10 @@
   "topic": "Concepts",
   "body": "What term describes a population living in a defined territory under a sovereign government?",
   "options": [
-   "Sovereignty",
+   "Democracy",
    "State",
-   "Communism",
-   "Unicameral legislature"
+   "Gerontocracy",
+   "Presidential system"
   ],
   "answer": 1,
   "explanation": "This is the meaning of state.",
@@ -1796,10 +1796,10 @@
   "topic": "Concepts",
   "body": "What term describes the attitudes, beliefs and values of a society towards politics?",
   "options": [
-   "State",
+   "Communism",
    "Political culture",
-   "Confederation",
-   "Judicial review"
+   "Political socialisation",
+   "Nation"
   ],
   "answer": 1,
   "explanation": "This is the meaning of political culture.",
@@ -1810,10 +1810,10 @@
   "topic": "Concepts",
   "body": "What term describes the process by which people acquire political values and beliefs?",
   "options": [
-   "Judicial review",
+   "Political culture",
    "Political socialisation",
-   "Electoral college",
-   "Whip"
+   "Electorate",
+   "Democracy"
   ],
   "answer": 1,
   "explanation": "This is the meaning of political socialisation.",
@@ -1824,10 +1824,10 @@
   "topic": "Concepts",
   "body": "What term describes an administrative system with a hierarchy of officials following fixed rules?",
   "options": [
-   "Franchise",
+   "Secular state",
    "Bureaucracy",
-   "Bill",
-   "Veto"
+   "Bicameral legislature",
+   "Unicameral legislature"
   ],
   "answer": 1,
   "explanation": "This is the meaning of bureaucracy.",
@@ -1838,10 +1838,10 @@
   "topic": "Concepts",
   "body": "What term describes the principle that government power is limited by a constitution?",
   "options": [
-   "Authority",
+   "Flexible constitution",
    "Constitutionalism",
-   "Electoral college",
-   "Theocracy"
+   "Pressure group",
+   "Opposition"
   ],
   "answer": 1,
   "explanation": "This is the meaning of constitutionalism.",
@@ -1852,9 +1852,9 @@
   "topic": "Concepts",
   "body": "What term describes a state with no official religion?",
   "options": [
+   "Bicameral legislature",
+   "Unicameral legislature",
    "Sovereignty",
-   "Vote of no confidence",
-   "Quorum",
    "Secular state"
   ],
   "answer": 3,
@@ -1866,10 +1866,10 @@
   "topic": "Concepts",
   "body": "What term describes a body of electors chosen to elect a leader?",
   "options": [
-   "Gerrymandering",
+   "Civil service",
    "Electoral college",
-   "Democracy",
-   "Electorate"
+   "Gerrymandering",
+   "Proportional representation"
   ],
   "answer": 1,
   "explanation": "This is the meaning of electoral college.",
@@ -1880,10 +1880,10 @@
   "topic": "Concepts",
   "body": "What term describes an election held to fill a vacant seat?",
   "options": [
-   "Recall",
-   "Parliamentary system",
+   "Electorate",
+   "Whip",
    "By-election",
-   "Whip"
+   "Primary election"
   ],
   "answer": 2,
   "explanation": "This is the meaning of by-election.",
@@ -1895,9 +1895,9 @@
   "body": "What term describes an election to choose a party's candidate?",
   "options": [
    "Primary election",
-   "Parliamentary system",
-   "Gerontocracy",
-   "Unitary system"
+   "Manifesto",
+   "By-election",
+   "Electorate"
   ],
   "answer": 0,
   "explanation": "This is the meaning of primary election.",
@@ -1909,9 +1909,9 @@
   "body": "What term describes the parties in the legislature that are not in government?",
   "options": [
    "Opposition",
-   "Constitutionalism",
-   "Manifesto",
-   "Whip"
+   "Constituency",
+   "Coalition government",
+   "Constitutionalism"
   ],
   "answer": 0,
   "explanation": "This is the meaning of opposition.",
@@ -1922,10 +1922,10 @@
   "topic": "Concepts",
   "body": "What term describes a party official who ensures members attend and vote as the party directs?",
   "options": [
-   "Proportional representation",
-   "State",
+   "Franchise",
+   "Secular state",
    "Whip",
-   "Rule of law"
+   "Electorate"
   ],
   "answer": 2,
   "explanation": "This is the meaning of whip.",
@@ -1937,9 +1937,9 @@
   "body": "What term describes a parliament in which no party has an overall majority?",
   "options": [
    "Hung parliament",
+   "Public opinion",
    "Manifesto",
-   "Authority",
-   "Franchise"
+   "Primary election"
   ],
   "answer": 0,
   "explanation": "This is the meaning of hung parliament.",
@@ -1951,9 +1951,9 @@
   "body": "What term describes the principle that ministers share responsibility for cabinet decisions?",
   "options": [
    "Collective responsibility",
-   "Rigid constitution",
-   "Gerrymandering",
-   "Recall"
+   "Constitutionalism",
+   "Flexible constitution",
+   "Opposition"
   ],
   "answer": 0,
   "explanation": "This is the meaning of collective responsibility.",
@@ -1964,10 +1964,10 @@
   "topic": "Concepts",
   "body": "What term describes a motion showing the legislature no longer supports the government?",
   "options": [
-   "Proportional representation",
-   "Pressure group",
+   "Separation of powers",
+   "Opposition",
    "Vote of no confidence",
-   "Dissolution"
+   "Gerontocracy"
   ],
   "answer": 2,
   "explanation": "This is the meaning of vote of no confidence.",
@@ -1978,9 +1978,9 @@
   "topic": "Concepts",
   "body": "What term describes the formal ending of a parliament before fresh elections?",
   "options": [
-   "Recall",
-   "Ombudsman",
    "Hung parliament",
+   "Rule of law",
+   "Recall",
    "Dissolution"
   ],
   "answer": 3,
@@ -2006,9 +2006,9 @@
   "topic": "Political thinkers",
   "body": "A. V. Dicey is best known for",
   "options": [
-   "The Prince",
-   "the concept of the general will",
    "a classic definition of federal government",
+   "indirect rule in Northern Nigeria",
+   "the concept of the general will",
    "the concept of the rule of law"
   ],
   "answer": 3,
@@ -2104,10 +2104,10 @@
   "topic": "Political thinkers",
   "body": "K. C. Wheare is best known for",
   "options": [
-   "the concept of the rule of law",
-   "a classic definition of federal government",
    "The Republic",
-   "the idea that 'man is by nature a political animal'"
+   "a classic definition of federal government",
+   "the idea that 'man is by nature a political animal'",
+   "the definition of democracy as government 'of the people, by the people, for the people'"
   ],
   "answer": 1,
   "explanation": "K. C. Wheare is associated with a classic definition of federal government.",
@@ -2119,9 +2119,9 @@
   "body": "Abraham Lincoln is best known for",
   "options": [
    "the definition of democracy as government 'of the people, by the people, for the people'",
+   "Leviathan",
    "the concept of the rule of law",
-   "the theory of separation of powers",
-   "Leviathan"
+   "a classic definition of federal government"
   ],
   "answer": 0,
   "explanation": "Abraham Lincoln is associated with the definition of democracy as government 'of the people, by the people, for the people'.",
@@ -2146,10 +2146,10 @@
   "topic": "Political thinkers",
   "body": "Lord Lugard is best known for",
   "options": [
+   "the concept of the rule of law",
    "The Prince",
-   "scientific socialism (The Communist Manifesto)",
    "indirect rule in Northern Nigeria",
-   "the classification of authority into traditional, charismatic and legal-rational"
+   "scientific socialism (The Communist Manifesto)"
   ],
   "answer": 2,
   "explanation": "Lord Lugard is associated with indirect rule in Northern Nigeria.",
@@ -2174,10 +2174,10 @@
   "topic": "Political thinkers",
   "body": "Which thinker is associated with the concept of the rule of law?",
   "options": [
-   "Baron de Montesquieu",
+   "Jean-Jacques Rousseau",
    "A. V. Dicey",
-   "Plato",
-   "Abraham Lincoln"
+   "Abraham Lincoln",
+   "Lord Lugard"
   ],
   "answer": 1,
   "explanation": "The concept of the rule of law is associated with A. V. Dicey.",
@@ -2216,10 +2216,10 @@
   "topic": "Political thinkers",
   "body": "Which thinker is associated with the concept of the general will?",
   "options": [
+   "Aristotle",
    "Lord Lugard",
-   "Plato",
    "Jean-Jacques Rousseau",
-   "Aristotle"
+   "A. V. Dicey"
   ],
   "answer": 2,
   "explanation": "The concept of the general will is associated with Jean-Jacques Rousseau.",
@@ -2272,10 +2272,10 @@
   "topic": "Political thinkers",
   "body": "Which thinker is associated with a classic definition of federal government?",
   "options": [
-   "Plato",
-   "Aristotle",
+   "Abraham Lincoln",
+   "A. V. Dicey",
    "K. C. Wheare",
-   "A. V. Dicey"
+   "Plato"
   ],
   "answer": 2,
   "explanation": "A classic definition of federal government is associated with K. C. Wheare.",
@@ -2287,9 +2287,9 @@
   "body": "Which thinker is associated with the definition of democracy as government 'of the people, by the people, for the people'?",
   "options": [
    "Abraham Lincoln",
-   "Aristotle",
-   "Niccolò Machiavelli",
-   "Max Weber"
+   "Max Weber",
+   "K. C. Wheare",
+   "Niccolò Machiavelli"
   ],
   "answer": 0,
   "explanation": "The definition of democracy as government 'of the people, by the people, for the people' is associated with Abraham Lincoln.",
@@ -2314,10 +2314,10 @@
   "topic": "Political thinkers",
   "body": "Which thinker is associated with indirect rule in Northern Nigeria?",
   "options": [
-   "Plato",
+   "A. V. Dicey",
    "Lord Lugard",
    "Abraham Lincoln",
-   "A. V. Dicey"
+   "Plato"
   ],
   "answer": 1,
   "explanation": "Indirect rule in Northern Nigeria is associated with Lord Lugard.",

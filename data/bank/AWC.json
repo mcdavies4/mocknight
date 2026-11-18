@@ -4,12 +4,12 @@
   "topic": "Shared responsibility",
   "body": "Under the shared responsibility model, who is responsible for patching the guest OS on an EC2 instance?",
   "options": [
-   "AWS",
    "The internet provider",
    "Both equally",
-   "The customer"
+   "The customer",
+   "AWS"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "AWS secures the cloud; customers secure what they put in it.",
   "difficulty": 2
  },
@@ -19,11 +19,11 @@
   "body": "Who is responsible for the physical security of AWS data centres?",
   "options": [
    "The customer",
-   "The customer's ISP",
    "Both equally",
-   "AWS"
+   "AWS",
+   "The customer's ISP"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "Security OF the cloud is AWS's job.",
   "difficulty": 2
  },
@@ -32,12 +32,12 @@
   "topic": "Shared responsibility",
   "body": "Who is responsible for configuring S3 bucket permissions?",
   "options": [
-   "The customer",
-   "AWS",
    "Nobody",
+   "AWS",
+   "The customer",
    "AWS Support"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "Customer data and access settings are the customer's responsibility.",
   "difficulty": 2
  },
@@ -46,12 +46,12 @@
   "topic": "Shared responsibility",
   "body": "With AWS Lambda, who manages the underlying operating system?",
   "options": [
+   "The customer",
    "AWS",
-   "A third-party partner",
    "Both",
-   "The customer"
+   "A third-party partner"
   ],
-  "answer": 0,
+  "answer": 1,
   "explanation": "Managed and serverless services shift more responsibility to AWS.",
   "difficulty": 2
  },
@@ -61,9 +61,9 @@
   "body": "What is an Availability Zone?",
   "options": [
    "A single server rack",
-   "A country",
+   "A CDN edge location",
    "One or more discrete data centres with redundant power and networking within a Region",
-   "A CDN edge location"
+   "A country"
   ],
   "answer": 2,
   "explanation": "A Region contains multiple isolated AZs.",
@@ -74,12 +74,12 @@
   "topic": "Global infrastructure",
   "body": "What are edge locations mainly used for?",
   "options": [
-   "Caching content close to users with CloudFront",
-   "Storing IAM users",
    "Running RDS databases",
-   "Billing"
+   "Billing",
+   "Storing IAM users",
+   "Caching content close to users with CloudFront"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "They reduce latency for end users.",
   "difficulty": 2
  },
@@ -89,11 +89,11 @@
   "body": "To make an application highly available, you should deploy it",
   "options": [
    "in a single AZ only",
-   "across multiple Availability Zones",
    "only at edge locations",
-   "on one large instance"
+   "on one large instance",
+   "across multiple Availability Zones"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "If one AZ fails, the others keep running.",
   "difficulty": 2
  },
@@ -104,10 +104,10 @@
   "options": [
    "On-Demand",
    "Dedicated Hosts",
-   "Spot Instances",
-   "Reserved Instances"
+   "Reserved Instances",
+   "Spot Instances"
   ],
-  "answer": 2,
+  "answer": 3,
   "explanation": "Spot can be reclaimed with a two-minute warning.",
   "difficulty": 2
  },
@@ -116,12 +116,12 @@
   "topic": "Pricing",
   "body": "Which EC2 option gives a discount for a 1- or 3-year commitment for steady workloads?",
   "options": [
+   "Reserved Instances (or Savings Plans)",
    "Spot Instances",
    "Free Tier",
-   "On-Demand",
-   "Reserved Instances (or Savings Plans)"
+   "On-Demand"
   ],
-  "answer": 3,
+  "answer": 0,
   "explanation": "Commitments lower the price.",
   "difficulty": 2
  },
@@ -131,9 +131,9 @@
   "body": "Which EC2 option is best for short, unpredictable workloads that can't be interrupted?",
   "options": [
    "On-Demand",
-   "Spot",
+   "Dedicated Host only",
    "3-year Reserved",
-   "Dedicated Host only"
+   "Spot"
   ],
   "answer": 0,
   "explanation": "Pay by the second/hour with no commitment.",
@@ -144,12 +144,12 @@
   "topic": "Pricing",
   "body": "Which tool estimates the cost of an AWS architecture before you build it?",
   "options": [
-   "AWS Cost Explorer",
-   "AWS Budgets",
    "CloudTrail",
-   "AWS Pricing Calculator"
+   "AWS Cost Explorer",
+   "AWS Pricing Calculator",
+   "AWS Budgets"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "Cost Explorer analyses past spending; Budgets sends alerts.",
   "difficulty": 2
  },
@@ -158,12 +158,12 @@
   "topic": "Pricing",
   "body": "Which tool alerts you when spending exceeds a threshold you set?",
   "options": [
-   "Amazon Inspector",
-   "AWS Pricing Calculator",
    "AWS Budgets",
-   "AWS Artifact"
+   "AWS Artifact",
+   "AWS Pricing Calculator",
+   "Amazon Inspector"
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "Budgets can alert on cost or usage.",
   "difficulty": 2
  },
@@ -172,12 +172,12 @@
   "topic": "Pricing",
   "body": "Data transfer INTO AWS from the internet is generally",
   "options": [
-   "only free on weekends",
    "charged per GB at a high rate",
    "free",
-   "charged per request"
+   "charged per request",
+   "only free on weekends"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "Data transfer out is usually charged.",
   "difficulty": 2
  },
@@ -186,12 +186,12 @@
   "topic": "Support",
   "body": "Which is the lowest AWS Support plan that includes a Technical Account Manager (TAM)?",
   "options": [
-   "Developer",
    "Basic",
-   "Business",
-   "Enterprise"
+   "Developer",
+   "Enterprise",
+   "Business"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "Enterprise On-Ramp gives access to a pool of TAMs.",
   "difficulty": 2
  },
@@ -200,9 +200,9 @@
   "topic": "Support",
   "body": "Which AWS Support plan is free for all customers?",
   "options": [
+   "Developer",
    "Enterprise",
    "Business",
-   "Developer",
    "Basic"
   ],
   "answer": 3,
@@ -214,12 +214,12 @@
   "topic": "Cloud concepts",
   "body": "Which is a benefit of cloud computing?",
   "options": [
-   "Running your own data centre",
    "Trading capital expense for variable expense",
    "Guessing capacity in advance",
-   "Buying servers up front"
+   "Buying servers up front",
+   "Running your own data centre"
   ],
-  "answer": 1,
+  "answer": 0,
   "explanation": "You pay only for what you use.",
   "difficulty": 2
  },
@@ -228,9 +228,9 @@
   "topic": "Cloud concepts",
   "body": "Elasticity means",
   "options": [
-   "paying in advance",
-   "encrypting data at rest",
    "storing data in many Regions",
+   "encrypting data at rest",
+   "paying in advance",
    "automatically adding or removing resources to match demand"
   ],
   "answer": 3,
@@ -242,8 +242,8 @@
   "topic": "Cloud concepts",
   "body": "How many pillars does the AWS Well-Architected Framework have?",
   "options": [
-   "Four",
    "Seven",
+   "Four",
    "Six",
    "Five"
   ],
@@ -256,12 +256,12 @@
   "topic": "Cloud concepts",
   "body": "Which Well-Architected pillar focuses on minimising environmental impact?",
   "options": [
-   "Operational excellence",
-   "Reliability",
    "Cost optimisation",
-   "Sustainability"
+   "Reliability",
+   "Sustainability",
+   "Operational excellence"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "It was added as the sixth pillar.",
   "difficulty": 2
  },
@@ -270,12 +270,12 @@
   "topic": "Security",
   "body": "What is the best practice for the AWS account root user?",
   "options": [
-   "Enable MFA, lock it away and use IAM identities for daily work",
+   "Share it with the team",
    "Use it for everyday tasks",
    "Delete it",
-   "Share it with the team"
+   "Enable MFA, lock it away and use IAM identities for daily work"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "The root user has unrestricted access.",
   "difficulty": 2
  },
@@ -284,12 +284,12 @@
   "topic": "Security",
   "body": "Which IAM identity should an EC2 instance use to access S3 securely?",
   "options": [
-   "An IAM role",
    "A security group",
    "An IAM user's password",
-   "The root user's access keys"
+   "The root user's access keys",
+   "An IAM role"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "Roles provide temporary credentials.",
   "difficulty": 2
  },
@@ -298,12 +298,12 @@
   "topic": "Security",
   "body": "Security groups act as",
   "options": [
-   "an encryption service",
    "a DNS service",
+   "a stateful virtual firewall for instances",
    "a stateless subnet firewall",
-   "a stateful virtual firewall for instances"
+   "an encryption service"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "Network ACLs are the stateless subnet-level firewall.",
   "difficulty": 2
  },
@@ -312,12 +312,12 @@
   "topic": "Storage",
   "body": "Which S3 storage class automatically moves objects between tiers based on access patterns?",
   "options": [
-   "S3 Glacier Deep Archive",
    "S3 One Zone-IA",
-   "S3 Intelligent-Tiering",
-   "S3 Standard"
+   "S3 Glacier Deep Archive",
+   "S3 Standard",
+   "S3 Intelligent-Tiering"
   ],
-  "answer": 2,
+  "answer": 3,
   "explanation": "Useful when access patterns are unknown.",
   "difficulty": 2
  },
@@ -326,12 +326,12 @@
   "topic": "Cloud concepts",
   "body": "Which of these is a benefit of AWS's massive economies of scale?",
   "options": [
-   "Fixed capacity",
-   "Lower pay-as-you-go prices",
    "Longer contracts",
-   "Owning your hardware"
+   "Owning your hardware",
+   "Lower pay-as-you-go prices",
+   "Fixed capacity"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "AWS passes on savings from aggregate usage.",
   "difficulty": 2
  },
@@ -340,12 +340,12 @@
   "topic": "Cloud concepts",
   "body": "'Go global in minutes' refers to",
   "options": [
-   "deploying applications in multiple Regions quickly",
    "shipping hardware",
+   "buying data centres abroad",
    "hiring global staff",
-   "buying data centres abroad"
+   "deploying applications in multiple Regions quickly"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "One of the six advantages of cloud computing.",
   "difficulty": 2
  },
@@ -354,12 +354,12 @@
   "topic": "Migration",
   "body": "Which AWS Cloud Adoption Framework perspective covers staff skills and training?",
   "options": [
+   "People",
    "Platform",
-   "Operations",
    "Security",
-   "People"
+   "Operations"
   ],
-  "answer": 3,
+  "answer": 0,
   "explanation": "The six perspectives: business, people, governance, platform, security, operations.",
   "difficulty": 2
  },
@@ -369,8 +369,8 @@
   "body": "Moving an application to the cloud with no changes is called",
   "options": [
    "rehosting (lift and shift)",
-   "retiring",
    "repurchasing",
+   "retiring",
    "refactoring"
   ],
   "answer": 0,
@@ -383,11 +383,11 @@
   "body": "Moving from an on-premises CRM to a SaaS CRM is an example of",
   "options": [
    "replatforming",
+   "retaining",
    "rehosting",
-   "repurchasing",
-   "retaining"
+   "repurchasing"
   ],
-  "answer": 2,
+  "answer": 3,
   "explanation": "You switch to a different product.",
   "difficulty": 2
  },
@@ -396,12 +396,12 @@
   "topic": "Security",
   "body": "Which service lets you manage access to multiple AWS accounts with single sign-on?",
   "options": [
-   "AWS IAM Identity Center",
-   "AWS Shield",
    "Amazon Inspector",
-   "AWS Artifact"
+   "AWS Artifact",
+   "AWS IAM Identity Center",
+   "AWS Shield"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "Formerly AWS Single Sign-On.",
   "difficulty": 2
  },
@@ -412,8 +412,8 @@
   "options": [
    "AWS Shield",
    "Amazon Macie",
-   "AWS Config",
-   "Amazon GuardDuty"
+   "Amazon GuardDuty",
+   "AWS Config"
   ],
   "answer": 1,
   "explanation": "Macie uses machine learning to find sensitive data.",
@@ -424,12 +424,12 @@
   "topic": "Security",
   "body": "Which service records configuration changes to resources and checks them against rules?",
   "options": [
-   "Cost Explorer",
    "AWS Config",
    "Route 53",
+   "Cost Explorer",
    "CloudWatch"
   ],
-  "answer": 1,
+  "answer": 0,
   "explanation": "Useful for compliance auditing.",
   "difficulty": 2
  },
@@ -438,12 +438,12 @@
   "topic": "Security",
   "body": "Which service stores, rotates and retrieves database credentials and API keys?",
   "options": [
-   "AWS Secrets Manager",
-   "Amazon Macie",
    "AWS KMS",
-   "AWS Artifact"
+   "Amazon Macie",
+   "AWS Artifact",
+   "AWS Secrets Manager"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "It can rotate secrets automatically.",
   "difficulty": 2
  },
@@ -452,12 +452,12 @@
   "topic": "Pricing",
   "body": "Which tool analyses and visualises your past AWS spending?",
   "options": [
+   "AWS Cost Explorer",
    "AWS Budgets",
    "AWS Artifact",
-   "AWS Pricing Calculator",
-   "AWS Cost Explorer"
+   "AWS Pricing Calculator"
   ],
-  "answer": 3,
+  "answer": 0,
   "explanation": "It can also forecast spend.",
   "difficulty": 2
  },
@@ -466,12 +466,12 @@
   "topic": "Pricing",
   "body": "Which EC2 option provides a physical server dedicated to you, often for licensing reasons?",
   "options": [
-   "Spot Instances",
    "On-Demand",
-   "Savings Plans",
-   "Dedicated Hosts"
+   "Spot Instances",
+   "Dedicated Hosts",
+   "Savings Plans"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "Useful for server-bound software licences.",
   "difficulty": 2
  },
@@ -480,12 +480,12 @@
   "topic": "Pricing",
   "body": "AWS Organizations consolidated billing lets you",
   "options": [
+   "combine usage across accounts for volume discounts with one bill",
    "get free support",
    "avoid all data transfer charges",
-   "combine usage across accounts for volume discounts with one bill",
    "share root passwords"
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "Usage is aggregated for tiered pricing.",
   "difficulty": 2
  },
@@ -494,9 +494,9 @@
   "topic": "Storage",
   "body": "Which S3 storage class is the cheapest for data rarely accessed and retrievable within hours?",
   "options": [
-   "S3 Intelligent-Tiering",
-   "S3 Glacier Deep Archive",
    "S3 Standard-IA",
+   "S3 Glacier Deep Archive",
+   "S3 Intelligent-Tiering",
    "S3 Standard"
   ],
   "answer": 1,
@@ -508,12 +508,12 @@
   "topic": "Services",
   "body": "What is Amazon EC2 used for?",
   "options": [
+   "a MySQL/PostgreSQL-compatible database built for the cloud",
    "resizable virtual servers in the cloud",
-   "message queues to decouple applications",
-   "block storage volumes attached to EC2 instances",
-   "a dedicated private network connection from on-premises to AWS"
+   "simple virtual private servers with predictable monthly pricing",
+   "pub/sub notifications such as SMS and email"
   ],
-  "answer": 0,
+  "answer": 1,
   "explanation": "Amazon EC2: resizable virtual servers in the cloud.",
   "difficulty": 1
  },
@@ -522,12 +522,12 @@
   "topic": "Services",
   "body": "What is Amazon S3 used for?",
   "options": [
-   "a data warehouse for analytics",
-   "physically moving large amounts of data into AWS",
    "object storage for files of any size",
-   "on-demand access to compliance reports"
+   "block storage volumes attached to EC2 instances",
+   "low-cost archive storage",
+   "pub/sub notifications such as SMS and email"
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "Amazon S3: object storage for files of any size.",
   "difficulty": 1
  },
@@ -536,12 +536,12 @@
   "topic": "Services",
   "body": "What is Amazon RDS used for?",
   "options": [
+   "DNS and domain registration",
    "managed relational databases such as MySQL and PostgreSQL",
-   "building, training and deploying machine learning models",
-   "managing users, groups, roles and permissions",
-   "object storage for files of any size"
+   "a MySQL/PostgreSQL-compatible database built for the cloud",
+   "pub/sub notifications such as SMS and email"
   ],
-  "answer": 0,
+  "answer": 1,
   "explanation": "Amazon RDS: managed relational databases such as MySQL and PostgreSQL.",
   "difficulty": 1
  },
@@ -550,12 +550,12 @@
   "topic": "Services",
   "body": "What is Amazon DynamoDB used for?",
   "options": [
-   "automated vulnerability scanning of workloads",
-   "running and managing Docker containers",
+   "pub/sub notifications such as SMS and email",
    "a serverless NoSQL key-value database",
-   "a shared, elastic file system for Linux workloads"
+   "DNS and domain registration",
+   "a MySQL/PostgreSQL-compatible database built for the cloud"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "Amazon DynamoDB: a serverless NoSQL key-value database.",
   "difficulty": 1
  },
@@ -564,12 +564,12 @@
   "topic": "Services",
   "body": "What is AWS Lambda used for?",
   "options": [
-   "DNS and domain registration",
-   "a logically isolated private network in AWS",
-   "resizable virtual servers in the cloud",
-   "running code without managing servers, billed per request and duration"
+   "running code without managing servers, billed per request and duration",
+   "deploying web apps without managing the infrastructure",
+   "running and managing Docker containers",
+   "creating and managing encryption keys"
   ],
-  "answer": 3,
+  "answer": 0,
   "explanation": "AWS Lambda: running code without managing servers, billed per request and duration.",
   "difficulty": 1
  },
@@ -578,12 +578,12 @@
   "topic": "Services",
   "body": "What is Amazon CloudFront used for?",
   "options": [
+   "a logically isolated private network in AWS",
    "a content delivery network (CDN)",
-   "recommendations on cost, security, performance and limits",
-   "running and managing Docker containers",
-   "monitoring metrics, logs and alarms"
+   "DNS and domain registration",
+   "pub/sub notifications such as SMS and email"
   ],
-  "answer": 0,
+  "answer": 1,
   "explanation": "Amazon CloudFront: a content delivery network (CDN).",
   "difficulty": 1
  },
@@ -593,9 +593,9 @@
   "body": "What is Amazon Route 53 used for?",
   "options": [
    "DNS and domain registration",
-   "object storage for files of any size",
-   "simple virtual private servers with predictable monthly pricing",
-   "recording API calls and account activity for auditing"
+   "pub/sub notifications such as SMS and email",
+   "a logically isolated private network in AWS",
+   "intelligent threat detection"
   ],
   "answer": 0,
   "explanation": "Amazon Route 53: DNS and domain registration.",
@@ -606,9 +606,9 @@
   "topic": "Services",
   "body": "What is Amazon VPC used for?",
   "options": [
-   "monitoring metrics, logs and alarms",
-   "a serverless NoSQL key-value database",
-   "DNS and domain registration",
+   "simple virtual private servers with predictable monthly pricing",
+   "a dedicated private network connection from on-premises to AWS",
+   "a content delivery network (CDN)",
    "a logically isolated private network in AWS"
   ],
   "answer": 3,
@@ -620,12 +620,12 @@
   "topic": "Services",
   "body": "What is AWS IAM used for?",
   "options": [
-   "running and managing Docker containers",
    "creating and managing encryption keys",
-   "DNS and domain registration",
-   "managing users, groups, roles and permissions"
+   "managing users, groups, roles and permissions",
+   "running and managing Docker containers",
+   "deploying web apps without managing the infrastructure"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "AWS IAM: managing users, groups, roles and permissions.",
   "difficulty": 1
  },
@@ -634,12 +634,12 @@
   "topic": "Services",
   "body": "What is Amazon CloudWatch used for?",
   "options": [
-   "physically moving large amounts of data into AWS",
-   "DDoS protection",
-   "monitoring metrics, logs and alarms",
-   "running and managing Docker containers"
+   "pub/sub notifications such as SMS and email",
+   "low-cost archive storage",
+   "DNS and domain registration",
+   "monitoring metrics, logs and alarms"
   ],
-  "answer": 2,
+  "answer": 3,
   "explanation": "Amazon CloudWatch: monitoring metrics, logs and alarms.",
   "difficulty": 1
  },
@@ -648,12 +648,12 @@
   "topic": "Services",
   "body": "What is AWS CloudTrail used for?",
   "options": [
-   "a web application firewall filtering HTTP requests",
-   "recording API calls and account activity for auditing",
-   "a logically isolated private network in AWS",
-   "centrally managing multiple AWS accounts and consolidated billing"
+   "deploying web apps without managing the infrastructure",
+   "infrastructure as code using templates",
+   "distributing traffic across targets",
+   "recording API calls and account activity for auditing"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "AWS CloudTrail: recording API calls and account activity for auditing.",
   "difficulty": 1
  },
@@ -662,12 +662,12 @@
   "topic": "Services",
   "body": "What is Amazon EBS used for?",
   "options": [
-   "running and managing Docker containers",
-   "a shared, elastic file system for Linux workloads",
-   "block storage volumes attached to EC2 instances",
-   "managing users, groups, roles and permissions"
+   "DNS and domain registration",
+   "object storage for files of any size",
+   "low-cost archive storage",
+   "block storage volumes attached to EC2 instances"
   ],
-  "answer": 2,
+  "answer": 3,
   "explanation": "Amazon EBS: block storage volumes attached to EC2 instances.",
   "difficulty": 1
  },
@@ -676,12 +676,12 @@
   "topic": "Services",
   "body": "What is Amazon EFS used for?",
   "options": [
-   "pub/sub notifications such as SMS and email",
    "a shared, elastic file system for Linux workloads",
-   "low-cost archive storage",
-   "distributing traffic across targets"
+   "DNS and domain registration",
+   "pub/sub notifications such as SMS and email",
+   "automated vulnerability scanning of workloads"
   ],
-  "answer": 1,
+  "answer": 0,
   "explanation": "Amazon EFS: a shared, elastic file system for Linux workloads.",
   "difficulty": 1
  },
@@ -690,12 +690,12 @@
   "topic": "Services",
   "body": "What is Amazon S3 Glacier used for?",
   "options": [
-   "distributing traffic across targets",
-   "low-cost archive storage",
+   "DNS and domain registration",
    "object storage for files of any size",
-   "centrally managing multiple AWS accounts and consolidated billing"
+   "block storage volumes attached to EC2 instances",
+   "low-cost archive storage"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "Amazon S3 Glacier: low-cost archive storage.",
   "difficulty": 1
  },
@@ -704,12 +704,12 @@
   "topic": "Services",
   "body": "What is AWS Shield used for?",
   "options": [
-   "block storage volumes attached to EC2 instances",
    "DDoS protection",
+   "recommendations on cost, security, performance and limits",
    "a logically isolated private network in AWS",
-   "automated vulnerability scanning of workloads"
+   "pub/sub notifications such as SMS and email"
   ],
-  "answer": 1,
+  "answer": 0,
   "explanation": "AWS Shield: DDoS protection.",
   "difficulty": 1
  },
@@ -718,12 +718,12 @@
   "topic": "Services",
   "body": "What is AWS WAF used for?",
   "options": [
-   "creating and managing encryption keys",
-   "infrastructure as code using templates",
-   "a web application firewall filtering HTTP requests",
-   "managing users, groups, roles and permissions"
+   "recording API calls and account activity for auditing",
+   "a serverless NoSQL key-value database",
+   "resizable virtual servers in the cloud",
+   "a web application firewall filtering HTTP requests"
   ],
-  "answer": 2,
+  "answer": 3,
   "explanation": "AWS WAF: a web application firewall filtering HTTP requests.",
   "difficulty": 1
  },
@@ -732,12 +732,12 @@
   "topic": "Services",
   "body": "What is Amazon GuardDuty used for?",
   "options": [
-   "creating and managing encryption keys",
+   "pub/sub notifications such as SMS and email",
+   "DNS and domain registration",
    "intelligent threat detection",
-   "physically moving large amounts of data into AWS",
-   "block storage volumes attached to EC2 instances"
+   "a content delivery network (CDN)"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "Amazon GuardDuty: intelligent threat detection.",
   "difficulty": 1
  },
@@ -746,12 +746,12 @@
   "topic": "Services",
   "body": "What is AWS Trusted Advisor used for?",
   "options": [
-   "centrally managing multiple AWS accounts and consolidated billing",
    "recommendations on cost, security, performance and limits",
-   "on-demand access to compliance reports",
-   "a content delivery network (CDN)"
+   "low-cost archive storage",
+   "deploying web apps without managing the infrastructure",
+   "a MySQL/PostgreSQL-compatible database built for the cloud"
   ],
-  "answer": 1,
+  "answer": 0,
   "explanation": "AWS Trusted Advisor: recommendations on cost, security, performance and limits.",
   "difficulty": 1
  },
@@ -760,12 +760,12 @@
   "topic": "Services",
   "body": "What is AWS CloudFormation used for?",
   "options": [
-   "intelligent threat detection",
-   "a data warehouse for analytics",
+   "building, training and deploying machine learning models",
    "infrastructure as code using templates",
-   "monitoring metrics, logs and alarms"
+   "running code without managing servers, billed per request and duration",
+   "deploying web apps without managing the infrastructure"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "AWS CloudFormation: infrastructure as code using templates.",
   "difficulty": 1
  },
@@ -774,12 +774,12 @@
   "topic": "Services",
   "body": "What is Elastic Load Balancing used for?",
   "options": [
-   "block storage volumes attached to EC2 instances",
-   "a dedicated private network connection from on-premises to AWS",
+   "managing users, groups, roles and permissions",
    "distributing traffic across targets",
-   "a content delivery network (CDN)"
+   "deploying web apps without managing the infrastructure",
+   "a shared, elastic file system for Linux workloads"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "Elastic Load Balancing: distributing traffic across targets.",
   "difficulty": 1
  },
@@ -788,12 +788,12 @@
   "topic": "Services",
   "body": "What is Amazon SNS used for?",
   "options": [
-   "simple virtual private servers with predictable monthly pricing",
-   "monitoring metrics, logs and alarms",
-   "running and managing Docker containers",
-   "pub/sub notifications such as SMS and email"
+   "a data warehouse for analytics",
+   "managed relational databases such as MySQL and PostgreSQL",
+   "pub/sub notifications such as SMS and email",
+   "DNS and domain registration"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "Amazon SNS: pub/sub notifications such as SMS and email.",
   "difficulty": 1
  },
@@ -802,10 +802,10 @@
   "topic": "Services",
   "body": "What is Amazon SQS used for?",
   "options": [
-   "simple virtual private servers with predictable monthly pricing",
-   "managed relational databases such as MySQL and PostgreSQL",
+   "pub/sub notifications such as SMS and email",
+   "DNS and domain registration",
    "message queues to decouple applications",
-   "a web application firewall filtering HTTP requests"
+   "intelligent threat detection"
   ],
   "answer": 2,
   "explanation": "Amazon SQS: message queues to decouple applications.",
@@ -816,9 +816,9 @@
   "topic": "Services",
   "body": "What is AWS Snowball used for?",
   "options": [
-   "distributing traffic across targets",
-   "managed relational databases such as MySQL and PostgreSQL",
-   "building, training and deploying machine learning models",
+   "managing users, groups, roles and permissions",
+   "a data warehouse for analytics",
+   "creating and managing encryption keys",
    "physically moving large amounts of data into AWS"
   ],
   "answer": 3,
@@ -830,12 +830,12 @@
   "topic": "Services",
   "body": "What is Amazon Redshift used for?",
   "options": [
+   "object storage for files of any size",
    "pub/sub notifications such as SMS and email",
-   "a data warehouse for analytics",
-   "distributing traffic across targets",
-   "infrastructure as code using templates"
+   "DNS and domain registration",
+   "a data warehouse for analytics"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "Amazon Redshift: a data warehouse for analytics.",
   "difficulty": 1
  },
@@ -844,12 +844,12 @@
   "topic": "Services",
   "body": "What is AWS Organizations used for?",
   "options": [
-   "building, training and deploying machine learning models",
    "centrally managing multiple AWS accounts and consolidated billing",
-   "a data warehouse for analytics",
-   "deploying web apps without managing the infrastructure"
+   "managing users, groups, roles and permissions",
+   "running and managing Docker containers",
+   "creating and managing encryption keys"
   ],
-  "answer": 1,
+  "answer": 0,
   "explanation": "AWS Organizations: centrally managing multiple AWS accounts and consolidated billing.",
   "difficulty": 1
  },
@@ -858,12 +858,12 @@
   "topic": "Services",
   "body": "What is AWS Artifact used for?",
   "options": [
-   "building, training and deploying machine learning models",
-   "on-demand access to compliance reports",
-   "automated vulnerability scanning of workloads",
-   "a web application firewall filtering HTTP requests"
+   "a serverless NoSQL key-value database",
+   "creating and managing encryption keys",
+   "distributing traffic across targets",
+   "on-demand access to compliance reports"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "AWS Artifact: on-demand access to compliance reports.",
   "difficulty": 1
  },
@@ -872,12 +872,12 @@
   "topic": "Services",
   "body": "What is Amazon Inspector used for?",
   "options": [
-   "block storage volumes attached to EC2 instances",
-   "managed relational databases such as MySQL and PostgreSQL",
    "automated vulnerability scanning of workloads",
-   "a web application firewall filtering HTTP requests"
+   "DNS and domain registration",
+   "pub/sub notifications such as SMS and email",
+   "a shared, elastic file system for Linux workloads"
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "Amazon Inspector: automated vulnerability scanning of workloads.",
   "difficulty": 1
  },
@@ -886,12 +886,12 @@
   "topic": "Services",
   "body": "What is AWS KMS used for?",
   "options": [
-   "on-demand access to compliance reports",
-   "a content delivery network (CDN)",
    "creating and managing encryption keys",
-   "recommendations on cost, security, performance and limits"
+   "managing users, groups, roles and permissions",
+   "centrally managing multiple AWS accounts and consolidated billing",
+   "running and managing Docker containers"
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "AWS KMS: creating and managing encryption keys.",
   "difficulty": 1
  },
@@ -900,12 +900,12 @@
   "topic": "Services",
   "body": "What is Amazon Aurora used for?",
   "options": [
-   "a MySQL/PostgreSQL-compatible database built for the cloud",
-   "DDoS protection",
+   "resizable virtual servers in the cloud",
    "a serverless NoSQL key-value database",
-   "centrally managing multiple AWS accounts and consolidated billing"
+   "a MySQL/PostgreSQL-compatible database built for the cloud",
+   "managed relational databases such as MySQL and PostgreSQL"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "Amazon Aurora: a MySQL/PostgreSQL-compatible database built for the cloud.",
   "difficulty": 1
  },
@@ -914,12 +914,12 @@
   "topic": "Services",
   "body": "What is AWS Elastic Beanstalk used for?",
   "options": [
-   "deploying web apps without managing the infrastructure",
-   "centrally managing multiple AWS accounts and consolidated billing",
-   "object storage for files of any size",
-   "running and managing Docker containers"
+   "running code without managing servers, billed per request and duration",
+   "infrastructure as code using templates",
+   "creating and managing encryption keys",
+   "deploying web apps without managing the infrastructure"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "AWS Elastic Beanstalk: deploying web apps without managing the infrastructure.",
   "difficulty": 1
  },
@@ -928,12 +928,12 @@
   "topic": "Services",
   "body": "What is Amazon Lightsail used for?",
   "options": [
+   "a logically isolated private network in AWS",
    "pub/sub notifications such as SMS and email",
    "simple virtual private servers with predictable monthly pricing",
-   "creating and managing encryption keys",
-   "running code without managing servers, billed per request and duration"
+   "resizable virtual servers in the cloud"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "Amazon Lightsail: simple virtual private servers with predictable monthly pricing.",
   "difficulty": 1
  },
@@ -943,11 +943,11 @@
   "body": "What is AWS Direct Connect used for?",
   "options": [
    "a logically isolated private network in AWS",
-   "a data warehouse for analytics",
-   "a shared, elastic file system for Linux workloads",
-   "a dedicated private network connection from on-premises to AWS"
+   "a dedicated private network connection from on-premises to AWS",
+   "a content delivery network (CDN)",
+   "simple virtual private servers with predictable monthly pricing"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "AWS Direct Connect: a dedicated private network connection from on-premises to AWS.",
   "difficulty": 1
  },
@@ -956,12 +956,12 @@
   "topic": "Services",
   "body": "What is Amazon ECS used for?",
   "options": [
-   "recommendations on cost, security, performance and limits",
-   "running and managing Docker containers",
+   "pub/sub notifications such as SMS and email",
    "running code without managing servers, billed per request and duration",
-   "a dedicated private network connection from on-premises to AWS"
+   "running and managing Docker containers",
+   "creating and managing encryption keys"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "Amazon ECS: running and managing Docker containers.",
   "difficulty": 1
  },
@@ -970,12 +970,12 @@
   "topic": "Services",
   "body": "What is Amazon SageMaker used for?",
   "options": [
-   "managed relational databases such as MySQL and PostgreSQL",
-   "building, training and deploying machine learning models",
-   "a content delivery network (CDN)",
-   "DDoS protection"
+   "DNS and domain registration",
+   "message queues to decouple applications",
+   "pub/sub notifications such as SMS and email",
+   "building, training and deploying machine learning models"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "Amazon SageMaker: building, training and deploying machine learning models.",
   "difficulty": 1
  },
@@ -984,12 +984,12 @@
   "topic": "Services",
   "body": "Which AWS service provides resizable virtual servers in the cloud?",
   "options": [
-   "AWS Artifact",
-   "Amazon EC2",
-   "Amazon S3 Glacier",
-   "Amazon ECS"
+   "Amazon Route 53",
+   "Amazon Aurora",
+   "Amazon Lightsail",
+   "Amazon EC2"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "Amazon EC2: resizable virtual servers in the cloud.",
   "difficulty": 2
  },
@@ -998,10 +998,10 @@
   "topic": "Services",
   "body": "Which AWS service provides object storage for files of any size?",
   "options": [
-   "Amazon Route 53",
-   "AWS Organizations",
+   "Amazon EBS",
+   "Amazon S3 Glacier",
    "Amazon S3",
-   "AWS Direct Connect"
+   "Amazon Route 53"
   ],
   "answer": 2,
   "explanation": "Amazon S3: object storage for files of any size.",
@@ -1012,12 +1012,12 @@
   "topic": "Services",
   "body": "Which AWS service provides managed relational databases such as MySQL and PostgreSQL?",
   "options": [
+   "Amazon Aurora",
    "Amazon RDS",
-   "Amazon EC2",
-   "Amazon GuardDuty",
-   "Amazon S3 Glacier"
+   "Amazon Route 53",
+   "Amazon SNS"
   ],
-  "answer": 0,
+  "answer": 1,
   "explanation": "Amazon RDS: managed relational databases such as MySQL and PostgreSQL.",
   "difficulty": 2
  },
@@ -1026,12 +1026,12 @@
   "topic": "Services",
   "body": "Which AWS service provides a serverless NoSQL key-value database?",
   "options": [
+   "Amazon SNS",
+   "Amazon Route 53",
    "Amazon DynamoDB",
-   "Amazon ECS",
-   "Amazon RDS",
-   "AWS Artifact"
+   "Amazon Aurora"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "Amazon DynamoDB: a serverless NoSQL key-value database.",
   "difficulty": 2
  },
@@ -1040,9 +1040,9 @@
   "topic": "Services",
   "body": "Which AWS service provides running code without managing servers, billed per request and duration?",
   "options": [
-   "Amazon S3 Glacier",
-   "Amazon SageMaker",
-   "Amazon CloudWatch",
+   "AWS Elastic Beanstalk",
+   "AWS KMS",
+   "Amazon ECS",
    "AWS Lambda"
   ],
   "answer": 3,
@@ -1055,9 +1055,9 @@
   "body": "Which AWS service provides a content delivery network (CDN)?",
   "options": [
    "Amazon CloudFront",
-   "AWS CloudTrail",
-   "Amazon Inspector",
-   "Amazon SNS"
+   "Amazon SNS",
+   "Amazon Route 53",
+   "Amazon VPC"
   ],
   "answer": 0,
   "explanation": "Amazon CloudFront: a content delivery network (CDN).",
@@ -1068,12 +1068,12 @@
   "topic": "Services",
   "body": "Which AWS service provides DNS and domain registration?",
   "options": [
-   "Amazon SageMaker",
-   "AWS Artifact",
+   "Amazon Redshift",
    "Amazon S3",
-   "Amazon Route 53"
+   "Amazon Route 53",
+   "Amazon SNS"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "Amazon Route 53: DNS and domain registration.",
   "difficulty": 2
  },
@@ -1082,12 +1082,12 @@
   "topic": "Services",
   "body": "Which AWS service provides a logically isolated private network in AWS?",
   "options": [
-   "Amazon VPC",
-   "Amazon EBS",
-   "Amazon CloudWatch",
-   "Amazon S3 Glacier"
+   "Amazon CloudFront",
+   "AWS Direct Connect",
+   "Amazon Lightsail",
+   "Amazon VPC"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "Amazon VPC: a logically isolated private network in AWS.",
   "difficulty": 2
  },
@@ -1096,12 +1096,12 @@
   "topic": "Services",
   "body": "Which AWS service provides managing users, groups, roles and permissions?",
   "options": [
-   "Amazon SQS",
-   "Amazon CloudWatch",
-   "Amazon SNS",
-   "AWS IAM"
+   "AWS IAM",
+   "AWS KMS",
+   "AWS Organizations",
+   "Amazon ECS"
   ],
-  "answer": 3,
+  "answer": 0,
   "explanation": "AWS IAM: managing users, groups, roles and permissions.",
   "difficulty": 2
  },
@@ -1111,11 +1111,11 @@
   "body": "Which AWS service provides monitoring metrics, logs and alarms?",
   "options": [
    "Amazon Route 53",
-   "Amazon CloudWatch",
-   "Amazon SageMaker",
-   "AWS Direct Connect"
+   "Amazon SNS",
+   "Amazon SQS",
+   "Amazon CloudWatch"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "Amazon CloudWatch: monitoring metrics, logs and alarms.",
   "difficulty": 2
  },
@@ -1124,12 +1124,12 @@
   "topic": "Services",
   "body": "Which AWS service provides recording API calls and account activity for auditing?",
   "options": [
-   "Amazon Route 53",
+   "AWS Shield",
+   "Amazon CloudWatch",
    "AWS CloudTrail",
-   "Amazon EBS",
-   "Amazon SageMaker"
+   "Amazon Lightsail"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "AWS CloudTrail: recording API calls and account activity for auditing.",
   "difficulty": 2
  },
@@ -1138,12 +1138,12 @@
   "topic": "Services",
   "body": "Which AWS service provides block storage volumes attached to EC2 instances?",
   "options": [
-   "AWS Organizations",
-   "AWS Trusted Advisor",
-   "Amazon ECS",
-   "Amazon EBS"
+   "Amazon S3",
+   "Amazon EBS",
+   "Amazon SNS",
+   "Amazon S3 Glacier"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "Amazon EBS: block storage volumes attached to EC2 instances.",
   "difficulty": 2
  },
@@ -1152,10 +1152,10 @@
   "topic": "Services",
   "body": "Which AWS service provides a shared, elastic file system for Linux workloads?",
   "options": [
-   "AWS KMS",
+   "Amazon Route 53",
    "Amazon EFS",
-   "AWS CloudFormation",
-   "AWS Direct Connect"
+   "Amazon Inspector",
+   "Amazon SNS"
   ],
   "answer": 1,
   "explanation": "Amazon EFS: a shared, elastic file system for Linux workloads.",
@@ -1166,9 +1166,9 @@
   "topic": "Services",
   "body": "Which AWS service provides low-cost archive storage?",
   "options": [
-   "AWS Snowball",
-   "Amazon SQS",
-   "Amazon SageMaker",
+   "Amazon EBS",
+   "Amazon SNS",
+   "Amazon S3",
    "Amazon S3 Glacier"
   ],
   "answer": 3,
@@ -1180,12 +1180,12 @@
   "topic": "Services",
   "body": "Which AWS service provides DDoS protection?",
   "options": [
-   "Amazon Lightsail",
-   "Amazon Route 53",
+   "Amazon GuardDuty",
    "AWS Shield",
-   "Amazon DynamoDB"
+   "Amazon S3 Glacier",
+   "Amazon SageMaker"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "AWS Shield: DDoS protection.",
   "difficulty": 2
  },
@@ -1194,12 +1194,12 @@
   "topic": "Services",
   "body": "Which AWS service provides a web application firewall filtering HTTP requests?",
   "options": [
-   "AWS Shield",
-   "Amazon CloudWatch",
    "AWS WAF",
-   "Amazon Inspector"
+   "Amazon SQS",
+   "Amazon ECS",
+   "AWS IAM"
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "AWS WAF: a web application firewall filtering HTTP requests.",
   "difficulty": 2
  },
@@ -1208,12 +1208,12 @@
   "topic": "Services",
   "body": "Which AWS service provides intelligent threat detection?",
   "options": [
-   "Amazon EFS",
-   "Amazon DynamoDB",
-   "AWS CloudTrail",
-   "Amazon GuardDuty"
+   "Amazon Route 53",
+   "Amazon SNS",
+   "Amazon GuardDuty",
+   "Amazon S3"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "Amazon GuardDuty: intelligent threat detection.",
   "difficulty": 2
  },
@@ -1222,12 +1222,12 @@
   "topic": "Services",
   "body": "Which AWS service provides recommendations on cost, security, performance and limits?",
   "options": [
-   "Amazon Redshift",
+   "AWS Snowball",
+   "Amazon Route 53",
    "AWS Trusted Advisor",
-   "Amazon GuardDuty",
-   "Elastic Load Balancing"
+   "Amazon S3 Glacier"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "AWS Trusted Advisor: recommendations on cost, security, performance and limits.",
   "difficulty": 2
  },
@@ -1236,12 +1236,12 @@
   "topic": "Services",
   "body": "Which AWS service provides infrastructure as code using templates?",
   "options": [
+   "AWS Lambda",
+   "Amazon EC2",
    "AWS CloudFormation",
-   "AWS Elastic Beanstalk",
-   "Amazon S3 Glacier",
-   "Amazon Lightsail"
+   "AWS Elastic Beanstalk"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "AWS CloudFormation: infrastructure as code using templates.",
   "difficulty": 2
  },
@@ -1250,12 +1250,12 @@
   "topic": "Services",
   "body": "Which AWS service provides distributing traffic across targets?",
   "options": [
-   "AWS IAM",
-   "AWS WAF",
-   "AWS Artifact",
-   "Elastic Load Balancing"
+   "Amazon EFS",
+   "AWS Elastic Beanstalk",
+   "Elastic Load Balancing",
+   "Amazon Aurora"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "Elastic Load Balancing: distributing traffic across targets.",
   "difficulty": 2
  },
@@ -1264,12 +1264,12 @@
   "topic": "Services",
   "body": "Which AWS service provides pub/sub notifications such as SMS and email?",
   "options": [
-   "AWS WAF",
-   "Amazon GuardDuty",
+   "Amazon S3 Glacier",
    "Amazon SNS",
-   "AWS Snowball"
+   "Amazon RDS",
+   "Amazon Route 53"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "Amazon SNS: pub/sub notifications such as SMS and email.",
   "difficulty": 2
  },
@@ -1278,12 +1278,12 @@
   "topic": "Services",
   "body": "Which AWS service provides message queues to decouple applications?",
   "options": [
-   "AWS Shield",
-   "AWS Lambda",
-   "Amazon Redshift",
-   "Amazon SQS"
+   "Amazon Route 53",
+   "Amazon SQS",
+   "Amazon S3",
+   "Amazon SNS"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "Amazon SQS: message queues to decouple applications.",
   "difficulty": 2
  },
@@ -1292,10 +1292,10 @@
   "topic": "Services",
   "body": "Which AWS service provides physically moving large amounts of data into AWS?",
   "options": [
-   "AWS Direct Connect",
-   "Amazon VPC",
+   "AWS Elastic Beanstalk",
+   "Amazon EC2",
    "AWS Snowball",
-   "Amazon GuardDuty"
+   "Amazon Redshift"
   ],
   "answer": 2,
   "explanation": "AWS Snowball: physically moving large amounts of data into AWS.",
@@ -1306,12 +1306,12 @@
   "topic": "Services",
   "body": "Which AWS service provides a data warehouse for analytics?",
   "options": [
-   "Amazon Redshift",
-   "AWS CloudTrail",
    "Amazon Route 53",
-   "AWS Shield"
+   "Amazon SNS",
+   "Amazon Redshift",
+   "Amazon S3 Glacier"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "Amazon Redshift: a data warehouse for analytics.",
   "difficulty": 2
  },
@@ -1320,12 +1320,12 @@
   "topic": "Services",
   "body": "Which AWS service provides centrally managing multiple AWS accounts and consolidated billing?",
   "options": [
-   "Amazon CloudFront",
-   "AWS Direct Connect",
+   "AWS IAM",
    "AWS Organizations",
-   "AWS Trusted Advisor"
+   "Amazon ECS",
+   "AWS KMS"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "AWS Organizations: centrally managing multiple AWS accounts and consolidated billing.",
   "difficulty": 2
  },
@@ -1334,12 +1334,12 @@
   "topic": "Services",
   "body": "Which AWS service provides on-demand access to compliance reports?",
   "options": [
-   "Amazon VPC",
    "AWS Artifact",
-   "Amazon CloudWatch",
-   "Amazon S3"
+   "Amazon ECS",
+   "Amazon Aurora",
+   "AWS WAF"
   ],
-  "answer": 1,
+  "answer": 0,
   "explanation": "AWS Artifact: on-demand access to compliance reports.",
   "difficulty": 2
  },
@@ -1348,12 +1348,12 @@
   "topic": "Services",
   "body": "Which AWS service provides automated vulnerability scanning of workloads?",
   "options": [
-   "AWS CloudTrail",
-   "Amazon SQS",
-   "AWS Elastic Beanstalk",
-   "Amazon Inspector"
+   "Amazon SNS",
+   "Amazon Inspector",
+   "Amazon EFS",
+   "Amazon Route 53"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "Amazon Inspector: automated vulnerability scanning of workloads.",
   "difficulty": 2
  },
@@ -1362,12 +1362,12 @@
   "topic": "Services",
   "body": "Which AWS service provides creating and managing encryption keys?",
   "options": [
-   "Amazon Inspector",
-   "Amazon CloudWatch",
+   "AWS Organizations",
    "AWS KMS",
+   "Amazon ECS",
    "AWS IAM"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "AWS KMS: creating and managing encryption keys.",
   "difficulty": 2
  },
@@ -1376,10 +1376,10 @@
   "topic": "Services",
   "body": "Which AWS service provides a MySQL/PostgreSQL-compatible database built for the cloud?",
   "options": [
-   "Amazon ECS",
-   "Amazon S3 Glacier",
+   "Amazon RDS",
+   "Amazon EC2",
    "Amazon Aurora",
-   "AWS KMS"
+   "Amazon DynamoDB"
   ],
   "answer": 2,
   "explanation": "Amazon Aurora: a MySQL/PostgreSQL-compatible database built for the cloud.",
@@ -1390,12 +1390,12 @@
   "topic": "Services",
   "body": "Which AWS service provides deploying web apps without managing the infrastructure?",
   "options": [
-   "Amazon EBS",
-   "AWS Organizations",
-   "AWS Elastic Beanstalk",
-   "Amazon CloudFront"
+   "AWS CloudFormation",
+   "AWS Lambda",
+   "AWS KMS",
+   "AWS Elastic Beanstalk"
   ],
-  "answer": 2,
+  "answer": 3,
   "explanation": "AWS Elastic Beanstalk: deploying web apps without managing the infrastructure.",
   "difficulty": 2
  },
@@ -1404,12 +1404,12 @@
   "topic": "Services",
   "body": "Which AWS service provides simple virtual private servers with predictable monthly pricing?",
   "options": [
+   "Amazon Route 53",
    "Amazon Lightsail",
-   "AWS Lambda",
-   "AWS Artifact",
-   "Amazon Inspector"
+   "Amazon VPC",
+   "Amazon EC2"
   ],
-  "answer": 0,
+  "answer": 1,
   "explanation": "Amazon Lightsail: simple virtual private servers with predictable monthly pricing.",
   "difficulty": 2
  },
@@ -1418,12 +1418,12 @@
   "topic": "Services",
   "body": "Which AWS service provides a dedicated private network connection from on-premises to AWS?",
   "options": [
+   "Amazon VPC",
+   "Amazon CloudFront",
    "AWS Direct Connect",
-   "Amazon SageMaker",
-   "Amazon SQS",
-   "AWS CloudFormation"
+   "Amazon Lightsail"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "AWS Direct Connect: a dedicated private network connection from on-premises to AWS.",
   "difficulty": 2
  },
@@ -1432,10 +1432,10 @@
   "topic": "Services",
   "body": "Which AWS service provides running and managing Docker containers?",
   "options": [
-   "AWS Trusted Advisor",
-   "Amazon VPC",
+   "Amazon Route 53",
+   "AWS Lambda",
    "Amazon ECS",
-   "AWS WAF"
+   "AWS KMS"
   ],
   "answer": 2,
   "explanation": "Amazon ECS: running and managing Docker containers.",
@@ -1446,9 +1446,9 @@
   "topic": "Services",
   "body": "Which AWS service provides building, training and deploying machine learning models?",
   "options": [
-   "AWS Direct Connect",
-   "Amazon CloudWatch",
-   "Amazon S3",
+   "Amazon Route 53",
+   "Amazon EC2",
+   "Amazon SNS",
    "Amazon SageMaker"
   ],
   "answer": 3,

@@ -5,9 +5,9 @@
   "body": "A project is best described as",
   "options": [
    "a temporary endeavour undertaken to create a unique product, service or result",
-   "doing activities in parallel that would normally be done in sequence to shorten the schedule",
-   "a leadership style focused on supporting and enabling the team",
-   "uncontrolled expansion of scope without adjustments to time, cost and resources"
+   "an organizational structure that standardizes project governance and shares resources and methods",
+   "knowledge gained during a project to improve future performance",
+   "anyone who can affect or be affected by the project"
   ],
   "answer": 0,
   "explanation": "A project: a temporary endeavour undertaken to create a unique product, service or result.",
@@ -19,9 +19,9 @@
   "body": "The project charter is best described as",
   "options": [
    "the document that formally authorizes a project and gives the project manager authority",
-   "a document recording identified risks, their analysis and planned responses",
-   "the longest path through a schedule network, determining the shortest possible project duration",
-   "a visual tool for managing flow, often with work-in-progress limits"
+   "anyone who can affect or be affected by the project",
+   "a chart that ranks causes by frequency to focus on the vital few (80/20)",
+   "an organizational structure that standardizes project governance and shares resources and methods"
   ],
   "answer": 0,
   "explanation": "The project charter: the document that formally authorizes a project and gives the project manager authority.",
@@ -32,9 +32,9 @@
   "topic": "Concepts",
   "body": "A work breakdown structure (WBS) is best described as",
   "options": [
-   "a visual tool for managing flow, often with work-in-progress limits",
-   "an iterative approach where requirements evolve through frequent delivery and feedback",
-   "the amount of time an activity can be delayed without delaying the project end date",
+   "a chart showing the work remaining over time",
+   "the lowest level of the WBS, for which cost and duration can be estimated and managed",
+   "the amount of work a team completes in an iteration, used for forecasting",
    "a hierarchical decomposition of the total scope of work"
   ],
   "answer": 3,
@@ -46,10 +46,10 @@
   "topic": "Concepts",
   "body": "A work package is best described as",
   "options": [
-   "a prioritization technique: must have, should have, could have, won't have this time",
+   "a chart showing the work remaining over time",
    "a hierarchical decomposition of the total scope of work",
    "the lowest level of the WBS, for which cost and duration can be estimated and managed",
-   "a plan-driven approach where scope, time and cost are defined early"
+   "the amount of work a team completes in an iteration, used for forecasting"
   ],
   "answer": 2,
   "explanation": "A work package: the lowest level of the WBS, for which cost and duration can be estimated and managed.",
@@ -60,9 +60,9 @@
   "topic": "Concepts",
   "body": "The critical path is best described as",
   "options": [
-   "adding extra features that were not requested by the customer",
+   "anyone who can affect or be affected by the project",
    "a temporary endeavour undertaken to create a unique product, service or result",
-   "a chart that ranks causes by frequency to focus on the vital few (80/20)",
+   "adding resources to shorten the schedule, usually at extra cost",
    "the longest path through a schedule network, determining the shortest possible project duration"
   ],
   "answer": 3,
@@ -74,10 +74,10 @@
   "topic": "Concepts",
   "body": "Float (slack) is best described as",
   "options": [
-   "the document that formally authorizes a project and gives the project manager authority",
-   "a group responsible for reviewing and approving or rejecting changes",
+   "a chart showing the work remaining over time",
+   "uncontrolled expansion of scope without adjustments to time, cost and resources",
    "the amount of time an activity can be delayed without delaying the project end date",
-   "the lowest level of the WBS, for which cost and duration can be estimated and managed"
+   "anyone who can affect or be affected by the project"
   ],
   "answer": 2,
   "explanation": "Float (slack): the amount of time an activity can be delayed without delaying the project end date.",
@@ -88,10 +88,10 @@
   "topic": "Concepts",
   "body": "Scope creep is best described as",
   "options": [
-   "the lowest level of the WBS, for which cost and duration can be estimated and managed",
-   "an iterative approach where requirements evolve through frequent delivery and feedback",
+   "the amount of time an activity can be delayed without delaying the project end date",
+   "adding resources to shorten the schedule, usually at extra cost",
    "uncontrolled expansion of scope without adjustments to time, cost and resources",
-   "a cause-and-effect diagram used to find root causes"
+   "a plan-driven approach where scope, time and cost are defined early"
   ],
   "answer": 2,
   "explanation": "Scope creep: uncontrolled expansion of scope without adjustments to time, cost and resources.",
@@ -104,7 +104,7 @@
   "options": [
    "anyone who can affect or be affected by the project",
    "knowledge gained during a project to improve future performance",
-   "a document recording identified risks, their analysis and planned responses",
+   "an organizational structure that standardizes project governance and shares resources and methods",
    "a temporary endeavour undertaken to create a unique product, service or result"
   ],
   "answer": 0,
@@ -116,10 +116,10 @@
   "topic": "Concepts",
   "body": "A RACI chart is best described as",
   "options": [
-   "the longest path through a schedule network, determining the shortest possible project duration",
+   "a group responsible for reviewing and approving or rejecting changes",
    "a responsibility assignment matrix showing who is responsible, accountable, consulted and informed",
-   "a temporary endeavour undertaken to create a unique product, service or result",
-   "a visual tool for managing flow, often with work-in-progress limits"
+   "a chart showing the work remaining over time",
+   "a chart that ranks causes by frequency to focus on the vital few (80/20)"
   ],
   "answer": 1,
   "explanation": "A RACI chart: a responsibility assignment matrix showing who is responsible, accountable, consulted and informed.",
@@ -144,10 +144,10 @@
   "topic": "Concepts",
   "body": "The change control board is best described as",
   "options": [
-   "a chart that ranks causes by frequency to focus on the vital few (80/20)",
+   "a visual tool for managing flow, often with work-in-progress limits",
    "a group responsible for reviewing and approving or rejecting changes",
-   "the amount of work a team completes in an iteration, used for forecasting",
-   "the longest path through a schedule network, determining the shortest possible project duration"
+   "the longest path through a schedule network, determining the shortest possible project duration",
+   "a responsibility assignment matrix showing who is responsible, accountable, consulted and informed"
   ],
   "answer": 1,
   "explanation": "The change control board: a group responsible for reviewing and approving or rejecting changes.",
@@ -158,10 +158,10 @@
   "topic": "Concepts",
   "body": "Lessons learned is best described as",
   "options": [
-   "the longest path through a schedule network, determining the shortest possible project duration",
+   "an organizational structure that standardizes project governance and shares resources and methods",
    "knowledge gained during a project to improve future performance",
-   "the document that formally authorizes a project and gives the project manager authority",
-   "a plan-driven approach where scope, time and cost are defined early"
+   "anyone who can affect or be affected by the project",
+   "the document that formally authorizes a project and gives the project manager authority"
   ],
   "answer": 1,
   "explanation": "Lessons learned: knowledge gained during a project to improve future performance.",
@@ -173,9 +173,9 @@
   "body": "A Kanban board is best described as",
   "options": [
    "a visual tool for managing flow, often with work-in-progress limits",
-   "a temporary endeavour undertaken to create a unique product, service or result",
-   "a group responsible for reviewing and approving or rejecting changes",
-   "a cause-and-effect diagram used to find root causes"
+   "the amount of work a team completes in an iteration, used for forecasting",
+   "a hierarchical decomposition of the total scope of work",
+   "a chart showing the work remaining over time"
   ],
   "answer": 0,
   "explanation": "A Kanban board: a visual tool for managing flow, often with work-in-progress limits.",
@@ -186,10 +186,10 @@
   "topic": "Concepts",
   "body": "Velocity is best described as",
   "options": [
+   "a hierarchical decomposition of the total scope of work",
    "a chart showing the work remaining over time",
-   "a responsibility assignment matrix showing who is responsible, accountable, consulted and informed",
    "the amount of work a team completes in an iteration, used for forecasting",
-   "doing activities in parallel that would normally be done in sequence to shorten the schedule"
+   "a leadership style focused on supporting and enabling the team"
   ],
   "answer": 2,
   "explanation": "Velocity: the amount of work a team completes in an iteration, used for forecasting.",
@@ -201,9 +201,9 @@
   "body": "A burndown chart is best described as",
   "options": [
    "a chart showing the work remaining over time",
-   "a leadership style focused on supporting and enabling the team",
+   "the amount of work a team completes in an iteration, used for forecasting",
    "a responsibility assignment matrix showing who is responsible, accountable, consulted and informed",
-   "the amount of work a team completes in an iteration, used for forecasting"
+   "a hierarchical decomposition of the total scope of work"
   ],
   "answer": 0,
   "explanation": "A burndown chart: a chart showing the work remaining over time.",
@@ -214,10 +214,10 @@
   "topic": "Concepts",
   "body": "MoSCoW is best described as",
   "options": [
-   "knowledge gained during a project to improve future performance",
-   "a cause-and-effect diagram used to find root causes",
+   "uncontrolled expansion of scope without adjustments to time, cost and resources",
+   "a chart showing the work remaining over time",
    "a prioritization technique: must have, should have, could have, won't have this time",
-   "the document that formally authorizes a project and gives the project manager authority"
+   "the amount of time an activity can be delayed without delaying the project end date"
   ],
   "answer": 2,
   "explanation": "MoSCoW: a prioritization technique: must have, should have, could have, won't have this time.",
@@ -229,9 +229,9 @@
   "body": "Servant leadership is best described as",
   "options": [
    "a leadership style focused on supporting and enabling the team",
-   "an organizational structure that standardizes project governance and shares resources and methods",
    "a chart showing the work remaining over time",
-   "the lowest level of the WBS, for which cost and duration can be estimated and managed"
+   "the amount of work a team completes in an iteration, used for forecasting",
+   "an organizational structure that standardizes project governance and shares resources and methods"
   ],
   "answer": 0,
   "explanation": "Servant leadership: a leadership style focused on supporting and enabling the team.",
@@ -242,9 +242,9 @@
   "topic": "Concepts",
   "body": "A PMO is best described as",
   "options": [
-   "the lowest level of the WBS, for which cost and duration can be estimated and managed",
+   "a hierarchical decomposition of the total scope of work",
+   "the document that formally authorizes a project and gives the project manager authority",
    "anyone who can affect or be affected by the project",
-   "doing activities in parallel that would normally be done in sequence to shorten the schedule",
    "an organizational structure that standardizes project governance and shares resources and methods"
   ],
   "answer": 3,
@@ -257,9 +257,9 @@
   "body": "Gold plating is best described as",
   "options": [
    "adding extra features that were not requested by the customer",
-   "uncontrolled expansion of scope without adjustments to time, cost and resources",
-   "a chart showing the work remaining over time",
-   "the amount of time an activity can be delayed without delaying the project end date"
+   "an organizational structure that standardizes project governance and shares resources and methods",
+   "a chart that ranks causes by frequency to focus on the vital few (80/20)",
+   "adding resources to shorten the schedule, usually at extra cost"
   ],
   "answer": 0,
   "explanation": "Gold plating: adding extra features that were not requested by the customer.",
@@ -270,9 +270,9 @@
   "topic": "Concepts",
   "body": "Fast tracking is best described as",
   "options": [
-   "a temporary endeavour undertaken to create a unique product, service or result",
-   "anyone who can affect or be affected by the project",
-   "a prioritization technique: must have, should have, could have, won't have this time",
+   "adding resources to shorten the schedule, usually at extra cost",
+   "adding extra features that were not requested by the customer",
+   "a chart that ranks causes by frequency to focus on the vital few (80/20)",
    "doing activities in parallel that would normally be done in sequence to shorten the schedule"
   ],
   "answer": 3,
@@ -284,10 +284,10 @@
   "topic": "Concepts",
   "body": "Crashing is best described as",
   "options": [
-   "a hierarchical decomposition of the total scope of work",
+   "adding extra features that were not requested by the customer",
    "adding resources to shorten the schedule, usually at extra cost",
    "uncontrolled expansion of scope without adjustments to time, cost and resources",
-   "a prioritization technique: must have, should have, could have, won't have this time"
+   "doing activities in parallel that would normally be done in sequence to shorten the schedule"
   ],
   "answer": 1,
   "explanation": "Crashing: adding resources to shorten the schedule, usually at extra cost.",
@@ -298,10 +298,10 @@
   "topic": "Concepts",
   "body": "A Pareto chart is best described as",
   "options": [
-   "adding extra features that were not requested by the customer",
+   "a chart showing the work remaining over time",
    "a chart that ranks causes by frequency to focus on the vital few (80/20)",
-   "the document that formally authorizes a project and gives the project manager authority",
-   "knowledge gained during a project to improve future performance"
+   "adding extra features that were not requested by the customer",
+   "the document that formally authorizes a project and gives the project manager authority"
   ],
   "answer": 1,
   "explanation": "A Pareto chart: a chart that ranks causes by frequency to focus on the vital few (80/20).",
@@ -313,9 +313,9 @@
   "body": "A fishbone (Ishikawa) diagram is best described as",
   "options": [
    "a cause-and-effect diagram used to find root causes",
-   "a plan-driven approach where scope, time and cost are defined early",
    "a visual tool for managing flow, often with work-in-progress limits",
-   "a temporary endeavour undertaken to create a unique product, service or result"
+   "a chart that ranks causes by frequency to focus on the vital few (80/20)",
+   "the amount of work a team completes in an iteration, used for forecasting"
   ],
   "answer": 0,
   "explanation": "A fishbone (Ishikawa) diagram: a cause-and-effect diagram used to find root causes.",
@@ -327,9 +327,9 @@
   "body": "A predictive (waterfall) approach is best described as",
   "options": [
    "a plan-driven approach where scope, time and cost are defined early",
-   "the lowest level of the WBS, for which cost and duration can be estimated and managed",
-   "a group responsible for reviewing and approving or rejecting changes",
-   "knowledge gained during a project to improve future performance"
+   "a hierarchical decomposition of the total scope of work",
+   "uncontrolled expansion of scope without adjustments to time, cost and resources",
+   "an iterative approach where requirements evolve through frequent delivery and feedback"
   ],
   "answer": 0,
   "explanation": "A predictive (waterfall) approach: a plan-driven approach where scope, time and cost are defined early.",
@@ -340,9 +340,9 @@
   "topic": "Concepts",
   "body": "An adaptive (agile) approach is best described as",
   "options": [
+   "a plan-driven approach where scope, time and cost are defined early",
+   "the longest path through a schedule network, determining the shortest possible project duration",
    "adding resources to shorten the schedule, usually at extra cost",
-   "the amount of work a team completes in an iteration, used for forecasting",
-   "a leadership style focused on supporting and enabling the team",
    "an iterative approach where requirements evolve through frequent delivery and feedback"
   ],
   "answer": 3,
@@ -354,10 +354,10 @@
   "topic": "Concepts",
   "body": "What term describes a temporary endeavour undertaken to create a unique product, service or result?",
   "options": [
-   "Crashing",
+   "PMO",
    "Project",
-   "Float (slack)",
-   "MoSCoW"
+   "Project charter",
+   "Stakeholder"
   ],
   "answer": 1,
   "explanation": "A project: a temporary endeavour undertaken to create a unique product, service or result.",
@@ -368,10 +368,10 @@
   "topic": "Concepts",
   "body": "What term describes the document that formally authorizes a project and gives the project manager authority?",
   "options": [
-   "Kanban board",
+   "Stakeholder",
    "Project charter",
-   "Burndown chart",
-   "Risk register"
+   "Pareto chart",
+   "PMO"
   ],
   "answer": 1,
   "explanation": "The project charter: the document that formally authorizes a project and gives the project manager authority.",
@@ -382,9 +382,9 @@
   "topic": "Concepts",
   "body": "What term describes a hierarchical decomposition of the total scope of work?",
   "options": [
-   "Work package",
    "Burndown chart",
    "Velocity",
+   "Work package",
    "Work breakdown structure (WBS)"
   ],
   "answer": 3,
@@ -397,9 +397,9 @@
   "body": "What term describes the lowest level of the WBS, for which cost and duration can be estimated and managed?",
   "options": [
    "Work package",
-   "Kanban board",
-   "Risk register",
-   "Project"
+   "Velocity",
+   "Burndown chart",
+   "Work breakdown structure (WBS)"
   ],
   "answer": 0,
   "explanation": "A work package: the lowest level of the WBS, for which cost and duration can be estimated and managed.",
@@ -410,9 +410,9 @@
   "topic": "Concepts",
   "body": "What term describes the longest path through a schedule network, determining the shortest possible project duration?",
   "options": [
-   "Float (slack)",
-   "Gold plating",
-   "Predictive (waterfall) approach",
+   "Stakeholder",
+   "Work package",
+   "Crashing",
    "Critical path"
   ],
   "answer": 3,
@@ -424,9 +424,9 @@
   "topic": "Concepts",
   "body": "What term describes the amount of time an activity can be delayed without delaying the project end date?",
   "options": [
-   "Project charter",
-   "Fast tracking",
-   "PMO",
+   "Burndown chart",
+   "Scope creep",
+   "Stakeholder",
    "Float (slack)"
   ],
   "answer": 3,
@@ -438,10 +438,10 @@
   "topic": "Concepts",
   "body": "What term describes uncontrolled expansion of scope without adjustments to time, cost and resources?",
   "options": [
+   "Crashing",
    "Predictive (waterfall) approach",
-   "Lessons learned",
    "Scope creep",
-   "Project"
+   "Float (slack)"
   ],
   "answer": 2,
   "explanation": "Scope creep: uncontrolled expansion of scope without adjustments to time, cost and resources.",
@@ -452,10 +452,10 @@
   "topic": "Concepts",
   "body": "What term describes anyone who can affect or be affected by the project?",
   "options": [
-   "Servant leadership",
-   "Risk register",
+   "PMO",
+   "Lessons learned",
    "Stakeholder",
-   "Burndown chart"
+   "Project charter"
   ],
   "answer": 2,
   "explanation": "A stakeholder: anyone who can affect or be affected by the project.",
@@ -466,10 +466,10 @@
   "topic": "Concepts",
   "body": "What term describes a responsibility assignment matrix showing who is responsible, accountable, consulted and informed?",
   "options": [
-   "Float (slack)",
+   "Change control board",
    "RACI chart",
-   "Scope creep",
-   "Change control board"
+   "Burndown chart",
+   "Pareto chart"
   ],
   "answer": 1,
   "explanation": "A RACI chart: a responsibility assignment matrix showing who is responsible, accountable, consulted and informed.",
@@ -480,10 +480,10 @@
   "topic": "Concepts",
   "body": "What term describes a document recording identified risks, their analysis and planned responses?",
   "options": [
-   "Lessons learned",
    "Float (slack)",
+   "Project charter",
    "Risk register",
-   "Change control board"
+   "Lessons learned"
   ],
   "answer": 2,
   "explanation": "A risk register: a document recording identified risks, their analysis and planned responses.",
@@ -495,9 +495,9 @@
   "body": "What term describes a group responsible for reviewing and approving or rejecting changes?",
   "options": [
    "Change control board",
-   "Work breakdown structure (WBS)",
-   "Pareto chart",
-   "Critical path"
+   "RACI chart",
+   "Kanban board",
+   "Work breakdown structure (WBS)"
   ],
   "answer": 0,
   "explanation": "The change control board: a group responsible for reviewing and approving or rejecting changes.",
@@ -509,9 +509,9 @@
   "body": "What term describes knowledge gained during a project to improve future performance?",
   "options": [
    "Lessons learned",
-   "Work breakdown structure (WBS)",
-   "RACI chart",
-   "Project charter"
+   "Project charter",
+   "Stakeholder",
+   "Project"
   ],
   "answer": 0,
   "explanation": "Lessons learned: knowledge gained during a project to improve future performance.",
@@ -522,9 +522,9 @@
   "topic": "Concepts",
   "body": "What term describes a visual tool for managing flow, often with work-in-progress limits?",
   "options": [
-   "Project charter",
-   "Scope creep",
-   "PMO",
+   "Burndown chart",
+   "Work breakdown structure (WBS)",
+   "Velocity",
    "Kanban board"
   ],
   "answer": 3,
@@ -536,10 +536,10 @@
   "topic": "Concepts",
   "body": "What term describes the amount of work a team completes in an iteration, used for forecasting?",
   "options": [
-   "Risk register",
+   "Work breakdown structure (WBS)",
    "Velocity",
-   "Project",
-   "Critical path"
+   "Servant leadership",
+   "Burndown chart"
   ],
   "answer": 1,
   "explanation": "Velocity: the amount of work a team completes in an iteration, used for forecasting.",
@@ -550,8 +550,8 @@
   "topic": "Concepts",
   "body": "What term describes a chart showing the work remaining over time?",
   "options": [
-   "Lessons learned",
-   "Predictive (waterfall) approach",
+   "Velocity",
+   "Work breakdown structure (WBS)",
    "Burndown chart",
    "RACI chart"
   ],
@@ -564,10 +564,10 @@
   "topic": "Concepts",
   "body": "What term describes a prioritization technique: must have, should have, could have, won't have this time?",
   "options": [
-   "Crashing",
+   "Float (slack)",
    "MoSCoW",
    "Burndown chart",
-   "Work package"
+   "Scope creep"
   ],
   "answer": 1,
   "explanation": "MoSCoW: a prioritization technique: must have, should have, could have, won't have this time.",
@@ -578,9 +578,9 @@
   "topic": "Concepts",
   "body": "What term describes a leadership style focused on supporting and enabling the team?",
   "options": [
-   "Gold plating",
-   "Stakeholder",
    "Float (slack)",
+   "Gold plating",
+   "Velocity",
    "Servant leadership"
   ],
   "answer": 3,
@@ -592,10 +592,10 @@
   "topic": "Concepts",
   "body": "What term describes an organizational structure that standardizes project governance and shares resources and methods?",
   "options": [
-   "Work package",
-   "Risk register",
+   "Work breakdown structure (WBS)",
+   "Project charter",
    "PMO",
-   "Kanban board"
+   "Stakeholder"
   ],
   "answer": 2,
   "explanation": "A PMO: an organizational structure that standardizes project governance and shares resources and methods.",
@@ -607,9 +607,9 @@
   "body": "What term describes adding extra features that were not requested by the customer?",
   "options": [
    "Gold plating",
-   "Project",
+   "Crashing",
    "Pareto chart",
-   "Crashing"
+   "Project charter"
   ],
   "answer": 0,
   "explanation": "Gold plating: adding extra features that were not requested by the customer.",
@@ -620,9 +620,9 @@
   "topic": "Concepts",
   "body": "What term describes doing activities in parallel that would normally be done in sequence to shorten the schedule?",
   "options": [
-   "MoSCoW",
    "Project charter",
-   "Kanban board",
+   "Crashing",
+   "Pareto chart",
    "Fast tracking"
   ],
   "answer": 3,
@@ -635,9 +635,9 @@
   "body": "What term describes adding resources to shorten the schedule, usually at extra cost?",
   "options": [
    "Crashing",
-   "Project charter",
+   "Fast tracking",
    "Gold plating",
-   "Risk register"
+   "Scope creep"
   ],
   "answer": 0,
   "explanation": "Crashing: adding resources to shorten the schedule, usually at extra cost.",
@@ -648,10 +648,10 @@
   "topic": "Concepts",
   "body": "What term describes a chart that ranks causes by frequency to focus on the vital few (80/20)?",
   "options": [
-   "Project charter",
+   "Burndown chart",
    "Pareto chart",
-   "Servant leadership",
-   "Kanban board"
+   "Project charter",
+   "Gold plating"
   ],
   "answer": 1,
   "explanation": "A Pareto chart: a chart that ranks causes by frequency to focus on the vital few (80/20).",
@@ -662,10 +662,10 @@
   "topic": "Concepts",
   "body": "What term describes a cause-and-effect diagram used to find root causes?",
   "options": [
-   "Lessons learned",
-   "Velocity",
+   "Pareto chart",
+   "Adaptive (agile) approach",
    "Fishbone (Ishikawa) diagram",
-   "Adaptive (agile) approach"
+   "Velocity"
   ],
   "answer": 2,
   "explanation": "A fishbone (Ishikawa) diagram: a cause-and-effect diagram used to find root causes.",
@@ -676,9 +676,9 @@
   "topic": "Concepts",
   "body": "What term describes a plan-driven approach where scope, time and cost are defined early?",
   "options": [
-   "Pareto chart",
-   "Fishbone (Ishikawa) diagram",
-   "Velocity",
+   "Scope creep",
+   "Adaptive (agile) approach",
+   "Burndown chart",
    "Predictive (waterfall) approach"
   ],
   "answer": 3,
@@ -691,9 +691,9 @@
   "body": "What term describes an iterative approach where requirements evolve through frequent delivery and feedback?",
   "options": [
    "Adaptive (agile) approach",
+   "Predictive (waterfall) approach",
    "Fast tracking",
-   "Stakeholder",
-   "RACI chart"
+   "Critical path"
   ],
   "answer": 0,
   "explanation": "An adaptive (agile) approach: an iterative approach where requirements evolve through frequent delivery and feedback.",

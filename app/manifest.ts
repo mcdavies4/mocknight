@@ -1,11 +1,12 @@
 import type { MetadataRoute } from "next";
+import { examCountLabel } from "@/lib/exam-count";
 
 // Makes the web app installable ("Add to home screen") with its own icon and full-screen window.
 export default function manifest(): MetadataRoute.Manifest {
   return {
     name: "Mock Night — exam practice",
     short_name: "Mock Night",
-    description: "Daily questions, timed practice tests and clear explanations for 90+ exams.",
+    description: `Daily questions, timed practice tests and clear explanations for ${examCountLabel()} exams.`,
     id: "/app",
     start_url: "/app?source=pwa",
     scope: "/",

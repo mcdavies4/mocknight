@@ -523,9 +523,9 @@
   "body": "What happened in AD 43?",
   "options": [
    "The Romans, led by Emperor Claudius, began their successful invasion of Britain",
-   "The Habeas Corpus Act became law",
-   "The NHS was established",
-   "The UK joined the European Economic Community"
+   "The First World War began",
+   "The Romans left Britain",
+   "The Second World War began"
   ],
   "answer": 0,
   "explanation": "AD 43: the Romans, led by Emperor Claudius, began their successful invasion of Britain.",
@@ -536,10 +536,10 @@
   "topic": "A long and illustrious history",
   "body": "What happened in AD 410?",
   "options": [
-   "The Duke of Wellington defeated Napoleon at the Battle of Waterloo",
-   "The Good Friday (Belfast) Agreement was signed",
+   "The Romans, led by Emperor Claudius, began their successful invasion of Britain",
+   "The Act of Union created the Kingdom of Great Britain",
    "The Romans left Britain",
-   "The voting age was reduced from 21 to 18"
+   "The Battle of Britain was fought in the skies"
   ],
   "answer": 2,
   "explanation": "AD 410: the Romans left Britain.",
@@ -550,9 +550,9 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1066?",
   "options": [
-   "The monarchy was restored with Charles II",
    "Admiral Nelson won the Battle of Trafalgar",
-   "The First World War ended (armistice on 11 November)",
+   "The Glorious Revolution took place",
+   "The D-Day landings in Normandy took place",
    "The Battle of Hastings took place"
   ],
   "answer": 3,
@@ -564,10 +564,10 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1215?",
   "options": [
+   "King Charles I was executed",
    "Bonnie Prince Charlie's army was defeated at the Battle of Culloden",
-   "Slavery was abolished throughout the British Empire",
    "King John was forced to agree to the Magna Carta",
-   "The Great Fire of London broke out"
+   "King James VI of Scotland also became King James I of England"
   ],
   "answer": 2,
   "explanation": "1215: King John was forced to agree to the Magna Carta.",
@@ -578,10 +578,10 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1314?",
   "options": [
-   "The Great Exhibition opened in the Crystal Palace in Hyde Park",
-   "The voting age was reduced from 21 to 18",
+   "The Duke of Wellington defeated Napoleon at the Battle of Waterloo",
+   "Bonnie Prince Charlie's army was defeated at the Battle of Culloden",
    "The Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn",
-   "King James VI of Scotland also became King James I of England"
+   "The Spanish Armada was defeated"
   ],
   "answer": 2,
   "explanation": "1314: the Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn.",
@@ -593,9 +593,9 @@
   "body": "What happened in 1348?",
   "options": [
    "The Black Death (bubonic plague) arrived in Britain",
-   "The Romans, led by Emperor Claudius, began their successful invasion of Britain",
-   "The NHS was established",
-   "Margaret Thatcher became the UK's first woman Prime Minister"
+   "The Romans left Britain",
+   "The Battle of Britain was fought in the skies",
+   "The Act of Union created the Kingdom of Great Britain"
   ],
   "answer": 0,
   "explanation": "1348: the Black Death (bubonic plague) arrived in Britain.",
@@ -606,9 +606,9 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1485?",
   "options": [
-   "The Habeas Corpus Act became law",
-   "The Glorious Revolution took place",
-   "The Romans, led by Emperor Claudius, began their successful invasion of Britain",
+   "The Battle of Britain was fought in the skies",
+   "The Battle of Hastings took place",
+   "Admiral Nelson won the Battle of Trafalgar",
    "The Wars of the Roses ended at the Battle of Bosworth Field"
   ],
   "answer": 3,
@@ -621,9 +621,9 @@
   "body": "What happened in 1588?",
   "options": [
    "The Spanish Armada was defeated",
-   "King Charles I was executed",
-   "The Good Friday (Belfast) Agreement was signed",
-   "Bonnie Prince Charlie's army was defeated at the Battle of Culloden"
+   "Bonnie Prince Charlie's army was defeated at the Battle of Culloden",
+   "The Duke of Wellington defeated Napoleon at the Battle of Waterloo",
+   "The Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn"
   ],
   "answer": 0,
   "explanation": "1588: the Spanish Armada was defeated.",
@@ -635,9 +635,9 @@
   "body": "What happened in 1603?",
   "options": [
    "King James VI of Scotland also became King James I of England",
-   "The monarchy was restored with Charles II",
-   "Bonnie Prince Charlie's army was defeated at the Battle of Culloden",
-   "The Act of Union joined Ireland with Great Britain"
+   "King John was forced to agree to the Magna Carta",
+   "King Charles I was executed",
+   "The Habeas Corpus Act became law"
   ],
   "answer": 0,
   "explanation": "1603: King James VI of Scotland also became King James I of England.",
@@ -649,9 +649,9 @@
   "body": "What happened in 1642?",
   "options": [
    "The Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn",
-   "The Habeas Corpus Act became law",
+   "The First World War began",
    "The English Civil War began",
-   "Slavery was abolished throughout the British Empire"
+   "The Second World War began"
   ],
   "answer": 2,
   "explanation": "1642: the English Civil War began.",
@@ -662,10 +662,10 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1649?",
   "options": [
-   "The English Civil War began",
+   "King James VI of Scotland also became King James I of England",
    "King Charles I was executed",
-   "The Wars of the Roses ended at the Battle of Bosworth Field",
-   "The Second World War began"
+   "King John was forced to agree to the Magna Carta",
+   "The monarchy was restored with Charles II"
   ],
   "answer": 1,
   "explanation": "1649: King Charles I was executed.",
@@ -676,10 +676,10 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1660?",
   "options": [
-   "The Duke of Wellington defeated Napoleon at the Battle of Waterloo",
-   "The Glorious Revolution took place",
+   "The Act of Union joined Ireland with Great Britain",
+   "The Wars of the Roses ended at the Battle of Bosworth Field",
    "The monarchy was restored with Charles II",
-   "The Wars of the Roses ended at the Battle of Bosworth Field"
+   "King Charles I was executed"
   ],
   "answer": 2,
   "explanation": "1660: the monarchy was restored with Charles II.",
@@ -691,9 +691,9 @@
   "body": "What happened in 1666?",
   "options": [
    "The Great Fire of London broke out",
-   "Women over the age of 30 first got the right to vote",
+   "The Act of Union created the Kingdom of Great Britain",
    "The Act of Union joined Ireland with Great Britain",
-   "The Battle of Britain was fought in the skies"
+   "The Great Exhibition opened in the Crystal Palace in Hyde Park"
   ],
   "answer": 0,
   "explanation": "1666: the Great Fire of London broke out.",
@@ -705,9 +705,9 @@
   "body": "What happened in 1679?",
   "options": [
    "The Habeas Corpus Act became law",
-   "Slavery was abolished throughout the British Empire",
-   "The First World War began",
-   "Admiral Nelson won the Battle of Trafalgar"
+   "It became illegal to trade slaves in British ships or from British ports",
+   "Margaret Thatcher became the UK's first woman Prime Minister",
+   "King James VI of Scotland also became King James I of England"
   ],
   "answer": 0,
   "explanation": "1679: the Habeas Corpus Act became law.",
@@ -718,8 +718,8 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1688?",
   "options": [
-   "The Great Exhibition opened in the Crystal Palace in Hyde Park",
    "The UK joined the European Economic Community",
+   "The D-Day landings in Normandy took place",
    "The Glorious Revolution took place",
    "The Battle of Hastings took place"
   ],
@@ -733,9 +733,9 @@
   "body": "What happened in 1707?",
   "options": [
    "The Act of Union created the Kingdom of Great Britain",
-   "The First World War began",
-   "The monarchy was restored with Charles II",
-   "The Romans, led by Emperor Claudius, began their successful invasion of Britain"
+   "The Romans left Britain",
+   "The Act of Union joined Ireland with Great Britain",
+   "The Battle of Britain was fought in the skies"
   ],
   "answer": 0,
   "explanation": "1707: the Act of Union created the Kingdom of Great Britain.",
@@ -746,10 +746,10 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1746?",
   "options": [
-   "The Black Death (bubonic plague) arrived in Britain",
    "The Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn",
+   "The Spanish Armada was defeated",
    "Bonnie Prince Charlie's army was defeated at the Battle of Culloden",
-   "The Romans, led by Emperor Claudius, began their successful invasion of Britain"
+   "The Duke of Wellington defeated Napoleon at the Battle of Waterloo"
   ],
   "answer": 2,
   "explanation": "1746: Bonnie Prince Charlie's army was defeated at the Battle of Culloden.",
@@ -760,9 +760,9 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1801?",
   "options": [
-   "The Glorious Revolution took place",
-   "Women over the age of 30 first got the right to vote",
-   "The Habeas Corpus Act became law",
+   "The monarchy was restored with Charles II",
+   "The Romans left Britain",
+   "The Act of Union created the Kingdom of Great Britain",
    "The Act of Union joined Ireland with Great Britain"
   ],
   "answer": 3,
@@ -774,10 +774,10 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1805?",
   "options": [
-   "The Second World War began",
-   "The Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn",
+   "The Battle of Hastings took place",
+   "The Battle of Britain was fought in the skies",
    "Admiral Nelson won the Battle of Trafalgar",
-   "The Black Death (bubonic plague) arrived in Britain"
+   "The Wars of the Roses ended at the Battle of Bosworth Field"
   ],
   "answer": 2,
   "explanation": "1805: Admiral Nelson won the Battle of Trafalgar.",
@@ -788,9 +788,9 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1807?",
   "options": [
-   "The English Civil War began",
-   "Admiral Nelson won the Battle of Trafalgar",
-   "The monarchy was restored with Charles II",
+   "Slavery was abolished throughout the British Empire",
+   "The Habeas Corpus Act became law",
+   "The voting age was reduced from 21 to 18",
    "It became illegal to trade slaves in British ships or from British ports"
   ],
   "answer": 3,
@@ -802,10 +802,10 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1815?",
   "options": [
-   "The Glorious Revolution took place",
-   "Admiral Nelson won the Battle of Trafalgar",
+   "The Spanish Armada was defeated",
+   "Bonnie Prince Charlie's army was defeated at the Battle of Culloden",
    "The Duke of Wellington defeated Napoleon at the Battle of Waterloo",
-   "The First World War ended (armistice on 11 November)"
+   "The Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn"
   ],
   "answer": 2,
   "explanation": "1815: the Duke of Wellington defeated Napoleon at the Battle of Waterloo.",
@@ -816,10 +816,10 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1833?",
   "options": [
-   "The voting age was reduced from 21 to 18",
    "The Battle of Hastings took place",
+   "The Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn",
    "Slavery was abolished throughout the British Empire",
-   "The Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn"
+   "It became illegal to trade slaves in British ships or from British ports"
   ],
   "answer": 2,
   "explanation": "1833: slavery was abolished throughout the British Empire.",
@@ -831,9 +831,9 @@
   "body": "What happened in 1851?",
   "options": [
    "The Great Exhibition opened in the Crystal Palace in Hyde Park",
-   "The Black Death (bubonic plague) arrived in Britain",
-   "The Scottish Parliament and the Welsh Assembly were first elected",
-   "The First World War began"
+   "The Act of Union joined Ireland with Great Britain",
+   "The Great Fire of London broke out",
+   "The Act of Union created the Kingdom of Great Britain"
   ],
   "answer": 0,
   "explanation": "1851: the Great Exhibition opened in the Crystal Palace in Hyde Park.",
@@ -844,10 +844,10 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1914?",
   "options": [
-   "Women over the age of 30 first got the right to vote",
    "The First World War ended (armistice on 11 November)",
+   "The English Civil War began",
    "The First World War began",
-   "The Habeas Corpus Act became law"
+   "The Second World War began"
   ],
   "answer": 2,
   "explanation": "1914: the First World War began.",
@@ -858,9 +858,9 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1918?",
   "options": [
-   "Bonnie Prince Charlie's army was defeated at the Battle of Culloden",
-   "Margaret Thatcher became the UK's first woman Prime Minister",
-   "The NHS was established",
+   "The Wars of the Roses ended at the Battle of Bosworth Field",
+   "The Second World War began",
+   "The First World War began",
    "The First World War ended (armistice on 11 November)"
   ],
   "answer": 3,
@@ -873,9 +873,9 @@
   "body": "What happened in 1928?",
   "options": [
    "King James VI of Scotland also became King James I of England",
-   "The Great Exhibition opened in the Crystal Palace in Hyde Park",
+   "Women over the age of 30 first got the right to vote",
    "Women got the right to vote at 21, the same age as men",
-   "Women over the age of 30 first got the right to vote"
+   "The Great Exhibition opened in the Crystal Palace in Hyde Park"
   ],
   "answer": 2,
   "explanation": "1928: women got the right to vote at 21, the same age as men.",
@@ -886,10 +886,10 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1939?",
   "options": [
-   "King James VI of Scotland also became King James I of England",
+   "The First World War began",
    "The Second World War began",
-   "The Black Death (bubonic plague) arrived in Britain",
-   "The voting age was reduced from 21 to 18"
+   "The First World War ended (armistice on 11 November)",
+   "The English Civil War began"
   ],
   "answer": 1,
   "explanation": "1939: the Second World War began.",
@@ -914,10 +914,10 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1969?",
   "options": [
-   "Margaret Thatcher became the UK's first woman Prime Minister",
-   "The voting age was reduced from 21 to 18",
    "The Glorious Revolution took place",
-   "The Battle of Britain was fought in the skies"
+   "The voting age was reduced from 21 to 18",
+   "It became illegal to trade slaves in British ships or from British ports",
+   "Margaret Thatcher became the UK's first woman Prime Minister"
   ],
   "answer": 1,
   "explanation": "1969: the voting age was reduced from 21 to 18.",
@@ -928,10 +928,10 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1973?",
   "options": [
-   "King John was forced to agree to the Magna Carta",
+   "The Act of Union joined Ireland with Great Britain",
    "The UK joined the European Economic Community",
-   "The Great Exhibition opened in the Crystal Palace in Hyde Park",
-   "The Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn"
+   "The Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn",
+   "King John was forced to agree to the Magna Carta"
   ],
   "answer": 1,
   "explanation": "1973: the UK joined the European Economic Community.",
@@ -943,9 +943,9 @@
   "body": "What happened in 1979?",
   "options": [
    "Margaret Thatcher became the UK's first woman Prime Minister",
-   "The Act of Union joined Ireland with Great Britain",
-   "The English Civil War began",
-   "The Good Friday (Belfast) Agreement was signed"
+   "The Habeas Corpus Act became law",
+   "Women over the age of 30 first got the right to vote",
+   "The First World War began"
   ],
   "answer": 0,
   "explanation": "1979: Margaret Thatcher became the UK's first woman Prime Minister.",
@@ -970,9 +970,9 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1999?",
   "options": [
-   "London hosted the Olympic and Paralympic Games for the third time",
-   "The Romans, led by Emperor Claudius, began their successful invasion of Britain",
-   "The Spanish Armada was defeated",
+   "The First World War began",
+   "Women over the age of 30 first got the right to vote",
+   "The First World War ended (armistice on 11 November)",
    "The Scottish Parliament and the Welsh Assembly were first elected"
   ],
   "answer": 3,
@@ -984,9 +984,9 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 2012?",
   "options": [
+   "The Good Friday (Belfast) Agreement was signed",
    "The Great Fire of London broke out",
    "The Duke of Wellington defeated Napoleon at the Battle of Waterloo",
-   "The Good Friday (Belfast) Agreement was signed",
    "London hosted the Olympic and Paralympic Games for the third time"
   ],
   "answer": 3,
@@ -998,9 +998,9 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1944?",
   "options": [
-   "Margaret Thatcher became the UK's first woman Prime Minister",
-   "Bonnie Prince Charlie's army was defeated at the Battle of Culloden",
    "The Second World War began",
+   "The Glorious Revolution took place",
+   "The Battle of Hastings took place",
    "The D-Day landings in Normandy took place"
   ],
   "answer": 3,
@@ -1012,10 +1012,10 @@
   "topic": "A long and illustrious history",
   "body": "What happened in 1940?",
   "options": [
-   "The Second World War began",
-   "The Wars of the Roses ended at the Battle of Bosworth Field",
+   "Admiral Nelson won the Battle of Trafalgar",
+   "The Battle of Hastings took place",
    "The Battle of Britain was fought in the skies",
-   "The Act of Union joined Ireland with Great Britain"
+   "The Romans left Britain"
   ],
   "answer": 2,
   "explanation": "1940: the Battle of Britain was fought in the skies.",
@@ -1027,9 +1027,9 @@
   "body": "Sir Isaac Newton is best known for",
   "options": [
    "showing that white light is made up of the colours of the rainbow, and his work on gravity",
-   "mapping the coast of Australia",
-   "starting sporting events at Stoke Mandeville that grew into the Paralympics",
-   "winning Olympic gold in the 5,000 and 10,000 metres"
+   "captaining the England team that won the 1966 football World Cup",
+   "founding modern nursing after her work in the Crimean War",
+   "the 1942 report that formed the basis of the modern welfare state"
   ],
   "answer": 0,
   "explanation": "Sir Isaac Newton: showing that white light is made up of the colours of the rainbow, and his work on gravity.",
@@ -1040,9 +1040,9 @@
   "topic": "Famous people",
   "body": "Charles Darwin is best known for",
   "options": [
+   "novels such as 'Oliver Twist' and 'Great Expectations'",
    "'Water Music' and the oratorio 'Messiah'",
    "being the first British man to win a singles Grand Slam tennis title since 1936",
-   "leading the establishment of the NHS as Minister for Health",
    "the theory of evolution set out in 'On the Origin of Species'"
   ],
   "answer": 3,
@@ -1068,9 +1068,9 @@
   "topic": "Famous people",
   "body": "Florence Nightingale is best known for",
   "options": [
-   "landscape paintings of Dedham Vale on the Suffolk–Essex border",
-   "the theory of evolution set out in 'On the Origin of Species'",
-   "designing the new St Paul's Cathedral after the Great Fire",
+   "developing the 'Turing machine', the basis of modern computers",
+   "becoming Lord Protector after the Civil War",
+   "landscape painting; a major modern art prize is named after him",
    "founding modern nursing after her work in the Crimean War"
   ],
   "answer": 3,
@@ -1082,9 +1082,9 @@
   "topic": "Famous people",
   "body": "Isambard Kingdom Brunel is best known for",
   "options": [
-   "winning rowing gold medals at five consecutive Olympic Games",
    "designing the new St Paul's Cathedral after the Great Fire",
-   "developing the jet engine",
+   "novels such as 'Oliver Twist' and 'Great Expectations'",
+   "uniting the Anglo-Saxon kingdoms to defeat the Vikings",
    "engineering the Great Western Railway, tunnels, bridges and ships"
   ],
   "answer": 3,
@@ -1096,9 +1096,9 @@
   "topic": "Famous people",
   "body": "Richard Arkwright is best known for",
   "options": [
-   "the 1942 report that formed the basis of the modern welfare state",
-   "becoming Lord Protector after the Civil War",
-   "Scottish poetry, including 'Auld Lang Syne'",
+   "developing radar",
+   "developing the 'Turing machine', the basis of modern computers",
+   "developing the jet engine",
    "developing an efficient carding machine and pioneering factory production"
   ],
   "answer": 3,
@@ -1111,9 +1111,9 @@
   "body": "Robert Burns is best known for",
   "options": [
    "Scottish poetry, including 'Auld Lang Syne'",
+   "defeating the English at the Battle of Bannockburn",
    "developing radar",
-   "the 1942 report that formed the basis of the modern welfare state",
-   "defeating Napoleon at Waterloo and later becoming Prime Minister"
+   "poetry inspired by nature and the Lake District"
   ],
   "answer": 0,
   "explanation": "Robert Burns: Scottish poetry, including 'Auld Lang Syne'.",
@@ -1124,9 +1124,9 @@
   "topic": "Famous people",
   "body": "William Shakespeare is best known for",
   "options": [
-   "inventing the World Wide Web",
-   "the suite 'The Planets'",
-   "Welsh poetry and the radio play 'Under Milk Wood'",
+   "novels such as 'Far from the Madding Crowd'",
+   "poetry inspired by nature and the Lake District",
+   "leading the Norman invasion of 1066",
    "plays such as 'Romeo and Juliet' and 'Hamlet'"
   ],
   "answer": 3,
@@ -1138,10 +1138,10 @@
   "topic": "Famous people",
   "body": "Geoffrey Chaucer is best known for",
   "options": [
-   "'The Jungle Book' and the poem 'If'",
+   "poems about the First World War, such as 'Anthem for Doomed Youth'",
    "'The Canterbury Tales', a series of poems about pilgrims",
-   "developing an efficient carding machine and pioneering factory production",
-   "being the first man to run a mile in under four minutes, in 1954"
+   "being the first man to run a mile in under four minutes, in 1954",
+   "'The Jungle Book' and the poem 'If'"
   ],
   "answer": 1,
   "explanation": "Geoffrey Chaucer: 'The Canterbury Tales', a series of poems about pilgrims.",
@@ -1152,10 +1152,10 @@
   "topic": "Famous people",
   "body": "Jane Austen is best known for",
   "options": [
-   "winning Paralympic gold medals in swimming",
-   "operas such as 'Peter Grimes' and 'Billy Budd'",
+   "novels such as 'Far from the Madding Crowd'",
+   "novels such as 'Oliver Twist' and 'Great Expectations'",
    "novels such as 'Pride and Prejudice' and 'Sense and Sensibility'",
-   "uniting the Anglo-Saxon kingdoms to defeat the Vikings"
+   "plays such as 'Romeo and Juliet' and 'Hamlet'"
   ],
   "answer": 2,
   "explanation": "Jane Austen: novels such as 'Pride and Prejudice' and 'Sense and Sensibility'.",
@@ -1167,9 +1167,9 @@
   "body": "Charles Dickens is best known for",
   "options": [
    "novels such as 'Oliver Twist' and 'Great Expectations'",
-   "winning Paralympic gold medals in swimming",
-   "winning rowing gold medals at five consecutive Olympic Games",
-   "leading the Norman invasion of 1066"
+   "novels such as 'Pride and Prejudice' and 'Sense and Sensibility'",
+   "novels such as 'Far from the Madding Crowd'",
+   "the theory of evolution set out in 'On the Origin of Species'"
   ],
   "answer": 0,
   "explanation": "Charles Dickens: novels such as 'Oliver Twist' and 'Great Expectations'.",
@@ -1180,9 +1180,9 @@
   "topic": "Famous people",
   "body": "Sir Winston Churchill is best known for",
   "options": [
-   "starting sporting events at Stoke Mandeville that grew into the Paralympics",
+   "being the first Prime Minister, from 1721 to 1742",
+   "being the first woman Prime Minister of the UK",
    "leading the establishment of the NHS as Minister for Health",
-   "'Water Music' and the oratorio 'Messiah'",
    "leading Britain as Prime Minister during the Second World War"
   ],
   "answer": 3,
@@ -1194,10 +1194,10 @@
   "topic": "Famous people",
   "body": "Clement Attlee is best known for",
   "options": [
-   "being the first British man to win a singles Grand Slam tennis title since 1936",
-   "winning Olympic gold in the 5,000 and 10,000 metres",
+   "defeating Napoleon at Waterloo and later becoming Prime Minister",
+   "being the first Prime Minister, from 1721 to 1742",
    "being Prime Minister from 1945 to 1951 when the welfare state was established",
-   "winning the Formula 1 world championship three times"
+   "being the first woman Prime Minister of the UK"
   ],
   "answer": 2,
   "explanation": "Clement Attlee: being Prime Minister from 1945 to 1951 when the welfare state was established.",
@@ -1208,10 +1208,10 @@
   "topic": "Famous people",
   "body": "Aneurin (Nye) Bevan is best known for",
   "options": [
-   "winning Olympic gold in the 5,000 and 10,000 metres",
-   "designing the Cenotaph in Whitehall and buildings in New Delhi",
+   "leading the Norman invasion of 1066",
+   "leading Britain as Prime Minister during the Second World War",
    "leading the establishment of the NHS as Minister for Health",
-   "winning Paralympic gold medals in swimming"
+   "being the first Prime Minister, from 1721 to 1742"
   ],
   "answer": 2,
   "explanation": "Aneurin (Nye) Bevan: leading the establishment of the NHS as Minister for Health.",
@@ -1222,10 +1222,10 @@
   "topic": "Famous people",
   "body": "William Beveridge is best known for",
   "options": [
-   "novels such as 'Pride and Prejudice' and 'Sense and Sensibility'",
+   "developing the 'Turing machine', the basis of modern computers",
    "the 1942 report that formed the basis of the modern welfare state",
-   "novels such as 'Oliver Twist' and 'Great Expectations'",
-   "winning Olympic gold for ice dancing in 1984"
+   "leading the Norman invasion of 1066",
+   "being Prime Minister from 1945 to 1951 when the welfare state was established"
   ],
   "answer": 1,
   "explanation": "William Beveridge: the 1942 report that formed the basis of the modern welfare state.",
@@ -1250,10 +1250,10 @@
   "topic": "Famous people",
   "body": "Emmeline Pankhurst is best known for",
   "options": [
-   "founding modern nursing after her work in the Crimean War",
+   "leading the Norman invasion of 1066",
    "leading the suffragette campaign for women's votes",
-   "being the first woman Prime Minister of the UK",
-   "Welsh poetry and the radio play 'Under Milk Wood'"
+   "leading the establishment of the NHS as Minister for Health",
+   "leading the 1745 Jacobite rebellion that ended at Culloden"
   ],
   "answer": 1,
   "explanation": "Emmeline Pankhurst: leading the suffragette campaign for women's votes.",
@@ -1264,8 +1264,8 @@
   "topic": "Famous people",
   "body": "Margaret Thatcher is best known for",
   "options": [
-   "engineering the Great Western Railway, tunnels, bridges and ships",
-   "developing the jet engine",
+   "being Prime Minister from 1945 to 1951 when the welfare state was established",
+   "being the first Prime Minister, from 1721 to 1742",
    "being the first Briton to win the Tour de France, in 2012",
    "being the first woman Prime Minister of the UK"
   ],
@@ -1279,9 +1279,9 @@
   "body": "Alan Turing is best known for",
   "options": [
    "developing the 'Turing machine', the basis of modern computers",
-   "'Treasure Island' and 'Dr Jekyll and Mr Hyde'",
-   "founding modern nursing after her work in the Crimean War",
-   "winning the Formula 1 world championship three times"
+   "the 1942 report that formed the basis of the modern welfare state",
+   "developing an efficient carding machine and pioneering factory production",
+   "developing the jet engine"
   ],
   "answer": 0,
   "explanation": "Alan Turing: developing the 'Turing machine', the basis of modern computers.",
@@ -1292,9 +1292,9 @@
   "topic": "Famous people",
   "body": "Sir Tim Berners-Lee is best known for",
   "options": [
-   "large bronze abstract sculptures",
-   "uniting the Anglo-Saxon kingdoms to defeat the Vikings",
-   "designing the Cenotaph in Whitehall and buildings in New Delhi",
+   "inventing the hovercraft",
+   "winning the Formula 1 world championship three times",
+   "inventing the cash machine (ATM) and the PIN number",
    "inventing the World Wide Web"
   ],
   "answer": 3,
@@ -1306,9 +1306,9 @@
   "topic": "Famous people",
   "body": "John Logie Baird is best known for",
   "options": [
-   "the suite 'The Planets'",
-   "Welsh poetry and the radio play 'Under Milk Wood'",
-   "'Treasure Island' and 'Dr Jekyll and Mr Hyde'",
+   "developing the jet engine",
+   "developing radar",
+   "developing the 'Turing machine', the basis of modern computers",
    "developing television in the 1920s"
   ],
   "answer": 3,
@@ -1321,9 +1321,9 @@
   "body": "Sir Robert Watson-Watt is best known for",
   "options": [
    "developing radar",
-   "designing the new St Paul's Cathedral after the Great Fire",
-   "being organist at Westminster Abbey and writing church music and opera",
-   "designing the Cenotaph in Whitehall and buildings in New Delhi"
+   "developing television in the 1920s",
+   "developing the jet engine",
+   "defeating the English at the Battle of Bannockburn"
   ],
   "answer": 0,
   "explanation": "Sir Robert Watson-Watt: developing radar.",
@@ -1334,10 +1334,10 @@
   "topic": "Famous people",
   "body": "Sir Frank Whittle is best known for",
   "options": [
-   "the detective stories of Sherlock Holmes",
-   "poems about the First World War, such as 'Anthem for Doomed Youth'",
+   "developing television in the 1920s",
+   "developing the 'Turing machine', the basis of modern computers",
    "developing the jet engine",
-   "inventing the World Wide Web"
+   "developing radar"
   ],
   "answer": 2,
   "explanation": "Sir Frank Whittle: developing the jet engine.",
@@ -1348,10 +1348,10 @@
   "topic": "Famous people",
   "body": "Sir Christopher Cockerell is best known for",
   "options": [
-   "'The Jungle Book' and the poem 'If'",
-   "the suite 'The Planets'",
+   "inventing the cash machine (ATM) and the PIN number",
+   "winning Olympic gold for ice dancing in 1984",
    "inventing the hovercraft",
-   "becoming Lord Protector after the Civil War"
+   "inventing the World Wide Web"
   ],
   "answer": 2,
   "explanation": "Sir Christopher Cockerell: inventing the hovercraft.",
@@ -1362,10 +1362,10 @@
   "topic": "Famous people",
   "body": "James Goodfellow is best known for",
   "options": [
-   "being the first man to run a mile in under four minutes, in 1954",
-   "poems about the First World War, such as 'Anthem for Doomed Youth'",
+   "inventing the World Wide Web",
+   "mapping the coast of Australia",
    "inventing the cash machine (ATM) and the PIN number",
-   "the 1944 Education Act, which introduced free secondary education"
+   "inventing the hovercraft"
   ],
   "answer": 2,
   "explanation": "James Goodfellow: inventing the cash machine (ATM) and the PIN number.",
@@ -1391,9 +1391,9 @@
   "body": "Henry VIII is best known for",
   "options": [
    "breaking away from the Church of Rome and marrying six times",
-   "uniting the Anglo-Saxon kingdoms to defeat the Vikings",
-   "designing the Cenotaph in Whitehall and buildings in New Delhi",
-   "being the first woman Prime Minister of the UK"
+   "large bronze abstract sculptures",
+   "being organist at Westminster Abbey and writing church music and opera",
+   "being the first Prime Minister, from 1721 to 1742"
   ],
   "answer": 0,
   "explanation": "Henry VIII: breaking away from the Church of Rome and marrying six times.",
@@ -1405,9 +1405,9 @@
   "body": "Elizabeth I is best known for",
   "options": [
    "re-establishing the Church of England and defeating the Spanish Armada",
-   "being the first British man to win a singles Grand Slam tennis title since 1936",
-   "engineering the Great Western Railway, tunnels, bridges and ships",
-   "showing that white light is made up of the colours of the rainbow, and his work on gravity"
+   "captaining the England team that won the 1966 football World Cup",
+   "defeating Napoleon at Waterloo and later becoming Prime Minister",
+   "defeating the English at the Battle of Bannockburn"
   ],
   "answer": 0,
   "explanation": "Elizabeth I: re-establishing the Church of England and defeating the Spanish Armada.",
@@ -1418,10 +1418,10 @@
   "topic": "Famous people",
   "body": "William the Conqueror is best known for",
   "options": [
-   "becoming Lord Protector after the Civil War",
+   "leading the establishment of the NHS as Minister for Health",
    "leading the Norman invasion of 1066",
-   "developing radar",
-   "founding modern nursing after her work in the Crimean War"
+   "plays such as 'Romeo and Juliet' and 'Hamlet'",
+   "poetry inspired by nature and the Lake District"
   ],
   "answer": 1,
   "explanation": "William the Conqueror: leading the Norman invasion of 1066.",
@@ -1432,10 +1432,10 @@
   "topic": "Famous people",
   "body": "Alfred the Great is best known for",
   "options": [
-   "starting sporting events at Stoke Mandeville that grew into the Paralympics",
-   "developing the 'Turing machine', the basis of modern computers",
+   "designing the new St Paul's Cathedral after the Great Fire",
+   "novels such as 'Oliver Twist' and 'Great Expectations'",
    "uniting the Anglo-Saxon kingdoms to defeat the Vikings",
-   "designing the Cenotaph in Whitehall and buildings in New Delhi"
+   "engineering the Great Western Railway, tunnels, bridges and ships"
   ],
   "answer": 2,
   "explanation": "Alfred the Great: uniting the Anglo-Saxon kingdoms to defeat the Vikings.",
@@ -1446,9 +1446,9 @@
   "topic": "Famous people",
   "body": "Robert the Bruce is best known for",
   "options": [
-   "Welsh poetry and the radio play 'Under Milk Wood'",
-   "the 'Pomp and Circumstance Marches'",
-   "'The Canterbury Tales', a series of poems about pilgrims",
+   "developing radar",
+   "being the first Prime Minister, from 1721 to 1742",
+   "re-establishing the Church of England and defeating the Spanish Armada",
    "defeating the English at the Battle of Bannockburn"
   ],
   "answer": 3,
@@ -1461,9 +1461,9 @@
   "body": "Oliver Cromwell is best known for",
   "options": [
    "becoming Lord Protector after the Civil War",
-   "large bronze abstract sculptures",
-   "designing the Cenotaph in Whitehall and buildings in New Delhi",
-   "defeating Napoleon at Waterloo and later becoming Prime Minister"
+   "novels such as 'Oliver Twist' and 'Great Expectations'",
+   "designing the new St Paul's Cathedral after the Great Fire",
+   "founding modern nursing after her work in the Crimean War"
   ],
   "answer": 0,
   "explanation": "Oliver Cromwell: becoming Lord Protector after the Civil War.",
@@ -1474,10 +1474,10 @@
   "topic": "Famous people",
   "body": "Sir Robert Walpole is best known for",
   "options": [
-   "developing radar",
-   "developing the 'Turing machine', the basis of modern computers",
+   "being the first Briton to win the Tour de France, in 2012",
+   "being Prime Minister from 1945 to 1951 when the welfare state was established",
    "being the first Prime Minister, from 1721 to 1742",
-   "breaking away from the Church of Rome and marrying six times"
+   "being the first woman Prime Minister of the UK"
   ],
   "answer": 2,
   "explanation": "Sir Robert Walpole: being the first Prime Minister, from 1721 to 1742.",
@@ -1502,10 +1502,10 @@
   "topic": "Famous people",
   "body": "the Duke of Wellington is best known for",
   "options": [
-   "large bronze abstract sculptures",
-   "portrait painting, often with landscapes in the background",
+   "being the first Prime Minister, from 1721 to 1742",
+   "leading Britain as Prime Minister during the Second World War",
    "defeating Napoleon at Waterloo and later becoming Prime Minister",
-   "'Treasure Island' and 'Dr Jekyll and Mr Hyde'"
+   "being the first woman Prime Minister of the UK"
   ],
   "answer": 2,
   "explanation": "the Duke of Wellington: defeating Napoleon at Waterloo and later becoming Prime Minister.",
@@ -1517,9 +1517,9 @@
   "body": "Captain James Cook is best known for",
   "options": [
    "mapping the coast of Australia",
+   "the 1942 report that formed the basis of the modern welfare state",
    "becoming Lord Protector after the Civil War",
-   "leading the 1745 Jacobite rebellion that ended at Culloden",
-   "the 1942 report that formed the basis of the modern welfare state"
+   "inventing the cash machine (ATM) and the PIN number"
   ],
   "answer": 0,
   "explanation": "Captain James Cook: mapping the coast of Australia.",
@@ -1531,9 +1531,9 @@
   "body": "Bonnie Prince Charlie is best known for",
   "options": [
    "leading the 1745 Jacobite rebellion that ended at Culloden",
-   "winning Paralympic gold medals in swimming",
-   "being the first Prime Minister, from 1721 to 1742",
-   "musicals such as 'Jesus Christ Superstar' and 'The Phantom of the Opera'"
+   "leading the suffragette campaign for women's votes",
+   "leading the Norman invasion of 1066",
+   "leading the establishment of the NHS as Minister for Health"
   ],
   "answer": 0,
   "explanation": "Bonnie Prince Charlie: leading the 1745 Jacobite rebellion that ended at Culloden.",
@@ -1544,10 +1544,10 @@
   "topic": "Famous people",
   "body": "Sir Christopher Wren is best known for",
   "options": [
-   "winning rowing gold medals at five consecutive Olympic Games",
-   "being Prime Minister from 1945 to 1951 when the welfare state was established",
+   "becoming Lord Protector after the Civil War",
+   "designing the Cenotaph in Whitehall and buildings in New Delhi",
    "designing the new St Paul's Cathedral after the Great Fire",
-   "developing the jet engine"
+   "inventing the hovercraft"
   ],
   "answer": 2,
   "explanation": "Sir Christopher Wren: designing the new St Paul's Cathedral after the Great Fire.",
@@ -1558,8 +1558,8 @@
   "topic": "Famous people",
   "body": "Sir Edwin Lutyens is best known for",
   "options": [
+   "designing natural-looking landscape gardens around country houses",
    "portrait painting, often with landscapes in the background",
-   "leading the establishment of the NHS as Minister for Health",
    "designing the Cenotaph in Whitehall and buildings in New Delhi",
    "designing the new St Paul's Cathedral after the Great Fire"
   ],
@@ -1572,10 +1572,10 @@
   "topic": "Famous people",
   "body": "Thomas Gainsborough is best known for",
   "options": [
-   "Welsh poetry and the radio play 'Under Milk Wood'",
-   "designing the new St Paul's Cathedral after the Great Fire",
+   "landscape painting; a major modern art prize is named after him",
+   "novels such as 'Far from the Madding Crowd'",
    "portrait painting, often with landscapes in the background",
-   "Scottish poetry, including 'Auld Lang Syne'"
+   "Welsh poetry and the radio play 'Under Milk Wood'"
   ],
   "answer": 2,
   "explanation": "Thomas Gainsborough: portrait painting, often with landscapes in the background.",
@@ -1587,9 +1587,9 @@
   "body": "John Constable is best known for",
   "options": [
    "landscape paintings of Dedham Vale on the Suffolk–Essex border",
-   "founding modern nursing after her work in the Crimean War",
-   "leading the establishment of the NHS as Minister for Health",
-   "winning Paralympic gold medals in swimming"
+   "developing television in the 1920s",
+   "landscape painting; a major modern art prize is named after him",
+   "designing natural-looking landscape gardens around country houses"
   ],
   "answer": 0,
   "explanation": "John Constable: landscape paintings of Dedham Vale on the Suffolk–Essex border.",
@@ -1600,10 +1600,10 @@
   "topic": "Famous people",
   "body": "J. M. W. Turner is best known for",
   "options": [
-   "winning Olympic gold for ice dancing in 1984",
+   "developing the 'Turing machine', the basis of modern computers",
    "landscape painting; a major modern art prize is named after him",
-   "defeating the English at the Battle of Bannockburn",
-   "being the first Briton to win the Tour de France, in 2012"
+   "becoming Lord Protector after the Civil War",
+   "founding modern nursing after her work in the Crimean War"
   ],
   "answer": 1,
   "explanation": "J. M. W. Turner: landscape painting; a major modern art prize is named after him.",
@@ -1614,10 +1614,10 @@
   "topic": "Famous people",
   "body": "Henry Moore is best known for",
   "options": [
-   "novels such as 'Pride and Prejudice' and 'Sense and Sensibility'",
-   "uniting the Anglo-Saxon kingdoms to defeat the Vikings",
+   "being organist at Westminster Abbey and writing church music and opera",
+   "captaining the England team that won the 1966 football World Cup",
    "large bronze abstract sculptures",
-   "Scottish poetry, including 'Auld Lang Syne'"
+   "breaking away from the Church of Rome and marrying six times"
   ],
   "answer": 2,
   "explanation": "Henry Moore: large bronze abstract sculptures.",
@@ -1628,10 +1628,10 @@
   "topic": "Famous people",
   "body": "David Hockney is best known for",
   "options": [
-   "designing the new St Paul's Cathedral after the Great Fire",
+   "being the first woman Prime Minister of the UK",
    "being an important contributor to the 'pop art' movement of the 1960s",
-   "defeating the English at the Battle of Bannockburn",
-   "landscape painting; a major modern art prize is named after him"
+   "being the first Prime Minister, from 1721 to 1742",
+   "being the first Briton to win the Tour de France, in 2012"
   ],
   "answer": 1,
   "explanation": "David Hockney: being an important contributor to the 'pop art' movement of the 1960s.",
@@ -1642,10 +1642,10 @@
   "topic": "Famous people",
   "body": "George Frederick Handel is best known for",
   "options": [
-   "landscape paintings of Dedham Vale on the Suffolk–Essex border",
+   "being organist at Westminster Abbey and writing church music and opera",
    "'Water Music' and the oratorio 'Messiah'",
-   "being the first British man to win a singles Grand Slam tennis title since 1936",
-   "being an important contributor to the 'pop art' movement of the 1960s"
+   "being an important contributor to the 'pop art' movement of the 1960s",
+   "landscape paintings of Dedham Vale on the Suffolk–Essex border"
   ],
   "answer": 1,
   "explanation": "George Frederick Handel: 'Water Music' and the oratorio 'Messiah'.",
@@ -1685,9 +1685,9 @@
   "body": "Benjamin Britten is best known for",
   "options": [
    "operas such as 'Peter Grimes' and 'Billy Budd'",
-   "leading the Norman invasion of 1066",
-   "inventing the cash machine (ATM) and the PIN number",
-   "'The Canterbury Tales', a series of poems about pilgrims"
+   "novels such as 'Pride and Prejudice' and 'Sense and Sensibility'",
+   "plays such as 'Romeo and Juliet' and 'Hamlet'",
+   "novels such as 'Far from the Madding Crowd'"
   ],
   "answer": 0,
   "explanation": "Benjamin Britten: operas such as 'Peter Grimes' and 'Billy Budd'.",
@@ -1698,10 +1698,10 @@
   "topic": "Famous people",
   "body": "Henry Purcell is best known for",
   "options": [
-   "defeating Napoleon at Waterloo and later becoming Prime Minister",
+   "large bronze abstract sculptures",
    "being organist at Westminster Abbey and writing church music and opera",
-   "inventing the hovercraft",
-   "discovering penicillin in 1928"
+   "being an important contributor to the 'pop art' movement of the 1960s",
+   "breaking away from the Church of Rome and marrying six times"
   ],
   "answer": 1,
   "explanation": "Henry Purcell: being organist at Westminster Abbey and writing church music and opera.",
@@ -1712,10 +1712,10 @@
   "topic": "Famous people",
   "body": "Sir Andrew Lloyd Webber is best known for",
   "options": [
-   "developing the 'Turing machine', the basis of modern computers",
+   "novels such as 'Far from the Madding Crowd'",
    "musicals such as 'Jesus Christ Superstar' and 'The Phantom of the Opera'",
-   "designing the Cenotaph in Whitehall and buildings in New Delhi",
-   "winning Paralympic gold medals in swimming"
+   "operas such as 'Peter Grimes' and 'Billy Budd'",
+   "plays such as 'Romeo and Juliet' and 'Hamlet'"
   ],
   "answer": 1,
   "explanation": "Sir Andrew Lloyd Webber: musicals such as 'Jesus Christ Superstar' and 'The Phantom of the Opera'.",
@@ -1740,9 +1740,9 @@
   "topic": "Famous people",
   "body": "Thomas Hardy is best known for",
   "options": [
-   "leading the suffragette campaign for women's votes",
-   "developing radar",
-   "landscape paintings of Dedham Vale on the Suffolk–Essex border",
+   "novels such as 'Oliver Twist' and 'Great Expectations'",
+   "being the first Prime Minister, from 1721 to 1742",
+   "novels such as 'Pride and Prejudice' and 'Sense and Sensibility'",
    "novels such as 'Far from the Madding Crowd'"
   ],
   "answer": 3,
@@ -1754,10 +1754,10 @@
   "topic": "Famous people",
   "body": "Robert Louis Stevenson is best known for",
   "options": [
-   "uniting the Anglo-Saxon kingdoms to defeat the Vikings",
+   "being the first Prime Minister, from 1721 to 1742",
    "'Treasure Island' and 'Dr Jekyll and Mr Hyde'",
-   "large bronze abstract sculptures",
-   "Welsh poetry and the radio play 'Under Milk Wood'"
+   "defeating the English at the Battle of Bannockburn",
+   "developing radar"
   ],
   "answer": 1,
   "explanation": "Robert Louis Stevenson: 'Treasure Island' and 'Dr Jekyll and Mr Hyde'.",
@@ -1782,10 +1782,10 @@
   "topic": "Famous people",
   "body": "William Wordsworth is best known for",
   "options": [
-   "novels such as 'Pride and Prejudice' and 'Sense and Sensibility'",
-   "winning rowing gold medals at five consecutive Olympic Games",
+   "leading the Norman invasion of 1066",
+   "plays such as 'Romeo and Juliet' and 'Hamlet'",
    "poetry inspired by nature and the Lake District",
-   "winning the Formula 1 world championship three times"
+   "Scottish poetry, including 'Auld Lang Syne'"
   ],
   "answer": 2,
   "explanation": "William Wordsworth: poetry inspired by nature and the Lake District.",
@@ -1796,10 +1796,10 @@
   "topic": "Famous people",
   "body": "Wilfred Owen is best known for",
   "options": [
-   "leading the 1745 Jacobite rebellion that ended at Culloden",
-   "the 'Pomp and Circumstance Marches'",
+   "being the first Briton to win the Tour de France, in 2012",
+   "'The Canterbury Tales', a series of poems about pilgrims",
    "poems about the First World War, such as 'Anthem for Doomed Youth'",
-   "winning the Formula 1 world championship three times"
+   "inventing the World Wide Web"
   ],
   "answer": 2,
   "explanation": "Wilfred Owen: poems about the First World War, such as 'Anthem for Doomed Youth'.",
@@ -1810,10 +1810,10 @@
   "topic": "Famous people",
   "body": "Dylan Thomas is best known for",
   "options": [
-   "showing that white light is made up of the colours of the rainbow, and his work on gravity",
-   "discovering penicillin in 1928",
+   "Scottish poetry, including 'Auld Lang Syne'",
+   "novels such as 'Far from the Madding Crowd'",
    "Welsh poetry and the radio play 'Under Milk Wood'",
-   "inventing the World Wide Web"
+   "poetry inspired by nature and the Lake District"
   ],
   "answer": 2,
   "explanation": "Dylan Thomas: Welsh poetry and the radio play 'Under Milk Wood'.",
@@ -1824,10 +1824,10 @@
   "topic": "Famous people",
   "body": "Sir Roger Bannister is best known for",
   "options": [
-   "landscape painting; a major modern art prize is named after him",
-   "his victory at Trafalgar, commemorated by a column in Trafalgar Square",
+   "being the first woman Prime Minister of the UK",
+   "being the first Briton to win the Tour de France, in 2012",
    "being the first man to run a mile in under four minutes, in 1954",
-   "re-establishing the Church of England and defeating the Spanish Armada"
+   "being the first Prime Minister, from 1721 to 1742"
   ],
   "answer": 2,
   "explanation": "Sir Roger Bannister: being the first man to run a mile in under four minutes, in 1954.",
@@ -1838,10 +1838,10 @@
   "topic": "Famous people",
   "body": "Sir Steve Redgrave is best known for",
   "options": [
-   "founding modern nursing after her work in the Crimean War",
-   "being the first Prime Minister, from 1721 to 1742",
+   "winning Olympic gold in the 5,000 and 10,000 metres",
+   "winning Olympic gold for ice dancing in 1984",
    "winning rowing gold medals at five consecutive Olympic Games",
-   "being the first man to run a mile in under four minutes, in 1954"
+   "winning Paralympic gold medals in swimming"
   ],
   "answer": 2,
   "explanation": "Sir Steve Redgrave: winning rowing gold medals at five consecutive Olympic Games.",
@@ -1852,10 +1852,10 @@
   "topic": "Famous people",
   "body": "Bobby Moore is best known for",
   "options": [
-   "uniting the Anglo-Saxon kingdoms to defeat the Vikings",
+   "inventing the World Wide Web",
    "captaining the England team that won the 1966 football World Cup",
-   "defeating the English at the Battle of Bannockburn",
-   "operas such as 'Peter Grimes' and 'Billy Budd'"
+   "large bronze abstract sculptures",
+   "re-establishing the Church of England and defeating the Spanish Armada"
   ],
   "answer": 1,
   "explanation": "Bobby Moore: captaining the England team that won the 1966 football World Cup.",
@@ -1867,9 +1867,9 @@
   "body": "Sir Jackie Stewart is best known for",
   "options": [
    "winning the Formula 1 world championship three times",
-   "operas such as 'Peter Grimes' and 'Billy Budd'",
-   "helping to discover the structure of the DNA molecule in 1953",
-   "developing the 'Turing machine', the basis of modern computers"
+   "inventing the World Wide Web",
+   "winning Olympic gold in the 5,000 and 10,000 metres",
+   "winning Olympic gold for ice dancing in 1984"
   ],
   "answer": 0,
   "explanation": "Sir Jackie Stewart: winning the Formula 1 world championship three times.",
@@ -1881,9 +1881,9 @@
   "body": "Jayne Torvill and Christopher Dean is best known for",
   "options": [
    "winning Olympic gold for ice dancing in 1984",
-   "designing natural-looking landscape gardens around country houses",
-   "founding modern nursing after her work in the Crimean War",
-   "defeating Napoleon at Waterloo and later becoming Prime Minister"
+   "winning rowing gold medals at five consecutive Olympic Games",
+   "winning Olympic gold in the 5,000 and 10,000 metres",
+   "winning Paralympic gold medals in swimming"
   ],
   "answer": 0,
   "explanation": "Jayne Torvill and Christopher Dean: winning Olympic gold for ice dancing in 1984.",
@@ -1895,9 +1895,9 @@
   "body": "Andy Murray is best known for",
   "options": [
    "being the first British man to win a singles Grand Slam tennis title since 1936",
-   "designing natural-looking landscape gardens around country houses",
-   "developing radar",
-   "the 1942 report that formed the basis of the modern welfare state"
+   "being the first Briton to win the Tour de France, in 2012",
+   "being the first woman Prime Minister of the UK",
+   "being the first Prime Minister, from 1721 to 1742"
   ],
   "answer": 0,
   "explanation": "Andy Murray: being the first British man to win a singles Grand Slam tennis title since 1936.",
@@ -1909,9 +1909,9 @@
   "body": "Sir Mo Farah is best known for",
   "options": [
    "winning Olympic gold in the 5,000 and 10,000 metres",
-   "being the first man to run a mile in under four minutes, in 1954",
-   "being an important contributor to the 'pop art' movement of the 1960s",
-   "novels such as 'Far from the Madding Crowd'"
+   "winning Olympic gold for ice dancing in 1984",
+   "winning rowing gold medals at five consecutive Olympic Games",
+   "winning Paralympic gold medals in swimming"
   ],
   "answer": 0,
   "explanation": "Sir Mo Farah: winning Olympic gold in the 5,000 and 10,000 metres.",
@@ -1922,10 +1922,10 @@
   "topic": "Famous people",
   "body": "Sir Bradley Wiggins is best known for",
   "options": [
-   "his victory at Trafalgar, commemorated by a column in Trafalgar Square",
-   "discovering penicillin in 1928",
+   "being the first woman Prime Minister of the UK",
+   "being the first Prime Minister, from 1721 to 1742",
    "being the first Briton to win the Tour de France, in 2012",
-   "developing television in the 1920s"
+   "being the first man to run a mile in under four minutes, in 1954"
   ],
   "answer": 2,
   "explanation": "Sir Bradley Wiggins: being the first Briton to win the Tour de France, in 2012.",
@@ -1936,10 +1936,10 @@
   "topic": "Famous people",
   "body": "Dame Ellie Simmonds is best known for",
   "options": [
-   "operas such as 'Peter Grimes' and 'Billy Budd'",
+   "winning rowing gold medals at five consecutive Olympic Games",
    "winning Paralympic gold medals in swimming",
-   "the 1942 report that formed the basis of the modern welfare state",
-   "inventing the hovercraft"
+   "winning Olympic gold for ice dancing in 1984",
+   "winning Olympic gold in the 5,000 and 10,000 metres"
   ],
   "answer": 1,
   "explanation": "Dame Ellie Simmonds: winning Paralympic gold medals in swimming.",
@@ -1950,10 +1950,10 @@
   "topic": "Famous people",
   "body": "Capability Brown is best known for",
   "options": [
-   "landscape paintings of Dedham Vale on the Suffolk–Essex border",
+   "landscape painting; a major modern art prize is named after him",
    "designing natural-looking landscape gardens around country houses",
-   "his victory at Trafalgar, commemorated by a column in Trafalgar Square",
-   "uniting the Anglo-Saxon kingdoms to defeat the Vikings"
+   "designing the new St Paul's Cathedral after the Great Fire",
+   "designing the Cenotaph in Whitehall and buildings in New Delhi"
   ],
   "answer": 1,
   "explanation": "Capability Brown: designing natural-looking landscape gardens around country houses.",
@@ -1965,9 +1965,9 @@
   "body": "Sir Ludwig Guttmann is best known for",
   "options": [
    "starting sporting events at Stoke Mandeville that grew into the Paralympics",
+   "captaining the England team that won the 1966 football World Cup",
    "the 1942 report that formed the basis of the modern welfare state",
-   "showing that white light is made up of the colours of the rainbow, and his work on gravity",
-   "developing an efficient carding machine and pioneering factory production"
+   "leading the 1745 Jacobite rebellion that ended at Culloden"
   ],
   "answer": 0,
   "explanation": "Sir Ludwig Guttmann: starting sporting events at Stoke Mandeville that grew into the Paralympics.",
@@ -1978,9 +1978,9 @@
   "topic": "Famous people",
   "body": "Who is known for showing that white light is made up of the colours of the rainbow, and his work on gravity?",
   "options": [
-   "Sir Frank Whittle",
-   "Sir Christopher Cockerell",
-   "Alan Turing",
+   "William Beveridge",
+   "Bobby Moore",
+   "Florence Nightingale",
    "Sir Isaac Newton"
   ],
   "answer": 3,
@@ -1993,9 +1993,9 @@
   "body": "Who is known for the theory of evolution set out in 'On the Origin of Species'?",
   "options": [
    "Charles Darwin",
+   "Charles Dickens",
    "R. A. Butler",
-   "Sir Robert Walpole",
-   "Robert Louis Stevenson"
+   "Sir Robert Walpole"
   ],
   "answer": 0,
   "explanation": "Charles Darwin: the theory of evolution set out in 'On the Origin of Species'.",
@@ -2020,9 +2020,9 @@
   "topic": "Famous people",
   "body": "Who is known for founding modern nursing after her work in the Crimean War?",
   "options": [
-   "Henry Purcell",
-   "William Shakespeare",
-   "John Logie Baird",
+   "Oliver Cromwell",
+   "J. M. W. Turner",
+   "Alan Turing",
    "Florence Nightingale"
   ],
   "answer": 3,
@@ -2034,10 +2034,10 @@
   "topic": "Famous people",
   "body": "Who is known for engineering the Great Western Railway, tunnels, bridges and ships?",
   "options": [
-   "Elizabeth I",
-   "J. M. W. Turner",
+   "Alfred the Great",
+   "Charles Dickens",
    "Isambard Kingdom Brunel",
-   "Sir Edward Elgar"
+   "Sir Christopher Wren"
   ],
   "answer": 2,
   "explanation": "Isambard Kingdom Brunel: engineering the Great Western Railway, tunnels, bridges and ships.",
@@ -2049,9 +2049,9 @@
   "body": "Who is known for developing an efficient carding machine and pioneering factory production?",
   "options": [
    "Richard Arkwright",
-   "Robert Burns",
-   "William Wordsworth",
-   "Henry Moore"
+   "Alan Turing",
+   "Sir Robert Watson-Watt",
+   "Sir Frank Whittle"
   ],
   "answer": 0,
   "explanation": "Richard Arkwright: developing an efficient carding machine and pioneering factory production.",
@@ -2062,9 +2062,9 @@
   "topic": "Famous people",
   "body": "Who is known for Scottish poetry, including 'Auld Lang Syne'?",
   "options": [
-   "Sir Bradley Wiggins",
-   "Henry Purcell",
-   "Admiral Horatio Nelson",
+   "William Wordsworth",
+   "Sir Robert Watson-Watt",
+   "Robert the Bruce",
    "Robert Burns"
   ],
   "answer": 3,
@@ -2076,9 +2076,9 @@
   "topic": "Famous people",
   "body": "Who is known for plays such as 'Romeo and Juliet' and 'Hamlet'?",
   "options": [
-   "Aneurin (Nye) Bevan",
-   "Robert Louis Stevenson",
-   "Sir Andrew Lloyd Webber",
+   "Thomas Hardy",
+   "William the Conqueror",
+   "William Wordsworth",
    "William Shakespeare"
   ],
   "answer": 3,
@@ -2090,9 +2090,9 @@
   "topic": "Famous people",
   "body": "Who is known for 'The Canterbury Tales', a series of poems about pilgrims?",
   "options": [
-   "Sir Alexander Fleming",
-   "Sir Christopher Wren",
+   "Wilfred Owen",
    "Charles Darwin",
+   "Sir Alexander Fleming",
    "Geoffrey Chaucer"
   ],
   "answer": 3,
@@ -2104,9 +2104,9 @@
   "topic": "Famous people",
   "body": "Who is known for novels such as 'Pride and Prejudice' and 'Sense and Sensibility'?",
   "options": [
-   "Alan Turing",
    "Thomas Hardy",
-   "Capability Brown",
+   "Charles Dickens",
+   "William Shakespeare",
    "Jane Austen"
   ],
   "answer": 3,
@@ -2118,10 +2118,10 @@
   "topic": "Famous people",
   "body": "Who is known for novels such as 'Oliver Twist' and 'Great Expectations'?",
   "options": [
-   "Rudyard Kipling",
+   "Jane Austen",
    "Charles Dickens",
-   "Sir Steve Redgrave",
-   "R. A. Butler"
+   "Thomas Hardy",
+   "Charles Darwin"
   ],
   "answer": 1,
   "explanation": "Charles Dickens: novels such as 'Oliver Twist' and 'Great Expectations'.",
@@ -2132,10 +2132,10 @@
   "topic": "Famous people",
   "body": "Who is known for leading Britain as Prime Minister during the Second World War?",
   "options": [
-   "William Wordsworth",
-   "Sir Edward Elgar",
+   "Margaret Thatcher",
+   "Sir Robert Walpole",
    "Sir Winston Churchill",
-   "Sir Steve Redgrave"
+   "Aneurin (Nye) Bevan"
   ],
   "answer": 2,
   "explanation": "Sir Winston Churchill: leading Britain as Prime Minister during the Second World War.",
@@ -2146,9 +2146,9 @@
   "topic": "Famous people",
   "body": "Who is known for being Prime Minister from 1945 to 1951 when the welfare state was established?",
   "options": [
-   "Sir Alexander Fleming",
+   "Margaret Thatcher",
    "Clement Attlee",
-   "Henry Purcell",
+   "the Duke of Wellington",
    "Sir Robert Walpole"
   ],
   "answer": 1,
@@ -2160,9 +2160,9 @@
   "topic": "Famous people",
   "body": "Who is known for leading the establishment of the NHS as Minister for Health?",
   "options": [
-   "Henry Purcell",
-   "Richard Arkwright",
-   "Geoffrey Chaucer",
+   "William the Conqueror",
+   "Sir Winston Churchill",
+   "Sir Robert Walpole",
    "Aneurin (Nye) Bevan"
   ],
   "answer": 3,
@@ -2174,9 +2174,9 @@
   "topic": "Famous people",
   "body": "Who is known for the 1942 report that formed the basis of the modern welfare state?",
   "options": [
-   "Sir Ludwig Guttmann",
-   "John Constable",
-   "Sir Edwin Lutyens",
+   "Clement Attlee",
+   "William the Conqueror",
+   "Alan Turing",
    "William Beveridge"
   ],
   "answer": 3,
@@ -2202,10 +2202,10 @@
   "topic": "Famous people",
   "body": "Who is known for leading the suffragette campaign for women's votes?",
   "options": [
-   "Sir Ludwig Guttmann",
+   "William the Conqueror",
    "Emmeline Pankhurst",
-   "Jane Austen",
-   "Sir Robert Walpole"
+   "Aneurin (Nye) Bevan",
+   "Bonnie Prince Charlie"
   ],
   "answer": 1,
   "explanation": "Emmeline Pankhurst: leading the suffragette campaign for women's votes.",
@@ -2216,10 +2216,10 @@
   "topic": "Famous people",
   "body": "Who is known for being the first woman Prime Minister of the UK?",
   "options": [
-   "Sir Arthur Conan Doyle",
-   "Robert Louis Stevenson",
+   "Sir Bradley Wiggins",
+   "Clement Attlee",
    "Margaret Thatcher",
-   "Sir Frank Whittle"
+   "Sir Robert Walpole"
   ],
   "answer": 2,
   "explanation": "Margaret Thatcher: being the first woman Prime Minister of the UK.",
@@ -2231,9 +2231,9 @@
   "body": "Who is known for developing the 'Turing machine', the basis of modern computers?",
   "options": [
    "Alan Turing",
-   "Sir Winston Churchill",
-   "Jayne Torvill and Christopher Dean",
-   "Captain James Cook"
+   "Sir Frank Whittle",
+   "Richard Arkwright",
+   "William Beveridge"
   ],
   "answer": 0,
   "explanation": "Alan Turing: developing the 'Turing machine', the basis of modern computers.",
@@ -2244,9 +2244,9 @@
   "topic": "Famous people",
   "body": "Who is known for inventing the World Wide Web?",
   "options": [
-   "Sir Frank Whittle",
-   "William the Conqueror",
-   "Sir Mo Farah",
+   "James Goodfellow",
+   "Sir Jackie Stewart",
+   "Sir Christopher Cockerell",
    "Sir Tim Berners-Lee"
   ],
   "answer": 3,
@@ -2259,9 +2259,9 @@
   "body": "Who is known for developing television in the 1920s?",
   "options": [
    "John Logie Baird",
-   "Jayne Torvill and Christopher Dean",
-   "Oliver Cromwell",
-   "William Shakespeare"
+   "Sir Frank Whittle",
+   "Alan Turing",
+   "Sir Robert Watson-Watt"
   ],
   "answer": 0,
   "explanation": "John Logie Baird: developing television in the 1920s.",
@@ -2272,10 +2272,10 @@
   "topic": "Famous people",
   "body": "Who is known for developing radar?",
   "options": [
-   "William Shakespeare",
+   "Robert the Bruce",
    "Sir Robert Watson-Watt",
-   "Sir Jackie Stewart",
-   "Sir Mo Farah"
+   "John Logie Baird",
+   "Sir Frank Whittle"
   ],
   "answer": 1,
   "explanation": "Sir Robert Watson-Watt: developing radar.",
@@ -2286,10 +2286,10 @@
   "topic": "Famous people",
   "body": "Who is known for developing the jet engine?",
   "options": [
-   "Francis Crick",
+   "Sir Robert Watson-Watt",
    "Sir Frank Whittle",
-   "William Wordsworth",
-   "Rudyard Kipling"
+   "Alan Turing",
+   "John Logie Baird"
   ],
   "answer": 1,
   "explanation": "Sir Frank Whittle: developing the jet engine.",
@@ -2300,10 +2300,10 @@
   "topic": "Famous people",
   "body": "Who is known for inventing the hovercraft?",
   "options": [
-   "Sir Edward Elgar",
-   "John Constable",
+   "Jayne Torvill and Christopher Dean",
+   "James Goodfellow",
    "Sir Christopher Cockerell",
-   "George Frederick Handel"
+   "Sir Tim Berners-Lee"
   ],
   "answer": 2,
   "explanation": "Sir Christopher Cockerell: inventing the hovercraft.",
@@ -2314,10 +2314,10 @@
   "topic": "Famous people",
   "body": "Who is known for inventing the cash machine (ATM) and the PIN number?",
   "options": [
-   "Sir Edwin Lutyens",
-   "the Duke of Wellington",
+   "Sir Tim Berners-Lee",
+   "Captain James Cook",
    "James Goodfellow",
-   "Henry Moore"
+   "Sir Christopher Cockerell"
   ],
   "answer": 2,
   "explanation": "James Goodfellow: inventing the cash machine (ATM) and the PIN number.",
@@ -2342,9 +2342,9 @@
   "topic": "Famous people",
   "body": "Who is known for breaking away from the Church of Rome and marrying six times?",
   "options": [
-   "Sir Arthur Conan Doyle",
-   "John Logie Baird",
-   "Alfred the Great",
+   "Elizabeth I",
+   "Henry Purcell",
+   "Henry Moore",
    "Henry VIII"
   ],
   "answer": 3,
@@ -2356,10 +2356,10 @@
   "topic": "Famous people",
   "body": "Who is known for re-establishing the Church of England and defeating the Spanish Armada?",
   "options": [
-   "Benjamin Britten",
+   "Robert the Bruce",
    "Elizabeth I",
-   "Charles Dickens",
-   "Geoffrey Chaucer"
+   "Bobby Moore",
+   "Henry VIII"
   ],
   "answer": 1,
   "explanation": "Elizabeth I: re-establishing the Church of England and defeating the Spanish Armada.",
@@ -2370,10 +2370,10 @@
   "topic": "Famous people",
   "body": "Who is known for leading the Norman invasion of 1066?",
   "options": [
-   "John Logie Baird",
-   "Sir Christopher Cockerell",
+   "Aneurin (Nye) Bevan",
+   "Emmeline Pankhurst",
    "William the Conqueror",
-   "Elizabeth I"
+   "William Shakespeare"
   ],
   "answer": 2,
   "explanation": "William the Conqueror: leading the Norman invasion of 1066.",
@@ -2384,10 +2384,10 @@
   "topic": "Famous people",
   "body": "Who is known for uniting the Anglo-Saxon kingdoms to defeat the Vikings?",
   "options": [
-   "Aneurin (Nye) Bevan",
-   "Sir Edwin Lutyens",
+   "Sir Christopher Wren",
+   "Charles Dickens",
    "Alfred the Great",
-   "the Duke of Wellington"
+   "Isambard Kingdom Brunel"
   ],
   "answer": 2,
   "explanation": "Alfred the Great: uniting the Anglo-Saxon kingdoms to defeat the Vikings.",
@@ -2398,10 +2398,10 @@
   "topic": "Famous people",
   "body": "Who is known for defeating the English at the Battle of Bannockburn?",
   "options": [
-   "Thomas Gainsborough",
+   "Robert Louis Stevenson",
    "Robert the Bruce",
-   "Henry Moore",
-   "Thomas Hardy"
+   "Sir Robert Watson-Watt",
+   "Sir Robert Walpole"
   ],
   "answer": 1,
   "explanation": "Robert the Bruce: defeating the English at the Battle of Bannockburn.",
@@ -2413,9 +2413,9 @@
   "body": "Who is known for becoming Lord Protector after the Civil War?",
   "options": [
    "Oliver Cromwell",
-   "James Goodfellow",
-   "Sir Robert Walpole",
-   "Alan Turing"
+   "Charles Dickens",
+   "J. M. W. Turner",
+   "Sir Christopher Wren"
   ],
   "answer": 0,
   "explanation": "Oliver Cromwell: becoming Lord Protector after the Civil War.",
@@ -2426,10 +2426,10 @@
   "topic": "Famous people",
   "body": "Who is known for being the first Prime Minister, from 1721 to 1742?",
   "options": [
-   "Capability Brown",
+   "Margaret Thatcher",
    "Sir Robert Walpole",
-   "Henry Purcell",
-   "Wilfred Owen"
+   "Clement Attlee",
+   "Sir Bradley Wiggins"
   ],
   "answer": 1,
   "explanation": "Sir Robert Walpole: being the first Prime Minister, from 1721 to 1742.",
@@ -2455,9 +2455,9 @@
   "body": "Who is known for defeating Napoleon at Waterloo and later becoming Prime Minister?",
   "options": [
    "the Duke of Wellington",
-   "J. M. W. Turner",
-   "Sir Ludwig Guttmann",
-   "Henry VIII"
+   "Sir Winston Churchill",
+   "Margaret Thatcher",
+   "Sir Robert Walpole"
   ],
   "answer": 0,
   "explanation": "the Duke of Wellington: defeating Napoleon at Waterloo and later becoming Prime Minister.",
@@ -2468,9 +2468,9 @@
   "topic": "Famous people",
   "body": "Who is known for mapping the coast of Australia?",
   "options": [
-   "Andy Murray",
-   "William Wordsworth",
+   "James Goodfellow",
    "Sir Christopher Wren",
+   "Andy Murray",
    "Captain James Cook"
   ],
   "answer": 3,
@@ -2482,10 +2482,10 @@
   "topic": "Famous people",
   "body": "Who is known for leading the 1745 Jacobite rebellion that ended at Culloden?",
   "options": [
-   "John Logie Baird",
+   "William the Conqueror",
    "Bonnie Prince Charlie",
-   "Sir Roger Bannister",
-   "James Goodfellow"
+   "Aneurin (Nye) Bevan",
+   "Emmeline Pankhurst"
   ],
   "answer": 1,
   "explanation": "Bonnie Prince Charlie: leading the 1745 Jacobite rebellion that ended at Culloden.",
@@ -2496,9 +2496,9 @@
   "topic": "Famous people",
   "body": "Who is known for designing the new St Paul's Cathedral after the Great Fire?",
   "options": [
-   "William Beveridge",
-   "Jane Austen",
-   "Henry Purcell",
+   "Sir Christopher Cockerell",
+   "Sir Edwin Lutyens",
+   "Oliver Cromwell",
    "Sir Christopher Wren"
   ],
   "answer": 3,
@@ -2510,9 +2510,9 @@
   "topic": "Famous people",
   "body": "Who is known for designing the Cenotaph in Whitehall and buildings in New Delhi?",
   "options": [
-   "Sir Andrew Lloyd Webber",
+   "Capability Brown",
+   "Sir Christopher Wren",
    "Alfred the Great",
-   "Alan Turing",
    "Sir Edwin Lutyens"
   ],
   "answer": 3,
@@ -2525,9 +2525,9 @@
   "body": "Who is known for portrait painting, often with landscapes in the background?",
   "options": [
    "Thomas Gainsborough",
-   "Oliver Cromwell",
-   "Alfred the Great",
-   "Henry Purcell"
+   "J. M. W. Turner",
+   "Thomas Hardy",
+   "Dylan Thomas"
   ],
   "answer": 0,
   "explanation": "Thomas Gainsborough: portrait painting, often with landscapes in the background.",
@@ -2538,9 +2538,9 @@
   "topic": "Famous people",
   "body": "Who is known for landscape paintings of Dedham Vale on the Suffolk–Essex border?",
   "options": [
-   "Sir Isaac Newton",
-   "George Frederick Handel",
-   "Thomas Hardy",
+   "J. M. W. Turner",
+   "Capability Brown",
+   "John Logie Baird",
    "John Constable"
   ],
   "answer": 3,
@@ -2552,10 +2552,10 @@
   "topic": "Famous people",
   "body": "Who is known for landscape painting; a major modern art prize is named after him?",
   "options": [
-   "Admiral Horatio Nelson",
-   "Sir Arthur Conan Doyle",
+   "Alan Turing",
+   "Florence Nightingale",
    "J. M. W. Turner",
-   "John Constable"
+   "Oliver Cromwell"
   ],
   "answer": 2,
   "explanation": "J. M. W. Turner: landscape painting; a major modern art prize is named after him.",
@@ -2567,9 +2567,9 @@
   "body": "Who is known for large bronze abstract sculptures?",
   "options": [
    "Henry Moore",
+   "Bobby Moore",
    "Henry Purcell",
-   "Sir Steve Redgrave",
-   "William the Conqueror"
+   "Henry VIII"
   ],
   "answer": 0,
   "explanation": "Henry Moore: large bronze abstract sculptures.",
@@ -2580,9 +2580,9 @@
   "topic": "Famous people",
   "body": "Who is known for being an important contributor to the 'pop art' movement of the 1960s?",
   "options": [
-   "Isambard Kingdom Brunel",
-   "J. M. W. Turner",
-   "Captain James Cook",
+   "Margaret Thatcher",
+   "Sir Bradley Wiggins",
+   "Sir Robert Walpole",
    "David Hockney"
   ],
   "answer": 3,
@@ -2594,10 +2594,10 @@
   "topic": "Famous people",
   "body": "Who is known for 'Water Music' and the oratorio 'Messiah'?",
   "options": [
-   "Rudyard Kipling",
-   "Thomas Gainsborough",
+   "Henry Purcell",
+   "Benjamin Britten",
    "George Frederick Handel",
-   "Benjamin Britten"
+   "Rudyard Kipling"
   ],
   "answer": 2,
   "explanation": "George Frederick Handel: 'Water Music' and the oratorio 'Messiah'.",
@@ -2636,10 +2636,10 @@
   "topic": "Famous people",
   "body": "Who is known for operas such as 'Peter Grimes' and 'Billy Budd'?",
   "options": [
-   "Sir Alexander Fleming",
+   "Thomas Hardy",
    "Benjamin Britten",
-   "James Goodfellow",
-   "Henry Moore"
+   "Jane Austen",
+   "William Shakespeare"
   ],
   "answer": 1,
   "explanation": "Benjamin Britten: operas such as 'Peter Grimes' and 'Billy Budd'.",
@@ -2651,9 +2651,9 @@
   "body": "Who is known for being organist at Westminster Abbey and writing church music and opera?",
   "options": [
    "Henry Purcell",
-   "Wilfred Owen",
    "Henry Moore",
-   "Emmeline Pankhurst"
+   "Henry VIII",
+   "David Hockney"
   ],
   "answer": 0,
   "explanation": "Henry Purcell: being organist at Westminster Abbey and writing church music and opera.",
@@ -2664,9 +2664,9 @@
   "topic": "Famous people",
   "body": "Who is known for musicals such as 'Jesus Christ Superstar' and 'The Phantom of the Opera'?",
   "options": [
-   "Captain James Cook",
-   "Sir Roger Bannister",
-   "Florence Nightingale",
+   "William Shakespeare",
+   "Thomas Hardy",
+   "Charles Dickens",
    "Sir Andrew Lloyd Webber"
   ],
   "answer": 3,
@@ -2692,10 +2692,10 @@
   "topic": "Famous people",
   "body": "Who is known for novels such as 'Far from the Madding Crowd'?",
   "options": [
-   "Sir Edward Elgar",
-   "George Frederick Handel",
+   "Charles Dickens",
+   "Jane Austen",
    "Thomas Hardy",
-   "Captain James Cook"
+   "Sir Robert Walpole"
   ],
   "answer": 2,
   "explanation": "Thomas Hardy: novels such as 'Far from the Madding Crowd'.",
@@ -2706,10 +2706,10 @@
   "topic": "Famous people",
   "body": "Who is known for 'Treasure Island' and 'Dr Jekyll and Mr Hyde'?",
   "options": [
-   "Wilfred Owen",
-   "Sir Alexander Fleming",
+   "Sir Robert Watson-Watt",
+   "Sir Robert Walpole",
    "Robert Louis Stevenson",
-   "Sir Andrew Lloyd Webber"
+   "Robert the Bruce"
   ],
   "answer": 2,
   "explanation": "Robert Louis Stevenson: 'Treasure Island' and 'Dr Jekyll and Mr Hyde'.",
@@ -2735,9 +2735,9 @@
   "body": "Who is known for poetry inspired by nature and the Lake District?",
   "options": [
    "William Wordsworth",
-   "Dame Ellie Simmonds",
-   "Jane Austen",
-   "Sir Christopher Cockerell"
+   "William the Conqueror",
+   "Robert Burns",
+   "William Shakespeare"
   ],
   "answer": 0,
   "explanation": "William Wordsworth: poetry inspired by nature and the Lake District.",
@@ -2748,10 +2748,10 @@
   "topic": "Famous people",
   "body": "Who is known for poems about the First World War, such as 'Anthem for Doomed Youth'?",
   "options": [
-   "William Beveridge",
+   "Sir Tim Berners-Lee",
    "Wilfred Owen",
-   "Captain James Cook",
-   "Sir Arthur Conan Doyle"
+   "Geoffrey Chaucer",
+   "Sir Robert Walpole"
   ],
   "answer": 1,
   "explanation": "Wilfred Owen: poems about the First World War, such as 'Anthem for Doomed Youth'.",
@@ -2763,8 +2763,8 @@
   "body": "Who is known for Welsh poetry and the radio play 'Under Milk Wood'?",
   "options": [
    "Robert Burns",
-   "Wilfred Owen",
-   "Sir Frank Whittle",
+   "William Wordsworth",
+   "Thomas Hardy",
    "Dylan Thomas"
   ],
   "answer": 3,
@@ -2777,9 +2777,9 @@
   "body": "Who is known for being the first man to run a mile in under four minutes, in 1954?",
   "options": [
    "Sir Roger Bannister",
-   "R. A. Butler",
-   "Sir Edward Elgar",
-   "Alfred the Great"
+   "Sir Robert Walpole",
+   "Sir Bradley Wiggins",
+   "Margaret Thatcher"
   ],
   "answer": 0,
   "explanation": "Sir Roger Bannister: being the first man to run a mile in under four minutes, in 1954.",
@@ -2791,9 +2791,9 @@
   "body": "Who is known for winning rowing gold medals at five consecutive Olympic Games?",
   "options": [
    "Sir Steve Redgrave",
-   "Sir Roger Bannister",
-   "Sir Robert Walpole",
-   "David Hockney"
+   "Sir Mo Farah",
+   "Jayne Torvill and Christopher Dean",
+   "Dame Ellie Simmonds"
   ],
   "answer": 0,
   "explanation": "Sir Steve Redgrave: winning rowing gold medals at five consecutive Olympic Games.",
@@ -2804,10 +2804,10 @@
   "topic": "Famous people",
   "body": "Who is known for captaining the England team that won the 1966 football World Cup?",
   "options": [
-   "Francis Crick",
+   "Elizabeth I",
    "Bobby Moore",
-   "Dylan Thomas",
-   "Benjamin Britten"
+   "Sir Tim Berners-Lee",
+   "Henry Moore"
   ],
   "answer": 1,
   "explanation": "Bobby Moore: captaining the England team that won the 1966 football World Cup.",
@@ -2818,9 +2818,9 @@
   "topic": "Famous people",
   "body": "Who is known for winning the Formula 1 world championship three times?",
   "options": [
-   "Sir Roger Bannister",
-   "William Shakespeare",
-   "Capability Brown",
+   "Sir Tim Berners-Lee",
+   "Sir Mo Farah",
+   "Jayne Torvill and Christopher Dean",
    "Sir Jackie Stewart"
   ],
   "answer": 3,
@@ -2832,9 +2832,9 @@
   "topic": "Famous people",
   "body": "Who is known for winning Olympic gold for ice dancing in 1984?",
   "options": [
-   "Sir Andrew Lloyd Webber",
-   "Alfred the Great",
-   "John Logie Baird",
+   "Sir Mo Farah",
+   "Sir Steve Redgrave",
+   "Dame Ellie Simmonds",
    "Jayne Torvill and Christopher Dean"
   ],
   "answer": 3,
@@ -2847,9 +2847,9 @@
   "body": "Who is known for being the first British man to win a singles Grand Slam tennis title since 1936?",
   "options": [
    "Andy Murray",
-   "the Duke of Wellington",
-   "Rudyard Kipling",
-   "Bobby Moore"
+   "Sir Bradley Wiggins",
+   "Sir Robert Walpole",
+   "Margaret Thatcher"
   ],
   "answer": 0,
   "explanation": "Andy Murray: being the first British man to win a singles Grand Slam tennis title since 1936.",
@@ -2860,9 +2860,9 @@
   "topic": "Famous people",
   "body": "Who is known for winning Olympic gold in the 5,000 and 10,000 metres?",
   "options": [
-   "Sir Robert Watson-Watt",
-   "Geoffrey Chaucer",
-   "Sir Frank Whittle",
+   "Jayne Torvill and Christopher Dean",
+   "Dame Ellie Simmonds",
+   "Sir Steve Redgrave",
    "Sir Mo Farah"
   ],
   "answer": 3,
@@ -2875,9 +2875,9 @@
   "body": "Who is known for being the first Briton to win the Tour de France, in 2012?",
   "options": [
    "Sir Bradley Wiggins",
-   "Sir Ludwig Guttmann",
-   "J. M. W. Turner",
-   "Robert Louis Stevenson"
+   "Sir Robert Walpole",
+   "Margaret Thatcher",
+   "Sir Roger Bannister"
   ],
   "answer": 0,
   "explanation": "Sir Bradley Wiggins: being the first Briton to win the Tour de France, in 2012.",
@@ -2888,10 +2888,10 @@
   "topic": "Famous people",
   "body": "Who is known for winning Paralympic gold medals in swimming?",
   "options": [
-   "Sir Edwin Lutyens",
+   "Jayne Torvill and Christopher Dean",
    "Dame Ellie Simmonds",
-   "Sir Arthur Conan Doyle",
-   "Sir Robert Walpole"
+   "Sir Steve Redgrave",
+   "Sir Mo Farah"
   ],
   "answer": 1,
   "explanation": "Dame Ellie Simmonds: winning Paralympic gold medals in swimming.",
@@ -2902,9 +2902,9 @@
   "topic": "Famous people",
   "body": "Who is known for designing natural-looking landscape gardens around country houses?",
   "options": [
-   "Emmeline Pankhurst",
-   "Clement Attlee",
-   "Sir Alexander Fleming",
+   "J. M. W. Turner",
+   "Sir Edwin Lutyens",
+   "Sir Christopher Wren",
    "Capability Brown"
   ],
   "answer": 3,
@@ -2916,10 +2916,10 @@
   "topic": "Famous people",
   "body": "Who is known for starting sporting events at Stoke Mandeville that grew into the Paralympics?",
   "options": [
-   "Robert the Bruce",
+   "Bonnie Prince Charlie",
    "Sir Ludwig Guttmann",
-   "Sir Roger Bannister",
-   "Jane Austen"
+   "Bobby Moore",
+   "William Beveridge"
   ],
   "answer": 1,
   "explanation": "Sir Ludwig Guttmann: starting sporting events at Stoke Mandeville that grew into the Paralympics.",

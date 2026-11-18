@@ -216,8 +216,8 @@
   "options": [
    "A token",
    "Machine learning",
-   "Unsupervised learning",
-   "Retrieval-augmented generation (RAG)"
+   "A hallucination",
+   "Unsupervised learning"
   ],
   "answer": 1,
   "explanation": "Machine learning: systems that learn patterns from data instead of being explicitly programmed.",
@@ -228,10 +228,10 @@
   "topic": "Fundamentals",
   "body": "What term describes training a model on labelled examples with known answers?",
   "options": [
-   "A context window",
-   "Supervised learning",
    "A hallucination",
-   "A large language model (LLM)"
+   "Supervised learning",
+   "Unsupervised learning",
+   "Fine-tuning"
   ],
   "answer": 1,
   "explanation": "Supervised learning: training a model on labelled examples with known answers.",
@@ -242,9 +242,9 @@
   "topic": "Fundamentals",
   "body": "What term describes finding patterns or groups in unlabelled data?",
   "options": [
-   "Fine-tuning",
-   "Few-shot prompting",
+   "Model drift",
    "Supervised learning",
+   "Machine learning",
    "Unsupervised learning"
   ],
   "answer": 3,
@@ -256,9 +256,9 @@
   "topic": "Fundamentals",
   "body": "What term describes a model trained on huge amounts of text to predict and generate language?",
   "options": [
-   "Unsupervised learning",
-   "Few-shot prompting",
+   "A token",
    "Fine-tuning",
+   "A context window",
    "A large language model (LLM)"
   ],
   "answer": 3,
@@ -270,9 +270,9 @@
   "topic": "Fundamentals",
   "body": "What term describes a chunk of text (a word or part of a word) that a language model processes?",
   "options": [
-   "Unsupervised learning",
-   "Fine-tuning",
-   "Human-in-the-loop",
+   "A hallucination",
+   "A large language model (LLM)",
+   "A context window",
    "A token"
   ],
   "answer": 3,
@@ -285,9 +285,9 @@
   "body": "What term describes a confident but false or made-up output from an AI model?",
   "options": [
    "A hallucination",
-   "A large language model (LLM)",
    "A context window",
-   "Retrieval-augmented generation (RAG)"
+   "Fine-tuning",
+   "A large language model (LLM)"
   ],
   "answer": 0,
   "explanation": "A hallucination: a confident but false or made-up output from an AI model.",
@@ -298,10 +298,10 @@
   "topic": "Fundamentals",
   "body": "What term describes giving a model relevant documents at answer time so it can ground its response?",
   "options": [
-   "Unsupervised learning",
    "Fine-tuning",
+   "A hallucination",
    "Retrieval-augmented generation (RAG)",
-   "Supervised learning"
+   "Model drift"
   ],
   "answer": 2,
   "explanation": "Retrieval-augmented generation (RAG): giving a model relevant documents at answer time so it can ground its response.",
@@ -312,10 +312,10 @@
   "topic": "Fundamentals",
   "body": "What term describes including a few worked examples in the prompt to show the desired output?",
   "options": [
-   "A large language model (LLM)",
+   "A hallucination",
    "Few-shot prompting",
-   "A token",
-   "A hallucination"
+   "A large language model (LLM)",
+   "Supervised learning"
   ],
   "answer": 1,
   "explanation": "Few-shot prompting: including a few worked examples in the prompt to show the desired output.",
@@ -326,8 +326,8 @@
   "topic": "Fundamentals",
   "body": "What term describes the maximum amount of text a model can consider at once?",
   "options": [
-   "Human-in-the-loop",
-   "Unsupervised learning",
+   "A hallucination",
+   "A large language model (LLM)",
    "A token",
    "A context window"
   ],
@@ -341,9 +341,9 @@
   "body": "What term describes further training a pre-trained model on a specific dataset?",
   "options": [
    "Fine-tuning",
-   "Unsupervised learning",
-   "A token",
-   "Retrieval-augmented generation (RAG)"
+   "A large language model (LLM)",
+   "A hallucination",
+   "Supervised learning"
   ],
   "answer": 0,
   "explanation": "Fine-tuning: further training a pre-trained model on a specific dataset.",
@@ -368,10 +368,10 @@
   "topic": "Fundamentals",
   "body": "What term describes a model's performance degrading as real-world data changes over time?",
   "options": [
-   "A context window",
-   "A large language model (LLM)",
+   "Retrieval-augmented generation (RAG)",
+   "A hallucination",
    "Model drift",
-   "Retrieval-augmented generation (RAG)"
+   "Unsupervised learning"
   ],
   "answer": 2,
   "explanation": "Model drift: a model's performance degrading as real-world data changes over time.",
@@ -383,9 +383,9 @@
   "body": "Machine learning is best described as",
   "options": [
    "systems that learn patterns from data instead of being explicitly programmed",
-   "including a few worked examples in the prompt to show the desired output",
-   "finding patterns or groups in unlabelled data",
-   "further training a pre-trained model on a specific dataset"
+   "a confident but false or made-up output from an AI model",
+   "a chunk of text (a word or part of a word) that a language model processes",
+   "finding patterns or groups in unlabelled data"
   ],
   "answer": 0,
   "explanation": "Machine learning: systems that learn patterns from data instead of being explicitly programmed.",
@@ -396,9 +396,9 @@
   "topic": "Fundamentals",
   "body": "Supervised learning is best described as",
   "options": [
+   "further training a pre-trained model on a specific dataset",
    "finding patterns or groups in unlabelled data",
-   "systems that learn patterns from data instead of being explicitly programmed",
-   "giving a model relevant documents at answer time so it can ground its response",
+   "a confident but false or made-up output from an AI model",
    "training a model on labelled examples with known answers"
   ],
   "answer": 3,
@@ -410,8 +410,8 @@
   "topic": "Fundamentals",
   "body": "Unsupervised learning is best described as",
   "options": [
-   "further training a pre-trained model on a specific dataset",
-   "the maximum amount of text a model can consider at once",
+   "systems that learn patterns from data instead of being explicitly programmed",
+   "training a model on labelled examples with known answers",
    "finding patterns or groups in unlabelled data",
    "a model's performance degrading as real-world data changes over time"
   ],
@@ -425,9 +425,9 @@
   "body": "A large language model (LLM) is best described as",
   "options": [
    "a model trained on huge amounts of text to predict and generate language",
-   "training a model on labelled examples with known answers",
-   "systems that learn patterns from data instead of being explicitly programmed",
-   "a chunk of text (a word or part of a word) that a language model processes"
+   "a chunk of text (a word or part of a word) that a language model processes",
+   "further training a pre-trained model on a specific dataset",
+   "the maximum amount of text a model can consider at once"
   ],
   "answer": 0,
   "explanation": "A large language model (LLM): a model trained on huge amounts of text to predict and generate language.",
@@ -439,9 +439,9 @@
   "body": "A token is best described as",
   "options": [
    "a chunk of text (a word or part of a word) that a language model processes",
-   "a person reviewing or approving AI outputs before they take effect",
-   "systems that learn patterns from data instead of being explicitly programmed",
-   "training a model on labelled examples with known answers"
+   "the maximum amount of text a model can consider at once",
+   "a confident but false or made-up output from an AI model",
+   "a model trained on huge amounts of text to predict and generate language"
   ],
   "answer": 0,
   "explanation": "A token: a chunk of text (a word or part of a word) that a language model processes.",
@@ -452,9 +452,9 @@
   "topic": "Fundamentals",
   "body": "A hallucination is best described as",
   "options": [
-   "the maximum amount of text a model can consider at once",
-   "further training a pre-trained model on a specific dataset",
    "including a few worked examples in the prompt to show the desired output",
+   "further training a pre-trained model on a specific dataset",
+   "the maximum amount of text a model can consider at once",
    "a confident but false or made-up output from an AI model"
   ],
   "answer": 3,
@@ -466,10 +466,10 @@
   "topic": "Fundamentals",
   "body": "Retrieval-augmented generation (RAG) is best described as",
   "options": [
-   "the maximum amount of text a model can consider at once",
-   "a person reviewing or approving AI outputs before they take effect",
+   "a confident but false or made-up output from an AI model",
+   "a model's performance degrading as real-world data changes over time",
    "giving a model relevant documents at answer time so it can ground its response",
-   "further training a pre-trained model on a specific dataset"
+   "the maximum amount of text a model can consider at once"
   ],
   "answer": 2,
   "explanation": "Retrieval-augmented generation (RAG): giving a model relevant documents at answer time so it can ground its response.",
@@ -481,9 +481,9 @@
   "body": "Few-shot prompting is best described as",
   "options": [
    "including a few worked examples in the prompt to show the desired output",
-   "systems that learn patterns from data instead of being explicitly programmed",
    "a model's performance degrading as real-world data changes over time",
-   "finding patterns or groups in unlabelled data"
+   "a confident but false or made-up output from an AI model",
+   "training a model on labelled examples with known answers"
   ],
   "answer": 0,
   "explanation": "Few-shot prompting: including a few worked examples in the prompt to show the desired output.",
@@ -494,10 +494,10 @@
   "topic": "Fundamentals",
   "body": "A context window is best described as",
   "options": [
-   "giving a model relevant documents at answer time so it can ground its response",
-   "including a few worked examples in the prompt to show the desired output",
+   "a model trained on huge amounts of text to predict and generate language",
+   "a chunk of text (a word or part of a word) that a language model processes",
    "the maximum amount of text a model can consider at once",
-   "a model's performance degrading as real-world data changes over time"
+   "a confident but false or made-up output from an AI model"
   ],
   "answer": 2,
   "explanation": "A context window: the maximum amount of text a model can consider at once.",
@@ -508,10 +508,10 @@
   "topic": "Fundamentals",
   "body": "Fine-tuning is best described as",
   "options": [
-   "a confident but false or made-up output from an AI model",
+   "a model trained on huge amounts of text to predict and generate language",
    "further training a pre-trained model on a specific dataset",
-   "a chunk of text (a word or part of a word) that a language model processes",
-   "a model trained on huge amounts of text to predict and generate language"
+   "a confident but false or made-up output from an AI model",
+   "training a model on labelled examples with known answers"
   ],
   "answer": 1,
   "explanation": "Fine-tuning: further training a pre-trained model on a specific dataset.",
@@ -537,9 +537,9 @@
   "body": "Model drift is best described as",
   "options": [
    "a model's performance degrading as real-world data changes over time",
-   "giving a model relevant documents at answer time so it can ground its response",
-   "training a model on labelled examples with known answers",
-   "systems that learn patterns from data instead of being explicitly programmed"
+   "finding patterns or groups in unlabelled data",
+   "a confident but false or made-up output from an AI model",
+   "giving a model relevant documents at answer time so it can ground its response"
   ],
   "answer": 0,
   "explanation": "Model drift: a model's performance degrading as real-world data changes over time.",
