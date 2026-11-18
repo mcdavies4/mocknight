@@ -1,0 +1,492 @@
+[
+ {
+  "subject": "GCL",
+  "topic": "Cloud basics",
+  "body": "Which cloud model gives you virtual machines that you manage, while Google manages the physical hardware?",
+  "options": [
+   "Function as a service (FaaS)",
+   "Infrastructure as a service (IaaS)",
+   "Software as a service (SaaS)",
+   "Platform as a service (PaaS)"
+  ],
+  "answer": 1,
+  "explanation": "With IaaS you manage the OS and apps; Compute Engine is Google Cloud's IaaS.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Cloud basics",
+  "body": "Paying only for the computing resources you actually use is called",
+  "options": [
+   "fixed annual licensing",
+   "per-seat subscription pricing",
+   "capital expenditure (CapEx) pricing",
+   "pay-as-you-go pricing"
+  ],
+  "answer": 3,
+  "explanation": "Cloud shifts spending from CapEx to OpEx.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Cloud basics",
+  "body": "Moving from buying servers to paying for cloud services shifts spending from",
+  "options": [
+   "operational expenditure to capital expenditure",
+   "capital expenditure to operational expenditure",
+   "fixed costs to sunk costs",
+   "variable costs to fixed costs"
+  ],
+  "answer": 1,
+  "explanation": "CapEx is upfront; OpEx is ongoing and flexible.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Cloud basics",
+  "body": "In the shared responsibility model, who is responsible for the physical security of Google's data centres?",
+  "options": [
+   "The customer's internet provider",
+   "The customer",
+   "Google",
+   "Both equally"
+  ],
+  "answer": 2,
+  "explanation": "Customers remain responsible for their data, identities and access.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Infrastructure",
+  "body": "A Google Cloud region is",
+  "options": [
+   "an edge cache for content delivery",
+   "a single data centre building",
+   "a geographic area with several zones",
+   "a group of projects in one billing account"
+  ],
+  "answer": 2,
+  "explanation": "Spreading resources across zones protects against a zone failure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Infrastructure",
+  "body": "Which service runs containers on managed Kubernetes clusters?",
+  "options": [
+   "Cloud Storage",
+   "Kubernetes Engine (GKE)",
+   "Cloud Functions",
+   "BigQuery"
+  ],
+  "answer": 1,
+  "explanation": "GKE manages the Kubernetes control plane for you.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Infrastructure",
+  "body": "Which service runs stateless containers without managing servers, scaling to zero when idle?",
+  "options": [
+   "Cloud Run",
+   "Bigtable",
+   "Cloud SQL",
+   "Compute Engine"
+  ],
+  "answer": 0,
+  "explanation": "Cloud Run is serverless for containers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Infrastructure",
+  "body": "Which Google Cloud service is the main IaaS offering for virtual machines?",
+  "options": [
+   "App Engine",
+   "Compute Engine",
+   "Cloud Run",
+   "Dataflow"
+  ],
+  "answer": 1,
+  "explanation": "Compute Engine gives full control over VMs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Data",
+  "body": "Which service is Google Cloud's serverless data warehouse for SQL analytics on large datasets?",
+  "options": [
+   "Memorystore",
+   "BigQuery",
+   "Cloud SQL",
+   "Firestore"
+  ],
+  "answer": 1,
+  "explanation": "BigQuery separates storage and compute and bills by data processed or slots.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Data",
+  "body": "Which service stores unstructured objects such as images, backups and videos?",
+  "options": [
+   "Persistent Disk snapshots only",
+   "Cloud Storage",
+   "Cloud Spanner",
+   "BigQuery"
+  ],
+  "answer": 1,
+  "explanation": "Cloud Storage offers Standard, Nearline, Coldline and Archive classes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Data",
+  "body": "Which Cloud Storage class is cheapest for data accessed less than once a year?",
+  "options": [
+   "Archive",
+   "Coldline",
+   "Nearline",
+   "Standard"
+  ],
+  "answer": 0,
+  "explanation": "Nearline suits monthly access, Coldline quarterly, Archive yearly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Data",
+  "body": "Which managed database is globally distributed, relational and strongly consistent?",
+  "options": [
+   "Firestore",
+   "Bigtable",
+   "Cloud SQL",
+   "Cloud Spanner"
+  ],
+  "answer": 3,
+  "explanation": "Spanner scales horizontally across regions while keeping SQL and ACID transactions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Data",
+  "body": "Which managed service runs MySQL, PostgreSQL or SQL Server databases?",
+  "options": [
+   "Spanner",
+   "BigQuery",
+   "Cloud SQL",
+   "Bigtable"
+  ],
+  "answer": 2,
+  "explanation": "Cloud SQL is a managed relational database for regional workloads.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Data",
+  "body": "Which service is designed for streaming and batch data pipelines using Apache Beam?",
+  "options": [
+   "Pub/Sub",
+   "Looker",
+   "Dataproc",
+   "Dataflow"
+  ],
+  "answer": 3,
+  "explanation": "Dataproc runs managed Spark and Hadoop instead.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Data",
+  "body": "Which service provides asynchronous messaging between applications?",
+  "options": [
+   "Cloud Scheduler",
+   "Cloud Armor",
+   "Pub/Sub",
+   "Cloud DNS"
+  ],
+  "answer": 2,
+  "explanation": "Publishers send messages to topics; subscribers receive them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Data",
+  "body": "Which Google Cloud tool is used for business intelligence dashboards and data modelling?",
+  "options": [
+   "Vertex AI",
+   "Looker",
+   "Dataflow",
+   "Cloud Build"
+  ],
+  "answer": 1,
+  "explanation": "Looker uses a semantic layer (LookML) for consistent metrics.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "AI and ML",
+  "body": "Which Google Cloud platform is used to build, train and deploy machine learning models?",
+  "options": [
+   "Vertex AI",
+   "BigQuery Omni",
+   "Cloud Composer",
+   "Anthos"
+  ],
+  "answer": 0,
+  "explanation": "Vertex AI unifies ML tooling, including access to Gemini models.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "AI and ML",
+  "body": "A business wants to add image labelling with no ML expertise. The best fit is",
+  "options": [
+   "training a custom model from scratch",
+   "building a data warehouse first",
+   "hiring a team to label images by hand",
+   "a pre-trained API such as Cloud Vision API"
+  ],
+  "answer": 3,
+  "explanation": "Pre-trained APIs need no model training.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "AI and ML",
+  "body": "Running SQL to create and use ML models directly inside the data warehouse is",
+  "options": [
+   "Dataproc",
+   "Cloud Run",
+   "BigQuery ML",
+   "Cloud Vision API"
+  ],
+  "answer": 2,
+  "explanation": "BigQuery ML lets analysts build models with SQL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Security",
+  "body": "Which service manages who can do what on which Google Cloud resources?",
+  "options": [
+   "VPC Service Controls",
+   "Cloud KMS",
+   "Cloud IAM",
+   "Cloud Armor"
+  ],
+  "answer": 2,
+  "explanation": "IAM binds roles to principals on resources.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Security",
+  "body": "Granting users only the permissions they need is the principle of",
+  "options": [
+   "defence in depth",
+   "least privilege",
+   "separation of concerns",
+   "zero knowledge"
+  ],
+  "answer": 1,
+  "explanation": "Prefer predefined or custom roles over broad basic roles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Security",
+  "body": "Which service protects web applications from DDoS and common web attacks?",
+  "options": [
+   "Cloud DNS",
+   "Cloud NAT",
+   "Cloud Armor",
+   "Cloud Interconnect"
+  ],
+  "answer": 2,
+  "explanation": "Cloud Armor works with external load balancers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Security",
+  "body": "Customer-managed encryption keys are created and controlled in",
+  "options": [
+   "Secret Manager",
+   "Cloud Logging",
+   "Cloud KMS",
+   "Cloud Monitoring"
+  ],
+  "answer": 2,
+  "explanation": "Google encrypts data at rest by default; CMEK gives customers control of keys.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Security",
+  "body": "The security model that verifies every request instead of trusting the network location is",
+  "options": [
+   "network address translation",
+   "castle-and-moat",
+   "zero trust (BeyondCorp)",
+   "perimeter security"
+  ],
+  "answer": 2,
+  "explanation": "Access depends on identity and device context.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Operations",
+  "body": "The top-level node in the Google Cloud resource hierarchy is the",
+  "options": [
+   "folder",
+   "organization",
+   "billing account",
+   "project"
+  ],
+  "answer": 1,
+  "explanation": "Organization → folders → projects → resources.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Operations",
+  "body": "Policies set on a folder are",
+  "options": [
+   "ignored by the projects inside it",
+   "applied only to the folder itself",
+   "applied only to billing accounts",
+   "inherited by everything below it"
+  ],
+  "answer": 3,
+  "explanation": "IAM and organization policies inherit down the hierarchy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Operations",
+  "body": "Which tool shows logs and metrics for Google Cloud services?",
+  "options": [
+   "Cloud Deployment Manager",
+   "Cloud Source Repositories",
+   "Artifact Registry",
+   "Cloud Logging and Monitoring"
+  ],
+  "answer": 3,
+  "explanation": "Formerly known as the Operations suite (Stackdriver).",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Operations",
+  "body": "Site reliability engineering (SRE) uses an error budget to",
+  "options": [
+   "set the number of engineers per team",
+   "cap the monthly cloud bill",
+   "remove the need for monitoring",
+   "balance release speed with reliability"
+  ],
+  "answer": 3,
+  "explanation": "If the budget is used up, teams focus on reliability.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Cost",
+  "body": "Discounts for committing to use resources for one or three years are",
+  "options": [
+   "spot discounts",
+   "free tier credits",
+   "sustained use discounts",
+   "committed use discounts"
+  ],
+  "answer": 3,
+  "explanation": "Sustained use discounts apply automatically for running VMs most of the month.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Cost",
+  "body": "Short-lived, interruptible VMs at a big discount are called",
+  "options": [
+   "Sole-tenant nodes",
+   "Shielded VMs",
+   "Confidential VMs",
+   "Spot VMs"
+  ],
+  "answer": 3,
+  "explanation": "Good for fault-tolerant batch jobs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Cost",
+  "body": "Which feature alerts you when spending reaches a set amount?",
+  "options": [
+   "Budget alerts",
+   "Labels",
+   "Quotas",
+   "Recommender"
+  ],
+  "answer": 0,
+  "explanation": "Budgets don't stop spending by themselves; they notify.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Modernisation",
+  "body": "Moving an application to the cloud with few or no changes is",
+  "options": [
+   "retiring",
+   "rehosting",
+   "refactoring",
+   "re-architecting"
+  ],
+  "answer": 1,
+  "explanation": "It's the fastest migration path but gains fewer cloud benefits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Modernisation",
+  "body": "Which Google Cloud offering helps manage applications consistently across on-premises and multiple clouds?",
+  "options": [
+   "Cloud Interconnect",
+   "GKE Enterprise (Anthos)",
+   "Migrate to Virtual Machines",
+   "Firebase"
+  ],
+  "answer": 1,
+  "explanation": "It brings a consistent Kubernetes platform to hybrid and multicloud.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Modernisation",
+  "body": "Splitting an application into small, independently deployable services is a",
+  "options": [
+   "monolithic architecture",
+   "client-server architecture only",
+   "mainframe architecture",
+   "microservices architecture"
+  ],
+  "answer": 3,
+  "explanation": "Containers and Kubernetes are common for microservices.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GCL",
+  "topic": "Modernisation",
+  "body": "An application programming interface (API) lets",
+  "options": [
+   "programs exchange requests and responses",
+   "users avoid logging in",
+   "servers run without an operating system",
+   "data be stored without a database"
+  ],
+  "answer": 0,
+  "explanation": "Apigee is Google Cloud's API management platform.",
+  "difficulty": 2
+ }
+]

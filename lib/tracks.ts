@@ -2,7 +2,7 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV" | "ELEC18" | "EYTA" | "WAREHOUSE" | "NHSHCA" | "BA" | "ISC2CC" | "AWSSAA" | "AICERT" | "SFADMIN" | "GED" | "TEAS" | "CNA" | "ASVAB" | "UPSC" | "RRB" | "CTET" | "CAT" | "GCSE" | "CSJT" | "TOEFL" | "DUOLINGO" | "CDL" | "G1ON" | "APLUS" | "CCNA" | "JUPEB" | "NABTEB" | "NMCN" | "USMLE" | "GULFPH" | "GULFDR" | "UAEDRV" | "UAETLS" | "GULFLAB" | "GULFPT" | "GULFDEN" | "DUBAIPIC" | "SIRA" | "DMVCA" | "DMVTX" | "DMVFL" | "DMVNY" | "DMVGA" | "PTCB" | "PHLEB" | "CCMA" | "CPC" | "NCLEXPN" | "HESI" | "REALEST" | "LIFEINS" | "SERVSAFE" | "EPA608" | "ACT" | "HISET" | "PRAXIS" | "SIE" | "UACE" | "ACSEE" | "RWA6" | "CPAUG" | "CPATZ" | "KEDRV" | "UGDRV" | "TZDRV" | "RWDRV";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV" | "ELEC18" | "EYTA" | "WAREHOUSE" | "NHSHCA" | "BA" | "ISC2CC" | "AWSSAA" | "AICERT" | "SFADMIN" | "GED" | "TEAS" | "CNA" | "ASVAB" | "UPSC" | "RRB" | "CTET" | "CAT" | "GCSE" | "CSJT" | "TOEFL" | "DUOLINGO" | "CDL" | "G1ON" | "APLUS" | "CCNA" | "JUPEB" | "NABTEB" | "NMCN" | "USMLE" | "GULFPH" | "GULFDR" | "UAEDRV" | "UAETLS" | "GULFLAB" | "GULFPT" | "GULFDEN" | "DUBAIPIC" | "SIRA" | "DMVCA" | "DMVTX" | "DMVFL" | "DMVNY" | "DMVGA" | "PTCB" | "PHLEB" | "CCMA" | "CPC" | "NCLEXPN" | "HESI" | "REALEST" | "LIFEINS" | "SERVSAFE" | "EPA608" | "ACT" | "HISET" | "PRAXIS" | "SIE" | "UACE" | "ACSEE" | "RWA6" | "CPAUG" | "CPATZ" | "KEDRV" | "UGDRV" | "TZDRV" | "RWDRV" | "GCPCDL" | "AZ104" | "CISSP" | "DEVOPS" | "DIGMKT" | "HRCERT" | "PSPO";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
 export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi" | "Asia/Manila" | "Africa/Johannesburg";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
@@ -1241,6 +1241,55 @@ export const TRACKS: Record<TrackCode, Track> = {
     mock: { total: 40, minutes: 45, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
     plans: ["aicert_pass"], tagline: "AI fundamentals for Microsoft AI-900 and AWS AI Practitioner: ML, generative AI, responsible AI and cloud AI services", timeZone: "UTC", timeLabel: "UTC",
     audience: "someone preparing for Microsoft Azure AI Fundamentals (AI-900) or AWS Certified AI Practitioner",
+  },
+  GCPCDL: {
+    code: "GCPCDL", name: "Google Cloud Digital Leader", short: "Google Cloud", emoji: "🌥️", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["GCL"], compulsory: ["GCL"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 50, minutes: 90, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["gcp_pass"], tagline: "Google Cloud Digital Leader practice: cloud basics, data, AI, security, operations and cost", timeZone: "UTC", timeLabel: "UTC",
+    audience: "someone preparing for the Google Cloud Digital Leader certification",
+  },
+  AZ104: {
+    code: "AZ104", name: "Microsoft Azure Administrator (AZ-104)", short: "Azure Administrator", emoji: "🔷", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["AZA"], compulsory: ["AZA"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 50, minutes: 100, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["az104_pass"], tagline: "AZ-104 practice: identity, governance, storage, compute, networking, monitoring and backup", timeZone: "UTC", timeLabel: "UTC",
+    audience: "an IT professional preparing for the Microsoft Azure Administrator (AZ-104) exam",
+  },
+  CISSP: {
+    code: "CISSP", name: "CISSP (ISC2)", short: "CISSP", emoji: "🛡️", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["CSP"], compulsory: ["CSP"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 100, minutes: 180, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["cissp_pass"], tagline: "CISSP practice across all eight domains: risk, assets, architecture, networks, IAM, testing, operations and software", timeZone: "UTC", timeLabel: "UTC",
+    audience: "an experienced security professional preparing for the ISC2 CISSP exam",
+  },
+  DEVOPS: {
+    code: "DEVOPS", name: "Kubernetes, Docker & Terraform (KCNA / Terraform Associate)", short: "DevOps & Kubernetes", emoji: "⚙️", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["DVO"], compulsory: ["DVO"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 60, minutes: 90, passPct: 75, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["devops_pass"], tagline: "DevOps practice: containers, Kubernetes objects, cloud native tools, CI/CD and Terraform", timeZone: "UTC", timeLabel: "UTC",
+    audience: "an engineer preparing for the Kubernetes KCNA or HashiCorp Terraform Associate exam",
+  },
+  DIGMKT: {
+    code: "DIGMKT", name: "Digital marketing (Google Ads, GA4, HubSpot, Meta)", short: "Digital marketing", emoji: "📣", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["DMK"], compulsory: ["DMK"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 50, minutes: 75, passPct: 80, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["digmkt_pass"], tagline: "Digital marketing practice: Google Ads, Google Analytics 4, SEO, inbound, email and Meta ads", timeZone: "UTC", timeLabel: "UTC",
+    audience: "a marketer preparing for Google Ads, Google Analytics, HubSpot or Meta certifications",
+  },
+  HRCERT: {
+    code: "HRCERT", name: "HR certification (SHRM-CP / PHR)", short: "HR certification", emoji: "🧑‍💼", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["HRM"], compulsory: ["HRM"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 60, minutes: 90, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["hrcert_pass"], tagline: "HR practice for SHRM-CP and PHR: recruitment, US employment law, employee relations, rewards, L&D and change", timeZone: "UTC", timeLabel: "UTC",
+    audience: "an HR professional preparing for the SHRM-CP or HRCI PHR certification",
+  },
+  PSPO: {
+    code: "PSPO", name: "Product Owner & product management (PSPO I)", short: "Product Owner", emoji: "🧭", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["PDO"], compulsory: ["PDO"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 80, minutes: 60, passPct: 85, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["pspo_pass"], tagline: "Product Owner practice: Scrum accountabilities, backlog management, value, discovery, prioritisation and metrics", timeZone: "UTC", timeLabel: "UTC",
+    audience: "someone preparing for Professional Scrum Product Owner (PSPO I) or a product manager role",
   },
   SFADMIN: {
     code: "SFADMIN", name: "Salesforce Administrator", short: "Salesforce Admin", emoji: "☁️", kind: "professional", region: "GLOBAL", currency: "USD",

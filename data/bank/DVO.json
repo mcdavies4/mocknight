@@ -1,0 +1,464 @@
+[
+ {
+  "subject": "DVO",
+  "topic": "Containers",
+  "body": "A container image is",
+  "options": [
+   "a read-only app template with dependencies",
+   "a running virtual machine with its own kernel",
+   "a full backup of a database server",
+   "a network policy for a cluster"
+  ],
+  "answer": 0,
+  "explanation": "A container is a running instance of an image.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Containers",
+  "body": "Compared with virtual machines, containers",
+  "options": [
+   "share the host operating system kernel",
+   "each need a full guest operating system",
+   "can't run on Linux",
+   "always run slower"
+  ],
+  "answer": 0,
+  "explanation": "That makes them lighter and faster to start.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Containers",
+  "body": "Which file defines the steps to build a Docker image?",
+  "options": [
+   "Kubefile",
+   "Dockerfile",
+   "package.json",
+   "docker-compose.yml only"
+  ],
+  "answer": 1,
+  "explanation": "Each instruction creates an image layer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Containers",
+  "body": "A container registry is used to",
+  "options": [
+   "schedule pods across nodes",
+   "store and share images",
+   "store Terraform state",
+   "route HTTP traffic"
+  ],
+  "answer": 1,
+  "explanation": "Examples: Docker Hub, Artifact Registry, ECR.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Kubernetes",
+  "body": "The smallest deployable unit in Kubernetes is a",
+  "options": [
+   "Namespace",
+   "Deployment",
+   "Node",
+   "Pod"
+  ],
+  "answer": 3,
+  "explanation": "A pod holds one or more containers that share networking and storage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Kubernetes",
+  "body": "Which object keeps a set number of identical pods running and supports rolling updates?",
+  "options": [
+   "Service",
+   "ConfigMap",
+   "Deployment",
+   "PersistentVolume"
+  ],
+  "answer": 2,
+  "explanation": "A Deployment manages ReplicaSets.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Kubernetes",
+  "body": "Which object gives a stable network address for a set of pods?",
+  "options": [
+   "DaemonSet",
+   "Service",
+   "Job",
+   "Secret"
+  ],
+  "answer": 1,
+  "explanation": "Types include ClusterIP, NodePort and LoadBalancer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Kubernetes",
+  "body": "Which control-plane component stores the cluster's state?",
+  "options": [
+   "kube-proxy",
+   "kubelet",
+   "CoreDNS",
+   "etcd"
+  ],
+  "answer": 3,
+  "explanation": "etcd is a distributed key-value store.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Kubernetes",
+  "body": "Which component decides which node a new pod should run on?",
+  "options": [
+   "kube-controller-manager",
+   "kubelet",
+   "kube-scheduler",
+   "etcd"
+  ],
+  "answer": 2,
+  "explanation": "The kubelet on each node then runs the pod.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Kubernetes",
+  "body": "The agent that runs on every node and makes sure containers are running is the",
+  "options": [
+   "cloud-controller-manager",
+   "kubelet",
+   "kube-scheduler",
+   "kube-apiserver"
+  ],
+  "answer": 1,
+  "explanation": "It talks to the container runtime.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Kubernetes",
+  "body": "Which object ensures one copy of a pod runs on every node, for example a log collector?",
+  "options": [
+   "DaemonSet",
+   "CronJob",
+   "StatefulSet",
+   "Deployment"
+  ],
+  "answer": 0,
+  "explanation": "New nodes automatically get the pod.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Kubernetes",
+  "body": "Which object is designed for stateful apps that need stable names and storage?",
+  "options": [
+   "DaemonSet",
+   "ReplicaSet",
+   "StatefulSet",
+   "Job"
+  ],
+  "answer": 2,
+  "explanation": "Each pod gets a stable identity, such as db-0 and db-1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Kubernetes",
+  "body": "Non-sensitive configuration data is stored in a",
+  "options": [
+   "PersistentVolumeClaim",
+   "ServiceAccount",
+   "ConfigMap",
+   "Secret"
+  ],
+  "answer": 2,
+  "explanation": "Secrets hold sensitive data such as passwords.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Kubernetes",
+  "body": "Namespaces are used to",
+  "options": [
+   "connect clusters together",
+   "split a cluster between teams",
+   "store container images",
+   "encrypt data in etcd"
+  ],
+  "answer": 1,
+  "explanation": "Resource quotas can be set per namespace.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Kubernetes",
+  "body": "Which command-line tool is used to interact with a Kubernetes cluster?",
+  "options": [
+   "kubeadm only",
+   "helm only",
+   "docker",
+   "kubectl"
+  ],
+  "answer": 3,
+  "explanation": "kubeadm bootstraps clusters; Helm manages packages.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Kubernetes",
+  "body": "Helm is used to",
+  "options": [
+   "build container images",
+   "monitor node CPU",
+   "package apps as charts",
+   "store secrets in etcd"
+  ],
+  "answer": 2,
+  "explanation": "Charts template Kubernetes manifests.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Kubernetes",
+  "body": "A Horizontal Pod Autoscaler changes",
+  "options": [
+   "the number of nodes in the cluster",
+   "the number of pod replicas",
+   "the container image version",
+   "the CPU limit of a single pod"
+  ],
+  "answer": 1,
+  "explanation": "The Cluster Autoscaler changes node count.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Kubernetes",
+  "body": "A liveness probe tells Kubernetes",
+  "options": [
+   "when a pod can receive traffic",
+   "which node to schedule on",
+   "when to restart a stuck container",
+   "how much memory to allocate"
+  ],
+  "answer": 2,
+  "explanation": "A readiness probe controls when traffic is sent.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Cloud native",
+  "body": "The foundation that hosts Kubernetes and many cloud native projects is the",
+  "options": [
+   "Linux Professional Institute",
+   "OpenJS Foundation",
+   "Apache Software Foundation",
+   "Cloud Native Computing Foundation"
+  ],
+  "answer": 3,
+  "explanation": "Kubernetes graduated as the first CNCF project.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Cloud native",
+  "body": "Prometheus is mainly used for",
+  "options": [
+   "building container images",
+   "managing DNS records",
+   "collecting and querying metrics",
+   "provisioning cloud infrastructure"
+  ],
+  "answer": 2,
+  "explanation": "It's a CNCF graduated monitoring project.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Cloud native",
+  "body": "GitOps means",
+  "options": [
+   "storing container images in Git",
+   "Git as the source of truth",
+   "running Git on Kubernetes nodes",
+   "replacing CI with manual deploys"
+  ],
+  "answer": 1,
+  "explanation": "Tools such as Argo CD and Flux sync clusters to Git.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Cloud native",
+  "body": "A service mesh such as Istio or Linkerd mainly handles",
+  "options": [
+   "node operating system patches",
+   "container image builds",
+   "cloud billing",
+   "service-to-service traffic"
+  ],
+  "answer": 3,
+  "explanation": "It often uses sidecar proxies.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "DevOps",
+  "body": "Continuous integration (CI) means",
+  "options": [
+   "writing documentation before code",
+   "deploying to production once a year",
+   "testing only before a major release",
+   "merging often with automated tests"
+  ],
+  "answer": 3,
+  "explanation": "Continuous delivery keeps code always releasable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "DevOps",
+  "body": "Infrastructure as code (IaC) means",
+  "options": [
+   "storing infrastructure diagrams in wikis",
+   "writing application code on servers",
+   "configuring servers by hand",
+   "managing infrastructure through code files"
+  ],
+  "answer": 3,
+  "explanation": "Terraform, Bicep and CloudFormation are IaC tools.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Terraform",
+  "body": "Terraform configuration files are written in",
+  "options": [
+   "Python",
+   "HCL",
+   "XML",
+   "YAML only"
+  ],
+  "answer": 1,
+  "explanation": "JSON is also supported.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Terraform",
+  "body": "Which command downloads providers and prepares a working directory?",
+  "options": [
+   "terraform validate",
+   "terraform init",
+   "terraform plan",
+   "terraform apply"
+  ],
+  "answer": 1,
+  "explanation": "Run init first in any new configuration.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Terraform",
+  "body": "Which command shows what Terraform will change without changing anything?",
+  "options": [
+   "terraform plan",
+   "terraform init",
+   "terraform apply",
+   "terraform destroy"
+  ],
+  "answer": 0,
+  "explanation": "apply makes the changes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Terraform",
+  "body": "The Terraform state file is used to",
+  "options": [
+   "store provider source code",
+   "hold the HCL syntax rules",
+   "tracking deployed resources",
+   "list Terraform versions"
+  ],
+  "answer": 2,
+  "explanation": "Store state remotely with locking for teams.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Terraform",
+  "body": "A Terraform provider is",
+  "options": [
+   "a variable definition file",
+   "a plugin for a platform's API",
+   "a file that stores state",
+   "a reusable module from the registry"
+  ],
+  "answer": 1,
+  "explanation": "For example, the AWS, Azure or Google providers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Terraform",
+  "body": "A Terraform module is",
+  "options": [
+   "a reusable group of resources",
+   "a cloud provider plugin",
+   "a CLI command for planning",
+   "the remote state file"
+  ],
+  "answer": 0,
+  "explanation": "Modules can be published to the Terraform Registry.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Terraform",
+  "body": "Why should remote state use locking?",
+  "options": [
+   "to stop concurrent changes",
+   "to speed up terraform plan",
+   "to hide outputs from users",
+   "to encrypt provider credentials"
+  ],
+  "answer": 0,
+  "explanation": "Concurrent writes can corrupt state.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Terraform",
+  "body": "Which block passes values out of a Terraform configuration?",
+  "options": [
+   "locals",
+   "provider",
+   "variable",
+   "output"
+  ],
+  "answer": 3,
+  "explanation": "Outputs can be read by other configurations or users.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DVO",
+  "topic": "Kubernetes",
+  "body": "The KCNA exam has",
+  "options": [
+   "a 2-hour hands-on lab",
+   "100 questions in 3 hours",
+   "60 questions in 90 minutes",
+   "40 questions in 45 minutes"
+  ],
+  "answer": 2,
+  "explanation": "A score of 75% is needed to pass.",
+  "difficulty": 2
+ }
+]

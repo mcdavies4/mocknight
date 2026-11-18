@@ -1,0 +1,450 @@
+[
+ {
+  "subject": "DMK",
+  "topic": "Google Ads",
+  "body": "In Google Ads, Quality Score is based on expected click-through rate, ad relevance and",
+  "options": [
+   "account age",
+   "number of keywords",
+   "landing page experience",
+   "daily budget"
+  ],
+  "answer": 2,
+  "explanation": "Higher Quality Score can lower costs and improve ad position.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Google Ads",
+  "body": "Which keyword match type shows ads on searches with the same meaning as the keyword?",
+  "options": [
+   "Negative match",
+   "Phrase match",
+   "Exact match",
+   "Broad match modifier"
+  ],
+  "answer": 1,
+  "explanation": "Exact match is the narrowest; broad match is the widest.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Google Ads",
+  "body": "Negative keywords are used to",
+  "options": [
+   "raise bids on important searches",
+   "show ads on competitor sites",
+   "add keywords automatically",
+   "stop ads showing for irrelevant searches"
+  ],
+  "answer": 3,
+  "explanation": "They improve relevance and reduce wasted spend.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Google Ads",
+  "body": "Cost per click (CPC) is calculated as",
+  "options": [
+   "total cost ÷ number of clicks",
+   "revenue ÷ cost",
+   "conversions ÷ clicks",
+   "clicks ÷ impressions"
+  ],
+  "answer": 0,
+  "explanation": "Clicks ÷ impressions is click-through rate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Google Ads",
+  "body": "Click-through rate (CTR) is",
+  "options": [
+   "cost ÷ conversions",
+   "clicks ÷ impressions",
+   "impressions ÷ clicks",
+   "conversions ÷ impressions"
+  ],
+  "answer": 1,
+  "explanation": "A higher CTR usually means a more relevant ad.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Google Ads",
+  "body": "Return on ad spend (ROAS) is",
+  "options": [
+   "revenue from ads ÷ ad spend",
+   "ad spend ÷ revenue",
+   "clicks ÷ cost",
+   "conversions ÷ impressions"
+  ],
+  "answer": 0,
+  "explanation": "A ROAS of 4 means £4 revenue per £1 spent.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Google Ads",
+  "body": "Which bidding strategy aims to get as many conversions as possible within the budget?",
+  "options": [
+   "Target impression share",
+   "Maximise clicks",
+   "Manual CPC",
+   "Maximise conversions"
+  ],
+  "answer": 3,
+  "explanation": "Target CPA and target ROAS add an efficiency goal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Google Ads",
+  "body": "Performance Max campaigns",
+  "options": [
+   "require manual bids for every keyword",
+   "run only on YouTube",
+   "only show text ads on Search",
+   "automate ads across all Google channels"
+  ],
+  "answer": 3,
+  "explanation": "They use assets and audience signals.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Google Ads",
+  "body": "Responsive search ads let you",
+  "options": [
+   "test multiple headlines automatically",
+   "upload video ads to Search results",
+   "show ads only on mobile devices",
+   "target by postcode only"
+  ],
+  "answer": 0,
+  "explanation": "Google tests combinations to find the best performers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Google Ads",
+  "body": "Remarketing targets",
+  "options": [
+   "people who already visited you",
+   "only people in your office",
+   "people who have never heard of you",
+   "only people over 65"
+  ],
+  "answer": 0,
+  "explanation": "Also called retargeting.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Analytics",
+  "body": "Google Analytics 4 (GA4) measures user interactions as",
+  "options": [
+   "events",
+   "hits",
+   "pageviews only",
+   "sessions only"
+  ],
+  "answer": 0,
+  "explanation": "Pageviews are one type of event in GA4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Analytics",
+  "body": "In GA4, a key event (formerly a conversion) is",
+  "options": [
+   "a report you share",
+   "an event marked as important",
+   "a user who visits twice",
+   "any page that loads"
+  ],
+  "answer": 1,
+  "explanation": "For example, a purchase or a form submission.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Analytics",
+  "body": "UTM parameters are added to links to",
+  "options": [
+   "hide links from search engines",
+   "shorten long URLs",
+   "track the source of visits",
+   "make links load faster"
+  ],
+  "answer": 2,
+  "explanation": "For example utm_source=newsletter.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Analytics",
+  "body": "Bounce rate in GA4 is the percentage of sessions that",
+  "options": [
+   "were not engaged sessions",
+   "came from paid ads",
+   "lasted longer than 10 minutes",
+   "led to a purchase"
+  ],
+  "answer": 0,
+  "explanation": "Engagement rate is its opposite.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Analytics",
+  "body": "An attribution model decides",
+  "options": [
+   "how conversion credit is shared",
+   "who can view reports",
+   "which pages get indexed",
+   "how much to bid per click"
+  ],
+  "answer": 0,
+  "explanation": "GA4 defaults to data-driven attribution.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "SEO",
+  "body": "Search engine optimisation (SEO) aims to",
+  "options": [
+   "grow unpaid search traffic",
+   "send bulk emails",
+   "buy the top ad position",
+   "run influencer campaigns"
+  ],
+  "answer": 0,
+  "explanation": "Paid search is SEM/PPC.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "SEO",
+  "body": "A backlink is",
+  "options": [
+   "a link from another website to yours",
+   "a link inside your own menu",
+   "a link in a paid ad",
+   "a broken link on your site"
+  ],
+  "answer": 0,
+  "explanation": "Quality backlinks help search rankings.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "SEO",
+  "body": "A meta description mainly",
+  "options": [
+   "speeds up the page",
+   "summarises a page in search results",
+   "sets the page's ranking directly",
+   "blocks a page from search"
+  ],
+  "answer": 1,
+  "explanation": "Keep it clear and relevant.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Inbound",
+  "body": "Inbound marketing focuses on",
+  "options": [
+   "interrupting people with pop-ups",
+   "buying email lists",
+   "helpful content that attracts people",
+   "cold calling large lists"
+  ],
+  "answer": 2,
+  "explanation": "HubSpot's flywheel: attract, engage, delight.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Inbound",
+  "body": "In HubSpot's flywheel, the three stages are",
+  "options": [
+   "attract, engage and delight",
+   "plan, build and launch",
+   "reach, act and convert",
+   "awareness, interest and desire"
+  ],
+  "answer": 0,
+  "explanation": "Happy customers feed new growth.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Inbound",
+  "body": "A buyer persona is",
+  "options": [
+   "a paid influencer who promotes you",
+   "a profile of your ideal customer",
+   "a monthly sales target",
+   "a real customer's private data"
+  ],
+  "answer": 1,
+  "explanation": "Personas guide content and messaging.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Inbound",
+  "body": "A lead magnet is",
+  "options": [
+   "a banner on a partner site",
+   "a freebie offered for contact details",
+   "a discount for existing customers",
+   "a paid search ad"
+  ],
+  "answer": 1,
+  "explanation": "For example an e-book, checklist or free trial.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Email",
+  "body": "Email open rate is the percentage of",
+  "options": [
+   "opened emails that were clicked",
+   "delivered emails that were opened",
+   "sent emails that bounced",
+   "subscribers who unsubscribed"
+  ],
+  "answer": 1,
+  "explanation": "Privacy features can inflate opens, so clicks matter more.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Email",
+  "body": "Under GDPR and PECR, marketing emails to UK and EU individuals generally need",
+  "options": [
+   "no consent if the email is short",
+   "only an unsubscribe link",
+   "prior consent, or the soft opt-in",
+   "consent only for B2B emails"
+  ],
+  "answer": 2,
+  "explanation": "Always include a way to opt out.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Social",
+  "body": "In Meta Ads, the campaign objective you choose",
+  "options": [
+   "picks your audience for you",
+   "tells the system what to optimise for",
+   "sets your budget automatically",
+   "decides your ad creative"
+  ],
+  "answer": 1,
+  "explanation": "Objectives include awareness, traffic, leads and sales.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Social",
+  "body": "A lookalike audience is",
+  "options": [
+   "people similar to your customers",
+   "people who unfollowed you",
+   "your current customers only",
+   "a random sample of users"
+  ],
+  "answer": 0,
+  "explanation": "Meta builds it from your source data.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Social",
+  "body": "The Meta Pixel (and Conversions API) is used to",
+  "options": [
+   "schedule organic posts",
+   "pay for ads in other currencies",
+   "design ad creatives",
+   "measure site actions to optimise ads"
+  ],
+  "answer": 3,
+  "explanation": "The Conversions API sends events from your server.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Strategy",
+  "body": "The marketing funnel stages from first contact to purchase are usually",
+  "options": [
+   "awareness, consideration and conversion",
+   "retention, loyalty and advocacy",
+   "planning, launch and review",
+   "reach, frequency and recall"
+  ],
+  "answer": 0,
+  "explanation": "Retention and advocacy follow conversion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Strategy",
+  "body": "Customer acquisition cost (CAC) is",
+  "options": [
+   "total revenue ÷ number of customers",
+   "sales and marketing cost ÷ new customers",
+   "net profit ÷ customers lost",
+   "marketing cost ÷ total clicks"
+  ],
+  "answer": 1,
+  "explanation": "Compare CAC with customer lifetime value (LTV).",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Strategy",
+  "body": "A/B testing compares",
+  "options": [
+   "two analytics tools",
+   "two versions to find the better one",
+   "two different budgets in two years",
+   "two competitors' websites"
+  ],
+  "answer": 1,
+  "explanation": "Change one thing at a time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Strategy",
+  "body": "A call to action (CTA) is",
+  "options": [
+   "a social media algorithm",
+   "a type of analytics report",
+   "a prompt to take the next step",
+   "a legal disclaimer"
+  ],
+  "answer": 2,
+  "explanation": "For example 'Start free trial'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "DMK",
+  "topic": "Google Ads",
+  "body": "The Google Ads Search certification exam has",
+  "options": [
+   "50 questions in 75 minutes",
+   "a practical campaign build only",
+   "20 questions in 30 minutes",
+   "100 questions in 3 hours"
+  ],
+  "answer": 0,
+  "explanation": "You need 80% to pass; Skillshop certifications are free and renew yearly.",
+  "difficulty": 2
+ }
+]

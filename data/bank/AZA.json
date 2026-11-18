@@ -1,0 +1,478 @@
+[
+ {
+  "subject": "AZA",
+  "topic": "Identity",
+  "body": "Which service provides identity and access management for Azure?",
+  "options": [
+   "Microsoft Entra ID",
+   "Azure Policy",
+   "Azure Monitor",
+   "Azure Key Vault"
+  ],
+  "answer": 0,
+  "explanation": "Formerly Azure Active Directory.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Identity",
+  "body": "Azure role-based access control (RBAC) role assignments combine",
+  "options": [
+   "a user, a password and a device",
+   "a principal, a role and a scope",
+   "a policy, a blueprint and a lock",
+   "a subscription, a region and a tag"
+  ],
+  "answer": 1,
+  "explanation": "Scope can be a management group, subscription, resource group or resource.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Identity",
+  "body": "Which built-in role can manage everything, including access, at its scope?",
+  "options": [
+   "Owner",
+   "Contributor",
+   "Reader",
+   "User Access Administrator only"
+  ],
+  "answer": 0,
+  "explanation": "Contributor can manage resources but not grant access.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Identity",
+  "body": "Which built-in role can manage resources but cannot grant access to others?",
+  "options": [
+   "Billing Reader",
+   "Owner",
+   "Contributor",
+   "Reader"
+  ],
+  "answer": 2,
+  "explanation": "Reader can only view.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Identity",
+  "body": "Requiring sign-in from a compliant device or MFA based on conditions is done with",
+  "options": [
+   "Network security groups",
+   "Resource locks",
+   "Conditional Access",
+   "Azure Policy"
+  ],
+  "answer": 2,
+  "explanation": "Conditional Access is part of Entra ID (P1 or higher).",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Governance",
+  "body": "Which feature enforces rules such as allowed regions or required tags on resources?",
+  "options": [
+   "Azure Policy",
+   "Azure RBAC",
+   "Management locks",
+   "Azure Advisor"
+  ],
+  "answer": 0,
+  "explanation": "RBAC controls who can act; Policy controls what is allowed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Governance",
+  "body": "A CanNotDelete lock on a resource group means users can",
+  "options": [
+   "delete resources but not modify them",
+   "change resources but not delete them",
+   "neither read nor modify resources",
+   "only read the resources"
+  ],
+  "answer": 1,
+  "explanation": "A ReadOnly lock prevents changes too.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Governance",
+  "body": "Tags in Azure are mainly used to",
+  "options": [
+   "encrypt resources at rest",
+   "organise resources and track costs",
+   "replicate resources across regions",
+   "restrict network traffic"
+  ],
+  "answer": 1,
+  "explanation": "Tags are not inherited by default.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Governance",
+  "body": "Management groups are used to",
+  "options": [
+   "group virtual machines for load balancing",
+   "replicate storage accounts",
+   "store backup data",
+   "govern many subscriptions together"
+  ],
+  "answer": 3,
+  "explanation": "Policies and RBAC applied at a management group flow down.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Storage",
+  "body": "Which storage redundancy keeps three copies within a single data centre?",
+  "options": [
+   "Locally redundant storage (LRS)",
+   "Geo-redundant storage (GRS)",
+   "Zone-redundant storage (ZRS)",
+   "Geo-zone-redundant storage (GZRS)"
+  ],
+  "answer": 0,
+  "explanation": "ZRS spreads copies across availability zones.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Storage",
+  "body": "Which blob access tier is cheapest to store but has retrieval delays of hours?",
+  "options": [
+   "Archive",
+   "Hot",
+   "Cold",
+   "Cool"
+  ],
+  "answer": 0,
+  "explanation": "Archive blobs must be rehydrated before reading.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Storage",
+  "body": "A shared access signature (SAS) provides",
+  "options": [
+   "time-limited delegated access",
+   "full account key access forever",
+   "network-level firewall rules",
+   "encryption key rotation"
+  ],
+  "answer": 0,
+  "explanation": "Prefer user delegation SAS signed with Entra credentials.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Storage",
+  "body": "Which tool copies data to and from storage accounts from the command line?",
+  "options": [
+   "Network Watcher",
+   "Azure Bastion",
+   "Azure Migrate",
+   "AzCopy"
+  ],
+  "answer": 3,
+  "explanation": "Storage Explorer is the graphical alternative.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Storage",
+  "body": "Which service offers SMB file shares that can be mounted by Windows, Linux and macOS?",
+  "options": [
+   "Azure Blob Storage",
+   "Azure Files",
+   "Azure Table Storage",
+   "Azure Queue Storage"
+  ],
+  "answer": 1,
+  "explanation": "Azure File Sync can cache shares on-premises.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Compute",
+  "body": "To protect VMs from a datacentre-level failure within a region, deploy them across",
+  "options": [
+   "availability zones",
+   "one fault domain",
+   "a single availability set",
+   "one update domain"
+  ],
+  "answer": 0,
+  "explanation": "Availability sets protect within a single datacentre.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Compute",
+  "body": "Which service automatically adds or removes identical VMs based on demand?",
+  "options": [
+   "Availability sets",
+   "Azure Bastion",
+   "Virtual Machine Scale Sets",
+   "Azure Batch only"
+  ],
+  "answer": 2,
+  "explanation": "Scale sets support autoscale rules.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Compute",
+  "body": "Azure Bastion lets you",
+  "options": [
+   "encrypt VM disks with your own keys",
+   "back up VMs to a Recovery Services vault",
+   "scale VMs automatically based on load",
+   "RDP or SSH into VMs without public IPs"
+  ],
+  "answer": 3,
+  "explanation": "It reduces exposure of management ports.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Compute",
+  "body": "Which deployment format describes Azure resources as declarative JSON?",
+  "options": [
+   "ARM templates",
+   "Kusto queries",
+   "Azure Monitor workbooks",
+   "PowerShell runbooks"
+  ],
+  "answer": 0,
+  "explanation": "Bicep is a simpler language that compiles to ARM.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Compute",
+  "body": "Which service runs web apps without managing the underlying VMs?",
+  "options": [
+   "Azure App Service",
+   "Azure VMware Solution",
+   "Azure Dedicated Host",
+   "Azure Virtual Desktop"
+  ],
+  "answer": 0,
+  "explanation": "The App Service plan defines compute size and price.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Compute",
+  "body": "Which service runs containers without managing servers or orchestrators, for simple workloads?",
+  "options": [
+   "Azure Batch",
+   "Azure Kubernetes Service",
+   "Azure Container Instances",
+   "Azure Virtual Machines"
+  ],
+  "answer": 2,
+  "explanation": "AKS is for orchestrated, larger container workloads.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Networking",
+  "body": "A network security group (NSG) filters traffic using",
+  "options": [
+   "TLS certificates",
+   "allow and deny rules",
+   "DNS records",
+   "routing tables only"
+  ],
+  "answer": 1,
+  "explanation": "Lower priority numbers are processed first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Networking",
+  "body": "Connecting two virtual networks so traffic stays on Microsoft's backbone is",
+  "options": [
+   "a public load balancer",
+   "ExpressRoute only",
+   "a site-to-site VPN only",
+   "virtual network peering"
+  ],
+  "answer": 3,
+  "explanation": "Peering is non-transitive by default.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Networking",
+  "body": "Which service gives a private, dedicated connection from on-premises to Azure, not over the internet?",
+  "options": [
+   "Azure Front Door",
+   "ExpressRoute",
+   "Azure DNS",
+   "Point-to-site VPN"
+  ],
+  "answer": 1,
+  "explanation": "A VPN gateway uses encrypted tunnels over the internet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Networking",
+  "body": "Which load balancer works at layer 7 and supports URL-based routing and a web application firewall?",
+  "options": [
+   "Traffic Manager",
+   "NAT Gateway",
+   "Azure Load Balancer",
+   "Application Gateway"
+  ],
+  "answer": 3,
+  "explanation": "Azure Load Balancer works at layer 4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Networking",
+  "body": "Which feature routes traffic from a subnet through a network virtual appliance?",
+  "options": [
+   "Private DNS zones",
+   "Service tags",
+   "Application security groups",
+   "User-defined routes"
+  ],
+  "answer": 3,
+  "explanation": "UDRs override Azure's default system routes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Networking",
+  "body": "A private endpoint lets you",
+  "options": [
+   "replace an NSG",
+   "expose a VM to the internet",
+   "publish DNS records publicly",
+   "use PaaS over a private IP"
+  ],
+  "answer": 3,
+  "explanation": "Traffic stays off the public internet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Monitoring",
+  "body": "Which service collects metrics and logs across Azure resources?",
+  "options": [
+   "Azure Policy",
+   "Azure Monitor",
+   "Microsoft Defender for Cloud",
+   "Azure Advisor"
+  ],
+  "answer": 1,
+  "explanation": "Logs are queried with Kusto Query Language (KQL).",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Monitoring",
+  "body": "Alerts in Azure Monitor can notify people through",
+  "options": [
+   "resource locks",
+   "management groups",
+   "action groups",
+   "service tags"
+  ],
+  "answer": 2,
+  "explanation": "Action groups can email, text, call or trigger automation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Backup",
+  "body": "Which vault stores Azure VM backups?",
+  "options": [
+   "A Key Vault",
+   "A Recovery Services vault",
+   "A container registry",
+   "A storage account file share"
+  ],
+  "answer": 1,
+  "explanation": "Azure Backup also supports Backup vaults for some workloads.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Backup",
+  "body": "Which service replicates VMs to another region for disaster recovery?",
+  "options": [
+   "Azure Arc",
+   "Azure Backup only",
+   "Azure Site Recovery",
+   "Azure Migrate"
+  ],
+  "answer": 2,
+  "explanation": "Site Recovery orchestrates failover and failback.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Compute",
+  "body": "The AZ-104 exam targets the skills of an",
+  "options": [
+   "Azure developer",
+   "Azure solutions architect",
+   "Azure administrator",
+   "Azure data engineer"
+  ],
+  "answer": 2,
+  "explanation": "It covers identity, governance, storage, compute, networking and monitoring.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Storage",
+  "body": "Which feature protects blobs from accidental deletion for a set period?",
+  "options": [
+   "Static website hosting",
+   "Soft delete",
+   "Access tiers",
+   "Lifecycle management"
+  ],
+  "answer": 1,
+  "explanation": "Versioning and soft delete can be used together.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Storage",
+  "body": "Moving blobs to a cooler tier automatically after 30 days is done with",
+  "options": [
+   "lifecycle management",
+   "Azure Policy remediation",
+   "SAS tokens",
+   "resource locks"
+  ],
+  "answer": 0,
+  "explanation": "Rules can tier or delete data based on age.",
+  "difficulty": 2
+ },
+ {
+  "subject": "AZA",
+  "topic": "Identity",
+  "body": "Self-service password reset (SSPR) lets users",
+  "options": [
+   "reset their own passwords",
+   "bypass MFA permanently",
+   "create new subscriptions",
+   "assign themselves admin roles"
+  ],
+  "answer": 0,
+  "explanation": "It reduces helpdesk calls.",
+  "difficulty": 2
+ }
+]

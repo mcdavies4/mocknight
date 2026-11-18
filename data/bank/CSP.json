@@ -1,0 +1,492 @@
+[
+ {
+  "subject": "CSP",
+  "topic": "Security and risk management",
+  "body": "The three core principles of information security are",
+  "options": [
+   "privacy, safety and resilience",
+   "confidentiality, integrity and availability",
+   "authentication, authorisation and accounting",
+   "identification, encryption and audit"
+  ],
+  "answer": 1,
+  "explanation": "Known as the CIA triad.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Security and risk management",
+  "body": "Annualised loss expectancy (ALE) is calculated as",
+  "options": [
+   "asset value × exposure factor",
+   "exposure factor ÷ asset value",
+   "annualised rate of occurrence ÷ single loss expectancy",
+   "single loss expectancy × annualised rate of occurrence"
+  ],
+  "answer": 3,
+  "explanation": "SLE = asset value × exposure factor.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Security and risk management",
+  "body": "Buying cyber insurance is an example of risk",
+  "options": [
+   "avoidance",
+   "mitigation",
+   "transference",
+   "acceptance"
+  ],
+  "answer": 2,
+  "explanation": "Responsibility for the financial impact is shared with a third party.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Security and risk management",
+  "body": "Stopping an activity because its risk is too high is risk",
+  "options": [
+   "acceptance",
+   "transference",
+   "deterrence",
+   "avoidance"
+  ],
+  "answer": 3,
+  "explanation": "Mitigation reduces the risk instead.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Security and risk management",
+  "body": "Due care means",
+  "options": [
+   "transferring liability to vendors",
+   "researching risks before acting",
+   "buying the most expensive controls",
+   "acting as a reasonable person would"
+  ],
+  "answer": 3,
+  "explanation": "Due diligence is investigating and understanding risk; due care is doing the right thing.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Security and risk management",
+  "body": "The ISC2 Code of Ethics canon placed first is to",
+  "options": [
+   "advance and protect the profession",
+   "provide diligent service to principals",
+   "act honourably, honestly and legally",
+   "protect society and the infrastructure"
+  ],
+  "answer": 3,
+  "explanation": "The canons are applied in order of priority.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Asset security",
+  "body": "Who is ultimately accountable for classifying data?",
+  "options": [
+   "The auditor",
+   "The end user",
+   "The data custodian",
+   "The data owner"
+  ],
+  "answer": 3,
+  "explanation": "Custodians implement the protections the owner sets.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Asset security",
+  "body": "Overwriting media so data can't be recovered with normal tools is",
+  "options": [
+   "degaussing",
+   "destruction",
+   "purging",
+   "clearing"
+  ],
+  "answer": 3,
+  "explanation": "Purging defeats laboratory recovery; destruction physically destroys the media.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Asset security",
+  "body": "Degaussing is effective on",
+  "options": [
+   "optical discs such as DVDs",
+   "printed paper records",
+   "magnetic hard disks and tapes",
+   "solid-state drives and USB sticks"
+  ],
+  "answer": 2,
+  "explanation": "SSDs need cryptographic erase or destruction.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Security architecture",
+  "body": "Which model prevents subjects reading data at a higher classification (no read up)?",
+  "options": [
+   "Clark–Wilson",
+   "Bell–LaPadula",
+   "Brewer–Nash",
+   "Biba"
+  ],
+  "answer": 1,
+  "explanation": "Bell–LaPadula protects confidentiality.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Security architecture",
+  "body": "Which model focuses on integrity with no write up and no read down?",
+  "options": [
+   "Take-Grant",
+   "Biba",
+   "Bell–LaPadula",
+   "Graham–Denning"
+  ],
+  "answer": 1,
+  "explanation": "Biba is the integrity counterpart to Bell–LaPadula.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Security architecture",
+  "body": "The Brewer–Nash (Chinese Wall) model is designed to prevent",
+  "options": [
+   "conflicts of interest",
+   "denial of service",
+   "privilege escalation via malware",
+   "buffer overflows"
+  ],
+  "answer": 0,
+  "explanation": "Access depends on what the user has accessed before.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Security architecture",
+  "body": "Symmetric encryption uses",
+  "options": [
+   "the same key to encrypt and decrypt",
+   "no key, only hashing",
+   "a public key to encrypt and private key to decrypt",
+   "a different key for every byte"
+  ],
+  "answer": 0,
+  "explanation": "AES is a common symmetric algorithm.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Security architecture",
+  "body": "A digital signature is created by encrypting a hash with the sender's",
+  "options": [
+   "session key",
+   "recipient's public key",
+   "public key",
+   "private key"
+  ],
+  "answer": 3,
+  "explanation": "Anyone can verify it with the sender's public key.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Security architecture",
+  "body": "Hashing provides",
+  "options": [
+   "availability, by copying data",
+   "integrity, by detecting changes to data",
+   "non-repudiation on its own",
+   "confidentiality, by hiding data"
+  ],
+  "answer": 1,
+  "explanation": "SHA-256 is a common hash function.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Communication and network security",
+  "body": "At which OSI layer do routers mainly operate?",
+  "options": [
+   "Layer 2 (data link)",
+   "Layer 7 (application)",
+   "Layer 4 (transport)",
+   "Layer 3 (network)"
+  ],
+  "answer": 3,
+  "explanation": "Switches mainly operate at layer 2.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Communication and network security",
+  "body": "TLS mainly provides",
+  "options": [
+   "encryption of data at rest",
+   "network address translation",
+   "malware scanning of emails",
+   "encryption of data in transit"
+  ],
+  "answer": 3,
+  "explanation": "TLS replaced SSL.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Communication and network security",
+  "body": "A screened subnet (DMZ) is used to",
+  "options": [
+   "isolate public-facing servers",
+   "connect two internal VLANs directly",
+   "store backup tapes offsite",
+   "encrypt wireless traffic"
+  ],
+  "answer": 0,
+  "explanation": "It limits damage if a public server is compromised.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Identity and access management",
+  "body": "Something you know, something you have and something you are are",
+  "options": [
+   "encryption modes",
+   "access control models",
+   "authentication factor types",
+   "audit log categories"
+  ],
+  "answer": 2,
+  "explanation": "Using two different types is multifactor authentication.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Identity and access management",
+  "body": "In mandatory access control (MAC), access decisions are based on",
+  "options": [
+   "time of day only",
+   "the data owner's discretion",
+   "the user's job title only",
+   "system-set labels and clearances"
+  ],
+  "answer": 3,
+  "explanation": "Discretionary access control (DAC) lets owners decide.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Identity and access management",
+  "body": "A biometric system's crossover error rate (CER) is where",
+  "options": [
+   "false acceptances are zero",
+   "false rejects equal false accepts",
+   "the system stops working",
+   "false rejections are zero"
+  ],
+  "answer": 1,
+  "explanation": "A lower CER means a more accurate system.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Identity and access management",
+  "body": "Single sign-on across organisations using XML assertions typically uses",
+  "options": [
+   "SNMP",
+   "LDAP only",
+   "RADIUS",
+   "SAML"
+  ],
+  "answer": 3,
+  "explanation": "OpenID Connect is a JSON/OAuth-based alternative.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Security assessment and testing",
+  "body": "A penetration test in which testers have full knowledge of the system is",
+  "options": [
+   "black-box (unknown environment) testing",
+   "grey-box testing only",
+   "white-box (known environment) testing",
+   "a vulnerability scan"
+  ],
+  "answer": 2,
+  "explanation": "Black-box testers start with no internal knowledge.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Security assessment and testing",
+  "body": "A SOC 2 Type II report assesses",
+  "options": [
+   "how controls operate over a period",
+   "the design of controls at a single point in time",
+   "only physical security",
+   "financial statement accuracy"
+  ],
+  "answer": 0,
+  "explanation": "Type I covers design at a point in time.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Security operations",
+  "body": "The order of evidence handling that records who held evidence and when is the",
+  "options": [
+   "business impact analysis",
+   "chain of custody",
+   "incident response plan",
+   "order of volatility"
+  ],
+  "answer": 1,
+  "explanation": "It keeps evidence admissible.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Security operations",
+  "body": "Which should be collected first in a forensic investigation, by order of volatility?",
+  "options": [
+   "CPU registers and cache",
+   "hard disk contents",
+   "printed logs",
+   "backup tapes"
+  ],
+  "answer": 0,
+  "explanation": "Collect the most volatile data first.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Security operations",
+  "body": "Recovery point objective (RPO) is the",
+  "options": [
+   "maximum time to restore a service",
+   "maximum tolerable data loss, in time",
+   "time between security audits",
+   "number of backup copies kept"
+  ],
+  "answer": 1,
+  "explanation": "Recovery time objective (RTO) is the maximum downtime.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Security operations",
+  "body": "A hot site is a recovery location that",
+  "options": [
+   "is fully equipped and ready within hours",
+   "is shared by many companies by appointment",
+   "has only power and space",
+   "has equipment but no data"
+  ],
+  "answer": 0,
+  "explanation": "A cold site has only basic infrastructure.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Security operations",
+  "body": "Separation of duties is meant to",
+  "options": [
+   "stop one person acting alone",
+   "speed up approvals",
+   "replace the need for logging",
+   "reduce the number of staff needed"
+  ],
+  "answer": 0,
+  "explanation": "It reduces fraud and errors.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Software development security",
+  "body": "Input validation mainly protects against",
+  "options": [
+   "physical theft",
+   "power outages",
+   "injection attacks",
+   "lost encryption keys"
+  ],
+  "answer": 2,
+  "explanation": "Parameterised queries are another key defence.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Software development security",
+  "body": "Which software development approach builds in short iterations with frequent feedback?",
+  "options": [
+   "Big bang",
+   "Waterfall",
+   "Agile",
+   "Cleanroom only"
+  ],
+  "answer": 2,
+  "explanation": "DevSecOps adds security into Agile/DevOps pipelines.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Software development security",
+  "body": "A buffer overflow happens when",
+  "options": [
+   "a database runs out of disk space",
+   "a user enters a weak password",
+   "a network link is saturated",
+   "data overruns its memory buffer"
+  ],
+  "answer": 3,
+  "explanation": "Bounds checking prevents it.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Security and risk management",
+  "body": "The CISSP exam (English, CAT format) has",
+  "options": [
+   "60 questions in 90 minutes",
+   "a practical lab only",
+   "100–150 questions in 3 hours",
+   "250 questions in 6 hours"
+  ],
+  "answer": 2,
+  "explanation": "A scaled score of 700 out of 1,000 is needed to pass.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Asset security",
+  "body": "Data that has been processed so it can no longer identify a person is",
+  "options": [
+   "pseudonymised",
+   "encrypted",
+   "anonymised",
+   "tokenised"
+  ],
+  "answer": 2,
+  "explanation": "Pseudonymised data can still be linked back with extra information.",
+  "difficulty": 3
+ },
+ {
+  "subject": "CSP",
+  "topic": "Communication and network security",
+  "body": "Which attack floods a target from many compromised machines?",
+  "options": [
+   "DDoS attack",
+   "SQL injection",
+   "Man-in-the-middle",
+   "Phishing"
+  ],
+  "answer": 0,
+  "explanation": "Botnets are often used.",
+  "difficulty": 3
+ }
+]

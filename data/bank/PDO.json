@@ -1,0 +1,450 @@
+[
+ {
+  "subject": "PDO",
+  "topic": "Scrum roles",
+  "body": "Who is accountable for maximising the value of the product resulting from the Scrum Team's work?",
+  "options": [
+   "The stakeholders",
+   "The Scrum Master",
+   "The Product Owner",
+   "The Developers"
+  ],
+  "answer": 2,
+  "explanation": "The Product Owner orders the Product Backlog.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Scrum roles",
+  "body": "The Product Owner is",
+  "options": [
+   "a group of senior managers",
+   "one person, not a committee",
+   "always the Scrum Master",
+   "elected by the Developers each Sprint"
+  ],
+  "answer": 1,
+  "explanation": "They may represent many stakeholders' needs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Product Backlog",
+  "body": "Who decides the order of items in the Product Backlog?",
+  "options": [
+   "The Scrum Master",
+   "The most senior stakeholder",
+   "The Developers",
+   "The Product Owner"
+  ],
+  "answer": 3,
+  "explanation": "Others can influence, but the PO decides.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Product Backlog",
+  "body": "The Product Goal is",
+  "options": [
+   "the objective of a single Sprint",
+   "a release date set by management",
+   "the long-term objective for the product",
+   "a list of tasks for the day"
+  ],
+  "answer": 2,
+  "explanation": "The team fulfils or abandons one Product Goal before taking on the next.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Product Backlog",
+  "body": "Who sizes (estimates) Product Backlog items?",
+  "options": [
+   "The Developers doing the work",
+   "The Product Owner alone",
+   "The stakeholders",
+   "The Scrum Master"
+  ],
+  "answer": 0,
+  "explanation": "The PO may help them understand trade-offs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Product Backlog",
+  "body": "Product Backlog refinement is",
+  "options": [
+   "a formal Scrum event held once per release",
+   "a meeting to approve the budget",
+   "an ongoing activity, not a formal event",
+   "the Product Owner's monthly report"
+  ],
+  "answer": 2,
+  "explanation": "It adds detail, order and size to items.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Sprint",
+  "body": "During Sprint Planning, who selects the items for the Sprint?",
+  "options": [
+   "The stakeholders, by majority vote",
+   "The Scrum Master alone",
+   "The Product Owner alone",
+   "Developers, with the Product Owner"
+  ],
+  "answer": 3,
+  "explanation": "The team crafts a Sprint Goal together.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Sprint",
+  "body": "Who can cancel a Sprint?",
+  "options": [
+   "The Developers",
+   "The Scrum Master",
+   "Only the Product Owner",
+   "Any stakeholder"
+  ],
+  "answer": 2,
+  "explanation": "A Sprint is cancelled if the Sprint Goal becomes obsolete.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Sprint",
+  "body": "The purpose of the Sprint Review is to",
+  "options": [
+   "plan the next Daily Scrum",
+   "approve each Developer's work for payroll",
+   "write the release notes",
+   "inspect the outcome and adapt the plan"
+  ],
+  "answer": 3,
+  "explanation": "Stakeholders give feedback on the Increment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Sprint",
+  "body": "An Increment is",
+  "options": [
+   "any partly finished work in progress",
+   "the list of work selected for the Sprint",
+   "a release plan for the next quarter",
+   "a usable, Done step toward the Product Goal"
+  ],
+  "answer": 3,
+  "explanation": "Several Increments can be created within one Sprint.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Value",
+  "body": "The best measure of a product's success is",
+  "options": [
+   "the velocity of the team",
+   "the value it delivers",
+   "the hours worked",
+   "the number of features shipped"
+  ],
+  "answer": 1,
+  "explanation": "Evidence-Based Management uses value metrics.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Value",
+  "body": "Evidence-Based Management (EBM) looks at four key value areas:",
+  "options": [
+   "velocity, burn-down, scope creep and budget variance",
+   "cost, scope, time, quality and stakeholder satisfaction",
+   "planning, delivery, checking and continuous improvement",
+   "current and unrealised value, innovation, time to market"
+  ],
+  "answer": 3,
+  "explanation": "It helps empirically measure value.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Value",
+  "body": "A minimum viable product (MVP) is",
+  "options": [
+   "a prototype that is never released",
+   "the cheapest product on the market",
+   "the smallest version you can learn from",
+   "a product with every planned feature"
+  ],
+  "answer": 2,
+  "explanation": "Build, measure, learn.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Discovery",
+  "body": "Product discovery is mainly about",
+  "options": [
+   "fixing bugs in production",
+   "finding out what's worth building",
+   "writing user manuals",
+   "setting the team's salaries"
+  ],
+  "answer": 1,
+  "explanation": "Delivery is building it well.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Discovery",
+  "body": "A user story usually follows the format",
+  "options": [
+   "Who, what, where, when, why",
+   "As a…, I want…, so that…",
+   "Given, when, then",
+   "Plan, build, test, release"
+  ],
+  "answer": 1,
+  "explanation": "Given-when-then is used for acceptance criteria.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Discovery",
+  "body": "INVEST is a checklist for good user stories:",
+  "options": [
+   "important, new, valuable, easy, short and technical",
+   "independent, negotiable, valuable, estimable, small and testable",
+   "inspected, needed, verified, edited, signed and tracked",
+   "internal, named, visible, estimated, sized and timed"
+  ],
+  "answer": 1,
+  "explanation": "Good stories are small enough to finish in a Sprint.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Prioritisation",
+  "body": "MoSCoW prioritisation stands for",
+  "options": [
+   "money, scope, cost, worth",
+   "must, should, could and won't have",
+   "most, some, could, want",
+   "measure, observe, score, compare, weigh"
+  ],
+  "answer": 1,
+  "explanation": "It's common in DSDM and product planning.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Prioritisation",
+  "body": "The RICE scoring model uses",
+  "options": [
+   "risk, income, cost and earnings",
+   "relevance, interest, clarity and ease",
+   "reach, impact, confidence and effort",
+   "revenue, investment, customers and engagement"
+  ],
+  "answer": 2,
+  "explanation": "Score = reach × impact × confidence ÷ effort.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Prioritisation",
+  "body": "The Kano model sorts features into",
+  "options": [
+   "must, should, could and won't have",
+   "high, medium and low cost features",
+   "basic needs, performance and delighters",
+   "now, next and later roadmap items"
+  ],
+  "answer": 2,
+  "explanation": "Delighters surprise users; basic needs are expected.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Prioritisation",
+  "body": "Cost of delay helps you",
+  "options": [
+   "estimate story points for each item",
+   "prioritise by the value lost from waiting",
+   "set the team's budget for the year",
+   "measure code quality across the codebase"
+  ],
+  "answer": 1,
+  "explanation": "WSJF divides cost of delay by job size.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Metrics",
+  "body": "Net Promoter Score (NPS) is based on",
+  "options": [
+   "monthly revenue growth",
+   "likelihood to recommend (0–10)",
+   "the number of support tickets",
+   "the number of features used"
+  ],
+  "answer": 1,
+  "explanation": "NPS = % promoters (9–10) − % detractors (0–6).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Metrics",
+  "body": "Monthly churn rate is",
+  "options": [
+   "customers lost ÷ customers at the start",
+   "support tickets ÷ active customers",
+   "new customers ÷ total customers at end",
+   "total revenue ÷ number of customers"
+  ],
+  "answer": 0,
+  "explanation": "Lower churn usually means better retention.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Metrics",
+  "body": "A north star metric is",
+  "options": [
+   "the team's velocity",
+   "the company's share price",
+   "the one metric for customer value",
+   "the number of stand-ups held"
+  ],
+  "answer": 2,
+  "explanation": "For example, nights booked for a travel site.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Metrics",
+  "body": "Leading indicators",
+  "options": [
+   "only report past results",
+   "can't be measured",
+   "are the same as revenue",
+   "predict future outcomes"
+  ],
+  "answer": 3,
+  "explanation": "Lagging indicators, such as revenue, confirm results later.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Stakeholders",
+  "body": "When two stakeholders want conflicting features, the Product Owner should",
+  "options": [
+   "build both at once",
+   "let the Scrum Master choose",
+   "escalate every conflict to the CEO",
+   "decide on value and the Product Goal"
+  ],
+  "answer": 3,
+  "explanation": "Transparency keeps trust.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Stakeholders",
+  "body": "A product roadmap should",
+  "options": [
+   "fix exact dates for every feature for two years",
+   "show direction and change as you learn",
+   "be hidden from stakeholders",
+   "replace the Product Backlog"
+  ],
+  "answer": 1,
+  "explanation": "Now/next/later roadmaps keep flexibility.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Scrum theory",
+  "body": "The three pillars of empiricism in Scrum are",
+  "options": [
+   "people, process and technology",
+   "transparency, inspection and adaptation",
+   "planning, execution and closure",
+   "scope, time and cost"
+  ],
+  "answer": 1,
+  "explanation": "Decisions are based on what is observed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Scrum theory",
+  "body": "The Definition of Done",
+  "options": [
+   "is the quality standard for the Increment",
+   "is set by stakeholders for each item",
+   "lists the tasks for the day",
+   "is optional for small teams"
+  ],
+  "answer": 0,
+  "explanation": "Work not meeting it isn't part of the Increment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Scrum theory",
+  "body": "The maximum length of a Sprint is",
+  "options": [
+   "three months",
+   "one month",
+   "two weeks",
+   "six weeks"
+  ],
+  "answer": 1,
+  "explanation": "Shorter Sprints mean more learning cycles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Product strategy",
+  "body": "A value proposition explains",
+  "options": [
+   "the product's technical architecture",
+   "why customers should choose you",
+   "the release schedule",
+   "the team's working hours"
+  ],
+  "answer": 1,
+  "explanation": "It links customer jobs, pains and gains.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Product strategy",
+  "body": "Product-market fit means",
+  "options": [
+   "the product has every feature competitors have",
+   "the product is the cheapest",
+   "the product satisfies a strong market demand",
+   "the team has finished the backlog"
+  ],
+  "answer": 2,
+  "explanation": "Signals include retention and organic growth.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PDO",
+  "topic": "Scrum roles",
+  "body": "The PSPO I exam has",
+  "options": [
+   "150 questions in 3 hours",
+   "80 questions in 60 minutes",
+   "a practical project",
+   "40 questions in 90 minutes"
+  ],
+  "answer": 1,
+  "explanation": "You need 85% to pass; it's run by Scrum.org.",
+  "difficulty": 2
+ }
+]

@@ -1,0 +1,450 @@
+[
+ {
+  "subject": "HRM",
+  "topic": "Talent acquisition",
+  "body": "A structured interview",
+  "options": [
+   "uses the same scored questions for everyone",
+   "lets each interviewer ask whatever they like",
+   "skips scoring to save time",
+   "is done only by phone"
+  ],
+  "answer": 0,
+  "explanation": "Structured interviews are more valid and fairer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Talent acquisition",
+  "body": "A job analysis produces",
+  "options": [
+   "an annual performance review",
+   "a pay benchmarking salary survey",
+   "a disciplinary policy document",
+   "a job description and person spec"
+  ],
+  "answer": 3,
+  "explanation": "It identifies the duties and requirements of a role.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Talent acquisition",
+  "body": "Time to fill measures",
+  "options": [
+   "days from job opening to accepted offer",
+   "the number of applicants per role",
+   "the average cost of each hire",
+   "how long new hires stay employed"
+  ],
+  "answer": 0,
+  "explanation": "Cost per hire measures recruiting spend.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Talent acquisition",
+  "body": "Adverse (disparate) impact occurs when",
+  "options": [
+   "a candidate withdraws an application",
+   "a job is advertised internally",
+   "a manager intentionally discriminates",
+   "a neutral rule hurts a protected group"
+  ],
+  "answer": 3,
+  "explanation": "The four-fifths (80%) rule is a common test.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Talent acquisition",
+  "body": "Under the four-fifths rule, adverse impact may exist if a group's selection rate is",
+  "options": [
+   "more than 80% of the highest group's rate",
+   "less than 80% of the highest group's rate",
+   "above 50%",
+   "exactly equal to other groups"
+  ],
+  "answer": 1,
+  "explanation": "It's a rule of thumb, not proof.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Employment law (US)",
+  "body": "Title VII of the Civil Rights Act prohibits employment discrimination based on",
+  "options": [
+   "race, colour, religion, sex, national origin",
+   "union membership and pay history",
+   "disability and medical conditions",
+   "age over 40 and genetic information"
+  ],
+  "answer": 0,
+  "explanation": "The ADEA covers age; the ADA covers disability.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Employment law (US)",
+  "body": "The Family and Medical Leave Act (FMLA) gives eligible employees up to",
+  "options": [
+   "12 weeks of fully paid leave a year",
+   "2 weeks of unpaid leave a year",
+   "6 months of paid parental leave",
+   "12 weeks unpaid, job-protected leave"
+  ],
+  "answer": 3,
+  "explanation": "Eligibility needs 12 months and 1,250 hours of service at a covered employer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Employment law (US)",
+  "body": "The Fair Labor Standards Act (FLSA) mainly sets rules for",
+  "options": [
+   "union elections and collective bargaining",
+   "minimum wage, overtime and child labour",
+   "workplace safety inspections",
+   "employer health insurance coverage"
+  ],
+  "answer": 1,
+  "explanation": "Non-exempt employees get overtime after 40 hours a week.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Employment law (US)",
+  "body": "The ADA requires employers to provide",
+  "options": [
+   "reasonable accommodations unless they cause undue hardship",
+   "accommodations only for physical disabilities",
+   "any accommodation requested, whatever the cost",
+   "accommodations only after one year of service"
+  ],
+  "answer": 0,
+  "explanation": "The process is an interactive dialogue.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Employment law (US)",
+  "body": "Form I-9 is used to",
+  "options": [
+   "verify identity and right to work",
+   "report wages to the IRS",
+   "record workplace injuries",
+   "enrol employees in benefits"
+  ],
+  "answer": 0,
+  "explanation": "It must be completed within three business days of starting.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Employee relations",
+  "body": "Progressive discipline usually moves through",
+  "options": [
+   "verbal, written and final warnings, then dismissal",
+   "termination first, then warnings to others",
+   "a single final written warning only",
+   "written warnings repeated indefinitely"
+  ],
+  "answer": 0,
+  "explanation": "Serious misconduct can skip steps.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Employee relations",
+  "body": "In the US, 'at-will' employment means",
+  "options": [
+   "employers must give a year's notice",
+   "only unions can end contracts",
+   "either side may end it for a lawful reason",
+   "employees can never be dismissed"
+  ],
+  "answer": 2,
+  "explanation": "It can't be used to discriminate or retaliate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Employee relations",
+  "body": "Retaliation occurs when an employer",
+  "options": [
+   "punishes someone for a protected activity",
+   "investigates a complaint fairly",
+   "promotes an employee after a complaint",
+   "trains managers on policy"
+  ],
+  "answer": 0,
+  "explanation": "It's one of the most common EEOC charges.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Employee relations",
+  "body": "An HR investigation into a complaint should be",
+  "options": [
+   "prompt, impartial and documented",
+   "delayed until the complainant leaves",
+   "kept with no records",
+   "handled only by the accused's manager"
+  ],
+  "answer": 0,
+  "explanation": "Interview the parties and witnesses and keep notes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Total rewards",
+  "body": "A compa-ratio is calculated as",
+  "options": [
+   "midpoint ÷ minimum of the range",
+   "total payroll ÷ headcount",
+   "bonus ÷ base pay",
+   "pay ÷ range midpoint"
+  ],
+  "answer": 3,
+  "explanation": "1.0 means pay is at the midpoint.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Total rewards",
+  "body": "Total rewards includes",
+  "options": [
+   "pay, benefits and development",
+   "base salary only",
+   "pension contributions only",
+   "bonuses only"
+  ],
+  "answer": 0,
+  "explanation": "It's the full value an employee receives.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Total rewards",
+  "body": "Pay equity analysis checks whether",
+  "options": [
+   "managers earn more than their staff",
+   "similar work is paid fairly across groups",
+   "salaries match last year's figures",
+   "the company is profitable enough"
+  ],
+  "answer": 1,
+  "explanation": "Unexplained gaps should be investigated.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Learning and development",
+  "body": "The ADDIE model for training stands for",
+  "options": [
+   "Aims, Drafting, Deployment, Inspection, Editing",
+   "Analysis, Design, Development, Implementation, Evaluation",
+   "Audit, Decision, Development, Instruction, Evaluation",
+   "Assessment, Delivery, Discussion, Improvement, Embedding"
+  ],
+  "answer": 1,
+  "explanation": "Start with a training needs analysis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Learning and development",
+  "body": "Kirkpatrick's four levels of training evaluation are",
+  "options": [
+   "awareness, interest, desire and action",
+   "reaction, learning, behaviour and results",
+   "plan, do, check and act",
+   "input, process, output and outcome"
+  ],
+  "answer": 1,
+  "explanation": "Level 4 links training to business results.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Performance",
+  "body": "SMART goals are specific, measurable, achievable, relevant and",
+  "options": [
+   "tracked weekly",
+   "top-down",
+   "time-bound",
+   "team-based"
+  ],
+  "answer": 2,
+  "explanation": "SMART goals are easier to assess.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Performance",
+  "body": "The halo effect in performance reviews is when",
+  "options": [
+   "the rater scores everyone in the middle",
+   "one strong trait inflates all ratings",
+   "recent events outweigh the whole year",
+   "the rater compares employees to each other"
+  ],
+  "answer": 1,
+  "explanation": "Central tendency and recency are other rater errors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Performance",
+  "body": "360-degree feedback gathers input from",
+  "options": [
+   "the employee's own self-review",
+   "the employee's line manager only",
+   "the HR business partner only",
+   "managers, peers and direct reports"
+  ],
+  "answer": 3,
+  "explanation": "It's best used for development.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Workforce planning",
+  "body": "Employee turnover rate is calculated as",
+  "options": [
+   "vacancies ÷ total applicants × 100",
+   "headcount ÷ separations × 100",
+   "separations ÷ average headcount × 100",
+   "new hires ÷ separations × 100"
+  ],
+  "answer": 2,
+  "explanation": "Often reported monthly or annually.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Workforce planning",
+  "body": "Succession planning means",
+  "options": [
+   "developing people to fill key roles",
+   "cutting roles to save money",
+   "hiring only from outside",
+   "writing job adverts"
+  ],
+  "answer": 0,
+  "explanation": "It reduces risk when leaders leave.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Organisational effectiveness",
+  "body": "Kotter's change model begins with",
+  "options": [
+   "removing all managers",
+   "anchoring the change in culture",
+   "creating a sense of urgency",
+   "generating short-term wins"
+  ],
+  "answer": 2,
+  "explanation": "There are eight steps in total.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Organisational effectiveness",
+  "body": "Employee engagement is best described as",
+  "options": [
+   "emotional commitment to the organisation",
+   "how often employees take leave",
+   "the number of hours employees work",
+   "the size of the HR team"
+  ],
+  "answer": 0,
+  "explanation": "Engagement is linked to retention and performance.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Organisational effectiveness",
+  "body": "Lewin's change model has three stages:",
+  "options": [
+   "plan, act and review",
+   "unfreeze, change and refreeze",
+   "assess, design and launch",
+   "storm, norm and perform"
+  ],
+  "answer": 1,
+  "explanation": "Refreezing makes the change stick.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Organisational effectiveness",
+  "body": "Tuckman's stages of team development are",
+  "options": [
+   "unfreezing, changing and refreezing",
+   "planning, doing, checking and acting",
+   "forming, storming, norming and performing",
+   "hiring, training, reviewing and firing"
+  ],
+  "answer": 2,
+  "explanation": "Adjourning was added later.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Ethics",
+  "body": "An HR professional finds a manager asked a candidate about pregnancy plans. HR should",
+  "options": [
+   "ask the candidate to keep it secret",
+   "stop the practice and review the decision",
+   "ignore it if the candidate was hired",
+   "add the question to every interview"
+  ],
+  "answer": 1,
+  "explanation": "Questions about pregnancy can lead to discrimination claims.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Ethics",
+  "body": "HR should keep employee medical records",
+  "options": [
+   "in the main personnel file",
+   "on the shared team drive",
+   "in a separate, restricted file",
+   "with the employee's manager"
+  ],
+  "answer": 2,
+  "explanation": "Confidentiality is a legal and ethical duty.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Workforce planning",
+  "body": "A skills gap analysis compares",
+  "options": [
+   "absence with lateness",
+   "salaries with market rates",
+   "current skills with the skills needed",
+   "this year's headcount with last year's"
+  ],
+  "answer": 2,
+  "explanation": "It guides training and hiring plans.",
+  "difficulty": 2
+ },
+ {
+  "subject": "HRM",
+  "topic": "Total rewards",
+  "body": "In the US, exempt employees are",
+  "options": [
+   "excluded from benefits",
+   "always paid hourly",
+   "not owed overtime under the FLSA",
+   "exempt from income tax"
+  ],
+  "answer": 2,
+  "explanation": "Exemption depends on salary level and job duties.",
+  "difficulty": 2
+ }
+]
