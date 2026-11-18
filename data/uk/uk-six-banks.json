@@ -7994,7 +7994,7 @@
     "topic": "Punctuation",
     "body": "Which sentence uses an apostrophe correctly?",
     "options": [
-      "An unrelated alternative",
+      "The workers' key's are missing.",
       "The worker’s keys are missing.",
       "The workers keys are missing.",
       "The workers key’s are missing."
@@ -8011,7 +8011,7 @@
     "topic": "Punctuation",
     "body": "Practice task 2: Which sentence uses an apostrophe correctly?",
     "options": [
-      "An unrelated alternative",
+      "The workers' key's are missing.",
       "The worker’s keys are missing.",
       "The workers keys are missing.",
       "The workers key’s are missing."
@@ -8030,7 +8030,7 @@
     "options": [
       "The workers keys are missing.",
       "The workers key’s are missing.",
-      "An unrelated alternative",
+      "The workers' key's are missing.",
       "The worker’s keys are missing."
     ],
     "answer": 3,
@@ -8046,7 +8046,7 @@
     "body": "Practice task 4: Which sentence uses an apostrophe correctly?",
     "options": [
       "The worker’s keys are missing.",
-      "An unrelated alternative",
+      "The workers' key's are missing.",
       "The workers keys are missing.",
       "The workers key’s are missing."
     ],
@@ -8064,7 +8064,7 @@
     "options": [
       "The workers key’s are missing.",
       "The worker’s keys are missing.",
-      "An unrelated alternative",
+      "The workers' key's are missing.",
       "The workers keys are missing."
     ],
     "answer": 1,
@@ -8079,7 +8079,7 @@
     "topic": "Writing for purpose",
     "body": "Which opening is most suitable for a polite email asking to change an appointment?",
     "options": [
-      "An unrelated alternative",
+      "Hiya, can't come then, sort out another time?",
       "You booked the wrong time.",
       "Move my appointment now.",
       "I am writing to ask whether my appointment could be moved."
@@ -8098,7 +8098,7 @@
     "options": [
       "Move my appointment now.",
       "You booked the wrong time.",
-      "An unrelated alternative",
+      "Hiya, can't come then, sort out another time?",
       "I am writing to ask whether my appointment could be moved."
     ],
     "answer": 3,
@@ -8114,7 +8114,7 @@
     "body": "Practice task 3: Which opening is most suitable for a polite email asking to change an appointment?",
     "options": [
       "Move my appointment now.",
-      "An unrelated alternative",
+      "Hiya, can't come then, sort out another time?",
       "You booked the wrong time.",
       "I am writing to ask whether my appointment could be moved."
     ],
@@ -8133,7 +8133,7 @@
       "Move my appointment now.",
       "You booked the wrong time.",
       "I am writing to ask whether my appointment could be moved.",
-      "An unrelated alternative"
+      "Hiya, can't come then, sort out another time?"
     ],
     "answer": 2,
     "explanation": "A clear, polite opening explains the purpose of the email.",
@@ -8149,7 +8149,7 @@
     "options": [
       "I am writing to ask whether my appointment could be moved.",
       "Move my appointment now.",
-      "An unrelated alternative",
+      "Hiya, can't come then, sort out another time?",
       "You booked the wrong time."
     ],
     "answer": 0,
@@ -8165,7 +8165,7 @@
     "body": "Which language is most suitable for a notice displayed to the public?",
     "options": [
       "Please keep this entrance clear.",
-      "An unrelated alternative",
+      "Keep out of this entrance or else.",
       "Don’t dump things here!!!",
       "Oi, move your stuff."
     ],
@@ -8181,7 +8181,7 @@
     "topic": "Writing for audience",
     "body": "Practice task 2: Which language is most suitable for a notice displayed to the public?",
     "options": [
-      "An unrelated alternative",
+      "Keep out of this entrance or else.",
       "Don’t dump things here!!!",
       "Please keep this entrance clear.",
       "Oi, move your stuff."
@@ -8199,7 +8199,7 @@
     "body": "Practice task 3: Which language is most suitable for a notice displayed to the public?",
     "options": [
       "Please keep this entrance clear.",
-      "An unrelated alternative",
+      "Keep out of this entrance or else.",
       "Don’t dump things here!!!",
       "Oi, move your stuff."
     ],
@@ -8217,7 +8217,7 @@
     "options": [
       "Please keep this entrance clear.",
       "Oi, move your stuff.",
-      "An unrelated alternative",
+      "Keep out of this entrance or else.",
       "Don’t dump things here!!!"
     ],
     "answer": 0,
@@ -8233,7 +8233,7 @@
     "body": "Practice task 5: Which language is most suitable for a notice displayed to the public?",
     "options": [
       "Oi, move your stuff.",
-      "An unrelated alternative",
+      "Keep out of this entrance or else.",
       "Don’t dump things here!!!",
       "Please keep this entrance clear."
     ],
@@ -8249,7 +8249,7 @@
     "topic": "Sentence construction",
     "body": "Which is a complete sentence?",
     "options": [
-      "An unrelated alternative",
+      "Although the bus was late.",
       "Because of the traffic.",
       "The bus arrived late because of traffic.",
       "When the bus arrived."
@@ -8269,7 +8269,7 @@
       "The bus arrived late because of traffic.",
       "Because of the traffic.",
       "When the bus arrived.",
-      "An unrelated alternative"
+      "Although the bus was late."
     ],
     "answer": 0,
     "explanation": "A complete sentence expresses a full idea.",
@@ -8285,7 +8285,7 @@
     "options": [
       "The bus arrived late because of traffic.",
       "When the bus arrived.",
-      "An unrelated alternative",
+      "Although the bus was late.",
       "Because of the traffic."
     ],
     "answer": 0,
@@ -8303,7 +8303,7 @@
       "The bus arrived late because of traffic.",
       "Because of the traffic.",
       "When the bus arrived.",
-      "An unrelated alternative"
+      "Although the bus was late."
     ],
     "answer": 0,
     "explanation": "A complete sentence expresses a full idea.",
@@ -8320,7 +8320,7 @@
       "When the bus arrived.",
       "The bus arrived late because of traffic.",
       "Because of the traffic.",
-      "An unrelated alternative"
+      "Although the bus was late."
     ],
     "answer": 1,
     "explanation": "A complete sentence expresses a full idea.",
@@ -9356,7 +9356,7 @@
     "options": [
       "The meeting; ended early everyone had completed the task.",
       "The meeting ended; early everyone had completed the task.",
-      "An unrelated alternative",
+      "The meeting ended early, everyone; had completed the task.",
       "The meeting ended early; everyone had completed the task."
     ],
     "answer": 3,
@@ -9371,7 +9371,7 @@
     "topic": "Punctuation",
     "body": "Practice task 2: Which sentence uses a semicolon correctly?",
     "options": [
-      "An unrelated alternative",
+      "The meeting ended early, everyone; had completed the task.",
       "The meeting ended; early everyone had completed the task.",
       "The meeting; ended early everyone had completed the task.",
       "The meeting ended early; everyone had completed the task."
@@ -9391,7 +9391,7 @@
       "The meeting ended early; everyone had completed the task.",
       "The meeting ended; early everyone had completed the task.",
       "The meeting; ended early everyone had completed the task.",
-      "An unrelated alternative"
+      "The meeting ended early, everyone; had completed the task."
     ],
     "answer": 0,
     "explanation": "A semicolon can join two closely related independent clauses.",
@@ -9407,7 +9407,7 @@
     "options": [
       "The meeting; ended early everyone had completed the task.",
       "The meeting ended; early everyone had completed the task.",
-      "An unrelated alternative",
+      "The meeting ended early, everyone; had completed the task.",
       "The meeting ended early; everyone had completed the task."
     ],
     "answer": 3,
@@ -9423,7 +9423,7 @@
     "body": "Practice task 5: Which sentence uses a semicolon correctly?",
     "options": [
       "The meeting ended; early everyone had completed the task.",
-      "An unrelated alternative",
+      "The meeting ended early, everyone; had completed the task.",
       "The meeting ended early; everyone had completed the task.",
       "The meeting; ended early everyone had completed the task."
     ],
@@ -9694,7 +9694,7 @@
     "topic": "Punctuation",
     "body": "Which sentence uses a colon correctly?",
     "options": [
-      "An unrelated alternative",
+      "Please bring three: items a pen, a notebook and your ID.",
       "Please bring: three items a pen, a notebook and your ID.",
       "Please bring three items: a pen, a notebook and your ID.",
       "Please: bring three items a pen, a notebook and your ID."
@@ -9713,7 +9713,7 @@
     "options": [
       "Please bring three items: a pen, a notebook and your ID.",
       "Please: bring three items a pen, a notebook and your ID.",
-      "An unrelated alternative",
+      "Please bring three: items a pen, a notebook and your ID.",
       "Please bring: three items a pen, a notebook and your ID."
     ],
     "answer": 0,
@@ -9731,7 +9731,7 @@
       "Please bring three items: a pen, a notebook and your ID.",
       "Please bring: three items a pen, a notebook and your ID.",
       "Please: bring three items a pen, a notebook and your ID.",
-      "An unrelated alternative"
+      "Please bring three: items a pen, a notebook and your ID."
     ],
     "answer": 0,
     "explanation": "A colon can introduce a list after a complete clause.",
@@ -9745,7 +9745,7 @@
     "topic": "Punctuation",
     "body": "Practice task 4: Which sentence uses a colon correctly?",
     "options": [
-      "An unrelated alternative",
+      "Please bring three: items a pen, a notebook and your ID.",
       "Please bring: three items a pen, a notebook and your ID.",
       "Please bring three items: a pen, a notebook and your ID.",
       "Please: bring three items a pen, a notebook and your ID."
@@ -9763,7 +9763,7 @@
     "body": "Practice task 5: Which sentence uses a colon correctly?",
     "options": [
       "Please: bring three items a pen, a notebook and your ID.",
-      "An unrelated alternative",
+      "Please bring three: items a pen, a notebook and your ID.",
       "Please bring three items: a pen, a notebook and your ID.",
       "Please bring: three items a pen, a notebook and your ID."
     ],
@@ -9781,7 +9781,7 @@
     "options": [
       "I would be grateful if you could investigate the delay and explain the next steps.",
       "Sort this out immediately.",
-      "An unrelated alternative",
+      "Why does nobody at your company ever do their job?",
       "This is rubbish and you know it."
     ],
     "answer": 0,
@@ -9799,7 +9799,7 @@
       "I would be grateful if you could investigate the delay and explain the next steps.",
       "This is rubbish and you know it.",
       "Sort this out immediately.",
-      "An unrelated alternative"
+      "Why does nobody at your company ever do their job?"
     ],
     "answer": 0,
     "explanation": "Formal complaints should be specific, measured and clear about the requested action.",
@@ -9816,7 +9816,7 @@
       "Sort this out immediately.",
       "I would be grateful if you could investigate the delay and explain the next steps.",
       "This is rubbish and you know it.",
-      "An unrelated alternative"
+      "Why does nobody at your company ever do their job?"
     ],
     "answer": 1,
     "explanation": "Formal complaints should be specific, measured and clear about the requested action.",
@@ -9830,7 +9830,7 @@
     "topic": "Writing for purpose",
     "body": "Practice task 4: Which sentence is most appropriate in a formal complaint?",
     "options": [
-      "An unrelated alternative",
+      "Why does nobody at your company ever do their job?",
       "This is rubbish and you know it.",
       "Sort this out immediately.",
       "I would be grateful if you could investigate the delay and explain the next steps."
@@ -9847,7 +9847,7 @@
     "topic": "Writing for purpose",
     "body": "Practice task 5: Which sentence is most appropriate in a formal complaint?",
     "options": [
-      "An unrelated alternative",
+      "Why does nobody at your company ever do their job?",
       "I would be grateful if you could investigate the delay and explain the next steps.",
       "This is rubbish and you know it.",
       "Sort this out immediately."
@@ -9867,7 +9867,7 @@
       "Use slang and unexplained abbreviations.",
       "Include unrelated personal opinions.",
       "Use a clear structure, relevant evidence and concise recommendations.",
-      "An unrelated alternative"
+      "Write it as one long paragraph with no headings."
     ],
     "answer": 2,
     "explanation": "A professional report should be structured and evidence-based.",
@@ -9881,7 +9881,7 @@
     "topic": "Writing for audience",
     "body": "Practice task 2: A report is being written for senior managers. Which approach is most suitable?",
     "options": [
-      "An unrelated alternative",
+      "Write it as one long paragraph with no headings.",
       "Use a clear structure, relevant evidence and concise recommendations.",
       "Use slang and unexplained abbreviations.",
       "Include unrelated personal opinions."
@@ -9901,7 +9901,7 @@
       "Include unrelated personal opinions.",
       "Use slang and unexplained abbreviations.",
       "Use a clear structure, relevant evidence and concise recommendations.",
-      "An unrelated alternative"
+      "Write it as one long paragraph with no headings."
     ],
     "answer": 2,
     "explanation": "A professional report should be structured and evidence-based.",
@@ -9918,7 +9918,7 @@
       "Use a clear structure, relevant evidence and concise recommendations.",
       "Use slang and unexplained abbreviations.",
       "Include unrelated personal opinions.",
-      "An unrelated alternative"
+      "Write it as one long paragraph with no headings."
     ],
     "answer": 0,
     "explanation": "A professional report should be structured and evidence-based.",
@@ -9933,7 +9933,7 @@
     "body": "Practice task 5: A report is being written for senior managers. Which approach is most suitable?",
     "options": [
       "Include unrelated personal opinions.",
-      "An unrelated alternative",
+      "Write it as one long paragraph with no headings.",
       "Use a clear structure, relevant evidence and concise recommendations.",
       "Use slang and unexplained abbreviations."
     ],
@@ -9950,7 +9950,7 @@
     "body": "Which sentence avoids an ambiguous pronoun?",
     "options": [
       "After she spoke to her, she confirmed it.",
-      "An unrelated alternative",
+      "When Aisha spoke to her, she confirmed the time.",
       "When Aisha spoke to Ruth, she confirmed the meeting time.",
       "When Aisha spoke to Ruth, Aisha confirmed the meeting time."
     ],
@@ -9967,7 +9967,7 @@
     "body": "Practice task 2: Which sentence avoids an ambiguous pronoun?",
     "options": [
       "After she spoke to her, she confirmed it.",
-      "An unrelated alternative",
+      "When Aisha spoke to her, she confirmed the time.",
       "When Aisha spoke to Ruth, Aisha confirmed the meeting time.",
       "When Aisha spoke to Ruth, she confirmed the meeting time."
     ],
@@ -9986,7 +9986,7 @@
       "When Aisha spoke to Ruth, Aisha confirmed the meeting time.",
       "After she spoke to her, she confirmed it.",
       "When Aisha spoke to Ruth, she confirmed the meeting time.",
-      "An unrelated alternative"
+      "When Aisha spoke to her, she confirmed the time."
     ],
     "answer": 0,
     "explanation": "Repeating the name makes it clear who confirmed the time.",
@@ -10001,7 +10001,7 @@
     "body": "Practice task 4: Which sentence avoids an ambiguous pronoun?",
     "options": [
       "When Aisha spoke to Ruth, Aisha confirmed the meeting time.",
-      "An unrelated alternative",
+      "When Aisha spoke to her, she confirmed the time.",
       "When Aisha spoke to Ruth, she confirmed the meeting time.",
       "After she spoke to her, she confirmed it."
     ],
@@ -10018,7 +10018,7 @@
     "body": "Practice task 5: Which sentence avoids an ambiguous pronoun?",
     "options": [
       "When Aisha spoke to Ruth, she confirmed the meeting time.",
-      "An unrelated alternative",
+      "When Aisha spoke to her, she confirmed the time.",
       "After she spoke to her, she confirmed it.",
       "When Aisha spoke to Ruth, Aisha confirmed the meeting time."
     ],
@@ -10036,7 +10036,7 @@
     "options": [
       "Raise your voice until they agree.",
       "Dismiss their view immediately.",
-      "An unrelated alternative",
+      "Agree with them to avoid an argument.",
       "Ask them to explain their concern, then discuss the evidence."
     ],
     "answer": 3,
@@ -10054,7 +10054,7 @@
       "Ask them to explain their concern, then discuss the evidence.",
       "Dismiss their view immediately.",
       "Raise your voice until they agree.",
-      "An unrelated alternative"
+      "Agree with them to avoid an argument."
     ],
     "answer": 0,
     "explanation": "Constructive discussion involves listening, questioning and considering evidence.",
@@ -10070,7 +10070,7 @@
     "options": [
       "Raise your voice until they agree.",
       "Dismiss their view immediately.",
-      "An unrelated alternative",
+      "Agree with them to avoid an argument.",
       "Ask them to explain their concern, then discuss the evidence."
     ],
     "answer": 3,
@@ -10086,7 +10086,7 @@
     "body": "Practice task 4: A colleague disagrees with your suggestion. What is the most constructive response?",
     "options": [
       "Dismiss their view immediately.",
-      "An unrelated alternative",
+      "Agree with them to avoid an argument.",
       "Raise your voice until they agree.",
       "Ask them to explain their concern, then discuss the evidence."
     ],
@@ -10104,7 +10104,7 @@
     "options": [
       "Ask them to explain their concern, then discuss the evidence.",
       "Raise your voice until they agree.",
-      "An unrelated alternative",
+      "Agree with them to avoid an argument.",
       "Dismiss their view immediately."
     ],
     "answer": 0,
@@ -10121,7 +10121,7 @@
     "options": [
       "Use specialist terms without explanation.",
       "Read every word without looking up.",
-      "An unrelated alternative",
+      "Speak as quickly as possible to save time.",
       "Organise key points clearly and adapt your language to the audience."
     ],
     "answer": 3,
@@ -10138,7 +10138,7 @@
     "options": [
       "Organise key points clearly and adapt your language to the audience.",
       "Use specialist terms without explanation.",
-      "An unrelated alternative",
+      "Speak as quickly as possible to save time.",
       "Read every word without looking up."
     ],
     "answer": 0,
@@ -10154,7 +10154,7 @@
     "body": "Practice task 3: You are giving a short presentation to a mixed audience. What should you do?",
     "options": [
       "Organise key points clearly and adapt your language to the audience.",
-      "An unrelated alternative",
+      "Speak as quickly as possible to save time.",
       "Read every word without looking up.",
       "Use specialist terms without explanation."
     ],
@@ -10171,7 +10171,7 @@
     "body": "Practice task 4: You are giving a short presentation to a mixed audience. What should you do?",
     "options": [
       "Organise key points clearly and adapt your language to the audience.",
-      "An unrelated alternative",
+      "Speak as quickly as possible to save time.",
       "Use specialist terms without explanation.",
       "Read every word without looking up."
     ],
@@ -10187,7 +10187,7 @@
     "topic": "Speaking and listening",
     "body": "Practice task 5: You are giving a short presentation to a mixed audience. What should you do?",
     "options": [
-      "An unrelated alternative",
+      "Speak as quickly as possible to save time.",
       "Read every word without looking up.",
       "Use specialist terms without explanation.",
       "Organise key points clearly and adapt your language to the audience."
