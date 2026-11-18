@@ -35,7 +35,7 @@ export default function LifeInTheUK() {
 
       <div className="card" style={{ marginTop: 12 }}>
         <b>Free:</b> 10 daily questions + 1 full practice test a week.<br />
-        <b>Full access — £7.99 for 90 days:</b> 20 daily questions + unlimited practice tests.
+        <b>Full access — $9.99 for 90 days:</b> 20 daily questions + unlimited practice tests.
       </div>
 
       <section className="faq" style={{ marginTop: 24 }}>

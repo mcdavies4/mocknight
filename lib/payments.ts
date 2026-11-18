@@ -6,7 +6,7 @@ import { starsFor } from "./stars";
 import type { Student, TutorGroup } from "./types";
 
 /**
- * Create a checkout link. NGN plans → Paystack, GBP plans → Stripe.
+ * Create a checkout link. NGN plans → Paystack, USD plans → Stripe.
  * Tutor seats are always NGN/Paystack.
  */
 export async function createCheckout(
@@ -21,9 +21,9 @@ export async function createCheckout(
     const cur = opts.group.currency ?? "NGN";
     const seat = SEATS[cur];
     const amount = opts.seats * seat.amount;
-    await recordPending(reference, student, "seats", amount, cur, seat.provider, opts.group.id, opts.seats);
+    await recordPending(reference, student, "seats", amount, seat.currency, seat.provider, opts.group.id, opts.seats);
     return seat.provider === "stripe"
-      ? stripeInit(student, reference, amount, cur, `${opts.seats} learner seats — ${opts.group.name} (12 months)`, opts.returnTo ?? (student.telegram_id ? "telegram" : "web"))
+      ? stripeInit(student, reference, amount, seat.currency, `${opts.seats} learner seats — ${opts.group.name} (12 months)`, opts.returnTo ?? (student.telegram_id ? "telegram" : "web"))
       : paystackInit(student, reference, amount, { plan: "seats", group_id: opts.group.id, seats: opts.seats });
   }
 
@@ -146,7 +146,7 @@ export async function verifyChapa(reference: string): Promise<{ ok: boolean; amo
 }
 
 // ---------------------------------------------------------------------------
-// Stripe (GBP, INR) — plain REST, no SDK
+// Stripe (USD) — plain REST, no SDK
 // ---------------------------------------------------------------------------
 async function stripeInit(student: Student, reference: string, amount: number, currency: string, label: string, returnTo: "telegram" | "web") {
   const form = new URLSearchParams({

@@ -49,12 +49,12 @@ export default function FireMarshal() {
       <div className="grid2" style={{ marginTop: 12 }}>
         <div className="card">
           <h3 style={{ marginTop: 0 }}>For individuals</h3>
-          <p><b>£14.99</b> — full course, assessment and 12-month certificate.</p>
+          <p><b>$18.99</b> — full course, assessment and 12-month certificate.</p>
           <Link className="btn block" href="/app?track=FIRE">Get started</Link>
         </div>
         <div className="card">
           <h3 style={{ marginTop: 0 }}>For employers</h3>
-          <p><b>£6 per staff member</b> per year. One join link for your team, a live dashboard of who has completed and who is due, and a CSV of training records.</p>
+          <p><b>$7.99 per staff member</b> per year. One join link for your team, a live dashboard of who has completed and who is due, and a CSV of training records.</p>
           {bot && <a className="btn secondary block" href={`https://t.me/${bot}`}>Set up a company account</a>}
           <p className="muted small" style={{ marginBottom: 0 }}>In the bot: choose Fire Marshal, then send <code>/newgroup Your Company</code> and <code>/seats 25</code>.</p>
         </div>

@@ -557,7 +557,7 @@ function register(bot: Bot<Ctx>) {
         "Share this link with your students — one tap and they're in:",
         joinLink(env.botUsername, group),
         "",
-        `• /seats N — give N learners full access (${money(seat.amount, cur)} ${seat.per})`,
+        `• /seats N — give N learners full access (${money(seat.amount, seat.currency)} ${seat.per})`,
         "• /dashboard — see who's practising and their scores",
         `• Add me to your Telegram group and send \`/linkgroup ${group.join_code}\` there to get weekly results posted`,
       ].join("\n"),
@@ -589,8 +589,8 @@ function register(bot: Bot<Ctx>) {
     if (!group) return ctx.reply("Create a group first with /newgroup Name");
     const url = await createCheckout(ctx.student!, "seats", { group, seats: n, returnTo: "telegram" });
     const seat = SEATS[group.currency ?? "NGN"];
-    const total = money(n * seat.amount, group.currency ?? "NGN");
-    return ctx.reply(`${n} seats for *${group.name}* — ${total} (${money(seat.amount, group.currency ?? "NGN")} ${seat.per}).\nSeats go to your earliest-joined learners first.`, {
+    const total = money(n * seat.amount, seat.currency);
+    return ctx.reply(`${n} seats for *${group.name}* — ${total} (${money(seat.amount, seat.currency)} ${seat.per}).\nSeats go to your earliest-joined learners first.`, {
       parse_mode: "Markdown",
       reply_markup: new InlineKeyboard().url(`Pay ${total}`, url),
     });

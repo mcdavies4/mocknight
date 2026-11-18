@@ -11,7 +11,7 @@ const FAQ: [string, string][] = [
   ["How close is it to the real PLAB 1?", "The real exam is 180 single-best-answer questions with five options in 3 hours, with no negative marking. Our full mock uses exactly that format and timing, plus 90-question and 30-question papers for shorter sessions."],
   ["What does it cover?", "Medicine, surgery, paediatrics, obstetrics and gynaecology, psychiatry, emergencies, prescribing, ethics and law (GMC guidance) and calculations like CURB-65, anion gap and paediatric fluids — written to UK practice (NICE, BNF)."],
   ["Are these real PLAB questions or recalls?", "No. Every question is written independently for practice. Use them alongside NICE CKS, the BNF and GMC Good Medical Practice."],
-  ["What does it cost?", "Free for 14 days. Then £24.99 for 90 days by card, or 1,550 Telegram Stars inside the bot."],
+  ["What does it cost?", "Free for 14 days. Then $29.99 for 90 days by card, or 1,550 Telegram Stars inside the bot."],
 ];
 
 export default function Plab() {

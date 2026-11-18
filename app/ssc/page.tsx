@@ -11,7 +11,7 @@ const FAQ: [string, string][] = [
   ["What's in the Tier 1 mock?", "25 questions each from General Intelligence & Reasoning, General Awareness, Quantitative Aptitude and English — 100 questions in 60 minutes, marked +2 for correct and −0.5 for wrong, like the real exam."],
   ["Does it cover current affairs?", "Not yet. General Awareness covers static GK — polity, history, geography, science, economy and culture."],
   ["Are these previous year papers?", "No. Questions are written independently in the SSC style. Every quant and reasoning question shows the working."],
-  ["What does it cost?", "Free for 14 days. Then ₹199 for 90 days or ₹499 for 12 months."],
+  ["What does it cost?", "Free for 14 days. Then $2.99 for 90 days or $5.99 for 12 months."],
 ];
 
 export default function Ssc() {

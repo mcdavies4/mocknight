@@ -35,7 +35,7 @@ export default function NmcCbt() {
 
       <div className="card" style={{ marginTop: 12 }}>
         <b>Free:</b> 10 daily questions + 1 practice test a week.<br />
-        <b>Full access — £19.99 for 90 days:</b> 20 daily questions, unlimited Part A and Part B tests, and 40 AI explanations a day.
+        <b>Full access — $24.99 for 90 days:</b> 20 daily questions, unlimited Part A and Part B tests, and 40 AI explanations a day.
       </div>
 
       <section className="faq" style={{ marginTop: 24 }}>
