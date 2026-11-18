@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { EmailStart } from "@/components/email-start";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { POSTS, postBySlug, sortedPosts } from "@/lib/blog";
@@ -49,9 +50,10 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
         <Prose body={p.body} />
 
         <section className="card" style={{ margin: "28px 0" }}>
-          <b>Practise for free</b>
-          <p className="muted small" style={{ margin: "6px 0 12px" }}>Daily questions with explanations and timed mock tests. Free for 14 days, on the web or Telegram.</p>
-          <Link className="btn" href={p.examHref}>Start practising</Link>
+          <b>Get a free practice test</b>
+          <p className="muted small" style={{ margin: "6px 0 12px" }}>Daily questions with explanations and full timed mock tests. Enter your email and we&apos;ll send your free access link.</p>
+          <EmailStart compact track={p.exam} button="Send my free test" />
+          <p className="muted small" style={{ margin: "10px 0 0" }}><Link href={p.examHref}>See what&apos;s included →</Link></p>
         </section>
 
         <h2>Frequently asked questions</h2>

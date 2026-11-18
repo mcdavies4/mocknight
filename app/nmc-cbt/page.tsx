@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ExamTry } from "@/components/exam-try";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -15,7 +16,9 @@ const FAQ: [string, string][] = [
   ["Does it help with drug calculations?", "Yes — every numeracy question shows the working, and you can ask for a step-by-step AI explanation of any mistake."],
 ];
 
-export default function NmcCbt() {
+export const revalidate = 86400;
+
+export default async function NmcCbt() {
   const bot = process.env.TELEGRAM_BOT_USERNAME ?? "";
   return (
     <main className="wrap" style={{ maxWidth: 820 }}>
@@ -25,6 +28,8 @@ export default function NmcCbt() {
         <p className="muted">Timed Part A and Part B practice tests, daily questions that repeat your weak spots, and clear working for every drug calculation.</p>
         <Link className="btn" href="/app?track=NMC">Start free</Link>
       </section>
+
+      <ExamTry code="NMC" />
 
       <div className="grid2">
         <div className="card"><b>🧮 Part A — Numeracy</b><p className="muted small">Tablets, liquids, IV rates, drip rates, weight-based doses, conversions and fluid balance. 15 questions in 30 minutes.</p></div>

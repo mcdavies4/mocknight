@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ExamTry } from "@/components/exam-try";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -15,7 +16,9 @@ const FAQ: [string, string][] = [
   ["How do I pay?", "By card: $18.99 for 90 days. Apple Pay and Google Pay work too, and you can pay with Telegram Stars inside the bot."],
 ];
 
-export default function ProjectManagement() {
+export const revalidate = 86400;
+
+export default async function ProjectManagement() {
   const bot = process.env.TELEGRAM_BOT_USERNAME ?? "";
   return (
     <main className="wrap" style={{ maxWidth: 820 }}>
@@ -25,6 +28,8 @@ export default function ProjectManagement() {
         <p className="muted">Exam-format timed tests, daily questions that keep coming back to your weak spots, and worked answers for every calculation.</p>
         <Link className="btn" href="/app?track=PM">Start free for 14 days</Link>
       </section>
+
+      <ExamTry code="PM" />
 
       <div className="grid2">
         <div className="card"><b>👑 PRINCE2® 7 Foundation</b><p className="muted small">Principles, practices, processes, roles, tolerances, management products and the PRINCE2 7 changes. 60 questions in 60 minutes.</p></div>

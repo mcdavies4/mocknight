@@ -8,6 +8,14 @@ import { subjectName } from "@/lib/subjects";
 import { JsonLd } from "@/components/json-ld";
 import { SITE_URL } from "@/lib/site";
 import { BODY } from "@/lib/exam-pages";
+import { ExamTry } from "@/components/exam-try";
+import { EmailStart } from "@/components/email-start";
+
+export const revalidate = 86400;
+// Telegram is the habit in these regions; everywhere else the web app comes first.
+const TELEGRAM_FIRST = new Set(["NG", "GH", "WA", "ET"]);
+
+
 
 
 export function generateStaticParams() {
@@ -32,6 +40,7 @@ export default async function ExamPage({ params }: { params: Promise<{ code: str
   const t = getTrack(key);
   const bot = process.env.TELEGRAM_BOT_USERNAME ?? "";
   const plans = t.plans.map((p) => PLANS[p]).filter(Boolean);
+  const tgFirst = !!bot && TELEGRAM_FIRST.has(t.region);
   return (
     <main className="wrap" style={{ maxWidth: 820 }}>
       <JsonLd data={[
@@ -47,8 +56,14 @@ export default async function ExamPage({ params }: { params: Promise<{ code: str
         <div className="muted small">{t.emoji} {t.short}</div>
         <h1>{t.name}</h1>
         <p className="muted">{body.lead}</p>
-        {bot ? <a className="btn" href={`https://t.me/${bot}?start=${t.code.toLowerCase()}`}>Start free on Telegram</a> : <Link className="btn" href={`/app?track=${t.code}`}>Start free</Link>}
+        {tgFirst ? (
+          <a className="btn" href={`https://t.me/${bot}?start=${t.code.toLowerCase()}`}>Start free on Telegram</a>
+        ) : (
+          <Link className="btn" href={`/app?track=${t.code}`}>Start free — no card needed</Link>
+        )}
       </section>
+
+      <ExamTry code={t.code} />
 
       <div className="grid2">
         {body.bullets.map(([h, p]) => (
@@ -70,7 +85,11 @@ export default async function ExamPage({ params }: { params: Promise<{ code: str
         <p className="muted small">Covers: {t.subjects.map(subjectName).join(" · ")}</p>
       </section>
 
-      <p style={{ marginTop: 28 }}>
+      <div style={{ marginTop: 24 }}>
+        <EmailStart track={t.code} title={`Start your free ${t.short} practice`} text="Get daily questions, full timed tests and your readiness score. Enter your email and we'll send your access link." button="Start free" />
+      </div>
+
+      <p style={{ marginTop: 20 }}>
         <Link className="btn" href={`/app?track=${t.code}`}>Use the web app</Link>
         <Link className="btn secondary" href={`/practice/${t.code.toLowerCase()}`} style={{ marginLeft: 8 }}>Free practice questions</Link>
         {bot && <> <a className="btn secondary" href={`https://t.me/${bot}`} style={{ marginLeft: 8 }}>Open Telegram</a></>}

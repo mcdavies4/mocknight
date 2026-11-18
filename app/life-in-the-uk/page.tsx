@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ExamTry } from "@/components/exam-try";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -15,7 +16,9 @@ const FAQ: [string, string][] = [
   ["Can I practise on my phone?", "Yes — it works in any phone browser. You can also get a daily practice reminder on Telegram."],
 ];
 
-export default function LifeInTheUK() {
+export const revalidate = 86400;
+
+export default async function LifeInTheUK() {
   const bot = process.env.TELEGRAM_BOT_USERNAME ?? "";
   return (
     <main className="wrap" style={{ maxWidth: 820 }}>
@@ -25,6 +28,8 @@ export default function LifeInTheUK() {
         <p className="muted">Full mock tests in the real format, 10 minutes of daily practice, and a readiness score that tells you when to book.</p>
         <Link className="btn" href="/app?track=LUK">Start free — no card needed</Link>
       </section>
+
+      <ExamTry code="LUK" />
 
       <div className="grid2">
         <div className="card"><b>🧪 Real-format mock tests</b><p className="muted small">24 questions, 45 minutes, 18 to pass. Every answer explained.</p></div>

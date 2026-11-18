@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ExamTry } from "@/components/exam-try";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -14,7 +15,9 @@ const FAQ: [string, string][] = [
   ["What does it cost?", "Free for 14 days. Then $29.99 for 90 days by card, or 1,550 Telegram Stars inside the bot."],
 ];
 
-export default function Plab() {
+export const revalidate = 86400;
+
+export default async function Plab() {
   const bot = process.env.TELEGRAM_BOT_USERNAME ?? "";
   return (
     <main className="wrap" style={{ maxWidth: 820 }}>
@@ -22,8 +25,10 @@ export default function Plab() {
         <div className="muted small">⚕️ PLAB 1 · GMC</div>
         <h1>Pass PLAB 1 with timed, UK-focused practice.</h1>
         <p className="muted">Full 180-question mocks at one minute per question, daily questions on Telegram that keep coming back until you&apos;ve got them, and a clear UK-practice explanation for every answer.</p>
-        {bot ? <a className="btn" href={`https://t.me/${bot}?start=plab`}>Start free on Telegram</a> : <Link className="btn" href="/app?track=PLAB">Start free</Link>}
+        <Link className="btn" href="/app?track=PLAB">Start free — no card needed</Link>
       </section>
+
+      <ExamTry code="PLAB" />
 
       <div className="grid2">
         <div className="card"><b>⏱️ Full 180-question mocks</b><p className="muted small">Five options, single best answer, 3 hours — exactly like the real paper.</p></div>

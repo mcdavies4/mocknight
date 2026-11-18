@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { EmailStart } from "@/components/email-start";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { examSlug, findSubject, getPracticeQuestions, practiceSubjects, trackFromSlug } from "@/lib/practice";
@@ -84,8 +85,10 @@ export default async function PracticeSubject({ params }: P) {
       <div className="card" style={{ marginTop: 24 }}>
         <b>Want more {t.short} {s.name} questions?</b>
         <p className="muted small" style={{ margin: "4px 0 10px" }}>Get fresh questions every day, focused on your weak topics, plus timed mock tests. Free to start.</p>
-        <Link className="btn" href={`/app?track=${t.code}`}>Practise free in the web app</Link>
-        {bot ? <> <a className="btn secondary" style={{ marginLeft: 8 }} href={`https://t.me/${bot}?start=${t.code.toLowerCase()}`}>Practise on Telegram</a></> : null}
+        <EmailStart compact track={t.code} button="Get free access" />
+        <p className="muted small" style={{ margin: "10px 0 0" }}>
+          Or <Link href={`/app?track=${t.code}`}>open the web app</Link>{bot ? <> · <a href={`https://t.me/${bot}?start=${t.code.toLowerCase()}`}>practise on Telegram</a></> : null}
+        </p>
       </div>
 
       {others.length ? (

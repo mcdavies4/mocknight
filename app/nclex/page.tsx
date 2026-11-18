@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ExamTry } from "@/components/exam-try";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -14,7 +15,9 @@ const FAQ: [string, string][] = [
   ["How much is it?", "Free for 14 days. Then $19.99 for 90 days by card, or 1,000 Telegram Stars inside the bot."],
 ];
 
-export default function Nclex() {
+export const revalidate = 86400;
+
+export default async function Nclex() {
   const bot = process.env.TELEGRAM_BOT_USERNAME ?? "";
   return (
     <main className="wrap" style={{ maxWidth: 820 }}>
@@ -22,8 +25,10 @@ export default function Nclex() {
         <div className="muted small">🏥 NCLEX-RN</div>
         <h1>Pass the NCLEX with 15 minutes of practice a day.</h1>
         <p className="muted">Questions arrive on Telegram every day, the ones you miss come back until you've mastered them, and every calculation shows its working.</p>
-        {bot ? <a className="btn" href={`https://t.me/${bot}?start=nclex`}>Start free on Telegram</a> : <Link className="btn" href="/app?track=NCLEX">Start free</Link>}
+        <Link className="btn" href="/app?track=NCLEX">Start free — no card needed</Link>
       </section>
+
+      <ExamTry code="NCLEX" />
 
       <div className="grid2">
         <div className="card"><b>🚨 Prioritisation & delegation</b><p className="muted small">Who to see first, what to delegate to an LPN or UAP, and when to escalate.</p></div>

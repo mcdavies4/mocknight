@@ -286,3 +286,9 @@ a.btn:hover { filter: brightness(1.06); }
 .adm-list { list-style: none; padding: 0; margin: 10px 0 0; }
 .adm-list li { display: flex; justify-content: space-between; gap: 12px; padding: 7px 0; border-bottom: 1px solid rgba(0,0,0,.05); font-size: 14px; }
 
+
+/* Email sign-up and try-it quiz on public pages */
+.email-start-row { display: flex; gap: 8px; flex-wrap: wrap; }
+.email-start-row .input { flex: 1 1 220px; margin: 0; }
+.email-start-row .btn { flex: 0 0 auto; }
+.try-quiz .opt:disabled { cursor: default; color: inherit; opacity: 1; }
