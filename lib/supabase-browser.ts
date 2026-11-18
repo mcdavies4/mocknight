@@ -31,11 +31,3 @@ export async function getAccessToken(): Promise<string | null> {
   return data.session?.access_token ?? null;
 }
 
-/** Public auth settings (which sign-in providers are switched on). */
-export async function browserDbSettings(): Promise<{ external?: Record<string, boolean> } | null> {
-  const url = cfg?.url || process.env.NEXT_PUBLIC_SUPABASE_URL || "";
-  const key = cfg?.key || process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || "";
-  if (!url || !key) return null;
-  const res = await fetch(`${url}/auth/v1/settings`, { headers: { apikey: key } });
-  return res.ok ? res.json() : null;
-}
