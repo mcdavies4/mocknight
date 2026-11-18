@@ -267,7 +267,7 @@ async function sendPremium(api: Api, s: Student) {
   const perks =
     t.subjectMode === "single"
       ? [`• ${PREMIUM_DAILY_QUESTIONS} practice questions a day (free: ${FREE_DAILY_QUESTIONS})`, "• Unlimited full practice tests (free: 1 a week)", "• Readiness score and review of every mistake", "", STARS_ENABLED ? "Pay by card via Stripe, or with Telegram Stars ⭐ without leaving the chat." : "Pay securely by card via Stripe."]
-      : [`• ${PREMIUM_DAILY_QUESTIONS} drill questions a day (free: ${FREE_DAILY_QUESTIONS})`, "• Unlimited practice CBT mocks (free: 1 a week)", "• Mock Night stays free for everyone", "", "Pay with card, transfer or USSD via Paystack (a parent can pay — just forward them the link)" + (STARS_ENABLED ? ", or with Telegram Stars ⭐ right here in the chat." : ".")];
+      : [`• ${PREMIUM_DAILY_QUESTIONS} drill questions a day (free: ${FREE_DAILY_QUESTIONS})`, "• Unlimited practice CBT mocks (free: 1 a week)", "• Mock Night stays free for everyone", "", "Pay by card in US dollars (a parent can pay — just forward them the link)" + (STARS_ENABLED ? ", or with Telegram Stars ⭐ right here in the chat." : ".")];
   return api.sendMessage(
     s.telegram_id!,
     [

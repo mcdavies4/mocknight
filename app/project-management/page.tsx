@@ -12,7 +12,7 @@ const FAQ: [string, string][] = [
   ["Are these the official exam questions?", "No. Every question is written independently for practice, based on the published frameworks. Use the official manuals, the Scrum Guide and PMI materials alongside us."],
   ["Does it help with the maths?", "Yes. Earned value (CV, SV, CPI, SPI, EAC), PERT estimates, communication channels and critical path questions all show the working, and you can ask for an AI explanation of any mistake."],
   ["How does daily practice work?", "Short daily drills on Telegram or the web. Questions you get wrong come back after 1, 2, 4, 8 and 16 days until you've got them."],
-  ["Can I pay in naira?", "Yes. It's $18.99 for 90 days by card, or ₦12,000 for 90 days through Paystack."],
+  ["How do I pay?", "By card: $18.99 for 90 days. Apple Pay and Google Pay work too, and you can pay with Telegram Stars inside the bot."],
 ];
 
 export default function ProjectManagement() {
@@ -35,7 +35,7 @@ export default function ProjectManagement() {
 
       <div className="card" style={{ marginTop: 12 }}>
         <b>Free:</b> daily questions and a practice test each week.<br />
-        <b>Full access — $18.99 (or ₦12,000) for 90 days:</b> unlimited timed tests for all three exams and 40 AI explanations a day.
+        <b>Full access — $18.99 for 90 days:</b> unlimited timed tests for all three exams and 40 AI explanations a day.
       </div>
 
       <section className="faq" style={{ marginTop: 24 }}>

@@ -37,7 +37,7 @@ export default async function ExamPage({ params }: { params: Promise<{ code: str
       <JsonLd data={[
         { "@context": "https://schema.org", "@type": "Course", name: `${t.name} practice`, description: body.lead, url: `${SITE_URL}/exam/${t.code}`, inLanguage: "en",
           provider: { "@type": "Organization", name: "Mock Night", sameAs: SITE_URL },
-          offers: { "@type": "Offer", category: "Free trial", price: 0, priceCurrency: t.currency === "NGN" ? "NGN" : "USD" },
+          offers: { "@type": "Offer", category: "Free trial", price: 0, priceCurrency: "USD" },
           hasCourseInstance: { "@type": "CourseInstance", courseMode: "online", courseWorkload: "PT10M" } },
         { "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [
           { "@type": "ListItem", position: 1, name: "Exams", item: `${SITE_URL}/exams` },

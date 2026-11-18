@@ -25,7 +25,7 @@ export default function Privacy() {
           <li><b>Account details:</b> your Telegram ID, name and username when you use the bot or sign in with Telegram, or the email address you give us.</li>
           <li><b>Your study choices:</b> the exam and subjects you pick, and optional details such as your state, region or school.</li>
           <li><b>Practice activity:</b> your answers, scores, streaks and progress, so we can track your weak topics and show your results.</li>
-          <li><b>Payments:</b> which plan you bought and when. Card and bank details are handled by our payment providers (Stripe, Paystack and Telegram) and never reach us.</li>
+          <li><b>Payments:</b> which plan you bought and when. Card and bank details are handled by our payment providers (Stripe and Telegram) and never reach us.</li>
           <li><b>Notifications:</b> if you turn on reminders, a push subscription token for your browser or device.</li>
           <li><b>Usage and device data:</b> pages visited, device type and approximate location from your IP address, through Google Tag Manager and our hosting provider.</li>
           <li><b>Messages you send us:</b> including essays you submit for marking.</li>
@@ -40,8 +40,8 @@ export default function Privacy() {
         <p>We do not sell your data and we do not show third-party ads.</p>
         <h2>Who we share it with</h2>
         <p>
-          Only service providers that help us run Mock Night: Supabase (database), Vercel (hosting), Telegram (bot messages), Stripe and
-          Paystack (payments), Google (Tag Manager and analytics) and an AI provider that marks essays you choose to submit. They may only use
+          Only service providers that help us run Mock Night: Supabase (database), Vercel (hosting), Telegram (bot messages), Stripe (payments),
+          Google (Tag Manager and analytics) and an AI provider that marks essays you choose to submit. They may only use
           your data to provide their service to us. Some are based outside your country; we rely on their standard contractual protections.
         </p>
         <h2>How long we keep it</h2>
