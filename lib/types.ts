@@ -36,7 +36,14 @@ export interface Question {
   explanation: string | null;
   difficulty: number;
   reviewed: boolean;
+  /** Listening questions: text the device speaks aloud, and its language (e.g. zh-CN) */
+  audio_text?: string | null;
+  audio_lang?: string | null;
 }
+
+export type QAudio = { text: string; lang: string } | null;
+export const audioOf = (q: { audio_text?: string | null; audio_lang?: string | null }): QAudio =>
+  q.audio_text && q.audio_lang ? { text: q.audio_text, lang: q.audio_lang } : null;
 
 export interface DrillSession {
   id: string;

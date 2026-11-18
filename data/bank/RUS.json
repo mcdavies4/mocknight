@@ -4,12 +4,12 @@
   "topic": "Greetings",
   "body": "What does Здравствуйте mean?",
   "options": [
-   "goodbye",
-   "hello",
+   "thank you",
    "please",
-   "thank you"
+   "goodbye",
+   "hello"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "Formal hello. Привет is informal.",
   "difficulty": 1
  },
@@ -18,12 +18,12 @@
   "topic": "Greetings",
   "body": "What does Спасибо mean?",
   "options": [
-   "please",
    "sorry",
    "hello",
-   "thank you"
+   "thank you",
+   "please"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "Reply: Пожалуйста — you're welcome.",
   "difficulty": 1
  },
@@ -46,12 +46,12 @@
   "topic": "Greetings",
   "body": "What does Извините mean?",
   "options": [
-   "good luck",
+   "welcome",
    "congratulations",
-   "excuse me",
-   "welcome"
+   "good luck",
+   "excuse me"
   ],
-  "answer": 2,
+  "answer": 3,
   "explanation": "Also used to say sorry.",
   "difficulty": 1
  },
@@ -60,12 +60,12 @@
   "topic": "Alphabet",
   "body": "Which Cyrillic letter makes the 'd' sound?",
   "options": [
-   "Л",
-   "Г",
    "Д",
-   "Б"
+   "Г",
+   "Б",
+   "Л"
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "Б is b, Л is l, Г is g.",
   "difficulty": 1
  },
@@ -74,12 +74,12 @@
   "topic": "Alphabet",
   "body": "The letter Р sounds like",
   "options": [
+   "ya",
    "p",
    "r",
-   "b",
-   "ya"
+   "b"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "П is p; Я is ya.",
   "difficulty": 1
  },
@@ -89,8 +89,8 @@
   "body": "The letter Н sounds like",
   "options": [
    "n",
-   "m",
    "i",
+   "m",
    "h"
   ],
   "answer": 0,
@@ -102,12 +102,12 @@
   "topic": "Grammar",
   "body": "What does Я студент mean?",
   "options": [
-   "You are a student.",
-   "Is he a student?",
    "I am a student.",
+   "Is he a student?",
+   "You are a student.",
    "I was a student."
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "Russian drops 'am/is/are' in the present tense.",
   "difficulty": 1
  },
@@ -116,10 +116,10 @@
   "topic": "Grammar",
   "body": "What gender is книга (book)?",
   "options": [
-   "neuter",
    "plural",
+   "masculine",
    "feminine",
-   "masculine"
+   "neuter"
   ],
   "answer": 2,
   "explanation": "Most nouns ending in -а/-я are feminine.",
@@ -130,9 +130,9 @@
   "topic": "Grammar",
   "body": "What gender is окно (window)?",
   "options": [
-   "plural",
-   "feminine",
    "masculine",
+   "feminine",
+   "plural",
    "neuter"
   ],
   "answer": 3,
@@ -144,10 +144,10 @@
   "topic": "Grammar",
   "body": "What is the plural of стол (table)?",
   "options": [
-   "столи",
    "стола",
+   "столов",
    "столы",
-   "столов"
+   "столи"
   ],
   "answer": 2,
   "explanation": "стола and столов are genitive forms.",
@@ -158,12 +158,12 @@
   "topic": "Grammar",
   "body": "Fill the gap: ___ мама (my mum).",
   "options": [
-   "моя",
    "мои",
    "моё",
-   "мой"
+   "мой",
+   "моя"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "моя for feminine, мой masculine, моё neuter, мои plural.",
   "difficulty": 1
  },
@@ -172,8 +172,8 @@
   "topic": "Grammar",
   "body": "Fill the gap: Я живу в ___ (Москва).",
   "options": [
-   "Москву",
    "Москва",
+   "Москву",
    "Москвы",
    "Москве"
   ],
@@ -186,12 +186,12 @@
   "topic": "Grammar",
   "body": "Fill the gap: Я читаю ___ (книга).",
   "options": [
-   "книги",
    "книге",
+   "книгу",
    "книга",
-   "книгу"
+   "книги"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "The direct object takes the accusative: -а → -у.",
   "difficulty": 1
  },
@@ -200,12 +200,12 @@
   "topic": "Grammar",
   "body": "Fill the gap: Мы ___ по-русски (говорить).",
   "options": [
-   "говорим",
-   "говоришь",
    "говорю",
-   "говорят"
+   "говоришь",
+   "говорят",
+   "говорим"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "мы говорим, они говорят, ты говоришь, я говорю.",
   "difficulty": 1
  },
@@ -214,10 +214,10 @@
   "topic": "Grammar",
   "body": "Fill the gap (a man speaking): Вчера я ___ в кино.",
   "options": [
+   "была",
    "было",
-   "буду",
    "был",
-   "была"
+   "буду"
   ],
   "answer": 2,
   "explanation": "был masculine, была feminine; буду is future.",
@@ -229,11 +229,11 @@
   "body": "Which verb shows the letter was finished? Я ___ письмо вчера.",
   "options": [
    "напишу",
+   "писал",
    "написал",
-   "пишу",
-   "писал"
+   "пишу"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "Perfective написал = completed; писал = was writing.",
   "difficulty": 1
  },
@@ -242,12 +242,12 @@
   "topic": "Phrases",
   "body": "What does Где метро? mean?",
   "options": [
+   "When is the metro?",
    "Where is the metro?",
-   "How far is the metro?",
    "Is this the metro?",
-   "When is the metro?"
+   "How far is the metro?"
   ],
-  "answer": 0,
+  "answer": 1,
   "explanation": "Где = where.",
   "difficulty": 1
  },
@@ -257,11 +257,11 @@
   "body": "What does Сколько стоит? mean?",
   "options": [
    "How old are you?",
+   "What time is it?",
    "How many are there?",
-   "How much does it cost?",
-   "What time is it?"
+   "How much does it cost?"
   ],
-  "answer": 2,
+  "answer": 3,
   "explanation": "Который час? is 'what time is it?'.",
   "difficulty": 1
  },
@@ -271,11 +271,11 @@
   "body": "What does Меня зовут Анна mean?",
   "options": [
    "Anna is calling me.",
-   "I'm calling Anna.",
    "My name is Anna.",
+   "I'm calling Anna.",
    "I know Anna."
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "Literally 'they call me Anna'.",
   "difficulty": 1
  },
@@ -284,12 +284,12 @@
   "topic": "Phrases",
   "body": "What does Мне нужно mean?",
   "options": [
-   "I have",
-   "I like",
    "I need",
-   "I can"
+   "I can",
+   "I have",
+   "I like"
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "Мне нравится I like; я могу I can; у меня есть I have.",
   "difficulty": 1
  },
@@ -313,11 +313,11 @@
   "body": "What number is пять?",
   "options": [
    "15",
-   "5",
    "4",
+   "5",
    "50"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "четыре 4, пятнадцать 15, пятьдесят 50.",
   "difficulty": 1
  },
@@ -326,10 +326,10 @@
   "topic": "Vocabulary",
   "body": "What does понедельник mean?",
   "options": [
-   "Friday",
+   "Sunday",
    "Monday",
    "Tuesday",
-   "Sunday"
+   "Friday"
   ],
   "answer": 1,
   "explanation": "вторник Tuesday, пятница Friday, воскресенье Sunday.",
@@ -341,11 +341,11 @@
   "body": "What is an аптека?",
   "options": [
    "a post office",
-   "a library",
+   "a pharmacy",
    "a bakery",
-   "a pharmacy"
+   "a library"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "библиотека library, почта post office.",
   "difficulty": 1
  },
@@ -354,12 +354,12 @@
   "topic": "Vocabulary",
   "body": "What does врач mean?",
   "options": [
-   "driver",
-   "teacher",
    "doctor",
-   "cook"
+   "cook",
+   "driver",
+   "teacher"
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "учитель teacher, водитель driver, повар cook.",
   "difficulty": 1
  },
@@ -368,12 +368,12 @@
   "topic": "Vocabulary",
   "body": "What does хлеб mean?",
   "options": [
+   "meat",
    "bread",
    "milk",
-   "meat",
    "water"
   ],
-  "answer": 0,
+  "answer": 1,
   "explanation": "молоко milk, мясо meat, вода water.",
   "difficulty": 1
  },
@@ -382,12 +382,12 @@
   "topic": "TORFL facts",
   "body": "How many main TORFL (ТРКИ) levels are there?",
   "options": [
-   "9",
-   "6",
    "3",
-   "4"
+   "9",
+   "4",
+   "6"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "Elementary (A1), Basic (A2), then ТРКИ-1 to ТРКИ-4 (B1–C2).",
   "difficulty": 1
  },
@@ -410,13 +410,229 @@
   "topic": "TORFL facts",
   "body": "To pass a TORFL subtest you normally need about",
   "options": [
-   "40%",
-   "50%",
    "90%",
-   "66%"
+   "50%",
+   "66%",
+   "40%"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "Each skill (reading, writing, listening, speaking, grammar) is marked separately.",
   "difficulty": 1
+ },
+ {
+  "subject": "RUS",
+  "topic": "Listening",
+  "body": "🎧 Listen. What does the speaker want?",
+  "options": [
+   "a glass of juice",
+   "a cup of coffee",
+   "a cup of tea",
+   "a glass of water"
+  ],
+  "answer": 2,
+  "explanation": "чашку чая — a cup of tea.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Мне, пожалуйста, чашку чая.",
+   "lang": "ru-RU"
+  }
+ },
+ {
+  "subject": "RUS",
+  "topic": "Listening",
+  "body": "🎧 Listen. What time is it?",
+  "options": [
+   "4:30",
+   "3:30",
+   "4:00",
+   "3:00"
+  ],
+  "answer": 1,
+  "explanation": "половина четвёртого — 'half of the fourth hour', i.e. 3:30.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Сейчас половина четвёртого.",
+   "lang": "ru-RU"
+  }
+ },
+ {
+  "subject": "RUS",
+  "topic": "Listening",
+  "body": "🎧 Listen. How much is the book?",
+  "options": [
+   "300 roubles",
+   "2,000 roubles",
+   "200 roubles",
+   "20 roubles"
+  ],
+  "answer": 2,
+  "explanation": "двести — two hundred.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Эта книга стоит двести рублей.",
+   "lang": "ru-RU"
+  }
+ },
+ {
+  "subject": "RUS",
+  "topic": "Listening",
+  "body": "🎧 Listen. How will the speaker travel to Moscow?",
+  "options": [
+   "by plane",
+   "by train",
+   "by car",
+   "by bus"
+  ],
+  "answer": 1,
+  "explanation": "на поезде — by train.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Завтра я поеду в Москву на поезде.",
+   "lang": "ru-RU"
+  }
+ },
+ {
+  "subject": "RUS",
+  "topic": "Listening",
+  "body": "🎧 Listen. What is the speaker looking for?",
+  "options": [
+   "a library",
+   "a bank",
+   "a bakery",
+   "a pharmacy"
+  ],
+  "answer": 3,
+  "explanation": "аптека — pharmacy.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Скажите, пожалуйста, где здесь аптека?",
+   "lang": "ru-RU"
+  }
+ },
+ {
+  "subject": "RUS",
+  "topic": "Listening",
+  "body": "🎧 Listen. What is Oleg's job?",
+  "options": [
+   "driver",
+   "cook",
+   "doctor",
+   "teacher"
+  ],
+  "answer": 0,
+  "explanation": "водитель — driver.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Меня зовут Олег, я работаю водителем.",
+   "lang": "ru-RU"
+  }
+ },
+ {
+  "subject": "RUS",
+  "topic": "Listening",
+  "body": "🎧 Listen. What's the weather like?",
+  "options": [
+   "cold and snowing",
+   "hot and windy",
+   "warm and sunny",
+   "cold and raining"
+  ],
+  "answer": 0,
+  "explanation": "холодно cold; идёт снег it's snowing.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Сегодня холодно, идёт снег.",
+   "lang": "ru-RU"
+  }
+ },
+ {
+  "subject": "RUS",
+  "topic": "Listening",
+  "body": "🎧 Listen. When is the shop open?",
+  "options": [
+   "9 to 8",
+   "9 to 6",
+   "10 to 8",
+   "8 to 9"
+  ],
+  "answer": 0,
+  "explanation": "с девяти до восьми — from nine to eight.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Магазин открыт с девяти до восьми.",
+   "lang": "ru-RU"
+  }
+ },
+ {
+  "subject": "RUS",
+  "topic": "Listening",
+  "body": "🎧 Listen. What is the speaker asking for?",
+  "options": [
+   "to go home now",
+   "to hear it again",
+   "to buy something",
+   "to say goodbye"
+  ],
+  "answer": 1,
+  "explanation": "Повторите — repeat.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Я не понимаю. Повторите, пожалуйста.",
+   "lang": "ru-RU"
+  }
+ },
+ {
+  "subject": "RUS",
+  "topic": "Listening",
+  "body": "🎧 Listen. What's wrong with the speaker?",
+  "options": [
+   "a toothache",
+   "a sore throat",
+   "a stomach ache",
+   "a headache"
+  ],
+  "answer": 3,
+  "explanation": "болит голова — my head hurts.",
+  "difficulty": 1,
+  "audio": {
+   "text": "У меня болит голова.",
+   "lang": "ru-RU"
+  }
+ },
+ {
+  "subject": "RUS",
+  "topic": "Listening",
+  "body": "🎧 Listen. What does the speaker's brother do?",
+  "options": [
+   "teaches at university",
+   "studies at university",
+   "works in a shop",
+   "lives near a university"
+  ],
+  "answer": 1,
+  "explanation": "учится — studies.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Мой брат учится в университете.",
+   "lang": "ru-RU"
+  }
+ },
+ {
+  "subject": "RUS",
+  "topic": "Listening",
+  "body": "🎧 Listen. When does the train leave?",
+  "options": [
+   "10:15",
+   "10:50",
+   "11:15",
+   "10:05"
+  ],
+  "answer": 0,
+  "explanation": "десять пятнадцать — ten fifteen.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Поезд отправляется в десять пятнадцать.",
+   "lang": "ru-RU"
+  }
  }
 ]

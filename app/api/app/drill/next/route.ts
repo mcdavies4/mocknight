@@ -1,3 +1,4 @@
+import { audioOf } from "@/lib/types";
 import { localiseQuestion } from "@/lib/localise";
 import { NextResponse } from "next/server";
 import { authRequest, errorResponse, unauthorized } from "@/lib/request-auth";
@@ -38,6 +39,7 @@ export async function POST(req: Request) {
       topic: q.topic,
       body: q.body,
       options: q.options,
+      audio: audioOf(q),
     });
   } catch (e) {
     return errorResponse(e);

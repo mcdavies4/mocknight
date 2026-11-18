@@ -7,6 +7,8 @@ export interface Q {
   answer: number;
   explanation: string;
   difficulty: 1 | 2 | 3;
+  /** Listening questions: text the device reads aloud, and its BCP-47 language */
+  audio?: { text: string; lang: string };
 }
 
 // Deterministic RNG so the bank is reproducible

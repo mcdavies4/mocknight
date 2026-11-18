@@ -135,6 +135,16 @@ export async function sendCurrentQuestion(api: Api, student: Student, session: D
     "insert drill msg",
   ) as { id: number };
 
+  if (q.audio_text && q.audio_lang) {
+    // Listening question: a mini app plays it in the phone's own voice; the words sit behind a spoiler as a fallback.
+    const esc = (t: string) => t.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+    await api.sendMessage(
+      chatId,
+      `🎧 <b>Listening question.</b> Tap ▶️ to hear it. If it won't play, tap the hidden words below.\n\n<tg-spoiler>${esc(q.audio_text)}</tg-spoiler>`,
+      { parse_mode: "HTML", reply_markup: new InlineKeyboard().webApp("▶️ Play audio", `${env.appUrl}/listen/${q.id}`) },
+    );
+  }
+
   let sentAsPoll = false;
   if (fitsPoll(q, header)) {
     try {

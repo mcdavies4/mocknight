@@ -292,3 +292,11 @@ a.btn:hover { filter: brightness(1.06); }
 .email-start-row .input { flex: 1 1 220px; margin: 0; }
 .email-start-row .btn { flex: 0 0 auto; }
 .try-quiz .opt:disabled { cursor: default; color: inherit; opacity: 1; }
+
+/* Listening questions */
+.listen { margin: 6px 0 14px; padding: 12px; border-radius: 12px; background: rgba(11, 47, 34, 0.06); }
+.listen-row { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+.listen-play { min-height: 40px; }
+.listen-slow { min-height: 40px; padding: 6px 12px; }
+.listen-text { margin: 10px 0 0; font-size: 18px; line-height: 1.5; }
+.link-btn { background: none; border: 0; padding: 4px; color: inherit; text-decoration: underline; cursor: pointer; opacity: 0.8; }

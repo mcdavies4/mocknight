@@ -1,6 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useState } from "react";
+import { Listen } from "@/components/listen";
 import { useSearchParams } from "next/navigation";
 import { browserDb, browserDbReady, configureBrowserDb } from "@/lib/supabase-browser";
 import { api, shareLink } from "@/lib/client-api";
@@ -43,7 +44,7 @@ interface Me {
   plans: { code: string; label: string; price: string }[];
   tracks: TrackOpt[];
 }
-interface DrillQ { done: false; messageId: number; position: number; total: number; isReview: boolean; subject: string; topic: string | null; body: string; options: string[] }
+interface DrillQ { done: false; messageId: number; position: number; total: number; isReview: boolean; subject: string; topic: string | null; body: string; options: string[]; audio?: { text: string; lang: string } | null }
 interface Summary { correct: number; total: number; pct: number; streak: number; reviewBox: number; premium: boolean }
 
 let wentToDrill = false;
@@ -485,6 +486,7 @@ function Drill({ onExit }: { onExit: () => void }) {
         <div className="bar" style={{ margin: "12px 0" }}><span style={{ width: `${(q.position / q.total) * 100}%` }} /></div>
         {q.topic && <span className="chip">{q.topic}</span>}
         <p className="qbody">{q.body}</p>
+        {q.audio && <Listen key={q.messageId} text={q.audio.text} lang={q.audio.lang} revealed={!!feedback} autoPlay />}
         <div className="options">
           {q.options.map((o, i) => {
             const cls = feedback ? (i === feedback.answer ? "correct" : i === chosen ? "wrong" : "") : chosen === i ? "selected" : "";

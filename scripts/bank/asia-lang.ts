@@ -7,6 +7,71 @@ import { mcq, Q } from "./lib";
 type F = [string, string, string, string[], string];
 const facts = (code: string, list: F[], d: 1 | 2 | 3 = 2) => list.map(([t, b, c, x, e]) => mcq(code, t, b, c, x, e, d));
 
+// Listening: [what the device says, question, correct, distractors, explanation]
+type L = [string, string, string, string[], string];
+const listen = (code: string, lang: string, list: L[]): Q[] =>
+  list.map(([a, b, c, x, e]) => ({ ...mcq(code, "Listening", `🎧 Listen. ${b}`, c, x, e, 1), audio: { text: a, lang } }));
+
+const HSC_L: L[] = [
+  ["我想喝一杯咖啡。", "What does the speaker want?", "a cup of coffee", ["a cup of tea", "a glass of water", "a glass of milk"], "我想喝一杯咖啡 — I'd like a cup of coffee."],
+  ["现在三点半。", "What time is it?", "3:30", ["3:00", "2:30", "4:30"], "现在三点半 — It's half past three."],
+  ["这本书二十五块钱。", "How much is the book?", "25 yuan", ["15 yuan", "52 yuan", "20 yuan"], "二十五块 — 25 kuai (yuan)."],
+  ["我明天去北京。", "When is the speaker going to Beijing?", "tomorrow", ["today", "yesterday", "next week"], "明天 — tomorrow."],
+  ["我妹妹是医生。", "What does the speaker's younger sister do?", "she's a doctor", ["she's a teacher", "she's a student", "she's a driver"], "医生 — doctor."],
+  ["请问，火车站在哪儿？", "What is the speaker looking for?", "the train station", ["the airport", "the hospital", "the bus stop"], "火车站 — train station."],
+  ["今天很冷，下雪了。", "What's the weather like?", "cold and snowing", ["hot and sunny", "warm and raining", "cold but sunny"], "很冷 very cold; 下雪了 it's snowing."],
+  ["我们坐出租车去吧。", "How do they plan to travel?", "by taxi", ["by bus", "by train", "on foot"], "坐出租车 — take a taxi."],
+  ["我不喜欢吃米饭，我喜欢吃面条。", "What does the speaker like to eat?", "noodles", ["rice", "dumplings", "bread"], "不喜欢米饭 doesn't like rice; 喜欢面条 likes noodles."],
+  ["他每天早上七点起床。", "When does he get up?", "7 a.m.", ["7 p.m.", "6 a.m.", "8 a.m."], "早上七点 — seven in the morning."],
+  ["你好，我叫王明，很高兴认识你。", "What is the speaker doing?", "introducing himself", ["saying goodbye", "asking the way", "ordering food"], "我叫王明 — My name is Wang Ming. 很高兴认识你 — Nice to meet you."],
+  ["我在商店买了两件衣服。", "What did the speaker buy?", "two items of clothing", ["two books", "three shirts", "two pairs of shoes"], "两件衣服 — two pieces of clothing."],
+];
+
+const JPN_L: L[] = [
+  ["コーヒーをひとつおねがいします。", "What does the speaker order?", "one coffee", ["two coffees", "one tea", "one juice"], "コーヒーをひとつ — one coffee, please."],
+  ["いま、くじはんです。", "What time is it?", "9:30", ["4:30", "9:00", "7:30"], "くじはん (九時半) — half past nine."],
+  ["このかばんは三千円です。", "How much is the bag?", "3,000 yen", ["300 yen", "30,000 yen", "8,000 yen"], "三千円 (さんぜんえん) — 3,000 yen."],
+  ["あした、ともだちとえいがをみます。", "What will the speaker do tomorrow?", "watch a film with a friend", ["go shopping with a friend", "study with a friend", "watch a film alone"], "ともだちと — with a friend; えいがをみます — watch a film."],
+  ["すみません、えきはどこですか。", "What is the speaker asking?", "where the station is", ["when the train leaves", "how much a ticket is", "which platform to use"], "えきはどこですか — Where is the station?"],
+  ["わたしはまいあさパンをたべます。", "What does the speaker eat every morning?", "bread", ["rice", "eggs", "fruit"], "まいあさパン — bread every morning."],
+  ["きょうはあめですから、かさをもっていきます。", "Why is the speaker taking an umbrella?", "it's raining today", ["it's sunny today", "it's a gift", "a friend asked"], "あめですから — because it's raining."],
+  ["すみません、もういちどいってください。", "What does the speaker ask for?", "to hear it again", ["to go home now", "to say sorry", "to say goodbye"], "もういちど — one more time."],
+  ["あぶないですから、ここにはいらないでください。", "What is the speaker saying?", "don't enter; it's dangerous", ["please come in; it's safe", "wait here for a moment", "enter only with a helmet"], "あぶない — dangerous; はいらないでください — please don't enter."],
+  ["しごとはごぜん八時からごご五時までです。", "What are the working hours?", "8 a.m. to 5 p.m.", ["8 a.m. to 4 p.m.", "9 a.m. to 5 p.m.", "8 p.m. to 5 a.m."], "ごぜん a.m.; ごご p.m.; から…まで from… to."],
+  ["わたしはベトナムからきました。", "Where is the speaker from?", "Vietnam", ["Nepal", "Indonesia", "the Philippines"], "ベトナムからきました — I came from Vietnam."],
+  ["あたまがいたいです。", "What's wrong with the speaker?", "a headache", ["a stomach ache", "a sore throat", "a toothache"], "あたま head; いたい hurts."],
+];
+
+const KOR_L: L[] = [
+  ["커피 한 잔 주세요.", "What does the speaker order?", "one coffee", ["two coffees", "one tea", "one water"], "커피 한 잔 — one cup of coffee."],
+  ["지금 세 시 삼십 분이에요.", "What time is it?", "3:30", ["3:00", "4:30", "2:30"], "세 시 3 o'clock; 삼십 분 30 minutes."],
+  ["이 가방은 만 오천 원이에요.", "How much is the bag?", "15,000 won", ["5,000 won", "50,000 won", "10,500 won"], "만 오천 원 — 15,000 won."],
+  ["내일 아침 여덟 시까지 공장에 오세요.", "When should the listener come to the factory?", "by 8 tomorrow morning", ["by 8 tonight", "by 9 tomorrow morning", "by 8 this morning"], "내일 아침 tomorrow morning; 여덟 시까지 by 8 o'clock."],
+  ["여기에서 담배를 피우면 안 돼요.", "What is the speaker saying?", "smoking isn't allowed here", ["you can smoke here", "cigarettes are sold here", "take a break here"], "피우면 안 돼요 — you must not smoke."],
+  ["안전모를 꼭 쓰세요.", "What must the listener do?", "always wear a helmet", ["always wear gloves", "take off the helmet", "buy a new helmet"], "안전모 — safety helmet; 꼭 — be sure to."],
+  ["화장실이 어디에 있어요?", "What is the speaker asking?", "where the toilet is", ["where the exit is", "when lunch is", "where the office is"], "화장실 — toilet."],
+  ["저는 네팔에서 왔어요.", "Where is the speaker from?", "Nepal", ["Vietnam", "Cambodia", "Sri Lanka"], "네팔에서 왔어요 — I came from Nepal."],
+  ["오늘은 일이 많아서 야근해요.", "What will the speaker do today?", "work overtime", ["leave work early", "take a day off", "start a new job"], "야근 — overtime (night work)."],
+  ["배가 아파서 병원에 가요.", "Why is the speaker going to hospital?", "a stomach ache", ["a headache", "a cut hand", "a check-up"], "배가 아파서 — because my stomach hurts."],
+  ["월급은 매달 10일에 받아요.", "When is the salary paid?", "on the 10th of each month", ["on the 1st of each month", "every 10 days", "on the 11th of each month"], "매달 every month; 10일 the 10th."],
+  ["이 기계는 위험하니까 만지지 마세요.", "What is the speaker warning about?", "don't touch this machine", ["please use this machine", "clean this machine now", "turn on this machine"], "만지지 마세요 — please don't touch."],
+];
+
+const RUS_L: L[] = [
+  ["Мне, пожалуйста, чашку чая.", "What does the speaker want?", "a cup of tea", ["a cup of coffee", "a glass of water", "a glass of juice"], "чашку чая — a cup of tea."],
+  ["Сейчас половина четвёртого.", "What time is it?", "3:30", ["4:30", "4:00", "3:00"], "половина четвёртого — 'half of the fourth hour', i.e. 3:30."],
+  ["Эта книга стоит двести рублей.", "How much is the book?", "200 roubles", ["2,000 roubles", "20 roubles", "300 roubles"], "двести — two hundred."],
+  ["Завтра я поеду в Москву на поезде.", "How will the speaker travel to Moscow?", "by train", ["by plane", "by bus", "by car"], "на поезде — by train."],
+  ["Скажите, пожалуйста, где здесь аптека?", "What is the speaker looking for?", "a pharmacy", ["a library", "a bank", "a bakery"], "аптека — pharmacy."],
+  ["Меня зовут Олег, я работаю водителем.", "What is Oleg's job?", "driver", ["doctor", "teacher", "cook"], "водитель — driver."],
+  ["Сегодня холодно, идёт снег.", "What's the weather like?", "cold and snowing", ["warm and sunny", "cold and raining", "hot and windy"], "холодно cold; идёт снег it's snowing."],
+  ["Магазин открыт с девяти до восьми.", "When is the shop open?", "9 to 8", ["8 to 9", "9 to 6", "10 to 8"], "с девяти до восьми — from nine to eight."],
+  ["Я не понимаю. Повторите, пожалуйста.", "What is the speaker asking for?", "to hear it again", ["to go home now", "to say goodbye", "to buy something"], "Повторите — repeat."],
+  ["У меня болит голова.", "What's wrong with the speaker?", "a headache", ["a stomach ache", "a sore throat", "a toothache"], "болит голова — my head hurts."],
+  ["Мой брат учится в университете.", "What does the speaker's brother do?", "studies at university", ["teaches at university", "works in a shop", "lives near a university"], "учится — studies."],
+  ["Поезд отправляется в десять пятнадцать.", "When does the train leave?", "10:15", ["10:50", "11:15", "10:05"], "десять пятнадцать — ten fifteen."],
+];
+
 const HSC: F[] = [
   ["Greetings", "What does 你好 (nǐ hǎo) mean?", "hello", ["goodbye", "thank you", "sorry"], "再见 (zàijiàn) is goodbye; 谢谢 (xièxie) is thank you."],
   ["Greetings", "What does 谢谢 (xièxie) mean?", "thank you", ["you're welcome", "hello", "excuse me"], "A common reply is 不客气 (bú kèqi), 'you're welcome'."],
@@ -179,10 +244,10 @@ const RMG: F[] = [
 
 export function asiaLang(): Record<string, Q[]> {
   return {
-    HSC: facts("HSC", HSC, 1),
-    JPN: facts("JPN", JPN, 1),
-    KOR: facts("KOR", KOR, 1),
-    RUS: facts("RUS", RUS, 1),
+    HSC: [...facts("HSC", HSC, 1), ...listen("HSC", "zh-CN", HSC_L)],
+    JPN: [...facts("JPN", JPN, 1), ...listen("JPN", "ja-JP", JPN_L)],
+    KOR: [...facts("KOR", KOR, 1), ...listen("KOR", "ko-KR", KOR_L)],
+    RUS: [...facts("RUS", RUS, 1), ...listen("RUS", "ru-RU", RUS_L)],
     RMG: facts("RMG", RMG),
   };
 }

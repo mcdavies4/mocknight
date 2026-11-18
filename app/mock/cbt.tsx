@@ -1,6 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { Listen } from "@/components/listen";
 import { useSearchParams } from "next/navigation";
 import type { MockPayload, MockResult } from "@/lib/mock";
 
@@ -206,6 +207,7 @@ export default function Cbt() {
           <span>{answeredTotal}/{data.questions.length} answered</span>
         </div>
         <p className="qbody">{q.body}</p>
+        {q.audio && <Listen key={q.id} text={q.audio.text} lang={q.audio.lang} />}
 
         <div className="options">
           {q.options.map((o, i) => (
@@ -385,6 +387,7 @@ function ResultView({ data, result }: { data: MockPayload; result: MockResult })
           <p className="qbody" style={{ fontSize: 15 }}>
             {r.body}
           </p>
+          {r.audio && <Listen text={r.audio.text} lang={r.audio.lang} revealed />}
           <div className="options">
             {r.options.map((o, i) => (
               <div

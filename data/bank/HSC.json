@@ -446,5 +446,221 @@
   "answer": 1,
   "explanation": "Literally 'eat rice', used for eating a meal.",
   "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Listening",
+  "body": "🎧 Listen. What does the speaker want?",
+  "options": [
+   "a cup of coffee",
+   "a glass of water",
+   "a glass of milk",
+   "a cup of tea"
+  ],
+  "answer": 0,
+  "explanation": "我想喝一杯咖啡 — I'd like a cup of coffee.",
+  "difficulty": 1,
+  "audio": {
+   "text": "我想喝一杯咖啡。",
+   "lang": "zh-CN"
+  }
+ },
+ {
+  "subject": "HSC",
+  "topic": "Listening",
+  "body": "🎧 Listen. What time is it?",
+  "options": [
+   "3:00",
+   "2:30",
+   "4:30",
+   "3:30"
+  ],
+  "answer": 3,
+  "explanation": "现在三点半 — It's half past three.",
+  "difficulty": 1,
+  "audio": {
+   "text": "现在三点半。",
+   "lang": "zh-CN"
+  }
+ },
+ {
+  "subject": "HSC",
+  "topic": "Listening",
+  "body": "🎧 Listen. How much is the book?",
+  "options": [
+   "52 yuan",
+   "25 yuan",
+   "20 yuan",
+   "15 yuan"
+  ],
+  "answer": 1,
+  "explanation": "二十五块 — 25 kuai (yuan).",
+  "difficulty": 1,
+  "audio": {
+   "text": "这本书二十五块钱。",
+   "lang": "zh-CN"
+  }
+ },
+ {
+  "subject": "HSC",
+  "topic": "Listening",
+  "body": "🎧 Listen. When is the speaker going to Beijing?",
+  "options": [
+   "next week",
+   "tomorrow",
+   "today",
+   "yesterday"
+  ],
+  "answer": 1,
+  "explanation": "明天 — tomorrow.",
+  "difficulty": 1,
+  "audio": {
+   "text": "我明天去北京。",
+   "lang": "zh-CN"
+  }
+ },
+ {
+  "subject": "HSC",
+  "topic": "Listening",
+  "body": "🎧 Listen. What does the speaker's younger sister do?",
+  "options": [
+   "she's a driver",
+   "she's a teacher",
+   "she's a student",
+   "she's a doctor"
+  ],
+  "answer": 3,
+  "explanation": "医生 — doctor.",
+  "difficulty": 1,
+  "audio": {
+   "text": "我妹妹是医生。",
+   "lang": "zh-CN"
+  }
+ },
+ {
+  "subject": "HSC",
+  "topic": "Listening",
+  "body": "🎧 Listen. What is the speaker looking for?",
+  "options": [
+   "the hospital",
+   "the airport",
+   "the bus stop",
+   "the train station"
+  ],
+  "answer": 3,
+  "explanation": "火车站 — train station.",
+  "difficulty": 1,
+  "audio": {
+   "text": "请问，火车站在哪儿？",
+   "lang": "zh-CN"
+  }
+ },
+ {
+  "subject": "HSC",
+  "topic": "Listening",
+  "body": "🎧 Listen. What's the weather like?",
+  "options": [
+   "warm and raining",
+   "hot and sunny",
+   "cold but sunny",
+   "cold and snowing"
+  ],
+  "answer": 3,
+  "explanation": "很冷 very cold; 下雪了 it's snowing.",
+  "difficulty": 1,
+  "audio": {
+   "text": "今天很冷，下雪了。",
+   "lang": "zh-CN"
+  }
+ },
+ {
+  "subject": "HSC",
+  "topic": "Listening",
+  "body": "🎧 Listen. How do they plan to travel?",
+  "options": [
+   "by bus",
+   "by train",
+   "by taxi",
+   "on foot"
+  ],
+  "answer": 2,
+  "explanation": "坐出租车 — take a taxi.",
+  "difficulty": 1,
+  "audio": {
+   "text": "我们坐出租车去吧。",
+   "lang": "zh-CN"
+  }
+ },
+ {
+  "subject": "HSC",
+  "topic": "Listening",
+  "body": "🎧 Listen. What does the speaker like to eat?",
+  "options": [
+   "bread",
+   "noodles",
+   "rice",
+   "dumplings"
+  ],
+  "answer": 1,
+  "explanation": "不喜欢米饭 doesn't like rice; 喜欢面条 likes noodles.",
+  "difficulty": 1,
+  "audio": {
+   "text": "我不喜欢吃米饭，我喜欢吃面条。",
+   "lang": "zh-CN"
+  }
+ },
+ {
+  "subject": "HSC",
+  "topic": "Listening",
+  "body": "🎧 Listen. When does he get up?",
+  "options": [
+   "7 p.m.",
+   "8 a.m.",
+   "6 a.m.",
+   "7 a.m."
+  ],
+  "answer": 3,
+  "explanation": "早上七点 — seven in the morning.",
+  "difficulty": 1,
+  "audio": {
+   "text": "他每天早上七点起床。",
+   "lang": "zh-CN"
+  }
+ },
+ {
+  "subject": "HSC",
+  "topic": "Listening",
+  "body": "🎧 Listen. What is the speaker doing?",
+  "options": [
+   "asking the way",
+   "introducing himself",
+   "saying goodbye",
+   "ordering food"
+  ],
+  "answer": 1,
+  "explanation": "我叫王明 — My name is Wang Ming. 很高兴认识你 — Nice to meet you.",
+  "difficulty": 1,
+  "audio": {
+   "text": "你好，我叫王明，很高兴认识你。",
+   "lang": "zh-CN"
+  }
+ },
+ {
+  "subject": "HSC",
+  "topic": "Listening",
+  "body": "🎧 Listen. What did the speaker buy?",
+  "options": [
+   "three shirts",
+   "two pairs of shoes",
+   "two books",
+   "two items of clothing"
+  ],
+  "answer": 3,
+  "explanation": "两件衣服 — two pieces of clothing.",
+  "difficulty": 1,
+  "audio": {
+   "text": "我在商店买了两件衣服。",
+   "lang": "zh-CN"
+  }
  }
 ]

@@ -333,6 +333,262 @@ Mock Night's [Data Analyst track](/exam/DAT) has practice for SQL, Excel, Power 
       ["Is PL-300 worth it?", "It's the most recognised Power BI certification and helps your CV get noticed, especially alongside a portfolio."],
     ],
   },
+  {
+    slug: "csca-exam-guide",
+    title: "CSCA exam guide: the new test for studying in China",
+    description: "What the China Scholastic Competency Assessment (CSCA) covers, how long each paper is, fees, test dates and a simple plan to prepare for maths, physics and chemistry.",
+    date: "2026-11-18",
+    exam: "CSCA",
+    examHref: "/exam/CSCA",
+    tag: "🇨🇳 Study in China",
+    readMins: 6,
+    body: `If you want a bachelor's degree in China, especially on a Chinese Government Scholarship, there's now a new step: the **China Scholastic Competency Assessment (CSCA)**. It's run by the China Scholarship Council and is designed to check that international students are ready for undergraduate study. Here's what you need to know.
+
+## Who has to take it
+
+From the 2026/27 academic year, most applicants to undergraduate programmes at universities in the Chinese Government Scholarship scheme must include CSCA scores. Any student planning to study in China can take it, and a good score can strengthen an application anywhere.
+
+## The subjects
+
+- **Mathematics**: required for almost everyone
+- **Physics** and **Chemistry**: optional, depending on your university and programme. Science, engineering, agriculture and medicine applicants usually need at least one
+- **Professional Chinese**: for Chinese-taught programmes, in a humanities or STEM version
+
+Maths, physics and chemistry can be taken **in English or Chinese**. Always check your university's subject list for your exact programme.
+
+## Format and timing
+
+- **Maths, physics and chemistry:** 48 multiple-choice questions in 60 minutes each
+- **Professional Chinese:** 80 questions in 90 minutes
+- Every subject is scored out of 100
+- Sittings run **five times a year**: January, March, April, June and December
+
+You can sit it on a computer at a test centre, on paper at a test centre, or online from home with a live proctor, depending on what's offered in your country.
+
+## Fees
+
+The fee is **450 yuan for one subject** and **700 yuan for two or more**. Results usually arrive within about a week for computer and online tests, and within two weeks for paper tests.
+
+## How to prepare
+
+The science papers test solid secondary-school knowledge, similar to WAEC, A-Level or IB, but at speed: 48 questions in an hour is about 75 seconds each.
+
+- **Weeks 1–2:** revise the core topics. In maths: algebra, functions, trigonometry, sequences, basic calculus and probability. In physics: mechanics, electricity and waves. In chemistry: moles, acids, bonding and organic basics
+- **Weeks 3–4:** daily timed practice. Redo every question you get wrong until you can do it fast
+- **Final week:** full 48-question papers under the 60-minute limit
+
+Mock Night's [CSCA practice](/exam/CSCA) has maths, physics and chemistry in the real 48-question, 60-minute format. Questions you miss come back until you've got them. For Chinese, use our [HSK track](/exam/HSK).
+
+## Before you book
+
+- Check your university's CSCA subject list for your programme
+- Sit early enough for scores to reach your application deadline
+- Make sure your name matches your passport exactly`,
+    faq: [
+      ["Is the CSCA compulsory?", "It's required for most undergraduate applicants to universities in the Chinese Government Scholarship scheme from the 2026/27 academic year. Other universities may also ask for it, so check with yours."],
+      ["Can I take the CSCA in English?", "Yes. Mathematics, physics and chemistry are offered in English and Chinese."],
+      ["How much does the CSCA cost?", "450 yuan for a single subject and 700 yuan for two or more subjects."],
+      ["How many questions are on each CSCA paper?", "48 multiple-choice questions in 60 minutes for maths, physics and chemistry. Professional Chinese has 80 questions in 90 minutes."],
+    ],
+  },
+  {
+    slug: "eps-topik-guide",
+    title: "EPS-TOPIK guide: the Korean test for working in Korea",
+    description: "What EPS-TOPIK is, how the reading and listening sections work, the workplace Korean you need, and a 6-week plan to prepare for an E-9 job in Korea.",
+    date: "2026-11-18",
+    exam: "EPSTOPIK",
+    examHref: "/exam/EPSTOPIK",
+    tag: "🇰🇷 Work in Korea",
+    readMins: 5,
+    body: `South Korea's **Employment Permit System (EPS)** lets workers from partner countries take jobs in manufacturing, construction, farming, fishing and services on an **E-9 visa**. The first step is the **EPS-TOPIK** Korean test, run by HRD Korea.
+
+## What the test looks like
+
+EPS-TOPIK has two sections, **reading** and **listening**, and every question is **multiple choice with four options**. There's no writing and no speaking.
+
+The exact number of questions, timing and pass score depend on your country and the test round, so always check the official notice from HRD Korea or your country's sending agency. Some countries also run a separate skills test.
+
+## What you need to know
+
+The Korean in EPS-TOPIK is practical. Expect:
+
+- **Hangul**: reading the alphabet quickly and accurately
+- **Workplace safety**: signs like 위험 (danger), 비상구 (emergency exit) and 금연 (no smoking), and equipment such as 안전모 (safety helmet) and 장갑 (gloves)
+- **Work life**: 출근 and 퇴근 (going to and leaving work), 월급 (monthly salary), 야근 (overtime)
+- **Daily life**: shopping, prices, directions, health, transport
+- **Numbers**: both native Korean (하나, 둘, 셋) and Sino-Korean (일, 이, 삼) numbers, for time, money and dates
+
+## Listening is where people lose marks
+
+Many candidates read well but freeze on audio: short announcements, workplace instructions and conversations at normal speed. Practise listening **every day**, not just in the last week.
+
+## A 6-week plan
+
+- **Weeks 1–2:** master Hangul and numbers. Learn 10–15 workplace words a day
+- **Weeks 3–4:** grammar basics (을/를, 이/가, 에서, past tense, ~지 마세요) and short reading passages
+- **Weeks 5–6:** daily timed practice of both sections, plus listening drills at normal speed and slower
+
+Mock Night's [EPS-TOPIK practice](/exam/EPSTOPIK) includes **listening questions**: your phone reads the Korean aloud, with a slower option. There are also workplace and safety vocabulary and grammar drills, and questions you miss come back until you know them.`,
+    faq: [
+      ["Is EPS-TOPIK the same as TOPIK?", "No. TOPIK is a general Korean proficiency test for study and other visas. EPS-TOPIK is a separate test for workers applying under the Employment Permit System (E-9)."],
+      ["Does EPS-TOPIK have writing or speaking?", "No. It has reading and listening sections only, all multiple choice with four options."],
+      ["How do I register for EPS-TOPIK?", "Through the EPS agency in your country, which announces test dates, fees and quotas. Check their official notice before you pay anyone."],
+    ],
+  },
+  {
+    slug: "pnle-nursing-board-exam-guide",
+    title: "PNLE 2027: how to pass the Philippine nursing board exam",
+    description: "The PNLE format (five Nursing Practice tests, 500 items), the 75% / 60% passing rule, the new February and August schedule, and a review plan that works.",
+    date: "2026-11-18",
+    exam: "PNLE",
+    examHref: "/exam/PNLE",
+    tag: "🩺 Philippines nursing",
+    readMins: 6,
+    body: `The **Philippine Nurse Licensure Examination (PNLE)**, also called the NLE or nursing board exam, is the PRC exam every BSN graduate must pass to become a registered nurse in the Philippines. It's also the first step for many nurses planning to work abroad.
+
+## The format
+
+- **Five Nursing Practice (NP) tests**, 100 items each: **500 items** in total
+- **Two days**, paper-based, two hours per test
+- Multiple choice with four options
+- NP I to NP III on day 1, NP IV and NP V on day 2
+
+The tests cover community health nursing, care of mothers and children, medical-surgical nursing, psychiatric nursing, and high-acuity and emergency care, under the Board of Nursing's enhanced table of specifications.
+
+## The passing rule
+
+Under **RA 9173 (Philippine Nursing Act of 2002)** you need a **general average of 75%**, with **no subject below 60%**. One very weak subject can sink you even if your average is fine, so don't neglect any area.
+
+## The new schedule
+
+From 2026 the PRC moved the PNLE to a **February and August** cycle. Passing rates can swing a lot between sittings: the November 2025 exam had a record **90.04%**, while February 2026 dropped to **44.24%**. Candidates with less review time were hit hardest. Plan your review around the sitting you're aiming for, not the one after.
+
+## What examiners love to test
+
+- **Priorities:** ABCs, Maslow, which patient to see first
+- **Safety:** medication rights, injection angles, when to hold digoxin, antidotes (protamine for heparin, vitamin K for warfarin, naloxone for opioids)
+- **Labs:** normal sodium, potassium, glucose, ABGs
+- **Infection control:** airborne vs droplet vs contact precautions
+- **Maternal and child:** APGAR, fetal heart rate, growth and development
+- **Nursing law and ethics:** RA 9173 and patient rights
+
+## A 10-week review plan
+
+- **Weeks 1–6:** one Nursing Practice area at a time, with 30–50 board-style questions a day
+- **Weeks 7–8:** mixed practice across all five areas, and redo every wrong answer
+- **Weeks 9–10:** full 100-item tests under the 2-hour limit. Aim for 80% or more so you have a buffer
+
+Mock Night's [PNLE practice](/exam/PNLE) has board-style questions with clear rationales, and questions you miss come back until you've got them. It works on the web or in Telegram, a few minutes at a time.`,
+    faq: [
+      ["What is the passing score for the PNLE?", "A general average of 75%, with no subject rating below 60%, as set by RA 9173."],
+      ["How many items are on the PNLE?", "500: five Nursing Practice tests of 100 items each, over two days."],
+      ["When is the PNLE held?", "From 2026, the PRC schedules the PNLE in February and August. Check the PRC's official schedule for exact dates and filing deadlines."],
+    ],
+  },
+  {
+    slug: "cissp-exam-guide",
+    title: "CISSP exam guide: format, domains and how to think like a manager",
+    description: "The CISSP CAT format (100–150 questions, 3 hours, 700/1000), the eight domains and their weights, the experience requirement and a 12-week study plan.",
+    date: "2026-11-18",
+    exam: "CISSP",
+    examHref: "/exam/CISSP",
+    tag: "🛡️ Cybersecurity",
+    readMins: 6,
+    body: `**CISSP** from ISC2 is one of the most respected certifications in cybersecurity. It's aimed at experienced practitioners moving into senior, architect and leadership roles, and it often appears in job adverts for security managers.
+
+## The exam at a glance
+
+- **Computerized Adaptive Testing (CAT):** the exam adjusts to your answers
+- **100 to 150 questions** in up to **3 hours**
+- **Passing score: 700 out of 1,000**
+- Multiple choice plus advanced item types such as drag-and-drop
+- You can't go back to earlier questions, and the exam can end as soon as it's confident of a pass or fail
+- The fee is about **US$749**
+
+The current exam outline has been in force since 15 April 2024.
+
+## The eight domains
+
+- Security and Risk Management: **16%**
+- Asset Security: **10%**
+- Security Architecture and Engineering: **13%**
+- Communication and Network Security: **13%**
+- Identity and Access Management: **13%**
+- Security Assessment and Testing: **12%**
+- Security Operations: **13%**
+- Software Development Security: **10%**
+
+## Experience
+
+To be certified you need **five years of paid work** in at least two of the eight domains. A relevant degree or approved credential can remove one year. If you pass without the experience, you can become an **Associate of ISC2** while you build it.
+
+## Think like a manager
+
+The classic CISSP trap is choosing the most technical answer. The exam usually wants what a risk-aware manager would do: protect people first, follow policy, involve the right stakeholders, and pick the control that best fits the business risk. When two answers look right, ask which one **addresses the root cause** or **comes first in the process**.
+
+## A 12-week plan
+
+- **Weeks 1–8:** one domain per week, giving more time to Risk Management and Security Operations. Do 30–50 practice questions after each one
+- **Weeks 9–10:** mixed-domain practice. Review why the tempting wrong answers are wrong
+- **Weeks 11–12:** full timed sessions of 100–150 questions to build stamina
+
+Mock Night's [CISSP practice](/exam/CISSP) covers all eight domains, including risk calculations (SLE, ALE), security models (Bell–LaPadula, Biba, Brewer–Nash), cryptography, IAM and incident response. Questions you miss come back until you've got them.`,
+    faq: [
+      ["How many questions are on the CISSP exam?", "Between 100 and 150 on the adaptive (CAT) exam, with up to 3 hours to finish. You need 700 out of 1,000 to pass."],
+      ["Can I take CISSP without five years of experience?", "Yes. You can sit the exam and become an Associate of ISC2, then earn full CISSP once you have the required experience."],
+      ["Which CISSP domain has the highest weight?", "Security and Risk Management, at 16% under the outline effective 15 April 2024."],
+    ],
+  },
+  {
+    slug: "az-104-exam-guide",
+    title: "AZ-104 guide: how to pass Microsoft Azure Administrator",
+    description: "AZ-104 format, the five skill areas and their weights, the 700 pass mark and a 6-week plan with hands-on labs to become an Azure Administrator Associate.",
+    date: "2026-11-18",
+    exam: "AZ104",
+    examHref: "/exam/AZ104",
+    tag: "☁️ Cloud",
+    readMins: 5,
+    body: `**AZ-104** earns you **Microsoft Certified: Azure Administrator Associate**. It's the most popular hands-on Azure certification and a common requirement for cloud support, cloud engineer and infrastructure roles.
+
+## The exam at a glance
+
+- About **40–60 questions** in **100 minutes**: multiple choice, case studies and scenario questions
+- **Passing score: 700** on Microsoft's 1–1,000 scale
+- **US$165** in the US (prices vary by country)
+- Taken at a Pearson VUE centre or online
+- The skills outline was last updated on **17 April 2026**
+
+## The five skill areas
+
+- Manage Azure identities and governance: **20–25%**
+- Implement and manage storage: **15–20%**
+- Deploy and manage Azure compute resources: **20–25%**
+- Implement and manage virtual networking: **15–20%**
+- Monitor and maintain Azure resources: **10–15%**
+
+## What catches people out
+
+AZ-104 isn't AZ-900 with more facts. It tests **what you would actually do** as an administrator. The usual weak spots:
+
+- **RBAC vs Azure Policy:** RBAC controls *who* can do something; Policy controls *what* is allowed
+- **Storage redundancy:** LRS vs ZRS vs GRS vs GZRS, and when to use each access tier
+- **Networking:** NSG rule priority, peering not being transitive, and when to use a private endpoint
+- **Availability:** availability sets vs zones vs scale sets
+- **Backup vs Site Recovery:** restoring data versus failing over a whole workload
+
+## A 6-week plan
+
+- **Weeks 1–4:** one or two skill areas a week. Build each thing in a free Azure account, then do 30 practice questions on it
+- **Week 5:** mixed practice. Redo every question you got wrong
+- **Week 6:** timed sessions. Book the exam when you're scoring 80% or more consistently
+
+Mock Night's [AZ-104 practice](/exam/AZ104) covers identity, governance, storage, compute, networking, monitoring and backup, with a short explanation for every answer.`,
+    faq: [
+      ["How long is the AZ-104 exam?", "100 minutes, with about 40–60 questions. You need 700 out of 1,000 to pass."],
+      ["Do I need AZ-900 before AZ-104?", "No. There's no prerequisite, but AZ-900 knowledge helps, and Microsoft suggests some hands-on experience with Azure."],
+      ["Does AZ-104 expire?", "Associate certifications are valid for a year and can be renewed for free with an online assessment on Microsoft Learn."],
+    ],
+  },
 ];
 
 export const postBySlug = (slug: string) => POSTS.find((p) => p.slug === slug);

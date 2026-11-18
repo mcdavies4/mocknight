@@ -5,9 +5,9 @@
   "body": "What does 안녕하세요 mean?",
   "options": [
    "hello",
-   "thank you",
    "sorry",
-   "see you later"
+   "see you later",
+   "thank you"
   ],
   "answer": 0,
   "explanation": "The standard polite greeting.",
@@ -19,9 +19,9 @@
   "body": "What does 감사합니다 mean?",
   "options": [
    "thank you",
-   "I'm sorry",
    "hello",
-   "excuse me"
+   "excuse me",
+   "I'm sorry"
   ],
   "answer": 0,
   "explanation": "고맙습니다 also means thank you.",
@@ -33,9 +33,9 @@
   "body": "What does 죄송합니다 mean?",
   "options": [
    "I'm sorry",
-   "thank you",
    "nice to meet you",
-   "goodbye"
+   "goodbye",
+   "thank you"
   ],
   "answer": 0,
   "explanation": "A formal apology, common at work.",
@@ -48,10 +48,10 @@
   "options": [
    "ㅇ",
    "ㅂ",
-   "ㅁ",
-   "ㄴ"
+   "ㄴ",
+   "ㅁ"
   ],
-  "answer": 2,
+  "answer": 3,
   "explanation": "ㄴ is n, ㅂ is b/p, ㅇ is silent at the start or 'ng' at the end.",
   "difficulty": 1
  },
@@ -62,8 +62,8 @@
   "options": [
    "a (as in 'father')",
    "i (as in 'see')",
-   "u (as in 'blue')",
-   "o (as in 'go')"
+   "o (as in 'go')",
+   "u (as in 'blue')"
   ],
   "answer": 0,
   "explanation": "ㅗ is o, ㅜ is u, ㅣ is i.",
@@ -75,9 +75,9 @@
   "body": "What does 물 mean?",
   "options": [
    "water",
+   "rice",
    "fire",
-   "milk",
-   "rice"
+   "milk"
   ],
   "answer": 0,
   "explanation": "불 fire, 밥 rice/meal, 우유 milk.",
@@ -88,12 +88,12 @@
   "topic": "Vocabulary",
   "body": "What does 회사 mean?",
   "options": [
-   "company",
-   "school",
+   "market",
    "hospital",
-   "market"
+   "company",
+   "school"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "병원 hospital, 학교 school, 시장 market.",
   "difficulty": 1
  },
@@ -102,12 +102,12 @@
   "topic": "Vocabulary",
   "body": "What does 병원 mean?",
   "options": [
-   "hospital",
-   "pharmacy",
    "police station",
-   "bank"
+   "bank",
+   "hospital",
+   "pharmacy"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "약국 is pharmacy; 은행 is bank; 경찰서 is police station.",
   "difficulty": 1
  },
@@ -117,11 +117,11 @@
   "body": "What does 내일 mean?",
   "options": [
    "yesterday",
-   "weekend",
    "tomorrow",
+   "weekend",
    "today"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "어제 yesterday, 오늘 today, 주말 weekend.",
   "difficulty": 1
  },
@@ -130,12 +130,12 @@
   "topic": "Workplace",
   "body": "What is 안전모?",
   "options": [
-   "safety gloves",
    "a safety helmet",
    "safety glasses",
-   "safety boots"
+   "safety boots",
+   "safety gloves"
   ],
-  "answer": 1,
+  "answer": 0,
   "explanation": "Always wear one where there's a falling-object risk.",
   "difficulty": 1
  },
@@ -144,12 +144,12 @@
   "topic": "Workplace",
   "body": "What does 장갑 mean?",
   "options": [
-   "boots",
-   "mask",
    "hat",
-   "gloves"
+   "boots",
+   "gloves",
+   "mask"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "마스크 mask, 모자 hat.",
   "difficulty": 1
  },
@@ -159,9 +159,9 @@
   "body": "A sign saying 위험 means",
   "options": [
    "danger",
-   "exit",
    "entrance",
-   "rest area"
+   "rest area",
+   "exit"
   ],
   "answer": 0,
   "explanation": "출구 exit, 입구 entrance, 휴게실 rest area.",
@@ -172,12 +172,12 @@
   "topic": "Workplace",
   "body": "A sign saying 비상구 means",
   "options": [
-   "emergency exit",
-   "staff room",
    "fire alarm",
-   "first aid kit"
+   "first aid kit",
+   "emergency exit",
+   "staff room"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "소화기 is fire extinguisher.",
   "difficulty": 1
  },
@@ -186,12 +186,12 @@
   "topic": "Workplace",
   "body": "A sign saying 금연 means",
   "options": [
-   "no smoking",
-   "no parking",
    "no photos",
-   "no entry"
+   "no entry",
+   "no smoking",
+   "no parking"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "출입 금지 is no entry; 주차 금지 is no parking.",
   "difficulty": 1
  },
@@ -200,12 +200,12 @@
   "topic": "Workplace",
   "body": "What does 월급 mean?",
   "options": [
-   "monthly salary",
    "holiday",
-   "overtime",
-   "contract"
+   "monthly salary",
+   "contract",
+   "overtime"
   ],
-  "answer": 0,
+  "answer": 1,
   "explanation": "휴가 holiday, 야근 overtime, 계약 contract.",
   "difficulty": 1
  },
@@ -215,11 +215,11 @@
   "body": "What does 출근하다 mean?",
   "options": [
    "to leave work",
+   "to take a rest",
    "to go to work",
-   "to quit a job",
-   "to take a rest"
+   "to quit a job"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "퇴근하다 is to leave work.",
   "difficulty": 1
  },
@@ -228,9 +228,9 @@
   "topic": "Workplace",
   "body": "What does 퇴근하다 mean?",
   "options": [
-   "to work overtime",
    "to change jobs",
    "to go to work",
+   "to work overtime",
    "to leave work"
   ],
   "answer": 3,
@@ -242,12 +242,12 @@
   "topic": "Workplace",
   "body": "What does 조심하세요 mean?",
   "options": [
+   "hurry up",
    "well done",
    "be careful",
-   "hurry up",
    "see you"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "Often heard near machines and vehicles.",
   "difficulty": 1
  },
@@ -256,9 +256,9 @@
   "topic": "Numbers",
   "body": "What number is 오 (Sino-Korean)?",
   "options": [
-   "6",
-   "4",
    "9",
+   "4",
+   "6",
    "5"
   ],
   "answer": 3,
@@ -270,12 +270,12 @@
   "topic": "Numbers",
   "body": "하나, 둘, 셋 are",
   "options": [
-   "native Korean numbers",
    "days of the week",
+   "units of money",
    "Sino-Korean numbers",
-   "units of money"
+   "native Korean numbers"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "Native numbers are used for counting things and hours.",
   "difficulty": 1
  },
@@ -285,11 +285,11 @@
   "body": "The particle 을/를 marks",
   "options": [
    "the subject",
-   "the object",
    "the topic",
+   "the object",
    "a destination"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "밥을 먹어요 — I eat a meal.",
   "difficulty": 1
  },
@@ -313,11 +313,11 @@
   "body": "In 공장에서 일해요, 에서 means",
   "options": [
    "from (a person)",
-   "with (a friend)",
    "at (place of an action)",
+   "with (a friend)",
    "to (a destination)"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "에 marks a destination or location of existence.",
   "difficulty": 1
  },
@@ -326,12 +326,12 @@
   "topic": "Grammar",
   "body": "What is the past tense of 먹어요 (eat)?",
   "options": [
+   "먹지 마세요",
    "먹었어요",
-   "먹을 거예요",
    "먹고 있어요",
-   "먹지 마세요"
+   "먹을 거예요"
   ],
-  "answer": 0,
+  "answer": 1,
   "explanation": "먹을 거예요 is future; 먹고 있어요 is 'is eating'.",
   "difficulty": 1
  },
@@ -340,12 +340,12 @@
   "topic": "Grammar",
   "body": "~지 마세요 means",
   "options": [
-   "please don't …",
    "I want to …",
-   "let's …",
-   "please do …"
+   "please do …",
+   "please don't …",
+   "let's …"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "만지지 마세요 — Please don't touch.",
   "difficulty": 1
  },
@@ -354,12 +354,12 @@
   "topic": "Grammar",
   "body": "What does 앉으세요 mean?",
   "options": [
-   "please sit down",
    "please wait",
-   "please come in",
-   "please stand up"
+   "please stand up",
+   "please sit down",
+   "please come in"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "일어나세요 is stand up; 기다리세요 is wait.",
   "difficulty": 1
  },
@@ -369,8 +369,8 @@
   "body": "What does 어디에 가요? mean?",
   "options": [
    "Where are you going?",
-   "Why are you going?",
    "Who is going?",
+   "Why are you going?",
    "When are you going?"
   ],
   "answer": 0,
@@ -383,11 +383,11 @@
   "body": "What does 얼마예요? mean?",
   "options": [
    "How many people?",
-   "How old are you?",
+   "How much is it?",
    "What time is it?",
-   "How much is it?"
+   "How old are you?"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "몇 시예요? is 'what time is it?'.",
   "difficulty": 1
  },
@@ -396,12 +396,12 @@
   "topic": "Health",
   "body": "What does 아파요 mean?",
   "options": [
-   "it hurts",
    "I'm busy",
+   "it hurts",
    "I'm hungry",
    "I'm tired"
   ],
-  "answer": 0,
+  "answer": 1,
   "explanation": "배고파요 hungry, 피곤해요 tired, 바빠요 busy.",
   "difficulty": 1
  },
@@ -411,9 +411,9 @@
   "body": "EPS-TOPIK is the Korean test for",
   "options": [
    "E-9 work visas in Korea",
-   "Korean citizenship",
    "Korean university entry",
-   "D-2 student visas"
+   "D-2 student visas",
+   "Korean citizenship"
   ],
   "answer": 0,
   "explanation": "Run by HRD Korea for the Employment Permit System.",
@@ -424,13 +424,229 @@
   "topic": "EPS facts",
   "body": "EPS-TOPIK questions are",
   "options": [
-   "a practical skills test only",
    "essays only",
    "reading and listening MCQs",
-   "a speaking interview only"
+   "a speaking interview only",
+   "a practical skills test only"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "There's no writing section. Some countries also hold a separate skills test.",
   "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Listening",
+  "body": "🎧 Listen. What does the speaker order?",
+  "options": [
+   "two coffees",
+   "one coffee",
+   "one water",
+   "one tea"
+  ],
+  "answer": 1,
+  "explanation": "커피 한 잔 — one cup of coffee.",
+  "difficulty": 1,
+  "audio": {
+   "text": "커피 한 잔 주세요.",
+   "lang": "ko-KR"
+  }
+ },
+ {
+  "subject": "KOR",
+  "topic": "Listening",
+  "body": "🎧 Listen. What time is it?",
+  "options": [
+   "4:30",
+   "3:30",
+   "2:30",
+   "3:00"
+  ],
+  "answer": 1,
+  "explanation": "세 시 3 o'clock; 삼십 분 30 minutes.",
+  "difficulty": 1,
+  "audio": {
+   "text": "지금 세 시 삼십 분이에요.",
+   "lang": "ko-KR"
+  }
+ },
+ {
+  "subject": "KOR",
+  "topic": "Listening",
+  "body": "🎧 Listen. How much is the bag?",
+  "options": [
+   "15,000 won",
+   "50,000 won",
+   "5,000 won",
+   "10,500 won"
+  ],
+  "answer": 0,
+  "explanation": "만 오천 원 — 15,000 won.",
+  "difficulty": 1,
+  "audio": {
+   "text": "이 가방은 만 오천 원이에요.",
+   "lang": "ko-KR"
+  }
+ },
+ {
+  "subject": "KOR",
+  "topic": "Listening",
+  "body": "🎧 Listen. When should the listener come to the factory?",
+  "options": [
+   "by 8 this morning",
+   "by 9 tomorrow morning",
+   "by 8 tomorrow morning",
+   "by 8 tonight"
+  ],
+  "answer": 2,
+  "explanation": "내일 아침 tomorrow morning; 여덟 시까지 by 8 o'clock.",
+  "difficulty": 1,
+  "audio": {
+   "text": "내일 아침 여덟 시까지 공장에 오세요.",
+   "lang": "ko-KR"
+  }
+ },
+ {
+  "subject": "KOR",
+  "topic": "Listening",
+  "body": "🎧 Listen. What is the speaker saying?",
+  "options": [
+   "cigarettes are sold here",
+   "you can smoke here",
+   "take a break here",
+   "smoking isn't allowed here"
+  ],
+  "answer": 3,
+  "explanation": "피우면 안 돼요 — you must not smoke.",
+  "difficulty": 1,
+  "audio": {
+   "text": "여기에서 담배를 피우면 안 돼요.",
+   "lang": "ko-KR"
+  }
+ },
+ {
+  "subject": "KOR",
+  "topic": "Listening",
+  "body": "🎧 Listen. What must the listener do?",
+  "options": [
+   "buy a new helmet",
+   "take off the helmet",
+   "always wear gloves",
+   "always wear a helmet"
+  ],
+  "answer": 3,
+  "explanation": "안전모 — safety helmet; 꼭 — be sure to.",
+  "difficulty": 1,
+  "audio": {
+   "text": "안전모를 꼭 쓰세요.",
+   "lang": "ko-KR"
+  }
+ },
+ {
+  "subject": "KOR",
+  "topic": "Listening",
+  "body": "🎧 Listen. What is the speaker asking?",
+  "options": [
+   "where the exit is",
+   "where the office is",
+   "where the toilet is",
+   "when lunch is"
+  ],
+  "answer": 2,
+  "explanation": "화장실 — toilet.",
+  "difficulty": 1,
+  "audio": {
+   "text": "화장실이 어디에 있어요?",
+   "lang": "ko-KR"
+  }
+ },
+ {
+  "subject": "KOR",
+  "topic": "Listening",
+  "body": "🎧 Listen. Where is the speaker from?",
+  "options": [
+   "Nepal",
+   "Sri Lanka",
+   "Vietnam",
+   "Cambodia"
+  ],
+  "answer": 0,
+  "explanation": "네팔에서 왔어요 — I came from Nepal.",
+  "difficulty": 1,
+  "audio": {
+   "text": "저는 네팔에서 왔어요.",
+   "lang": "ko-KR"
+  }
+ },
+ {
+  "subject": "KOR",
+  "topic": "Listening",
+  "body": "🎧 Listen. What will the speaker do today?",
+  "options": [
+   "start a new job",
+   "take a day off",
+   "leave work early",
+   "work overtime"
+  ],
+  "answer": 3,
+  "explanation": "야근 — overtime (night work).",
+  "difficulty": 1,
+  "audio": {
+   "text": "오늘은 일이 많아서 야근해요.",
+   "lang": "ko-KR"
+  }
+ },
+ {
+  "subject": "KOR",
+  "topic": "Listening",
+  "body": "🎧 Listen. Why is the speaker going to hospital?",
+  "options": [
+   "a cut hand",
+   "a headache",
+   "a stomach ache",
+   "a check-up"
+  ],
+  "answer": 2,
+  "explanation": "배가 아파서 — because my stomach hurts.",
+  "difficulty": 1,
+  "audio": {
+   "text": "배가 아파서 병원에 가요.",
+   "lang": "ko-KR"
+  }
+ },
+ {
+  "subject": "KOR",
+  "topic": "Listening",
+  "body": "🎧 Listen. When is the salary paid?",
+  "options": [
+   "on the 11th of each month",
+   "on the 10th of each month",
+   "every 10 days",
+   "on the 1st of each month"
+  ],
+  "answer": 1,
+  "explanation": "매달 every month; 10일 the 10th.",
+  "difficulty": 1,
+  "audio": {
+   "text": "월급은 매달 10일에 받아요.",
+   "lang": "ko-KR"
+  }
+ },
+ {
+  "subject": "KOR",
+  "topic": "Listening",
+  "body": "🎧 Listen. What is the speaker warning about?",
+  "options": [
+   "don't touch this machine",
+   "please use this machine",
+   "turn on this machine",
+   "clean this machine now"
+  ],
+  "answer": 0,
+  "explanation": "만지지 마세요 — please don't touch.",
+  "difficulty": 1,
+  "audio": {
+   "text": "이 기계는 위험하니까 만지지 마세요.",
+   "lang": "ko-KR"
+  }
  }
 ]

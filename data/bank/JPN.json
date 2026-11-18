@@ -4,10 +4,10 @@
   "topic": "Greetings",
   "body": "What does こんにちは mean?",
   "options": [
-   "good night",
+   "thank you",
    "goodbye",
    "hello",
-   "thank you"
+   "good night"
   ],
   "answer": 2,
   "explanation": "Used in the daytime. おはようございます is good morning.",
@@ -19,11 +19,11 @@
   "body": "What does ありがとうございます mean?",
   "options": [
    "excuse me",
-   "thank you",
    "nice to meet you",
-   "you're welcome"
+   "you're welcome",
+   "thank you"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "A polite way to say thank you.",
   "difficulty": 1
  },
@@ -32,12 +32,12 @@
   "topic": "Greetings",
   "body": "すみません is often used to say",
   "options": [
-   "I'm home",
-   "excuse me",
    "goodbye",
-   "congratulations"
+   "congratulations",
+   "I'm home",
+   "excuse me"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "It also means 'sorry' and is used to get attention.",
   "difficulty": 1
  },
@@ -46,12 +46,12 @@
   "topic": "Greetings",
   "body": "お願いします is used to mean",
   "options": [
-   "welcome",
    "cheers",
+   "please",
    "sorry",
-   "please"
+   "welcome"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "コーヒーをお願いします — Coffee, please.",
   "difficulty": 1
  },
@@ -60,10 +60,10 @@
   "topic": "Scripts",
   "body": "Which hiragana is 'ka'?",
   "options": [
-   "き",
+   "さ",
    "か",
-   "た",
-   "さ"
+   "き",
+   "た"
   ],
   "answer": 1,
   "explanation": "さ is sa, た is ta, き is ki.",
@@ -74,8 +74,8 @@
   "topic": "Scripts",
   "body": "Which katakana is 'ko'?",
   "options": [
-   "ニ",
    "ロ",
+   "ニ",
    "ユ",
    "コ"
   ],
@@ -88,12 +88,12 @@
   "topic": "Scripts",
   "body": "Which script is mainly used for foreign loanwords such as コーヒー (coffee)?",
   "options": [
-   "rōmaji",
-   "kanji",
+   "katakana",
    "hiragana",
-   "katakana"
+   "rōmaji",
+   "kanji"
   ],
-  "answer": 3,
+  "answer": 0,
   "explanation": "Hiragana is for grammar endings and native words.",
   "difficulty": 1
  },
@@ -102,12 +102,12 @@
   "topic": "Kanji",
   "body": "How is 山 (mountain) read on its own?",
   "options": [
-   "うみ",
-   "かわ",
    "そら",
-   "やま"
+   "うみ",
+   "やま",
+   "かわ"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "かわ (川) river, そら (空) sky, うみ (海) sea.",
   "difficulty": 1
  },
@@ -116,12 +116,12 @@
   "topic": "Kanji",
   "body": "What does 水 mean?",
   "options": [
-   "tree",
    "gold",
-   "fire",
-   "water"
+   "water",
+   "tree",
+   "fire"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "火 fire, 木 tree, 金 gold/money.",
   "difficulty": 1
  },
@@ -131,8 +131,8 @@
   "body": "What does 駅 (えき) mean?",
   "options": [
    "station",
-   "hospital",
    "bank",
+   "hospital",
    "school"
   ],
   "answer": 0,
@@ -144,12 +144,12 @@
   "topic": "Kanji",
   "body": "What does 右 (みぎ) mean?",
   "options": [
+   "middle",
    "left",
-   "right",
    "up",
-   "middle"
+   "right"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "左 (ひだり) is left.",
   "difficulty": 1
  },
@@ -158,12 +158,12 @@
   "topic": "Kanji",
   "body": "What does 毎日 (まいにち) mean?",
   "options": [
-   "every week",
    "every day",
-   "yesterday",
-   "sometimes"
+   "every week",
+   "sometimes",
+   "yesterday"
   ],
-  "answer": 1,
+  "answer": 0,
   "explanation": "毎週 is every week; 昨日 is yesterday.",
   "difficulty": 1
  },
@@ -172,12 +172,12 @@
   "topic": "Particles",
   "body": "Which particle marks the topic of a sentence?",
   "options": [
-   "に",
-   "を",
    "は",
-   "で"
+   "で",
+   "に",
+   "を"
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "Written は but pronounced 'wa' as a particle.",
   "difficulty": 1
  },
@@ -200,12 +200,12 @@
   "topic": "Grammar",
   "body": "What does わたしは がくせいです mean?",
   "options": [
-   "Are you a student?",
-   "I was a student.",
+   "I am a student.",
    "I'm not a student.",
-   "I am a student."
+   "Are you a student?",
+   "I was a student."
   ],
-  "answer": 3,
+  "answer": 0,
   "explanation": "です is the polite 'to be'.",
   "difficulty": 1
  },
@@ -214,10 +214,10 @@
   "topic": "Grammar",
   "body": "What is the polite negative of がくせいです?",
   "options": [
-   "がくせいでしょう",
-   "がくせいじゃありません",
    "がくせいでした",
-   "がくせいですか"
+   "がくせいじゃありません",
+   "がくせいですか",
+   "がくせいでしょう"
   ],
   "answer": 1,
   "explanation": "でした is past; ですか makes a question.",
@@ -229,11 +229,11 @@
   "body": "What is the polite past of たべます (eat)?",
   "options": [
    "たべません",
-   "たべました",
+   "たべましょう",
    "たべています",
-   "たべましょう"
+   "たべました"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "～ません is negative; ～ましょう is 'let's'.",
   "difficulty": 1
  },
@@ -242,12 +242,12 @@
   "topic": "Grammar",
   "body": "～ましょう means",
   "options": [
-   "please don't …",
-   "want to …",
    "must …",
-   "let's …"
+   "want to …",
+   "let's …",
+   "please don't …"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "いきましょう — Let's go.",
   "difficulty": 1
  },
@@ -256,12 +256,12 @@
   "topic": "Grammar",
   "body": "～てください means",
   "options": [
-   "please do …",
    "I did …",
    "I want to …",
+   "please do …",
    "let's not …"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "まってください — Please wait.",
   "difficulty": 1
  },
@@ -270,12 +270,12 @@
   "topic": "Grammar",
   "body": "～たい after a verb stem means",
   "options": [
-   "can …",
-   "used to …",
    "want to …",
-   "have to …"
+   "used to …",
+   "have to …",
+   "can …"
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "たべたい — I want to eat.",
   "difficulty": 1
  },
@@ -285,11 +285,11 @@
   "body": "What is the て-form of のむ (drink)?",
   "options": [
    "のいで",
-   "のんで",
    "のって",
-   "のみて"
+   "のみて",
+   "のんで"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "Verbs ending in む, ぶ, ぬ change to んで.",
   "difficulty": 1
  },
@@ -298,12 +298,12 @@
   "topic": "Grammar",
   "body": "What is the た-form of いく (go)?",
   "options": [
-   "いった",
-   "いちた",
    "いいた",
-   "いきた"
+   "いきた",
+   "いった",
+   "いちた"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "いく is irregular: いって, いった.",
   "difficulty": 1
  },
@@ -312,12 +312,12 @@
   "topic": "Grammar",
   "body": "います (not あります) is used for",
   "options": [
-   "dates and times",
+   "people and animals",
    "plants and objects",
-   "places only",
-   "people and animals"
+   "dates and times",
+   "places only"
   ],
-  "answer": 3,
+  "answer": 0,
   "explanation": "あります is for things and plants.",
   "difficulty": 1
  },
@@ -327,8 +327,8 @@
   "body": "In あめだから, から means",
   "options": [
    "because",
-   "although",
    "if",
+   "although",
    "until"
   ],
   "answer": 0,
@@ -341,8 +341,8 @@
   "body": "What does いくらですか mean?",
   "options": [
    "How much is it?",
-   "Who is it?",
    "Where is it?",
+   "Who is it?",
    "What time is it?"
   ],
   "answer": 0,
@@ -354,12 +354,12 @@
   "topic": "Questions",
   "body": "What does 何時 (なんじ) ask about?",
   "options": [
-   "how many people",
-   "how long",
    "which day",
-   "the time"
+   "how many people",
+   "the time",
+   "how long"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "なんにん is how many people; なんようび is which day.",
   "difficulty": 1
  },
@@ -368,12 +368,12 @@
   "topic": "Counters",
   "body": "Which counter is used for flat things such as tickets and paper?",
   "options": [
+   "ひき (匹)",
    "まい (枚)",
    "だい (台)",
-   "ひき (匹)",
    "ほん (本)"
   ],
-  "answer": 0,
+  "answer": 1,
   "explanation": "本 for long thin things; 匹 for small animals; 台 for machines.",
   "difficulty": 1
  },
@@ -382,12 +382,12 @@
   "topic": "Counters",
   "body": "Which counter is used for long, thin things such as pens and bottles?",
   "options": [
-   "まい (枚)",
-   "ほん (本)",
    "こ (個)",
-   "さつ (冊)"
+   "まい (枚)",
+   "さつ (冊)",
+   "ほん (本)"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "冊 is for books; 個 for small objects.",
   "difficulty": 1
  },
@@ -396,12 +396,12 @@
   "topic": "Life in Japan",
   "body": "Where do you normally take your shoes off before going in?",
   "options": [
-   "a train",
-   "a supermarket",
    "a post office",
-   "a Japanese home"
+   "a supermarket",
+   "a Japanese home",
+   "a train"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "Leave shoes in the genkan (entrance).",
   "difficulty": 1
  },
@@ -410,10 +410,10 @@
   "topic": "JLPT facts",
   "body": "Which JLPT level is the hardest?",
   "options": [
-   "N5",
    "N4",
+   "N3",
    "N1",
-   "N3"
+   "N5"
   ],
   "answer": 2,
   "explanation": "N5 is the easiest; N1 the most advanced.",
@@ -438,13 +438,229 @@
   "topic": "Vocabulary",
   "body": "What does しごと (仕事) mean?",
   "options": [
-   "work / job",
    "school",
-   "holiday",
-   "money"
+   "work / job",
+   "money",
+   "holiday"
   ],
-  "answer": 0,
+  "answer": 1,
   "explanation": "やすみ (休み) is holiday or day off.",
   "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Listening",
+  "body": "🎧 Listen. What does the speaker order?",
+  "options": [
+   "two coffees",
+   "one tea",
+   "one juice",
+   "one coffee"
+  ],
+  "answer": 3,
+  "explanation": "コーヒーをひとつ — one coffee, please.",
+  "difficulty": 1,
+  "audio": {
+   "text": "コーヒーをひとつおねがいします。",
+   "lang": "ja-JP"
+  }
+ },
+ {
+  "subject": "JPN",
+  "topic": "Listening",
+  "body": "🎧 Listen. What time is it?",
+  "options": [
+   "7:30",
+   "4:30",
+   "9:30",
+   "9:00"
+  ],
+  "answer": 2,
+  "explanation": "くじはん (九時半) — half past nine.",
+  "difficulty": 1,
+  "audio": {
+   "text": "いま、くじはんです。",
+   "lang": "ja-JP"
+  }
+ },
+ {
+  "subject": "JPN",
+  "topic": "Listening",
+  "body": "🎧 Listen. How much is the bag?",
+  "options": [
+   "8,000 yen",
+   "300 yen",
+   "3,000 yen",
+   "30,000 yen"
+  ],
+  "answer": 2,
+  "explanation": "三千円 (さんぜんえん) — 3,000 yen.",
+  "difficulty": 1,
+  "audio": {
+   "text": "このかばんは三千円です。",
+   "lang": "ja-JP"
+  }
+ },
+ {
+  "subject": "JPN",
+  "topic": "Listening",
+  "body": "🎧 Listen. What will the speaker do tomorrow?",
+  "options": [
+   "go shopping with a friend",
+   "watch a film alone",
+   "watch a film with a friend",
+   "study with a friend"
+  ],
+  "answer": 2,
+  "explanation": "ともだちと — with a friend; えいがをみます — watch a film.",
+  "difficulty": 1,
+  "audio": {
+   "text": "あした、ともだちとえいがをみます。",
+   "lang": "ja-JP"
+  }
+ },
+ {
+  "subject": "JPN",
+  "topic": "Listening",
+  "body": "🎧 Listen. What is the speaker asking?",
+  "options": [
+   "how much a ticket is",
+   "when the train leaves",
+   "which platform to use",
+   "where the station is"
+  ],
+  "answer": 3,
+  "explanation": "えきはどこですか — Where is the station?",
+  "difficulty": 1,
+  "audio": {
+   "text": "すみません、えきはどこですか。",
+   "lang": "ja-JP"
+  }
+ },
+ {
+  "subject": "JPN",
+  "topic": "Listening",
+  "body": "🎧 Listen. What does the speaker eat every morning?",
+  "options": [
+   "fruit",
+   "bread",
+   "rice",
+   "eggs"
+  ],
+  "answer": 1,
+  "explanation": "まいあさパン — bread every morning.",
+  "difficulty": 1,
+  "audio": {
+   "text": "わたしはまいあさパンをたべます。",
+   "lang": "ja-JP"
+  }
+ },
+ {
+  "subject": "JPN",
+  "topic": "Listening",
+  "body": "🎧 Listen. Why is the speaker taking an umbrella?",
+  "options": [
+   "it's sunny today",
+   "it's a gift",
+   "it's raining today",
+   "a friend asked"
+  ],
+  "answer": 2,
+  "explanation": "あめですから — because it's raining.",
+  "difficulty": 1,
+  "audio": {
+   "text": "きょうはあめですから、かさをもっていきます。",
+   "lang": "ja-JP"
+  }
+ },
+ {
+  "subject": "JPN",
+  "topic": "Listening",
+  "body": "🎧 Listen. What does the speaker ask for?",
+  "options": [
+   "to say goodbye",
+   "to say sorry",
+   "to go home now",
+   "to hear it again"
+  ],
+  "answer": 3,
+  "explanation": "もういちど — one more time.",
+  "difficulty": 1,
+  "audio": {
+   "text": "すみません、もういちどいってください。",
+   "lang": "ja-JP"
+  }
+ },
+ {
+  "subject": "JPN",
+  "topic": "Listening",
+  "body": "🎧 Listen. What is the speaker saying?",
+  "options": [
+   "enter only with a helmet",
+   "please come in; it's safe",
+   "don't enter; it's dangerous",
+   "wait here for a moment"
+  ],
+  "answer": 2,
+  "explanation": "あぶない — dangerous; はいらないでください — please don't enter.",
+  "difficulty": 1,
+  "audio": {
+   "text": "あぶないですから、ここにはいらないでください。",
+   "lang": "ja-JP"
+  }
+ },
+ {
+  "subject": "JPN",
+  "topic": "Listening",
+  "body": "🎧 Listen. What are the working hours?",
+  "options": [
+   "8 a.m. to 5 p.m.",
+   "9 a.m. to 5 p.m.",
+   "8 p.m. to 5 a.m.",
+   "8 a.m. to 4 p.m."
+  ],
+  "answer": 0,
+  "explanation": "ごぜん a.m.; ごご p.m.; から…まで from… to.",
+  "difficulty": 1,
+  "audio": {
+   "text": "しごとはごぜん八時からごご五時までです。",
+   "lang": "ja-JP"
+  }
+ },
+ {
+  "subject": "JPN",
+  "topic": "Listening",
+  "body": "🎧 Listen. Where is the speaker from?",
+  "options": [
+   "the Philippines",
+   "Nepal",
+   "Indonesia",
+   "Vietnam"
+  ],
+  "answer": 3,
+  "explanation": "ベトナムからきました — I came from Vietnam.",
+  "difficulty": 1,
+  "audio": {
+   "text": "わたしはベトナムからきました。",
+   "lang": "ja-JP"
+  }
+ },
+ {
+  "subject": "JPN",
+  "topic": "Listening",
+  "body": "🎧 Listen. What's wrong with the speaker?",
+  "options": [
+   "a sore throat",
+   "a headache",
+   "a stomach ache",
+   "a toothache"
+  ],
+  "answer": 1,
+  "explanation": "あたま head; いたい hurts.",
+  "difficulty": 1,
+  "audio": {
+   "text": "あたまがいたいです。",
+   "lang": "ja-JP"
+  }
  }
 ]

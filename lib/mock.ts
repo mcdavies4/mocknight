@@ -1,3 +1,4 @@
+import { audioOf } from "./types";
 import { localiseQuestion, nigeriaOnlyFor } from "./localise";
 import { db, must } from "./supabase";
 import { isPremium } from "./students";
@@ -22,6 +23,7 @@ export interface PublicQuestion {
   subject: string;
   body: string;
   options: string[];
+  audio?: { text: string; lang: string } | null;
 }
 
 export interface ReviewQuestion extends PublicQuestion {
@@ -317,7 +319,7 @@ async function buildPayload(mock: Mock, attempt: MockAttempt): Promise<MockPaylo
     deadline: attempt.deadline,
     serverNow: new Date().toISOString(),
     subjects: attempt.subjects.map((code) => ({ code, name: subjectName(code) })),
-    questions: qs.map((q) => ({ id: q.id, subject: q.subject_code, body: q.body, options: q.options })),
+    questions: qs.map((q) => ({ id: q.id, subject: q.subject_code, body: q.body, options: q.options, audio: audioOf(q) })),
     answers: attempt.answers ?? {},
   };
   if (attempt.submitted_at) payload.result = gradeQuestions(qs, attempt.subjects, attempt.answers ?? {}, cfg);
@@ -376,6 +378,7 @@ function gradeQuestions(
       subject: q.subject_code,
       body: q.body,
       options: q.options,
+      audio: audioOf(q),
       answer: q.answer_index,
       chosen,
       explanation: q.explanation,
