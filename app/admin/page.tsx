@@ -198,7 +198,7 @@ export default function AdminPage() {
   if (error === "UNAUTHORIZED") return (
     <main className="wrap" style={{ maxWidth: 560 }}><div className="card" style={{ marginTop: 40 }}>
       <h1>Stats</h1><p>Sign in with your founder account first, then come back to this page.</p>
-      <Link className="btn" href="/app">Sign in</Link>
+      <Link className="btn" href="/app?next=/admin">Sign in</Link>
     </div></main>
   );
   if (error === "FORBIDDEN") return (

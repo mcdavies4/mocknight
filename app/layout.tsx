@@ -5,6 +5,7 @@ import "./globals.css";
 import { SiteFooter, SiteHeader, StatsBar } from "@/components/site-chrome";
 import { getSiteStats, plus } from "@/lib/stats";
 import { PwaRegister } from "@/components/pwa";
+import { AuthBridge } from "@/components/auth-bridge";
 import { SITE_URL } from "@/lib/site";
 
 const GTM_ID = "GTM-NZNH49C5";
@@ -55,6 +56,10 @@ export default async function RootLayout({ children }: { children: React.ReactNo
         </noscript>
         <StatsBar parts={statsParts} />
         <SiteHeader bot={(process.env.TELEGRAM_BOT_USERNAME ?? "").replace(/^@/, "")} />
+        <AuthBridge
+          url={(process.env.NEXT_PUBLIC_SUPABASE_URL || process.env.SUPABASE_URL || "").trim()}
+          anonKey={(process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || process.env.SUPABASE_ANON_KEY || "").trim()}
+        />
         {children}
         <SiteFooter />
         <PwaRegister />

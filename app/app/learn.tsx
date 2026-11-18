@@ -101,8 +101,23 @@ export default function Learn({ sbUrl, sbKey }: { sbUrl: string; sbKey: string }
     return () => sub.subscription.unsubscribe();
   }, []);
 
+  // Remember where to go after sign-in (e.g. /admin), so the magic link brings you back there.
   useEffect(() => {
-    if (session === "in") load();
+    const next = params.get("next");
+    if (next && next.startsWith("/") && !next.startsWith("//")) {
+      try { localStorage.setItem("mn_next", next); } catch {}
+    }
+  }, [params]);
+
+  useEffect(() => {
+    if (session !== "in") return;
+    let next: string | null = null;
+    try { next = localStorage.getItem("mn_next"); localStorage.removeItem("mn_next"); } catch {}
+    if (next && next.startsWith("/") && !next.startsWith("//") && next !== "/app") {
+      window.location.replace(next);
+      return;
+    }
+    load();
   }, [session, load]);
 
   if (!ready)

@@ -6,7 +6,7 @@ let cfg: { url: string; key: string } | null = null;
 
 /** Called once by the /app page with values read on the server at request time (no rebuild needed). */
 export function configureBrowserDb(url: string, key: string) {
-  if (!cfg) cfg = { url, key };
+  if (!cfg && url && key) cfg = { url, key };
 }
 
 export function browserDbReady() {
