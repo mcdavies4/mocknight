@@ -4,5 +4,5 @@ export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || "https://mocknight.
 /** Hand-built landing pages (everything else lives at /exam/CODE). */
 export const STATIC_PAGES = [
   "/", "/exams", "/technology", "/life-in-the-uk", "/fire-marshal", "/nmc-cbt", "/plab", "/nclex",
-  "/project-management", "/ethiopia", "/ssc", "/digital-sat", "/blog", "/privacy", "/practice",
+  "/project-management", "/ethiopia", "/ssc", "/digital-sat", "/blog", "/privacy", "/delete-account", "/practice",
 ];
