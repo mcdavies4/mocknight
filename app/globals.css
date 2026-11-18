@@ -263,3 +263,20 @@ a.btn:hover { filter: brightness(1.06); }
 .search-actions .btn { min-height: 38px; padding: 8px 14px; }
 .site-search-link { font-size: 18px; text-decoration: none; }
 @media (max-width: 720px) { .site-link.site-search-link { display: inline-flex; padding: 8px; } }
+
+/* Admin stats dashboard */
+.adm-tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 12px; margin-top: 16px; }
+.adm-tile .adm-big { font-size: 26px; font-weight: 800; color: var(--mn-forest); margin: 4px 0; line-height: 1.15; }
+.adm-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(420px, 1fr)); gap: 12px; margin-top: 12px; }
+@media (max-width: 520px) { .adm-grid { grid-template-columns: 1fr; } }
+.adm-chart svg { display: block; margin-top: 8px; overflow: visible; }
+.adm-legend { display: flex; gap: 14px; font-size: 13px; margin-top: 6px; }
+.adm-legend i, .adm-tip i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+.adm-tip { position: absolute; top: 0; transform: translateX(-50%); background: #fff; border: 1px solid rgba(0,0,0,.12); border-radius: 8px; padding: 6px 10px; font-size: 12px; pointer-events: none; box-shadow: 0 6px 16px rgba(0,0,0,.08); white-space: nowrap; }
+.adm-range { display: flex; gap: 6px; flex-wrap: wrap; }
+.adm-range .btn { min-height: 36px; padding: 6px 12px; }
+.adm-table table { width: 100%; border-collapse: collapse; margin-top: 8px; font-size: 14px; }
+.adm-table th { font-weight: 600; color: #6b7280; font-size: 12px; padding: 6px 4px; border-bottom: 1px solid rgba(0,0,0,.08); }
+.adm-table td { padding: 6px 4px; border-bottom: 1px solid rgba(0,0,0,.05); font-variant-numeric: tabular-nums; }
+.adm-list { list-style: none; padding: 0; margin: 10px 0 0; }
+.adm-list li { display: flex; justify-content: space-between; gap: 12px; padding: 7px 0; border-bottom: 1px solid rgba(0,0,0,.05); font-size: 14px; }
