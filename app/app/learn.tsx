@@ -48,6 +48,19 @@ interface Summary { correct: number; total: number; pct: number; streak: number;
 
 let wentToDrill = false;
 
+// Inside the Google Play app (TWA) we don't sell anything: Play requires its own billing for in-app digital purchases.
+function usePlayApp() {
+  const [inPlayApp, setInPlayApp] = useState(false);
+  useEffect(() => {
+    try {
+      const fromApp = new URLSearchParams(location.search).get("source") === "android" || document.referrer.startsWith("android-app://online.mocknight.app");
+      if (fromApp) sessionStorage.setItem("mn-play-app", "1");
+      setInPlayApp(fromApp || sessionStorage.getItem("mn-play-app") === "1");
+    } catch { /* storage blocked */ }
+  }, []);
+  return inPlayApp;
+}
+
 export default function Learn({ sbUrl, sbKey }: { sbUrl: string; sbKey: string }) {
   configureBrowserDb(sbUrl, sbKey);
   const ready = browserDbReady();
@@ -261,6 +274,7 @@ function Onboard({ me, preTrack, onDone, onCancel }: { me: Me; preTrack: string 
 
 // ---------------------------------------------------------------------------
 function Home({ me, reload, onDrill, onSettings, onLesson }: { me: Me; reload: () => void; onDrill: () => void; onSettings: () => void; onLesson: (id: string) => void }) {
+  const inPlayApp = usePlayApp();
   const t = me.track!;
   const p = me.progress;
   const [paying, setPaying] = useState("");
@@ -358,7 +372,7 @@ function Home({ me, reload, onDrill, onSettings, onLesson }: { me: Me; reload: (
         </div>
       )}
 
-      {(me.access === "free" || me.access === "trial") && me.plans.length > 0 && (
+      {!inPlayApp && (me.access === "free" || me.access === "trial") && me.plans.length > 0 && (
         <div className="card">
           <b>{me.access === "trial" ? "⭐ Keep full access after your trial" : "⭐ Unlock full access"}</b>
           <p className="muted small" style={{ margin: "4px 0 10px" }}>Unlimited practice tests (free: 1 a week) and 20 daily questions (free: 10).</p>

@@ -78,6 +78,7 @@ export function SiteFooter() {
         </div>
         <nav className="site-footer-links" aria-label="Footer">
           <Link href="/exams">All exams</Link>
+          <Link href="/practice">Free practice questions</Link>
           <Link href="/blog">Blog</Link>
           <Link href="/app">Web app</Link>
           <Link href="/privacy">Privacy</Link>

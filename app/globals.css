@@ -238,3 +238,13 @@ a.btn:hover { filter: brightness(1.06); }
 .stat span { display: block; font-size: 13px; color: #4b6457; margin-top: 4px; }
 @media (max-width: 720px) { .stat-row { grid-template-columns: repeat(2, 1fr); } .stat b { font-size: 22px; } .stats-bar { font-size: 12px; } }
 @media (max-width: 520px) { .stats-extra { display: none; } }
+
+/* Practice question pages */
+.practice-links { display: flex; flex-wrap: wrap; gap: 8px; }
+.practice-links .chip { display: inline-block; padding: 6px 12px; border-radius: 999px; background: var(--bg2); border: 1px solid rgba(47,107,79,.15); text-decoration: none; color: var(--mn-forest); font-size: 14px; }
+.practice-links .chip:hover { border-color: var(--mn-forest); }
+.practice-qs { list-style: none; padding: 0; }
+.practice-qs .q-body { white-space: pre-wrap; margin: 4px 0 8px; }
+.practice-qs .q-opts { list-style: none; padding: 0; margin: 0 0 8px; }
+.practice-qs .q-opts li { padding: 4px 0; }
+.practice-qs details summary { cursor: pointer; color: var(--mn-forest); font-weight: 600; }

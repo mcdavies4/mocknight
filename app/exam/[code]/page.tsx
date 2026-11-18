@@ -72,6 +72,7 @@ export default async function ExamPage({ params }: { params: Promise<{ code: str
 
       <p style={{ marginTop: 28 }}>
         <Link className="btn" href={`/app?track=${t.code}`}>Use the web app</Link>
+        <Link className="btn secondary" href={`/practice/${t.code.toLowerCase()}`} style={{ marginLeft: 8 }}>Free practice questions</Link>
         {bot && <> <a className="btn secondary" href={`https://t.me/${bot}`} style={{ marginLeft: 8 }}>Open Telegram</a></>}
       </p>
       <p className="muted small" style={{ marginTop: 32 }}>
