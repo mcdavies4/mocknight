@@ -21,20 +21,35 @@ export async function authRequest(req: Request, body: { initData?: unknown }): P
   return null;
 }
 
+type Meta = Record<string, unknown> | undefined;
+const str = (v: unknown) => (typeof v === "string" && v.trim() ? v.trim() : null);
+/** Google (and other OAuth providers) send the person's name in user_metadata. */
+const googleFull = (m: Meta) => str(m?.full_name) ?? str(m?.name);
+const googleFirst = (m: Meta) => str(m?.given_name) ?? googleFull(m)?.split(" ")[0] ?? null;
+
 async function webStudent(token: string): Promise<Student | null> {
   const { data, error } = await db().auth.getUser(token);
   if (error || !data.user) return null;
   const user = data.user;
 
   const { data: existing } = await db().from("students").select("*").eq("auth_user_id", user.id).maybeSingle();
-  if (existing) return existing as Student;
+  if (existing) {
+    const full = googleFull(user.user_metadata);
+    if (full && !existing.full_name) {
+      const first = googleFirst(user.user_metadata);
+      await db().from("students").update({ full_name: full, ...(first ? { first_name: first } : {}) }).eq("id", existing.id);
+      return { ...existing, full_name: full, first_name: first ?? existing.first_name } as Student;
+    }
+    return existing as Student;
+  }
 
   const { data: created, error: e } = await db()
     .from("students")
     .insert({
       auth_user_id: user.id,
       email: user.email ?? null,
-      first_name: (user.email ?? "").split("@")[0] || null,
+      first_name: googleFirst(user.user_metadata) ?? ((user.email ?? "").split("@")[0] || null),
+      full_name: googleFull(user.user_metadata),
       source: "web",
     })
     .select()

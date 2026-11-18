@@ -42,7 +42,7 @@ export function SiteHeader({ bot }: { bot: string }) {
           <Link href="/search" className="site-link site-search-link" aria-label="Search">🔍</Link>
           <Link href="/exams" className="site-link">Exams</Link>
           <Link href="/blog" className="site-link">Blog</Link>
-          <Link href="/app" className="site-link">Web app</Link>
+          <Link href="/app" className="site-link">Sign in</Link>
           {bot && (
             <a href={`https://t.me/${bot}`} className="site-cta" aria-label="Open Mock Night in Telegram">
               <svg className="site-cta-icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
@@ -81,7 +81,7 @@ export function SiteFooter() {
           <Link href="/exams">All exams</Link>
           <Link href="/practice">Free practice questions</Link>
           <Link href="/blog">Blog</Link>
-          <Link href="/app">Web app</Link>
+          <Link href="/app">Sign in</Link>
           <Link href="/privacy">Privacy</Link>
         </nav>
         <span className="muted small">A product of The 36th Solutions Ltd.</span>

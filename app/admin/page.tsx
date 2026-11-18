@@ -170,6 +170,83 @@ function Table({ title, head, rows }: { title: string; head: string[]; rows: (st
   );
 }
 
+
+interface UserRow {
+  id: string; name: string | null; email: string | null; telegram_username: string | null; has_telegram: boolean;
+  source: string | null; track: string | null; track_label: string | null; created_at: string; last_active: string | null;
+  answers: number; answers_7d: number; premium_until: string | null; paid: boolean;
+}
+
+const ago = (iso: string | null) => {
+  if (!iso) return "—";
+  const m = Math.round((Date.now() - new Date(iso).getTime()) / 60000);
+  if (m < 60) return `${Math.max(1, m)}m ago`;
+  if (m < 1440) return `${Math.round(m / 60)}h ago`;
+  return `${Math.round(m / 1440)}d ago`;
+};
+
+function Users() {
+  const [rows, setRows] = useState<UserRow[] | null>(null);
+  const [q, setQ] = useState("");
+  const [err, setErr] = useState<string | null>(null);
+  useEffect(() => {
+    api<{ users: UserRow[] }>("/api/admin/users").then((d) => setRows(d.users)).catch((e) => setErr((e as Error).message));
+  }, []);
+  const shown = useMemo(() => {
+    const t = q.trim().toLowerCase();
+    if (!rows) return [];
+    return t ? rows.filter((u) => [u.name, u.email, u.telegram_username, u.track_label, u.source].some((v) => (v ?? "").toLowerCase().includes(t))) : rows;
+  }, [rows, q]);
+  const status = (u: UserRow) => {
+    const until = u.premium_until ? new Date(u.premium_until) : null;
+    if (u.paid && until && until > new Date()) return "⭐ Paid";
+    if (until && until > new Date()) return "Trial";
+    return "Free";
+  };
+  const csv = () => {
+    const head = ["Name", "Email", "Telegram", "Exam", "Source", "Joined", "Last active", "Answers", "Answers 7d", "Status"];
+    const esc = (v: unknown) => `"${String(v ?? "").replace(/"/g, '""')}"`;
+    const lines = [head, ...shown.map((u) => [u.name, u.email, u.telegram_username ? `@${u.telegram_username}` : u.has_telegram ? "yes" : "", u.track_label, u.source, u.created_at, u.last_active ?? "", u.answers, u.answers_7d, status(u)])];
+    const blob = new Blob([lines.map((l) => l.map(esc).join(",")).join("\n")], { type: "text/csv" });
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = `mocknight-users-${new Date().toISOString().slice(0, 10)}.csv`;
+    a.click();
+  };
+  return (
+    <section className="card" style={{ marginTop: 12 }}>
+      <div className="row" style={{ justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: 8 }}>
+        <b>👥 Users {rows ? `(${fmt(shown.length)}${q ? ` of ${fmt(rows.length)}` : ""})` : ""}</b>
+        <div className="row" style={{ gap: 8 }}>
+          <input className="input" style={{ minWidth: 220, margin: 0 }} placeholder="Search name, email, exam…" value={q} onChange={(e) => setQ(e.target.value)} />
+          <button className="btn secondary" onClick={csv} disabled={!shown.length}>Download CSV</button>
+        </div>
+      </div>
+      {err ? <p className="muted small">Couldn&apos;t load users ({err}).</p> : !rows ? <p className="muted small">Loading…</p> : (
+        <div className="adm-scroll">
+          <table className="adm-users">
+            <thead><tr><th>Name</th><th>Email</th><th>Telegram</th><th>Exam</th><th>Joined</th><th>Last active</th><th>Answers (7d)</th><th>Status</th></tr></thead>
+            <tbody>
+              {shown.map((u) => (
+                <tr key={u.id}>
+                  <td>{u.name ?? "—"}</td>
+                  <td>{u.email ? <a href={`mailto:${u.email}`}>{u.email}</a> : "—"}</td>
+                  <td>{u.telegram_username ? <a href={`https://t.me/${u.telegram_username}`} target="_blank" rel="noreferrer">@{u.telegram_username}</a> : u.has_telegram ? "yes" : "—"}</td>
+                  <td>{u.track_label ?? "—"}</td>
+                  <td title={u.created_at}>{new Date(u.created_at).toLocaleDateString("en-GB", { day: "numeric", month: "short" })}{u.source ? <span className="muted small"> · {u.source}</span> : null}</td>
+                  <td title={u.last_active ?? ""}>{ago(u.last_active)}</td>
+                  <td>{fmt(u.answers)} ({fmt(u.answers_7d)})</td>
+                  <td>{status(u)}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+    </section>
+  );
+}
+
 export default function AdminPage() {
   const [days, setDays] = useState(30);
   const [data, setData] = useState<Data | null>(null);
@@ -261,6 +338,7 @@ export default function AdminPage() {
             <Table title="Revenue by currency" head={["Currency", "Today", "30 days", "All time"]} rows={Object.keys({ ...s.money.all }).map((c) => [c, s.money.today[c] ? cash(c, s.money.today[c].amount) : "—", s.money.d30[c] ? cash(c, s.money.d30[c].amount) : "—", cash(c, s.money.all[c].amount)])} />
             <Table title="Top plans (30 days)" head={["Plan", "Sales"]} rows={s.money.top_plans_30d.map((p) => [p.plan, p.n])} />
           </section>
+          <Users />
         </>
       )}
     </main>
