@@ -1,5 +1,6 @@
 import { PATHS } from "@/lib/exam-links";
 import Link from "next/link";
+import { SearchBox } from "@/components/search-box";
 import { TRACKS, type TrackCode } from "@/lib/tracks";
 import { TRACK_GROUPS } from "@/lib/track-groups";
 
@@ -11,7 +12,7 @@ export const metadata = {
 
 
 
-const GROUPS = TRACK_GROUPS.map((g) => ({ title: `${g.emoji} ${g.title}`, description: g.description, codes: g.codes }));
+const GROUPS = TRACK_GROUPS.map((g) => ({ key: g.key, title: `${g.emoji} ${g.title}`, description: g.description, codes: g.codes }));
 
 export default function ExamsPage() {
   return (
@@ -23,10 +24,11 @@ export default function ExamsPage() {
           Choose a pathway to find the practice tests and learning tools currently
           available. New qualifications and question banks are added as they become available. Some UK pathways use original AI-authored practice questions, which are not official exam questions or independently human-verified material.
         </p>
+        <SearchBox />
       </section>
 
       {GROUPS.map((group) => (
-        <section key={group.title} style={{ marginTop: 28 }}>
+        <section key={group.title} id={group.key} style={{ marginTop: 28 }}>
           <h2>{group.title}</h2>
           <p className="muted">{group.description}</p>
           <div className="grid2">

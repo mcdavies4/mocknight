@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { SearchBox } from "@/components/search-box";
 import { JsonLd } from "@/components/json-ld";
 import { SITE_URL } from "@/lib/site";
 import { sortedPosts } from "@/lib/blog";
@@ -13,7 +14,8 @@ export default async function Home() {
       <section className="hero">
         <h1>Prepare for the exams that move you forward.</h1>
         <p className="muted">Mock Night brings academic exam practice and professional certification preparation together — with daily questions, timed mock exams, explanations and progress tracking on web and Telegram.</p>
-        <p><Link className="btn" href="/exams">Explore all exam pathways</Link></p>
+        <SearchBox placeholder="What are you preparing for? e.g. “JAMB”, “UK nursing”, “Kenya driving test”" />
+        <p style={{ marginTop: 14 }}><Link className="btn" href="/exams">Explore all exam pathways</Link></p>
       </section>
 
       {stats && (

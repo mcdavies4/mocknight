@@ -61,6 +61,23 @@ export async function shareLink(url: string, text: string) {
   window.open(`https://wa.me/?text=${encodeURIComponent(`${text} ${url}`)}`, "_blank");
 }
 
+/** Share the result card itself as an image (WhatsApp status, Instagram story) where the browser allows it. */
+export async function shareImage(imageUrl: string, text: string, pageUrl: string) {
+  if (!inTelegram() && typeof navigator !== "undefined" && navigator.canShare) {
+    try {
+      const blob = await (await fetch(imageUrl)).blob();
+      const file = new File([blob], "mock-night-result.png", { type: blob.type || "image/png" });
+      if (navigator.canShare({ files: [file] })) {
+        await navigator.share({ files: [file], text: `${text} ${pageUrl}` });
+        return;
+      }
+    } catch (e) {
+      if ((e as Error)?.name === "AbortError") return; // user closed the share sheet
+    }
+  }
+  openExternal(imageUrl);
+}
+
 export function openExternal(url: string) {
   const w = tg();
   if (inTelegram() && w?.openLink) w.openLink(url);

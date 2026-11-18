@@ -248,3 +248,18 @@ a.btn:hover { filter: brightness(1.06); }
 .practice-qs .q-opts { list-style: none; padding: 0; margin: 0 0 8px; }
 .practice-qs .q-opts li { padding: 4px 0; }
 .practice-qs details summary { cursor: pointer; color: var(--mn-forest); font-weight: 600; }
+
+/* Search */
+.search-box { position: relative; margin-top: 12px; }
+.search-box form { display: flex; align-items: center; gap: 8px; background: #fff; border: 1px solid rgba(47,107,79,.25); border-radius: 14px; padding: 6px 6px 6px 12px; }
+.search-box input { flex: 1; min-width: 0; border: 0; outline: 0; font-size: 16px; background: transparent; padding: 8px 0; color: inherit; }
+.search-box .btn { min-height: 40px; padding: 8px 16px; }
+.search-suggest { position: absolute; z-index: 30; left: 0; right: 0; top: calc(100% + 6px); list-style: none; margin: 0; padding: 6px; background: #fff; border: 1px solid rgba(47,107,79,.2); border-radius: 14px; box-shadow: 0 12px 30px rgba(11,47,34,.12); }
+.search-suggest a { display: block; padding: 10px 12px; border-radius: 10px; text-decoration: none; color: inherit; }
+.search-suggest a:hover, .search-suggest a.active { background: var(--bg2); }
+.search-exam.best { border: 1px solid var(--mn-forest); }
+.search-exam h3 a { color: var(--mn-forest); text-decoration: none; }
+.search-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.search-actions .btn { min-height: 38px; padding: 8px 14px; }
+.site-search-link { font-size: 18px; text-decoration: none; }
+@media (max-width: 720px) { .site-link.site-search-link { display: inline-flex; padding: 8px; } }

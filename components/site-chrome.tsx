@@ -39,6 +39,7 @@ export function SiteHeader({ bot }: { bot: string }) {
           </span>
         </Link>
         <nav className="site-nav">
+          <Link href="/search" className="site-link site-search-link" aria-label="Search">🔍</Link>
           <Link href="/exams" className="site-link">Exams</Link>
           <Link href="/blog" className="site-link">Blog</Link>
           <Link href="/app" className="site-link">Web app</Link>

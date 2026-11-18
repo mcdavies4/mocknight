@@ -95,3 +95,6 @@ export function searchTracks(query: string, limit = 8): Track[] {
 }
 
 export const tracksIn = (g: TrackGroup) => g.codes.map((c) => TRACKS[c]).filter(Boolean);
+
+/** Extra search words for an exam (used by site search). */
+export const trackAliases = (code: TrackCode) => ALIASES[code] ?? "";

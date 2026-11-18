@@ -4,7 +4,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import type { MockPayload, MockResult } from "@/lib/mock";
 
-import { api, goHome, inTelegram, openExternal, shareLink, tg } from "@/lib/client-api";
+import { api, goHome, inTelegram, openExternal, shareImage, shareLink, tg } from "@/lib/client-api";
 import { ExplainButton } from "@/components/explain";
 
 const LETTERS = ["A", "B", "C", "D", "E"];
@@ -297,6 +297,11 @@ function ResultView({ data, result }: { data: MockPayload; result: MockResult })
   const items = result.review.filter((r) => !wrongOnly || r.chosen !== r.answer);
   const names = Object.fromEntries(data.subjects.map((s) => [s.code, s.name]));
 
+  const shareText = result.pass?.passed
+    ? `I just passed a ${data.title} mock (${result.rawScore}/${result.total}) ✅ Can you?`
+    : result.scoreStyle === "jamb400"
+      ? `I scored ${result.jambScore}/400 on Mock Night 🔥 Can you beat me?`
+      : `I scored ${Math.round(result.scaled)}% on Mock Night 🔥 Can you beat me?`;
   return (
     <div className="wrap">
       <div className="score">
@@ -356,23 +361,11 @@ function ResultView({ data, result }: { data: MockPayload; result: MockResult })
       </div>
 
       <div className="nav" style={{ marginTop: 4 }}>
-        <button
-          className="btn"
-          onClick={() =>
-            shareLink(
-              `${window.location.origin}/r/${data.attemptId}`,
-              result.pass?.passed
-                ? `I just passed a ${data.title} mock (${result.rawScore}/${result.total}) ✅ Can you?`
-                : result.scoreStyle === "jamb400"
-                  ? `I scored ${result.jambScore}/400 on Mock Night 🔥 Can you beat me?`
-                  : `I scored ${Math.round(result.scaled)}% on Mock Night 🔥 Can you beat me?`,
-            )
-          }
-        >
+        <button className="btn" onClick={() => shareLink(`${window.location.origin}/r/${data.attemptId}`, shareText)}>
           📤 Share my result
         </button>
-        <button className="btn secondary" onClick={() => openExternal(`${window.location.origin}/api/card/${data.attemptId}?format=story`)}>
-          🖼 Status image
+        <button className="btn secondary" onClick={() => shareImage(`${window.location.origin}/api/card/${data.attemptId}?format=story`, shareText, `${window.location.origin}/r/${data.attemptId}`)}>
+          🖼 Share as image
         </button>
       </div>
 
