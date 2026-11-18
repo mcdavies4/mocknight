@@ -2,9 +2,9 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV" | "ELEC18" | "EYTA" | "WAREHOUSE" | "NHSHCA" | "BA" | "ISC2CC" | "AWSSAA" | "AICERT" | "SFADMIN" | "GED" | "TEAS" | "CNA" | "ASVAB" | "UPSC" | "RRB" | "CTET" | "CAT" | "GCSE" | "CSJT" | "TOEFL" | "DUOLINGO" | "CDL" | "G1ON" | "APLUS" | "CCNA" | "JUPEB" | "NABTEB" | "NMCN" | "USMLE" | "GULFPH" | "GULFDR" | "UAEDRV" | "UAETLS" | "GULFLAB" | "GULFPT" | "GULFDEN" | "DUBAIPIC" | "SIRA" | "DMVCA" | "DMVTX" | "DMVFL" | "DMVNY" | "DMVGA" | "PTCB" | "PHLEB" | "CCMA" | "CPC" | "NCLEXPN" | "HESI" | "REALEST" | "LIFEINS" | "SERVSAFE" | "EPA608" | "ACT" | "HISET" | "PRAXIS" | "SIE" | "UACE" | "ACSEE" | "RWA6" | "CPAUG" | "CPATZ" | "KEDRV" | "UGDRV" | "TZDRV" | "RWDRV" | "GCPCDL" | "AZ104" | "CISSP" | "DEVOPS" | "DIGMKT" | "HRCERT" | "PSPO";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV" | "ELEC18" | "EYTA" | "WAREHOUSE" | "NHSHCA" | "BA" | "ISC2CC" | "AWSSAA" | "AICERT" | "SFADMIN" | "GED" | "TEAS" | "CNA" | "ASVAB" | "UPSC" | "RRB" | "CTET" | "CAT" | "GCSE" | "CSJT" | "TOEFL" | "DUOLINGO" | "CDL" | "G1ON" | "APLUS" | "CCNA" | "JUPEB" | "NABTEB" | "NMCN" | "USMLE" | "GULFPH" | "GULFDR" | "UAEDRV" | "UAETLS" | "GULFLAB" | "GULFPT" | "GULFDEN" | "DUBAIPIC" | "SIRA" | "DMVCA" | "DMVTX" | "DMVFL" | "DMVNY" | "DMVGA" | "PTCB" | "PHLEB" | "CCMA" | "CPC" | "NCLEXPN" | "HESI" | "REALEST" | "LIFEINS" | "SERVSAFE" | "EPA608" | "ACT" | "HISET" | "PRAXIS" | "SIE" | "UACE" | "ACSEE" | "RWA6" | "CPAUG" | "CPATZ" | "KEDRV" | "UGDRV" | "TZDRV" | "RWDRV" | "HSK" | "CSCA" | "JLPT" | "EPSTOPIK" | "PNLE" | "LET" | "SGBTT" | "TORFL" | "RUMIG" | "GCPCDL" | "AZ104" | "CISSP" | "DEVOPS" | "DIGMKT" | "HRCERT" | "PSPO";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
-export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi" | "Asia/Manila" | "Africa/Johannesburg";
+export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi" | "Asia/Manila" | "Africa/Johannesburg" | "Asia/Shanghai" | "Asia/Tokyo" | "Asia/Seoul" | "Asia/Singapore" | "Europe/Moscow";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
 export interface Marking { correct: number; wrong: number }
 
@@ -26,7 +26,7 @@ export interface Track {
   short: string;
   emoji: string;
   kind: "school" | "citizenship" | "work" | "professional";
-  region: "NG" | "GH" | "WA" | "UK" | "GLOBAL" | "ET" | "IN" | "US" | "CA" | "AU" | "GULF" | "KE" | "PK" | "PH" | "TZ" | "UG" | "CM" | "ZA" | "RW";
+  region: "NG" | "GH" | "WA" | "UK" | "GLOBAL" | "ET" | "IN" | "US" | "CA" | "AU" | "GULF" | "KE" | "PK" | "PH" | "TZ" | "UG" | "CM" | "ZA" | "RW" | "CN" | "JP" | "KR" | "SG" | "RU";
   currency: "NGN" | "GBP" | "ETB" | "INR" | "USD";
   subjectMode: "multi" | "single";
   subjects: string[];
@@ -529,6 +529,69 @@ export const TRACKS: Record<TrackCode, Track> = {
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["gre_pass"], tagline: "Quant and verbal practice for the GRE and GMAT — study abroad and MBA admissions", timeZone: "UTC", timeLabel: "UTC",
     audience: "a graduate applicant preparing for the GRE or GMAT for a master's or MBA abroad",
+  },
+  HSK: {
+    code: "HSK", name: "HSK Chinese proficiency (HSK 1–3)", short: "HSK Chinese", emoji: "🇨🇳", kind: "professional", region: "CN", currency: "USD",
+    subjectMode: "single", subjects: ["HSC"], compulsory: ["HSC"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 40, minutes: 40, passPct: 60, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["hsk_pass"], tagline: "HSK practice: characters, pinyin, grammar patterns and everyday Chinese for HSK 1–3", timeZone: "Asia/Shanghai", timeLabel: "China",
+    audience: "someone learning Chinese for the HSK, study in China or work with Chinese companies",
+  },
+  CSCA: {
+    code: "CSCA", name: "China CSCA (study in China entrance test)", short: "CSCA", emoji: "🎓", kind: "professional", region: "CN", currency: "USD",
+    subjectMode: "multi", subjects: ["CSM", "CPH", "CCH"], compulsory: ["CSM"], minSubjects: 1, maxSubjects: 3, subjectNote: "Maths is needed for most programmes; add physics or chemistry if your university asks for them",
+    mock: { perSubject: 48, minutes: 60, passPct: 60, scoreStyle: "percent", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["csca_pass"], tagline: "CSCA practice in maths, physics and chemistry for international students applying to Chinese universities", timeZone: "Asia/Shanghai", timeLabel: "China",
+    audience: "an international student applying for an undergraduate degree or Chinese Government Scholarship in China",
+  },
+  JLPT: {
+    code: "JLPT", name: "JLPT N5–N4 & JFT-Basic (Japanese)", short: "JLPT Japanese", emoji: "🇯🇵", kind: "professional", region: "JP", currency: "USD",
+    subjectMode: "single", subjects: ["JPN"], compulsory: ["JPN"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 40, minutes: 45, passPct: 60, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["jlpt_pass"], tagline: "Japanese practice for JLPT N5–N4 and JFT-Basic: kana, kanji, particles, verb forms and everyday Japanese", timeZone: "Asia/Tokyo", timeLabel: "Japan",
+    audience: "someone learning Japanese for the JLPT, or for a Specified Skilled Worker job in Japan",
+  },
+  EPSTOPIK: {
+    code: "EPSTOPIK", name: "EPS-TOPIK & TOPIK I (Korean)", short: "EPS-TOPIK", emoji: "🇰🇷", kind: "professional", region: "KR", currency: "USD",
+    subjectMode: "single", subjects: ["KOR"], compulsory: ["KOR"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 40, minutes: 50, passPct: 60, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["eps_pass"], tagline: "EPS-TOPIK practice: Hangul, workplace and safety Korean, grammar and everyday phrases for work in Korea", timeZone: "Asia/Seoul", timeLabel: "Korea",
+    audience: "someone preparing for EPS-TOPIK to work in Korea on an E-9 visa, or for TOPIK I",
+  },
+  PNLE: {
+    code: "PNLE", name: "Philippine Nurse Licensure Exam (PNLE)", short: "PNLE", emoji: "🩺", kind: "professional", region: "PH", currency: "USD",
+    subjectMode: "single", subjects: ["PNL"], compulsory: ["PNL"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 100, minutes: 120, passPct: 75, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["pnle_pass"], tagline: "PNLE practice: priorities, safe medication, labs, infection control, maternal and child, and nursing law", timeZone: "Asia/Manila", timeLabel: "Philippines",
+    audience: "a Filipino nursing graduate preparing for the PRC Nurse Licensure Exam",
+  },
+  LET: {
+    code: "LET", name: "Licensure Examination for Teachers (LET Philippines)", short: "LET", emoji: "🍎", kind: "professional", region: "PH", currency: "USD",
+    subjectMode: "single", subjects: ["LTE"], compulsory: ["LTE"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 100, minutes: 120, passPct: 75, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["let_pass"], tagline: "LET practice: professional education, assessment, education laws and general education", timeZone: "Asia/Manila", timeLabel: "Philippines",
+    audience: "a Filipino education graduate preparing for the PRC Licensure Examination for Teachers",
+  },
+  SGBTT: {
+    code: "SGBTT", name: "Singapore driving Basic Theory Test (BTT)", short: "Singapore BTT", emoji: "🇸🇬", kind: "professional", region: "SG", currency: "USD",
+    subjectMode: "single", subjects: ["SGD"], compulsory: ["SGD"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 50, minutes: 50, passPct: 90, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["sgbtt_pass"], tagline: "Singapore BTT practice: speed limits, signals, road markings, junctions and safety", timeZone: "Asia/Singapore", timeLabel: "Singapore",
+    audience: "someone preparing for the Singapore driving Basic Theory Test",
+  },
+  TORFL: {
+    code: "TORFL", name: "Russian as a foreign language (TORFL / ТРКИ A1–B1)", short: "TORFL Russian", emoji: "🇷🇺", kind: "professional", region: "RU", currency: "USD",
+    subjectMode: "single", subjects: ["RUS"], compulsory: ["RUS"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 40, minutes: 50, passPct: 66, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["torfl_pass"], tagline: "Russian practice for TORFL A1–B1: Cyrillic, cases, verbs and everyday phrases", timeZone: "Europe/Moscow", timeLabel: "Moscow",
+    audience: "a foreign student or worker learning Russian, including students preparing to study in Russia",
+  },
+  RUMIG: {
+    code: "RUMIG", name: "Russia migrant exam: Russian, history and law", short: "Russia migrant exam", emoji: "🇷🇺", kind: "professional", region: "RU", currency: "USD",
+    subjectMode: "single", subjects: ["RMG"], compulsory: ["RMG"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 40, minutes: 60, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["rumig_pass"], tagline: "Practice for Russia's exam for work patents and residence: Russian language, history and basic law", timeZone: "Europe/Moscow", timeLabel: "Moscow",
+    audience: "a foreign national preparing for Russia's exam in Russian, history and law for a work patent or residence permit",
   },
   CSEPH: {
     code: "CSEPH", name: "Philippine Civil Service Exam (CSE-PPT)", short: "Civil Service PH", emoji: "🇵🇭", kind: "professional", region: "PH", currency: "USD",

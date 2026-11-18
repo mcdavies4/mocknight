@@ -1,0 +1,408 @@
+[
+ {
+  "subject": "PNL",
+  "topic": "Vital signs",
+  "body": "What is a normal adult resting heart rate?",
+  "options": [
+   "100–140 bpm",
+   "60–100 bpm",
+   "40–60 bpm",
+   "20–40 bpm"
+  ],
+  "answer": 1,
+  "explanation": "Below 60 is bradycardia; above 100 is tachycardia.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Vital signs",
+  "body": "What is a normal adult respiratory rate?",
+  "options": [
+   "24–30 breaths/min",
+   "4–8 breaths/min",
+   "30–40 breaths/min",
+   "12–20 breaths/min"
+  ],
+  "answer": 3,
+  "explanation": "Count for a full minute if irregular.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Nursing process",
+  "body": "What is the first step of the nursing process?",
+  "options": [
+   "diagnosis",
+   "evaluation",
+   "assessment",
+   "planning"
+  ],
+  "answer": 2,
+  "explanation": "ADPIE: assess, diagnose, plan, implement, evaluate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Priorities",
+  "body": "Using the ABCs, what comes first?",
+  "options": [
+   "breathing",
+   "circulation",
+   "airway",
+   "disability"
+  ],
+  "answer": 2,
+  "explanation": "Without an open airway, breathing can't happen.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Priorities",
+  "body": "In Maslow's hierarchy, which needs come first?",
+  "options": [
+   "self-esteem",
+   "safety needs",
+   "physiological needs",
+   "love and belonging"
+  ],
+  "answer": 2,
+  "explanation": "Oxygen, food, water and elimination come first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Infection control",
+  "body": "The single best way to prevent the spread of infection is",
+  "options": [
+   "isolating everyone",
+   "taking antibiotics",
+   "hand hygiene",
+   "wearing a mask"
+  ],
+  "answer": 2,
+  "explanation": "Clean hands before and after every patient contact.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Infection control",
+  "body": "Pulmonary tuberculosis needs which precautions?",
+  "options": [
+   "airborne",
+   "standard only",
+   "droplet",
+   "contact"
+  ],
+  "answer": 0,
+  "explanation": "Use a negative-pressure room and an N95 respirator.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Infection control",
+  "body": "Influenza needs which precautions?",
+  "options": [
+   "contact only",
+   "standard only",
+   "droplet",
+   "airborne"
+  ],
+  "answer": 2,
+  "explanation": "A surgical mask within about 1 metre.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Medication",
+  "body": "The rights of medication include right patient, drug, dose, route and",
+  "options": [
+   "doctor",
+   "price",
+   "time",
+   "colour"
+  ],
+  "answer": 2,
+  "explanation": "Documentation is also often listed as a right.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Medication",
+  "body": "What angle is used for an intramuscular injection?",
+  "options": [
+   "45 degrees only",
+   "15 degrees",
+   "90 degrees",
+   "10 degrees"
+  ],
+  "answer": 2,
+  "explanation": "The ventrogluteal site is preferred for adults.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Medication",
+  "body": "What angle is used for an intradermal injection?",
+  "options": [
+   "30–45 degrees",
+   "10–15 degrees",
+   "45 degrees",
+   "90 degrees"
+  ],
+  "answer": 1,
+  "explanation": "Used for the tuberculin (PPD) skin test.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Medication",
+  "body": "Before giving digoxin to an adult, hold it if the apical pulse is below",
+  "options": [
+   "60 bpm",
+   "40 bpm",
+   "100 bpm",
+   "80 bpm"
+  ],
+  "answer": 0,
+  "explanation": "Also watch for nausea and yellow-green vision.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Antidotes",
+  "body": "What is the antidote for heparin?",
+  "options": [
+   "flumazenil",
+   "vitamin K",
+   "protamine sulfate",
+   "naloxone"
+  ],
+  "answer": 2,
+  "explanation": "Monitor aPTT on heparin.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Antidotes",
+  "body": "What is the antidote for warfarin?",
+  "options": [
+   "protamine sulfate",
+   "naloxone",
+   "vitamin K",
+   "atropine"
+  ],
+  "answer": 2,
+  "explanation": "Monitor PT/INR on warfarin.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Antidotes",
+  "body": "What reverses an opioid overdose?",
+  "options": [
+   "flumazenil",
+   "naloxone",
+   "atropine",
+   "vitamin K"
+  ],
+  "answer": 1,
+  "explanation": "Flumazenil reverses benzodiazepines.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Labs",
+  "body": "What is the normal serum potassium?",
+  "options": [
+   "5.5–7.0 mEq/L",
+   "3.5–5.0 mEq/L",
+   "1.5–2.5 mEq/L",
+   "135–145 mEq/L"
+  ],
+  "answer": 1,
+  "explanation": "135–145 mEq/L is sodium.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Labs",
+  "body": "What is the normal serum sodium?",
+  "options": [
+   "8.5–10.5 mg/dL",
+   "95–105 mEq/L",
+   "135–145 mEq/L",
+   "3.5–5.0 mEq/L"
+  ],
+  "answer": 2,
+  "explanation": "95–105 is chloride; 8.5–10.5 is calcium.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Diabetes",
+  "body": "Sweating, shaking and confusion in a diabetic patient suggest",
+  "options": [
+   "ketoacidosis",
+   "dehydration",
+   "hypoglycemia",
+   "hyperglycemia"
+  ],
+  "answer": 2,
+  "explanation": "Give fast-acting sugar if the patient can swallow.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Diabetes",
+  "body": "Fruity breath and deep, rapid breathing suggest",
+  "options": [
+   "heart failure",
+   "hyperthyroidism",
+   "hypoglycemia",
+   "diabetic ketoacidosis"
+  ],
+  "answer": 3,
+  "explanation": "Kussmaul breathing blows off CO₂.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Cardiac",
+  "body": "Left-sided heart failure mainly causes",
+  "options": [
+   "lung congestion",
+   "an enlarged liver",
+   "jaundice",
+   "leg swelling first"
+  ],
+  "answer": 0,
+  "explanation": "Right-sided failure causes peripheral oedema.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Respiratory",
+  "body": "Which position helps a patient with difficulty breathing?",
+  "options": [
+   "flat supine",
+   "high Fowler's",
+   "Trendelenburg",
+   "prone"
+  ],
+  "answer": 1,
+  "explanation": "Sitting up lets the lungs expand.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Emergency",
+  "body": "What compression rate is used in adult CPR?",
+  "options": [
+   "100–120 per minute",
+   "80–100 per minute",
+   "120–150 per minute",
+   "60–80 per minute"
+  ],
+  "answer": 0,
+  "explanation": "Push hard and fast, allowing full recoil.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Emergency",
+  "body": "How deep are adult chest compressions?",
+  "options": [
+   "7–8 cm",
+   "3–4 cm",
+   "2–3 cm",
+   "5–6 cm"
+  ],
+  "answer": 3,
+  "explanation": "About 2 to 2.4 inches.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Burns",
+  "body": "Under the rule of nines, one whole adult arm is",
+  "options": [
+   "4.5%",
+   "9%",
+   "1%",
+   "18%"
+  ],
+  "answer": 1,
+  "explanation": "Each leg is 18%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Maternal and child",
+  "body": "The APGAR score is checked at",
+  "options": [
+   "24 and 48 hours",
+   "before birth",
+   "30 and 60 minutes",
+   "1 and 5 minutes"
+  ],
+  "answer": 3,
+  "explanation": "It scores colour, heart rate, reflexes, tone and breathing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Maternal and child",
+  "body": "What is a normal fetal heart rate?",
+  "options": [
+   "110–160 bpm",
+   "60–100 bpm",
+   "160–200 bpm",
+   "80–110 bpm"
+  ],
+  "answer": 0,
+  "explanation": "Check during and after contractions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Growth",
+  "body": "Erikson's stage for adolescents is",
+  "options": [
+   "industry vs inferiority",
+   "identity vs role confusion",
+   "intimacy vs isolation",
+   "trust vs mistrust"
+  ],
+  "answer": 1,
+  "explanation": "Industry vs inferiority is school age.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Law",
+  "body": "The Philippine Nursing Act is",
+  "options": [
+   "RA 9165 (2002)",
+   "RA 9173 (2002)",
+   "RA 7164 (1991)",
+   "RA 10354 (2012)"
+  ],
+  "answer": 1,
+  "explanation": "RA 7164 was the older nursing law; RA 9165 is the Dangerous Drugs Act.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PNL",
+  "topic": "Law",
+  "body": "To pass the PNLE you need a 75% general average and no subject below",
+  "options": [
+   "60%",
+   "70%",
+   "75%",
+   "50%"
+  ],
+  "answer": 0,
+  "explanation": "Set by RA 9173.",
+  "difficulty": 2
+ }
+]

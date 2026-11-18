@@ -1,0 +1,408 @@
+[
+ {
+  "subject": "LTE",
+  "topic": "Learning theory",
+  "body": "In the revised Bloom's taxonomy, the highest level is",
+  "options": [
+   "analyzing",
+   "creating",
+   "evaluating",
+   "remembering"
+  ],
+  "answer": 1,
+  "explanation": "Remember, understand, apply, analyze, evaluate, create.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Learning theory",
+  "body": "In the revised Bloom's taxonomy, the lowest level is",
+  "options": [
+   "understanding",
+   "creating",
+   "applying",
+   "remembering"
+  ],
+  "answer": 3,
+  "explanation": "Recall of facts is the base.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Learning theory",
+  "body": "Piaget's stage for ages about 7 to 11 is",
+  "options": [
+   "sensorimotor",
+   "formal operational",
+   "concrete operational",
+   "preoperational"
+  ],
+  "answer": 2,
+  "explanation": "Children reason logically about concrete things.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Learning theory",
+  "body": "Vygotsky's zone of proximal development is",
+  "options": [
+   "a learner's IQ range",
+   "what a learner already knows",
+   "what a learner can do with help",
+   "a classroom seating plan"
+  ],
+  "answer": 2,
+  "explanation": "Scaffolding supports learners in this zone.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Learning theory",
+  "body": "Howard Gardner is known for",
+  "options": [
+   "moral development stages",
+   "the hierarchy of needs",
+   "operant conditioning",
+   "multiple intelligences"
+  ],
+  "answer": 3,
+  "explanation": "For example linguistic, logical, musical and interpersonal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Learning theory",
+  "body": "Lawrence Kohlberg is known for",
+  "options": [
+   "moral development stages",
+   "multiple intelligences",
+   "classical conditioning",
+   "the hierarchy of needs"
+  ],
+  "answer": 0,
+  "explanation": "Pre-conventional, conventional, post-conventional.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Learning theory",
+  "body": "B. F. Skinner is known for",
+  "options": [
+   "classical conditioning",
+   "multiple intelligences",
+   "discovery learning",
+   "operant conditioning"
+  ],
+  "answer": 3,
+  "explanation": "Behaviour shaped by reinforcement.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Learning theory",
+  "body": "Constructivism holds that",
+  "options": [
+   "rewards alone shape behaviour",
+   "teachers pour facts into pupils",
+   "learning is only rote memorising",
+   "learners build their own understanding"
+  ],
+  "answer": 3,
+  "explanation": "Linked to Piaget and Vygotsky.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Assessment",
+  "body": "Formative assessment is used",
+  "options": [
+   "to rank schools nationally",
+   "to guide learning as it happens",
+   "to give final term grades",
+   "to choose scholarship winners"
+  ],
+  "answer": 1,
+  "explanation": "Examples: quizzes, exit slips, feedback.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Assessment",
+  "body": "Summative assessment is used",
+  "options": [
+   "to judge learning at the end",
+   "to group by ability",
+   "to guide daily lessons",
+   "to diagnose before teaching"
+  ],
+  "answer": 0,
+  "explanation": "Examples: final exams and end-of-unit tests.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Assessment",
+  "body": "A test is valid if it",
+  "options": [
+   "has many items to choose from",
+   "is quick and easy to score",
+   "gives the same result every time",
+   "measures what it should measure"
+  ],
+  "answer": 3,
+  "explanation": "Consistency of results is reliability.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Assessment",
+  "body": "Reliability means",
+  "options": [
+   "consistency of results",
+   "ease of scoring",
+   "accuracy of content",
+   "fairness to all"
+  ],
+  "answer": 0,
+  "explanation": "A reliable test gives similar results on retesting.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Statistics",
+  "body": "What is the mean of 80, 85 and 90?",
+  "options": [
+   "255",
+   "90",
+   "85",
+   "80"
+  ],
+  "answer": 2,
+  "explanation": "255 ÷ 3 = 85.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Statistics",
+  "body": "What is the median of 3, 7, 9, 12 and 15?",
+  "options": [
+   "7",
+   "12",
+   "9.2",
+   "9"
+  ],
+  "answer": 3,
+  "explanation": "The middle value of the ordered list.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Statistics",
+  "body": "What is the mode of 2, 3, 3, 5 and 7?",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "2"
+  ],
+  "answer": 0,
+  "explanation": "The most frequent value.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Education law",
+  "body": "The K to 12 law (Enhanced Basic Education Act) is",
+  "options": [
+   "RA 7836",
+   "RA 4670",
+   "RA 9155",
+   "RA 10533"
+  ],
+  "answer": 3,
+  "explanation": "Passed in 2013.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Education law",
+  "body": "The Philippine Teachers Professionalization Act is",
+  "options": [
+   "RA 7836",
+   "RA 4670",
+   "RA 9155",
+   "RA 10533"
+  ],
+  "answer": 0,
+  "explanation": "It created the LET (1994).",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Education law",
+  "body": "The Magna Carta for Public School Teachers is",
+  "options": [
+   "RA 9155",
+   "RA 10533",
+   "RA 7836",
+   "RA 4670"
+  ],
+  "answer": 3,
+  "explanation": "Passed in 1966.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Inclusion",
+  "body": "Inclusive education means",
+  "options": [
+   "all learners taught together",
+   "gifted classes only",
+   "home study for all",
+   "separate schools for each need"
+  ],
+  "answer": 0,
+  "explanation": "Support is given in the regular classroom.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "General education",
+  "body": "Who founded the Katipunan?",
+  "options": [
+   "Emilio Jacinto",
+   "José Rizal",
+   "Andrés Bonifacio",
+   "Marcelo del Pilar"
+  ],
+  "answer": 2,
+  "explanation": "Founded in 1892.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "General education",
+  "body": "When is Philippine Independence Day?",
+  "options": [
+   "25 February",
+   "30 December",
+   "12 June",
+   "4 July"
+  ],
+  "answer": 2,
+  "explanation": "30 December is Rizal Day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "General education",
+  "body": "In what year was the current Philippine Constitution ratified?",
+  "options": [
+   "1987",
+   "1935",
+   "1986",
+   "1973"
+  ],
+  "answer": 0,
+  "explanation": "1986 was the EDSA People Power Revolution.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "English",
+  "body": "Each of the students ___ a book.",
+  "options": [
+   "has",
+   "were having",
+   "have",
+   "are having"
+  ],
+  "answer": 0,
+  "explanation": "'Each' is singular.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "English",
+  "body": "Which word is closest in meaning to 'meticulous'?",
+  "options": [
+   "careless",
+   "careful",
+   "quick",
+   "noisy"
+  ],
+  "answer": 1,
+  "explanation": "Meticulous means paying close attention to detail.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "English",
+  "body": "Which word is the opposite of 'benevolent'?",
+  "options": [
+   "cruel",
+   "gentle",
+   "generous",
+   "kind"
+  ],
+  "answer": 0,
+  "explanation": "Benevolent means kind and well-meaning.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Science",
+  "body": "At sea level, water boils at",
+  "options": [
+   "100 °C",
+   "90 °C",
+   "80 °C",
+   "120 °C"
+  ],
+  "answer": 0,
+  "explanation": "Lower air pressure lowers the boiling point.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Science",
+  "body": "Photosynthesis produces",
+  "options": [
+   "glucose and oxygen",
+   "carbon dioxide and water",
+   "protein and nitrogen",
+   "starch and carbon dioxide"
+  ],
+  "answer": 0,
+  "explanation": "It uses carbon dioxide, water and light.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "Mathematics",
+  "body": "What is 25% of 360?",
+  "options": [
+   "36",
+   "180",
+   "90",
+   "72"
+  ],
+  "answer": 2,
+  "explanation": "360 ÷ 4 = 90.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LTE",
+  "topic": "LET facts",
+  "body": "To pass the LET you need a general average of",
+  "options": [
+   "60%",
+   "80%",
+   "70%",
+   "75%"
+  ],
+  "answer": 3,
+  "explanation": "There's also a minimum rating per subject.",
+  "difficulty": 2
+ }
+]

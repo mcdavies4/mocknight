@@ -1,0 +1,338 @@
+[
+ {
+  "subject": "CPH",
+  "topic": "Mechanics",
+  "body": "What is the SI unit of force?",
+  "options": [
+   "pascal",
+   "joule",
+   "watt",
+   "newton"
+  ],
+  "answer": 3,
+  "explanation": "1 N = 1 kg·m/s².",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Mechanics",
+  "body": "A car goes from 0 to 20 m/s in 5 s. What is its acceleration?",
+  "options": [
+   "4 m/s²",
+   "100 m/s²",
+   "20 m/s²",
+   "0.25 m/s²"
+  ],
+  "answer": 0,
+  "explanation": "a = Δv ÷ t.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Mechanics",
+  "body": "What force gives a 2 kg mass an acceleration of 3 m/s²?",
+  "options": [
+   "0.67 N",
+   "5 N",
+   "6 N",
+   "1.5 N"
+  ],
+  "answer": 2,
+  "explanation": "F = ma.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Mechanics",
+  "body": "What is the weight of a 10 kg mass (g = 10 m/s²)?",
+  "options": [
+   "1000 N",
+   "1 N",
+   "100 N",
+   "10 N"
+  ],
+  "answer": 2,
+  "explanation": "W = mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Mechanics",
+  "body": "What is the kinetic energy of 2 kg moving at 3 m/s?",
+  "options": [
+   "9 J",
+   "18 J",
+   "6 J",
+   "3 J"
+  ],
+  "answer": 0,
+  "explanation": "KE = ½mv² = ½ × 2 × 9.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Mechanics",
+  "body": "A machine does 600 J of work in 3 s. What is its power?",
+  "options": [
+   "600 W",
+   "3 W",
+   "1800 W",
+   "200 W"
+  ],
+  "answer": 3,
+  "explanation": "P = W ÷ t.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Mechanics",
+  "body": "How much work lifts 5 kg through 2 m (g = 10 m/s²)?",
+  "options": [
+   "10 J",
+   "50 J",
+   "25 J",
+   "100 J"
+  ],
+  "answer": 3,
+  "explanation": "W = mgh.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Mechanics",
+  "body": "An object falls from rest for 2 s (g = 10 m/s²). How far does it fall?",
+  "options": [
+   "20 m",
+   "10 m",
+   "40 m",
+   "5 m"
+  ],
+  "answer": 0,
+  "explanation": "s = ½gt².",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Mechanics",
+  "body": "Newton's third law says",
+  "options": [
+   "energy is always conserved",
+   "objects stay still unless pushed",
+   "forces come in equal, opposite pairs",
+   "force equals mass times speed"
+  ],
+  "answer": 2,
+  "explanation": "If A pushes B, B pushes A equally hard.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Mechanics",
+  "body": "What is the unit of momentum?",
+  "options": [
+   "J·s",
+   "N/s",
+   "kg·m/s",
+   "kg/m²"
+  ],
+  "answer": 2,
+  "explanation": "p = mv.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Mechanics",
+  "body": "100 N acts on 2 m². What is the pressure?",
+  "options": [
+   "200 Pa",
+   "50 Pa",
+   "0.02 Pa",
+   "102 Pa"
+  ],
+  "answer": 1,
+  "explanation": "p = F ÷ A.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Mechanics",
+  "body": "Gravitational potential energy depends on",
+  "options": [
+   "speed only",
+   "height only",
+   "mass and speed",
+   "mass, g and height"
+  ],
+  "answer": 3,
+  "explanation": "Ep = mgh.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Electricity",
+  "body": "A 12 V supply drives current through 4 Ω. What is the current?",
+  "options": [
+   "0.33 A",
+   "48 A",
+   "16 A",
+   "3 A"
+  ],
+  "answer": 3,
+  "explanation": "I = V ÷ R.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Electricity",
+  "body": "Two 6 Ω resistors are connected in parallel. What is the total resistance?",
+  "options": [
+   "12 Ω",
+   "3 Ω",
+   "6 Ω",
+   "36 Ω"
+  ],
+  "answer": 1,
+  "explanation": "Equal resistors in parallel: R ÷ n.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Electricity",
+  "body": "What is the SI unit of charge?",
+  "options": [
+   "ampere",
+   "ohm",
+   "volt",
+   "coulomb"
+  ],
+  "answer": 3,
+  "explanation": "1 C = 1 A × 1 s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Electricity",
+  "body": "A transformer only works with",
+  "options": [
+   "direct current",
+   "static charge",
+   "batteries only",
+   "alternating current"
+  ],
+  "answer": 3,
+  "explanation": "It needs a changing magnetic field.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Electricity",
+  "body": "Who discovered electromagnetic induction?",
+  "options": [
+   "Isaac Newton",
+   "Albert Einstein",
+   "Michael Faraday",
+   "James Watt"
+  ],
+  "answer": 2,
+  "explanation": "Faraday's law, 1831.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Waves",
+  "body": "A wave has f = 50 Hz and λ = 2 m. What is its speed?",
+  "options": [
+   "25 m/s",
+   "0.04 m/s",
+   "100 m/s",
+   "52 m/s"
+  ],
+  "answer": 2,
+  "explanation": "v = fλ.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Waves",
+  "body": "What is the speed of light in a vacuum?",
+  "options": [
+   "340 m/s",
+   "3 × 10⁸ m/s",
+   "3 × 10⁵ m/s",
+   "3 × 10⁶ m/s"
+  ],
+  "answer": 1,
+  "explanation": "Sound in air travels at about 340 m/s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Waves",
+  "body": "A wave has a period of 0.5 s. What is its frequency?",
+  "options": [
+   "50 Hz",
+   "5 Hz",
+   "2 Hz",
+   "0.5 Hz"
+  ],
+  "answer": 2,
+  "explanation": "f = 1 ÷ T.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Optics",
+  "body": "Which lens spreads (diverges) light?",
+  "options": [
+   "a glass block",
+   "a convex lens",
+   "a concave lens",
+   "a plane mirror"
+  ],
+  "answer": 2,
+  "explanation": "Convex lenses converge light.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Heat",
+  "body": "How much heat raises 2 kg of water by 10 °C (c = 4200 J/kg·°C)?",
+  "options": [
+   "42 000 J",
+   "8400 J",
+   "840 J",
+   "84 000 J"
+  ],
+  "answer": 3,
+  "explanation": "Q = mcΔT.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Modern physics",
+  "body": "80 g of a radioactive isotope decays for two half-lives. How much is left?",
+  "options": [
+   "40 g",
+   "10 g",
+   "20 g",
+   "0 g"
+  ],
+  "answer": 2,
+  "explanation": "80 → 40 → 20.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CPH",
+  "topic": "Mechanics",
+  "body": "What is the SI unit of power?",
+  "options": [
+   "watt",
+   "newton",
+   "volt",
+   "joule"
+  ],
+  "answer": 0,
+  "explanation": "1 W = 1 J/s.",
+  "difficulty": 2
+ }
+]

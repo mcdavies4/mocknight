@@ -1,0 +1,324 @@
+[
+ {
+  "subject": "SGD",
+  "topic": "Basics",
+  "body": "In Singapore, vehicles drive on",
+  "options": [
+   "the left",
+   "the centre",
+   "either side",
+   "the right"
+  ],
+  "answer": 0,
+  "explanation": "So you overtake on the right.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Speed",
+  "body": "Unless signs say otherwise, the general speed limit on Singapore roads is",
+  "options": [
+   "50 km/h",
+   "40 km/h",
+   "60 km/h",
+   "70 km/h"
+  ],
+  "answer": 0,
+  "explanation": "Expressways usually have higher signed limits.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Speed",
+  "body": "What is the speed limit in a school zone?",
+  "options": [
+   "25 km/h",
+   "40 km/h",
+   "50 km/h",
+   "30 km/h"
+  ],
+  "answer": 1,
+  "explanation": "Watch for children at all times.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Speed",
+  "body": "Most expressways in Singapore have speed limits of",
+  "options": [
+   "70–90 km/h",
+   "100–120 km/h",
+   "110–130 km/h",
+   "50–60 km/h"
+  ],
+  "answer": 0,
+  "explanation": "Follow the signs on each expressway.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Speed",
+  "body": "A Silver Zone is an area with",
+  "options": [
+   "many elderly pedestrians",
+   "school bus routes",
+   "silver-coloured cars only",
+   "parking for seniors only"
+  ],
+  "answer": 0,
+  "explanation": "Lower speeds and more crossings.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Signals",
+  "body": "When the traffic light turns amber, you should",
+  "options": [
+   "turn left freely",
+   "stop unless it's unsafe to",
+   "stop only for pedestrians",
+   "speed up to cross"
+  ],
+  "answer": 1,
+  "explanation": "Amber means the light is about to turn red.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Signals",
+  "body": "When an ambulance with siren approaches, you should",
+  "options": [
+   "move aside to let it pass",
+   "follow it closely",
+   "race ahead of it",
+   "stop in the middle"
+  ],
+  "answer": 0,
+  "explanation": "Only do so when it's safe.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Crossings",
+  "body": "At a zebra crossing, you must",
+  "options": [
+   "give way to pedestrians",
+   "speed up to clear it",
+   "sound your horn",
+   "overtake slow cars"
+  ],
+  "answer": 0,
+  "explanation": "Don't overtake near a crossing.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Overtaking",
+  "body": "In Singapore, you normally overtake",
+  "options": [
+   "on the left",
+   "on the road shoulder",
+   "on the right",
+   "on either side"
+  ],
+  "answer": 2,
+  "explanation": "Check mirrors and blind spot first.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Markings",
+  "body": "Double white centre lines mean",
+  "options": [
+   "U-turns are allowed",
+   "overtake with care",
+   "parking is allowed",
+   "no crossing or overtaking"
+  ],
+  "answer": 3,
+  "explanation": "They mark dangerous stretches.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Markings",
+  "body": "At a yellow box junction, you should",
+  "options": [
+   "speed up to get through it",
+   "park there briefly if needed",
+   "enter only if your exit is clear",
+   "stop inside it to wait"
+  ],
+  "answer": 2,
+  "explanation": "Keeps junctions from being blocked.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Markings",
+  "body": "Double yellow lines along the kerb mean",
+  "options": [
+   "parking at night only",
+   "no parking at any time",
+   "parking on Sundays",
+   "5-minute parking"
+  ],
+  "answer": 1,
+  "explanation": "Applies 24 hours a day.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Junctions",
+  "body": "At a roundabout, you give way to traffic",
+  "options": [
+   "coming from your left",
+   "behind you",
+   "coming from your right",
+   "from all directions"
+  ],
+  "answer": 2,
+  "explanation": "Traffic already on the roundabout has priority.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Safety",
+  "body": "Who must wear a seat belt?",
+  "options": [
+   "front-seat passengers only",
+   "only on expressways",
+   "only the driver",
+   "everyone in the car"
+  ],
+  "answer": 3,
+  "explanation": "Rear passengers must belt up too.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Safety",
+  "body": "Using a mobile phone by hand while driving is",
+  "options": [
+   "illegal",
+   "allowed at red lights",
+   "allowed for short texts",
+   "allowed under 40 km/h"
+  ],
+  "answer": 0,
+  "explanation": "Use hands-free only if it doesn't distract you.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Safety",
+  "body": "In good conditions, keep a following distance of at least",
+  "options": [
+   "1 second",
+   "0.5 seconds",
+   "10 seconds",
+   "2 seconds"
+  ],
+  "answer": 3,
+  "explanation": "Increase it in rain or at night.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Safety",
+  "body": "If you feel tired while driving, you should",
+  "options": [
+   "open the window and continue",
+   "turn up the music",
+   "stop safely and rest",
+   "drive faster to get home"
+  ],
+  "answer": 2,
+  "explanation": "Fatigue slows your reactions.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Safety",
+  "body": "Your horn should be used",
+  "options": [
+   "to show annoyance",
+   "to warn others of danger",
+   "to greet friends",
+   "to hurry slow drivers"
+  ],
+  "answer": 1,
+  "explanation": "Never use it out of anger.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Lights",
+  "body": "Headlights must be switched on",
+  "options": [
+   "from 7 pm to 7 am",
+   "only in tunnels",
+   "from 9 pm to 5 am",
+   "only when raining"
+  ],
+  "answer": 0,
+  "explanation": "Also use them in heavy rain and in tunnels.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Alcohol",
+  "body": "Singapore's legal limit is",
+  "options": [
+   "80 mg alcohol per 100 ml blood",
+   "100 mg alcohol per 100 ml blood",
+   "20 mg alcohol per 100 ml blood",
+   "50 mg alcohol per 100 ml blood"
+  ],
+  "answer": 0,
+  "explanation": "The breath limit is 35 µg per 100 ml. The safest choice is not to drink at all.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Rules",
+  "body": "ERP stands for",
+  "options": [
+   "Emergency Road Patrol",
+   "Expressway Route Plan",
+   "Electronic Road Pricing",
+   "Electronic Parking Permit"
+  ],
+  "answer": 2,
+  "explanation": "Charges apply on busy roads at peak times.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Rules",
+  "body": "A new driver on probation has their licence revoked at",
+  "options": [
+   "13 or more points",
+   "30 or more points",
+   "24 or more points",
+   "6 or more points"
+  ],
+  "answer": 0,
+  "explanation": "The probation period is 12 months.",
+  "difficulty": 1
+ },
+ {
+  "subject": "SGD",
+  "topic": "Test facts",
+  "body": "The Basic Theory Test (BTT) has",
+  "options": [
+   "40 questions; you need 30 to pass",
+   "50 questions; you need 45 to pass",
+   "25 questions; you need 20 to pass",
+   "100 questions; you need 90 to pass"
+  ],
+  "answer": 1,
+  "explanation": "It's multiple choice, taken on a computer.",
+  "difficulty": 1
+ }
+]

@@ -1,0 +1,450 @@
+[
+ {
+  "subject": "JPN",
+  "topic": "Greetings",
+  "body": "What does こんにちは mean?",
+  "options": [
+   "good night",
+   "goodbye",
+   "hello",
+   "thank you"
+  ],
+  "answer": 2,
+  "explanation": "Used in the daytime. おはようございます is good morning.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Greetings",
+  "body": "What does ありがとうございます mean?",
+  "options": [
+   "excuse me",
+   "thank you",
+   "nice to meet you",
+   "you're welcome"
+  ],
+  "answer": 1,
+  "explanation": "A polite way to say thank you.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Greetings",
+  "body": "すみません is often used to say",
+  "options": [
+   "I'm home",
+   "excuse me",
+   "goodbye",
+   "congratulations"
+  ],
+  "answer": 1,
+  "explanation": "It also means 'sorry' and is used to get attention.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Greetings",
+  "body": "お願いします is used to mean",
+  "options": [
+   "welcome",
+   "cheers",
+   "sorry",
+   "please"
+  ],
+  "answer": 3,
+  "explanation": "コーヒーをお願いします — Coffee, please.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Scripts",
+  "body": "Which hiragana is 'ka'?",
+  "options": [
+   "き",
+   "か",
+   "た",
+   "さ"
+  ],
+  "answer": 1,
+  "explanation": "さ is sa, た is ta, き is ki.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Scripts",
+  "body": "Which katakana is 'ko'?",
+  "options": [
+   "ニ",
+   "ロ",
+   "ユ",
+   "コ"
+  ],
+  "answer": 3,
+  "explanation": "ユ is yu, ロ is ro, ニ is ni.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Scripts",
+  "body": "Which script is mainly used for foreign loanwords such as コーヒー (coffee)?",
+  "options": [
+   "rōmaji",
+   "kanji",
+   "hiragana",
+   "katakana"
+  ],
+  "answer": 3,
+  "explanation": "Hiragana is for grammar endings and native words.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Kanji",
+  "body": "How is 山 (mountain) read on its own?",
+  "options": [
+   "うみ",
+   "かわ",
+   "そら",
+   "やま"
+  ],
+  "answer": 3,
+  "explanation": "かわ (川) river, そら (空) sky, うみ (海) sea.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Kanji",
+  "body": "What does 水 mean?",
+  "options": [
+   "tree",
+   "gold",
+   "fire",
+   "water"
+  ],
+  "answer": 3,
+  "explanation": "火 fire, 木 tree, 金 gold/money.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Kanji",
+  "body": "What does 駅 (えき) mean?",
+  "options": [
+   "station",
+   "hospital",
+   "bank",
+   "school"
+  ],
+  "answer": 0,
+  "explanation": "病院 hospital, 学校 school, 銀行 bank.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Kanji",
+  "body": "What does 右 (みぎ) mean?",
+  "options": [
+   "left",
+   "right",
+   "up",
+   "middle"
+  ],
+  "answer": 1,
+  "explanation": "左 (ひだり) is left.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Kanji",
+  "body": "What does 毎日 (まいにち) mean?",
+  "options": [
+   "every week",
+   "every day",
+   "yesterday",
+   "sometimes"
+  ],
+  "answer": 1,
+  "explanation": "毎週 is every week; 昨日 is yesterday.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Particles",
+  "body": "Which particle marks the topic of a sentence?",
+  "options": [
+   "に",
+   "を",
+   "は",
+   "で"
+  ],
+  "answer": 2,
+  "explanation": "Written は but pronounced 'wa' as a particle.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Particles",
+  "body": "Which particle marks the direct object?",
+  "options": [
+   "は",
+   "へ",
+   "が",
+   "を"
+  ],
+  "answer": 3,
+  "explanation": "パンをたべます — I eat bread.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Grammar",
+  "body": "What does わたしは がくせいです mean?",
+  "options": [
+   "Are you a student?",
+   "I was a student.",
+   "I'm not a student.",
+   "I am a student."
+  ],
+  "answer": 3,
+  "explanation": "です is the polite 'to be'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Grammar",
+  "body": "What is the polite negative of がくせいです?",
+  "options": [
+   "がくせいでしょう",
+   "がくせいじゃありません",
+   "がくせいでした",
+   "がくせいですか"
+  ],
+  "answer": 1,
+  "explanation": "でした is past; ですか makes a question.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Grammar",
+  "body": "What is the polite past of たべます (eat)?",
+  "options": [
+   "たべません",
+   "たべました",
+   "たべています",
+   "たべましょう"
+  ],
+  "answer": 1,
+  "explanation": "～ません is negative; ～ましょう is 'let's'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Grammar",
+  "body": "～ましょう means",
+  "options": [
+   "please don't …",
+   "want to …",
+   "must …",
+   "let's …"
+  ],
+  "answer": 3,
+  "explanation": "いきましょう — Let's go.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Grammar",
+  "body": "～てください means",
+  "options": [
+   "please do …",
+   "I did …",
+   "I want to …",
+   "let's not …"
+  ],
+  "answer": 0,
+  "explanation": "まってください — Please wait.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Grammar",
+  "body": "～たい after a verb stem means",
+  "options": [
+   "can …",
+   "used to …",
+   "want to …",
+   "have to …"
+  ],
+  "answer": 2,
+  "explanation": "たべたい — I want to eat.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Grammar",
+  "body": "What is the て-form of のむ (drink)?",
+  "options": [
+   "のいで",
+   "のんで",
+   "のって",
+   "のみて"
+  ],
+  "answer": 1,
+  "explanation": "Verbs ending in む, ぶ, ぬ change to んで.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Grammar",
+  "body": "What is the た-form of いく (go)?",
+  "options": [
+   "いった",
+   "いちた",
+   "いいた",
+   "いきた"
+  ],
+  "answer": 0,
+  "explanation": "いく is irregular: いって, いった.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Grammar",
+  "body": "います (not あります) is used for",
+  "options": [
+   "dates and times",
+   "plants and objects",
+   "places only",
+   "people and animals"
+  ],
+  "answer": 3,
+  "explanation": "あります is for things and plants.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Grammar",
+  "body": "In あめだから, から means",
+  "options": [
+   "because",
+   "although",
+   "if",
+   "until"
+  ],
+  "answer": 0,
+  "explanation": "あめだから、いきません — It's raining, so I won't go.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Questions",
+  "body": "What does いくらですか mean?",
+  "options": [
+   "How much is it?",
+   "Who is it?",
+   "Where is it?",
+   "What time is it?"
+  ],
+  "answer": 0,
+  "explanation": "なんじですか is 'what time is it'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Questions",
+  "body": "What does 何時 (なんじ) ask about?",
+  "options": [
+   "how many people",
+   "how long",
+   "which day",
+   "the time"
+  ],
+  "answer": 3,
+  "explanation": "なんにん is how many people; なんようび is which day.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Counters",
+  "body": "Which counter is used for flat things such as tickets and paper?",
+  "options": [
+   "まい (枚)",
+   "だい (台)",
+   "ひき (匹)",
+   "ほん (本)"
+  ],
+  "answer": 0,
+  "explanation": "本 for long thin things; 匹 for small animals; 台 for machines.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Counters",
+  "body": "Which counter is used for long, thin things such as pens and bottles?",
+  "options": [
+   "まい (枚)",
+   "ほん (本)",
+   "こ (個)",
+   "さつ (冊)"
+  ],
+  "answer": 1,
+  "explanation": "冊 is for books; 個 for small objects.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Life in Japan",
+  "body": "Where do you normally take your shoes off before going in?",
+  "options": [
+   "a train",
+   "a supermarket",
+   "a post office",
+   "a Japanese home"
+  ],
+  "answer": 3,
+  "explanation": "Leave shoes in the genkan (entrance).",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "JLPT facts",
+  "body": "Which JLPT level is the hardest?",
+  "options": [
+   "N5",
+   "N4",
+   "N1",
+   "N3"
+  ],
+  "answer": 2,
+  "explanation": "N5 is the easiest; N1 the most advanced.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "JLPT facts",
+  "body": "The JFT-Basic test is mainly used for",
+  "options": [
+   "entry to Japanese universities",
+   "a Japanese driving licence",
+   "Japan's skilled worker visa",
+   "Japanese citizenship"
+  ],
+  "answer": 2,
+  "explanation": "It checks everyday Japanese at about A2 level for work.",
+  "difficulty": 1
+ },
+ {
+  "subject": "JPN",
+  "topic": "Vocabulary",
+  "body": "What does しごと (仕事) mean?",
+  "options": [
+   "work / job",
+   "school",
+   "holiday",
+   "money"
+  ],
+  "answer": 0,
+  "explanation": "やすみ (休み) is holiday or day off.",
+  "difficulty": 1
+ }
+]

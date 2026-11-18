@@ -1,0 +1,436 @@
+[
+ {
+  "subject": "KOR",
+  "topic": "Greetings",
+  "body": "What does 안녕하세요 mean?",
+  "options": [
+   "hello",
+   "thank you",
+   "sorry",
+   "see you later"
+  ],
+  "answer": 0,
+  "explanation": "The standard polite greeting.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Greetings",
+  "body": "What does 감사합니다 mean?",
+  "options": [
+   "thank you",
+   "I'm sorry",
+   "hello",
+   "excuse me"
+  ],
+  "answer": 0,
+  "explanation": "고맙습니다 also means thank you.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Greetings",
+  "body": "What does 죄송합니다 mean?",
+  "options": [
+   "I'm sorry",
+   "thank you",
+   "nice to meet you",
+   "goodbye"
+  ],
+  "answer": 0,
+  "explanation": "A formal apology, common at work.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Hangul",
+  "body": "Which Hangul letter makes the 'm' sound?",
+  "options": [
+   "ㅇ",
+   "ㅂ",
+   "ㅁ",
+   "ㄴ"
+  ],
+  "answer": 2,
+  "explanation": "ㄴ is n, ㅂ is b/p, ㅇ is silent at the start or 'ng' at the end.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Hangul",
+  "body": "The vowel ㅏ sounds like",
+  "options": [
+   "a (as in 'father')",
+   "i (as in 'see')",
+   "u (as in 'blue')",
+   "o (as in 'go')"
+  ],
+  "answer": 0,
+  "explanation": "ㅗ is o, ㅜ is u, ㅣ is i.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Vocabulary",
+  "body": "What does 물 mean?",
+  "options": [
+   "water",
+   "fire",
+   "milk",
+   "rice"
+  ],
+  "answer": 0,
+  "explanation": "불 fire, 밥 rice/meal, 우유 milk.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Vocabulary",
+  "body": "What does 회사 mean?",
+  "options": [
+   "company",
+   "school",
+   "hospital",
+   "market"
+  ],
+  "answer": 0,
+  "explanation": "병원 hospital, 학교 school, 시장 market.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Vocabulary",
+  "body": "What does 병원 mean?",
+  "options": [
+   "hospital",
+   "pharmacy",
+   "police station",
+   "bank"
+  ],
+  "answer": 0,
+  "explanation": "약국 is pharmacy; 은행 is bank; 경찰서 is police station.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Vocabulary",
+  "body": "What does 내일 mean?",
+  "options": [
+   "yesterday",
+   "weekend",
+   "tomorrow",
+   "today"
+  ],
+  "answer": 2,
+  "explanation": "어제 yesterday, 오늘 today, 주말 weekend.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Workplace",
+  "body": "What is 안전모?",
+  "options": [
+   "safety gloves",
+   "a safety helmet",
+   "safety glasses",
+   "safety boots"
+  ],
+  "answer": 1,
+  "explanation": "Always wear one where there's a falling-object risk.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Workplace",
+  "body": "What does 장갑 mean?",
+  "options": [
+   "boots",
+   "mask",
+   "hat",
+   "gloves"
+  ],
+  "answer": 3,
+  "explanation": "마스크 mask, 모자 hat.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Workplace",
+  "body": "A sign saying 위험 means",
+  "options": [
+   "danger",
+   "exit",
+   "entrance",
+   "rest area"
+  ],
+  "answer": 0,
+  "explanation": "출구 exit, 입구 entrance, 휴게실 rest area.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Workplace",
+  "body": "A sign saying 비상구 means",
+  "options": [
+   "emergency exit",
+   "staff room",
+   "fire alarm",
+   "first aid kit"
+  ],
+  "answer": 0,
+  "explanation": "소화기 is fire extinguisher.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Workplace",
+  "body": "A sign saying 금연 means",
+  "options": [
+   "no smoking",
+   "no parking",
+   "no photos",
+   "no entry"
+  ],
+  "answer": 0,
+  "explanation": "출입 금지 is no entry; 주차 금지 is no parking.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Workplace",
+  "body": "What does 월급 mean?",
+  "options": [
+   "monthly salary",
+   "holiday",
+   "overtime",
+   "contract"
+  ],
+  "answer": 0,
+  "explanation": "휴가 holiday, 야근 overtime, 계약 contract.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Workplace",
+  "body": "What does 출근하다 mean?",
+  "options": [
+   "to leave work",
+   "to go to work",
+   "to quit a job",
+   "to take a rest"
+  ],
+  "answer": 1,
+  "explanation": "퇴근하다 is to leave work.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Workplace",
+  "body": "What does 퇴근하다 mean?",
+  "options": [
+   "to work overtime",
+   "to change jobs",
+   "to go to work",
+   "to leave work"
+  ],
+  "answer": 3,
+  "explanation": "퇴근 시간 — time to finish work.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Workplace",
+  "body": "What does 조심하세요 mean?",
+  "options": [
+   "well done",
+   "be careful",
+   "hurry up",
+   "see you"
+  ],
+  "answer": 1,
+  "explanation": "Often heard near machines and vehicles.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Numbers",
+  "body": "What number is 오 (Sino-Korean)?",
+  "options": [
+   "6",
+   "4",
+   "9",
+   "5"
+  ],
+  "answer": 3,
+  "explanation": "일 1, 이 2, 삼 3, 사 4, 오 5.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Numbers",
+  "body": "하나, 둘, 셋 are",
+  "options": [
+   "native Korean numbers",
+   "days of the week",
+   "Sino-Korean numbers",
+   "units of money"
+  ],
+  "answer": 0,
+  "explanation": "Native numbers are used for counting things and hours.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Grammar",
+  "body": "The particle 을/를 marks",
+  "options": [
+   "the subject",
+   "the object",
+   "the topic",
+   "a destination"
+  ],
+  "answer": 1,
+  "explanation": "밥을 먹어요 — I eat a meal.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Grammar",
+  "body": "The particle 이/가 marks",
+  "options": [
+   "the subject",
+   "a time",
+   "a tool",
+   "the object"
+  ],
+  "answer": 0,
+  "explanation": "비가 와요 — It's raining.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Grammar",
+  "body": "In 공장에서 일해요, 에서 means",
+  "options": [
+   "from (a person)",
+   "with (a friend)",
+   "at (place of an action)",
+   "to (a destination)"
+  ],
+  "answer": 2,
+  "explanation": "에 marks a destination or location of existence.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Grammar",
+  "body": "What is the past tense of 먹어요 (eat)?",
+  "options": [
+   "먹었어요",
+   "먹을 거예요",
+   "먹고 있어요",
+   "먹지 마세요"
+  ],
+  "answer": 0,
+  "explanation": "먹을 거예요 is future; 먹고 있어요 is 'is eating'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Grammar",
+  "body": "~지 마세요 means",
+  "options": [
+   "please don't …",
+   "I want to …",
+   "let's …",
+   "please do …"
+  ],
+  "answer": 0,
+  "explanation": "만지지 마세요 — Please don't touch.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Grammar",
+  "body": "What does 앉으세요 mean?",
+  "options": [
+   "please sit down",
+   "please wait",
+   "please come in",
+   "please stand up"
+  ],
+  "answer": 0,
+  "explanation": "일어나세요 is stand up; 기다리세요 is wait.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Questions",
+  "body": "What does 어디에 가요? mean?",
+  "options": [
+   "Where are you going?",
+   "Why are you going?",
+   "Who is going?",
+   "When are you going?"
+  ],
+  "answer": 0,
+  "explanation": "언제 when, 왜 why, 누가 who.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Questions",
+  "body": "What does 얼마예요? mean?",
+  "options": [
+   "How many people?",
+   "How old are you?",
+   "What time is it?",
+   "How much is it?"
+  ],
+  "answer": 3,
+  "explanation": "몇 시예요? is 'what time is it?'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "Health",
+  "body": "What does 아파요 mean?",
+  "options": [
+   "it hurts",
+   "I'm busy",
+   "I'm hungry",
+   "I'm tired"
+  ],
+  "answer": 0,
+  "explanation": "배고파요 hungry, 피곤해요 tired, 바빠요 busy.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "EPS facts",
+  "body": "EPS-TOPIK is the Korean test for",
+  "options": [
+   "E-9 work visas in Korea",
+   "Korean citizenship",
+   "Korean university entry",
+   "D-2 student visas"
+  ],
+  "answer": 0,
+  "explanation": "Run by HRD Korea for the Employment Permit System.",
+  "difficulty": 1
+ },
+ {
+  "subject": "KOR",
+  "topic": "EPS facts",
+  "body": "EPS-TOPIK questions are",
+  "options": [
+   "a practical skills test only",
+   "essays only",
+   "reading and listening MCQs",
+   "a speaking interview only"
+  ],
+  "answer": 2,
+  "explanation": "There's no writing section. Some countries also hold a separate skills test.",
+  "difficulty": 1
+ }
+]

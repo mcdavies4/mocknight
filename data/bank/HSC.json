@@ -1,0 +1,450 @@
+[
+ {
+  "subject": "HSC",
+  "topic": "Greetings",
+  "body": "What does 你好 (nǐ hǎo) mean?",
+  "options": [
+   "hello",
+   "sorry",
+   "goodbye",
+   "thank you"
+  ],
+  "answer": 0,
+  "explanation": "再见 (zàijiàn) is goodbye; 谢谢 (xièxie) is thank you.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Greetings",
+  "body": "What does 谢谢 (xièxie) mean?",
+  "options": [
+   "excuse me",
+   "hello",
+   "thank you",
+   "you're welcome"
+  ],
+  "answer": 2,
+  "explanation": "A common reply is 不客气 (bú kèqi), 'you're welcome'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Pinyin",
+  "body": "What is the pinyin for 我 ('I, me')?",
+  "options": [
+   "tā",
+   "wǔ",
+   "wǒ",
+   "nǐ"
+  ],
+  "answer": 2,
+  "explanation": "你 is nǐ (you); 他/她 is tā (he/she); 五 is wǔ (five).",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Pinyin",
+  "body": "How many main tones does Mandarin have (plus a neutral tone)?",
+  "options": [
+   "six",
+   "three",
+   "four",
+   "five"
+  ],
+  "answer": 2,
+  "explanation": "mā, má, mǎ, mà, plus the light neutral tone, as in 吗 (ma).",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Numbers",
+  "body": "Which character means 'three'?",
+  "options": [
+   "四",
+   "三",
+   "山",
+   "二"
+  ],
+  "answer": 1,
+  "explanation": "二 is two, 四 is four, 山 (shān) is mountain.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Vocabulary",
+  "body": "What does 中国 (Zhōngguó) mean?",
+  "options": [
+   "Korea",
+   "China",
+   "the USA",
+   "Japan"
+  ],
+  "answer": 1,
+  "explanation": "日本 is Japan, 美国 is the USA, 韩国 is (South) Korea.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Vocabulary",
+  "body": "What does 昨天 (zuótiān) mean?",
+  "options": [
+   "today",
+   "yesterday",
+   "tomorrow",
+   "the day after tomorrow"
+  ],
+  "answer": 1,
+  "explanation": "今天 is today; 明天 is tomorrow; 后天 is the day after tomorrow.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Vocabulary",
+  "body": "What does 喜欢 (xǐhuan) mean?",
+  "options": [
+   "to like",
+   "to need",
+   "to know",
+   "to want"
+  ],
+  "answer": 0,
+  "explanation": "我喜欢喝茶 — I like drinking tea.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Vocabulary",
+  "body": "What does 我们 (wǒmen) mean?",
+  "options": [
+   "you (plural)",
+   "I",
+   "they",
+   "we"
+  ],
+  "answer": 3,
+  "explanation": "们 makes pronouns plural: 你们 you (plural), 他们 they.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Vocabulary",
+  "body": "What does 医院 (yīyuàn) mean?",
+  "options": [
+   "airport",
+   "shop",
+   "school",
+   "hospital"
+  ],
+  "answer": 3,
+  "explanation": "学校 is school; 机场 is airport; 商店 is shop.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Vocabulary",
+  "body": "What does 飞机 (fēijī) mean?",
+  "options": [
+   "bus",
+   "train",
+   "plane",
+   "taxi"
+  ],
+  "answer": 2,
+  "explanation": "火车 is train; 出租车 is taxi; 公共汽车 is bus.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Vocabulary",
+  "body": "What does 已经 (yǐjīng) mean?",
+  "options": [
+   "still",
+   "never",
+   "again",
+   "already"
+  ],
+  "answer": 3,
+  "explanation": "Often used with 了: 我已经吃了 — I've already eaten.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Grammar",
+  "body": "Which sentence means 'I am a student'?",
+  "options": [
+   "我有学生。",
+   "我是学生。",
+   "我去学生。",
+   "我在学生。"
+  ],
+  "answer": 1,
+  "explanation": "是 links nouns ('to be'); 有 means 'to have'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Grammar",
+  "body": "Adding 吗 (ma) to the end of a statement turns it into",
+  "options": [
+   "a command",
+   "a negative",
+   "the past tense",
+   "a yes/no question"
+  ],
+  "answer": 3,
+  "explanation": "你是老师吗？— Are you a teacher?",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Grammar",
+  "body": "What is the negative of 是 ('to be')?",
+  "options": [
+   "没是",
+   "不是",
+   "非是",
+   "别是"
+  ],
+  "answer": 1,
+  "explanation": "我不是老师 — I am not a teacher.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Grammar",
+  "body": "What is the negative of 有 ('to have')?",
+  "options": [
+   "无是",
+   "别有",
+   "不有",
+   "没有"
+  ],
+  "answer": 3,
+  "explanation": "有 is always negated with 没, never 不.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Grammar",
+  "body": "In 我的书, the word 的 shows",
+  "options": [
+   "possession",
+   "direction",
+   "a question",
+   "the past tense"
+  ],
+  "answer": 0,
+  "explanation": "我的书 — my book.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Grammar",
+  "body": "了 placed straight after a verb usually shows",
+  "options": [
+   "a polite request",
+   "a future plan",
+   "a question",
+   "a completed action"
+  ],
+  "answer": 3,
+  "explanation": "我买了一本书 — I bought a book.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Grammar",
+  "body": "正在 before a verb shows",
+  "options": [
+   "a finished action",
+   "a past habit",
+   "a future plan",
+   "an action in progress"
+  ],
+  "answer": 3,
+  "explanation": "我正在吃饭 — I'm eating right now.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Grammar",
+  "body": "Which is the correct word order for 'I eat at home'?",
+  "options": [
+   "我吃饭在家。",
+   "我在家吃饭。",
+   "在家我饭吃。",
+   "我家在吃饭。"
+  ],
+  "answer": 1,
+  "explanation": "Place phrases with 在 come before the verb.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Grammar",
+  "body": "Which sentence means 'He is taller than me'?",
+  "options": [
+   "我比他高。",
+   "他高比我。",
+   "他比高我。",
+   "他比我高。"
+  ],
+  "answer": 3,
+  "explanation": "Pattern: A 比 B + adjective. 我比他高 means 'I am taller than him'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Grammar",
+  "body": "What does 因为……所以…… mean?",
+  "options": [
+   "if… then…",
+   "not only… but also…",
+   "because… so…",
+   "although… but…"
+  ],
+  "answer": 2,
+  "explanation": "虽然……但是…… is 'although… but…'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Grammar",
+  "body": "In 我会说汉语, 会 means",
+  "options": [
+   "may",
+   "must",
+   "will surely",
+   "can (a skill)"
+  ],
+  "answer": 3,
+  "explanation": "会 is for skills learned, such as speaking a language or swimming.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Measure words",
+  "body": "Which measure word fits: 一___书 (one book)?",
+  "options": [
+   "只",
+   "张",
+   "本",
+   "个"
+  ],
+  "answer": 2,
+  "explanation": "本 for books; 张 for flat things such as paper or tickets; 只 for many animals.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Questions",
+  "body": "How do you ask 'How much is it?'",
+  "options": [
+   "怎么样？",
+   "多少钱？",
+   "几点？",
+   "在哪儿？"
+  ],
+  "answer": 1,
+  "explanation": "几点 is 'what time'; 在哪儿 is 'where'; 怎么样 is 'how is it'.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Questions",
+  "body": "几 (jǐ) is normally used to ask about",
+  "options": [
+   "reasons",
+   "small numbers",
+   "places",
+   "names"
+  ],
+  "answer": 1,
+  "explanation": "你有几个哥哥？— How many older brothers do you have?",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Time",
+  "body": "What does 三点半 mean?",
+  "options": [
+   "half past two",
+   "three minutes past",
+   "quarter past three",
+   "half past three"
+  ],
+  "answer": 3,
+  "explanation": "半 means half; 一刻 is a quarter.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Places",
+  "body": "In 我在北京, 在 means",
+  "options": [
+   "to have",
+   "to go",
+   "to want",
+   "to be in / at"
+  ],
+  "answer": 3,
+  "explanation": "我在北京 — I'm in Beijing.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "HSK facts",
+  "body": "Under HSK 3.0, how many levels does the HSK have?",
+  "options": [
+   "6",
+   "4",
+   "9",
+   "12"
+  ],
+  "answer": 2,
+  "explanation": "Three stages (elementary, intermediate, advanced). The first official HSK 3.0 sitting is 13 December 2026.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "HSK facts",
+  "body": "Under the 2026 HSK 3.0 syllabus, HSK 1 covers about",
+  "options": [
+   "300 words",
+   "500 words",
+   "150 words",
+   "1,000 words"
+  ],
+  "answer": 0,
+  "explanation": "The old HSK 2.0 Level 1 had 150 words.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Vocabulary",
+  "body": "What does 朋友 (péngyou) mean?",
+  "options": [
+   "family",
+   "friend",
+   "teacher",
+   "neighbour"
+  ],
+  "answer": 1,
+  "explanation": "老师 is teacher; 家人 is family.",
+  "difficulty": 1
+ },
+ {
+  "subject": "HSC",
+  "topic": "Vocabulary",
+  "body": "What does 吃饭 (chī fàn) mean?",
+  "options": [
+   "to drink tea",
+   "to eat (a meal)",
+   "to go shopping",
+   "to cook rice"
+  ],
+  "answer": 1,
+  "explanation": "Literally 'eat rice', used for eating a meal.",
+  "difficulty": 1
+ }
+]

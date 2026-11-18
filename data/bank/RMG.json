@@ -1,0 +1,422 @@
+[
+ {
+  "subject": "RMG",
+  "topic": "History",
+  "body": "What is the capital of Russia?",
+  "options": [
+   "Moscow",
+   "Novosibirsk",
+   "Kazan",
+   "St Petersburg"
+  ],
+  "answer": 0,
+  "explanation": "Moscow was first mentioned in the chronicles in 1147.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "History",
+  "body": "In what year was Moscow first mentioned in the chronicles?",
+  "options": [
+   "1480",
+   "1242",
+   "988",
+   "1147"
+  ],
+  "answer": 3,
+  "explanation": "988 is the Baptism of Rus.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "History",
+  "body": "In what year did the Baptism of Rus take place under Prince Vladimir?",
+  "options": [
+   "1147",
+   "1380",
+   "988",
+   "1612"
+  ],
+  "answer": 2,
+  "explanation": "Christianity became the state religion of Kievan Rus.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "History",
+  "body": "Who founded St Petersburg in 1703?",
+  "options": [
+   "Catherine the Great",
+   "Ivan the Terrible",
+   "Peter the Great",
+   "Alexander I"
+  ],
+  "answer": 2,
+  "explanation": "It was the capital from 1712 to 1918.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "History",
+  "body": "In what year was the Battle of Kulikovo?",
+  "options": [
+   "1812",
+   "1612",
+   "1380",
+   "1242"
+  ],
+  "answer": 2,
+  "explanation": "Dmitry Donskoy defeated the Golden Horde army of Mamai.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "History",
+  "body": "In what year did Napoleon invade Russia?",
+  "options": [
+   "1812",
+   "1612",
+   "1914",
+   "1941"
+  ],
+  "answer": 0,
+  "explanation": "The Battle of Borodino was fought that year.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "History",
+  "body": "National Unity Day (4 November) remembers events of",
+  "options": [
+   "1380",
+   "1612",
+   "1812",
+   "1945"
+  ],
+  "answer": 1,
+  "explanation": "Minin and Pozharsky's militia freed Moscow from Polish forces.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "History",
+  "body": "The Great Patriotic War lasted from",
+  "options": [
+   "1945 to 1949",
+   "1939 to 1943",
+   "1914 to 1918",
+   "1941 to 1945"
+  ],
+  "answer": 3,
+  "explanation": "Victory Day is 9 May.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "History",
+  "body": "Who was the first person in space, in 1961?",
+  "options": [
+   "Sergei Korolev",
+   "Valentina Tereshkova",
+   "Yuri Gagarin",
+   "Alexei Leonov"
+  ],
+  "answer": 2,
+  "explanation": "Tereshkova was the first woman in space (1963).",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "History",
+  "body": "Who wrote 'War and Peace'?",
+  "options": [
+   "Leo Tolstoy",
+   "Alexander Pushkin",
+   "Anton Chekhov",
+   "Fyodor Dostoevsky"
+  ],
+  "answer": 0,
+  "explanation": "Pushkin is often called the founder of modern Russian literature.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "Holidays",
+  "body": "When is Victory Day?",
+  "options": [
+   "12 June",
+   "9 May",
+   "4 November",
+   "1 May"
+  ],
+  "answer": 1,
+  "explanation": "It marks victory in the Great Patriotic War.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "Holidays",
+  "body": "When is Russia Day?",
+  "options": [
+   "9 May",
+   "12 December",
+   "12 June",
+   "23 February"
+  ],
+  "answer": 2,
+  "explanation": "12 December is Constitution Day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "Symbols",
+  "body": "What are the colours of the Russian flag, top to bottom?",
+  "options": [
+   "blue, white, red",
+   "red, blue, white",
+   "white, red, blue",
+   "white, blue, red"
+  ],
+  "answer": 3,
+  "explanation": "The coat of arms shows a double-headed eagle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "Law",
+  "body": "When was the current Russian Constitution adopted?",
+  "options": [
+   "12 June 1990",
+   "12 December 1993",
+   "7 November 1917",
+   "25 December 1991"
+  ],
+  "answer": 1,
+  "explanation": "Adopted by national vote; amended in 2020.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "Law",
+  "body": "Who is the head of state in Russia?",
+  "options": [
+   "the Constitutional Court",
+   "the Prime Minister",
+   "the President",
+   "the Chair of the State Duma"
+  ],
+  "answer": 2,
+  "explanation": "The Government is headed by the Prime Minister (Chairman of the Government).",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "Law",
+  "body": "How long is a presidential term in Russia?",
+  "options": [
+   "6 years",
+   "4 years",
+   "5 years",
+   "7 years"
+  ],
+  "answer": 0,
+  "explanation": "Extended from 4 to 6 years from 2012.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "Law",
+  "body": "The Federal Assembly (parliament) is made up of",
+  "options": [
+   "the State Duma and Federation Council",
+   "the State Duma and the Government",
+   "the Government and Supreme Court",
+   "the Senate and the Congress"
+  ],
+  "answer": 0,
+  "explanation": "The Federation Council is the upper house.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "Law",
+  "body": "From what age can a citizen vote in Russia?",
+  "options": [
+   "21",
+   "25",
+   "18",
+   "16"
+  ],
+  "answer": 2,
+  "explanation": "Voting is a right of citizens, not foreign nationals.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "Law",
+  "body": "Under the Constitution, the highest value is",
+  "options": [
+   "human rights and freedoms",
+   "the army and security",
+   "the state and its borders",
+   "property and the economy"
+  ],
+  "answer": 0,
+  "explanation": "Article 2 of the Constitution.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "Law",
+  "body": "What is Russia's state language?",
+  "options": [
+   "there is none",
+   "Russian and English",
+   "Russian",
+   "Russian and Tatar only"
+  ],
+  "answer": 2,
+  "explanation": "Republics may also set their own state languages.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "Law",
+  "body": "What is the single emergency number in Russia?",
+  "options": [
+   "000",
+   "999",
+   "112",
+   "911"
+  ],
+  "answer": 2,
+  "explanation": "It works from mobiles even without a SIM card.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "Law",
+  "body": "Which number calls an ambulance in Russia?",
+  "options": [
+   "104",
+   "102",
+   "101",
+   "103"
+  ],
+  "answer": 3,
+  "explanation": "101 fire, 102 police, 104 gas emergency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "Migration",
+  "body": "A worker from a visa-free country outside the EAEU usually needs",
+  "options": [
+   "no document at all",
+   "a work patent",
+   "a tourist visa",
+   "a student card"
+  ],
+  "answer": 1,
+  "explanation": "Patents let foreign nationals from visa-free countries work for individuals and companies.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "Migration",
+  "body": "Citizens of which union don't need a work patent in Russia?",
+  "options": [
+   "the Commonwealth of Nations",
+   "the European Union",
+   "the African Union",
+   "the Eurasian Economic Union"
+  ],
+  "answer": 3,
+  "explanation": "EAEU: Armenia, Belarus, Kazakhstan, Kyrgyzstan (and Russia).",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "Migration",
+  "body": "To keep a work patent valid, the holder must",
+  "options": [
+   "pay nothing after issue",
+   "pay once a year only",
+   "pay the advance tax every month",
+   "report to the police weekly"
+  ],
+  "answer": 2,
+  "explanation": "A late payment cancels the patent.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "Migration",
+  "body": "Since 1 January 2026, the migrant exam is taken",
+  "options": [
+   "on paper at any school",
+   "orally with an officer",
+   "on computers at test centres",
+   "online from home"
+  ],
+  "answer": 2,
+  "explanation": "Centres are monitored remotely by the authorities.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "Language",
+  "body": "What does Где можно купить билет? mean?",
+  "options": [
+   "Can I return a ticket?",
+   "How much is a ticket?",
+   "When does the train leave?",
+   "Where can I buy a ticket?"
+  ],
+  "answer": 3,
+  "explanation": "купить = to buy; билет = ticket.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "Language",
+  "body": "What does Работа начинается в 8 часов mean?",
+  "options": [
+   "Work ends at 8 o'clock.",
+   "Work starts on the 8th.",
+   "Work starts at 8 o'clock.",
+   "Work lasts 8 hours."
+  ],
+  "answer": 2,
+  "explanation": "начинается = begins; заканчивается = ends.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "Language",
+  "body": "What does Мне нужен врач mean?",
+  "options": [
+   "Where is the doctor?",
+   "The doctor needs me.",
+   "I am a doctor.",
+   "I need a doctor."
+  ],
+  "answer": 3,
+  "explanation": "нужен/нужна/нужно agree with the noun.",
+  "difficulty": 2
+ },
+ {
+  "subject": "RMG",
+  "topic": "Language",
+  "body": "A sign saying Вход запрещён means",
+  "options": [
+   "No entry",
+   "Entrance open",
+   "Push",
+   "Exit"
+  ],
+  "answer": 0,
+  "explanation": "Выход = exit; Вход = entrance.",
+  "difficulty": 2
+ }
+]

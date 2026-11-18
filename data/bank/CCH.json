@@ -1,0 +1,338 @@
+[
+ {
+  "subject": "CCH",
+  "topic": "Atoms",
+  "body": "The atomic number is the number of",
+  "options": [
+   "nucleons",
+   "protons",
+   "neutrons",
+   "electron shells"
+  ],
+  "answer": 1,
+  "explanation": "It identifies the element.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Atoms",
+  "body": "Isotopes of an element have different numbers of",
+  "options": [
+   "protons",
+   "electrons",
+   "shells",
+   "neutrons"
+  ],
+  "answer": 3,
+  "explanation": "Same protons, different mass numbers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Atoms",
+  "body": "What is the electron arrangement of sodium (atomic number 11)?",
+  "options": [
+   "2, 8, 2",
+   "2, 7, 2",
+   "2, 8, 1",
+   "2, 9"
+  ],
+  "answer": 2,
+  "explanation": "One outer electron, so it's in group 1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Periodic table",
+  "body": "The noble gases are in",
+  "options": [
+   "group 18",
+   "group 2",
+   "group 1",
+   "group 17"
+  ],
+  "answer": 0,
+  "explanation": "Full outer shells make them unreactive.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Periodic table",
+  "body": "Which of these is the most reactive metal?",
+  "options": [
+   "potassium",
+   "sodium",
+   "lithium",
+   "magnesium"
+  ],
+  "answer": 0,
+  "explanation": "Group 1 reactivity increases down the group.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Periodic table",
+  "body": "Which halogen is a liquid at room temperature?",
+  "options": [
+   "iodine",
+   "bromine",
+   "fluorine",
+   "chlorine"
+  ],
+  "answer": 1,
+  "explanation": "Chlorine and fluorine are gases; iodine is a solid.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Bonding",
+  "body": "What type of bonding is in sodium chloride?",
+  "options": [
+   "hydrogen",
+   "metallic",
+   "ionic",
+   "covalent"
+  ],
+  "answer": 2,
+  "explanation": "Na⁺ and Cl⁻ ions attract.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Formulae",
+  "body": "What is the formula of water?",
+  "options": [
+   "HO₂",
+   "OH",
+   "H₂O",
+   "H₂O₂"
+  ],
+  "answer": 2,
+  "explanation": "H₂O₂ is hydrogen peroxide.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Formulae",
+  "body": "What is the formula of ethanol?",
+  "options": [
+   "CH₃OH",
+   "CH₃COOH",
+   "C₂H₅OH",
+   "C₂H₆"
+  ],
+  "answer": 2,
+  "explanation": "CH₃OH is methanol; CH₃COOH is ethanoic acid.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Organic",
+  "body": "What is the general formula of the alkanes?",
+  "options": [
+   "CₙH₂ₙ",
+   "CₙH₂ₙ₋₂",
+   "CₙHₙ",
+   "CₙH₂ₙ₊₂"
+  ],
+  "answer": 3,
+  "explanation": "CₙH₂ₙ is the alkenes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Moles",
+  "body": "What is the molar mass of CO₂ (C = 12, O = 16)?",
+  "options": [
+   "32 g/mol",
+   "60 g/mol",
+   "28 g/mol",
+   "44 g/mol"
+  ],
+  "answer": 3,
+  "explanation": "12 + 2 × 16 = 44.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Moles",
+  "body": "How many moles are in 36 g of water (H₂O = 18 g/mol)?",
+  "options": [
+   "1 mol",
+   "18 mol",
+   "0.5 mol",
+   "2 mol"
+  ],
+  "answer": 3,
+  "explanation": "n = m ÷ M.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Moles",
+  "body": "What is Avogadro's constant?",
+  "options": [
+   "6.02 × 10²³ per mol",
+   "1.60 × 10⁻¹⁹ per mol",
+   "3.00 × 10⁸ per mol",
+   "6.02 × 10²² per mol"
+  ],
+  "answer": 0,
+  "explanation": "The number of particles in one mole.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Moles",
+  "body": "0.5 mol of solute is dissolved to make 250 mL. What is the concentration?",
+  "options": [
+   "0.125 mol/L",
+   "1 mol/L",
+   "2 mol/L",
+   "0.5 mol/L"
+  ],
+  "answer": 2,
+  "explanation": "c = n ÷ V = 0.5 ÷ 0.25.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Acids",
+  "body": "A solution with pH 7 is",
+  "options": [
+   "strongly acidic",
+   "weakly acidic",
+   "neutral",
+   "strongly alkaline"
+  ],
+  "answer": 2,
+  "explanation": "Below 7 is acidic; above 7 alkaline.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Acids",
+  "body": "Which pH is the most acidic?",
+  "options": [
+   "1",
+   "5",
+   "13",
+   "7"
+  ],
+  "answer": 0,
+  "explanation": "Lower pH means more H⁺ ions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Acids",
+  "body": "An acid reacts with a base to give",
+  "options": [
+   "only water",
+   "a salt and water",
+   "oxygen and water",
+   "a salt and hydrogen"
+  ],
+  "answer": 1,
+  "explanation": "This is neutralisation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Reactions",
+  "body": "Oxidation is",
+  "options": [
+   "gain of electrons",
+   "loss of electrons",
+   "loss of neutrons",
+   "gain of protons"
+  ],
+  "answer": 1,
+  "explanation": "OIL RIG: oxidation is loss, reduction is gain.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Reactions",
+  "body": "A catalyst",
+  "options": [
+   "changes the products made",
+   "slows a reaction down",
+   "speeds a reaction, unchanged",
+   "is used up in the reaction"
+  ],
+  "answer": 2,
+  "explanation": "It lowers the activation energy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Reactions",
+  "body": "An exothermic reaction",
+  "options": [
+   "needs light",
+   "releases heat",
+   "has no energy change",
+   "absorbs heat"
+  ],
+  "answer": 1,
+  "explanation": "Combustion is exothermic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Reactions",
+  "body": "Increasing pressure on a gas equilibrium favours",
+  "options": [
+   "the side with more gas moles",
+   "neither side equally",
+   "the products every time",
+   "the side with fewer gas moles"
+  ],
+  "answer": 3,
+  "explanation": "Le Chatelier's principle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Tests",
+  "body": "Which gas turns limewater milky?",
+  "options": [
+   "hydrogen",
+   "carbon dioxide",
+   "oxygen",
+   "nitrogen"
+  ],
+  "answer": 1,
+  "explanation": "Hydrogen gives a squeaky pop with a lit splint.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Electrolysis",
+  "body": "In the electrolysis of water, which gas forms at the cathode?",
+  "options": [
+   "hydrogen",
+   "chlorine",
+   "oxygen",
+   "nitrogen"
+  ],
+  "answer": 0,
+  "explanation": "Oxygen forms at the anode.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CCH",
+  "topic": "Materials",
+  "body": "Rust is mainly",
+  "options": [
+   "hydrated iron(III) oxide",
+   "iron(II) sulfide",
+   "iron(II) chloride",
+   "copper(II) oxide"
+  ],
+  "answer": 0,
+  "explanation": "Iron needs water and oxygen to rust.",
+  "difficulty": 2
+ }
+]
