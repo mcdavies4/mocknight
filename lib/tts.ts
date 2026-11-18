@@ -20,7 +20,8 @@ export async function synthesize(text: string, lang: string, format: AudioFormat
   const call = async (voice: Record<string, string>) => {
     const res = await fetch(`https://texttospeech.googleapis.com/v1/text:synthesize?key=${encodeURIComponent(key)}`, {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      // Keys restricted to websites need a Referer, so identify as the site.
+      headers: { "Content-Type": "application/json", Referer: `${(process.env.APP_URL ?? "https://mocknight.online").replace(/\/$/, "")}/` },
       body: JSON.stringify({ input: { text }, voice, audioConfig }),
       cache: "no-store",
     });
