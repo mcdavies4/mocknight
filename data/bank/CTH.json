@@ -1,0 +1,702 @@
+[
+ {
+  "subject": "CTH",
+  "topic": "Legal duties",
+  "body": "Under the Health and Safety at Work etc. Act 1974, employees must",
+  "options": [
+   "write the site risk assessment themselves",
+   "follow only the instructions they agree with",
+   "take reasonable care of themselves and others affected by their work",
+   "provide their own PPE at their own cost"
+  ],
+  "answer": 2,
+  "explanation": "Section 7 also requires employees to co-operate with their employer on health and safety.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Legal duties",
+  "body": "Who must provide PPE needed for the job, free of charge?",
+  "options": [
+   "the PPE supplier",
+   "the employer",
+   "the client",
+   "the worker"
+  ],
+  "answer": 1,
+  "explanation": "Employers can't charge workers for PPE required for their work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Legal duties",
+  "body": "A method statement explains",
+  "options": [
+   "which tools are cheapest to buy",
+   "the site's opening and closing times",
+   "who will be paid for the task",
+   "how a task will be carried out safely, step by step"
+  ],
+  "answer": 3,
+  "explanation": "Read and follow the method statement; ask if anything isn't clear.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Legal duties",
+  "body": "If you think a method statement is unsafe for the conditions on site, you should",
+  "options": [
+   "carry on and mention it at the end of the week",
+   "stop and tell your supervisor before carrying on",
+   "ask another operative to do the task instead",
+   "change the method yourself without telling anyone"
+  ],
+  "answer": 1,
+  "explanation": "Work must stop until the risk has been reviewed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Legal duties",
+  "body": "An HSE inspector can issue a prohibition notice, which means",
+  "options": [
+   "the site must close permanently",
+   "the company must pay a fine on the spot",
+   "the activity must stop until the danger is put right",
+   "the work can continue for 21 days"
+  ],
+  "answer": 2,
+  "explanation": "An improvement notice gives a deadline to fix a breach.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Accident reporting",
+  "body": "Under RIDDOR, an injury that keeps a worker off normal duties for more than 7 days must be reported within",
+  "options": [
+   "6 months",
+   "1 year",
+   "24 hours",
+   "15 days of the accident"
+  ],
+  "answer": 3,
+  "explanation": "Deaths and specified injuries must be reported without delay.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Accident reporting",
+  "body": "A near miss is",
+  "options": [
+   "an event that could have caused injury or damage but didn't",
+   "a delivery that arrived late",
+   "a failed site inspection",
+   "an accident that caused minor injury"
+  ],
+  "answer": 0,
+  "explanation": "Reporting near misses helps prevent the next accident.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Health and welfare",
+  "body": "Construction sites must provide welfare facilities including",
+  "options": [
+   "a canteen with free hot meals",
+   "toilets, washing facilities, drinking water and a rest area",
+   "private car parking for every worker",
+   "a gym and showers for each trade"
+  ],
+  "answer": 1,
+  "explanation": "Facilities must be available from the start of the job.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Health and welfare",
+  "body": "Which disease can be caused by breathing in asbestos fibres?",
+  "options": [
+   "mesothelioma",
+   "dermatitis",
+   "Weil's disease",
+   "tetanus"
+  ],
+  "answer": 0,
+  "explanation": "Asbestos-related diseases often appear 20 or more years after exposure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Health and welfare",
+  "body": "Asbestos is most likely to be found in buildings",
+  "options": [
+   "less than five years old",
+   "made entirely of timber",
+   "built after the year 2010",
+   "built or refurbished before the year 2000"
+  ],
+  "answer": 3,
+  "explanation": "If you suspect asbestos, stop work and report it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Health and welfare",
+  "body": "Weil's disease (leptospirosis) is spread mainly through",
+  "options": [
+   "breathing in silica dust",
+   "contact with water or soil contaminated by rat urine",
+   "touching wet cement",
+   "using vibrating tools"
+  ],
+  "answer": 1,
+  "explanation": "Cover cuts and wash hands before eating or smoking.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Health and welfare",
+  "body": "Cutting concrete or stone creates a dust that can cause serious lung disease. The dust is",
+  "options": [
+   "rust from steel",
+   "gypsum plaster dust",
+   "respirable crystalline silica",
+   "sawdust from softwood"
+  ],
+  "answer": 2,
+  "explanation": "Use water suppression or extraction and suitable RPE.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Health and welfare",
+  "body": "Tight-fitting respiratory protective equipment (RPE) will only protect you properly if it has been",
+  "options": [
+   "worn for at least a full year",
+   "stored in your van toolbox",
+   "face-fit tested for you and you are clean-shaven where it seals",
+   "bought from a builders' merchant"
+  ],
+  "answer": 2,
+  "explanation": "Stubble breaks the seal on the face.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Health and welfare",
+  "body": "Contact dermatitis on construction sites is commonly caused by",
+  "options": [
+   "loud noise from breakers",
+   "wet cement and some resins or solvents",
+   "working at height",
+   "vibrating hand tools"
+  ],
+  "answer": 1,
+  "explanation": "Wear suitable gloves and wash skin promptly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Noise and vibration",
+  "body": "The upper exposure action value for daily noise exposure is",
+  "options": [
+   "85 dB(A)",
+   "120 dB(A)",
+   "70 dB(A)",
+   "50 dB(A)"
+  ],
+  "answer": 0,
+  "explanation": "At 85 dB(A) hearing protection must be worn; at 80 dB(A) it must be made available.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Noise and vibration",
+  "body": "A sign that noise levels may be too high is that you",
+  "options": [
+   "can hear birds outside",
+   "can hear a radio across the room",
+   "have to shout to be heard by someone 2 metres away",
+   "can talk normally at arm's length"
+  ],
+  "answer": 2,
+  "explanation": "Noise damage to hearing is permanent.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Noise and vibration",
+  "body": "Hand-arm vibration syndrome (HAVS) can cause",
+  "options": [
+   "tingling, numbness and white fingers",
+   "hearing loss",
+   "skin burns",
+   "back pain only"
+  ],
+  "answer": 0,
+  "explanation": "Limit trigger time and use low-vibration tools.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Manual handling",
+  "body": "Before lifting a load manually, you should first",
+  "options": [
+   "consider whether a mechanical aid can be used instead",
+   "twist your back to reach it",
+   "lift it quickly to save time",
+   "ask the lightest person to carry it"
+  ],
+  "answer": 0,
+  "explanation": "Avoid hazardous manual handling where reasonably practicable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Manual handling",
+  "body": "When lifting a load, you should keep it",
+  "options": [
+   "on one side to balance",
+   "at arm's length from your body",
+   "above shoulder height",
+   "close to your waist with a firm grip"
+  ],
+  "answer": 3,
+  "explanation": "Bend your knees and avoid twisting.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Work at height",
+  "body": "The first step in the work at height hierarchy is to",
+  "options": [
+   "use a ladder",
+   "put up warning signs",
+   "avoid working at height where possible",
+   "provide a safety harness"
+  ],
+  "answer": 2,
+  "explanation": "Then prevent falls, then minimise the distance and consequences of a fall.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Work at height",
+  "body": "A leaning ladder should be set at an angle of about",
+  "options": [
+   "45 degrees, or 1 out for every 1 up",
+   "90 degrees against the wall",
+   "60 degrees, or 1 out for every 2 up",
+   "75 degrees, or 1 out for every 4 up"
+  ],
+  "answer": 3,
+  "explanation": "Make sure it is secured and on firm, level ground.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Work at height",
+  "body": "Ladders are suitable for",
+  "options": [
+   "short-duration, light work where a safer option isn't justified",
+   "carrying sheet materials up a roof",
+   "heavy work lasting all day",
+   "any job as long as it is under 10 metres"
+  ],
+  "answer": 0,
+  "explanation": "Short duration is generally taken as up to about 30 minutes in one position.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Work at height",
+  "body": "A mobile tower scaffold should only be moved when",
+  "options": [
+   "nobody and nothing is on the platform",
+   "the brakes are fully on",
+   "one person is still on it to keep it steady",
+   "the wind is strong"
+  ],
+  "answer": 0,
+  "explanation": "Check the brakes are on again before anyone climbs back up.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Work at height",
+  "body": "A scaffold must be inspected",
+  "options": [
+   "only when it is first erected",
+   "once a month",
+   "before first use, at least every 7 days, and after anything that could affect it",
+   "only after it has been dismantled"
+  ],
+  "answer": 2,
+  "explanation": "Look for a scaffold tag showing it's safe to use.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Work at height",
+  "body": "Fragile roof materials such as old cement sheets and roof lights",
+  "options": [
+   "are safe in dry weather",
+   "are safe if you walk on the bolts",
+   "can be crossed if you move quickly",
+   "can give way under your weight without warning"
+  ],
+  "answer": 3,
+  "explanation": "Use staging and protection; never walk directly on them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Excavations",
+  "body": "Before digging, the main way to find buried services such as cables and pipes is to",
+  "options": [
+   "dig quickly with a mechanical excavator",
+   "check service plans and use a cable avoidance tool (CAT)",
+   "look for warning tape only",
+   "ask a passer-by"
+  ],
+  "answer": 1,
+  "explanation": "Hand-dig trial holes to expose services.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Excavations",
+  "body": "Excavations must be inspected",
+  "options": [
+   "only if someone has been injured",
+   "once a month",
+   "only when the trench is finished",
+   "at the start of each shift and after any event that could affect stability"
+  ],
+  "answer": 3,
+  "explanation": "A competent person carries out inspections.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Excavations",
+  "body": "Spoil and materials should be kept",
+  "options": [
+   "inside the trench",
+   "back from the edge of an excavation",
+   "on top of the shoring",
+   "right on the edge of the trench"
+  ],
+  "answer": 1,
+  "explanation": "Loads near the edge can cause a collapse.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Plant and vehicles",
+  "body": "Most deaths involving site vehicles happen while",
+  "options": [
+   "vehicles are refuelling",
+   "vehicles are reversing",
+   "vehicles are being cleaned",
+   "vehicles are parked"
+  ],
+  "answer": 1,
+  "explanation": "Use a trained signaller (banksman) and keep out of reversing areas.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Plant and vehicles",
+  "body": "You should only operate site plant if you are",
+  "options": [
+   "over 18 and have a car licence",
+   "watching an experienced driver",
+   "in a hurry and the driver is busy",
+   "trained, competent and authorised to use it"
+  ],
+  "answer": 3,
+  "explanation": "Never ride on plant unless a proper seat is provided.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Plant and vehicles",
+  "body": "To be safe around moving plant, you should",
+  "options": [
+   "make eye contact with the driver and keep out of the danger zone",
+   "walk behind the vehicle",
+   "rely on hearing the reversing alarm",
+   "wave and walk past quickly"
+  ],
+  "answer": 0,
+  "explanation": "Use segregated pedestrian routes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Electrical safety",
+  "body": "Portable electric tools on UK construction sites should normally run on",
+  "options": [
+   "110 volts supplied through a reduced-voltage transformer",
+   "230 volts from any socket",
+   "400 volts three-phase",
+   "12 volts from a car battery"
+  ],
+  "answer": 0,
+  "explanation": "Battery-powered tools are safer still.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Electrical safety",
+  "body": "Before using an electrical tool, you should",
+  "options": [
+   "tape over any cuts in the cable",
+   "run the cable through standing water",
+   "remove the plug fuse",
+   "check the cable, plug and casing for damage"
+  ],
+  "answer": 3,
+  "explanation": "Don't use damaged equipment; report it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Electrical safety",
+  "body": "If you find an overhead power line near your work area, you should",
+  "options": [
+   "lift scaffold tubes under it carefully",
+   "stop and get advice on safe distances and barriers",
+   "use a wooden ladder to get closer",
+   "carry on but work slowly"
+  ],
+  "answer": 1,
+  "explanation": "Contact with overhead lines kills.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Fire",
+  "body": "The three sides of the fire triangle are",
+  "options": [
+   "heat, fuel and oxygen",
+   "heat, light and sound",
+   "smoke, flame and heat",
+   "water, foam and powder"
+  ],
+  "answer": 0,
+  "explanation": "Remove one side and the fire goes out.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Fire",
+  "body": "Which extinguisher should be used on a fire involving live electrical equipment?",
+  "options": [
+   "wet chemical",
+   "carbon dioxide (CO₂)",
+   "water",
+   "foam"
+  ],
+  "answer": 1,
+  "explanation": "Water conducts electricity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Fire",
+  "body": "Hot works such as welding or grinding near flammable materials normally need",
+  "options": [
+   "a hot work permit and a fire watch afterwards",
+   "a ladder and harness",
+   "no extra controls at all",
+   "the area to be wet with petrol"
+  ],
+  "answer": 0,
+  "explanation": "Fire can smoulder for some time after work stops.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Safety signs",
+  "body": "A blue circular sign means",
+  "options": [
+   "you must do something, such as wear a hard hat",
+   "a safe condition such as a first aid point",
+   "there is a danger warning",
+   "you must not do something"
+  ],
+  "answer": 0,
+  "explanation": "Red circles prohibit; yellow triangles warn; green signs show safe conditions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Safety signs",
+  "body": "A green rectangular sign usually shows",
+  "options": [
+   "a hazard warning",
+   "a safe condition, such as a fire exit or first aid",
+   "a mandatory action",
+   "a prohibited action"
+  ],
+  "answer": 1,
+  "explanation": "Fire-fighting equipment signs are red.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Safety signs",
+  "body": "A yellow triangular sign with a black border means",
+  "options": [
+   "no entry",
+   "warning of a hazard",
+   "emergency escape route",
+   "you must wear PPE"
+  ],
+  "answer": 1,
+  "explanation": "For example, overhead loads or electricity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Hazardous substances",
+  "body": "COSHH regulations deal with",
+  "options": [
+   "electrical installations",
+   "lifting operations",
+   "working at height",
+   "substances hazardous to health such as chemicals and dusts"
+  ],
+  "answer": 3,
+  "explanation": "Read the safety data sheet and COSHH assessment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Hazardous substances",
+  "body": "A red diamond-shaped symbol with a black skull and crossbones means a substance is",
+  "options": [
+   "a gas under pressure",
+   "flammable",
+   "an environmental hazard",
+   "acutely toxic"
+  ],
+  "answer": 3,
+  "explanation": "Follow the controls in the COSHH assessment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Hazardous substances",
+  "body": "Where should you find information on the hazards of a chemical product?",
+  "options": [
+   "the site sign-in book",
+   "the price label",
+   "the delivery note",
+   "the safety data sheet and the product label"
+  ],
+  "answer": 3,
+  "explanation": "Ask your supervisor for the COSHH assessment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Confined spaces",
+  "body": "Work in a confined space such as a manhole or tank needs",
+  "options": [
+   "one person working alone",
+   "no special controls if it's short",
+   "a permit to work and a rescue plan before entry",
+   "only a good torch"
+  ],
+  "answer": 2,
+  "explanation": "Dangerous gases and lack of oxygen can kill quickly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Environment",
+  "body": "If oil or diesel is spilt near a surface water drain, you should first",
+  "options": [
+   "cover it with soil and leave it",
+   "carry on and report it later",
+   "wash it into the drain with water",
+   "stop the source if safe and protect the drain with a spill kit"
+  ],
+  "answer": 3,
+  "explanation": "Then report the spill.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Environment",
+  "body": "Site waste should be",
+  "options": [
+   "segregated into the right skips so it can be recycled or disposed of properly",
+   "buried in a trench",
+   "burned on site",
+   "mixed in one skip to save space"
+  ],
+  "answer": 0,
+  "explanation": "Hazardous waste needs special handling.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Site rules",
+  "body": "A site induction tells you about",
+  "options": [
+   "site hazards, rules, welfare and emergency arrangements",
+   "the client's profits",
+   "how to apply for a mortgage",
+   "your hourly pay rate"
+  ],
+  "answer": 0,
+  "explanation": "You must attend before starting work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Site rules",
+  "body": "Being under the influence of drugs or alcohol at work is dangerous because",
+  "options": [
+   "it improves concentration",
+   "it reduces fatigue",
+   "it slows reactions and affects judgement",
+   "it makes you more alert"
+  ],
+  "answer": 2,
+  "explanation": "Most sites have a zero-tolerance policy and test workers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "Site rules",
+  "body": "Toolbox talks are",
+  "options": [
+   "meetings to sell new tools",
+   "inspections of personal toolboxes",
+   "training to become a supervisor",
+   "short safety briefings on a specific topic or task"
+  ],
+  "answer": 3,
+  "explanation": "Ask questions if anything is unclear.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CTH",
+  "topic": "First aid",
+  "body": "If you find an injured person on site, you should first",
+  "options": [
+   "give them something to drink",
+   "move them straight away",
+   "make sure the area is safe and call for a first aider",
+   "leave them and finish your work"
+  ],
+  "answer": 2,
+  "explanation": "Call 999 for serious injuries.",
+  "difficulty": 2
+ }
+]

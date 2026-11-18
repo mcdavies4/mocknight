@@ -1,0 +1,422 @@
+[
+ {
+  "subject": "FSE2",
+  "topic": "Punctuation",
+  "body": "Which sentence uses a semicolon correctly?",
+  "options": [
+   "The shop was closed we; went home instead.",
+   "The shop was; closed, we went home instead.",
+   "The shop; was closed we went home instead.",
+   "The shop was closed; we went home instead."
+  ],
+  "answer": 3,
+  "explanation": "A semicolon can join two closely related complete sentences.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Punctuation",
+  "body": "Which sentence uses a colon correctly?",
+  "options": [
+   "Bring three things a pen: a calculator and photo ID.",
+   "Bring three things: a pen, a calculator and photo ID.",
+   "Bring: three things a pen, a calculator and photo ID.",
+   "Bring three: things, a pen a calculator and photo ID."
+  ],
+  "answer": 1,
+  "explanation": "A colon can introduce a list.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Punctuation",
+  "body": "Which correctly shows results belonging to several students?",
+  "options": [
+   "the student's' results",
+   "the student's results",
+   "the students' results",
+   "the students results'"
+  ],
+  "answer": 2,
+  "explanation": "For a plural ending in s, add the apostrophe after the s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Punctuation",
+  "body": "Which sentence uses 'its' correctly?",
+  "options": [
+   "The company changed it is logo last year.",
+   "The company changed it's logo last year.",
+   "The company changed its logo last year.",
+   "The company changed its' logo last year."
+  ],
+  "answer": 2,
+  "explanation": "'It's' means 'it is' or 'it has'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Punctuation",
+  "body": "Which sentence uses commas correctly around extra information?",
+  "options": [
+   "My manager, who started in May, is very supportive.",
+   "My, manager who started in May is very supportive.",
+   "My manager who started in May, is, very supportive.",
+   "My manager who started, in May is very supportive."
+  ],
+  "answer": 0,
+  "explanation": "Commas mark off extra (non-essential) information.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Punctuation",
+  "body": "Which sentence avoids a comma splice?",
+  "options": [
+   "It was, raining we cancelled the match.",
+   "It was raining, we cancelled the match.",
+   "It was raining we cancelled, the match.",
+   "It was raining, so we cancelled the match."
+  ],
+  "answer": 3,
+  "explanation": "Two full sentences can't be joined by a comma alone.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Spelling",
+  "body": "Which spelling is correct for the word meaning 'a place to stay'?",
+  "options": [
+   "accommadation",
+   "accomodation",
+   "acommodation",
+   "accommodation"
+  ],
+  "answer": 3,
+  "explanation": "Double c and double m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Spelling",
+  "body": "Which spelling is correct for the word meaning 'certainly'?",
+  "options": [
+   "definitely",
+   "definately",
+   "defiantly",
+   "definitly"
+  ],
+  "answer": 0,
+  "explanation": "It contains the word 'finite'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Spelling",
+  "body": "Which spelling is correct for the word meaning 'to make someone feel awkward'?",
+  "options": [
+   "embarass",
+   "embarrass",
+   "emberrass",
+   "embaras"
+  ],
+  "answer": 1,
+  "explanation": "Double r and double s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Spelling",
+  "body": "Which spelling is correct for the word meaning 'the group that runs a country'?",
+  "options": [
+   "govermant",
+   "government",
+   "governmant",
+   "goverment"
+  ],
+  "answer": 1,
+  "explanation": "Don't forget the n.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Homophones",
+  "body": "Choose the correct word: 'The new policy will ___ all staff.'",
+  "options": [
+   "efect",
+   "affect",
+   "effect",
+   "afect"
+  ],
+  "answer": 1,
+  "explanation": "'Affect' is usually a verb; 'effect' is usually a noun.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Homophones",
+  "body": "Choose the correct word: 'Please send me the ___ by Friday.'",
+  "options": [
+   "stationery order",
+   "stationary order",
+   "stationory order",
+   "stationry order"
+  ],
+  "answer": 0,
+  "explanation": "Stationery means paper and pens; stationary means not moving.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Homophones",
+  "body": "Choose the correct word: 'Her ___ was helpful in the meeting.'",
+  "options": [
+   "advyce",
+   "advice",
+   "advise",
+   "advize"
+  ],
+  "answer": 1,
+  "explanation": "'Advice' is the noun; 'advise' is the verb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Grammar",
+  "body": "Choose the correct verb: 'Neither of the proposals ___ acceptable.'",
+  "options": [
+   "were",
+   "are",
+   "is",
+   "be"
+  ],
+  "answer": 2,
+  "explanation": "'Neither' takes a singular verb.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Grammar",
+  "body": "Choose the correct verb: 'Each of the managers ___ a parking space.'",
+  "options": [
+   "having",
+   "have",
+   "has",
+   "are having"
+  ],
+  "answer": 2,
+  "explanation": "'Each' is singular, so it takes 'has'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Grammar",
+  "body": "Which sentence keeps the tense consistent?",
+  "options": [
+   "She opened the door and sees the parcel.",
+   "She opens the door and saw the parcel.",
+   "She opening the door and saw the parcel.",
+   "She opened the door and saw the parcel."
+  ],
+  "answer": 3,
+  "explanation": "Don't switch tense without a reason.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Grammar",
+  "body": "Which sentence is written in the passive voice?",
+  "options": [
+   "The report was written by the manager.",
+   "The manager is writing the report.",
+   "The manager will write the report.",
+   "The manager wrote the report."
+  ],
+  "answer": 0,
+  "explanation": "In the passive, the object of the action comes first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Grammar",
+  "body": "Choose the correct word: 'There were ___ people at the event than last year.'",
+  "options": [
+   "fewer",
+   "littler",
+   "lesser",
+   "less"
+  ],
+  "answer": 0,
+  "explanation": "Use 'fewer' for things you can count.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Reading",
+  "body": "A text that tries to make you buy a product is mainly",
+  "options": [
+   "descriptive",
+   "explanatory",
+   "instructive",
+   "persuasive"
+  ],
+  "answer": 3,
+  "explanation": "Look for persuasive techniques such as emotive language.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Reading",
+  "body": "Which is an example of a persuasive technique?",
+  "options": [
+   "a glossary of terms",
+   "a table of opening times",
+   "a rhetorical question such as 'Why wait any longer?'",
+   "a numbered list of instructions"
+  ],
+  "answer": 2,
+  "explanation": "Others include statistics, repetition and the rule of three.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Reading",
+  "body": "Biased writing",
+  "options": [
+   "always gives both sides equally",
+   "uses only numbers",
+   "presents only one side and may leave out important facts",
+   "is always written by experts"
+  ],
+  "answer": 2,
+  "explanation": "Compare sources to judge reliability.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Reading",
+  "body": "A fact is",
+  "options": [
+   "a personal belief",
+   "something that can be proved true",
+   "a guess about the future",
+   "a feeling"
+  ],
+  "answer": 1,
+  "explanation": "Opinions express what someone thinks.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Reading",
+  "body": "Which sentence is an opinion?",
+  "options": [
+   "The park is open from 8 am.",
+   "The new park opened in June.",
+   "The park has two playgrounds.",
+   "The new park is the best place in town."
+  ],
+  "answer": 3,
+  "explanation": "'Best' shows a personal judgement.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Reading",
+  "body": "Emotive language is used to",
+  "options": [
+   "list equipment",
+   "explain a process step by step",
+   "make the reader feel strongly about something",
+   "give exact measurements"
+  ],
+  "answer": 2,
+  "explanation": "For example, 'heartbreaking' or 'shocking'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Reading",
+  "body": "A text says a bus route will use Market Street instead of High Road 'because of roadworks'. Why is the route changing?",
+  "options": [
+   "because passengers asked for it",
+   "because the bus company has closed",
+   "because Market Street is faster",
+   "because of roadworks on High Road"
+  ],
+  "answer": 3,
+  "explanation": "Identify the reason the text gives.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Writing",
+  "body": "Which is the most appropriate opening for a formal letter of complaint?",
+  "options": [
+   "Hi, so basically there was a problem.",
+   "I am writing to complain about the service I received on 3 May.",
+   "OMG, worst service ever.",
+   "You lot really let me down!"
+  ],
+  "answer": 1,
+  "explanation": "State your purpose clearly and politely.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Writing",
+  "body": "Which connective best shows contrast?",
+  "options": [
+   "furthermore",
+   "however",
+   "therefore",
+   "for example"
+  ],
+  "answer": 1,
+  "explanation": "'Furthermore' adds; 'therefore' shows a result.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Writing",
+  "body": "Which connective best shows a result?",
+  "options": [
+   "consequently",
+   "although",
+   "similarly",
+   "meanwhile"
+  ],
+  "answer": 0,
+  "explanation": "It links a cause to its effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Writing",
+  "body": "In a report, the conclusion should",
+  "options": [
+   "introduce new ideas not covered before",
+   "repeat the title only",
+   "contain the contents page",
+   "summarise the findings and any recommendations"
+  ],
+  "answer": 3,
+  "explanation": "Keep it brief and clear.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE2",
+  "topic": "Speaking and listening",
+  "body": "In a formal discussion, which is the best way to disagree?",
+  "options": [
+   "That's rubbish.",
+   "You don't know what you're talking about.",
+   "I see your point, but I think the evidence suggests otherwise.",
+   "Whatever, I'm right."
+  ],
+  "answer": 2,
+  "explanation": "Be polite and support your view with evidence.",
+  "difficulty": 2
+ }
+]

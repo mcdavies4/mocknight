@@ -1,0 +1,562 @@
+[
+ {
+  "subject": "CWR",
+  "topic": "Law and regulation",
+  "body": "Adult social care services in England are regulated and inspected by",
+  "options": [
+   "Ofsted",
+   "the Health and Safety Executive",
+   "the local council's housing team",
+   "the Care Quality Commission (CQC)"
+  ],
+  "answer": 3,
+  "explanation": "CQC asks whether services are safe, effective, caring, responsive and well-led.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Law and regulation",
+  "body": "The Care Act 2014 puts a duty on local authorities to promote people's",
+  "options": [
+   "income",
+   "employment",
+   "independence from family",
+   "wellbeing"
+  ],
+  "answer": 3,
+  "explanation": "Wellbeing covers dignity, control, relationships, safety and more.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Law and regulation",
+  "body": "The Mental Capacity Act 2005 says a person must be assumed to have capacity",
+  "options": [
+   "unless it is established that they lack it",
+   "only if they are under 65",
+   "only for big decisions",
+   "only if a doctor agrees"
+  ],
+  "answer": 0,
+  "explanation": "This is the first of its five principles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Law and regulation",
+  "body": "Under the Mental Capacity Act, making an unwise decision",
+  "options": [
+   "does not on its own mean a person lacks capacity",
+   "means family must decide instead",
+   "proves the person lacks capacity",
+   "must be reported to the police"
+  ],
+  "answer": 0,
+  "explanation": "People have the right to make choices others disagree with.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Law and regulation",
+  "body": "If a person lacks capacity, any decision made for them must be in their",
+  "options": [
+   "family's interests",
+   "provider's financial interests",
+   "best interests and the least restrictive option",
+   "carer's convenience"
+  ],
+  "answer": 2,
+  "explanation": "Involve the person as much as possible.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Law and regulation",
+  "body": "The duty of candour means providers must",
+  "options": [
+   "keep mistakes confidential",
+   "be open and honest with people when things go wrong",
+   "blame individual staff publicly",
+   "only tell the CQC about errors"
+  ],
+  "answer": 1,
+  "explanation": "This includes giving an apology and explanation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Safeguarding",
+  "body": "Which of these is one of the six principles of adult safeguarding?",
+  "options": [
+   "secrecy",
+   "profit",
+   "empowerment",
+   "punishment"
+  ],
+  "answer": 2,
+  "explanation": "The others are prevention, proportionality, protection, partnership and accountability.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Safeguarding",
+  "body": "Taking money from a person's purse without permission is",
+  "options": [
+   "neglect",
+   "financial abuse",
+   "self-neglect",
+   "discriminatory abuse"
+  ],
+  "answer": 1,
+  "explanation": "Report concerns through your safeguarding procedure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Safeguarding",
+  "body": "Repeatedly failing to give a person the care they need, such as food or medication, is",
+  "options": [
+   "organisational abuse",
+   "physical abuse",
+   "neglect",
+   "financial abuse"
+  ],
+  "answer": 2,
+  "explanation": "Neglect can be deliberate or through poor practice.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Safeguarding",
+  "body": "Poor practice that is built into how a whole care service runs is called",
+  "options": [
+   "self-neglect",
+   "modern slavery",
+   "domestic abuse",
+   "organisational (institutional) abuse"
+  ],
+  "answer": 3,
+  "explanation": "Examples are rigid routines and lack of choice.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Safeguarding",
+  "body": "If someone tells you they are being abused, you should",
+  "options": [
+   "promise to keep it a secret",
+   "confront the person accused",
+   "listen, reassure them and explain you must share the information",
+   "investigate it yourself"
+  ],
+  "answer": 2,
+  "explanation": "Report it promptly following your safeguarding procedure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Safeguarding",
+  "body": "Whistleblowing means",
+  "options": [
+   "using a whistle in an emergency",
+   "complaining about pay",
+   "reporting wrongdoing at work that is in the public interest",
+   "gossiping about colleagues"
+  ],
+  "answer": 2,
+  "explanation": "Whistleblowers are protected by law.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Communication",
+  "body": "Active listening includes",
+  "options": [
+   "looking at your phone",
+   "planning your reply while they speak",
+   "finishing the person's sentences",
+   "giving full attention and checking you have understood"
+  ],
+  "answer": 3,
+  "explanation": "Use open body language and summarise back.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Communication",
+  "body": "When supporting someone with hearing loss, you should",
+  "options": [
+   "speak from behind them",
+   "talk faster to save time",
+   "shout into their ear",
+   "face them, speak clearly and reduce background noise"
+  ],
+  "answer": 3,
+  "explanation": "Check hearing aids are working.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Communication",
+  "body": "An open question is one that",
+  "options": [
+   "invites a fuller answer, such as 'How are you feeling today?'",
+   "is asked in a group",
+   "is written down",
+   "can only be answered yes or no"
+  ],
+  "answer": 0,
+  "explanation": "Closed questions are useful for quick facts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Person-centred care",
+  "body": "Person-centred care means",
+  "options": [
+   "care that suits the staff rota",
+   "the same routine for everyone",
+   "care chosen by the manager",
+   "care planned around the person's needs, wishes and preferences"
+  ],
+  "answer": 3,
+  "explanation": "The person should be involved in decisions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Person-centred care",
+  "body": "Respecting dignity during personal care includes",
+  "options": [
+   "rushing to finish quickly",
+   "closing doors and curtains and keeping the person covered",
+   "discussing them with visitors",
+   "leaving the door open to save time"
+  ],
+  "answer": 1,
+  "explanation": "Ask for consent before you start.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Person-centred care",
+  "body": "Before providing care or support, you should",
+  "options": [
+   "assume they agree",
+   "ask their family only",
+   "tell them what will happen next week",
+   "get the person's consent"
+  ],
+  "answer": 3,
+  "explanation": "Consent can be given verbally, in writing or by gestures.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Infection control",
+  "body": "The single most effective way to prevent the spread of infection is",
+  "options": [
+   "opening windows",
+   "good hand hygiene",
+   "using air freshener",
+   "wearing a uniform"
+  ],
+  "answer": 1,
+  "explanation": "Wash or use alcohol rub before and after contact.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Infection control",
+  "body": "When taking off PPE, gloves are usually removed",
+  "options": [
+   "after the eye protection",
+   "first",
+   "after the mask",
+   "last"
+  ],
+  "answer": 1,
+  "explanation": "Follow your local procedure and wash your hands after removing PPE.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Infection control",
+  "body": "Alcohol hand rub does not work well against",
+  "options": [
+   "the common cold",
+   "flu virus",
+   "most bacteria",
+   "norovirus and C. difficile spores"
+  ],
+  "answer": 3,
+  "explanation": "Use soap and water in these cases.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Infection control",
+  "body": "Used sharps such as needles must be",
+  "options": [
+   "put straight into a sharps bin without re-sheathing",
+   "put in a general waste bag",
+   "recapped before disposal",
+   "left on a tray for later"
+  ],
+  "answer": 0,
+  "explanation": "Never fill a sharps bin past the fill line.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Moving and handling",
+  "body": "If a person's mobility has changed and you're unsure about a transfer, you should",
+  "options": [
+   "ask a visitor to help",
+   "use whatever method is quickest",
+   "lift them on your own",
+   "stop and ask for the moving and handling plan to be reviewed"
+  ],
+  "answer": 3,
+  "explanation": "Only use equipment you are trained to use.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Moving and handling",
+  "body": "Before using a hoist, you should check",
+  "options": [
+   "nothing if it was used yesterday",
+   "the colour of the sling",
+   "the time of day",
+   "the sling size and condition and the hoist's service date"
+  ],
+  "answer": 3,
+  "explanation": "Follow the person's care plan.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Health",
+  "body": "Signs of dehydration include",
+  "options": [
+   "dark urine, confusion and a dry mouth",
+   "gaining weight quickly",
+   "swollen ankles only",
+   "pale urine and alertness"
+  ],
+  "answer": 0,
+  "explanation": "Offer drinks regularly and record intake if required.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Health",
+  "body": "Pressure ulcers are most likely to develop",
+  "options": [
+   "on the chest",
+   "on the palms of the hands",
+   "over bony areas such as heels, hips and the base of the spine",
+   "inside the mouth"
+  ],
+  "answer": 2,
+  "explanation": "Regular repositioning and skin checks help prevent them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Health",
+  "body": "A sudden change in a person's confusion could be a sign of",
+  "options": [
+   "tiredness only",
+   "infection, such as a urinary tract infection",
+   "normal ageing",
+   "a good night's sleep"
+  ],
+  "answer": 1,
+  "explanation": "Report changes promptly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Health",
+  "body": "The FAST test for stroke stands for Face, Arms, Speech and",
+  "options": [
+   "Tablets",
+   "Time to call 999",
+   "Temperature",
+   "Tiredness"
+  ],
+  "answer": 1,
+  "explanation": "Act quickly; every minute counts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Medication",
+  "body": "Care workers should only give medication if they",
+  "options": [
+   "are trained, assessed as competent and follow the care plan",
+   "have seen others do it",
+   "have a first aid certificate",
+   "are asked by the person's relative"
+  ],
+  "answer": 0,
+  "explanation": "Record every administration on the MAR chart.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Medication",
+  "body": "If a person refuses their medication, you should",
+  "options": [
+   "hide it in their food",
+   "respect the refusal, record it and report it",
+   "leave it on the table",
+   "insist until they take it"
+  ],
+  "answer": 1,
+  "explanation": "Covert medication needs a formal assessment and plan.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Records",
+  "body": "Care records should be",
+  "options": [
+   "written days later from memory",
+   "full of personal opinions",
+   "kept on your personal phone",
+   "accurate, factual, dated and signed"
+  ],
+  "answer": 3,
+  "explanation": "Records may be used as legal evidence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Confidentiality",
+  "body": "Information about the people you support should be shared",
+  "options": [
+   "with anyone who asks",
+   "on social media if names are hidden",
+   "with your friends if it's interesting",
+   "only on a need-to-know basis following policy"
+  ],
+  "answer": 3,
+  "explanation": "Data protection law applies.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Equality and diversity",
+  "body": "Treating someone less favourably because of their religion is",
+  "options": [
+   "positive action",
+   "direct discrimination",
+   "person-centred care",
+   "reasonable adjustment"
+  ],
+  "answer": 1,
+  "explanation": "This is unlawful under the Equality Act 2010.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Equality and diversity",
+  "body": "A reasonable adjustment is",
+  "options": [
+   "a disciplinary action",
+   "a change made so a disabled person isn't disadvantaged",
+   "a pay rise",
+   "a change to staff shifts"
+  ],
+  "answer": 1,
+  "explanation": "Examples include easy-read information or ramps.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Dementia",
+  "body": "When supporting a person with dementia who is distressed, you should",
+  "options": [
+   "argue to correct them",
+   "stay calm, reassure them and try to understand what they need",
+   "talk about them to others in front of them",
+   "leave them alone for the shift"
+  ],
+  "answer": 1,
+  "explanation": "Distress is often a way of communicating a need.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Role",
+  "body": "A duty of care means",
+  "options": [
+   "acting in the best interests of the people you support and keeping them safe",
+   "following only your own judgement",
+   "doing whatever the person asks, even if unsafe",
+   "avoiding all risks for the person"
+  ],
+  "answer": 0,
+  "explanation": "Balance rights and risks; seek advice when unsure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Role",
+  "body": "If you are asked to do a task you haven't been trained for, you should",
+  "options": [
+   "search for a video and then do it",
+   "explain this to your manager and ask for training",
+   "ask a person you support to show you",
+   "do it anyway"
+  ],
+  "answer": 1,
+  "explanation": "Work within your competence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Basic life support",
+  "body": "For an adult who is not breathing normally, you should give",
+  "options": [
+   "15 compressions to 2 breaths",
+   "only rescue breaths",
+   "5 compressions to 1 breath",
+   "30 chest compressions to 2 rescue breaths"
+  ],
+  "answer": 3,
+  "explanation": "Call 999 and get an AED.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Nutrition",
+  "body": "A person's dietary needs and preferences should be",
+  "options": [
+   "the same as other residents",
+   "recorded in their care plan and respected",
+   "decided by the cook",
+   "ignored if inconvenient"
+  ],
+  "answer": 1,
+  "explanation": "Consider allergies, culture, religion and swallowing needs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CWR",
+  "topic": "Nutrition",
+  "body": "Someone with swallowing difficulties (dysphagia) may need",
+  "options": [
+   "more spicy food",
+   "drinks only at night",
+   "larger mouthfuls to finish quickly",
+   "food and drinks of a modified texture as advised by a speech and language therapist"
+  ],
+  "answer": 3,
+  "explanation": "Follow the IDDSI level in their care plan.",
+  "difficulty": 2
+ }
+]

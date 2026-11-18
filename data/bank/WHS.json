@@ -1,0 +1,562 @@
+[
+ {
+  "subject": "WHS",
+  "topic": "Law",
+  "body": "Under the Health and Safety at Work etc. Act 1974, employers must protect staff",
+  "options": [
+   "at all costs, whatever the risk",
+   "only for full-time staff",
+   "only when an inspector visits",
+   "so far as is reasonably practicable"
+  ],
+  "answer": 3,
+  "explanation": "They balance the level of risk against the time, trouble and cost of controls.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Law",
+  "body": "Employers with how many employees must record the significant findings of their risk assessment?",
+  "options": [
+   "5 or more",
+   "50 or more",
+   "20 or more",
+   "1 or more"
+  ],
+  "answer": 0,
+  "explanation": "All employers must still carry out a risk assessment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Law",
+  "body": "Health and safety law in Great Britain is mainly enforced by",
+  "options": [
+   "the police only",
+   "trade unions",
+   "the HSE and local authorities",
+   "insurance companies"
+  ],
+  "answer": 2,
+  "explanation": "Local authorities cover offices, shops and leisure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Risk assessment",
+  "body": "A hazard is",
+  "options": [
+   "something with the potential to cause harm",
+   "an accident that has already happened",
+   "a type of safety sign",
+   "the chance of harm actually happening"
+  ],
+  "answer": 0,
+  "explanation": "Risk is the likelihood and severity of harm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Risk assessment",
+  "body": "The HSE's steps to risk assessment start with",
+  "options": [
+   "identifying the hazards",
+   "buying PPE",
+   "training first aiders",
+   "writing a policy statement"
+  ],
+  "answer": 0,
+  "explanation": "Then decide who might be harmed and how, evaluate risks, record and review.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Risk assessment",
+  "body": "In the hierarchy of control, the most effective measure is to",
+  "options": [
+   "put up warning signs",
+   "issue PPE",
+   "train staff",
+   "eliminate the hazard"
+  ],
+  "answer": 3,
+  "explanation": "PPE is the last resort.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Risk assessment",
+  "body": "A risk assessment should be reviewed",
+  "options": [
+   "every ten years",
+   "never once it has been written",
+   "when things change, after an accident, and regularly",
+   "only when the business is sold"
+  ],
+  "answer": 2,
+  "explanation": "Keep it up to date.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Accidents",
+  "body": "The most common cause of non-fatal workplace injuries in Great Britain is",
+  "options": [
+   "exposure to chemicals",
+   "electric shocks",
+   "slips, trips and falls on the same level",
+   "fires and explosions"
+  ],
+  "answer": 2,
+  "explanation": "Good housekeeping prevents many of them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Accidents",
+  "body": "Accidents at work should be recorded in",
+  "options": [
+   "the accident book (or the employer's reporting system)",
+   "nowhere unless someone is hospitalised",
+   "the visitors' book",
+   "a personal diary only"
+  ],
+  "answer": 0,
+  "explanation": "Records help identify patterns and are needed for RIDDOR.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Accidents",
+  "body": "Under RIDDOR, which must be reported to the HSE?",
+  "options": [
+   "a visitor tripping without injury",
+   "a worker off work or unable to do normal duties for more than 7 days",
+   "a worker leaving early with a headache",
+   "any paper cut"
+  ],
+  "answer": 1,
+  "explanation": "Specified injuries, deaths and dangerous occurrences are also reportable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "First aid",
+  "body": "A workplace first aid box should not contain",
+  "options": [
+   "disposable gloves",
+   "tablets or medicines",
+   "plasters",
+   "sterile dressings"
+  ],
+  "answer": 1,
+  "explanation": "First aiders should not give out medication.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "First aid",
+  "body": "For an adult who is unresponsive and not breathing normally, chest compressions should be given at a rate of",
+  "options": [
+   "60 to 80 per minute",
+   "150 to 180 per minute",
+   "30 to 40 per minute",
+   "100 to 120 per minute"
+  ],
+  "answer": 3,
+  "explanation": "Give 30 compressions to 2 rescue breaths, and use an AED as soon as possible.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Manual handling",
+  "body": "The Manual Handling Operations Regulations require employers first to",
+  "options": [
+   "use the strongest worker",
+   "train everyone to lift 25 kg",
+   "avoid hazardous manual handling where reasonably practicable",
+   "provide back belts to all staff"
+  ],
+  "answer": 2,
+  "explanation": "Then assess the risk and reduce it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Manual handling",
+  "body": "The TILE assessment covers Task, Individual, Load and",
+  "options": [
+   "Energy",
+   "Equipment",
+   "Effort",
+   "Environment"
+  ],
+  "answer": 3,
+  "explanation": "Use it to assess manual handling risks.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Display screens",
+  "body": "Under the Display Screen Equipment Regulations, employers must",
+  "options": [
+   "assess workstations and pay for eye tests for DSE users who ask",
+   "buy glasses for everyone",
+   "ban breaks from screens",
+   "provide every user with a laptop"
+  ],
+  "answer": 0,
+  "explanation": "They must also plan breaks or changes of activity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Electrical safety",
+  "body": "Before using electrical equipment, users should",
+  "options": [
+   "remove the earth pin",
+   "wrap cuts in insulating tape",
+   "visually check the plug, cable and casing for damage",
+   "open the casing to check inside"
+  ],
+  "answer": 2,
+  "explanation": "Report and take damaged equipment out of use.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Electrical safety",
+  "body": "Overloading an extension lead can cause",
+  "options": [
+   "overheating and fire",
+   "the equipment to run faster",
+   "nothing if it is new",
+   "lower electricity bills"
+  ],
+  "answer": 0,
+  "explanation": "Don't daisy-chain extension leads.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Fire",
+  "body": "Which fire extinguisher has a cream-coloured label?",
+  "options": [
+   "water",
+   "foam",
+   "dry powder",
+   "carbon dioxide"
+  ],
+  "answer": 1,
+  "explanation": "Water is red, CO₂ black, powder blue and wet chemical yellow.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Fire",
+  "body": "Which extinguisher is designed for fires involving cooking oils and fats (Class F)?",
+  "options": [
+   "carbon dioxide",
+   "wet chemical",
+   "water",
+   "foam"
+  ],
+  "answer": 1,
+  "explanation": "Never use water on a fat fire.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Fire",
+  "body": "Fire doors should be",
+  "options": [
+   "kept closed and never wedged open",
+   "wedged open in hot weather",
+   "locked during working hours",
+   "used to store boxes against"
+  ],
+  "answer": 0,
+  "explanation": "They slow the spread of fire and smoke.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Fire",
+  "body": "When the fire alarm sounds, you should",
+  "options": [
+   "leave by the nearest safe exit and go to the assembly point",
+   "finish your task first",
+   "use the lift",
+   "collect your belongings from the locker room"
+  ],
+  "answer": 0,
+  "explanation": "Don't go back in until told it's safe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Hazardous substances",
+  "body": "COSHH stands for",
+  "options": [
+   "Code of Safe Handling of Hazards",
+   "Control of Substances Hazardous to Health",
+   "Chemical Organisation and Safety Handling",
+   "Control of Safety and Health Hazards"
+  ],
+  "answer": 1,
+  "explanation": "Employers must assess and control exposure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Hazardous substances",
+  "body": "A hazard pictogram showing a flame means the substance is",
+  "options": [
+   "corrosive",
+   "toxic",
+   "flammable",
+   "harmful to the environment"
+  ],
+  "answer": 2,
+  "explanation": "Pictograms are black symbols in red-bordered diamonds.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Hazardous substances",
+  "body": "A hazard pictogram showing a liquid eating through a hand and a surface means",
+  "options": [
+   "flammable",
+   "oxidising",
+   "corrosive",
+   "explosive"
+  ],
+  "answer": 2,
+  "explanation": "Corrosives can burn skin and eyes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "PPE",
+  "body": "Personal protective equipment (PPE) should be",
+  "options": [
+   "the last line of defence after other controls",
+   "paid for by employees",
+   "the first control to use",
+   "worn only if workers want to"
+  ],
+  "answer": 0,
+  "explanation": "It only protects the person wearing it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "PPE",
+  "body": "If your PPE is damaged, you should",
+  "options": [
+   "stop and report it so it can be replaced",
+   "carry on until the end of the shift",
+   "swap it with a colleague's",
+   "repair it with tape"
+  ],
+  "answer": 0,
+  "explanation": "Damaged PPE may not protect you.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Work at height",
+  "body": "Most falls from height involve",
+  "options": [
+   "stairs only",
+   "office chairs",
+   "escalators",
+   "ladders and fragile surfaces"
+  ],
+  "answer": 3,
+  "explanation": "Even falls from low heights can be fatal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Work at height",
+  "body": "When using a stepladder, you should",
+  "options": [
+   "move it while standing on it",
+   "stand on the top platform to reach higher",
+   "keep three points of contact and not overreach",
+   "lean it against a wall closed"
+  ],
+  "answer": 2,
+  "explanation": "Check it's on firm, level ground.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Welfare",
+  "body": "Employers must provide",
+  "options": [
+   "private offices for everyone",
+   "on-site parking",
+   "free lunches",
+   "toilets, washing facilities, drinking water and somewhere to rest and eat"
+  ],
+  "answer": 3,
+  "explanation": "Under the Workplace Regulations 1992.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Welfare",
+  "body": "The minimum workplace temperature recommended for most indoor work is",
+  "options": [
+   "21°C",
+   "16°C (13°C for strenuous physical work)",
+   "25°C",
+   "10°C"
+  ],
+  "answer": 1,
+  "explanation": "This is from the Workplace Regulations Approved Code of Practice.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Signs",
+  "body": "A red circular sign with a diagonal line means",
+  "options": [
+   "a hazard warning",
+   "a mandatory action",
+   "a safe condition",
+   "a prohibited action"
+  ],
+  "answer": 3,
+  "explanation": "For example, no smoking.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Signs",
+  "body": "A green sign showing a running figure and an arrow indicates",
+  "options": [
+   "an emergency escape route",
+   "a staff room",
+   "a first aid point",
+   "a no-entry zone"
+  ],
+  "answer": 0,
+  "explanation": "Keep escape routes clear.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Stress",
+  "body": "The HSE Management Standards for work-related stress cover demands, control, support, relationships, role and",
+  "options": [
+   "salary",
+   "holidays",
+   "uniform",
+   "change"
+  ],
+  "answer": 3,
+  "explanation": "Employers must assess stress risks like any other risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Lone working",
+  "body": "To protect lone workers, employers should",
+  "options": [
+   "do nothing if they're experienced",
+   "only allow it at night",
+   "ban lone working completely",
+   "assess the risks and set up a way of keeping in contact"
+  ],
+  "answer": 3,
+  "explanation": "Check-in systems and emergency procedures help.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Noise",
+  "body": "Employers must provide hearing protection on request at a daily noise exposure of",
+  "options": [
+   "60 dB(A)",
+   "80 dB(A)",
+   "70 dB(A)",
+   "100 dB(A)"
+  ],
+  "answer": 1,
+  "explanation": "At 85 dB(A) it must be worn.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Slips and trips",
+  "body": "To prevent slips after a spill, you should",
+  "options": [
+   "clean it up promptly and use a warning sign until it's dry",
+   "leave it to dry naturally",
+   "cover it with cardboard and forget it",
+   "tell people about it at the end of the day"
+  ],
+  "answer": 0,
+  "explanation": "Report spills you can't deal with safely.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Near misses",
+  "body": "Why should near misses be reported?",
+  "options": [
+   "to increase insurance premiums",
+   "so someone can be blamed",
+   "because RIDDOR requires every one",
+   "they show where an accident could happen so it can be prevented"
+  ],
+  "answer": 3,
+  "explanation": "A good reporting culture improves safety.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Vehicles",
+  "body": "In a warehouse, pedestrians and forklifts should be kept apart by",
+  "options": [
+   "hi-vis jackets alone",
+   "marked walkways and barriers",
+   "a shared route to save space",
+   "verbal warnings only"
+  ],
+  "answer": 1,
+  "explanation": "Separation is the most effective control.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Vehicles",
+  "body": "Only people who are trained and authorised should",
+  "options": [
+   "use a pallet stack",
+   "walk through a warehouse",
+   "operate forklift trucks",
+   "load a van by hand"
+  ],
+  "answer": 2,
+  "explanation": "Operators should have certified training.",
+  "difficulty": 2
+ },
+ {
+  "subject": "WHS",
+  "topic": "Consultation",
+  "body": "Employers must consult employees on health and safety",
+  "options": [
+   "once every ten years",
+   "directly or through elected or union safety representatives",
+   "only by email",
+   "only if the HSE tells them to"
+  ],
+  "answer": 1,
+  "explanation": "Consultation improves safety decisions.",
+  "difficulty": 2
+ }
+]

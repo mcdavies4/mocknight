@@ -1,0 +1,422 @@
+[
+ {
+  "subject": "CAR",
+  "topic": "Standard 1: Your role",
+  "body": "Your job description tells you",
+  "options": [
+   "your duties and responsibilities",
+   "the company's profits",
+   "your manager's home address",
+   "your colleagues' pay"
+  ],
+  "answer": 0,
+  "explanation": "Work within your agreed ways of working.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 1: Your role",
+  "body": "Agreed ways of working include",
+  "options": [
+   "whatever is quickest",
+   "your employer's policies and procedures",
+   "advice from social media",
+   "your personal preferences"
+  ],
+  "answer": 1,
+  "explanation": "Follow them unless they would cause harm; raise concerns.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 2: Personal development",
+  "body": "A personal development plan (PDP) helps you",
+  "options": [
+   "calculate your holiday pay",
+   "record people's care needs",
+   "plan the staff rota",
+   "identify learning needs and plan training"
+  ],
+  "answer": 3,
+  "explanation": "Review it regularly with your manager.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 2: Personal development",
+  "body": "Reflective practice means",
+  "options": [
+   "repeating tasks without change",
+   "copying what others do",
+   "thinking about your work to learn and improve",
+   "only reading policies"
+  ],
+  "answer": 2,
+  "explanation": "Feedback from others helps you reflect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 3: Duty of care",
+  "body": "If you have a dilemma between a person's rights and their safety, you should",
+  "options": [
+   "always decide on your own",
+   "ignore the risk",
+   "always stop their choice",
+   "seek advice from your manager and record your actions"
+  ],
+  "answer": 3,
+  "explanation": "Balance their rights with the duty to keep them safe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 3: Duty of care",
+  "body": "Complaints from people who use services should be",
+  "options": [
+   "ignored if they're often unhappy",
+   "dealt with by arguing back",
+   "kept secret from managers",
+   "taken seriously and handled through the complaints procedure"
+  ],
+  "answer": 3,
+  "explanation": "Complaints help services improve.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 4: Equality and diversity",
+  "body": "Inclusion means",
+  "options": [
+   "treating everyone exactly the same",
+   "keeping groups separate",
+   "only supporting people like you",
+   "making sure everyone can take part and is valued"
+  ],
+  "answer": 3,
+  "explanation": "Diversity means recognising differences.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 4: Equality and diversity",
+  "body": "If you see a colleague discriminating against someone, you should",
+  "options": [
+   "join in",
+   "ignore it",
+   "post about it online",
+   "challenge it if safe and report it to your manager"
+  ],
+  "answer": 3,
+  "explanation": "Discrimination is never acceptable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 5: Person-centred care",
+  "body": "Which is an example of supporting independence?",
+  "options": [
+   "deciding their clothes for them",
+   "giving them no choices",
+   "doing everything for them to save time",
+   "encouraging a person to do as much as they can for themselves"
+  ],
+  "answer": 3,
+  "explanation": "Small choices matter.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 6: Communication",
+  "body": "Barriers to communication can include",
+  "options": [
+   "noise, poor lighting and a different first language",
+   "speaking clearly",
+   "using simple words",
+   "eye contact"
+  ],
+  "answer": 0,
+  "explanation": "Adapt the environment and your approach.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 6: Communication",
+  "body": "If a person uses a communication aid such as a picture board, you should",
+  "options": [
+   "take it away to tidy up",
+   "use it with them and check understanding",
+   "ask their family to talk for them",
+   "ignore it and speak louder"
+  ],
+  "answer": 1,
+  "explanation": "Respect their preferred method.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 7: Privacy and dignity",
+  "body": "Personal information should be stored",
+  "options": [
+   "in your car",
+   "on your personal social media",
+   "securely, following data protection policy",
+   "on a shared noticeboard"
+  ],
+  "answer": 2,
+  "explanation": "Only share on a need-to-know basis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 7: Privacy and dignity",
+  "body": "Calling people by the name they prefer is a way of",
+  "options": [
+   "saving time",
+   "respecting their dignity",
+   "following a staff rule",
+   "being over-familiar"
+  ],
+  "answer": 1,
+  "explanation": "Ask how they would like to be addressed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 8: Fluids and nutrition",
+  "body": "Good hydration can help prevent",
+  "options": [
+   "broken bones",
+   "hearing loss",
+   "eye infections",
+   "urinary tract infections and constipation"
+  ],
+  "answer": 3,
+  "explanation": "Encourage regular drinks.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 8: Fluids and nutrition",
+  "body": "Before helping someone to eat, you should",
+  "options": [
+   "start straight away while they're lying down",
+   "wash your hands and make sure they're sitting upright",
+   "feed them as quickly as possible",
+   "stand over them"
+  ],
+  "answer": 1,
+  "explanation": "Go at their pace and keep them involved.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 9: Mental health, dementia and learning disabilities",
+  "body": "Dementia is",
+  "options": [
+   "a type of learning disability",
+   "always caused by stroke",
+   "a normal part of ageing for everyone",
+   "a group of symptoms caused by diseases that damage the brain"
+  ],
+  "answer": 3,
+  "explanation": "Alzheimer's disease is the most common cause.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 9: Mental health, dementia and learning disabilities",
+  "body": "A learning disability",
+  "options": [
+   "always gets better with age",
+   "is the same as a mental illness",
+   "only affects reading",
+   "is lifelong and affects how a person learns and understands information"
+  ],
+  "answer": 3,
+  "explanation": "Support should be tailored to the person.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 10: Safeguarding adults",
+  "body": "Who should you report a safeguarding concern to first?",
+  "options": [
+   "a newspaper",
+   "the person's neighbour",
+   "nobody, unless you're certain",
+   "your manager or designated safeguarding lead, following policy"
+  ],
+  "answer": 3,
+  "explanation": "If someone is in immediate danger, call 999.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 10: Safeguarding adults",
+  "body": "Unexplained bruises in different stages of healing could be a sign of",
+  "options": [
+   "good health",
+   "financial abuse",
+   "self-care",
+   "physical abuse"
+  ],
+  "answer": 3,
+  "explanation": "Report and record what you see.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 11: Safeguarding children",
+  "body": "If a child tells you they're being harmed, you should",
+  "options": [
+   "promise to keep it a secret",
+   "investigate it yourself",
+   "ask them to write it down later",
+   "listen, not ask leading questions, and report it immediately"
+  ],
+  "answer": 3,
+  "explanation": "Follow your organisation's procedure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 12: Basic life support",
+  "body": "For an adult in cardiac arrest, chest compressions should be about",
+  "options": [
+   "5 to 6 cm deep at 100 to 120 per minute",
+   "2 cm deep at 30 per minute",
+   "1 to 2 cm deep at 60 per minute",
+   "10 cm deep at 200 per minute"
+  ],
+  "answer": 0,
+  "explanation": "Push hard and fast in the centre of the chest.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 12: Basic life support",
+  "body": "For an adult who is choking and can't cough effectively, give",
+  "options": [
+   "nothing and wait",
+   "up to 5 back blows, then up to 5 abdominal thrusts",
+   "10 chest compressions straight away",
+   "water to drink"
+  ],
+  "answer": 1,
+  "explanation": "Call 999 if the obstruction doesn't clear.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 13: Health and safety",
+  "body": "If you discover a fire, you should first",
+  "options": [
+   "raise the alarm",
+   "finish what you're doing",
+   "try to put it out alone",
+   "collect your belongings"
+  ],
+  "answer": 0,
+  "explanation": "Then follow the fire procedure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 13: Health and safety",
+  "body": "Hazardous substances such as cleaning chemicals should be",
+  "options": [
+   "decanted into drinks bottles",
+   "stored securely in labelled containers as set out under COSHH",
+   "left in people's rooms",
+   "mixed together for strength"
+  ],
+  "answer": 1,
+  "explanation": "Mixing bleach with other products can give off toxic gas.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 14: Handling information",
+  "body": "Under the UK GDPR, personal information must be",
+  "options": [
+   "kept secure, accurate and only for as long as needed",
+   "kept forever",
+   "written in pencil",
+   "shared freely with visitors"
+  ],
+  "answer": 0,
+  "explanation": "Breaches must be reported following policy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 14: Handling information",
+  "body": "A good record should be",
+  "options": [
+   "written in abbreviations nobody knows",
+   "vague and brief",
+   "completed at the end of the week",
+   "clear, factual, signed and dated"
+  ],
+  "answer": 3,
+  "explanation": "Write it as soon as possible after the event.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 15: Infection prevention and control",
+  "body": "The chain of infection can be broken by",
+  "options": [
+   "storing food on the floor",
+   "hand hygiene, PPE and cleaning",
+   "sharing towels",
+   "leaving spills to dry"
+  ],
+  "answer": 1,
+  "explanation": "Breaking any link stops infection spreading.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 15: Infection prevention and control",
+  "body": "Hand washing with soap and water should take at least",
+  "options": [
+   "1 second under the tap",
+   "3 seconds",
+   "5 minutes",
+   "20 seconds of rubbing (about 40–60 seconds in total)"
+  ],
+  "answer": 3,
+  "explanation": "Cover all surfaces of the hands.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Standard 15: Infection prevention and control",
+  "body": "Spillages of blood or body fluids should be",
+  "options": [
+   "covered with a mat",
+   "wiped with a dry tissue only",
+   "left for the cleaner tomorrow",
+   "cleaned promptly using a spill kit and PPE"
+  ],
+  "answer": 3,
+  "explanation": "Follow your infection control policy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "CAR",
+  "topic": "Learning disability and autism",
+  "body": "A reasonable adjustment for an autistic person could be",
+  "options": [
+   "louder music in the waiting room",
+   "more last-minute changes",
+   "longer queues",
+   "a quieter space and clear advance information"
+  ],
+  "answer": 3,
+  "explanation": "Ask the person what helps them.",
+  "difficulty": 2
+ }
+]

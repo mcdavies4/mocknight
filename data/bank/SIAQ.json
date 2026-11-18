@@ -1,0 +1,562 @@
+[
+ {
+  "subject": "SIAQ",
+  "topic": "The private security industry",
+  "body": "The Private Security Industry Act 2001",
+  "options": [
+   "made searches compulsory at every venue",
+   "set up the SIA and made licensing compulsory for door supervisors",
+   "set licensing hours for pubs",
+   "created the police service"
+  ],
+  "answer": 1,
+  "explanation": "Working without a licence is a criminal offence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "The private security industry",
+  "body": "While working, a door supervisor must",
+  "options": [
+   "hand it to the venue manager",
+   "keep the licence at home for safety",
+   "show it only if a customer asks",
+   "wear their SIA licence where it can be clearly seen"
+  ],
+  "answer": 3,
+  "explanation": "Unless the licence conditions say otherwise.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "The private security industry",
+  "body": "A front-line SIA licence normally lasts",
+  "options": [
+   "5 years",
+   "1 year",
+   "3 years",
+   "for life"
+  ],
+  "answer": 2,
+  "explanation": "You must renew it before it expires.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Licensing law",
+  "body": "The four licensing objectives in the Licensing Act 2003 are crime and disorder prevention, public safety, prevention of public nuisance and",
+  "options": [
+   "free entry for regulars",
+   "noise-free music",
+   "protection of children from harm",
+   "maximising sales"
+  ],
+  "answer": 2,
+  "explanation": "Door supervisors help venues meet these objectives.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Licensing law",
+  "body": "Selling alcohol to a person who is drunk is",
+  "options": [
+   "allowed with a manager's approval",
+   "an offence under the Licensing Act 2003",
+   "allowed after midnight",
+   "allowed if they pay cash"
+  ],
+  "answer": 1,
+  "explanation": "Staff may also refuse entry to drunk people.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Licensing law",
+  "body": "Under 'Challenge 25', staff should ask for ID from",
+  "options": [
+   "everyone over 25",
+   "anyone who looks under 25",
+   "only people paying by card",
+   "only people who look under 18"
+  ],
+  "answer": 1,
+  "explanation": "Acceptable ID includes a passport, photocard driving licence or PASS-hologram card.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Licensing law",
+  "body": "Which is an acceptable proof of age?",
+  "options": [
+   "a card with the PASS hologram",
+   "a student union membership card without a hologram",
+   "a photo of an ID on a phone",
+   "a bank card with a name"
+  ],
+  "answer": 0,
+  "explanation": "Check that the photo and date of birth match.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Use of force",
+  "body": "Any force used by a door supervisor must be",
+  "options": [
+   "used before giving any warning",
+   "approved by the customer",
+   "as strong as possible",
+   "reasonable, necessary and proportionate"
+  ],
+  "answer": 3,
+  "explanation": "Using excessive force can be a criminal offence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Use of force",
+  "body": "Physical intervention should be used",
+  "options": [
+   "only as a last resort when other options have failed or aren't possible",
+   "whenever a customer is rude",
+   "to speed up queues",
+   "as a first response to arguments"
+  ],
+  "answer": 0,
+  "explanation": "Non-physical methods such as communication come first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Arrest",
+  "body": "An 'any person' arrest (citizen's arrest) can be made for",
+  "options": [
+   "being drunk and loud",
+   "an indictable offence, when it is necessary and a police officer cannot make it",
+   "any minor rule broken in the venue",
+   "refusing to show ID"
+  ],
+  "answer": 1,
+  "explanation": "Hand the person to the police as soon as possible.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Arrest",
+  "body": "After making an arrest, the door supervisor must",
+  "options": [
+   "search them for evidence first",
+   "keep them in a back room until closing",
+   "hand the person over to the police as soon as possible",
+   "release them after a warning"
+  ],
+  "answer": 2,
+  "explanation": "Record everything that happened.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Searching",
+  "body": "A customer can only be searched by a door supervisor",
+  "options": [
+   "only if the police are present",
+   "with their consent, as a condition of entry",
+   "only after they have left",
+   "at any time without asking"
+  ],
+  "answer": 1,
+  "explanation": "If they refuse, you can refuse entry.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Searching",
+  "body": "Where possible, a search should be carried out by",
+  "options": [
+   "the customer's friend",
+   "any member of the public",
+   "a member of staff of the same sex as the customer",
+   "the most senior manager"
+  ],
+  "answer": 2,
+  "explanation": "Search in view of CCTV and a witness.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Searching",
+  "body": "If you find illegal drugs during a search, you should",
+  "options": [
+   "keep them in your locker",
+   "give them back to the customer",
+   "seize them, record the find and hand them to the police",
+   "throw them away"
+  ],
+  "answer": 2,
+  "explanation": "Follow the venue's drugs policy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Conflict management",
+  "body": "Positional asymmetry means standing",
+  "options": [
+   "at an angle to the person, not square-on",
+   "behind the person",
+   "directly face to face",
+   "as close as possible"
+  ],
+  "answer": 0,
+  "explanation": "It looks less confrontational and keeps you safer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Conflict management",
+  "body": "A good way to calm an angry customer is to",
+  "options": [
+   "raise your voice above theirs",
+   "point your finger at them",
+   "listen, stay calm and explain the reasons for decisions",
+   "ignore them completely"
+  ],
+  "answer": 2,
+  "explanation": "Empathy helps de-escalate conflict.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Conflict management",
+  "body": "In the attitude and behaviour cycle,",
+  "options": [
+   "staff behaviour can never change outcomes",
+   "body language makes no difference",
+   "only customers' behaviour matters",
+   "your attitude affects your behaviour, which affects theirs"
+  ],
+  "answer": 3,
+  "explanation": "Staying positive helps prevent escalation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Conflict management",
+  "body": "Which body language is most likely to escalate conflict?",
+  "options": [
+   "nodding while listening",
+   "keeping a safe distance",
+   "pointing and invading personal space",
+   "open palms and calm posture"
+  ],
+  "answer": 2,
+  "explanation": "Non-verbal signals matter as much as words.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Communication",
+  "body": "In the NATO phonetic alphabet, 'Charlie Delta' stands for",
+  "options": [
+   "C E",
+   "K D",
+   "C D",
+   "S D"
+  ],
+  "answer": 2,
+  "explanation": "It avoids confusion over radios.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Communication",
+  "body": "Radio messages should be",
+  "options": [
+   "long and detailed",
+   "spoken quickly",
+   "full of slang",
+   "short, clear and to the point"
+  ],
+  "answer": 3,
+  "explanation": "Wait for a gap before speaking.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Vulnerable people",
+  "body": "Someone who appears very drunk and alone outside the venue is",
+  "options": [
+   "potentially vulnerable and needs your help to stay safe",
+   "someone to ignore",
+   "no longer the venue's concern",
+   "a trespasser to move on"
+  ],
+  "answer": 0,
+  "explanation": "Consider safe places, friends, taxis or emergency services.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Vulnerable people",
+  "body": "If you suspect a customer's drink has been spiked, you should",
+  "options": [
+   "give them more water and leave them",
+   "send them home alone in a taxi",
+   "eject them for being drunk",
+   "keep them with a trusted person, get medical help and inform police"
+  ],
+  "answer": 3,
+  "explanation": "Keep the drink as evidence if possible.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Vulnerable people",
+  "body": "A sign of child sexual exploitation could be",
+  "options": [
+   "a young person with older adults who control their movements",
+   "a group of friends celebrating a birthday",
+   "a parent collecting their child",
+   "a teenager asking for directions"
+  ],
+  "answer": 0,
+  "explanation": "Report concerns following the venue's safeguarding procedure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Counter-terrorism",
+  "body": "The HOT principle for suspicious items asks if an item is Hidden, Obviously suspicious and",
+  "options": [
+   "Tagged with a name",
+   "Touched by anyone",
+   "Too heavy to lift",
+   "Typical of what you'd expect in that place"
+  ],
+  "answer": 3,
+  "explanation": "If it's suspicious, don't touch it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Counter-terrorism",
+  "body": "The 4 Cs for a suspicious item are Confirm, Clear, Communicate and",
+  "options": [
+   "Cover",
+   "Carry",
+   "Control",
+   "Collect"
+  ],
+  "answer": 2,
+  "explanation": "Keep people away from the area.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Counter-terrorism",
+  "body": "In a weapons or firearms attack, the public advice is",
+  "options": [
+   "Stop, Look, Listen",
+   "Stay, Wait, Call",
+   "Fight, Flee, Freeze",
+   "Run, Hide, Tell"
+  ],
+  "answer": 3,
+  "explanation": "Run if safe, hide if you can't, and tell police by calling 999.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Counter-terrorism",
+  "body": "Hostile reconnaissance means",
+  "options": [
+   "a customer reading the menu",
+   "a staff training session",
+   "a fire drill",
+   "someone gathering information to plan an attack"
+  ],
+  "answer": 3,
+  "explanation": "Report unusual interest in security measures.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Emergency procedures",
+  "body": "On hearing the fire alarm, a door supervisor should",
+  "options": [
+   "use the lift to clear upper floors",
+   "lock the fire exits",
+   "keep people inside until the music stops",
+   "follow the evacuation plan and guide people to the exits"
+  ],
+  "answer": 3,
+  "explanation": "Report to the assembly point and help account for people.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Emergency procedures",
+  "body": "Fire exits must be kept",
+  "options": [
+   "chained when it is busy",
+   "partly blocked with stock",
+   "clear and unlocked while the venue is open",
+   "locked to stop people sneaking in"
+  ],
+  "answer": 2,
+  "explanation": "Blocked exits cost lives.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Crowd safety",
+  "body": "A sign that a crowd may be becoming dangerous is",
+  "options": [
+   "people being pushed and unable to move freely",
+   "a slow and steady queue",
+   "people leaving through the exits calmly",
+   "people chatting in small groups"
+  ],
+  "answer": 0,
+  "explanation": "Act early to reduce density.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Equality",
+  "body": "The Equality Act 2010 lists how many protected characteristics?",
+  "options": [
+   "6",
+   "12",
+   "9",
+   "4"
+  ],
+  "answer": 2,
+  "explanation": "They include age, disability, race, religion or belief, sex and sexual orientation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Equality",
+  "body": "Refusing entry because of a person's race is",
+  "options": [
+   "allowed if the manager says so",
+   "unlawful discrimination",
+   "allowed on busy nights",
+   "a dress code decision"
+  ],
+  "answer": 1,
+  "explanation": "Entry decisions must be fair and consistent.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Record keeping",
+  "body": "An incident report should be",
+  "options": [
+   "written a week later from memory",
+   "written as soon as possible, factually and accurately",
+   "left out if nobody was hurt",
+   "kept as a private opinion"
+  ],
+  "answer": 1,
+  "explanation": "It may be used as evidence in court.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Record keeping",
+  "body": "CCTV images of people are personal data, so they must be",
+  "options": [
+   "shared on social media",
+   "handled under the UK GDPR and Data Protection Act 2018",
+   "given to anyone who asks",
+   "kept forever"
+  ],
+  "answer": 1,
+  "explanation": "Only authorised people should access them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Ejection",
+  "body": "When ejecting a customer, door supervisors should",
+  "options": [
+   "eject them through the busiest exit",
+   "explain the reason, give them the chance to leave and use force only if necessary",
+   "keep their coat as a penalty",
+   "remove them without speaking"
+  ],
+  "answer": 1,
+  "explanation": "Make sure they're safe once outside.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Health and safety",
+  "body": "Door supervisors who work alone outside should",
+  "options": [
+   "leave their post without telling anyone",
+   "switch radios off to save batteries",
+   "keep regular contact with colleagues by radio",
+   "avoid CCTV coverage"
+  ],
+  "answer": 2,
+  "explanation": "Lone working increases risk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Drugs",
+  "body": "Which is a common sign that a person may have taken drugs?",
+  "options": [
+   "a calm and steady walk",
+   "dilated pupils and erratic behaviour",
+   "normal speech and focus",
+   "sitting quietly with friends"
+  ],
+  "answer": 1,
+  "explanation": "Signs vary; treat it as a welfare concern too.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Licensing law",
+  "body": "A licensed venue's Designated Premises Supervisor (DPS) is",
+  "options": [
+   "the owner of the building",
+   "the head door supervisor",
+   "the named person with day-to-day responsibility for selling alcohol",
+   "a council licensing officer"
+  ],
+  "answer": 2,
+  "explanation": "Door supervisors work with the DPS and venue management.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Use of force",
+  "body": "If a customer is injured during a physical intervention, you should",
+  "options": [
+   "get first aid, record the incident and report it to your supervisor",
+   "say nothing in case of trouble",
+   "tell them to see their GP next week",
+   "leave them in the street"
+  ],
+  "answer": 0,
+  "explanation": "Accurate records protect everyone.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SIAQ",
+  "topic": "Searching",
+  "body": "If a customer refuses a search that is a condition of entry, you should",
+  "options": [
+   "politely refuse them entry",
+   "let them in without a search",
+   "call the police to force a search",
+   "search them anyway"
+  ],
+  "answer": 0,
+  "explanation": "Explain the venue's policy calmly.",
+  "difficulty": 2
+ }
+]

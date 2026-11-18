@@ -1,0 +1,562 @@
+[
+ {
+  "subject": "FOD",
+  "topic": "Law",
+  "body": "Food businesses in the UK must make sure the food they sell is",
+  "options": [
+   "organic",
+   "made on the premises",
+   "cheaper than competitors",
+   "safe to eat and as described"
+  ],
+  "answer": 3,
+  "explanation": "This comes from the Food Safety Act 1990 and food hygiene regulations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Law",
+  "body": "The food hygiene rating scheme rates businesses from",
+  "options": [
+   "0 to 5",
+   "A to E",
+   "1 to 10",
+   "1 to 3"
+  ],
+  "answer": 0,
+  "explanation": "5 means hygiene standards are very good.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Law",
+  "body": "Food safety law is enforced in local businesses mainly by",
+  "options": [
+   "trading standards only",
+   "the Food Standards Agency head office",
+   "environmental health officers (EHOs)",
+   "the police"
+  ],
+  "answer": 2,
+  "explanation": "EHOs can inspect premises and serve notices.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Law",
+  "body": "If there is an imminent risk to health, an EHO can serve",
+  "options": [
+   "a parking ticket",
+   "a warning letter only",
+   "a hygiene emergency prohibition notice that closes the business",
+   "a fine to the customer"
+  ],
+  "answer": 2,
+  "explanation": "The closure must be confirmed by a court.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Bacteria",
+  "body": "The temperature 'danger zone' in which bacteria multiply fastest is",
+  "options": [
+   "between -18°C and 0°C",
+   "above 100°C",
+   "between 5°C and 63°C",
+   "between 63°C and 100°C"
+  ],
+  "answer": 2,
+  "explanation": "Keep food out of this range as much as possible.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Bacteria",
+  "body": "In ideal conditions, bacteria can divide every",
+  "options": [
+   "1 to 2 days",
+   "5 to 10 hours",
+   "week",
+   "10 to 20 minutes"
+  ],
+  "answer": 3,
+  "explanation": "So one bacterium can become millions in a few hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Bacteria",
+  "body": "Which bacterium is the most common cause of food poisoning in the UK and is often linked with raw poultry?",
+  "options": [
+   "Campylobacter",
+   "Bacillus cereus",
+   "Listeria",
+   "Clostridium botulinum"
+  ],
+  "answer": 0,
+  "explanation": "Never wash raw chicken; it spreads bacteria.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Bacteria",
+  "body": "Which bacterium can grow at fridge temperatures and is a particular risk in pregnancy?",
+  "options": [
+   "Listeria",
+   "Campylobacter",
+   "Clostridium perfringens",
+   "Salmonella"
+  ],
+  "answer": 0,
+  "explanation": "Risk foods include soft cheeses, pâté and smoked fish.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Bacteria",
+  "body": "Bacillus cereus is often linked with",
+  "options": [
+   "cooked rice left at room temperature",
+   "tap water",
+   "raw chicken",
+   "fresh bread"
+  ],
+  "answer": 0,
+  "explanation": "Cool rice quickly and store it in the fridge.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Bacteria",
+  "body": "Staphylococcus aureus is commonly carried in",
+  "options": [
+   "the nose, mouth and on the skin of food handlers",
+   "frozen fish",
+   "soil on vegetables",
+   "raw eggs"
+  ],
+  "answer": 0,
+  "explanation": "Good personal hygiene controls it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Temperatures",
+  "body": "Fridges should keep food at",
+  "options": [
+   "5°C or below (8°C is the legal maximum)",
+   "0°C exactly",
+   "10°C or below",
+   "15°C or below"
+  ],
+  "answer": 0,
+  "explanation": "Check and record fridge temperatures daily.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Temperatures",
+  "body": "Freezers should keep food at",
+  "options": [
+   "0°C",
+   "4°C",
+   "-18°C or colder",
+   "-5°C"
+  ],
+  "answer": 2,
+  "explanation": "Freezing stops bacteria growing but doesn't kill most of them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Temperatures",
+  "body": "Food should be cooked until its core temperature reaches",
+  "options": [
+   "60°C",
+   "50°C",
+   "75°C (or an equivalent time and temperature, such as 70°C for 2 minutes)",
+   "63°C"
+  ],
+  "answer": 2,
+  "explanation": "Use a clean, calibrated probe in the thickest part.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Temperatures",
+  "body": "Hot food on display must be kept at",
+  "options": [
+   "45°C or above",
+   "63°C or above",
+   "75°C or above",
+   "55°C or above"
+  ],
+  "answer": 1,
+  "explanation": "Food below 63°C for more than 2 hours should be thrown away.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Temperatures",
+  "body": "Cooked food that is to be chilled should be cooled",
+  "options": [
+   "as quickly as possible, ideally within 90 minutes",
+   "in a sealed pot in the oven",
+   "slowly overnight on the worktop",
+   "within 24 hours"
+  ],
+  "answer": 0,
+  "explanation": "Divide into smaller portions or use a blast chiller.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Temperatures",
+  "body": "In England, food being reheated should reach a core temperature of at least",
+  "options": [
+   "63°C",
+   "75°C",
+   "55°C",
+   "40°C"
+  ],
+  "answer": 1,
+  "explanation": "In Scotland the reheating temperature is 82°C.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Temperatures",
+  "body": "Before probing food, the probe thermometer should be",
+  "options": [
+   "rinsed in cold water only",
+   "used straight from the drawer",
+   "wiped on an apron",
+   "cleaned and disinfected"
+  ],
+  "answer": 3,
+  "explanation": "Check probes regularly for accuracy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Contamination",
+  "body": "The four types of food contamination are microbiological, chemical, physical and",
+  "options": [
+   "allergenic",
+   "visual",
+   "nutritional",
+   "seasonal"
+  ],
+  "answer": 0,
+  "explanation": "Each needs different controls.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Contamination",
+  "body": "A piece of plaster or a hair in food is an example of",
+  "options": [
+   "chemical contamination",
+   "physical contamination",
+   "microbiological contamination",
+   "allergenic contamination"
+  ],
+  "answer": 1,
+  "explanation": "Wear blue plasters and hair coverings.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Contamination",
+  "body": "Why are blue plasters used in food areas?",
+  "options": [
+   "they heal cuts faster",
+   "they are cheaper",
+   "they are waterproof only when blue",
+   "they are easy to see if they fall into food"
+  ],
+  "answer": 3,
+  "explanation": "Most have a metal strip so detectors can find them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Cross-contamination",
+  "body": "Raw meat should be stored in the fridge",
+  "options": [
+   "on the top shelf",
+   "on the bottom shelf, below ready-to-eat food",
+   "next to salads",
+   "in the door"
+  ],
+  "answer": 1,
+  "explanation": "This stops raw juices dripping onto other food.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Cross-contamination",
+  "body": "In common colour coding, a red chopping board is used for",
+  "options": [
+   "salad and fruit",
+   "raw meat",
+   "bakery and dairy",
+   "cooked meat"
+  ],
+  "answer": 1,
+  "explanation": "Blue is raw fish, yellow cooked meat, green salad and fruit, brown vegetables, white bakery and dairy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Cross-contamination",
+  "body": "In common colour coding, a yellow chopping board is used for",
+  "options": [
+   "raw meat",
+   "raw fish",
+   "cooked meat",
+   "vegetables"
+  ],
+  "answer": 2,
+  "explanation": "Separate equipment prevents cross-contamination.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Allergens",
+  "body": "How many allergens must UK food businesses declare by law?",
+  "options": [
+   "20",
+   "4",
+   "8",
+   "14"
+  ],
+  "answer": 3,
+  "explanation": "They include peanuts, tree nuts, milk, eggs, sesame and gluten-containing cereals.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Allergens",
+  "body": "Natasha's Law requires food that is prepacked for direct sale (PPDS) to show",
+  "options": [
+   "only the price",
+   "the chef's name",
+   "only the calories",
+   "the full ingredients list with allergens emphasised"
+  ],
+  "answer": 3,
+  "explanation": "It came into force in October 2021.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Allergens",
+  "body": "Which of these is one of the 14 allergens?",
+  "options": [
+   "chicken",
+   "tomato",
+   "rice",
+   "sesame"
+  ],
+  "answer": 3,
+  "explanation": "Others include mustard, celery, lupin, molluscs and sulphur dioxide.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Allergens",
+  "body": "Cooking food does not",
+  "options": [
+   "destroy allergens",
+   "change its texture",
+   "make it hot",
+   "kill most bacteria"
+  ],
+  "answer": 0,
+  "explanation": "Keep allergen-free orders separate from start to finish.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Date marks",
+  "body": "A 'use by' date means the food",
+  "options": [
+   "can be eaten a week later",
+   "must not be eaten after that date, even if it looks fine",
+   "is at its best before that date",
+   "can be frozen for a year after"
+  ],
+  "answer": 1,
+  "explanation": "Use-by dates are about safety.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Date marks",
+  "body": "A 'best before' date is about",
+  "options": [
+   "the date it was made",
+   "quality rather than safety",
+   "the date food becomes dangerous",
+   "the latest date it can be cooked"
+  ],
+  "answer": 1,
+  "explanation": "Food may still be safe after its best-before date.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Stock control",
+  "body": "Stock should be rotated using",
+  "options": [
+   "biggest first",
+   "random selection",
+   "first in, first out (FIFO)",
+   "last in, first out"
+  ],
+  "answer": 2,
+  "explanation": "Use older stock first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Personal hygiene",
+  "body": "Food handlers must wash their hands",
+  "options": [
+   "only when they look dirty",
+   "only after handling raw meat",
+   "before handling food and after using the toilet, touching raw food or handling waste",
+   "only at the start of a shift"
+  ],
+  "answer": 2,
+  "explanation": "Wash with soap and warm water and dry properly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Personal hygiene",
+  "body": "A food handler who has had diarrhoea or vomiting should not return to work until",
+  "options": [
+   "they feel a bit better",
+   "48 hours after the symptoms have stopped",
+   "the next morning",
+   "a week after they started"
+  ],
+  "answer": 1,
+  "explanation": "Report illness to your manager before your shift.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Personal hygiene",
+  "body": "Which jewellery is usually allowed for food handlers?",
+  "options": [
+   "bracelets",
+   "earrings with stones",
+   "watches",
+   "a plain wedding band"
+  ],
+  "answer": 3,
+  "explanation": "Jewellery can trap bacteria and fall into food.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Cleaning",
+  "body": "Disinfection means",
+  "options": [
+   "reducing bacteria to a safe level",
+   "killing every microbe completely",
+   "rinsing with cold water",
+   "removing visible dirt and grease"
+  ],
+  "answer": 0,
+  "explanation": "Clean first, then disinfect, following the contact time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Cleaning",
+  "body": "A cleaning schedule shows",
+  "options": [
+   "the menu prices",
+   "supplier delivery days",
+   "the staff holiday rota",
+   "what to clean, when, how and who is responsible"
+  ],
+  "answer": 3,
+  "explanation": "Cleaning records support due diligence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Pests",
+  "body": "Signs of rodents in a kitchen include",
+  "options": [
+   "droppings, gnawed packaging and greasy smear marks",
+   "condensation on windows",
+   "dust on high shelves",
+   "dull cutlery"
+  ],
+  "answer": 0,
+  "explanation": "Report signs at once and protect food.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Pests",
+  "body": "Gaps under doors and around pipes should be",
+  "options": [
+   "sealed to keep pests out",
+   "left open for ventilation",
+   "filled with food waste",
+   "covered with cardboard"
+  ],
+  "answer": 0,
+  "explanation": "Use fly screens and keep waste covered.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "HACCP",
+  "body": "HACCP stands for",
+  "options": [
+   "Hazard Analysis and Critical Control Point",
+   "Hygiene and Cooking Check Process",
+   "Health and Catering Control Plan",
+   "Hazard Assessment and Cleaning Control Policy"
+  ],
+  "answer": 0,
+  "explanation": "Food businesses must have food safety procedures based on HACCP.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "HACCP",
+  "body": "A critical control point is",
+  "options": [
+   "the time staff take breaks",
+   "the kitchen's main exit",
+   "the point where food is priced",
+   "a step where control is essential to prevent or reduce a hazard"
+  ],
+  "answer": 3,
+  "explanation": "Cooking to 75°C is a common CCP.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FOD",
+  "topic": "Deliveries",
+  "body": "Chilled deliveries should arrive at",
+  "options": [
+   "8°C or below (ideally 5°C or below)",
+   "any temperature if packed",
+   "room temperature",
+   "15°C or below"
+  ],
+  "answer": 0,
+  "explanation": "Reject deliveries that are too warm or damaged.",
+  "difficulty": 2
+ }
+]

@@ -1,0 +1,422 @@
+[
+ {
+  "subject": "FSE1",
+  "topic": "Punctuation",
+  "body": "Which sentence is punctuated correctly?",
+  "options": [
+   "My sister lives in Leeds",
+   "My sister lives in Leeds.",
+   "My sister lives, in Leeds.",
+   "My sister: lives in Leeds."
+  ],
+  "answer": 1,
+  "explanation": "No comma or colon is needed here, and the sentence must end with a full stop.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Punctuation",
+  "body": "Which sentence uses a question mark correctly?",
+  "options": [
+   "Where is the nearest bus stop?",
+   "Where is the nearest bus stop?.",
+   "Where? is the nearest bus stop",
+   "Where is the nearest bus stop."
+  ],
+  "answer": 0,
+  "explanation": "Questions end with a question mark.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Punctuation",
+  "body": "Which sentence uses commas correctly in a list?",
+  "options": [
+   "We, need bread milk eggs and butter.",
+   "We need bread milk, eggs, and, butter.",
+   "We need, bread milk eggs and butter.",
+   "We need bread, milk, eggs and butter."
+  ],
+  "answer": 3,
+  "explanation": "Commas separate items in a list.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Punctuation",
+  "body": "Which shows correct use of an apostrophe for possession?",
+  "options": [
+   "the dog,s lead",
+   "the dogs lead's",
+   "the dogs's lead",
+   "the dog's lead"
+  ],
+  "answer": 3,
+  "explanation": "For one owner, add 's.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Punctuation",
+  "body": "Which is the correct short form of 'do not'?",
+  "options": [
+   "do'nt",
+   "don,t",
+   "don't",
+   "dont'"
+  ],
+  "answer": 2,
+  "explanation": "The apostrophe replaces the missing letter o.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Spelling",
+  "body": "Which spelling is correct for the word meaning 'needed'?",
+  "options": [
+   "necessary",
+   "necesary",
+   "neccesary",
+   "neccessary"
+  ],
+  "answer": 0,
+  "explanation": "One c, two s's.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Spelling",
+  "body": "Which spelling is correct for the word meaning 'for the reason that'?",
+  "options": [
+   "becaus",
+   "becuase",
+   "because",
+   "beacause"
+  ],
+  "answer": 2,
+  "explanation": "Tip: Big Elephants Can Always Understand Small Elephants.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Spelling",
+  "body": "Which spelling is correct for the word the day after Tuesday?",
+  "options": [
+   "Wedensday",
+   "Wensday",
+   "Wednsday",
+   "Wednesday"
+  ],
+  "answer": 3,
+  "explanation": "Days of the week also need capital letters.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Spelling",
+  "body": "Which spelling is correct for the word meaning 'apart'?",
+  "options": [
+   "seperete",
+   "separate",
+   "separete",
+   "seperate"
+  ],
+  "answer": 1,
+  "explanation": "There's 'a rat' in sep-a-rat-e.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Homophones",
+  "body": "Choose the correct word: 'Put the box over ___.'",
+  "options": [
+   "they're",
+   "their",
+   "thier",
+   "there"
+  ],
+  "answer": 3,
+  "explanation": "'There' is a place; 'their' means belonging to them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Homophones",
+  "body": "Choose the correct word: '___ coming to the meeting later.'",
+  "options": [
+   "Thier",
+   "They're",
+   "There",
+   "Their"
+  ],
+  "answer": 1,
+  "explanation": "'They're' is short for 'they are'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Homophones",
+  "body": "Choose the correct word: 'I would like ___ cups of tea.'",
+  "options": [
+   "to",
+   "two",
+   "too",
+   "tow"
+  ],
+  "answer": 1,
+  "explanation": "'Two' is the number.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Homophones",
+  "body": "Choose the correct word: 'Check that ___ coat is on the peg.'",
+  "options": [
+   "your",
+   "yor",
+   "youre",
+   "you're"
+  ],
+  "answer": 0,
+  "explanation": "'You're' means 'you are'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Grammar",
+  "body": "Choose the correct word: 'She ___ to work every day.'",
+  "options": [
+   "walk",
+   "walks",
+   "walking",
+   "walked to"
+  ],
+  "answer": 1,
+  "explanation": "With 'she', use 'walks' in the present tense.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Grammar",
+  "body": "Choose the correct word: 'Yesterday we ___ to the cinema.'",
+  "options": [
+   "went",
+   "gone",
+   "go",
+   "goes"
+  ],
+  "answer": 0,
+  "explanation": "'Yesterday' needs the past tense.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Grammar",
+  "body": "Choose the correct word: 'The children ___ playing outside.'",
+  "options": [
+   "is",
+   "be",
+   "was",
+   "are"
+  ],
+  "answer": 3,
+  "explanation": "'Children' is plural, so use 'are'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Grammar",
+  "body": "Which sentence is correct?",
+  "options": [
+   "I finished have my work.",
+   "I have finish my work.",
+   "I has finished my work.",
+   "I have finished my work."
+  ],
+  "answer": 3,
+  "explanation": "Use 'have' + past participle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Reading",
+  "body": "What is the main purpose of a leaflet titled 'How to recycle at home'?",
+  "options": [
+   "to entertain with jokes",
+   "to describe a holiday",
+   "to tell a story",
+   "to give instructions"
+  ],
+  "answer": 3,
+  "explanation": "It explains how to do something.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Reading",
+  "body": "Bullet points in a text are used to",
+  "options": [
+   "replace paragraphs in a story",
+   "break information into short, clear points",
+   "make the text longer",
+   "show the writer is angry"
+  ],
+  "answer": 1,
+  "explanation": "They make information easy to scan.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Reading",
+  "body": "A notice says: 'The library will close at 5 pm on Thursday for staff training.' When will the library close early?",
+  "options": [
+   "every day at 5 pm",
+   "Thursday morning",
+   "Friday at 5 pm",
+   "Thursday at 5 pm"
+  ],
+  "answer": 3,
+  "explanation": "Find the key detail in the text.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Reading",
+  "body": "A notice says: 'Volunteers meet every Saturday at 10 am. Please bring gloves.' What should volunteers bring?",
+  "options": [
+   "gloves",
+   "a spade",
+   "nothing",
+   "a packed lunch"
+  ],
+  "answer": 0,
+  "explanation": "Look for the instruction in the text.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Reading",
+  "body": "A heading in a text is used to",
+  "options": [
+   "list ingredients",
+   "tell the reader what a section is about",
+   "show a quotation",
+   "end the text"
+  ],
+  "answer": 1,
+  "explanation": "Headings help organise information.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Writing",
+  "body": "Which greeting is best for a formal email to a manager you don't know?",
+  "options": [
+   "Dear Ms Patel,",
+   "Yo Ms Patel",
+   "Hiya!",
+   "Hey mate,"
+  ],
+  "answer": 0,
+  "explanation": "Formal writing needs a formal greeting.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Writing",
+  "body": "Which sign-off goes with 'Dear Sir or Madam'?",
+  "options": [
+   "Cheers",
+   "Yours sincerely",
+   "Yours faithfully",
+   "See ya"
+  ],
+  "answer": 2,
+  "explanation": "Use 'Yours sincerely' when you've used the person's name.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Writing",
+  "body": "Which sentence is the most formal?",
+  "options": [
+   "I am writing to request a refund.",
+   "Gimme a refund pls.",
+   "Can I get my cash back?",
+   "I want my money back now."
+  ],
+  "answer": 0,
+  "explanation": "Formal writing avoids slang and text speak.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Writing",
+  "body": "A new paragraph should usually start when",
+  "options": [
+   "the page is half full",
+   "you use a comma",
+   "the topic, time, place or speaker changes",
+   "you have written three words"
+  ],
+  "answer": 2,
+  "explanation": "Paragraphs organise ideas.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Speaking and listening",
+  "body": "In a group discussion, a good way to show you're listening is to",
+  "options": [
+   "check your phone",
+   "interrupt with your own idea",
+   "let others finish and ask a question about what they said",
+   "talk over the quietest person"
+  ],
+  "answer": 2,
+  "explanation": "Turn-taking keeps discussions fair.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Proofreading",
+  "body": "Which sentence has no mistakes?",
+  "options": [
+   "The train leaves at half past six.",
+   "The train leave's at half past six.",
+   "The train leave at half past six.",
+   "The train leaves at half passed six."
+  ],
+  "answer": 0,
+  "explanation": "'Past' is used for time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Grammar",
+  "body": "Which word is a verb in 'The cat jumped over the wall'?",
+  "options": [
+   "wall",
+   "cat",
+   "jumped",
+   "over"
+  ],
+  "answer": 2,
+  "explanation": "A verb is a doing word.",
+  "difficulty": 2
+ },
+ {
+  "subject": "FSE1",
+  "topic": "Grammar",
+  "body": "Which word is an adjective in 'She wore a bright red coat'?",
+  "options": [
+   "wore",
+   "coat",
+   "she",
+   "bright"
+  ],
+  "answer": 3,
+  "explanation": "Adjectives describe nouns.",
+  "difficulty": 2
+ }
+]
