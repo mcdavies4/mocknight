@@ -23,7 +23,7 @@ export interface PublicQuestion {
   subject: string;
   body: string;
   options: string[];
-  audio?: { text: string; lang: string } | null;
+  audio?: { text: string; lang: string; id?: string } | null;
 }
 
 export interface ReviewQuestion extends PublicQuestion {

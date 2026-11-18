@@ -41,9 +41,9 @@ export interface Question {
   audio_lang?: string | null;
 }
 
-export type QAudio = { text: string; lang: string } | null;
-export const audioOf = (q: { audio_text?: string | null; audio_lang?: string | null }): QAudio =>
-  q.audio_text && q.audio_lang ? { text: q.audio_text, lang: q.audio_lang } : null;
+export type QAudio = { text: string; lang: string; id?: string } | null;
+export const audioOf = (q: { id?: string; audio_text?: string | null; audio_lang?: string | null }): QAudio =>
+  q.audio_text && q.audio_lang ? { text: q.audio_text, lang: q.audio_lang, id: q.id } : null;
 
 export interface DrillSession {
   id: string;

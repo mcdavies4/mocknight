@@ -72,7 +72,7 @@ export default async function PracticeSubject({ params }: P) {
             <li key={q.id} className="card">
               {q.topic ? <div className="muted small">{q.topic}</div> : null}
               <p className="q-body"><b>{i + 1}.</b> {q.body}</p>
-              {q.audio && <Listen text={q.audio.text} lang={q.audio.lang} />}
+              {q.audio && <Listen text={q.audio.text} lang={q.audio.lang} id={q.audio.id} />}
               <ul className="q-opts">{q.options.map((o, j) => <li key={j}><b>{L[j]}.</b> {o}</li>)}</ul>
               <details>
                 <summary>Show answer</summary>

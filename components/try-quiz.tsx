@@ -3,7 +3,7 @@ import { Listen } from "./listen";
 import { useState } from "react";
 import { EmailStart } from "./email-start";
 
-export interface TryQ { id: string; body: string; options: string[]; answer: number; explanation: string | null; audio?: { text: string; lang: string } | null }
+export interface TryQ { id: string; body: string; options: string[]; answer: number; explanation: string | null; audio?: { text: string; lang: string; id?: string } | null }
 
 /** Five free questions right on the exam page, then an email sign-up with the score. */
 export function TryQuiz({ questions, track, short }: { questions: TryQ[]; track: string; short: string }) {
@@ -42,7 +42,7 @@ export function TryQuiz({ questions, track, short }: { questions: TryQ[]; track:
             <span className="muted small">{i + 1} / {questions.length}</span>
           </div>
           <p style={{ whiteSpace: "pre-line", margin: "10px 0 12px" }}>{q.body}</p>
-          {q.audio && <Listen key={q.id} text={q.audio.text} lang={q.audio.lang} />}
+          {q.audio && <Listen key={q.id} text={q.audio.text} lang={q.audio.lang} id={q.audio.id} />}
           <div className="options">
             {q.options.map((o, n) => {
               const cls = picked === null ? "" : n === q.answer ? "correct" : n === picked ? "wrong" : "";

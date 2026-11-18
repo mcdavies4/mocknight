@@ -17,7 +17,7 @@ export default async function ListenPage({ params }: { params: Promise<{ id: str
       <h1 style={{ fontSize: 22 }}>🎧 Listen</h1>
       <p className="muted small">Listen as many times as you like, then close this and answer in the chat.</p>
       <div className="card">
-        <Listen text={data.audio_text} lang={data.audio_lang} autoPlay />
+        <Listen text={data.audio_text} lang={data.audio_lang} id={id} autoPlay />
       </div>
     </main>
   );

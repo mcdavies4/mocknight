@@ -1,25 +1,30 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 const LANG_NAME: Record<string, string> = { zh: "Chinese", ja: "Japanese", ko: "Korean", ru: "Russian" };
 
 /**
- * Listening questions: the device speaks the text in the target language (Web Speech API).
- * No audio files to host. If the device has no voice for the language, the learner can show the words.
+ * Listening questions. Plays recorded audio (Google Text-to-Speech, /api/audio/[id]) when there's a question id.
+ * If that fails, or there's no id, the device's own voice reads the text (Web Speech API).
+ * "Show the words" is always there as a last resort.
  */
-export function Listen({ text, lang, revealed = false, autoPlay = false }: { text: string; lang: string; revealed?: boolean; autoPlay?: boolean }) {
-  const [status, setStatus] = useState<"loading" | "ready" | "novoice" | "unsupported">("loading");
+export function Listen({ text, lang, id, revealed = false, autoPlay = false }: { text: string; lang: string; id?: string; revealed?: boolean; autoPlay?: boolean }) {
+  const [mode, setMode] = useState<"recorded" | "device" | "none">(id ? "recorded" : "device");
   const [voice, setVoice] = useState<SpeechSynthesisVoice | null>(null);
+  const [voiceStatus, setVoiceStatus] = useState<"loading" | "ready" | "novoice" | "unsupported">("loading");
   const [playing, setPlaying] = useState(false);
+  const [loading, setLoading] = useState(false);
   const [plays, setPlays] = useState(0);
   const [show, setShow] = useState(false);
+  const audioRef = useRef<HTMLAudioElement | null>(null);
   const base = lang.split("-")[0].toLowerCase();
   const name = LANG_NAME[base] ?? "this language";
 
+  // Device voices (fallback)
   useEffect(() => {
     if (typeof window === "undefined" || !("speechSynthesis" in window) || typeof SpeechSynthesisUtterance === "undefined") {
-      setStatus("unsupported");
+      setVoiceStatus("unsupported");
       return;
     }
     const synth = window.speechSynthesis;
@@ -29,12 +34,11 @@ export function Listen({ text, lang, revealed = false, autoPlay = false }: { tex
       if (!voices.length) return false;
       const v = voices.find((x) => norm(x.lang) === lang.toLowerCase()) ?? voices.find((x) => norm(x.lang).startsWith(base));
       setVoice(v ?? null);
-      setStatus(v ? "ready" : "novoice");
+      setVoiceStatus(v ? "ready" : "novoice");
       return true;
     };
     if (!choose()) synth.addEventListener?.("voiceschanged", choose);
-    // Some browsers never fire voiceschanged; still let people try with the language tag alone.
-    const t = setTimeout(() => setStatus((s) => (s === "loading" ? "novoice" : s)), 2500);
+    const t = setTimeout(() => setVoiceStatus((s) => (s === "loading" ? "novoice" : s)), 2500);
     return () => {
       clearTimeout(t);
       synth.removeEventListener?.("voiceschanged", choose);
@@ -42,7 +46,9 @@ export function Listen({ text, lang, revealed = false, autoPlay = false }: { tex
     };
   }, [lang, base]);
 
-  function play(rate: number) {
+  useEffect(() => () => audioRef.current?.pause(), []);
+
+  function speakDevice(rate: number) {
     try {
       const synth = window.speechSynthesis;
       synth.cancel();
@@ -53,28 +59,60 @@ export function Listen({ text, lang, revealed = false, autoPlay = false }: { tex
       u.onend = () => setPlaying(false);
       u.onerror = () => setPlaying(false);
       setPlaying(true);
-      setPlays((n) => n + 1);
       synth.speak(u);
     } catch {
-      setStatus("unsupported");
+      setMode("none");
     }
   }
 
-  useEffect(() => {
-    if (autoPlay && status === "ready" && plays === 0) play(0.9);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [autoPlay, status]);
+  function play(slow: boolean) {
+    setPlays((n) => n + 1);
+    if (mode === "recorded" && id) {
+      let a = audioRef.current;
+      if (!a) {
+        a = new Audio(`/api/audio/${id}`);
+        a.preload = "auto";
+        a.onplaying = () => {
+          setLoading(false);
+          setPlaying(true);
+        };
+        a.onended = () => setPlaying(false);
+        a.onpause = () => setPlaying(false);
+        a.onerror = () => {
+          // Recorded audio unavailable: use the device's voice instead.
+          setLoading(false);
+          setPlaying(false);
+          setMode("device");
+          speakDevice(slow ? 0.6 : 0.9);
+        };
+        audioRef.current = a;
+      }
+      a.playbackRate = slow ? 0.7 : 1;
+      a.currentTime = 0;
+      setLoading(true);
+      a.play().catch(() => setLoading(false));
+      return;
+    }
+    if (mode === "device") speakDevice(slow ? 0.6 : 0.9);
+  }
 
-  const canPlay = status === "ready" || status === "novoice";
+  useEffect(() => {
+    if (!autoPlay || plays > 0) return;
+    if (mode === "recorded") play(false);
+    else if (mode === "device" && voiceStatus === "ready") play(false);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [autoPlay, voiceStatus]);
+
+  const canPlay = mode === "recorded" || (mode === "device" && voiceStatus !== "unsupported");
   const words = revealed || show;
 
   return (
     <div className="listen" lang={lang}>
       <div className="listen-row">
-        <button type="button" className="btn listen-play" onClick={() => play(0.9)} disabled={!canPlay}>
-          {playing ? "🔊 Playing…" : plays ? "🔁 Play again" : "▶️ Listen"}
+        <button type="button" className="btn listen-play" onClick={() => play(false)} disabled={!canPlay}>
+          {loading ? "⏳ Loading…" : playing ? "🔊 Playing…" : plays ? "🔁 Play again" : "▶️ Listen"}
         </button>
-        <button type="button" className="btn secondary listen-slow" onClick={() => play(0.6)} disabled={!canPlay}>
+        <button type="button" className="btn secondary listen-slow" onClick={() => play(true)} disabled={!canPlay}>
           🐢 Slower
         </button>
         {!words && (
@@ -83,14 +121,14 @@ export function Listen({ text, lang, revealed = false, autoPlay = false }: { tex
           </button>
         )}
       </div>
-      {status === "novoice" && !words && (
+      {mode === "device" && voiceStatus === "novoice" && !words && (
         <p className="muted small" style={{ margin: "6px 0 0" }}>
           If you hear nothing, your device has no {name} voice. Add one in your phone&apos;s text-to-speech settings, or tap &quot;Show the words&quot;.
         </p>
       )}
-      {status === "unsupported" && !words && (
+      {(mode === "none" || (mode === "device" && voiceStatus === "unsupported")) && !words && (
         <p className="muted small" style={{ margin: "6px 0 0" }}>
-          This browser can&apos;t play audio. Tap &quot;Show the words&quot; to read it instead.
+          Audio can&apos;t play here. Tap &quot;Show the words&quot; to read it instead.
         </p>
       )}
       {words && <p className="listen-text">{text}</p>}

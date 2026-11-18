@@ -8,7 +8,7 @@ import { localiseQuestion, nigeriaOnlyFor } from "./localise";
 
 export const PER_PAGE = 10;
 
-export interface PracticeQ { id: string; topic: string | null; body: string; options: string[]; answer: number; explanation: string | null; audio?: { text: string; lang: string } | null }
+export interface PracticeQ { id: string; topic: string | null; body: string; options: string[]; answer: number; explanation: string | null; audio?: { text: string; lang: string; id?: string } | null }
 export interface PracticeSubject { code: string; name: string; slug: string }
 
 export const slugify = (s: string) =>
@@ -63,11 +63,11 @@ const cachedPractice = unstable_cache(
         .slice(0, PER_PAGE)
         .map((q) => {
           const l = localiseQuestion({ body: q.body, options: q.options as string[], explanation: q.explanation }, trackCode);
-          return { id: q.id, topic: q.topic, body: l.body, options: l.options, answer: q.answer_index, explanation: l.explanation ?? null, audio: q.audio_text && q.audio_lang ? { text: q.audio_text, lang: q.audio_lang } : null };
+          return { id: q.id, topic: q.topic, body: l.body, options: l.options, answer: q.answer_index, explanation: l.explanation ?? null, audio: q.audio_text && q.audio_lang ? { text: q.audio_text, lang: q.audio_lang, id: q.id } : null };
         });
     }
   },
-  ["practice-v2"],
+  ["practice-v3"],
   { revalidate: 86400 },
 );
 

@@ -207,7 +207,7 @@ export default function Cbt() {
           <span>{answeredTotal}/{data.questions.length} answered</span>
         </div>
         <p className="qbody">{q.body}</p>
-        {q.audio && <Listen key={q.id} text={q.audio.text} lang={q.audio.lang} />}
+        {q.audio && <Listen key={q.id} text={q.audio.text} lang={q.audio.lang} id={q.audio.id} />}
 
         <div className="options">
           {q.options.map((o, i) => (
@@ -387,7 +387,7 @@ function ResultView({ data, result }: { data: MockPayload; result: MockResult })
           <p className="qbody" style={{ fontSize: 15 }}>
             {r.body}
           </p>
-          {r.audio && <Listen text={r.audio.text} lang={r.audio.lang} revealed />}
+          {r.audio && <Listen text={r.audio.text} lang={r.audio.lang} id={r.audio.id} revealed />}
           <div className="options">
             {r.options.map((o, i) => (
               <div
