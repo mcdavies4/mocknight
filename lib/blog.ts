@@ -18,6 +18,137 @@ export type Post = {
 
 export const POSTS: Post[] = [
   {
+    slug: "hsk-1-guide",
+    title: "HSK 1 exam guide: format, vocabulary, pass mark and the HSK 3.0 change",
+    description: "What the HSK 1 Chinese test looks like, how many words you need, the pass mark, the switch to HSK 3.0 from December 2026, and a simple plan to pass.",
+    date: "2026-11-19",
+    exam: "HSK",
+    examHref: "/exam/HSK",
+    tag: "🇨🇳 Chinese",
+    readMins: 6,
+    body: `**HSK 1** is the first level of the Hanyu Shuiping Kaoshi (汉语水平考试), China's official Chinese proficiency test. It shows you can understand and use very simple Chinese: greetings, numbers, dates, family, food and everyday questions. It's the usual first certificate for learners and a stepping stone towards study or scholarships in China.
+
+## Big change: HSK 2.0 vs HSK 3.0
+
+The HSK is moving to a new system, **HSK 3.0**, with nine levels in three stages (HSK 1–3 elementary, 4–6 intermediate, 7–9 advanced).
+
+- **Exams up to 7 November 2026** used the old **HSK 2.0** format
+- **From 13 December 2026**, regular HSK 1–6 sittings use the new **HSK 3.0** format
+
+So if you're booking now, you're almost certainly taking the **new HSK 1**. Check the version with your test centre before you register.
+
+## How many words do you need for HSK 1?
+
+- **Old HSK 1 (2.0):** 150 words
+- **New HSK 1 (3.0):** about **300 words** and around 250 characters to recognise
+
+The new level is roughly twice as big, but it's still beginner Chinese: pronouns, numbers, time words, family, food and drink, common verbs (是, 有, 去, 来, 吃, 喝, 看, 买) and question words (什么, 谁, 哪儿, 几, 多少).
+
+## HSK 1 exam format
+
+HSK 1 tests **listening** and **reading** only, with no writing or speaking at levels 1 and 2. Questions are multiple choice, mostly matching sentences to pictures and choosing answers to short dialogues.
+
+For reference, the **old HSK 1** had **40 questions (20 listening, 20 reading)** in about 40 minutes. It was scored out of **200**, with **120 to pass** and pinyin printed above every character.
+
+The new HSK 1 keeps the listening-and-reading structure. Some old question types, like true/false picture questions, have been dropped. Chinese Testing International hadn't confirmed the final question count or pass mark for the new level at the time of writing, so **aim for at least 70% in practice** to be safe.
+
+## Paper or computer, and dates
+
+The HSK runs many times a year, on paper or as an internet-based test (IBT) at a centre, and in some countries as a home test. Register through the official Chinese Testing International site or your local Confucius Institute or test centre. Scores usually arrive within about a month, and score reports are valid for **two years** for university applications.
+
+## A 6-week plan for the new HSK 1
+
+- **Week 1:** Pinyin and tones. Get the four tones and the neutral tone right before memorising words
+- **Weeks 2–3:** Learn 25–30 words a day with audio, starting with numbers, time and family
+- **Week 4:** Core grammar: 是 sentences, 吗 and 呢 questions, 不 vs 没, measure words (个, 本, 口) and 了
+- **Week 5:** Daily listening: numbers, prices, times and short dialogues
+- **Week 6:** Timed mocks, then review every mistake
+
+## Exam-day tips
+
+- Read the answer options before each listening item plays
+- Numbers and times are the most common traps: 四 (4) vs 十 (10), and 两 vs 二
+- Don't leave blanks. There's no penalty for guessing
+
+## Practise HSK with real audio
+
+On Mock Night you can drill HSK characters, pinyin and grammar with explanations, and practise listening with **recorded Mandarin audio** you can slow down. Start free on [the HSK page](/exam/HSK) or in the Telegram bot.`,
+    faq: [
+      ["How many words are in HSK 1?", "The old HSK 1 (HSK 2.0) had 150 words. The new HSK 1 under HSK 3.0, used from December 2026, needs about 300 words."],
+      ["What is the HSK 1 pass mark?", "On the old HSK 1 it was 120 out of 200. The new HSK 3.0 pass mark hadn't been confirmed at the time of writing, so aim for 70% or more in practice."],
+      ["When does HSK 3.0 start?", "Regular HSK 1–6 exams switch to the HSK 3.0 format from 13 December 2026. Earlier 2026 sittings used HSK 2.0."],
+      ["Does HSK 1 have speaking or writing?", "No. HSK 1 tests listening and reading only."],
+      ["How long does it take to prepare for HSK 1?", "Most beginners need about 6–8 weeks of steady daily study for the new 300-word HSK 1."],
+    ],
+  },
+  {
+    slug: "leben-in-deutschland-test-guide",
+    title: "Leben in Deutschland test: questions, pass mark, cost and how to pass (2026)",
+    description: "An English guide to Germany's 'Leben in Deutschland' and citizenship test (Einbürgerungstest): 33 questions, 60 minutes, 15 or 17 to pass, €25 fee, the 310-question catalogue and how to prepare.",
+    date: "2026-11-19",
+    exam: "LID",
+    examHref: "/exam/LID",
+    tag: "🇩🇪 Moving to Germany",
+    readMins: 6,
+    body: `If you're settling in Germany or applying for German citizenship, you'll probably need the **"Leben in Deutschland" (Life in Germany) test**. It's the same test used as the **Einbürgerungstest** (citizenship test). Here's how it works, in English.
+
+## One test, two pass marks
+
+The Leben in Deutschland test and the Einbürgerungstest use the **same question catalogue and the same format**. The only difference is the score you need:
+
+- **Leben in Deutschland (integration course / settlement):** at least **15 of 33**
+- **Citizenship (Einbürgerung):** at least **17 of 33**
+
+If you might apply for citizenship later, aim for 17 or more so one test covers both.
+
+## Test format
+
+- **33 multiple-choice questions**, each with four answers and one correct
+- **60 minutes**
+- **30 questions** on Germany in general, plus **3** about your federal state (Bundesland)
+- On **paper**, supervised, at an approved test centre (often a Volkshochschule)
+- The test is **in German**
+
+## The 310-question catalogue
+
+Every question that can appear is **published in advance** by the Federal Office for Migration and Refugees (BAMF). That's 300 general questions plus 10 for each federal state. The catalogue covers three areas:
+
+- **Living in a democracy**: the Basic Law (Grundgesetz), basic rights, elections, the Bundestag and Bundesrat, the Chancellor and Federal President, courts and political parties
+- **History and responsibility**: the Nazi era, the Holocaust, the division of Germany, the Berlin Wall, 1989–90 reunification, the EU and the euro
+- **People and society**: equality, religious freedom, school and education, family, work and everyday life
+
+Because every question is public, preparation is very effective. Learn the catalogue and you'll pass.
+
+## Cost and booking
+
+- The test costs **€25 per attempt** (as an external candidate)
+- If you're on an **integration course**, you normally take it at the end of the orientation course
+- Otherwise, book with an approved test centre. Your citizenship office (Einbürgerungsbehörde) can tell you where
+- You can **retake it as often as you like**, paying the fee each time
+- Bring valid **photo ID**
+- Results arrive by post and can take **several weeks**
+
+## How to prepare
+
+- **Week 1:** Go through the general questions by topic, starting with the Basic Law and elections
+- **Week 2:** History: dates around 1933–1945, 1949, 1961, 1989 and 1990
+- **Week 3:** Society questions plus your 10 state questions
+- **Final days:** Full 33-question mocks under a 60-minute timer until you score 30+ consistently
+
+If your German is still developing, practise with **English translations alongside the German** so you understand each question, but always finish by reading it in German, because the real test is German-only.
+
+## Practise in German with English help
+
+On Mock Night, every Leben in Deutschland question is in German as in the real test, with an English translation and explanation. You can sit timed 33-question mocks marked against the 17-point citizenship pass mark. State questions aren't included yet, so study your 10 from the BAMF catalogue. Start free on [the Leben in Deutschland page](/exam/LID) or in the Telegram bot.`,
+    faq: [
+      ["How many questions do you need to pass the Leben in Deutschland test?", "15 out of 33 to pass the Leben in Deutschland test, or 17 out of 33 to use it for German citizenship."],
+      ["How much does the Einbürgerungstest cost?", "€25 per attempt for external candidates. You can retake it as often as you need."],
+      ["How long is the Leben in Deutschland test?", "60 minutes for 33 multiple-choice questions: 30 general and 3 about your federal state."],
+      ["Is the Leben in Deutschland test in English?", "No. The test is in German only, but all 310 possible questions are published in advance so you can prepare."],
+      ["Is the Leben in Deutschland test the same as the citizenship test?", "Yes. They use the same catalogue and format; only the pass mark differs (15 vs 17)."],
+    ],
+  },
+  {
     slug: "jlpt-n5-guide",
     title: "JLPT N5 exam: format, pass mark, 2026–27 dates and how to pass",
     description: "A plain-English guide to the JLPT N5: the three test sections and timings, the 80/180 pass mark and sectional minimums, test dates, what to study and a 12-week plan.",
