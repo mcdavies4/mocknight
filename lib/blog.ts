@@ -18,6 +18,83 @@ export type Post = {
 
 export const POSTS: Post[] = [
   {
+    slug: "jlpt-n5-guide",
+    title: "JLPT N5 exam: format, pass mark, 2026–27 dates and how to pass",
+    description: "A plain-English guide to the JLPT N5: the three test sections and timings, the 80/180 pass mark and sectional minimums, test dates, what to study and a 12-week plan.",
+    date: "2026-11-19",
+    exam: "JLPT",
+    examHref: "/exam/JLPT",
+    tag: "🇯🇵 Japanese",
+    readMins: 7,
+    body: `The **JLPT N5** is the first level of the Japanese-Language Proficiency Test, run by the Japan Foundation and JEES. It shows you can understand basic Japanese: hiragana, katakana, simple kanji and everyday phrases. It's a common first goal for learners, and a useful step if you're thinking about study or work in Japan.
+
+## JLPT N5 exam dates
+
+The JLPT runs twice a year on the **first Sunday of July and the first Sunday of December**. In 2026 that's **5 July** and **6 December**. Expect **early July and early December 2027** next.
+
+Some cities only hold one sitting a year (several, including the US, run December only), so check your local host institution. Registration usually opens:
+
+- **July test:** around March–April
+- **December test:** around August–September
+
+Seats often fill fast, so register as soon as your city opens.
+
+## JLPT N5 exam format
+
+The N5 has three test sections, about **90 minutes** in total:
+
+- **Language Knowledge (Vocabulary):** 20 minutes. Kanji readings, writing words in kana or kanji, choosing the right word
+- **Language Knowledge (Grammar) and Reading:** 40 minutes. Particles, sentence order and short reading passages
+- **Listening:** 30 minutes. Short conversations and announcements, played once
+
+All questions are multiple choice and answered on a mark sheet.
+
+## JLPT N5 pass mark
+
+You're scored out of **180**, in two scoring sections:
+
+- Language Knowledge and Reading: **0–120**
+- Listening: **0–60**
+
+To pass you need **80 points overall** *and* at least **38 in Language Knowledge and Reading** *and* **19 in Listening**. Fall below either section minimum and you fail, even with a total above 80. That's why you can't skip listening practice.
+
+## What to study for N5
+
+The JLPT doesn't publish official word lists, but most learners aim for:
+
+- **Hiragana and katakana**, fully. You can't pass without reading both fluently
+- **About 100 kanji**: numbers, days, time words, people, places and basic verbs and adjectives (日, 月, 人, 山, 行, 来, 大, 小...)
+- **About 700–800 words**: family, food, shopping, transport, school and daily routine
+- **Core grammar**: は, が, を, に, で, へ, と, も, の; です/ます; ます-form past and negative; て-form requests (〜てください); adjectives; あります/います; counters (つ, 人, 枚, 本)
+- **Listening**: numbers, prices, times and dates said at natural speed
+
+## A 12-week study plan
+
+- **Weeks 1–2:** Learn hiragana and katakana until you can read them without thinking
+- **Weeks 3–6:** Core grammar and 20–30 new words a day; start the first 50 kanji
+- **Weeks 7–9:** The remaining kanji, verb forms, counters and time expressions; daily listening
+- **Weeks 10–11:** Timed section practice: 20 minutes of vocabulary, 40 of grammar and reading, 30 of listening
+- **Week 12:** Two full mocks, then review every mistake
+
+## Exam-day tips
+
+- Arrive early. Late arrivals may miss the first section
+- Bring your test voucher, photo ID and HB pencils with an eraser
+- In listening, read the answer choices before the audio starts
+- There's no penalty for wrong answers, so never leave a question blank
+
+## Practise with real Japanese audio
+
+On Mock Night you can drill N5 vocabulary, kanji, particles and verb forms with explanations, and practise listening with **recorded Japanese audio** you can slow down. Start free on [the JLPT page](/exam/JLPT) or in the Telegram bot.`,
+    faq: [
+      ["What is the JLPT N5 pass mark?", "80 out of 180 overall, plus at least 38/120 in Language Knowledge and Reading and 19/60 in Listening."],
+      ["How long is the JLPT N5 exam?", "About 90 minutes: 20 minutes of vocabulary, 40 of grammar and reading, and 30 of listening."],
+      ["When is the JLPT N5 held?", "On the first Sunday of July and December. In 2026 the dates are 5 July and 6 December. Some cities only hold one sitting a year."],
+      ["How many kanji do I need for JLPT N5?", "There's no official list, but most learners aim for about 100 kanji and 700–800 words."],
+      ["How long does it take to prepare for JLPT N5?", "Many beginners are ready in about 3 months of steady daily study, or sooner if they already read hiragana and katakana."],
+    ],
+  },
+  {
     slug: "trcn-exam-guide",
     title: "TRCN exam 2026: date, number of questions, syllabus and how to pass",
     description: "Everything about the TRCN Professional Qualifying Examination (PQE): 2026 dates, how many questions, the five-part syllabus, the 50% pass mark, registration and a two-week study plan.",
