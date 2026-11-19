@@ -1,0 +1,422 @@
+[
+ {
+  "subject": "PHM",
+  "topic": "Regulation",
+  "body": "Which body regulates pharmacy practice in Nigeria?",
+  "options": [
+   "NAFDAC",
+   "Pharmacy Council of Nigeria",
+   "Pharmaceutical Society of Nigeria",
+   "Federal Ministry of Health"
+  ],
+  "answer": 1,
+  "explanation": "PCN registers pharmacists and premises.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Regulation",
+  "body": "Which agency registers and regulates drugs and food in Nigeria?",
+  "options": [
+   "SON",
+   "NAFDAC",
+   "PCN",
+   "NDLEA"
+  ],
+  "answer": 1,
+  "explanation": "SON sets standards; NDLEA fights drug trafficking.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Regulation",
+  "body": "Which law currently establishes the Pharmacy Council of Nigeria?",
+  "options": [
+   "Poisons Act 1958",
+   "PCN (Establishment) Act 2022",
+   "Pharmacists Council Decree 1992",
+   "NAFDAC Act 1993"
+  ],
+  "answer": 1,
+  "explanation": "It replaced the 1992 law.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Regulation",
+  "body": "Which agency enforces laws on narcotic and controlled drugs?",
+  "options": [
+   "NDLEA",
+   "PCN",
+   "NAFDAC",
+   "NHIA"
+  ],
+  "answer": 0,
+  "explanation": "NAFDAC also controls the legitimate supply of narcotics.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Regulation",
+  "body": "Adverse drug reactions in Nigeria are reported to",
+  "options": [
+   "SON",
+   "NDLEA",
+   "NHIA",
+   "NAFDAC"
+  ],
+  "answer": 3,
+  "explanation": "Through the National Pharmacovigilance Centre.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Regulation",
+  "body": "Which medicine category needs a prescription?",
+  "options": [
+   "POM",
+   "OTC",
+   "P",
+   "GSL"
+  ],
+  "answer": 0,
+  "explanation": "Prescription-only medicines.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Regulation",
+  "body": "How long is the internship before full registration?",
+  "options": [
+   "three months",
+   "one year",
+   "six months",
+   "two years"
+  ],
+  "answer": 1,
+  "explanation": "Supervised at a PCN-accredited centre.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Therapeutics",
+  "body": "Nigeria's first-line treatment for uncomplicated malaria is",
+  "options": [
+   "chloroquine",
+   "artemether-lumefantrine",
+   "sulfadoxine alone",
+   "quinine injection"
+  ],
+  "answer": 1,
+  "explanation": "An artemisinin-based combination therapy (ACT).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Therapeutics",
+  "body": "First-line treatment for severe malaria is",
+  "options": [
+   "oral chloroquine",
+   "oral paracetamol",
+   "IV or IM artesunate",
+   "oral amoxicillin"
+  ],
+  "answer": 2,
+  "explanation": "Then complete with a full oral ACT course.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Therapeutics",
+  "body": "In pregnancy, a commonly used antihypertensive is",
+  "options": [
+   "enalapril",
+   "methyldopa",
+   "losartan",
+   "lisinopril"
+  ],
+  "answer": 1,
+  "explanation": "ACE inhibitors and ARBs are avoided in pregnancy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Toxicology",
+  "body": "What is the antidote for paracetamol overdose?",
+  "options": [
+   "atropine",
+   "N-acetylcysteine",
+   "vitamin K",
+   "naloxone"
+  ],
+  "answer": 1,
+  "explanation": "Give early for the best effect.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Adverse effects",
+  "body": "Warfarin therapy is monitored with the",
+  "options": [
+   "INR",
+   "HbA1c",
+   "eGFR",
+   "lipid profile"
+  ],
+  "answer": 0,
+  "explanation": "Target INR is usually 2–3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Adverse effects",
+  "body": "A common side effect of ACE inhibitors is",
+  "options": [
+   "constipation",
+   "dry cough",
+   "weight gain",
+   "hair loss"
+  ],
+  "answer": 1,
+  "explanation": "Switch to an ARB if it's troublesome.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Adverse effects",
+  "body": "A rare but serious risk of metformin is",
+  "options": [
+   "lactic acidosis",
+   "severe hypoglycaemia",
+   "tooth staining",
+   "weight gain"
+  ],
+  "answer": 0,
+  "explanation": "Avoid in severe kidney impairment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Adverse effects",
+  "body": "Tetracyclines in young children can cause",
+  "options": [
+   "permanent hearing loss",
+   "tooth discolouration",
+   "red man syndrome",
+   "kidney stones"
+  ],
+  "answer": 1,
+  "explanation": "Avoid under 8 years and in pregnancy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Adverse effects",
+  "body": "Aminoglycosides such as gentamicin can cause",
+  "options": [
+   "liver toxicity and jaundice",
+   "ototoxicity and nephrotoxicity",
+   "heart toxicity and arrhythmias",
+   "skin rash and photosensitivity"
+  ],
+  "answer": 1,
+  "explanation": "Monitor levels and kidney function.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Adverse effects",
+  "body": "Rapid vancomycin infusion can cause",
+  "options": [
+   "red man syndrome",
+   "serotonin syndrome",
+   "grey baby syndrome",
+   "Stevens–Johnson syndrome"
+  ],
+  "answer": 0,
+  "explanation": "Infuse slowly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Adverse effects",
+  "body": "Grey baby syndrome is linked to",
+  "options": [
+   "ceftriaxone",
+   "amoxicillin",
+   "chloramphenicol",
+   "azithromycin"
+  ],
+  "answer": 2,
+  "explanation": "Newborns can't clear it properly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Pharmacokinetics",
+  "body": "What is the bioavailability of an IV drug?",
+  "options": [
+   "50%",
+   "0%",
+   "100%",
+   "it varies by route"
+  ],
+  "answer": 2,
+  "explanation": "The whole dose reaches the circulation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Pharmacokinetics",
+  "body": "A drug has a half-life of 6 hours. What fraction is left after 24 hours?",
+  "options": [
+   "1/4",
+   "1/16",
+   "1/8",
+   "1/24"
+  ],
+  "answer": 1,
+  "explanation": "Four half-lives: ½ × ½ × ½ × ½.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Pharmacokinetics",
+  "body": "Steady state is reached after about",
+  "options": [
+   "2 half-lives",
+   "10 half-lives",
+   "1 half-life",
+   "4–5 half-lives"
+  ],
+  "answer": 3,
+  "explanation": "Loading doses get there faster.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Interactions",
+  "body": "Which drug is a strong liver enzyme inducer?",
+  "options": [
+   "erythromycin",
+   "ketoconazole",
+   "rifampicin",
+   "cimetidine"
+  ],
+  "answer": 2,
+  "explanation": "It lowers levels of many drugs, including oral contraceptives.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Interactions",
+  "body": "Which drug is a liver enzyme inhibitor?",
+  "options": [
+   "carbamazepine",
+   "phenytoin",
+   "rifampicin",
+   "ketoconazole"
+  ],
+  "answer": 3,
+  "explanation": "It raises levels of drugs metabolised by CYP3A4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Pregnancy",
+  "body": "Which drug is strongly teratogenic?",
+  "options": [
+   "paracetamol",
+   "isotretinoin",
+   "methyldopa",
+   "folic acid"
+  ],
+  "answer": 1,
+  "explanation": "Pregnancy prevention is mandatory.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Calculations",
+  "body": "A child weighs 20 kg. The dose is 5 mg/kg. What dose is needed?",
+  "options": [
+   "25 mg",
+   "100 mg",
+   "4 mg",
+   "250 mg"
+  ],
+  "answer": 1,
+  "explanation": "20 × 5 = 100 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Calculations",
+  "body": "A syrup contains 125 mg per 5 mL. How many mL give 250 mg?",
+  "options": [
+   "10 mL",
+   "2.5 mL",
+   "5 mL",
+   "20 mL"
+  ],
+  "answer": 0,
+  "explanation": "250 ÷ 125 × 5 = 10 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Calculations",
+  "body": "How much 5% solution can you make from 100 mL of 10% solution?",
+  "options": [
+   "50 mL",
+   "500 mL",
+   "150 mL",
+   "200 mL"
+  ],
+  "answer": 3,
+  "explanation": "C1V1 = C2V2: 10 × 100 = 5 × V2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Calculations",
+  "body": "A 5% w/v solution contains",
+  "options": [
+   "5 g in 10 mL",
+   "5 g in 1 L",
+   "5 g in 100 mL",
+   "5 mg in 100 mL"
+  ],
+  "answer": 2,
+  "explanation": "w/v means grams per 100 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Counselling",
+  "body": "Alendronate should be taken",
+  "options": [
+   "with a fatty meal",
+   "at bedtime, lying down",
+   "with milk or antacids",
+   "on an empty stomach, upright"
+  ],
+  "answer": 3,
+  "explanation": "With water, 30 minutes before food, staying upright.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Counselling",
+  "body": "Unopened insulin should be stored",
+  "options": [
+   "in direct sunlight",
+   "in a fridge at 2–8 °C",
+   "in the freezer",
+   "in a hot car"
+  ],
+  "answer": 1,
+  "explanation": "In-use pens can usually stay at room temperature for a set time.",
+  "difficulty": 2
+ }
+]

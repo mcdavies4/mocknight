@@ -13,6 +13,7 @@ const RULES: Record<string, ReturnType<typeof rules>> = {
   ETH: rules("Br ", "birr", "santim"),
   WASSCE_GH: rules("GH₵", "cedis", "pesewas"),
   BECE: rules("GH₵", "cedis", "pesewas"),
+  GTLE: rules("GH₵", "cedis", "pesewas"),
   KCSE: rules("KSh ", "shillings", "cents"),
   MDCAT: rules("Rs ", "rupees", "paisa"),
   NEET: rules("₹", "rupees", "paise"),

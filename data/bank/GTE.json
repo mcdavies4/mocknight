@@ -1,0 +1,422 @@
+[
+ {
+  "subject": "GTE",
+  "topic": "Regulation",
+  "body": "Which body licenses teachers in Ghana?",
+  "options": [
+   "National Teaching Council (NTC)",
+   "NaCCA",
+   "Ghana Education Service (GES)",
+   "West African Examinations Council"
+  ],
+  "answer": 0,
+  "explanation": "The NTC conducts the GTLE and issues professional teaching licences.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Regulation",
+  "body": "Which body develops Ghana's pre-tertiary curriculum?",
+  "options": [
+   "NaCCA",
+   "GES",
+   "NTC",
+   "NIB"
+  ],
+  "answer": 0,
+  "explanation": "The National Council for Curriculum and Assessment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Regulation",
+  "body": "The Ghana Education Service is mainly responsible for",
+  "options": [
+   "licensing all teachers",
+   "setting the BECE",
+   "designing the curriculum",
+   "managing public schools"
+  ],
+  "answer": 3,
+  "explanation": "NTC licenses, WAEC sets the BECE and NaCCA designs the curriculum.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Regulation",
+  "body": "Which law established Ghana's education regulatory bodies, including the NTC?",
+  "options": [
+   "Act 506 (1995)",
+   "Act 778 (2008)",
+   "Act 1049 (2020)",
+   "Act 1023 (2020)"
+  ],
+  "answer": 3,
+  "explanation": "The Education Regulatory Bodies Act, 2020. Act 778 is the Education Act; Act 506 the GES Act; Act 1049 the Pre-Tertiary Education Act.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Regulation",
+  "body": "Passing the GTLE is required for",
+  "options": [
+   "a GES pension payment",
+   "admission to a public university",
+   "a professional teaching licence",
+   "a Ghana driving licence"
+  ],
+  "answer": 2,
+  "explanation": "Licensed teachers can then be recruited into GES.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Regulation",
+  "body": "A professional teaching licence in Ghana must be renewed",
+  "options": [
+   "never",
+   "every year",
+   "every 3 years",
+   "every 10 years"
+  ],
+  "answer": 2,
+  "explanation": "Renewal is linked to continuing professional development.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Teachers' Standards",
+  "body": "Ghana's National Teachers' Standards cover",
+  "options": [
+   "content, methods and school discipline",
+   "planning, teaching and end-of-term testing",
+   "values and attitudes, knowledge, practice",
+   "literacy, numeracy and digital skills"
+  ],
+  "answer": 2,
+  "explanation": "Professional values and attitudes, professional knowledge and professional practice.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Teachers' Standards",
+  "body": "Punctuality and professional dress fall under",
+  "options": [
+   "literacy and numeracy skills",
+   "professional values and attitudes",
+   "curriculum content knowledge",
+   "professional knowledge of subjects"
+  ],
+  "answer": 1,
+  "explanation": "One of the three domains of the standards.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Teachers' Standards",
+  "body": "Continuous professional development means",
+  "options": [
+   "annual salary negotiation",
+   "lifelong learning on the job",
+   "a one-off course in college",
+   "only the licensure exam"
+  ],
+  "answer": 1,
+  "explanation": "Workshops, mentoring, courses and reflection.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Teachers' Standards",
+  "body": "Reflective practice means",
+  "options": [
+   "reviewing your teaching to improve it",
+   "teaching the same way always",
+   "avoiding feedback from heads",
+   "copying other teachers' notes"
+  ],
+  "answer": 0,
+  "explanation": "Ask what worked, what didn't and why.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Curriculum",
+  "body": "Ghana's standards-based curriculum for KG to B6 was introduced in",
+  "options": [
+   "2010",
+   "2015",
+   "2023",
+   "2019"
+  ],
+  "answer": 3,
+  "explanation": "It emphasises core competencies and learner-centred teaching.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Curriculum",
+  "body": "Under the current structure, JHS covers",
+  "options": [
+   "Basic 7 to Basic 9",
+   "Basic 1 to Basic 3",
+   "Basic 10 to Basic 12",
+   "Basic 4 to Basic 6"
+  ],
+  "answer": 0,
+  "explanation": "KG1–KG2, B1–B6, then JHS B7–B9.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Curriculum",
+  "body": "The examination taken at the end of JHS is the",
+  "options": [
+   "SSCE",
+   "WASSCE",
+   "BECE",
+   "GTLE"
+  ],
+  "answer": 2,
+  "explanation": "WASSCE is taken at the end of SHS.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Curriculum",
+  "body": "Free SHS was introduced in Ghana in",
+  "options": [
+   "2020",
+   "2012",
+   "2008",
+   "2017"
+  ],
+  "answer": 3,
+  "explanation": "It removed fees for public senior high school.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Curriculum",
+  "body": "From KG to B3, the main medium of instruction is",
+  "options": [
+   "Arabic and English",
+   "a Ghanaian language",
+   "English only, from day one",
+   "French alongside English"
+  ],
+  "answer": 1,
+  "explanation": "English is taught as a subject and takes over gradually.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Curriculum",
+  "body": "Core competencies in the curriculum include",
+  "options": [
+   "memorising facts as fast as possible",
+   "critical thinking and problem solving",
+   "obeying every instruction unquestioned",
+   "copying notes neatly from the board"
+  ],
+  "answer": 1,
+  "explanation": "Also creativity, communication, collaboration and digital literacy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Planning",
+  "body": "A scheme of work is",
+  "options": [
+   "a term's plan of topics to teach",
+   "a pupil's end-of-term report card",
+   "one lesson's detailed notes",
+   "the school's weekly timetable"
+  ],
+  "answer": 0,
+  "explanation": "Lesson notes break it into individual lessons.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Planning",
+  "body": "'Relevant previous knowledge' in a lesson note means",
+  "options": [
+   "the textbook's preface",
+   "what the teacher studied",
+   "last year's results",
+   "what learners already know"
+  ],
+  "answer": 3,
+  "explanation": "Build new learning on it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Planning",
+  "body": "TLMs stands for",
+  "options": [
+   "test and lesson marks",
+   "teaching and learning materials",
+   "teachers' licence modules",
+   "timetable and log methods"
+  ],
+  "answer": 1,
+  "explanation": "Charts, objects, models and digital resources.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Pedagogy",
+  "body": "Which approach is learner-centred?",
+  "options": [
+   "memorising answers by rote",
+   "listening to a long lecture",
+   "group projects and discussion",
+   "copying notes from the board"
+  ],
+  "answer": 2,
+  "explanation": "Learners actively build understanding.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Pedagogy",
+  "body": "Gender-responsive teaching means",
+  "options": [
+   "giving girls only easier tasks",
+   "seating all girls at the back",
+   "calling mostly on boys to answer",
+   "giving boys and girls equal chances"
+  ],
+  "answer": 3,
+  "explanation": "Equal participation, expectations and roles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Pedagogy",
+  "body": "Learners with special educational needs should usually be",
+  "options": [
+   "excused from every assessment",
+   "always sent to separate schools",
+   "kept at home until they improve",
+   "taught in regular classes with support"
+  ],
+  "answer": 3,
+  "explanation": "Inclusive education.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Pedagogy",
+  "body": "A good use of a projector in class is to",
+  "options": [
+   "avoid planning lessons in advance",
+   "show diagrams everyone can see",
+   "replace all teacher talk with slides",
+   "play films for the whole lesson"
+  ],
+  "answer": 1,
+  "explanation": "Technology should support learning goals.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Assessment",
+  "body": "Which is an example of formative assessment?",
+  "options": [
+   "a quick exit ticket",
+   "end-of-year exams",
+   "national league tables",
+   "the BECE"
+  ],
+  "answer": 0,
+  "explanation": "It checks understanding during learning.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Assessment",
+  "body": "Assessment OF learning is",
+  "options": [
+   "summative, judging achievement",
+   "learners assessing themselves",
+   "a seating plan",
+   "ongoing feedback during lessons"
+  ],
+  "answer": 0,
+  "explanation": "Assessment FOR learning is formative; AS learning is self-assessment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Classroom management",
+  "body": "The best way to manage behaviour from day one is to",
+  "options": [
+   "change rules every day",
+   "wait until problems arise",
+   "let learners do anything",
+   "set clear rules early"
+  ],
+  "answer": 3,
+  "explanation": "Agree rules and routines with learners.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Classroom management",
+  "body": "A learner keeps failing to do homework. The best first step is to",
+  "options": [
+   "find out why from the learner",
+   "send the learner home",
+   "ignore it completely",
+   "punish the whole class"
+  ],
+  "answer": 0,
+  "explanation": "There may be a reason at home or a learning gap.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Classroom management",
+  "body": "GES discipline policy promotes",
+  "options": [
+   "caning for minor offences",
+   "suspension for any lateness",
+   "public humiliation of offenders",
+   "positive discipline, not caning"
+  ],
+  "answer": 3,
+  "explanation": "Positive discipline guides behaviour without violence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Ethics",
+  "body": "A sexual relationship between a teacher and a pupil is",
+  "options": [
+   "prohibited misconduct",
+   "fine after school hours",
+   "allowed if the pupil agrees",
+   "a private matter"
+  ],
+  "answer": 0,
+  "explanation": "It's a serious breach of the code of conduct and the law.",
+  "difficulty": 2
+ },
+ {
+  "subject": "GTE",
+  "topic": "Ethics",
+  "body": "Ghana's main law on children's rights is",
+  "options": [
+   "the GES Act, Act 506 (1995)",
+   "the Education Act, Act 778 (2008)",
+   "the Children's Act, Act 560 (1998)",
+   "Act 1023 (2020)"
+  ],
+  "answer": 2,
+  "explanation": "It protects children's welfare and rights.",
+  "difficulty": 2
+ }
+]

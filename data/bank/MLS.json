@@ -1,0 +1,422 @@
+[
+ {
+  "subject": "MLS",
+  "topic": "Regulation",
+  "body": "Which body licenses medical laboratory scientists in Nigeria?",
+  "options": [
+   "MDCN",
+   "PCN",
+   "MLSCN",
+   "NMCN"
+  ],
+  "answer": 2,
+  "explanation": "The Medical Laboratory Science Council of Nigeria.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Regulation",
+  "body": "How long is the internship before full MLSCN registration?",
+  "options": [
+   "six months",
+   "two years",
+   "one year",
+   "three months"
+  ],
+  "answer": 2,
+  "explanation": "At an MLSCN-accredited facility.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Specimens",
+  "body": "Which anticoagulant is used for a full blood count?",
+  "options": [
+   "EDTA",
+   "heparin",
+   "sodium fluoride",
+   "sodium citrate"
+  ],
+  "answer": 0,
+  "explanation": "Lavender-top tubes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Specimens",
+  "body": "Which anticoagulant is used for PT and APTT?",
+  "options": [
+   "oxalate-fluoride",
+   "EDTA",
+   "sodium citrate",
+   "heparin"
+  ],
+  "answer": 2,
+  "explanation": "Light-blue tubes, 9 parts blood to 1 part citrate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Specimens",
+  "body": "Which tube is best for blood glucose?",
+  "options": [
+   "plain (red top)",
+   "citrate (light-blue top)",
+   "EDTA (lavender top)",
+   "fluoride oxalate (grey top)"
+  ],
+  "answer": 3,
+  "explanation": "Fluoride stops glycolysis.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Haematology",
+  "body": "What is a normal haemoglobin range for adult men?",
+  "options": [
+   "13–17 g/dL",
+   "8–10 g/dL",
+   "18–22 g/dL",
+   "5–7 g/dL"
+  ],
+  "answer": 0,
+  "explanation": "Women are usually 12–15 g/dL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Haematology",
+  "body": "Which test confirms haemoglobin genotype (e.g. AS, SS)?",
+  "options": [
+   "routine dipstick urinalysis",
+   "haemoglobin electrophoresis",
+   "the Widal agglutination test",
+   "erythrocyte sedimentation rate"
+  ],
+  "answer": 1,
+  "explanation": "A sickling test only screens.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Transfusion",
+  "body": "Which red cells are the universal donor type?",
+  "options": [
+   "B positive",
+   "O negative",
+   "A negative",
+   "AB positive"
+  ],
+  "answer": 1,
+  "explanation": "No A, B or D antigens.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Transfusion",
+  "body": "Which blood group is the universal recipient for red cells?",
+  "options": [
+   "A positive",
+   "AB positive",
+   "B negative",
+   "O negative"
+  ],
+  "answer": 1,
+  "explanation": "No anti-A, anti-B or anti-D.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Transfusion",
+  "body": "Which test checks donor and recipient compatibility?",
+  "options": [
+   "full blood count",
+   "crossmatch",
+   "ESR",
+   "Widal test"
+  ],
+  "answer": 1,
+  "explanation": "Done before every red cell transfusion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Microbiology",
+  "body": "Which stain is used for malaria parasites?",
+  "options": [
+   "PAS",
+   "Gram",
+   "Giemsa",
+   "Ziehl-Neelsen"
+  ],
+  "answer": 2,
+  "explanation": "Thick films for detection, thin films for species.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Microbiology",
+  "body": "Which stain detects acid-fast bacilli such as TB?",
+  "options": [
+   "Gram",
+   "Leishman",
+   "Ziehl-Neelsen",
+   "Giemsa"
+  ],
+  "answer": 2,
+  "explanation": "AFB stain red against a blue background.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Microbiology",
+  "body": "Gram-positive bacteria appear",
+  "options": [
+   "purple",
+   "yellow",
+   "pink",
+   "green"
+  ],
+  "answer": 0,
+  "explanation": "Gram-negative bacteria appear pink or red.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Microbiology",
+  "body": "The Widal test is used for",
+  "options": [
+   "malaria",
+   "hepatitis B",
+   "typhoid fever",
+   "HIV"
+  ],
+  "answer": 2,
+  "explanation": "Culture is more reliable.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Microbiology",
+  "body": "Stool microscopy for ova and cysts usually uses",
+  "options": [
+   "a Gram stain",
+   "a saline wet mount",
+   "a blood culture",
+   "a ZN stain"
+  ],
+  "answer": 1,
+  "explanation": "Iodine helps show cysts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Microbiology",
+  "body": "In bacterial meningitis, CSF glucose is usually",
+  "options": [
+   "low",
+   "normal",
+   "unmeasurable",
+   "high"
+  ],
+  "answer": 0,
+  "explanation": "Protein is high and neutrophils are raised.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Chemistry",
+  "body": "What is a normal fasting plasma glucose?",
+  "options": [
+   "7.0–11.0 mmol/L",
+   "1.0–2.0 mmol/L",
+   "3.9–5.6 mmol/L",
+   "12–15 mmol/L"
+  ],
+  "answer": 2,
+  "explanation": "7.0 mmol/L or more on fasting suggests diabetes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Chemistry",
+  "body": "HbA1c reflects average glucose over the past",
+  "options": [
+   "1 year",
+   "2–3 months",
+   "1 week",
+   "2–3 days"
+  ],
+  "answer": 1,
+  "explanation": "It follows red cell lifespan.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Chemistry",
+  "body": "Which enzyme is most specific to the liver?",
+  "options": [
+   "troponin",
+   "ALT",
+   "amylase",
+   "CK-MB"
+  ],
+  "answer": 1,
+  "explanation": "AST is also found in muscle and heart.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Chemistry",
+  "body": "Which marker is best for myocardial infarction?",
+  "options": [
+   "amylase",
+   "troponin",
+   "lipase",
+   "ALP"
+  ],
+  "answer": 1,
+  "explanation": "It rises within hours of heart muscle damage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Chemistry",
+  "body": "Which marker is most useful for acute pancreatitis?",
+  "options": [
+   "ALT",
+   "creatinine",
+   "lipase",
+   "troponin"
+  ],
+  "answer": 2,
+  "explanation": "More specific than amylase.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Chemistry",
+  "body": "Which test is used to assess kidney function?",
+  "options": [
+   "creatinine",
+   "ALT",
+   "bilirubin",
+   "cholesterol"
+  ],
+  "answer": 0,
+  "explanation": "Often reported with eGFR.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Histopathology",
+  "body": "Which fixative is standard for tissue specimens?",
+  "options": [
+   "50% ethanol in water",
+   "10% neutral buffered formalin",
+   "plain distilled water",
+   "normal saline solution"
+  ],
+  "answer": 1,
+  "explanation": "Use about 10 times the tissue volume.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Histopathology",
+  "body": "The routine stain in histology is",
+  "options": [
+   "Gram",
+   "Giemsa",
+   "H&E",
+   "ZN"
+  ],
+  "answer": 2,
+  "explanation": "Haematoxylin and eosin.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Safety",
+  "body": "The standard autoclave cycle is",
+  "options": [
+   "121 °C for 15 minutes",
+   "180 °C for 2 hours",
+   "100 °C for 5 minutes",
+   "60 °C for 1 hour"
+  ],
+  "answer": 0,
+  "explanation": "At about 15 psi.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Safety",
+  "body": "TB culture needs at least",
+  "options": [
+   "BSL-1 containment",
+   "no containment",
+   "BSL-3 containment",
+   "BSL-2 containment"
+  ],
+  "answer": 2,
+  "explanation": "Mycobacterium tuberculosis spreads by aerosol.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Safety",
+  "body": "After a needle-stick injury, you should first",
+  "options": [
+   "scrub it with bleach",
+   "ignore it if small",
+   "wash it, then report it",
+   "suck the wound clean"
+  ],
+  "answer": 2,
+  "explanation": "Report promptly for assessment and possible PEP.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Quality",
+  "body": "A Levey-Jennings chart tracks",
+  "options": [
+   "patient names",
+   "QC results over time",
+   "staff attendance",
+   "reagent prices"
+  ],
+  "answer": 1,
+  "explanation": "It shows shifts and trends.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Quality",
+  "body": "A control result falls outside ±3 SD (the 1-3s rule). You should",
+  "options": [
+   "average it with yesterday",
+   "report results anyway",
+   "reject the run and investigate",
+   "delete the control result"
+  ],
+  "answer": 2,
+  "explanation": "Patient results can't be released.",
+  "difficulty": 2
+ },
+ {
+  "subject": "MLS",
+  "topic": "Quality",
+  "body": "Internal quality control checks",
+  "options": [
+   "the lab's building",
+   "other labs' results",
+   "your own daily precision",
+   "staff salaries"
+  ],
+  "answer": 2,
+  "explanation": "External quality assessment compares you with other labs.",
+  "difficulty": 2
+ }
+]

@@ -2,7 +2,7 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV" | "ELEC18" | "EYTA" | "WAREHOUSE" | "NHSHCA" | "BA" | "ISC2CC" | "AWSSAA" | "AICERT" | "SFADMIN" | "GED" | "TEAS" | "CNA" | "ASVAB" | "UPSC" | "RRB" | "CTET" | "CAT" | "GCSE" | "CSJT" | "TOEFL" | "DUOLINGO" | "CDL" | "G1ON" | "APLUS" | "CCNA" | "JUPEB" | "NABTEB" | "NMCN" | "USMLE" | "GULFPH" | "GULFDR" | "UAEDRV" | "UAETLS" | "GULFLAB" | "GULFPT" | "GULFDEN" | "DUBAIPIC" | "SIRA" | "DMVCA" | "DMVTX" | "DMVFL" | "DMVNY" | "DMVGA" | "PTCB" | "PHLEB" | "CCMA" | "CPC" | "NCLEXPN" | "HESI" | "REALEST" | "LIFEINS" | "SERVSAFE" | "EPA608" | "ACT" | "HISET" | "PRAXIS" | "SIE" | "UACE" | "ACSEE" | "RWA6" | "CPAUG" | "CPATZ" | "KEDRV" | "UGDRV" | "TZDRV" | "RWDRV" | "LID" | "GERA1" | "ISTQB" | "PSM" | "NETPLUS" | "TRCN" | "TEACHDIG" | "HSK" | "CSCA" | "JLPT" | "EPSTOPIK" | "PNLE" | "LET" | "SGBTT" | "TORFL" | "RUMIG" | "GCPCDL" | "AZ104" | "CISSP" | "DEVOPS" | "DIGMKT" | "HRCERT" | "PSPO";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV" | "ELEC18" | "EYTA" | "WAREHOUSE" | "NHSHCA" | "BA" | "ISC2CC" | "AWSSAA" | "AICERT" | "SFADMIN" | "GED" | "TEAS" | "CNA" | "ASVAB" | "UPSC" | "RRB" | "CTET" | "CAT" | "GCSE" | "CSJT" | "TOEFL" | "DUOLINGO" | "CDL" | "G1ON" | "APLUS" | "CCNA" | "JUPEB" | "NABTEB" | "NMCN" | "USMLE" | "GULFPH" | "GULFDR" | "UAEDRV" | "UAETLS" | "GULFLAB" | "GULFPT" | "GULFDEN" | "DUBAIPIC" | "SIRA" | "DMVCA" | "DMVTX" | "DMVFL" | "DMVNY" | "DMVGA" | "PTCB" | "PHLEB" | "CCMA" | "CPC" | "NCLEXPN" | "HESI" | "REALEST" | "LIFEINS" | "SERVSAFE" | "EPA608" | "ACT" | "HISET" | "PRAXIS" | "SIE" | "UACE" | "ACSEE" | "RWA6" | "CPAUG" | "CPATZ" | "KEDRV" | "UGDRV" | "TZDRV" | "RWDRV" | "GTLE" | "PCNPEP" | "MLSCN" | "LID" | "GERA1" | "ISTQB" | "PSM" | "NETPLUS" | "TRCN" | "TEACHDIG" | "HSK" | "CSCA" | "JLPT" | "EPSTOPIK" | "PNLE" | "LET" | "SGBTT" | "TORFL" | "RUMIG" | "GCPCDL" | "AZ104" | "CISSP" | "DEVOPS" | "DIGMKT" | "HRCERT" | "PSPO";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
 export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi" | "Asia/Manila" | "Africa/Johannesburg" | "Asia/Shanghai" | "Asia/Tokyo" | "Asia/Seoul" | "Asia/Singapore" | "Europe/Moscow" | "Europe/Berlin";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
@@ -1082,6 +1082,27 @@ export const TRACKS: Record<TrackCode, Track> = {
     mock: { total: 30, minutes: 30, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
     plans: ["teachdig_pass"], tagline: "Digital skills for Nigerian teachers: ICT basics, online safety, data protection, LMS, blended learning and responsible AI", timeZone: "Africa/Lagos", timeLabel: "Nigeria (WAT)",
     audience: "a Nigerian teacher building the digital skills set out in the National EdTech Strategy's teacher competency framework (NTDCF)",
+  },
+  GTLE: {
+    code: "GTLE", name: "Ghana Teacher Licensure Examination (GTLE)", short: "GTLE", emoji: "🇬🇭", kind: "professional", region: "GH", currency: "USD",
+    subjectMode: "multi", subjects: ["GTE", "PQL", "PQN"], compulsory: ["GTE", "PQL", "PQN"], minSubjects: 3, maxSubjects: 3, subjectNote: "Essential professional skills, literacy and numeracy (the General Professional Knowledge paper)",
+    mock: { perSubject: 20, minutes: 60, passPct: 50, scoreStyle: "passfail", maxSubjects: 3 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["gtle_pass"], tagline: "GTLE practice: teachers' standards, curriculum, pedagogy, assessment, literacy and numeracy", timeZone: "UTC", timeLabel: "Ghana",
+    audience: "a newly trained teacher in Ghana preparing for the National Teaching Council's Ghana Teacher Licensure Examination (GTLE)",
+  },
+  PCNPEP: {
+    code: "PCNPEP", name: "PCN Pre-registration Examination for Pharmacists (PEP)", short: "PCN PEP", emoji: "💊", kind: "professional", region: "NG", currency: "NGN",
+    subjectMode: "single", subjects: ["PHM"], compulsory: ["PHM"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 100, minutes: 120, passPct: 50, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["pcnpep_pass"], tagline: "PCN PEP practice: pharmacy law, therapeutics, adverse effects, pharmacokinetics, calculations and counselling", timeZone: "Africa/Lagos", timeLabel: "Nigeria (WAT)",
+    audience: "a pharmacy intern in Nigeria preparing for the Pharmacy Council of Nigeria (PCN) Pre-registration Examination for Pharmacists",
+  },
+  MLSCN: {
+    code: "MLSCN", name: "MLSCN professional exam (medical laboratory science)", short: "MLSCN", emoji: "🔬", kind: "professional", region: "NG", currency: "NGN",
+    subjectMode: "single", subjects: ["MLS"], compulsory: ["MLS"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 100, minutes: 120, passPct: 50, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["mlscn_pass"], tagline: "MLSCN practice: haematology, transfusion, microbiology, clinical chemistry, histopathology, safety and QC", timeZone: "Africa/Lagos", timeLabel: "Nigeria (WAT)",
+    audience: "a medical laboratory science graduate or intern in Nigeria preparing for the MLSCN professional or foreign graduates' (FGRQE) exam",
   },
   NMCN: {
     code: "NMCN", name: "NMCN nursing licensure (Nigeria)", short: "NMCN", emoji: "🩺", kind: "professional", region: "NG", currency: "NGN",
