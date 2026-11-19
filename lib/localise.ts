@@ -1,3 +1,4 @@
+import { TRACKS } from "./tracks";
 // Shared school banks (MTH, ECO, PHY…) were written for Nigeria and use naira.
 // When they're served to another country's track, swap the currency so the question reads naturally,
 // and skip the few questions that only make sense in Nigeria.
@@ -62,5 +63,6 @@ export function localiseQuestion<T extends { body: string; options: string[]; ex
 /** True when a question only makes sense for Nigerian students and the learner is on another track. */
 export function nigeriaOnlyFor(q: { body: string; options: string[] }, trackCode?: string | null) {
   if (!trackCode || NIGERIAN_TRACKS.has(trackCode)) return false;
+  if ((TRACKS as Record<string, { region: string }>)[trackCode]?.region === "NG") return false;
   return NIGERIA_ONLY.test(q.body) || q.options.some((o) => NIGERIA_ONLY.test(o));
 }

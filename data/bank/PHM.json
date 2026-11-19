@@ -418,5 +418,1069 @@
   "answer": 1,
   "explanation": "In-use pens can usually stay at room temperature for a set time.",
   "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Regulation",
+  "body": "The professional association (not the regulator) for pharmacists in Nigeria is the",
+  "options": [
+   "Nigerian Medical Association",
+   "Pharmaceutical Society of Nigeria",
+   "National Health Insurance Authority",
+   "Pharmacy Council of Nigeria"
+  ],
+  "answer": 1,
+  "explanation": "PSN is the professional body; PCN is the regulator.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Regulation",
+  "body": "Which body licenses patent and proprietary medicine vendors (PPMVs)?",
+  "options": [
+   "PCN",
+   "NAFDAC",
+   "SON",
+   "NDLEA"
+  ],
+  "answer": 0,
+  "explanation": "PPMVs may sell only approved OTC medicines.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Regulation",
+  "body": "A NAFDAC registration number on a pack shows the product",
+  "options": [
+   "is free of charge",
+   "is a controlled drug",
+   "was made in Nigeria",
+   "is approved for sale"
+  ],
+  "answer": 3,
+  "explanation": "Check it against NAFDAC's records if in doubt.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Regulation",
+  "body": "NAFDAC's Mobile Authentication Service (MAS) scratch codes let patients",
+  "options": [
+   "renew a prescription",
+   "book a clinic visit",
+   "pay for their medicines",
+   "check a drug is genuine"
+  ],
+  "answer": 3,
+  "explanation": "Send the code by SMS to verify.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Regulation",
+  "body": "The National Health Insurance Authority Act was passed in",
+  "options": [
+   "2005",
+   "1999",
+   "2022",
+   "2014"
+  ],
+  "answer": 2,
+  "explanation": "It replaced the NHIS Act and made health insurance mandatory.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Regulation",
+  "body": "The WHO Model List of Essential Medicines is updated every",
+  "options": [
+   "year",
+   "10 years",
+   "5 years",
+   "2 years"
+  ],
+  "answer": 3,
+  "explanation": "Countries adapt it into national lists.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Regulation",
+  "body": "Expired stock in a pharmacy should be",
+  "options": [
+   "given to patients for free",
+   "sold at a big discount",
+   "relabelled with new dates",
+   "quarantined for proper disposal"
+  ],
+  "answer": 3,
+  "explanation": "Record it and dispose of it through approved channels.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Toxicology",
+  "body": "What is the first-line treatment for anaphylaxis?",
+  "options": [
+   "salbutamol inhaler",
+   "IV hydrocortisone only",
+   "oral antihistamine",
+   "IM adrenaline"
+  ],
+  "answer": 3,
+  "explanation": "Give 0.5 mg (0.5 mL of 1 in 1,000) IM in adults.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Toxicology",
+  "body": "What is the antidote for opioid overdose?",
+  "options": [
+   "naloxone",
+   "atropine",
+   "flumazenil",
+   "protamine"
+  ],
+  "answer": 0,
+  "explanation": "Repeat doses may be needed; naloxone is short-acting.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Toxicology",
+  "body": "What is the antidote for benzodiazepine overdose?",
+  "options": [
+   "glucagon",
+   "flumazenil",
+   "naloxone",
+   "atropine"
+  ],
+  "answer": 1,
+  "explanation": "Use with care: it can trigger seizures.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Toxicology",
+  "body": "Heparin is reversed with",
+  "options": [
+   "vitamin K",
+   "naloxone",
+   "protamine sulfate",
+   "desferrioxamine"
+  ],
+  "answer": 2,
+  "explanation": "Protamine binds heparin.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Toxicology",
+  "body": "Warfarin's effect is reversed with",
+  "options": [
+   "flumazenil",
+   "protamine",
+   "vitamin K",
+   "atropine"
+  ],
+  "answer": 2,
+  "explanation": "Prothrombin complex concentrate is used for major bleeding.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Toxicology",
+  "body": "What is the antidote for organophosphate poisoning?",
+  "options": [
+   "flumazenil",
+   "naloxone",
+   "vitamin K",
+   "atropine"
+  ],
+  "answer": 3,
+  "explanation": "Pralidoxime may be added.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Toxicology",
+  "body": "Iron overdose is treated with",
+  "options": [
+   "desferrioxamine",
+   "protamine",
+   "naloxone",
+   "dimercaprol"
+  ],
+  "answer": 0,
+  "explanation": "It chelates iron.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Adverse effects",
+  "body": "Digoxin toxicity is made more likely by",
+  "options": [
+   "low sodium",
+   "high glucose",
+   "low potassium",
+   "high potassium"
+  ],
+  "answer": 2,
+  "explanation": "Hypokalaemia from diuretics is a common trigger.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Therapeutics",
+  "body": "What is the usual first-line drug for type 2 diabetes?",
+  "options": [
+   "insulin",
+   "metformin",
+   "pioglitazone",
+   "glibenclamide"
+  ],
+  "answer": 1,
+  "explanation": "Unless it's contraindicated or not tolerated.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Adverse effects",
+  "body": "Sulfonylureas such as glibenclamide commonly cause",
+  "options": [
+   "lactic acidosis",
+   "hypoglycaemia",
+   "dry cough",
+   "gout"
+  ],
+  "answer": 1,
+  "explanation": "Warn patients not to skip meals.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Therapeutics",
+  "body": "Seizures in eclampsia are treated with",
+  "options": [
+   "magnesium sulfate",
+   "phenytoin",
+   "diazepam",
+   "phenobarbital"
+  ],
+  "answer": 0,
+  "explanation": "Watch reflexes, breathing and urine output.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Therapeutics",
+  "body": "Oxytocin's main use in obstetrics is to",
+  "options": [
+   "stop preterm labour",
+   "treat pre-eclampsia",
+   "induce or augment labour",
+   "suppress lactation"
+  ],
+  "answer": 2,
+  "explanation": "It's also used to prevent postpartum haemorrhage.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Therapeutics",
+  "body": "Misoprostol is a",
+  "options": [
+   "H2 receptor blocker",
+   "proton pump inhibitor",
+   "prostaglandin E1 analogue",
+   "oxytocin antagonist"
+  ],
+  "answer": 2,
+  "explanation": "Used for PPH and to protect the stomach with NSAIDs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Therapeutics",
+  "body": "Omeprazole reduces acid by",
+  "options": [
+   "blocking H2 receptors",
+   "blocking the proton pump",
+   "neutralising acid directly",
+   "coating the ulcer base"
+  ],
+  "answer": 1,
+  "explanation": "It's a proton pump inhibitor.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Therapeutics",
+  "body": "H. pylori triple therapy is a PPI plus",
+  "options": [
+   "sucralfate and misoprostol",
+   "clarithromycin and amoxicillin",
+   "metronidazole and paracetamol",
+   "ranitidine and an antacid"
+  ],
+  "answer": 1,
+  "explanation": "Metronidazole can replace one antibiotic in penicillin allergy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Therapeutics",
+  "body": "Salbutamol is a",
+  "options": [
+   "short-acting beta-2 agonist",
+   "leukotriene antagonist",
+   "long-acting antimuscarinic",
+   "inhaled corticosteroid"
+  ],
+  "answer": 0,
+  "explanation": "The reliever inhaler in asthma.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Adverse effects",
+  "body": "Non-selective beta-blockers should be avoided in",
+  "options": [
+   "glaucoma",
+   "migraine",
+   "gout",
+   "asthma"
+  ],
+  "answer": 3,
+  "explanation": "They can cause bronchospasm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Adverse effects",
+  "body": "Which diuretic can cause high potassium?",
+  "options": [
+   "bendroflumethiazide",
+   "furosemide",
+   "spironolactone",
+   "hydrochlorothiazide"
+  ],
+  "answer": 2,
+  "explanation": "It's potassium-sparing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Therapeutics",
+  "body": "Furosemide is a",
+  "options": [
+   "osmotic diuretic",
+   "potassium-sparing diuretic",
+   "thiazide diuretic",
+   "loop diuretic"
+  ],
+  "answer": 3,
+  "explanation": "It acts on the loop of Henle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Counselling",
+  "body": "Simvastatin is best taken",
+  "options": [
+   "with grapefruit juice",
+   "in the evening",
+   "in the morning only",
+   "with antacids"
+  ],
+  "answer": 1,
+  "explanation": "Cholesterol synthesis peaks at night; grapefruit raises levels.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Adverse effects",
+  "body": "A serious adverse effect of statins is",
+  "options": [
+   "myopathy",
+   "grey baby syndrome",
+   "gum overgrowth",
+   "ototoxicity"
+  ],
+  "answer": 0,
+  "explanation": "Report unexplained muscle pain.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Adverse effects",
+  "body": "Gum overgrowth (gingival hyperplasia) is caused by",
+  "options": [
+   "phenytoin",
+   "amoxicillin",
+   "salbutamol",
+   "metformin"
+  ],
+  "answer": 0,
+  "explanation": "Good oral hygiene helps.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Adverse effects",
+  "body": "A common side effect of amlodipine is",
+  "options": [
+   "hypoglycaemia",
+   "ankle swelling",
+   "dry cough",
+   "tooth staining"
+  ],
+  "answer": 1,
+  "explanation": "It's a dihydropyridine calcium channel blocker.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Pregnancy",
+  "body": "Which antibiotic is generally safe in pregnancy?",
+  "options": [
+   "amoxicillin",
+   "ciprofloxacin",
+   "doxycycline",
+   "gentamicin"
+  ],
+  "answer": 0,
+  "explanation": "Penicillins have a long safety record.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Adverse effects",
+  "body": "Ciprofloxacin and other fluoroquinolones can cause",
+  "options": [
+   "gum overgrowth",
+   "red man syndrome",
+   "tendon rupture",
+   "grey baby syndrome"
+  ],
+  "answer": 2,
+  "explanation": "Higher risk in older people and with steroids.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Counselling",
+  "body": "Metronidazole taken with alcohol causes",
+  "options": [
+   "severe hypoglycaemia",
+   "red man syndrome",
+   "a disulfiram-like reaction",
+   "serotonin syndrome"
+  ],
+  "answer": 2,
+  "explanation": "Avoid alcohol during and for 48 hours after.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "TB",
+  "body": "Isoniazid is given with which vitamin to prevent neuropathy?",
+  "options": [
+   "thiamine (B1)",
+   "pyridoxine (B6)",
+   "vitamin C",
+   "folic acid"
+  ],
+  "answer": 1,
+  "explanation": "Especially in HIV, diabetes and malnutrition.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "TB",
+  "body": "Rifampicin turns urine and tears",
+  "options": [
+   "orange-red",
+   "black",
+   "green",
+   "blue"
+  ],
+  "answer": 0,
+  "explanation": "Harmless, but warn patients; it stains contact lenses.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "TB",
+  "body": "Ethambutol can cause",
+  "options": [
+   "gum overgrowth",
+   "tooth staining",
+   "hearing loss",
+   "visual disturbance"
+  ],
+  "answer": 3,
+  "explanation": "Check colour vision and acuity.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "TB",
+  "body": "The intensive phase of standard TB treatment is",
+  "options": [
+   "streptomycin alone",
+   "RHZE for 6 months",
+   "RHZE for 2 months",
+   "RH for 2 months"
+  ],
+  "answer": 2,
+  "explanation": "Then RH for 4 months.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "HIV",
+  "body": "The WHO-preferred first-line HIV regimen for adults is",
+  "options": [
+   "TDF + 3TC + DTG",
+   "TDF + FTC + EFV",
+   "AZT + 3TC + NVP",
+   "d4T + 3TC + NVP"
+  ],
+  "answer": 0,
+  "explanation": "Tenofovir, lamivudine and dolutegravir (TLD).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Analgesics",
+  "body": "The maximum daily paracetamol dose for a healthy adult is",
+  "options": [
+   "400 mg",
+   "10 g",
+   "1 g",
+   "4 g"
+  ],
+  "answer": 3,
+  "explanation": "Lower in liver disease, low body weight or heavy drinking.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Analgesics",
+  "body": "Aspirin is avoided in children under 16 because of",
+  "options": [
+   "Cushing's syndrome",
+   "grey baby syndrome",
+   "red man syndrome",
+   "Reye's syndrome"
+  ],
+  "answer": 3,
+  "explanation": "A rare but serious liver and brain disorder.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Adverse effects",
+  "body": "NSAIDs such as ibuprofen commonly cause",
+  "options": [
+   "hypoglycaemia",
+   "tooth staining",
+   "stomach ulcers",
+   "hair loss"
+  ],
+  "answer": 2,
+  "explanation": "Take with food; consider a PPI for high-risk patients.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Adverse effects",
+  "body": "Long-term oral steroids can cause",
+  "options": [
+   "weight loss",
+   "osteoporosis",
+   "low blood pressure",
+   "hypoglycaemia"
+  ],
+  "answer": 1,
+  "explanation": "Also diabetes, infections and adrenal suppression.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Counselling",
+  "body": "Levothyroxine should be taken",
+  "options": [
+   "on an empty stomach",
+   "with iron tablets",
+   "after a large meal",
+   "with calcium tablets"
+  ],
+  "answer": 0,
+  "explanation": "Calcium and iron reduce absorption.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Therapeutics",
+  "body": "Allopurinol is used to",
+  "options": [
+   "prevent gout attacks",
+   "treat acute pain",
+   "treat malaria",
+   "lower blood sugar"
+  ],
+  "answer": 0,
+  "explanation": "Don't start it during an acute attack.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Pharmacokinetics",
+  "body": "Which drug has a narrow therapeutic index?",
+  "options": [
+   "omeprazole",
+   "lithium",
+   "paracetamol",
+   "amoxicillin"
+  ],
+  "answer": 1,
+  "explanation": "Monitor levels; also digoxin, warfarin and phenytoin.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Interactions",
+  "body": "Lithium toxicity is made more likely by",
+  "options": [
+   "antacids",
+   "vitamin C",
+   "dehydration",
+   "drinking more water"
+  ],
+  "answer": 2,
+  "explanation": "Also thiazides, ACE inhibitors and NSAIDs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Interactions",
+  "body": "Fluoxetine combined with tramadol risks",
+  "options": [
+   "Reye's syndrome",
+   "red man syndrome",
+   "grey baby syndrome",
+   "serotonin syndrome"
+  ],
+  "answer": 3,
+  "explanation": "Agitation, fever, tremor and clonus.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Antiparasitics",
+  "body": "Ivermectin is used for",
+  "options": [
+   "malaria",
+   "typhoid",
+   "onchocerciasis",
+   "tuberculosis"
+  ],
+  "answer": 2,
+  "explanation": "River blindness; also strongyloidiasis and scabies.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Antiparasitics",
+  "body": "Praziquantel treats",
+  "options": [
+   "tuberculosis",
+   "malaria",
+   "schistosomiasis",
+   "typhoid"
+  ],
+  "answer": 2,
+  "explanation": "Also tapeworm infections.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Malaria",
+  "body": "Intermittent preventive treatment of malaria in pregnancy (IPTp) uses",
+  "options": [
+   "amodiaquine-artesunate",
+   "chloroquine and proguanil",
+   "sulfadoxine-pyrimethamine",
+   "artemether-lumefantrine"
+  ],
+  "answer": 2,
+  "explanation": "Given monthly from the second trimester.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Malaria",
+  "body": "Seasonal malaria chemoprevention in young children uses",
+  "options": [
+   "primaquine alone",
+   "SP plus amodiaquine",
+   "artemether-lumefantrine",
+   "quinine and doxycycline"
+  ],
+  "answer": 1,
+  "explanation": "Monthly during the rainy season.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Malaria",
+  "body": "Before primaquine, patients should be tested for",
+  "options": [
+   "hepatitis B",
+   "sickle cell trait",
+   "G6PD deficiency",
+   "diabetes"
+  ],
+  "answer": 2,
+  "explanation": "Primaquine can cause haemolysis in G6PD deficiency.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Counselling",
+  "body": "Artemether-lumefantrine is best taken with",
+  "options": [
+   "fatty food or milk",
+   "an empty stomach only",
+   "antacids for absorption",
+   "a glass of alcohol"
+  ],
+  "answer": 0,
+  "explanation": "Fat improves lumefantrine absorption.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Therapeutics",
+  "body": "Children with diarrhoea should get ORS and",
+  "options": [
+   "calcium",
+   "iron",
+   "zinc",
+   "vitamin K"
+  ],
+  "answer": 2,
+  "explanation": "Zinc shortens the episode.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Therapeutics",
+  "body": "Zinc for childhood diarrhoea is given for",
+  "options": [
+   "3 months",
+   "1 day",
+   "6 months",
+   "10–14 days"
+  ],
+  "answer": 3,
+  "explanation": "10 mg daily under 6 months, 20 mg from 6 months.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Calculations",
+  "body": "How many milligrams are in 0.5 g?",
+  "options": [
+   "50 mg",
+   "500 mg",
+   "5 mg",
+   "5,000 mg"
+  ],
+  "answer": 1,
+  "explanation": "1 g = 1,000 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Calculations",
+  "body": "1 litre of fluid is given over 8 hours. What is the rate?",
+  "options": [
+   "100 mL/hour",
+   "250 mL/hour",
+   "125 mL/hour",
+   "80 mL/hour"
+  ],
+  "answer": 2,
+  "explanation": "1,000 ÷ 8 = 125.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Calculations",
+  "body": "1 L is given over 8 hours with a 20 drops/mL giving set. About how many drops per minute?",
+  "options": [
+   "83",
+   "63",
+   "21",
+   "42"
+  ],
+  "answer": 3,
+  "explanation": "1,000 × 20 ÷ 480 = 41.7.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Calculations",
+  "body": "A 15 kg child needs 25 mg/kg per dose. What is each dose?",
+  "options": [
+   "250 mg",
+   "750 mg",
+   "37.5 mg",
+   "375 mg"
+  ],
+  "answer": 3,
+  "explanation": "15 × 25 = 375 mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Calculations",
+  "body": "Tablets are 250 mg. How many tablets give 750 mg?",
+  "options": [
+   "3",
+   "2",
+   "4",
+   "1.5"
+  ],
+  "answer": 0,
+  "explanation": "750 ÷ 250 = 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Calculations",
+  "body": "How much drug is in 200 mL of a 2% w/v solution?",
+  "options": [
+   "40 g",
+   "0.4 g",
+   "4 g",
+   "2 g"
+  ],
+  "answer": 2,
+  "explanation": "2 g per 100 mL × 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Calculations",
+  "body": "Adrenaline 1 in 1,000 contains",
+  "options": [
+   "0.1 mg per mL",
+   "1 mg per mL",
+   "10 mg per mL",
+   "1 g per mL"
+  ],
+  "answer": 1,
+  "explanation": "1 g in 1,000 mL.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Calculations",
+  "body": "By Young's rule, what dose suits a 6-year-old if the adult dose is 300 mg?",
+  "options": [
+   "50 mg",
+   "200 mg",
+   "150 mg",
+   "100 mg"
+  ],
+  "answer": 3,
+  "explanation": "Age ÷ (age + 12) × adult dose = 6/18 × 300.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Calculations",
+  "body": "A patient takes 2 tablets three times a day for 7 days. How many tablets?",
+  "options": [
+   "14",
+   "42",
+   "21",
+   "28"
+  ],
+  "answer": 1,
+  "explanation": "2 × 3 × 7.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Calculations",
+  "body": "U-100 insulin contains",
+  "options": [
+   "10 units per mL",
+   "100 units per vial",
+   "100 units per mL",
+   "1 unit per 100 mL"
+  ],
+  "answer": 2,
+  "explanation": "Use U-100 syringes or pens.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Calculations",
+  "body": "How much sodium chloride is in 1 litre of 0.9% saline?",
+  "options": [
+   "0.9 g",
+   "0.09 g",
+   "90 g",
+   "9 g"
+  ],
+  "answer": 3,
+  "explanation": "0.9 g per 100 mL × 10.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Calculations",
+  "body": "How many milligrams are in 1 mmol of sodium chloride (Mr 58.5)?",
+  "options": [
+   "585 mg",
+   "5.85 mg",
+   "58.5 mg",
+   "117 mg"
+  ],
+  "answer": 2,
+  "explanation": "1 mmol = the molecular mass in mg.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Pharmaceutics",
+  "body": "Enteric coating protects",
+  "options": [
+   "only the taste",
+   "the liver from damage",
+   "the drug from stomach acid",
+   "the tablet from moisture"
+  ],
+  "answer": 2,
+  "explanation": "It dissolves in the small intestine.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Pharmaceutics",
+  "body": "Sublingual GTN works quickly because it",
+  "options": [
+   "avoids first-pass metabolism",
+   "is a slow-release form",
+   "is absorbed in the colon",
+   "dissolves in the stomach"
+  ],
+  "answer": 0,
+  "explanation": "It enters the circulation directly.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Pharmaceutics",
+  "body": "Suspensions should be labelled",
+  "options": [
+   "store in the freezer",
+   "for external use only",
+   "shake well before use",
+   "do not shake"
+  ],
+  "answer": 2,
+  "explanation": "Particles settle on standing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Pharmaceutics",
+  "body": "Most vaccines should be stored at",
+  "options": [
+   "25–30 °C",
+   "0–2 °C",
+   "−20 °C",
+   "2–8 °C"
+  ],
+  "answer": 3,
+  "explanation": "Don't freeze freeze-sensitive vaccines.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Pharmaceutics",
+  "body": "Opened eye drops are usually discarded after",
+  "options": [
+   "1 year",
+   "6 months",
+   "3 months",
+   "4 weeks"
+  ],
+  "answer": 3,
+  "explanation": "To limit contamination.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Pharmacokinetics",
+  "body": "First-order kinetics means",
+  "options": [
+   "no drug is eliminated",
+   "a constant fraction is eliminated",
+   "elimination stops at night",
+   "a constant amount is eliminated"
+  ],
+  "answer": 1,
+  "explanation": "Most drugs at normal doses.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Pharmacokinetics",
+  "body": "Which drug shows zero-order kinetics at higher doses?",
+  "options": [
+   "phenytoin",
+   "atenolol",
+   "amoxicillin",
+   "metformin"
+  ],
+  "answer": 0,
+  "explanation": "Small dose increases can cause big level rises.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Pharmacokinetics",
+  "body": "Which of these is a prodrug?",
+  "options": [
+   "atenolol",
+   "enalapril",
+   "lisinopril",
+   "amoxicillin"
+  ],
+  "answer": 1,
+  "explanation": "It's converted to enalaprilat in the liver.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PHM",
+  "topic": "Ethics",
+  "body": "Patient confidentiality may be broken",
+  "options": [
+   "when the law requires it",
+   "for a drug company's marketing",
+   "when staff are curious",
+   "when a relative asks casually"
+  ],
+  "answer": 0,
+  "explanation": "Or with consent, or to prevent serious harm.",
+  "difficulty": 2
  }
 ]
