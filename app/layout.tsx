@@ -7,6 +7,7 @@ import { getSiteStats, plus } from "@/lib/stats";
 import { PwaRegister } from "@/components/pwa";
 import { AuthBridge } from "@/components/auth-bridge";
 import { SITE_URL } from "@/lib/site";
+import { Analytics } from "@vercel/analytics/next";
 
 const GTM_ID = "GTM-NZNH49C5";
 
@@ -63,6 +64,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
         {children}
         <SiteFooter />
         <PwaRegister />
+        <Analytics />
         {/* Telegram Mini App SDK — Next injects beforeInteractive scripts into <head> */}
         <Script src="https://telegram.org/js/telegram-web-app.js" strategy="beforeInteractive" />
       </body>
