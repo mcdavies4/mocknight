@@ -51,7 +51,7 @@ const REGION_MONEY: Record<string, string> = {
   NG: "Nigerian naira (₦)", GH: "Ghanaian cedis (GH₵)", KE: "Kenyan shillings (KSh)", ZA: "South African rand (R)", IN: "Indian rupees (₹)",
   PK: "Pakistani rupees (Rs)", PH: "Philippine pesos (₱)", UK: "British pounds (£)", US: "US dollars ($)", CA: "Canadian dollars (C$)",
   AU: "Australian dollars (A$)", ET: "Ethiopian birr (Br)", TZ: "Tanzanian shillings (TSh)", UG: "Ugandan shillings (USh)", CM: "CFA francs (FCFA)",
-  CN: "Chinese yuan (¥)", JP: "Japanese yen (¥)", KR: "South Korean won (₩)", SG: "Singapore dollars (S$)", RU: "Russian roubles (₽)",
+  CN: "Chinese yuan (¥)", JP: "Japanese yen (¥)", KR: "South Korean won (₩)", SG: "Singapore dollars (S$)", RU: "Russian roubles (₽)", DE: "euros (€)",
 };
 
 function subjectInfo(code: string, exams: string[]): SubjectInfo {

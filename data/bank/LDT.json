@@ -1,0 +1,422 @@
+[
+ {
+  "subject": "LDT",
+  "topic": "Politik",
+  "body": "Deutschland ist ein … (Germany is a …)",
+  "options": [
+   "demokratischer Rechtsstaat",
+   "Militärdiktatur",
+   "Einparteienstaat ohne Wahl",
+   "Königreich mit einem Kaiser"
+  ],
+  "answer": 0,
+  "explanation": "Germany is a democratic state under the rule of law.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Politik",
+  "body": "Wie heißt die deutsche Verfassung? (What is the German constitution called?)",
+  "options": [
+   "Grundgesetz",
+   "Bundesordnung",
+   "Bürgerliches Gesetzbuch",
+   "Staatsvertrag"
+  ],
+  "answer": 0,
+  "explanation": "The Basic Law (Grundgesetz).",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Politik",
+  "body": "Seit wann gibt es das Grundgesetz? (Since when has the Basic Law existed?)",
+  "options": [
+   "1961",
+   "1945",
+   "1949",
+   "1990"
+  ],
+  "answer": 2,
+  "explanation": "It came into force on 23 May 1949.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Politik",
+  "body": "Was steht in Artikel 1 des Grundgesetzes? (What does Article 1 say?)",
+  "options": [
+   "Die Würde des Menschen ist unantastbar.",
+   "Das Eigentum ist immer unbegrenzt.",
+   "Alle Deutschen müssen Soldat werden.",
+   "Der Staat steht über jedem Menschen."
+  ],
+  "answer": 0,
+  "explanation": "'Human dignity shall be inviolable.'",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Politik",
+  "body": "Wie viele Bundesländer hat Deutschland? (How many federal states?)",
+  "options": [
+   "12",
+   "14",
+   "16",
+   "18"
+  ],
+  "answer": 2,
+  "explanation": "Including the city-states Berlin, Hamburg and Bremen.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Politik",
+  "body": "Was ist die Hauptstadt von Deutschland? (Capital?)",
+  "options": [
+   "Frankfurt am Main",
+   "München",
+   "Berlin",
+   "Bonn"
+  ],
+  "answer": 2,
+  "explanation": "Bonn was the capital of West Germany.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Politik",
+  "body": "Wer ist das Staatsoberhaupt? (Head of state?)",
+  "options": [
+   "der Außenminister",
+   "der Bundestagspräsident",
+   "der Bundeskanzler",
+   "der Bundespräsident"
+  ],
+  "answer": 3,
+  "explanation": "The Federal Chancellor leads the government.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Politik",
+  "body": "Wer leitet die Bundesregierung? (Who leads the federal government?)",
+  "options": [
+   "der Bundeskanzler",
+   "der Innenminister",
+   "der Bundesratspräsident",
+   "der Bundespräsident"
+  ],
+  "answer": 0,
+  "explanation": "The Chancellor sets the guidelines of policy.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Politik",
+  "body": "Wer wählt den Bundeskanzler? (Who elects the Chancellor?)",
+  "options": [
+   "das Volk direkt",
+   "der Bundesrat",
+   "der Bundestag",
+   "das Bundesverfassungsgericht"
+  ],
+  "answer": 2,
+  "explanation": "Members of the Bundestag elect the Chancellor.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Politik",
+  "body": "Wer wählt den Bundespräsidenten? (Who elects the Federal President?)",
+  "options": [
+   "die Bundesversammlung",
+   "das Volk direkt",
+   "die Bundesregierung",
+   "der Bundesrat allein"
+  ],
+  "answer": 0,
+  "explanation": "The Federal Convention, for five years.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Politik",
+  "body": "Wie oft wird der Bundestag normalerweise gewählt? (How often is the Bundestag elected?)",
+  "options": [
+   "alle 6 Jahre",
+   "alle 4 Jahre",
+   "alle 2 Jahre",
+   "alle 5 Jahre"
+  ],
+  "answer": 1,
+  "explanation": "Every four years.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Politik",
+  "body": "Ab welchem Alter darf man den Bundestag wählen? (Voting age for the Bundestag?)",
+  "options": [
+   "21",
+   "16",
+   "18",
+   "25"
+  ],
+  "answer": 2,
+  "explanation": "Some states allow voting from 16 in local or state elections.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Politik",
+  "body": "Wahlen in Deutschland sind … (Elections in Germany are …)",
+  "options": [
+   "nur für Männer offen",
+   "nur alle zehn Jahre",
+   "öffentlich und mündlich",
+   "frei, gleich und geheim"
+  ],
+  "answer": 3,
+  "explanation": "Also universal and direct.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Politik",
+  "body": "Was bedeutet Gewaltenteilung? (Separation of powers means …)",
+  "options": [
+   "Parteien, Presse und Kirchen",
+   "Bund, Länder und Gemeinden",
+   "Polizei, Gericht und Gefängnis",
+   "Legislative, Exekutive, Judikative"
+  ],
+  "answer": 3,
+  "explanation": "Lawmaking, government and courts are separate.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Politik",
+  "body": "Wo sitzt das Bundesverfassungsgericht? (Seat of the Federal Constitutional Court?)",
+  "options": [
+   "Karlsruhe",
+   "Bonn",
+   "Hamburg",
+   "Berlin"
+  ],
+  "answer": 0,
+  "explanation": "It protects the Basic Law.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Politik",
+  "body": "Wer ist in Deutschland für die Schulen zuständig? (Who is responsible for schools?)",
+  "options": [
+   "die Bundesländer",
+   "der Bund",
+   "die Kirchen",
+   "die Europäische Union"
+  ],
+  "answer": 0,
+  "explanation": "Education is a matter for the states.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Gesellschaft",
+  "body": "Männer und Frauen sind in Deutschland … (Men and women in Germany are …)",
+  "options": [
+   "nur bei Wahlen gleich",
+   "gleichberechtigt",
+   "rechtlich verschieden",
+   "nur im Beruf gleich"
+  ],
+  "answer": 1,
+  "explanation": "Article 3 of the Basic Law.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Gesellschaft",
+  "body": "Was gilt für die Religion? (What applies to religion?)",
+  "options": [
+   "Man kann sie frei wählen.",
+   "Es gibt eine Staatsreligion.",
+   "Man darf sie nur einmal wechseln.",
+   "Ohne Religion darf man nicht wählen."
+  ],
+  "answer": 0,
+  "explanation": "Freedom of religion, Article 4. Having no religion is also allowed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Gesellschaft",
+  "body": "Gibt es in Deutschland eine Schulpflicht? (Is school compulsory?)",
+  "options": [
+   "nein, sie ist freiwillig",
+   "ja, für alle Kinder",
+   "nur bis 10 Jahre",
+   "nur für deutsche Kinder"
+  ],
+  "answer": 1,
+  "explanation": "Compulsory schooling applies to all children living in Germany.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Gesellschaft",
+  "body": "Was muss man vom Einkommen bezahlen? (What do you pay from your income?)",
+  "options": [
+   "Strafen an die Kirchen",
+   "Steuern und Sozialabgaben",
+   "Schutzgeld an Nachbarn",
+   "Gebühren für jede Wahl"
+  ],
+  "answer": 1,
+  "explanation": "Taxes plus social insurance contributions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Gesellschaft",
+  "body": "Was ist die Amtssprache in Deutschland? (Official language?)",
+  "options": [
+   "Deutsch und Englisch",
+   "Deutsch und Französisch",
+   "Deutsch",
+   "Englisch"
+  ],
+  "answer": 2,
+  "explanation": "German. Some regional minority languages are protected too.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Geschichte",
+  "body": "Welche Farben hat die deutsche Flagge? (Colours of the flag?)",
+  "options": [
+   "Schwarz-Weiß-Rot",
+   "Rot-Weiß-Rot",
+   "Schwarz-Rot-Gold",
+   "Blau-Weiß"
+  ],
+  "answer": 2,
+  "explanation": "Black, red and gold.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Geschichte",
+  "body": "Wann ist der Tag der Deutschen Einheit? (Day of German Unity?)",
+  "options": [
+   "17. Juni",
+   "3. Oktober",
+   "1. Mai",
+   "9. November"
+  ],
+  "answer": 1,
+  "explanation": "Reunification took place on 3 October 1990.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Geschichte",
+  "body": "Wann fiel die Berliner Mauer? (When did the Berlin Wall fall?)",
+  "options": [
+   "1961",
+   "1990",
+   "1949",
+   "1989"
+  ],
+  "answer": 3,
+  "explanation": "The Wall was built in 1961 and fell on 9 November 1989.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Geschichte",
+  "body": "In welchem Jahr wurde Deutschland wiedervereinigt? (Year of reunification?)",
+  "options": [
+   "1990",
+   "1989",
+   "1949",
+   "1999"
+  ],
+  "answer": 0,
+  "explanation": "3 October 1990.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Geschichte",
+  "body": "Wann war die Zeit des Nationalsozialismus? (When was the Nazi dictatorship?)",
+  "options": [
+   "1933 bis 1945",
+   "1939 bis 1949",
+   "1945 bis 1961",
+   "1918 bis 1933"
+  ],
+  "answer": 0,
+  "explanation": "It ended with Germany's defeat in 1945.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Geschichte",
+  "body": "1957 wurden die Römischen Verträge unterschrieben. Was entstand daraus? (The 1957 Treaties of Rome created …)",
+  "options": [
+   "die NATO",
+   "der Euro",
+   "die Vereinten Nationen",
+   "die EWG (heute EU)"
+  ],
+  "answer": 3,
+  "explanation": "The EEC, forerunner of the EU. Germany was a founding member.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Geschichte",
+  "body": "Seit wann gibt es den Euro als Bargeld in Deutschland? (Euro cash since?)",
+  "options": [
+   "1990",
+   "1999",
+   "2010",
+   "2002"
+  ],
+  "answer": 3,
+  "explanation": "The euro existed from 1999 for transfers; cash came in 2002.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Geografie",
+  "body": "Wie viele Nachbarländer hat Deutschland? (How many neighbouring countries?)",
+  "options": [
+   "10",
+   "12",
+   "7",
+   "9"
+  ],
+  "answer": 3,
+  "explanation": "Denmark, Poland, Czechia, Austria, Switzerland, France, Luxembourg, Belgium and the Netherlands.",
+  "difficulty": 2
+ },
+ {
+  "subject": "LDT",
+  "topic": "Test",
+  "body": "Wie viele Fragen muss man im Einbürgerungstest richtig haben? (How many correct answers for citizenship?)",
+  "options": [
+   "17 von 33",
+   "25 von 33",
+   "20 von 33",
+   "15 von 33"
+  ],
+  "answer": 0,
+  "explanation": "15 of 33 passes the integration-course test; citizenship needs 17.",
+  "difficulty": 2
+ }
+]

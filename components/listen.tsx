@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 
-const LANG_NAME: Record<string, string> = { zh: "Chinese", ja: "Japanese", ko: "Korean", ru: "Russian" };
+const LANG_NAME: Record<string, string> = { zh: "Chinese", ja: "Japanese", ko: "Korean", ru: "Russian", de: "German" };
 
 /**
  * Listening questions. Plays recorded audio (Google Text-to-Speech, /api/audio/[id]) when there's a question id.

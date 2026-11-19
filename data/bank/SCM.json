@@ -1,0 +1,422 @@
+[
+ {
+  "subject": "SCM",
+  "topic": "Scrum Team",
+  "body": "The three accountabilities in a Scrum Team are",
+  "options": [
+   "Team Lead, BA and Developers",
+   "Product Owner, Architect, Coders",
+   "Product Owner, Scrum Master, Developers",
+   "Manager, Tester and Developers"
+  ],
+  "answer": 2,
+  "explanation": "Scrum Guide 2020.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Scrum Team",
+  "body": "The Scrum Master is accountable for",
+  "options": [
+   "the Sprint Backlog's plan",
+   "the product's release date",
+   "the value of the product",
+   "the Scrum Team's effectiveness"
+  ],
+  "answer": 3,
+  "explanation": "The Product Owner is accountable for value.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Scrum Team",
+  "body": "The Scrum Master serves",
+  "options": [
+   "external customers and users",
+   "senior managers and executives",
+   "only the Developers on the team",
+   "the team, the PO and the organisation"
+  ],
+  "answer": 3,
+  "explanation": "Coaching, removing impediments and helping Scrum be understood.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Scrum Team",
+  "body": "A Scrum Team is typically",
+  "options": [
+   "3 to 9 Developers only",
+   "exactly 7 people",
+   "10 or fewer people",
+   "at least 12 people"
+  ],
+  "answer": 2,
+  "explanation": "Small enough to stay nimble, large enough to do the work.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Scrum Team",
+  "body": "Scrum Teams are",
+  "options": [
+   "led by a project manager",
+   "split into separate skill silos",
+   "managed day to day by stakeholders",
+   "cross-functional and self-managing"
+  ],
+  "answer": 3,
+  "explanation": "They decide who does what, when and how.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Scrum Team",
+  "body": "Within a Sprint, Developers decide",
+  "options": [
+   "who does what, when and how",
+   "their own salaries and bonuses",
+   "the budget for each release",
+   "the long-term Product Goal"
+  ],
+  "answer": 0,
+  "explanation": "That's what self-managing means.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Events",
+  "body": "The Daily Scrum is timeboxed to",
+  "options": [
+   "15 minutes",
+   "10 minutes",
+   "1 hour",
+   "30 minutes"
+  ],
+  "answer": 0,
+  "explanation": "Same time and place every working day.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Events",
+  "body": "The Daily Scrum is an event for",
+  "options": [
+   "the stakeholders",
+   "the Developers",
+   "the Scrum Master",
+   "the Product Owner only"
+  ],
+  "answer": 1,
+  "explanation": "Others may attend if they're working on Sprint Backlog items.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Events",
+  "body": "The Scrum Master's job at the Daily Scrum is to",
+  "options": [
+   "ensure it happens and is timeboxed",
+   "assign tasks to Developers",
+   "report status to managers",
+   "run it and question each person"
+  ],
+  "answer": 0,
+  "explanation": "The Developers run it themselves.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Events",
+  "body": "Sprint Planning for a one-month Sprint is timeboxed to",
+  "options": [
+   "4 hours",
+   "8 hours",
+   "2 hours",
+   "12 hours"
+  ],
+  "answer": 1,
+  "explanation": "Shorter Sprints usually need less.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Events",
+  "body": "The Sprint Review for a one-month Sprint is timeboxed to",
+  "options": [
+   "2 hours",
+   "8 hours",
+   "4 hours",
+   "1 hour"
+  ],
+  "answer": 2,
+  "explanation": "A working session, not just a demo.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Events",
+  "body": "The Sprint Retrospective for a one-month Sprint is timeboxed to",
+  "options": [
+   "4 hours",
+   "3 hours",
+   "1 hour",
+   "8 hours"
+  ],
+  "answer": 1,
+  "explanation": "It's the last event of the Sprint.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Events",
+  "body": "The Sprint Retrospective is for",
+  "options": [
+   "reporting to managers",
+   "refining the backlog",
+   "demoing the Increment",
+   "improving how the team works"
+  ],
+  "answer": 3,
+  "explanation": "Quality and effectiveness.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Events",
+  "body": "Stakeholders are usually invited to the",
+  "options": [
+   "Daily Scrum",
+   "Sprint Review",
+   "Sprint Retrospective",
+   "Sprint Planning only"
+  ],
+  "answer": 1,
+  "explanation": "They inspect the Increment and give feedback.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Events",
+  "body": "A new Sprint starts",
+  "options": [
+   "when the PO approves it",
+   "right after the last one ends",
+   "after a week's break",
+   "after the next release"
+  ],
+  "answer": 1,
+  "explanation": "Sprints are back to back.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Events",
+  "body": "A Sprint ends",
+  "options": [
+   "when its timebox expires",
+   "when all work is done",
+   "when velocity is met",
+   "when the SM says so"
+  ],
+  "answer": 0,
+  "explanation": "Only the Product Owner can cancel a Sprint early.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Events",
+  "body": "Can a Sprint's length change mid-Sprint?",
+  "options": [
+   "yes, if the SM decides",
+   "only for the final Sprint",
+   "no, Sprints have a fixed length",
+   "yes, if work isn't finished"
+  ],
+  "answer": 2,
+  "explanation": "Consistency helps empiricism.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Events",
+  "body": "If the Developers find they can't finish all Sprint Backlog items, they should",
+  "options": [
+   "renegotiate scope with the PO",
+   "lower the Definition of Done",
+   "cancel the Sprint at once",
+   "extend the Sprint"
+  ],
+  "answer": 0,
+  "explanation": "Keep the Sprint Goal; adjust the scope.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Artifacts",
+  "body": "Scrum's three artifacts are",
+  "options": [
+   "Vision, Sprint Backlog, Gantt chart",
+   "Burndown, Roadmap, Increment",
+   "Product Backlog, Sprint Backlog, Increment",
+   "Product Backlog, Release Plan, Velocity"
+  ],
+  "answer": 2,
+  "explanation": "Each has a commitment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Artifacts",
+  "body": "The commitment for the Sprint Backlog is the",
+  "options": [
+   "velocity",
+   "Product Goal",
+   "Sprint Goal",
+   "Definition of Done"
+  ],
+  "answer": 2,
+  "explanation": "The Product Goal is for the Product Backlog.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Artifacts",
+  "body": "The commitment for the Increment is the",
+  "options": [
+   "Product Goal",
+   "acceptance test",
+   "Sprint Goal",
+   "Definition of Done"
+  ],
+  "answer": 3,
+  "explanation": "Work that isn't Done isn't part of the Increment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Artifacts",
+  "body": "The commitment for the Product Backlog is the",
+  "options": [
+   "Product Goal",
+   "Definition of Done",
+   "release plan",
+   "Sprint Goal"
+  ],
+  "answer": 0,
+  "explanation": "One Product Goal at a time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Artifacts",
+  "body": "Who creates the plan in the Sprint Backlog?",
+  "options": [
+   "the stakeholders",
+   "the Product Owner",
+   "the Developers",
+   "the Scrum Master"
+  ],
+  "answer": 2,
+  "explanation": "It's a plan by and for the Developers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Artifacts",
+  "body": "If the organisation has no Definition of Done, who creates one?",
+  "options": [
+   "the stakeholders",
+   "the Product Owner",
+   "the Scrum Team",
+   "the Scrum Master"
+  ],
+  "answer": 2,
+  "explanation": "It must be suitable for the product.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Artifacts",
+  "body": "An Increment must be",
+  "options": [
+   "signed off by managers",
+   "fully documented",
+   "released to production",
+   "usable and Done"
+  ],
+  "answer": 3,
+  "explanation": "It may or may not be released.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Artifacts",
+  "body": "Burndown charts are",
+  "options": [
+   "owned by the Scrum Master",
+   "a mandatory Scrum artifact",
+   "optional, not part of Scrum",
+   "required at every Daily Scrum"
+  ],
+  "answer": 2,
+  "explanation": "Teams may use them, but Scrum doesn't require them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Theory",
+  "body": "Scrum is founded on",
+  "options": [
+   "detailed upfront design",
+   "command and control",
+   "empiricism and lean thinking",
+   "waterfall planning"
+  ],
+  "answer": 2,
+  "explanation": "Transparency, inspection and adaptation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Theory",
+  "body": "The Scrum values are",
+  "options": [
+   "speed, quality, cost, scope and time",
+   "planning, doing, checking and acting",
+   "honesty, loyalty, effort, skill and trust",
+   "commitment, focus, openness, respect, courage"
+  ],
+  "answer": 3,
+  "explanation": "From the Scrum Guide.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Scaling",
+  "body": "Several Scrum Teams working on one product share",
+  "options": [
+   "a separate backlog for each team",
+   "a different PO for every team",
+   "one Product Backlog and one PO",
+   "no common Product Goal at all"
+  ],
+  "answer": 2,
+  "explanation": "One product, one Product Goal.",
+  "difficulty": 2
+ },
+ {
+  "subject": "SCM",
+  "topic": "Exam",
+  "body": "The PSM I exam has",
+  "options": [
+   "60 questions in 45 minutes",
+   "100 questions in 90 minutes",
+   "40 questions in 60 minutes",
+   "80 questions in 60 minutes"
+  ],
+  "answer": 3,
+  "explanation": "You need 85%. It's run by Scrum.org.",
+  "difficulty": 2
+ }
+]

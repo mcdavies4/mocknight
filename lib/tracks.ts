@@ -2,9 +2,9 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV" | "ELEC18" | "EYTA" | "WAREHOUSE" | "NHSHCA" | "BA" | "ISC2CC" | "AWSSAA" | "AICERT" | "SFADMIN" | "GED" | "TEAS" | "CNA" | "ASVAB" | "UPSC" | "RRB" | "CTET" | "CAT" | "GCSE" | "CSJT" | "TOEFL" | "DUOLINGO" | "CDL" | "G1ON" | "APLUS" | "CCNA" | "JUPEB" | "NABTEB" | "NMCN" | "USMLE" | "GULFPH" | "GULFDR" | "UAEDRV" | "UAETLS" | "GULFLAB" | "GULFPT" | "GULFDEN" | "DUBAIPIC" | "SIRA" | "DMVCA" | "DMVTX" | "DMVFL" | "DMVNY" | "DMVGA" | "PTCB" | "PHLEB" | "CCMA" | "CPC" | "NCLEXPN" | "HESI" | "REALEST" | "LIFEINS" | "SERVSAFE" | "EPA608" | "ACT" | "HISET" | "PRAXIS" | "SIE" | "UACE" | "ACSEE" | "RWA6" | "CPAUG" | "CPATZ" | "KEDRV" | "UGDRV" | "TZDRV" | "RWDRV" | "TRCN" | "TEACHDIG" | "HSK" | "CSCA" | "JLPT" | "EPSTOPIK" | "PNLE" | "LET" | "SGBTT" | "TORFL" | "RUMIG" | "GCPCDL" | "AZ104" | "CISSP" | "DEVOPS" | "DIGMKT" | "HRCERT" | "PSPO";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV" | "ELEC18" | "EYTA" | "WAREHOUSE" | "NHSHCA" | "BA" | "ISC2CC" | "AWSSAA" | "AICERT" | "SFADMIN" | "GED" | "TEAS" | "CNA" | "ASVAB" | "UPSC" | "RRB" | "CTET" | "CAT" | "GCSE" | "CSJT" | "TOEFL" | "DUOLINGO" | "CDL" | "G1ON" | "APLUS" | "CCNA" | "JUPEB" | "NABTEB" | "NMCN" | "USMLE" | "GULFPH" | "GULFDR" | "UAEDRV" | "UAETLS" | "GULFLAB" | "GULFPT" | "GULFDEN" | "DUBAIPIC" | "SIRA" | "DMVCA" | "DMVTX" | "DMVFL" | "DMVNY" | "DMVGA" | "PTCB" | "PHLEB" | "CCMA" | "CPC" | "NCLEXPN" | "HESI" | "REALEST" | "LIFEINS" | "SERVSAFE" | "EPA608" | "ACT" | "HISET" | "PRAXIS" | "SIE" | "UACE" | "ACSEE" | "RWA6" | "CPAUG" | "CPATZ" | "KEDRV" | "UGDRV" | "TZDRV" | "RWDRV" | "LID" | "GERA1" | "ISTQB" | "PSM" | "NETPLUS" | "TRCN" | "TEACHDIG" | "HSK" | "CSCA" | "JLPT" | "EPSTOPIK" | "PNLE" | "LET" | "SGBTT" | "TORFL" | "RUMIG" | "GCPCDL" | "AZ104" | "CISSP" | "DEVOPS" | "DIGMKT" | "HRCERT" | "PSPO";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
-export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi" | "Asia/Manila" | "Africa/Johannesburg" | "Asia/Shanghai" | "Asia/Tokyo" | "Asia/Seoul" | "Asia/Singapore" | "Europe/Moscow";
+export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi" | "Asia/Manila" | "Africa/Johannesburg" | "Asia/Shanghai" | "Asia/Tokyo" | "Asia/Seoul" | "Asia/Singapore" | "Europe/Moscow" | "Europe/Berlin";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
 export interface Marking { correct: number; wrong: number }
 
@@ -26,7 +26,7 @@ export interface Track {
   short: string;
   emoji: string;
   kind: "school" | "citizenship" | "work" | "professional";
-  region: "NG" | "GH" | "WA" | "UK" | "GLOBAL" | "ET" | "IN" | "US" | "CA" | "AU" | "GULF" | "KE" | "PK" | "PH" | "TZ" | "UG" | "CM" | "ZA" | "RW" | "CN" | "JP" | "KR" | "SG" | "RU";
+  region: "NG" | "GH" | "WA" | "UK" | "GLOBAL" | "ET" | "IN" | "US" | "CA" | "AU" | "GULF" | "KE" | "PK" | "PH" | "TZ" | "UG" | "CM" | "ZA" | "RW" | "CN" | "JP" | "KR" | "SG" | "RU" | "DE";
   currency: "NGN" | "GBP" | "ETB" | "INR" | "USD";
   subjectMode: "multi" | "single";
   subjects: string[];
@@ -592,6 +592,41 @@ export const TRACKS: Record<TrackCode, Track> = {
     mock: { total: 40, minutes: 60, passPct: 70, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
     plans: ["rumig_pass"], tagline: "Practice for Russia's exam for work patents and residence: Russian language, history and basic law", timeZone: "Europe/Moscow", timeLabel: "Moscow",
     audience: "a foreign national preparing for Russia's exam in Russian, history and law for a work patent or residence permit",
+  },
+  LID: {
+    code: "LID", name: "Germany citizenship & settlement test (Leben in Deutschland)", short: "Leben in Deutschland", emoji: "🇩🇪", kind: "professional", region: "DE", currency: "USD",
+    subjectMode: "single", subjects: ["LDT"], compulsory: ["LDT"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 33, minutes: 60, passPct: 52, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["lid_pass"], tagline: "Leben in Deutschland practice: the Basic Law, government, elections, history and everyday life, in German with English help", timeZone: "Europe/Berlin", timeLabel: "Germany",
+    audience: "someone preparing for Germany's 'Leben in Deutschland' test or the citizenship test (Einbürgerungstest)",
+  },
+  GERA1: {
+    code: "GERA1", name: "German A1 (Goethe-Zertifikat Start Deutsch 1)", short: "German A1", emoji: "🇩🇪", kind: "professional", region: "DE", currency: "USD",
+    subjectMode: "single", subjects: ["GER"], compulsory: ["GER"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 30, minutes: 45, passPct: 60, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["gera1_pass"], tagline: "German A1 practice with listening: everyday words, signs and notices, articles, verbs and recorded German audio", timeZone: "Europe/Berlin", timeLabel: "Germany",
+    audience: "someone learning German for a Goethe A1 certificate, a family-reunion visa or a move to Germany",
+  },
+  ISTQB: {
+    code: "ISTQB", name: "ISTQB Foundation Level (CTFL v4.0)", short: "ISTQB Foundation", emoji: "🧪", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["TST"], compulsory: ["TST"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 40, minutes: 60, passPct: 65, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["istqb_pass"], tagline: "ISTQB CTFL v4.0 practice: testing principles, lifecycle, static testing, test techniques and test management", timeZone: "UTC", timeLabel: "UTC",
+    audience: "someone starting a software testing or QA career and preparing for ISTQB Foundation Level",
+  },
+  PSM: {
+    code: "PSM", name: "Professional Scrum Master I (PSM I)", short: "Scrum Master", emoji: "🌀", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["SCM"], compulsory: ["SCM"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 80, minutes: 60, passPct: 85, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["psm_pass"], tagline: "PSM I practice: Scrum accountabilities, events and timeboxes, artifacts and commitments, and Scrum theory", timeZone: "UTC", timeLabel: "UTC",
+    audience: "someone preparing for Professional Scrum Master I (PSM I) or a Scrum Master role",
+  },
+  NETPLUS: {
+    code: "NETPLUS", name: "CompTIA Network+ (N10-009)", short: "Network+", emoji: "🌐", kind: "professional", region: "GLOBAL", currency: "USD",
+    subjectMode: "single", subjects: ["NTP"], compulsory: ["NTP"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
+    mock: { total: 90, minutes: 90, passPct: 80, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    plans: ["netplus_pass"], tagline: "Network+ practice: OSI, ports and protocols, subnetting, switching, wireless, cabling and troubleshooting", timeZone: "UTC", timeLabel: "UTC",
+    audience: "someone preparing for CompTIA Network+ (N10-009) for a networking or IT support role",
   },
   CSEPH: {
     code: "CSEPH", name: "Philippine Civil Service Exam (CSE-PPT)", short: "Civil Service PH", emoji: "🇵🇭", kind: "professional", region: "PH", currency: "USD",

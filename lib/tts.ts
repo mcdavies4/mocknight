@@ -8,6 +8,7 @@ const VOICES: Record<string, { languageCode: string; name: string }> = {
   "ja-JP": { languageCode: "ja-JP", name: "ja-JP-Wavenet-B" },
   "ko-KR": { languageCode: "ko-KR", name: "ko-KR-Wavenet-A" },
   "ru-RU": { languageCode: "ru-RU", name: "ru-RU-Wavenet-A" },
+  "de-DE": { languageCode: "de-DE", name: "de-DE-Wavenet-B" },
 };
 
 export const ttsConfigured = () => !!process.env.GOOGLE_TTS_API_KEY;

@@ -1,0 +1,498 @@
+[
+ {
+  "subject": "GER",
+  "topic": "Wortschatz",
+  "body": "What does 'Guten Morgen' mean?",
+  "options": [
+   "good morning",
+   "good evening",
+   "goodbye",
+   "good night"
+  ],
+  "answer": 0,
+  "explanation": "Gute Nacht = good night; Auf Wiedersehen = goodbye.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GER",
+  "topic": "Wortschatz",
+  "body": "What does 'Wie viel kostet das?' mean?",
+  "options": [
+   "What time is it now?",
+   "Where is that shop?",
+   "How much does that cost?",
+   "How old are you now?"
+  ],
+  "answer": 2,
+  "explanation": "Wie spät ist es? = What time is it?",
+  "difficulty": 1
+ },
+ {
+  "subject": "GER",
+  "topic": "Wortschatz",
+  "body": "What does 'Mittwoch' mean?",
+  "options": [
+   "Wednesday",
+   "Thursday",
+   "Saturday",
+   "Monday"
+  ],
+  "answer": 0,
+  "explanation": "Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GER",
+  "topic": "Wortschatz",
+  "body": "Which number is 'siebzehn'?",
+  "options": [
+   "70",
+   "7",
+   "71",
+   "17"
+  ],
+  "answer": 3,
+  "explanation": "siebzig = 70.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GER",
+  "topic": "Wortschatz",
+  "body": "What time is 'halb drei'?",
+  "options": [
+   "2:30",
+   "3:30",
+   "2:15",
+   "3:00"
+  ],
+  "answer": 0,
+  "explanation": "'Halb drei' means halfway to three.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GER",
+  "topic": "Wortschatz",
+  "body": "What does the sign 'Ausgang' mean?",
+  "options": [
+   "emergency stop",
+   "exit",
+   "entrance",
+   "toilet"
+  ],
+  "answer": 1,
+  "explanation": "Eingang = entrance.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GER",
+  "topic": "Lesen",
+  "body": "A sign says 'Bitte nicht rauchen'. What does it mean?",
+  "options": [
+   "Please don't enter.",
+   "Please don't park.",
+   "Please don't eat here.",
+   "Please don't smoke."
+  ],
+  "answer": 3,
+  "explanation": "rauchen = to smoke.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GER",
+  "topic": "Lesen",
+  "body": "A shop sign says 'Geöffnet: Mo–Fr 9–18 Uhr'. When is it open?",
+  "options": [
+   "weekends only",
+   "Monday to Friday, 9 to 6",
+   "Monday to Friday, 6 to 9",
+   "every day, 9 to 6"
+  ],
+  "answer": 1,
+  "explanation": "18 Uhr is 6 pm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GER",
+  "topic": "Lesen",
+  "body": "An advert says 'Zimmer frei, 350 € warm, ab 1. Mai'. What is offered?",
+  "options": [
+   "a job from 1 May",
+   "a flat from 1 March for €350",
+   "a room for €350 a week",
+   "a room from 1 May for €350"
+  ],
+  "answer": 3,
+  "explanation": "'Warm' means heating is included.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GER",
+  "topic": "Lesen",
+  "body": "A note says 'Bin beim Arzt, komme um 15 Uhr zurück'. Where is the writer?",
+  "options": [
+   "at the bank",
+   "at school",
+   "at the doctor's",
+   "at work"
+  ],
+  "answer": 2,
+  "explanation": "Arzt = doctor. Back at 3 pm.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GER",
+  "topic": "Grammatik",
+  "body": "___ Tisch (table)",
+  "options": [
+   "den",
+   "die",
+   "das",
+   "der"
+  ],
+  "answer": 3,
+  "explanation": "der Tisch is masculine.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GER",
+  "topic": "Grammatik",
+  "body": "___ Lampe (lamp)",
+  "options": [
+   "das",
+   "dem",
+   "der",
+   "die"
+  ],
+  "answer": 3,
+  "explanation": "die Lampe is feminine.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GER",
+  "topic": "Grammatik",
+  "body": "___ Kind (child)",
+  "options": [
+   "die",
+   "das",
+   "den",
+   "der"
+  ],
+  "answer": 1,
+  "explanation": "das Kind is neuter.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GER",
+  "topic": "Grammatik",
+  "body": "Ich ___ aus Nigeria. (kommen)",
+  "options": [
+   "kommen",
+   "komme",
+   "kommt",
+   "kommst"
+  ],
+  "answer": 1,
+  "explanation": "ich komme, du kommst, er kommt.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GER",
+  "topic": "Grammatik",
+  "body": "Du ___ Deutsch. (lernen)",
+  "options": [
+   "lernen",
+   "lernt",
+   "lerne",
+   "lernst"
+  ],
+  "answer": 3,
+  "explanation": "du + -st.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GER",
+  "topic": "Grammatik",
+  "body": "Sie (they) ___ in Berlin. (wohnen)",
+  "options": [
+   "wohnen",
+   "wohne",
+   "wohnst",
+   "wohnt"
+  ],
+  "answer": 0,
+  "explanation": "sie/Sie take the infinitive form.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GER",
+  "topic": "Grammatik",
+  "body": "Ich habe ___ Bruder.",
+  "options": [
+   "einem",
+   "einen",
+   "eine",
+   "ein"
+  ],
+  "answer": 1,
+  "explanation": "haben takes the accusative: der Bruder → einen Bruder.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GER",
+  "topic": "Grammatik",
+  "body": "Ich ___ heute nicht kommen. (können)",
+  "options": [
+   "könnt",
+   "kann",
+   "kannst",
+   "können"
+  ],
+  "answer": 1,
+  "explanation": "ich kann, du kannst.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GER",
+  "topic": "Grammatik",
+  "body": "What is the plural of 'das Buch'?",
+  "options": [
+   "die Büchen",
+   "die Buchs",
+   "die Bücher",
+   "die Buche"
+  ],
+  "answer": 2,
+  "explanation": "Umlaut plus -er.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GER",
+  "topic": "Grammatik",
+  "body": "___ wohnst du? – In Lagos.",
+  "options": [
+   "Wann",
+   "Was",
+   "Wo",
+   "Wer"
+  ],
+  "answer": 2,
+  "explanation": "wo = where, wann = when, wer = who.",
+  "difficulty": 1
+ },
+ {
+  "subject": "GER",
+  "topic": "Hören (listening)",
+  "body": "🎧 Listen. What does the speaker order?",
+  "options": [
+   "a tea and a water",
+   "a coffee and a water",
+   "a coffee and a juice",
+   "two coffees"
+  ],
+  "answer": 1,
+  "explanation": "einen Kaffee und ein Wasser.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Ich möchte bitte einen Kaffee und ein Wasser.",
+   "lang": "de-DE"
+  }
+ },
+ {
+  "subject": "GER",
+  "topic": "Hören (listening)",
+  "body": "🎧 Listen. Which platform does the train leave from?",
+  "options": [
+   "70",
+   "17",
+   "7",
+   "11"
+  ],
+  "answer": 2,
+  "explanation": "Gleis sieben = platform 7.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Der Zug nach Hamburg fährt heute von Gleis sieben.",
+   "lang": "de-DE"
+  }
+ },
+ {
+  "subject": "GER",
+  "topic": "Hören (listening)",
+  "body": "🎧 Listen. When is the appointment?",
+  "options": [
+   "Tuesday at 2",
+   "Wednesday at 10",
+   "Tuesday at 10",
+   "Thursday at 10"
+  ],
+  "answer": 2,
+  "explanation": "Dienstag = Tuesday; Donnerstag = Thursday.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Der Termin ist am Dienstag um zehn Uhr.",
+   "lang": "de-DE"
+  }
+ },
+ {
+  "subject": "GER",
+  "topic": "Hören (listening)",
+  "body": "🎧 Listen. How much is it?",
+  "options": [
+   "€15.20",
+   "€12.50",
+   "€12.15",
+   "€20.50"
+  ],
+  "answer": 1,
+  "explanation": "zwölf Euro fünfzig.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Das kostet zwölf Euro fünfzig.",
+   "lang": "de-DE"
+  }
+ },
+ {
+  "subject": "GER",
+  "topic": "Hören (listening)",
+  "body": "🎧 Listen. When is Maria coming?",
+  "options": [
+   "at about 9",
+   "at about 6",
+   "at about 8",
+   "tomorrow at 8"
+  ],
+  "answer": 2,
+  "explanation": "so um acht = at around eight.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Hallo, hier ist Maria. Ich komme heute später, so um acht.",
+   "lang": "de-DE"
+  }
+ },
+ {
+  "subject": "GER",
+  "topic": "Hören (listening)",
+  "body": "🎧 Listen. Where is the pharmacy?",
+  "options": [
+   "opposite the bank",
+   "next to the bank",
+   "inside the bank",
+   "behind the bank"
+  ],
+  "answer": 1,
+  "explanation": "neben = next to.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Die Apotheke ist neben der Bank.",
+   "lang": "de-DE"
+  }
+ },
+ {
+  "subject": "GER",
+  "topic": "Hören (listening)",
+  "body": "🎧 Listen. What is the announcement about?",
+  "options": [
+   "the shop opens in 15 minutes",
+   "the shop closes in 50 minutes",
+   "the shop closes in 15 minutes",
+   "a sale starts in 15 minutes"
+  ],
+  "answer": 2,
+  "explanation": "schließt = closes.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Achtung! Der Supermarkt schließt in fünfzehn Minuten.",
+   "lang": "de-DE"
+  }
+ },
+ {
+  "subject": "GER",
+  "topic": "Hören (listening)",
+  "body": "🎧 Listen. What is the phone number?",
+  "options": [
+   "0137 456",
+   "0173 456",
+   "0173 465",
+   "0174 356"
+  ],
+  "answer": 1,
+  "explanation": "null eins sieben drei – vier fünf sechs.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Meine Telefonnummer ist null eins sieben drei, vier fünf sechs.",
+   "lang": "de-DE"
+  }
+ },
+ {
+  "subject": "GER",
+  "topic": "Hören (listening)",
+  "body": "🎧 Listen. What is the house number?",
+  "options": [
+   "20",
+   "22",
+   "2",
+   "12"
+  ],
+  "answer": 0,
+  "explanation": "zwanzig = 20.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Ich wohne in der Goethestraße, Hausnummer zwanzig.",
+   "lang": "de-DE"
+  }
+ },
+ {
+  "subject": "GER",
+  "topic": "Hören (listening)",
+  "body": "🎧 Listen. Where will they meet?",
+  "options": [
+   "inside the cinema",
+   "at the station",
+   "in front of the cinema",
+   "behind the cinema"
+  ],
+  "answer": 2,
+  "explanation": "vor dem Kino = in front of the cinema.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Wir treffen uns am Samstag vor dem Kino.",
+   "lang": "de-DE"
+  }
+ },
+ {
+  "subject": "GER",
+  "topic": "Hören (listening)",
+  "body": "🎧 Listen. What is the speaker's job?",
+  "options": [
+   "teacher",
+   "doctor",
+   "cook",
+   "nurse"
+  ],
+  "answer": 3,
+  "explanation": "Krankenschwester = nurse; Krankenhaus = hospital.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Ich bin Krankenschwester und arbeite im Krankenhaus.",
+   "lang": "de-DE"
+  }
+ },
+ {
+  "subject": "GER",
+  "topic": "Hören (listening)",
+  "body": "🎧 Listen. What's the weather like?",
+  "options": [
+   "cold and snowy",
+   "warm and sunny",
+   "hot and rainy",
+   "cold and rainy"
+  ],
+  "answer": 3,
+  "explanation": "kalt = cold; es regnet = it's raining.",
+  "difficulty": 1,
+  "audio": {
+   "text": "Heute ist es kalt und es regnet.",
+   "lang": "de-DE"
+  }
+ }
+]

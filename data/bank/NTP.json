@@ -1,0 +1,422 @@
+[
+ {
+  "subject": "NTP",
+  "topic": "Models",
+  "body": "Which OSI layer uses MAC addresses?",
+  "options": [
+   "Network (layer 3)",
+   "Physical (layer 1)",
+   "Data link (layer 2)",
+   "Transport (layer 4)"
+  ],
+  "answer": 2,
+  "explanation": "Switches work mainly at layer 2.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Devices",
+  "body": "Which device forwards traffic between networks using IP addresses?",
+  "options": [
+   "switch",
+   "router",
+   "access point",
+   "hub"
+  ],
+  "answer": 1,
+  "explanation": "Routers work at layer 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Protocols",
+  "body": "Which transport protocol is connectionless?",
+  "options": [
+   "TCP",
+   "TLS",
+   "SCTP",
+   "UDP"
+  ],
+  "answer": 3,
+  "explanation": "TCP sets up a connection with a three-way handshake.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Ports",
+  "body": "Which port does HTTPS use by default?",
+  "options": [
+   "443",
+   "22",
+   "80",
+   "53"
+  ],
+  "answer": 0,
+  "explanation": "HTTP uses 80.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Ports",
+  "body": "Which port does SSH use by default?",
+  "options": [
+   "22",
+   "23",
+   "21",
+   "25"
+  ],
+  "answer": 0,
+  "explanation": "Telnet uses 23 and is unencrypted.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Ports",
+  "body": "Which port does DNS use by default?",
+  "options": [
+   "110",
+   "53",
+   "143",
+   "67"
+  ],
+  "answer": 1,
+  "explanation": "DHCP uses 67/68.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Ports",
+  "body": "Which port does RDP use by default?",
+  "options": [
+   "3389",
+   "3306",
+   "1433",
+   "5900"
+  ],
+  "answer": 0,
+  "explanation": "3306 is MySQL; 5900 is VNC.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Services",
+  "body": "DHCP is used to",
+  "options": [
+   "translate names into IPs",
+   "encrypt all network traffic",
+   "block malware at the edge",
+   "assign IP addresses automatically"
+  ],
+  "answer": 3,
+  "explanation": "DNS translates names to IP addresses.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Services",
+  "body": "A DNS A record",
+  "options": [
+   "sets the domain's mail server",
+   "creates an alias for a name",
+   "maps a name to an IPv4 address",
+   "maps a name to an IPv6 address"
+  ],
+  "answer": 2,
+  "explanation": "AAAA is IPv6, MX is mail, CNAME is an alias.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Services",
+  "body": "SNMP is used for",
+  "options": [
+   "sending and receiving email",
+   "transferring large files",
+   "monitoring network devices",
+   "browsing websites securely"
+  ],
+  "answer": 2,
+  "explanation": "SNMPv3 adds authentication and encryption.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Addressing",
+  "body": "Which is a private IPv4 address?",
+  "options": [
+   "8.8.8.8",
+   "192.168.1.10",
+   "172.32.0.5",
+   "11.0.0.1"
+  ],
+  "answer": 1,
+  "explanation": "Private ranges: 10.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Addressing",
+  "body": "How many usable hosts are in a /24 network?",
+  "options": [
+   "255",
+   "256",
+   "252",
+   "254"
+  ],
+  "answer": 3,
+  "explanation": "2⁸ − 2 (network and broadcast).",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Addressing",
+  "body": "What is the subnet mask for /26?",
+  "options": [
+   "255.255.255.240",
+   "255.255.255.224",
+   "255.255.255.128",
+   "255.255.255.192"
+  ],
+  "answer": 3,
+  "explanation": "26 bits: the last octet is 11000000 = 192.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Addressing",
+  "body": "An address in 169.254.x.x usually means",
+  "options": [
+   "DHCP failed (APIPA)",
+   "a public address",
+   "a loopback test",
+   "a multicast group"
+  ],
+  "answer": 0,
+  "explanation": "The device gave itself a link-local address.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Addressing",
+  "body": "What is the IPv4 loopback address?",
+  "options": [
+   "0.0.0.0",
+   "255.255.255.255",
+   "127.0.0.1",
+   "192.168.0.1"
+  ],
+  "answer": 2,
+  "explanation": "IPv6 loopback is ::1.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Addressing",
+  "body": "How long is an IPv6 address?",
+  "options": [
+   "32 bits",
+   "64 bits",
+   "256 bits",
+   "128 bits"
+  ],
+  "answer": 3,
+  "explanation": "Written as eight groups of hex.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Addressing",
+  "body": "NAT is used to",
+  "options": [
+   "assign MAC addresses to cards",
+   "resolve domain names",
+   "translate private to public IPs",
+   "filter out spam email"
+  ],
+  "answer": 2,
+  "explanation": "PAT lets many devices share one public IP.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Switching",
+  "body": "VLANs are used to",
+  "options": [
+   "split a switch into logical networks",
+   "encrypt all traffic on the LAN",
+   "boost the range of Wi-Fi signals",
+   "assign IP addresses to devices"
+  ],
+  "answer": 0,
+  "explanation": "They reduce broadcast domains and separate traffic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Switching",
+  "body": "IEEE 802.1Q is the standard for",
+  "options": [
+   "Wi-Fi security",
+   "port authentication",
+   "link aggregation",
+   "VLAN tagging"
+  ],
+  "answer": 3,
+  "explanation": "802.1X is port authentication.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Switching",
+  "body": "Spanning Tree Protocol prevents",
+  "options": [
+   "weak passwords",
+   "switching loops",
+   "IP conflicts",
+   "DNS failures"
+  ],
+  "answer": 1,
+  "explanation": "It blocks redundant paths until needed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Wireless",
+  "body": "Which Wi-Fi security option is strongest?",
+  "options": [
+   "WPA3",
+   "WEP",
+   "WPA2-TKIP",
+   "WPA"
+  ],
+  "answer": 0,
+  "explanation": "WEP is broken and shouldn't be used.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Wireless",
+  "body": "Compared with 2.4 GHz, 5 GHz Wi-Fi is",
+  "options": [
+   "faster but shorter range",
+   "only used for Bluetooth",
+   "slower but longer range",
+   "the same speed and range"
+  ],
+  "answer": 0,
+  "explanation": "Higher frequencies are blocked more by walls.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Cabling",
+  "body": "A key advantage of fibre is that it is",
+  "options": [
+   "able to carry power to devices (PoE)",
+   "always cheaper than copper cabling",
+   "immune to electromagnetic interference",
+   "very easy to splice by hand at home"
+  ],
+  "answer": 2,
+  "explanation": "It also supports long distances.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Cabling",
+  "body": "What is the maximum length of a Cat6 Ethernet run?",
+  "options": [
+   "500 metres",
+   "1,000 metres",
+   "100 metres",
+   "10 metres"
+  ],
+  "answer": 2,
+  "explanation": "For standard 1 Gbps Ethernet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Topologies",
+  "body": "In which topology do all devices connect to a central switch?",
+  "options": [
+   "ring",
+   "bus",
+   "mesh",
+   "star"
+  ],
+  "answer": 3,
+  "explanation": "Most modern LANs are star topologies.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Security",
+  "body": "A firewall",
+  "options": [
+   "filters traffic using rules",
+   "assigns IP addresses",
+   "boosts weak Wi-Fi signals",
+   "stores nightly backups"
+  ],
+  "answer": 0,
+  "explanation": "Rules allow or deny by address, port and protocol.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Troubleshooting",
+  "body": "Which command tests whether a host is reachable?",
+  "options": [
+   "ipconfig",
+   "netstat",
+   "nslookup",
+   "ping"
+  ],
+  "answer": 3,
+  "explanation": "ping uses ICMP echo requests.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Troubleshooting",
+  "body": "Which Windows command shows each hop to a destination?",
+  "options": [
+   "route",
+   "ping",
+   "arp",
+   "tracert"
+  ],
+  "answer": 3,
+  "explanation": "On Linux and macOS it's traceroute.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Troubleshooting",
+  "body": "The first step in CompTIA's troubleshooting method is to",
+  "options": [
+   "identify the problem",
+   "document findings",
+   "implement a fix",
+   "test the theory"
+  ],
+  "answer": 0,
+  "explanation": "Then theorise, test, plan, fix, verify and document.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NTP",
+  "topic": "Exam",
+  "body": "The CompTIA Network+ (N10-009) exam has",
+  "options": [
+   "40 questions in 60 minutes",
+   "up to 90 questions in 90 minutes",
+   "120 questions in 2 hours",
+   "60 questions in 60 minutes"
+  ],
+  "answer": 1,
+  "explanation": "Passing score: 720 on a 100–900 scale.",
+  "difficulty": 2
+ }
+]

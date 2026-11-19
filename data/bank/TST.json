@@ -1,0 +1,422 @@
+[
+ {
+  "subject": "TST",
+  "topic": "Fundamentals",
+  "body": "Testing can show",
+  "options": [
+   "that all requirements are correct",
+   "only performance problems",
+   "that software has no defects",
+   "that defects are present"
+  ],
+  "answer": 3,
+  "explanation": "Testing reduces risk but can't prove the absence of defects.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Fundamentals",
+  "body": "Exhaustive testing is",
+  "options": [
+   "a replacement for other testing",
+   "required for safety systems",
+   "impossible except in trivial cases",
+   "the cheapest approach"
+  ],
+  "answer": 2,
+  "explanation": "Use risk and techniques to prioritise instead.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Fundamentals",
+  "body": "Testing early in the lifecycle",
+  "options": [
+   "increases rework",
+   "delays the release",
+   "saves time and money",
+   "only works in Agile"
+  ],
+  "answer": 2,
+  "explanation": "Defects found early are cheaper to fix.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Fundamentals",
+  "body": "Defects cluster together means",
+  "options": [
+   "a few parts hold most defects",
+   "only the UI has defects",
+   "defects spread evenly",
+   "defects never repeat"
+  ],
+  "answer": 0,
+  "explanation": "Often a small number of components contain most defects.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Fundamentals",
+  "body": "Running the same tests again and again tends to",
+  "options": [
+   "fix existing defects",
+   "find more new defects",
+   "find fewer new defects",
+   "raise coverage automatically"
+  ],
+  "answer": 2,
+  "explanation": "'Tests wear out': update and vary your tests.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Fundamentals",
+  "body": "The absence-of-defects fallacy says",
+  "options": [
+   "defects never really matter",
+   "testing proves correctness",
+   "users never find bugs",
+   "defect-free doesn't mean useful"
+  ],
+  "answer": 3,
+  "explanation": "A system can be bug-free and still miss user needs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Fundamentals",
+  "body": "A human mistake that leads to a defect is called an",
+  "options": [
+   "failure",
+   "incident",
+   "error",
+   "anomaly"
+  ],
+  "answer": 2,
+  "explanation": "Error (mistake) → defect (fault, bug) → failure.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Fundamentals",
+  "body": "When defective code runs and gives a wrong result, that is a",
+  "options": [
+   "error",
+   "root cause",
+   "failure",
+   "mistake"
+  ],
+  "answer": 2,
+  "explanation": "A failure is visible wrong behaviour.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Fundamentals",
+  "body": "Validation checks that",
+  "options": [
+   "the right product was built",
+   "the code compiles",
+   "the product was built right",
+   "the tests are automated"
+  ],
+  "answer": 0,
+  "explanation": "Verification checks it was built right, to spec.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Static testing",
+  "body": "Static testing means",
+  "options": [
+   "running all the unit tests",
+   "reviewing without running code",
+   "load testing a web server",
+   "executing the test scripts"
+  ],
+  "answer": 1,
+  "explanation": "Reviews and static analysis find defects early.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Static testing",
+  "body": "Which review type is the most formal?",
+  "options": [
+   "informal review",
+   "inspection",
+   "walkthrough",
+   "technical review"
+  ],
+  "answer": 1,
+  "explanation": "Inspections have defined roles, entry and exit criteria, and metrics.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Lifecycle",
+  "body": "Which test level checks individual units of code?",
+  "options": [
+   "system testing",
+   "component testing",
+   "acceptance testing",
+   "integration testing"
+  ],
+  "answer": 1,
+  "explanation": "Also called unit testing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Lifecycle",
+  "body": "Acceptance testing is mainly done by",
+  "options": [
+   "intended users",
+   "database admins",
+   "automation tools",
+   "developers only"
+  ],
+  "answer": 0,
+  "explanation": "It checks fitness for use and business needs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Lifecycle",
+  "body": "Regression testing",
+  "options": [
+   "measures performance under load",
+   "reviews the requirements",
+   "tests a brand-new feature",
+   "rechecks old features after changes"
+  ],
+  "answer": 3,
+  "explanation": "It makes sure changes haven't broken anything.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Lifecycle",
+  "body": "Confirmation testing means",
+  "options": [
+   "load testing",
+   "rechecking a fixed defect",
+   "exploratory testing",
+   "testing unchanged areas"
+  ],
+  "answer": 1,
+  "explanation": "Rerun the failed test to confirm the fix.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Lifecycle",
+  "body": "The 'three amigos' in Agile are",
+  "options": [
+   "manager, tester and client",
+   "architect, DBA and support",
+   "business, development and testing",
+   "designer, coder and admin"
+  ],
+  "answer": 2,
+  "explanation": "They refine stories together before work starts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Techniques",
+  "body": "Valid ages are 18 to 65. How many equivalence partitions are there?",
+  "options": [
+   "3",
+   "48",
+   "4",
+   "2"
+  ],
+  "answer": 0,
+  "explanation": "Below 18, 18–65 and above 65.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Techniques",
+  "body": "Valid ages are 18 to 65. Which are the 2-value boundary values?",
+  "options": [
+   "17 and 66 only",
+   "17, 18, 65 and 66",
+   "0, 18, 65 and 100",
+   "18 and 65 only"
+  ],
+  "answer": 1,
+  "explanation": "Each boundary and its nearest neighbour outside.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Techniques",
+  "body": "Decision table testing is best for",
+  "options": [
+   "performance limits",
+   "UI layout and colours",
+   "single input fields",
+   "combinations of conditions"
+  ],
+  "answer": 3,
+  "explanation": "Each column is a rule combining conditions and actions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Techniques",
+  "body": "State transition testing models",
+  "options": [
+   "how much network bandwidth is used",
+   "the structure of the database schema",
+   "behaviour across states and events",
+   "the colours used in the interface"
+  ],
+  "answer": 2,
+  "explanation": "Good for workflows like logins or orders.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Techniques",
+  "body": "100% statement coverage means",
+  "options": [
+   "every input value was tested",
+   "every statement ran at least once",
+   "every decision outcome was tested",
+   "every path was executed"
+  ],
+  "answer": 1,
+  "explanation": "Branch coverage is stronger.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Techniques",
+  "body": "100% branch coverage guarantees",
+  "options": [
+   "100% requirement coverage",
+   "no defects remain",
+   "100% path coverage",
+   "100% statement coverage"
+  ],
+  "answer": 3,
+  "explanation": "Every branch covered means every statement covered.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Techniques",
+  "body": "Exploratory testing is",
+  "options": [
+   "fully scripted tests written in advance",
+   "learning, designing and running tests together",
+   "automated regression runs every night",
+   "formal code inspections with a moderator"
+  ],
+  "answer": 1,
+  "explanation": "Often timeboxed in sessions with a charter.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Management",
+  "body": "The test basis is",
+  "options": [
+   "what tests are derived from",
+   "the test environment",
+   "the latest defect report",
+   "the test summary report"
+  ],
+  "answer": 0,
+  "explanation": "For example requirements, user stories or designs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Management",
+  "body": "The test pyramid recommends",
+  "options": [
+   "equal numbers at every level",
+   "many unit tests, fewer UI tests",
+   "many UI tests, few unit tests",
+   "only manual tests"
+  ],
+  "answer": 1,
+  "explanation": "Lower-level tests are faster and cheaper.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Management",
+  "body": "Risk level is based on",
+  "options": [
+   "number of testers",
+   "cost and schedule",
+   "team size and tools",
+   "likelihood and impact"
+  ],
+  "answer": 3,
+  "explanation": "Higher risk gets more testing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Management",
+  "body": "Which is a product risk?",
+  "options": [
+   "the app may calculate tax wrongly",
+   "the project budget may be cut",
+   "a key tester may leave the team",
+   "the delivery schedule may slip"
+  ],
+  "answer": 0,
+  "explanation": "Product risks are about quality; the others are project risks.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Management",
+  "body": "A good defect report includes",
+  "options": [
+   "the developer's opinion",
+   "the office location",
+   "the tester's salary",
+   "steps to reproduce"
+  ],
+  "answer": 3,
+  "explanation": "Also expected and actual results, severity and environment.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Management",
+  "body": "A benefit of independent testing is that",
+  "options": [
+   "it removes all bias",
+   "testers spot what authors miss",
+   "no communication is needed",
+   "developers can skip unit tests"
+  ],
+  "answer": 1,
+  "explanation": "Different perspectives find different defects.",
+  "difficulty": 2
+ },
+ {
+  "subject": "TST",
+  "topic": "Exam",
+  "body": "The ISTQB CTFL v4.0 exam has",
+  "options": [
+   "80 questions in 60 minutes",
+   "40 questions in 120 minutes",
+   "60 questions in 90 minutes",
+   "40 questions in 60 minutes"
+  ],
+  "answer": 3,
+  "explanation": "You need 26 (65%). Non-native speakers get 25% extra time.",
+  "difficulty": 2
+ }
+]
