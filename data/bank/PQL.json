@@ -1,0 +1,282 @@
+[
+ {
+  "subject": "PQL",
+  "topic": "Reading comprehension",
+  "body": "'Amina arrived early, set up the projector and arranged the desks before the pupils came in.' What does this suggest about Amina?",
+  "options": [
+   "she dislikes teaching",
+   "she forgot her lesson",
+   "she is often late",
+   "she is well prepared"
+  ],
+  "answer": 3,
+  "explanation": "Arriving early and setting up shows preparation.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQL",
+  "topic": "Reading comprehension",
+  "body": "'Although the rain was heavy, attendance was high because the school bus ran on time.' Why was attendance high?",
+  "options": [
+   "the rain was light",
+   "pupils walked to school",
+   "the school bus ran on time",
+   "lessons started late"
+  ],
+  "answer": 2,
+  "explanation": "'Because' introduces the reason.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQL",
+  "topic": "Reading comprehension",
+  "body": "'Regular reading builds vocabulary, improves spelling and strengthens comprehension. Pupils who read daily often do better across subjects.' What is the main idea?",
+  "options": [
+   "pupils dislike reading",
+   "spelling is the hardest skill",
+   "daily reading helps pupils learn",
+   "vocabulary can't be taught"
+  ],
+  "answer": 2,
+  "explanation": "Every sentence supports the benefits of reading.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQL",
+  "topic": "Grammar",
+  "body": "Neither the teacher nor the pupils ___ ready.",
+  "options": [
+   "has",
+   "was",
+   "is",
+   "were"
+  ],
+  "answer": 3,
+  "explanation": "With 'neither… nor', the verb agrees with the nearer subject (pupils).",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQL",
+  "topic": "Grammar",
+  "body": "The committee ___ its report yesterday.",
+  "options": [
+   "submit",
+   "submitting",
+   "submitted",
+   "submits"
+  ],
+  "answer": 2,
+  "explanation": "'Yesterday' needs the past tense.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQL",
+  "topic": "Grammar",
+  "body": "She is good ___ mathematics.",
+  "options": [
+   "on",
+   "for",
+   "at",
+   "in"
+  ],
+  "answer": 2,
+  "explanation": "We say 'good at' a subject or skill.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQL",
+  "topic": "Grammar",
+  "body": "Which sentence is correct?",
+  "options": [
+   "The pupils' books are on the table.",
+   "The pupils books are on the table.",
+   "The pupil's books is on the table.",
+   "The pupils book's are on the table."
+  ],
+  "answer": 0,
+  "explanation": "Plural possessive: pupils'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQL",
+  "topic": "Grammar",
+  "body": "What is the plural of 'child'?",
+  "options": [
+   "children",
+   "child's",
+   "childs",
+   "childrens"
+  ],
+  "answer": 0,
+  "explanation": "An irregular plural.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQL",
+  "topic": "Grammar",
+  "body": "Change to the passive: 'The teacher marked the scripts.'",
+  "options": [
+   "The scripts were marked by the teacher.",
+   "The scripts was marked by the teacher.",
+   "The teacher was marked by the scripts.",
+   "The scripts are marking the teacher."
+  ],
+  "answer": 0,
+  "explanation": "Plural subject 'scripts' takes 'were'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQL",
+  "topic": "Grammar",
+  "body": "The new policy will ___ every school.",
+  "options": [
+   "affects",
+   "effect",
+   "affect",
+   "effected"
+  ],
+  "answer": 2,
+  "explanation": "'Affect' is usually the verb; 'effect' is usually the noun.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQL",
+  "topic": "Vocabulary",
+  "body": "Which word is closest in meaning to 'diligent'?",
+  "options": [
+   "careless",
+   "noisy",
+   "lazy",
+   "hard-working"
+  ],
+  "answer": 3,
+  "explanation": "Diligent means careful and hard-working.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQL",
+  "topic": "Vocabulary",
+  "body": "Which word is the opposite of 'scarce'?",
+  "options": [
+   "rare",
+   "plentiful",
+   "limited",
+   "few"
+  ],
+  "answer": 1,
+  "explanation": "Scarce means in short supply.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQL",
+  "topic": "Vocabulary",
+  "body": "'To burn the midnight oil' means",
+  "options": [
+   "to start a fire indoors",
+   "to sleep early every night",
+   "to waste fuel and money",
+   "to work late into the night"
+  ],
+  "answer": 3,
+  "explanation": "Often used for studying late.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQL",
+  "topic": "Vocabulary",
+  "body": "Which word is spelt correctly?",
+  "options": [
+   "neccessary",
+   "necessary",
+   "neccesary",
+   "necesary"
+  ],
+  "answer": 1,
+  "explanation": "One c, double s.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQL",
+  "topic": "Writing",
+  "body": "A topic sentence",
+  "options": [
+   "lists all of the references",
+   "repeats the essay's title",
+   "states a paragraph's main idea",
+   "ends every essay you write"
+  ],
+  "answer": 2,
+  "explanation": "It usually comes first in the paragraph.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQL",
+  "topic": "Writing",
+  "body": "A good summary should",
+  "options": [
+   "keep the main points, briefly",
+   "copy out the whole passage",
+   "add your own new opinions",
+   "list every single example"
+  ],
+  "answer": 0,
+  "explanation": "Leave out examples and repetition.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQL",
+  "topic": "Writing",
+  "body": "Which sentence is punctuated correctly?",
+  "options": [
+   "Its raining, so bring your umbrella.",
+   "It's raining, so bring your umbrella.",
+   "It's raining, so bring you're umbrella.",
+   "Its raining, so bring you're umbrella."
+  ],
+  "answer": 1,
+  "explanation": "It's = it is; your = belonging to you.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQL",
+  "topic": "Professional communication",
+  "body": "A formal letter that begins 'Dear Sir' should end with",
+  "options": [
+   "Yours faithfully",
+   "Yours sincerely",
+   "Best wishes",
+   "Your friend"
+  ],
+  "answer": 0,
+  "explanation": "Use 'Yours sincerely' when you name the person, e.g. 'Dear Mrs Bello'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQL",
+  "topic": "Professional communication",
+  "body": "When telling parents about a pupil's progress, you should give",
+  "options": [
+   "clear, respectful, specific feedback",
+   "only criticism of the pupil",
+   "jargon parents can't follow",
+   "vague comments in a hurry"
+  ],
+  "answer": 0,
+  "explanation": "Say what's going well and the next step.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQL",
+  "topic": "Professional communication",
+  "body": "Which is the best report card comment?",
+  "options": [
+   "Tunde must simply try much harder.",
+   "Tunde reads well but must practise spelling.",
+   "Tunde is fine, I suppose, most days.",
+   "Tunde is a bad pupil and always fails."
+  ],
+  "answer": 1,
+  "explanation": "Specific, balanced and actionable.",
+  "difficulty": 2
+ }
+]

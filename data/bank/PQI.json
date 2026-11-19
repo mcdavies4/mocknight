@@ -1,0 +1,436 @@
+[
+ {
+  "subject": "PQI",
+  "topic": "Basics",
+  "body": "Which device shows a lesson on a large screen for the whole class?",
+  "options": [
+   "a modem",
+   "a scanner",
+   "a router",
+   "a projector"
+  ],
+  "answer": 3,
+  "explanation": "Projectors and smart boards display content to a class.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Basics",
+  "body": "Which of these is an input device?",
+  "options": [
+   "a monitor",
+   "a keyboard",
+   "a speaker",
+   "a printer"
+  ],
+  "answer": 1,
+  "explanation": "Input devices send data into the computer.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Basics",
+  "body": "Which program is mainly used to make slide presentations?",
+  "options": [
+   "PowerPoint",
+   "Access",
+   "Notepad",
+   "Excel"
+  ],
+  "answer": 0,
+  "explanation": "Google Slides is a free alternative.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Basics",
+  "body": "Which formula averages the scores in cells B2 to B30?",
+  "options": [
+   "=MAX(B2:B30)",
+   "=AVERAGE(B2:B30)",
+   "=SUM(B2:B30)",
+   "=COUNT(B2:B30)"
+  ],
+  "answer": 1,
+  "explanation": "Useful for working out class averages.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Basics",
+  "body": "What is the keyboard shortcut to copy?",
+  "options": [
+   "Ctrl + C",
+   "Ctrl + Z",
+   "Ctrl + V",
+   "Ctrl + X"
+  ],
+  "answer": 0,
+  "explanation": "Ctrl + V pastes; Ctrl + X cuts; Ctrl + Z undoes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Basics",
+  "body": "A file ending in .pdf is",
+  "options": [
+   "an audio format",
+   "a spreadsheet only",
+   "a document format",
+   "a video format"
+  ],
+  "answer": 2,
+  "explanation": "PDFs look the same on any device.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Basics",
+  "body": "Cloud storage lets you",
+  "options": [
+   "print without a printer",
+   "stop all computer viruses",
+   "speed up old laptops",
+   "access files from any device"
+  ],
+  "answer": 3,
+  "explanation": "For example Google Drive or OneDrive.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Basics",
+  "body": "Good backup practice is to keep copies",
+  "options": [
+   "nowhere, to save space",
+   "in more than one place",
+   "only on one flash drive",
+   "only on the desktop"
+  ],
+  "answer": 1,
+  "explanation": "If one copy is lost, another survives.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Online safety",
+  "body": "Which is the strongest password?",
+  "options": [
+   "password123",
+   "Tr@in3r#2026!",
+   "teacher",
+   "12345678"
+  ],
+  "answer": 1,
+  "explanation": "Mix upper and lower case, numbers and symbols.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Online safety",
+  "body": "Phishing is",
+  "options": [
+   "a type of timetable software",
+   "a scam message to steal your details",
+   "a method of fishing with a computer",
+   "a fast way to share large files"
+  ],
+  "answer": 1,
+  "explanation": "Check the sender and never click suspicious links.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Online safety",
+  "body": "Two-factor authentication adds",
+  "options": [
+   "a faster internet speed",
+   "a second email address",
+   "a bigger screen to work on",
+   "a second check, such as a code"
+  ],
+  "answer": 3,
+  "explanation": "Even a stolen password isn't enough to get in.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Online safety",
+  "body": "A web address starting with https:// means",
+  "options": [
+   "the page is free to use",
+   "the connection is encrypted",
+   "the site is government-owned",
+   "the site has no adverts"
+  ],
+  "answer": 1,
+  "explanation": "It doesn't prove the site is honest, only that traffic is encrypted.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Online safety",
+  "body": "Your digital footprint is",
+  "options": [
+   "the trail of data you leave online",
+   "a USB drive's storage size",
+   "your computer's serial number",
+   "a footprint scanned by a phone"
+  ],
+  "answer": 0,
+  "explanation": "Posts, photos and searches can stay online for years.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Data protection",
+  "body": "Before posting pupils' photos online, a school should",
+  "options": [
+   "get consent and follow privacy rules",
+   "only blur the background first",
+   "post them anywhere, they're public",
+   "share them in any WhatsApp group"
+  ],
+  "answer": 0,
+  "explanation": "Photos of children are personal data.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Data protection",
+  "body": "Which law governs how schools collect and use personal data in Nigeria?",
+  "options": [
+   "Copyright Act 2022",
+   "Evidence Act 2011",
+   "NDPA 2023",
+   "Labour Act 2004"
+  ],
+  "answer": 2,
+  "explanation": "The Nigeria Data Protection Act 2023 builds on the earlier NDPR.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Data protection",
+  "body": "Pupils' records should be",
+  "options": [
+   "left on the staffroom table",
+   "shared on the school's social media",
+   "stored securely, with limited access",
+   "emailed to all parents each term"
+  ],
+  "answer": 2,
+  "explanation": "Only people who need them should see them.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Digital teaching",
+  "body": "A learning management system (LMS) is used to",
+  "options": [
+   "print exam question papers only",
+   "deliver lessons and track learning online",
+   "repair broken computers and phones",
+   "design new school buildings and fences"
+  ],
+  "answer": 1,
+  "explanation": "The strategy plans LMS use in 30,000 secondary schools.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Digital teaching",
+  "body": "Blended learning means",
+  "options": [
+   "learning that happens only online",
+   "mixing face-to-face and online learning",
+   "lessons with no teacher present",
+   "teaching in two languages at once"
+  ],
+  "answer": 1,
+  "explanation": "It combines the strengths of both.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Digital teaching",
+  "body": "In a flipped classroom, learners",
+  "options": [
+   "study at home, then practise in class",
+   "never do any homework at all",
+   "teach the lesson instead of you",
+   "sit facing the back of the room"
+  ],
+  "answer": 0,
+  "explanation": "Class time is used for practice and discussion.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Digital teaching",
+  "body": "Offline-first teaching tools are useful because",
+  "options": [
+   "they only run on laptops",
+   "they still work without internet",
+   "they need fast broadband",
+   "they use more mobile data"
+  ],
+  "answer": 1,
+  "explanation": "Important where connectivity is poor.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Digital teaching",
+  "body": "Which is the safest way to use images in a lesson?",
+  "options": [
+   "use it if it looks old",
+   "use openly licensed images",
+   "copy any image from Google",
+   "remove the creator's name"
+  ],
+  "answer": 1,
+  "explanation": "Creative Commons and public-domain images are free to reuse.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Digital teaching",
+  "body": "A good use of assessment data is",
+  "options": [
+   "ranking pupils publicly",
+   "replacing lessons with tests",
+   "spotting topics many pupils got wrong",
+   "sharing scores on social media"
+  ],
+  "answer": 2,
+  "explanation": "Use it to decide what to reteach.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Inclusion",
+  "body": "Which is an example of assistive technology?",
+  "options": [
+   "a new staff room with fans",
+   "a faster Wi-Fi router for staff",
+   "a screen reader for a blind learner",
+   "a bigger bus for school trips"
+  ],
+  "answer": 2,
+  "explanation": "Assistive tech helps learners with disabilities take part.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "Inclusion",
+  "body": "Universal Design for Learning (UDL) aims to",
+  "options": [
+   "make lessons accessible to everyone",
+   "standardise school uniforms",
+   "replace teachers with robots",
+   "serve only the most gifted pupils"
+  ],
+  "answer": 0,
+  "explanation": "Offer several ways to learn, engage and show understanding.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "AI",
+  "body": "AI chatbots can",
+  "options": [
+   "only answer maths questions",
+   "replace teachers completely",
+   "never be wrong about facts",
+   "make mistakes, so check their answers"
+  ],
+  "answer": 3,
+  "explanation": "Always verify AI output before using it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "AI",
+  "body": "Responsible use of AI in class means",
+  "options": [
+   "letting AI mark everything unchecked",
+   "banning all technology forever",
+   "checking outputs and protecting data",
+   "pasting pupils' records into any app"
+  ],
+  "answer": 2,
+  "explanation": "Keep a human in charge and protect pupils' data.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "EdTech strategy",
+  "body": "Nigeria's National EdTech Strategy covers",
+  "options": [
+   "2026 to 2030",
+   "2024 to 2028",
+   "2020 to 2025",
+   "2030 to 2035"
+  ],
+  "answer": 0,
+  "explanation": "Launched by the Federal Ministry of Education.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "EdTech strategy",
+  "body": "In the National EdTech Strategy, NTDCF is the national framework for",
+  "options": [
+   "school building standards",
+   "exam timetables",
+   "pupils' uniforms",
+   "teacher digital competency"
+  ],
+  "answer": 3,
+  "explanation": "It sets tiers from Foundational to Leader/Innovator.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "EdTech strategy",
+  "body": "Which body issues the Foundational (Tier 1) digital literacy certification under NTDCF?",
+  "options": [
+   "WAEC",
+   "NECO",
+   "JAMB",
+   "NITDA"
+  ],
+  "answer": 3,
+  "explanation": "Higher tiers involve NTI and TRCN.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "EdTech strategy",
+  "body": "The top NTDCF tier (Leader/Innovator) leads to a specialist certification from",
+  "options": [
+   "NBTE",
+   "TRCN",
+   "NUC",
+   "NITDA"
+  ],
+  "answer": 1,
+  "explanation": "TRCN handles teacher licensing and professional standards.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQI",
+  "topic": "EdTech strategy",
+  "body": "The strategy's national education data exchange is called",
+  "options": [
+   "NIMC",
+   "NEMIS",
+   "NTDCF",
+   "NEDI"
+  ],
+  "answer": 3,
+  "explanation": "NEDI links federal and state education data through shared APIs.",
+  "difficulty": 2
+ }
+]

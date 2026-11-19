@@ -1,0 +1,282 @@
+[
+ {
+  "subject": "PQP",
+  "topic": "Lesson planning",
+  "body": "The part of a lesson plan that states what learners will be able to do is the",
+  "options": [
+   "instructional materials",
+   "previous knowledge",
+   "evaluation section",
+   "behavioural objectives"
+  ],
+  "answer": 3,
+  "explanation": "Good objectives are specific and measurable, e.g. 'list three causes of erosion'.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQP",
+  "topic": "Lesson planning",
+  "body": "Set induction is",
+  "options": [
+   "the summary at the very end",
+   "the layout of the chalkboard",
+   "an introduction that captures interest",
+   "the homework set for the lesson"
+  ],
+  "answer": 2,
+  "explanation": "It links the lesson to what learners already know.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQP",
+  "topic": "Methods",
+  "body": "Learners find out principles for themselves by investigating in the",
+  "options": [
+   "recitation method",
+   "lecture method",
+   "drill method",
+   "discovery method"
+  ],
+  "answer": 3,
+  "explanation": "The teacher guides; learners explore.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQP",
+  "topic": "Methods",
+  "body": "Which is the most learner-centred approach?",
+  "options": [
+   "dictating notes",
+   "the lecture method",
+   "rote copying",
+   "group work and projects"
+  ],
+  "answer": 3,
+  "explanation": "Learners are active, not passive listeners.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQP",
+  "topic": "Methods",
+  "body": "Differentiated instruction means",
+  "options": [
+   "seating boys and girls in separate rows",
+   "giving the weakest pupils extra homework",
+   "teaching every pupil exactly the same way",
+   "teaching adapted to each learner's needs"
+  ],
+  "answer": 3,
+  "explanation": "Vary content, process or product to suit learners.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQP",
+  "topic": "Methods",
+  "body": "Microteaching is",
+  "options": [
+   "a full-day lesson with no break",
+   "teaching only nursery school children",
+   "a short practice lesson with feedback",
+   "a science lesson that uses microscopes"
+  ],
+  "answer": 2,
+  "explanation": "Common in teacher training to build one skill at a time.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQP",
+  "topic": "Methods",
+  "body": "Scaffolding means",
+  "options": [
+   "building the school's classrooms",
+   "support reduced as learners improve",
+   "permanent help for every task",
+   "punishing pupils who fail"
+  ],
+  "answer": 1,
+  "explanation": "The idea comes from Vygotsky's zone of proximal development.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQP",
+  "topic": "Questioning",
+  "body": "'Wait time' in questioning means",
+  "options": [
+   "answering your own question",
+   "repeating the question loudly",
+   "pausing after asking a question",
+   "asking only one pupil"
+  ],
+  "answer": 2,
+  "explanation": "A few seconds' pause gets more and better answers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQP",
+  "topic": "Materials",
+  "body": "Materials that learners can both see and hear are",
+  "options": [
+   "audio-visual materials",
+   "audio materials only",
+   "tactile materials",
+   "visual materials only"
+  ],
+  "answer": 0,
+  "explanation": "For example, a video or a narrated slideshow.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQP",
+  "topic": "Assessment",
+  "body": "Continuous assessment combines",
+  "options": [
+   "the head teacher's opinion",
+   "attendance records alone",
+   "ongoing tests, tasks and projects",
+   "only the end-of-term exam"
+  ],
+  "answer": 2,
+  "explanation": "It gives a fuller picture than one final exam.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQP",
+  "topic": "Behaviour",
+  "body": "Praising a pupil to encourage good behaviour is",
+  "options": [
+   "extinction",
+   "positive reinforcement",
+   "negative reinforcement",
+   "punishment"
+  ],
+  "answer": 1,
+  "explanation": "Adding something pleasant makes the behaviour more likely.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQP",
+  "topic": "Behaviour",
+  "body": "The best first response to minor misbehaviour is usually",
+  "options": [
+   "shouting at the pupil",
+   "a quiet, non-verbal cue",
+   "stopping the whole lesson",
+   "sending the pupil home"
+  ],
+  "answer": 1,
+  "explanation": "Eye contact or moving closer often works without disrupting the class.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQP",
+  "topic": "Theorists",
+  "body": "Who proposed the hierarchy of needs?",
+  "options": [
+   "Jean Piaget",
+   "Abraham Maslow",
+   "B. F. Skinner",
+   "John Dewey"
+  ],
+  "answer": 1,
+  "explanation": "Basic needs come before learning and growth.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQP",
+  "topic": "Theorists",
+  "body": "'Learning by doing' is most linked with",
+  "options": [
+   "Abraham Maslow",
+   "Sigmund Freud",
+   "Ivan Pavlov",
+   "John Dewey"
+  ],
+  "answer": 3,
+  "explanation": "Dewey championed experiential, practical learning.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQP",
+  "topic": "Theorists",
+  "body": "Classical conditioning was first demonstrated by",
+  "options": [
+   "Howard Gardner",
+   "B. F. Skinner",
+   "Lev Vygotsky",
+   "Ivan Pavlov"
+  ],
+  "answer": 3,
+  "explanation": "His dogs learned to salivate at a bell.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQP",
+  "topic": "Theorists",
+  "body": "Piaget's preoperational stage covers roughly",
+  "options": [
+   "birth to age 2",
+   "ages 2 to 7",
+   "ages 7 to 11",
+   "age 11 and above"
+  ],
+  "answer": 1,
+  "explanation": "Children use symbols and language but struggle with logic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQP",
+  "topic": "Policy",
+  "body": "Under Nigeria's Universal Basic Education, basic education lasts",
+  "options": [
+   "12 years",
+   "9 years",
+   "6 years",
+   "3 years"
+  ],
+  "answer": 1,
+  "explanation": "Six years of primary plus three years of junior secondary.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQP",
+  "topic": "Policy",
+  "body": "The structure in the National Policy on Education is",
+  "options": [
+   "2-6-3-4-4",
+   "1-6-3-3-4",
+   "6-5-2-3",
+   "7-5-2-3"
+  ],
+  "answer": 1,
+  "explanation": "One year pre-primary, 6 primary, 3 JSS, 3 SSS, 4 tertiary.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQP",
+  "topic": "Policy",
+  "body": "In the early primary years, the policy says teaching should be in",
+  "options": [
+   "French, as a neutral language",
+   "the local language of the area",
+   "English only, from the first day",
+   "Arabic, in all states"
+  ],
+  "answer": 1,
+  "explanation": "The language of the immediate environment, with English taught as a subject.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQP",
+  "topic": "Learning theory",
+  "body": "In the revised Bloom's taxonomy, the lowest level is",
+  "options": [
+   "evaluating",
+   "analysing",
+   "remembering",
+   "creating"
+  ],
+  "answer": 2,
+  "explanation": "Remember, understand, apply, analyse, evaluate, create.",
+  "difficulty": 2
+ }
+]

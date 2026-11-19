@@ -65,6 +65,8 @@ export const PATHS: Record<TrackCode, string> = {
   AWSSAA: "/exam/AWSSAA",
   AICERT: "/exam/AICERT",
   SFADMIN: "/exam/SFADMIN",
+  TRCN: "/exam/TRCN",
+  TEACHDIG: "/exam/TEACHDIG",
   HSK: "/exam/HSK",
   CSCA: "/exam/CSCA",
   JLPT: "/exam/JLPT",

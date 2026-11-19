@@ -1,0 +1,282 @@
+[
+ {
+  "subject": "PQS",
+  "topic": "Principles",
+  "body": "Safeguarding means",
+  "options": [
+   "protecting children from harm and abuse",
+   "guarding the school gate at night",
+   "teaching only the safest subjects",
+   "saving money in the school account"
+  ],
+  "answer": 0,
+  "explanation": "It's every staff member's responsibility.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQS",
+  "topic": "Law",
+  "body": "Which Nigerian law sets out children's rights?",
+  "options": [
+   "the Evidence Act 2011",
+   "the Child's Rights Act 2003",
+   "the Electoral Act 2022",
+   "the Labour Act 2004"
+  ],
+  "answer": 1,
+  "explanation": "States domesticate it through their own child rights laws.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQS",
+  "topic": "Law",
+  "body": "Under the Child's Rights Act, a child is a person under",
+  "options": [
+   "16",
+   "21",
+   "18",
+   "15"
+  ],
+  "answer": 2,
+  "explanation": "This matches the UN Convention on the Rights of the Child.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQS",
+  "topic": "Disclosure",
+  "body": "A pupil tells you they're being abused. What should you do first?",
+  "options": [
+   "listen calmly, then report it",
+   "ask leading questions",
+   "promise to keep it secret",
+   "confront the alleged abuser"
+  ],
+  "answer": 0,
+  "explanation": "Report to the school's safeguarding lead straight away.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQS",
+  "topic": "Disclosure",
+  "body": "You should never promise a child",
+  "options": [
+   "to keep a disclosure secret",
+   "to get them help",
+   "to listen carefully",
+   "to take them seriously"
+  ],
+  "answer": 0,
+  "explanation": "You may have to share it to keep them safe.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQS",
+  "topic": "Disclosure",
+  "body": "Notes about a safeguarding concern should be",
+  "options": [
+   "opinions about the family",
+   "shared with all staff",
+   "factual, dated and signed",
+   "kept only in your head"
+  ],
+  "answer": 2,
+  "explanation": "Write what you saw and heard, in the child's words.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQS",
+  "topic": "Signs",
+  "body": "Possible signs of abuse include",
+  "options": [
+   "unexplained injuries and withdrawal",
+   "playing happily with friends",
+   "always wearing a clean uniform",
+   "good marks in class tests"
+  ],
+  "answer": 0,
+  "explanation": "Changes in behaviour can be a warning sign.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQS",
+  "topic": "Signs",
+  "body": "Learners with disabilities are",
+  "options": [
+   "not the school's responsibility",
+   "at higher risk and need extra care",
+   "safe once inside school",
+   "never at risk of abuse"
+  ],
+  "answer": 1,
+  "explanation": "They may find it harder to tell someone.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQS",
+  "topic": "Discipline",
+  "body": "Good practice for discipline is",
+  "options": [
+   "positive discipline with clear rules",
+   "beating until the pupil cries",
+   "denying the pupil food or water",
+   "public humiliation in assembly"
+  ],
+  "answer": 0,
+  "explanation": "Teach and reward the behaviour you want.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQS",
+  "topic": "Bullying",
+  "body": "Bullying is",
+  "options": [
+   "a single friendly joke between pals",
+   "normal rough play at break time",
+   "repeated, deliberate hurtful behaviour",
+   "one argument between equals"
+  ],
+  "answer": 2,
+  "explanation": "It can be physical, verbal, social or online.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQS",
+  "topic": "Online safety",
+  "body": "A stranger online asks a pupil for photos. The pupil should",
+  "options": [
+   "send a photo but hide their face",
+   "reply politely to find out more",
+   "delete it and tell nobody at all",
+   "tell a trusted adult; don't reply"
+  ],
+  "answer": 3,
+  "explanation": "This may be grooming and must be reported.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQS",
+  "topic": "Online safety",
+  "body": "If a pupil is cyberbullied, they should",
+  "options": [
+   "delete the messages at once",
+   "post it to the class group",
+   "reply with insults",
+   "save screenshots and report it"
+  ],
+  "answer": 3,
+  "explanation": "Evidence helps the school act.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQS",
+  "topic": "Boundaries",
+  "body": "Appropriate contact between staff and pupils is",
+  "options": [
+   "sharing personal social media",
+   "giving pupils lifts alone",
+   "private chats late at night",
+   "through official school channels"
+  ],
+  "answer": 3,
+  "explanation": "Clear boundaries protect pupils and staff.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQS",
+  "topic": "Recruitment",
+  "body": "Safe recruitment means schools should",
+  "options": [
+   "skip interviews to save time",
+   "accept any certificate copy",
+   "hire friends without checks",
+   "check references and backgrounds"
+  ],
+  "answer": 3,
+  "explanation": "It keeps unsuitable people away from children.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQS",
+  "topic": "Duty of care",
+  "body": "Duty of care means teachers must",
+  "options": [
+   "teach only in the morning",
+   "mark every book daily",
+   "agree with every parent",
+   "keep pupils reasonably safe"
+  ],
+  "answer": 3,
+  "explanation": "Take reasonable steps to prevent foreseeable harm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQS",
+  "topic": "Health and safety",
+  "body": "The purpose of a fire drill is to",
+  "options": [
+   "count the chairs",
+   "end lessons early",
+   "practise safe evacuation",
+   "test the fire alarm only"
+  ],
+  "answer": 2,
+  "explanation": "Everyone should know the route and assembly point.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQS",
+  "topic": "Health and safety",
+  "body": "First aid for a nosebleed is to",
+  "options": [
+   "blow the nose very hard",
+   "lie flat on the back",
+   "lean forward, pinch the nose",
+   "tilt the head right back"
+  ],
+  "answer": 2,
+  "explanation": "Pinch the soft part for about 10 minutes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQS",
+  "topic": "Health and safety",
+  "body": "A pupil has an allergic reaction and struggles to breathe. You should",
+  "options": [
+   "wait to see if it passes",
+   "call emergency help immediately",
+   "give them water and leave",
+   "send them home alone"
+  ],
+  "answer": 1,
+  "explanation": "Use their adrenaline auto-injector if they have one and you're trained.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQS",
+  "topic": "Environment",
+  "body": "A safe school environment includes",
+  "options": [
+   "safe buildings and supervision",
+   "a large, air-conditioned staff room",
+   "new textbooks and nothing else",
+   "expensive new uniforms"
+  ],
+  "answer": 0,
+  "explanation": "Also clean water, toilets and safe play areas.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQS",
+  "topic": "Data",
+  "body": "Pupils' personal information should be",
+  "options": [
+   "given to any caller who asks",
+   "shared only with those who need it",
+   "posted on the notice board",
+   "used in public adverts"
+  ],
+  "answer": 1,
+  "explanation": "Protecting data is part of safeguarding.",
+  "difficulty": 2
+ }
+]

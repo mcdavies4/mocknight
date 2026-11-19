@@ -128,6 +128,8 @@ export const PLANS: Record<string, Plan> = {
   aplus_pass: { code: "aplus_pass", label: "CompTIA A+ Premium — 90 days", amount: 14_99, currency: "USD", days: 90, provider: "stripe", stars: 750 },
   ccna_pass: { code: "ccna_pass", label: "CCNA Premium — 90 days", amount: 14_99, currency: "USD", days: 90, provider: "stripe", stars: 750 },
   jupeb_pass: { code: "jupeb_pass", label: "JUPEB Premium — till exam (180 days)", amount: 3_99, currency: "USD", days: 180, provider: "stripe", stars: 150 },
+  trcn_pass: { code: "trcn_pass", label: "TRCN PQE Premium — 90 days", amount: 2_99, currency: "USD", days: 90, provider: "stripe", stars: 150 },
+  teachdig_pass: { code: "teachdig_pass", label: "Teacher digital skills Premium — 60 days", amount: 1_99, currency: "USD", days: 60, provider: "stripe", stars: 100 },
   nmcn_pass: { code: "nmcn_pass", label: "NMCN Premium — 90 days", amount: 5_99, currency: "USD", days: 90, provider: "stripe", stars: 250 },
   usmle_pass: { code: "usmle_pass", label: "USMLE Step 1 Premium — 90 days", amount: 29_99, currency: "USD", days: 90, provider: "stripe", stars: 1500 },
   gulfph_pass: { code: "gulfph_pass", label: "Gulf Pharmacist Premium — 90 days", amount: 19_99, currency: "USD", days: 90, provider: "stripe", stars: 1000 },

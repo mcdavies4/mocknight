@@ -1,0 +1,143 @@
+// Nigerian teacher tracks, shaped by the National EdTech Strategy (2026–2030) and TRCN's PQE outline.
+// TRCN PQE: 60 questions, 60 minutes, CBT; Pedagogy, Literacy, Numeracy, ICT and Safeguarding at 20% each.
+// PQI (ICT & digital teaching) also powers the Teacher Digital Skills (NTDCF Tiers 1–2) track.
+import { mcq, Q } from "./lib";
+
+type F = [string, string, string, string[], string];
+const facts = (code: string, list: F[], d: 1 | 2 | 3 = 2) => list.map(([t, b, c, x, e]) => mcq(code, t, b, c, x, e, d));
+
+const PQP: F[] = [
+  ["Lesson planning", "The part of a lesson plan that states what learners will be able to do is the", "behavioural objectives", ["previous knowledge", "instructional materials", "evaluation section"], "Good objectives are specific and measurable, e.g. 'list three causes of erosion'."],
+  ["Lesson planning", "Set induction is", "an introduction that captures interest", ["the summary at the very end", "the homework set for the lesson", "the layout of the chalkboard"], "It links the lesson to what learners already know."],
+  ["Methods", "Learners find out principles for themselves by investigating in the", "discovery method", ["lecture method", "drill method", "recitation method"], "The teacher guides; learners explore."],
+  ["Methods", "Which is the most learner-centred approach?", "group work and projects", ["the lecture method", "dictating notes", "rote copying"], "Learners are active, not passive listeners."],
+  ["Methods", "Differentiated instruction means", "teaching adapted to each learner's needs", ["teaching every pupil exactly the same way", "seating boys and girls in separate rows", "giving the weakest pupils extra homework"], "Vary content, process or product to suit learners."],
+  ["Methods", "Microteaching is", "a short practice lesson with feedback", ["a science lesson that uses microscopes", "teaching only nursery school children", "a full-day lesson with no break"], "Common in teacher training to build one skill at a time."],
+  ["Methods", "Scaffolding means", "support reduced as learners improve", ["building the school's classrooms", "permanent help for every task", "punishing pupils who fail"], "The idea comes from Vygotsky's zone of proximal development."],
+  ["Questioning", "'Wait time' in questioning means", "pausing after asking a question", ["answering your own question", "asking only one pupil", "repeating the question loudly"], "A few seconds' pause gets more and better answers."],
+  ["Materials", "Materials that learners can both see and hear are", "audio-visual materials", ["visual materials only", "audio materials only", "tactile materials"], "For example, a video or a narrated slideshow."],
+  ["Assessment", "Continuous assessment combines", "ongoing tests, tasks and projects", ["only the end-of-term exam", "attendance records alone", "the head teacher's opinion"], "It gives a fuller picture than one final exam."],
+  ["Behaviour", "Praising a pupil to encourage good behaviour is", "positive reinforcement", ["negative reinforcement", "punishment", "extinction"], "Adding something pleasant makes the behaviour more likely."],
+  ["Behaviour", "The best first response to minor misbehaviour is usually", "a quiet, non-verbal cue", ["shouting at the pupil", "sending the pupil home", "stopping the whole lesson"], "Eye contact or moving closer often works without disrupting the class."],
+  ["Theorists", "Who proposed the hierarchy of needs?", "Abraham Maslow", ["Jean Piaget", "B. F. Skinner", "John Dewey"], "Basic needs come before learning and growth."],
+  ["Theorists", "'Learning by doing' is most linked with", "John Dewey", ["Ivan Pavlov", "Sigmund Freud", "Abraham Maslow"], "Dewey championed experiential, practical learning."],
+  ["Theorists", "Classical conditioning was first demonstrated by", "Ivan Pavlov", ["B. F. Skinner", "Lev Vygotsky", "Howard Gardner"], "His dogs learned to salivate at a bell."],
+  ["Theorists", "Piaget's preoperational stage covers roughly", "ages 2 to 7", ["birth to age 2", "ages 7 to 11", "age 11 and above"], "Children use symbols and language but struggle with logic."],
+  ["Policy", "Under Nigeria's Universal Basic Education, basic education lasts", "9 years", ["6 years", "12 years", "3 years"], "Six years of primary plus three years of junior secondary."],
+  ["Policy", "The structure in the National Policy on Education is", "1-6-3-3-4", ["6-5-2-3", "7-5-2-3", "2-6-3-4-4"], "One year pre-primary, 6 primary, 3 JSS, 3 SSS, 4 tertiary."],
+  ["Policy", "In the early primary years, the policy says teaching should be in", "the local language of the area", ["English only, from the first day", "French, as a neutral language", "Arabic, in all states"], "The language of the immediate environment, with English taught as a subject."],
+  ["Learning theory", "In the revised Bloom's taxonomy, the lowest level is", "remembering", ["creating", "evaluating", "analysing"], "Remember, understand, apply, analyse, evaluate, create."],
+];
+
+const PQL: F[] = [
+  ["Reading comprehension", "'Amina arrived early, set up the projector and arranged the desks before the pupils came in.' What does this suggest about Amina?", "she is well prepared", ["she is often late", "she dislikes teaching", "she forgot her lesson"], "Arriving early and setting up shows preparation."],
+  ["Reading comprehension", "'Although the rain was heavy, attendance was high because the school bus ran on time.' Why was attendance high?", "the school bus ran on time", ["the rain was light", "pupils walked to school", "lessons started late"], "'Because' introduces the reason."],
+  ["Reading comprehension", "'Regular reading builds vocabulary, improves spelling and strengthens comprehension. Pupils who read daily often do better across subjects.' What is the main idea?", "daily reading helps pupils learn", ["spelling is the hardest skill", "pupils dislike reading", "vocabulary can't be taught"], "Every sentence supports the benefits of reading."],
+  ["Grammar", "Neither the teacher nor the pupils ___ ready.", "were", ["was", "is", "has"], "With 'neither… nor', the verb agrees with the nearer subject (pupils)."],
+  ["Grammar", "The committee ___ its report yesterday.", "submitted", ["submit", "submits", "submitting"], "'Yesterday' needs the past tense."],
+  ["Grammar", "She is good ___ mathematics.", "at", ["in", "on", "for"], "We say 'good at' a subject or skill."],
+  ["Grammar", "Which sentence is correct?", "The pupils' books are on the table.", ["The pupil's books is on the table.", "The pupils book's are on the table.", "The pupils books are on the table."], "Plural possessive: pupils'."],
+  ["Grammar", "What is the plural of 'child'?", "children", ["childs", "childrens", "child's"], "An irregular plural."],
+  ["Grammar", "Change to the passive: 'The teacher marked the scripts.'", "The scripts were marked by the teacher.", ["The scripts was marked by the teacher.", "The teacher was marked by the scripts.", "The scripts are marking the teacher."], "Plural subject 'scripts' takes 'were'."],
+  ["Grammar", "The new policy will ___ every school.", "affect", ["effect", "affects", "effected"], "'Affect' is usually the verb; 'effect' is usually the noun."],
+  ["Vocabulary", "Which word is closest in meaning to 'diligent'?", "hard-working", ["lazy", "careless", "noisy"], "Diligent means careful and hard-working."],
+  ["Vocabulary", "Which word is the opposite of 'scarce'?", "plentiful", ["rare", "few", "limited"], "Scarce means in short supply."],
+  ["Vocabulary", "'To burn the midnight oil' means", "to work late into the night", ["to waste fuel and money", "to start a fire indoors", "to sleep early every night"], "Often used for studying late."],
+  ["Vocabulary", "Which word is spelt correctly?", "necessary", ["neccessary", "necesary", "neccesary"], "One c, double s."],
+  ["Writing", "A topic sentence", "states a paragraph's main idea", ["ends every essay you write", "lists all of the references", "repeats the essay's title"], "It usually comes first in the paragraph."],
+  ["Writing", "A good summary should", "keep the main points, briefly", ["copy out the whole passage", "add your own new opinions", "list every single example"], "Leave out examples and repetition."],
+  ["Writing", "Which sentence is punctuated correctly?", "It's raining, so bring your umbrella.", ["Its raining, so bring you're umbrella.", "It's raining, so bring you're umbrella.", "Its raining, so bring your umbrella."], "It's = it is; your = belonging to you."],
+  ["Professional communication", "A formal letter that begins 'Dear Sir' should end with", "Yours faithfully", ["Yours sincerely", "Best wishes", "Your friend"], "Use 'Yours sincerely' when you name the person, e.g. 'Dear Mrs Bello'."],
+  ["Professional communication", "When telling parents about a pupil's progress, you should give", "clear, respectful, specific feedback", ["vague comments in a hurry", "only criticism of the pupil", "jargon parents can't follow"], "Say what's going well and the next step."],
+  ["Professional communication", "Which is the best report card comment?", "Tunde reads well but must practise spelling.", ["Tunde is a bad pupil and always fails.", "Tunde is fine, I suppose, most days.", "Tunde must simply try much harder."], "Specific, balanced and actionable."],
+];
+
+const PQN: F[] = [
+  ["Percentages", "What is 35% of 200?", "70", ["35", "65", "75"], "0.35 × 200 = 70."],
+  ["Percentages", "A pupil scored 36 out of 48. What percentage is that?", "75%", ["72%", "36%", "80%"], "36 ÷ 48 = 0.75."],
+  ["Percentages", "A ₦2,000 item rises in price by 10%. What is the new price?", "₦2,200", ["₦2,010", "₦2,100", "₦3,000"], "10% of 2,000 is 200."],
+  ["Fractions", "What is 3/4 + 1/8?", "7/8", ["4/12", "1/2", "5/8"], "3/4 = 6/8, so 6/8 + 1/8 = 7/8."],
+  ["Fractions", "Write 0.25 as a fraction.", "1/4", ["2/5", "1/25", "25/10"], "25/100 simplifies to 1/4."],
+  ["Ratio", "A class of 40 has boys and girls in the ratio 3 : 5. How many girls are there?", "25", ["15", "24", "20"], "5/8 × 40 = 25."],
+  ["Money", "₦12,000 is shared equally among 8 pupils. How much does each get?", "₦1,500", ["₦1,200", "₦1,800", "₦96,000"], "12,000 ÷ 8 = 1,500."],
+  ["Money", "What is the simple interest on ₦10,000 at 5% a year for 2 years?", "₦1,000", ["₦500", "₦2,000", "₦10,500"], "I = PRT/100 = 10,000 × 5 × 2 ÷ 100."],
+  ["Statistics", "What is the mean of 12, 15 and 18?", "15", ["14", "16", "45"], "45 ÷ 3 = 15."],
+  ["Statistics", "What is the median of 7, 3, 9, 5 and 11?", "7", ["5", "9", "35"], "In order: 3, 5, 7, 9, 11."],
+  ["Statistics", "What is the mode of 4, 6, 6, 7, 8, 6, 9?", "6", ["7", "4", "8"], "6 appears most often."],
+  ["Statistics", "What is the range of 12, 25, 7 and 30?", "23", ["18", "30", "74"], "Highest minus lowest: 30 − 7."],
+  ["Statistics", "In a pie chart of a class of 60, a slice is 90°. How many pupils does it show?", "15", ["90", "25", "30"], "90/360 × 60 = 15."],
+  ["Measurement", "What is the area of a rectangle 8 m by 5 m?", "40 m²", ["26 m²", "13 m²", "45 m²"], "Area = length × width."],
+  ["Measurement", "What is the perimeter of a square with 6 cm sides?", "24 cm", ["36 cm", "12 cm", "18 cm"], "4 × 6 = 24."],
+  ["Measurement", "How many metres are in 1.5 km?", "1,500 m", ["150 m", "15 m", "15,000 m"], "1 km = 1,000 m."],
+  ["Time", "A lesson runs from 9:45 to 10:25. How long is it?", "40 minutes", ["30 minutes", "45 minutes", "80 minutes"], "15 minutes to 10:00, then 25 more."],
+  ["Patterns", "What comes next: 2, 6, 18, 54, …?", "162", ["108", "72", "216"], "Each term is multiplied by 3."],
+  ["Order of operations", "What is 5² + 3 × 2?", "31", ["56", "16", "35"], "25 + 6 = 31."],
+  ["Algebra", "Solve 3x − 5 = 16.", "x = 7", ["x = 11/3", "x = 3", "x = 21"], "3x = 21."],
+];
+
+const PQI: F[] = [
+  ["Basics", "Which device shows a lesson on a large screen for the whole class?", "a projector", ["a scanner", "a router", "a modem"], "Projectors and smart boards display content to a class."],
+  ["Basics", "Which of these is an input device?", "a keyboard", ["a monitor", "a printer", "a speaker"], "Input devices send data into the computer."],
+  ["Basics", "Which program is mainly used to make slide presentations?", "PowerPoint", ["Excel", "Notepad", "Access"], "Google Slides is a free alternative."],
+  ["Basics", "Which formula averages the scores in cells B2 to B30?", "=AVERAGE(B2:B30)", ["=SUM(B2:B30)", "=COUNT(B2:B30)", "=MAX(B2:B30)"], "Useful for working out class averages."],
+  ["Basics", "What is the keyboard shortcut to copy?", "Ctrl + C", ["Ctrl + V", "Ctrl + X", "Ctrl + Z"], "Ctrl + V pastes; Ctrl + X cuts; Ctrl + Z undoes."],
+  ["Basics", "A file ending in .pdf is", "a document format", ["a video format", "an audio format", "a spreadsheet only"], "PDFs look the same on any device."],
+  ["Basics", "Cloud storage lets you", "access files from any device", ["speed up old laptops", "stop all computer viruses", "print without a printer"], "For example Google Drive or OneDrive."],
+  ["Basics", "Good backup practice is to keep copies", "in more than one place", ["only on one flash drive", "only on the desktop", "nowhere, to save space"], "If one copy is lost, another survives."],
+  ["Online safety", "Which is the strongest password?", "Tr@in3r#2026!", ["password123", "teacher", "12345678"], "Mix upper and lower case, numbers and symbols."],
+  ["Online safety", "Phishing is", "a scam message to steal your details", ["a fast way to share large files", "a type of timetable software", "a method of fishing with a computer"], "Check the sender and never click suspicious links."],
+  ["Online safety", "Two-factor authentication adds", "a second check, such as a code", ["a second email address", "a faster internet speed", "a bigger screen to work on"], "Even a stolen password isn't enough to get in."],
+  ["Online safety", "A web address starting with https:// means", "the connection is encrypted", ["the site is government-owned", "the site has no adverts", "the page is free to use"], "It doesn't prove the site is honest, only that traffic is encrypted."],
+  ["Online safety", "Your digital footprint is", "the trail of data you leave online", ["a footprint scanned by a phone", "your computer's serial number", "a USB drive's storage size"], "Posts, photos and searches can stay online for years."],
+  ["Data protection", "Before posting pupils' photos online, a school should", "get consent and follow privacy rules", ["post them anywhere, they're public", "only blur the background first", "share them in any WhatsApp group"], "Photos of children are personal data."],
+  ["Data protection", "Which law governs how schools collect and use personal data in Nigeria?", "NDPA 2023", ["Copyright Act 2022", "Evidence Act 2011", "Labour Act 2004"], "The Nigeria Data Protection Act 2023 builds on the earlier NDPR."],
+  ["Data protection", "Pupils' records should be", "stored securely, with limited access", ["left on the staffroom table", "shared on the school's social media", "emailed to all parents each term"], "Only people who need them should see them."],
+  ["Digital teaching", "A learning management system (LMS) is used to", "deliver lessons and track learning online", ["design new school buildings and fences", "print exam question papers only", "repair broken computers and phones"], "The strategy plans LMS use in 30,000 secondary schools."],
+  ["Digital teaching", "Blended learning means", "mixing face-to-face and online learning", ["learning that happens only online", "lessons with no teacher present", "teaching in two languages at once"], "It combines the strengths of both."],
+  ["Digital teaching", "In a flipped classroom, learners", "study at home, then practise in class", ["never do any homework at all", "teach the lesson instead of you", "sit facing the back of the room"], "Class time is used for practice and discussion."],
+  ["Digital teaching", "Offline-first teaching tools are useful because", "they still work without internet", ["they need fast broadband", "they only run on laptops", "they use more mobile data"], "Important where connectivity is poor."],
+  ["Digital teaching", "Which is the safest way to use images in a lesson?", "use openly licensed images", ["copy any image from Google", "remove the creator's name", "use it if it looks old"], "Creative Commons and public-domain images are free to reuse."],
+  ["Digital teaching", "A good use of assessment data is", "spotting topics many pupils got wrong", ["ranking pupils publicly", "sharing scores on social media", "replacing lessons with tests"], "Use it to decide what to reteach."],
+  ["Inclusion", "Which is an example of assistive technology?", "a screen reader for a blind learner", ["a faster Wi-Fi router for staff", "a bigger bus for school trips", "a new staff room with fans"], "Assistive tech helps learners with disabilities take part."],
+  ["Inclusion", "Universal Design for Learning (UDL) aims to", "make lessons accessible to everyone", ["serve only the most gifted pupils", "replace teachers with robots", "standardise school uniforms"], "Offer several ways to learn, engage and show understanding."],
+  ["AI", "AI chatbots can", "make mistakes, so check their answers", ["never be wrong about facts", "replace teachers completely", "only answer maths questions"], "Always verify AI output before using it."],
+  ["AI", "Responsible use of AI in class means", "checking outputs and protecting data", ["pasting pupils' records into any app", "letting AI mark everything unchecked", "banning all technology forever"], "Keep a human in charge and protect pupils' data."],
+  ["EdTech strategy", "Nigeria's National EdTech Strategy covers", "2026 to 2030", ["2020 to 2025", "2030 to 2035", "2024 to 2028"], "Launched by the Federal Ministry of Education."],
+  ["EdTech strategy", "In the National EdTech Strategy, NTDCF is the national framework for", "teacher digital competency", ["school building standards", "exam timetables", "pupils' uniforms"], "It sets tiers from Foundational to Leader/Innovator."],
+  ["EdTech strategy", "Which body issues the Foundational (Tier 1) digital literacy certification under NTDCF?", "NITDA", ["WAEC", "JAMB", "NECO"], "Higher tiers involve NTI and TRCN."],
+  ["EdTech strategy", "The top NTDCF tier (Leader/Innovator) leads to a specialist certification from", "TRCN", ["NITDA", "NUC", "NBTE"], "TRCN handles teacher licensing and professional standards."],
+  ["EdTech strategy", "The strategy's national education data exchange is called", "NEDI", ["NEMIS", "NIMC", "NTDCF"], "NEDI links federal and state education data through shared APIs."],
+];
+
+const PQS: F[] = [
+  ["Principles", "Safeguarding means", "protecting children from harm and abuse", ["teaching only the safest subjects", "guarding the school gate at night", "saving money in the school account"], "It's every staff member's responsibility."],
+  ["Law", "Which Nigerian law sets out children's rights?", "the Child's Rights Act 2003", ["the Labour Act 2004", "the Evidence Act 2011", "the Electoral Act 2022"], "States domesticate it through their own child rights laws."],
+  ["Law", "Under the Child's Rights Act, a child is a person under", "18", ["16", "15", "21"], "This matches the UN Convention on the Rights of the Child."],
+  ["Disclosure", "A pupil tells you they're being abused. What should you do first?", "listen calmly, then report it", ["promise to keep it secret", "confront the alleged abuser", "ask leading questions"], "Report to the school's safeguarding lead straight away."],
+  ["Disclosure", "You should never promise a child", "to keep a disclosure secret", ["to listen carefully", "to take them seriously", "to get them help"], "You may have to share it to keep them safe."],
+  ["Disclosure", "Notes about a safeguarding concern should be", "factual, dated and signed", ["opinions about the family", "shared with all staff", "kept only in your head"], "Write what you saw and heard, in the child's words."],
+  ["Signs", "Possible signs of abuse include", "unexplained injuries and withdrawal", ["good marks in class tests", "always wearing a clean uniform", "playing happily with friends"], "Changes in behaviour can be a warning sign."],
+  ["Signs", "Learners with disabilities are", "at higher risk and need extra care", ["never at risk of abuse", "not the school's responsibility", "safe once inside school"], "They may find it harder to tell someone."],
+  ["Discipline", "Good practice for discipline is", "positive discipline with clear rules", ["public humiliation in assembly", "denying the pupil food or water", "beating until the pupil cries"], "Teach and reward the behaviour you want."],
+  ["Bullying", "Bullying is", "repeated, deliberate hurtful behaviour", ["a single friendly joke between pals", "one argument between equals", "normal rough play at break time"], "It can be physical, verbal, social or online."],
+  ["Online safety", "A stranger online asks a pupil for photos. The pupil should", "tell a trusted adult; don't reply", ["reply politely to find out more", "send a photo but hide their face", "delete it and tell nobody at all"], "This may be grooming and must be reported."],
+  ["Online safety", "If a pupil is cyberbullied, they should", "save screenshots and report it", ["delete the messages at once", "reply with insults", "post it to the class group"], "Evidence helps the school act."],
+  ["Boundaries", "Appropriate contact between staff and pupils is", "through official school channels", ["private chats late at night", "giving pupils lifts alone", "sharing personal social media"], "Clear boundaries protect pupils and staff."],
+  ["Recruitment", "Safe recruitment means schools should", "check references and backgrounds", ["hire friends without checks", "skip interviews to save time", "accept any certificate copy"], "It keeps unsuitable people away from children."],
+  ["Duty of care", "Duty of care means teachers must", "keep pupils reasonably safe", ["teach only in the morning", "mark every book daily", "agree with every parent"], "Take reasonable steps to prevent foreseeable harm."],
+  ["Health and safety", "The purpose of a fire drill is to", "practise safe evacuation", ["test the fire alarm only", "end lessons early", "count the chairs"], "Everyone should know the route and assembly point."],
+  ["Health and safety", "First aid for a nosebleed is to", "lean forward, pinch the nose", ["tilt the head right back", "lie flat on the back", "blow the nose very hard"], "Pinch the soft part for about 10 minutes."],
+  ["Health and safety", "A pupil has an allergic reaction and struggles to breathe. You should", "call emergency help immediately", ["wait to see if it passes", "give them water and leave", "send them home alone"], "Use their adrenaline auto-injector if they have one and you're trained."],
+  ["Environment", "A safe school environment includes", "safe buildings and supervision", ["expensive new uniforms", "new textbooks and nothing else", "a large, air-conditioned staff room"], "Also clean water, toilets and safe play areas."],
+  ["Data", "Pupils' personal information should be", "shared only with those who need it", ["posted on the notice board", "given to any caller who asks", "used in public adverts"], "Protecting data is part of safeguarding."],
+];
+
+export function teachersNg(): Record<string, Q[]> {
+  return {
+    PQP: facts("PQP", PQP),
+    PQL: facts("PQL", PQL),
+    PQN: facts("PQN", PQN),
+    PQI: facts("PQI", PQI),
+    PQS: facts("PQS", PQS),
+  };
+}

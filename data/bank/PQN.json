@@ -1,0 +1,282 @@
+[
+ {
+  "subject": "PQN",
+  "topic": "Percentages",
+  "body": "What is 35% of 200?",
+  "options": [
+   "35",
+   "65",
+   "70",
+   "75"
+  ],
+  "answer": 2,
+  "explanation": "0.35 × 200 = 70.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQN",
+  "topic": "Percentages",
+  "body": "A pupil scored 36 out of 48. What percentage is that?",
+  "options": [
+   "75%",
+   "72%",
+   "36%",
+   "80%"
+  ],
+  "answer": 0,
+  "explanation": "36 ÷ 48 = 0.75.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQN",
+  "topic": "Percentages",
+  "body": "A ₦2,000 item rises in price by 10%. What is the new price?",
+  "options": [
+   "₦2,200",
+   "₦2,100",
+   "₦2,010",
+   "₦3,000"
+  ],
+  "answer": 0,
+  "explanation": "10% of 2,000 is 200.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQN",
+  "topic": "Fractions",
+  "body": "What is 3/4 + 1/8?",
+  "options": [
+   "5/8",
+   "7/8",
+   "4/12",
+   "1/2"
+  ],
+  "answer": 1,
+  "explanation": "3/4 = 6/8, so 6/8 + 1/8 = 7/8.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQN",
+  "topic": "Fractions",
+  "body": "Write 0.25 as a fraction.",
+  "options": [
+   "1/25",
+   "25/10",
+   "2/5",
+   "1/4"
+  ],
+  "answer": 3,
+  "explanation": "25/100 simplifies to 1/4.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQN",
+  "topic": "Ratio",
+  "body": "A class of 40 has boys and girls in the ratio 3 : 5. How many girls are there?",
+  "options": [
+   "24",
+   "25",
+   "20",
+   "15"
+  ],
+  "answer": 1,
+  "explanation": "5/8 × 40 = 25.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQN",
+  "topic": "Money",
+  "body": "₦12,000 is shared equally among 8 pupils. How much does each get?",
+  "options": [
+   "₦96,000",
+   "₦1,500",
+   "₦1,800",
+   "₦1,200"
+  ],
+  "answer": 1,
+  "explanation": "12,000 ÷ 8 = 1,500.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQN",
+  "topic": "Money",
+  "body": "What is the simple interest on ₦10,000 at 5% a year for 2 years?",
+  "options": [
+   "₦10,500",
+   "₦1,000",
+   "₦500",
+   "₦2,000"
+  ],
+  "answer": 1,
+  "explanation": "I = PRT/100 = 10,000 × 5 × 2 ÷ 100.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQN",
+  "topic": "Statistics",
+  "body": "What is the mean of 12, 15 and 18?",
+  "options": [
+   "16",
+   "45",
+   "14",
+   "15"
+  ],
+  "answer": 3,
+  "explanation": "45 ÷ 3 = 15.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQN",
+  "topic": "Statistics",
+  "body": "What is the median of 7, 3, 9, 5 and 11?",
+  "options": [
+   "5",
+   "9",
+   "7",
+   "35"
+  ],
+  "answer": 2,
+  "explanation": "In order: 3, 5, 7, 9, 11.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQN",
+  "topic": "Statistics",
+  "body": "What is the mode of 4, 6, 6, 7, 8, 6, 9?",
+  "options": [
+   "7",
+   "6",
+   "4",
+   "8"
+  ],
+  "answer": 1,
+  "explanation": "6 appears most often.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQN",
+  "topic": "Statistics",
+  "body": "What is the range of 12, 25, 7 and 30?",
+  "options": [
+   "30",
+   "23",
+   "18",
+   "74"
+  ],
+  "answer": 1,
+  "explanation": "Highest minus lowest: 30 − 7.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQN",
+  "topic": "Statistics",
+  "body": "In a pie chart of a class of 60, a slice is 90°. How many pupils does it show?",
+  "options": [
+   "15",
+   "30",
+   "25",
+   "90"
+  ],
+  "answer": 0,
+  "explanation": "90/360 × 60 = 15.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQN",
+  "topic": "Measurement",
+  "body": "What is the area of a rectangle 8 m by 5 m?",
+  "options": [
+   "26 m²",
+   "40 m²",
+   "13 m²",
+   "45 m²"
+  ],
+  "answer": 1,
+  "explanation": "Area = length × width.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQN",
+  "topic": "Measurement",
+  "body": "What is the perimeter of a square with 6 cm sides?",
+  "options": [
+   "24 cm",
+   "36 cm",
+   "18 cm",
+   "12 cm"
+  ],
+  "answer": 0,
+  "explanation": "4 × 6 = 24.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQN",
+  "topic": "Measurement",
+  "body": "How many metres are in 1.5 km?",
+  "options": [
+   "15 m",
+   "1,500 m",
+   "15,000 m",
+   "150 m"
+  ],
+  "answer": 1,
+  "explanation": "1 km = 1,000 m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQN",
+  "topic": "Time",
+  "body": "A lesson runs from 9:45 to 10:25. How long is it?",
+  "options": [
+   "40 minutes",
+   "45 minutes",
+   "80 minutes",
+   "30 minutes"
+  ],
+  "answer": 0,
+  "explanation": "15 minutes to 10:00, then 25 more.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQN",
+  "topic": "Patterns",
+  "body": "What comes next: 2, 6, 18, 54, …?",
+  "options": [
+   "162",
+   "108",
+   "72",
+   "216"
+  ],
+  "answer": 0,
+  "explanation": "Each term is multiplied by 3.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQN",
+  "topic": "Order of operations",
+  "body": "What is 5² + 3 × 2?",
+  "options": [
+   "56",
+   "31",
+   "16",
+   "35"
+  ],
+  "answer": 1,
+  "explanation": "25 + 6 = 31.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PQN",
+  "topic": "Algebra",
+  "body": "Solve 3x − 5 = 16.",
+  "options": [
+   "x = 21",
+   "x = 7",
+   "x = 11/3",
+   "x = 3"
+  ],
+  "answer": 1,
+  "explanation": "3x = 21.",
+  "difficulty": 2
+ }
+]
