@@ -185,10 +185,67 @@ const ago = (iso: string | null) => {
   return `${Math.round(m / 1440)}d ago`;
 };
 
+
+function Composer({ target, onClose }: { target: UserRow | null; onClose?: () => void }) {
+  const [audience, setAudience] = useState<"all" | "telegram" | "email">("all");
+  const [subject, setSubject] = useState("A quick hello from Mock Night");
+  const [text, setText] = useState("");
+  const [busy, setBusy] = useState(false);
+  const [msg, setMsg] = useState<string | null>(null);
+  const [count, setCount] = useState<{ telegram: number; email: number } | null>(null);
+  const aud = target ? "user" : audience;
+  useEffect(() => {
+    setCount(null);
+    api<{ telegram: number; email: number }>("/api/admin/message", { audience: aud, userId: target?.id, dryRun: true }).then(setCount).catch(() => {});
+  }, [aud, target]);
+  const send = async () => {
+    if (!text.trim()) return;
+    const who = target ? (target.name ?? "this user") : `${(count?.telegram ?? 0) + (count?.email ?? 0)} people`;
+    if (!confirm(`Send this to ${who}?`)) return;
+    setBusy(true); setMsg(null);
+    try {
+      const r = await api<{ telegram: number; email: number; failed: number }>("/api/admin/message", { audience: aud, userId: target?.id, text, subject });
+      setMsg(`Sent: ${r.telegram} on Telegram, ${r.email} by email${r.failed ? `, ${r.failed} failed (blocked the bot or bad email)` : ""}.`);
+      setText("");
+    } catch (e) { setMsg(`Couldn't send (${(e as Error).message}).`); }
+    setBusy(false);
+  };
+  return (
+    <section className="card" style={{ marginTop: 12 }}>
+      <div className="row" style={{ justifyContent: "space-between", alignItems: "center" }}>
+        <b>✉️ {target ? `Message ${target.name ?? "user"}` : "Message users"}</b>
+        {onClose ? <button className="btn secondary" onClick={onClose}>Close</button> : null}
+      </div>
+      {!target ? (
+        <div className="row" style={{ gap: 8, margin: "8px 0", flexWrap: "wrap" }}>
+          {(["all", "telegram", "email"] as const).map((a) => (
+            <button key={a} className={`btn ${audience === a ? "" : "secondary"}`} onClick={() => setAudience(a)}>
+              {a === "all" ? "Everyone" : a === "telegram" ? "Telegram only" : "Email only"}
+            </button>
+          ))}
+        </div>
+      ) : null}
+      <p className="muted small" style={{ margin: "6px 0" }}>
+        {count ? `Goes to ${count.telegram} via the Telegram bot and ${count.email} by email. ` : "Counting… "}
+        Telegram users get it from @MocknightNGbot; web users get an email. Use {"{name}"} for their first name.
+      </p>
+      {aud !== "telegram" && (count?.email ?? 1) > 0 ? (
+        <input className="input" placeholder="Email subject" value={subject} onChange={(e) => setSubject(e.target.value)} />
+      ) : null}
+      <textarea className="input" rows={6} style={{ width: "100%", marginTop: 8 }} placeholder={"Hi {name}, thanks for joining Mock Night! What exam are you preparing for, and when is it? Reply here and I'll help you plan."} value={text} onChange={(e) => setText(e.target.value)} />
+      <div className="row" style={{ gap: 8, marginTop: 8, alignItems: "center" }}>
+        <button className="btn" onClick={send} disabled={busy || !text.trim()}>{busy ? "Sending…" : "Send"}</button>
+        {msg ? <span className="muted small">{msg}</span> : null}
+      </div>
+    </section>
+  );
+}
+
 function Users() {
   const [rows, setRows] = useState<UserRow[] | null>(null);
   const [q, setQ] = useState("");
   const [err, setErr] = useState<string | null>(null);
+  const [target, setTarget] = useState<UserRow | null>(null);
   useEffect(() => {
     api<{ users: UserRow[] }>("/api/admin/users").then((d) => setRows(d.users)).catch((e) => setErr((e as Error).message));
   }, []);
@@ -214,6 +271,8 @@ function Users() {
     a.click();
   };
   return (
+    <>
+    {target ? <Composer key={target.id} target={target} onClose={() => setTarget(null)} /> : <Composer target={null} />}
     <section className="card" style={{ marginTop: 12 }}>
       <div className="row" style={{ justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: 8 }}>
         <b>👥 Users {rows ? `(${fmt(shown.length)}${q ? ` of ${fmt(rows.length)}` : ""})` : ""}</b>
@@ -225,7 +284,7 @@ function Users() {
       {err ? <p className="muted small">Couldn&apos;t load users ({err}).</p> : !rows ? <p className="muted small">Loading…</p> : (
         <div className="adm-scroll">
           <table className="adm-users">
-            <thead><tr><th>Name</th><th>Email</th><th>Telegram</th><th>Exam</th><th>Joined</th><th>Last active</th><th>Answers (7d)</th><th>Status</th></tr></thead>
+            <thead><tr><th>Name</th><th>Email</th><th>Telegram</th><th>Exam</th><th>Joined</th><th>Last active</th><th>Answers (7d)</th><th>Status</th><th></th></tr></thead>
             <tbody>
               {shown.map((u) => (
                 <tr key={u.id}>
@@ -237,6 +296,7 @@ function Users() {
                   <td title={u.last_active ?? ""}>{ago(u.last_active)}</td>
                   <td>{fmt(u.answers)} ({fmt(u.answers_7d)})</td>
                   <td>{status(u)}</td>
+                  <td>{u.has_telegram || u.email ? <button className="btn secondary" style={{ padding: "4px 10px" }} onClick={() => setTarget(u)}>Message</button> : null}</td>
                 </tr>
               ))}
             </tbody>
@@ -244,6 +304,7 @@ function Users() {
         </div>
       )}
     </section>
+    </>
   );
 }
 
