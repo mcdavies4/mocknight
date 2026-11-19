@@ -18,6 +18,88 @@ export type Post = {
 
 export const POSTS: Post[] = [
   {
+    slug: "trcn-exam-guide",
+    title: "TRCN exam 2026: date, number of questions, syllabus and how to pass",
+    description: "Everything about the TRCN Professional Qualifying Examination (PQE): 2026 dates, how many questions, the five-part syllabus, the 50% pass mark, registration and a two-week study plan.",
+    date: "2026-11-19",
+    exam: "TRCN",
+    examHref: "/exam/TRCN",
+    tag: "🍎 Teaching in Nigeria",
+    readMins: 6,
+    body: `To work as a registered teacher in Nigeria, you need to pass the **Teachers Registration Council of Nigeria (TRCN) Professional Qualifying Examination (PQE)**. Pass it and you can be registered and licensed. Here's what's in the exam and how to get ready for it.
+
+## TRCN exam date for 2026
+
+TRCN holds the PQE twice a year, in a **May diet** and a **November diet**. Each diet runs in batches across the country. For **2026 Batch B (November)**, TRCN has told registered candidates to contact or visit their nearest TRCN office **from 9 November** to confirm their exact date, time and accreditation details.
+
+You should get your exam date and venue by **SMS and email at least two weeks before** your sitting. If nothing arrives, go to your state TRCN office rather than relying on social media posts.
+
+## How many questions are in the TRCN exam?
+
+- **60 multiple-choice questions**
+- **60 minutes**, so roughly one minute per question
+- **Computer-based (CBT)** at an accredited centre
+- **Pass mark: 50%**, so you need 30 correct
+
+## TRCN exam syllabus
+
+The PQE has five areas, each worth **20%** (about 12 questions each):
+
+- **Pedagogy**: lesson planning, learning theories (Piaget, Vygotsky, Bloom), classroom management, assessment, and inclusive and learner-centred teaching
+- **Literacy**: reading comprehension (the biggest slice), grammar, vocabulary, writing and professional communication
+- **Numeracy**: percentages, ratios, averages, simple interest, reading tables and charts
+- **ICT**: computer basics, files, internet and email, online safety, data protection (the NDPA 2023) and using technology in lessons
+- **Safeguarding**: child protection, the Child's Rights Act, spotting signs of abuse, reporting concerns and professional conduct
+
+Because every area carries the same weight, don't skip one you find boring. A weak ICT or safeguarding score drags down good pedagogy marks.
+
+## Who takes which exam
+
+- **PQE**: the main exam for graduates with a teaching qualification (NCE, B.Ed., PGDE and similar)
+- **PQEI**: for final-year education students, so you can qualify before or soon after graduating
+- **IPQE**: for people already teaching who need to regularise their status
+
+Check your category with TRCN when you register. Your qualification decides which one you take and what you pay.
+
+## How to register
+
+Registration is online at TRCN's CBT portal. You'll need:
+
+- an email address and phone number you can access
+- your **11-digit NIN**
+- your highest qualification certificate (or matric number if you're still waiting for it)
+
+TRCN reviews your qualification and sets your category. Payment then opens, and your exam number is issued once payment is confirmed. Registering is done online, but you **sit the exam in person** at a CBT centre.
+
+## A two-week study plan
+
+- **Days 1–2:** Take a full timed mock to find your weak areas
+- **Days 3–5:** Pedagogy: learning theories, Bloom's taxonomy, lesson plans, formative vs summative assessment
+- **Days 6–7:** Numeracy: practise percentages, ratios and data questions until they're quick
+- **Days 8–9:** ICT and data protection
+- **Days 10–11:** Safeguarding and the Child's Rights Act
+- **Day 12:** Literacy: comprehension passages, grammar and vocabulary
+- **Days 13–14:** Two more full mocks under exam timing, then review every question you got wrong
+
+## Exam-day tips
+
+- Arrive early with your exam slip and ID
+- With 60 questions in 60 minutes, don't spend more than a minute on any question. Flag it and move on
+- There's no negative marking on a standard multiple-choice CBT, so answer every question
+- Read each question fully. Words like "NOT", "BEST" and "FIRST" change the answer
+
+## Practise in the real format
+
+On Mock Night you can practise all five TRCN areas with explanations for every answer, and sit full 60-question, 60-minute mocks in the same CBT style. Start free on [the TRCN PQE page](/exam/TRCN) or in the Telegram bot.`,
+    faq: [
+      ["How many questions are in the TRCN exam?", "The TRCN PQE has 60 multiple-choice questions in 60 minutes, split equally across pedagogy, literacy, numeracy, ICT and safeguarding."],
+      ["What is the TRCN exam pass mark?", "50%. You need at least 30 of the 60 questions right."],
+      ["When is the TRCN exam in 2026?", "TRCN holds the PQE in May and November diets. For the 2026 November (Batch B) diet, candidates were told to confirm their date and time with their nearest TRCN office from 9 November."],
+      ["Can the TRCN exam be done online?", "You register online, but you sit the exam in person on a computer at an accredited CBT centre."],
+      ["What is on the TRCN exam syllabus?", "Five areas at 20% each: pedagogy, literacy, numeracy, ICT and safeguarding."],
+    ],
+  },
+  {
     slug: "life-in-the-uk-test-guide",
     title: "Life in the UK Test: format, pass mark and how to pass first time",
     description: "24 questions, 45 minutes, 18 correct to pass and £50 a go. What the Life in the UK Test covers and a simple plan to pass it first time.",
