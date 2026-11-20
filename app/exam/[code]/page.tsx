@@ -10,6 +10,7 @@ import { SITE_URL } from "@/lib/site";
 import { BODY } from "@/lib/exam-pages";
 import { ExamTry } from "@/components/exam-try";
 import { EmailStart } from "@/components/email-start";
+import { sourcesFor } from "@/lib/official-sources";
 
 export const revalidate = 86400;
 // Telegram is the habit in these regions; everywhere else the web app comes first.
@@ -94,8 +95,16 @@ export default async function ExamPage({ params }: { params: Promise<{ code: str
         <Link className="btn secondary" href={`/practice/${t.code.toLowerCase()}`} style={{ marginLeft: 8 }}>Free practice questions</Link>
         {bot && <> <a className="btn secondary" href={`https://t.me/${bot}`} style={{ marginLeft: 8 }}>Open Telegram</a></>}
       </p>
-      <p className="muted small" style={{ marginTop: 32 }}>
-        Independent practice resource with original questions. {body.disclaimer} A product of The 36th Solutions Ltd.
+      {sourcesFor(t.code).length ? (
+        <p className="muted small" style={{ marginTop: 32 }}>
+          <b>Official source{sourcesFor(t.code).length > 1 ? "s" : ""}:</b>{" "}
+          {sourcesFor(t.code).map(([n, u], i) => (
+            <span key={u}>{i ? " · " : ""}<a href={u} target="_blank" rel="noopener noreferrer">{n}</a> ({u.replace(/^https?:\/\//, "").replace(/\/$/, "")})</span>
+          ))}. Always check dates, fees and rules there before you book.
+        </p>
+      ) : null}
+      <p className="muted small" style={{ marginTop: sourcesFor(t.code).length ? 8 : 32 }}>
+        <b>Mock Night is not a government app</b> and isn&apos;t affiliated with, endorsed by or acting for any government, exam board or regulator. Independent practice resource with original questions. {body.disclaimer} A product of The 36th Solutions Ltd. <Link href="/sources">All official sources</Link>
       </p>
     </main>
   );

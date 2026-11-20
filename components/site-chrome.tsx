@@ -78,7 +78,7 @@ export function SiteFooter() {
           <Link href="/practice">Free practice questions</Link>
           <Link href="/blog">Blog</Link>
           <Link href="/app">Sign in</Link>
-          <Link href="/privacy">Privacy</Link>
+          <Link href="/privacy">Privacy</Link><Link href="/sources">Official sources</Link>
           <Link href="/delete-account">Delete account</Link>
         </nav>
         <span className="muted small">A product of The 36th Solutions Ltd.</span>
