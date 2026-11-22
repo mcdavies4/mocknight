@@ -6,7 +6,7 @@
   "options": [
    "15 correct overall",
    "20 correct in each part",
-   "at least 15 correct in each part",
+   "15 correct in each part",
    "30 correct in one part"
   ],
   "answer": 2,
@@ -32,10 +32,10 @@
   "topic": "Georgia rules",
   "body": "Under Georgia's Hands-Free law, drivers may not",
   "options": [
-   "use any GPS",
+   "use any GPS device",
    "listen to music",
    "use voice-to-text",
-   "hold or support a phone with any part of their body while driving"
+   "hold or support a phone"
   ],
   "answer": 3,
   "explanation": "Hands-free use is allowed.",
@@ -74,10 +74,10 @@
   "topic": "Georgia rules",
   "body": "Georgia's Move Over law requires drivers approaching a stopped emergency, tow or utility vehicle with flashing lights to",
   "options": [
-   "stop in the lane",
-   "move over a lane if safe, or slow down below the limit and be ready to stop",
-   "use high beams",
-   "speed up"
+   "switch on their high beams",
+   "move over, or slow below the limit",
+   "speed up to pass it quickly",
+   "stop completely in their lane"
   ],
   "answer": 1,
   "explanation": "It protects people working at the roadside.",
@@ -88,10 +88,10 @@
   "topic": "Georgia rules",
   "body": "Under Georgia's Joshua's Law, 16-year-olds applying for a Class D license must complete",
   "options": [
-   "an approved 30-hour driver education course and 40 hours of supervised driving",
-   "no driver education",
-   "a defensive driving course after the license",
-   "a 5-hour course only"
+   "30 hours of driver ed and 40 hours driving",
+   "no driver education at all",
+   "a 5-hour course and nothing more",
+   "a defensive driving course afterwards"
   ],
   "answer": 0,
   "explanation": "Six of the 40 hours must be at night.",
@@ -116,10 +116,10 @@
   "topic": "Georgia rules",
   "body": "Georgia's Super Speeder law adds an extra state fee for driving",
   "options": [
-   "85 mph or faster on any road, or 75 mph or faster on a two-lane road",
-   "only in school zones",
-   "any speed over the limit",
-   "under the minimum speed"
+   "85+ mph, or 75+ on two-lane roads",
+   "under the minimum posted speed",
+   "any speed in a school zone",
+   "any speed over the posted limit"
   ],
   "answer": 0,
   "explanation": "This is on top of the local fine.",
@@ -130,10 +130,10 @@
   "topic": "Georgia rules",
   "body": "In Georgia, you must use your headlights when",
   "options": [
-   "never in daylight",
-   "only after midnight",
-   "your windshield wipers are needed because of rain, fog or other conditions",
-   "only on interstates"
+   "you're on an interstate only",
+   "it's after midnight only",
+   "your wipers are needed for weather",
+   "it's never needed in daylight"
   ],
   "answer": 2,
   "explanation": "Also from 30 minutes after sunset to 30 minutes before sunrise.",
@@ -144,10 +144,10 @@
   "topic": "Georgia rules",
   "body": "To get a Georgia Class D license, you must be at least 16 and have held a learner permit for",
   "options": [
-   "1 month",
+   "1 month and 1 day",
    "12 months and 1 day",
-   "3 months",
-   "2 years"
+   "3 months and 1 day",
+   "2 years and 1 day"
   ],
   "answer": 1,
   "explanation": "You also need no major traffic violations.",
@@ -158,9 +158,9 @@
   "topic": "Georgia rules",
   "body": "During the first 6 months with a Georgia Class D license, you may carry",
   "options": [
-   "only immediate family members as passengers",
-   "no passengers at all",
+   "only immediate family",
    "up to three friends",
+   "no passengers at all",
    "any passengers"
   ],
   "answer": 0,
@@ -186,10 +186,10 @@
   "topic": "Georgia rules",
   "body": "Georgia's Super Speeder fee is",
   "options": [
-   "$20",
-   "$200, on top of the local fine",
-   "nothing",
-   "$1,000"
+   "$20 plus the fine",
+   "$200 plus the fine",
+   "$1,000 plus the fine",
+   "nothing extra"
   ],
   "answer": 1,
   "explanation": "It applies at 85 mph or more, or 75 mph or more on a two-lane road.",
@@ -200,10 +200,10 @@
   "topic": "Georgia rules",
   "body": "Georgia teens under 18 must complete",
   "options": [
-   "a motorcycle course",
-   "a CDL course",
-   "the Alcohol and Drug Awareness Program (ADAP)",
-   "a first aid course"
+   "a commercial (CDL) course",
+   "a motorcycle safety course",
+   "the ADAP alcohol and drug course",
+   "a basic first aid course"
   ],
   "answer": 2,
   "explanation": "It's required for a license.",
@@ -214,10 +214,10 @@
   "topic": "Georgia rules",
   "body": "In Georgia, drivers with an instruction permit or Class D license",
   "options": [
-   "may text at red lights",
    "may hold a phone below 25 mph",
    "may use a phone hands-free",
-   "may not use a phone at all while driving, even hands-free, except in emergencies"
+   "may text at red lights",
+   "may not use a phone at all"
   ],
   "answer": 3,
   "explanation": "Adult drivers may use hands-free devices.",
@@ -228,10 +228,10 @@
   "topic": "Georgia rules",
   "body": "In Georgia, children under 8 must ride",
   "options": [
-   "in the rear seat in a child seat or booster, unless they are over 4 feet 9 inches tall",
-   "in an adult lap belt only",
-   "in the front seat",
-   "with no restraint"
+   "in a back-seat child seat",
+   "in the front passenger seat",
+   "with no restraint at all",
+   "in an adult lap belt only"
   ],
   "answer": 0,
   "explanation": "Follow the seat's height and weight limits.",
@@ -256,10 +256,10 @@
   "topic": "Georgia rules",
   "body": "Georgia's 'slowpoke' law requires you to",
   "options": [
-   "drive only in the left lane",
-   "use hazard lights in the left lane",
-   "drive below the limit",
-   "move out of the left lane when a faster vehicle comes up behind you"
+   "drive only in the left lane on highways",
+   "drive below the limit in the left lane",
+   "use hazard lights when in the left lane",
+   "move out of the left lane for faster traffic"
   ],
   "answer": 3,
   "explanation": "The left lane is for passing.",
@@ -271,9 +271,9 @@
   "body": "In Georgia, a driver under 21 has their license suspended for",
   "options": [
    "1 point in 5 years",
-   "no points",
    "30 points in 2 years",
-   "4 or more points in any 12 months"
+   "any points at all",
+   "4+ points in 12 months"
   ],
   "answer": 3,
   "explanation": "Adults face suspension at 15 points in 24 months.",

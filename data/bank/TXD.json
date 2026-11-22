@@ -46,10 +46,10 @@
   "topic": "Texas rules",
   "body": "Texas law requires headlights to be on",
   "options": [
-   "only on highways",
-   "only in rain",
-   "only after midnight",
-   "from 30 minutes after sunset to 30 minutes before sunrise"
+   "only after midnight on weekdays and weekends",
+   "only when it's raining heavily or snowing",
+   "only when you're driving on highways and toll roads",
+   "from 30 min after sunset to 30 min before sunrise"
   ],
   "answer": 3,
   "explanation": "Also when visibility is poor.",
@@ -74,10 +74,10 @@
   "topic": "Texas rules",
   "body": "Texas's Move Over/Slow Down law requires you to vacate the lane closest to a stopped emergency vehicle or",
   "options": [
-   "speed up to pass quickly",
-   "stop completely",
-   "slow to 20 mph below the posted limit",
-   "turn on hazard lights only"
+   "stop completely in your lane",
+   "speed up to pass it quickly",
+   "slow to 20 mph below the limit",
+   "turn on your hazard lights only"
   ],
   "answer": 2,
   "explanation": "It also covers tow trucks and TxDOT vehicles with lights on.",
@@ -88,10 +88,10 @@
   "topic": "Texas rules",
   "body": "On a Texas road where a school bus is stopped with red lights flashing, traffic in both directions must stop unless",
   "options": [
-   "no children are visible",
-   "the road is divided by a median or barrier",
-   "you are in a hurry",
-   "it is after 5 p.m."
+   "it is after 5 p.m. on a weekday",
+   "a median or barrier divides the road",
+   "you are running late for work",
+   "no children are visible nearby"
   ],
   "answer": 1,
   "explanation": "Stay stopped until the bus moves or signals.",
@@ -116,10 +116,10 @@
   "topic": "Texas rules",
   "body": "In Texas, children younger than 8 must ride in a child safety seat unless they are",
   "options": [
-   "taller than 4 feet 9 inches",
+   "taller than 4'9\"",
    "over 40 pounds",
-   "on a short trip",
-   "in the back seat"
+   "in the back seat",
+   "on a short trip"
   ],
   "answer": 0,
   "explanation": "Use a seat that fits the child's size.",
@@ -144,10 +144,10 @@
   "topic": "Texas rules",
   "body": "Texas drivers under 18 with a provisional license may not",
   "options": [
-   "drive with a parent",
-   "use a wireless communication device while driving, except in an emergency",
-   "drive alone in daylight",
-   "drive on highways"
+   "drive on highways or freeways",
+   "use a phone except in emergencies",
+   "drive alone during daylight",
+   "drive with a parent in the car"
   ],
   "answer": 1,
   "explanation": "This includes hands-free use.",
@@ -158,10 +158,10 @@
   "topic": "Texas rules",
   "body": "In Texas, the person supervising a learner license holder must be",
   "options": [
-   "a licensed driver aged 21 or older sitting in the front seat",
-   "any passenger",
-   "aged 16 or older",
-   "aged 18 or older in the back seat"
+   "a licensed driver aged 21+ in front",
+   "any passenger in the vehicle",
+   "a licensed driver aged 16+",
+   "aged 18+ in the back seat"
   ],
   "answer": 0,
   "explanation": "They must have at least one year of driving experience.",
@@ -172,10 +172,10 @@
   "topic": "Texas rules",
   "body": "Before a Texas road test, new drivers must complete",
   "options": [
-   "a CDL course",
-   "the Impact Texas Drivers (ITD) program",
-   "a first aid course",
-   "a motorcycle course"
+   "a commercial (CDL) course",
+   "the Impact Texas Drivers program",
+   "a motorcycle safety course",
+   "a basic first aid course"
   ],
   "answer": 1,
   "explanation": "Teens complete Impact Texas Teen Drivers (ITTD).",
@@ -186,10 +186,10 @@
   "topic": "Texas rules",
   "body": "A Texas provisional license holder under 18 may not drive between",
   "options": [
+   "6 p.m. and midnight",
    "noon and 3 p.m.",
    "8 p.m. and 6 a.m.",
-   "6 p.m. and midnight",
-   "midnight and 5 a.m., unless for work, school or a medical emergency"
+   "midnight and 5 a.m."
   ],
   "answer": 3,
   "explanation": "This applies during the first year.",
@@ -200,10 +200,10 @@
   "topic": "Texas rules",
   "body": "A Texas provisional license holder under 18 may carry",
   "options": [
-   "no more than one passenger under 21 who is not a family member",
-   "no passengers at all",
+   "one non-family passenger under 21",
    "any number of passengers",
-   "up to five friends"
+   "no passengers at all, ever",
+   "up to five friends at a time"
   ],
   "answer": 0,
   "explanation": "This applies during the first year.",
@@ -214,10 +214,10 @@
   "topic": "Texas rules",
   "body": "Texas requires seat belts for",
   "options": [
-   "only children",
+   "only the person driving",
    "every person in the vehicle",
    "only front-seat passengers",
-   "only the driver"
+   "only children under 8"
   ],
   "answer": 1,
   "explanation": "Drivers can be fined for unbelted children.",
@@ -229,9 +229,9 @@
   "body": "Texas minimum liability insurance is",
   "options": [
    "no insurance needed",
-   "$30,000 per person, $60,000 per crash for injuries and $25,000 for property damage",
-   "$5,000 per person",
-   "$10,000 total"
+   "30/60/25",
+   "10/20/10",
+   "5/10/5"
   ],
   "answer": 1,
   "explanation": "It's known as 30/60/25.",
@@ -284,10 +284,10 @@
   "topic": "Texas rules",
   "body": "Texas's 'Steer It, Clear It' law says that after a minor crash with no injuries you should",
   "options": [
-   "move the vehicles out of the main lanes if they can be driven",
-   "leave them exactly where they stopped",
-   "drive home and report later",
-   "wait in the lane for police"
+   "move cars out of the main lanes",
+   "leave the cars exactly where they are",
+   "wait in the lane for the police",
+   "drive home and report it later"
   ],
   "answer": 0,
   "explanation": "This prevents secondary crashes.",
@@ -354,10 +354,10 @@
   "topic": "Texas rules",
   "body": "In Texas, a right turn on a red light is allowed",
   "options": [
-   "without stopping",
-   "never",
-   "only at night",
-   "after a complete stop, unless a sign prohibits it"
+   "without stopping first, if clear",
+   "never, at any traffic light",
+   "only late at night with no traffic",
+   "after a full stop, unless signed"
   ],
   "answer": 3,
   "explanation": "Yield to pedestrians and cross traffic.",

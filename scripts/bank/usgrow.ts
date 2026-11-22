@@ -7,37 +7,37 @@ type F = [string, string, string, string[], string];
 const facts = (code: string, list: F[], d: 1 | 2 | 3 = 2) => list.map(([t, b, c, x, e]) => mcq(code, t, b, c, x, e, d));
 
 const CAD: F[] = [
-  ["California rules", "In California, you must turn on your headlights when", "your windshield wipers are on continuously because of weather", ["only after midnight", "only on freeways", "never during the day"], "Also from 30 minutes after sunset to 30 minutes before sunrise."],
-  ["California rules", "For the first 12 months, a California provisional license holder under 18 may not drive", "between 11 p.m. and 5 a.m. without a licensed adult (with some exceptions)", ["on weekends", "on freeways at any time", "after 6 p.m."], "They also can't carry passengers under 20 unless accompanied."],
-  ["California rules", "In California, you must report a collision to the DMV within 10 days if", "anyone was injured or killed, or property damage was over $1,000", ["it happened at night", "you were not at fault", "only if police attended"], "Use form SR-1."],
-  ["California rules", "In California, a diamond symbol painted on a lane marks", "a high-occupancy vehicle (HOV/carpool) lane", ["a bike lane", "a bus stop", "a school zone"], "Signs show the minimum number of occupants and hours."],
+  ["California rules", "In California, you must turn on your headlights when", "your wipers are on for weather", ["you're driving on freeways", "it's after midnight only", "you're in a parking lot"], "Also from 30 minutes after sunset to 30 minutes before sunrise."],
+  ["California rules", "For the first 12 months, a California provisional license holder under 18 may not drive", "11 p.m.–5 a.m. without an adult", ["after 6 p.m. on any day of the week", "on freeways at any time of day", "on weekends at any time at all"], "They also can't carry passengers under 20 unless accompanied."],
+  ["California rules", "In California, you must report a collision to the DMV within 10 days if", "anyone was hurt or damage tops $1,000", ["the crash happened after dark", "you were not at fault in any way", "the police attended the scene"], "Use form SR-1."],
+  ["California rules", "In California, a diamond symbol painted on a lane marks", "a carpool lane", ["a bike lane", "a bus stop", "a school zone"], "Signs show the minimum number of occupants and hours."],
   ["California rules", "When parallel parking in California, your wheels must be within", "18 inches of the curb", ["3 feet of the curb", "6 inches of the center line", "36 inches of the curb"], "Set the parking brake."],
   ["California rules", "In California, smoking in a vehicle when a minor is present is", "illegal", ["legal with windows open", "legal on freeways", "legal if the minor consents"], "This applies whether the vehicle is moving or stopped."],
 ];
 const TXD: F[] = [
   ["Texas rules", "In Texas, texting while driving is", "banned statewide", ["allowed at red lights", "allowed for adults", "allowed on rural roads"], "Drivers under 18 may not use any wireless device while driving."],
-  ["Texas rules", "In Texas, children younger than 8 must ride in a child safety seat unless they are", "taller than 4 feet 9 inches", ["over 40 pounds", "in the back seat", "on a short trip"], "Use a seat that fits the child's size."],
+  ["Texas rules", "In Texas, children younger than 8 must ride in a child safety seat unless they are", "taller than 4'9\"", ["over 40 pounds", "on a short trip", "in the back seat"], "Use a seat that fits the child's size."],
   ["Texas rules", "In Texas, having an open container of alcohol in the passenger area of a vehicle on a public road is", "an offense", ["legal for passengers", "legal if the driver is sober", "legal on weekends"], "It applies even if the vehicle is stopped on the roadway."],
-  ["Texas rules", "Texas drivers under 18 with a provisional license may not", "use a wireless communication device while driving, except in an emergency", ["drive on highways", "drive alone in daylight", "drive with a parent"], "This includes hands-free use."],
+  ["Texas rules", "Texas drivers under 18 with a provisional license may not", "use a phone except in emergencies", ["drive with a parent in the car", "drive alone during daylight", "drive on highways or freeways"], "This includes hands-free use."],
 ];
 const FLD: F[] = [
-  ["Florida rules", "Florida's Wireless Communications While Driving Law prohibits", "texting while driving, and any handheld phone use in school and work zones", ["listening to the radio", "using GPS mounted on the dashboard", "hands-free calls everywhere"], "Hands-free use is allowed outside those zones."],
-  ["Florida rules", "During the first 3 months, a Florida learner license holder may drive", "only during daylight hours", ["until midnight", "at any time alone", "only on highways"], "After 3 months they may drive until 10 p.m., always with a licensed driver aged 21 or over."],
-  ["Florida rules", "In Florida, seat belts must be worn by", "the driver, front-seat passengers and all passengers under 18", ["only the driver", "only children under 5", "nobody on short trips"], "The driver is responsible for passengers under 18."],
-  ["Florida rules", "Florida is a 'no-fault' state, which means drivers must carry", "personal injury protection (PIP) and property damage liability insurance", ["no insurance", "only collision insurance", "only uninsured motorist cover"], "PIP pays your own medical costs regardless of fault."],
+  ["Florida rules", "Florida's Wireless Communications While Driving Law prohibits", "texting while driving", ["hands-free calls everywhere", "GPS mounted on the dashboard", "listening to the radio"], "Hands-free use is allowed outside those zones."],
+  ["Florida rules", "During the first 3 months, a Florida learner license holder may drive", "only in daylight", ["at any time alone", "only on highways", "until midnight"], "After 3 months they may drive until 10 p.m., always with a licensed driver aged 21 or over."],
+  ["Florida rules", "In Florida, seat belts must be worn by", "the driver, front passengers and under-18s", ["nobody on short trips around town", "only children under 5 years old", "only the person driving the car"], "The driver is responsible for passengers under 18."],
+  ["Florida rules", "Florida is a 'no-fault' state, which means drivers must carry", "PIP and property damage cover", ["no insurance of any kind", "only uninsured motorist cover", "only collision insurance"], "PIP pays your own medical costs regardless of fault."],
 ];
 const NYD: F[] = [
   ["New York rules", "A New York learner permit holder must be supervised by a licensed driver aged", "21 or older", ["16 or older", "18 or older", "25 or older"], "The supervising driver sits in the front passenger seat."],
-  ["New York rules", "Before the road test, New York applicants must complete", "a 5-hour pre-licensing course (or an approved driver education course)", ["a 40-hour class", "a first aid course", "nothing"], "It covers highway safety and driver attitudes."],
-  ["New York rules", "Drivers under 18 in New York must certify at least how many hours of supervised practice before the road test?", "50 hours, including 15 after sunset", ["10 hours", "20 hours", "100 hours"], "Practice with a supervising driver aged 21 or older."],
-  ["New York rules", "In New York, you must turn on your headlights when", "your windshield wipers are on because of bad weather", ["only on highways", "only after midnight", "never in daylight"], "Also from 30 minutes after sunset to 30 minutes before sunrise."],
+  ["New York rules", "Before the road test, New York applicants must complete", "a 5-hour pre-licensing course", ["a basic first aid course", "nothing beyond the permit", "a 40-hour classroom course"], "It covers highway safety and driver attitudes."],
+  ["New York rules", "Drivers under 18 in New York must certify at least how many hours of supervised practice before the road test?", "50 (15 after sunset)", ["10 (all daylight)", "100 (50 at night)", "20 (5 at night)"], "Practice with a supervising driver aged 21 or older."],
+  ["New York rules", "In New York, you must turn on your headlights when", "your wipers are on for weather", ["it's after midnight only", "it's never needed in daylight", "you're on a highway only"], "Also from 30 minutes after sunset to 30 minutes before sunrise."],
   ["New York rules", "Under New York's Leandra's Law, driving while intoxicated with a child aged 15 or younger in the vehicle is", "a felony", ["a traffic ticket", "legal with a booster seat", "a warning only"], "It also requires an ignition interlock device for convicted drivers."],
 ];
 const GAD: F[] = [
-  ["Georgia rules", "Under Georgia's Joshua's Law, 16-year-olds applying for a Class D license must complete", "an approved 30-hour driver education course and 40 hours of supervised driving", ["no driver education", "a 5-hour course only", "a defensive driving course after the license"], "Six of the 40 hours must be at night."],
+  ["Georgia rules", "Under Georgia's Joshua's Law, 16-year-olds applying for a Class D license must complete", "30 hours of driver ed and 40 hours driving", ["no driver education at all", "a defensive driving course afterwards", "a 5-hour course and nothing more"], "Six of the 40 hours must be at night."],
   ["Georgia rules", "Georgia Class D (intermediate) license holders may not drive between", "midnight and 6 a.m.", ["8 p.m. and 6 a.m.", "10 p.m. and 4 a.m.", "noon and 2 p.m."], "There are also limits on passengers."],
-  ["Georgia rules", "Georgia's Super Speeder law adds an extra state fee for driving", "85 mph or faster on any road, or 75 mph or faster on a two-lane road", ["any speed over the limit", "under the minimum speed", "only in school zones"], "This is on top of the local fine."],
-  ["Georgia rules", "In Georgia, you must use your headlights when", "your windshield wipers are needed because of rain, fog or other conditions", ["only after midnight", "only on interstates", "never in daylight"], "Also from 30 minutes after sunset to 30 minutes before sunrise."],
+  ["Georgia rules", "Georgia's Super Speeder law adds an extra state fee for driving", "85+ mph, or 75+ on two-lane roads", ["any speed in a school zone", "any speed over the posted limit", "under the minimum posted speed"], "This is on top of the local fine."],
+  ["Georgia rules", "In Georgia, you must use your headlights when", "your wipers are needed for weather", ["it's after midnight only", "it's never needed in daylight", "you're on an interstate only"], "Also from 30 minutes after sunset to 30 minutes before sunrise."],
 ];
 
 const MCD: F[] = [

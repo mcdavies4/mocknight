@@ -18,10 +18,10 @@
   "topic": "Florida rules",
   "body": "Before getting a Florida learner license, new drivers must complete",
   "options": [
-   "a Traffic Law and Substance Abuse Education (TLSAE) course",
-   "a CDL course",
-   "nothing",
-   "a motorcycle course"
+   "a TLSAE drug and alcohol course",
+   "a commercial (CDL) course",
+   "a motorcycle safety course",
+   "nothing beyond the test"
   ],
   "answer": 0,
   "explanation": "Teens can get a learner license from age 15.",
@@ -46,10 +46,10 @@
   "topic": "Florida rules",
   "body": "In Florida, you must turn on your headlights when",
   "options": [
-   "never during the day",
-   "only after midnight",
-   "it rains and your windshield wipers are on, and from sunset to sunrise",
-   "only on highways"
+   "only on highways and toll roads",
+   "never during the daytime hours",
+   "it rains, and from sunset to sunrise",
+   "only after midnight on weekends"
   ],
   "answer": 2,
   "explanation": "Also in smoke or fog.",
@@ -60,10 +60,10 @@
   "topic": "Florida rules",
   "body": "Florida's Move Over law requires you to move over a lane or",
   "options": [
-   "slow to 20 mph below the posted speed limit",
-   "flash your high beams",
-   "speed up",
-   "stop in your lane"
+   "slow to 20 mph below the limit",
+   "stop in your lane",
+   "speed up to pass quickly",
+   "flash your high beams twice"
   ],
   "answer": 0,
   "explanation": "It covers emergency, sanitation, utility and service vehicles and disabled vehicles.",
@@ -75,9 +75,9 @@
   "body": "In Florida, children aged 5 and under must ride in",
   "options": [
    "the front seat with a lap belt",
-   "a federally approved child restraint",
-   "an adult's lap",
-   "no restraint if in the back"
+   "an approved child restraint",
+   "nothing, if in the back seat",
+   "an adult's lap"
   ],
   "answer": 1,
   "explanation": "Children aged 4 and 5 may use a booster seat.",
@@ -88,10 +88,10 @@
   "topic": "Florida rules",
   "body": "Florida's Wireless Communications While Driving Law prohibits",
   "options": [
-   "hands-free calls everywhere",
-   "texting while driving, and any handheld phone use in school and work zones",
-   "using GPS mounted on the dashboard",
-   "listening to the radio"
+   "listening to the radio",
+   "texting while driving",
+   "GPS mounted on the dashboard",
+   "hands-free calls everywhere"
   ],
   "answer": 1,
   "explanation": "Hands-free use is allowed outside those zones.",
@@ -102,10 +102,10 @@
   "topic": "Florida rules",
   "body": "During the first 3 months, a Florida learner license holder may drive",
   "options": [
-   "at any time alone",
-   "only during daylight hours",
    "only on highways",
-   "until midnight"
+   "only in daylight",
+   "until midnight",
+   "at any time alone"
   ],
   "answer": 1,
   "explanation": "After 3 months they may drive until 10 p.m., always with a licensed driver aged 21 or over.",
@@ -116,10 +116,10 @@
   "topic": "Florida rules",
   "body": "In Florida, seat belts must be worn by",
   "options": [
-   "nobody on short trips",
-   "only children under 5",
-   "only the driver",
-   "the driver, front-seat passengers and all passengers under 18"
+   "only the person driving the car",
+   "only children under 5 years old",
+   "nobody on short trips around town",
+   "the driver, front passengers and under-18s"
   ],
   "answer": 3,
   "explanation": "The driver is responsible for passengers under 18.",
@@ -130,10 +130,10 @@
   "topic": "Florida rules",
   "body": "Florida is a 'no-fault' state, which means drivers must carry",
   "options": [
-   "personal injury protection (PIP) and property damage liability insurance",
-   "no insurance",
-   "only uninsured motorist cover",
-   "only collision insurance"
+   "PIP and property damage cover",
+   "no insurance of any kind",
+   "only collision insurance",
+   "only uninsured motorist cover"
   ],
   "answer": 0,
   "explanation": "PIP pays your own medical costs regardless of fault.",
@@ -158,9 +158,9 @@
   "topic": "Florida rules",
   "body": "A Florida driver under 18 must hold a learner license for at least",
   "options": [
-   "12 months (or until age 18)",
-   "3 months",
+   "12 months",
    "1 month",
+   "3 months",
    "no minimum"
   ],
   "answer": 0,
@@ -172,10 +172,10 @@
   "topic": "Florida rules",
   "body": "A 16-year-old with a Florida intermediate license may drive between 11 p.m. and 6 a.m. only",
   "options": [
-   "with any passenger",
-   "on weekends",
-   "with a licensed driver aged 21 or older, or when driving to or from work",
-   "never"
+   "with any passenger in the car",
+   "on Saturdays and Sundays",
+   "with a driver 21+, or for work",
+   "never, for any reason"
   ],
   "answer": 2,
   "explanation": "At 17 the restricted hours are 1 a.m. to 5 a.m.",
@@ -228,10 +228,10 @@
   "topic": "Florida rules",
   "body": "In Florida, children aged 4 and 5 must ride in",
   "options": [
+   "an adult lap belt only",
    "nothing special",
-   "the front seat with no restraint",
-   "a separate carrier, an integrated child seat or a booster seat",
-   "an adult lap belt only"
+   "a child seat or booster",
+   "the front seat, unbelted"
   ],
   "answer": 2,
   "explanation": "Children 3 and under need a separate carrier or integrated seat.",
@@ -271,9 +271,9 @@
   "body": "In Florida, refusing a breath test for the first time leads to",
   "options": [
    "a warning only",
-   "a license suspension of 1 year",
+   "a 1-year suspension",
    "a 1-week suspension",
-   "no penalty"
+   "no penalty at all"
   ],
   "answer": 1,
   "explanation": "A second refusal is a misdemeanor and an 18-month suspension.",
@@ -284,10 +284,10 @@
   "topic": "Florida rules",
   "body": "Florida suspends a license for 30 days if a driver gets",
   "options": [
-   "12 points within 12 months",
-   "50 points",
-   "3 points within 3 years",
-   "1 point within a year"
+   "12 points in 12 months",
+   "1 point in a year",
+   "50 points in a year",
+   "3 points in 3 years"
   ],
   "answer": 0,
   "explanation": "More points over longer periods bring longer suspensions.",
@@ -313,9 +313,9 @@
   "body": "In Florida, a funeral procession led by an escort vehicle",
   "options": [
    "must yield to all traffic",
-   "can be passed on the right",
    "must stop at every light",
-   "has the right-of-way; don't join or cut through it"
+   "can be passed on the right",
+   "has the right-of-way"
   ],
   "answer": 3,
   "explanation": "Pull over or wait until it passes.",

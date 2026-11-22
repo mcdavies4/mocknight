@@ -4,10 +4,10 @@
   "topic": "New York rules",
   "body": "The New York permit test has 20 questions. To pass you need",
   "options": [
-   "10 correct",
-   "all 20 correct",
-   "18 correct",
-   "14 correct, including at least 2 of the 4 road sign questions"
+   "10 correct, in any section",
+   "18 correct, including all signs",
+   "all 20 correct, no errors",
+   "14 correct, including 2 of 4 signs"
   ],
   "answer": 3,
   "explanation": "It covers road signs, rules of the road and alcohol and drug laws.",
@@ -33,9 +33,9 @@
   "body": "In New York City, a right turn on a red light is",
   "options": [
    "always allowed after stopping",
-   "allowed for taxis only",
-   "not allowed unless a sign permits it",
-   "allowed only at night"
+   "allowed only at night",
+   "not allowed unless signed",
+   "allowed for taxis only"
   ],
   "answer": 2,
   "explanation": "Elsewhere in New York, a right on red is usually allowed after a full stop unless a sign prohibits it.",
@@ -60,10 +60,10 @@
   "topic": "New York rules",
   "body": "In New York, when a school bus stops with red lights flashing, you must stop",
   "options": [
-   "only if behind the bus",
-   "only on two-lane roads",
-   "only if children are visible",
-   "whether you are approaching from the front or the rear, even on a divided highway"
+   "only if you're behind the bus, never in front",
+   "only on two-lane roads without a median",
+   "only if you can see children getting off",
+   "from either direction, even on divided roads"
   ],
   "answer": 3,
   "explanation": "Stay at least 20 feet away.",
@@ -102,10 +102,10 @@
   "topic": "New York rules",
   "body": "Before the road test, New York applicants must complete",
   "options": [
-   "a 5-hour pre-licensing course (or an approved driver education course)",
-   "a first aid course",
-   "nothing",
-   "a 40-hour class"
+   "a 5-hour pre-licensing course",
+   "nothing beyond the permit",
+   "a 40-hour classroom course",
+   "a basic first aid course"
   ],
   "answer": 0,
   "explanation": "It covers highway safety and driver attitudes.",
@@ -116,10 +116,10 @@
   "topic": "New York rules",
   "body": "Drivers under 18 in New York must certify at least how many hours of supervised practice before the road test?",
   "options": [
-   "10 hours",
-   "100 hours",
-   "50 hours, including 15 after sunset",
-   "20 hours"
+   "10 (all daylight)",
+   "20 (5 at night)",
+   "50 (15 after sunset)",
+   "100 (50 at night)"
   ],
   "answer": 2,
   "explanation": "Practice with a supervising driver aged 21 or older.",
@@ -130,10 +130,10 @@
   "topic": "New York rules",
   "body": "In New York, you must turn on your headlights when",
   "options": [
-   "never in daylight",
-   "only on highways",
-   "only after midnight",
-   "your windshield wipers are on because of bad weather"
+   "you're on a highway only",
+   "it's after midnight only",
+   "it's never needed in daylight",
+   "your wipers are on for weather"
   ],
   "answer": 3,
   "explanation": "Also from 30 minutes after sunset to 30 minutes before sunrise.",
@@ -160,7 +160,7 @@
   "options": [
    "may drive anywhere at any time",
    "may drive only in New York City",
-   "may not drive in New York City's five boroughs",
+   "may not drive in NYC's five boroughs",
    "may drive only on highways"
   ],
   "answer": 2,
@@ -202,8 +202,8 @@
   "options": [
    "2 points in a year",
    "5 points in 5 years",
-   "50 points",
-   "11 or more points in 18 months"
+   "50 points in a year",
+   "11+ points in 18 months"
   ],
   "answer": 3,
   "explanation": "Points are charged for moving violations.",
@@ -228,10 +228,10 @@
   "topic": "New York rules",
   "body": "New York requires everyone aged 16 or older to wear a seat belt",
   "options": [
-   "only in the front seat",
-   "only on highways",
-   "in the front and back seats",
-   "only at night"
+   "in the front only",
+   "on highways only",
+   "in every seat",
+   "at night only"
   ],
   "answer": 2,
   "explanation": "Younger passengers need child restraints or belts too.",
@@ -257,9 +257,9 @@
   "body": "In New York, Driving While Ability Impaired (DWAI) by alcohol applies at a BAC of",
   "options": [
    "0.20% only",
-   "more than 0.05% but not more than 0.07%",
-   "exactly 0.08%",
-   "under 0.01%"
+   "0.05–0.07%",
+   "under 0.01%",
+   "exactly 0.08%"
   ],
   "answer": 1,
   "explanation": "0.08% or more is DWI.",
@@ -312,10 +312,10 @@
   "topic": "New York rules",
   "body": "Outside New York City, a right turn on red is",
   "options": [
+   "allowed without stopping",
+   "allowed after a full stop",
    "allowed only for trucks",
-   "allowed after a full stop, unless a sign prohibits it",
-   "never allowed",
-   "allowed without stopping"
+   "never allowed"
   ],
   "answer": 1,
   "explanation": "In New York City it's not allowed unless a sign permits it.",
@@ -326,10 +326,10 @@
   "topic": "New York rules",
   "body": "In New York, using a handheld phone or texting while driving",
   "options": [
-   "has no penalty",
-   "is illegal and adds points to your license",
+   "is fine at red lights",
+   "is illegal and adds points",
    "is allowed for adults",
-   "is allowed at red lights"
+   "carries no penalty"
   ],
   "answer": 1,
   "explanation": "Hands-free use is allowed for adults.",
@@ -340,10 +340,10 @@
   "topic": "New York rules",
   "body": "New York's Move Over law applies to vehicles stopped on the roadside with",
   "options": [
-   "red, white, blue or amber flashing lights",
-   "only headlights on",
-   "only police lights",
-   "no lights at all"
+   "red, white, blue or amber lights",
+   "no lights on at all",
+   "only police lights flashing",
+   "only their headlights on"
   ],
   "answer": 0,
   "explanation": "This includes tow trucks and hazard vehicles.",

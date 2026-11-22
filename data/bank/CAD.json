@@ -18,10 +18,10 @@
   "topic": "California rules",
   "body": "California's hands-free law means drivers 18 and over may",
   "options": [
-   "not hold a phone while driving, even at a red light",
-   "text at red lights",
-   "use the phone below 25 mph",
-   "hold the phone for calls"
+   "not hold a phone, even at a red light",
+   "text when stopped at a red light",
+   "hold the phone for short calls",
+   "use a handheld phone below 25 mph"
   ],
   "answer": 0,
   "explanation": "Mount the phone and use one touch or voice only.",
@@ -32,10 +32,10 @@
   "topic": "California rules",
   "body": "Drivers under 18 in California may use a cell phone while driving",
   "options": [
-   "only for navigation",
-   "only hands-free",
    "only at red lights",
-   "not at all, even hands-free (except emergencies)"
+   "only for navigation apps",
+   "only through hands-free",
+   "not at all, even hands-free"
   ],
   "answer": 3,
   "explanation": "Minors cannot use wireless devices while driving.",
@@ -88,10 +88,10 @@
   "topic": "California rules",
   "body": "California's 'basic speed law' says you must",
   "options": [
-   "drive 10 mph under the limit",
-   "only slow down at night",
-   "never drive faster than is safe for current conditions",
-   "always drive at the posted limit"
+   "slow down only at night",
+   "always drive at the posted limit",
+   "never drive faster than is safe",
+   "drive 10 mph under the limit"
   ],
   "answer": 2,
   "explanation": "Even below the posted limit you can be cited.",
@@ -130,10 +130,10 @@
   "topic": "California rules",
   "body": "A blue-painted curb in California is for",
   "options": [
-   "short-term parking",
-   "loading",
-   "parking for people with disabilities who display a placard or plate",
-   "taxis"
+   "commercial loading only",
+   "short-term parking only",
+   "disabled parking with a placard",
+   "taxis and rideshare only"
   ],
   "answer": 2,
   "explanation": "Fines for misuse are high.",
@@ -158,10 +158,10 @@
   "topic": "California rules",
   "body": "In California, children must ride in a car seat or booster seat until they are",
   "options": [
+   "2 years old only",
+   "8 years old or 4'9\" tall",
    "12 years old only",
-   "8 years old or 4 feet 9 inches tall",
-   "2 years old",
-   "5 years old"
+   "5 years old only"
   ],
   "answer": 1,
   "explanation": "Children under 8 must ride in the back seat.",
@@ -172,10 +172,10 @@
   "topic": "California rules",
   "body": "In California, you must turn on your headlights when",
   "options": [
-   "only on freeways",
-   "only after midnight",
-   "never during the day",
-   "your windshield wipers are on continuously because of weather"
+   "it's after midnight only",
+   "you're driving on freeways",
+   "you're in a parking lot",
+   "your wipers are on for weather"
   ],
   "answer": 3,
   "explanation": "Also from 30 minutes after sunset to 30 minutes before sunrise.",
@@ -186,10 +186,10 @@
   "topic": "California rules",
   "body": "For the first 12 months, a California provisional license holder under 18 may not drive",
   "options": [
-   "after 6 p.m.",
-   "on freeways at any time",
-   "between 11 p.m. and 5 a.m. without a licensed adult (with some exceptions)",
-   "on weekends"
+   "on weekends at any time at all",
+   "on freeways at any time of day",
+   "11 p.m.–5 a.m. without an adult",
+   "after 6 p.m. on any day of the week"
   ],
   "answer": 2,
   "explanation": "They also can't carry passengers under 20 unless accompanied.",
@@ -200,10 +200,10 @@
   "topic": "California rules",
   "body": "In California, you must report a collision to the DMV within 10 days if",
   "options": [
-   "it happened at night",
-   "only if police attended",
-   "anyone was injured or killed, or property damage was over $1,000",
-   "you were not at fault"
+   "the crash happened after dark",
+   "the police attended the scene",
+   "anyone was hurt or damage tops $1,000",
+   "you were not at fault in any way"
   ],
   "answer": 2,
   "explanation": "Use form SR-1.",
@@ -215,7 +215,7 @@
   "body": "In California, a diamond symbol painted on a lane marks",
   "options": [
    "a bike lane",
-   "a high-occupancy vehicle (HOV/carpool) lane",
+   "a carpool lane",
    "a school zone",
    "a bus stop"
   ],
@@ -270,10 +270,10 @@
   "topic": "California rules",
   "body": "California teens under 18 must hold a learner permit for at least",
   "options": [
-   "2 years",
    "no minimum time",
    "1 month",
-   "6 months before taking the driving test"
+   "2 years",
+   "6 months"
   ],
   "answer": 3,
   "explanation": "They also need 50 hours of practice, 10 of them at night.",
@@ -285,9 +285,9 @@
   "body": "In California, a white curb means",
   "options": [
    "commercial loading only",
-   "disabled parking",
+   "disabled parking only",
    "no stopping at any time",
-   "stop only long enough to pick up or drop off passengers or mail"
+   "passenger or mail stops only"
   ],
   "answer": 3,
   "explanation": "Green means limited-time parking; yellow means loading.",
@@ -410,10 +410,10 @@
   "topic": "California rules",
   "body": "In California, a left turn on red is allowed only",
   "options": [
-   "only at night",
+   "never, under any circumstances",
+   "at night when roads are clear",
    "at any intersection after stopping",
-   "never",
-   "from a one-way street onto another one-way street, after stopping, unless a sign prohibits it"
+   "from one one-way street onto another"
   ],
   "answer": 3,
   "explanation": "Yield to pedestrians and traffic.",
@@ -425,9 +425,9 @@
   "body": "At a California railroad crossing with a train coming, you must stop",
   "options": [
    "right on the tracks",
-   "100 feet away",
-   "between 15 and 50 feet from the nearest rail",
-   "less than 5 feet from the rail"
+   "at least 100 feet away",
+   "15 to 50 feet from the rail",
+   "within 5 feet of the rail"
   ],
   "answer": 2,
   "explanation": "Wait until the crossing is clear.",
@@ -438,9 +438,9 @@
   "topic": "California rules",
   "body": "In California, a child 6 or younger may not be left alone in a vehicle",
   "options": [
-   "only in summer",
-   "when conditions are unsafe or the engine is running, without someone at least 12 years old",
-   "only at night",
+   "only during the hot summer months",
+   "if unsafe, unless someone 12+ is there",
+   "only after dark on weeknights",
    "at any time, even with an adult"
   ],
   "answer": 1,
@@ -452,10 +452,10 @@
   "topic": "California rules",
   "body": "California drivers may not wear",
   "options": [
-   "a seat belt",
-   "a headset or earplugs in both ears while driving",
-   "sunglasses",
-   "hearing aids"
+   "a lap and shoulder belt",
+   "earplugs in both ears",
+   "dark tinted sunglasses",
+   "prescription hearing aids"
   ],
   "answer": 1,
   "explanation": "Hearing aids are allowed.",
@@ -466,10 +466,10 @@
   "topic": "California rules",
   "body": "In California, children under 2 must ride",
   "options": [
-   "in an adult seat belt",
-   "in a booster seat",
-   "in the front seat",
-   "in a rear-facing car seat, unless they weigh 40 pounds or more or are 40 inches or taller"
+   "in the front passenger seat",
+   "in an adult seat belt only",
+   "in a forward-facing booster seat",
+   "rear-facing (unless 40 lb/40 in)"
   ],
   "answer": 3,
   "explanation": "They must ride in the back seat if possible.",
@@ -480,10 +480,10 @@
   "topic": "California rules",
   "body": "In California, an open container of alcohol must be kept",
   "options": [
-   "under the driver's seat",
    "in the glove box",
+   "under the driver's seat",
    "in the cup holder",
-   "in the trunk or an area where passengers don't sit"
+   "in the trunk"
   ],
   "answer": 3,
   "explanation": "This applies to any container that has been opened, even if it has been closed again.",
@@ -494,10 +494,10 @@
   "topic": "California rules",
   "body": "In California, motorcyclists riding between lanes (lane splitting) is",
   "options": [
-   "legal, and drivers must not block or impede them",
-   "allowed only for police",
+   "legal; don't block them",
+   "illegal everywhere",
    "allowed only on city streets",
-   "illegal"
+   "allowed only for police"
   ],
   "answer": 0,
   "explanation": "Check your mirrors before changing lanes.",
