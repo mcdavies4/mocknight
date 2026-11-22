@@ -18,6 +18,211 @@ export type Post = {
 
 export const POSTS: Post[] = [
   {
+    slug: "us-citizenship-test-guide",
+    title: "US citizenship test 2026: the new 128 questions, how it works and how to pass",
+    description: "How the 2025 naturalization civics test works: 128 possible questions, 20 asked, 12 to pass, the English test, the 65/20 rule, and a 4-week study plan.",
+    date: "2026-11-22",
+    exam: "USCIT",
+    examHref: "/exam/USCIT",
+    tag: "🇺🇸 US citizenship",
+    readMins: 7,
+    body: `If you're applying to become a US citizen, you'll take the **naturalization test** at your USCIS interview. The civics part changed in late 2025, and it's now longer and harder. Here's how it works.
+
+## Which version will you take?
+
+- **Filed your N-400 on or after 20 October 2025:** the **2025 civics test** (128 questions)
+- **Filed before 20 October 2025:** the older **2008 test** (100 questions, 10 asked, 6 to pass)
+
+Almost everyone applying now takes the 2025 version.
+
+## The 2025 civics test at a glance
+
+- **128 possible questions**, all published by USCIS in advance
+- The officer asks **up to 20**, chosen at random
+- You need **12 correct** to pass (60%)
+- The officer **stops early** once you get 12 right, or once you get 9 wrong
+- It's **oral**: the officer asks and you answer out loud. It's not multiple choice
+- You get **two attempts**: one at your interview and one re-test, usually within 60–90 days
+
+Some questions have several acceptable answers. You only need to give the one the question asks for.
+
+## What's on it
+
+The 128 questions fall into three areas:
+
+- **American government**: the Constitution, the Bill of Rights, the three branches, Congress, the President, the courts, federal and state powers, and rights and responsibilities
+- **American history**: the colonial period, independence and the founders, the 1800s and the Civil War, and the 20th century and civil rights
+- **Symbols and holidays**: the flag, the national anthem and national holidays
+
+The 2025 version has **more history and fewer simple facts**, and drops most of the geography questions from the old test.
+
+## Questions that depend on you
+
+A few answers change with where you live or who's in office: your **two senators**, your **US Representative**, your **state governor** and your **state capital**. Also know the current **President, Vice President, Speaker of the House** and **Chief Justice**. Check these just before your interview, because they can change.
+
+## The 65/20 rule
+
+If you're **65 or older and have been a permanent resident for 20+ years**, you're asked **10 questions** from a special shorter list and need **6 correct**. You can also take the civics test in your own language with an interpreter.
+
+## The English test
+
+The English part hasn't changed:
+
+- **Speaking:** judged during your interview conversation
+- **Reading:** read one of up to three sentences aloud correctly
+- **Writing:** write one of up to three dictated sentences correctly
+
+## A 4-week study plan
+
+- **Week 1:** Government: the Constitution, the branches and rights (around 70 questions)
+- **Week 2:** History: colonial times to the Civil War
+- **Week 3:** 1900s history, symbols and holidays, plus your local "it depends" answers
+- **Week 4:** Out-loud practice: have someone ask you 20 random questions and answer without looking. Repeat daily until you get 15+ right every time
+
+Practising **out loud** matters. Knowing an answer when you see it is different from saying it on the spot to an officer.
+
+## Practise for the civics test
+
+On Mock Night you can drill US government, history and symbols a few questions a day, with an explanation for every answer, and take 20-question practice tests with the 12-correct pass mark. Start free on [the US citizenship page](/exam/USCIT). Always use the official USCIS study materials at uscis.gov/citizenship too.`,
+    faq: [
+      ["How many questions are on the US citizenship test in 2026?", "The 2025 civics test has 128 possible questions. The officer asks up to 20, and you need 12 correct to pass."],
+      ["Is the US citizenship test multiple choice?", "No. It's oral: the USCIS officer asks the questions and you answer out loud."],
+      ["What happens if you fail the US citizenship test?", "You get a second chance, usually within 60–90 days. If you fail again, your application can be denied."],
+      ["What is the 65/20 exception?", "Applicants 65 or older with 20+ years as a permanent resident answer 10 questions from a shorter list, need 6 correct, and can take the civics test in their own language."],
+      ["Which test do I take if I applied before October 2025?", "If you filed your N-400 before 20 October 2025, you take the 2008 test: 10 questions from 100, with 6 needed to pass."],
+    ],
+  },
+  {
+    slug: "australian-citizenship-test-guide",
+    title: "Australian citizenship test: 20 questions, the values rule and how to pass",
+    description: "How the Australian citizenship test works: 20 multiple-choice questions in 45 minutes, 75% to pass and all 5 values questions right, what to study in Our Common Bond, and a 3-week plan.",
+    date: "2026-11-22",
+    exam: "AUSCIT",
+    examHref: "/exam/AUSCIT",
+    tag: "🇦🇺 Australian citizenship",
+    readMins: 6,
+    body: `Most people applying for Australian citizenship by conferral (generally ages 18–59) must pass the **citizenship test**. It's short, but it has one rule that catches people out: the **Australian values** questions.
+
+## The test at a glance
+
+- **20 multiple-choice questions**
+- **45 minutes**
+- On a **computer**, in **English only**
+- **Pass mark: 75%**, so 15 out of 20
+- **And** you must get **all 5 Australian values questions right**
+
+That last point is the big one. Score 19/20 but miss one values question and you **fail**. Treat the values section as compulsory, not as part of your average.
+
+## What's on the test
+
+Every question comes from the **testable section** of the official booklet *Australian Citizenship: Our Common Bond*, which has four parts:
+
+- **Part 1 – Australia and its people:** Aboriginal and Torres Strait Islander peoples, European settlement, Federation in 1901, the states and territories, the flag, national symbols and days
+- **Part 2 – Australia's democratic beliefs, rights and liberties:** freedom of speech, association and religion, equality, the rule of law, and the responsibilities of citizens such as voting and jury service
+- **Part 3 – Government and the law:** the Constitution, Parliament (House of Representatives and Senate), the three levels of government, the King and the Governor-General, the courts and how laws are made
+- **Part 4 – Australian values:** respect, freedom, equality of men and women, a "fair go", English as the national language, and peaceful ways of settling disagreements
+
+The booklet also has a **non-testable section** about Australian life. It's worth reading, but no questions come from it.
+
+## Cost and booking
+
+There's **no separate fee**: the test is included in your citizenship application fee. Home Affairs invites you to an appointment after you apply, and the test and interview happen at that appointment.
+
+If you fail, you can usually re-sit, sometimes on the same day. If you keep failing, you may need to do a citizenship course.
+
+## A 3-week plan
+
+- **Week 1:** Read Parts 1 and 2 of *Our Common Bond* properly, then do 20 practice questions a day
+- **Week 2:** Read Part 3 (government and law): Parliament, the Constitution, the three levels of government and the courts
+- **Week 3:** Values every day. Keep drilling them until you get every values question right every time, then do full 20-question mocks in 45 minutes
+
+## Tips
+
+- Read every answer option. The values questions often have two "nice-sounding" options, and only one matches the booklet
+- Learn the numbers: **Federation 1901**, **six states and two major mainland territories**, **three levels of government**, and voting is **compulsory from 18**
+- Use the free official practice test on the Home Affairs website too
+
+## Practise in the real format
+
+On Mock Night you can drill all four parts of *Our Common Bond* with an explanation for every answer, and sit timed 20-question, 45-minute mocks. Start free on [the Australian citizenship page](/exam/AUSCIT).`,
+    faq: [
+      ["How many questions are on the Australian citizenship test?", "20 multiple-choice questions, completed on a computer in 45 minutes."],
+      ["What is the Australian citizenship test pass mark?", "At least 75% (15 out of 20), and you must also answer all 5 Australian values questions correctly."],
+      ["How much does the Australian citizenship test cost?", "There's no extra fee. The test is included in your citizenship application fee."],
+      ["What should I study for the Australian citizenship test?", "The testable section of the official booklet 'Australian Citizenship: Our Common Bond': Australia and its people, democratic beliefs and rights, government and the law, and Australian values."],
+      ["Can I take the Australian citizenship test in another language?", "No. The test is only available in English."],
+    ],
+  },
+  {
+    slug: "california-dmv-permit-test-guide",
+    title: "California DMV permit test: how many questions, pass mark and how to pass first time",
+    description: "Everything about the California DMV knowledge test: how many questions for under-18s and adults, the pass mark, what to bring, retake rules and a one-week study plan.",
+    date: "2026-11-22",
+    exam: "DMVCA",
+    examHref: "/exam/DMVCA",
+    tag: "🚗 Driving (USA)",
+    readMins: 6,
+    body: `To get a California **instruction permit** or a first driver's licence, you need to pass the DMV **knowledge test** (the written or permit test). Here's what to expect and how to pass it first time.
+
+## How many questions are on the California permit test?
+
+It depends on your age:
+
+- **Under 18:** **46 questions**, and you need **38 correct**. You can get up to 8 wrong
+- **18 and over:** **36 questions**, and you need **30 correct**. You can get up to 6 wrong
+
+The DMV describes the pass mark as about **80%**, which works out to roughly 83% on both versions. Questions are multiple choice, taken on a touchscreen at a DMV office or, for many applicants, online.
+
+## What's on the test
+
+Every question comes from the official **California Driver's Handbook**. The main topics are:
+
+- **Road signs and signals:** shapes and colours (octagon = stop, triangle = yield), traffic lights, and pavement markings
+- **Right-of-way:** four-way stops, uncontrolled intersections, pedestrians, school buses and emergency vehicles
+- **Speed limits:** the Basic Speed Law, 25 mph in residential and business districts, 15 mph at blind intersections and railroad crossings
+- **Safe driving:** following distance (the 3-second rule), lane changes, blind spots, sharing the road with cyclists and large trucks
+- **Alcohol and drugs:** a BAC limit of **0.08%** for adults and **0.01%** for under-21s (zero tolerance), implied consent, and the open container law
+- **California specifics:** curb colours (red, yellow, white, green, blue), carpool lanes, hands-free phone rules and the provisional licence rules for teens
+
+## What to bring and the steps
+
+- Complete the **driver's licence application** online first
+- Bring **proof of identity**, your **Social Security number** and **proof of California residency**
+- Pay the **application fee**
+- Pass a **vision test**
+- If you're under 18: complete **driver education** and get a **parent or guardian's signature**
+
+## If you fail
+
+You can retake the test, but under-18s must **wait 7 days**. You get **3 attempts** per application, so after 3 fails you have to reapply and pay again.
+
+## One-week study plan
+
+- **Day 1:** Read the handbook sections on signs, signals and pavement markings
+- **Day 2:** Right-of-way, intersections and turns
+- **Day 3:** Speed limits, parking and curb colours
+- **Day 4:** Alcohol and drug laws, plus provisional licence rules if you're under 18
+- **Day 5:** Safe driving and sharing the road
+- **Days 6–7:** Full timed practice tests until you score 90%+ twice in a row
+
+## Tips for test day
+
+- Numbers are where people lose marks: **distances** (park within 18 inches of the curb, signal 100 feet before a turn), **speeds** and **BAC limits**
+- Read the whole question. "Except" and "not" questions are common
+- Don't rush. There's plenty of time, so check each answer before moving on
+
+## Practise free
+
+On Mock Night you can drill California road signs, rules of the road and alcohol laws with an explanation for every answer, and sit full 36-question timed mocks with the real pass mark. Start free on [the California DMV page](/exam/DMVCA). Always read the official California Driver's Handbook at dmv.ca.gov too.`,
+    faq: [
+      ["How many questions are on the California DMV permit test?", "46 questions if you're under 18 (38 correct to pass) and 36 questions if you're 18 or older (30 correct to pass)."],
+      ["What is the passing score for the California permit test?", "The DMV describes it as about 80%. You can get up to 8 wrong on the 46-question test or 6 wrong on the 36-question test."],
+      ["How many times can you take the California permit test?", "You get 3 attempts per application. Under-18s must wait 7 days after a fail before trying again."],
+      ["Can I take the California permit test online?", "Many applicants can take the knowledge test online after applying, or at a DMV field office. Check your options on dmv.ca.gov."],
+      ["What is the BAC limit in California?", "0.08% for drivers 21 and over, and 0.01% for drivers under 21."],
+    ],
+  },
+  {
     slug: "hsk-1-guide",
     title: "HSK 1 exam guide: format, vocabulary, pass mark and the HSK 3.0 change",
     description: "What the HSK 1 Chinese test looks like, how many words you need, the pass mark, the switch to HSK 3.0 from December 2026, and a simple plan to pass.",
