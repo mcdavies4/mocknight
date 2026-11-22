@@ -1,15 +1,155 @@
 [
  {
   "subject": "ILD",
+  "topic": "Illinois rules",
+  "body": "In the first 12 months of an Illinois provisional license, how many passengers under 20 are allowed?",
+  "options": [
+   "one",
+   "three",
+   "none",
+   "any number"
+  ],
+  "answer": 0,
+  "explanation": "Unless a parent or guardian is in the car.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois rules",
+  "body": "On Sunday to Thursday nights, Illinois drivers under 18 may not drive between",
+  "options": [
+   "6 p.m. and 9 p.m.",
+   "midnight and 4 a.m.",
+   "8 a.m. and 3 p.m.",
+   "10 p.m. and 6 a.m."
+  ],
+  "answer": 3,
+  "explanation": "On Friday and Saturday it's 11 p.m. to 6 a.m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois rules",
+  "body": "Refusing a chemical test after a DUI arrest in Illinois (first time) leads to a suspension of",
+  "options": [
+   "12 months",
+   "1 week",
+   "1 month",
+   "10 years"
+  ],
+  "answer": 0,
+  "explanation": "Failing the test leads to a 6-month suspension.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois rules",
+  "body": "Under Illinois's zero tolerance law, a first offense by a driver under 21 leads to a suspension of",
+  "options": [
+   "3 months",
+   "1 week",
+   "10 years",
+   "1 month"
+  ],
+  "answer": 0,
+  "explanation": "Refusing the test means a longer suspension.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois rules",
+  "body": "In Illinois, children must ride in a child safety seat or booster until age",
+  "options": [
+   "4",
+   "8",
+   "12",
+   "6"
+  ],
+  "answer": 1,
+  "explanation": "Rear-facing until age 2 or the seat's limits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois rules",
+  "body": "Illinois's seat belt law applies to",
+  "options": [
+   "only the person driving",
+   "everyone in the vehicle",
+   "only the front seats",
+   "only children under 16"
+  ],
+  "answer": 1,
+  "explanation": "Rear-seat adults must buckle up too.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois rules",
+  "body": "When passing a cyclist in Illinois, leave at least",
+  "options": [
+   "1 foot",
+   "6 inches",
+   "3 feet",
+   "10 feet"
+  ],
+  "answer": 2,
+  "explanation": "Change lanes if needed.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois rules",
+  "body": "Unless posted, the speed limit in an Illinois alley is",
+  "options": [
+   "5 mph",
+   "15 mph",
+   "45 mph",
+   "30 mph"
+  ],
+  "answer": 1,
+  "explanation": "Urban districts default to 30 mph.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois rules",
+  "body": "On an Illinois highway with four or more lanes, oncoming traffic must stop for a stopped school bus",
+  "options": [
+   "yes, in every situation",
+   "only when it's raining",
+   "only after 3 p.m. on weekdays",
+   "no, only traffic behind it"
+  ],
+  "answer": 3,
+  "explanation": "On two-lane roads, all traffic must stop.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois rules",
+  "body": "How many moving violations within 12 months can lead to an Illinois license suspension (age 21+)?",
+  "options": [
+   "25",
+   "1",
+   "10",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "For under-21s, 2 violations can trigger it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
   "topic": "Illinois test",
   "body": "How many questions are on the Illinois written driver's test?",
   "options": [
-   "35",
-   "50",
    "20",
+   "50",
+   "35",
    "25"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "15 are about road signs and 20 about traffic laws.",
   "difficulty": 2
  },
@@ -18,12 +158,12 @@
   "topic": "Illinois test",
   "body": "How many of the 35 Illinois questions must you get right?",
   "options": [
-   "25",
-   "28",
+   "21",
    "35",
-   "21"
+   "25",
+   "28"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "That's 80%.",
   "difficulty": 2
  },
@@ -32,12 +172,12 @@
   "topic": "Illinois permits",
   "body": "The minimum age for an Illinois instruction permit is",
   "options": [
-   "16",
    "17",
+   "15",
    "14",
-   "15"
+   "16"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "You must be enrolled in an approved driver education course.",
   "difficulty": 2
  },
@@ -46,8 +186,8 @@
   "topic": "Illinois permits",
   "body": "Illinois drivers under 18 must hold their permit for at least",
   "options": [
-   "2 years",
    "1 month",
+   "2 years",
    "3 months",
    "9 months"
   ],
@@ -60,12 +200,12 @@
   "topic": "Illinois permits",
   "body": "Illinois teens must log how many hours of supervised driving?",
   "options": [
-   "100, including 40 at night",
-   "50, including 10 at night",
    "10, all in daylight",
-   "25, including 2 at night"
+   "25, including 2 at night",
+   "50, including 10 at night",
+   "100, including 40 at night"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "Certified by a parent or guardian.",
   "difficulty": 2
  },
@@ -74,12 +214,12 @@
   "topic": "Illinois permits",
   "body": "An Illinois permit holder must drive with a licensed adult who is at least",
   "options": [
-   "16",
-   "30",
    "18",
-   "21"
+   "16",
+   "21",
+   "30"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "Seated in the front passenger seat.",
   "difficulty": 2
  },
@@ -88,12 +228,12 @@
   "topic": "Illinois rules",
   "body": "Illinois's zero tolerance law means a driver under 21 may drive with",
   "options": [
+   "no alcohol at all",
    "a BAC below 0.08%",
-   "one drink per hour",
    "a BAC below 0.05%",
-   "no alcohol at all"
+   "one drink per hour"
   ],
-  "answer": 3,
+  "answer": 0,
   "explanation": "Adults are over the limit at 0.08%.",
   "difficulty": 2
  },
@@ -102,12 +242,12 @@
   "topic": "Illinois rules",
   "body": "In Illinois, using a handheld phone while driving is",
   "options": [
-   "allowed on interstates",
-   "allowed under 30 mph",
+   "illegal for all drivers",
    "only illegal at night",
-   "illegal for all drivers"
+   "allowed under 30 mph",
+   "allowed on interstates"
   ],
-  "answer": 3,
+  "answer": 0,
   "explanation": "Drivers under 19 can't use a phone at all, even hands-free.",
   "difficulty": 2
  },
@@ -116,12 +256,12 @@
   "topic": "Illinois rules",
   "body": "Illinois's Move Over law, which protects stopped emergency vehicles, is known as",
   "options": [
+   "Lemon Law",
    "Megan's Law",
    "Scott's Law",
-   "Amber's Law",
-   "Lemon Law"
+   "Amber's Law"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "Change lanes or slow down and proceed with caution.",
   "difficulty": 2
  },
@@ -131,9 +271,9 @@
   "body": "Unless posted, the speed limit in an Illinois urban district is",
   "options": [
    "20 mph",
-   "55 mph",
+   "45 mph",
    "30 mph",
-   "45 mph"
+   "55 mph"
   ],
   "answer": 2,
   "explanation": "School zones are 20 mph when children are present.",
@@ -146,10 +286,10 @@
   "options": [
    "35 mph",
    "30 mph",
-   "10 mph",
-   "20 mph"
+   "20 mph",
+   "10 mph"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "Usually 7 a.m. to 4 p.m.",
   "difficulty": 2
  },
@@ -158,12 +298,12 @@
   "topic": "Illinois rules",
   "body": "Illegally passing a stopped school bus in Illinois can lead to",
   "options": [
-   "no penalty at all",
-   "a license suspension",
+   "a verbal warning only",
    "a parking ticket only",
-   "a verbal warning only"
+   "a license suspension",
+   "no penalty at all"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "Plus a fine.",
   "difficulty": 2
  },
@@ -172,12 +312,12 @@
   "topic": "Illinois rules",
   "body": "In Illinois, headlights must be on whenever",
   "options": [
-   "it's after noon",
    "your wipers are on for rain",
-   "you drive over 55 mph",
-   "you carry a passenger"
+   "it's after noon",
+   "you carry a passenger",
+   "you drive over 55 mph"
   ],
-  "answer": 1,
+  "answer": 0,
   "explanation": "Also from sunset to sunrise.",
   "difficulty": 2
  }

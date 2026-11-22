@@ -1,15 +1,155 @@
 [
  {
   "subject": "NCD",
+  "topic": "North Carolina permits",
+  "body": "How long must you hold a Level 2 limited provisional license in North Carolina?",
+  "options": [
+   "3 years",
+   "2 years",
+   "6 months",
+   "1 month"
+  ],
+  "answer": 2,
+  "explanation": "Then you can apply for a Level 3 full provisional license.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina permits",
+  "body": "A Level 2 driver in North Carolina may drive alone between",
+  "options": [
+   "any time at all",
+   "midnight and 6 a.m.",
+   "5 a.m. and 9 p.m.",
+   "9 p.m. and 5 a.m."
+  ],
+  "answer": 2,
+  "explanation": "With some exceptions for work and volunteer emergency services.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina permits",
+  "body": "A Level 2 NC driver may carry how many passengers under 21 who aren't family?",
+  "options": [
+   "one",
+   "none",
+   "any number",
+   "three"
+  ],
+  "answer": 0,
+  "explanation": "When no supervising driver is present.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina permits",
+  "body": "A Level 1 NC permit holder must always drive with",
+  "options": [
+   "no one at all if it's daytime",
+   "another teen driver as a passenger",
+   "a supervising driver beside them",
+   "a friend sitting in the back seat"
+  ],
+  "answer": 2,
+  "explanation": "The supervising driver sits in the front passenger seat.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina rules",
+  "body": "North Carolina requires a child restraint until age 8 or a weight of",
+  "options": [
+   "200 lbs",
+   "40 lbs",
+   "120 lbs",
+   "80 lbs"
+  ],
+  "answer": 3,
+  "explanation": "Whichever comes first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina rules",
+  "body": "North Carolina's seat belt law applies to",
+  "options": [
+   "only children under 16",
+   "everyone in the vehicle",
+   "only the person driving",
+   "only the front seats"
+  ],
+  "answer": 1,
+  "explanation": "Drivers can be ticketed for unbuckled passengers.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina rules",
+  "body": "When passing a cyclist in North Carolina, leave at least",
+  "options": [
+   "20 feet",
+   "1 foot",
+   "2 feet",
+   "6 inches"
+  ],
+  "answer": 2,
+  "explanation": "Give more room when you can.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina rules",
+  "body": "A first refusal of a chemical test in North Carolina leads to a license revocation of",
+  "options": [
+   "1 year",
+   "1 month",
+   "10 years",
+   "1 week"
+  ],
+  "answer": 0,
+  "explanation": "Under implied consent.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina rules",
+  "body": "In North Carolina, your license can be suspended if you get how many points in 3 years?",
+  "options": [
+   "6",
+   "3",
+   "30",
+   "12"
+  ],
+  "answer": 3,
+  "explanation": "Points come from moving violations.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina rules",
+  "body": "In North Carolina, dim your high beams when an oncoming vehicle is within",
+  "options": [
+   "500 feet",
+   "100 feet",
+   "50 feet",
+   "2 miles"
+  ],
+  "answer": 0,
+  "explanation": "And when following within 200 feet.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
   "topic": "North Carolina test",
   "body": "The North Carolina knowledge test has 25 questions. How many must you get right?",
   "options": [
-   "18",
    "20",
    "25",
+   "18",
    "15"
   ],
-  "answer": 1,
+  "answer": 0,
   "explanation": "That's 80%.",
   "difficulty": 2
  },
@@ -18,12 +158,12 @@
   "topic": "North Carolina test",
   "body": "Besides the knowledge test, NC permit applicants also pass",
   "options": [
-   "a traffic signs test",
-   "a parallel parking test",
    "an engine check",
-   "a first aid exam"
+   "a parallel parking test",
+   "a first aid exam",
+   "a traffic signs test"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "Plus a vision test.",
   "difficulty": 2
  },
@@ -32,8 +172,8 @@
   "topic": "North Carolina permits",
   "body": "The minimum age for a North Carolina Level 1 limited learner permit is",
   "options": [
-   "17",
    "16",
+   "17",
    "15",
    "14"
   ],
@@ -47,11 +187,11 @@
   "body": "How long must you hold a Level 1 permit in North Carolina?",
   "options": [
    "2 years",
+   "3 months",
    "12 months",
-   "1 month",
-   "3 months"
+   "1 month"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "Then you can apply for a Level 2 limited provisional license.",
   "difficulty": 2
  },
@@ -60,12 +200,12 @@
   "topic": "North Carolina permits",
   "body": "North Carolina driver education includes 30 hours of classroom instruction and",
   "options": [
-   "50 hours behind the wheel",
-   "6 hours behind the wheel",
    "no driving at all",
-   "1 hour on a simulator"
+   "50 hours behind the wheel",
+   "1 hour on a simulator",
+   "6 hours behind the wheel"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "From an approved provider.",
   "difficulty": 2
  },
@@ -74,12 +214,12 @@
   "topic": "North Carolina permits",
   "body": "In the first six months, a Level 1 permit holder may drive only between",
   "options": [
-   "9 p.m. and 5 a.m.",
    "noon and 6 p.m.",
-   "5 a.m. and 9 p.m.",
-   "any time alone"
+   "any time alone",
+   "9 p.m. and 5 a.m.",
+   "5 a.m. and 9 p.m."
   ],
-  "answer": 2,
+  "answer": 3,
   "explanation": "Always with a supervising driver.",
   "difficulty": 2
  },
@@ -88,12 +228,12 @@
   "topic": "North Carolina permits",
   "body": "A Level 1 supervising driver must have been licensed for at least",
   "options": [
-   "1 year",
    "6 months",
-   "5 years",
-   "20 years"
+   "20 years",
+   "1 year",
+   "5 years"
   ],
-  "answer": 2,
+  "answer": 3,
   "explanation": "Usually a parent or guardian.",
   "difficulty": 2
  },
@@ -102,12 +242,12 @@
   "topic": "North Carolina rules",
   "body": "In North Carolina, drivers under 21 may drive with a BAC of",
   "options": [
-   "no alcohol at all",
    "up to 0.08%",
+   "up to 0.05%",
    "up to 0.02%",
-   "up to 0.05%"
+   "no alcohol at all"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "Adults are over the limit at 0.08%.",
   "difficulty": 2
  },
@@ -117,11 +257,11 @@
   "body": "North Carolina drivers under 18 may use a mobile phone while driving",
   "options": [
    "hands-free at any time they like",
-   "only while stopped at red lights",
    "only to call for help in an emergency",
+   "only while stopped at red lights",
    "whenever the traffic is light"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "Texting while driving is illegal for everyone.",
   "difficulty": 2
  },
@@ -130,12 +270,12 @@
   "topic": "North Carolina rules",
   "body": "In North Carolina, headlights must be on when",
   "options": [
-   "you park on a steep hill",
+   "your wipers are on for rain",
    "you drive above 50 mph",
-   "you drive on the weekend",
-   "your wipers are on for rain"
+   "you park on a steep hill",
+   "you drive on the weekend"
   ],
-  "answer": 3,
+  "answer": 0,
   "explanation": "Also from sunset to sunrise.",
   "difficulty": 2
  },
@@ -145,9 +285,9 @@
   "body": "Unless posted, the speed limit inside North Carolina city limits is",
   "options": [
    "35 mph",
-   "55 mph",
    "45 mph",
-   "20 mph"
+   "20 mph",
+   "55 mph"
   ],
   "answer": 0,
   "explanation": "Outside city limits it's usually 55 mph.",
@@ -159,8 +299,8 @@
   "body": "Unless posted, the speed limit outside NC city limits is",
   "options": [
    "35 mph",
-   "45 mph",
    "65 mph",
+   "45 mph",
    "55 mph"
   ],
   "answer": 3,
@@ -187,11 +327,11 @@
   "body": "North Carolina's Move Over law covers stopped",
   "options": [
    "vehicles parked in driveways",
-   "delivery vans parked on the street",
    "emergency and tow vehicles with lights on",
+   "delivery vans parked on the street",
    "cyclists riding on the shoulder"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "Move over a lane or slow down.",
   "difficulty": 2
  }

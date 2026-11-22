@@ -1,15 +1,155 @@
 [
  {
   "subject": "OHD",
+  "topic": "Ohio permits",
+  "body": "An Ohio TIPIC holder under 16 must drive with",
+  "options": [
+   "a friend aged 18 or older",
+   "no one, if it's daylight",
+   "any licensed adult of any age",
+   "a parent, guardian or instructor"
+  ],
+  "answer": 3,
+  "explanation": "From 16, any licensed driver aged 21+ may supervise.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio permits",
+  "body": "Ohio TIPIC holders under 18 may not drive between",
+  "options": [
+   "8 p.m. and 10 p.m.",
+   "midnight and 6 a.m.",
+   "6 a.m. and 9 a.m.",
+   "3 p.m. and 6 p.m."
+  ],
+  "answer": 1,
+  "explanation": "Even with a supervisor, unless with a parent or guardian.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio rules",
+  "body": "In their first 12 months, Ohio probationary drivers may carry how many non-family passengers?",
+  "options": [
+   "three",
+   "any number",
+   "none",
+   "one"
+  ],
+  "answer": 3,
+  "explanation": "Unless a parent or guardian is in the car.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio rules",
+  "body": "A first refusal of a chemical test in Ohio leads to an administrative license suspension of",
+  "options": [
+   "1 month",
+   "10 years",
+   "1 week",
+   "1 year"
+  ],
+  "answer": 3,
+  "explanation": "Under implied consent.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio rules",
+  "body": "Ohio requires a booster seat until a child is 8 years old or",
+  "options": [
+   "5'6\" tall",
+   "6' tall",
+   "3' tall",
+   "4'9\" tall"
+  ],
+  "answer": 3,
+  "explanation": "Whichever comes first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio rules",
+  "body": "Ohio's seat belt law requires belts for the driver and",
+  "options": [
+   "nobody else",
+   "the rear passengers only",
+   "the front-seat passenger",
+   "pets"
+  ],
+  "answer": 2,
+  "explanation": "Children must be properly restrained in any seat.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio rules",
+  "body": "Unless posted, the speed limit in Ohio residential and business districts is",
+  "options": [
+   "25 mph",
+   "35 mph",
+   "45 mph",
+   "15 mph"
+  ],
+  "answer": 0,
+  "explanation": "Rural interstates can be posted at 70 mph.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio rules",
+  "body": "On an Ohio road with fewer than four lanes, when a school bus stops to load children",
+  "options": [
+   "only trucks must stop",
+   "only traffic behind it stops",
+   "all traffic must stop",
+   "traffic may pass slowly"
+  ],
+  "answer": 2,
+  "explanation": "On roads with four or more lanes, oncoming traffic may continue.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio rules",
+  "body": "When passing a cyclist in Ohio, leave at least",
+  "options": [
+   "1 foot",
+   "6 inches",
+   "10 feet",
+   "3 feet"
+  ],
+  "answer": 3,
+  "explanation": "Ohio's safe passing law.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio rules",
+  "body": "In Ohio, how many points within 2 years lead to a license suspension?",
+  "options": [
+   "3",
+   "6",
+   "30",
+   "12"
+  ],
+  "answer": 3,
+  "explanation": "Points come from traffic convictions.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
   "topic": "Ohio test",
   "body": "How many questions are on the Ohio knowledge test?",
   "options": [
    "20",
-   "40",
    "25",
-   "50"
+   "50",
+   "40"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "All multiple choice, on traffic laws and signs.",
   "difficulty": 2
  },
@@ -19,9 +159,9 @@
   "body": "What score do you need to pass the Ohio knowledge test?",
   "options": [
    "75%",
+   "100%",
    "85%",
-   "60%",
-   "100%"
+   "60%"
   ],
   "answer": 0,
   "explanation": "That's 30 of 40 correct.",
@@ -32,12 +172,12 @@
   "topic": "Ohio test",
   "body": "If you fail the Ohio knowledge test, you can retake it after",
   "options": [
-   "24 hours",
-   "1 hour",
    "6 months",
-   "30 days"
+   "1 hour",
+   "30 days",
+   "24 hours"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "There's no fixed limit on attempts.",
   "difficulty": 2
  },
@@ -46,12 +186,12 @@
   "topic": "Ohio permits",
   "body": "Ohio's learner's permit is called the",
   "options": [
-   "TIPIC",
-   "PRP",
    "GDL-X",
+   "PRP",
+   "TIPIC",
    "CDL"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "Temporary Instruction Permit Identification Card.",
   "difficulty": 2
  },
@@ -75,9 +215,9 @@
   "body": "Ohio drivers under 18 must hold their TIPIC for at least",
   "options": [
    "6 months",
+   "1 year",
    "3 months",
-   "1 month",
-   "1 year"
+   "1 month"
   ],
   "answer": 0,
   "explanation": "Before taking the driving test.",
@@ -88,12 +228,12 @@
   "topic": "Ohio permits",
   "body": "Ohio teens must log how many hours of supervised driving?",
   "options": [
-   "100, including 40 at night",
-   "10, all in daylight",
    "25, including 2 at night",
-   "50, including 10 at night"
+   "50, including 10 at night",
+   "100, including 40 at night",
+   "10, all in daylight"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "Signed off by a parent or guardian.",
   "difficulty": 2
  },
@@ -102,12 +242,12 @@
   "topic": "Ohio permits",
   "body": "Ohio driver education for teens includes 24 hours of classroom and",
   "options": [
-   "no driving",
-   "8 hours behind the wheel",
+   "40 hours behind the wheel",
    "2 hours on a simulator",
-   "40 hours behind the wheel"
+   "8 hours behind the wheel",
+   "no driving"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "From a licensed driver training school.",
   "difficulty": 2
  },
@@ -117,9 +257,9 @@
   "body": "In Ohio, drivers under 21 may not drive with a BAC of",
   "options": [
    "0.02% or more",
+   "0.10% or more",
    "0.17% or more",
-   "0.08% or more",
-   "0.10% or more"
+   "0.08% or more"
   ],
   "answer": 0,
   "explanation": "Adults are over the limit at 0.08%.",
@@ -130,12 +270,12 @@
   "topic": "Ohio rules",
   "body": "Under Ohio's distracted driving law, holding or using a phone while driving is",
   "options": [
-   "allowed on rural roads",
    "only illegal at night",
-   "allowed under 35 mph",
-   "illegal for all drivers"
+   "illegal for all drivers",
+   "allowed on rural roads",
+   "allowed under 35 mph"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "Hands-free use is allowed for adults.",
   "difficulty": 2
  },
@@ -144,12 +284,12 @@
   "topic": "Ohio rules",
   "body": "Unless posted, the speed limit in an Ohio school zone during restricted hours is",
   "options": [
-   "15 mph",
+   "30 mph",
    "35 mph",
-   "20 mph",
-   "30 mph"
+   "15 mph",
+   "20 mph"
   ],
-  "answer": 2,
+  "answer": 3,
   "explanation": "When children are present or the signs are flashing.",
   "difficulty": 2
  },
@@ -160,10 +300,10 @@
   "options": [
    "you're on a freeway",
    "it's above 80°F",
-   "your wipers are in use",
-   "you have passengers"
+   "you have passengers",
+   "your wipers are in use"
   ],
-  "answer": 2,
+  "answer": 3,
   "explanation": "Also from sunset to sunrise.",
   "difficulty": 2
  },
@@ -173,11 +313,11 @@
   "body": "Ohio probationary drivers under 17 may not drive alone between",
   "options": [
    "6 a.m. and noon",
+   "midnight and 6 a.m.",
    "8 p.m. and 10 p.m.",
-   "3 p.m. and 6 p.m.",
-   "midnight and 6 a.m."
+   "3 p.m. and 6 p.m."
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "Unless with a parent or guardian, or for work or school.",
   "difficulty": 2
  },
@@ -186,12 +326,12 @@
   "topic": "Ohio rules",
   "body": "Ohio's Move Over law requires you to change lanes or slow down for",
   "options": [
-   "any car parked on the shoulder",
    "slow-moving farm tractors only",
+   "stopped vehicles with flashing lights",
    "vehicles in school zones only",
-   "stopped vehicles with flashing lights"
+   "any car parked on the shoulder"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "Including police, emergency, road crew and tow vehicles.",
   "difficulty": 2
  }

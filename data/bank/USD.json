@@ -936,5 +936,495 @@
   "answer": 0,
   "explanation": "Stay out of traffic lanes.",
   "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signs",
+  "body": "A white sign with a red circle and a red band reading 'Do Not Enter' means",
+  "options": [
+   "you may enter slowly",
+   "you may not enter that road",
+   "parking is allowed here",
+   "the road is a toll road"
+  ],
+  "answer": 1,
+  "explanation": "Usually seen on one-way streets and freeway exit ramps.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signs",
+  "body": "A 'Wrong Way' sign means you are",
+  "options": [
+   "driving near a school",
+   "driving against traffic",
+   "driving on a toll road",
+   "driving in a bus lane"
+  ],
+  "answer": 1,
+  "explanation": "Pull over safely and turn around.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signs",
+  "body": "A sign showing a pedestrian on a yellow or fluorescent yellow-green background warns of",
+  "options": [
+   "a highway rest area",
+   "a pedestrian crossing",
+   "a nearby hospital",
+   "a public bus stop"
+  ],
+  "answer": 1,
+  "explanation": "Slow down and be ready to stop.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signs",
+  "body": "A brown sign usually points to",
+  "options": [
+   "road work ahead",
+   "parks and historic sites",
+   "speed limit changes",
+   "hospitals and clinics"
+  ],
+  "answer": 1,
+  "explanation": "Recreation and cultural sites, such as campgrounds.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signs",
+  "body": "A 'Yield' sign tells you to",
+  "options": [
+   "honk before you enter",
+   "speed up to merge in",
+   "always stop completely",
+   "give way, stopping if needed"
+  ],
+  "answer": 3,
+  "explanation": "Let traffic with the right-of-way go first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signals",
+  "body": "A steady red arrow means",
+  "options": [
+   "don't turn that way yet",
+   "turn with caution",
+   "the light is broken",
+   "go straight only"
+  ],
+  "answer": 0,
+  "explanation": "Wait for a green arrow or a green light.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signals",
+  "body": "A flashing yellow arrow for a left turn means",
+  "options": [
+   "you have the right-of-way",
+   "turn left after yielding",
+   "stop and wait for green",
+   "the turn lane is closed"
+  ],
+  "answer": 1,
+  "explanation": "Oncoming traffic and pedestrians go first.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Signals",
+  "body": "Unless a sign prohibits it, most US states allow a right turn on red after",
+  "options": [
+   "honking twice first",
+   "waiting for 30 seconds",
+   "slowing down to 5 mph",
+   "a full stop and yielding"
+  ],
+  "answer": 3,
+  "explanation": "Check for pedestrians and cross traffic.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Markings",
+  "body": "A broken yellow center line means",
+  "options": [
+   "you may pass when safe",
+   "it's a bus-only lane",
+   "it's a bike-only lane",
+   "you may never pass"
+  ],
+  "answer": 0,
+  "explanation": "Only when the way ahead is clear.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Markings",
+  "body": "A solid white line between lanes going the same way means",
+  "options": [
+   "traffic flows both ways",
+   "this is a parking zone",
+   "lane changes are discouraged",
+   "lane changes are required"
+  ],
+  "answer": 2,
+  "explanation": "Often seen near intersections.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Markings",
+  "body": "A diamond symbol painted on a lane marks",
+  "options": [
+   "a school zone ahead",
+   "a pedestrian crossing",
+   "a railroad crossing ahead",
+   "a reserved lane, such as HOV"
+  ],
+  "answer": 3,
+  "explanation": "Check the signs for who may use it.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Markings",
+  "body": "A white stop line at an intersection shows",
+  "options": [
+   "a bike lane",
+   "where to park",
+   "a merge point",
+   "where to stop"
+  ],
+  "answer": 3,
+  "explanation": "Stop behind it, before the crosswalk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Right-of-way",
+  "body": "At a T-intersection with no signs, a driver on the road that ends must",
+  "options": [
+   "always go first",
+   "honk, then proceed",
+   "stop only at night",
+   "yield to through traffic"
+  ],
+  "answer": 3,
+  "explanation": "The through road has the right-of-way.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Right-of-way",
+  "body": "When pulling out of a driveway or alley, you must",
+  "options": [
+   "honk, then pull straight out",
+   "go before other traffic",
+   "flash your lights and go",
+   "yield to traffic and walkers"
+  ],
+  "answer": 3,
+  "explanation": "Stop before the sidewalk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Right-of-way",
+  "body": "A funeral procession with headlights on should",
+  "options": [
+   "be allowed to pass",
+   "yield to you",
+   "be overtaken quickly",
+   "be honked at"
+  ],
+  "answer": 0,
+  "explanation": "Don't cut into the line.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Right-of-way",
+  "body": "If you're in a roundabout and an emergency vehicle approaches, you should",
+  "options": [
+   "exit, then pull over",
+   "speed up around it",
+   "reverse back out",
+   "stop inside the circle"
+  ],
+  "answer": 0,
+  "explanation": "Don't stop inside the roundabout.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Speed",
+  "body": "The Basic Speed Law means you must never drive",
+  "options": [
+   "above 25 mph in any area",
+   "faster than conditions allow",
+   "in the far left lane",
+   "below the posted speed limit"
+  ],
+  "answer": 1,
+  "explanation": "Even below the limit can be too fast in bad weather.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Speed",
+  "body": "Driving much slower than surrounding traffic on a freeway can be",
+  "options": [
+   "as dangerous as speeding",
+   "a legal requirement at night",
+   "fine in any lane you like",
+   "the safest choice always"
+  ],
+  "answer": 0,
+  "explanation": "It forces others to brake or weave.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Speed",
+  "body": "Roads are most slippery",
+  "options": [
+   "in the first minutes of rain",
+   "after many hours of rain",
+   "on hot, sunny days",
+   "in the middle of the day"
+  ],
+  "answer": 0,
+  "explanation": "Oil and dust mix with the water.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "When changing lanes, you should signal, check your mirrors and",
+  "options": [
+   "turn off your lights",
+   "honk to warn others",
+   "look over your shoulder",
+   "speed up right away"
+  ],
+  "answer": 2,
+  "explanation": "Blind spots don't show in mirrors.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "In most states, you should signal at least how far before a turn?",
+  "options": [
+   "1 mile",
+   "10 feet",
+   "100 feet",
+   "20 feet"
+  ],
+  "answer": 2,
+  "explanation": "Signal earlier at higher speeds.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "In heavy rain, snow or fog, increase your following distance to at least",
+  "options": [
+   "2 seconds",
+   "4–5 seconds",
+   "1 second",
+   "half a second"
+  ],
+  "answer": 1,
+  "explanation": "You need more time to stop.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "If oncoming headlights dazzle you at night, look toward",
+  "options": [
+   "the dashboard clock",
+   "the yellow center line",
+   "the right edge of your lane",
+   "the oncoming headlights"
+  ],
+  "answer": 2,
+  "explanation": "Use the edge line to guide you.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "Before backing up, you should",
+  "options": [
+   "turn and look behind you",
+   "rely on mirrors only",
+   "open the driver's door",
+   "honk and reverse fast"
+  ],
+  "answer": 0,
+  "explanation": "Small children and objects are easy to miss.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "A child under 13 should ride",
+  "options": [
+   "on an adult's lap",
+   "in the front seat",
+   "in the cargo area",
+   "in the back seat"
+  ],
+  "answer": 3,
+  "explanation": "Airbags can seriously injure children.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "If your wheels drop off the edge of the pavement, you should",
+  "options": [
+   "speed up to climb back on",
+   "jerk the wheel back at once",
+   "brake as hard as you can",
+   "slow down, then steer back gently"
+  ],
+  "answer": 3,
+  "explanation": "A sharp turn can flip the car.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Safe driving",
+  "body": "In almost every US state, texting while driving is",
+  "options": [
+   "fine at stop signs",
+   "legal on highways",
+   "legal under 30 mph",
+   "banned for all drivers"
+  ],
+  "answer": 3,
+  "explanation": "It takes your eyes, hands and mind off driving.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Sharing the road",
+  "body": "When a large truck ahead is turning right, you should",
+  "options": [
+   "stay back and wait",
+   "tailgate it closely",
+   "honk to hurry it",
+   "pass it on the right"
+  ],
+  "answer": 0,
+  "explanation": "Trucks often swing wide left before turning right.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Sharing the road",
+  "body": "If you can't see a truck driver in their side mirror",
+  "options": [
+   "they're about to turn",
+   "they've stopped driving",
+   "you're in a safe spot",
+   "they can't see you"
+  ],
+  "answer": 3,
+  "explanation": "You're in a no-zone.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Sharing the road",
+  "body": "When passing a motorcycle, give it",
+  "options": [
+   "a quick honk first",
+   "a full lane width",
+   "half a lane width",
+   "no extra space"
+  ],
+  "answer": 1,
+  "explanation": "Never share a lane with a motorcycle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Sharing the road",
+  "body": "A slow-moving vehicle displays",
+  "options": [
+   "a white diamond",
+   "a blue circle",
+   "a green square",
+   "an orange triangle"
+  ],
+  "answer": 3,
+  "explanation": "With red edges, on farm equipment and horse-drawn vehicles.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Alcohol and drugs",
+  "body": "Most states set the BAC limit for commercial drivers at",
+  "options": [
+   "0.04%",
+   "0.15%",
+   "0.08%",
+   "0.10%"
+  ],
+  "answer": 0,
+  "explanation": "Half the normal adult limit.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Alcohol and drugs",
+  "body": "Drugs that can impair driving include",
+  "options": [
+   "only illegal street drugs",
+   "only alcoholic drinks",
+   "prescription and OTC drugs",
+   "only coffee and energy drinks"
+  ],
+  "answer": 2,
+  "explanation": "Read the warning labels.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Alcohol and drugs",
+  "body": "An open container law generally bans",
+  "options": [
+   "drinking alcohol at home",
+   "sealed bottles in the trunk",
+   "buying alcohol at stores",
+   "open alcohol in the car"
+  ],
+  "answer": 3,
+  "explanation": "Keep it sealed and in the trunk.",
+  "difficulty": 2
+ },
+ {
+  "subject": "USD",
+  "topic": "Emergencies",
+  "body": "After a crash with injuries, you must",
+  "options": [
+   "stop, help and report it",
+   "report it the next day",
+   "move the injured first",
+   "drive away quickly"
+  ],
+  "answer": 0,
+  "explanation": "Call 911 and stay at the scene.",
+  "difficulty": 2
  }
 ]

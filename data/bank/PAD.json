@@ -1,15 +1,155 @@
 [
  {
   "subject": "PAD",
+  "topic": "Pennsylvania rules",
+  "body": "In the first 6 months, a Pennsylvania junior driver may carry how many passengers under 18 (not family)?",
+  "options": [
+   "one",
+   "any number",
+   "three",
+   "none at all"
+  ],
+  "answer": 0,
+  "explanation": "Unless a parent or guardian is in the car.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PAD",
+  "topic": "Pennsylvania rules",
+  "body": "After 6 months, a Pennsylvania junior driver may carry up to how many passengers under 18?",
+  "options": [
+   "five",
+   "one",
+   "three",
+   "any number"
+  ],
+  "answer": 2,
+  "explanation": "The limit is lifted with a parent or guardian present.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PAD",
+  "topic": "Pennsylvania rules",
+  "body": "Pennsylvania requires a booster seat for children aged",
+  "options": [
+   "12 to 14",
+   "1 to 2",
+   "16 to 18",
+   "4 to 8"
+  ],
+  "answer": 3,
+  "explanation": "Under 4, a child safety seat is required.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PAD",
+  "topic": "Pennsylvania rules",
+  "body": "A first refusal of a chemical test in Pennsylvania leads to a suspension of",
+  "options": [
+   "12 months",
+   "1 month",
+   "1 week",
+   "10 years"
+  ],
+  "answer": 0,
+  "explanation": "Under implied consent.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PAD",
+  "topic": "Pennsylvania rules",
+  "body": "When passing a cyclist in Pennsylvania, leave at least",
+  "options": [
+   "6 inches",
+   "4 feet",
+   "1 foot",
+   "20 feet"
+  ],
+  "answer": 1,
+  "explanation": "Pennsylvania's four-foot rule.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PAD",
+  "topic": "Pennsylvania rules",
+  "body": "Unless posted, the speed limit in a Pennsylvania urban district is",
+  "options": [
+   "15 mph",
+   "45 mph",
+   "55 mph",
+   "35 mph"
+  ],
+  "answer": 3,
+  "explanation": "Residence districts can be 25 mph.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PAD",
+  "topic": "Pennsylvania rules",
+  "body": "Pennsylvania drivers who reach 6 points must",
+  "options": [
+   "pay no fine at all",
+   "get a free license upgrade",
+   "redo the whole of driver's ed",
+   "take a special written exam"
+  ],
+  "answer": 3,
+  "explanation": "Failing to pass leads to suspension.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PAD",
+  "topic": "Pennsylvania rules",
+  "body": "A Pennsylvania junior driver is suspended if they reach 6 points or speed by",
+  "options": [
+   "5+ mph over",
+   "1+ mph over",
+   "26+ mph over",
+   "10+ mph over"
+  ],
+  "answer": 2,
+  "explanation": "The suspension is for 90 days for a first offense.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PAD",
+  "topic": "Pennsylvania rules",
+  "body": "In Pennsylvania, dim your high beams when an oncoming vehicle is within",
+  "options": [
+   "2 miles",
+   "50 feet",
+   "100 feet",
+   "500 feet"
+  ],
+  "answer": 3,
+  "explanation": "And within 300 feet when following another vehicle.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PAD",
+  "topic": "Pennsylvania rules",
+  "body": "Illegally passing a stopped school bus in Pennsylvania means 5 points, a $250 fine and",
+  "options": [
+   "a verbal warning",
+   "no further penalty",
+   "a free safety class",
+   "a 60-day suspension"
+  ],
+  "answer": 3,
+  "explanation": "The bus shows flashing red lights and an extended stop arm.",
+  "difficulty": 2
+ },
+ {
+  "subject": "PAD",
   "topic": "Pennsylvania test",
   "body": "How many questions are on the Pennsylvania knowledge test?",
   "options": [
    "25",
-   "10",
    "18",
+   "10",
    "40"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "Multiple choice, on signs, laws and safe driving.",
   "difficulty": 2
  },
@@ -18,12 +158,12 @@
   "topic": "Pennsylvania test",
   "body": "How many of the 18 Pennsylvania questions must you get right?",
   "options": [
-   "14",
    "18",
+   "15",
    "12",
-   "15"
+   "14"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "About 83%.",
   "difficulty": 2
  },
@@ -33,9 +173,9 @@
   "body": "If you fail the Pennsylvania knowledge test, you can retake it",
   "options": [
    "the next business day",
-   "after waiting 30 days",
    "after waiting 6 months",
-   "never again"
+   "never again",
+   "after waiting 30 days"
   ],
   "answer": 0,
   "explanation": "The permit is issued once you pass.",
@@ -60,12 +200,12 @@
   "topic": "Pennsylvania permits",
   "body": "A Pennsylvania learner's permit is valid for",
   "options": [
-   "five years",
-   "six months",
    "30 days",
-   "one year"
+   "six months",
+   "one year",
+   "five years"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "It can be extended.",
   "difficulty": 2
  },
@@ -74,12 +214,12 @@
   "topic": "Pennsylvania permits",
   "body": "Pennsylvania teens must hold a learner's permit for at least",
   "options": [
-   "3 months",
-   "1 month",
    "6 months",
-   "2 years"
+   "2 years",
+   "1 month",
+   "3 months"
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "Before taking the road test.",
   "difficulty": 2
  },
@@ -88,12 +228,12 @@
   "topic": "Pennsylvania permits",
   "body": "Pennsylvania drivers under 18 must log",
   "options": [
+   "65 hours (10 night, 5 bad weather)",
    "20 hours (all of them in daylight)",
    "100 hours (50 of them at night)",
-   "65 hours (10 night, 5 bad weather)",
    "40 hours (5 at night, 5 in rain)"
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "Signed off on a certification form.",
   "difficulty": 2
  },
@@ -102,12 +242,12 @@
   "topic": "Pennsylvania rules",
   "body": "In Pennsylvania, drivers under 21 may not drive with a BAC of",
   "options": [
+   "0.02% or more",
    "0.16% or more",
-   "0.10% or more",
    "0.08% or more",
-   "0.02% or more"
+   "0.10% or more"
   ],
-  "answer": 3,
+  "answer": 0,
   "explanation": "Adults are over the limit at 0.08%.",
   "difficulty": 2
  },
@@ -117,11 +257,11 @@
   "body": "Pennsylvania junior license holders may not drive between",
   "options": [
    "7 a.m. and 9 a.m.",
-   "6 p.m. and 9 p.m.",
    "11 p.m. and 5 a.m.",
+   "6 p.m. and 9 p.m.",
    "noon and 2 p.m."
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "Exceptions apply for work and some activities.",
   "difficulty": 2
  },
@@ -130,12 +270,12 @@
   "topic": "Pennsylvania rules",
   "body": "Pennsylvania's 'Steer Clear' law requires you to move over or slow down for",
   "options": [
-   "cyclists on the road",
-   "emergency response areas",
    "any parked cars",
-   "stopped school buses only"
+   "cyclists on the road",
+   "stopped school buses only",
+   "emergency response areas"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "Areas marked by flashing lights, flares or signs.",
   "difficulty": 2
  },
@@ -144,12 +284,12 @@
   "topic": "Pennsylvania rules",
   "body": "When a school bus stops with red lights flashing in Pennsylvania, you must stop at least",
   "options": [
-   "2 feet away",
-   "50 feet away",
+   "10 feet away",
    "100 yards away",
-   "10 feet away"
+   "2 feet away",
+   "50 feet away"
   ],
-  "answer": 3,
+  "answer": 0,
   "explanation": "Unless you're on the other side of a divided highway.",
   "difficulty": 2
  },
@@ -158,12 +298,12 @@
   "topic": "Pennsylvania rules",
   "body": "When the lights are flashing, the speed limit in a Pennsylvania school zone is",
   "options": [
-   "15 mph",
+   "10 mph",
    "35 mph",
-   "25 mph",
-   "10 mph"
+   "15 mph",
+   "25 mph"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "Watch for flashing signals and posted times.",
   "difficulty": 2
  },
@@ -172,12 +312,12 @@
   "topic": "Pennsylvania rules",
   "body": "In Pennsylvania, you must use your headlights when",
   "options": [
-   "you carry a passenger",
    "your wipers are on for rain",
-   "it's a public holiday",
-   "you drive over 50 mph"
+   "you carry a passenger",
+   "you drive over 50 mph",
+   "it's a public holiday"
   ],
-  "answer": 1,
+  "answer": 0,
   "explanation": "Also from sunset to sunrise.",
   "difficulty": 2
  },
@@ -186,12 +326,12 @@
   "topic": "Pennsylvania rules",
   "body": "Pennsylvania law bans texting while driving and, since 2025, using",
   "options": [
-   "the heater",
    "the car radio",
-   "cruise control",
-   "a handheld phone"
+   "the heater",
+   "a handheld phone",
+   "cruise control"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "Under Paul Miller's Law.",
   "difficulty": 2
  }

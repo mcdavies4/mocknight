@@ -6,6 +6,16 @@ type F = [string, string, string, string[], string];
 const facts = (code: string, list: F[], d: 1 | 2 | 3 = 2) => list.map(([t, b, c, x, e]) => mcq(code, t, b, c, x, e, d));
 
 const VAD: F[] = [
+  ["Virginia rules", "In Virginia, all passengers under 18 must be", "buckled up in any seat", ["buckled up only in front", "seated behind the driver", "exempt on short trips"], "Children under 8 need a child safety seat or booster."],
+  ["Virginia rules", "Virginia law requires children to ride in a child safety seat or booster until age", "8", ["4", "6", "12"], "Rear-facing until at least age 2."],
+  ["Virginia rules", "In Virginia, using a radar detector in a car is", "illegal", ["legal for adults", "legal on interstates", "required in trucks"], "Virginia is one of very few places that bans them."],
+  ["Virginia rules", "In Virginia, illegally passing a stopped school bus counts as", "reckless driving", ["a parking offense", "a warning only", "careless walking"], "It's a criminal offense."],
+  ["Virginia rules", "Virginia drivers must do what for a pedestrian in a marked crosswalk?", "stop", ["honk", "speed up", "flash the lights"], "Virginia law requires stopping, not just yielding."],
+  ["Virginia rules", "When passing a cyclist in Virginia, leave at least", "3 feet", ["1 foot", "6 inches", "10 feet"], "Change lanes if the lane is too narrow to pass safely."],
+  ["Virginia rules", "Virginia drivers under 18 may use a phone while driving", "only in an emergency", ["hands-free at any time", "at speeds below 25 mph", "whenever traffic is light"], "Even hands-free use is banned for them."],
+  ["Virginia rules", "A first refusal of a breath test after a DUI arrest in Virginia leads to a license suspension of", "1 year", ["1 week", "1 month", "10 years"], "Under the implied consent law."],
+  ["Virginia rules", "Unless posted, the speed limit on Virginia's unpaved (nonsurface-treated) highways is", "35 mph", ["15 mph", "45 mph", "55 mph"], "Most other highways default to 55 mph."],
+  ["Virginia permits", "A Virginia permit holder must drive with a parent, guardian or licensed driver aged at least", "21", ["16", "18", "30"], "A licensed sibling aged 18+ may also supervise."],
   ["Virginia test", "Part one of the Virginia knowledge exam has 10 traffic sign questions. How many must you get right?", "all 10", ["8", "7", "5"], "You can't move on to part two until every sign question is correct."],
   ["Virginia test", "What score do you need on part two (general knowledge) of the Virginia exam?", "at least 80%", ["at least 50%", "at least 65%", "100%"], "Part two covers laws and safe driving."],
   ["Virginia test", "If you're under 18 and fail the Virginia knowledge exam, how long must you wait to retake it?", "15 days", ["1 day", "7 days", "30 days"], "Adults can usually retest sooner."],
@@ -17,13 +27,23 @@ const VAD: F[] = [
   ["Virginia rules", "Under Virginia law, holding a handheld phone while driving is", "illegal for all drivers", ["allowed at under 25 mph", "allowed on rural roads", "only illegal for buses"], "Hands-free use is allowed for adults."],
   ["Virginia rules", "In Virginia, you must turn your headlights on whenever", "your wipers are on for rain", ["you drive above 45 mph", "you pass a school", "you're on any highway"], "Also from sunset to sunrise and in poor visibility."],
   ["Virginia rules", "Unless signs say otherwise, the speed limit in Virginia business and residence districts is", "25 mph", ["15 mph", "35 mph", "45 mph"], "Watch for posted limits."],
-  ["Virginia rules", "In Virginia, driving over 85 mph, or 20 mph or more over the limit, can be charged as", "reckless driving", ["a parking offence", "a warning only", "a minor infraction"], "It's a criminal offence."],
+  ["Virginia rules", "In Virginia, driving over 85 mph, or 20 mph or more over the limit, can be charged as", "reckless driving", ["a parking offense", "a warning only", "a minor infraction"], "It's a criminal offense."],
   ["Virginia rules", "Provisional drivers under 18 in Virginia may not drive between", "midnight and 4 a.m.", ["6 p.m. and 9 p.m.", "noon and 2 p.m.", "8 a.m. and 10 a.m."], "There are exceptions for work, school and emergencies."],
   ["Virginia rules", "In their first year, Virginia drivers under 18 may carry how many passengers under 21 (not family)?", "only one", ["none ever", "three", "any number"], "After a year, the limit rises to three until age 18."],
   ["Virginia rules", "Virginia's Move Over law requires you to change lanes or slow down for", "stopped vehicles with flashing lights", ["cars parked along the curb", "cyclists riding in the bike lanes", "city buses stopped at bus stops"], "Including police, emergency and highway vehicles."],
 ];
 
 const NCD: F[] = [
+  ["North Carolina permits", "How long must you hold a Level 2 limited provisional license in North Carolina?", "6 months", ["1 month", "3 years", "2 years"], "Then you can apply for a Level 3 full provisional license."],
+  ["North Carolina permits", "A Level 2 driver in North Carolina may drive alone between", "5 a.m. and 9 p.m.", ["9 p.m. and 5 a.m.", "midnight and 6 a.m.", "any time at all"], "With some exceptions for work and volunteer emergency services."],
+  ["North Carolina permits", "A Level 2 NC driver may carry how many passengers under 21 who aren't family?", "one", ["none", "three", "any number"], "When no supervising driver is present."],
+  ["North Carolina permits", "A Level 1 NC permit holder must always drive with", "a supervising driver beside them", ["a friend sitting in the back seat", "another teen driver as a passenger", "no one at all if it's daytime"], "The supervising driver sits in the front passenger seat."],
+  ["North Carolina rules", "North Carolina requires a child restraint until age 8 or a weight of", "80 lbs", ["40 lbs", "120 lbs", "200 lbs"], "Whichever comes first."],
+  ["North Carolina rules", "North Carolina's seat belt law applies to", "everyone in the vehicle", ["only the person driving", "only the front seats", "only children under 16"], "Drivers can be ticketed for unbuckled passengers."],
+  ["North Carolina rules", "When passing a cyclist in North Carolina, leave at least", "2 feet", ["6 inches", "1 foot", "20 feet"], "Give more room when you can."],
+  ["North Carolina rules", "A first refusal of a chemical test in North Carolina leads to a license revocation of", "1 year", ["1 week", "1 month", "10 years"], "Under implied consent."],
+  ["North Carolina rules", "In North Carolina, your license can be suspended if you get how many points in 3 years?", "12", ["3", "6", "30"], "Points come from moving violations."],
+  ["North Carolina rules", "In North Carolina, dim your high beams when an oncoming vehicle is within", "500 feet", ["50 feet", "100 feet", "2 miles"], "And when following within 200 feet."],
   ["North Carolina test", "The North Carolina knowledge test has 25 questions. How many must you get right?", "20", ["15", "18", "25"], "That's 80%."],
   ["North Carolina test", "Besides the knowledge test, NC permit applicants also pass", "a traffic signs test", ["a parallel parking test", "a first aid exam", "an engine check"], "Plus a vision test."],
   ["North Carolina permits", "The minimum age for a North Carolina Level 1 limited learner permit is", "15", ["14", "16", "17"], "You must have completed driver education."],
@@ -41,6 +61,16 @@ const NCD: F[] = [
 ];
 
 const OHD: F[] = [
+  ["Ohio permits", "An Ohio TIPIC holder under 16 must drive with", "a parent, guardian or instructor", ["any licensed adult of any age", "a friend aged 18 or older", "no one, if it's daylight"], "From 16, any licensed driver aged 21+ may supervise."],
+  ["Ohio permits", "Ohio TIPIC holders under 18 may not drive between", "midnight and 6 a.m.", ["6 a.m. and 9 a.m.", "3 p.m. and 6 p.m.", "8 p.m. and 10 p.m."], "Even with a supervisor, unless with a parent or guardian."],
+  ["Ohio rules", "In their first 12 months, Ohio probationary drivers may carry how many non-family passengers?", "one", ["none", "three", "any number"], "Unless a parent or guardian is in the car."],
+  ["Ohio rules", "A first refusal of a chemical test in Ohio leads to an administrative license suspension of", "1 year", ["1 week", "1 month", "10 years"], "Under implied consent."],
+  ["Ohio rules", "Ohio requires a booster seat until a child is 8 years old or", "4'9\" tall", ["3' tall", "5'6\" tall", "6' tall"], "Whichever comes first."],
+  ["Ohio rules", "Ohio's seat belt law requires belts for the driver and", "the front-seat passenger", ["nobody else", "the rear passengers only", "pets"], "Children must be properly restrained in any seat."],
+  ["Ohio rules", "Unless posted, the speed limit in Ohio residential and business districts is", "25 mph", ["15 mph", "35 mph", "45 mph"], "Rural interstates can be posted at 70 mph."],
+  ["Ohio rules", "On an Ohio road with fewer than four lanes, when a school bus stops to load children", "all traffic must stop", ["only traffic behind it stops", "traffic may pass slowly", "only trucks must stop"], "On roads with four or more lanes, oncoming traffic may continue."],
+  ["Ohio rules", "When passing a cyclist in Ohio, leave at least", "3 feet", ["6 inches", "1 foot", "10 feet"], "Ohio's safe passing law."],
+  ["Ohio rules", "In Ohio, how many points within 2 years lead to a license suspension?", "12", ["3", "6", "30"], "Points come from traffic convictions."],
   ["Ohio test", "How many questions are on the Ohio knowledge test?", "40", ["20", "25", "50"], "All multiple choice, on traffic laws and signs."],
   ["Ohio test", "What score do you need to pass the Ohio knowledge test?", "75%", ["60%", "85%", "100%"], "That's 30 of 40 correct."],
   ["Ohio test", "If you fail the Ohio knowledge test, you can retake it after", "24 hours", ["1 hour", "30 days", "6 months"], "There's no fixed limit on attempts."],
@@ -58,6 +88,16 @@ const OHD: F[] = [
 ];
 
 const ILD: F[] = [
+  ["Illinois rules", "In the first 12 months of an Illinois provisional license, how many passengers under 20 are allowed?", "one", ["none", "three", "any number"], "Unless a parent or guardian is in the car."],
+  ["Illinois rules", "On Sunday to Thursday nights, Illinois drivers under 18 may not drive between", "10 p.m. and 6 a.m.", ["midnight and 4 a.m.", "6 p.m. and 9 p.m.", "8 a.m. and 3 p.m."], "On Friday and Saturday it's 11 p.m. to 6 a.m."],
+  ["Illinois rules", "Refusing a chemical test after a DUI arrest in Illinois (first time) leads to a suspension of", "12 months", ["1 week", "1 month", "10 years"], "Failing the test leads to a 6-month suspension."],
+  ["Illinois rules", "Under Illinois's zero tolerance law, a first offense by a driver under 21 leads to a suspension of", "3 months", ["1 week", "1 month", "10 years"], "Refusing the test means a longer suspension."],
+  ["Illinois rules", "In Illinois, children must ride in a child safety seat or booster until age", "8", ["4", "6", "12"], "Rear-facing until age 2 or the seat's limits."],
+  ["Illinois rules", "Illinois's seat belt law applies to", "everyone in the vehicle", ["only the person driving", "only the front seats", "only children under 16"], "Rear-seat adults must buckle up too."],
+  ["Illinois rules", "When passing a cyclist in Illinois, leave at least", "3 feet", ["6 inches", "1 foot", "10 feet"], "Change lanes if needed."],
+  ["Illinois rules", "Unless posted, the speed limit in an Illinois alley is", "15 mph", ["5 mph", "30 mph", "45 mph"], "Urban districts default to 30 mph."],
+  ["Illinois rules", "On an Illinois highway with four or more lanes, oncoming traffic must stop for a stopped school bus", "no, only traffic behind it", ["yes, in every situation", "only after 3 p.m. on weekdays", "only when it's raining"], "On two-lane roads, all traffic must stop."],
+  ["Illinois rules", "How many moving violations within 12 months can lead to an Illinois license suspension (age 21+)?", "3", ["1", "10", "25"], "For under-21s, 2 violations can trigger it."],
   ["Illinois test", "How many questions are on the Illinois written driver's test?", "35", ["20", "25", "50"], "15 are about road signs and 20 about traffic laws."],
   ["Illinois test", "How many of the 35 Illinois questions must you get right?", "28", ["21", "25", "35"], "That's 80%."],
   ["Illinois permits", "The minimum age for an Illinois instruction permit is", "15", ["14", "16", "17"], "You must be enrolled in an approved driver education course."],
@@ -74,6 +114,16 @@ const ILD: F[] = [
 ];
 
 const PAD: F[] = [
+  ["Pennsylvania rules", "In the first 6 months, a Pennsylvania junior driver may carry how many passengers under 18 (not family)?", "one", ["none at all", "three", "any number"], "Unless a parent or guardian is in the car."],
+  ["Pennsylvania rules", "After 6 months, a Pennsylvania junior driver may carry up to how many passengers under 18?", "three", ["one", "five", "any number"], "The limit is lifted with a parent or guardian present."],
+  ["Pennsylvania rules", "Pennsylvania requires a booster seat for children aged", "4 to 8", ["1 to 2", "12 to 14", "16 to 18"], "Under 4, a child safety seat is required."],
+  ["Pennsylvania rules", "A first refusal of a chemical test in Pennsylvania leads to a suspension of", "12 months", ["1 week", "1 month", "10 years"], "Under implied consent."],
+  ["Pennsylvania rules", "When passing a cyclist in Pennsylvania, leave at least", "4 feet", ["6 inches", "1 foot", "20 feet"], "Pennsylvania's four-foot rule."],
+  ["Pennsylvania rules", "Unless posted, the speed limit in a Pennsylvania urban district is", "35 mph", ["15 mph", "45 mph", "55 mph"], "Residence districts can be 25 mph."],
+  ["Pennsylvania rules", "Pennsylvania drivers who reach 6 points must", "take a special written exam", ["pay no fine at all", "get a free license upgrade", "redo the whole of driver's ed"], "Failing to pass leads to suspension."],
+  ["Pennsylvania rules", "A Pennsylvania junior driver is suspended if they reach 6 points or speed by", "26+ mph over", ["1+ mph over", "5+ mph over", "10+ mph over"], "The suspension is for 90 days for a first offense."],
+  ["Pennsylvania rules", "In Pennsylvania, dim your high beams when an oncoming vehicle is within", "500 feet", ["50 feet", "100 feet", "2 miles"], "And within 300 feet when following another vehicle."],
+  ["Pennsylvania rules", "Illegally passing a stopped school bus in Pennsylvania means 5 points, a $250 fine and", "a 60-day suspension", ["a verbal warning", "a free safety class", "no further penalty"], "The bus shows flashing red lights and an extended stop arm."],
   ["Pennsylvania test", "How many questions are on the Pennsylvania knowledge test?", "18", ["10", "25", "40"], "Multiple choice, on signs, laws and safe driving."],
   ["Pennsylvania test", "How many of the 18 Pennsylvania questions must you get right?", "15", ["12", "14", "18"], "About 83%."],
   ["Pennsylvania test", "If you fail the Pennsylvania knowledge test, you can retake it", "the next business day", ["after waiting 30 days", "after waiting 6 months", "never again"], "The permit is issued once you pass."],
@@ -90,6 +140,45 @@ const PAD: F[] = [
   ["Pennsylvania rules", "Pennsylvania law bans texting while driving and, since 2025, using", "a handheld phone", ["the car radio", "cruise control", "the heater"], "Under Paul Miller's Law."],
 ];
 
+
+const USD: F[] = [
+  ["Signs", "A white sign with a red circle and a red band reading 'Do Not Enter' means", "you may not enter that road", ["you may enter slowly", "parking is allowed here", "the road is a toll road"], "Usually seen on one-way streets and freeway exit ramps."],
+  ["Signs", "A 'Wrong Way' sign means you are", "driving against traffic", ["driving on a toll road", "driving near a school", "driving in a bus lane"], "Pull over safely and turn around."],
+  ["Signs", "A sign showing a pedestrian on a yellow or fluorescent yellow-green background warns of", "a pedestrian crossing", ["a public bus stop", "a highway rest area", "a nearby hospital"], "Slow down and be ready to stop."],
+  ["Signs", "A brown sign usually points to", "parks and historic sites", ["hospitals and clinics", "speed limit changes", "road work ahead"], "Recreation and cultural sites, such as campgrounds."],
+  ["Signs", "A 'Yield' sign tells you to", "give way, stopping if needed", ["always stop completely", "speed up to merge in", "honk before you enter"], "Let traffic with the right-of-way go first."],
+  ["Signals", "A steady red arrow means", "don't turn that way yet", ["turn with caution", "the light is broken", "go straight only"], "Wait for a green arrow or a green light."],
+  ["Signals", "A flashing yellow arrow for a left turn means", "turn left after yielding", ["stop and wait for green", "you have the right-of-way", "the turn lane is closed"], "Oncoming traffic and pedestrians go first."],
+  ["Signals", "Unless a sign prohibits it, most US states allow a right turn on red after", "a full stop and yielding", ["slowing down to 5 mph", "honking twice first", "waiting for 30 seconds"], "Check for pedestrians and cross traffic."],
+  ["Markings", "A broken yellow center line means", "you may pass when safe", ["you may never pass", "it's a bus-only lane", "it's a bike-only lane"], "Only when the way ahead is clear."],
+  ["Markings", "A solid white line between lanes going the same way means", "lane changes are discouraged", ["lane changes are required", "traffic flows both ways", "this is a parking zone"], "Often seen near intersections."],
+  ["Markings", "A diamond symbol painted on a lane marks", "a reserved lane, such as HOV", ["a railroad crossing ahead", "a pedestrian crossing", "a school zone ahead"], "Check the signs for who may use it."],
+  ["Markings", "A white stop line at an intersection shows", "where to stop", ["where to park", "a bike lane", "a merge point"], "Stop behind it, before the crosswalk."],
+  ["Right-of-way", "At a T-intersection with no signs, a driver on the road that ends must", "yield to through traffic", ["always go first", "honk, then proceed", "stop only at night"], "The through road has the right-of-way."],
+  ["Right-of-way", "When pulling out of a driveway or alley, you must", "yield to traffic and walkers", ["go before other traffic", "honk, then pull straight out", "flash your lights and go"], "Stop before the sidewalk."],
+  ["Right-of-way", "A funeral procession with headlights on should", "be allowed to pass", ["be overtaken quickly", "be honked at", "yield to you"], "Don't cut into the line."],
+  ["Right-of-way", "If you're in a roundabout and an emergency vehicle approaches, you should", "exit, then pull over", ["stop inside the circle", "speed up around it", "reverse back out"], "Don't stop inside the roundabout."],
+  ["Speed", "The Basic Speed Law means you must never drive", "faster than conditions allow", ["below the posted speed limit", "above 25 mph in any area", "in the far left lane"], "Even below the limit can be too fast in bad weather."],
+  ["Speed", "Driving much slower than surrounding traffic on a freeway can be", "as dangerous as speeding", ["the safest choice always", "a legal requirement at night", "fine in any lane you like"], "It forces others to brake or weave."],
+  ["Speed", "Roads are most slippery", "in the first minutes of rain", ["after many hours of rain", "in the middle of the day", "on hot, sunny days"], "Oil and dust mix with the water."],
+  ["Safe driving", "When changing lanes, you should signal, check your mirrors and", "look over your shoulder", ["speed up right away", "honk to warn others", "turn off your lights"], "Blind spots don't show in mirrors."],
+  ["Safe driving", "In most states, you should signal at least how far before a turn?", "100 feet", ["10 feet", "20 feet", "1 mile"], "Signal earlier at higher speeds."],
+  ["Safe driving", "In heavy rain, snow or fog, increase your following distance to at least", "4–5 seconds", ["1 second", "half a second", "2 seconds"], "You need more time to stop."],
+  ["Safe driving", "If oncoming headlights dazzle you at night, look toward", "the right edge of your lane", ["the oncoming headlights", "the dashboard clock", "the yellow center line"], "Use the edge line to guide you."],
+  ["Safe driving", "Before backing up, you should", "turn and look behind you", ["rely on mirrors only", "honk and reverse fast", "open the driver's door"], "Small children and objects are easy to miss."],
+  ["Safe driving", "A child under 13 should ride", "in the back seat", ["in the front seat", "on an adult's lap", "in the cargo area"], "Airbags can seriously injure children."],
+  ["Safe driving", "If your wheels drop off the edge of the pavement, you should", "slow down, then steer back gently", ["jerk the wheel back at once", "brake as hard as you can", "speed up to climb back on"], "A sharp turn can flip the car."],
+  ["Safe driving", "In almost every US state, texting while driving is", "banned for all drivers", ["legal on highways", "legal under 30 mph", "fine at stop signs"], "It takes your eyes, hands and mind off driving."],
+  ["Sharing the road", "When a large truck ahead is turning right, you should", "stay back and wait", ["pass it on the right", "honk to hurry it", "tailgate it closely"], "Trucks often swing wide left before turning right."],
+  ["Sharing the road", "If you can't see a truck driver in their side mirror", "they can't see you", ["you're in a safe spot", "they're about to turn", "they've stopped driving"], "You're in a no-zone."],
+  ["Sharing the road", "When passing a motorcycle, give it", "a full lane width", ["half a lane width", "no extra space", "a quick honk first"], "Never share a lane with a motorcycle."],
+  ["Sharing the road", "A slow-moving vehicle displays", "an orange triangle", ["a blue circle", "a green square", "a white diamond"], "With red edges, on farm equipment and horse-drawn vehicles."],
+  ["Alcohol and drugs", "Most states set the BAC limit for commercial drivers at", "0.04%", ["0.08%", "0.10%", "0.15%"], "Half the normal adult limit."],
+  ["Alcohol and drugs", "Drugs that can impair driving include", "prescription and OTC drugs", ["only illegal street drugs", "only alcoholic drinks", "only coffee and energy drinks"], "Read the warning labels."],
+  ["Alcohol and drugs", "An open container law generally bans", "open alcohol in the car", ["sealed bottles in the trunk", "drinking alcohol at home", "buying alcohol at stores"], "Keep it sealed and in the trunk."],
+  ["Emergencies", "After a crash with injuries, you must", "stop, help and report it", ["drive away quickly", "move the injured first", "report it the next day"], "Call 911 and stay at the scene."],
+];
+
 export function usdrive3(): Record<string, Q[]> {
-  return { VAD: facts("VAD", VAD), NCD: facts("NCD", NCD), OHD: facts("OHD", OHD), ILD: facts("ILD", ILD), PAD: facts("PAD", PAD) };
+  return { USD: facts("USD", USD), VAD: facts("VAD", VAD), NCD: facts("NCD", NCD), OHD: facts("OHD", OHD), ILD: facts("ILD", ILD), PAD: facts("PAD", PAD) };
 }
