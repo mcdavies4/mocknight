@@ -1,0 +1,198 @@
+[
+ {
+  "subject": "OHD",
+  "topic": "Ohio test",
+  "body": "How many questions are on the Ohio knowledge test?",
+  "options": [
+   "20",
+   "40",
+   "25",
+   "50"
+  ],
+  "answer": 1,
+  "explanation": "All multiple choice, on traffic laws and signs.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio test",
+  "body": "What score do you need to pass the Ohio knowledge test?",
+  "options": [
+   "75%",
+   "85%",
+   "60%",
+   "100%"
+  ],
+  "answer": 0,
+  "explanation": "That's 30 of 40 correct.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio test",
+  "body": "If you fail the Ohio knowledge test, you can retake it after",
+  "options": [
+   "24 hours",
+   "1 hour",
+   "6 months",
+   "30 days"
+  ],
+  "answer": 0,
+  "explanation": "There's no fixed limit on attempts.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio permits",
+  "body": "Ohio's learner's permit is called the",
+  "options": [
+   "TIPIC",
+   "PRP",
+   "GDL-X",
+   "CDL"
+  ],
+  "answer": 0,
+  "explanation": "Temporary Instruction Permit Identification Card.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio permits",
+  "body": "The minimum age for an Ohio TIPIC is",
+  "options": [
+   "15½",
+   "16",
+   "17",
+   "14"
+  ],
+  "answer": 0,
+  "explanation": "You need to pass the knowledge test and a vision screening.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio permits",
+  "body": "Ohio drivers under 18 must hold their TIPIC for at least",
+  "options": [
+   "6 months",
+   "3 months",
+   "1 month",
+   "1 year"
+  ],
+  "answer": 0,
+  "explanation": "Before taking the driving test.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio permits",
+  "body": "Ohio teens must log how many hours of supervised driving?",
+  "options": [
+   "100, including 40 at night",
+   "10, all in daylight",
+   "25, including 2 at night",
+   "50, including 10 at night"
+  ],
+  "answer": 3,
+  "explanation": "Signed off by a parent or guardian.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio permits",
+  "body": "Ohio driver education for teens includes 24 hours of classroom and",
+  "options": [
+   "no driving",
+   "8 hours behind the wheel",
+   "2 hours on a simulator",
+   "40 hours behind the wheel"
+  ],
+  "answer": 1,
+  "explanation": "From a licensed driver training school.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio rules",
+  "body": "In Ohio, drivers under 21 may not drive with a BAC of",
+  "options": [
+   "0.02% or more",
+   "0.17% or more",
+   "0.08% or more",
+   "0.10% or more"
+  ],
+  "answer": 0,
+  "explanation": "Adults are over the limit at 0.08%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio rules",
+  "body": "Under Ohio's distracted driving law, holding or using a phone while driving is",
+  "options": [
+   "allowed on rural roads",
+   "only illegal at night",
+   "allowed under 35 mph",
+   "illegal for all drivers"
+  ],
+  "answer": 3,
+  "explanation": "Hands-free use is allowed for adults.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio rules",
+  "body": "Unless posted, the speed limit in an Ohio school zone during restricted hours is",
+  "options": [
+   "15 mph",
+   "35 mph",
+   "20 mph",
+   "30 mph"
+  ],
+  "answer": 2,
+  "explanation": "When children are present or the signs are flashing.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio rules",
+  "body": "In Ohio, headlights must be used whenever",
+  "options": [
+   "you're on a freeway",
+   "it's above 80°F",
+   "your wipers are in use",
+   "you have passengers"
+  ],
+  "answer": 2,
+  "explanation": "Also from sunset to sunrise.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio rules",
+  "body": "Ohio probationary drivers under 17 may not drive alone between",
+  "options": [
+   "6 a.m. and noon",
+   "8 p.m. and 10 p.m.",
+   "3 p.m. and 6 p.m.",
+   "midnight and 6 a.m."
+  ],
+  "answer": 3,
+  "explanation": "Unless with a parent or guardian, or for work or school.",
+  "difficulty": 2
+ },
+ {
+  "subject": "OHD",
+  "topic": "Ohio rules",
+  "body": "Ohio's Move Over law requires you to change lanes or slow down for",
+  "options": [
+   "any car parked on the shoulder",
+   "slow-moving farm tractors only",
+   "vehicles in school zones only",
+   "stopped vehicles with flashing lights"
+  ],
+  "answer": 3,
+  "explanation": "Including police, emergency, road crew and tow vehicles.",
+  "difficulty": 2
+ }
+]

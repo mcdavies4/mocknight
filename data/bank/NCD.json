@@ -1,0 +1,198 @@
+[
+ {
+  "subject": "NCD",
+  "topic": "North Carolina test",
+  "body": "The North Carolina knowledge test has 25 questions. How many must you get right?",
+  "options": [
+   "18",
+   "20",
+   "25",
+   "15"
+  ],
+  "answer": 1,
+  "explanation": "That's 80%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina test",
+  "body": "Besides the knowledge test, NC permit applicants also pass",
+  "options": [
+   "a traffic signs test",
+   "a parallel parking test",
+   "an engine check",
+   "a first aid exam"
+  ],
+  "answer": 0,
+  "explanation": "Plus a vision test.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina permits",
+  "body": "The minimum age for a North Carolina Level 1 limited learner permit is",
+  "options": [
+   "17",
+   "16",
+   "15",
+   "14"
+  ],
+  "answer": 2,
+  "explanation": "You must have completed driver education.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina permits",
+  "body": "How long must you hold a Level 1 permit in North Carolina?",
+  "options": [
+   "2 years",
+   "12 months",
+   "1 month",
+   "3 months"
+  ],
+  "answer": 1,
+  "explanation": "Then you can apply for a Level 2 limited provisional license.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina permits",
+  "body": "North Carolina driver education includes 30 hours of classroom instruction and",
+  "options": [
+   "50 hours behind the wheel",
+   "6 hours behind the wheel",
+   "no driving at all",
+   "1 hour on a simulator"
+  ],
+  "answer": 1,
+  "explanation": "From an approved provider.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina permits",
+  "body": "In the first six months, a Level 1 permit holder may drive only between",
+  "options": [
+   "9 p.m. and 5 a.m.",
+   "noon and 6 p.m.",
+   "5 a.m. and 9 p.m.",
+   "any time alone"
+  ],
+  "answer": 2,
+  "explanation": "Always with a supervising driver.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina permits",
+  "body": "A Level 1 supervising driver must have been licensed for at least",
+  "options": [
+   "1 year",
+   "6 months",
+   "5 years",
+   "20 years"
+  ],
+  "answer": 2,
+  "explanation": "Usually a parent or guardian.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina rules",
+  "body": "In North Carolina, drivers under 21 may drive with a BAC of",
+  "options": [
+   "no alcohol at all",
+   "up to 0.08%",
+   "up to 0.02%",
+   "up to 0.05%"
+  ],
+  "answer": 0,
+  "explanation": "Adults are over the limit at 0.08%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina rules",
+  "body": "North Carolina drivers under 18 may use a mobile phone while driving",
+  "options": [
+   "hands-free at any time they like",
+   "only while stopped at red lights",
+   "only to call for help in an emergency",
+   "whenever the traffic is light"
+  ],
+  "answer": 2,
+  "explanation": "Texting while driving is illegal for everyone.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina rules",
+  "body": "In North Carolina, headlights must be on when",
+  "options": [
+   "you park on a steep hill",
+   "you drive above 50 mph",
+   "you drive on the weekend",
+   "your wipers are on for rain"
+  ],
+  "answer": 3,
+  "explanation": "Also from sunset to sunrise.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina rules",
+  "body": "Unless posted, the speed limit inside North Carolina city limits is",
+  "options": [
+   "35 mph",
+   "55 mph",
+   "45 mph",
+   "20 mph"
+  ],
+  "answer": 0,
+  "explanation": "Outside city limits it's usually 55 mph.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina rules",
+  "body": "Unless posted, the speed limit outside NC city limits is",
+  "options": [
+   "35 mph",
+   "45 mph",
+   "65 mph",
+   "55 mph"
+  ],
+  "answer": 3,
+  "explanation": "Interstates may be posted higher.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina rules",
+  "body": "On a two-lane NC road, when a school bus stops with its stop arm out, traffic must",
+  "options": [
+   "stop only behind it",
+   "slow to 25 mph",
+   "stop in both directions",
+   "pass on the left"
+  ],
+  "answer": 2,
+  "explanation": "Rules differ on divided highways with four or more lanes.",
+  "difficulty": 2
+ },
+ {
+  "subject": "NCD",
+  "topic": "North Carolina rules",
+  "body": "North Carolina's Move Over law covers stopped",
+  "options": [
+   "vehicles parked in driveways",
+   "delivery vans parked on the street",
+   "emergency and tow vehicles with lights on",
+   "cyclists riding on the shoulder"
+  ],
+  "answer": 2,
+  "explanation": "Move over a lane or slow down.",
+  "difficulty": 2
+ }
+]

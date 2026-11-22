@@ -2,7 +2,7 @@
 // Add a track here + its questions (subject code) and it works across bot, web, drills and mocks.
 import { STATES } from "./subjects";
 
-export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV" | "ELEC18" | "EYTA" | "WAREHOUSE" | "NHSHCA" | "BA" | "ISC2CC" | "AWSSAA" | "AICERT" | "SFADMIN" | "GED" | "TEAS" | "CNA" | "ASVAB" | "UPSC" | "RRB" | "CTET" | "CAT" | "GCSE" | "CSJT" | "TOEFL" | "DUOLINGO" | "CDL" | "G1ON" | "APLUS" | "CCNA" | "JUPEB" | "NABTEB" | "NMCN" | "USMLE" | "GULFPH" | "GULFDR" | "UAEDRV" | "UAETLS" | "GULFLAB" | "GULFPT" | "GULFDEN" | "DUBAIPIC" | "SIRA" | "DMVCA" | "DMVTX" | "DMVFL" | "DMVNY" | "DMVGA" | "PTCB" | "PHLEB" | "CCMA" | "CPC" | "NCLEXPN" | "HESI" | "REALEST" | "LIFEINS" | "SERVSAFE" | "EPA608" | "ACT" | "HISET" | "PRAXIS" | "SIE" | "UACE" | "ACSEE" | "RWA6" | "CPAUG" | "CPATZ" | "KEDRV" | "UGDRV" | "TZDRV" | "RWDRV" | "GTLE" | "PCNPEP" | "MLSCN" | "LID" | "GERA1" | "ISTQB" | "PSM" | "NETPLUS" | "TRCN" | "TEACHDIG" | "HSK" | "CSCA" | "JLPT" | "EPSTOPIK" | "PNLE" | "LET" | "SGBTT" | "TORFL" | "RUMIG" | "GCPCDL" | "AZ104" | "CISSP" | "DEVOPS" | "DIGMKT" | "HRCERT" | "PSPO";
+export type TrackCode = "JAMB" | "WAEC" | "PUTME" | "WASSCE_GH" | "ITF" | "CCST" | "AWS" | "AZF" | "PYT" | "SEC" | "DAT" | "AIA" | "CON" | "BKP" | "LUK" | "FIRE" | "DRIVE" | "FSE" | "FSM" | "CARE" | "CITB" | "SIA" | "FOOD" | "CAREW" | "HSE" | "NMC" | "PM" | "ETH" | "SSC" | "SAT" | "NCLEX" | "PLAB" | "USCIT" | "CANCIT" | "AUSCIT" | "GULFN" | "IELTS" | "GRAD" | "IBPS" | "ACCA" | "ICAN" | "ITIL" | "SIXSIG" | "ELEVEN" | "NECO" | "OET" | "UCAT" | "KCSE" | "BECE" | "MDCAT" | "NEET" | "JEE" | "GRE" | "CSEPH" | "AAT" | "NGREC" | "NCEE" | "JSCE" | "NGCS" | "PTE" | "CELPIP" | "IOSH" | "OILGAS" | "NDT" | "WELDINSP" | "APIINSP" | "COATING" | "ETEXIT" | "CSEE" | "UCE" | "CMGCE" | "SALEARN" | "MATRIC" | "KCPA" | "CARESR" | "FIRSTAID" | "SERU" | "HGV" | "ELEC18" | "EYTA" | "WAREHOUSE" | "NHSHCA" | "BA" | "ISC2CC" | "AWSSAA" | "AICERT" | "SFADMIN" | "GED" | "TEAS" | "CNA" | "ASVAB" | "UPSC" | "RRB" | "CTET" | "CAT" | "GCSE" | "CSJT" | "TOEFL" | "DUOLINGO" | "CDL" | "G1ON" | "APLUS" | "CCNA" | "JUPEB" | "NABTEB" | "NMCN" | "USMLE" | "GULFPH" | "GULFDR" | "UAEDRV" | "UAETLS" | "GULFLAB" | "GULFPT" | "GULFDEN" | "DUBAIPIC" | "SIRA" | "DMVCA" | "DMVTX" | "DMVFL" | "DMVNY" | "DMVGA" | "PTCB" | "PHLEB" | "CCMA" | "CPC" | "NCLEXPN" | "HESI" | "REALEST" | "LIFEINS" | "SERVSAFE" | "EPA608" | "ACT" | "HISET" | "PRAXIS" | "SIE" | "UACE" | "ACSEE" | "RWA6" | "CPAUG" | "CPATZ" | "KEDRV" | "UGDRV" | "TZDRV" | "RWDRV" | "DMVVA" | "DMVNC" | "DMVOH" | "DMVIL" | "DMVPA" | "GTLE" | "PCNPEP" | "MLSCN" | "LID" | "GERA1" | "ISTQB" | "PSM" | "NETPLUS" | "TRCN" | "TEACHDIG" | "HSK" | "CSCA" | "JLPT" | "EPSTOPIK" | "PNLE" | "LET" | "SGBTT" | "TORFL" | "RUMIG" | "GCPCDL" | "AZ104" | "CISSP" | "DEVOPS" | "DIGMKT" | "HRCERT" | "PSPO";
 export type ScoreStyle = "jamb400" | "percent" | "passfail" | "esslce" | "marks";
 export type TimeZone = "Africa/Lagos" | "Europe/London" | "Africa/Addis_Ababa" | "Asia/Kolkata" | "UTC" | "America/New_York" | "America/Toronto" | "Australia/Sydney" | "Asia/Dubai" | "Africa/Nairobi" | "Asia/Karachi" | "Asia/Manila" | "Africa/Johannesburg" | "Asia/Shanghai" | "Asia/Tokyo" | "Asia/Seoul" | "Asia/Singapore" | "Europe/Moscow" | "Europe/Berlin";
 /** Negative marking, e.g. SSC: +2 correct, −0.5 wrong */
@@ -332,7 +332,7 @@ export const TRACKS: Record<TrackCode, Track> = {
   CANCIT: {
     code: "CANCIT", name: "Canadian Citizenship Test", short: "Canada Citizenship", emoji: "🇨🇦", kind: "citizenship", region: "CA", currency: "USD",
     subjectMode: "single", subjects: ["CAN"], compulsory: ["CAN"], minSubjects: 1, maxSubjects: 1, subjectNote: "",
-    mock: { total: 20, minutes: 30, passPct: 75, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
+    mock: { total: 20, minutes: 45, passPct: 75, scoreStyle: "passfail", maxSubjects: 1 }, weeklyMock: false, askState: false, askSchool: false,
     plans: ["ca_cit"], tagline: "Discover Canada practice: 20-question tests, 15 correct to pass", timeZone: "America/Toronto", timeLabel: "Canada Eastern",
     audience: "a permanent resident preparing for the Canadian citizenship test based on the Discover Canada guide",
   },
@@ -1231,6 +1231,46 @@ export const TRACKS: Record<TrackCode, Track> = {
     weeklyMock: false, askState: false, askSchool: false,
     plans: ["dmv_pass"], tagline: "Georgia permit test practice: road signs, rules of the road, alcohol laws and Georgia-specific rules", timeZone: "America/New_York", timeLabel: "US Eastern",
     audience: "a new driver or newcomer in Georgia preparing for the state's written driver's knowledge (permit) test",
+  },
+  DMVVA: {
+    code: "DMVVA", name: "Virginia DMV permit test", short: "Virginia permit test", emoji: "🚗", kind: "work", region: "US", currency: "USD",
+    subjectMode: "single", subjects: ["USD", "VAD"], compulsory: ["USD", "VAD"], minSubjects: 2, maxSubjects: 2, subjectNote: "",
+    mock: { total: 40, minutes: 40, passPct: 80, scoreStyle: "passfail", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["dmv_pass"], tagline: "Virginia permit test practice: road signs, rules of the road, alcohol laws and Virginia-specific rules", timeZone: "America/New_York", timeLabel: "US Eastern",
+    audience: "a new driver or newcomer in Virginia preparing for the state's written driver's knowledge (permit) test",
+  },
+  DMVNC: {
+    code: "DMVNC", name: "North Carolina DMV permit test", short: "North Carolina permit test", emoji: "🚗", kind: "work", region: "US", currency: "USD",
+    subjectMode: "single", subjects: ["USD", "NCD"], compulsory: ["USD", "NCD"], minSubjects: 2, maxSubjects: 2, subjectNote: "",
+    mock: { total: 25, minutes: 25, passPct: 80, scoreStyle: "passfail", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["dmv_pass"], tagline: "North Carolina permit test practice: road signs, rules of the road, alcohol laws and North Carolina-specific rules", timeZone: "America/New_York", timeLabel: "US Eastern",
+    audience: "a new driver or newcomer in North Carolina preparing for the state's written driver's knowledge (permit) test",
+  },
+  DMVOH: {
+    code: "DMVOH", name: "Ohio DMV permit test", short: "Ohio permit test", emoji: "🚗", kind: "work", region: "US", currency: "USD",
+    subjectMode: "single", subjects: ["USD", "OHD"], compulsory: ["USD", "OHD"], minSubjects: 2, maxSubjects: 2, subjectNote: "",
+    mock: { total: 40, minutes: 40, passPct: 75, scoreStyle: "passfail", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["dmv_pass"], tagline: "Ohio permit test practice: road signs, rules of the road, alcohol laws and Ohio-specific rules", timeZone: "America/New_York", timeLabel: "US Eastern",
+    audience: "a new driver or newcomer in Ohio preparing for the state's written driver's knowledge (permit) test",
+  },
+  DMVIL: {
+    code: "DMVIL", name: "Illinois DMV permit test", short: "Illinois permit test", emoji: "🚗", kind: "work", region: "US", currency: "USD",
+    subjectMode: "single", subjects: ["USD", "ILD"], compulsory: ["USD", "ILD"], minSubjects: 2, maxSubjects: 2, subjectNote: "",
+    mock: { total: 35, minutes: 35, passPct: 80, scoreStyle: "passfail", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["dmv_pass"], tagline: "Illinois permit test practice: road signs, rules of the road, alcohol laws and Illinois-specific rules", timeZone: "America/New_York", timeLabel: "US Eastern",
+    audience: "a new driver or newcomer in Illinois preparing for the state's written driver's knowledge (permit) test",
+  },
+  DMVPA: {
+    code: "DMVPA", name: "Pennsylvania DMV permit test", short: "Pennsylvania permit test", emoji: "🚗", kind: "work", region: "US", currency: "USD",
+    subjectMode: "single", subjects: ["USD", "PAD"], compulsory: ["USD", "PAD"], minSubjects: 2, maxSubjects: 2, subjectNote: "",
+    mock: { total: 18, minutes: 18, passPct: 83, scoreStyle: "passfail", maxSubjects: 1 },
+    weeklyMock: false, askState: false, askSchool: false,
+    plans: ["dmv_pass"], tagline: "Pennsylvania permit test practice: road signs, rules of the road, alcohol laws and Pennsylvania-specific rules", timeZone: "America/New_York", timeLabel: "US Eastern",
+    audience: "a new driver or newcomer in Pennsylvania preparing for the state's written driver's knowledge (permit) test",
   },
   PTCB: {
     code: "PTCB", name: "Pharmacy technician (PTCB PTCE)", short: "Pharmacy Tech (PTCB)", emoji: "💊", kind: "professional", region: "US", currency: "USD",

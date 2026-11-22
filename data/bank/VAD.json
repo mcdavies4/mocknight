@@ -1,0 +1,212 @@
+[
+ {
+  "subject": "VAD",
+  "topic": "Virginia test",
+  "body": "Part one of the Virginia knowledge exam has 10 traffic sign questions. How many must you get right?",
+  "options": [
+   "5",
+   "all 10",
+   "8",
+   "7"
+  ],
+  "answer": 1,
+  "explanation": "You can't move on to part two until every sign question is correct.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VAD",
+  "topic": "Virginia test",
+  "body": "What score do you need on part two (general knowledge) of the Virginia exam?",
+  "options": [
+   "at least 80%",
+   "100%",
+   "at least 65%",
+   "at least 50%"
+  ],
+  "answer": 0,
+  "explanation": "Part two covers laws and safe driving.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VAD",
+  "topic": "Virginia test",
+  "body": "If you're under 18 and fail the Virginia knowledge exam, how long must you wait to retake it?",
+  "options": [
+   "1 day",
+   "30 days",
+   "7 days",
+   "15 days"
+  ],
+  "answer": 3,
+  "explanation": "Adults can usually retest sooner.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VAD",
+  "topic": "Virginia test",
+  "body": "After failing the Virginia knowledge exam three times, you must",
+  "options": [
+   "complete a driver ed course",
+   "take the road skills test first",
+   "pay a $500 fine to the DMV",
+   "wait one full year before retesting"
+  ],
+  "answer": 0,
+  "explanation": "Then bring the certificate to DMV to retest.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VAD",
+  "topic": "Virginia permits",
+  "body": "The minimum age for a Virginia learner's permit is",
+  "options": [
+   "15½",
+   "14",
+   "16",
+   "17"
+  ],
+  "answer": 0,
+  "explanation": "You'll also need a vision screening.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VAD",
+  "topic": "Virginia permits",
+  "body": "Drivers under 18 in Virginia must hold a learner's permit for at least",
+  "options": [
+   "3 months",
+   "1 month",
+   "2 years",
+   "9 months"
+  ],
+  "answer": 3,
+  "explanation": "Before applying for a provisional license.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VAD",
+  "topic": "Virginia permits",
+  "body": "Virginia teens must log how many hours of supervised driving?",
+  "options": [
+   "20, including 5 at night",
+   "10, all in daylight",
+   "45, including 15 after sunset",
+   "100, including 50 at night"
+  ],
+  "answer": 2,
+  "explanation": "The parent or guardian certifies the hours.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VAD",
+  "topic": "Virginia rules",
+  "body": "In Virginia, drivers under 21 may not drive with a BAC of",
+  "options": [
+   "0.15% or more",
+   "0.02% or more",
+   "0.10% or more",
+   "0.08% or more"
+  ],
+  "answer": 1,
+  "explanation": "Adults are over the limit at 0.08%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VAD",
+  "topic": "Virginia rules",
+  "body": "Under Virginia law, holding a handheld phone while driving is",
+  "options": [
+   "illegal for all drivers",
+   "allowed on rural roads",
+   "allowed at under 25 mph",
+   "only illegal for buses"
+  ],
+  "answer": 0,
+  "explanation": "Hands-free use is allowed for adults.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VAD",
+  "topic": "Virginia rules",
+  "body": "In Virginia, you must turn your headlights on whenever",
+  "options": [
+   "you drive above 45 mph",
+   "your wipers are on for rain",
+   "you pass a school",
+   "you're on any highway"
+  ],
+  "answer": 1,
+  "explanation": "Also from sunset to sunrise and in poor visibility.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VAD",
+  "topic": "Virginia rules",
+  "body": "Unless signs say otherwise, the speed limit in Virginia business and residence districts is",
+  "options": [
+   "15 mph",
+   "35 mph",
+   "25 mph",
+   "45 mph"
+  ],
+  "answer": 2,
+  "explanation": "Watch for posted limits.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VAD",
+  "topic": "Virginia rules",
+  "body": "In Virginia, driving over 85 mph, or 20 mph or more over the limit, can be charged as",
+  "options": [
+   "reckless driving",
+   "a warning only",
+   "a minor infraction",
+   "a parking offence"
+  ],
+  "answer": 0,
+  "explanation": "It's a criminal offence.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VAD",
+  "topic": "Virginia rules",
+  "body": "Provisional drivers under 18 in Virginia may not drive between",
+  "options": [
+   "8 a.m. and 10 a.m.",
+   "6 p.m. and 9 p.m.",
+   "midnight and 4 a.m.",
+   "noon and 2 p.m."
+  ],
+  "answer": 2,
+  "explanation": "There are exceptions for work, school and emergencies.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VAD",
+  "topic": "Virginia rules",
+  "body": "In their first year, Virginia drivers under 18 may carry how many passengers under 21 (not family)?",
+  "options": [
+   "any number",
+   "three",
+   "only one",
+   "none ever"
+  ],
+  "answer": 2,
+  "explanation": "After a year, the limit rises to three until age 18.",
+  "difficulty": 2
+ },
+ {
+  "subject": "VAD",
+  "topic": "Virginia rules",
+  "body": "Virginia's Move Over law requires you to change lanes or slow down for",
+  "options": [
+   "city buses stopped at bus stops",
+   "cars parked along the curb",
+   "stopped vehicles with flashing lights",
+   "cyclists riding in the bike lanes"
+  ],
+  "answer": 2,
+  "explanation": "Including police, emergency and highway vehicles.",
+  "difficulty": 2
+ }
+]

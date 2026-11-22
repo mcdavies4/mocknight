@@ -18,6 +18,201 @@ export type Post = {
 
 export const POSTS: Post[] = [
   {
+    slug: "nclex-rn-guide",
+    title: "NCLEX-RN 2026: how many questions, how it's scored, and how to practise",
+    description: "The NCLEX-RN explained for the 2026 test plan: 85–150 questions in 5 hours, adaptive testing, the three pass/fail rules, NGN case studies, the eight content areas and a study plan.",
+    date: "2026-11-22",
+    exam: "NCLEX",
+    examHref: "/exam/NCLEX",
+    tag: "🩺 Nursing",
+    readMins: 7,
+    body: `The **NCLEX-RN** is the licensing exam every registered nurse must pass to practise in the US, and in Canada too. It's also the exam that many internationally educated nurses take on the way to US practice. Here's how it works under the **2026 test plan**, which applies from 1 April 2026 to 31 March 2029.
+
+## How many questions are on the NCLEX-RN?
+
+- **85 to 150 questions**
+- Up to **5 hours**, including optional breaks
+- **15 unscored pretest questions** are mixed in, so 70–135 questions count towards your result
+- **Computerized adaptive testing (CAT):** each answer changes the difficulty of the next question
+
+Getting only 85 questions doesn't mean you failed, and getting 150 doesn't mean you passed. The test stops as soon as it's confident either way.
+
+## How you pass or fail
+
+The computer ends the test using one of three rules:
+
+- **95% confidence rule:** once it's 95% sure you're clearly above or below the passing standard (after at least 85 questions)
+- **Maximum-length rule:** at 150 questions, it uses your final ability estimate
+- **Run-out-of-time rule:** if 5 hours run out, it looks at whether you were consistently above the standard on your last 60 questions
+
+## Next Generation NCLEX (NGN) questions
+
+Since 2023 the NCLEX has measured **clinical judgment** using NCSBN's Clinical Judgment Measurement Model. Expect:
+
+- **Three case studies**, each with six questions that follow one patient. That's 18 questions in total
+- New formats such as **matrix/grid, extended multiple response, drag-and-drop, highlight, bow-tie and drop-down cloze**
+- **Partial credit** on many NGN items, so a partly right answer still earns points
+
+## What's on it: the eight content areas
+
+Questions follow four **Client Needs** categories, two of which are split, making eight areas:
+
+- **Management of Care:** 15–21%
+- **Safety and Infection Control:** 10–16%
+- **Health Promotion and Maintenance:** 6–12%
+- **Psychosocial Integrity:** 6–12%
+- **Basic Care and Comfort:** 6–12%
+- **Pharmacological and Parenteral Therapies:** 13–19%
+- **Reduction of Risk Potential:** 9–15%
+- **Physiological Adaptation:** 11–17%
+
+Management of care (prioritisation, delegation and ethics) and pharmacology together make up about a third of the exam. Prioritise them.
+
+## Registration and cost
+
+Register with **Pearson VUE** (the US fee is **$200**) and apply to your state board of nursing for **Authorization to Test (ATT)**. Then book a test centre date within your ATT window.
+
+## An 8-week study plan
+
+- **Weeks 1–2:** Management of care: ABCs, Maslow, delegation (RN vs LPN vs UAP) and prioritisation
+- **Weeks 3–4:** Pharmacology: drug classes, high-alert drugs, antidotes and safe dosage calculation
+- **Weeks 5–6:** Physiological adaptation and risk reduction: lab values, fluids and electrolytes, and complications
+- **Week 7:** Safety, infection control, psych, maternity and paediatrics
+- **Week 8:** Mixed timed practice, NGN case studies and reviewing every rationale
+
+The biggest predictor of success is **reading the rationale for every question**, including the ones you got right.
+
+## Practise NCLEX questions
+
+On Mock Night you can drill NCLEX-RN questions across all eight areas, with a rationale for every answer, and take 85-question timed practice exams. There's an NCLEX-PN track too. Start free on [the NCLEX-RN page](/exam/NCLEX).`,
+    faq: [
+      ["How many questions are on the NCLEX-RN?", "Between 85 and 150, including 15 unscored pretest questions. You have up to 5 hours."],
+      ["What is the passing score for the NCLEX?", "There's no percentage pass mark. The adaptive test decides whether your ability is above the passing standard using the 95% confidence, maximum-length or run-out-of-time rules."],
+      ["What are NGN case studies?", "Next Generation NCLEX case studies follow one patient across six questions that test clinical judgment. Each exam has three of them."],
+      ["When does the 2026 NCLEX test plan apply?", "From 1 April 2026 to 31 March 2029. The content percentages are the same as in the 2023 plan."],
+      ["How much does the NCLEX-RN cost?", "The US registration fee with Pearson VUE is $200, plus any fees your state board of nursing charges."],
+    ],
+  },
+  {
+    slug: "canadian-citizenship-test-guide",
+    title: "Canadian citizenship test 2026: 20 questions, the 15/20 pass mark and how to study",
+    description: "How the Canadian citizenship test works: 20 questions in 45 minutes, 15 correct to pass, 3 attempts, online in English or French, what to study in Discover Canada and a 3-week plan.",
+    date: "2026-11-22",
+    exam: "CANCIT",
+    examHref: "/exam/CANCIT",
+    tag: "🇨🇦 Canadian citizenship",
+    readMins: 6,
+    body: `If you're **18 to 54** when you sign your Canadian citizenship application, you'll need to pass the **citizenship test**. It's short and very passable, but only if you study the right material.
+
+## The test at a glance
+
+- **20 questions**, multiple choice or true/false
+- **45 minutes**
+- **Pass mark: 15 out of 20** (75%)
+- In **English or French** (your choice)
+- Most people take it **online**, after an email invitation from IRCC
+- You get up to **3 chances** to pass
+
+Every question comes from the official study guide, ***Discover Canada: The Rights and Responsibilities of Citizenship***. It's free to read online, download or listen to.
+
+## What's on the test
+
+The questions cover the whole guide:
+
+- **Rights and responsibilities of citizenship:** the Charter of Rights and Freedoms, voting, jury duty and obeying the law
+- **Who we are:** Indigenous peoples (First Nations, Inuit and Métis), English and French heritage and multiculturalism
+- **Canada's history:** explorers, New France, the British conquest, Confederation in **1867**, the World Wars and the modern era
+- **Modern Canada:** the economy, the arts, sport and national symbols
+- **How Canada is governed:** constitutional monarchy, Parliament (House of Commons and Senate), the Prime Minister, the Governor General, the courts, and federal, provincial and municipal levels
+- **Elections:** how federal elections and voting work
+- **Canada's regions:** the provinces and territories, their capitals and main industries
+- **Symbols:** the flag, the maple leaf, the national anthem and the Crown
+
+Some questions ask about **your own province or territory**, so learn your premier, your provincial capital and your region's key facts.
+
+## Online test rules
+
+- Use a computer with a camera. The test is **supervised remotely**
+- Be alone in a quiet room, with no notes, phone or other screens
+- You'll see your result straight away
+
+If you don't pass after three attempts, you'll be invited to a **hearing with a citizenship official**.
+
+## A 3-week study plan
+
+- **Week 1:** Read *Discover Canada* cover to cover, then focus on rights and responsibilities and on government
+- **Week 2:** History: key dates (**1867**, **1885**, **1914–18**, **1939–45**, **1982**) and the people behind them
+- **Week 3:** Regions, provinces and capitals, symbols, and your own province. Then take full 20-question mocks in 45 minutes until you score 18+ every time
+
+## Practise for the test
+
+On Mock Night you can drill every section of *Discover Canada* with an explanation for every answer, and sit timed 20-question, 45-minute mocks with the real 15/20 pass mark. Start free on [the Canadian citizenship page](/exam/CANCIT).`,
+    faq: [
+      ["How many questions are on the Canadian citizenship test?", "20 multiple-choice or true/false questions, in 45 minutes."],
+      ["What is the pass mark for the Canadian citizenship test?", "You need at least 15 out of 20 correct (75%)."],
+      ["How many times can I take the Canadian citizenship test?", "Up to 3 times. If you don't pass, you'll be invited to a hearing with a citizenship official."],
+      ["Who has to take the Canadian citizenship test?", "Applicants aged 18 to 54 on the date they sign their citizenship application."],
+      ["What should I study for the Canadian citizenship test?", "The official guide 'Discover Canada: The Rights and Responsibilities of Citizenship'. Every test question is based on it."],
+    ],
+  },
+  {
+    slug: "security-plus-sy0-701-vs-sy0-801",
+    title: "CompTIA Security+ in 2026: SY0-701 or the new SY0-801? Format, domains and how to pass",
+    description: "Security+ V8 (SY0-801) launched in November 2026, and SY0-701 retires in June 2027. Which to take, the exam format, the five domains and a 6-week plan.",
+    date: "2026-11-22",
+    exam: "SEC",
+    examHref: "/exam/SEC",
+    tag: "🔐 Cybersecurity",
+    readMins: 6,
+    body: `**CompTIA Security+** is the most popular entry-level cybersecurity certification, and it's required for many US government (DoD 8140) and help-desk-to-security roles. In **November 2026** it got a new version, so the first question is which exam to take.
+
+## SY0-701 or SY0-801?
+
+- **SY0-701 (V7)** has been live since November 2023. The English version retires on **11 June 2027**
+- **SY0-801 (V8)** launched on or around **17 November 2026**. It adds AI-related threats and shifts weight towards attacks and security operations
+
+**Which should you take?** If you're already studying SY0-701 and can sit it by spring 2027, **stay with 701**. Training materials and practice tests for it are mature. You earn exactly the same Security+ certification, valid for **three years** from your exam date. If you're just starting and can't test until mid-2027, start with the V8 objectives.
+
+## Exam format (both versions)
+
+- **Up to 90 questions**: multiple choice plus **performance-based questions (PBQs)**
+- **90 minutes**
+- **Passing score: 750** on a scale of 100–900
+- At a Pearson VUE test centre or online with a remote proctor
+
+PBQs usually come first and take the longest. Many candidates **flag them, answer the multiple-choice questions first, then come back**.
+
+## SY0-701 domains
+
+- **General Security Concepts:** 12%. CIA triad, security controls, change management and cryptography basics
+- **Threats, Vulnerabilities and Mitigations:** 22%. Threat actors, malware, social engineering and application attacks
+- **Security Architecture:** 18%. Cloud, network and infrastructure design, and data protection
+- **Security Operations:** 28%. Hardening, identity and access management, monitoring and incident response
+- **Security Program Management and Oversight:** 20%. Governance, risk, compliance, audits and third parties
+
+In SY0-801, **governance drops from 20% to about 14%**, and the weight moves to threats and operations.
+
+## A 6-week study plan
+
+- **Week 1:** General concepts and crypto: symmetric vs asymmetric encryption, hashing, PKI and certificates
+- **Week 2:** Threats: malware types, phishing variants, password and application attacks, and indicators of compromise
+- **Week 3:** Architecture: network segmentation, zero trust, cloud models and secure protocols (and their ports)
+- **Week 4:** Operations: IAM (MFA, SSO, RBAC), SIEM, vulnerability scanning and the incident response steps
+- **Week 5:** Governance and risk: policies, risk analysis (ALE = SLE × ARO), BIA terms (RTO/RPO) and compliance frameworks
+- **Week 6:** Full timed mocks. Aim for 85%+ before you book, because practice scores usually run higher than the real exam
+
+## Practise Security+ questions
+
+On Mock Night you can drill all five SY0-701 domains with an explanation for every answer, and sit timed practice exams. Start free on [the Security+ page](/exam/SEC).`,
+    faq: [
+      ["When does Security+ SY0-701 retire?", "The English SY0-701 exam retires on 11 June 2027. SY0-801 launched on or around 17 November 2026."],
+      ["Should I take SY0-701 or SY0-801?", "If you're already preparing and can test before June 2027, SY0-701 is fine and gives the same certification. If you're starting fresh and testing later, study for SY0-801."],
+      ["What is the passing score for Security+?", "750 on a scale of 100 to 900."],
+      ["How many questions are on the Security+ exam?", "Up to 90 questions, including performance-based questions, in 90 minutes."],
+      ["How long is Security+ valid?", "Three years from the date you pass, whichever exam version you take."],
+    ],
+  },
+  {
     slug: "us-citizenship-test-guide",
     title: "US citizenship test 2026: the new 128 questions, how it works and how to pass",
     description: "How the 2025 naturalization civics test works: 128 possible questions, 20 asked, 12 to pass, the English test, the 65/20 rule, and a 4-week study plan.",

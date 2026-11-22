@@ -1,0 +1,184 @@
+[
+ {
+  "subject": "ILD",
+  "topic": "Illinois test",
+  "body": "How many questions are on the Illinois written driver's test?",
+  "options": [
+   "35",
+   "50",
+   "20",
+   "25"
+  ],
+  "answer": 0,
+  "explanation": "15 are about road signs and 20 about traffic laws.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois test",
+  "body": "How many of the 35 Illinois questions must you get right?",
+  "options": [
+   "25",
+   "28",
+   "35",
+   "21"
+  ],
+  "answer": 1,
+  "explanation": "That's 80%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois permits",
+  "body": "The minimum age for an Illinois instruction permit is",
+  "options": [
+   "16",
+   "17",
+   "14",
+   "15"
+  ],
+  "answer": 3,
+  "explanation": "You must be enrolled in an approved driver education course.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois permits",
+  "body": "Illinois drivers under 18 must hold their permit for at least",
+  "options": [
+   "2 years",
+   "1 month",
+   "3 months",
+   "9 months"
+  ],
+  "answer": 3,
+  "explanation": "Before applying for a license.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois permits",
+  "body": "Illinois teens must log how many hours of supervised driving?",
+  "options": [
+   "100, including 40 at night",
+   "50, including 10 at night",
+   "10, all in daylight",
+   "25, including 2 at night"
+  ],
+  "answer": 1,
+  "explanation": "Certified by a parent or guardian.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois permits",
+  "body": "An Illinois permit holder must drive with a licensed adult who is at least",
+  "options": [
+   "16",
+   "30",
+   "18",
+   "21"
+  ],
+  "answer": 3,
+  "explanation": "Seated in the front passenger seat.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois rules",
+  "body": "Illinois's zero tolerance law means a driver under 21 may drive with",
+  "options": [
+   "a BAC below 0.08%",
+   "one drink per hour",
+   "a BAC below 0.05%",
+   "no alcohol at all"
+  ],
+  "answer": 3,
+  "explanation": "Adults are over the limit at 0.08%.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois rules",
+  "body": "In Illinois, using a handheld phone while driving is",
+  "options": [
+   "allowed on interstates",
+   "allowed under 30 mph",
+   "only illegal at night",
+   "illegal for all drivers"
+  ],
+  "answer": 3,
+  "explanation": "Drivers under 19 can't use a phone at all, even hands-free.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois rules",
+  "body": "Illinois's Move Over law, which protects stopped emergency vehicles, is known as",
+  "options": [
+   "Megan's Law",
+   "Scott's Law",
+   "Amber's Law",
+   "Lemon Law"
+  ],
+  "answer": 1,
+  "explanation": "Change lanes or slow down and proceed with caution.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois rules",
+  "body": "Unless posted, the speed limit in an Illinois urban district is",
+  "options": [
+   "20 mph",
+   "55 mph",
+   "30 mph",
+   "45 mph"
+  ],
+  "answer": 2,
+  "explanation": "School zones are 20 mph when children are present.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois rules",
+  "body": "On school days in Illinois, when children are present, the school zone speed limit is",
+  "options": [
+   "35 mph",
+   "30 mph",
+   "10 mph",
+   "20 mph"
+  ],
+  "answer": 3,
+  "explanation": "Usually 7 a.m. to 4 p.m.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois rules",
+  "body": "Illegally passing a stopped school bus in Illinois can lead to",
+  "options": [
+   "no penalty at all",
+   "a license suspension",
+   "a parking ticket only",
+   "a verbal warning only"
+  ],
+  "answer": 1,
+  "explanation": "Plus a fine.",
+  "difficulty": 2
+ },
+ {
+  "subject": "ILD",
+  "topic": "Illinois rules",
+  "body": "In Illinois, headlights must be on whenever",
+  "options": [
+   "it's after noon",
+   "your wipers are on for rain",
+   "you drive over 55 mph",
+   "you carry a passenger"
+  ],
+  "answer": 1,
+  "explanation": "Also from sunset to sunrise.",
+  "difficulty": 2
+ }
+]
