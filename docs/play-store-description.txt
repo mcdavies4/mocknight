@@ -27,15 +27,15 @@ Check exam information with the official body:
 • UK driving theory test: https://www.gov.uk/theory-test
 • UK Nursing and Midwifery Council: https://www.nmc.org.uk
 • US citizenship (USCIS): https://www.uscis.gov/citizenship
-• Australian citizenship: https://immi.homeaffairs.gov.au/citizenship
-• Germany (BAMF): https://www.bamf.de
-• California DMV: https://www.dmv.ca.gov
+• Australian citizenship: https://immi.homeaffairs.gov.au/citizenship/test-and-interview
+• Germany (Federal Government, citizenship): https://www.einbuergerung.de
+• California DMV: https://www.dmv.ca.gov/portal/
 • Texas DPS: https://www.dps.texas.gov
 • Florida HSMV: https://www.flhsmv.gov
 • Georgia DDS: https://dds.georgia.gov
 • Virginia DMV: https://www.dmv.virginia.gov
 • Ohio BMV: https://www.bmv.ohio.gov
-• Korea EPS: https://www.eps.go.kr
+• Korea EPS: https://www.eps.go.kr/eo/main.eo
 • India NTA: https://nta.ac.in
 • UK Security Industry Authority: https://www.gov.uk/government/organisations/security-industry-authority
 
